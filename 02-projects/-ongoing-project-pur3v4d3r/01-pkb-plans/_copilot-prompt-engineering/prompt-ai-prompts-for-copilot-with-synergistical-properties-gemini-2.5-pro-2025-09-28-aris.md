@@ -40,7 +40,7 @@ date modified: Monday, September 29th 2025, 12:14:14 am
 [^17]: [[The Toulmin Model]]
 [^18]: [[Document Your Searches during Research]]
 [^19]: [[REF_Gemini-Chat_Response-to-Note_Researching Material for use in Vault_2025-09-12]]
-[^20]: [[00 Inbox/00_File/REF_Gemini-Deep-Research_Obsidian-Knowledge-Research-Guide_2025-09-12]]
+[^20]: [[ref_gemini-deep-research_obsidian-knowledge-research-guide_2025-09-12]]
 
 > [!the-purpose]
 > This is a prompt created using the Elias Prompt Architect Gem, its purpose is to generate Synergistical Prompts using my current Obsidian Plugins.

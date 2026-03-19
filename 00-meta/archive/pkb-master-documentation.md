@@ -8442,7 +8442,7 @@ LIMIT 5
 
 ```
 
-*[[docs/adr/README|View All ADRs]]*
+*View All ADRs*
 
 ---
 

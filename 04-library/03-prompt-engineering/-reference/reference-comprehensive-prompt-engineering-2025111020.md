@@ -26,7 +26,7 @@ Aliases: [[PE]], [[LLM Prompting]], [[AI Communication]], [[Prompt Design]], [[P
 
 > [!abstract]
 > **Executive Overview**
-> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal Knowledge Base]] (PKB) systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]].
+> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal Knowledge Base]] (PKB) systems like [[Obsidian]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -354,7 +354,7 @@ The key insight is that prompts can leverage PKB structure and metadata to gener
 
 ### Prompting Strategies for Obsidian
 
-[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] represents one of the most powerful and flexible PKB platforms, with its markdown-based, locally-stored, heavily interconnected note architecture. Obsidian emphasizes creating a network of interconnected notes that foster a web of knowledge that can be easily navigated and expanded, transforming notes into a dynamic and evolving knowledge graph. Several prompting strategies prove particularly effective within Obsidian environments:
+[[Obsidian]] represents one of the most powerful and flexible PKB platforms, with its markdown-based, locally-stored, heavily interconnected note architecture. Obsidian emphasizes creating a network of interconnected notes that foster a web of knowledge that can be easily navigated and expanded, transforming notes into a dynamic and evolving knowledge graph. Several prompting strategies prove particularly effective within Obsidian environments:
 
 **Context-Aware Note Generation**: When creating new notes via LLM prompting, include context about: (1) existing related notes in your vault, (2) your vault's organizational structure and conventions, (3) your preferred note-taking methodology ([[Zettelkasten]], [[PARA]], [[LYT]], etc.), (4) metadata schemas you use. This contextual information helps LLMs generate notes that integrate seamlessly into existing knowledge structures rather than standing alone as isolated fragments.
 

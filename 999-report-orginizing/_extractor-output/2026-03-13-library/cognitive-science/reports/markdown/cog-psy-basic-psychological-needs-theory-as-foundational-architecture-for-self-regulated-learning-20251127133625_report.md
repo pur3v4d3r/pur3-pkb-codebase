@@ -153,7 +153,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 133)*
 
 > [!abstract] Untitled
-> [[Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination-Theory|Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic-Motivation|Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
+> [[Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination-Theory|Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic-Motivation|Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
 
 #### 4. [DEFINITION] Untitled *(Line 138)*
 
@@ -190,7 +190,7 @@ extraction_summary:
 #### 10. [EXAMPLE] Untitled *(Line 192)*
 
 > [!example] Untitled
-> In the context of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
+> In the context of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
 
 #### 11. [PRINCIPLE-POINT] Untitled *(Line 201)*
 
@@ -242,7 +242,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Integration with Existing Cognitive Frameworks**
 > 
-> Basic Psychological Needs Theory demonstrates profound connections to multiple frameworks within Pur3v4d3r's developing knowledge base. The relationship to [[Self-Determination-Theory|Self-Determination Theory]] as the parent macro-theory provides the broader context for understanding how BPNT fits within a comprehensive account of human motivation. The integration with [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] illuminates how motivational quality determines self-regulatory capacity—autonomous motivation supported by need satisfaction enables the sustained metacognitive effort required for effective self-regulation.
+> Basic Psychological Needs Theory demonstrates profound connections to multiple frameworks within Pur3v4d3r's developing knowledge base. The relationship to [[Self-Determination-Theory|Self-Determination Theory]] as the parent macro-theory provides the broader context for understanding how BPNT fits within a comprehensive account of human motivation. The integration with [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] illuminates how motivational quality determines self-regulatory capacity—autonomous motivation supported by need satisfaction enables the sustained metacognitive effort required for effective self-regulation.
 > 
 > The connection to [[Neuroplasticity]] proves particularly significant, as chronic need satisfaction appears to produce structural brain changes in motivational circuitry, while need frustration may impair neural development in these same regions. This suggests that creating need-supportive learning environments doesn't merely optimize current functioning but actually shapes the biological substrate supporting future motivation and self-regulation.
 > 
@@ -336,7 +336,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Stoicism]]
 - [[View from Above]]
@@ -471,7 +471,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Robert White]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Stoicism]]
 - [[View from Above]]

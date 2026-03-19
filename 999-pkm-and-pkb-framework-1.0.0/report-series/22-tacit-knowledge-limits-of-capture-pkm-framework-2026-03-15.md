@@ -96,7 +96,7 @@ related-concepts:
   - "[[Merleau-Ponty]]"
   - "[[Situated-Cognition|Situated Cognition]]"
   - "[[Procedural-Memory|Procedural Memory]]"
-  - "[[Declarative Memory]]"
+  - "[[Declarative-Memory]]"
   - "[[Automaticity]]"
   - "[[Reflection-in-Action]]"
   - "[[Reflection-on-Action]]"

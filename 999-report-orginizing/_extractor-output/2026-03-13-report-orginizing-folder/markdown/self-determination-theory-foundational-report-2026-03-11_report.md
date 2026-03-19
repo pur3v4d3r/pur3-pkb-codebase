@@ -782,7 +782,7 @@ extraction_summary:
 #### Related
 
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Metacognition & Motivation]]
@@ -835,7 +835,7 @@ extraction_summary:
 #### Enables
 
 - [[Motivational Climate Design]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Autonomy-Supportive Instructional Design]]
 - [[Need-Supportive Coaching]]
 

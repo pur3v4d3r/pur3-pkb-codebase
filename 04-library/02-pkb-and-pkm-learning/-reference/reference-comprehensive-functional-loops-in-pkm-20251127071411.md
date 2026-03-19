@@ -137,9 +137,9 @@ I'll organize around loop categories:
 - [!warning] for potential negative loops
 
 **Wiki-Link Opportunities:**
-Primary concepts: [[Feedback Loop]], [[Self-Regulated Learning]], [[Retrieval Practice]], [[Spacing Effect]], [[Schema Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge Graph]], [[Habit Formation]], [[Neural Plasticity]], [[Desirable Difficulties]], [[Transfer of Learning]], [[Intrinsic Motivation]], [[Cognitive Load Theory]], [[Working Memory]], [[Long-Term Memory]], [[Zettelkasten]], [[Progressive Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
+Primary concepts: [[Feedback Loop]], [[Self-Regulated Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge Graph]], [[Habit Formation]], [[Neural Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic Motivation]], [[Cognitive Load Theory]], [[Working Memory]], [[Long-Term Memory]], [[Zettelkasten]], [[Progressive Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
 
-Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing Effect]], [[Elaborative Rehearsal]], [[Chunking]], [[Mental Models]], [[Flow State]], [[Deliberate Practice]], [[Distributed Practice]], [[Interleaving]], [[Generation Effect]]
+Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow State]], [[Deliberate Practice]], [[Distributed Practice]], [[Interleaving]], [[Generation-Effect]]
 
 **Metadata Planning:**
 `Tags: #cognitive-science #educational-psychology #pkm #feedback-loops #reference-note #self-reinforcing-systems`
@@ -184,7 +184,7 @@ aliases: [Functional Loops in PKM, Self-Reinforcing Learning Cycles, PKB Feedbac
 ## 🧠 Cognitive Memory & Retrieval Loops
 
 > [!definition]
-> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
+> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval-Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
 > - **Core Mechanism**:: Spacing effects occur when information is repeatedly learned over spaced intervals, resulting in stronger encoding into long-term memory through enhanced consolidation processes
 
 ### Foundational Concepts: The Retrieval-Strengthening Cycle
@@ -193,7 +193,7 @@ The retrieval practice effect refers to enhanced learning through actively attem
 
 The neurobiological basis involves [[Synaptic Plasticity]] and [[Long-Term Potentiation]]. Memory consolidation is a procedure in which neurons are created, linked, and reactivated with various patterns and firing rates, with spaced practices resulting in more robust enhancement of long-term memory encoding through both direct and indirect effects of memory processing characteristics. Critically, this consolidation requires time—massed practice (cramming) increases short-term retrieval strength but reduces long-term encoding.
 
-In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a note strengthens the [[Mental Model]] of where it lives in your system, making it easier to find next time, which increases the probability you'll reference it in future work, which further strengthens the retrieval pathway. The more reviews are completed with appropriate spacing, the longer the memory will be retained, and the longer one can wait until the next review is needed.
+In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a note strengthens the [[Mental-Model]] of where it lives in your system, making it easier to find next time, which increases the probability you'll reference it in future work, which further strengthens the retrieval pathway. The more reviews are completed with appropriate spacing, the longer the memory will be retained, and the longer one can wait until the next review is needed.
 
 ### Technical Specifications: Spacing Effect Parameters
 
@@ -216,7 +216,7 @@ In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a
 > **Layer 1: Capture-to-Consolidation Pipeline**
 > 1. **Immediate Capture** (Working Memory → Inbox)
 >    - Externalize thoughts immediately to prevent forgetting
->    - Reduces [[Cognitive Load]] by offloading to external system
+>    - Reduces [[Cognitive-Load]] by offloading to external system
 >    - Creates first encoding opportunity
 >
 > 2. **Initial Processing** (24-48 hours post-capture)
@@ -501,7 +501,7 @@ Initially, behavior requires active cortical processing engaging executive funct
 1. **Cognitive Stage** (High effort, slow execution)
    - [[Prefrontal Cortex]] actively engaged
    - Conscious decision-making required
-   - High [[Cognitive Load]]
+   - High [[Cognitive-Load]]
    - PKB Example: "Where should I file this note? What template do I use?"
 
 2. **Associative Stage** (Moderate effort, faster execution)
@@ -684,7 +684,7 @@ This loop explains why expert knowledge workers often say their PKB "surprises" 
 > 
 > The true power of functional loops emerges not from any single loop, but from their interaction. Each loop category influences others:
 > 
-> - [[Habit Formation]] loops reduce friction → Enables more [[Retrieval Practice]] loops
+> - [[Habit Formation]] loops reduce friction → Enables more [[Retrieval-Practice]] loops
 > - [[Metacognitive]] loops improve strategy → Strengthens [[Motivational]] loops
 > - [[System Quality]] loops enhance usability → Activates [[Network Effect]] loops
 > - [[Cognitive Memory]] loops consolidate knowledge → Deepens [[Self-Efficacy]] loops

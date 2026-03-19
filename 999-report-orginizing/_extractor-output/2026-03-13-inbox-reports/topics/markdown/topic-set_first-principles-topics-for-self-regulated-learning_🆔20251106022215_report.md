@@ -101,7 +101,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 28)*
 
 > [!the-purpose] Untitled
-> This collection presents **four distinct First-Principles explorations** of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of "common knowledge" and reconstructs the concept from its atomic components.
+> This collection presents **four distinct First-Principles explorations** of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of "common knowledge" and reconstructs the concept from its atomic components.
 
 #### 2. [TOPIC-IDEA] Untitled *(Line 35)*
 
@@ -156,7 +156,7 @@ extraction_summary:
 - [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
 - [[Cognitive-Load|cognitive load]]
 - [[domain knowledge]]
@@ -274,7 +274,7 @@ Topic 4: Deconstruct what "self" means in self-regulated learning
 - [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
 - [[Cognitive-Load|cognitive load]]
 - [[domain knowledge]]

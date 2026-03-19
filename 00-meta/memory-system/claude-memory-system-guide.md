@@ -344,8 +344,8 @@ This enables agents to:
 
 ## 🔗 Related Documentation
 
-- [[.claude/memory-index|Agent Memory Index]] — Master navigation for agent memory
-- [[.claude/core/systemPatterns|System Patterns]] — Architecture patterns documented
+- Agent Memory Index — Master navigation for agent memory
+- System Patterns — Architecture patterns documented
 - [[00-meta/system/session-memory]] — Comprehensive human-readable session log
 - [[00-meta/system/project-tracker]] — Active project status
 

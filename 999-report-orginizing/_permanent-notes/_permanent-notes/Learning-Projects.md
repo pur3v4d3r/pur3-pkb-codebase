@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Learning Projects"
+title: Learning Projects
 aliases:
-  - "Learning Projects"
+  - Learning Projects
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -20,47 +13,26 @@ tags:
   - academic-synthesis
   - learning-sciences/self-directed-learning
   - adult-education/andragogy
-
 domain: other
 subdomains:
   - 
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "self-directed-learning-foundational-report-2026-03-11"
+  - self-directed-learning-foundational-report-2026-03-11
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: intermediate
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Self-Directed-Learning|Self-Directed Learning]]"
   - "[[Allen-Tough|Allen Tough]]"
@@ -69,27 +41,17 @@ see-also:
   - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Learning-Contracts|Learning Contracts]]"
   - "[[Self-Directed-Learning|Self-Directed Learning]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
 builds-on:
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Growth-Mindset|Growth Mindset]]"
-
 enables:
   - "[[]]"
-
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -124,10 +86,10 @@ importance: high
 **Cross-report connections:**
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Growth-Mindset|Growth Mindset]]
 
 **Related concepts:**
-[[Self-Directed-Learning|Self-Directed Learning]] · [[Allen-Tough|Allen Tough]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Online-Learning-Design|Online Learning Design]] · [[Learning-Contracts|Learning Contracts]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Malcolm-Knowles|Malcolm Knowles]] · [[Andragogy]] · [[Pedagogy]] · [[Allen-Tough|Allen Tough]]
+[[Self-Directed-Learning|Self-Directed Learning]] · [[Allen-Tough|Allen Tough]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Online-Learning-Design|Online Learning Design]] · [[Learning-Contracts|Learning Contracts]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] · [[Self-Directed-Learning|Self-Directed Learning]] · [[Adult-Education|Adult Education]] · [[Malcolm-Knowles|Malcolm Knowles]] · [[Andragogy]] · [[Pedagogy]] · [[Allen-Tough|Allen Tough]]

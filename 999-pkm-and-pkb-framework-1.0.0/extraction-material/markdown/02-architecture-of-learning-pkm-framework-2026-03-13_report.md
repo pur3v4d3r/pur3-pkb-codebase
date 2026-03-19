@@ -183,7 +183,7 @@ extraction_summary:
 #### 7. [DEFINITION] Mayer's Cognitive Theory of Multimedia Learning (Mayer, 2001, 2009) *(Line 151)*
 
 > [!definition] Mayer's Cognitive Theory of Multimedia Learning (Mayer, 2001, 2009)
-> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[Redundancy Effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
+> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[Redundancy-Effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
 
 #### 8. [DEFINITION] Information Architecture (Rosenfeld, Morville & Arango, 2015) *(Line 156)*
 
@@ -534,7 +534,7 @@ extraction_summary:
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
 - [[Progressive-Disclosure|Progressive Disclosure]]
-- [[Redundancy Effect]]
+- [[Redundancy-Effect]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
@@ -575,7 +575,7 @@ extraction_summary:
 | 19 | [[Signaling-Principle|Signaling Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 20 | [[Segmenting Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 21 | [[Modality Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
-| 22 | [[Redundancy Effect]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
+| 22 | [[Redundancy-Effect]] | — | — | Mayer's Multimedia Learning Theory: D... | 152 |
 | 23 | [[Signaling-Principle|Signaling Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 154 |
 | 24 | [[Segmenting Principle]] | — | — | Mayer's Multimedia Learning Theory: D... | 154 |
 | 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The CLT Evidence Base | 181 |
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]
 - [[Obsidian PKB Design]]
 - [[Progressive-Disclosure|Progressive Disclosure]]
-- [[Redundancy Effect]]
+- [[Redundancy-Effect]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
@@ -692,8 +692,8 @@ extraction_summary:
 - [[Extraneous-Load|Extraneous Load]]
 - [[Germane-Load|Germane Load]]
 - [[Split-Attention-Effect|Split-Attention Effect]]
-- [[Modality Effect]]
-- [[Redundancy Effect]]
+- [[Modality-Effect]]
+- [[Redundancy-Effect]]
 - [[Miller's Law]]
 - [[Cowan's Capacity Estimate]]
 

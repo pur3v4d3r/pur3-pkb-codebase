@@ -28,7 +28,7 @@ link-related:
   - "[[Working Memory]]"
   - "[[Focus Of Attention]]"
   - "[[Illusions Of Comprehension]]"
-  - "[[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
+  - "[[Knowledge Management]]"
   - "[[Cognitive Psychology]]"
   - "[[Cognitive Biases]]"
 maturity: seedling
@@ -46,7 +46,7 @@ review-priority: medium
 # Self-Directed Learning
 
 > [!definition]
-> - **Key-Term**:[[Self-Directed Learning]]
+> - **Key-Term**:[[Self-Directed-Learning]]
 > - [**Definition**:]
 
 > [!evidence]
@@ -54,7 +54,7 @@ review-priority: medium
 > 
 > 
 
-[[Self-Directed Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
+[[Self-Directed-Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
 
 **Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[Metacognitive Awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.
 

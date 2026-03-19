@@ -107,7 +107,7 @@ importance: high
 # Goal Content
 
 > [!definition] **Goal Content**
-> Goal content refers to the *qualitative nature* of what a personal goal is *about* — the kind of outcome or state it aims toward. Goal Contents Theory specifically distinguishes between **intrinsic goal content** (outcomes that are considered directly satisfying and that tend to satisfy [[basic psychological needs]] as a matter of their inherent nature) and **extrinsic goal content** (outcomes that are primarily valued for the social approval, comparative advantage, or material rewards they bring, rather than for their direct satisfaction of psychological needs).
+> Goal content refers to the *qualitative nature* of what a personal goal is *about* — the kind of outcome or state it aims toward. Goal Contents Theory specifically distinguishes between **intrinsic goal content** (outcomes that are considered directly satisfying and that tend to satisfy [[Basic-Psychological-Needs]] as a matter of their inherent nature) and **extrinsic goal content** (outcomes that are primarily valued for the social approval, comparative advantage, or material rewards they bring, rather than for their direct satisfaction of psychological needs).
 
 ## Core Explanation
 
@@ -144,7 +144,7 @@ importance: high
 
 **Cross-report connections:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value-Theory|Expectancy-Value Theory]]
 - [[Growth-Mindset|Growth Mindset]]

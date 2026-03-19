@@ -75,7 +75,7 @@ const sourceList = [
 // 3. LINK-UP MOCs (Your Primary Domain Hubs)
 const linkUpList = [
     "[[artificial-intelligence-moc]]",
-    "[[99-archive/05-moc's/cognitive-science-moc]]",
+    "[[cognitive-science-moc]]",
     "[[cosmology-moc]]",
     "[[educational-psychology-moc]]",
     "[[learning-theory-moc]]",

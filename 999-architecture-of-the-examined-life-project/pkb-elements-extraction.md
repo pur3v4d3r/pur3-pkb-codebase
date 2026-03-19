@@ -360,7 +360,7 @@ De Neys's conflict monitoring research illuminates something important about why
 **Section**: Document Start
 **Title**: **Forward Connection to Report 13**
 
-The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free Energy Principle]]. In predict...
+The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free-Energy-Principle]]. In predict...
 
 ---
 
@@ -2645,9 +2645,9 @@ sections:
 
 | **Cognitive Bias Category** | **Structural Failure** | **Intellectual Virtue** | **Training Practice** |
 |---|---|---|---|
-| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[Intellectual Humility]] | Calibration feedback-seeking; accurate self-assessment practice |
-| Confirmation Bias, Disconfirmation Bias, Backfire Effect | Avoidance of disconfirming evidence | [[Intellectual Courage]] | Steel-manning opposing views; deliberate exposure to disconfirmation |
-| Naive Realism, Fundamental Attribution Error, In-group Epistemic Favoritism | Failure to engage genuinely with other perspectives | [[Intellectual Empathy]] | Perspective-taking with genuine curiosity; charitable reconstruction |
+| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[Intellectual-Humility]] | Calibration feedback-seeking; accurate self-assessment practice |
+| Confirmation Bias, Disconfirmation Bias, Backfire Effect | Avoidance of disconfirming evidence | [[Intellectual-Courage]] | Steel-manning opposing views; deliberate exposure to disconfirmation |
+| Naive Realism, Fundamental Attribution Error, In-group Epistemic Favoritism | Failure to engage genuinely with other perspectives | [[Intellectual-Empathy]] | Perspective-taking with genuine curiosity; charitable reconstruction |
 *[...more rows]*
 
 
@@ -2696,7 +2696,7 @@ sections:
 12. research shows that chronic physiological dysregulation — from sustained sleep deficiency, acute and chronic stress, sedentary behavior, and metabolic disruption — specifically degrades the cognitive operations most central to Tier 1's framework.
    *⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 
-13. research reveals *how* expert practical judgment operates, [[Gerd Gigerenzer]]'s program in *[[Ecological Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
+13. research reveals *how* expert practical judgment operates, [[Gerd Gigerenzer]]'s program in *[[Ecological-Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
    *Gigerenzer's Ecological Rationality: Why Less Is Sometimes More*
 
 14. research demonstrates that expert practitioners exercise this capacity through recognition-based judgment, not comparative evaluation.

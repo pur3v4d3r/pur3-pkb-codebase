@@ -420,7 +420,7 @@ extraction_summary:
 > 
 > **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
 > 
-> **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
+> **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
 > 
 > **[[Encoding-Specificity-Principle|Encoding Specificity Principle]]** — Connects to knowledge management's emphasis on context-rich knowledge. Notes that preserve encoding context are more retrievable in ecologically valid contexts. RONA's commitment to context preservation is grounded in this principle. The principle links information science (context-sensitive retrieval systems) to cognitive psychology (memory encoding mechanisms).
 > 
@@ -633,7 +633,7 @@ extraction_summary:
 - [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
 - [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]]
@@ -868,7 +868,7 @@ extraction_summary:
 - [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
 - [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]]
@@ -898,7 +898,7 @@ extraction_summary:
 - [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Schema-Theory|Schema Theory]]
 

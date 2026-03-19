@@ -23,7 +23,7 @@ year: "[[2025]]"
 type: methodology
 link-up:
   - "[[cognitive-science-perm-moc]]"
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-22|Daily-Note]]"
   - "[[2025-11-25|Daily-Note]]"

@@ -163,14 +163,14 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 38)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores **[[Metacognition]]** as the fundamental integrating mechanism that unifies [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Constructivism|constructivist learning theory]], [[Critical-Thinking|Critical Thinking]], and behavioral self-management. Drawing from five decades of empirical research spanning developmental psychology, cognitive science, and educational theory, this analysis demonstrates how metacognitive processes—defined as the awareness, monitoring, and regulation of one's own cognitive operations—serve as the psychological architecture enabling adult learners to construct knowledge actively, think critically about epistemic claims, and exercise volitional control over behavioral change. The synthesis reveals metacognition not merely as a cognitive skill among others but as the *organizing principle* through which disparate psychological capacities become integrated into coherent systems of self-directed development.
+> This comprehensive examination explores **[[Metacognition]]** as the fundamental integrating mechanism that unifies [[Personal Knowledge Management]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], [[Constructivism|constructivist learning theory]], [[Critical-Thinking|Critical Thinking]], and behavioral self-management. Drawing from five decades of empirical research spanning developmental psychology, cognitive science, and educational theory, this analysis demonstrates how metacognitive processes—defined as the awareness, monitoring, and regulation of one's own cognitive operations—serve as the psychological architecture enabling adult learners to construct knowledge actively, think critically about epistemic claims, and exercise volitional control over behavioral change. The synthesis reveals metacognition not merely as a cognitive skill among others but as the *organizing principle* through which disparate psychological capacities become integrated into coherent systems of self-directed development.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
 > **Understanding why metacognition functions as the integrative nexus**
 > 
-> The central thesis of this analysis is that metacognition represents more than an isolated cognitive capacity—it constitutes the *psychological architecture* through which human beings transcend purely reactive cognition and achieve self-directed development. This architectural function manifests across multiple developmental domains: in [[Constructivism]], metacognition enables learners to monitor their schema construction processes; in [[Critical-Thinking|Critical Thinking]], it provides the self-regulatory mechanisms enabling reflective judgment; in [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], it operationalizes the planning-monitoring-evaluation cycle that distinguishes strategic from passive learners.
+> The central thesis of this analysis is that metacognition represents more than an isolated cognitive capacity—it constitutes the *psychological architecture* through which human beings transcend purely reactive cognition and achieve self-directed development. This architectural function manifests across multiple developmental domains: in [[Constructivism]], metacognition enables learners to monitor their schema construction processes; in [[Critical-Thinking|Critical Thinking]], it provides the self-regulatory mechanisms enabling reflective judgment; in [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], it operationalizes the planning-monitoring-evaluation cycle that distinguishes strategic from passive learners.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 50)*
 
@@ -266,7 +266,7 @@ extraction_summary:
 > [!key-claim] Untitled
 > **Self-regulated learning is applied metacognition in the service of goal achievement**
 > 
-> [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) represents perhaps the most explicit integration of metacognition with broader motivational and behavioral components. While metacognition encompasses awareness and control of cognitive processes, self-regulated learning extends these principles to encompass the entire learning episode—including motivation management, emotion regulation, environmental structuring, and behavior control.
+> [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) represents perhaps the most explicit integration of metacognition with broader motivational and behavioral components. While metacognition encompasses awareness and control of cognitive processes, self-regulated learning extends these principles to encompass the entire learning episode—including motivation management, emotion regulation, environmental structuring, and behavior control.
 
 #### 18. [CORE-PRINCIPLE] Untitled *(Line 253)*
 
@@ -406,7 +406,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Accommodation]]
 - [[Active Learning]]
 - [[Adaptive Expertise]]
@@ -489,7 +489,7 @@ extraction_summary:
 - [[Schemas]]
 - [[Schemas in Long-Term Memory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen Fleming]]
@@ -511,7 +511,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
-| 2 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
+| 2 | [[Personal Knowledge Management]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 3 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 4 | [[Constructivism]] | constructivist learning theory | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 5 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
@@ -711,7 +711,7 @@ This requires the full academic report scaffold:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Accommodation]]
 - [[Active Learning]]
 - [[Adaptive Expertise]]
@@ -794,7 +794,7 @@ This requires the full academic report scaffold:
 - [[Schemas]]
 - [[Schemas in Long-Term Memory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen Fleming]]

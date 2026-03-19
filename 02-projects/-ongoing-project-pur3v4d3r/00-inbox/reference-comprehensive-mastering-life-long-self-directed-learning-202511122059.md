@@ -97,7 +97,7 @@ Optimal learning requires environmental conditions that promote neuroplasticity 
 
 Moderate stress activates the sympathetic nervous system, releasing cortisol and norepinephrine that enhance attention, focus, and memory consolidation. However, chronic or extreme stress damages the hippocampus (memory center) and impairs prefrontal cortex function (executive control).
 
-**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing Effect]], [[Interleaving]], and [[Spacing Effect]]—all of which introduce manageable stress that enhances learning.
+**Practical Application**: Design learning environments with "desirable difficulties" that create moderate cognitive challenge without overwhelming anxiety. This includes techniques like [[Testing-Effect]], [[Interleaving]], and [[Spacing-Effect]]—all of which introduce manageable stress that enhances learning.
 
 ## 1.2 Working Memory and Cognitive Load
 
@@ -243,8 +243,8 @@ The [[Curve Of Forgetting]] demonstrates that without reinforcement, newly learn
 
 **Implications for Learning Design**:
 1. **Accept Initial Forgetting**: It's normal and unavoidable
-2. **Schedule Strategic Review**: Use [[Spacing Effect]] principles to reinforce at optimal intervals
-3. **Embrace [[Retrieval Practice]]**: Testing yourself isn't assessment—it's the learning mechanism itself
+2. **Schedule Strategic Review**: Use [[Spacing-Effect]] principles to reinforce at optimal intervals
+3. **Embrace [[Retrieval-Practice]]**: Testing yourself isn't assessment—it's the learning mechanism itself
 4. **Vary Contexts**: Each retrieval from a different context/state strengthens and flexibilizes the memory trace
 
 ### Interference and Consolidation
@@ -271,10 +271,10 @@ Based on [[Cognitive Science]] and empirical learning research, certain techniqu
 
 ### High-Utility Techniques (Strongly Recommended)
 
-**1. [[Retrieval Practice]] (Testing Effect)**
+**1. [[Retrieval-Practice]] (Testing Effect)**
 
 > [!definition]
-> **[[Retrieval Practice]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
+> **[[Retrieval-Practice]]**:: Actively recalling information from memory without looking at materials; the single most powerful learning technique across domains
 
 The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feedback loop where testing yourself strengthens memory, which improves future retrieval, creating a positive spiral of learning consolidation.
 
@@ -295,10 +295,10 @@ The [[Retrieval Practice Loop]] in your PKB system represents a reinforcing feed
 > **Common Mistake: Recognition vs. Recall**
 > Reading notes and feeling familiar with material creates an [[Illusions Of Comprehension|illusion of knowing]]. True learning requires effortful recall without cues—which feels harder but produces dramatically better retention.
 
-**2. [[Spacing Effect]] (Distributed Practice)**
+**2. [[Spacing-Effect]] (Distributed Practice)**
 
 > [!definition]
-> **[[Spacing Effect]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
+> **[[Spacing-Effect]]**:: Learning is more effective when study sessions are distributed over time rather than massed into single sessions
 
 The spacing effect is one of the most robust findings in learning science, yet students consistently favor massed practice (cramming) despite its inferiority.
 
@@ -329,10 +329,10 @@ Research shows that interleaving various problems and topics substantially impro
 - Combine review of old material with learning new material
 - Practice applying concepts to varied contexts
 
-**4. [[Elaborative Interrogation]] and [[Self-Explanation]]**
+**4. [[Elaborative-Interrogation]] and [[Self-Explanation]]**
 
 > [!definition]
-> - **[[Elaborative Interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
+> - **[[Elaborative-Interrogation]]**:: Generating explanations for why stated facts are true ("Why would this be the case?")
 > - **[[Self-Explanation]]**:: Explaining to yourself how new information relates to what you already know
 
 These techniques force deep, generative processing that creates rich, interconnected knowledge structures rather than isolated facts.
@@ -402,7 +402,7 @@ Multisensory instruction engages multiple brain regions simultaneously, creating
 
 > [!core-principle]
 > **The Paradox of Difficulty**
-> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[Desirable Difficulties]].
+> Learning strategies that feel easier during practice often produce weaker long-term retention, while strategies that feel harder during practice produce superior learning outcomes. This is the principle of [[Desirable-Difficulties]].
 
 This principle is central to [[Cognitive Load Theory]]—germane load (productive cognitive effort) should be maximized while extraneous load (wasted effort) is minimized.
 
@@ -476,7 +476,7 @@ Understanding your own cognitive characteristics, strengths, limitations, and pr
 
 > [!warning]
 > **The Dunning-Kruger Effect**
-> The [[Dunning-Kruger Effect]] describes how incompetence in a domain impairs metacognitive ability—novices cannot accurately assess their own skill level because assessment requires the very expertise they lack. This creates dangerous overconfidence in early learning stages.
+> The [[Dunning-Kruger-Effect]] describes how incompetence in a domain impairs metacognitive ability—novices cannot accurately assess their own skill level because assessment requires the very expertise they lack. This creates dangerous overconfidence in early learning stages.
 
 **Mitigating Strategy**: Seek external feedback, use objective performance metrics, and adopt humble curiosity about what you don't know you don't know.
 
@@ -511,7 +511,7 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 | Strategy | When to Use | When NOT to Use | Why It Works |
 |----------|-------------|-----------------|--------------|
 | **Retrieval Practice** | After initial exposure; periodically for review | Before initial understanding; for pure recognition tasks | Strengthens memory traces through effortful recall |
-| **[[Elaborative Interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
+| **[[Elaborative-Interrogation]]** | For conceptual material requiring deep understanding | For arbitrary facts, procedural skills | Builds connections to existing knowledge |
 | **[[Interleaving]]** | When discriminating between problem types matters | Early skill acquisition (block first, then interleave) | Develops flexible, transferable knowledge |
 | **[[Chunking]]** | When working memory is overwhelmed; in domains with patterns | For truly random information with no structure | Reduces cognitive load by grouping information |
 
@@ -527,7 +527,7 @@ Understanding cognitive strategies, their appropriate application contexts, and 
 Students with high metacognitive knowledge and regulation initiate self-regulated learning processes earlier, primarily employing strategic task-specific approaches rather than relying solely on time management.
 
 **Pre-Learning Questions**:
-- What do I already know about this topic? ([[Prior Knowledge]] activation)
+- What do I already know about this topic? ([[Prior-Knowledge]] activation)
 - What specifically do I need to learn? (goal clarification)
 - How difficult will this be for me? (task assessment)
 - What strategies should I use? (strategy selection)
@@ -574,7 +574,7 @@ Metacognition involves cognitive self-awareness and self-regulation of cognitive
 > [!definition]
 > **[[Metacognitive Reflection]]**:: Post-learning evaluation of outcomes, strategy effectiveness, and lessons for future learning
 
-[[Structured Reflection]] using frameworks like [[Reflective Observation]] transforms experience into learning by making tacit lessons explicit.
+[[Structured Reflection]] using frameworks like [[Reflective-Observation]] transforms experience into learning by making tacit lessons explicit.
 
 **Post-Learning Questions**:
 - Did I achieve my learning goals? (outcome evaluation)
@@ -1041,7 +1041,7 @@ Research on expertise reveals consistent patterns distinguishing experts from no
 | **Problem Representation** | Concrete, formula-focused | Abstract, conceptual patterns |
 | **Pattern Recognition** | Limited, effortful | Rapid, intuitive |
 | **[[Working Memory]]** | Standard capacity (4±1 chunks) | Extended capacity through [[Long-Term Working Memory|domain-specific schemas]] |
-| **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[Dunning-Kruger Effect]]) | Well-calibrated, accurate self-assessment |
+| **Metacognitive Accuracy** | Poor calibration, overconfidence early ([[Dunning-Kruger-Effect]]) | Well-calibrated, accurate self-assessment |
 | **Strategy Use** | Limited repertoire, inflexible | Extensive, adaptively deployed |
 | **Error Detection** | External feedback required | Self-monitoring, early error detection |
 
@@ -1129,7 +1129,7 @@ Research shows that interleaving various problems and topics, rather than blocki
 ### Cognitive Apprenticeship Model
 
 > [!definition]
-> **[[Cognitive Apprenticeship]]**:: A model for instruction that makes thinking visible, enabling novices to observe and practice expert cognitive processes
+> **[[Cognitive-Apprenticeship]]**:: A model for instruction that makes thinking visible, enabling novices to observe and practice expert cognitive processes
 
 **Six Teaching Methods**:
 1. **Modeling**: Expert demonstrates while articulating reasoning
@@ -1551,7 +1551,7 @@ Focus on:
 
 ### From Consumer to Creator
 
-The progression from [[Stock Of Concrete Experiences]] through [[Reflective Observation]] to [[Stock Of Abstract Conceptualizations]] to [[Stock Of Experimental Results]] represents transformation from passive receiver to active creator of knowledge.
+The progression from [[Stock Of Concrete Experiences]] through [[Reflective-Observation]] to [[Stock Of Abstract Conceptualizations]] to [[Stock Of Experimental Results]] represents transformation from passive receiver to active creator of knowledge.
 
 **The Trajectory**:
 1. **Novice**: Consume existing knowledge
@@ -1710,17 +1710,17 @@ From user's existing notes (will extensively cross-reference):
 Additional concepts to introduce as wiki-links:
 - [[Deliberate Practice]]
 - [[Interleaving]]
-- [[Spacing Effect]]
-- [[Desirable Difficulties]]
+- [[Spacing-Effect]]
+- [[Desirable-Difficulties]]
 - [[Transfer of Learning]]
 - [[Expert-Novice Differences]]
-- [[Cognitive Apprenticeship]]
+- [[Cognitive-Apprenticeship]]
 - [[Mental Models]]
 - [[Progressive Summarization]]
 - [[Evergreen Notes]]
 - [[Atomic Notes]]
 - [[Concept Mapping]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation]]
 - [[Self-Explanation]]
 - [[Feynman Technique]]
 - [[Cognitive Flexibility]]

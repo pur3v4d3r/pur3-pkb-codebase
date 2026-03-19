@@ -380,7 +380,7 @@ This template generates concise summaries of selected text.
 > *Example*: "Using concepts from my [[Zettelkasten]], connect this idea to..."
 > 
 > **2. Maintain Linking Conventions**: Instruct model to use wiki-links  
-> *Example*: "Format related concepts as [[Wiki Links]] following my naming convention"
+> *Example*: "Format related concepts as [[wiki-links]] following my naming convention"
 > 
 > **3. Respect Metadata Standards**: Generate frontmatter-compliant output  
 > *Example*: "Generate frontmatter with tags from my taxonomy: #cognitive-science, #meta-learning"
@@ -1207,7 +1207,7 @@ With local LLM integration complete, sophisticated automation becomes practical.
 >   [How this concept applies]
 >   
 >   ## Related Concepts
->   [Connections to other ideas - format as [[Wiki Links]]]
+>   [Connections to other ideas - format as [[wiki-links]]]
 >   
 >   ## Misconceptions
 >   [Common misunderstandings]

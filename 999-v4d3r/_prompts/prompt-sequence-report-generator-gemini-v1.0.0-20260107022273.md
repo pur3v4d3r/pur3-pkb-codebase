@@ -1730,7 +1730,7 @@ tier_3_reflexive_iteration:
 - ✅ System architecture summary (three-tier enforcement model)
 
 **INLINE FIELD DEFINITIONS**: 18
-**[[WIKI LINKS]]**: 47
+**[[wiki-links]]**: 47
 **SEMANTIC CALLOUTS**: 15
 **CODE EXAMPLES**: 8 (fenced with language tags)
 **WORKED EXAMPLES**: 6

@@ -548,7 +548,7 @@ extraction_summary:
 - [[Generation-Effect|Generation Effect]]
 - [[George Siemens]]
 - [[Gregory Bateson]]
-- [[Illusion of Explanatory Depth]]
+- [[Illusion-of-Explanatory-Depth]]
 - [[Iterative Design]]
 - [[Learning-Analytics|Learning Analytics]]
 - [[Learning Metabolism Framework]]
@@ -576,7 +576,7 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
 - [[Single-Loop-Learning|Single-Loop Learning]]
 - [[Spaced Retrieval Practice]]
@@ -622,7 +622,7 @@ extraction_summary:
 | 28 | [[Metacognitive-Calibration|Metacognitive calibration]] | — | — | The Calibration Evidence | 214 |
 | 29 | [[Dunning-Kruger-Effect|Dunning-Kruger effect]] | — | — | The Calibration Evidence | 214 |
 | 30 | [[Thomas Nickerson]] | — | — | The Calibration Evidence | 216 |
-| 31 | [[Illusion of Explanatory Depth]] | — | — | The Calibration Evidence | 216 |
+| 31 | [[Illusion-of-Explanatory-Depth]] | — | — | The Calibration Evidence | 216 |
 | 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Calibration Evidence | 216 |
 | 33 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Calibration Evidence | 219 |
 | 34 | [[Arnold-and-Pistilli|Arnold and Pistilli]] | — | — | Learning Analytics in Educational Set... | 223 |
@@ -693,7 +693,7 @@ extraction_summary:
 - [[Generation-Effect|Generation Effect]]
 - [[George Siemens]]
 - [[Gregory Bateson]]
-- [[Illusion of Explanatory Depth]]
+- [[Illusion-of-Explanatory-Depth]]
 - [[Iterative Design]]
 - [[Learning-Analytics|Learning Analytics]]
 - [[Learning Metabolism Framework]]
@@ -721,7 +721,7 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
 - [[Single-Loop-Learning|Single-Loop Learning]]
 - [[Spaced Retrieval Practice]]

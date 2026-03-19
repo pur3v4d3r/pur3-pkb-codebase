@@ -137,7 +137,7 @@ The COVID-19 distance learning research revealed that the lack of social interac
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Organismic Integration Theory]]**
+1. **[[Organismic-Integration-Theory]]**
    - *Connection*: OIT is a mini-theory within SDT that explains how extrinsic motivation becomes internalized and integrated, showing how external regulations can be transformed into autonomous motivation through need satisfaction
    - *Depth Potential*: Understanding the internalization continuum (from external regulation through introjection, identification, and integration) provides insights into how PKB practices that initially feel like "shoulds" can become genuinely valued and self-endorsed
    - *Knowledge Graph Role*: Bridges basic needs theory with the practical challenge of transforming initially extrinsic PKB motivations into intrinsic engagement

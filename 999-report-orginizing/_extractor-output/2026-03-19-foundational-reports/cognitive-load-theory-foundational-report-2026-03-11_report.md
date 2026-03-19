@@ -438,9 +438,9 @@ extraction_summary:
 > [!topic-idea] [[Adaptive Instruction and Expertise Reversal]]
 > The expertise reversal effect demands adaptive instruction, but how to build systems that genuinely adapt to learner expertise is a deep design and engineering problem. A report on adaptive instruction would cover Kalyuga's fading guidance framework, dynamic assessment approaches, intelligent tutoring systems research, the role of formative assessment in calibrating guidance, and the challenge of building adaptive sequences that work in realistic educational contexts. **Priority: High.**
 
-#### 56. [TOPIC-IDEA] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] *(Line 612)*
+#### 56. [TOPIC-IDEA] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] *(Line 612)*
 
-> [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > Flagged as high-priority from the Feedback Design report and of direct relevance to CLT: if managing cognitive load is partly a metacognitive task, then learners who can regulate their own learning effectively must have some capacity to monitor and manage their working memory demands. An SRL report would cover the major frameworks (Zimmerman's cyclical model, Pintrich's model), the metacognitive monitoring and control processes involved, the relationship to CLT's account of schema-guided processing, and instructional approaches to developing SRL. **Priority: High.**
 
 #### 57. [TOPIC-IDEA] [[Working Memory Architecture — Multi-Component Models]] *(Line 615)*
@@ -499,7 +499,7 @@ extraction_summary:
 - [[Redundancy-Effect|Redundancy Effect]]
 - [[Richard Mayer]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sergei Kalyuga]]
 - [[Split-Attention-Effect|Split-Attention Effect]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Redundancy-Effect|Redundancy Effect]]
 - [[Richard Mayer]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sergei Kalyuga]]
 - [[Split-Attention-Effect|Split-Attention Effect]]
 - [[Transfer-of-Learning|Transfer of Learning]]
@@ -664,7 +664,7 @@ extraction_summary:
 - [[Cognitive Theory of Multimedia Learning]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]
 - [[Metacognition]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -717,7 +717,7 @@ extraction_summary:
 - [[Instructional Design Principles]]
 - [[Multimedia Learning Design]]
 - [[Adaptive Instruction]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 
 ---

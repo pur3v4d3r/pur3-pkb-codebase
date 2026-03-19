@@ -1429,7 +1429,7 @@ Meeting: [Topic] - [Date]
 ## Core Extensions
 ### 1. **[[Visual PKM Philosophy]]**
 **Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[Personal Knowledge Management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
-**Depth Potential:** Deep dive into [[Dual Coding Theory]], [[Visual Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive Load]] and support [[Working Memory]].
+**Depth Potential:** Deep dive into [[Dual-Coding-Theory]], [[Visual Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive-Load]] and support [[Working Memory]].
 **Knowledge Graph Role:** Foundational theory node connecting to all visual tools (Canvas, Excalidraw, MarkMind, Graph View). Provides "why" behind the "how" of visual PKM.
 **Priority:** High—understanding theory improves tool selection and application.
 **Prerequisites:** [[Cognitive Science Basics]], [[Learning Theory Fundamentals]]
@@ -1455,7 +1455,7 @@ Meeting: [Topic] - [Date]
 ### 4. **[[PDF Annotation Workflows in Academia]]**
 **Connection:** MarkMind's PDF annotation features are one implementation of broader academic reading and annotation methodologies—this topic explores the landscape.
 **Depth Potential:** Compare annotation tools (Zotero, Hypothesis, PDF Expert, MarkMind), examine research on annotation effectiveness, explore progressive summarization techniques, and document literature review workflows. Include integration patterns with reference managers.
-**Knowledge Graph Role:** Practical workflow hub connecting [[Research Methods]], [[Literature Review]], [[Reading Strategies]], and specific tools. Critical for academic users.
+**Knowledge Graph Role:** Practical workflow hub connecting [[Research Methods]], [[Literature-Review]], [[Reading Strategies]], and specific tools. Critical for academic users.
 **Priority:** Medium-High for academic users, Low for others.
 **Prerequisites:** [[MarkMind PDF Features]], [[Research Methodology Basics]]
 

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Schema"
+title: Schema
 aliases:
-  - "Schema"
+  - Schema
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - cognitive-science/schema-theory
   - cognitive-science/semantic-networks
   - cognitive-science/expertise
-
 domain: cognitive-psychology
 subdomains:
   - cognitive-psychology
@@ -29,40 +21,23 @@ subdomains:
   - information-science
   - instructional-design
   - constructivism
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13"
-  - "topic-set-cognitive-science-pkb-achitecture-202511202330.md"
-  - "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md"
-  - "cognitive-load-theory-foundational-report-2026-03-11.md"
-  - "schema-theory-and-learning-foundational-report-2026-03-06.md"
-  - "report-02-the-fallible-knower.md"
-  - "report-04-cognitive-scaffolding.md"
+  - 01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13
+  - topic-set-cognitive-science-pkb-achitecture-202511202330.md
+  - advance-organizers-prior-knowledge-foundational-report-2026-03-11.md
+  - cognitive-load-theory-foundational-report-2026-03-11.md
+  - schema-theory-and-learning-foundational-report-2026-03-06.md
+  - report-02-the-fallible-knower.md
+  - report-04-cognitive-scaffolding.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Semantic-Networks|Semantic Networks]]"
@@ -74,13 +49,10 @@ related:
   - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
   - "[[Expert-Knowledge-Organization|Expert Knowledge Organization]]"
   - "[[Chunking]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Accommodation]]"
   - "[[Advance-Organizer|Advance Organizer]]"
@@ -91,44 +63,34 @@ see-also:
   - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
   - "[[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-  - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
+  - "[[Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
   - "[[Cognitive-Load|Cognitive Load]]"
   - "[[Schema-Formation|Schema Formation]]"
   - "[[Metacognition|Metacognition]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]]"
   - "[[Working-Memory|Working Memory]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[]]"
-
 enables:
   - "[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]"
   - "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
   - "[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]"
-
 expansion-topics:
   - topic: "[[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]"
     description: "Philip Johnson-Laird's mental model theory (1983) offers an important alternative to and complement "
     priority: medium
   - topic: "[[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]"
-    description: "The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structu"
+    description: The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structu
     priority: medium
   - topic: "[[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]"
-    description: "Chi et al.'s research documents a difference in knowledge organization between novice and expert. Bu"
+    description: Chi et al.'s research documents a difference in knowledge organization between novice and expert. Bu
     priority: medium
   - topic: "[[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]"
-    description: "This report's cognitive architecture is propositional and symbolic — it describes knowledge in terms"
+    description: This report's cognitive architecture is propositional and symbolic — it describes knowledge in terms
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -183,7 +145,7 @@ importance: high
 > Effective instruction is instruction that manages the demands placed on [[Working Memory]] such that cognitive resources are available for the processes that lead to [[Schema Theory|schema]] formation and automation in [[Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
 
 > [!analytical-insight] Key Insight *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > Bartlett's most radical and enduring claim is that memory is not reproductive but *reconstructive*. When we recall a past experience or a text we have read, we do not simply replay a stored recording. We reconstruct it — building a plausible account from schema-consistent fragments, filling gaps with schema-generated defaults, and unconsciously editing anomalies toward what our schemas lead us to expect. This explains why eyewitness testimony is unreliable, why students "remember" reading things they never read, and why expert knowledge both helps and occasionally misleads.
@@ -235,10 +197,10 @@ importance: high
 > Note structures that help novices can actually hinder experts. Your PKB design should evolve as your expertise develops. Early-stage notes need more scaffolding; advanced notes benefit from density and assumption of prior knowledge.
 
 > [!warning] **Key Distinction** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
-> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual Change Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
+> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
 
 > [!warning] **Key Distinction** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
-> [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
+> [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel-Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
 
 > [!warning] **Key Distinction** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > A common instructional error is to assume that prior knowledge is always facilitative. When learners hold strong, wrong schemas, activating them at the beginning of instruction can *strengthen* the incorrect framework rather than weaken it. Effective instruction in such cases often requires making the incorrect schema explicit, confronting it directly with disconfirming evidence, and providing a better alternative that is simultaneously comprehensible, plausible, and fruitful. This sequence — surface the misconception, create conflict, introduce the replacement, reconcile — is more cognitively demanding but more effective than ignoring the pre-existing schema.
@@ -263,7 +225,7 @@ importance: high
 [[Accommodation]] · [[Advance-Organizer|Advance Organizer]] · [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]] · [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] · [[Charles-Reigeluth|Charles Reigeluth]] · [[Chess-Schemas|Chess Schemas]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Coherence-Principle|Coherence Principle]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]
 
 **Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md, cognitive-load-theory-foundational-report-2026-03-11.md, report-02-the-fallible-knower.md, report-04-cognitive-scaffolding.md, schema-theory-and-learning-foundational-report-2026-03-06.md, topic-set-cognitive-science-pkb-achitecture-202511202330.md)*:
-[[Cognitive-Science|Cognitive Science]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[Cognitive-Load|Cognitive Load]] * [[Schema-Formation|Schema Formation]] * [[Metacognition|Metacognition]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]] * [[Working-Memory|Working Memory]] * [[Chunking|Chunking]] * [[Machine-Learning---Core-Paradigms|Machine Learning - Core Paradigms]] * [[Machine-Learning---Mathematical-Foundations|Machine Learning - Mathematical Foundations]] * [[Machine-Learning---Practical-Implementation|Machine Learning - Practical Implementation]] * [[Desirable-Difficulties-and-Retrieval-Practice-Design|Desirable Difficulties and Retrieval Practice Design]] * [[Cognitive-Psychology|Cognitive Psychology]] * [[Retrieval-Practice|Retrieval Practice]]
+[[Cognitive-Science|Cognitive Science]] * [[Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[Cognitive-Load|Cognitive Load]] * [[Schema-Formation|Schema Formation]] * [[Metacognition|Metacognition]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]] * [[Working-Memory|Working Memory]] * [[Chunking|Chunking]] * [[Machine-Learning---Core-Paradigms|Machine Learning - Core Paradigms]] * [[Machine-Learning---Mathematical-Foundations|Machine Learning - Mathematical Foundations]] * [[Machine-Learning---Practical-Implementation|Machine Learning - Practical Implementation]] * [[Desirable-Difficulties-and-Retrieval-Practice-Design|Desirable Difficulties and Retrieval Practice Design]] * [[Cognitive-Psychology|Cognitive Psychology]] * [[Retrieval-Practice|Retrieval Practice]]
 
 **Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
 - [[Advance-Organizers|Advance Organizers]]

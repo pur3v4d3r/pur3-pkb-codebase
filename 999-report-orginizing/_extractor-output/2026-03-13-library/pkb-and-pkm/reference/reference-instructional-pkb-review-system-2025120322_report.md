@@ -1181,12 +1181,12 @@ extraction_summary:
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metamemory]]
 - [[Obsidian Plugin Interoperability]]
-- [[Obsidian/Advanced]]
-- [[Obsidian/Plugins]]
+- [[advanced]]
+- [[plugins]]
 - [[PKB Review System: Complete Implementation Package]]
 - [[PKB/Design]]
 - [[PKB/Maintenance]]
-- [[PKB/Metadata]]
+- [[metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
@@ -1278,7 +1278,7 @@ extraction_summary:
 | 49 | [[wiki-links]] | — | — | Required Criteria | 1365 |
 | 50 | [[<% noteName %>]] | — | — | Template 5: Review Log Entry | 1509 |
 | 51 | [[Templater User Scripts]] | — | — | 🔗 Related Topics for PKB Expansion | 1516 |
-| 52 | [[Obsidian/Advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
+| 52 | [[advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
 | 53 | [[Template-Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1519 |
 | 54 | [[Spaced Repetition Algorithms]] | — | — | 🔗 Related Topics for PKB Expansion | 1521 |
 | 55 | [[Cognitive-Science-MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 1524 |
@@ -1299,16 +1299,16 @@ extraction_summary:
 | 70 | [[review-queries-library]] | — | — | Note 4: Meta Bind Button Library | 2148 |
 | 71 | [[Meta Bind]] | — | — | Meta Bind Button Library: PKB Review ... | 2154 |
 | 72 | [[Meta Bind Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 2583 |
-| 73 | [[Obsidian/Plugins]] | — | — | 🔗 Related Topics for PKB Expansion | 2586 |
+| 73 | [[plugins]] | — | — | 🔗 Related Topics for PKB Expansion | 2586 |
 | 74 | [[Meta-Bind]] | — | — | 🔗 Related Topics for PKB Expansion | 2586 |
 | 75 | [[Frontmatter Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2588 |
-| 76 | [[PKB/Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
+| 76 | [[metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
 | 77 | [[Frontmatter-Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2591 |
 | 78 | [[Interactive Note Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2593 |
 | 79 | [[PKB/Design]] | — | — | 🔗 Related Topics for PKB Expansion | 2596 |
 | 80 | [[Information-Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 2596 |
 | 81 | [[Obsidian Plugin Interoperability]] | — | — | 🔗 Related Topics for PKB Expansion | 2598 |
-| 82 | [[Obsidian/Advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
+| 82 | [[advanced]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
 | 83 | [[Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 2601 |
 | 84 | [[pkb-&-pkm-moc]] | — | — | Note 5: QuickAdd Macro Library | 2635 |
 | 85 | [[review-system-implementation-guide]] | — | — | Note 5: QuickAdd Macro Library | 2637 |
@@ -2675,12 +2675,12 @@ Or with formatting:
 1. **[[Meta Bind Advanced Patterns]]**
    - *Connection*: Complex button actions require deeper Meta Bind knowledge
    - *Depth Potential*: Chained actions, conditional visibility, dynamic labels
-   - *Knowledge Graph Role*: Links to [[Obsidian/Plugins]], [[Meta-Bind]]
+   - *Knowledge Graph Role*: Links to [[plugins]], [[Meta-Bind]]
 
 2. **[[Frontmatter Schema Design]]**
    - *Connection*: Buttons operate on frontmatter fields
    - *Depth Potential*: Field naming conventions, data types, validation
-   - *Knowledge Graph Role*: Links to [[PKB/Metadata]], [[Frontmatter-Design]]
+   - *Knowledge Graph Role*: Links to [[metadata]], [[Frontmatter-Design]]
 
 3. **[[Interactive Note Design]]**
    - *Connection*: Buttons transform static notes into interactive interfaces
@@ -2690,7 +2690,7 @@ Or with formatting:
 4. **[[Obsidian Plugin Interoperability]]**
    - *Connection*: Meta Bind can trigger other plugin actions
    - *Depth Potential*: Plugin API patterns, cross-plugin workflows
-   - *Knowledge Graph Role*: Links to [[Obsidian/Advanced]], [[Automation]]
+   - *Knowledge Graph Role*: Links to [[advanced]], [[Automation]]
 
 ---
 ```
@@ -2985,12 +2985,12 @@ flowchart TD
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metamemory]]
 - [[Obsidian Plugin Interoperability]]
-- [[Obsidian/Advanced]]
-- [[Obsidian/Plugins]]
+- [[advanced]]
+- [[plugins]]
 - [[PKB Review System: Complete Implementation Package]]
 - [[PKB/Design]]
 - [[PKB/Maintenance]]
-- [[PKB/Metadata]]
+- [[metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]

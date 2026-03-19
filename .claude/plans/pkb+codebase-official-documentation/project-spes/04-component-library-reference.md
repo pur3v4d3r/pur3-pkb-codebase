@@ -11,7 +11,7 @@ priority: high
 created: 2025-12-24
 type: reference
 project: prompt-engineering-templater-system
-link-up: "[[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]]"
+link-up: "[[01-spes-master-operations-manual]]"
 ---
 
 # 🧩 Component Library Reference

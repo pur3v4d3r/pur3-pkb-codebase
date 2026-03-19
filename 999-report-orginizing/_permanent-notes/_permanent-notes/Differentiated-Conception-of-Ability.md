@@ -108,7 +108,7 @@ importance: high
 # Differentiated Conception of Ability
 
 > [!definition] **Differentiated Conception of Ability**
-> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol S. Dweck]] calls the [[Fixed Mindset]] or [[Entity Theory of Intelligence]].
+> In a differentiated conception of ability, effort and ability are understood as *separate* entities that can partially cancel each other out. If I have to try very hard to accomplish something that others accomplish easily, this is evidence that my ability is lower, not higher. Under this conception, demonstrating high ability means achieving more with less effort (or the same outcomes with less effort) relative to others. This is the conception of ability operative in *ego involvement*, and it is cognitively demanding — children typically do not fully develop it until late childhood or early adolescence. It corresponds to what [[Carol S. Dweck]] calls the [[Fixed-Mindset]] or [[Entity-Theory-of-Intelligence]].
 
 ## Core Explanation
 

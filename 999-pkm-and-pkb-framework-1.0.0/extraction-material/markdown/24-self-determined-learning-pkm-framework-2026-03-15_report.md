@@ -585,10 +585,10 @@ extraction_summary:
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Malcolm Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory]]
 - [[Pedagogy]]
 - [[Pragmatist]]
-- [[Relatedness Need]]
+- [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]
@@ -639,7 +639,7 @@ extraction_summary:
 | 24 | [[Competency]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 25 | [[Constructivist-Emergentist]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
-| 27 | [[Organismic Integration Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
+| 27 | [[Organismic-Integration-Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
 | 28 | [[Capability-Development|Capability Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
 | 29 | [[Competency-Development|Competency Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
 | 30 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
@@ -647,10 +647,10 @@ extraction_summary:
 | 32 | [[Report 10]] | — | — | The Heutagogy Research Base | 255 |
 | 33 | [[Transformative Learning Theory]] | — | — | The Heutagogy Research Base | 271 |
 | 34 | [[Internalization-Continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 35 | [[Organismic Integration Theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 35 | [[Organismic-Integration-Theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 36 | [[Autonomy-Need|Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 37 | [[Competence-Need|Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 38 | [[Relatedness Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 38 | [[Relatedness-Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 40 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 41 | [[Socratic Self-Examination]] | — | — | Mechanism 4: The Socratic Prerequisite | 324 |
@@ -710,10 +710,10 @@ extraction_summary:
 - [[Maps-of-Content-—-MOCs|MOC]]
 - [[Malcolm Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory]]
 - [[Pedagogy]]
 - [[Pragmatist]]
-- [[Relatedness Need]]
+- [[Relatedness-Need]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]

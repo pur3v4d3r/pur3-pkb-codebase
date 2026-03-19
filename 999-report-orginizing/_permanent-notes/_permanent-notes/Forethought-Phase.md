@@ -1,17 +1,11 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Forethought Phase"
+title: Forethought Phase
 aliases:
-  - "Forethought Phase"
+  - Forethought Phase
+  - forethought
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +15,6 @@ tags:
   - metacognition/embedding
   - educational-psychology/self-regulated-learning
   - educational-philosophy/reflective-inquiry
-
 domain: learning-science
 subdomains:
   - cognitive-psychology
@@ -29,39 +22,22 @@ subdomains:
   - educational-philosophy
   - instructional-design
   - metacognition
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14"
-  - "self-regulated-learning-focused-analysis-2026-03-06.md"
+  - 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14
+  - self-regulated-learning-focused-analysis-2026-03-06.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Metacognitive-Control|Metacognitive Control]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
   - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
   - "[[Nelson-Narens-Model|Nelson Narens Model]]"
@@ -69,13 +45,10 @@ related:
   - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
   - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[Calibration]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Behavioral-Science|Behavioral Science]]"
   - "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
@@ -86,46 +59,36 @@ see-also:
   - "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
   - "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB|PKB]]"
   - "[[Self-Efficacy|Self-Efficacy]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
-
 enables:
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
   - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
   - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
-
 expansion-topics:
   - topic: "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-    description: "How does metacognitive calibration accuracy change with deliberate practice, and what is the traject"
+    description: How does metacognitive calibration accuracy change with deliberate practice, and what is the traject
     priority: medium
   - topic: "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
-    description: "A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin"
+    description: A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin
     priority: medium
   - topic: "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-    description: "Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found"
+    description: Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found
     priority: medium
   - topic: "[[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]"
     description: "Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level "
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -157,7 +120,7 @@ importance: high
 > Across two studies of young women learning a motor skill (dart-throwing) and a writing revision skill, Zimmerman and Kitsantas systematically varied whether participants set process goals (focus on the regulatory steps) or outcome goals (focus on the final performance score), and whether they shifted from process to outcome goals when competence was established. The key finding: participants who set process goals initially and shifted to outcome goals upon achieving competence significantly outperformed those who set only outcome goals or only process goals throughout. The performance advantage persisted in transfer conditions. Critically, self-efficacy mediated the relationship — process goal setting produced larger self-efficacy gains, which in turn drove performance. This is among the clearest experimental demonstrations that it is the regulatory process, not simply motivation to achieve, that drives SRL-linked performance gains.
 
 > [!evidence] Supporting Evidence *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
-> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise Reversal Effect]] documented by Kalyuga and colleagues. The cognitive cost of monitoring and controlling learning competes with the cognitive resources available for actually learning the content. The implication, largely unacknowledged in SRL-enthusiast literature, is that SRL interventions should be targeted to learners at the right stage of expertise — not applied universally as if regulation were costless.
+> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise-Reversal-Effect]] documented by Kalyuga and colleagues. The cognitive cost of monitoring and controlling learning competes with the cognitive resources available for actually learning the content. The implication, largely unacknowledged in SRL-enthusiast literature, is that SRL interventions should be targeted to learners at the right stage of expertise — not applied universally as if regulation were costless.
 
 > [!evidence] Supporting Evidence *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > Hattie and Timperley's influential analysis of feedback research identified self-regulation as one of four feedback levels (task, process, self-regulation, and self). Their synthesis of meta-analytic data indicated that feedback at the self-regulation level — feedback that enhances self-monitoring, self-assessment, and self-correction rather than simply providing task-level correction — produced effect sizes averaging d = 0.75, substantially larger than task-level feedback (d = 0.34). Critically, they distinguished between feedback that does the regulatory work for the learner and feedback that builds the learner's capacity to do that regulatory work themselves. The latter requires a specific structural feature: it must be actionable within the learner's current monitoring and control capability.
@@ -199,7 +162,7 @@ importance: high
 [[Behavioral-Science|Behavioral Science]] · [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration-Tracking|Calibration Tracking]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]] · [[Implementation-Intentions|Implementation Intentions]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
 
 **Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[PKB|PKB]] * [[Self-Efficacy|Self-Efficacy]] * [[Performance-Phase|Performance Phase]] * [[Self-Monitoring|Self-Monitoring]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]] * [[MSLQ|MSLQ]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[PKB|PKB]] * [[Self-Efficacy|Self-Efficacy]] * [[Performance-Phase|Performance Phase]] * [[Self-Monitoring|Self-Monitoring]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]] * [[MSLQ|MSLQ]]
 
 **Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
 - [[Negative-Feedback-Control-System|Negative Feedback Control System]]

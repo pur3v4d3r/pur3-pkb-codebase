@@ -450,7 +450,7 @@ By distributing processing across multiple encounters separated by time, progres
 
 ### The Forgetting Curve and Just-in-Time Processing
 
-<span style='color: #FF5700;'>Hermann Ebbinghaus's (1885)</span> [[Forgetting Curve]] reveals that without rehearsal or review, information retention follows an exponential decay function—steep initial loss followed by slower decline. Progressive summarization inverts this liability into an asset through what Forte calls <span style='color: #27FF00;'>"opportunistic compression"</span>: rather than fighting forgetting through forced immediate processing, the system accepts that <span style='color: #9E6CD3;'>most captured information will never be needed</span>. The minimal initial capture (Layer 1) preserves optionality without investment. Subsequent layers are applied <span style='color: #FFC700;'>only when the information proves valuable enough to warrant deeper processing</span>—a form of just-in-time cognitive investment that dramatically improves return on attention.
+<span style='color: #FF5700;'>Hermann Ebbinghaus's (1885)</span> [[Forgetting-Curve]] reveals that without rehearsal or review, information retention follows an exponential decay function—steep initial loss followed by slower decline. Progressive summarization inverts this liability into an asset through what Forte calls <span style='color: #27FF00;'>"opportunistic compression"</span>: rather than fighting forgetting through forced immediate processing, the system accepts that <span style='color: #9E6CD3;'>most captured information will never be needed</span>. The minimal initial capture (Layer 1) preserves optionality without investment. Subsequent layers are applied <span style='color: #FFC700;'>only when the information proves valuable enough to warrant deeper processing</span>—a form of just-in-time cognitive investment that dramatically improves return on attention.
 
 [**Opportunistic Compression**:: Tiago Forte's term for summarizing and condensing information "in small spurts, spread across time, in the course of other work, and only doing as much or as little as the information deserves" (Forte, 2017). This approach contrasts with comprehensive front-loaded processing by deferring cognitive investment until information demonstrates actual utility.]^established-consensus
 
@@ -494,7 +494,7 @@ When you return to a note for actual use (not during capture), the second layer 
 
 [**Resonance-Based-Selection**:: Forte's principle for deciding what to highlight: "Use resonance as your criteria" (Forte, 2017). Rather than attempting to identify objectively important content, progressive summarization relies on visceral cognitive/emotional responses during reading as signals of personal relevance and integration potential.]^established-stable
 
-The cognitive mechanism at work here is <span style='color: #27FF00;'>**attention amplification through selective focus**</span>. By forcing discrimination between passages, you engage in comparative evaluation—a form of [[Elaborative Interrogation]] where you implicitly ask "Why is this passage more important than that one?" This comparative processing creates richer encoding than passive reading.
+The cognitive mechanism at work here is <span style='color: #27FF00;'>**attention amplification through selective focus**</span>. By forcing discrimination between passages, you engage in comparative evaluation—a form of [[Elaborative-Interrogation]] where you implicitly ask "Why is this passage more important than that one?" This comparative processing creates richer encoding than passive reading.
 
 %%counterexample: highlighting-always-better%%
 Research on highlighting effectiveness reveals crucial nuances. <span style='color: #FF5700;'>Ponce, López, and Mayer's (2022)</span> meta-analysis of 85 studies found that learner-generated highlighting improved <span style='color: #27FF00;'>memory retention (d=0.36)</span> but not comprehension (d=0.20). <span style='color: #FF00DC;'>**Critical caveat:**</span> Highlighting without subsequent review provides minimal benefit. <span style='color: #FF5700;'>Dunlosky et al. (2013)</span> rated highlighting as "low utility" precisely because students often highlight without returning to process those highlights further—violating the progressive principle.
@@ -519,7 +519,7 @@ The third layer applies <span style='color: #FFC700;'>**sentence-level highlight
 
 The abstraction occurring at Layer 3 engages <span style='color: #27FF00;'>**principle extraction**</span>—you're no longer selecting interesting passages but identifying the underlying claims, mechanisms, or frameworks those passages exemplify. This moves processing from [[Comprehension]] toward [[Analysis]] on [[Bloom's Taxonomy]], requiring integration across sentences and inference about implicit structure.
 
-%%mental-model: CLT%% Layer 3 reduces [[Extraneous Cognitive Load]] during future retrieval by pre-filtering noise, while maintaining [[Germane Cognitive Load|germane load]] through the availability of contextual layers when deeper understanding is required.
+%%mental-model: CLT%% Layer 3 reduces [[Extraneous Cognitive Load]] during future retrieval by pre-filtering noise, while maintaining [[Germane-Cognitive-Load|germane load]] through the availability of contextual layers when deeper understanding is required.
 
 ### Layer 4: Executive Summary (Synthesis Layer)
 
@@ -539,7 +539,7 @@ The fourth and most demanding layer creates <span style='color: #FFC700;'>**a 3-
 
 This layer represents the transition from <span style='color: #9E6CD3;'>**information compression**</span> to <span style='color: #FFC700;'>**knowledge synthesis**</span>. You're no longer working with the author's language but translating concepts into your own semantic framework, connecting the material to your existing knowledge structures, and making explicit the relevance that motivated capture in the first place.
 
-%%applies-to: knowledge-retention%% The act of summary generation is itself a powerful learning mechanism. <span style='color: #FF5700;'>Roediger and Karpicke's (2006)</span> [[Testing Effect]] research demonstrates that <span style='color: #27FF00;'>attempting to retrieve and reconstruct information from memory produces superior long-term retention compared to repeated study</span>. Writing an executive summary without looking at highlights is essentially a [[Retrieval Practice|retrieval practice]] event that strengthens memory consolidation.
+%%applies-to: knowledge-retention%% The act of summary generation is itself a powerful learning mechanism. <span style='color: #FF5700;'>Roediger and Karpicke's (2006)</span> [[Testing-Effect]] research demonstrates that <span style='color: #27FF00;'>attempting to retrieve and reconstruct information from memory produces superior long-term retention compared to repeated study</span>. Writing an executive summary without looking at highlights is essentially a [[Retrieval-Practice|retrieval practice]] event that strengthens memory consolidation.
 
 ### Layer 5 (Implicit): Atomic Note Distillation
 
@@ -615,14 +615,14 @@ The ultimate formalization step—creating [[Atomic Notes]] within a [[Knowledge
 
 When you extract an atomic note on <span style='color: #72FFF1;'>"Germane Cognitive Load,"</span> progressive summarization has already identified the concept's importance. Incremental formalization then requires articulating:
 
-- <span style='color: #FFC700;'>**Prerequisite relationships:**</span> `[[Germane Cognitive Load]]^prerequisite: [[Working Memory]]`
-- <span style='color: #27FF00;'>**Complementary relationships:**</span> `[[Germane Cognitive Load]]^complements: [[Schema Theory]]`
-- <span style='color: #FF00DC;'>**Contradictory relationships:**</span> `[[Germane Cognitive Load]]^contradicts: [[Extraneous Cognitive Load]]` (competing for same capacity)
-- <span style='color: #9E6CD3;'>**Extension relationships:**</span> `[[Germane Cognitive Load]]^extends: [[Sweller Instructional Design Principles]]`
+- <span style='color: #FFC700;'>**Prerequisite relationships:**</span> `[[Germane-Cognitive-Load]]^prerequisite: [[Working Memory]]`
+- <span style='color: #27FF00;'>**Complementary relationships:**</span> `[[Germane-Cognitive-Load]]^complements: [[Schema Theory]]`
+- <span style='color: #FF00DC;'>**Contradictory relationships:**</span> `[[Germane-Cognitive-Load]]^contradicts: [[Extraneous Cognitive Load]]` (competing for same capacity)
+- <span style='color: #9E6CD3;'>**Extension relationships:**</span> `[[Germane-Cognitive-Load]]^extends: [[Sweller Instructional Design Principles]]`
 
 %%QA:knowledge-graph:relationship-typing%%
 
-This explicit relationship mapping transforms isolated notes into a [[Semantic Network]]—a web of propositions where meaning emerges from connections, not just content. <span style='color: #FF5700;'>Collins and Loftus's (1975)</span> [[Spreading Activation Theory]] suggests that such networks enable <span style='color: #27FF00;'>**insight through association**</span>: activating one node spreads activation to connected nodes, surfacing non-obvious relationships and enabling novel combinations.
+This explicit relationship mapping transforms isolated notes into a [[Semantic-Network]]—a web of propositions where meaning emerges from connections, not just content. <span style='color: #FF5700;'>Collins and Loftus's (1975)</span> [[Spreading Activation Theory]] suggests that such networks enable <span style='color: #27FF00;'>**insight through association**</span>: activating one node spreads activation to connected nodes, surfacing non-obvious relationships and enabling novel combinations.
 
 ---
 
@@ -979,7 +979,7 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Elaborative interrogation has its own rich research base (Pressley et al., 1987; Dunlosky et al., 2013) showing that self-explaining improves comprehension and retention. A dedicated note would explore how to systematically apply "why?" questions during Layer 3-4 processing, transform summaries into understanding, and leverage elaboration without overwhelming cognitive load.
 
-**Knowledge Graph Role:** Bridges [[Progressive Summarization]] to [[Deep Processing Techniques]], connects to [[Self-Explanation Effect]], and integrates with [[Metacognitive Strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
+**Knowledge Graph Role:** Bridges [[Progressive Summarization]] to [[Deep Processing Techniques]], connects to [[Self-Explanation-Effect]], and integrates with [[Metacognitive Strategies]]. Would serve as a methodological extension showing how to make progressive summarization even more effective through strategic question-asking.
 
 **Priority:** High — This represents the natural next step in optimizing progressive summarization for learning (not just discoverability), and has strong empirical support making it immediately actionable.
 
@@ -996,7 +996,7 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Priority:** Medium — Intellectually rich but less immediately actionable than elaborative interrogation. Best pursued after building strong foundational understanding of both progressive summarization practice and information theory basics.
 
-**Prerequisites:** [[Progressive Summarization]], [[Information Theory Basics]], [[Semantic Networks]], [[Knowledge Representation]]
+**Prerequisites:** [[Progressive Summarization]], [[Information Theory Basics]], [[Semantic-Networks]], [[Knowledge Representation]]
 
 ---
 
@@ -1005,18 +1005,18 @@ Progressive summarization benefits from regular <span style='color: #72FFF1;'>**
 
 **Depth Potential:** Would synthesize research on optimal spacing intervals (expanding intervals vs. uniform distribution), individual differences in optimal spacing, domain-specific spacing effects, and practical implementations (SM-2 algorithm, Leitner system). Could explore hybrid approaches: progressive summarization for discoverability + spaced repetition for deliberate retention of key concepts.
 
-**Knowledge Graph Role:** Connects [[Progressive Summarization]] to [[Spaced Repetition Systems]], [[Memory Consolidation]], [[Forgetting Curves]], and [[Learning Science Applications]]. Bridges note-taking methodology with active learning techniques.
+**Knowledge Graph Role:** Connects [[Progressive Summarization]] to [[Spaced-Repetition-Systems]], [[Memory Consolidation]], [[Forgetting Curves]], and [[Learning Science Applications]]. Bridges note-taking methodology with active learning techniques.
 
 **Priority:** High — Highly practical, addresses common user question ("should I review notes, or just let progressive summarization happen organically?"), and has robust evidence base. Immediately implementable through scheduling plugins.
 
-**Prerequisites:** [[Progressive Summarization]], [[Forgetting Curve]], [[Spacing Effect]], basic familiarity with [[Spaced Repetition Systems]]
+**Prerequisites:** [[Progressive Summarization]], [[Forgetting-Curve]], [[Spacing-Effect]], basic familiarity with [[Spaced-Repetition-Systems]]
 
 ---
 
 ### 4. **[[From Atomic Notes to Concept Networks: Graph-Based Knowledge Architecture]]**
 **Connection:** Progressive summarization's Layer 5 (atomic note extraction) produces discrete knowledge nodes, but organizing those nodes into coherent networks requires additional architectural decisions: hub notes, MOCs, link types, emergent vs. designed structure. This explores the transition from individual notes to networked knowledge graphs.
 
-**Depth Potential:** Would cover [[Graph Theory]] applied to PKM, [[Semantic Networks]] in cognitive science, practical linking strategies (hub-and-spoke, rhizomatic, hierarchical-hybrid), and tools/techniques for visualizing and navigating knowledge graphs. Could include case studies of high-functioning PKBs showing different architectural patterns.
+**Depth Potential:** Would cover [[Graph Theory]] applied to PKM, [[Semantic-Networks]] in cognitive science, practical linking strategies (hub-and-spoke, rhizomatic, hierarchical-hybrid), and tools/techniques for visualizing and navigating knowledge graphs. Could include case studies of high-functioning PKBs showing different architectural patterns.
 
 **Knowledge Graph Role:** Extends [[Progressive Summarization]] and [[Atomic Notes]] into [[Knowledge Graph Architecture]], [[Graph Theory Applications]], [[Network Science]], and [[Information Architecture]]. Represents the "so what now?" after you've extracted hundreds of atomic notes—how do you organize them for discovery, connection-making, and emergent insight?
 

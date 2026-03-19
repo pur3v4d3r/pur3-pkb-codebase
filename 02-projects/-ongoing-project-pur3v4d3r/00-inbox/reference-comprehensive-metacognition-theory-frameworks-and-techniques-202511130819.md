@@ -213,7 +213,7 @@ Person variables intimately connect with [[Self-Efficacy]]—beliefs about one's
 
 > [!warning]
 > **The Dunning-Kruger Trap**
-> Inaccurate person variables can be devastating. Those with limited competence may overestimate their abilities (the [[Dunning-Kruger Effect]]), while highly skilled individuals may underestimate themselves (impostor syndrome). Developing accurate self-knowledge requires systematic [[Self-Assessment]] and external feedback calibration.
+> Inaccurate person variables can be devastating. Those with limited competence may overestimate their abilities (the [[Dunning-Kruger-Effect]]), while highly skilled individuals may underestimate themselves (impostor syndrome). Developing accurate self-knowledge requires systematic [[Self-Assessment]] and external feedback calibration.
 
 ### Task Variables: Understanding Demands & Complexity
 
@@ -284,7 +284,7 @@ Strategy variables represent the learner's cognitive toolkit—the collection of
 - Grasping the cognitive principles underlying strategy effectiveness
 
 > [!example]
-> **Strategy Knowledge in Action: [[Elaborative Interrogation]]**
+> **Strategy Knowledge in Action: [[Elaborative-Interrogation]]**
 > - **Declarative**: "Elaborative interrogation means asking yourself 'why' questions about facts"
 > - **Procedural**: "Generate specific 'why' questions for each key concept, then answer them using prior knowledge and logical inference"
 > - **Conditional**: "Use this when learning conceptual material with causal relationships; less effective for arbitrary associations or rote memorization"
@@ -723,7 +723,7 @@ Metacognitive calibration is the capacity to accurately self-assess one's perfor
 **Calibration Biases:**
 - **Overconfidence**: Judgments exceed actual performance (common in novices)
 - **Underconfidence**: Judgments below actual performance (can occur in experts)
-- Unskilled individuals often exhibit inflated self-assessments due to inability to recognize their own incompetence ([[Dunning-Kruger Effect]])
+- Unskilled individuals often exhibit inflated self-assessments due to inability to recognize their own incompetence ([[Dunning-Kruger-Effect]])
 
 **Calibration Curve Example:**
 

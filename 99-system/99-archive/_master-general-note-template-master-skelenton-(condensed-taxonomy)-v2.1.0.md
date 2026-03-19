@@ -48,7 +48,7 @@ const sourceList = [
 ];
 // 3. LINK-UP MOCs
 const linkUpList = [
-    "[[99-archive/05-moc's/cognitive-science-moc]]",
+    "[[cognitive-science-moc]]",
     "[[pkb-&-pkm-moc]]",
     "[[educational-psychology-moc]]",
     "[[prompt-engineering-moc]]",

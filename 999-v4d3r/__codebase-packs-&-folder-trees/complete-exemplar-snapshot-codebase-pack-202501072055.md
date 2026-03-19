@@ -2243,9 +2243,9 @@ evidence_base: "repository-synthesis"
 
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
-  - "[[Chain-of-Thought Prompting]]"
+  - "[[Chain-of-Thought-Prompting]]"
   - "[[Tree of Thoughts]]"
-  - "[[Retrieval Augmented Generation]]"
+  - "[[Retrieval-Augmented-Generation]]"
   - "[[Self-Consistency]]"
   - "[[Constitutional AI]]"
   - "[[Production Deployment]]"
@@ -2295,7 +2295,7 @@ This document integrates with:
 ### Prerequisites
 
 **Required Understanding:**
-- Basic [[Chain-of-Thought Prompting]] (covered in [[doc1-complex-reasoning-solutions-architecture]])
+- Basic [[Chain-of-Thought-Prompting]] (covered in [[doc1-complex-reasoning-solutions-architecture]])
 - [[Prompt Engineering]] fundamentals
 - [[LLM Limitations]] and common failure modes
 
@@ -2340,7 +2340,7 @@ Understanding the root causes of unreliability enables targeted mitigation strat
 
 **Misinformation in Training**: Internet-scraped training data inevitably includes false information, misconceptions, and propaganda. Models absorb these patterns and may reproduce them, particularly for controversial topics where misinformation is prevalent in source materials.
 
-**Temporal Validity**: Even for included knowledge, information becomes outdated. Scientific findings are revised, policies change, technologies evolve - but model knowledge remains frozen at training time unless explicitly updated through [[Retrieval Augmented Generation]] or other augmentation strategies.
+**Temporal Validity**: Even for included knowledge, information becomes outdated. Scientific findings are revised, policies change, technologies evolve - but model knowledge remains frozen at training time unless explicitly updated through [[Retrieval-Augmented-Generation]] or other augmentation strategies.
 
 #### Architectural Reasoning Constraints
 
@@ -3131,7 +3131,7 @@ Final Answer: [Extracted answer only]
 [Run this prompt N times with temperature 0.8]
 ```
 
-**Critical Implementation Note**: Self-Consistency requires [[Chain-of-Thought Prompting]] or similar reasoning-transparent technique. Simple question-answering without reasoning exposition doesn't provide the consistency signal benefits.
+**Critical Implementation Note**: Self-Consistency requires [[Chain-of-Thought-Prompting]] or similar reasoning-transparent technique. Simple question-answering without reasoning exposition doesn't provide the consistency signal benefits.
 
 #### Step 2: Answer Extraction
 
@@ -3639,7 +3639,7 @@ def hybrid_selective(query):
 > [!warning] Reasoning Without Provenance
 > **[LLM-Attribution-Gap**:: Standard Chain-of-Thought reasoning produces logical-sounding inference chains but lacks explicit grounding in source evidence - models synthesize reasoning from training patterns without citing which training examples or knowledge structures inform each step, creating "reasoning without receipts" that undermines trust and prevents verification of reasoning validity even when conclusions happen to be correct.]**
 
-Traditional [[Chain-of-Thought Prompting]] dramatically improves reasoning quality by making thought processes explicit, but it introduces a critical reliability problem: **How do we know the reasoning is grounded in actual knowledge rather than plausible-sounding fabrication?**
+Traditional [[Chain-of-Thought-Prompting]] dramatically improves reasoning quality by making thought processes explicit, but it introduces a critical reliability problem: **How do we know the reasoning is grounded in actual knowledge rather than plausible-sounding fabrication?**
 
 **Standard CoT Example** (Ungrounded):
 ```
@@ -3668,7 +3668,7 @@ This **attribution gap** creates multiple problems:
 > [!definition] Faithful CoT Definition
 > **[Faithful-Chain-of-Thought**:: Reasoning methodology that grounds every inference step explicitly in provided source materials through three core requirements: (1) Source Selection - identify which document passages inform each reasoning step, (2) Faithful Inference - ensure reasoning steps derive logically from cited sources without adding unsupported claims, and (3) Explicit Attribution - annotate each reasoning step with source citations enabling independent verification of inference validity.]**
 
-[[Faithful Chain-of-Thought]], developed by [[Mallen et al. (2023)]] and extended by various researchers, provides structured approach to grounding reasoning in evidence. The technique integrates particularly well with [[Retrieval Augmented Generation]] (RAG) systems.
+[[Faithful Chain-of-Thought]], developed by [[Mallen et al. (2023)]] and extended by various researchers, provides structured approach to grounding reasoning in evidence. The technique integrates particularly well with [[Retrieval-Augmented-Generation]] (RAG) systems.
 
 #### Core Requirements for Faithful CoT
 
@@ -3903,7 +3903,7 @@ Answer:
 > [!key-claim] Faithful CoT as RAG Reliability Layer
 > **[Faithful-CoT-RAG-Synergy**:: Retrieval Augmented Generation systems achieve maximum reliability when paired with Faithful Chain-of-Thought reasoning - RAG provides authoritative source materials addressing knowledge cutoff and domain-specific information needs, while Faithful CoT ensures reasoning remains grounded in retrieved documents rather than hallucinating connections or adding unsupported claims, creating end-to-end verifiable inference from retrieval through reasoning to final answer.]**
 
-[[Retrieval Augmented Generation]] (RAG) and Faithful CoT form a powerful combination for reliable, knowledge-grounded AI systems:
+[[Retrieval-Augmented-Generation]] (RAG) and Faithful CoT form a powerful combination for reliable, knowledge-grounded AI systems:
 
 #### RAG System Architecture
 
@@ -38690,7 +38690,7 @@ foundational_principles:
         related_concepts:
           - "[[Context Engineering]]"
           - "[[Information Density]]"
-          - "[[Retrieval Augmented Generation]]"
+          - "[[Retrieval-Augmented-Generation]]"
       
       - id: "AX-003"
         name: "Decomposition Axiom"
@@ -39280,7 +39280,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Zero-Shot Prompting]]"
-          - "[[Chain-of-Thought Prompting]]"
+          - "[[Chain-of-Thought-Prompting]]"
           - "[[In-Context Learning]]"
           - "[[Dynamic Example Selection]]"
       
@@ -39771,7 +39771,7 @@ prompting_techniques:
               - "Allow backtracking when top paths fail"
         
         related_concepts:
-          - "[[Chain-of-Thought Prompting]]"
+          - "[[Chain-of-Thought-Prompting]]"
           - "[[Self-Consistency]]"
           - "[[Monte Carlo Tree Search]]"
           - "[[Deliberate Practice]]"
@@ -39865,7 +39865,7 @@ prompting_techniques:
               - "<50% agreement: flag for review"
         
         related_concepts:
-          - "[[Chain-of-Thought Prompting]]"
+          - "[[Chain-of-Thought-Prompting]]"
           - "[[Ensemble Methods]]"
           - "[[Uncertainty Quantification]]"
 

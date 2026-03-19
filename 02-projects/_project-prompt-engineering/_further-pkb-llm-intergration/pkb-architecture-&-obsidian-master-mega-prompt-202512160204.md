@@ -406,19 +406,19 @@ Identify and link any term that meets these criteria:
 - Term requires specific definition to understand fully
 - Concept has domain-specific meaning different from common usage
 - Idea represents a discrete, learnable unit of knowledge
-- Examples: [[Cognitive Load]], [[Zettelkasten]], [[Emergent Behavior]]
+- Examples: [[Cognitive-Load]], [[Zettelkasten]], [[Emergent Behavior]]
 
 ✓ **Theoretical Framework**
 - Named model, theory, or systematic approach
 - Attributed to specific researcher/thinker
 - Has literature/research supporting it
-- Examples: [[Dual Coding Theory]], [[PARA Method]], [[Bloom's Taxonomy]]
+- Examples: [[Dual-Coding-Theory]], [[PARA Method]], [[Bloom's Taxonomy]]
 
 ✓ **Methodological Process**
 - Step-by-step procedure or technique
 - Replicable workflow or system
 - Has specific implementation requirements
-- Examples: [[Progressive Summarization]], [[Spaced Repetition]], [[Elaborative Interrogation]]
+- Examples: [[Progressive Summarization]], [[Spaced Repetition]], [[Elaborative-Interrogation]]
 
 **CATEGORY 2: Technical & Tool-Specific Terms**
 
@@ -439,7 +439,7 @@ Identify and link any term that meets these criteria:
 ✓ **Academic Fields**
 - Broad domains: [[Cognitive Science]], [[Neuroscience]], [[Instructional Design]]
 - Subdisciplines: [[Educational Psychology]], [[Human-Computer Interaction]]
-- Research areas: [[Learning Analytics]], [[Metacognition]]
+- Research areas: [[Learning-Analytics]], [[Metacognition]]
 
 ✓ **Specialized Subfields**
 - [[Andragogy]], [[Heutagogy]], [[Constructivism]]
@@ -618,7 +618,7 @@ This bi-directional awareness creates a more robust knowledge graph.
 
 ❌ **Over-Linking Every Occurrence:**
 ```markdown
-[[Cognitive Load]] theory explains how [[cognitive load]] affects learning. 
+[[Cognitive-Load]] theory explains how [[cognitive load]] affects learning. 
 When [[cognitive load]] is too high, [[cognitive load]] overwhelms [[working memory]].
 ```
 ✅ **Correct Approach:**
@@ -2352,7 +2352,7 @@ Include when:
    - **Knowledge Graph Role**: Bridge node connecting cognitive science, instructional design, and user experience design domains
    - **Priority**: **Medium** - Valuable for practitioners working across digital learning and product design
 
-4. **[[Dual Coding Theory]]**
+4. **[[Dual-Coding-Theory]]**
    - **Connection**: Complementary framework explaining how verbal and visual processing interact, offering alternative perspective on optimizing learning materials
    - **Depth Potential**: Paivio's framework provides distinct but compatible lens; integration with CLT reveals synergistic design strategies
    - **Knowledge Graph Role**: Parallel theoretical framework enabling triangulation and richer understanding of multimedia learning

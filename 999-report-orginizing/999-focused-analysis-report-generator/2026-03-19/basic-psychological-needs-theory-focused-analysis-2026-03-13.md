@@ -1,7 +1,4 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Basic Psychological Needs Theory: The Conjunctive System Thesis — A Focused Analysis"
 aliases:
   - "[[BPNT Focused Analysis]]"
@@ -10,10 +7,6 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - focused-analysis
@@ -30,174 +23,125 @@ tags:
   - comprehensive
   - research-grounded
   - analytical-depth
-
 domain: educational-psychology
 subdomains:
   - motivation-theory
   - well-being-research
   - instructional-design
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-13
 updated: 2026-03-13
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: mixed-methods
 evidence-quality: high
 peer-validation: multiple-frameworks
-
-analytical-focus: "Whether the three basic psychological needs — autonomy, competence, and relatedness — operate as a conjunctive system in which all must be satisfied for well-being to emerge, or as a compensatory system in which satisfaction of one can offset deprivation of another; and what the evidence for the asymmetry between need satisfaction and need frustration reveals about the deep structure of human motivational architecture."
-
+analytical-focus: Whether the three basic psychological needs — autonomy, competence, and relatedness — operate as a conjunctive system in which all must be satisfied for well-being to emerge, or as a compensatory system in which satisfaction of one can offset deprivation of another; and what the evidence for the asymmetry between need satisfaction and need frustration reveals about the deep structure of human motivational architecture.
 key-frameworks:
-  - name: "Basic Psychological Needs Theory (BPNT)"
-    description: "Mini-theory within SDT specifying that autonomy, competence, and relatedness are universal innate psychological needs whose satisfaction is necessary for growth, integrity, and well-being"
-    developers: "Deci & Ryan (2000)"
-    validation: "Extensive cross-cultural and experimental support"
-  - name: "Need Frustration vs. Absence Asymmetry"
-    description: "The theoretical and empirical distinction between actively thwarted needs (frustration) and merely unsatisfied needs (absence), with distinct outcome profiles"
-    developers: "Vansteenkiste & Ryan (2013)"
-    validation: "Validated through structural equation modeling in multiple domains"
-
+  - name: Basic Psychological Needs Theory (BPNT)
+    description: Mini-theory within SDT specifying that autonomy, competence, and relatedness are universal innate psychological needs whose satisfaction is necessary for growth, integrity, and well-being
+    developers: Deci & Ryan (2000)
+    validation: Extensive cross-cultural and experimental support
+  - name: Need Frustration vs. Absence Asymmetry
+    description: The theoretical and empirical distinction between actively thwarted needs (frustration) and merely unsatisfied needs (absence), with distinct outcome profiles
+    developers: Vansteenkiste & Ryan (2013)
+    validation: Validated through structural equation modeling in multiple domains
 key-researchers:
-  - "Edward Deci"
-  - "Richard Ryan"
-  - "Maarten Vansteenkiste"
-  - "Bart Soenens"
-  - "Johnmarshall Reeve"
-  - "Netta Weinstein"
-  - "Christopher Niemiec"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~10,200"
+  - Edward Deci
+  - Richard Ryan
+  - Maarten Vansteenkiste
+  - Bart Soenens
+  - Johnmarshall Reeve
+  - Netta Weinstein
+  - Christopher Niemiec
+word-count: ~10,200
 complexity-level: advanced-practitioner
-target-audience: "Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivation theory"
+target-audience: Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivation theory
 depth-level: analytical-focused
 treatment-type: focused-analysis
-
 analytical-contributions:
   insight-count: 5
   original-syntheses: 2
   tensions-identified: 3
   cross-domain-connections: 2
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Need satisfaction vs. need frustration asymmetry"
-  - "Conjunctive vs. compensatory need system architecture"
-  - "Autonomy as perceived internal locus of causation (not independence)"
-  - "Need substitutes and dark side behaviors"
-  - "Cultural universality of basic needs"
-
+  - Need satisfaction vs. need frustration asymmetry
+  - Conjunctive vs. compensatory need system architecture
+  - Autonomy as perceived internal locus of causation (not independence)
+  - Need substitutes and dark side behaviors
+  - Cultural universality of basic needs
 key-arguments:
   - "The three needs operate conjunctively: satisfaction of two cannot offset thwarting of one"
-  - "Need frustration and need satisfaction are not mirror-image opposites but qualitatively distinct processes with different outcome profiles"
-  - "The autonomy need is systematically misunderstood as independence; the distinction is theoretically and practically critical"
-
+  - Need frustration and need satisfaction are not mirror-image opposites but qualitatively distinct processes with different outcome profiles
+  - The autonomy need is systematically misunderstood as independence; the distinction is theoretically and practically critical
 key-distinctions:
-  - "Need satisfaction vs. need frustration (asymmetry thesis)"
-  - "Autonomy vs. independence"
-  - "Need substitutes vs. genuine need satisfaction"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Need satisfaction vs. need frustration (asymmetry thesis)
+  - Autonomy vs. independence
+  - Need substitutes vs. genuine need satisfaction
 prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic and Extrinsic Motivation]]"
-
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
-
 related:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Autonomy Support in Education]]"
-
 broader:
   - "[[Motivation Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Positive Psychology]]"
-
 narrower:
   - "[[Autonomy Support Pedagogical Practices]]"
   - "[[Need Frustration and Dark Side Motivation]]"
   - "[[Relatedness in Learning Environments]]"
-
 see-also:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Self-Efficacy Theory — Bandura]]"
   - "[[Expectancy-Value Theory]]"
-
 contrasts-with:
   - "[[Drive Reduction Theory]]"
   - "[[Maslow's Hierarchy of Needs]]"
   - "[[Incentive-Based Motivation Models]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Environment Design]]"
   - "[[Performance Management]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Organismic-Meta-Theory|Organismic Meta-Theory]]"
-
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
   - "[[Needs-Based Learning Environment Analysis]]"
-
 expansion-topics:
   - topic: "[[Autonomy Support — Mechanisms and Measurement]]"
     description: "Deep analysis of Reeve's autonomy-supportive teaching framework: the specific behaviors (perspective-taking, rationale provision, minimizing pressure) that satisfy rather than frustrate the autonomy need, with the ASOS measurement instrument and intervention research"
     priority: high
   - topic: "[[Need Frustration and the Dark Side of Motivation]]"
-    description: "Analysis of the behavioral, cognitive, and affective consequences of chronic need thwarting — including ego-involved performance goals, controlled motivation, and well-being deterioration — drawing on Bartholomew et al. (2011) and Ryan et al. (2016)"
+    description: Analysis of the behavioral, cognitive, and affective consequences of chronic need thwarting — including ego-involved performance goals, controlled motivation, and well-being deterioration — drawing on Bartholomew et al. (2011) and Ryan et al. (2016)
     priority: high
   - topic: "[[Cultural Universality of Basic Psychological Needs]]"
-    description: "Critical examination of the cross-cultural evidence for BPNT universality, with particular attention to the autonomy need in collectivist contexts — distinguishing between the content of autonomy expression and the underlying organismic function"
+    description: Critical examination of the cross-cultural evidence for BPNT universality, with particular attention to the autonomy need in collectivist contexts — distinguishing between the content of autonomy expression and the underlying organismic function
     priority: high
   - topic: "[[Relatedness and Belonging in Digital Learning Environments]]"
-    description: "How online and hybrid learning environments compromise the relatedness need and what structural and pedagogical features of digital spaces can restore it — with implications for asynchronous versus synchronous design"
+    description: How online and hybrid learning environments compromise the relatedness need and what structural and pedagogical features of digital spaces can restore it — with implications for asynchronous versus synchronous design
     priority: medium
   - topic: "[[Competence Need and Optimal Challenge — Flow Theory Connections]]"
-    description: "The structural parallels between BPNT's competence need satisfaction and Csikszentmihalyi's flow state conditions, examining how optimal challenge design simultaneously satisfies competence needs and produces engagement"
+    description: The structural parallels between BPNT's competence need satisfaction and Csikszentmihalyi's flow state conditions, examining how optimal challenge design simultaneously satisfies competence needs and produces engagement
     priority: medium
   - topic: "[[BPNT in Workplace Motivation — Application Across Contexts]]"
-    description: "Translating BPNT from educational settings to organizational contexts — autonomous motivation, job design, managerial autonomy support, and the evidence base for needs-based interventions in professional environments"
+    description: Translating BPNT from educational settings to organizational contexts — autonomous motivation, job design, managerial autonomy support, and the evidence base for needs-based interventions in professional environments
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Deci & Ryan (2000) — BPNT foundational theoretical framework"
-  - "Vansteenkiste & Ryan (2013) — need satisfaction/frustration asymmetry"
-  - "Chirkov et al. (2003) — cross-cultural autonomy study"
-  - "Sheldon & Gunz (2009) — need substitution hypothesis"
-  - "Niemiec & Ryan (2009) — SDT in educational contexts meta-review"
-  - "Chen et al. (2015) — Basic Psychological Need Frustration Scale validation"
-
+  - Deci & Ryan (2000) — BPNT foundational theoretical framework
+  - Vansteenkiste & Ryan (2013) — need satisfaction/frustration asymmetry
+  - Chirkov et al. (2003) — cross-cultural autonomy study
+  - Sheldon & Gunz (2009) — need substitution hypothesis
+  - Niemiec & Ryan (2009) — SDT in educational contexts meta-review
+  - Chen et al. (2015) — Basic Psychological Need Frustration Scale validation
 limitations-noted:
-  - "Self-report measurement of needs creates construct validity challenges"
-  - "Cross-cultural universality claims strongest for competence and relatedness; autonomy shows more surface-level variation"
-  - "Most BPNT intervention research is correlational or quasi-experimental"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Self-report measurement of needs creates construct validity challenges
+  - Cross-cultural universality claims strongest for competence and relatedness; autonomy shows more surface-level variation
+  - Most BPNT intervention research is correlational or quasi-experimental
 sections:
   - "Phase I: Orientation & Analytical Focus"
   - "Phase II: Analytical Framework"
@@ -207,16 +151,11 @@ sections:
   - "Phase VI: Synthesis, Integration & Original Contribution"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix"
-
 document-features:
   callouts: 25
   wiki-links: 36
   cognitive-engagement-elements: 13
   analytical-commentary: 10
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
@@ -526,7 +465,7 @@ Most motivational theories are built primarily around positive cases: what promo
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
 >

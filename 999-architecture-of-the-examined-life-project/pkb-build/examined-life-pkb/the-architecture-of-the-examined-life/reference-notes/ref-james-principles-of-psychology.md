@@ -63,7 +63,7 @@ This reframes self-directed learning: it's not about heroic self-discipline but 
 
 ## 🎯 Key Concepts
 
-- **[[Stream of Consciousness]]**: James's metaphor for experience as continuous flow rather than discrete thoughts; consciousness is like a stream that flows without breaks
+- **[[Stream-of-Consciousness]]**: James's metaphor for experience as continuous flow rather than discrete thoughts; consciousness is like a stream that flows without breaks
 - **[[Selective Attention]]**: "My experience is what I agree to attend to"—we actively construct experience by choosing attentional focus
 - **[[Habit]]**: Automated action patterns that free consciousness for novel challenges; "habit is the enormous flywheel of society"
 - **[[Voluntary Attention]]**: The ability to sustain attention on chosen objects even when they're not intrinsically interesting; the foundation of will

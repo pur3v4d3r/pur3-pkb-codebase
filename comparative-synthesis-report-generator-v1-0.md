@@ -29,12 +29,12 @@ related_concepts:
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning]]"
   - "[[Critical Thinking]]"
   - "[[Framework Comparison]]"
   - "[[Convergence Mapping]]"
   - "[[Complementarity Analysis]]"
-  - "[[FAR Transfer]]"
+  - "[[Far-Transfer]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -324,7 +324,7 @@ The PKB Synthesis Report Generator and this Comparative Synthesis Report Generat
 | **Synthesis type** | Disciplinary intersection | Framework integration |
 | **Distinctive engine** | Cross-Domain Synthesis Engine (5 operations) | Comparative Analysis Engine (5 different operations) |
 
-A PKB Synthesis report on [[Transfer of Learning]] would integrate cognitive science, educational psychology, and philosophy of education into unified PKB design guidance. A Comparative Synthesis report on [[Transfer of Learning]] would compare the theories *within* that literature — Thorndike's identical elements theory, Perkins & Salomon's high-road/low-road model, Halpern's four-component model, Barnett & Ceci's taxonomy — mapping how these frameworks relate to each other, where each is most useful, and what integrative understanding emerges.
+A PKB Synthesis report on [[Transfer-of-Learning]] would integrate cognitive science, educational psychology, and philosophy of education into unified PKB design guidance. A Comparative Synthesis report on [[Transfer-of-Learning]] would compare the theories *within* that literature — Thorndike's identical elements theory, Perkins & Salomon's high-road/low-road model, Halpern's four-component model, Barnett & Ceci's taxonomy — mapping how these frameworks relate to each other, where each is most useful, and what integrative understanding emerges.
 
 ### What Makes This Different from Every Other Generator
 
@@ -369,7 +369,7 @@ A PKB Synthesis report on [[Transfer of Learning]] would integrate cognitive sci
 
 **Template**: *"All {n} frameworks address the question of {shared dimension}, though they approach it differently. Framework A emphasizes {aspect}, Framework B prioritizes {aspect}, and Framework C reconceptualizes the question as {reframing}. Comparison along this dimension reveals {comparative insight}."*
 
-**Example**: If comparing theories of [[Transfer of Learning]], shared dimensions might include: what transfers (content vs. structure vs. disposition), conditions for transfer (similarity vs. abstraction vs. motivation), mechanism of transfer (identical elements vs. analogical mapping vs. metacognitive bridging), and role of instruction (explicit vs. emergent vs. practice-based). Not all theories address all dimensions — and noting which dimensions a theory ignores is as informative as noting how it addresses them.
+**Example**: If comparing theories of [[Transfer-of-Learning]], shared dimensions might include: what transfers (content vs. structure vs. disposition), conditions for transfer (similarity vs. abstraction vs. motivation), mechanism of transfer (identical elements vs. analogical mapping vs. metacognitive bridging), and role of instruction (explicit vs. emergent vs. practice-based). Not all theories address all dimensions — and noting which dimensions a theory ignores is as informative as noting how it addresses them.
 
 #### Operation 2: Complementarity Detection
 

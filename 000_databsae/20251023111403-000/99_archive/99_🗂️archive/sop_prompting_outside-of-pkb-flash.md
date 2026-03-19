@@ -81,7 +81,7 @@ This is your actionable, daily sequence derived from the Standard Operating Proc
 | **Architect** | | 7. Performed **Verbal Synthesis** *before* moving text to Obsidian. |
 | | | 8. Applied **Essential Front Matter** (new additions below). |
 | | | 9. Applied **Structural Edit** (Flow, Headings) to align with personal logic. |
-| | | 10. Deconstructed text into **Atomic Notes** and created all **[[04_library/00_obsidian-documentation/02_Official-Documentation/01_⚫📋Official-Documentation/Sandbox/Formatting/Links]]**. |
+| | | 10. Deconstructed text into **Atomic Notes** and created all **[[links]]**. |
 | | | 11. Performed **Verification & Source Triage**; updated `Source` field and added `[[?]]` to unverified claims. |
 | **Embodiment** | | 12. Executed **Active Reading** and linked to **$\ge$3 High-Value Existing Notes**. |
 | | | 13. Wrote a **Personal Summary/Takeaway** section in the note. |

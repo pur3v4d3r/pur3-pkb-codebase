@@ -34,7 +34,7 @@ maturity: seedling
 confidence: speculative
 next-review: 2025-12-20
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[2025-12-13|Daily-Note]]"

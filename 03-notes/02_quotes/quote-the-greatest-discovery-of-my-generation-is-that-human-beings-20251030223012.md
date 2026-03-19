@@ -81,7 +81,7 @@ date modified: 2025-11-07T07:05:51
 
 > [!analysis-contextual]
 > ### 🌍 Socio-Cultural Context
-> **Historical/Cultural**: This statement emerged (or was popularized) during a pivotal moment in American intellectual history—the transition from Victorian determinism to Progressive-era optimism about human capacity for self-transformation. The late 19th and early 20th centuries saw the rise of [[American pragmatism]], [[functional psychology]], and the [[New Thought movement]], all of which challenged rigid mechanistic views of human nature and emphasized the practical efficacy of belief and will.
+> **Historical/Cultural**: This statement emerged (or was popularized) during a pivotal moment in American intellectual history—the transition from Victorian determinism to Progressive-era optimism about human capacity for self-transformation. The late 19th and early 20th centuries saw the rise of [[American-Pragmatism]], [[functional psychology]], and the [[New Thought movement]], all of which challenged rigid mechanistic views of human nature and emphasized the practical efficacy of belief and will.
 >
 > William James's authentic work, particularly *The Principles of Psychology* (1890), *The Will to Believe* (1897), and *The Varieties of Religious Experience* (1902), extensively explored the relationship between mental states and lived outcomes. His concept of the "[[will to believe]]" argued that in certain cases, belief itself could help create the fact believed in—a radical departure from pure empiricism that emphasized the pragmatic consequences of ideas.
 >
@@ -103,7 +103,7 @@ date modified: 2025-11-07T07:05:51
 > 
 > 4. **[[Optimism bias]]**: By framing attitude change as the "greatest discovery," it taps into our tendency to believe we can influence outcomes more than we actually can, which research shows can motivate beneficial action but also lead to poor risk assessment.
 > 
-> **Reader's Heuristic**: The quote functions as an efficient **[[mental model]]** that provides:
+> **Reader's Heuristic**: The quote functions as an efficient **[[Mental-Model]]** that provides:
 >
 > - **Agency restoration**: For readers feeling powerless, it offers an internal locus of control when external control seems impossible
 > - **Actionable simplicity**: Complex life problems are reduced to a single intervention point (attitude), which is cognitively less overwhelming than systemic analysis

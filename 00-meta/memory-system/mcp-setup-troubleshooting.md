@@ -14,7 +14,7 @@ last_updated: 2026-01-06
 
 ## Context
 
-The memory system implementation (documented in [[.claude/memory-index]]) requires an MCP server to enable Claude Desktop to perform semantic searches across the vault using Smart Connections embeddings. This guide documents the setup process and known issues encountered.
+The memory system implementation (documented in memory-index) requires an MCP server to enable Claude Desktop to perform semantic searches across the vault using Smart Connections embeddings. This guide documents the setup process and known issues encountered.
 
 ---
 
@@ -302,9 +302,9 @@ Monitor `@yejianye/smart-connections-mcp` for Windows ESM fix:
 ## Related Documentation
 
 - [[claude-memory-system-guide]] — Overview of dual-layer architecture
-- [[.claude/memory-index]] — Agent memory system navigation
-- [[.claude/core/techContext]] — Complete technology stack
-- [[.claude/core/progress]] — Implementation timeline and status
+- memory-index — Agent memory system navigation
+- techContext — Complete technology stack
+- progress — Implementation timeline and status
 
 ---
 

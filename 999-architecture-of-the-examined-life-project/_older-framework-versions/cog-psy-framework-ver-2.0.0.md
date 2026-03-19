@@ -1389,7 +1389,7 @@ Every document follows this structure, adapted for philosophical depth:
 **Tier 4: Philosophical Figures** (historical context)
 - `[[Charles Sanders Peirce]]`
 - `[[William James]]`
-- `[[John Dewey]]`
+- `[[John-Dewey]]`
 - `[[Marcus Aurelius]]`
 - `[[Epictetus]]`
 - `[[Seneca]]`
@@ -1461,7 +1461,7 @@ Each document includes **self-contained introductions** without verbatim repetit
 > [!definition] **Pragmatism**
 >
 > Pragmatism emerged in late 19th century America through the work of 
-> [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]]. 
+> [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]]. 
 > The core insight: ideas are tools, and their truth lies in their practical 
 > consequences.
 >
@@ -1958,7 +1958,7 @@ Different philosophical traditions emerged precisely because thinkers answered t
 
 ### The Pragmatic Revolution: Truth as What Works
 
-In late 19th century America, [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]] challenged philosophical orthodoxy with a radical idea: stop debating what truth "really is" in some abstract sense. Instead, ask what difference a belief makes in practice.
+In late 19th century America, [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]] challenged philosophical orthodoxy with a radical idea: stop debating what truth "really is" in some abstract sense. Instead, ask what difference a belief makes in practice.
 
 > [!quote]
 > "The true is only the expedient in our way of thinking, just as the right is only the expedient in our way of behaving." — [[William James]]
@@ -2828,13 +2828,13 @@ More importantly, they *complement each other*. They're not competing answers to
 #### Origins & Core Insight
 
 > [!definition] **Pragmatism**
-> [[Pragmatism]] emerged in late 19th-century America through the work of [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]]. Its revolutionary insight: ideas are tools, and their truth lies in their practical consequences. The question isn't "Is this belief philosophically defensible?" but rather "Does this belief help me navigate reality effectively?"
+> [[Pragmatism]] emerged in late 19th-century America through the work of [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]]. Its revolutionary insight: ideas are tools, and their truth lies in their practical consequences. The question isn't "Is this belief philosophically defensible?" but rather "Does this belief help me navigate reality effectively?"
 >
 > **Domain Focus**: [[Decision-Making]] and action
 > **Core Question**: "What works in practice?"
 > **Practical Value**: Transforms abstract deliberation into concrete testing and learning
 
-[[Charles Sanders Peirce]], a logician and scientist, was frustrated by philosophers debating questions that made no practical difference. He developed what he called the "[[Pragmatic Maxim]]": "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
+[[Charles Sanders Peirce]], a logician and scientist, was frustrated by philosophers debating questions that made no practical difference. He developed what he called the "[[Pragmatic-Maxim]]": "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
 
 Translation: The meaning of an idea is its practical consequences.
 
@@ -2848,7 +2848,7 @@ Translation: The meaning of an idea is its practical consequences.
 >
 > You're not trying to make the "perfect" choice. You're making the best choice you can with available information, then treating it as an experiment you can learn from and adjust.
 
-[[John Dewey]] developed pragmatism's most systematic expression, particularly around education and [[Critical Thinking]]. He understood that thinking isn't passive contemplation—it's active inquiry aimed at solving problems. For Dewey, we think best when we're genuinely puzzled, when we face real obstacles, when we need to figure something out.
+[[John-Dewey]] developed pragmatism's most systematic expression, particularly around education and [[Critical Thinking]]. He understood that thinking isn't passive contemplation—it's active inquiry aimed at solving problems. For Dewey, we think best when we're genuinely puzzled, when we face real obstacles, when we need to figure something out.
 
 > [!insight] **Why Pragmatism Matters Today**
 >
@@ -2893,7 +2893,7 @@ The Stoics weren't emotionless robots, despite the modern misuse of the word "st
 #### Origins & Core Insight
 
 > [!definition] **Critical Thinking**
-> [[Critical Thinking]] has roots in ancient Greece, particularly in [[Socrates]]' relentless questioning, but was formalized as a discipline through the work of philosophers like [[Aristotle]], [[Francis Bacon]], [[René Descartes]], and modern thinkers like [[Karl Popper]] and [[John Dewey]]. Its central insight: Our default thinking is riddled with biases, assumptions, and errors. Clear thinking requires systematic examination of our own reasoning process.
+> [[Critical Thinking]] has roots in ancient Greece, particularly in [[Socrates]]' relentless questioning, but was formalized as a discipline through the work of philosophers like [[Aristotle]], [[Francis Bacon]], [[René Descartes]], and modern thinkers like [[Karl Popper]] and [[John-Dewey]]. Its central insight: Our default thinking is riddled with biases, assumptions, and errors. Clear thinking requires systematic examination of our own reasoning process.
 >
 > **Domain Focus**: [[Information Processing]] and analysis
 > **Core Question**: "What is the evidence and logic?"
@@ -2908,7 +2908,7 @@ He wasn't being annoying (well, not just being annoying). He was demonstrating t
 
 [[Aristotle]] systematized logical reasoning, identifying common patterns of valid and invalid argument. His work on logic and rhetoric—understanding how arguments work and how we can be persuaded by bad arguments—remains foundational.
 
-But [[Critical Thinking]] isn't just about formal logic. [[Francis Bacon]] and later [[John Dewey]] understood it as a practical skill: the ability to think clearly about real problems, recognize when you're reasoning well and when you're fooling yourself, distinguish between what you know and what you're assuming.
+But [[Critical Thinking]] isn't just about formal logic. [[Francis Bacon]] and later [[John-Dewey]] understood it as a practical skill: the ability to think clearly about real problems, recognize when you're reasoning well and when you're fooling yourself, distinguish between what you know and what you're assuming.
 
 > [!example] **Critical Thinking in Action: The Viral Claim**
 >
@@ -2927,7 +2927,7 @@ But [[Critical Thinking]] isn't just about formal logic. [[Francis Bacon]] and l
 #### Origins & Core Insight
 
 > [!definition] **Constructivism**
-> [[Constructivism]] emerged primarily through the work of [[Jean Piaget]] and [[Lev Vygotsky]] in the early 20th century, with roots in [[John Dewey]]'s educational philosophy. Its central insight: We don't passively receive knowledge like downloading files—we actively construct it through interaction with experience. Learning is transformation, not accumulation.
+> [[Constructivism]] emerged primarily through the work of [[Jean Piaget]] and [[Lev Vygotsky]] in the early 20th century, with roots in [[John-Dewey]]'s educational philosophy. Its central insight: We don't passively receive knowledge like downloading files—we actively construct it through interaction with experience. Learning is transformation, not accumulation.
 >
 > **Domain Focus**: [[Knowledge Building]] and learning
 > **Core Question**: "How do I build understanding from experience?"
@@ -2943,7 +2943,7 @@ But [[Critical Thinking]] isn't just about formal logic. [[Francis Bacon]] and l
 >
 > The second person will learn faster and deeper because they're *constructing* knowledge through active engagement, not trying to *receive* it passively. They're building mental models through experience, not memorizing facts.
 
-[[John Dewey]], who we met in the pragmatist tradition, also understood learning as active construction. His entire educational philosophy centered on the idea that we learn by doing, by engaging with real problems, by building understanding through experience rather than passive absorption.
+[[John-Dewey]], who we met in the pragmatist tradition, also understood learning as active construction. His entire educational philosophy centered on the idea that we learn by doing, by engaging with real problems, by building understanding through experience rather than passive absorption.
 
 > [!insight] **Why Constructivism Matters Today**
 >
@@ -2996,7 +2996,7 @@ The same principle applies to philosophical traditions. Different life situation
 
 The single most important principle underlying the entire [[Synthesis Framework]]: philosophy isn't something you *study*—it's something you *practice*. It's not knowledge to possess but wisdom to embody.
 
-The ancient philosophers understood this instinctively. The Stoics didn't just write about virtue—they practiced it daily through specific exercises. [[Marcus Aurelius]] wrote his *Meditations* not to publish a book but to remind himself how to think and act. The pragmatists emphasized that ideas have meaning only in their application. [[John Dewey]] rebuilt education around the principle of learning by doing.
+The ancient philosophers understood this instinctively. The Stoics didn't just write about virtue—they practiced it daily through specific exercises. [[Marcus Aurelius]] wrote his *Meditations* not to publish a book but to remind himself how to think and act. The pragmatists emphasized that ideas have meaning only in their application. [[John-Dewey]] rebuilt education around the principle of learning by doing.
 
 > [!insight] **The Practice Gap**
 >
@@ -3246,7 +3246,7 @@ Studies of [[Acceptance and Commitment Therapy]] (ACT), which draws heavily on s
 
 ### Evidence for Critical Thinking
 
-Research on cognitive biases—[[Confirmation Bias]], [[Availability Heuristic]], [[Anchoring Effect]], dozens more—shows how systematically our automatic thinking goes wrong. [[Daniel Kahneman]]'s work on cognitive biases essentially maps the territory critical thinking was designed to navigate.
+Research on cognitive biases—[[Confirmation Bias]], [[Availability-Heuristic]], [[Anchoring Effect]], dozens more—shows how systematically our automatic thinking goes wrong. [[Daniel Kahneman]]'s work on cognitive biases essentially maps the territory critical thinking was designed to navigate.
 
 Studies of belief perseverance and motivated reasoning show we're remarkably good at believing what we want to believe, finding reasons to maintain existing views even when confronted with contradicting evidence. Critical thinking isn't some optional enhancement—it's necessary correction for built-in tendencies.
 
@@ -3256,9 +3256,9 @@ Educational research on argument mapping, structured debate, and explicit reason
 
 Research on [[Active Learning]]—learning through doing rather than passive listening—consistently shows superior retention, transfer, and deep understanding compared to passive instruction. Educational psychology has essentially confirmed what [[Piaget]] and [[Vygotsky]] theorized.
 
-Studies of the [[Generation Effect]]—you remember and understand better what you generate yourself versus what you passively receive—align perfectly with constructivist principles about building knowledge actively.
+Studies of the [[Generation-Effect]]—you remember and understand better what you generate yourself versus what you passively receive—align perfectly with constructivist principles about building knowledge actively.
 
-Research on [[Spaced Repetition]], [[Interleaving]], [[Retrieval Practice]]—all the techniques that actually work for learning—share a common pattern: they require active engagement, not passive absorption. They force you to construct understanding rather than hoping it will somehow transfer through exposure.
+Research on [[Spaced Repetition]], [[Interleaving]], [[Retrieval-Practice]]—all the techniques that actually work for learning—share a common pattern: they require active engagement, not passive absorption. They force you to construct understanding rather than hoping it will somehow transfer through exposure.
 
 > [!key-claim] **The Point of Evidence**
 >
@@ -3604,7 +3604,7 @@ What do you do when the right answer isn't obvious? When expert advice contradic
 
 Most philosophical traditions offer you principles to follow, virtues to embody, logical frameworks to apply. [[Pragmatism]] asks a different question: *What happens when you actually try it?*
 
-This isn't about abandoning thought for action or replacing wisdom with trial-and-error. It's about recognizing a profound truth that [[William James]] and [[John Dewey]] understood: the meaning of an idea lives in its consequences, not in its logical purity or theoretical elegance. A belief that "works" in the fullest sense—that helps you navigate reality effectively, that produces the outcomes you actually value, that stands up to the test of lived experience—is worth more than a thousand beautiful theories that collapse when applied to real life.
+This isn't about abandoning thought for action or replacing wisdom with trial-and-error. It's about recognizing a profound truth that [[William James]] and [[John-Dewey]] understood: the meaning of an idea lives in its consequences, not in its logical purity or theoretical elegance. A belief that "works" in the fullest sense—that helps you navigate reality effectively, that produces the outcomes you actually value, that stands up to the test of lived experience—is worth more than a thousand beautiful theories that collapse when applied to real life.
 
 > [!ask-yourself-this]
 > Think of a belief you hold strongly about how the world works or how you should live. How would your life be different if that belief turned out to be wrong? And more importantly: how would you know?
@@ -3641,7 +3641,7 @@ This isn't about abandoning thought for action or replacing wisdom with trial-an
 
 [[Pragmatism]] emerged in the aftermath of America's Civil War, during a period of profound intellectual ferment and cultural transformation. The late 19th century witnessed unprecedented industrialization, rapid scientific advancement, and deep philosophical uncertainty. Traditional religious certainties faced challenges from [[Darwinian Evolution]], and European philosophy seemed increasingly abstract and disconnected from the realities of American life.
 
-Into this turbulent intellectual landscape stepped a remarkable group of thinkers who gathered in Cambridge, Massachusetts, in the 1870s. They called themselves the "Metaphysical Club"—a somewhat ironic name, given their fundamental skepticism about metaphysics. This informal discussion group included [[Charles Sanders Peirce]], a brilliant but difficult logician and scientist; [[William James]], a medical doctor turned psychologist and philosopher; [[Oliver Wendell Holmes Jr.]], a future Supreme Court Justice; and later, [[John Dewey]], an educator and social reformer who would become one of America's most influential public intellectuals.
+Into this turbulent intellectual landscape stepped a remarkable group of thinkers who gathered in Cambridge, Massachusetts, in the 1870s. They called themselves the "Metaphysical Club"—a somewhat ironic name, given their fundamental skepticism about metaphysics. This informal discussion group included [[Charles Sanders Peirce]], a brilliant but difficult logician and scientist; [[William James]], a medical doctor turned psychologist and philosopher; [[Oliver Wendell Holmes Jr.]], a future Supreme Court Justice; and later, [[John-Dewey]], an educator and social reformer who would become one of America's most influential public intellectuals.
 
 What united these diverse thinkers was a shared conviction that philosophy had lost its way. They watched European philosophy spiral into increasingly abstract debates about the nature of reality, truth, and knowledge—debates that seemed to generate endless talk but little practical value. Meanwhile, the scientific method was producing remarkable results by testing hypotheses against reality and revising theories based on evidence. Could philosophy learn something from this approach?
 
@@ -3657,7 +3657,7 @@ The pragmatists didn't reject philosophy. They redirected it. Instead of asking 
 
 [[Charles Sanders Peirce]] (1839-1914) was a polymath whose brilliance was matched only by his difficulty fitting into academic institutions. Trained as a chemist and working as a scientist for the U.S. Coast and Geodetic Survey, Peirce brought scientific rigor to philosophical questions. His 1878 essay "How to Make Our Ideas Clear" is often considered the founding document of Pragmatism, though Peirce himself would later rename his philosophy "[[Pragmaticism]]" to distance it from what he saw as [[William James]]'s overly subjective interpretation.
 
-Peirce's central insight was the [[Pragmatic Maxim]]: the meaning of any concept lies entirely in its conceivable practical effects. If two ideas lead to identical practical consequences in every possible situation, they are not two different ideas—they are the same idea wearing different clothes. This seemingly simple principle had revolutionary implications. It dissolved countless philosophical debates by revealing them as disputes over words rather than substance.
+Peirce's central insight was the [[Pragmatic-Maxim]]: the meaning of any concept lies entirely in its conceivable practical effects. If two ideas lead to identical practical consequences in every possible situation, they are not two different ideas—they are the same idea wearing different clothes. This seemingly simple principle had revolutionary implications. It dissolved countless philosophical debates by revealing them as disputes over words rather than substance.
 
 > [!example] **Peirce's Diamond Example**
 >
@@ -3685,7 +3685,7 @@ This led James to what some found a scandalous conclusion: there can be multiple
 > "We do not solve problems by thinking about them, but by acting on them. Thought is meaningful only as it leads to action."
 > — John Dewey (paraphrased from various works)
 
-[[John Dewey]] (1859-1952) had the longest career and perhaps the widest influence of the three major pragmatists. A tireless advocate for progressive education, democratic reform, and experimental inquiry, Dewey spent decades developing what he called "[[Instrumentalism]]"—a version of Pragmatism that emphasized the role of ideas as instruments for solving problems.
+[[John-Dewey]] (1859-1952) had the longest career and perhaps the widest influence of the three major pragmatists. A tireless advocate for progressive education, democratic reform, and experimental inquiry, Dewey spent decades developing what he called "[[Instrumentalism]]"—a version of Pragmatism that emphasized the role of ideas as instruments for solving problems.
 
 Dewey saw thinking itself as a form of experimentation. When we face a problematic situation, we form hypotheses about how to resolve it, test those hypotheses through action, and refine our understanding based on the results. This isn't just how scientists work in laboratories—it's how humans naturally learn and adapt. Children learn about gravity not by studying physics but by dropping objects and observing what happens. We learn about relationships not through relationship manuals but through the successes and failures of actual relating.
 
@@ -3778,7 +3778,7 @@ Pragmatism treats ideas as hypotheses and action as experimentation. When you fa
 
 This experimental attitude transforms failure. In traditional philosophical frameworks, error is something to be avoided—evidence of faulty reasoning or insufficient knowledge. In Pragmatism, intelligent failure is valuable. You learn more from failures that reveal why something doesn't work than from successes that merely confirm what you already believed.
 
-[[John Dewey]] emphasized that thinking itself is a form of experimentation. When you encounter a problematic situation, you mentally rehearse possible responses, imagine their consequences, and select the most promising option to try. This mental experimentation is then tested through actual action, and the results refine your understanding for next time.
+[[John-Dewey]] emphasized that thinking itself is a form of experimentation. When you encounter a problematic situation, you mentally rehearse possible responses, imagine their consequences, and select the most promising option to try. This mental experimentation is then tested through actual action, and the results refine your understanding for next time.
 
 The experimental approach doesn't mean recklessness. You design experiments to manage risk—testing on small scales before large ones, creating reversible decisions when possible, building in feedback loops to detect problems early. The goal isn't to eliminate uncertainty but to learn systematically from it.
 
@@ -3987,7 +3987,7 @@ Contemporary research on decision-making and expertise development strongly supp
 
 Research on "deliberate practice" reveals that expertise develops not through passive experience but through active experimentation with immediate feedback. Musicians who simply play music they already know don't improve much. Those who deliberately practice difficult passages, immediately notice errors, and adjust their approach develop expertise rapidly. The pragmatic cycle—try something, notice what happens, adjust understanding, try again—is how genuine learning occurs.
 
-The business world has embraced these insights through methodologies like [[Lean Startup]], [[Agile Development]], and [[Design Thinking]], all of which embody pragmatic principles. Companies that rapidly test assumptions with customers, learn from failures, and iterate based on evidence consistently outperform those that try to plan perfectly before acting. The philosophy that [[William James]] and [[John Dewey]] articulated over a century ago has become best practice in innovation-driven industries.
+The business world has embraced these insights through methodologies like [[Lean Startup]], [[Agile Development]], and [[Design Thinking]], all of which embody pragmatic principles. Companies that rapidly test assumptions with customers, learn from failures, and iterate based on evidence consistently outperform those that try to plan perfectly before acting. The philosophy that [[William James]] and [[John-Dewey]] articulated over a century ago has become best practice in innovation-driven industries.
 
 ### Evidence Theme 2: The Psychology of Belief Revision
 
@@ -4036,7 +4036,7 @@ The pragmatic theory of meaning helps focus critical analysis on what matters. D
 
 [[Constructivism]] and [[Pragmatism]] share deep family resemblances. Both emphasize learning through experience rather than passive reception of information. Both recognize that understanding is built actively through engagement with problems rather than transmitted through instruction. Both see knowledge as a process of continuous construction and reconstruction rather than a finished product.
 
-Pragmatism provides philosophical grounding for constructivist learning theory. When [[John Dewey]] argued that education should center on problem-solving and experimentation rather than memorization and recitation, he was applying pragmatic principles to pedagogy. Learning isn't about acquiring a stock of facts but about developing increasingly effective ways of thinking and acting.
+Pragmatism provides philosophical grounding for constructivist learning theory. When [[John-Dewey]] argued that education should center on problem-solving and experimentation rather than memorization and recitation, he was applying pragmatic principles to pedagogy. Learning isn't about acquiring a stock of facts but about developing increasingly effective ways of thinking and acting.
 
 Constructivism enriches pragmatism by focusing on how individuals build understanding from unique positions and perspectives. Two people can test the same belief and learn different things because they bring different prior knowledge, different contexts, and different ways of making sense. Pragmatic truth isn't purely objective—it's always truth-for-someone in particular circumstances.
 
@@ -4053,7 +4053,7 @@ Constructivism enriches pragmatism by focusing on how individuals build understa
 
 Pragmatism's influence extends far beyond philosophy into fields as diverse as law, education, organizational theory, design, and artificial intelligence.
 
-In law, [[Legal Realism]] applies pragmatic insights to judicial decision-making, recognizing that legal outcomes depend not just on rules but on the practical consequences judges foresee. In education, [[Progressive Education]] movements draw heavily on [[John Dewey]]'s pragmatic philosophy, emphasizing learning through experience and problem-solving over rote memorization.
+In law, [[Legal Realism]] applies pragmatic insights to judicial decision-making, recognizing that legal outcomes depend not just on rules but on the practical consequences judges foresee. In education, [[Progressive Education]] movements draw heavily on [[John-Dewey]]'s pragmatic philosophy, emphasizing learning through experience and problem-solving over rote memorization.
 
 In organizational theory and management, pragmatic principles appear in concepts like "organizational learning," "experimental culture," and "failing fast." The most successful organizations are those that systematically test assumptions, learn from failures, and revise strategies based on what actually works rather than what looks good in theory.
 
@@ -4081,7 +4081,7 @@ These connections aren't coincidental. Pragmatism articulated fundamental princi
 
 **Why People Think This**: Pragmatism's emphasis on action and consequences can sound anti-intellectual, as if pragmatists want to replace careful thought with hasty experimentation.
 
-**Why It's Incomplete**: This misses that pragmatism sees thinking itself as a form of action—mental experimentation. [[John Dewey]] spent his career defending the importance of reflective thought and systematic inquiry. The pragmatic point isn't "stop thinking and just do something" but "recognize that the ultimate test of ideas is how they work in practice."
+**Why It's Incomplete**: This misses that pragmatism sees thinking itself as a form of action—mental experimentation. [[John-Dewey]] spent his career defending the importance of reflective thought and systematic inquiry. The pragmatic point isn't "stop thinking and just do something" but "recognize that the ultimate test of ideas is how they work in practice."
 
 **More Accurate Understanding**: Pragmatism demands both rigorous thinking and practical testing. You need good theory to design good experiments. You need careful analysis to interpret results. But you also need to actually test ideas rather than endlessly debating them in purely theoretical terms. The best pragmatists are deeply thoughtful people who simply insist that thought must eventually connect to practice.
 
@@ -4089,7 +4089,7 @@ These connections aren't coincidental. Pragmatism articulated fundamental princi
 
 **Why People Think This**: If truth is what works and meaning lies in consequences, does that mean anything goes morally? Can't you justify horrific actions by saying they "worked" for your purposes?
 
-**Why It's Incomplete**: This ignores that pragmatists care deeply about which consequences matter and whose purposes count. [[John Dewey]] wrote extensively about democracy, education, and social justice. [[William James]] took ethics seriously and argued that pragmatism actually enhances moral sensitivity by forcing us to examine the concrete effects of our actions on real people.
+**Why It's Incomplete**: This ignores that pragmatists care deeply about which consequences matter and whose purposes count. [[John-Dewey]] wrote extensively about democracy, education, and social justice. [[William James]] took ethics seriously and argued that pragmatism actually enhances moral sensitivity by forcing us to examine the concrete effects of our actions on real people.
 
 **More Accurate Understanding**: Pragmatism doesn't eliminate moral principles—it grounds them in consequences for human flourishing and well-being. Murder doesn't "work" not because it violates some abstract principle but because societies where people murder each other fail spectacularly at enabling human flourishing. Justice isn't an abstract ideal but a set of practices and institutions that work to create conditions where people can live well together. This consequentialist grounding doesn't weaken morality; it strengthens it by connecting ethical principles to real effects on real lives.
 
@@ -5251,7 +5251,7 @@ For critical thinking, Descartes' legacy is the legitimacy of [[methodological s
 > [!quote]
 > "He who knows only his own side of the case knows little of that." — John Stuart Mill, *On Liberty* (1859)
 
-[[John Stuart Mill]] brought critical thinking into the domain of everyday reasoning and public discourse. His *System of Logic* gave the world practical tools for [[inductive reasoning]]—reasoning from specific observations to general conclusions. His *On Liberty* made perhaps the most eloquent case ever written for the value of free inquiry and [[intellectual diversity]]: we need opposing views not just because we might be wrong, but because even when we're right, our understanding remains shallow unless challenged.
+[[John Stuart Mill]] brought critical thinking into the domain of everyday reasoning and public discourse. His *System of Logic* gave the world practical tools for [[Inductive-Reasoning]]—reasoning from specific observations to general conclusions. His *On Liberty* made perhaps the most eloquent case ever written for the value of free inquiry and [[intellectual diversity]]: we need opposing views not just because we might be wrong, but because even when we're right, our understanding remains shallow unless challenged.
 
 Mill's insight about understanding only one side of a case is worth sitting with. Most of us believe we understand our own positions well. But Mill argues that a belief held without genuine understanding of the best counterarguments is held "in the manner of a prejudice"—it has the form of knowledge without the substance. Real understanding requires engagement with opposition.
 
@@ -5262,7 +5262,7 @@ This is demanding. It requires seeking out challenges to your beliefs rather tha
 > [!quote]
 > "We do not learn from experience... we learn from reflecting on experience." — John Dewey
 
-[[John Dewey]]—also a central figure in [[Pragmatism]]—made critical thinking *democratic* and *practical*. His concept of [[reflective thinking]] described a natural problem-solving cycle: encounter a difficulty, define the problem, generate possible solutions, reason through their implications, and test by action. For Dewey, thinking critically wasn't an academic exercise but the basic cognitive process by which human beings solve real problems.
+[[John-Dewey]]—also a central figure in [[Pragmatism]]—made critical thinking *democratic* and *practical*. His concept of [[reflective thinking]] described a natural problem-solving cycle: encounter a difficulty, define the problem, generate possible solutions, reason through their implications, and test by action. For Dewey, thinking critically wasn't an academic exercise but the basic cognitive process by which human beings solve real problems.
 
 Dewey also argued that critical thinking was the central purpose of education—not the transmission of facts, but the cultivation of the habit of mind that questions, reflects, and reasons carefully. This vision of education as the development of [[reflective intelligence]] remains radical and largely unrealized. But its aspiration is one we can take seriously in our own lives: every experience, properly reflected on, becomes an opportunity to think better.
 
@@ -5343,7 +5343,7 @@ The most thoroughly documented and consequential bias is [[confirmation bias]]�
 
 Confirmation bias is why smart, informed people on opposite sides of a political debate can look at the same evidence and come away more convinced than ever that they were right. Both sides are reading the evidence through a filter shaped by what they already believe. Both sides feel they are being reasonable. Both sides are, in important respects, not.
 
-Related is [[motivated reasoning]]—the tendency to reason *toward* conclusions we want to reach rather than toward truth. We are, as [[Jonathan Haidt]] has argued, less like rational computers calculating truth and more like lawyers constructing a case for a client we've already decided to defend. The "client" is usually ourselves and our existing beliefs. The "reasoning" is the post-hoc justification we construct.
+Related is [[Motivated-Reasoning]]—the tendency to reason *toward* conclusions we want to reach rather than toward truth. We are, as [[Jonathan Haidt]] has argued, less like rational computers calculating truth and more like lawyers constructing a case for a client we've already decided to defend. The "client" is usually ourselves and our existing beliefs. The "reasoning" is the post-hoc justification we construct.
 
 > [!example] **The Investment Trap**
 >
@@ -5353,7 +5353,7 @@ Related is [[motivated reasoning]]—the tendency to reason *toward* conclusions
 
 The fifth principle may be the hardest. It asks us to hold our beliefs with appropriate tentativeness—to calibrate our confidence to the actual strength of our evidence and reasoning, rather than to how important the belief feels or how much we want it to be true.
 
-[[Intellectual humility]] doesn't mean refusing to have convictions. It means being willing to say "I might be wrong" without that possibility paralyzing you. It means updating your beliefs when new evidence arrives, even if those beliefs feel like part of your identity. It means recognizing that your perspective is always partial—shaped by your particular history, culture, education, and the accidents of what you have and haven't been exposed to.
+[[Intellectual-Humility]] doesn't mean refusing to have convictions. It means being willing to say "I might be wrong" without that possibility paralyzing you. It means updating your beliefs when new evidence arrives, even if those beliefs feel like part of your identity. It means recognizing that your perspective is always partial—shaped by your particular history, culture, education, and the accidents of what you have and haven't been exposed to.
 
 Paradoxically, intellectual humility tends to increase rather than decrease practical effectiveness. The person who recognizes what they don't know is more likely to seek information that fills the gap. The person who can update their beliefs is more likely to recognize when a plan isn't working and change course. The person who isn't defending their certainty is more likely to hear the important thing that someone else is trying to tell them.
 
@@ -5494,7 +5494,7 @@ This finding has important implications. It means that the people whose reasonin
 
 ### Evidence Theme 2: The Value of Intellectual Humility
 
-Research on what psychologists call "actively open-minded thinking"—the trait most closely aligned with what the philosophical tradition calls [[intellectual humility]]—shows a consistent pattern: people who score higher on this trait make more accurate judgments, update their beliefs more appropriately when new evidence arrives, and are less susceptible to motivated reasoning. Importantly, this is a *trait* that can be strengthened through practice, not merely a fixed individual characteristic.
+Research on what psychologists call "actively open-minded thinking"—the trait most closely aligned with what the philosophical tradition calls [[Intellectual-Humility]]—shows a consistent pattern: people who score higher on this trait make more accurate judgments, update their beliefs more appropriately when new evidence arrives, and are less susceptible to motivated reasoning. Importantly, this is a *trait* that can be strengthened through practice, not merely a fixed individual characteristic.
 
 Perhaps more striking: research on [[superforecasters]]—people who make unusually accurate predictions about complex geopolitical and economic events—reveals that their edge over experts comes not primarily from superior domain knowledge but from superior epistemic practices: probabilistic thinking, willingness to update, active search for disconfirming evidence, and genuine intellectual humility about the limits of their own foresight. The philosophical virtues turn out to be the practical skills.
 
@@ -5522,7 +5522,7 @@ The tension between them is also valuable. [[Critical Thinking]] can become para
 
 The relationship between [[Critical Thinking]] and [[Stoicism]] is perhaps the most psychologically important integration in the [[Synthesis Framework]]. [[Stoicism]] teaches us to distinguish between what is within our control and what is not, and to focus our energy on the former. [[Critical Thinking]] helps us actually make that distinction accurately—because without good thinking, we often misidentify what is and isn't in our control.
 
-More deeply, [[Stoicism]] addresses the emotional conditions that make critical thinking difficult. [[Confirmation bias]] and [[motivated reasoning]] don't operate only in the cold cognitive realm—they are driven by our desires, fears, and attachments. We believe what we believe partly because of what we *want* to be true. [[Stoicism]]'s practice of examining our *judgments* about things—separating the event from our interpretation of it—is itself a form of critical thinking applied to the self. The Stoic who asks "Is my distress about this situation actually justified? Am I reasoning clearly about what's happening?" is practicing [[epistemological hygiene]] in the most personal domain.
+More deeply, [[Stoicism]] addresses the emotional conditions that make critical thinking difficult. [[Confirmation bias]] and [[Motivated-Reasoning]] don't operate only in the cold cognitive realm—they are driven by our desires, fears, and attachments. We believe what we believe partly because of what we *want* to be true. [[Stoicism]]'s practice of examining our *judgments* about things—separating the event from our interpretation of it—is itself a form of critical thinking applied to the self. The Stoic who asks "Is my distress about this situation actually justified? Am I reasoning clearly about what's happening?" is practicing [[epistemological hygiene]] in the most personal domain.
 
 > [!insight] **The Examined Emotion**
 >
@@ -5595,9 +5595,9 @@ Third, critical thinking can erode the genuine wisdom embedded in tradition and 
 
 ### Potential Pitfalls
 
-**[[Analysis Paralysis]]**: Critical thinking can become an excuse for avoiding decision and action. Recognizing this pitfall is why the [[Synthesis Framework]] pairs [[Critical Thinking]] with [[Pragmatism]]—at some point, you have to act on incomplete information, and the inability to do so is its own kind of irrationality.
+**[[Analysis-Paralysis]]**: Critical thinking can become an excuse for avoiding decision and action. Recognizing this pitfall is why the [[Synthesis Framework]] pairs [[Critical Thinking]] with [[Pragmatism]]—at some point, you have to act on incomplete information, and the inability to do so is its own kind of irrationality.
 
-**[[Epistemic Cowardice]]**: Perpetually hedging, refusing to take positions, hiding behind "there are valid perspectives on both sides"—this can masquerade as intellectual humility while actually being a form of moral cowardice. Real critical thinking doesn't produce a blanket relativism; it produces *calibrated confidence*—more certain where evidence warrants, less certain where it doesn't.
+**[[Epistemic-Cowardice]]**: Perpetually hedging, refusing to take positions, hiding behind "there are valid perspectives on both sides"—this can masquerade as intellectual humility while actually being a form of moral cowardice. Real critical thinking doesn't produce a blanket relativism; it produces *calibrated confidence*—more certain where evidence warrants, less certain where it doesn't.
 
 **[[Cleverness Without Wisdom]]**: Technical proficiency in logical analysis and fallacy identification can be deployed in the service of bad ends. A skilled rhetorician can use critical thinking techniques to deceive as easily as to illuminate. The tradition from [[Socrates]] forward has always insisted that good thinking is inseparable from good character—the two develop together or not at all.
 
@@ -5612,7 +5612,7 @@ Third, critical thinking can erode the genuine wisdom embedded in tradition and 
 >
 > [[Critical Thinking]] is the philosophical tradition most directly concerned with the foundational question of human intellectual life: how do we know what we know, and how confident should we be in it? From [[Socrates]]' gadfly questioning through [[Aristotle]]'s formal logic, [[Bacon]]'s empiricism, [[Descartes]]' methodological doubt, [[Mill]]'s commitment to intellectual diversity, and [[Dewey]]'s reflective practice, the tradition has accumulated a set of principles and practices that remain as vital and as underused as when they were first articulated.
 >
-> The core insight, running through all of these thinkers, is that the human mind is both remarkable and unreliable—capable of extraordinary reasoning and equally capable of extraordinary self-deception. Critical thinking is the set of habits and practices that takes this reality seriously: that cultivates the questioning habit, demands evidence proportional to confidence, examines the logical validity of reasoning chains, recognizes and corrects for systematic bias, and maintains the [[intellectual humility]] to update beliefs in response to genuine learning.
+> The core insight, running through all of these thinkers, is that the human mind is both remarkable and unreliable—capable of extraordinary reasoning and equally capable of extraordinary self-deception. Critical thinking is the set of habits and practices that takes this reality seriously: that cultivates the questioning habit, demands evidence proportional to confidence, examines the logical validity of reasoning chains, recognizes and corrects for systematic bias, and maintains the [[Intellectual-Humility]] to update beliefs in response to genuine learning.
 >
 > Within the [[Synthesis Framework]], [[Critical Thinking]] functions as the analytical bedrock—the intellectual hygiene that makes [[Pragmatism]]'s testing meaningful, [[Stoicism]]'s acceptance honest, and [[Constructivism]]'s learning genuine. You cannot test pragmatically if your understanding of the situation is distorted by bias. You cannot accept stoically what you've misidentified. You cannot learn constructively if you admit only confirming evidence. Clear thinking, examined thought, proportional confidence: these are the foundations on which the other three philosophical traditions build.
 >

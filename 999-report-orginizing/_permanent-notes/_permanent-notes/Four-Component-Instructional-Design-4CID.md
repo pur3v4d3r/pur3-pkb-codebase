@@ -122,7 +122,7 @@ importance: high
 > Effective instruction is instruction that manages the demands placed on [[Working Memory]] such that cognitive resources are available for the processes that lead to [[Schema Theory|schema]] formation and automation in [[Long-Term Memory]]. Instructional formats that impose unnecessary working memory demands (extraneous load) obstruct learning; formats that support the integration of essential information facilitate it.
 
 > [!analytical-insight] Key Insight
-> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both…
+> The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both…
 
 ## Practical Implications
 

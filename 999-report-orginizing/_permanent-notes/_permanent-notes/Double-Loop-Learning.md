@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Double-Loop Learning"
+title: Double-Loop Learning
 aliases:
-  - "Double-Loop Learning"
+  - Double-Loop Learning
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - educational-psychology/feedback-in-learning
   - educational-psychology/formative-assessment
   - systems-theory/cybernetics
-
 domain: educational-psychology
 subdomains:
   - systems-theory
@@ -29,44 +21,24 @@ subdomains:
   - instructional-design
   - cognitive-psychology
   - educational-philosophy
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "26-feedback-loops-pkm-framework-2026-03-15"
-  - "self-directed-learning-foundational-report-2026-03-11.md"
+  - 26-feedback-loops-pkm-framework-2026-03-15
+  - self-directed-learning-foundational-report-2026-03-11.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
   - "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
@@ -81,42 +53,32 @@ see-also:
   - "[[Adult-Education|Adult Education]]"
   - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Learning-Contracts|Learning Contracts]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Malcolm-Knowles|Malcolm Knowles]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
   - "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]"
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
-
 enables:
   - "[[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]"
   - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
   - "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]"
-
 expansion-topics:
   - topic: "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
-    description: "Explores how conversational AI systems can serve as dialogic testing partners — generating novel app"
+    description: Explores how conversational AI systems can serve as dialogic testing partners — generating novel app
     priority: medium
   - topic: "[[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]"
     description: "A practical implementation report addressing the technical infrastructure required for PKB feedback "
     priority: medium
   - topic: "[[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]"
-    description: "Extends the Argyris and Schön double-loop learning analysis to examine how PKBs can become instrumen"
+    description: Extends the Argyris and Schön double-loop learning analysis to examine how PKBs can become instrumen
     priority: medium
   - topic: "[[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]"
-    description: "Examines how graph-theoretic analysis of PKB network structure can generate macro-level feedback sig"
+    description: Examines how graph-theoretic analysis of PKB network structure can generate macro-level feedback sig
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -194,19 +156,19 @@ importance: high
 [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] · [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] · [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Argyris-and-Schön|Argyris and Schön]] · [[Arnold-and-Pistilli|Arnold and Pistilli]] · [[Autonomy-Need|Autonomy Need]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Black-and-Wiliam|Black and Wiliam]] · [[Canvas]] · [[Capability]] · [[Capability-Development|Capability Development]] · [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 **Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Pedagogy|Pedagogy]] * [[Philip-Candy|Philip Candy]] * [[Heutagogy|Heutagogy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]]
+[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Pedagogy|Pedagogy]] * [[Philip-Candy|Philip Candy]] * [[Heutagogy|Heutagogy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]]
 
 **Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
 **Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 

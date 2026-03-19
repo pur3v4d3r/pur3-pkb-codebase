@@ -5,6 +5,7 @@
 title: "Chain-of-Thought Prompting"
 aliases:
   - "Chain-of-Thought Prompting"
+  - "Chain of Thought Prompting"
 type: permanent-note
 status: evergreen
 confidence: medium

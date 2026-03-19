@@ -1,145 +1,102 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Cognitive Load Theory: Architecture, Evidence, and Instructional Implications"
 aliases:
-  - "Cognitive Load Theory"
-  - "CLT"
-  - "Sweller's CLT"
+  - Cognitive Load Theory
+  - CLT
+  - Sweller's CLT
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
-  # Content Type
   - permanent-note
   - foundational-report
   - academic-synthesis
-
-  # Domain
   - cognitive-psychology/memory-and-cognition
   - educational-psychology/instructional-design
   - learning-sciences/cognitive-architecture
-
-  # Methodology
   - empirical-research
   - theoretical-synthesis
   - practical-application
-
-  # Specific Frameworks
   - cognitive-load-theory
   - schema-theory
   - multimedia-learning
   - instructional-design
-
-  # Status
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "cognitive-psychology"
+domain: cognitive-psychology
 subdomains:
-  - "memory-and-cognition"
-  - "instructional-design"
-  - "learning-sciences"
-  - "educational-psychology"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-11"
-updated: "2026-03-11"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - memory-and-cognition
+  - instructional-design
+  - learning-sciences
+  - educational-psychology
+created: 2026-03-11
+updated: 2026-03-11
 source-type: academic-synthesis
-research-base: "empirical-studies"
-evidence-quality: "high"
-peer-validation: "multiple-frameworks"
-
+research-base: empirical-studies
+evidence-quality: high
+peer-validation: multiple-frameworks
 key-frameworks:
-  - name: "Cognitive Load Theory"
-    description: "Instructional design theory grounding pedagogical recommendations in working memory constraints and schema formation"
-    developers: "John Sweller (1988, 1994, 2011)"
-    validation: "Extensive — hundreds of experimental studies across domains"
-  - name: "Baddeley's Working Memory Model"
-    description: "Multi-component model of working memory comprising phonological loop, visuospatial sketchpad, central executive, and episodic buffer"
-    developers: "Alan Baddeley & Graham Hitch (1974); extended 2000"
-    validation: "Well-established — foundational cognitive psychology model"
-  - name: "Cognitive Theory of Multimedia Learning"
-    description: "CLT-adjacent framework addressing how people learn from words and pictures, emphasizing dual-channel processing"
-    developers: "Richard Mayer (2001, 2009)"
-    validation: "Strong — substantial experimental program"
-  - name: "Four-Component Instructional Design (4C/ID)"
-    description: "Complex skills training model grounded in CLT, specifying learning tasks, supportive information, procedural information, and part-task practice"
-    developers: "Jeroen van Merriënboer (1997)"
-    validation: "Applied evidence in complex vocational domains"
-
+  - name: Cognitive Load Theory
+    description: Instructional design theory grounding pedagogical recommendations in working memory constraints and schema formation
+    developers: John Sweller (1988, 1994, 2011)
+    validation: Extensive — hundreds of experimental studies across domains
+  - name: Baddeley's Working Memory Model
+    description: Multi-component model of working memory comprising phonological loop, visuospatial sketchpad, central executive, and episodic buffer
+    developers: Alan Baddeley & Graham Hitch (1974); extended 2000
+    validation: Well-established — foundational cognitive psychology model
+  - name: Cognitive Theory of Multimedia Learning
+    description: CLT-adjacent framework addressing how people learn from words and pictures, emphasizing dual-channel processing
+    developers: Richard Mayer (2001, 2009)
+    validation: Strong — substantial experimental program
+  - name: Four-Component Instructional Design (4C/ID)
+    description: Complex skills training model grounded in CLT, specifying learning tasks, supportive information, procedural information, and part-task practice
+    developers: Jeroen van Merriënboer (1997)
+    validation: Applied evidence in complex vocational domains
 key-researchers:
-  - "John Sweller (UNSW Sydney) — CLT originator and primary theorist"
-  - "Fred Paas (Erasmus University Rotterdam) — load measurement, variability, efficiency"
-  - "Jeroen van Merriënboer (Maastricht University) — 4C/ID, complex learning"
-  - "Richard Mayer (UC Santa Barbara) — CTML, multimedia learning"
-  - "Sergei Kalyuga (UNSW Sydney) — expertise reversal, adaptive instruction"
-  - "Paul Chandler — split-attention, redundancy effects"
-  - "Alan Paivio — Dual Coding Theory (precursor theoretical influence)"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~8500"
-complexity-level: "intermediate"
-target-audience: "Educators, instructional designers, educational psychologists, and learners of the learning sciences seeking a comprehensive scholarly foundation"
+  - John Sweller (UNSW Sydney) — CLT originator and primary theorist
+  - Fred Paas (Erasmus University Rotterdam) — load measurement, variability, efficiency
+  - Jeroen van Merriënboer (Maastricht University) — 4C/ID, complex learning
+  - Richard Mayer (UC Santa Barbara) — CTML, multimedia learning
+  - Sergei Kalyuga (UNSW Sydney) — expertise reversal, adaptive instruction
+  - Paul Chandler — split-attention, redundancy effects
+  - Alan Paivio — Dual Coding Theory (precursor theoretical influence)
+word-count: ~8500
+complexity-level: intermediate
+target-audience: Educators, instructional designers, educational psychologists, and learners of the learning sciences seeking a comprehensive scholarly foundation
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Intrinsic cognitive load"
-  - "Extraneous cognitive load"
-  - "Germane cognitive load (historically) / Schema acquisition and automation"
-  - "Element interactivity"
-  - "Working memory capacity limits"
-  - "Schema formation and automation"
-  - "Instructional effects (worked example, split-attention, redundancy, modality, expertise reversal)"
-
+  - Intrinsic cognitive load
+  - Extraneous cognitive load
+  - Germane cognitive load (historically) / Schema acquisition and automation
+  - Element interactivity
+  - Working memory capacity limits
+  - Schema formation and automation
+  - Instructional effects (worked example, split-attention, redundancy, modality, expertise reversal)
 key-distinctions:
-  - "Intrinsic load vs extraneous load — the former is a feature of content difficulty; the latter is a design artifact"
-  - "Novice vs expert — expertise profoundly reverses the effectiveness of many instructional techniques"
-  - "Cognitive load vs cognitive engagement — high load may accompany low or high engagement"
-  - "Near transfer vs far transfer — CLT-based designs excel at near transfer; far transfer remains contested"
-  - "Germane load (original) vs schema acquisition/automation (revised) — theoretical reconceptualization circa 2010"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Intrinsic load vs extraneous load — the former is a feature of content difficulty; the latter is a design artifact
+  - Novice vs expert — expertise profoundly reverses the effectiveness of many instructional techniques
+  - Cognitive load vs cognitive engagement — high load may accompany low or high engagement
+  - Near transfer vs far transfer — CLT-based designs excel at near transfer; far transfer remains contested
+  - Germane load (original) vs schema acquisition/automation (revised) — theoretical reconceptualization circa 2010
 prerequisites:
   - "[[Working-Memory|Working Memory]]"
   - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Schema-Theory|Schema Theory]]"
-
 related:
   - "[[Dual-Coding-Theory|Dual Coding Theory]]"
   - "[[Cognitive Theory of Multimedia Learning]]"
   - "[[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]"
   - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
-
 narrower:
   - "[[Worked-Example-Effect|Worked Example Effect]]"
   - "[[Split-Attention-Effect|Split-Attention Effect]]"
@@ -147,87 +104,69 @@ narrower:
   - "[[Modality-Effect|Modality Effect]]"
   - "[[Redundancy-Effect|Redundancy Effect]]"
   - "[[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design]]"
-
 see-also:
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Adaptive Instruction]]"
   - "[[Multimedia Learning]]"
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Automaticity]]"
-
 contrasts-with:
   - "[[Problem-Based Learning]]"
   - "[[Discovery Learning]]"
   - "[[Constructivism|Constructivism (Radical)]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Medical Education]]"
   - "[[STEM Education]]"
   - "[[e-Learning Design]]"
   - "[[Complex Skill Training]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Miller's Magical Number Seven]]"
-
 enables:
   - "[[Instructional Design Principles]]"
   - "[[Multimedia Learning Design]]"
   - "[[Adaptive Instruction]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
-
 expansion-topics:
   - topic: "[[Transfer-of-Learning|Transfer of Learning]]"
-    description: "CLT's relationship to transfer is theoretically rich and empirically contested. A focused report would examine near vs far transfer, why schema-based instruction promotes near transfer reliably and far transfer inconsistently, and competing accounts (preparation for future learning, hugging and bridging strategies, Schwartz & Bransford's work)."
-    priority: "high"
+    description: CLT's relationship to transfer is theoretically rich and empirically contested. A focused report would examine near vs far transfer, why schema-based instruction promotes near transfer reliably and far transfer inconsistently, and competing accounts (preparation for future learning, hugging and bridging strategies, Schwartz & Bransford's work).
+    priority: high
   - topic: "[[Multimedia Learning Design — Evidence and Principles]]"
-    description: "A dedicated report on Mayer's CTML research program — the 12 principles of multimedia learning, the experimental evidence base, and how CTML both extends and partially diverges from Sweller's CLT. Essential for understanding e-learning design."
-    priority: "high"
+    description: A dedicated report on Mayer's CTML research program — the 12 principles of multimedia learning, the experimental evidence base, and how CTML both extends and partially diverges from Sweller's CLT. Essential for understanding e-learning design.
+    priority: high
   - topic: "[[Adaptive Instruction and Expertise Reversal]]"
-    description: "A deep treatment of how expertise reversal demands adaptive pedagogical systems — covering Kalyuga's fading guidance model, dynamic assessment of expertise, and the design of instruction that adjusts to learner knowledge state over time."
-    priority: "high"
+    description: A deep treatment of how expertise reversal demands adaptive pedagogical systems — covering Kalyuga's fading guidance model, dynamic assessment of expertise, and the design of instruction that adjusts to learner knowledge state over time.
+    priority: high
   - topic: "[[Working Memory Architecture — Multi-Component Models]]"
-    description: "A detailed treatment of Baddeley's multi-component working memory model (phonological loop, visuospatial sketchpad, central executive, episodic buffer) and what subsequent neuroimaging and dual-task research has established or challenged. Foundational for understanding why CLT's architecture assumptions hold."
-    priority: "high"
+    description: A detailed treatment of Baddeley's multi-component working memory model (phonological loop, visuospatial sketchpad, central executive, episodic buffer) and what subsequent neuroimaging and dual-task research has established or challenged. Foundational for understanding why CLT's architecture assumptions hold.
+    priority: high
   - topic: "[[Four-Component-Instructional-Design-4CID|Four-Component Instructional Design (4C/ID)]]"
-    description: "Van Merriënboer's instructional design model for complex skills, explicitly grounded in CLT. A full treatment would cover the four components, design principles, evidence in vocational and professional training, and comparison with other CLT-derived design frameworks."
-    priority: "medium"
+    description: Van Merriënboer's instructional design model for complex skills, explicitly grounded in CLT. A full treatment would cover the four components, design principles, evidence in vocational and professional training, and comparison with other CLT-derived design frameworks.
+    priority: medium
   - topic: "[[Measurement and Operationalization of Cognitive Load]]"
-    description: "A methodologically focused report examining the major approaches to measuring cognitive load — subjective rating scales (NASA-TLX, Paas scale), dual-task paradigms, physiological measures (pupillometry, cardiac, EEG/fNIRS), and behavioral measures — and what each reveals and obscures."
-    priority: "medium"
-  - topic: "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
-    description: "Flagged as high-priority from the Feedback Design report; CLT intersects deeply with SRL since managing one's own cognitive load is a metacognitive skill. A full SRL report would connect to CLT at the level of how learners allocate their finite working memory resources strategically."
-    priority: "high"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
+    description: A methodologically focused report examining the major approaches to measuring cognitive load — subjective rating scales (NASA-TLX, Paas scale), dual-task paradigms, physiological measures (pupillometry, cardiac, EEG/fNIRS), and behavioral measures — and what each reveals and obscures.
+    priority: medium
+  - topic: "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
+    description: Flagged as high-priority from the Feedback Design report; CLT intersects deeply with SRL since managing one's own cognitive load is a metacognitive skill. A full SRL report would connect to CLT at the level of how learners allocate their finite working memory resources strategically.
+    priority: high
 empirical-support:
-  - "Sweller & Cooper (1985) — original worked example experiments"
-  - "Chandler & Sweller (1991, 1992) — split-attention and redundancy"
-  - "Paas & van Merriënboer (1994) — variability effect"
-  - "Kalyuga et al. (2003) — expertise reversal"
-  - "Mayer & Moreno (1998, 2003) — modality and multimedia"
-  - "Paas et al. (2003) — cognitive load measurement review"
-  - "Sweller et al. (2011) — comprehensive theoretical consolidation"
-
+  - Sweller & Cooper (1985) — original worked example experiments
+  - Chandler & Sweller (1991, 1992) — split-attention and redundancy
+  - Paas & van Merriënboer (1994) — variability effect
+  - Kalyuga et al. (2003) — expertise reversal
+  - Mayer & Moreno (1998, 2003) — modality and multimedia
+  - Paas et al. (2003) — cognitive load measurement review
+  - Sweller et al. (2011) — comprehensive theoretical consolidation
 limitations-noted:
-  - "Germane load circular definition problem (Kalyuga 2011)"
-  - "Measurement validity concerns — most studies rely on single-item subjective rating"
-  - "WEIRD-sample overrepresentation"
-  - "Far transfer remains poorly explained by the framework"
-  - "Individual differences in working memory capacity undertheorized"
-  - "Schema construct lacks precise operational definition"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Germane load circular definition problem (Kalyuga 2011)
+  - Measurement validity concerns — most studies rely on single-item subjective rating
+  - WEIRD-sample overrepresentation
+  - Far transfer remains poorly explained by the framework
+  - Individual differences in working memory capacity undertheorized
+  - Schema construct lacks precise operational definition
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -236,27 +175,18 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: "27"
   wiki-links: "42"
   reflective-questions: "15"
   active-reading-prompts: "7"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
-importance: "critical"
+importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-11"
+generation-date: 2026-03-11
 ---
 
 # Cognitive Load Theory: Architecture, Evidence, and Instructional Implications
@@ -498,7 +428,7 @@ At a deeper level, CLT grounds the intuition that teaching is not simply the tra
 
 ### Unresolved Questions
 
-Several important open questions remain. The relationship between CLT and [[Metacognition]] — specifically, how learners can be taught to monitor and regulate their own cognitive load — is underdeveloped. [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] research suggests that learners who can accurately gauge their cognitive state and adjust their study behavior accordingly outperform those who cannot; CLT has yet to be fully integrated with this insight. Similarly, the question of how CLT-based design principles interact with motivation and affect — how emotional engagement influences the load-learning relationship — remains open. Highly motivated learners may tolerate higher extraneous load without performance degradation; chronically anxious learners may experience effectively reduced working memory capacity due to anxiety's intrusive cognitive demands.
+Several important open questions remain. The relationship between CLT and [[Metacognition]] — specifically, how learners can be taught to monitor and regulate their own cognitive load — is underdeveloped. [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research suggests that learners who can accurately gauge their cognitive state and adjust their study behavior accordingly outperform those who cannot; CLT has yet to be fully integrated with this insight. Similarly, the question of how CLT-based design principles interact with motivation and affect — how emotional engagement influences the load-learning relationship — remains open. Highly motivated learners may tolerate higher extraneous load without performance degradation; chronically anxious learners may experience effectively reduced working memory capacity due to anxiety's intrusive cognitive demands.
 
 > [!connections-and-links]
 > **Internal PKB Connections:**
@@ -609,7 +539,7 @@ Several important open questions remain. The relationship between CLT and [[Meta
 > [!topic-idea] [[Adaptive Instruction and Expertise Reversal]]
 > The expertise reversal effect demands adaptive instruction, but how to build systems that genuinely adapt to learner expertise is a deep design and engineering problem. A report on adaptive instruction would cover Kalyuga's fading guidance framework, dynamic assessment approaches, intelligent tutoring systems research, the role of formative assessment in calibrating guidance, and the challenge of building adaptive sequences that work in realistic educational contexts. **Priority: High.**
 
-> [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > Flagged as high-priority from the Feedback Design report and of direct relevance to CLT: if managing cognitive load is partly a metacognitive task, then learners who can regulate their own learning effectively must have some capacity to monitor and manage their working memory demands. An SRL report would cover the major frameworks (Zimmerman's cyclical model, Pintrich's model), the metacognitive monitoring and control processes involved, the relationship to CLT's account of schema-guided processing, and instructional approaches to developing SRL. **Priority: High.**
 
 > [!topic-idea] [[Working Memory Architecture — Multi-Component Models]]

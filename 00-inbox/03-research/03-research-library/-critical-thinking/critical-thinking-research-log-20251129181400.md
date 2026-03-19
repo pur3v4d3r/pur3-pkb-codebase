@@ -36,7 +36,7 @@ tags:
 [[Philosophy of Mind]]
 [[Reflective Consciousness]]
 [[Schema Theory]]
-[[Deep Processing]]
+[[Deep-Processing]]
 [[Decision Theory]]
 [[Argumentation Theory]]
 [[Information Literacy]]

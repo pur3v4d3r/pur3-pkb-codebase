@@ -216,7 +216,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Berkshire Hathaway]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]
@@ -262,7 +262,7 @@ extraction_summary:
 | 7 | [[Berkshire Hathaway]] | — | — | The Evolution of Mental Models as a C... | 97 |
 | 8 | [[Warren Buffett]] | — | — | The Evolution of Mental Models as a C... | 97 |
 | 9 | [[Zettelkasten Method]] | — | — | The Zettelkasten Tradition and Networ... | 110 |
-| 10 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
+| 10 | [[Obsidian]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 11 | [[Roam Research]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 12 | [[Notion]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and the Archite... | 120 |
@@ -411,7 +411,7 @@ Based on my research, I now have a deep understanding of the key concepts needed
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Berkshire Hathaway]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]

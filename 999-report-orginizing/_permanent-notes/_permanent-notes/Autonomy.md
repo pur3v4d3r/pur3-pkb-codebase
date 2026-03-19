@@ -270,7 +270,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-first-principles-report-2026-03-11.md, self-determination-theory-foundational-report-2026-03-11.md)*:
-[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
 
 **Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
@@ -315,8 +315,8 @@ importance: medium
 
 **Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 

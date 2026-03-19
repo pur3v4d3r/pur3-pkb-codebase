@@ -1998,7 +1998,7 @@ if (analyzed.length > 0) {
 
 **What This Does:**
 - Estimates knowledge retention based on last review
-- Approximates [[forgetting curve]]
+- Approximates [[Forgetting-Curve]]
 - Prioritizes review based on predicted decay
 
 **Spaced Repetition Application:**

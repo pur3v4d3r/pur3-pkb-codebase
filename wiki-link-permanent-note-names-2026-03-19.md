@@ -3,1100 +3,1107 @@ WIKI_LINK NAMES_ This is for use in generation of Wiki-links !IMPORTANT USE EVER
 These are the note names of my permanent note collection use these as the Wiki-link pipe etc to make saure future generation connects to pre existing notes correctly 
 
 
+# 📁 _permanent-notes
+
+**Generated:** 2026-03-19T18:04:02.804Z
+**Generation time:** 10 ms
+**Items processed:** 1094
+
+## Directory tree
+```
 📁 _permanent-notes
-⏱️  Generated in 57 ms
 ──────────────────────────────────────────────────
-├── 📝 4E-Cognition.md
-├── 📝 22-Framework.md
-├── 📝 A-Final-Synthesis-Across-the-Series.md
-├── 📝 Abduction.md
-├── 📝 Abductive-Competence.md
-├── 📝 Abductive-Reasoning.md
-├── 📝 Abstract-Conceptualization.md
-├── 📝 Academic-Anxiety.md
-├── 📝 Academic-Emotions.md
-├── 📝 Accommodation.md
-├── 📝 Accretion,-Tuning,-Restructuring.md
-├── 📝 Achievement-Goal-Theory.md
-├── 📝 Achievement-Goal.md
-├── 📝 Active-Construction-Imperative.md
-├── 📝 Active-Experimentation.md
-├── 📝 Active-Externalism.md
-├── 📝 Active-Inference.md
-├── 📝 Active-Note-Making.md
-├── 📝 Actively-Open-Minded-Thinking.md
-├── 📝 Activity-Object.md
-├── 📝 Activity-System.md
-├── 📝 Activity-Theory.md
-├── 📝 Adaptive-Learning-Systems-—-Educational-Technology.md
-├── 📝 Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems.md
-├── 📝 Advance-Organizer.md
-├── 📝 Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome.md
-├── 📝 Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with.md
-├── 📝 Affect-as-Information-Theory.md
-├── 📝 Affective-Intelligence-Theory.md
-├── 📝 Affective-Realism.md
-├── 📝 Affordance.md
-├── 📝 AI-Assisted-Calibration-Testing-in-PKB-Systems.md
-├── 📝 AI-Augmented-Heutagogy-Affordances-and-Risks.md
-├── 📝 AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t.md
-├── 📝 Alan-Baddeley.md
-├── 📝 Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites.md
-├── 📝 Alfred-North-Whitehead.md
-├── 📝 Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work.md
-├── 📝 Allan-Collins.md
-├── 📝 Allostasis.md
-├── 📝 Allostatic-Load.md
-├── 📝 American-Pragmatism.md
-├── 📝 Amotivation.md
-├── 📝 Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory.md
-├── 📝 Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle.md
-├── 📝 Analogical-Reasoning.md
-├── 📝 Analogical-Representation.md
-├── 📝 Analogical-Transfer.md
-├── 📝 Analysis-Paralysis.md
-├── 📝 Analysis.md
-├── 📝 Anderson-et-al.-1994.md
-├── 📝 Andragogy.md
-├── 📝 Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns.md
-├── 📝 Anki.md
-├── 📝 Anomalous-Data.md
-├── 📝 Anomaly.md
-├── 📝 Antithesis.md
-├── 📝 Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin.md
-├── 📝 Apatheia.md
-├── 📝 API-First-AI-Integration.md
-├── 📝 Aporia-to-Schema-Pipeline.md
-├── 📝 Aporia.md
-├── 📝 Aporic-Receptivity.md
-├── 📝 Appraisal-Theory.md
-├── 📝 Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi.md
-├── 📝 Apt-Epistemic-Performance.md
-├── 📝 Argument-Mapping.md
-├── 📝 Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in.md
-├── 📝 Argumentation-Theory.md
-├── 📝 Argyris-and-Schön.md
-├── 📝 Arnold-and-Pistilli.md
-├── 📝 Articulatory-Construction-Principle.md
-├── 📝 As-If-Body-Loop.md
-├── 📝 Askesis.md
-├── 📝 Aspiration-Index.md
-├── 📝 Assessment-Design-in-the-PCLE-Context.md
-├── 📝 Assessment-Design.md
-├── 📝 Assimilation-and-Accommodation.md
-├── 📝 Assimilation-vs.-Accommodation.md
-├── 📝 Assimilation,-Accommodation,-and-Equilibration.md
-├── 📝 Assimilation.md
-├── 📝 Assumption-5-RuleModel-Dichotomy.md
-├── 📝 Assumption-Audit.md
-├── 📝 Assumptions.md
-├── 📝 Atomic-Notes.md
-├── 📝 Attainment-Paradox.md
-├── 📝 Attribution-Retraining.md
-├── 📝 Attribution-Style.md
-├── 📝 Attribution-Theory.md
-├── 📝 Aufhebung-in-PKB.md
-├── 📝 Aufhebung.md
-├── 📝 Autonomous-Motivation-vs.-Controlled-Motivation.md
-├── 📝 Autonomous-Motivation.md
-├── 📝 Autonomous-Regulation.md
-├── 📝 Autonomous-Relationship-Motivation.md
-├── 📝 Autonomy-Need.md
-├── 📝 Autonomy-Orientation.md
-├── 📝 Autonomy-Relatedness-Integration.md
-├── 📝 Autonomy-Support.md
-├── 📝 Autonomy-Supportive-Environment.md
-├── 📝 Autonomy.md
-├── 📝 Availability-Heuristic.md
-├── 📝 Axiom-1-Systematicity-of-Reasoning-Errors.md
-├── 📝 Ba.md
-├── 📝 Baddeley's-Working-Memory-Model.md
-├── 📝 Barry-Zimmerman.md
-├── 📝 Basic-Level-Categories.md
-├── 📝 Basic-Level-Category.md
-├── 📝 Basic-Psychological-Need-Frustration.md
-├── 📝 Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra.md
-├── 📝 Basic-Psychological-Needs.md
-├── 📝 Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs.md
-├── 📝 Bayesian-Inference.md
-├── 📝 Bayesian-Knowledge-Tracing.md
-├── 📝 Behavioral-Inscription.md
-├── 📝 Behavioral-Science.md
-├── 📝 Belief-Bias.md
-├── 📝 Belief-Revision.md
-├── 📝 Belonging-Uncertainty.md
-├── 📝 Betweenness-Centrality.md
-├── 📝 Black-and-Wiliam.md
-├── 📝 Blocking.md
-├── 📝 Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses.md
-├── 📝 Boredom-in-Learning.md
-├── 📝 Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must.md
-├── 📝 Boundary-Objects.md
-├── 📝 Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment.md
-├── 📝 Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning.md
-├── 📝 Calibration-and-Epistemic-Humility.md
-├── 📝 Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities.md
-├── 📝 Calibration-Discrepancy.md
-├── 📝 Calibration-Prosthetic.md
-├── 📝 Calibration-Requires-Evaluation-Resolving-an-Implicit-Tension-in-the-Framework.md
-├── 📝 Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid.md
-├── 📝 Calibration-Tracking.md
-├── 📝 Calibration.md
-├── 📝 Canvas.md
-├── 📝 Capability-Development.md
-├── 📝 Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes.md
-├── 📝 Capability-Notes.md
-├── 📝 Capability.md
-├── 📝 Categorical-Syllogism.md
-├── 📝 Category-Coherence.md
-├── 📝 Causal-Induction.md
-├── 📝 Causality-Orientation.md
-├── 📝 Causality-Orientations-as-Motivational-Affordance-Systems.md
-├── 📝 Causality-Orientations-Theory.md
-├── 📝 Central-Executive.md
-├── 📝 Chain-of-Thought-Prompting.md
-├── 📝 Challenge-Avoidance.md
-├── 📝 Challenge-Skill-Balance.md
-├── 📝 Charles-Reigeluth.md
-├── 📝 Chess-Schemas.md
-├── 📝 Child-Inquiry-Node.md
-├── 📝 Chinn-&-Brewer-Anomalous-Data-Response-Model.md
-├── 📝 Chinn-and-Brewer's-Model.md
-├── 📝 Chunking.md
-├── 📝 Classical-Cognitivism.md
-├── 📝 Classical-Epistemology.md
-├── 📝 Client-Server-Architecture.md
-├── 📝 CLT-as-a-Dynamic-Load-Optimization-Problem.md
-├── 📝 Co-Constructed-Criteria.md
-├── 📝 Cognitive-Alignment-Principle.md
-├── 📝 Cognitive-Apprenticeship-and-PKB-Design.md
-├── 📝 Cognitive-Apprenticeship.md
-├── 📝 Cognitive-Architecture-Aligned-PKB.md
-├── 📝 Cognitive-Architecture-Isomorphism-Principle.md
-├── 📝 Cognitive-Architecture.md
-├── 📝 Cognitive-Bias.md
-├── 📝 Cognitive-Chunking.md
-├── 📝 Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own.md
-├── 📝 Cognitive-Conflict-Disequilibrium.md
-├── 📝 Cognitive-Debt.md
-├── 📝 Cognitive-Decoupling.md
-├── 📝 Cognitive-Disequilibrium.md
-├── 📝 Cognitive-Evaluation-Theory.md
-├── 📝 Cognitive-Event-Model.md
-├── 📝 Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design.md
-├── 📝 Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md
-├── 📝 Cognitive-Load-Theory.md
-├── 📝 Cognitive-Load.md
-├── 📝 Cognitive-Miser.md
-├── 📝 Cognitive-Offloading-—-Cognitive-Psychology.md
-├── 📝 Cognitive-Partnership-Model-—-Original-Synthesis.md
-├── 📝 Cognitive-Partnership-Workflows.md
-├── 📝 Cognitive-Psychological-Conceptualization.md
-├── 📝 Cognitive-Psychology.md
-├── 📝 Cognitive-Reappraisal.md
-├── 📝 Cognitive-Scaffolding.md
-├── 📝 Cognitive-Science.md
-├── 📝 Cognitive-Tools.md
-├── 📝 Cognitive-Vitality.md
-├── 📝 Coherence-Principle.md
-├── 📝 Collaborative-Note-Making-and-the-Interactive-Mode.md
-├── 📝 Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs.md
-├── 📝 Collective-Feedback-PKM-in-Community-Contexts.md
-├── 📝 Collective-Knowledge-and-the-PKB-—-Social-Epistemology.md
-├── 📝 Collins-and-Loftus.md
-├── 📝 Collins,-Brown,-and-Newman.md
-├── 📝 Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge.md
-├── 📝 Communities-of-Practice.md
-├── 📝 Comparative-Advance-Organizer.md
-├── 📝 Comparative-Organizer.md
-├── 📝 Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame.md
-├── 📝 Compensatory-Hypothesis.md
-├── 📝 Competence-Need.md
-├── 📝 Competence.md
-├── 📝 Competency-Development.md
-├── 📝 Competency.md
-├── 📝 Competing-View-Note.md
-├── 📝 Complete-Agent-File-Format.md
-├── 📝 Complete-Project-Structure.md
-├── 📝 Completion-Problem.md
-├── 📝 Complex-Adaptive-System.md
-├── 📝 Complex-Adaptive-Systems.md
-├── 📝 Complexity-Theory-and-Emergent-Learning-Environments.md
-├── 📝 Comprehension-Monitoring.md
-├── 📝 Concepts.md
-├── 📝 Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re.md
-├── 📝 Conceptual-Change-Theory-and-PKB-Design.md
-├── 📝 Conceptual-Change-Theory.md
-├── 📝 Conceptual-Change.md
-├── 📝 Concrete-Experience.md
-├── 📝 Concurrent-Expression.md
-├── 📝 Conditional-Positive-Regard.md
-├── 📝 Conditional-Regard.md
-├── 📝 Conditionalized-Knowledge.md
-├── 📝 Confirmation-Bias-Myside-Bias.md
-├── 📝 Confirmation-Curation.md
-├── 📝 Conflict-Monitoring.md
-├── 📝 Conjunctive-System-Architecture.md
-├── 📝 Consolidation.md
-├── 📝 Constructive-Alignment.md
-├── 📝 Constructive-Attentiveness.md
-├── 📝 Constructive-Processing.md
-├── 📝 Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle.md
-├── 📝 Constructivism.md
-├── 📝 Constructivist-Emergentist.md
-├── 📝 Constructivist-Knowledge.md
-├── 📝 Constructivist-Learning-Environment.md
-├── 📝 Constructivist-Learning-Environments-CLEs.md
-├── 📝 Constructivist-Struggle.md
-├── 📝 Constructivist.md
-├── 📝 Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM.md
-├── 📝 Context-of-Discovery-vs.-Context-of-Justification.md
-├── 📝 Context-Window.md
-├── 📝 Contextual-Bridging-Architecture.md
-├── 📝 Contextual-Interference-Effect.md
-├── 📝 Contextual-Interference.md
-├── 📝 Contingent-Self-Esteem.md
-├── 📝 Contingent-Self-Worth.md
-├── 📝 Contract-Style-Prompt-Structure.md
-├── 📝 Control-Orientation.md
-├── 📝 Control-Value-Theory-CVT.md
-├── 📝 Control-Value-Theory.md
-├── 📝 Control.md
-├── 📝 Controlled-Hallucination.md
-├── 📝 Controlled-Motivation.md
-├── 📝 Controlled-Regulation.md
-├── 📝 Controlled-Relationship-Motivation.md
-├── 📝 Controlled-Vocabulary.md
-├── 📝 Controlling-Environment.md
-├── 📝 Core-Affect.md
-├── 📝 Core-Concept-Definition.md
-├── 📝 Core-Definition-Epistemic-Vigilance.md
-├── 📝 Correspondence-Theory.md
-├── 📝 Corroboration.md
-├── 📝 Cortico-Striatal-Learning-Loops.md
-├── 📝 Counterexample-Search.md
-├── 📝 Coupling-Constitution-Fallacy.md
-├── 📝 Critical-Thinking-as-Metacognitively-Regulated-Reasoning.md
-├── 📝 Critical-Thinking-Ethics.md
-├── 📝 Critical-Thinking.md
-├── 📝 Cybernetics.md
-├── 📝 Daniel-Schwartz.md
-├── 📝 Data-Layer-Components.md
-├── 📝 Dataview-Plugin.md
-├── 📝 Dataview.md
-├── 📝 David-Ausubel.md
-├── 📝 David-Jonassen.md
-├── 📝 David-Kirsh.md
-├── 📝 David-Kolb.md
-├── 📝 David-Rumelhart.md
-├── 📝 Debiasing-What-Interventions-Actually-Work-and-Why.md
-├── 📝 Declarative-Memory.md
-├── 📝 Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md
-├── 📝 Dedre-Gentner.md
-├── 📝 Deductive-Reasoning.md
-├── 📝 Deep-Processing.md
-├── 📝 Defeasibility.md
-├── 📝 Defeat-Defeater.md
-├── 📝 Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias.md
-├── 📝 Delayed-JOL-Effect.md
-├── 📝 Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat.md
-├── 📝 Deliberate-Practice-Log.md
-├── 📝 Deliberative-Democracy.md
-├── 📝 Delphi-Consensus-Definition.md
-├── 📝 Derived-Principle.md
-├── 📝 Description-Field-Components.md
-├── 📝 Desirable-Difficulties.md
-├── 📝 Developmental-Need-Satisfaction-History.md
-├── 📝 Dewey-Inquiry-Model.md
-├── 📝 Dewey-Reflective-Inquiry.md
-├── 📝 Dewey.md
-├── 📝 Dewey's-Continuity-and-Interaction-Principles.md
-├── 📝 Dewey's-Reflective-Inquiry.md
-├── 📝 Dialectic,-Hegelian.md
-├── 📝 Dialectic.md
-├── 📝 Dialectical-Knowledge-Building.md
-├── 📝 Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the.md
-├── 📝 Dialectical-Thinking.md
-├── 📝 Dichotomy-of-Control.md
-├── 📝 Differentiated-Conception-of-Ability.md
-├── 📝 Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM.md
-├── 📝 Discipline-of-Assent.md
-├── 📝 Disequilibration.md
-├── 📝 Disorienting-Dilemma.md
-├── 📝 Disposition.md
-├── 📝 Dissolved-Assumption.md
-├── 📝 Distinctiveness.md
-├── 📝 Distributed-Cognition.md
-├── 📝 Donald-Schön.md
-├── 📝 Double-Ignorance.md
-├── 📝 Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review.md
-├── 📝 Double-Loop-Learning.md
-├── 📝 Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr.md
-├── 📝 Dreyfus-Skill-Acquisition-Model.md
-├── 📝 Dual-Coding-Theory.md
-├── 📝 Dual-Process-Theory.md
-├── 📝 Duncan-Godden.md
-├── 📝 Duncan-Watts.md
-├── 📝 Dunning-Kruger-Effect.md
-├── 📝 Dunning-Kruger.md
-├── 📝 Dysrationalia.md
-├── 📝 Early-Selection.md
-├── 📝 Ease-of-Learning-—-EOL.md
-├── 📝 Ecological-Affordances.md
-├── 📝 Ecological-Psychology.md
-├── 📝 Ecological-Rationality.md
-├── 📝 Educational-Data-Mining.md
-├── 📝 Educational-Philosophy.md
-├── 📝 Educational-Psychology.md
-├── 📝 Educational-Science.md
-├── 📝 Educational-Technology-Affordances.md
-├── 📝 Edward-Thorndike.md
-├── 📝 Effectance.md
-├── 📝 Ego-Involvement.md
-├── 📝 Ego-Involving-Feedback.md
-├── 📝 Elaboration-Theory.md
-├── 📝 Elaboration.md
-├── 📝 Elaborative-Interrogation.md
-├── 📝 Elaborative-Rehearsal.md
-├── 📝 Elaborative-Retrieval.md
-├── 📝 Element-Interactivity.md
-├── 📝 Elenchus.md
-├── 📝 Embedded-Monitoring-Architecture.md
-├── 📝 Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture.md
-├── 📝 Embodied-Cognition.md
-├── 📝 Embodied-vs.-Extended-vs.-Enactive-Cognition.md
-├── 📝 Emerging-Individual-Interest.md
-├── 📝 Emotional-Calibration.md
-├── 📝 Emotional-Granularity-as-Epistemic-Precision.md
-├── 📝 Emotional-Granularity.md
-├── 📝 Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice.md
-├── 📝 Enactive-Cognition.md
-├── 📝 Enactivism.md
-├── 📝 Encoding-Specificity-Principle.md
-├── 📝 Encoding-Specificity.md
-├── 📝 Encoding-Variability.md
-├── 📝 Engagement-Contingent-Reward.md
-├── 📝 Entity-Theory-of-Intelligence.md
-├── 📝 Entity-Theory.md
-├── 📝 Enumerative-Induction.md
-├── 📝 Environment-as-Third-Teacher.md
-├── 📝 Episodic-Buffer.md
-├── 📝 Episodic-Memory.md
-├── 📝 Epistemic-Accuracy-Architecture-—-EAA.md
-├── 📝 Epistemic-Actions.md
-├── 📝 Epistemic-Affordances.md
-├── 📝 Epistemic-Aporia.md
-├── 📝 Epistemic-Autonomy-—-Epistemology-Social-Epistemology.md
-├── 📝 Epistemic-Autonomy-—-Epistemology.md
-├── 📝 Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM.md
-├── 📝 Epistemic-Calibration.md
-├── 📝 Epistemic-Character-as-Concurrent-Expression.md
-├── 📝 Epistemic-Character.md
-├── 📝 Epistemic-Citizenship.md
-├── 📝 Epistemic-Cognition.md
-├── 📝 Epistemic-Conscientiousness.md
-├── 📝 Epistemic-Courage.md
-├── 📝 Epistemic-Cowardice.md
-├── 📝 Epistemic-Echo-Chamber-of-the-Self-—-Adaptive-Systems-Social-Epistemology.md
-├── 📝 Epistemic-Emotional-Architecture.md
-├── 📝 Epistemic-Emotions.md
-├── 📝 Epistemic-Holism.md
-├── 📝 Epistemic-Humility.md
-├── 📝 Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored.md
-├── 📝 Epistemic-Justice.md
-├── 📝 Epistemic-State.md
-├── 📝 Epistemic-Status-Tagging.md
-├── 📝 Epistemic-Status-Vocabulary.md
-├── 📝 Epistemic-Status.md
-├── 📝 Epistemic-Vigilance.md
-├── 📝 Epistemic-Virtue.md
-├── 📝 Epistemological-Architecture.md
-├── 📝 Epistemology-of-Testimony-—-Believing-What-Others-Know.md
-├── 📝 Epitome.md
-├── 📝 Equilibration.md
-├── 📝 Error-Categories-in-Multi-Agent-Systems.md
-├── 📝 Error-Correction-Protocols-in-PKB-Design.md
-├── 📝 Ethics-of-Belief.md
-├── 📝 Eupatheia.md
-├── 📝 Evaluation.md
-├── 📝 Excalidraw-Library.md
-├── 📝 Excalidraw.md
-├── 📝 ExcalidrawAutomate.md
-├── 📝 Experience-Processing-Architecture.md
-├── 📝 Experiential-Learning-Across-Domains-—-Professional,-Academic,-and-Personal.md
-├── 📝 Expert-Knowledge-Organization.md
-├── 📝 Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design.md
-├── 📝 Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S.md
-├── 📝 Expertise-Reversal-Effect.md
-├── 📝 Explicit-Knowledge.md
-├── 📝 Expository-Advance-Organizer.md
-├── 📝 Expository-Organizer.md
-├── 📝 Extended-Mind-Theory-—-Philosophy-of-Mind.md
-├── 📝 Extended-Thinking-Modes.md
-├── 📝 External-Epistemic-Vigilance-System-EEVS.md
-├── 📝 External-Regulation.md
-├── 📝 Externalization-Exercises.md
-├── 📝 Externalization.md
-├── 📝 Extraneous-Load.md
-├── 📝 Extrinsic-Goal-Content.md
-├── 📝 Faceted-Classification.md
-├── 📝 Fading-—-Instructional-Design-Collins,-Brown-&-Newman.md
-├── 📝 Fading.md
-├── 📝 Fallibilism.md
-├── 📝 Falsificationism.md
-├── 📝 Familiarity-vs.-Recollection.md
-├── 📝 Far-Transfer.md
-├── 📝 Fast-and-Frugal-Heuristics.md
-├── 📝 FastMCP.md
-├── 📝 Feed-Forward.md
-├── 📝 Feedback-Design.md
-├── 📝 Feeling-of-Knowing-—-FOK.md
-├── 📝 Felt-Difficulty.md
-├── 📝 Figure-Effect.md
-├── 📝 Filter-Bubble-Information-Cocoon.md
-├── 📝 Five-Convergence-Zones.md
-├── 📝 Fixed-Mindset.md
-├── 📝 Flavell-Metacognition-Framework.md
-├── 📝 Flavell.md
-├── 📝 Fleshing-Out.md
-├── 📝 Flow.md
-├── 📝 Fluency-Illusion-—-Metacognitive-Psychology.md
-├── 📝 Fluency-Illusion.md
-├── 📝 Fluency.md
-├── 📝 Focal-Attention.md
-├── 📝 Focal-Awareness.md
-├── 📝 Focal-Subsidiary-Attention-Distinction.md
-├── 📝 Fogg-Behavior-Model.md
-├── 📝 Folksonomy.md
-├── 📝 Forethought-Phase.md
-├── 📝 Forethought-Reflection-Closure.md
-├── 📝 Forgetting-Curve.md
-├── 📝 Formative-Assessment.md
-├── 📝 Formative-Feedback.md
-├── 📝 Foundational-Principle.md
-├── 📝 Four-Component-Instructional-Design-4CID.md
-├── 📝 Four-Phase-Interest-Model.md
-├── 📝 Fourfold-Motivational-Architecture.md
-├── 📝 Free-Choice-Behaviour.md
-├── 📝 Free-Energy-Principle.md
-├── 📝 Functional-Integration.md
-├── 📝 Functional-Significance.md
-├── 📝 General-Causality-Orientations-Scale.md
-├── 📝 Generation-Effect.md
-├── 📝 Generative-Learning-Theory.md
-├── 📝 Generative-Learning.md
-├── 📝 Generative-Model.md
-├── 📝 Genetic-Epistemology.md
-├── 📝 Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation.md
-├── 📝 Germane-Cognitive-Load.md
-├── 📝 Germane-Load.md
-├── 📝 Gettier-Problem.md
-├── 📝 Gibbs-Reflective-Cycle-as-PKB-Template-Architecture.md
-├── 📝 Gibson-Affordances.md
-├── 📝 Git-Based-Workflow.md
-├── 📝 Global-vs.-Local-Autonomy.md
-├── 📝 Goal-Content-Theory.md
-├── 📝 Goal-Content.md
-├── 📝 Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror.md
-├── 📝 Goal-Framing.md
-├── 📝 Goal-Orientation.md
-├── 📝 Gollwitzer-If-Then-Planning.md
-├── 📝 Google-Effect-Digital-Amnesia-—-Cognitive-Psychology.md
-├── 📝 Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology.md
-├── 📝 Growth-Mindset-Implicit-Theories-of-Intelligence.md
-├── 📝 Guidance-Fading-Principle.md
-├── 📝 Habit-Formation.md
-├── 📝 Habit-Loop.md
-├── 📝 Handlebars.md
-├── 📝 Hard-Easy-Effect.md
-├── 📝 Hedonic-Adaptation.md
-├── 📝 Hegelian-Dialectic.md
-├── 📝 Helpless-Response-Pattern.md
-├── 📝 Hermeneutical-Injustice.md
-├── 📝 Heutagogical-Self-Design.md
-├── 📝 Heutagogy.md
-├── 📝 Hindsight-Bias.md
-├── 📝 Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing.md
-├── 📝 Holistic-Critical-Thinking-Scoring-Rubric-Framework.md
-├── 📝 Horm.md
-├── 📝 Hub-Notes.md
-├── 📝 Hypothetico-Deductive-Method.md
-├── 📝 ICAP-Framework.md
-├── 📝 Identified-Regulation-vs.-Integrated-Regulation.md
-├── 📝 Identified-Regulation.md
-├── 📝 Identity-Based-Habits.md
-├── 📝 Ignorance-Map.md
-├── 📝 Ill-Structured-Problems.md
-├── 📝 Illusion-of-Explanatory-Depth.md
-├── 📝 Illusion-of-Knowing.md
-├── 📝 Illusory-Superiority.md
-├── 📝 Impersonal-Orientation.md
-├── 📝 Implementation-Intentions.md
-├── 📝 Implications-and-Consequences.md
-├── 📝 Incidental-Learning.md
-├── 📝 Incremental-Theory-of-Intelligence.md
-├── 📝 Incremental-Theory.md
-├── 📝 Individual-Interest.md
-├── 📝 Inductive-Reasoning.md
-├── 📝 Inert-Ideas.md
-├── 📝 Inert-Knowledge.md
-├── 📝 Infallibilism.md
-├── 📝 Inference-to-the-Best-Explanation.md
-├── 📝 Inference.md
-├── 📝 Information-Architecture-Isomorphism.md
-├── 📝 Information-Architecture.md
-├── 📝 Information-Scent.md
-├── 📝 Information-Science.md
-├── 📝 Informational-Feedback.md
-├── 📝 Inoculation-Theory.md
-├── 📝 Inquiry-Based-Learning.md
-├── 📝 Inquiry-Node.md
-├── 📝 Inquiry-Trail.md
-├── 📝 Instance-Theory-Core-Mechanism.md
-├── 📝 Instrumentalism.md
-├── 📝 Integrated-Cognitive-Personhood.md
-├── 📝 Integrated-Learning-System-Model.md
-├── 📝 Integrated-Regulation.md
-├── 📝 Integration-Metabolism.md
-├── 📝 Integration-Paradox.md
-├── 📝 Integration.md
-├── 📝 Integrative-Reconciliation.md
-├── 📝 Intellectual-Courage.md
-├── 📝 Intellectual-Empathy.md
-├── 📝 Intellectual-Honesty.md
-├── 📝 Intellectual-Humility.md
-├── 📝 Intellectual-Integrity.md
-├── 📝 Intellectual-Perseverance.md
-├── 📝 Intellectual-Standards.md
-├── 📝 Intellectual-Vice.md
-├── 📝 Intellectual-Virtue.md
-├── 📝 Intellectual-Virtues.md
-├── 📝 Intelligent-Tutoring-Systems-ITS-—-Educational-Technology.md
-├── 📝 Interest-Development-Theory-Full-Literature-Review.md
-├── 📝 Interest-Development-Theory.md
-├── 📝 Interleaving-and-Note-Making-Sequence-Design.md
-├── 📝 Interleaving-Effect.md
-├── 📝 Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering.md
-├── 📝 Interleaving.md
-├── 📝 Internalism.md
-├── 📝 Internalization-Continuum.md
-├── 📝 Internalization.md
-├── 📝 Interoception.md
-├── 📝 Interoceptive-Inference.md
-├── 📝 Interpretation-and-Inference.md
-├── 📝 Intrinsic-Cognitive-Load.md
-├── 📝 Intrinsic-Goal-Content.md
-├── 📝 Intrinsic-Load.md
-├── 📝 Intrinsic-Motivation.md
-├── 📝 Intrinsic,-Extraneous,-and-Germane-Cognitive-Load.md
-├── 📝 Introjected-Regulation.md
-├── 📝 Introjection.md
-├── 📝 John-Dewey.md
-├── 📝 Jonassen-CLE-Model.md
-├── 📝 Judgment-of-Learning-JOL.md
-├── 📝 Judgment-of-Learning-Metacognitive-Monitoring.md
-├── 📝 Judgment-of-Learning.md
-├── 📝 Justified-True-Belief.md
-├── 📝 Kataleptic-Impression.md
-├── 📝 Kathekon.md
-├── 📝 Kathkon.md
-├── 📝 Knightian-Uncertainty.md
-├── 📝 Knowing-That-Knowing-How.md
-├── 📝 Knowledge-Ecology.md
-├── 📝 Knowledge-Externalization.md
-├── 📝 Knowledge-Graph-Analytics-for-PKB-Health-Assessment.md
-├── 📝 Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know.md
-├── 📝 Knowledge-Integration.md
-├── 📝 Knowledge-Management.md
-├── 📝 Knowledge-of-Cognition.md
-├── 📝 Knowledge-Organization-System-KOS.md
-├── 📝 Knowledge-Organization-System.md
-├── 📝 Knowledge-Organization-Systems.md
-├── 📝 Kolb-Experiential-Learning-Cycle.md
-├── 📝 Kolb's-Experiential-Learning-Cycle.md
-├── 📝 Koriat-and-Bjork-2005.md
-├── 📝 Late-Selection.md
-├── 📝 Lave-and-Wenger-Communities-of-Practice.md
-├── 📝 Learned-Helplessness.md
-├── 📝 Learner-Journey.md
-├── 📝 Learning-Analytics.md
-├── 📝 Learning-Contracts.md
-├── 📝 Learning-Experience-Design.md
-├── 📝 Learning-Journal.md
-├── 📝 Learning-Metabolism.md
-├── 📝 Learning-Projects.md
-├── 📝 Legitimate-Peripheral-Participation.md
-├── 📝 Levels-of-Processing.md
-├── 📝 Link-Ethics.md
-├── 📝 Literature-Review.md
-├── 📝 Load-Profile.md
-├── 📝 Locus-of-Control.md
-├── 📝 Long-Term-Memory.md
-├── 📝 Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes.md
-├── 📝 Maintained-Situational-Interest.md
-├── 📝 Maintenance-Rehearsal.md
-├── 📝 Manipulative-Abduction.md
-├── 📝 Maps-of-Content-—-MOCs.md
-├── 📝 Mark-of-the-Cognitive.md
-├── 📝 MarkMind.md
-├── 📝 Mastery-Approach-Goal.md
-├── 📝 Mastery-Avoidance-Goal.md
-├── 📝 Mastery-Experience.md
-├── 📝 Mastery-Goal-Orientation.md
-├── 📝 Mastery-Goals.md
-├── 📝 Mastery-Orientation-vs.-Helpless-Orientation.md
-├── 📝 Mastery-Oriented-Response-Pattern.md
-├── 📝 Matthew-Effect.md
-├── 📝 Mayer's-Cognitive-Theory-of-Multimedia-Learning.md
-├── 📝 Meaningful-Learning.md
-├── 📝 Melete.md
-├── 📝 Memory-Reconsolidation.md
-├── 📝 Memory-Systems.md
-├── 📝 Memory-Trace-Durability.md
-├── 📝 Mental-Image.md
-├── 📝 Mental-Model.md
-├── 📝 Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory.md
-├── 📝 Mental-Models.md
-├── 📝 Mental-Simulation.md
-├── 📝 Meta-Level-Object-Level-Model.md
-├── 📝 Metacognition.md
-├── 📝 Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector.md
-├── 📝 Metacognitive-Calibration.md
-├── 📝 Metacognitive-Capacity.md
-├── 📝 Metacognitive-Control.md
-├── 📝 Metacognitive-Development.md
-├── 📝 Metacognitive-Experience.md
-├── 📝 Metacognitive-Feelings.md
-├── 📝 Metacognitive-Knowledge.md
-├── 📝 Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a.md
-├── 📝 Metacognitive-Monitoring.md
-├── 📝 Metacognitive-Regulation.md
-├── 📝 Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains.md
-├── 📝 Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles.md
-├── 📝 Mindset-Intervention.md
-├── 📝 Mindtools.md
-├── 📝 Mindware.md
-├── 📝 Modality-Effect.md
-├── 📝 Model-Completeness-Hypothesis.md
-├── 📝 Model-Context-Protocol.md
-├── 📝 Model-Multiplicity.md
-├── 📝 Model-Selection-Decision-Tree.md
-├── 📝 Modus-Ponens.md
-├── 📝 Modus-Tollens.md
-├── 📝 Monitoring-Control-Coupling.md
-├── 📝 Monitoring-Gap.md
-├── 📝 Monitoring.md
-├── 📝 More-Knowledgeable-Other.md
-├── 📝 Motivated-Reasoning.md
-├── 📝 Motivational-Affordance.md
-├── 📝 Motivational-Asymmetry-and-Instructional-Design-Sequencing.md
-├── 📝 Motivational-Climate.md
-├── 📝 Motivational-Compounding-Model.md
-├── 📝 Motivational-Compounding.md
-├── 📝 MSLQ.md
-├── 📝 Multimedia-Learning-Principles-for-Rich-PKB-Notes-Diagrams,-Code,-and-Visual-Rep.md
-├── 📝 Mutuality.md
-├── 📝 Myside-Bias.md
-├── 📝 Narrative-Coherence-as-Cognitive-Architecture.md
-├── 📝 Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound.md
-├── 📝 Nash-Equilibria.md
-├── 📝 Near-Transfer.md
-├── 📝 Need-Absence.md
-├── 📝 Need-Frustration.md
-├── 📝 Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score.md
-├── 📝 Need-Satisfaction-vs.-Need-Frustration.md
-├── 📝 Need-Satisfaction.md
-├── 📝 Need-Substitute.md
-├── 📝 Need-Support.md
-├── 📝 Need-Thwarting.md
-├── 📝 Negative-Feedback-Loop.md
-├── 📝 Nelson-Narens-Model.md
-├── 📝 Network-Analysis-Tools-for-PKB-Structural-Feedback.md
-├── 📝 Network-Model-of-Memory.md
-├── 📝 Node-01-Opening-Question.md
-├── 📝 Non-Declarative-Memory.md
-├── 📝 Nonaka-&-Takeuchi's-SECI-model.md
-├── 📝 Nonaka-Knowledge-Spiral.md
-├── 📝 Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible.md
-├── 📝 Note-Making-vs.-Note-Taking.md
-├── 📝 Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB.md
-├── 📝 Note-Titling-as-Cognitive-Interface-Design.md
-├── 📝 Obliterative-Subsumption.md
-├── 📝 Observability-Layers.md
-├── 📝 Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture.md
-├── 📝 Obsidian-Plugin-Architecture-for-Feedback-Systems.md
-├── 📝 Obsidian.md
-├── 📝 OIT's-Continuum-as-Motivational-Landscape.md
-├── 📝 Online-Learning.md
-├── 📝 Ontological-Category-Shifts.md
-├── 📝 Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al.md
-├── 📝 Ontology-Knowledge.md
-├── 📝 Ontology.md
-├── 📝 Open-Mindedness.md
-├── 📝 Open-Questions-Registry.md
-├── 📝 Open-Society.md
-├── 📝 Optimal-Challenge.md
-├── 📝 Organismic-Integration-Tendency.md
-├── 📝 Organismic-Integration-Theory.md
-├── 📝 Organismic-Meta-Theory.md
-├── 📝 Organization-Learning-Loop.md
-├── 📝 Orienting-Task-Paradigm.md
-├── 📝 Orienting-Task.md
-├── 📝 Output-Style-Modes.md
-├── 📝 Overconfidence-Effect.md
-├── 📝 Overjustification-Effect.md
-├── 📝 PAH-Continuum.md
-├── 📝 Parity-Principle.md
-├── 📝 Partisan-Identity.md
-├── 📝 Passive-Externalism.md
-├── 📝 Path-and-Eupatheia-The-Stoic-Distinction.md
-├── 📝 Path.md
-├── 📝 Pedagogy.md
-├── 📝 PENCRISAL-Framework.md
-├── 📝 Perceived-Competence.md
-├── 📝 Perceived-Internal-Locus-of-Causation.md
-├── 📝 Perceived-Locus-of-Causality.md
-├── 📝 Perceived-Partner-Responsiveness.md
-├── 📝 Perceptual-Attunement.md
-├── 📝 Performance-Approach-Goal.md
-├── 📝 Performance-Avoidance-Goal.md
-├── 📝 Performance-Goal-Orientation.md
-├── 📝 Performance-Goals.md
-├── 📝 Performance-Phase.md
-├── 📝 Personal-Constructed-Learning-Environment-—-PCLE.md
-├── 📝 Personal-Knowledge-Base.md
-├── 📝 Personal-Knowledge-Management.md
-├── 📝 Personal-Responsibility-Orientation.md
-├── 📝 Perspective-Transformation.md
-├── 📝 Phenomenal-Self-Model.md
-├── 📝 Phenomenology.md
-├── 📝 Philosophical-Lineage.md
-├── 📝 Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model.md
-├── 📝 Phonological-Loop.md
-├── 📝 Phronesis.md
-├── 📝 Physiological-Metacognition-Formal-Definition.md
-├── 📝 Physiological-Metacognition.md
-├── 📝 Pintrich's-Motivational-Integration.md
-├── 📝 Pipeline-Stages.md
-├── 📝 PKB-Habit-Architecture-A-Practical-Design-Guide.md
-├── 📝 PKB-Maturity-Architecture.md
-├── 📝 PKM-AI-Integration-Practice.md
-├── 📝 Point-of-View.md
-├── 📝 Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework.md
-├── 📝 Polanyi's-Tacit-Dimension.md
-├── 📝 Political-Decision-Making.md
-├── 📝 Political-Reasoning.md
-├── 📝 Portfolio-of-Evidence.md
-├── 📝 Positive-Feedback-Loop.md
-├── 📝 Pragma-Dialectics.md
-├── 📝 Pragmatic-Construction.md
-├── 📝 Pragmatic-Maxim.md
-├── 📝 Pragmatic-Reasoning-Schema.md
-├── 📝 Pragmatic-Reasoning-Schemas.md
-├── 📝 Pragmatism.md
-├── 📝 Pragmatist-Epistemology.md
-├── 📝 Pragmatist-PKB.md
-├── 📝 Pragmatist-Truth.md
-├── 📝 Precision-Flexibility.md
-├── 📝 Precision-Weighting.md
-├── 📝 Prediction-Error.md
-├── 📝 Prediction-Performance-Gap.md
-├── 📝 Predictive-Processing.md
-├── 📝 Premeditatio-Malorum.md
-├── 📝 Preparation-for-Future-Learning.md
-├── 📝 Principle-of-Truth.md
-├── 📝 Prior-Knowledge-Activation.md
-├── 📝 Prior-Knowledge.md
-├── 📝 Procedural-Memory.md
-├── 📝 Process-Praise.md
-├── 📝 Processing-Depth.md
-├── 📝 Productive-Failure.md
-├── 📝 Productive-Struggle.md
-├── 📝 Progressive-Approximation.md
-├── 📝 Progressive-Differentiation.md
-├── 📝 Progressive-Disclosure.md
-├── 📝 Progressive-Parameterized-Tagging-PPT.md
-├── 📝 Progressive-Parameterized-Tagging.md
-├── 📝 Progressive-Summarization.md
-├── 📝 Prohairesis.md
-├── 📝 Prokoptn.md
-├── 📝 Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions.md
-├── 📝 Propatheiai-The-Stoic-First-Movements.md
-├── 📝 Propatheiai.md
-├── 📝 Propositional-Representation.md
-├── 📝 Prosoche.md
-├── 📝 Prototype-Theory.md
-├── 📝 Pseudometacognition.md
-├── 📝 Psychology-of-Self-Deception.md
-├── 📝 Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development.md
-├── 📝 Question-at-Issue.md
-├── 📝 Recognition-Primed-Decision-Model.md
-├── 📝 Recognition-Primed-Decision-RPD-Model.md
-├── 📝 Reconstruction-Imperative.md
-├── 📝 Reconstructive-Memory.md
-├── 📝 Recursive-Self-Authorship.md
-├── 📝 Redundancy-Effect.md
-├── 📝 Refinement-Principle.md
-├── 📝 Reflection-in-Action.md
-├── 📝 Reflection-on-Action.md
-├── 📝 Reflective-Inquiry.md
-├── 📝 Reflective-Judgment.md
-├── 📝 Reflective-Observation.md
-├── 📝 Reflective-Practice.md
-├── 📝 Reflective-Practitioner.md
-├── 📝 Reflective-Thinking.md
-├── 📝 Region-of-Proximal-Learning.md
-├── 📝 Regulation-of-Cognition.md
-├── 📝 Regulatory-Style.md
-├── 📝 Relatedness-Need.md
-├── 📝 Relatedness.md
-├── 📝 Relational-Emergent-Autonomy.md
-├── 📝 Relational-Theory-of-PKB-Knowledge.md
-├── 📝 Relationship-Motivation-Theory.md
-├── 📝 Relationships-as-Motivational-Ecosystems-The-Bidirectional-Resource-Model.md
-├── 📝 Relative-Autonomy-Index.md
-├── 📝 Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev.md
-├── 📝 Retrieval-Augmented-Generation.md
-├── 📝 Retrieval-Enhanced-Network-Strengthening-RENS-A-Unified-Framework-for-PKB-Retrie.md
-├── 📝 Retrieval-Enhanced-Network-Strengthening-RENS.md
-├── 📝 Retrieval-Induced-Forgetting.md
-├── 📝 Retrieval-Oriented-Note-Architecture-RONA.md
-├── 📝 Retrieval-Oriented-Note-Architecture.md
-├── 📝 Retrieval-Practice.md
-├── 📝 Retrospective-Confidence-Judgment-—-RCJ.md
-├── 📝 Reward-Contingency-Types.md
-├── 📝 RMT-as-the-Motivational-Infrastructure-of-Attachment-Security.md
-├── 📝 Routing-Decision-Factors.md
-├── 📝 Rubric.md
-├── 📝 Satisfaction-Frustration-Asymmetry.md
-├── 📝 Satisficing.md
-├── 📝 Scaffolded-Fading.md
-├── 📝 Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross.md
-├── 📝 Scaffolding-Archaeology.md
-├── 📝 Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge.md
-├── 📝 Scaffolding.md
-├── 📝 Schema-Accommodation.md
-├── 📝 Schema-Automation.md
-├── 📝 Schema-Construction-Problem-—-Original-Analytical-Insight.md
-├── 📝 Schema-Construction.md
-├── 📝 Schema-Crystallization-Event.md
-├── 📝 Schema-Progressive-Architecture.md
-├── 📝 Schema-Theory.md
-├── 📝 Schema.md
-├── 📝 SDL-as-Educational-Goal.md
-├── 📝 SDT's-Regulatory-Continuum.md
-├── 📝 SECI-Model.md
-├── 📝 Secure-Base.md
-├── 📝 Self-Agent-Coordinator.md
-├── 📝 Self-Concordance-Model.md
-├── 📝 Self-Consistency.md
-├── 📝 Self-Determination-Theory.md
-├── 📝 Self-Determination.md
-├── 📝 Self-Directed-Learning-Readiness-Scale.md
-├── 📝 Self-Directed-Learning.md
-├── 📝 Self-Directedness-Trait-or-Readiness-Sense.md
-├── 📝 Self-Efficacy.md
-├── 📝 Self-Explanation-Effect.md
-├── 📝 Self-Management.md
-├── 📝 Self-Monitoring.md
-├── 📝 Self-Reference-Effect.md
-├── 📝 Self-Reflection-Phase.md
-├── 📝 Self-Regulated-Learning-—-SRL.md
-├── 📝 Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty.md
-├── 📝 Semantic-Memory.md
-├── 📝 Semantic-Network.md
-├── 📝 Semantic-Networks.md
-├── 📝 Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval.md
-├── 📝 Sensory-Memory.md
-├── 📝 Shallow-Processing.md
-├── 📝 Shared-vs.-Personal-Agents.md
-├── 📝 Short-Term-Memory.md
-├── 📝 Signaling-Principle.md
-├── 📝 Single-Loop-Learning-vs.-Double-Loop-Learning.md
-├── 📝 Single-Loop-Learning.md
-├── 📝 Situated-Cognition.md
-├── 📝 Situated-Learning.md
-├── 📝 Situation-Model.md
-├── 📝 Situational-Interest.md
-├── 📝 Slot-Default-Value.md
-├── 📝 Small-World-Network.md
-├── 📝 Small-World-Networks.md
-├── 📝 Small-World-PKB-Principle.md
-├── 📝 Smart-Connections.md
-├── 📝 Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice.md
-├── 📝 Social-Constructivism.md
-├── 📝 Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring.md
-├── 📝 Socialization.md
-├── 📝 Socio-Cognitive-Conflict.md
-├── 📝 Socratic-Aporia.md
-├── 📝 Socratic-Dialectic.md
-├── 📝 Socratic-Ignorance-Knowing-One's-Ignorance.md
-├── 📝 Socratic-Ignorance.md
-├── 📝 Socratic-Method-Elenchus.md
-├── 📝 Socratic-Method.md
-├── 📝 Somatic-Marker-Hypothesis.md
-├── 📝 Somatic-Marker.md
-├── 📝 Soundness.md
-├── 📝 Spaced-Repetition-Spacing-Effect.md
-├── 📝 Spaced-Repetition-Systems.md
-├── 📝 Spacing-Effect.md
-├── 📝 Split-Attention-Effect.md
-├── 📝 Spreading-Activation.md
-├── 📝 Stage-Characteristics-and-Training-Implications.md
-├── 📝 Standard-Template-Metadata.md
-├── 📝 State-Management-Approaches.md
-├── 📝 Steel-Manning.md
-├── 📝 Stereotype-Threat.md
-├── 📝 Stoic-Assent.md
-├── 📝 Stoic-Ethics.md
-├── 📝 Stoic-Philosophy-as-Applied-Educational-Psychology.md
-├── 📝 Stoic-Philosophy.md
-├── 📝 Stoic-Synkatathesis-—-Assent.md
-├── 📝 Stoic-Virtue-as-Epistemic-Foundation.md
-├── 📝 Storage-Metaphor-for-PKB.md
-├── 📝 Straw-Man-Fallacy.md
-├── 📝 Stream-of-Consciousness.md
-├── 📝 Strength-of-Weak-Ties.md
-├── 📝 Structural-Affordance.md
-├── 📝 Structural-Metacognition-Principle.md
-├── 📝 Structure-Mapping-Theory.md
-├── 📝 Study-Phase-Retrieval-Hypothesis.md
-├── 📝 Subagents-vs.-Coordinator.md
-├── 📝 Subsequent-Memory-Effect.md
-├── 📝 Subsidiary-Awareness.md
-├── 📝 Subsumer-Anchoring-Idea.md
-├── 📝 Surveillance.md
-├── 📝 Synaptic-Consolidation.md
-├── 📝 Synkatathesis-Assent-and-the-Stoic-Gap.md
-├── 📝 Synkatathesis.md
-├── 📝 Synthesizer.md
-├── 📝 Synthetic-Model.md
-├── 📝 System-1-and-System-2.md
-├── 📝 System-1-System-2.md
-├── 📝 System-1.md
-├── 📝 System-2.md
-├── 📝 Systems-Consolidation.md
-├── 📝 Tacit-Explicit-Spectrum.md
-├── 📝 Tacit-Knowledge-Observatory.md
-├── 📝 Tacit-Knowledge.md
-├── 📝 TARGET-Framework.md
-├── 📝 Task-Involvement.md
-├── 📝 Taxonomy.md
-├── 📝 Testimonial-Injustice.md
-├── 📝 Testing-Effect-Retrieval-Practice-Effect.md
-├── 📝 Testing-Effect.md
-├── 📝 Text-Generator-Plugin.md
-├── 📝 The-Abductive-Syllogism.md
-├── 📝 The-Articulatory-Construction-Principle.md
-├── 📝 The-Asymmetry-Thesis-as-a-General-Principle-for-Environment-Design.md
-├── 📝 The-Bias-Virtue-Correspondence.md
-├── 📝 The-Cognitive-Alignment-Principle-An-Original-Framework-for-PKB-Architecture.md
-├── 📝 The-Cognitive-Architecture-Isomorphism-Principle-A-Unified-Design-Framework.md
-├── 📝 The-Cognitive-Ba-Cycle-How-PKB-Organization-Shapes-Cognition.md
-├── 📝 The-Cognitive-Event-Model-of-Note-Making.md
-├── 📝 The-Cognitive-Partnership-Model.md
-├── 📝 The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox.md
-├── 📝 The-Contextual-Bridging-Architecture-CBA.md
-├── 📝 The-Core-Insight-in-One-Sentence.md
-├── 📝 The-Dialectical-Note-Triad-DNT-An-Original-PKB-Architecture.md
-├── 📝 The-Dialectical-PKB-as-a-System-of-Epistemic-Accountability.md
-├── 📝 The-Effortful-Processing-Architecture-A-Novel-Integration.md
-├── 📝 The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge.md
-├── 📝 The-Epistemic-Ecosystem-Model.md
-├── 📝 The-Epistemic-Emotional-Architecture-A-Design-Principle-for-PKBs.md
-├── 📝 The-Epistemic-Honesty-Flywheel.md
-├── 📝 The-Epistemological-Architecture-Principle-Original-Contribution.md
-├── 📝 The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge.md
-├── 📝 The-Ethics-of-Belief.md
-├── 📝 The-Experience-Processing-Architecture.md
-├── 📝 The-Expertise-Reversal-Effect-Across-Knowledge-Domains-What-Counts-as-'Expertise.md
-├── 📝 The-Expertise-Reversal-Effect-Across-PKB-Knowledge-Domains.md
-├── 📝 The-External-Epistemic-Vigilance-System-EEVS.md
-├── 📝 The-Four-Epistemic-Duties-of-the-PKB-Curator.md
-├── 📝 The-Fourfold-Motivational-Architecture-for-PKB-Design.md
-├── 📝 The-Governed-Attentional-Gap.md
-├── 📝 The-Inquiry-First-PKB-Architecture.md
-├── 📝 The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper.md
-├── 📝 The-Integrated-Learning-System-Model.md
-├── 📝 The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md
-├── 📝 The-Integration-Paradox.md
-├── 📝 The-Interpretive-Filter-Model-of-Functional-Significance.md
-├── 📝 The-Knowledge-Ecology-Model-Full-Synthesis.md
-├── 📝 The-Knowledge-Ecology-Model-Original-Synthesis.md
-├── 📝 The-Learning-Metabolism-Framework.md
-├── 📝 The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function.md
-├── 📝 The-Memory-Architecture-Problem-in-PKM-The-Structural-Diagnosis.md
-├── 📝 The-Metacognitive-PKB-External-Memory-Is-the-Wrong-Frame.md
-├── 📝 The-Motivational-Compounding-Model-A-Design-Standard.md
-├── 📝 The-Motivational-Compounding-Model.md
-├── 📝 The-Motivational-Design-Imperative.md
-├── 📝 The-MULTI-AGENT-PLAN.md-Pattern.md
-├── 📝 The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB.md
-├── 📝 The-Organismic-Dialectical-Perspective.md
-├── 📝 The-Parity-Principle.md
-├── 📝 The-Personal-Constructed-Learning-Environment-PCLE-Framework.md
-├── 📝 The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body.md
-├── 📝 The-PKB-as-Ethical-Mirror-Virtue-Epistemology-Meets-Knowledge-Architecture.md
-├── 📝 The-PKB-as-Tacit-Knowledge-Observatory.md
-├── 📝 The-PKB-Maturity-Architecture-A-Self-Evolving-Knowledge-System.md
-├── 📝 The-Pragmatist-PKB-A-Design-Philosophy.md
-├── 📝 The-Problem-of-Induction.md
-├── 📝 The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism.md
-├── 📝 The-Reconstruction-Imperative-A-Design-Framework-for-Learning-Oriented-PKBs.md
-├── 📝 The-Regulatory-Spectrum.md
-├── 📝 The-Relational-Theory-of-PKB-Knowledge.md
-├── 📝 The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction.md
-├── 📝 The-Schema-Progressive-Architecture-for-PKB-Design.md
-├── 📝 The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously.md
-├── 📝 The-Seven-Intellectual-Traits.md
-├── 📝 The-Small-World-PKB-Principle.md
-├── 📝 The-Structural-Metacognition-Principle.md
-├── 📝 The-Three-Orientation-System-as-a-Developmental-Risk-Architecture.md
-├── 📝 The-Tier-1-Structural-Limitation.md
-├── 📝 The-Zettelkasten-as-Cognitive-Architecture-Implementation.md
-├── 📝 Theory-Evidence-Coordination.md
-├── 📝 Theory-Ladenness-of-Observation.md
-├── 📝 Theory-of-Constructed-Emotion.md
-├── 📝 Thesis-Antithesis-Synthesis.md
-├── 📝 Thinking-Tag-Semantics.md
-├── 📝 Three-Tier-Note-Architecture.md
-├── 📝 Threshold-Concepts.md
-├── 📝 Tool-Access-Patterns.md
-├── 📝 Toulmin-Model.md
-├── 📝 Toulmin-Warrant.md
-├── 📝 Toward-an-Expertise-Indexed-Instructional-Design-Principle.md
-├── 📝 Transactive-Memory-Systems.md
-├── 📝 Transfer-Appropriate-Processing.md
-├── 📝 Transfer-of-Learning.md
-├── 📝 Transfer.md
-├── 📝 Transformative-Learning-Protocols-Designing-for-Perspective-Transformation.md
-├── 📝 Transient-Hypofrontality.md
-├── 📝 Tree-of-Thoughts-Framework.md
-├── 📝 Triggered-Situational-Interest.md
-├── 📝 Twelve-Master-Principles.md
-├── 📝 Type-1-Processing.md
-├── 📝 Type-2-Processing.md
-├── 📝 Undermining-Effect.md
-├── 📝 Undifferentiated-Conception-of-Ability.md
-├── 📝 Validity.md
-├── 📝 Vehicle-Externalism.md
-├── 📝 Ventromedial-Prefrontal-Cortex.md
-├── 📝 Viability.md
-├── 📝 Virtue-Epistemology.md
-├── 📝 Visuospatial-Sketchpad.md
-├── 📝 Vocabulary-Mismatch-Problem.md
-├── 📝 Vygotsky.md
-├── 📝 Warranted-Assertibility.md
-├── 📝 Weak-Sense-vs.-Strong-Sense-Critical-Thinking.md
-├── 📝 wiki-links.md
-├── 📝 Worked-Example-Effect.md
-├── 📝 Working-Memory-and-Long-Term-Memory-in-CLT.md
-├── 📝 Working-Memory-Capacity.md
-├── 📝 Working-Memory.md
-├── 📝 Writing-to-Learn.md
-├── 📝 Zimmerman-SRL-Model.md
-├── 📝 Zimmerman's-Cyclical-Model-of-Self-Regulation.md
-├── 📝 Zimmerman's-Self-Regulated-Learning-Cycle.md
-├── 📝 Zimmerman's-Three-Phase-SRL-Cycle.md
-├── 📝 Zone-2.md
-└── 📝 Zone-of-Proximal-Development.md
+├── 4E-Cognition.md (9.5 KB)
+├── 22-Framework.md (10.2 KB)
+├── A-Final-Synthesis-Across-the-Series.md (13.2 KB)
+├── Abduction.md (10.0 KB)
+├── Abductive-Competence.md (10.0 KB)
+├── Abductive-Reasoning.md (9.8 KB)
+├── Abstract-Conceptualization.md (11.2 KB)
+├── Academic-Anxiety.md (4.4 KB)
+├── Academic-Emotions.md (11.8 KB)
+├── Accommodation.md (17.9 KB)
+├── Accretion,-Tuning,-Restructuring.md (9.5 KB)
+├── Achievement-Goal-Theory.md (11.9 KB)
+├── Achievement-Goal.md (10.5 KB)
+├── Active-Construction-Imperative.md (7.1 KB)
+├── Active-Experimentation.md (11.2 KB)
+├── Active-Externalism.md (9.4 KB)
+├── Active-Inference.md (6.8 KB)
+├── Active-Note-Making.md (4.3 KB)
+├── Actively-Open-Minded-Thinking.md (9.9 KB)
+├── Activity-Object.md (11.9 KB)
+├── Activity-System.md (12.2 KB)
+├── Activity-Theory.md (4.4 KB)
+├── Adaptive-Learning-Systems-—-Educational-Technology.md (12.6 KB)
+├── Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems.md (5.0 KB)
+├── Advance-Organizer.md (17.0 KB)
+├── Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome.md (4.4 KB)
+├── Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with.md (4.9 KB)
+├── Affect-as-Information-Theory.md (6.4 KB)
+├── Affective-Intelligence-Theory.md (9.3 KB)
+├── Affective-Realism.md (6.4 KB)
+├── Affordance.md (12.2 KB)
+├── AI-Assisted-Calibration-Testing-in-PKB-Systems.md (4.4 KB)
+├── AI-Augmented-Heutagogy-Affordances-and-Risks.md (4.6 KB)
+├── AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t.md (5.5 KB)
+├── Alan-Baddeley.md (4.2 KB)
+├── Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites.md (4.6 KB)
+├── Alfred-North-Whitehead.md (4.6 KB)
+├── Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work.md (4.8 KB)
+├── Allan-Collins.md (4.1 KB)
+├── Allostasis.md (6.9 KB)
+├── Allostatic-Load.md (6.9 KB)
+├── American-Pragmatism.md (4.3 KB)
+├── Amotivation.md (46.1 KB)
+├── Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory.md (4.7 KB)
+├── Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle.md (4.6 KB)
+├── Analogical-Reasoning.md (9.0 KB)
+├── Analogical-Representation.md (9.1 KB)
+├── Analogical-Transfer.md (4.2 KB)
+├── Analysis-Paralysis.md (6.4 KB)
+├── Analysis.md (9.2 KB)
+├── Anderson-et-al.-1994.md (4.3 KB)
+├── Andragogy.md (16.0 KB)
+├── Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns.md (4.7 KB)
+├── Anki.md (4.2 KB)
+├── Anomalous-Data.md (13.5 KB)
+├── Anomaly.md (9.9 KB)
+├── Antithesis.md (4.4 KB)
+├── Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin.md (4.9 KB)
+├── Apatheia.md (6.9 KB)
+├── API-First-AI-Integration.md (6.5 KB)
+├── Aporia-to-Schema-Pipeline.md (4.3 KB)
+├── Aporia.md (15.6 KB)
+├── Aporic-Receptivity.md (6.3 KB)
+├── Appraisal-Theory.md (6.5 KB)
+├── Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi.md (4.9 KB)
+├── Apt-Epistemic-Performance.md (6.5 KB)
+├── Argument-Mapping.md (11.3 KB)
+├── Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in.md (4.8 KB)
+├── Argumentation-Theory.md (4.4 KB)
+├── Argyris-and-Schön.md (4.3 KB)
+├── Arnold-and-Pistilli.md (4.3 KB)
+├── Articulatory-Construction-Principle.md (11.9 KB)
+├── As-If-Body-Loop.md (6.8 KB)
+├── Askesis.md (15.3 KB)
+├── Aspiration-Index.md (11.9 KB)
+├── Assessment-Design-in-the-PCLE-Context.md (4.5 KB)
+├── Assessment-Design.md (4.5 KB)
+├── Assimilation-and-Accommodation.md (12.1 KB)
+├── Assimilation-vs.-Accommodation.md (13.1 KB)
+├── Assimilation,-Accommodation,-and-Equilibration.md (6.9 KB)
+├── Assimilation.md (24.5 KB)
+├── Assumption-5-RuleModel-Dichotomy.md (9.1 KB)
+├── Assumption-Audit.md (12.6 KB)
+├── Assumptions.md (7.7 KB)
+├── Atomic-Notes.md (4.3 KB)
+├── Attainment-Paradox.md (12.0 KB)
+├── Attribution-Retraining.md (10.1 KB)
+├── Attribution-Style.md (7.2 KB)
+├── Attribution-Theory.md (10.2 KB)
+├── Aufhebung-in-PKB.md (13.4 KB)
+├── Aufhebung.md (13.5 KB)
+├── Autonomous-Motivation-vs.-Controlled-Motivation.md (6.8 KB)
+├── Autonomous-Motivation.md (4.5 KB)
+├── Autonomous-Regulation.md (12.1 KB)
+├── Autonomous-Relationship-Motivation.md (11.8 KB)
+├── Autonomy-Need.md (23.2 KB)
+├── Autonomy-Orientation.md (12.4 KB)
+├── Autonomy-Relatedness-Integration.md (11.8 KB)
+├── Autonomy-Support.md (10.0 KB)
+├── Autonomy-Supportive-Environment.md (12.3 KB)
+├── Autonomy.md (42.4 KB)
+├── Availability-Heuristic.md (9.4 KB)
+├── Axiom-1-Systematicity-of-Reasoning-Errors.md (9.1 KB)
+├── Ba.md (11.7 KB)
+├── Baddeley's-Working-Memory-Model.md (4.4 KB)
+├── Barry-Zimmerman.md (4.3 KB)
+├── Basic-Level-Categories.md (11.9 KB)
+├── Basic-Level-Category.md (13.8 KB)
+├── Basic-Psychological-Need-Frustration.md (12.1 KB)
+├── Basic-Psychological-Needs-as-the-Structural-Conditions-for-Psychological-Integra.md (12.3 KB)
+├── Basic-Psychological-Needs.md (56.6 KB)
+├── Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs.md (4.5 KB)
+├── Bayesian-Inference.md (9.0 KB)
+├── Bayesian-Knowledge-Tracing.md (5.2 KB)
+├── Behavioral-Inscription.md (13.3 KB)
+├── Behavioral-Science.md (4.5 KB)
+├── Belief-Bias.md (9.9 KB)
+├── Belief-Revision.md (13.4 KB)
+├── Belonging-Uncertainty.md (8.7 KB)
+├── Betweenness-Centrality.md (12.6 KB)
+├── Black-and-Wiliam.md (4.3 KB)
+├── Blocking.md (11.2 KB)
+├── Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses.md (4.8 KB)
+├── Boredom-in-Learning.md (4.4 KB)
+├── Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must.md (4.9 KB)
+├── Boundary-Objects.md (12.4 KB)
+├── Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment.md (4.7 KB)
+├── Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning.md (4.9 KB)
+├── Calibration-and-Epistemic-Humility.md (4.4 KB)
+├── Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities.md (4.7 KB)
+├── Calibration-Discrepancy.md (10.1 KB)
+├── Calibration-Prosthetic.md (13.3 KB)
+├── Calibration-Requires-Evaluation-Resolving-an-Implicit-Tension-in-the-Framework.md (12.7 KB)
+├── Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid.md (4.7 KB)
+├── Calibration-Tracking.md (4.5 KB)
+├── Calibration.md (33.3 KB)
+├── Canvas.md (4.4 KB)
+├── Capability-Development.md (4.5 KB)
+├── Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes.md (4.7 KB)
+├── Capability-Notes.md (12.5 KB)
+├── Capability.md (13.0 KB)
+├── Categorical-Syllogism.md (9.9 KB)
+├── Category-Coherence.md (11.7 KB)
+├── Causal-Induction.md (9.0 KB)
+├── Causality-Orientation.md (12.3 KB)
+├── Causality-Orientations-as-Motivational-Affordance-Systems.md (14.0 KB)
+├── Causality-Orientations-Theory.md (10.7 KB)
+├── Central-Executive.md (10.3 KB)
+├── Chain-of-Thought-Prompting.md (8.6 KB)
+├── Challenge-Avoidance.md (8.7 KB)
+├── Challenge-Skill-Balance.md (6.6 KB)
+├── Charles-Reigeluth.md (4.2 KB)
+├── Chess-Schemas.md (4.2 KB)
+├── Child-Inquiry-Node.md (4.2 KB)
+├── Chinn-&-Brewer-Anomalous-Data-Response-Model.md (13.8 KB)
+├── Chinn-and-Brewer's-Model.md (4.4 KB)
+├── Chunking.md (18.9 KB)
+├── Classical-Cognitivism.md (9.1 KB)
+├── Classical-Epistemology.md (4.3 KB)
+├── Client-Server-Architecture.md (8.4 KB)
+├── CLT-as-a-Dynamic-Load-Optimization-Problem.md (13.1 KB)
+├── Co-Constructed-Criteria.md (10.1 KB)
+├── Cognitive-Alignment-Principle.md (13.9 KB)
+├── Cognitive-Apprenticeship-and-PKB-Design.md (4.5 KB)
+├── Cognitive-Apprenticeship.md (4.7 KB)
+├── Cognitive-Architecture-Aligned-PKB.md (4.4 KB)
+├── Cognitive-Architecture-Isomorphism-Principle.md (8.7 KB)
+├── Cognitive-Architecture.md (9.3 KB)
+├── Cognitive-Bias.md (9.3 KB)
+├── Cognitive-Chunking.md (13.8 KB)
+├── Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own.md (4.8 KB)
+├── Cognitive-Conflict-Disequilibrium.md (13.8 KB)
+├── Cognitive-Debt.md (9.6 KB)
+├── Cognitive-Decoupling.md (6.5 KB)
+├── Cognitive-Disequilibrium.md (11.6 KB)
+├── Cognitive-Evaluation-Theory.md (25.3 KB)
+├── Cognitive-Event-Model.md (12.1 KB)
+├── Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design.md (4.5 KB)
+├── Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice.md (4.5 KB)
+├── Cognitive-Load-Theory.md (25.4 KB)
+├── Cognitive-Load.md (8.7 KB)
+├── Cognitive-Miser.md (10.8 KB)
+├── Cognitive-Offloading-—-Cognitive-Psychology.md (18.7 KB)
+├── Cognitive-Partnership-Model-—-Original-Synthesis.md (12.3 KB)
+├── Cognitive-Partnership-Workflows.md (5.2 KB)
+├── Cognitive-Psychological-Conceptualization.md (8.0 KB)
+├── Cognitive-Psychology.md (3.3 KB)
+├── Cognitive-Reappraisal.md (12.0 KB)
+├── Cognitive-Scaffolding.md (9.5 KB)
+├── Cognitive-Science.md (4.5 KB)
+├── Cognitive-Tools.md (4.4 KB)
+├── Cognitive-Vitality.md (6.7 KB)
+├── Coherence-Principle.md (4.3 KB)
+├── Collaborative-Note-Making-and-the-Interactive-Mode.md (4.5 KB)
+├── Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs.md (4.7 KB)
+├── Collective-Feedback-PKM-in-Community-Contexts.md (4.4 KB)
+├── Collective-Knowledge-and-the-PKB-—-Social-Epistemology.md (4.5 KB)
+├── Collins-and-Loftus.md (4.3 KB)
+├── Collins,-Brown,-and-Newman.md (4.4 KB)
+├── Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge.md (4.6 KB)
+├── Communities-of-Practice.md (4.4 KB)
+├── Comparative-Advance-Organizer.md (11.0 KB)
+├── Comparative-Organizer.md (10.5 KB)
+├── Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame.md (4.8 KB)
+├── Compensatory-Hypothesis.md (10.9 KB)
+├── Competence-Need.md (20.8 KB)
+├── Competence.md (18.2 KB)
+├── Competency-Development.md (4.5 KB)
+├── Competency.md (12.6 KB)
+├── Competing-View-Note.md (4.1 KB)
+├── Complete-Agent-File-Format.md (8.5 KB)
+├── Complete-Project-Structure.md (9.5 KB)
+├── Completion-Problem.md (9.6 KB)
+├── Complex-Adaptive-System.md (13.6 KB)
+├── Complex-Adaptive-Systems.md (4.3 KB)
+├── Complexity-Theory-and-Emergent-Learning-Environments.md (4.6 KB)
+├── Comprehension-Monitoring.md (4.3 KB)
+├── Concepts.md (7.7 KB)
+├── Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re.md (4.8 KB)
+├── Conceptual-Change-Theory-and-PKB-Design.md (4.3 KB)
+├── Conceptual-Change-Theory.md (4.5 KB)
+├── Conceptual-Change.md (12.7 KB)
+├── Concrete-Experience.md (11.3 KB)
+├── Concurrent-Expression.md (6.4 KB)
+├── Conditional-Positive-Regard.md (11.8 KB)
+├── Conditional-Regard.md (12.1 KB)
+├── Conditionalized-Knowledge.md (12.3 KB)
+├── Confirmation-Bias-Myside-Bias.md (28.7 KB)
+├── Confirmation-Curation.md (12.0 KB)
+├── Conflict-Monitoring.md (6.2 KB)
+├── Conjunctive-System-Architecture.md (11.0 KB)
+├── Consolidation.md (11.4 KB)
+├── Constructive-Alignment.md (11.5 KB)
+├── Constructive-Attentiveness.md (6.9 KB)
+├── Constructive-Processing.md (12.1 KB)
+├── Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle.md (4.5 KB)
+├── Constructivism.md (11.9 KB)
+├── Constructivist-Emergentist.md (4.4 KB)
+├── Constructivist-Knowledge.md (4.3 KB)
+├── Constructivist-Learning-Environment.md (12.3 KB)
+├── Constructivist-Learning-Environments-CLEs.md (12.3 KB)
+├── Constructivist-Struggle.md (4.2 KB)
+├── Constructivist.md (4.4 KB)
+├── Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM.md (4.8 KB)
+├── Context-of-Discovery-vs.-Context-of-Justification.md (10.2 KB)
+├── Context-Window.md (6.5 KB)
+├── Contextual-Bridging-Architecture.md (12.4 KB)
+├── Contextual-Interference-Effect.md (10.5 KB)
+├── Contextual-Interference.md (4.2 KB)
+├── Contingent-Self-Esteem.md (11.8 KB)
+├── Contingent-Self-Worth.md (12.1 KB)
+├── Contract-Style-Prompt-Structure.md (8.7 KB)
+├── Control-Orientation.md (12.4 KB)
+├── Control-Value-Theory-CVT.md (11.9 KB)
+├── Control-Value-Theory.md (12.2 KB)
+├── Control.md (12.4 KB)
+├── Controlled-Hallucination.md (6.9 KB)
+├── Controlled-Motivation.md (4.4 KB)
+├── Controlled-Regulation.md (12.1 KB)
+├── Controlled-Relationship-Motivation.md (11.8 KB)
+├── Controlled-Vocabulary.md (11.7 KB)
+├── Controlling-Environment.md (12.2 KB)
+├── Core-Affect.md (6.3 KB)
+├── Core-Concept-Definition.md (5.2 KB)
+├── Core-Definition-Epistemic-Vigilance.md (6.1 KB)
+├── Correspondence-Theory.md (4.4 KB)
+├── Corroboration.md (10.0 KB)
+├── Cortico-Striatal-Learning-Loops.md (9.6 KB)
+├── Counterexample-Search.md (10.6 KB)
+├── Coupling-Constitution-Fallacy.md (9.6 KB)
+├── Critical-Thinking-as-Metacognitively-Regulated-Reasoning.md (10.3 KB)
+├── Critical-Thinking-Ethics.md (4.5 KB)
+├── Critical-Thinking.md (27.1 KB)
+├── Cybernetics.md (1.4 KB)
+├── Daniel-Schwartz.md (4.1 KB)
+├── Data-Layer-Components.md (8.3 KB)
+├── Dataview-Plugin.md (4.2 KB)
+├── Dataview.md (4.3 KB)
+├── David-Ausubel.md (4.4 KB)
+├── David-Jonassen.md (4.4 KB)
+├── David-Kirsh.md (4.4 KB)
+├── David-Kolb.md (4.4 KB)
+├── David-Rumelhart.md (4.5 KB)
+├── Debiasing-What-Interventions-Actually-Work-and-Why.md (4.6 KB)
+├── Declarative-Memory.md (10.3 KB)
+├── Declarative,-Procedural,-and-Conditional-Metacognitive-Knowledge.md (10.8 KB)
+├── Dedre-Gentner.md (4.0 KB)
+├── Deductive-Reasoning.md (10.1 KB)
+├── Deep-Processing.md (9.3 KB)
+├── Defeasibility.md (10.2 KB)
+├── Defeat-Defeater.md (10.1 KB)
+├── Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias.md (4.7 KB)
+├── Delayed-JOL-Effect.md (10.0 KB)
+├── Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat.md (4.9 KB)
+├── Deliberate-Practice-Log.md (10.2 KB)
+├── Deliberative-Democracy.md (9.3 KB)
+├── Delphi-Consensus-Definition.md (7.5 KB)
+├── Derived-Principle.md (7.0 KB)
+├── Description-Field-Components.md (8.4 KB)
+├── Desirable-Difficulties.md (21.8 KB)
+├── Developmental-Need-Satisfaction-History.md (12.1 KB)
+├── Dewey-Inquiry-Model.md (12.2 KB)
+├── Dewey-Reflective-Inquiry.md (4.5 KB)
+├── Dewey.md (4.0 KB)
+├── Dewey's-Continuity-and-Interaction-Principles.md (6.8 KB)
+├── Dewey's-Reflective-Inquiry.md (4.6 KB)
+├── Dialectic,-Hegelian.md (13.6 KB)
+├── Dialectic.md (13.4 KB)
+├── Dialectical-Knowledge-Building.md (5.1 KB)
+├── Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the.md (4.9 KB)
+├── Dialectical-Thinking.md (13.2 KB)
+├── Dichotomy-of-Control.md (13.1 KB)
+├── Differentiated-Conception-of-Ability.md (10.7 KB)
+├── Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM.md (4.4 KB)
+├── Discipline-of-Assent.md (11.9 KB)
+├── Disequilibration.md (4.4 KB)
+├── Disorienting-Dilemma.md (12.5 KB)
+├── Disposition.md (9.1 KB)
+├── Dissolved-Assumption.md (10.2 KB)
+├── Distinctiveness.md (9.3 KB)
+├── Distributed-Cognition.md (9.5 KB)
+├── Donald-Schön.md (4.3 KB)
+├── Double-Ignorance.md (12.6 KB)
+├── Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review.md (4.9 KB)
+├── Double-Loop-Learning.md (16.1 KB)
+├── Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr.md (10.4 KB)
+├── Dreyfus-Skill-Acquisition-Model.md (15.1 KB)
+├── Dual-Coding-Theory.md (4.3 KB)
+├── Dual-Process-Theory.md (17.1 KB)
+├── Duncan-Godden.md (4.0 KB)
+├── Duncan-Watts.md (4.3 KB)
+├── Dunning-Kruger-Effect.md (13.3 KB)
+├── Dunning-Kruger.md (4.9 KB)
+├── Dysrationalia.md (10.8 KB)
+├── Early-Selection.md (9.6 KB)
+├── Ease-of-Learning-—-EOL.md (10.1 KB)
+├── Ecological-Affordances.md (4.4 KB)
+├── Ecological-Psychology.md (4.4 KB)
+├── Ecological-Rationality.md (6.4 KB)
+├── Educational-Data-Mining.md (4.2 KB)
+├── Educational-Philosophy.md (4.7 KB)
+├── Educational-Psychology.md (8.7 KB)
+├── Educational-Science.md (4.6 KB)
+├── Educational-Technology-Affordances.md (4.4 KB)
+├── Edward-Thorndike.md (4.0 KB)
+├── Effectance.md (12.1 KB)
+├── Ego-Involvement.md (10.4 KB)
+├── Ego-Involving-Feedback.md (10.0 KB)
+├── Elaboration-Theory.md (11.9 KB)
+├── Elaboration.md (9.3 KB)
+├── Elaborative-Interrogation.md (20.1 KB)
+├── Elaborative-Rehearsal.md (9.4 KB)
+├── Elaborative-Retrieval.md (11.3 KB)
+├── Element-Interactivity.md (12.2 KB)
+├── Elenchus.md (15.5 KB)
+├── Embedded-Monitoring-Architecture.md (10.1 KB)
+├── Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture.md (4.6 KB)
+├── Embodied-Cognition.md (14.6 KB)
+├── Embodied-vs.-Extended-vs.-Enactive-Cognition.md (7.3 KB)
+├── Emerging-Individual-Interest.md (4.3 KB)
+├── Emotional-Calibration.md (6.4 KB)
+├── Emotional-Granularity-as-Epistemic-Precision.md (6.7 KB)
+├── Emotional-Granularity.md (6.4 KB)
+├── Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice.md (4.6 KB)
+├── Enactive-Cognition.md (6.9 KB)
+├── Enactivism.md (12.9 KB)
+├── Encoding-Specificity-Principle.md (18.8 KB)
+├── Encoding-Specificity.md (13.7 KB)
+├── Encoding-Variability.md (11.4 KB)
+├── Engagement-Contingent-Reward.md (10.6 KB)
+├── Entity-Theory-of-Intelligence.md (10.1 KB)
+├── Entity-Theory.md (10.0 KB)
+├── Enumerative-Induction.md (9.0 KB)
+├── Environment-as-Third-Teacher.md (12.3 KB)
+├── Episodic-Buffer.md (10.1 KB)
+├── Episodic-Memory.md (10.3 KB)
+├── Epistemic-Accuracy-Architecture-—-EAA.md (12.8 KB)
+├── Epistemic-Actions.md (11.9 KB)
+├── Epistemic-Affordances.md (12.2 KB)
+├── Epistemic-Aporia.md (13.3 KB)
+├── Epistemic-Autonomy-—-Epistemology-Social-Epistemology.md (12.7 KB)
+├── Epistemic-Autonomy-—-Epistemology.md (12.2 KB)
+├── Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM.md (4.6 KB)
+├── Epistemic-Calibration.md (10.3 KB)
+├── Epistemic-Character-as-Concurrent-Expression.md (6.9 KB)
+├── Epistemic-Character.md (6.5 KB)
+├── Epistemic-Citizenship.md (16.9 KB)
+├── Epistemic-Cognition.md (9.1 KB)
+├── Epistemic-Conscientiousness.md (12.1 KB)
+├── Epistemic-Courage.md (11.9 KB)
+├── Epistemic-Cowardice.md (5.7 KB)
+├── Epistemic-Echo-Chamber-of-the-Self-—-Adaptive-Systems-Social-Epistemology.md (12.5 KB)
+├── Epistemic-Emotional-Architecture.md (12.0 KB)
+├── Epistemic-Emotions.md (12.0 KB)
+├── Epistemic-Holism.md (10.1 KB)
+├── Epistemic-Humility.md (18.7 KB)
+├── Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored.md (4.5 KB)
+├── Epistemic-Justice.md (4.4 KB)
+├── Epistemic-State.md (12.9 KB)
+├── Epistemic-Status-Tagging.md (13.3 KB)
+├── Epistemic-Status-Vocabulary.md (10.9 KB)
+├── Epistemic-Status.md (11.3 KB)
+├── Epistemic-Vigilance.md (11.4 KB)
+├── Epistemic-Virtue.md (5.1 KB)
+├── Epistemological-Architecture.md (12.5 KB)
+├── Epistemology-of-Testimony-—-Believing-What-Others-Know.md (4.5 KB)
+├── Epitome.md (11.7 KB)
+├── Equilibration.md (19.5 KB)
+├── Error-Categories-in-Multi-Agent-Systems.md (8.4 KB)
+├── Error-Correction-Protocols-in-PKB-Design.md (4.3 KB)
+├── Ethics-of-Belief.md (11.9 KB)
+├── Eupatheia.md (6.3 KB)
+├── Evaluation.md (9.1 KB)
+├── Excalidraw-Library.md (6.7 KB)
+├── Excalidraw.md (6.7 KB)
+├── ExcalidrawAutomate.md (6.8 KB)
+├── Experience-Processing-Architecture.md (11.4 KB)
+├── Experiential-Learning-Across-Domains-—-Professional,-Academic,-and-Personal.md (4.7 KB)
+├── Expert-Knowledge-Organization.md (4.3 KB)
+├── Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design.md (4.7 KB)
+├── Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S.md (10.5 KB)
+├── Expertise-Reversal-Effect.md (36.1 KB)
+├── Explicit-Knowledge.md (14.5 KB)
+├── Expository-Advance-Organizer.md (11.0 KB)
+├── Expository-Organizer.md (10.6 KB)
+├── Extended-Mind-Theory-—-Philosophy-of-Mind.md (17.9 KB)
+├── Extended-Thinking-Modes.md (7.1 KB)
+├── External-Epistemic-Vigilance-System-EEVS.md (11.2 KB)
+├── External-Regulation.md (4.4 KB)
+├── Externalization-Exercises.md (4.2 KB)
+├── Externalization.md (11.7 KB)
+├── Extraneous-Load.md (11.9 KB)
+├── Extrinsic-Goal-Content.md (12.3 KB)
+├── Faceted-Classification.md (9.2 KB)
+├── Fading-—-Instructional-Design-Collins,-Brown-&-Newman.md (10.2 KB)
+├── Fading.md (9.4 KB)
+├── Fallibilism.md (10.2 KB)
+├── Falsificationism.md (9.1 KB)
+├── Familiarity-vs.-Recollection.md (4.3 KB)
+├── Far-Transfer.md (4.0 KB)
+├── Fast-and-Frugal-Heuristics.md (6.5 KB)
+├── FastMCP.md (8.1 KB)
+├── Feed-Forward.md (9.9 KB)
+├── Feedback-Design.md (4.4 KB)
+├── Feeling-of-Knowing-—-FOK.md (15.7 KB)
+├── Felt-Difficulty.md (12.9 KB)
+├── Figure-Effect.md (10.5 KB)
+├── Filter-Bubble-Information-Cocoon.md (9.4 KB)
+├── Five-Convergence-Zones.md (7.2 KB)
+├── Fixed-Mindset.md (10.3 KB)
+├── Flavell-Metacognition-Framework.md (11.3 KB)
+├── Flavell.md (4.1 KB)
+├── Fleshing-Out.md (10.6 KB)
+├── Flow.md (6.6 KB)
+├── Fluency-Illusion-—-Metacognitive-Psychology.md (12.6 KB)
+├── Fluency-Illusion.md (17.0 KB)
+├── Fluency.md (4.3 KB)
+├── Focal-Attention.md (4.3 KB)
+├── Focal-Awareness.md (14.3 KB)
+├── Focal-Subsidiary-Attention-Distinction.md (14.8 KB)
+├── Fogg-Behavior-Model.md (13.4 KB)
+├── Folksonomy.md (11.8 KB)
+├── Forethought-Phase.md (19.6 KB)
+├── Forethought-Reflection-Closure.md (10.1 KB)
+├── Forgetting-Curve.md (11.8 KB)
+├── Formative-Assessment.md (20.8 KB)
+├── Formative-Feedback.md (9.9 KB)
+├── Foundational-Principle.md (7.0 KB)
+├── Four-Component-Instructional-Design-4CID.md (11.0 KB)
+├── Four-Phase-Interest-Model.md (13.5 KB)
+├── Fourfold-Motivational-Architecture.md (11.3 KB)
+├── Free-Choice-Behaviour.md (10.8 KB)
+├── Free-Energy-Principle.md (6.8 KB)
+├── Functional-Integration.md (7.8 KB)
+├── Functional-Significance.md (11.2 KB)
+├── General-Causality-Orientations-Scale.md (12.0 KB)
+├── Generation-Effect.md (11.4 KB)
+├── Generative-Learning-Theory.md (12.7 KB)
+├── Generative-Learning.md (12.1 KB)
+├── Generative-Model.md (6.8 KB)
+├── Genetic-Epistemology.md (6.1 KB)
+├── Germane-Cognitive-Load-Sweller,-van-Merrinboer-&-Paas,-1998-Original-Formulation.md (11.4 KB)
+├── Germane-Cognitive-Load.md (27.0 KB)
+├── Germane-Load.md (11.9 KB)
+├── Gettier-Problem.md (12.9 KB)
+├── Gibbs-Reflective-Cycle-as-PKB-Template-Architecture.md (4.4 KB)
+├── Gibson-Affordances.md (4.4 KB)
+├── Git-Based-Workflow.md (8.0 KB)
+├── Global-vs.-Local-Autonomy.md (13.5 KB)
+├── Goal-Content-Theory.md (12.2 KB)
+├── Goal-Content.md (12.1 KB)
+├── Goal-Contents-as-a-Motivational-Diagnostic-The-Aspirational-Mirror.md (13.0 KB)
+├── Goal-Framing.md (12.1 KB)
+├── Goal-Orientation.md (10.3 KB)
+├── Gollwitzer-If-Then-Planning.md (4.4 KB)
+├── Google-Effect-Digital-Amnesia-—-Cognitive-Psychology.md (12.6 KB)
+├── Graph-Theory-and-Knowledge-Network-Design-—-When-Structure-Becomes-Topology.md (4.4 KB)
+├── Growth-Mindset-Implicit-Theories-of-Intelligence.md (18.9 KB)
+├── Guidance-Fading-Principle.md (12.0 KB)
+├── Habit-Formation.md (4.2 KB)
+├── Habit-Loop.md (13.8 KB)
+├── Handlebars.md (6.4 KB)
+├── Hard-Easy-Effect.md (13.0 KB)
+├── Hedonic-Adaptation.md (12.1 KB)
+├── Hegelian-Dialectic.md (4.4 KB)
+├── Helpless-Response-Pattern.md (8.6 KB)
+├── Hermeneutical-Injustice.md (12.1 KB)
+├── Heutagogical-Self-Design.md (7.0 KB)
+├── Heutagogy.md (16.2 KB)
+├── Hindsight-Bias.md (4.4 KB)
+├── Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing.md (4.8 KB)
+├── Holistic-Critical-Thinking-Scoring-Rubric-Framework.md (10.1 KB)
+├── Horm.md (6.4 KB)
+├── Hub-Notes.md (4.2 KB)
+├── Hypothetico-Deductive-Method.md (9.9 KB)
+├── ICAP-Framework.md (12.5 KB)
+├── Identified-Regulation-vs.-Integrated-Regulation.md (3.1 KB)
+├── Identified-Regulation.md (12.1 KB)
+├── Identity-Based-Habits.md (13.4 KB)
+├── Ignorance-Map.md (4.3 KB)
+├── Ill-Structured-Problems.md (12.4 KB)
+├── Illusion-of-Explanatory-Depth.md (7.8 KB)
+├── Illusion-of-Knowing.md (13.2 KB)
+├── Illusory-Superiority.md (4.4 KB)
+├── Impersonal-Orientation.md (12.4 KB)
+├── Implementation-Intentions.md (10.3 KB)
+├── Implications-and-Consequences.md (7.9 KB)
+├── Incidental-Learning.md (9.3 KB)
+├── Incremental-Theory-of-Intelligence.md (10.0 KB)
+├── Incremental-Theory.md (10.0 KB)
+├── Individual-Interest.md (4.3 KB)
+├── Inductive-Reasoning.md (9.2 KB)
+├── Inert-Ideas.md (11.2 KB)
+├── Inert-Knowledge.md (12.5 KB)
+├── Infallibilism.md (10.2 KB)
+├── Inference-to-the-Best-Explanation.md (9.7 KB)
+├── Inference.md (9.2 KB)
+├── Information-Architecture-Isomorphism.md (9.2 KB)
+├── Information-Architecture.md (12.6 KB)
+├── Information-Scent.md (8.8 KB)
+├── Information-Science.md (4.5 KB)
+├── Informational-Feedback.md (10.8 KB)
+├── Inoculation-Theory.md (9.3 KB)
+├── Inquiry-Based-Learning.md (9.9 KB)
+├── Inquiry-Node.md (11.8 KB)
+├── Inquiry-Trail.md (11.7 KB)
+├── Instance-Theory-Core-Mechanism.md (9.5 KB)
+├── Instrumentalism.md (13.2 KB)
+├── Integrated-Cognitive-Personhood.md (7.5 KB)
+├── Integrated-Learning-System-Model.md (7.3 KB)
+├── Integrated-Regulation.md (12.5 KB)
+├── Integration-Metabolism.md (7.1 KB)
+├── Integration-Paradox.md (12.2 KB)
+├── Integration.md (11.5 KB)
+├── Integrative-Reconciliation.md (12.1 KB)
+├── Intellectual-Courage.md (5.7 KB)
+├── Intellectual-Empathy.md (6.6 KB)
+├── Intellectual-Honesty.md (4.4 KB)
+├── Intellectual-Humility.md (10.1 KB)
+├── Intellectual-Integrity.md (6.6 KB)
+├── Intellectual-Perseverance.md (6.8 KB)
+├── Intellectual-Standards.md (9.2 KB)
+├── Intellectual-Vice.md (12.1 KB)
+├── Intellectual-Virtue.md (12.2 KB)
+├── Intellectual-Virtues.md (5.7 KB)
+├── Intelligent-Tutoring-Systems-ITS-—-Educational-Technology.md (12.4 KB)
+├── Interest-Development-Theory-Full-Literature-Review.md (4.4 KB)
+├── Interest-Development-Theory.md (13.9 KB)
+├── Interleaving-and-Note-Making-Sequence-Design.md (4.5 KB)
+├── Interleaving-Effect.md (11.0 KB)
+├── Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering.md (4.5 KB)
+├── Interleaving.md (11.7 KB)
+├── Internalism.md (9.4 KB)
+├── Internalization-Continuum.md (20.6 KB)
+├── Internalization.md (26.2 KB)
+├── Interoception.md (6.9 KB)
+├── Interoceptive-Inference.md (7.0 KB)
+├── Interpretation-and-Inference.md (7.9 KB)
+├── Intrinsic-Cognitive-Load.md (12.0 KB)
+├── Intrinsic-Goal-Content.md (12.4 KB)
+├── Intrinsic-Load.md (11.9 KB)
+├── Intrinsic-Motivation.md (51.1 KB)
+├── Intrinsic,-Extraneous,-and-Germane-Cognitive-Load.md (7.0 KB)
+├── Introjected-Regulation.md (12.1 KB)
+├── Introjection.md (11.6 KB)
+├── John-Dewey.md (4.3 KB)
+├── Jonassen-CLE-Model.md (4.4 KB)
+├── Judgment-of-Learning-JOL.md (10.9 KB)
+├── Judgment-of-Learning-Metacognitive-Monitoring.md (11.9 KB)
+├── Judgment-of-Learning.md (17.4 KB)
+├── Justified-True-Belief.md (13.2 KB)
+├── Kataleptic-Impression.md (13.3 KB)
+├── Kathekon.md (6.4 KB)
+├── Kathkon.md (6.3 KB)
+├── Knightian-Uncertainty.md (6.4 KB)
+├── Knowing-That-Knowing-How.md (7.8 KB)
+├── Knowledge-Ecology.md (12.5 KB)
+├── Knowledge-Externalization.md (4.4 KB)
+├── Knowledge-Graph-Analytics-for-PKB-Health-Assessment.md (4.3 KB)
+├── Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know.md (4.6 KB)
+├── Knowledge-Integration.md (12.6 KB)
+├── Knowledge-Management.md (4.6 KB)
+├── Knowledge-of-Cognition.md (10.8 KB)
+├── Knowledge-Organization-System-KOS.md (14.1 KB)
+├── Knowledge-Organization-System.md (11.8 KB)
+├── Knowledge-Organization-Systems.md (4.3 KB)
+├── Kolb-Experiential-Learning-Cycle.md (11.5 KB)
+├── Kolb's-Experiential-Learning-Cycle.md (4.3 KB)
+├── Koriat-and-Bjork-2005.md (4.2 KB)
+├── Late-Selection.md (9.7 KB)
+├── Lave-and-Wenger-Communities-of-Practice.md (4.5 KB)
+├── Learned-Helplessness.md (12.0 KB)
+├── Learner-Journey.md (11.9 KB)
+├── Learning-Analytics.md (13.4 KB)
+├── Learning-Contracts.md (6.0 KB)
+├── Learning-Experience-Design.md (12.2 KB)
+├── Learning-Journal.md (4.5 KB)
+├── Learning-Metabolism.md (13.3 KB)
+├── Learning-Projects.md (5.9 KB)
+├── Legitimate-Peripheral-Participation.md (14.1 KB)
+├── Levels-of-Processing.md (9.5 KB)
+├── Link-Ethics.md (11.9 KB)
+├── Literature-Review.md (6.6 KB)
+├── Load-Profile.md (11.9 KB)
+├── Locus-of-Control.md (12.1 KB)
+├── Long-Term-Memory.md (17.0 KB)
+├── Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes.md (5.3 KB)
+├── Maintained-Situational-Interest.md (4.3 KB)
+├── Maintenance-Rehearsal.md (9.4 KB)
+├── Manipulative-Abduction.md (10.0 KB)
+├── Maps-of-Content-—-MOCs.md (9.2 KB)
+├── Mark-of-the-Cognitive.md (9.5 KB)
+├── MarkMind.md (6.7 KB)
+├── Mastery-Approach-Goal.md (10.2 KB)
+├── Mastery-Avoidance-Goal.md (10.4 KB)
+├── Mastery-Experience.md (10.2 KB)
+├── Mastery-Goal-Orientation.md (8.6 KB)
+├── Mastery-Goals.md (17.4 KB)
+├── Mastery-Orientation-vs.-Helpless-Orientation.md (12.3 KB)
+├── Mastery-Oriented-Response-Pattern.md (8.6 KB)
+├── Matthew-Effect.md (13.3 KB)
+├── Mayer's-Cognitive-Theory-of-Multimedia-Learning.md (12.8 KB)
+├── Meaningful-Learning.md (10.9 KB)
+├── Melete.md (12.0 KB)
+├── Memory-Reconsolidation.md (17.8 KB)
+├── Memory-Systems.md (4.1 KB)
+├── Memory-Trace-Durability.md (9.4 KB)
+├── Mental-Image.md (10.4 KB)
+├── Mental-Model.md (9.1 KB)
+├── Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory.md (4.7 KB)
+├── Mental-Models.md (10.0 KB)
+├── Mental-Simulation.md (10.6 KB)
+├── Meta-Level-Object-Level-Model.md (13.4 KB)
+├── Metacognition.md (38.6 KB)
+├── Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector.md (1.9 KB)
+├── Metacognitive-Calibration.md (7.9 KB)
+├── Metacognitive-Capacity.md (9.2 KB)
+├── Metacognitive-Control.md (4.4 KB)
+├── Metacognitive-Development.md (4.7 KB)
+├── Metacognitive-Experience.md (8.2 KB)
+├── Metacognitive-Feelings.md (7.3 KB)
+├── Metacognitive-Knowledge.md (31.5 KB)
+├── Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a.md (4.8 KB)
+├── Metacognitive-Monitoring.md (19.7 KB)
+├── Metacognitive-Regulation.md (23.4 KB)
+├── Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains.md (4.8 KB)
+├── Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles.md (4.7 KB)
+├── Mindset-Intervention.md (10.2 KB)
+├── Mindtools.md (12.2 KB)
+├── Mindware.md (6.4 KB)
+├── Modality-Effect.md (10.8 KB)
+├── Model-Completeness-Hypothesis.md (9.1 KB)
+├── Model-Context-Protocol.md (8.4 KB)
+├── Model-Multiplicity.md (10.6 KB)
+├── Model-Selection-Decision-Tree.md (8.2 KB)
+├── Modus-Ponens.md (9.7 KB)
+├── Modus-Tollens.md (9.8 KB)
+├── Monitoring-Control-Coupling.md (8.2 KB)
+├── Monitoring-Gap.md (9.9 KB)
+├── Monitoring.md (12.5 KB)
+├── More-Knowledgeable-Other.md (12.2 KB)
+├── Motivated-Reasoning.md (17.1 KB)
+├── Motivational-Affordance.md (12.2 KB)
+├── Motivational-Asymmetry-and-Instructional-Design-Sequencing.md (11.4 KB)
+├── Motivational-Climate.md (10.5 KB)
+├── Motivational-Compounding-Model.md (4.3 KB)
+├── Motivational-Compounding.md (13.4 KB)
+├── MSLQ.md (8.0 KB)
+├── Multimedia-Learning-Principles-for-Rich-PKB-Notes-Diagrams,-Code,-and-Visual-Rep.md (4.7 KB)
+├── Mutuality.md (11.8 KB)
+├── Myside-Bias.md (10.8 KB)
+├── Narrative-Coherence-as-Cognitive-Architecture.md (7.4 KB)
+├── Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound.md (4.6 KB)
+├── Nash-Equilibria.md (4.0 KB)
+├── Near-Transfer.md (4.0 KB)
+├── Need-Absence.md (11.0 KB)
+├── Need-Frustration.md (10.0 KB)
+├── Need-Satisfaction-as-Dynamic-Equilibrium,-Not-Cumulative-Score.md (12.8 KB)
+├── Need-Satisfaction-vs.-Need-Frustration.md (4.3 KB)
+├── Need-Satisfaction.md (12.0 KB)
+├── Need-Substitute.md (11.0 KB)
+├── Need-Support.md (11.8 KB)
+├── Need-Thwarting.md (12.1 KB)
+├── Negative-Feedback-Loop.md (13.4 KB)
+├── Nelson-Narens-Model.md (4.4 KB)
+├── Network-Analysis-Tools-for-PKB-Structural-Feedback.md (4.4 KB)
+├── Network-Model-of-Memory.md (11.3 KB)
+├── Node-01-Opening-Question.md (4.2 KB)
+├── Non-Declarative-Memory.md (10.4 KB)
+├── Nonaka-&-Takeuchi's-SECI-model.md (4.1 KB)
+├── Nonaka-Knowledge-Spiral.md (4.3 KB)
+├── Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible.md (4.7 KB)
+├── Note-Making-vs.-Note-Taking.md (12.1 KB)
+├── Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB.md (4.6 KB)
+├── Note-Titling-as-Cognitive-Interface-Design.md (4.4 KB)
+├── Obliterative-Subsumption.md (10.7 KB)
+├── Observability-Layers.md (8.2 KB)
+├── Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture.md (4.8 KB)
+├── Obsidian-Plugin-Architecture-for-Feedback-Systems.md (4.4 KB)
+├── Obsidian.md (4.2 KB)
+├── OIT's-Continuum-as-Motivational-Landscape.md (12.4 KB)
+├── Online-Learning.md (4.3 KB)
+├── Ontological-Category-Shifts.md (4.4 KB)
+├── Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al.md (4.7 KB)
+├── Ontology-Knowledge.md (4.4 KB)
+├── Ontology.md (11.7 KB)
+├── Open-Mindedness.md (4.4 KB)
+├── Open-Questions-Registry.md (4.3 KB)
+├── Open-Society.md (10.1 KB)
+├── Optimal-Challenge.md (11.4 KB)
+├── Organismic-Integration-Tendency.md (11.6 KB)
+├── Organismic-Integration-Theory.md (12.1 KB)
+├── Organismic-Meta-Theory.md (11.0 KB)
+├── Organization-Learning-Loop.md (11.4 KB)
+├── Orienting-Task-Paradigm.md (9.4 KB)
+├── Orienting-Task.md (9.5 KB)
+├── Output-Style-Modes.md (8.5 KB)
+├── Overconfidence-Effect.md (13.2 KB)
+├── Overjustification-Effect.md (18.8 KB)
+├── PAH-Continuum.md (12.5 KB)
+├── Parity-Principle.md (9.6 KB)
+├── Partisan-Identity.md (9.3 KB)
+├── Passive-Externalism.md (9.3 KB)
+├── Path-and-Eupatheia-The-Stoic-Distinction.md (6.9 KB)
+├── Path.md (6.3 KB)
+├── Pedagogy.md (13.7 KB)
+├── PENCRISAL-Framework.md (9.9 KB)
+├── Perceived-Competence.md (10.8 KB)
+├── Perceived-Internal-Locus-of-Causation.md (11.1 KB)
+├── Perceived-Locus-of-Causality.md (12.1 KB)
+├── Perceived-Partner-Responsiveness.md (11.9 KB)
+├── Perceptual-Attunement.md (12.2 KB)
+├── Performance-Approach-Goal.md (10.3 KB)
+├── Performance-Avoidance-Goal.md (10.5 KB)
+├── Performance-Goal-Orientation.md (8.5 KB)
+├── Performance-Goals.md (17.4 KB)
+├── Performance-Phase.md (8.0 KB)
+├── Personal-Constructed-Learning-Environment-—-PCLE.md (12.2 KB)
+├── Personal-Knowledge-Base.md (4.3 KB)
+├── Personal-Knowledge-Management.md (4.7 KB)
+├── Personal-Responsibility-Orientation.md (6.1 KB)
+├── Perspective-Transformation.md (12.5 KB)
+├── Phenomenal-Self-Model.md (6.8 KB)
+├── Phenomenology.md (4.2 KB)
+├── Philosophical-Lineage.md (7.8 KB)
+├── Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model.md (4.6 KB)
+├── Phonological-Loop.md (10.4 KB)
+├── Phronesis.md (6.4 KB)
+├── Physiological-Metacognition-Formal-Definition.md (7.6 KB)
+├── Physiological-Metacognition.md (6.9 KB)
+├── Pintrich's-Motivational-Integration.md (8.7 KB)
+├── Pipeline-Stages.md (8.5 KB)
+├── PKB-Habit-Architecture-A-Practical-Design-Guide.md (4.4 KB)
+├── PKB-Maturity-Architecture.md (9.6 KB)
+├── PKM-AI-Integration-Practice.md (5.1 KB)
+├── Point-of-View.md (7.7 KB)
+├── Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework.md (4.6 KB)
+├── Polanyi's-Tacit-Dimension.md (4.3 KB)
+├── Political-Decision-Making.md (9.2 KB)
+├── Political-Reasoning.md (9.3 KB)
+├── Portfolio-of-Evidence.md (4.2 KB)
+├── Positive-Feedback-Loop.md (13.4 KB)
+├── Pragma-Dialectics.md (13.6 KB)
+├── Pragmatic-Construction.md (9.1 KB)
+├── Pragmatic-Maxim.md (6.0 KB)
+├── Pragmatic-Reasoning-Schema.md (9.9 KB)
+├── Pragmatic-Reasoning-Schemas.md (9.1 KB)
+├── Pragmatism.md (4.1 KB)
+├── Pragmatist-Epistemology.md (11.4 KB)
+├── Pragmatist-PKB.md (11.2 KB)
+├── Pragmatist-Truth.md (13.3 KB)
+├── Precision-Flexibility.md (6.9 KB)
+├── Precision-Weighting.md (7.0 KB)
+├── Prediction-Error.md (7.1 KB)
+├── Prediction-Performance-Gap.md (12.7 KB)
+├── Predictive-Processing.md (6.9 KB)
+├── Premeditatio-Malorum.md (11.8 KB)
+├── Preparation-for-Future-Learning.md (12.3 KB)
+├── Principle-of-Truth.md (10.5 KB)
+├── Prior-Knowledge-Activation.md (11.7 KB)
+├── Prior-Knowledge.md (10.9 KB)
+├── Procedural-Memory.md (14.4 KB)
+├── Process-Praise.md (10.0 KB)
+├── Processing-Depth.md (9.4 KB)
+├── Productive-Failure.md (17.2 KB)
+├── Productive-Struggle.md (8.6 KB)
+├── Progressive-Approximation.md (10.1 KB)
+├── Progressive-Differentiation.md (12.2 KB)
+├── Progressive-Disclosure.md (12.0 KB)
+├── Progressive-Parameterized-Tagging-PPT.md (13.5 KB)
+├── Progressive-Parameterized-Tagging.md (11.4 KB)
+├── Progressive-Summarization.md (12.0 KB)
+├── Prohairesis.md (6.6 KB)
+├── Prokoptn.md (7.2 KB)
+├── Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions.md (5.4 KB)
+├── Propatheiai-The-Stoic-First-Movements.md (7.3 KB)
+├── Propatheiai.md (6.9 KB)
+├── Propositional-Representation.md (9.1 KB)
+├── Prosoche.md (6.5 KB)
+├── Prototype-Theory.md (12.0 KB)
+├── Pseudometacognition.md (10.0 KB)
+├── Psychology-of-Self-Deception.md (4.4 KB)
+├── Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development.md (5.4 KB)
+├── Question-at-Issue.md (7.7 KB)
+├── Recognition-Primed-Decision-Model.md (6.6 KB)
+├── Recognition-Primed-Decision-RPD-Model.md (6.6 KB)
+├── Reconstruction-Imperative.md (10.6 KB)
+├── Reconstructive-Memory.md (9.5 KB)
+├── Recursive-Self-Authorship.md (3.0 KB)
+├── Redundancy-Effect.md (10.8 KB)
+├── Refinement-Principle.md (7.0 KB)
+├── Reflection-in-Action.md (12.0 KB)
+├── Reflection-on-Action.md (11.3 KB)
+├── Reflective-Inquiry.md (13.4 KB)
+├── Reflective-Judgment.md (9.1 KB)
+├── Reflective-Observation.md (11.2 KB)
+├── Reflective-Practice.md (13.1 KB)
+├── Reflective-Practitioner.md (13.2 KB)
+├── Reflective-Thinking.md (6.2 KB)
+├── Region-of-Proximal-Learning.md (6.3 KB)
+├── Regulation-of-Cognition.md (11.1 KB)
+├── Regulatory-Style.md (11.5 KB)
+├── Relatedness-Need.md (19.7 KB)
+├── Relatedness.md (12.1 KB)
+├── Relational-Emergent-Autonomy.md (10.0 KB)
+├── Relational-Theory-of-PKB-Knowledge.md (13.1 KB)
+├── Relationship-Motivation-Theory.md (11.8 KB)
+├── Relationships-as-Motivational-Ecosystems-The-Bidirectional-Resource-Model.md (12.9 KB)
+├── Relative-Autonomy-Index.md (11.5 KB)
+├── Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev.md (12.9 KB)
+├── Retrieval-Augmented-Generation.md (12.2 KB)
+├── Retrieval-Enhanced-Network-Strengthening-RENS-A-Unified-Framework-for-PKB-Retrie.md (13.1 KB)
+├── Retrieval-Enhanced-Network-Strengthening-RENS.md (11.1 KB)
+├── Retrieval-Induced-Forgetting.md (11.4 KB)
+├── Retrieval-Oriented-Note-Architecture-RONA.md (13.4 KB)
+├── Retrieval-Oriented-Note-Architecture.md (11.5 KB)
+├── Retrieval-Practice.md (4.5 KB)
+├── Retrospective-Confidence-Judgment-—-RCJ.md (10.1 KB)
+├── Reward-Contingency-Types.md (11.0 KB)
+├── RMT-as-the-Motivational-Infrastructure-of-Attachment-Security.md (12.8 KB)
+├── Routing-Decision-Factors.md (8.4 KB)
+├── Rubric.md (10.0 KB)
+├── Satisfaction-Frustration-Asymmetry.md (11.1 KB)
+├── Satisficing.md (6.4 KB)
+├── Scaffolded-Fading.md (2.5 KB)
+├── Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross.md (10.5 KB)
+├── Scaffolding-Archaeology.md (9.6 KB)
+├── Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge.md (4.9 KB)
+├── Scaffolding.md (10.7 KB)
+├── Schema-Accommodation.md (9.3 KB)
+├── Schema-Automation.md (12.0 KB)
+├── Schema-Construction-Problem-—-Original-Analytical-Insight.md (12.5 KB)
+├── Schema-Construction.md (12.5 KB)
+├── Schema-Crystallization-Event.md (11.4 KB)
+├── Schema-Progressive-Architecture.md (11.7 KB)
+├── Schema-Theory.md (4.6 KB)
+├── Schema.md (30.9 KB)
+├── SDL-as-Educational-Goal.md (5.9 KB)
+├── SDT's-Regulatory-Continuum.md (13.1 KB)
+├── SECI-Model.md (15.1 KB)
+├── Secure-Base.md (10.9 KB)
+├── Self-Agent-Coordinator.md (7.0 KB)
+├── Self-Concordance-Model.md (12.1 KB)
+├── Self-Consistency.md (10.2 KB)
+├── Self-Determination-Theory.md (20.1 KB)
+├── Self-Determination.md (11.5 KB)
+├── Self-Directed-Learning-Readiness-Scale.md (6.1 KB)
+├── Self-Directed-Learning.md (5.8 KB)
+├── Self-Directedness-Trait-or-Readiness-Sense.md (6.1 KB)
+├── Self-Efficacy.md (33.5 KB)
+├── Self-Explanation-Effect.md (12.5 KB)
+├── Self-Management.md (5.9 KB)
+├── Self-Monitoring.md (6.0 KB)
+├── Self-Reference-Effect.md (9.4 KB)
+├── Self-Reflection-Phase.md (8.0 KB)
+├── Self-Regulated-Learning-as-a-Resource-Allocation-Problem-Under-Uncertainty.md (10.3 KB)
+├── Self-Regulated-Learning.md (35.9 KB)
+├── Semantic-Memory.md (10.2 KB)
+├── Semantic-Network.md (14.0 KB)
+├── Semantic-Networks.md (11.8 KB)
+├── Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval.md (12.4 KB)
+├── Sensory-Memory.md (10.2 KB)
+├── Shallow-Processing.md (9.4 KB)
+├── Shared-vs.-Personal-Agents.md (8.1 KB)
+├── Short-Term-Memory.md (10.2 KB)
+├── Signaling-Principle.md (11.9 KB)
+├── Single-Loop-Learning-vs.-Double-Loop-Learning.md (13.5 KB)
+├── Single-Loop-Learning.md (12.4 KB)
+├── Situated-Cognition.md (13.2 KB)
+├── Situated-Learning.md (4.6 KB)
+├── Situation-Model.md (9.0 KB)
+├── Situational-Interest.md (4.3 KB)
+├── Slot-Default-Value.md (9.2 KB)
+├── Small-World-Network.md (12.1 KB)
+├── Small-World-Networks.md (12.8 KB)
+├── Small-World-PKB-Principle.md (12.2 KB)
+├── Smart-Connections.md (6.4 KB)
+├── Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice.md (4.4 KB)
+├── Social-Constructivism.md (4.4 KB)
+├── Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring.md (4.7 KB)
+├── Socialization.md (4.2 KB)
+├── Socio-Cognitive-Conflict.md (13.7 KB)
+├── Socratic-Aporia.md (12.8 KB)
+├── Socratic-Dialectic.md (4.4 KB)
+├── Socratic-Ignorance-Knowing-One's-Ignorance.md (13.3 KB)
+├── Socratic-Ignorance.md (13.3 KB)
+├── Socratic-Method-Elenchus.md (11.8 KB)
+├── Socratic-Method.md (17.2 KB)
+├── Somatic-Marker-Hypothesis.md (6.4 KB)
+├── Somatic-Marker.md (6.9 KB)
+├── Soundness.md (9.6 KB)
+├── Spaced-Repetition-Spacing-Effect.md (11.3 KB)
+├── Spaced-Repetition-Systems.md (11.7 KB)
+├── Spacing-Effect.md (11.8 KB)
+├── Split-Attention-Effect.md (27.2 KB)
+├── Spreading-Activation.md (13.9 KB)
+├── Stage-Characteristics-and-Training-Implications.md (10.0 KB)
+├── Standard-Template-Metadata.md (5.6 KB)
+├── State-Management-Approaches.md (8.5 KB)
+├── Steel-Manning.md (13.1 KB)
+├── Stereotype-Threat.md (8.6 KB)
+├── Stoic-Assent.md (12.1 KB)
+├── Stoic-Ethics.md (4.4 KB)
+├── Stoic-Philosophy-as-Applied-Educational-Psychology.md (12.4 KB)
+├── Stoic-Philosophy.md (4.4 KB)
+├── Stoic-Synkatathesis-—-Assent.md (12.0 KB)
+├── Stoic-Virtue-as-Epistemic-Foundation.md (12.1 KB)
+├── Storage-Metaphor-for-PKB.md (12.1 KB)
+├── Straw-Man-Fallacy.md (4.4 KB)
+├── Stream-of-Consciousness.md (9.2 KB)
+├── Strength-of-Weak-Ties.md (12.6 KB)
+├── Structural-Affordance.md (9.0 KB)
+├── Structural-Metacognition-Principle.md (10.2 KB)
+├── Structure-Mapping-Theory.md (12.4 KB)
+├── Study-Phase-Retrieval-Hypothesis.md (11.3 KB)
+├── Subagents-vs.-Coordinator.md (8.1 KB)
+├── Subsequent-Memory-Effect.md (9.4 KB)
+├── Subsidiary-Awareness.md (14.3 KB)
+├── Subsumer-Anchoring-Idea.md (10.8 KB)
+├── Surveillance.md (10.7 KB)
+├── Synaptic-Consolidation.md (10.3 KB)
+├── Synkatathesis-Assent-and-the-Stoic-Gap.md (6.6 KB)
+├── Synkatathesis.md (6.4 KB)
+├── Synthesizer.md (11.6 KB)
+├── Synthetic-Model.md (17.4 KB)
+├── System-1-and-System-2.md (6.3 KB)
+├── System-1-System-2.md (9.9 KB)
+├── System-1.md (9.3 KB)
+├── System-2.md (9.3 KB)
+├── Systems-Consolidation.md (10.4 KB)
+├── Tacit-Explicit-Spectrum.md (4.3 KB)
+├── Tacit-Knowledge-Observatory.md (14.5 KB)
+├── Tacit-Knowledge.md (17.7 KB)
+├── TARGET-Framework.md (10.3 KB)
+├── Task-Involvement.md (10.4 KB)
+├── Taxonomy.md (11.7 KB)
+├── Testimonial-Injustice.md (12.1 KB)
+├── Testing-Effect-Retrieval-Practice-Effect.md (19.1 KB)
+├── Testing-Effect.md (10.5 KB)
+├── Text-Generator-Plugin.md (6.6 KB)
+├── The-Abductive-Syllogism.md (9.9 KB)
+├── The-Articulatory-Construction-Principle.md (13.2 KB)
+├── The-Asymmetry-Thesis-as-a-General-Principle-for-Environment-Design.md (11.8 KB)
+├── The-Bias-Virtue-Correspondence.md (6.7 KB)
+├── The-Cognitive-Alignment-Principle-An-Original-Framework-for-PKB-Architecture.md (15.7 KB)
+├── The-Cognitive-Architecture-Isomorphism-Principle-A-Unified-Design-Framework.md (11.0 KB)
+├── The-Cognitive-Ba-Cycle-How-PKB-Organization-Shapes-Cognition.md (13.2 KB)
+├── The-Cognitive-Event-Model-of-Note-Making.md (13.3 KB)
+├── The-Cognitive-Partnership-Model.md (14.8 KB)
+├── The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox.md (4.7 KB)
+├── The-Contextual-Bridging-Architecture-CBA.md (14.3 KB)
+├── The-Core-Insight-in-One-Sentence.md (13.7 KB)
+├── The-Dialectical-Note-Triad-DNT-An-Original-PKB-Architecture.md (15.4 KB)
+├── The-Dialectical-PKB-as-a-System-of-Epistemic-Accountability.md (14.3 KB)
+├── The-Effortful-Processing-Architecture-A-Novel-Integration.md (11.4 KB)
+├── The-Epistemic-Accuracy-Architecture-A-Four-Dimension-Framework-for-PKB-Knowledge.md (14.7 KB)
+├── The-Epistemic-Ecosystem-Model.md (13.8 KB)
+├── The-Epistemic-Emotional-Architecture-A-Design-Principle-for-PKBs.md (13.2 KB)
+├── The-Epistemic-Honesty-Flywheel.md (13.7 KB)
+├── The-Epistemological-Architecture-Principle-Original-Contribution.md (13.4 KB)
+├── The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge.md (4.7 KB)
+├── The-Ethics-of-Belief.md (12.2 KB)
+├── The-Experience-Processing-Architecture.md (13.6 KB)
+├── The-Expertise-Reversal-Effect-Across-Knowledge-Domains-What-Counts-as-'Expertise.md (5.0 KB)
+├── The-Expertise-Reversal-Effect-Across-PKB-Knowledge-Domains.md (4.5 KB)
+├── The-External-Epistemic-Vigilance-System-EEVS.md (13.9 KB)
+├── The-Four-Epistemic-Duties-of-the-PKB-Curator.md (13.0 KB)
+├── The-Fourfold-Motivational-Architecture-for-PKB-Design.md (14.2 KB)
+├── The-Governed-Attentional-Gap.md (6.4 KB)
+├── The-Inquiry-First-PKB-Architecture.md (14.0 KB)
+├── The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper.md (13.2 KB)
+├── The-Integrated-Learning-System-Model.md (9.3 KB)
+├── The-Integration-Paradox-Why-Internalization-Requires-What-It-Produces.md (13.1 KB)
+├── The-Integration-Paradox.md (13.9 KB)
+├── The-Interpretive-Filter-Model-of-Functional-Significance.md (13.1 KB)
+├── The-Knowledge-Ecology-Model-Full-Synthesis.md (13.9 KB)
+├── The-Knowledge-Ecology-Model-Original-Synthesis.md (13.8 KB)
+├── The-Learning-Metabolism-Framework.md (15.2 KB)
+├── The-Load-Profile-A-Framework-for-Classifying-PKB-Notes-by-Cognitive-Function.md (13.5 KB)
+├── The-Memory-Architecture-Problem-in-PKM-The-Structural-Diagnosis.md (12.5 KB)
+├── The-Metacognitive-PKB-External-Memory-Is-the-Wrong-Frame.md (14.5 KB)
+├── The-Motivational-Compounding-Model-A-Design-Standard.md (14.0 KB)
+├── The-Motivational-Compounding-Model.md (14.5 KB)
+├── The-Motivational-Design-Imperative.md (11.9 KB)
+├── The-MULTI-AGENT-PLAN.md-Pattern.md (9.2 KB)
+├── The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB.md (4.8 KB)
+├── The-Organismic-Dialectical-Perspective.md (10.5 KB)
+├── The-Parity-Principle.md (9.5 KB)
+├── The-Personal-Constructed-Learning-Environment-PCLE-Framework.md (14.2 KB)
+├── The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body.md (4.6 KB)
+├── The-PKB-as-Ethical-Mirror-Virtue-Epistemology-Meets-Knowledge-Architecture.md (12.9 KB)
+├── The-PKB-as-Tacit-Knowledge-Observatory.md (15.9 KB)
+├── The-PKB-Maturity-Architecture-A-Self-Evolving-Knowledge-System.md (11.5 KB)
+├── The-Pragmatist-PKB-A-Design-Philosophy.md (12.7 KB)
+├── The-Problem-of-Induction.md (9.1 KB)
+├── The-Quality-Dimension-GCT-as-a-Theory-of-Motivational-Metabolism.md (13.0 KB)
+├── The-Reconstruction-Imperative-A-Design-Framework-for-Learning-Oriented-PKBs.md (11.8 KB)
+├── The-Regulatory-Spectrum.md (12.6 KB)
+├── The-Relational-Theory-of-PKB-Knowledge.md (14.4 KB)
+├── The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction.md (4.5 KB)
+├── The-Schema-Progressive-Architecture-for-PKB-Design.md (14.4 KB)
+├── The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously.md (5.3 KB)
+├── The-Seven-Intellectual-Traits.md (8.4 KB)
+├── The-Small-World-PKB-Principle.md (13.7 KB)
+├── The-Structural-Metacognition-Principle.md (11.8 KB)
+├── The-Three-Orientation-System-as-a-Developmental-Risk-Architecture.md (13.5 KB)
+├── The-Tier-1-Structural-Limitation.md (6.5 KB)
+├── The-Zettelkasten-as-Cognitive-Architecture-Implementation.md (4.5 KB)
+├── Theory-Evidence-Coordination.md (9.0 KB)
+├── Theory-Ladenness-of-Observation.md (10.0 KB)
+├── Theory-of-Constructed-Emotion.md (6.6 KB)
+├── Thesis-Antithesis-Synthesis.md (4.4 KB)
+├── Thinking-Tag-Semantics.md (8.0 KB)
+├── Three-Tier-Note-Architecture.md (8.7 KB)
+├── Threshold-Concepts.md (12.8 KB)
+├── Tool-Access-Patterns.md (8.5 KB)
+├── Toulmin-Model.md (13.5 KB)
+├── Toulmin-Warrant.md (13.4 KB)
+├── Toward-an-Expertise-Indexed-Instructional-Design-Principle.md (12.7 KB)
+├── Transactive-Memory-Systems.md (5.1 KB)
+├── Transfer-Appropriate-Processing.md (16.3 KB)
+├── Transfer-of-Learning.md (24.3 KB)
+├── Transfer.md (9.1 KB)
+├── Transformative-Learning-Protocols-Designing-for-Perspective-Transformation.md (4.8 KB)
+├── Transient-Hypofrontality.md (6.7 KB)
+├── Tree-of-Thoughts-Framework.md (8.7 KB)
+├── Triggered-Situational-Interest.md (4.3 KB)
+├── Twelve-Master-Principles.md (7.2 KB)
+├── Type-1-Processing.md (6.4 KB)
+├── Type-2-Processing.md (6.5 KB)
+├── Undermining-Effect.md (10.1 KB)
+├── Undifferentiated-Conception-of-Ability.md (10.5 KB)
+├── Validity.md (9.8 KB)
+├── Vehicle-Externalism.md (9.5 KB)
+├── Ventromedial-Prefrontal-Cortex.md (7.0 KB)
+├── Viability.md (6.0 KB)
+├── Virtue-Epistemology.md (14.6 KB)
+├── Visuospatial-Sketchpad.md (10.2 KB)
+├── Vocabulary-Mismatch-Problem.md (11.3 KB)
+├── Vygotsky.md (4.2 KB)
+├── Warranted-Assertibility.md (12.2 KB)
+├── Weak-Sense-vs.-Strong-Sense-Critical-Thinking.md (9.2 KB)
+├── wiki-links.md (4.2 KB)
+├── Worked-Example-Effect.md (24.3 KB)
+├── Working-Memory-and-Long-Term-Memory-in-CLT.md (7.0 KB)
+├── Working-Memory-Capacity.md (12.1 KB)
+├── Working-Memory.md (33.9 KB)
+├── Writing-to-Learn.md (12.5 KB)
+├── Zimmerman-SRL-Model.md (4.4 KB)
+├── Zimmerman's-Cyclical-Model-of-Self-Regulation.md (8.7 KB)
+├── Zimmerman's-Self-Regulated-Learning-Cycle.md (4.3 KB)
+├── Zimmerman's-Three-Phase-SRL-Cycle.md (10.4 KB)
+├── Zone-2.md (10.6 KB)
+└── Zone-of-Proximal-Development.md (18.4 KB)

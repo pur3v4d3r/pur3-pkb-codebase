@@ -1,19 +1,12 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Self-Determination Theory: A Foundational Report"
 aliases:
-  - "SDT"
-  - "Self-Determination Theory"
-  - "Deci and Ryan's SDT"
+  - SDT
+  - Self-Determination Theory
+  - Deci and Ryan's SDT
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -33,117 +26,90 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "cognitive-psychology"
+domain: cognitive-psychology
 subdomains:
   - motivational-psychology
   - self-regulation
   - educational-psychology
   - positive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-11"
-updated: "2026-03-11"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-11
+updated: 2026-03-11
 source-type: academic-synthesis
-research-base: "empirical-studies and theoretical-analysis"
+research-base: empirical-studies and theoretical-analysis
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Cognitive Evaluation Theory (CET)"
-    description: "Explains the effects of external events on intrinsic motivation via perceived locus of causality and competence"
-    developers: "Deci & Ryan (1985)"
-    validation: "replicated across hundreds of experimental studies"
-  - name: "Organismic Integration Theory (OIT)"
-    description: "Describes the internalization continuum from external to integrated regulation"
-    developers: "Deci & Ryan (1985, 2000)"
-    validation: "validated via confirmatory factor analyses and longitudinal studies"
-  - name: "Basic Psychological Needs Theory (BPNT)"
-    description: "Identifies autonomy, competence, and relatedness as universal psychological needs underpinning well-being"
-    developers: "Deci & Ryan (2000)"
-    validation: "cross-cultural replications across 50+ countries"
-  - name: "Goal Contents Theory (GCT)"
-    description: "Contrasts intrinsic goal pursuits with extrinsic goal pursuits and their differential effects on well-being"
-    developers: "Kasser & Ryan (1993, 1996)"
-    validation: "replicated across diverse cultural samples"
-  - name: "Causality Orientations Theory (COT)"
-    description: "Characterises individual differences in autonomous, controlled, and impersonal motivational orientations"
-    developers: "Deci & Ryan (1985)"
-    validation: "psychometric validation of General Causality Orientations Scale"
-  - name: "Relationship Motivation Theory (RMT)"
-    description: "Extends SDT to close relationships, arguing that need satisfaction within relationships drives their quality"
-    developers: "Deci & Ryan (2014)"
-    validation: "emerging; growing dyadic research base"
-
+  - name: Cognitive Evaluation Theory (CET)
+    description: Explains the effects of external events on intrinsic motivation via perceived locus of causality and competence
+    developers: Deci & Ryan (1985)
+    validation: replicated across hundreds of experimental studies
+  - name: Organismic Integration Theory (OIT)
+    description: Describes the internalization continuum from external to integrated regulation
+    developers: Deci & Ryan (1985, 2000)
+    validation: validated via confirmatory factor analyses and longitudinal studies
+  - name: Basic Psychological Needs Theory (BPNT)
+    description: Identifies autonomy, competence, and relatedness as universal psychological needs underpinning well-being
+    developers: Deci & Ryan (2000)
+    validation: cross-cultural replications across 50+ countries
+  - name: Goal Contents Theory (GCT)
+    description: Contrasts intrinsic goal pursuits with extrinsic goal pursuits and their differential effects on well-being
+    developers: Kasser & Ryan (1993, 1996)
+    validation: replicated across diverse cultural samples
+  - name: Causality Orientations Theory (COT)
+    description: Characterises individual differences in autonomous, controlled, and impersonal motivational orientations
+    developers: Deci & Ryan (1985)
+    validation: psychometric validation of General Causality Orientations Scale
+  - name: Relationship Motivation Theory (RMT)
+    description: Extends SDT to close relationships, arguing that need satisfaction within relationships drives their quality
+    developers: Deci & Ryan (2014)
+    validation: emerging; growing dyadic research base
 key-researchers:
-  - "Edward L. Deci"
-  - "Richard M. Ryan"
-  - "Maarten Vansteenkiste"
-  - "Avi Assor"
-  - "Netta Weinstein"
-  - "Christopher Niemiec"
-  - "Bart Soenens"
-  - "Johnmarshall Reeve"
-  - "Tim Kasser"
-  - "Wendy Grolnick"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~11500"
+  - Edward L. Deci
+  - Richard M. Ryan
+  - Maarten Vansteenkiste
+  - Avi Assor
+  - Netta Weinstein
+  - Christopher Niemiec
+  - Bart Soenens
+  - Johnmarshall Reeve
+  - Tim Kasser
+  - Wendy Grolnick
+word-count: ~11500
 complexity-level: advanced-practitioner
-target-audience: "Educators, instructional designers, psychologists, and learning scientists with general graduate-level background in psychology or education"
+target-audience: Educators, instructional designers, psychologists, and learning scientists with general graduate-level background in psychology or education
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Basic psychological needs (autonomy, competence, relatedness)"
-  - "The self-determination continuum / internalization"
-  - "Autonomous vs. controlled motivation"
-  - "Need satisfaction and need thwarting"
-  - "Autonomy support vs. controlling environments"
-  - "Intrinsic motivation and its fragility under extrinsic conditions"
-  - "The six mini-theories of SDT"
-
+  - Basic psychological needs (autonomy, competence, relatedness)
+  - The self-determination continuum / internalization
+  - Autonomous vs. controlled motivation
+  - Need satisfaction and need thwarting
+  - Autonomy support vs. controlling environments
+  - Intrinsic motivation and its fragility under extrinsic conditions
+  - The six mini-theories of SDT
 key-distinctions:
-  - "Autonomous motivation vs. controlled motivation"
-  - "Need satisfaction vs. need thwarting (not simply the absence of satisfaction)"
-  - "Internalization vs. introjection (genuine vs. shame-driven uptake)"
-  - "Informational vs. controlling function of rewards"
-  - "Intrinsic goals vs. extrinsic goals (content distinction)"
-  - "Autonomy vs. independence (SDT's autonomy is not self-reliance)"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Autonomous motivation vs. controlled motivation
+  - Need satisfaction vs. need thwarting (not simply the absence of satisfaction)
+  - Internalization vs. introjection (genuine vs. shame-driven uptake)
+  - Informational vs. controlling function of rewards
+  - Intrinsic goals vs. extrinsic goals (content distinction)
+  - Autonomy vs. independence (SDT's autonomy is not self-reliance)
 prerequisites:
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Basic Motivational Psychology]]"
-
 related:
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Metacognition & Motivation]]"
   - "[[Flow Theory]]"
   - "[[Self-Efficacy Theory]]"
   - "[[Motivational Climate Design]]"
-
 broader:
   - "[[Motivational Psychology]]"
   - "[[Positive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
@@ -151,82 +117,64 @@ narrower:
   - "[[Goal Contents Theory]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Relationship-Motivation-Theory|Relationship Motivation Theory]]"
-
 see-also:
   - "[[Overjustification-Effect|Overjustification Effect]]"
   - "[[Autonomy Support in Teaching]]"
   - "[[Need-Supportive Teaching]]"
   - "[[Controlling Environments]]"
-
 contrasts-with:
   - "[[Behaviorist Reinforcement Theory]]"
   - "[[Expectancy-Value Theory]]"
   - "[[Drive Reduction Theory]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Health Behavior Change]]"
   - "[[Sport Psychology]]"
   - "[[Organizational Psychology]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
   - "[[Metacognition & Motivation]]"
-
 enables:
   - "[[Motivational Climate Design]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Autonomy-Supportive Instructional Design]]"
   - "[[Need-Supportive Coaching]]"
-
 expansion-topics:
   - topic: "[[Autonomy-Supportive Teaching: Evidence and Practice]]"
-    description: "Detailed treatment of the autonomy-supportive instructional style — rationale provision, minimising pressure, acknowledging student perspectives — with meta-analytic evidence and classroom-level implementation protocols."
+    description: Detailed treatment of the autonomy-supportive instructional style — rationale provision, minimising pressure, acknowledging student perspectives — with meta-analytic evidence and classroom-level implementation protocols.
     priority: high
   - topic: "[[Internalization and Values Development]]"
-    description: "Deep examination of the OIT internalization continuum, focusing on how identified and integrated regulation develop, what social conditions facilitate them, and how they differ functionally from intrinsic motivation."
+    description: Deep examination of the OIT internalization continuum, focusing on how identified and integrated regulation develop, what social conditions facilitate them, and how they differ functionally from intrinsic motivation.
     priority: high
   - topic: "[[Need Thwarting: Mechanisms and Consequences]]"
-    description: "Extends BPNT's positive framing to the systematic study of need frustration — its distinct aetiology from mere need absence, the dark triad of ill-being it predicts, and the conditions under which it emerges."
+    description: Extends BPNT's positive framing to the systematic study of need frustration — its distinct aetiology from mere need absence, the dark triad of ill-being it predicts, and the conditions under which it emerges.
     priority: high
   - topic: "[[SDT in Healthcare: Patient Motivation and Adherence]]"
-    description: "Examines the substantial healthcare application of SDT — from Williams et al.'s tobacco cessation studies to the Health-Care Climate Questionnaire — and the evidence that autonomous motivation predicts long-term adherence."
+    description: Examines the substantial healthcare application of SDT — from Williams et al.'s tobacco cessation studies to the Health-Care Climate Questionnaire — and the evidence that autonomous motivation predicts long-term adherence.
     priority: medium
   - topic: "[[Goal Contents Theory and Materialist Values]]"
-    description: "Full treatment of Kasser and Ryan's GCT work on intrinsic vs. extrinsic goal contents, the research on materialist values as a marker of thwarted needs, and implications for education and life satisfaction."
+    description: Full treatment of Kasser and Ryan's GCT work on intrinsic vs. extrinsic goal contents, the research on materialist values as a marker of thwarted needs, and implications for education and life satisfaction.
     priority: medium
   - topic: "[[Cross-Cultural Validity of Basic Psychological Needs]]"
-    description: "Critical examination of the universality thesis in SDT — reviewing cross-cultural evidence, challenges from collectivist scholars, and the distinction between cultural variation in need expression vs. need existence."
+    description: Critical examination of the universality thesis in SDT — reviewing cross-cultural evidence, challenges from collectivist scholars, and the distinction between cultural variation in need expression vs. need existence.
     priority: medium
   - topic: "[[Motivational Climate Design]]"
-    description: "Integrates SDT with Achievement Goal Theory to specify the environmental design principles — structure, warmth, autonomy support — that constitute motivationally optimal learning and work environments."
+    description: Integrates SDT with Achievement Goal Theory to specify the environmental design principles — structure, warmth, autonomy support — that constitute motivationally optimal learning and work environments.
     priority: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Ryan & Deci (2000) meta-theoretical overview with converging evidence"
-  - "Deci et al. (1999) meta-analysis of 128 studies on rewards and intrinsic motivation"
-  - "Vansteenkiste et al. cross-cultural replications across 50+ countries"
-  - "Williams et al. healthcare adherence RCTs"
-  - "Reeve et al. classroom autonomy support intervention studies"
-
+  - Ryan & Deci (2000) meta-theoretical overview with converging evidence
+  - Deci et al. (1999) meta-analysis of 128 studies on rewards and intrinsic motivation
+  - Vansteenkiste et al. cross-cultural replications across 50+ countries
+  - Williams et al. healthcare adherence RCTs
+  - Reeve et al. classroom autonomy support intervention studies
 limitations-noted:
-  - "WEIRD-sample dominance in foundational experimental work"
-  - "Self-report measurement of need satisfaction raises common-method variance concerns"
-  - "Conceptual boundaries between the six mini-theories are contested"
-  - "Cultural variation in autonomy expression may challenge universality claims"
-  - "Distinction between integrated and intrinsic regulation remains empirically elusive"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - WEIRD-sample dominance in foundational experimental work
+  - Self-report measurement of need satisfaction raises common-method variance concerns
+  - Conceptual boundaries between the six mini-theories are contested
+  - Cultural variation in autonomy expression may challenge universality claims
+  - Distinction between integrated and intrinsic regulation remains empirically elusive
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -235,27 +183,18 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 28
   wiki-links: 42
   reflective-questions: 15
   active-reading-prompts: 7
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-11"
+generation-date: 2026-03-11
 ---
 
 # Self-Determination Theory: A Foundational Report

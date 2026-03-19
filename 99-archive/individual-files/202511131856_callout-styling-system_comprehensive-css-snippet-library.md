@@ -1924,7 +1924,7 @@ Within a single snippet, you can give specific callout types unique treatment:
 4. **[[Visual Hierarchy in Information Design]]**
    - *Connection*: Callout styling decisions should support cognitive processing and information architecture
    - *Depth Potential*: Study [[Gestalt Principles]], [[Typographic Hierarchy]], and [[Attention Management]]
-   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[03_notes/01_permanent-notes/01_cognitive development/Knowledge management]]
+   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[Knowledge Management]]
 
 ---
 

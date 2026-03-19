@@ -33,7 +33,7 @@ review-count: 0
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-28|Daily-Note]]"
 ---
@@ -129,7 +129,7 @@ This needs to be an exhaustive academic treatment that:
 - [[Personal Knowledge Base]]
 - [[Obsidian]]
 - [[Zettelkasten]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions]]
 - [[Prospective Memory]]
 - [[Cognitive Reappraisal]]
 - [[Emotional Regulation]]
@@ -229,7 +229,7 @@ aliases: [Stoic Dichotomy in PKB Systems, Control Dichotomy Filter, Metacognitiv
 
 ## 📜 Historical Foundations: The Stoic Origins of Cognitive Control
 
-The **[[Dichotomy of Control]]** emerged from [[Stoicism]], a Hellenistic philosophy founded by [[Zeno of Citium]] around 300 BCE in Athens, reaching its most systematic articulation in Roman Imperial Stoicism through the works of [[Epictetus]], [[Marcus Aurelius]], and [[Seneca]]. The foundational principle appears most explicitly in Epictetus' *Enchiridion*, where he establishes a radical epistemic and practical division: "Some things are within our power, while others are not" (τὰ ἐφ'ἡμῖν vs. τὰ ούκ ἐφ'ἡμῖν). This deceptively simple bifurcation represents not mere philosophical categorization but a comprehensive psychological architecture for managing [[Cognitive Load|cognitive resources]], regulating [[Emotional Regulation|emotional responses]], and maintaining [[Agency|psychological agency]] in conditions of uncertainty and adversity.
+The **[[Dichotomy of Control]]** emerged from [[Stoicism]], a Hellenistic philosophy founded by [[Zeno of Citium]] around 300 BCE in Athens, reaching its most systematic articulation in Roman Imperial Stoicism through the works of [[Epictetus]], [[Marcus Aurelius]], and [[Seneca]]. The foundational principle appears most explicitly in Epictetus' *Enchiridion*, where he establishes a radical epistemic and practical division: "Some things are within our power, while others are not" (τὰ ἐφ'ἡμῖν vs. τὰ ούκ ἐφ'ἡμῖν). This deceptively simple bifurcation represents not mere philosophical categorization but a comprehensive psychological architecture for managing [[Cognitive-Load|cognitive resources]], regulating [[Emotional Regulation|emotional responses]], and maintaining [[Agency|psychological agency]] in conditions of uncertainty and adversity.
 
 > [!the-philosophy]
 > **Core Stoic Epistemic Framework**
@@ -287,7 +287,7 @@ Research on the relationship between self-regulated learning and executive funct
 
 ### Cognitive Load Reduction Through Categorical Exclusion
 
-The primary mechanism by which the Dichotomy reduces [[Cognitive Load]] operates through *categorical exclusion* of uncontrollable variables from [[Working Memory]] processing. This is not mere "positive thinking" or denial—it's a systematic application of [[Information Theory]] principles to cognitive resource management. Every stimulus that enters awareness triggers an automatic evaluation: "Is this controllable or uncontrollable?" If uncontrollable, no further processing occurs—no elaboration, no scenario planning, no emotional amplification, no problem-solving attempts. This immediate categorization prevents the cascade of resource-intensive processes that would otherwise ensue.
+The primary mechanism by which the Dichotomy reduces [[Cognitive-Load]] operates through *categorical exclusion* of uncontrollable variables from [[Working Memory]] processing. This is not mere "positive thinking" or denial—it's a systematic application of [[Information Theory]] principles to cognitive resource management. Every stimulus that enters awareness triggers an automatic evaluation: "Is this controllable or uncontrollable?" If uncontrollable, no further processing occurs—no elaboration, no scenario planning, no emotional amplification, no problem-solving attempts. This immediate categorization prevents the cascade of resource-intensive processes that would otherwise ensue.
 
 > [!core-principle]
 > **The Principle of Metacognitive Gating**
@@ -311,7 +311,7 @@ The temporal dimension is particularly important for [[Personal Knowledge Base]]
 
 ### Forcing Functions for Rational Assessment
 
-The Dichotomy creates **[[Forcing Functions]]**—architectural constraints that compel specific behaviors—for rational assessment of action possibilities. By requiring every situation to be explicitly classified as controllable or uncontrollable, it forces conscious [[Metacognitive]] evaluation rather than automatic reaction. This aligns with research on [[Implementation Intentions]] and [[Prospective Memory]]: pre-established decision rules ("If [situation], then [response]") dramatically improve execution compared to vague intentions.
+The Dichotomy creates **[[Forcing Functions]]**—architectural constraints that compel specific behaviors—for rational assessment of action possibilities. By requiring every situation to be explicitly classified as controllable or uncontrollable, it forces conscious [[Metacognitive]] evaluation rather than automatic reaction. This aligns with research on [[Implementation-Intentions]] and [[Prospective Memory]]: pre-established decision rules ("If [situation], then [response]") dramatically improve execution compared to vague intentions.
 
 > [!methodology-and-sources]
 > **Implementation: The Trichotomy Refinement**

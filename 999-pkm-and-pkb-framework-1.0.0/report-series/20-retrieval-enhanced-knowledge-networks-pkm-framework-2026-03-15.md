@@ -543,7 +543,7 @@ A second unresolved question concerns network topology optimization: at what lev
 >
 > - **[[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]** — The counterintuitive evidence that retrieval of some knowledge can suppress related knowledge. The design response (random walk review, comprehensive network coverage) is important and should be linked to any notes on the inhibitory competition mechanism.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — Report 04 established the metacognitive regulation framework; this report specifies how retrieval practice is the object-level tool that self-regulated learning deploys. The connection is bidirectional: SRL selects retrieval practice; retrieval practice's calibration output informs SRL monitoring.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — Report 04 established the metacognitive regulation framework; this report specifies how retrieval practice is the object-level tool that self-regulated learning deploys. The connection is bidirectional: SRL selects retrieval practice; retrieval practice's calibration output informs SRL monitoring.
 >
 > **Cross-Report Links (PKM/PKB Framework Series)**
 >

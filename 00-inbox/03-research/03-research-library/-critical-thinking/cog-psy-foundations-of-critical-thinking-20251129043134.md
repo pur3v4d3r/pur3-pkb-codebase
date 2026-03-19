@@ -30,7 +30,7 @@ confidence: speculative
 next-review: 2025-12-06
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-29|Daily-Note]]"
 ---
@@ -90,7 +90,7 @@ Source: `= this.source`
 > 12. PKB Integration Guidance
 > 13. Synthesis & Reflection
 > **WIKI-LINK OPPORTUNITIES:**
-> [[Critical Thinking]], [[Paul-Elder Framework]], [[Facione]], [[Bloom's Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive Function]], [[Working Memory]], [[Cognitive Science]], [[Philosophy]], [[Epistemology]], [[Learning Theory]], [[Knowledge Acquisition]], [[Analytical Thinking]], [[Reflective Judgment]], [[Cognitive Bias]], [[Disposition]], [[Intellectual Traits]]
+> [[Critical Thinking]], [[Paul-Elder Framework]], [[Facione]], [[Bloom's Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive Function]], [[Working Memory]], [[Cognitive Science]], [[Philosophy]], [[Epistemology]], [[Learning Theory]], [[Knowledge Acquisition]], [[Analytical Thinking]], [[Reflective-Judgment]], [[Cognitive-Bias]], [[Disposition]], [[Intellectual Traits]]
 > **CALLOUT STRATEGY:**
 > - [!abstract] for overview
 > - [!definition] for each CT definition
@@ -119,7 +119,7 @@ aliases: [CT Foundations, What is Critical Thinking, Critical Thinking Theory, C
 > [!abstract]
 > **Comprehensive Overview**
 > 
-> [[Critical Thinking]] represents one of the most essential yet contested constructs in cognitive psychology, philosophy, and educational theory. This foundational report synthesizes multiple theoretical traditions to construct a comprehensive understanding of what critical thinking is, how it operates at the cognitive level, and why it serves as the bridge between mere information exposure and genuine knowledge acquisition. Drawing from philosophical origins in [[John Dewey]]'s reflective thinking, psychological frameworks from [[Peter Facione]] and [[Diane Halpern]], and educational models from the [[Paul-Elder Framework]] and [[Bloom's Taxonomy]], this exposition establishes critical thinking as a multidimensional cognitive phenomenon requiring both skills and dispositions, supported by specific neural architecture involving [[Working Memory]], [[Executive Function]], and [[Metacognition]]. Understanding these foundations is prerequisite to developing effective critical thinking capabilities and recognizing its centrality to knowledge work in the modern information landscape.
+> [[Critical Thinking]] represents one of the most essential yet contested constructs in cognitive psychology, philosophy, and educational theory. This foundational report synthesizes multiple theoretical traditions to construct a comprehensive understanding of what critical thinking is, how it operates at the cognitive level, and why it serves as the bridge between mere information exposure and genuine knowledge acquisition. Drawing from philosophical origins in [[John-Dewey]]'s reflective thinking, psychological frameworks from [[Peter Facione]] and [[Diane Halpern]], and educational models from the [[Paul-Elder Framework]] and [[Bloom's Taxonomy]], this exposition establishes critical thinking as a multidimensional cognitive phenomenon requiring both skills and dispositions, supported by specific neural architecture involving [[Working Memory]], [[Executive Function]], and [[Metacognition]]. Understanding these foundations is prerequisite to developing effective critical thinking capabilities and recognizing its centrality to knowledge work in the modern information landscape.
 
 ## 🎯 Defining Critical Thinking: A Multidisciplinary Synthesis
 
@@ -239,7 +239,7 @@ Diamond's influential model identifies inhibition, working memory, and cognitive
 
 **Inhibition and Critical Thinking**: Inhibitory control allows overriding automatic but inappropriate responses. Much critical thinking requires resisting intuitive judgments that feel correct but fail logical scrutiny. Inhibition mainly refers to deliberately inhibiting dominant or prepotent responses. When evaluating arguments with belief-biased conclusions—arguments that reach conclusions we find emotionally satisfying but are logically invalid—inhibition enables setting aside our preferences to evaluate logical structure objectively. Executive functioning significantly correlates with performance on belief-bias syllogistic reasoning problems.
 
-Inhibition also enables focused attention by suppressing distracting information. Critical analysis of a complex issue might be derailed by emotionally evocative but irrelevant details unless inhibitory control maintains focus on logically pertinent factors. The ability to avoid [[Cognitive Bias]]—systematic errors in thinking arising from heuristics and intuitive judgments—depends substantially on inhibitory control to override fast, automatic System 1 thinking when slow, deliberate System 2 thinking is required.
+Inhibition also enables focused attention by suppressing distracting information. Critical analysis of a complex issue might be derailed by emotionally evocative but irrelevant details unless inhibitory control maintains focus on logically pertinent factors. The ability to avoid [[Cognitive-Bias]]—systematic errors in thinking arising from heuristics and intuitive judgments—depends substantially on inhibitory control to override fast, automatic System 1 thinking when slow, deliberate System 2 thinking is required.
 
 **Cognitive Flexibility and Critical Thinking**: Cognitive flexibility—also called shifting or set-shifting—represents the ability to switch between different tasks, perspectives, or strategies as circumstances demand. Cognitive flexibility includes creatively thinking "outside the box," seeing anything from different perspectives, and quickly and flexibly adapting to changed circumstances. Critical thinking frequently demands considering multiple viewpoints, switching between levels of analysis (zooming from details to big picture), or abandoning unproductive approaches in favor of alternatives.
 
@@ -478,7 +478,7 @@ The connection between critical thinking and autonomy also explains why authorit
 >
 > **[[Philosophy of Mind]]** - Critical thinking's relationship to consciousness, intentionality, and agency raises fundamental questions about mental causation and the nature of thought itself. Is critical thinking a species of [[Reflective Consciousness]]? How does metacognition relate to self-awareness?
 >
-> **[[Learning Theory]]** - Constructivist learning theories emphasize that knowledge is actively constructed rather than passively received—a principle embodied in critical thinking's role mediating information-to-knowledge transformation. [[Schema Theory]], [[Deep Processing]], and [[Transfer of Learning]] all connect to critical thinking mechanisms.
+> **[[Learning Theory]]** - Constructivist learning theories emphasize that knowledge is actively constructed rather than passively received—a principle embodied in critical thinking's role mediating information-to-knowledge transformation. [[Schema Theory]], [[Deep-Processing]], and [[Transfer-of-Learning]] all connect to critical thinking mechanisms.
 >
 > **[[Decision Theory]]** and [[Judgment and Decision-Making]] - Critical thinking provides normative standards and cognitive processes for making rational decisions under uncertainty, connecting to research on heuristics, biases, and dual-process theories (System 1 vs. System 2 thinking).
 >

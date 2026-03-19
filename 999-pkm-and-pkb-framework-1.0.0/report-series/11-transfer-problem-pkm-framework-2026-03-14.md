@@ -86,7 +86,7 @@ related-concepts:
   - "[[Conditionalized-Knowledge|Conditionalized Knowledge]]"
   - "[[Productive-Failure|Productive Failure]]"
   - "[[Preparation-for-Future-Learning|Preparation for Future Learning]]"
-  - "[[Analogical Reasoning]]"
+  - "[[Analogical-Reasoning]]"
   - "[[Structure-Mapping-Theory|Structure-Mapping Theory]]"
   - "[[Communities-of-Practice|Communities of Practice]]"
   - "[[Contextual-Bridging-Architecture|Contextual Bridging Architecture]]"

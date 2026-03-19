@@ -127,7 +127,7 @@ The application of systems design principles to personal workflow architecture i
 > [!connect] Connection Ideas
 >
 >   * [[Biomimicry in Engineering]] - Exploring how organic systems solve information distribution problems (e.g., mycelial networks).
->   * [[Complex Adaptive Systems]] - How individual agents (notes/tasks) self-organize into higher-order structures without central command.
+>   * [[Complex-Adaptive-Systems]] - How individual agents (notes/tasks) self-organize into higher-order structures without central command.
 >   * [[Urban Planning]] - Parallels between designing a city for traffic flow and designing a database for information flow (e.g., "desire paths").
 >   * [[Control Theory]] - The mathematical modeling of dynamic systems and how it applies to habit formation.
 

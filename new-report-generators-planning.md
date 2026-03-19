@@ -474,17 +474,17 @@ related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
-  - "[[Epistemic Vigilance]]"
+  - "[[Epistemic-Vigilance]]"
   - "[[Dual Process Theory]]"
   - "[[Cognitive Load Theory]]"
   - "[[Argument Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning]]"
   - "[[Self-Regulated Learning]]"
   - "[[Confirmation Bias]]"
-  - "[[Availability Heuristic]]"
+  - "[[Availability-Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
@@ -506,9 +506,9 @@ see-also:
   - "[[Working Memory and Executive Function]]"
   - "[[Expertise Development]]"
   - "[[Reflective Judgment Model]]"
-  - "[[Intellectual Humility]]"
+  - "[[Intellectual-Humility]]"
   - "[[Bayesian Reasoning]]"
-  - "[[Argument Mapping]]"
+  - "[[Argument-Mapping]]"
   - "[[Socratic Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
@@ -1770,7 +1770,7 @@ These reports establish the scientific and philosophical foundations that every 
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
 
 **Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance**
-- **Synthesis Focus**: How do [[Critical Thinking]] frameworks, [[Socratic Questioning]], [[Epistemic Vigilance]], and [[Causal Reasoning]] combine to inform how a PKB user should evaluate, challenge, and refine the knowledge they store?
+- **Synthesis Focus**: How do [[Critical Thinking]] frameworks, [[Socratic Questioning]], [[Epistemic-Vigilance]], and [[Causal Reasoning]] combine to inform how a PKB user should evaluate, challenge, and refine the knowledge they store?
 - **Disciplines**: Cognitive Psychology (reasoning, biases), Educational Philosophy (Socratic method), Critical Thinking (PENCRISAL, Halpern), Metacognition (calibration)
 - **PKM/PKB Design Target**: Source evaluation workflows, argument mapping templates, questioning protocols, bias-checking systems
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 11, 14, 18, 21
@@ -1798,7 +1798,7 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Adaptive note structures, progressive complexity, expertise-sensitive review
 
 **Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts**
-- **Synthesis Focus**: Why does knowledge often fail to transfer from where it's learned to where it's needed, and how should PKB design specifically address [[Transfer of Learning]], [[Situated Cognition]], and [[Encoding Variability]]?
+- **Synthesis Focus**: Why does knowledge often fail to transfer from where it's learned to where it's needed, and how should PKB design specifically address [[Transfer-of-Learning]], [[Situated Cognition]], and [[Encoding Variability]]?
 - **Disciplines**: Educational Psychology (transfer), Cognitive Psychology (encoding variability), Instructional Design (contextualization), Educational Philosophy (pragmatism)
 - **PKM/PKB Design Target**: Cross-linking strategies, multiple representation, context-varied examples, application prompts
 
@@ -1891,7 +1891,7 @@ These reports operate at the meta-level, integrating the entire framework.
 - **Disciplines**: Philosophy (epistemology, pragmatism, Stoicism, Socratic), Cognitive Science, Knowledge Management
 
 **Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work**
-- **Synthesis Focus**: How do [[Epistemic Virtues]], [[Intellectual Humility]], [[Stoic Ethics]], and [[Critical Thinking Ethics]] inform responsible practices for knowledge curation, claim-making, and intellectual development within a PKB?
+- **Synthesis Focus**: How do [[Epistemic Virtues]], [[Intellectual-Humility]], [[Stoic Ethics]], and [[Critical Thinking Ethics]] inform responsible practices for knowledge curation, claim-making, and intellectual development within a PKB?
 - **Disciplines**: Philosophy (virtue ethics, epistemology), Critical Thinking, Stoic Philosophy, Educational Philosophy
 
 **Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions**

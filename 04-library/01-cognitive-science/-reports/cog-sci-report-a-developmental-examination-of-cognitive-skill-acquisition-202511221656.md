@@ -19,7 +19,7 @@ quarter: "[[2025-Q4]]"
 year: "[[2025]]"
 type: cog-psy/report
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-22|Daily-Note]]"
 ---
@@ -120,7 +120,7 @@ This equation underscores the necessity of the Andragogical approach; without de
 > > [!topic-idea] [[Interleaving vs. Blocking]]
 > > Explore how mixing different types of problems improves inductive learning and transfer, contrary to the intuition of blocked practice.
 >
-> > [!topic-idea] [[Double-Loop Learning]]
+> > [!topic-idea] [[Double-Loop-Learning]]
 > > Investigate Argyris’s concept of not just solving the problem (single-loop) but questioning the underlying variables and policies that created the problem (double-loop).
 >
 > > [!topic-idea] [[Cognitive Load Theory]]

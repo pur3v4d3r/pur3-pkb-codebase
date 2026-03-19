@@ -63,7 +63,7 @@ Yet despite this acknowledged historical continuity, the specific mechanisms thr
 
 **Motivational Fortitude**: The sustained capacity to maintain effortful pursuit of valued goals independent of immediate outcomes, external validation, or circumstantial obstacles—closely related to constructs of [[intrinsic motivation]], [[grit]], and [[self-determination]].
 
-Our analysis proceeds from the recognition that the Dichotomy of Control represents a sophisticated form of [[Metacognitive Architecture]]—a higher-order cognitive framework that structures how individuals think *about* their thinking, regulate *about* their regulating, and make choices *about* their choosing. By explicitly categorizing the full landscape of human experience into domains of personal agency versus external contingency, this framework provides what cognitive scientists would recognize as a powerful [[cognitive schema]] or [[mental model]] that fundamentally reshapes information processing, emotional reactivity, and behavioral selection.
+Our analysis proceeds from the recognition that the Dichotomy of Control represents a sophisticated form of [[Metacognitive Architecture]]—a higher-order cognitive framework that structures how individuals think *about* their thinking, regulate *about* their regulating, and make choices *about* their choosing. By explicitly categorizing the full landscape of human experience into domains of personal agency versus external contingency, this framework provides what cognitive scientists would recognize as a powerful [[cognitive schema]] or [[Mental-Model]] that fundamentally reshapes information processing, emotional reactivity, and behavioral selection.
 
 > [!quote]
 > "Everything can be taken from a person but one thing: the last of human freedoms—to choose one's attitude in any given set of circumstances."
@@ -241,7 +241,7 @@ This categorization proves psychologically crucial because it prevents what soci
 
 Having identified the genuinely controllable elements, the practitioner can now select responses aligned with values rather than reactive to circumstances. The question shifts from "How can I make this situation turn out as I wish?" to "How can I respond to this situation in accordance with my character and values?"
 
-This shift proves profound. When value resides in response quality rather than outcome achievement, individuals liberate themselves from what psychologists term [[contingent self-worth]]—basing self-esteem on external validation, success, or circumstances beyond full control.[^49]
+This shift proves profound. When value resides in response quality rather than outcome achievement, individuals liberate themselves from what psychologists term [[Contingent-Self-Worth]]—basing self-esteem on external validation, success, or circumstances beyond full control.[^49]
 
 ### 4.2 Emotional Regulation Through Cognitive Distance
 
@@ -273,7 +273,7 @@ This decoupling proves psychologically liberating. When individuals recognize th
 
 **Failure Reframing**
 
-The Dichotomy of Control transforms the psychological meaning of failure. Since outcomes remain partly beyond control even with optimal effort, unfavorable results do not necessarily indicate inadequacy or justify abandoning goals. The relevant question becomes: "Did I act with excellence in the controllable domain?" If yes, the effort succeeded regardless of outcome. This reframing dramatically reduces [[learned helplessness]]—the psychological state where repeated uncontrollable negative outcomes lead to passive resignation and motivational collapse.[^57]
+The Dichotomy of Control transforms the psychological meaning of failure. Since outcomes remain partly beyond control even with optimal effort, unfavorable results do not necessarily indicate inadequacy or justify abandoning goals. The relevant question becomes: "Did I act with excellence in the controllable domain?" If yes, the effort succeeded regardless of outcome. This reframing dramatically reduces [[Learned-Helplessness]]—the psychological state where repeated uncontrollable negative outcomes lead to passive resignation and motivational collapse.[^57]
 
 ### 4.4 Anxiety Reduction and Stress Resilience
 

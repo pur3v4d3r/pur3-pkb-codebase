@@ -41,7 +41,7 @@ An excellent and foundational pursuit. Your focus on the "dichotomy" aligns perf
 
 These figures, while all adhering to the central Stoic framework, each had a unique perspective shaped by their lives: Epictetus, the enslaved teacher; Marcus Aurelius, the philosopher-emperor; and Seneca, the wealthy statesman and advisor. Their collective wisdom provides a robust toolkit for navigating reality.
 
-Here are several quotes, formatted for your [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] vault, that expand upon the principle you are implementing.
+Here are several quotes, formatted for your [[Obsidian]] vault, that expand upon the principle you are implementing.
 
 ---
 
@@ -119,7 +119,7 @@ This is the central thesis. The following quotes explore its practical applicati
     - The sole good in Stoic ethics, often defined as a combination of four cardinal virtues: Wisdom (Sophia), Justice (Dikaiosyne), Courage (Andreia), and Temperance (Sophrosyne).
 * [[Amor Fati]]
     - A related concept, often translated as "love of fate," which involves enthusiastically accepting all events and situations as part of a larger, rational order ([[Logos]]).
-* [[Premeditatio Malorum]]
+* [[Premeditatio-Malorum]]
     - The Stoic practice of "premeditation of evils," a form of negative visualization designed to build resilience by contemplating potential future misfortunes.
 
 # Gemini Flash

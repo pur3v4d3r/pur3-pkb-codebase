@@ -36,7 +36,7 @@ aliases: [Cognitive PKM Design, Science-Based Knowledge Management, Cognitive Ar
 The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents one of the most fertile grounds for systematic PKB improvement. Your refactoring goal—to embed cognitive principles into the foundational architecture—moves beyond superficial organization toward designing a system that genuinely extends and complements human cognition rather than fighting against it.
 
 > [!principle-point] Core Insight: Cognitive Alignment Principle
-> An effective PKB should reduce [[Cognitive Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
+> An effective PKB should reduce [[Cognitive-Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
 
 ## 🧠 Essential Integration Topics
 
@@ -68,7 +68,7 @@ The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_p
 > [!principle-point] The Retrieval Paradox
 > Making information *harder* to retrieve (within limits) actually strengthens long-term retention. This insight from [[Cognitive Psychology]] fundamentally challenges typical PKB design that prioritizes frictionless access.
 
-**The Cognitive Principle**: [[Retrieval Practice]] (testing effect) and [[Desirable Difficulties]] create stronger memory traces than passive review. The cognitive effort required during retrieval strengthens neural pathways. [[Bjork's Desirable Difficulties Framework]] suggests optimal learning involves appropriate challenges during encoding and retrieval.
+**The Cognitive Principle**: [[Retrieval-Practice]] (testing effect) and [[Desirable-Difficulties]] create stronger memory traces than passive review. The cognitive effort required during retrieval strengthens neural pathways. [[Bjork's Desirable Difficulties Framework]] suggests optimal learning involves appropriate challenges during encoding and retrieval.
 
 **PKB Application Architecture**:
 - **Spaced Retrieval Systems**: Implement spaced repetition not just for flashcards, but for note review cycles (perhaps using Dataview queries with date calculations)
@@ -110,7 +110,7 @@ The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 4. **[[Dual Coding Theory and Multimodal Note Design]]**
 
-**The Cognitive Principle**: [[Dual Coding Theory]] (Paivio) demonstrates that information encoded both verbally and visually produces stronger, more accessible memories than either alone. The brain processes linguistic and visual information through partially independent channels, allowing parallel encoding without channel interference.
+**The Cognitive Principle**: [[Dual-Coding-Theory]] (Paivio) demonstrates that information encoded both verbally and visually produces stronger, more accessible memories than either alone. The brain processes linguistic and visual information through partially independent channels, allowing parallel encoding without channel interference.
 
 **PKB Application Architecture**:
 - **Systematic Diagram Integration**: Develop protocols for adding visual representations (Mermaid diagrams, concept maps, flow charts) to verbal explanations
@@ -159,7 +159,7 @@ The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 7. **[[Transfer-Oriented Knowledge Structuring]]**
 
-**The Cognitive Principle**: [[Transfer of Learning]]—applying knowledge to novel contexts—is the ultimate goal of education but notoriously difficult. Research on [[Near Transfer vs. Far Transfer]] shows that abstract principles and varied contextual exposure enhance transferability.
+**The Cognitive Principle**: [[Transfer-of-Learning]]—applying knowledge to novel contexts—is the ultimate goal of education but notoriously difficult. Research on [[Near Transfer vs. Far Transfer]] shows that abstract principles and varied contextual exposure enhance transferability.
 
 **PKB Application Architecture**:
 - **Principle Extraction Notes**: For every concrete example or case study, create a separate note extracting the abstract principle
@@ -219,7 +219,7 @@ The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 10. **[[Interleaving and Spacing in Review Workflows]]**
 
-**The Cognitive Principle**: Research on [[Spacing Effect]] (Ebbinghaus, continued by Cepeda et al.) and [[Interleaving Practice]] demonstrates that distributed practice across time and mixed practice across topics produces better long-term retention than massed or blocked practice, despite feeling less fluent during learning.
+**The Cognitive Principle**: Research on [[Spacing-Effect]] (Ebbinghaus, continued by Cepeda et al.) and [[Interleaving Practice]] demonstrates that distributed practice across time and mixed practice across topics produces better long-term retention than massed or blocked practice, despite feeling less fluent during learning.
 
 **PKB Application Architecture**:
 - **Algorithmic Review Scheduling**: Implement Dataview queries that surface notes for review based on expanding intervals (1 day, 3 days, 1 week, 2 weeks, 1 month, 3 months)
@@ -240,7 +240,7 @@ The intersection of [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_p
 
 ### 11. **[[Embodied Cognition and Spatial Note Organization]]**
 
-**The Cognitive Principle**: [[Embodied Cognition]] research demonstrates that physical and spatial reasoning scaffolds abstract thought. [[Method of Loci]], [[Spatial Memory]] advantages, and gesture-enhanced learning all show that leveraging spatial cognition improves information organization and retrieval.
+**The Cognitive Principle**: [[Embodied-Cognition]] research demonstrates that physical and spatial reasoning scaffolds abstract thought. [[Method of Loci]], [[Spatial Memory]] advantages, and gesture-enhanced learning all show that leveraging spatial cognition improves information organization and retrieval.
 
 **PKB Application Architecture**:
 - **Canvas-Based Knowledge Maps**: Use Obsidian Canvas to create spatial arrangements of notes where physical proximity reflects conceptual relatedness
@@ -308,7 +308,7 @@ Your refactoring process should itself embody [[Incremental Learning]] principle
 
 2. **[[Expertise Development Stages and PKB Architecture Evolution]]**
    - *Connection*: As you progress from novice to expert in cognitive science (and in PKM itself), your PKB needs different structures—this topic examines how system design should adapt across expertise levels
-   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[Adaptive Expertise]] theory, and [[Expertise Reversal Effect]] with concrete PKB transformation strategies
+   - *Depth Potential*: Integration of [[Dreyfus Model of Skill Acquisition]], [[Adaptive Expertise]] theory, and [[Expertise-Reversal-Effect]] with concrete PKB transformation strategies
    - *Knowledge Graph Role*: Meta-level topic that informs how all other cognitive science principles should be applied differently based on current knowledge state
 
 3. **[[Cognitive Offloading vs. Cognitive Partnership in External Systems]]**
@@ -318,7 +318,7 @@ Your refactoring process should itself embody [[Incremental Learning]] principle
 
 4. **[[Affective Factors in Long-Term PKB Engagement]]**
    - *Connection*: Cognitive science of learning cannot ignore emotion and motivation; this topic examines [[Affective Neuroscience]] principles for sustaining multi-year PKB practice
-   - *Depth Potential*: Integration of [[Emotional Memory Enhancement]], [[Interest Development Theory]], [[Flow State Design]], and [[Self-Determination Theory]] specifically for knowledge work contexts
+   - *Depth Potential*: Integration of [[Emotional Memory Enhancement]], [[Interest-Development-Theory]], [[Flow State Design]], and [[Self-Determination Theory]] specifically for knowledge work contexts
    - *Knowledge Graph Role*: Addresses the critical sustainability dimension often missing from purely cognitive analyses—bridges to practical long-term system viability
 
 ```

@@ -1,18 +1,11 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Zimmerman's Cyclical Model of Self-Regulation"
+title: Zimmerman's Cyclical Model of Self-Regulation
 aliases:
-  - "Zimmerman's Cyclical Model of Self-Regulation"
-  - "ZCMOS"
+  - Zimmerman's Cyclical Model of Self-Regulation
+  - ZCMOS
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,67 +14,40 @@ tags:
   - academic-synthesis
   - analytical-report
   - cognitive-science/learning-theory
-
 domain: other
 subdomains:
   - 
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "self-regulated-learning-focused-analysis-2026-03-06"
+  - self-regulated-learning-focused-analysis-2026-03-06
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: intermediate
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB]]"
   - "[[Forethought-Phase|Forethought Phase]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[Social-Cognitive-Theory-—-Bandura|Social Cognitive Theory — Bandura]]"
-
 enables:
   - "[[]]"
-
 expansion-topics:
   - topic: "[[This-expansion-addresses-the-Dunning-Kruger-phenomenon-and-related-research-on-t|This expansion addresses the Dunning-Kruger phenomenon and related research on the conditions under ]]"
     description: ""
@@ -95,10 +61,6 @@ expansion-topics:
   - topic: "[[A-focused-analysis-of-the-structural-tension-between-the-cognitive-resources-req|A focused analysis of the structural tension between the cognitive resources required for effective ]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -107,7 +69,7 @@ importance: high
 # Zimmerman's Cyclical Model of Self-Regulation
 
 > [!definition] **Zimmerman's Cyclical Model of Self-Regulation**
-> Zimmerman's model describes self-regulation as a three-phase cycle: the **[[Forethought Phase]]** (task analysis through goal-setting and strategic planning, underpinned by self-motivational beliefs including [[Self-Efficacy|self-efficacy]] and goal orientation); the **[[Performance Phase]]** (self-control processes such as imagery, self-instruction, and attention focusing, combined with **[[Self-Monitoring|self-monitoring]]** of performance quality); and the **[[Self-Reflection Phase]]** (self-judgment comparing current performance to goals, and self-reactions including self-satisfaction, adaptive or defensive inferences about strategy effectiveness, and self-efficacy recalibration). Critically, the self-reflection phase is the output that feeds back into the next forethought phase — closing the loop and making the model explicitly cyclical.
+> Zimmerman's model describes self-regulation as a three-phase cycle: the **[[Forethought-Phase]]** (task analysis through goal-setting and strategic planning, underpinned by self-motivational beliefs including [[Self-Efficacy|self-efficacy]] and goal orientation); the **[[Performance-Phase]]** (self-control processes such as imagery, self-instruction, and attention focusing, combined with **[[Self-Monitoring|self-monitoring]]** of performance quality); and the **[[Self-Reflection-Phase]]** (self-judgment comparing current performance to goals, and self-reactions including self-satisfaction, adaptive or defensive inferences about strategy effectiveness, and self-efficacy recalibration). Critically, the self-reflection phase is the output that feeds back into the next forethought phase — closing the loop and making the model explicitly cyclical.
 
 ## Core Explanation
 
@@ -115,7 +77,7 @@ importance: high
 > Across two studies of young women learning a motor skill (dart-throwing) and a writing revision skill, Zimmerman and Kitsantas systematically varied whether participants set process goals (focus on the regulatory steps) or outcome goals (focus on the final performance score), and whether they shifted from process to outcome goals when competence was established. The key finding: participants who set process goals initially and shifted to outcome goals upon achieving competence significantly…
 
 > [!evidence] Supporting Evidence
-> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise Reversal Effect]] documented by Kalyuga and colleagues. The cognitive…
+> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise-Reversal-Effect]] documented by Kalyuga and colleagues. The cognitive…
 
 > [!evidence] Supporting Evidence
 > Hattie and Timperley's influential analysis of feedback research identified self-regulation as one of four feedback levels (task, process, self-regulation, and self). Their synthesis of meta-analytic data indicated that feedback at the self-regulation level — feedback that enhances self-monitoring, self-assessment, and self-correction rather than simply providing task-level correction — produced effect sizes averaging d = 0.75, substantially larger than task-level feedback (d = 0.34).…
@@ -147,4 +109,4 @@ importance: high
 - [[Innate-Immunity|Innate Immunity]]
 
 **Related concepts:**
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] · [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] · [[PKB]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Efficacy]] · [[Performance-Phase|Performance Phase]] · [[Self-Monitoring]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Motivational-Regulation|Motivational Regulation]] · [[Goal-Orientation|Goal Orientation]] · [[Task-Value|Task Value]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Paul-Pintrich|Paul Pintrich]] · [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] · [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] · [[PKB]] · [[Forethought-Phase|Forethought Phase]] · [[Self-Efficacy]] · [[Performance-Phase|Performance Phase]] · [[Self-Monitoring]] · [[Self-Reflection-Phase|Self-Reflection Phase]] · [[Motivational-Regulation|Motivational Regulation]] · [[Goal-Orientation|Goal Orientation]] · [[Task-Value|Task Value]]

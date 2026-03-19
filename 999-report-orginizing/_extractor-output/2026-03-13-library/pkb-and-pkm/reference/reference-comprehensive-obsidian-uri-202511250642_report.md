@@ -225,7 +225,7 @@ extraction_summary:
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 > - [[Active Recall]]
 > - [[Metacognition]]
-> - [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > - [[Automation]]
 > - [[Deep Linking]]
 > - [[Cross-Application Integration]]
@@ -439,7 +439,7 @@ extraction_summary:
 > 2. **Performance Phase** (during session): Hotkeys enable rapid atomic note capture
 > 3. **Reflection Phase** (session end): Scheduled URI opens reflection template
 > 
-> This externalizes the [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
+> This externalizes the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
 
 #### 25. [USE-CASES-AND-EXAMPLES] Untitled *(Line 643)*
 
@@ -530,7 +530,7 @@ extraction_summary:
 - [[PowerShell]]
 - [[Quick Capture]]
 - [[QuickAdd Macro Architecture]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Shell Commands]]
 - [[Templater]]
 - [[URI Scheme]]
@@ -956,7 +956,7 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[PowerShell]]
 - [[Quick Capture]]
 - [[QuickAdd Macro Architecture]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Shell Commands]]
 - [[Templater]]
 - [[URI Scheme]]

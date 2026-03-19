@@ -115,7 +115,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *Last Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Elaborative Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Elaborative-Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness
@@ -773,7 +773,7 @@ graph TD
 *Research Log Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 `````
 
-**Template Purpose:** Comprehensive research synthesis environment combining [[Literature Review]] methodology, [[Argument Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
+**Template Purpose:** Comprehensive research synthesis environment combining [[Literature-Review]] methodology, [[Argument-Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
 
 **Key Features:**
 - Multi-phase research tracking (literature → analysis → writing)

@@ -619,7 +619,7 @@ The Stoic [[Philosophy of Mind]] provides a sophisticated model of how impressio
 > - **Epictetus**: "It is not things themselves that disturb people, but their judgments about things" (Enchiridion 5) — assent is where we make those judgments
 > - **The Freedom Point**: Assent is always up to us ([[Eph' Hêmin]])—even if we can't control what impressions arise
 > - **Practical Application**: Before reacting, ask: "Do I really have to accept this thought as true? Could I be mistaken?"
-> - **Cross-References**:: See [[Phantasia]], [[Katalepsis]], [[Prohairesis]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Phantasia]], [[Katalepsis]], [[Prohairesis]], [[Discipline-of-Assent]]
 
 > [!definition]
 > - **Key-Term**:: [[Prohairesis]] (προαίρεσις)
@@ -858,8 +858,8 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Pronunciation**:: AH-skeh-sis
 > - **Translation**:: Training, discipline, exercise, practice
 > - **Definition**:: Systematic spiritual and ethical training designed to develop [[Virtue]]; disciplined practices that strengthen the soul just as physical exercise strengthens the body
-> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline of Assent]]
-> - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
+> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent]]
+> - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio-Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
 > - **Not Asceticism**: Goal is not self-denial for its own sake but training toward [[Virtue]] and [[Apatheia]]
 > - **Seneca**: "Cherish some man of high character, and keep him ever before your eyes, living as if he watched you, and ordering all your actions as if he beheld them" (Moral Letters 11.8)
 > - **Daily Rhythm**: Morning preparation → Mindful action → Evening review = continuous training cycle
@@ -877,10 +877,10 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Modern Connection**: Closely related to [[Mindfulness]] in Buddhist practice, but specifically focused on moral character
 > - **Challenge**: Requires constant effort—the mind habitually wanders to [[Ouk Eph' Hêmin]]
 > - **Practical Application**: Set reminders throughout day: "Am I paying attention to my judgments? Am I reacting automatically or consciously?"
-> - **Cross-References**:: See [[Askesis]], [[Sunkatathesis]], [[Hegemonikon]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Askesis]], [[Sunkatathesis]], [[Hegemonikon]], [[Discipline-of-Assent]]
 
 > [!definition]
-> - **Key-Term**:: [[Premeditatio Malorum]] (Latin)
+> - **Key-Term**:: [[Premeditatio-Malorum]] (Latin)
 > - **Translation**:: Premeditation of evils, negative visualization
 > - **Greek Equivalent**:: [[Praemeditatio]] / [[Melete Kakôn]]
 > - **Definition**:: The practice of imagining potential adversities, losses, and challenges before they occur to prepare the mind and reduce emotional impact
@@ -903,7 +903,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Philosophical Function**: Death reveals that all [[Adiaphora]] are temporary—only [[Character]] persists in impact
 > - **Modern Connection**: Basis of [[Existentialism]]'s "being-toward-death" and many contemplative traditions
 > - **Practical Application**: Daily reminder—"I could die today. What is essential? Am I living according to [[Virtue]]?"
-> - **Cross-References**:: See [[Premeditatio Malorum]], [[View from Above]], [[Melete Thanatou]]
+> - **Cross-References**:: See [[Premeditatio-Malorum]], [[View from Above]], [[Melete Thanatou]]
 
 > [!definition]
 > - **Key-Term**:: [[Hypomnemata]] (ὑπομνήματα)
@@ -928,7 +928,7 @@ Stoic [[Practical Philosophy]] transforms theoretical understanding into lived e
 > - **Epictetus' Version**: "Do not seek for things to happen as you wish, but wish for things to happen as they do, and you will be serene" (Enchiridion 8)
 > - **Practical Foundation**: Rooted in [[Heimarmenê]] (fate) and [[Pronoia]] (providence)—cosmic events serve larger purpose
 > - **Practical Application**: When facing difficulty, consciously say: "This is exactly what I need to develop [[Virtue]]—I embrace this challenge"
-> - **Cross-References**:: See [[Heimarmenê]], [[Pronoia]], [[Premeditatio Malorum]], [[Obstacle Is the Way]]
+> - **Cross-References**:: See [[Heimarmenê]], [[Pronoia]], [[Premeditatio-Malorum]], [[Obstacle Is the Way]]
 
 ---
 
@@ -940,14 +940,14 @@ Stoic [[Logic]] ([[Logikê]]) encompasses more than formal reasoning—it includ
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)
 > - **Pronunciation**:: TOH-poy (plural)
 > - **Translation**:: The three areas of training, the three topics
-> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline of Assent]] (sunkatathesis)
+> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent]] (sunkatathesis)
 > - **Definition**:: The three domains of practical Stoic training, each addressing a different aspect of human psychology and corresponding to branches of philosophy
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
 > - **Pierre Hadot**: Identified these as structuring principle of [[Marcus Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
-> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent]]
 
 > [!definition]
 > - **Key-Term**:: [[Lekton]] (λεκτόν)

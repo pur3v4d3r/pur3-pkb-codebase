@@ -403,7 +403,7 @@ extraction_summary:
 > [!the-philosophy] Untitled
 > **The Examined Life Principle**
 > 
-> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice|Reflective Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and [[Metacognitive-Development|Metacognitive Development]].
+> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice|Reflective Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and [[Metacognitive-Development|Metacognitive Development]].
 
 #### 5. [KEY-CLAIM] Untitled *(Line 82)*
 
@@ -1101,7 +1101,7 @@ extraction_summary:
 - [[Quarterly-Template]]
 - [[QuickAdd]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Tasks Plugin]]
 - [[Templater]]
@@ -2297,7 +2297,7 @@ graph TD
 - [[Quarterly-Template]]
 - [[QuickAdd]]
 - [[Reflective-Practice|Reflective Practice]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Tasks Plugin]]
 - [[Templater]]

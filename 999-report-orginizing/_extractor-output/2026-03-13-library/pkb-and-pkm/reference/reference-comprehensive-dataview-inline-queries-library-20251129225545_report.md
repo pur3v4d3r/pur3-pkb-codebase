@@ -489,10 +489,10 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Authors/]]
+- [[.md]]
 - [[Backlinks]]
 - [[Book Note]]
-- [[Categories/]]
+- [[.md]]
 - [[Dashboard Design]]
 - [[Dataview Expressions]]
 - [[Dataview Functions]]
@@ -603,8 +603,8 @@ extraction_summary:
 | 59 | [[Meeting Note]] | — | — | 📊 Cross-Note Calculations | 741 |
 | 60 | [[Essay Part 1]] | — | — | 📊 Cross-Note Calculations | 742 |
 | 61 | [[Essay Part 2]] | — | — | 📊 Cross-Note Calculations | 742 |
-| 62 | [[Authors/]] | — | — | 🌉 Relational Lookups | 748 |
-| 63 | [[Categories/]] | — | — | 🌉 Relational Lookups | 749 |
+| 62 | [[.md]] | — | — | 🌉 Relational Lookups | 748 |
+| 63 | [[.md]] | — | — | 🌉 Relational Lookups | 749 |
 | 64 | [[Dataview Functions]] | — | — | 10. ✍️ Text Manipulation & Formatting | 799 |
 | 65 | [[Dataview Functions]] | — | — | 11. 📈 Aggregation & Collection Queries | 850 |
 | 66 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 Synthesis & Mastery | 955 |
@@ -1242,10 +1242,10 @@ LIMIT 15
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Authors/]]
+- [[.md]]
 - [[Backlinks]]
 - [[Book Note]]
-- [[Categories/]]
+- [[.md]]
 - [[Dashboard Design]]
 - [[Dataview Expressions]]
 - [[Dataview Functions]]

@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Goal Contents Theory: Why What We Pursue Shapes Who We Become — A Focused Analysis"
 aliases:
-  - "Goal Contents Theory"
-  - "GCT"
-  - "Intrinsic vs Extrinsic Goals"
-  - "Aspiration Index Framework"
+  - Goal Contents Theory
+  - GCT
+  - Intrinsic vs Extrinsic Goals
+  - Aspiration Index Framework
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - focused-analysis
@@ -39,101 +32,72 @@ tags:
   - comprehensive
   - research-grounded
   - analytical-depth
-
-domain: "learning-science"
+domain: learning-science
 subdomains:
   - motivation-theory
   - self-determination-theory
   - goal-theory
   - psychological-well-being
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-13"
-updated: "2026-03-13"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-13
+updated: 2026-03-13
 source-type: academic-synthesis
-research-base: "empirical-studies"
-evidence-quality: "high"
-peer-validation: "multiple-frameworks"
-
-analytical-focus: "How the qualitative content of personal goals — independent of goal quantity, difficulty, and attainment — predicts psychological well-being outcomes, and what mechanisms link goal content to the satisfaction or frustration of basic psychological needs."
-
+research-base: empirical-studies
+evidence-quality: high
+peer-validation: multiple-frameworks
+analytical-focus: How the qualitative content of personal goals — independent of goal quantity, difficulty, and attainment — predicts psychological well-being outcomes, and what mechanisms link goal content to the satisfaction or frustration of basic psychological needs.
 key-frameworks:
-  - name: "Goal Contents Theory (GCT)"
-    description: "Sub-theory of SDT distinguishing intrinsic from extrinsic goal content"
-    developers: "Kasser & Ryan (1993, 1996)"
-    validation: "extensively replicated, cross-cultural"
-  - name: "Aspiration Index"
-    description: "Psychometric instrument measuring relative valuation of intrinsic vs. extrinsic goals"
-    developers: "Kasser & Ryan (1996)"
-    validation: "psychometrically robust, cross-cultural translations"
-  - name: "Self-Concordance Model"
-    description: "Related framework examining goal-self alignment as predictor of well-being"
-    developers: "Sheldon & Kasser (1995, 1998)"
-    validation: "strong empirical support"
-
+  - name: Goal Contents Theory (GCT)
+    description: Sub-theory of SDT distinguishing intrinsic from extrinsic goal content
+    developers: Kasser & Ryan (1993, 1996)
+    validation: extensively replicated, cross-cultural
+  - name: Aspiration Index
+    description: Psychometric instrument measuring relative valuation of intrinsic vs. extrinsic goals
+    developers: Kasser & Ryan (1996)
+    validation: psychometrically robust, cross-cultural translations
+  - name: Self-Concordance Model
+    description: Related framework examining goal-self alignment as predictor of well-being
+    developers: Sheldon & Kasser (1995, 1998)
+    validation: strong empirical support
 key-researchers:
-  - "Tim Kasser"
-  - "Richard M. Ryan"
-  - "Christopher P. Niemiec"
-  - "Maarten Vansteenkiste"
-  - "Netta Weinstein"
-  - "Kennon Sheldon"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~10,200"
-complexity-level: "advanced-practitioner"
-target-audience: "Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivation theory"
+  - Tim Kasser
+  - Richard M. Ryan
+  - Christopher P. Niemiec
+  - Maarten Vansteenkiste
+  - Netta Weinstein
+  - Kennon Sheldon
+word-count: ~10,200
+complexity-level: advanced-practitioner
+target-audience: Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivation theory
 depth-level: analytical-focused
 treatment-type: focused-analysis
-
 analytical-contributions:
   insight-count: 10
   original-syntheses: 2
   tensions-identified: 3
   cross-domain-connections: 2
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Goal content (intrinsic vs. extrinsic taxonomy)"
-  - "Basic psychological needs satisfaction/frustration"
-  - "The attainment paradox"
-  - "Compensatory hypothesis"
-  - "Aspiration Index measurement"
-  - "Goal framing in educational contexts"
-
+  - Goal content (intrinsic vs. extrinsic taxonomy)
+  - Basic psychological needs satisfaction/frustration
+  - The attainment paradox
+  - Compensatory hypothesis
+  - Aspiration Index measurement
+  - Goal framing in educational contexts
 key-arguments:
-  - "Goal content independently predicts well-being beyond goal quantity, difficulty, and attainment"
-  - "Intrinsic goal attainment increases well-being; extrinsic goal attainment does not"
-  - "Extrinsic goal emphasis is a symptom of prior basic needs frustration as much as a cause of future well-being decrements"
-
+  - Goal content independently predicts well-being beyond goal quantity, difficulty, and attainment
+  - Intrinsic goal attainment increases well-being; extrinsic goal attainment does not
+  - Extrinsic goal emphasis is a symptom of prior basic needs frustration as much as a cause of future well-being decrements
 key-distinctions:
-  - "Goal content vs. goal commitment vs. goal attainment"
-  - "Intrinsic goal content vs. intrinsically motivated goals"
-  - "Relative vs. absolute aspiration strength"
-  - "Goal framing vs. goal content"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Goal content vs. goal commitment vs. goal attainment
+  - Intrinsic goal content vs. intrinsically motivated goals
+  - Relative vs. absolute aspiration strength
+  - Goal framing vs. goal content
 prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
-
 related:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expectancy-Value Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
@@ -141,83 +105,63 @@ related:
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Hedonic-Adaptation|Hedonic Adaptation]]"
   - "[[Psychological Well-Being]]"
-
 broader:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Positive Psychology]]"
   - "[[Motivational Psychology]]"
-
 narrower:
   - "[[Aspiration-Index|Aspiration Index]]"
   - "[[Intrinsic Goal Taxonomy]]"
   - "[[Goal Framing in Education]]"
-
 see-also:
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Rokeach Value Theory]]"
   - "[[Terror Management Theory]]"
   - "[[Materialism Research]]"
-
 contrasts-with:
   - "[[Goal Setting Theory (Locke & Latham)]]"
   - "[[Expectancy-Value Theory]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Educational Psychology Practice]]"
   - "[[Motivational Interviewing]]"
   - "[[Organizational Psychology]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
   - "[[Organismic Valuing Process]]"
-
 enables:
   - "[[Goal Framing in Instructional Design]]"
   - "[[Values-Based Curriculum Design]]"
   - "[[Motivational Interviewing in Education]]"
-
 expansion-topics:
   - topic: "[[Materialism and Well-Being]]"
-    description: "Kasser's broader body of work on materialistic values, consumption, and psychological functioning — extends GCT into sociocultural analysis"
-    priority: "high"
+    description: Kasser's broader body of work on materialistic values, consumption, and psychological functioning — extends GCT into sociocultural analysis
+    priority: high
   - topic: "[[Intrinsic Goal Framing in Instructional Design]]"
-    description: "Vansteenkiste et al.'s research applying GCT directly to learning contexts — translating theory into pedagogical practice"
-    priority: "high"
+    description: Vansteenkiste et al.'s research applying GCT directly to learning contexts — translating theory into pedagogical practice
+    priority: high
   - topic: "[[Expectancy-Value Theory]]"
-    description: "Eccles & Wigfield's framework provides a complementary angle — where EVT focuses on subjective task value, GCT focuses on distal goal content"
-    priority: "high"
+    description: Eccles & Wigfield's framework provides a complementary angle — where EVT focuses on subjective task value, GCT focuses on distal goal content
+    priority: high
   - topic: "[[Hedonic Adaptation and the Attainment Paradox]]"
-    description: "Cross-theory analysis of why goal attainment reliably fails to produce lasting well-being gains, connecting GCT to positive psychology research"
-    priority: "medium"
+    description: Cross-theory analysis of why goal attainment reliably fails to produce lasting well-being gains, connecting GCT to positive psychology research
+    priority: medium
   - topic: "[[Psychological Safety and Basic Needs Environments]]"
-    description: "Environmental conditions that support or thwart basic needs — exploring the social ecology of intrinsic goal development"
-    priority: "medium"
+    description: Environmental conditions that support or thwart basic needs — exploring the social ecology of intrinsic goal development
+    priority: medium
   - topic: "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
-    description: "SDT sub-theory examining individual differences in interpreting motivational cues — how autonomy orientation predicts intrinsic goal salience"
-    priority: "medium"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
+    description: SDT sub-theory examining individual differences in interpreting motivational cues — how autonomy orientation predicts intrinsic goal salience
+    priority: medium
 empirical-support:
-  - "Kasser & Ryan (1993, 1996) — original aspiration studies"
-  - "Niemiec et al. (2009) — longitudinal attainment study"
-  - "Grouzet et al. (2005) — 15-nation cross-cultural validation"
-  - "Vansteenkiste et al. (2004, 2007) — educational framing experiments"
-
+  - Kasser & Ryan (1993, 1996) — original aspiration studies
+  - Niemiec et al. (2009) — longitudinal attainment study
+  - Grouzet et al. (2005) — 15-nation cross-cultural validation
+  - Vansteenkiste et al. (2004, 2007) — educational framing experiments
 limitations-noted:
   - "Causal directionality challenge: basic needs frustration may cause both extrinsic goals and low well-being"
   - "Measurement confound: relative importance scoring may conflate content with endorsement style"
-  - "Cultural variation in goal content taxonomies not fully resolved"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Cultural variation in goal content taxonomies not fully resolved
 sections:
   - "Phase I: Orientation & Analytical Focus"
   - "Phase II: Analytical Framework"
@@ -227,19 +171,14 @@ sections:
   - "Phase VI: Synthesis, Integration & Original Contribution"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix"
-
 document-features:
   callouts: 28
   wiki-links: 38
   cognitive-engagement-elements: 14
   analytical-commentary: 10
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
-generation-date: "2026-03-13"
+generation-date: 2026-03-13
 ---
 
 # Goal Contents Theory: Why What We Pursue Shapes Who We Become
@@ -519,7 +458,7 @@ Earlier, in Phase II, we established that GCT focuses on the *content* of goals 
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — GCT is a direct sub-theory of SDT, and this analysis presupposes SDT's foundational architecture: the organismic meta-theory, the three-factor basic needs model, and the functional significance of needs satisfaction for well-being. The relationship is not just categorical (GCT is *part of* SDT) but analytical: every mechanism identified in Phase IV is ultimately grounded in SDT's basic needs theory. Where the SDT Foundational Report maps the complete theoretical landscape, this analysis provides the deep borehole into one specific stratum of that landscape. The two documents are designed to be read in conjunction.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection here is less obvious but analytically rich. CLT's concerns are primarily with the cognitive architecture of learning; GCT's concerns are with the motivational ecology. However, the Vansteenkiste et al. framing experiments suggest a possible interaction: extrinsic goal framing may increase extraneous cognitive load by activating performance anxiety and self-monitoring processes that consume working memory capacity, while intrinsic goal framing may reduce extraneous load by orienting attention toward the task itself rather than toward evaluation outcomes. This interaction has not been systematically tested, but it represents a genuinely underexplored interface between the PKB's motivational and cognitive reports.
 >

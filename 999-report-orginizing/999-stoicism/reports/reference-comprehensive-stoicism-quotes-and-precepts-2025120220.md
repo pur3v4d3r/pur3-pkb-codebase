@@ -216,7 +216,7 @@ Wiki-Link Opportunities:
 - [[Epictetus]]
 - [[Seneca]]
 - [[Daily Note]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Negative Visualization]]
 - [[Eudaimonia]]
 - [[Ataraxia]]
@@ -1259,7 +1259,7 @@ This reference note is designed to be directly integrated into your daily note p
 
 > [!the-philosophy]
 > **Underlying Philosophy**
-> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
+> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio-Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].
 
 ### Cognitive Models for Understanding Stoicism
 
@@ -1294,7 +1294,7 @@ The Stoics taught us that between stimulus and response lies a gap where our pow
 **Phase 2: Integration (Weeks 5-12)**
 - Add morning journaling with Stoic prompts
 - Begin evening review practice
-- Practice [[Premeditatio Malorum]] before challenging events
+- Practice [[Premeditatio-Malorum]] before challenging events
 
 **Phase 3: Mastery (Ongoing)**
 - Maintain daily quote and journaling practice

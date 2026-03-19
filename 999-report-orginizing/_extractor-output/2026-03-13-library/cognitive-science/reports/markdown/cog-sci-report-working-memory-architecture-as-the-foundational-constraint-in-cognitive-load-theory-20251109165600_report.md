@@ -239,7 +239,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Attention]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Automation]]
 - [[Baddeley and Hitch]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]]
@@ -395,7 +395,7 @@ extraction_summary:
 | 78 | [[information store principle]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 145 |
 | 79 | [[randomness as genesis principle]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 147 |
 | 80 | [[worked examples]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 147 |
-| 81 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 💡 Synthesis: Working Memory as the Ly... | 158 |
+| 81 | [[Personal Knowledge Management]] | — | — | 💡 Synthesis: Working Memory as the Ly... | 158 |
 | 82 | [[Zettelkasten]] | — | — | 💡 Synthesis: Working Memory as the Ly... | 158 |
 | 83 | [[Expertise-Reversal-Effect|Expertise Reversal Effect]] | — | — | 🔗 Related Topics for PKB Expansion | 175 |
 | 84 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | 🔗 Related Topics for PKB Expansion | 177 |
@@ -483,7 +483,7 @@ Search Strategy:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Attention]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Automation]]
 - [[Baddeley and Hitch]]
 - [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]]

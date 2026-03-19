@@ -129,7 +129,7 @@ broader:
   - "[[Applied Philosophy]]"
 
 narrower:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Memento Mori]]"
   - "[[Stoic Journaling]]"
   - "[[The View from Above]]"
@@ -186,7 +186,7 @@ practical-components:
 # ═══════════════════════════════════════════════════════════════════════════
 link-up: "[[Stoicism MOC]]"
 link-down:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Memento Mori]]"
   - "[[Stoic Journaling]]"
   - "[[The View from Above]]"
@@ -396,7 +396,7 @@ There is also a hedonic mechanism: voluntary temporary deprivation of comfort re
 
 ### Example 1: Marcus Aurelius and the Practice of the Morning Review
 
-The most detailed historical record of Stoic daily practice in action comes from the *Meditations* itself, which was almost certainly composed as part of a morning review practice — Marcus setting down his philosophical reminders for the day in the manner of [[premeditatio malorum]] before the demands of empire descended on him.
+The most detailed historical record of Stoic daily practice in action comes from the *Meditations* itself, which was almost certainly composed as part of a morning review practice — Marcus setting down his philosophical reminders for the day in the manner of [[Premeditatio-Malorum]] before the demands of empire descended on him.
 
 One of the most remarkable passages in the *Meditations* is the opening of Book II: "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I... cannot be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him."
 

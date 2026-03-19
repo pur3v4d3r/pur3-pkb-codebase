@@ -35,8 +35,8 @@ aliases:
 
 ## Introduction
 
-[[John Dewey]]'s *How We Think* (1910, revised 1933) is one of the foundational texts
-of [[Pragmatism]] and [[Educational Philosophy]]. Written for teachers and educated
+[[John-Dewey]]'s *How We Think* (1910, revised 1933) is one of the foundational texts
+of [[Pragmatism]] and [[Educational-Philosophy]]. Written for teachers and educated
 general readers, it addresses a deceptively simple question: what does it mean to think
 *well*? Dewey's answer unfolds across nineteen chapters organized in three parts —
 diagnosing the problem of training thought, analyzing the logical structure of
@@ -107,7 +107,7 @@ turning a subject over in the mind and giving it serious and consecutive conside
 
 Before we take up this main theme, we shall, however, first take note briefly of some other mental processes to which the name thought is sometimes given.
 
-## The ‘[[Stream of Consciousness|Stream of Consciousness]]’ 
+## The ‘[[Stream-of-Consciousness|Stream of Consciousness]]’ 
 
 All the time we are awake and sometimes when we are asleep, something is, as we say, going through our heads. 
 When we are asleep we call that kind of sequence ‘ dreaming.’ We also have daydreams, reveries, castles built in the air, and mental streams that are even more idle and chaotic. To this uncontrolled coursing of ideas through our heads the name of ‘ thinking’ is sometimes given. It is automatic and unregulated.
@@ -334,7 +334,7 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 ### 🧠 Core Concepts Introduced
 
 - **[[Reflective Thinking]]**: A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds.
-- **[[Stream of Consciousness]]**: The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding.
+- **[[Stream-of-Consciousness]]**: The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding.
 - **[[Signification]]**: The objective relationship between an observed fact and an unobserved conclusion, where the observed fact functions as genuine evidence because a real causal or structural connection links it to what is inferred.
 - **[[Perplexity]]**: A state of felt confusion or doubt arising when habitual activity is interrupted by an unexpected situation — the necessary and sufficient initiating condition for reflective thought.
 - **[[Belief]]**: A mental commitment to a proposition that demands justification and carries practical consequences, in contrast to idle fancy, and which can be either passively inherited or actively arrived at through inquiry.

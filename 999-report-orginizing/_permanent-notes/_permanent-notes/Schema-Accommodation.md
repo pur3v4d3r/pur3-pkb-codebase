@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Schema Accommodation"
+title: Schema Accommodation
 aliases:
-  - "Schema Accommodation"
+  - Schema Accommodation
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - cognitive-psychology/generative-learning
   - cognitive-psychology/schema-construction
   - educational-psychology/writing-to-learn
-
 domain: cognitive-psychology
 subdomains:
   - educational-psychology
@@ -29,44 +21,24 @@ subdomains:
   - constructivism
   - instructional-design
   - learning-experience-design
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "17-note-making-knowledge-construction-pkm-framework-2026-03-14"
-  - "report-07-the-self-directed-learner.md"
+  - 17-note-making-knowledge-construction-pkm-framework-2026-03-14
+  - report-07-the-self-directed-learner.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Articulatory-Construction-Principle|Articulatory Construction Principle]]"
   - "[[Atomic-Notes|Atomic Notes]]"
@@ -77,46 +49,36 @@ see-also:
   - "[[Constructivism]]"
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Winne-and-Hadwin|Winne and Hadwin]]"
   - "[[Constructivism|Constructivism]]"
   - "[[Jean-Piaget|Jean Piaget]]"
   - "[[Jerome-Bruner|Jerome Bruner]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 08: Reflective Practice and Experiential Learning]]"
   - "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
-
 enables:
   - "[[Report 18: Calibration and Epistemic Humility]]"
   - "[[Report 20: Retrieval-Enhanced Knowledge Networks]]"
   - "[[Report 23: Learning Environments Design — The PKB as a Constructed Learning Space]]"
   - "[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]"
-
 expansion-topics:
   - topic: "[[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]"
-    description: "The interleaving research (established in Report 16) shows that alternating between topics during st"
+    description: The interleaving research (established in Report 16) shows that alternating between topics during st
     priority: medium
   - topic: "[[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]"
-    description: "This report focuses on verbal, text-based note-making. The cognitive science of Dual Coding Theory"
+    description: This report focuses on verbal, text-based note-making. The cognitive science of Dual Coding Theory
     priority: medium
   - topic: "[[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]"
-    description: "The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowl"
+    description: The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowl
     priority: medium
   - topic: "[[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]"
-    description: "The Constructive Note-Making Protocol recommended in Phase V is substantially more time-intensive th"
+    description: The Constructive Note-Making Protocol recommended in Phase V is substantially more time-intensive th
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -165,5 +127,5 @@ importance: high
 [[Articulatory-Construction-Principle|Articulatory Construction Principle]] · [[Atomic-Notes|Atomic Notes]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]] · [[Comprehension-Monitoring|Comprehension Monitoring]] · [[Constructivism]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dual-Coding-Theory|Dual Coding Theory]] · [[Educational-Psychology|Educational Psychology]] · [[Elaboration-Theory|Elaboration Theory]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Fluency]] · [[Generation-Effect|Generation Effect]]
 
 **Related concepts** *(from report-07-the-self-directed-learner.md)*:
-[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+[[Lev-Vygotsky|Lev Vygotsky]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
 

@@ -415,7 +415,7 @@ The neurobiological mechanism underlying these performance costs involves what <
 > [!methodology-and-sources] Drift Diffusion Modeling of Task-Switching
 > Advanced computational techniques employing the **<span style='color: #72FFF1;'>Drift Diffusion Model (DDM)</span>** have decomposed task-switching costs into constituent cognitive processes, revealing that performance decrements stem primarily from changes in the **<span style='color: #72FFF1;'>decision boundary</span>** parameter—the amount of evidence required before initiating a response—rather than alterations in drift rate (information accumulation speed). Specifically, training on task-switching reduces decision boundaries more substantially than it improves drift rates (t(304) = 1378.1, p < 0.001, d = 80.704), indicating that switching costs represent strategic adjustments in response caution rather than fundamental processing speed limitations (PMC5801306).
 
-The relationship between working memory capacity and task-switching ability has proven more complex than initially anticipated. While theoretical models predict that individuals with higher [[Working Memory Capacity]] should demonstrate smaller switch costs, empirical studies using traditional reaction time-based measures often fail to reveal this relationship. However, when researchers employ <span style='color: #27FF00;'>**combined scoring procedures**</span> that integrate both reaction time and accuracy data into a single performance metric, robust correlations between working memory capacity and switching proficiency emerge (Draheim, Hicks, & Engle, 2016). This methodological insight underscores the importance of comprehensive performance assessment: focusing exclusively on speed or accuracy in isolation can obscure genuine cognitive relationships that become apparent only when both dimensions are evaluated simultaneously.
+The relationship between working memory capacity and task-switching ability has proven more complex than initially anticipated. While theoretical models predict that individuals with higher [[Working-Memory-Capacity]] should demonstrate smaller switch costs, empirical studies using traditional reaction time-based measures often fail to reveal this relationship. However, when researchers employ <span style='color: #27FF00;'>**combined scoring procedures**</span> that integrate both reaction time and accuracy data into a single performance metric, robust correlations between working memory capacity and switching proficiency emerge (Draheim, Hicks, & Engle, 2016). This methodological insight underscores the importance of comprehensive performance assessment: focusing exclusively on speed or accuracy in isolation can obscure genuine cognitive relationships that become apparent only when both dimensions are evaluated simultaneously.
 
 ## 🔬 The Neurological Substrate: Why Context Switching Is Metabolically Expensive
 
@@ -512,7 +512,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Mihaly Csikszentmihalyi's flow theory, neurobiological correlates of flow states, conditions facilitating flow entry, and practical protocols for engineering flow-conducive environments would provide crucial complement to productivity optimization frameworks.
 **Knowledge Graph Role:** Connects cognitive performance (attention, executive function) with positive psychology (optimal experience, intrinsic motivation) and practical productivity systems.
 **Priority:** High—Flow optimization represents a positive framing for monotasking adoption, emphasizing experiential benefits beyond mere performance metrics.
-**Prerequisites:** [[Intrinsic Motivation]], [[Optimal Challenge]], [[Autotelic Personality]].
+**Prerequisites:** [[Intrinsic Motivation]], [[Optimal-Challenge]], [[Autotelic Personality]].
 
 ## Cross-Domain Connections
 
@@ -548,7 +548,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Hierarchical reinforcement learning models of cognitive control, conflict monitoring theory and the ACC's computational role, model-based versus model-free control strategies, Bayesian models of cognitive flexibility, and neural network implementations of task-set representations would provide cutting-edge theoretical integration.
 **Knowledge Graph Role:** Bridges computational neuroscience (neural network models, reinforcement learning) with cognitive psychology (executive function, attention) and machine learning (artificial intelligence architectures).
 **Priority:** Low—Highly advanced treatment requiring extensive mathematical and computational sophistication, suitable for readers with strong quantitative backgrounds seeking mechanistic-level understanding.
-**Prerequisites:** [[Reinforcement Learning Fundamentals]], [[Bayesian Inference]], [[Neural Network Architectures]], [[Cognitive Control]], [[Computational Modeling in Neuroscience]].
+**Prerequisites:** [[Reinforcement Learning Fundamentals]], [[Bayesian-Inference]], [[Neural Network Architectures]], [[Cognitive Control]], [[Computational Modeling in Neuroscience]].
 
 ---
 

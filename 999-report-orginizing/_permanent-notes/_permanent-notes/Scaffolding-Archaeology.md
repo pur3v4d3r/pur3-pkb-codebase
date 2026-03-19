@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Scaffolding Archaeology"
+title: Scaffolding Archaeology
 aliases:
-  - "Scaffolding Archaeology"
+  - Scaffolding Archaeology
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - educational-science/andragogy
   - educational-science/heutagogy
   - educational-science/pedagogy
-
 domain: educational-psychology
 subdomains:
   - educational-science
@@ -29,34 +21,17 @@ subdomains:
   - educational-psychology
   - self-regulated-learning
   - knowledge-management
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-18
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "10-scaffolding-and-fading-pkm-framework-2026-03-14"
+  - 10-scaffolding-and-fading-pkm-framework-2026-03-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Pedagogy]]"
   - "[[Andragogy]]"
@@ -67,14 +42,11 @@ related:
   - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
-
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
@@ -84,39 +56,29 @@ see-also:
   - "[[Illusion-of-Knowing|Illusion of Knowing]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Report 01: Foundations of Knowledge Architecture]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 01: Foundations of Knowledge Architecture]]"
   - "[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
-
 enables:
   - "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
   - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
   - "[[Report 27: The Complete PKM/PKB Design Framework]]"
-
 expansion-topics:
   - topic: "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
     description: "Report 16 will address what replaces scaffolding as it fades: not mere absence of structure, but del"
     priority: medium
   - topic: "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
-    description: "Intelligent Tutoring Systems (ITS) — software that automatically adapts instruction to learner state"
+    description: Intelligent Tutoring Systems (ITS) — software that automatically adapts instruction to learner state
     priority: medium
   - topic: "[[The-Expertise-Reversal-Effect-Across-Knowledge-Domains-What-Counts-as-'Expertise|The Expertise Reversal Effect Across Knowledge Domains: What Counts as 'Expertise' in a PKB?]]"
-    description: "The expertise reversal literature was developed primarily in mathematics, physics, and computer scie"
+    description: The expertise reversal literature was developed primarily in mathematics, physics, and computer scie
     priority: medium
   - topic: "[[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]"
-    description: "The Stage 1–4 design framework assumes domain expertise as the governing variable. But a significant"
+    description: The Stage 1–4 design framework assumes domain expertise as the governing variable. But a significant
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high

@@ -367,7 +367,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — GCT is a direct sub-theory of SDT, and this analysis presupposes SDT's foundational architecture: the organismic meta-theory, the three-factor basic needs model, and the functional significance of needs satisfaction for well-being. The relationship is not just categorical (GCT is *part of* SDT) but analytical: every mechanism identified in Phase IV is ultimately grounded in SDT's basic needs theory. Where the SDT Foundational Report maps the complete theoretical landscape, this analysis provides the deep borehole into one specific stratum of that landscape. The two documents are designed to be read in conjunction.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection here is less obvious but analytically rich. CLT's concerns are primarily with the cognitive architecture of learning; GCT's concerns are with the motivational ecology. However, the Vansteenkiste et al. framing experiments suggest a possible interaction: extrinsic goal framing may increase extraneous cognitive load by activating performance anxiety and self-monitoring processes that consume working memory capacity, while intrinsic goal framing may reduce extraneous load by orienting attention toward the task itself rather than toward evaluation outcomes. This interaction has not been systematically tested, but it represents a genuinely underexplored interface between the PKB's motivational and cognitive reports.
 > 
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Self-Concordance-Model|Self-Concordance Model]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tim Kasser]]
 - [[autonomy]]
 - [[Basic-Psychological-Needs|basic psychological needs]]
@@ -649,7 +649,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Self-Concordance-Model|Self-Concordance Model]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tim Kasser]]
 - [[autonomy]]
 - [[Basic-Psychological-Needs|basic psychological needs]]
@@ -670,7 +670,7 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]

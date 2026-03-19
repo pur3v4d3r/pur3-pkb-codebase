@@ -31,16 +31,16 @@ tags:
 
 [[Human Development Theory]]
 [[Basic Psychological Needs Theory]]
-[[Cognitive Evaluation Theory]]
-[[Organismic Integration Theory]]
+[[Cognitive-Evaluation-Theory]]
+[[Organismic-Integration-Theory]]
 
 
 [[Intrinsic Motivation]]
 [[Extrinsic Motivation]]
 [[Organismic Theory]]
-[[Introjected Regulation]]
+[[Introjected-Regulation]]
 
-[[Undermining Effect]]
+[[Undermining-Effect]]
 [[Introjection]]
 
 [[Behaviorism]]

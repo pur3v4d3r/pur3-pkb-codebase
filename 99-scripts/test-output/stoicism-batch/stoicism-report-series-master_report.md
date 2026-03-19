@@ -4276,13 +4276,13 @@ extraction_summary:
 - [[Applied Epistemology]]
 - [[Applied Philosophy]]
 - [[Argument Analysis]]
-- [[Argument Mapping]]
+- [[Argument-Mapping]]
 - [[Aristotelian Virtue Ethics]]
 - [[Aristotle]]
 - [[Attachment Theory]]
 - [[Attachment Theory (Bowlby)]]
 - [[Authentic Leadership]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic]]
 - [[B.F. Skinner]]
 - [[Basic Argument Analysis]]
 - [[Bayesian Reasoning]]
@@ -4368,7 +4368,7 @@ extraction_summary:
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Epicureanism]]
 - [[Epistemic Humility and Intellectual Virtue]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
 - [[Equanimity as Psychological Practice]]
@@ -4388,7 +4388,7 @@ extraction_summary:
 - [[Gottman Method]]
 - [[Grief Processing Models]]
 - [[Hardiness Theory (Kobasa)]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Psychology of the Treadmill]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Hedonic Treadmill Research]]
@@ -4408,7 +4408,7 @@ extraction_summary:
 - [[Impermanence Meditation]]
 - [[Inductive Reasoning Strategies]]
 - [[Information Processing Models]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility]]
 - [[Interpersonal Acceptance and Commitment Therapy]]
 - [[Interpersonal Neurobiology]]
 - [[Introduction to Critical Thinking]]
@@ -4499,7 +4499,7 @@ extraction_summary:
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Preferred Indifferents — Complete Taxonomy]]
 - [[Preferred Indifferents — Stoic Value Theory]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
 - [[Present Moment Awareness]]
@@ -4608,7 +4608,7 @@ extraction_summary:
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
 - [[Thoreau's Walden and the Philosophical Experiment in Simplicity]]
 - [[Tim Ferriss]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
 - [[Unconscious Competence]]
 - [[Unity of the Virtues]]
@@ -4628,7 +4628,7 @@ extraction_summary:
 - [[logic]]
 - [[mindfulness]]
 - [[negative visualization]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum]]
 - [[self-efficacy]]
 
 ### All Occurrences
@@ -4658,17 +4658,17 @@ extraction_summary:
 | 21 | [[Metacognition]] | — | — | ═════════════════════════════════════... | 539 |
 | 22 | [[PENCRISAL Assessment Framework]] | — | — | ═════════════════════════════════════... | 540 |
 | 23 | [[Metacognitive Awareness Inventory]] | — | — | ═════════════════════════════════════... | 541 |
-| 24 | [[Epistemic Vigilance]] | — | — | ═════════════════════════════════════... | 542 |
+| 24 | [[Epistemic-Vigilance]] | — | — | ═════════════════════════════════════... | 542 |
 | 25 | [[Dual Process Theory]] | — | — | ═════════════════════════════════════... | 543 |
 | 26 | [[Cognitive Load Theory]] | — | — | ═════════════════════════════════════... | 544 |
 | 27 | [[Argument Analysis]] | — | — | ═════════════════════════════════════... | 545 |
 | 28 | [[Decision Making Under Uncertainty]] | — | — | ═════════════════════════════════════... | 546 |
 | 29 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 547 |
 | 30 | [[Scientific Reasoning]] | — | — | ═════════════════════════════════════... | 548 |
-| 31 | [[Transfer of Learning]] | — | — | ═════════════════════════════════════... | 549 |
+| 31 | [[Transfer-of-Learning]] | — | — | ═════════════════════════════════════... | 549 |
 | 32 | [[Self-Regulated Learning]] | — | — | ═════════════════════════════════════... | 550 |
 | 33 | [[Confirmation Bias]] | — | — | ═════════════════════════════════════... | 551 |
-| 34 | [[Availability Heuristic]] | — | — | ═════════════════════════════════════... | 552 |
+| 34 | [[Availability-Heuristic]] | — | — | ═════════════════════════════════════... | 552 |
 | 35 | [[Anchoring Bias]] | — | — | ═════════════════════════════════════... | 553 |
 | 36 | [[Cognitive Psychology]] | — | — | ═════════════════════════════════════... | 556 |
 | 37 | [[Educational Psychology]] | — | — | ═════════════════════════════════════... | 557 |
@@ -4684,9 +4684,9 @@ extraction_summary:
 | 47 | [[Working Memory and Executive Function]] | — | — | ═════════════════════════════════════... | 571 |
 | 48 | [[Expertise Development]] | — | — | ═════════════════════════════════════... | 572 |
 | 49 | [[Reflective Judgment Model]] | — | — | ═════════════════════════════════════... | 573 |
-| 50 | [[Intellectual Humility]] | — | — | ═════════════════════════════════════... | 574 |
+| 50 | [[Intellectual-Humility]] | — | — | ═════════════════════════════════════... | 574 |
 | 51 | [[Bayesian Reasoning]] | — | — | ═════════════════════════════════════... | 575 |
-| 52 | [[Argument Mapping]] | — | — | ═════════════════════════════════════... | 576 |
+| 52 | [[Argument-Mapping]] | — | — | ═════════════════════════════════════... | 576 |
 | 53 | [[Socratic Questioning]] | — | — | ═════════════════════════════════════... | 577 |
 | 54 | [[Pre-Mortem Analysis]] | — | — | ═════════════════════════════════════... | 578 |
 | 55 | [[Red Team Thinking]] | — | — | ═════════════════════════════════════... | 579 |
@@ -4923,7 +4923,7 @@ extraction_summary:
 | 286 | [[Virtue Ethics]] | — | — | ═════════════════════════════════════... | 2241 |
 | 287 | [[Contemplative Practice]] | — | — | ═════════════════════════════════════... | 2242 |
 | 288 | [[Applied Philosophy]] | — | — | ═════════════════════════════════════... | 2243 |
-| 289 | [[Premeditatio Malorum]] | — | — | ═════════════════════════════════════... | 2246 |
+| 289 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 2246 |
 | 290 | [[Memento Mori]] | — | — | ═════════════════════════════════════... | 2247 |
 | 291 | [[Stoic Journaling]] | — | — | ═════════════════════════════════════... | 2248 |
 | 292 | [[The View from Above]] | — | — | ═════════════════════════════════════... | 2249 |
@@ -4935,7 +4935,7 @@ extraction_summary:
 | 298 | [[Journaling as Psychological Practice]] | — | — | ═════════════════════════════════════... | 2257 |
 | 299 | [[Buddhist Meditation]] | — | — | ═════════════════════════════════════... | 2258 |
 | 300 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 2301 |
-| 301 | [[Premeditatio Malorum]] | — | — | ═════════════════════════════════════... | 2303 |
+| 301 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 2303 |
 | 302 | [[Memento Mori]] | — | — | ═════════════════════════════════════... | 2304 |
 | 303 | [[Stoic Journaling]] | — | — | ═════════════════════════════════════... | 2305 |
 | 304 | [[The View from Above]] | — | — | ═════════════════════════════════════... | 2306 |
@@ -4981,7 +4981,7 @@ extraction_summary:
 | 344 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 2497 |
 | 345 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 2503 |
 | 346 | [[self-efficacy]] | — | — | The Research on Voluntary Discomfort | 2503 |
-| 347 | [[premeditatio malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 2513 |
+| 347 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 2513 |
 | 348 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 2547 |
 | 349 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 2547 |
 | 350 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 2554 |
@@ -5208,7 +5208,7 @@ extraction_summary:
 | 571 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 4328 |
 | 572 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 4329 |
 | 573 | [[Memento Mori]] | — | — | ═════════════════════════════════════... | 4330 |
-| 574 | [[Premeditatio Malorum]] | — | — | ═════════════════════════════════════... | 4331 |
+| 574 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 4331 |
 | 575 | [[Cognitive Behavioral Therapy]] | — | — | ═════════════════════════════════════... | 4332 |
 | 576 | [[Acceptance and Commitment Therapy]] | — | — | ═════════════════════════════════════... | 4333 |
 | 577 | [[Cognitive Reappraisal]] | — | — | ═════════════════════════════════════... | 4334 |
@@ -5226,7 +5226,7 @@ extraction_summary:
 | 589 | [[Virtue Ethics]] | — | — | ═════════════════════════════════════... | 4351 |
 | 590 | [[Psychology of Resilience]] | — | — | ═════════════════════════════════════... | 4352 |
 | 591 | [[Contemplative Practice]] | — | — | ═════════════════════════════════════... | 4353 |
-| 592 | [[Premeditatio Malorum]] | — | — | ═════════════════════════════════════... | 4356 |
+| 592 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 4356 |
 | 593 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 4357 |
 | 594 | [[The Obstacle Is the Way]] | — | — | ═════════════════════════════════════... | 4358 |
 | 595 | [[Stoic Consolation]] | — | — | ═════════════════════════════════════... | 4359 |
@@ -5237,7 +5237,7 @@ extraction_summary:
 | 600 | [[Grief Processing Models]] | — | — | ═════════════════════════════════════... | 4366 |
 | 601 | [[Hardiness Theory (Kobasa)]] | — | — | ═════════════════════════════════════... | 4367 |
 | 602 | [[Stoicism MOC]] | — | — | ═════════════════════════════════════... | 4409 |
-| 603 | [[Premeditatio Malorum]] | — | — | ═════════════════════════════════════... | 4411 |
+| 603 | [[Premeditatio-Malorum]] | — | — | ═════════════════════════════════════... | 4411 |
 | 604 | [[Amor Fati]] | — | — | ═════════════════════════════════════... | 4412 |
 | 605 | [[The Obstacle Is the Way (Principle)]] | — | — | ═════════════════════════════════════... | 4413 |
 | 606 | [[Stoic Consolation Literature]] | — | — | ═════════════════════════════════════... | 4414 |
@@ -5412,7 +5412,7 @@ extraction_summary:
 | 775 | [[Apatheia]] | — | — | ═════════════════════════════════════... | 5830 |
 | 776 | [[Preferred Indifferents]] | — | — | ═════════════════════════════════════... | 5831 |
 | 777 | [[Meditatio Paupertatis]] | — | — | ═════════════════════════════════════... | 5832 |
-| 778 | [[Hedonic Adaptation]] | — | — | ═════════════════════════════════════... | 5833 |
+| 778 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 5833 |
 | 779 | [[Voluntary Simplicity]] | — | — | ═════════════════════════════════════... | 5834 |
 | 780 | [[Cynicism (Philosophy)]] | — | — | ═════════════════════════════════════... | 5835 |
 | 781 | [[Epicureanism]] | — | — | ═════════════════════════════════════... | 5836 |
@@ -5446,7 +5446,7 @@ extraction_summary:
 | 809 | [[Discipline of Desire]] | — | — | ═════════════════════════════════════... | 5915 |
 | 810 | [[Stoic Frugality]] | — | — | ═════════════════════════════════════... | 5916 |
 | 811 | [[Preferred Indifferents — Complete Taxonomy]] | — | — | ═════════════════════════════════════... | 5917 |
-| 812 | [[Hedonic Adaptation]] | — | — | ═════════════════════════════════════... | 5919 |
+| 812 | [[Hedonic-Adaptation]] | — | — | ═════════════════════════════════════... | 5919 |
 | 813 | [[Voluntary Simplicity Movement]] | — | — | ═════════════════════════════════════... | 5920 |
 | 814 | [[Eudaimonic Wellbeing]] | — | — | ═════════════════════════════════════... | 5921 |
 | 815 | [[Buddhist Non-Attachment]] | — | — | ═════════════════════════════════════... | 5922 |
@@ -5466,7 +5466,7 @@ extraction_summary:
 | 829 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 5970 |
 | 830 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 5970 |
 | 831 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 5970 |
-| 832 | [[Hedonic Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 5978 |
+| 832 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 5978 |
 | 833 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 5996 |
 | 834 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 5996 |
 | 835 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 6000 |
@@ -5479,7 +5479,7 @@ extraction_summary:
 | 842 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 6018 |
 | 843 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 6038 |
 | 844 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 6044 |
-| 845 | [[Hedonic Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 6074 |
+| 845 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 6074 |
 | 846 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 6083 |
 | 847 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 6086 |
 | 848 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 6105 |
@@ -5933,13 +5933,13 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Applied Epistemology]]
 - [[Applied Philosophy]]
 - [[Argument Analysis]]
-- [[Argument Mapping]]
+- [[Argument-Mapping]]
 - [[Aristotelian Virtue Ethics]]
 - [[Aristotle]]
 - [[Attachment Theory]]
 - [[Attachment Theory (Bowlby)]]
 - [[Authentic Leadership]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic]]
 - [[B.F. Skinner]]
 - [[Basic Argument Analysis]]
 - [[Bayesian Reasoning]]
@@ -6025,7 +6025,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Epicureanism]]
 - [[Epistemic Humility and Intellectual Virtue]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
 - [[Equanimity as Psychological Practice]]
@@ -6045,7 +6045,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Gottman Method]]
 - [[Grief Processing Models]]
 - [[Hardiness Theory (Kobasa)]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Psychology of the Treadmill]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Hedonic Treadmill Research]]
@@ -6065,7 +6065,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Impermanence Meditation]]
 - [[Inductive Reasoning Strategies]]
 - [[Information Processing Models]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility]]
 - [[Interpersonal Acceptance and Commitment Therapy]]
 - [[Interpersonal Neurobiology]]
 - [[Introduction to Critical Thinking]]
@@ -6156,7 +6156,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Preferred Indifferents — A Complete Taxonomy]]
 - [[Preferred Indifferents — Complete Taxonomy]]
 - [[Preferred Indifferents — Stoic Value Theory]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
 - [[Present Moment Awareness]]
@@ -6265,7 +6265,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
 - [[Thoreau's Walden and the Philosophical Experiment in Simplicity]]
 - [[Tim Ferriss]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
 - [[Unconscious Competence]]
 - [[Unity of the Virtues]]
@@ -6285,7 +6285,7 @@ test_coverage: {{Scope of testing, e.g., "Comprehensive", "Limited", "Theoretica
 - [[logic]]
 - [[mindfulness]]
 - [[negative visualization]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum]]
 - [[self-efficacy]]
 
 ---

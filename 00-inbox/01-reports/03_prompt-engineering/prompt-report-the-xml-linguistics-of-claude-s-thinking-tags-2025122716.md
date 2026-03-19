@@ -1315,7 +1315,7 @@ While rigorous academic studies are still emerging, community documentation show
 2. **Automated Tag Optimization**: Tools to suggest tag improvements based on task analysis
 3. **Tag-Based Prompt Libraries**: Curated repositories of validated tag patterns
 4. **Cross-Model Tag Standardization**: Industry standards for portable tag systems?
-5. **Integration with [[Retrieval-Augmented Generation]]**: How do tags interact with retrieved context?
+5. **Integration with [[Retrieval-Augmented-Generation]]**: How do tags interact with retrieved context?
 
 ---
 

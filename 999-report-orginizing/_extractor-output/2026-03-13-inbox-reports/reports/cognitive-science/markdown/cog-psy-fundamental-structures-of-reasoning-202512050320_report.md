@@ -586,7 +586,7 @@ extraction_summary:
 > 
 > **Epistemology**: The Information and Inference elements connect to [[Epistemic-Autonomy-—-Epistemology|Epistemology]], [[Justified-True-Belief|Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
-> **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], and [[Reflective-Practice|Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
+> **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and [[Reflective-Practice|Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
 > **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 
@@ -693,7 +693,7 @@ extraction_summary:
 - [[Reasoning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Scientific Method]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Skepticism]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning]]
@@ -1516,7 +1516,7 @@ graph LR
 - [[Reasoning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Scientific Method]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Skepticism]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning]]

@@ -31,7 +31,7 @@ review-count: 0
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-27 1|Daily-Note]]"
 ---
@@ -107,7 +107,7 @@ I need to search for:
 - Phase 5: Metadata (tags, aliases, expansion topics)
 
 **Wiki-Link Opportunities:**
-[[Basic Psychological Needs Theory]], [[Self-Determination Theory]], [[Self-Regulated Learning]], [[Autonomy]], [[Competence]], [[Relatedness]], [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Internalization]], [[Integrated Regulation]], [[Neuroplasticity]], [[Cognitive Load Theory]], [[Flow State]], [[Metacognition]], [[Goal-Setting Theory]]
+[[Basic Psychological Needs Theory]], [[Self-Determination Theory]], [[Self-Regulated Learning]], [[Autonomy]], [[Competence]], [[Relatedness]], [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Internalization]], [[Integrated-Regulation]], [[Neuroplasticity]], [[Cognitive Load Theory]], [[Flow State]], [[Metacognition]], [[Goal-Setting Theory]]
 
 **Callout Strategy:**
 - [!abstract] for overview
@@ -185,7 +185,7 @@ In knowledge work contexts, autonomy satisfaction proves particularly crucial be
 > [!principle-point]
 > **Competence** represents the psychological need to feel effective, capable, and efficacious in one's interactions with the environment. This need drives individuals to seek out optimal challenges that stretch their current capabilities while remaining achievable, to master skills and knowledge domains, and to experience themselves as agents capable of producing desired outcomes. Competence satisfaction is fundamentally about experiencing growth, development, and mastery rather than merely possessing skills.
 
-The competence need finds its intellectual roots in [[Robert White]]'s concept of **effectance motivation**—the intrinsic drive to produce effects in one's environment and to experience oneself as competent in doing so. Within [[Cognitive Evaluation Theory]] (a sub-theory of SDT), interpersonal events, rewards, communication, and feedback that engender feelings of competence during activity performance enhance intrinsic motivation for that activity. However, and this represents a crucial theoretical specification, competence feedback alone proves insufficient to sustain intrinsic motivation unless accompanied by autonomy satisfaction—the individual must also experience the competent performance as self-determined rather than externally controlled.
+The competence need finds its intellectual roots in [[Robert White]]'s concept of **effectance motivation**—the intrinsic drive to produce effects in one's environment and to experience oneself as competent in doing so. Within [[Cognitive-Evaluation-Theory]] (a sub-theory of SDT), interpersonal events, rewards, communication, and feedback that engender feelings of competence during activity performance enhance intrinsic motivation for that activity. However, and this represents a crucial theoretical specification, competence feedback alone proves insufficient to sustain intrinsic motivation unless accompanied by autonomy satisfaction—the individual must also experience the competent performance as self-determined rather than externally controlled.
 
 Neuroscientific research reveals that competence satisfaction activates reward processing systems in the brain, particularly the nucleus accumbens and ventral striatum, and shows distinct patterns of functional connectivity with emotion regulation networks depending on overall life satisfaction. These findings indicate that competence experiences interface directly with both motivational (reward-seeking) and affective (emotion regulation) neural systems, explaining why competence satisfaction powerfully influences both goal-directed behavior and emotional well-being.
 
@@ -210,7 +210,7 @@ The neural substrates of relatedness parallel those identified for autonomy and 
 
 **Relatedness Frustration** manifests as experiences of rejection, exclusion, ostracism, or feeling fundamentally unvalued by others. This involves not merely the absence of connection but rather active experiences of social exclusion, being criticized or devalued, or feeling invisible within social contexts. Relatedness frustration predicts loneliness, social anxiety, defensive interpersonal strategies, and reduced engagement in social contexts—individuals may withdraw from activities to avoid further rejection or adopt ingratiating behaviors that sacrifice autonomy to secure minimal social acceptance.
 
-For self-directed learners and knowledge workers, relatedness satisfaction often manifests through belonging to [[Communities of Practice]], experiencing supportive mentorship relationships, or engaging in collaborative knowledge construction. Research on online learning environments demonstrates that social support and interaction significantly influence relatedness satisfaction, which in turn predicts learning engagement, persistence, and knowledge integration. Even in ostensibly solitary knowledge work, the sense of contributing to meaningful collective endeavors or receiving recognition from valued communities satisfies relatedness needs and sustains motivation.
+For self-directed learners and knowledge workers, relatedness satisfaction often manifests through belonging to [[Communities-of-Practice]], experiencing supportive mentorship relationships, or engaging in collaborative knowledge construction. Research on online learning environments demonstrates that social support and interaction significantly influence relatedness satisfaction, which in turn predicts learning engagement, persistence, and knowledge integration. Even in ostensibly solitary knowledge work, the sense of contributing to meaningful collective endeavors or receiving recognition from valued communities satisfies relatedness needs and sustains motivation.
 
 ## 🔗 Integration with Self-Regulated Learning Theory
 
@@ -286,7 +286,7 @@ For individuals pursuing mastery through self-directed learning and knowledge wo
 
 **Creating Autonomy-Supportive Learning Architectures** involves designing systems that maximize volitional engagement while minimizing external pressure and internal compulsion. This manifests in several concrete practices: allowing genuine choice in topic selection and learning pathways rather than rigid sequences, providing clear rationales that connect learning activities to personally meaningful goals, acknowledging internal frames of reference and emotional states during difficult learning phases, and using informational language that supports competence development rather than controlling language that pressures performance. The distinction proves crucial—autonomy support doesn't mean abandoning structure or high standards but rather presenting structure and standards in ways that support volitional commitment.
 
-**Building Competence Through Optimal Challenge Calibration** requires understanding the delicate balance between challenge and skill described in [[Flow Theory]]. Research demonstrates that flow experiences—characterized by complete absorption and optimal challenge—significantly impact all three basic psychological needs while simultaneously supporting self-regulated learning. Knowledge work systems should incorporate progressive elaboration, moving from foundational understanding to increased complexity, explicit competence feedback through various forms of deliberate practice and retrieval, and metacognitive scaffolding that supports increasingly sophisticated cognitive strategies. The [[Spacing Effect]], [[Interleaving]], and [[Retrieval Practice]] all exemplify evidence-based techniques that provide competence-satisfying mastery experiences while building genuine expertise.
+**Building Competence Through Optimal Challenge Calibration** requires understanding the delicate balance between challenge and skill described in [[Flow Theory]]. Research demonstrates that flow experiences—characterized by complete absorption and optimal challenge—significantly impact all three basic psychological needs while simultaneously supporting self-regulated learning. Knowledge work systems should incorporate progressive elaboration, moving from foundational understanding to increased complexity, explicit competence feedback through various forms of deliberate practice and retrieval, and metacognitive scaffolding that supports increasingly sophisticated cognitive strategies. The [[Spacing-Effect]], [[Interleaving]], and [[Retrieval-Practice]] all exemplify evidence-based techniques that provide competence-satisfying mastery experiences while building genuine expertise.
 
 **Fostering Relatedness Within Knowledge Communities** recognizes that even ostensibly solitary cognitive work benefits from social connection. This might manifest through participation in intellectual communities (formal or informal), contribution to collective knowledge artifacts, mentorship relationships, collaborative sense-making processes, or even the sense of engaging in dialogue with authors and thinkers through deep reading and critical engagement with texts. The practice of [[Progressive Summarization]] within a shared knowledge base, for instance, simultaneously serves individual learning while contributing to collective knowledge resources, thereby satisfying both competence and relatedness needs.
 
@@ -295,7 +295,7 @@ For individuals pursuing mastery through self-directed learning and knowledge wo
 >
 > Sustained difficulty maintaining engagement with knowledge work often signals need frustration rather than lack of willpower or discipline. Ask diagnostic questions: Does my learning feel pressured by external expectations or internal compulsions (autonomy frustration)? Do I experience tasks as beyond my capabilities or fail to perceive progress (competence frustration)? Do I feel isolated, unvalued, or disconnected from meaningful communities (relatedness frustration)? Identifying the specific need being frustrated enables targeted interventions rather than generic productivity techniques that may worsen the underlying problem.
 
-The intersection of BPNT with [[Stoicism]] and ancient philosophical practices proves particularly illuminating for knowledge workers. Contemporary SDT research explicitly connects with Aristotelian [[Eudaimonia]]—the concept of human flourishing through virtue and excellent functioning—recognizing that basic psychological needs specify the conditions enabling eudaimonic well-being. Stoic practices such as the [[Dichotomy of Control]], [[Premeditatio Malorum]], and [[View from Above]] can be understood as sophisticated techniques for preserving autonomy satisfaction (maintaining internal locus of control), supporting competence (realistic assessment of capabilities), and sustaining relatedness (recognizing shared human condition) even in challenging circumstances. This integration suggests that ancient wisdom traditions may have developed phenomenologically-grounded practices for need satisfaction millennia before empirical psychology validated their effectiveness.
+The intersection of BPNT with [[Stoicism]] and ancient philosophical practices proves particularly illuminating for knowledge workers. Contemporary SDT research explicitly connects with Aristotelian [[Eudaimonia]]—the concept of human flourishing through virtue and excellent functioning—recognizing that basic psychological needs specify the conditions enabling eudaimonic well-being. Stoic practices such as the [[Dichotomy of Control]], [[Premeditatio-Malorum]], and [[View from Above]] can be understood as sophisticated techniques for preserving autonomy satisfaction (maintaining internal locus of control), supporting competence (realistic assessment of capabilities), and sustaining relatedness (recognizing shared human condition) even in challenging circumstances. This integration suggests that ancient wisdom traditions may have developed phenomenologically-grounded practices for need satisfaction millennia before empirical psychology validated their effectiveness.
 
 ## 🔗 Connections and Links
 
@@ -328,17 +328,17 @@ The intersection of BPNT with [[Stoicism]] and ancient philosophical practices p
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Cognitive Evaluation Theory]]**
+1. **[[Cognitive-Evaluation-Theory]]**
    - *Connection*: CET represents the first mini-theory within SDT, specifically addressing intrinsic motivation and explaining how external events (rewards, feedback, constraints) influence it through their effects on perceived competence and autonomy.
    - *Depth Potential*: Merits comprehensive exploration as it provides detailed mechanisms explaining when and why external factors enhance versus undermine intrinsic motivation, with profound implications for designing feedback systems and incentive structures in knowledge work.
    - *Knowledge Graph Role*: Serves as the foundational sub-theory connecting BPNT to practical questions about motivation management in learning environments.
 
-2. **[[Organismic Integration Theory]]**
+2. **[[Organismic-Integration-Theory]]**
    - *Connection*: OIT details the internalization continuum and regulatory styles described in this document, providing the theoretical framework explaining how external regulations transform into integrated self-regulation.
    - *Depth Potential*: Requires detailed treatment as it specifies the mechanisms, conditions, and outcomes of internalization—central to understanding how learners develop autonomous motivation for initially uninteresting but valuable activities.
    - *Knowledge Graph Role*: Bridges BPNT with practical applications in education, habit formation, and value development.
 
-3. **[[Causality Orientations Theory]]**
+3. **[[Causality-Orientations-Theory]]**
    - *Connection*: COT describes stable individual differences in people's general motivational orientations—autonomy orientation (tendency toward autonomous regulation), control orientation (responsiveness to external controls), and impersonal orientation (amotivated functioning).
    - *Depth Potential*: Important for understanding why identical environments produce different motivational outcomes for different individuals, and how stable orientations develop through chronic need satisfaction or frustration.
    - *Knowledge Graph Role*: Connects BPNT to personality psychology and individual differences, explaining trait-level patterns in motivation and self-regulation.

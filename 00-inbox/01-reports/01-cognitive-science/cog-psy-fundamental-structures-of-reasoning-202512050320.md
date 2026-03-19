@@ -163,7 +163,7 @@ Interpretation and Inference 🔍
 > - Callouts: definitions, examples, key questions, warnings about common failures
 > - Visual: Mermaid diagram of element relationships
 > **WIKI-LINK OPPORTUNITIES:**
-> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]
+> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point-of-View]], [[Intellectual-Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]
 > Let me search for authoritative information on the Paul-Elder Elements of Thought.
 > Now I have excellent foundational information. Let me search for more specific details about how the Elements interrelate and practical application examples.Excellent. Now I have comprehensive information about the Elements of Thought. Let me compile this into a detailed, encyclopedic report following all the specified formatting and content requirements. I have sufficient information about:
 > 1. The 8 Elements of Thought
@@ -249,7 +249,7 @@ The Elements of Thought constitute one of three essential components in the comp
 > 
 > **1. Elements of Thought (Reasoning Structures)**: The eight fundamental components present in all thinking—the "parts" or "anatomy" of reasoning that this document examines in depth.
 > 
-> **2. [[Intellectual Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
+> **2. [[Intellectual-Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
 > 
 > **3. [[Intellectual Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.
 
@@ -892,7 +892,7 @@ This comparative template often reveals that apparent disagreements about facts 
 
 ### How Elements Relate to Intellectual Standards
 
-The [[Intellectual Standards]]—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness—function as *quality criteria* applied to each Element. Understanding this relationship is crucial because the Elements and Standards work together: Elements provide the structures to analyze; Standards provide the criteria for evaluation.
+The [[Intellectual-Standards]]—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness—function as *quality criteria* applied to each Element. Understanding this relationship is crucial because the Elements and Standards work together: Elements provide the structures to analyze; Standards provide the criteria for evaluation.
 
 Every Element can be assessed using appropriate Standards. Consider **Purpose**: You evaluate purpose for *clarity* (is it clearly stated?), *significance* (does it matter?), *relevance* (does it relate to the context?), and *fairness* (is it ethical?). Consider **Information**: You assess it for *accuracy* (is it true?), *precision* (is it specific enough?), *relevance* (does it relate to the question?), *breadth* (is alternative information considered?), and *depth* (does it address complexity?). Consider **Inferences**: You evaluate them for *logic* (do they follow?), *depth* (do they address root issues?), *breadth* (do they consider alternatives?), and *fairness* (do they avoid bias?).
 
@@ -946,13 +946,13 @@ This developmental progression—from technical skill to character virtue—expl
 > 
 > The Elements of Thought connect to numerous other areas within a comprehensive personal knowledge base:
 > 
-> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
+> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual-Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
 > 
 > **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
 > 
-> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
+> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified-True-Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
-> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
+> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective-Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
 > **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 

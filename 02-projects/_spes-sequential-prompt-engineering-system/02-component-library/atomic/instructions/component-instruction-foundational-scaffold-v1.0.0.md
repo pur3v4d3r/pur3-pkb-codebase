@@ -380,7 +380,7 @@ In Phase 4, generate provocative questions about integrative frameworks and hybr
 - 4 synthesis pathways identified:
   - [[Cognitive-Behavioral Integration in Education]]
   - [[Situated Cognition Theory]]
-  - [[Communities of Practice]]
+  - [[Communities-of-Practice]]
   - [[Technology-Enhanced Constructivism]]
 
 **Effectiveness**: ⭐⭐⭐⭐⭐

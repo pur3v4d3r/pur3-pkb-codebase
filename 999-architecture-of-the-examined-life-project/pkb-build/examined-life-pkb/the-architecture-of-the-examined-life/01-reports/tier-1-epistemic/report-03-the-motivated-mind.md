@@ -1,16 +1,13 @@
 ---
-# CORE IDENTITY
 title: "The Motivated Mind: Intrinsic Engagement and the Will to Think Well"
 aliases:
-  - "Report 03 — The Motivated Mind"
-  - "Motivational Architecture of the Examined Life"
-  - "Cognitive Vitality"
-  - "Intrinsic Engagement and Critical Thought"
+  - Report 03 — The Motivated Mind
+  - Motivational Architecture of the Examined Life
+  - Cognitive Vitality
+  - Intrinsic Engagement and Critical Thought
 type: permanent-note
 status: evergreen
 confidence: high
-
-# CLASSIFICATION
 tags:
   - content/synthesis-report
   - domain/motivational-psychology
@@ -24,7 +21,6 @@ tags:
   - series/architecture-of-the-examined-life
   - tier/epistemic-architecture
   - status/evergreen
-
 domain: Motivational Psychology and Epistemic Practice
 subdomains:
   - Self-Determination Theory
@@ -33,34 +29,27 @@ subdomains:
   - Intrinsic Motivation Neuroscience
   - Growth Mindset Research
   - Cognitive-Motivational Integration
-
-# TEMPORAL
 created: 2026-02-28
 updated: 2026-02-28
-
-# ACADEMIC METADATA
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
-series: "The Architecture of the Examined Life"
+series: The Architecture of the Examined Life
 series-report-number: "03"
 tier: "1"
-tier-name: "Epistemic Architecture"
-
+tier-name: Epistemic Architecture
 synthesis-moves-applied:
   - Structural Homology (Stoic prohairesis ↔ SDT autonomy)
   - Conceptual Tension Resolution (effortful yet intrinsically rewarding)
   - Emergent Insight Generation (Cognitive Vitality)
   - Bidirectional Cross-Report Enrichment
   - Neuroscientific Grounding of Philosophical Constructs
-
 frameworks-synthesized:
   - Self-Determination Theory (Deci & Ryan)
   - Flow Theory (Csikszentmihalyi)
   - Stoic Prohairesis and Dichotomy of Control (Epictetus)
   - Intrinsic Motivation Neuroscience (dopaminergic systems, ACC)
   - Growth Mindset (Dweck)
-
 key-researchers:
   - "Edward Deci & Richard Ryan: originators of Self-Determination Theory; three universal psychological needs"
   - "Mihaly Csikszentmihalyi: Flow theory; optimal experience; challenge-skill balance"
@@ -70,24 +59,16 @@ key-researchers:
   - "Wang et al.: 2024 educational SDT interventions meta-analysis, N=11,792"
   - "Bart Norsworthy et al.: 2021 scoping review of 236 flow studies"
   - "Rivas et al.: 2025 structural equation model linking CT, metacognition, and well-being"
-
-# CONTENT CHARACTERISTICS
-word-count: "~10,500"
+word-count: ~10,500
 complexity-level: advanced-practitioner
 depth-level: comprehensive
 treatment-type: synthesis-focused
-
-# CORE CONCEPTS & SYNTHESIS
-central-synthesis-argument: "Self-Determination Theory's autonomy need, Stoic prohairesis, Flow's optimal challenge, and Growth Mindset's neural learning orientation collectively describe a single motivational architecture — cognitive vitality — that makes sustained reflective engagement possible and self-perpetuating, resolving the paradox of how effortful thinking can be intrinsically rewarding."
-
-emergent-insight: "Cognitive Vitality — the self-sustaining motivational state achieved when autonomous engagement meets optimal challenge within a growth-oriented dispositional frame, producing a positive feedback loop in which excellent thinking becomes its own continuous reward."
-
+central-synthesis-argument: Self-Determination Theory's autonomy need, Stoic prohairesis, Flow's optimal challenge, and Growth Mindset's neural learning orientation collectively describe a single motivational architecture — cognitive vitality — that makes sustained reflective engagement possible and self-perpetuating, resolving the paradox of how effortful thinking can be intrinsically rewarding.
+emergent-insight: Cognitive Vitality — the self-sustaining motivational state achieved when autonomous engagement meets optimal challenge within a growth-oriented dispositional frame, producing a positive feedback loop in which excellent thinking becomes its own continuous reward.
 core-tensions:
-  - "How can thinking be both effortful (Report 01, System 2 activation costs) and intrinsically motivated? Flow theory resolves this through optimal challenge calibration."
-  - "Is autonomy a motivational convenience or a cognitive necessity? The synthesis shows autonomy is structurally required for deep reflective thought, not merely beneficial."
-  - "Are growth mindset effects real or overstated? The evidence is more complex than popular accounts suggest, but the neural mechanism is real when implementation is genuine."
-
-# RELATIONSHIPS
+  - How can thinking be both effortful (Report 01, System 2 activation costs) and intrinsically motivated? Flow theory resolves this through optimal challenge calibration.
+  - Is autonomy a motivational convenience or a cognitive necessity? The synthesis shows autonomy is structurally required for deep reflective thought, not merely beneficial.
+  - Are growth mindset effects real or overstated? The evidence is more complex than popular accounts suggest, but the neural mechanism is real when implementation is genuine.
 series-connections:
   builds-from:
     - "Report 01 (The Inquiry Engine): establishes why inquiry is effortful — System 2 activation costs — creating the motivational problem this report solves"
@@ -99,7 +80,6 @@ series-connections:
   retroactively-enriches:
     - "Report 01: aporic receptivity (the cultivated willingness to dwell in confusion) is sustainable only within a motivational architecture of cognitive vitality — without it, discomfort simply leads to escape rather than inquiry"
     - "Report 02: the fallibilist stance requires motivational courage to hold beliefs provisionally; the examined knower is also necessarily the motivated knower"
-
 prerequisites:
   - "[[Dewey's Reflective Thinking]]"
   - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
@@ -107,7 +87,6 @@ prerequisites:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Fallibilism]]"
   - "[[Constructivism]]"
-
 related:
   - "[[Basic Psychological Needs Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
@@ -116,39 +95,34 @@ related:
   - "[[Dopaminergic Reward Systems]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]"
   - "[[Optimal Experience]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Epistemic Motivation]]"
   - "[[Hedonic-Adaptation|Hedonic Adaptation]]"
-
 broader:
   - "[[Motivational Psychology]]"
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Virtue Ethics]]"
   - "[[Positive Psychology]]"
   - "[[Cognitive Neuroscience]]"
-
-# LEARNING PATHWAYS
 expansion-topics:
   - topic: "[[Basic Psychological Needs in Educational Contexts]]"
-    description: "Empirical studies on how classroom environments satisfy or frustrate autonomy, competence, and relatedness needs — with direct implications for intellectual development"
+    description: Empirical studies on how classroom environments satisfy or frustrate autonomy, competence, and relatedness needs — with direct implications for intellectual development
     priority: high
   - topic: "[[Neuroscience of Intrinsic Motivation]]"
-    description: "Dopaminergic circuits, anterior cingulate cortex, striatum, and prefrontal interactions underlying the rewarding quality of intellectually challenging tasks"
+    description: Dopaminergic circuits, anterior cingulate cortex, striatum, and prefrontal interactions underlying the rewarding quality of intellectually challenging tasks
     priority: high
   - topic: "[[Stoic Askēsis: The Practice of Philosophical Discipline]]"
-    description: "The Stoic system of practical exercises (askēsis) as a technology for cultivating prohairesis and rational autonomy — including evening review, negative visualization, and voluntary discomfort"
+    description: The Stoic system of practical exercises (askēsis) as a technology for cultivating prohairesis and rational autonomy — including evening review, negative visualization, and voluntary discomfort
     priority: medium
   - topic: "[[Growth Mindset Implementation Science]]"
-    description: "The gap between laboratory growth mindset effects and real-world interventions; what works, what fails, and the role of teacher beliefs in transmission"
+    description: The gap between laboratory growth mindset effects and real-world interventions; what works, what fails, and the role of teacher beliefs in transmission
     priority: medium
   - topic: "[[Flow in Intellectual Work]]"
-    description: "How to engineer optimal challenge-skill balance in knowledge work, study, and research — the specific conditions enabling cognitive flow in academic contexts"
+    description: How to engineer optimal challenge-skill balance in knowledge work, study, and research — the specific conditions enabling cognitive flow in academic contexts
     priority: high
   - topic: "[[Internalization Continuum and Developmental Motivation]]"
-    description: "SDT's organismic integration theory — the process by which external demands become genuinely autonomous motivation through progressive internalization"
+    description: SDT's organismic integration theory — the process by which external demands become genuinely autonomous motivation through progressive internalization
     priority: medium
-
-# QUALITY INDICATORS
 empirical-support:
   - "Howard et al. (2021): SDT mega-meta-analysis, N=223,209 — foundational quantitative support"
   - "Wang et al. (2024): Educational SDT interventions, N=11,792 — large effect on autonomy support (g=1.14)"
@@ -156,15 +130,12 @@ empirical-support:
   - "Norsworthy et al. (2021): Scoping review of 236 flow studies across domains"
   - "Growth mindset neural correlates review (2023): 15 fMRI/EEG studies, N=1,374"
   - "Macnamara & Burgoyne (2023): caution on growth mindset effect sizes"
-
 limitations-noted:
-  - "Growth mindset intervention effects are often small in real-world settings"
-  - "Cognitive vitality as an emergent concept requires direct empirical validation"
-  - "Flow measurement remains methodologically contested"
-  - "SDT's universality claim (three needs across all cultures) is robustly but not universally supported"
-  - "The Stoic-SDT structural homology is philosophical interpretation, not empirical identity claim"
-
-# DOCUMENT STRUCTURE
+  - Growth mindset intervention effects are often small in real-world settings
+  - Cognitive vitality as an emergent concept requires direct empirical validation
+  - Flow measurement remains methodologically contested
+  - SDT's universality claim (three needs across all cultures) is robustly but not universally supported
+  - The Stoic-SDT structural homology is philosophical interpretation, not empirical identity claim
 sections:
   - "Phase I: The Premise — The Motivational Problem at the Heart of the Examined Life"
   - "Phase II: The Exposition — Four Frameworks and Their Motivational Architectures"

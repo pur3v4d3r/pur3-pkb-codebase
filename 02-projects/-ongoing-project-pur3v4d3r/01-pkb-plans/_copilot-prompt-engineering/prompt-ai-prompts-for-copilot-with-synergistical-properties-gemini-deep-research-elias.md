@@ -31,7 +31,7 @@ date modified: Monday, September 29th 2025, 12:19:55 am
 [^8]: [[How to Properly Cite a Source]]
 [^9]: [[Advanced Search Engine Use]]
 [^10]: [[ChatGPT Universal Smart Note Template SOP]]
-[^11]: [[00 Inbox/00_File/REF_Gemini-Deep-Research_Obsidian-Knowledge-Research-Guide_2025-09-12]]
+[^11]: [[ref_gemini-deep-research_obsidian-knowledge-research-guide_2025-09-12]]
 [^12]: [[Workflow for Evaluating Sources and Information]]
 [^13]: [[Source Evaluation - A Three Tiered Approach]]
 [^14]: [[ref_notes_guide-to-active-reading-by-ai's_2025-09-24]]

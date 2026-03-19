@@ -804,7 +804,7 @@ result = chain.invoke({"topic": "Explain spaced repetition"})
 
 **[[LlamaIndex]]**: Data-Centric Framework
 
-- **Philosophy**: Optimized for [[Retrieval-Augmented Generation]] and document understanding
+- **Philosophy**: Optimized for [[Retrieval-Augmented-Generation]] and document understanding
 - **Strengths**: Superior data connectors, advanced indexing strategies, query optimization
 - **Architecture**: Index-centric with sophisticated retrieval mechanisms
 - **Best For**: Document QA systems, knowledge base querying, enterprise RAG

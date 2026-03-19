@@ -35,7 +35,7 @@ link-related:
 > [!abstract]
 > This analysis challenges the deeply-held "common knowledge" that simple awareness of [[as]] is an effective strategy for preventing it. We will treat this belief as a cognitive artifact to be systematically deconstructed. This deconstruction will begin by identifying the core, unexamined assumptions this belief rests upon—namely, that [[Cognitive Distortions]] are conscious errors that can be overcome with willpower, and that "awareness" is a sufficient intervention.
 >
-> We will then ignore this artifact and proceed to identify the true [[first principles]] of human cognition, primarily derived from [[Dual-Process Theory]]. These "atoms" of thought—such as the law of [[Cognitive Miserliness]], the automaticity of [[System 1]], and the lazy, deliberate nature of [[System 2]]—will form our foundation. We will establish that biases are not conscious flaws but rather the *unconscious byproducts* of an otherwise efficient default processing system.
+> We will then ignore this artifact and proceed to identify the true [[first principles]] of human cognition, primarily derived from [[Dual-Process-Theory]]. These "atoms" of thought—such as the law of [[Cognitive Miserliness]], the automaticity of [[System 1]], and the lazy, deliberate nature of [[System 2]]—will form our foundation. We will establish that biases are not conscious flaws but rather the *unconscious byproducts* of an otherwise efficient default processing system.
 >
 > From these fundamental truths, we will "rebuild" a new, more robust solution. This reconstructed model demonstrates that the only reliable way to safeguard against distortion is not through passive awareness, but through *active, structured, and externalized intervention*. This new model is the [[Metacognitive Checkpoint System]]—a framework of tools like [[Pre-Mortem Analysis]], [[Decision Journaling Protocols]], and [[Epistemic Spot Checks]]—which act as a "cognitive exoskeleton" to deliberately interrupt our flawed default state and *force* the engagement of higher-level reasoning.
 
@@ -51,7 +51,7 @@ link-related:
 > 
 > - *Why do I believe this? Is it from* **direct evidence** *or from* **analogy** *(i.e., "everyone says so")?*
 >  
->      - I believe this almost entirely from analogy. The very act of "learning about biases" is presented as an act of "debiasing." The analogy is one of education: if I am ignorant of a "fact" (like the [[Availability Heuristic]]), I will fall prey to it. Once I *learn* the fact, I am now "educated" and will no longer make the error. It's reasoning by analogy to how we learn other skills, but it fails to account for the unique, unconscious nature of bias.
+>      - I believe this almost entirely from analogy. The very act of "learning about biases" is presented as an act of "debiasing." The analogy is one of education: if I am ignorant of a "fact" (like the [[Availability-Heuristic]]), I will fall prey to it. Once I *learn* the fact, I am now "educated" and will no longer make the error. It's reasoning by analogy to how we learn other skills, but it fails to account for the unique, unconscious nature of bias.
 
 > [!ask-yourself-this]
 > - *The belief that "Awareness is the cure" is built on* **what underlying assumptions?**
@@ -109,7 +109,7 @@ This is the most critical section. We now completely ignore the "artifact" from 
 
 # 3.0 🏗️ THE RECONSTRUCTION: BUILDING A NEW SOLUTION
 
-Now that we have our "atoms" (our first principles), this section uses them as "building blocks" to construct a new, optimized solution from the ground up, *ignoring* the original "awareness" model. We are building a solution based *only* on the truths of [[Dual-Process Theory]] and the [[Bias Blind Spot]].
+Now that we have our "atoms" (our first principles), this section uses them as "building blocks" to construct a new, optimized solution from the ground up, *ignoring* the original "awareness" model. We are building a solution based *only* on the truths of [[Dual-Process-Theory]] and the [[Bias Blind Spot]].
 
 > [!plan]
 > **A New Blueprint:**
@@ -124,7 +124,7 @@ Now that we have our "atoms" (our first principles), this section uses them as "
 > **Building from Principle 3:** **[[Constructing the External Scaffolding]]**
 > - What does this "external scaffolding" (P3) look like? It is a *structured process* that forces [[Metacognition]]. This is where the specific frameworks mentioned in the prompt are not just "good ideas" but are the *logical engineering solutions* to the first-principles problem.
 > - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System 1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System 1]] narrative and *engages* [[System 2]] to analytically find risks.
-> - If our problem is [[Hindsight Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
+> - If our problem is [[Hindsight-Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
 > - If our problem is [[Confirmation Bias]] (a [[System 1]] tendency to seek agreeable facts), the scaffold is an **[[Epistemic Spot Check]]**. This is a *mandatory* checklist (like the "TWED" mnemonic) that forces you to ask: "What is the *quality* of this evidence? What is the *strongest argument for the other side*? Have I actively tried to *disprove* my own hypothesis?" These questions are the *external* trigger to force [[System 2]] to do the hard work of analytical validation.
 
 > [!helpful-tip]
@@ -210,7 +210,7 @@ This section analyzes the new solution that was "rebuilt" in Section 3.0. We now
 > - [[Reasoning-by-Analogy]]
 > - [[Mental-Models]]
 > - [[Deconstruction]]
-> - [[Dual-Process Theory]]
+> - [[Dual-Process-Theory]]
 > - [[Choice Architecture]]
 > - [[Systems Thinking]]
 > - [[Epistemology]]

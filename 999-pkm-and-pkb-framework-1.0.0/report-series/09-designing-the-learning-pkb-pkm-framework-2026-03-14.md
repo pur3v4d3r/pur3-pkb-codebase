@@ -1,10 +1,9 @@
 ---
-doc_id: "pkm-09-designing-the-learning-pkb-2026-03-14"
+doc_id: pkm-09-designing-the-learning-pkb-2026-03-14
 doc_type: permanent-note
 doc_created: 2026-03-14
 doc_modified: 2026-03-14
 author: claude-sonnet-4-6
-
 primary_domain: knowledge-management
 secondary_domains:
   - cognitive-science
@@ -13,33 +12,23 @@ secondary_domains:
   - learning-experience-design
   - cognitive-psychology
   - educational-psychology
-
-analytical-focus: >
-  How should the physical architecture of a PKB — its folders, tags, links,
-  note types, and metadata schemas — be designed to align with how the mind
-  actually organizes, retrieves, and constructs knowledge, integrating the
-  foundations of Schema Theory, Cognitive Load Theory, Self-Regulated Learning,
-  and Memory Systems established in Reports 01, 02, 04, and 06?
-
+analytical-focus: |
+  How should the physical architecture of a PKB — its folders, tags, links, note types, and metadata schemas — be designed to align with how the mind actually organizes, retrieves, and constructs knowledge, integrating the foundations of Schema Theory, Cognitive Load Theory, Self-Regulated Learning, and Memory Systems established in Reports 01, 02, 04, and 06?
 framework-series-position: "Report 09 of 30 — Tier 2: Advanced Integration & Design"
-
 builds-on:
   - "[[Report 01: Foundations of Knowledge Architecture]]"
   - "[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]"
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
-
 feeds-into:
   - "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
   - "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]"
   - "[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]"
   - "[[Report 27: The Complete PKM/PKB Design Framework]]"
-
 status: evergreen
 maturity: highly-developed
 confidence: high
 knowledge_level: advanced
-
 tags:
   - pkm/design
   - pkb/architecture
@@ -58,21 +47,19 @@ tags:
   - pkb/metadata
   - pkb/note-types
   - report-09
-
 analytical-contributions:
   analytical-insight: 5
   what-the-evidence-suggests: 3
   tension-identified: 3
   cross-domain-connection: 5
   original-synthesis: 2
-
 related-concepts:
   - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Information-Architecture|Information Architecture]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Spreading-Activation|Spreading Activation]]"
   - "[[Semantic-Networks|Semantic Networks]]"
   - "[[Progressive-Disclosure|Progressive Disclosure]]"
@@ -87,11 +74,10 @@ related-concepts:
   - "[[Metacognitive Scaffolding]]"
   - "[[Note Types]]"
   - "[[Knowledge Graph]]"
-
 aliases:
   - Report 09
-  - 'Report 09: Designing the Learning PKB'
-  - 'Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture'
+  - "Report 09: Designing the Learning PKB"
+  - "Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture"
   - PKM Report 09
   - Designing the Learning PKB
   - Information Architecture Meets Cognitive Architecture
@@ -108,9 +94,9 @@ aliases:
 
 There is a peculiar irony at the heart of most Personal Knowledge Base design advice: it is built almost entirely on how information systems work, with very little attention to how human minds work. You will find an abundance of guidance on folder hierarchies, tagging ontologies, YAML frontmatter schemas, and linking conventions — all of which are, at bottom, answers to the question *How should data be structured?* What you will find far less of is rigorous engagement with the prior question that makes the first question answerable: *What are the structural properties of human cognition that a knowledge system must interface with?*
 
-This asymmetry matters enormously. A PKB is not, in the final analysis, a database. It is an extension of a mind — and specifically, an extension designed to augment the mind's capacity for learning, synthesis, and knowledge construction over time. The architecture of that extension therefore cannot be designed adequately by consulting only the principles of information systems design. It must be designed by consulting, simultaneously, what [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] has discovered about how knowledge is organized in mental architecture, what [[Information-Science|Information Science]] has formalized about structural principles for external knowledge systems, what [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] has established about how learning environments should be arranged, what [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] research reveals about the cognitive control processes that effective learners bring to their knowledge work, and what [[Memory-Systems|Memory Systems]] research shows about how the retrieval environment shapes what can be remembered and applied.
+This asymmetry matters enormously. A PKB is not, in the final analysis, a database. It is an extension of a mind — and specifically, an extension designed to augment the mind's capacity for learning, synthesis, and knowledge construction over time. The architecture of that extension therefore cannot be designed adequately by consulting only the principles of information systems design. It must be designed by consulting, simultaneously, what [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] has discovered about how knowledge is organized in mental architecture, what [[Information-Science|Information Science]] has formalized about structural principles for external knowledge systems, what [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] has established about how learning environments should be arranged, what [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research reveals about the cognitive control processes that effective learners bring to their knowledge work, and what [[Memory-Systems|Memory Systems]] research shows about how the retrieval environment shapes what can be remembered and applied.
 
-The Tier 1 reports of this series have built the foundations. [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that the mind organizes knowledge through [[Schema-Theory|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[02-architecture-of-learning-pkm-framework-2026-03-13]] showed that [[Cognitive-Load-Theory|Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[Self-Regulated-Learning-—-SRL|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[06-science-of-remembering-pkm-framework-2026-03-13]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[Encoding-Specificity|Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[Retrieval-Practice|Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
+The Tier 1 reports of this series have built the foundations. [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that the mind organizes knowledge through [[Schema-Theory|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[02-architecture-of-learning-pkm-framework-2026-03-13]] showed that [[Cognitive-Load-Theory|Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[06-science-of-remembering-pkm-framework-2026-03-13]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[Encoding-Specificity|Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[Retrieval-Practice|Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
 
 ### The Synthesis Question
 
@@ -127,7 +113,7 @@ Five disciplinary traditions will be synthesized throughout:
 - **[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]**: Schema theory, spreading activation, working memory, and expertise research (built on Report 01 and Report 02 foundations)
 - **[[Information-Science|Information Science]]**: Information architecture, faceted classification, and knowledge organization systems principles (Morville, Wurman, Ranganathan)
 - **[[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]**: Elaboration theory, scaffolding, and learning environment design (Reigeluth, Collins & Brown, Jonassen)
-- **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] Research**: The SRL cycle and its structural requirements (Zimmerman, Pintrich, built on Report 04 foundations)
+- **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] Research**: The SRL cycle and its structural requirements (Zimmerman, Pintrich, built on Report 04 foundations)
 - **[[Knowledge-Management|Knowledge Management]]**: The SECI model and the structural conditions for knowledge creation (Nonaka & Takeuchi)
 
 **Roadmap**: Phase II establishes the conceptual toolkit from all five disciplines. Phase III examines the empirical evidence on how expert knowledge organization differs from novice organization and what this means for PKB design. Phase IV reveals the mechanisms by which structural choices affect learning outcomes — the analytical heart of this report. Phase V translates everything into specific Obsidian design recommendations. Phase VI presents the [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] as a unified design framework. Phase VII maps cross-report connections. Phase VIII provides lexicon, references, and expansion topics.
@@ -228,7 +214,7 @@ The information foraging literature (Pirolli & Card, 1999) adds a complementary 
 
 ### The Self-Regulated Learning Evidence: Structure Must Embed Process
 
-Report 04 established that effective PKM is not primarily structural but regulatory — that the planning-monitoring-reflection cycle of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] must operate continuously for a PKB to grow as a learning system rather than a static archive. The question that structural design must answer is: *What structural features create the conditions in which SRL is most likely to occur?*
+Report 04 established that effective PKM is not primarily structural but regulatory — that the planning-monitoring-reflection cycle of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] must operate continuously for a PKB to grow as a learning system rather than a static archive. The question that structural design must answer is: *What structural features create the conditions in which SRL is most likely to occur?*
 
 Zimmerman's (2000) research on self-regulated learners identifies three phase-specific structural requirements. In the forethought phase, learners need environmental cues that prompt goal-setting and strategic planning before they begin knowledge work. In the performance phase, they need structural affordances that support monitoring — ways of tracking what they know, what they're uncertain about, and what connections they're making. In the self-reflection phase, they need structured prompts and templates that transform vague experience into explicit metacognitive insight.
 

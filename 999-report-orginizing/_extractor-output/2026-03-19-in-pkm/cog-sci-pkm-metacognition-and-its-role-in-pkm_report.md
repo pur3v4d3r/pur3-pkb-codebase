@@ -237,7 +237,7 @@ extraction_summary:
 #### 19. [EVIDENCE] Untitled *(Line 149)*
 
 > [!evidence] Untitled
-> Research on [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning (SRL)]], building on the theoretical foundations of [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]], consistently demonstrates that learners who employ metacognitive monitoring and regulation—specifically, those who set specific learning goals, monitor progress against those goals, and adaptively modify their strategies in response to monitoring feedback—achieve substantially better outcomes than learners who process information passively without metacognitive oversight. Zimmerman's (2000) self-regulation cycle (forethought → performance → self-reflection) maps directly onto the core PKM cycle of planning (what am I trying to learn?), active processing (note-taking, elaboration, linking), and review (what did I actually understand, what gaps remain?). The structural parallelism is not coincidental: effective PKM practice is, at its core, applied self-regulated learning.
+> Research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]], building on the theoretical foundations of [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]], consistently demonstrates that learners who employ metacognitive monitoring and regulation—specifically, those who set specific learning goals, monitor progress against those goals, and adaptively modify their strategies in response to monitoring feedback—achieve substantially better outcomes than learners who process information passively without metacognitive oversight. Zimmerman's (2000) self-regulation cycle (forethought → performance → self-reflection) maps directly onto the core PKM cycle of planning (what am I trying to learn?), active processing (note-taking, elaboration, linking), and review (what did I actually understand, what gaps remain?). The structural parallelism is not coincidental: effective PKM practice is, at its core, applied self-regulated learning.
 
 #### 20. [EVIDENCE] Untitled *(Line 152)*
 
@@ -487,7 +487,7 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[Regulation-of-Cognition|Regulation of Cognition]]
 - [[Seek-Sense-Share Framework]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning (SRL)]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]]
 - [[Social Learning Theory]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stephen Fleming]]
@@ -692,7 +692,7 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[Regulation-of-Cognition|Regulation of Cognition]]
 - [[Seek-Sense-Share Framework]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning (SRL)]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning (SRL)]]
 - [[Social Learning Theory]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stephen Fleming]]

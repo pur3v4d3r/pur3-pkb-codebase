@@ -54,7 +54,7 @@ link-related:
 # 1.0 📜 INTRODUCTION
 
 > [!the-purpose]
-> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
+> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
 
 The challenge before us is both practical and philosophical. On the practical side, millions of knowledge workers, students, researchers, and lifelong learners struggle daily with the overwhelming task of managing what they learn. They collect articles, highlight passages, take notes, and yet find themselves unable to meaningfully retrieve or synthesize this accumulated knowledge when they need it most. Their systems become digital graveyards—places where information goes to be buried rather than to be brought to life. On the philosophical side, we confront a more subtle problem: many knowledge management approaches implicitly treat learners as passive receptacles, databases to be filled, rather than as active meaning-makers with agency, experience, and intrinsic motivation.
 
@@ -146,7 +146,7 @@ To design a Personal Knowledge Base system that truly serves adult learners, we 
 >
 > An andragogically-informed Personal Knowledge Base makes the "why" explicit from the outset. This manifests in several ways:
 >
-> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps of Content]] (MOCs) in systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
+> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps of Content]] (MOCs) in systems like [[Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
 > 
 > 1. **Visible Connection to Outputs**: Every note should have a potential path to becoming something—an essay, a presentation, a solution to a problem, a decision you need to make. The [[Zettelkasten]] method implements this through the concept of "structure notes" or "hub notes" that explicitly connect atomic notes to larger projects or areas of inquiry. When capturing information, you should be able to answer: "How might this note contribute to something I'm building?"
 > 
@@ -168,7 +168,7 @@ The psychological insight here is profound: adults move from dependency to incre
 >
 > **Design Implementation:**
 >
-> 1. **Anti-Prescriptive Architecture**: The system should provide *capabilities* and *building blocks* rather than rigid templates or mandatory workflows. This is why tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], [[Roam Research]], or even well-designed file systems (with minimal folder hierarchy) work better than heavily opinionated apps that dictate structure. The user is the architect, not a tenant following someone else's blueprint.
+> 1. **Anti-Prescriptive Architecture**: The system should provide *capabilities* and *building blocks* rather than rigid templates or mandatory workflows. This is why tools like [[Obsidian]], [[Roam Research]], or even well-designed file systems (with minimal folder hierarchy) work better than heavily opinionated apps that dictate structure. The user is the architect, not a tenant following someone else's blueprint.
 > 
 > 1. **Progressive Disclosure of Complexity**: The system should be simple enough for beginners to start immediately, yet powerful enough to grow with the user's sophistication. This is the principle of [[progressive elaboration]]—you start with basic note-taking, gradually discovering features like backlinks, templates, plugins, or custom workflows as your needs evolve. The system doesn't overwhelm with possibilities initially but makes them discoverable as the user's agency grows.
 > 
@@ -528,7 +528,7 @@ Self-directed learning is defined as an approach where learners are motivated to
 
 The principle that adults learn most effectively when new knowledge connects to existing knowledge finds strong support in cognitive science. The concept of [[Schema Theory]] in cognitive psychology posits that we understand new information by fitting it into existing mental frameworks. By focusing on single ideas and forging connections between them, the Zettelkasten method encourages deeper understanding and long-term retention of information.
 
-The practice of [[elaborative rehearsal]]—processing information by connecting it to what you already know—has been shown repeatedly to produce stronger memory encoding than simple repetition. An andragogical Personal Knowledge Base that emphasizes connection-making is essentially operationalizing elaborative rehearsal as a systematic practice.
+The practice of [[Elaborative-Rehearsal]]—processing information by connecting it to what you already know—has been shown repeatedly to produce stronger memory encoding than simple repetition. An andragogical Personal Knowledge Base that emphasizes connection-making is essentially operationalizing elaborative rehearsal as a systematic practice.
 
 **3. Evidence for Problem-Centered Learning:**
 
@@ -746,7 +746,7 @@ Each domain presents unique challenges and opportunities for implementing andrag
 > 1. [[Personal Knowledge Base]] (Personal Knowledge Base)
 >    - An external system (digital or analog) for capturing, organizing, and leveraging knowledge in support of thinking, learning, and creating. Distinguished from mere information storage by its emphasis on subjective meaning-making, connection-building, and practical application. A well-designed Personal Knowledge Base consists of knowledge (interpreted, contextualized understanding) rather than raw information (decontextualized data), with explicit links representing relationships between ideas. It functions not just as a reference tool but as an active thinking environment that enhances cognitive capacity.
 > 
-> 1. [[Self-Directed Learning]]
+> 1. [[Self-Directed-Learning]]
 >    - A process in which learners take initiative and responsibility for their own learning, including identifying learning needs, formulating goals, locating resources, implementing strategies, and evaluating outcomes—all with minimal external direction. Self-directed learning is not simply learning alone, but rather learning in which the locus of control resides with the learner. In Personal Knowledge Base contexts, self-directed learning means the user decides what to capture, how to organize it, when to process it, and how to apply it, guided by their own questions, problems, and interests rather than by prescribed curricula or external mandates. This autonomy is not just procedural but cognitive—the learner is constructing their own understanding, not absorbing others' conclusions.
 
 > [!thoughts]
@@ -822,7 +822,7 @@ Each domain presents unique challenges and opportunities for implementing andrag
 - [[Digital Gardens and Learning in Public]]
 - [[Heutagogy and Self-Determined Learning]]
 - [[Schema Theory in Cognitive Psychology]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems]]
 - [[Maps of Content and Emergent Structure]]
 - [[The PARA Method]]
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]

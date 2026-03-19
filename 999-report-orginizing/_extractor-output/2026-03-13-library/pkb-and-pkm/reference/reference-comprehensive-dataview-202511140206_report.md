@@ -711,7 +711,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/01_cognitive development/Knowledge management]]
+- [[Knowledge Management]]
 - [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]]
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]
@@ -836,7 +836,7 @@ extraction_summary:
 | 60 | [[Wiki-Link]] | — | — | Metadata Management Guidelines | 1919 |
 | 61 | [[Advanced Dataview Optimization Techniques]] | — | — | 🔗 Related Topics for PKB Expansion | 1994 |
 | 62 | [[Metadata Schema Design Patterns for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1999 |
-| 63 | [[03_notes/01_permanent-notes/01_cognitive development/Knowledge management]] | — | — | 🔗 Related Topics for PKB Expansion | 2002 |
+| 63 | [[Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2002 |
 | 64 | [[DataviewJS Advanced Patterns & Custom Views]] | — | — | 🔗 Related Topics for PKB Expansion | 2004 |
 | 65 | [[Dataview Integration with Templater & Other Plugins]] | — | — | 🔗 Related Topics for PKB Expansion | 2009 |
 | 66 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 2010 |
@@ -2212,7 +2212,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/01_cognitive development/Knowledge management]]
+- [[Knowledge Management]]
 - [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]]
 - [[Advanced Dataview Optimization Techniques]]
 - [[Alice]]

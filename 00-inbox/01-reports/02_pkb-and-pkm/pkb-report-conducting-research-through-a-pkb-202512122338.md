@@ -623,7 +623,7 @@ Research involves many repetitive operations that benefit from automation. Strat
 
 The ultimate test of research success is not the size of your note collection but the depth of your understanding. A PKB facilitates understanding through several mechanisms that deserve explicit attention.
 
-**Active retrieval** occurs when you navigate your graph, searching for relevant notes and reconstructing context from connected materials. This process exercises memory and deepens encoding more effectively than passive review. The [[testing effect]] from cognitive psychology demonstrates that retrieval attempts—even unsuccessful ones—strengthen memory traces more than repeated exposure.
+**Active retrieval** occurs when you navigate your graph, searching for relevant notes and reconstructing context from connected materials. This process exercises memory and deepens encoding more effectively than passive review. The [[Testing-Effect]] from cognitive psychology demonstrates that retrieval attempts—even unsuccessful ones—strengthen memory traces more than repeated exposure.
 
 **Elaborative processing** happens when you write notes in your own words, explain relationships between concepts, and articulate your understanding explicitly. The generation effect shows that self-generated material is remembered better than material merely read—the effort of construction creates durable encoding.
 

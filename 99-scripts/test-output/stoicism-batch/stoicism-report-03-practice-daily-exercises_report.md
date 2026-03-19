@@ -510,7 +510,7 @@ extraction_summary:
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
 - [[Virtue Ethics]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum]]
 - [[self-efficacy]]
 
 ### All Occurrences
@@ -547,7 +547,7 @@ extraction_summary:
 | 28 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 383 |
 | 29 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 30 | [[self-efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
-| 31 | [[premeditatio malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
+| 31 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
 | 32 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 33 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 34 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 440 |
@@ -634,7 +634,7 @@ extraction_summary:
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
 - [[Virtue Ethics]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum]]
 - [[self-efficacy]]
 
 ### Frontmatter Relationships
@@ -669,7 +669,7 @@ extraction_summary:
 
 #### Narrower
 
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Memento Mori]]
 - [[Stoic Journaling]]
 - [[The View from Above]]

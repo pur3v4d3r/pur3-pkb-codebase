@@ -1,43 +1,23 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories"
+title: Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories
 aliases:
-  - "Metacognitive Accuracy as a Skill"
-  - "Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories"
-  - "Training Protocols and Development Trajectories"
+  - Metacognitive Accuracy as a Skill
+  - Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories
+  - Training Protocols and Development Trajectories
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - expansion-topic-stub
   - cognitive-psychology
-
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-18
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 11
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Control]]"
   - "[[Meta-Level-Object-Level-Model]]"
@@ -48,11 +28,7 @@ see-also:
   - "[[Reflective-Inquiry]]"
   - "[[Reflective-Practice]]"
   - "[[Self-Efficacy]]"
-  - "[[Self-Regulated-Learning-—-SRL]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
 review-frequency: quarterly
 mastery-stage: seedling
 importance: medium
@@ -76,5 +52,5 @@ importance: medium
 - [[Reflective-Inquiry]]
 - [[Reflective-Practice]]
 - [[Self-Efficacy]]
-- [[Self-Regulated-Learning-—-SRL]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[The-Metacognitive-PKB-External-Memory-Is-the-Wrong-Frame]]

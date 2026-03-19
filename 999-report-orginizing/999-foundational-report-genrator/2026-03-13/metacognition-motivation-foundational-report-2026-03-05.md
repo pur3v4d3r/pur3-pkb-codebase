@@ -1,19 +1,12 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "The Relationship Between Metacognition and Motivation: Processes, Dynamics, and Fostering an Intrinsically Motivated Metacognitive Mindset"
 aliases:
-  - "Metacognition and Motivation"
-  - "Metacognitive Motivation Integration"
-  - "MMI Foundational Report"
+  - Metacognition and Motivation
+  - Metacognitive Motivation Integration
+  - MMI Foundational Report
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -29,174 +22,129 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "cognitive-psychology"
+domain: cognitive-psychology
 subdomains:
   - metacognition
   - motivation
   - self-regulated-learning
   - educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-05"
-updated: "2026-03-05"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-05
+updated: 2026-03-05
 source-type: academic-synthesis
-research-base: "mixed-methods"
+research-base: mixed-methods
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Self-Determination Theory"
-    description: "Macro-theory of human motivation distinguishing intrinsic, extrinsic, and amotivation on a continuum of autonomy"
-    developers: "Deci & Ryan (1985, 2000)"
-    validation: "Extensive empirical support across cultures and domains"
-  - name: "Self-Regulated Learning"
-    description: "Cyclical model of goal-setting, strategy deployment, monitoring, and reflection governing academic performance"
-    developers: "Zimmerman (1989, 2000); Pintrich (2000)"
-    validation: "Widely replicated; foundational in educational psychology"
-  - name: "Cognitive-Motivational Model"
-    description: "Integrative framework positing bidirectional influence between metacognitive beliefs and motivational orientation"
-    developers: "Borkowski et al. (1990); Efklides (2011)"
-    validation: "Strong theoretical and moderate empirical support"
-  - name: "Growth Mindset Theory"
-    description: "Framework linking implicit theories of intelligence to motivational and learning behavior"
-    developers: "Dweck (1986, 2006)"
-    validation: "Robust empirical base; some replication nuances in recent literature"
-
+  - name: Self-Determination Theory
+    description: Macro-theory of human motivation distinguishing intrinsic, extrinsic, and amotivation on a continuum of autonomy
+    developers: Deci & Ryan (1985, 2000)
+    validation: Extensive empirical support across cultures and domains
+  - name: Self-Regulated Learning
+    description: Cyclical model of goal-setting, strategy deployment, monitoring, and reflection governing academic performance
+    developers: Zimmerman (1989, 2000); Pintrich (2000)
+    validation: Widely replicated; foundational in educational psychology
+  - name: Cognitive-Motivational Model
+    description: Integrative framework positing bidirectional influence between metacognitive beliefs and motivational orientation
+    developers: Borkowski et al. (1990); Efklides (2011)
+    validation: Strong theoretical and moderate empirical support
+  - name: Growth Mindset Theory
+    description: Framework linking implicit theories of intelligence to motivational and learning behavior
+    developers: Dweck (1986, 2006)
+    validation: Robust empirical base; some replication nuances in recent literature
 key-researchers:
-  - "John Flavell"
-  - "Ann Brown"
-  - "Edward Deci"
-  - "Richard Ryan"
-  - "Barry Zimmerman"
-  - "Paul Pintrich"
-  - "Carol Dweck"
-  - "John Borkowski"
-  - "Anastasia Efklides"
-  - "Albert Bandura"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~7800"
-complexity-level: "intermediate"
-target-audience: "Educators, learning designers, cognitive psychologists, advanced students of educational psychology"
+  - John Flavell
+  - Ann Brown
+  - Edward Deci
+  - Richard Ryan
+  - Barry Zimmerman
+  - Paul Pintrich
+  - Carol Dweck
+  - John Borkowski
+  - Anastasia Efklides
+  - Albert Bandura
+word-count: ~7800
+complexity-level: intermediate
+target-audience: Educators, learning designers, cognitive psychologists, advanced students of educational psychology
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Metacognition (metacognitive knowledge, monitoring, control)"
-  - "Intrinsic vs. extrinsic motivation"
-  - "Self-regulated learning cycle"
-  - "Self-efficacy beliefs"
-  - "Autonomy, competence, and relatedness (SDT basic needs)"
-  - "Metacognitive feelings (FOK, EOL, JOL)"
-  - "Mindset (implicit theories of intelligence)"
-  - "Motivational beliefs and attributions"
-
+  - Metacognition (metacognitive knowledge, monitoring, control)
+  - Intrinsic vs. extrinsic motivation
+  - Self-regulated learning cycle
+  - Self-efficacy beliefs
+  - Autonomy, competence, and relatedness (SDT basic needs)
+  - Metacognitive feelings (FOK, EOL, JOL)
+  - Mindset (implicit theories of intelligence)
+  - Motivational beliefs and attributions
 key-distinctions:
-  - "Metacognition vs. cognition"
-  - "Intrinsic vs. extrinsic motivation vs. amotivation"
-  - "Metacognitive knowledge vs. metacognitive regulation"
-  - "Self-efficacy vs. self-concept vs. self-esteem"
-  - "Mastery orientation vs. performance orientation"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Metacognition vs. cognition
+  - Intrinsic vs. extrinsic motivation vs. amotivation
+  - Metacognitive knowledge vs. metacognitive regulation
+  - Self-efficacy vs. self-concept vs. self-esteem
+  - Mastery orientation vs. performance orientation
 prerequisites:
   - "[[Cognitive Psychology Fundamentals]]"
   - "[[Learning Theory Overview]]"
   - "[[Basic Motivation Theory]]"
-
 related:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Growth Mindset Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Goal Orientation Theory]]"
-
 broader:
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
-
 narrower:
   - "[[Metacognitive Feelings and Affect]]"
   - "[[Motivational Beliefs in Academic Contexts]]"
   - "[[Self-Efficacy and Academic Achievement]]"
-
 see-also:
   - "[[Flow Theory (Csikszentmihalyi)]]"
   - "[[Executive Function Development]]"
   - "[[Mindfulness and Metacognition]]"
-
 contrasts-with:
   - "[[Behaviorist Motivation Theory]]"
   - "[[Pure Cognitive Models of Learning]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Coaching and Mentorship]]"
   - "[[Learning-Experience-Design|Learning Experience Design]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition Foundational Report]]"
   - "[[Motivation Theory Foundational Report]]"
-
 enables:
   - "[[Designing Metacognitive Learning Environments]]"
   - "[[Autonomy-Supportive Pedagogy]]"
   - "[[Self-Regulated Learning Interventions]]"
-
 expansion-topics:
   - topic: "[[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]"
-    description: "Deep-dive into the emotional and phenomenological dimension of metacognition — how feelings of knowing, ease of learning, and confidence ratings feed back into motivational states and persistence decisions."
+    description: Deep-dive into the emotional and phenomenological dimension of metacognition — how feelings of knowing, ease of learning, and confidence ratings feed back into motivational states and persistence decisions.
     priority: high
   - topic: "[[Designing Autonomy-Supportive Learning Environments]]"
-    description: "Applied treatment of how instructional contexts can be structured to support metacognitive development and intrinsic motivation simultaneously, with evidence-based design principles."
+    description: Applied treatment of how instructional contexts can be structured to support metacognitive development and intrinsic motivation simultaneously, with evidence-based design principles.
     priority: high
   - topic: "[[Self-Efficacy Theory and Academic Achievement]]"
-    description: "Bandura's full social cognitive framework and the specific mechanisms by which self-efficacy beliefs interact with metacognitive accuracy and motivational persistence."
+    description: Bandura's full social cognitive framework and the specific mechanisms by which self-efficacy beliefs interact with metacognitive accuracy and motivational persistence.
     priority: high
   - topic: "[[Growth Mindset: Evidence, Nuance, and Practical Application]]"
-    description: "Critical treatment of Dweck's implicit theories framework, integrating recent replication studies and contextual moderators with practical implementation guidance."
+    description: Critical treatment of Dweck's implicit theories framework, integrating recent replication studies and contextual moderators with practical implementation guidance.
     priority: medium
   - topic: "[[Goal Orientation Theory in Educational Contexts]]"
-    description: "Mastery vs. performance goal orientations, their relationship to metacognitive engagement and intrinsic motivation, and how goal framing by instructors shapes learner psychology."
+    description: Mastery vs. performance goal orientations, their relationship to metacognitive engagement and intrinsic motivation, and how goal framing by instructors shapes learner psychology.
     priority: medium
   - topic: "[[Flow Theory and Optimal Learning Experiences]]"
-    description: "Csikszentmihalyi's flow framework in relation to metacognitive monitoring, the challenge-skill balance, and its implications for intrinsically motivated learning."
+    description: Csikszentmihalyi's flow framework in relation to metacognitive monitoring, the challenge-skill balance, and its implications for intrinsically motivated learning.
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Zimmerman & Schunk (2011) — comprehensive review of SRL and motivation research"
-  - "Deci & Ryan (2000) — SDT meta-analytic evidence across 100+ studies"
-  - "Borkowski et al. (1990) — cognitive-motivational model original empirical base"
-
+  - Zimmerman & Schunk (2011) — comprehensive review of SRL and motivation research
+  - Deci & Ryan (2000) — SDT meta-analytic evidence across 100+ studies
+  - Borkowski et al. (1990) — cognitive-motivational model original empirical base
 limitations-noted:
-  - "Directionality of metacognition-motivation relationship remains partially contested"
-  - "Most intervention studies are short-term; long-term dispositional change is harder to demonstrate"
-  - "Growth mindset replication concerns raise questions about effect sizes in real-world settings"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Directionality of metacognition-motivation relationship remains partially contested
+  - Most intervention studies are short-term; long-term dispositional change is harder to demonstrate
+  - Growth mindset replication concerns raise questions about effect sizes in real-world settings
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -205,24 +153,18 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 22
   wiki-links: 38
   reflective-questions: 14
   active-reading-prompts: 6
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
 foundational-for-future-learning: true
-
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-05"
+generation-date: 2026-03-05
 ---
 
 # The Relationship Between Metacognition and Motivation
@@ -244,7 +186,7 @@ This is the central puzzle animating this report. [[Metacognition]] — the capa
 
 Understanding the relationship between [[Metacognition]] and [[Intrinsic-Motivation|Intrinsic Motivation]] is not merely an academic exercise. It has direct implications for how we design learning environments, support struggling learners, structure feedback, and cultivate habits of mind that persist beyond any particular educational context. When metacognitive engagement is driven by genuine curiosity, autonomy, and the intrinsic satisfaction of understanding — rather than by fear of failure or the expectation of reward — the evidence suggests that both the depth and the durability of learning are substantially enhanced.
 
-This report addresses three interrelated questions: How do metacognitive processes influence motivation and engagement in learning? How does motivational orientation (particularly the distinction between intrinsic and extrinsic motivation) shape the quality and depth of metacognitive engagement? And what practical conditions foster a metacognitive mindset that supports intrinsic motivation? In answering these questions, the report draws on [[Self-Determination-Theory|Self-Determination Theory]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] models, the [[Cognitive-Motivational Model]] of Borkowski and colleagues, [[Growth Mindset Theory]], and related frameworks.
+This report addresses three interrelated questions: How do metacognitive processes influence motivation and engagement in learning? How does motivational orientation (particularly the distinction between intrinsic and extrinsic motivation) shape the quality and depth of metacognitive engagement? And what practical conditions foster a metacognitive mindset that supports intrinsic motivation? In answering these questions, the report draws on [[Self-Determination-Theory|Self-Determination Theory]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] models, the [[Cognitive-Motivational Model]] of Borkowski and colleagues, [[Growth Mindset Theory]], and related frameworks.
 
 ### Scope and Roadmap
 
@@ -315,7 +257,7 @@ The implications for metacognition are significant. Metacognitive monitoring and
 
 ### Self-Regulated Learning: The Structural Model
 
-[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) provides the structural model through which metacognition and motivation interact most visibly. [[Barry-Zimmerman|Barry Zimmerman]]'s cyclical model, refined extensively through the 1990s and 2000s, describes learning as a three-phase cycle: the **forethought phase** (goal-setting, strategic planning, motivational beliefs including self-efficacy and task interest), the **performance phase** (task execution, self-monitoring, strategy deployment), and the **self-reflection phase** (self-evaluation, causal attribution, affective response, adaptation).
+[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) provides the structural model through which metacognition and motivation interact most visibly. [[Barry-Zimmerman|Barry Zimmerman]]'s cyclical model, refined extensively through the 1990s and 2000s, describes learning as a three-phase cycle: the **forethought phase** (goal-setting, strategic planning, motivational beliefs including self-efficacy and task interest), the **performance phase** (task execution, self-monitoring, strategy deployment), and the **self-reflection phase** (self-evaluation, causal attribution, affective response, adaptation).
 
 > [!key-claim] **SRL as Integration Point**
 > The SRL cycle is not a purely cognitive model — every phase contains a motivational component. In the forethought phase, the learner's motivational beliefs (self-efficacy, goal orientation, intrinsic interest) shape the *quality* of goal-setting and strategic planning. In the performance phase, metacognitive monitoring occurs in the context of ongoing motivational experience (interest, boredom, frustration, curiosity). In the self-reflection phase, the learner's attribution of success or failure — to ability, effort, strategy, or context — determines whether the next cycle begins with higher or lower self-efficacy and motivation. The model is bidirectionally integrated: motivation shapes metacognitive quality; metacognitive outcomes shape subsequent motivation.
@@ -455,7 +397,7 @@ Understanding the metacognition-motivation relationship at this depth confers se
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
 >

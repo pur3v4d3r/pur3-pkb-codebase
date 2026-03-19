@@ -1154,7 +1154,7 @@ Based on your vault structure (from Strategic Roadmap), here are **specific canv
 
 #### Pattern 4: **Meta-Cognitive Reflection Canvas**
 
-**Purpose**: Visualization of your [[Cognitive Load]] reduction progress
+**Purpose**: Visualization of your [[Cognitive-Load]] reduction progress
 
 **Structure**:
 ```

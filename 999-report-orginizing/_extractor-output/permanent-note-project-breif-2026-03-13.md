@@ -643,7 +643,7 @@ related:
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
   - "[[Availability-Heuristic|Availability Heuristic]]"
   - "[[Anchoring Bias]]"

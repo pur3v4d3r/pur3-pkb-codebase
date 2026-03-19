@@ -25,7 +25,7 @@ link-related:
   - "[[Metacognitive Reflection]]"
   - "[[Metacognitive Sensitivity]]"
   - "[[Self-Behavioral Management]]"
-  - "[[Self-Directed Learning]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Determination Theory]]"
   - "[[Self-Regulated Learning]]"
 maturity: seedling

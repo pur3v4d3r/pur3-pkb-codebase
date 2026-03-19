@@ -42,7 +42,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Dual-Process Theory]]
+> - **Key-Term**:[[Dual-Process-Theory]]
 > - **Definition**:
 >   1. A theoretical framework positing two distinct modes of cognitive processing: [[System 1]] (fast, automatic, intuitive, associative) and [[System 2]] (slow, deliberate, analytical, rule-based).
 >   2. The interaction and occasional conflict between these systems explains many patterns of human judgment and decision-making, including the persistence of [[Cognitive Biases|Cognitive Biases]] even among highly intelligent, well-trained individuals.

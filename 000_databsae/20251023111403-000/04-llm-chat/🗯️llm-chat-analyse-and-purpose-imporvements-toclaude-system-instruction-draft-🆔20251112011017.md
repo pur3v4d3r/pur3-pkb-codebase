@@ -206,7 +206,7 @@ STRUCTURAL REASONING:
 ### Phase 2: Structural Planning (Tree-of-Thoughts Organization)
 
 **STRUCTURAL REASONING:**
-My response will be a comprehensive analysis formatted as an authoritative reference note for the user's [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] vault. It will use the `[[ADDIE Model]]` analogy as its central critical framework.
+My response will be a comprehensive analysis formatted as an authoritative reference note for the user's [[Obsidian]] vault. It will use the `[[ADDIE Model]]` analogy as its central critical framework.
 
 ├── **1. 🚀 High-Level Assessment: An Instructional Design Perspective**
 │   ├── Why this structure? Start by validating the user's work. The 5-Phase pipeline is excellent. By framing it as the `[[ADDIE Model]]`, I demonstrate deep understanding from my persona's perspective (`[[Instructional Design]]`) and establish a strong foundation for critique.

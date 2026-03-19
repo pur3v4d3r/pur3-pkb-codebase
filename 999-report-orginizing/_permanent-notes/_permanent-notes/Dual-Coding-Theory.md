@@ -5,6 +5,7 @@
 title: "Dual Coding Theory"
 aliases:
   - "Dual Coding Theory"
+  - "dual-coding theory"
 type: permanent-note
 status: seedling
 confidence: low

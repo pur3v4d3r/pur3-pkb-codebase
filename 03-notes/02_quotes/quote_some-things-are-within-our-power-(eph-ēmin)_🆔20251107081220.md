@@ -82,7 +82,7 @@ link-related: []
 > **Cognitive Biases Triggered/Leveraged:** This passage is psychologically potent because it directly challenges several deeply ingrained [[Cognitive Biases]]:
 > 
 > 1. **[[Illusion of Control]]**: Most people overestimate the degree of control they have over outcomes (health, wealth, reputation). [[Epictetus]] forces a confrontation with this illusion, which can be initially destabilizing but ultimately liberating.
-> 2. **[[Loss Aversion]] and [[Hedonic Adaptation]]**: By categorizing "body, property, reputation, office" as outside our control, [[Epictetus]] reframes potential losses. If these were never truly "ours" to begin with, their loss cannot fundamentally harm us. This cognitive reframing can reduce anticipatory anxiety and grief.
+> 2. **[[Loss Aversion]] and [[Hedonic-Adaptation]]**: By categorizing "body, property, reputation, office" as outside our control, [[Epictetus]] reframes potential losses. If these were never truly "ours" to begin with, their loss cannot fundamentally harm us. This cognitive reframing can reduce anticipatory anxiety and grief.
 > 3. **[[Internal Locus of Control]] vs. [[External Locus of Control]]**: The passage deliberately strengthens an *internal locus of control* by emphasizing that our judgments, desires, and motivations are the true seat of agency. This is psychologically beneficial; research shows that individuals with an internal locus of control tend to experience lower levels of [[anxiety]] and [[depression]].
 > 4. **[[Fundamental Attribution Error]]**: By focusing on our *own* judgments and actions, [[Epictetus]] mitigates the tendency to blame external circumstances or other people for our suffering.
 > 

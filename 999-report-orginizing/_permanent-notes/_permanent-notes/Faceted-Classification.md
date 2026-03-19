@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Faceted Classification"
+title: Faceted Classification
 aliases:
-  - "Faceted Classification"
+  - Faceted Classification
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - information-architecture
   - cognitive-architecture
   - knowledge-management/structural-design
-
 domain: learning-science
 subdomains:
   - cognitive-science
@@ -29,52 +21,32 @@ subdomains:
   - instructional-design
   - learning-experience-design
   - cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-18
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "09-designing-the-learning-pkb-pkm-framework-2026-03-14"
+  - 09-designing-the-learning-pkb-pkm-framework-2026-03-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Working-Memory|Working Memory]]"
   - "[[Information-Architecture|Information Architecture]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Spreading-Activation|Spreading Activation]]"
   - "[[Semantic-Networks|Semantic Networks]]"
   - "[[Progressive-Disclosure|Progressive Disclosure]]"
   - "[[Maps-of-Content-—-MOCs|Maps of Content]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[2024]]"
   - "[[Accommodation]]"
@@ -84,39 +56,29 @@ see-also:
   - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
   - "[[Constructivism]]"
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 01: Foundations of Knowledge Architecture]]"
   - "[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]"
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
-
 enables:
   - "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
   - "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]"
   - "[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]"
   - "[[Report 27: The Complete PKM/PKB Design Framework]]"
-
 expansion-topics:
   - topic: "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
-    description: "The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] specifies the structural properties of an effec"
+    description: The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] specifies the structural properties of an effec
     priority: medium
   - topic: "[[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]"
-    description: "This report identified note titling as the primary source of information scent in a PKB's navigation"
+    description: This report identified note titling as the primary source of information scent in a PKB's navigation
     priority: medium
   - topic: "[[The-Zettelkasten-as-Cognitive-Architecture-Implementation|The Zettelkasten as Cognitive Architecture Implementation]]"
-    description: "Niklas Luhmann's Zettelkasten developed — entirely through practice and without theoretical foundati"
+    description: Niklas Luhmann's Zettelkasten developed — entirely through practice and without theoretical foundati
     priority: medium
   - topic: "[[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]"
-    description: "The design principles in this report apply to folders, tags, and links — the three primary structura"
+    description: The design principles in this report apply to folders, tags, and links — the three primary structura
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high

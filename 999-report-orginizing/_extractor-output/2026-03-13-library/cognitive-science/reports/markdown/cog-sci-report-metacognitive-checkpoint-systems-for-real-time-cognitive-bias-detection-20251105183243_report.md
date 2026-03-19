@@ -158,7 +158,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 38)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores the architectural principles, implementation strategies, and empirical effectiveness of [[Metacognitive Checkpoint System]]—structured intervention frameworks designed to detect and mitigate [[Cognitive Biases]] during active learning and decision-making processes. Building upon foundational research by Daniel Kahneman, Amos Tversky, Gary Klein, and Julia Galef, we analyze how systematic "pause points" in cognitive processing can interrupt the automatic activation of heuristic-driven errors that emerge from [[System 1 and System 2|dual-process cognition]].
+> This comprehensive examination explores the architectural principles, implementation strategies, and empirical effectiveness of [[Metacognitive Checkpoint System]]—structured intervention frameworks designed to detect and mitigate [[Cognitive Biases]] during active learning and decision-making processes. Building upon foundational research by Daniel Kahneman, Amos Tversky, Gary Klein, and Julia Galef, we analyze how systematic "pause points" in cognitive processing can interrupt the automatic activation of heuristic-driven errors that emerge from [[System-1-and-System-2|dual-process cognition]].
 > 
 > The article examines four primary checkpoint mechanisms: [[Pre-Mortem Analysis]], which leverages [[Prospective Hindsight]] to identify failure modes before project initiation; [[Epistemic Spot Check|epistemic spot checks]], which establish accountability protocols for belief justification; [[Decision Journal|decision journaling]], which creates feedback loops for calibrating [[Metacognitive-Calibration|metacognitive calibration]]; and algorithmic reasoning aids, which provide structured frameworks to counteract systematic cognitive distortions. We synthesize evidence from cognitive psychology, behavioral economics, and organizational decision science to assess the conditions under which these interventions demonstrate measurable effectiveness, their limitations in complex real-world environments, and the psychological mechanisms that explain both their successes and failures.
 > 
@@ -371,7 +371,7 @@ extraction_summary:
 > - *What was the most* **surprising or counter-intuitive** *concept presented?* **Why**?
 >     - The most surprising finding is that simply *knowing about* cognitive biases doesn't help you avoid them—even experts who teach about biases still exhibit them in their own reasoning. This is deeply counterintuitive because we assume awareness equals control. But the reason is fundamental: biases emerge from *automatic* cognitive processes that operate before conscious awareness kicks in. Knowing about anchoring bias doesn't prevent the initial anchor from affecting you; it just means you're *aware it might be happening* (but still lack the ability to correct for it reliably without external help). This explains why checkpoint systems focus on external procedures rather than internal training—you can't willpower your way past automatic processing, but you *can* design decision environments that interrupt those automatic processes at key moments.
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - This connects strongly to [[Constructivist Learning Theory]] and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] frameworks in educational psychology, which emphasize that effective learning requires metacognitive monitoring—knowing what you know and don't know. The checkpoint systems literature provides the decision-making analog: effective deciding requires metacognitive oversight of judgment processes. However, this article challenges the constructivist emphasis on *internal* self-regulation by demonstrating that external scaffolding (mandatory procedures, documentation, social accountability) typically works better than voluntary self-monitoring. This parallels the shift in behavioral economics from assuming people can be taught to make better choices to recognizing that *choice architecture* (designing better decision environments) is more effective than education alone. Both fields converge on the insight that improving human performance is fundamentally about environmental design rather than individual capacity enhancement.
+>     - This connects strongly to [[Constructivist Learning Theory]] and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] frameworks in educational psychology, which emphasize that effective learning requires metacognitive monitoring—knowing what you know and don't know. The checkpoint systems literature provides the decision-making analog: effective deciding requires metacognitive oversight of judgment processes. However, this article challenges the constructivist emphasis on *internal* self-regulation by demonstrating that external scaffolding (mandatory procedures, documentation, social accountability) typically works better than voluntary self-monitoring. This parallels the shift in behavioral economics from assuming people can be taught to make better choices to recognizing that *choice architecture* (designing better decision environments) is more effective than education alone. Both fields converge on the insight that improving human performance is fundamentally about environmental design rather than individual capacity enhancement.
 
 #### 32. [QUOTE] Untitled *(Line 715)*
 
@@ -419,7 +419,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[AI-Human Decision Partnership Models]]
 - [[After-Action Review]]
 - [[Algorithmic Reasoning Aid]]
@@ -475,7 +475,7 @@ extraction_summary:
 - [[Representativeness Heuristic]]
 - [[Roam Research]]
 - [[Scout Mindset]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Social Epistemology and Collective Intelligence]]
 - [[Soldier Mindset]]
 - [[Superforecasting]]
@@ -562,7 +562,7 @@ extraction_summary:
 | 71 | [[Post-Mortem Analysis]] | — | — | 5.3 🎯 FORECASTING AND GEOPOLITICAL PR... | 427 |
 | 72 | [[After-Action Review]] | — | — | 5.4 🏢 ORGANIZATIONAL LEARNING AND DEC... | 443 |
 | 73 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 6.1 🧠 RECONCEPTUALIZING HUMAN RATIONA... | 477 |
-| 74 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 6.3 📚 IMPLICATIONS FOR LEARNING AND K... | 530 |
+| 74 | [[Obsidian]] | — | — | 6.3 📚 IMPLICATIONS FOR LEARNING AND K... | 530 |
 | 75 | [[Roam Research]] | — | — | 6.3 📚 IMPLICATIONS FOR LEARNING AND K... | 530 |
 | 76 | [[Cognitive Reflection Test]] | — | — | 7.2 🧬 INDIVIDUAL DIFFERENCES AND PERS... | 598 |
 | 77 | [[Constructivist Learning Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 713 |
@@ -664,7 +664,7 @@ Let me conduct comprehensive web research first.
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[AI-Human Decision Partnership Models]]
 - [[After-Action Review]]
 - [[Algorithmic Reasoning Aid]]
@@ -720,7 +720,7 @@ Let me conduct comprehensive web research first.
 - [[Representativeness Heuristic]]
 - [[Roam Research]]
 - [[Scout Mindset]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Social Epistemology and Collective Intelligence]]
 - [[Soldier Mindset]]
 - [[Superforecasting]]

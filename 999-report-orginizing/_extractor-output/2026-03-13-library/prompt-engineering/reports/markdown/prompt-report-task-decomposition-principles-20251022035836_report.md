@@ -350,7 +350,7 @@ extraction_summary:
 #### 22. [CONNECTION-IDEAS] Untitled *(Line 363)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of **[[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] (PKM)** and systems like [[Zettelkasten]].
+> The principles discussed here strongly connect to the field of **[[Personal Knowledge Management]] (PKM)** and systems like [[Zettelkasten]].
 > 
 >   - A common failure in PKM is creating "blob" notes—large, undifferentiated walls of text on a topic.
 >   - A "Zettelkasten" note, by contrast, is "atomic"—it's about *one idea, one concept.*
@@ -474,7 +474,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Chain of Thought (CoT)]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
@@ -489,7 +489,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Project Management]] | — | — | 4.2 🌳 Hierarchical Decomposition (The... | 258 |
-| 2 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
+| 2 | [[Personal Knowledge Management]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 3 | [[Zettelkasten]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 4 | [[Stoic Logos]] | — | — | 6\. 🌍 Broader Implications and Signif... | 370 |
 | 5 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 371 |
@@ -564,7 +564,7 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Personal Knowledge Management]]
 - [[Chain of Thought (CoT)]]
 - [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]

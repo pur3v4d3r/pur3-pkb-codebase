@@ -443,7 +443,7 @@ if (bridges.length > 0) {
 - [[Working Memory]] ↔ [[Cognitive Architecture]] (structural foundations)
 - [[Cognitive Load Theory]] ↔ [[Attention]] (capacity constraints)
 - [[Long-Term Memory]] ↔ [[Distributed Cognition]] (extended memory systems)
-- [[Retrieval Practice]] ↔ [[Metacognition]] (monitoring accuracy)
+- [[Retrieval-Practice]] ↔ [[Metacognition]] (monitoring accuracy)
 
 **Learning & Memory ↔ Neuroscience**
 - [[Long-Term Memory]] ↔ [[Neuroplasticity]] (synaptic consolidation)
@@ -459,7 +459,7 @@ if (bridges.length > 0) {
 
 **Learning & Memory ↔ Philosophy**
 - [[Learning Theory]] ↔ [[Epistemology]] (nature of knowledge)
-- [[Transfer of Learning]] ↔ [[Pragmatism]] (application to novel contexts)
+- [[Transfer-of-Learning]] ↔ [[Pragmatism]] (application to novel contexts)
 - [[Schema Theory]] ↔ [[Epistemic Cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**
@@ -649,23 +649,23 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
 
 ## 🔗 Related Topics for PKB Expansion
 
-1. **[[Retrieval-Induced Forgetting]]**
+1. **[[Retrieval-Induced-Forgetting]]**
    - *Connection*: Complement to [[Spaced Repetition]]—explains competitive dynamics
    - *Depth Potential*: Paradoxical effect where retrieving some memories impairs related memories
    - *Knowledge Graph Role*: Links memory mechanisms to strategic study techniques
 
-2. **[[Schema Automation]]**
+2. **[[Schema-Automation]]**
    - *Connection*: Bridges [[Cognitive Load Theory]] and [[Deliberate Practice]]
    - *Depth Potential*: How schemas move from controlled to automatic processing through practice
    - *Knowledge Graph Role*: Explains expertise development and working memory capacity expansion
 
-3. **[[Generation Effect]]**
+3. **[[Generation-Effect]]**
    - *Connection*: Core mechanism underlying [[Self-Explanation]] and active learning
    - *Depth Potential*: Self-generated information remembered better than passively received
    - *Knowledge Graph Role*: Foundational principle for instructional design choices
 
-4. **[[Encoding Specificity Principle]]**
-   - *Connection*: Theoretical foundation for context effects in [[Retrieval Practice]]
+4. **[[Encoding-Specificity-Principle]]**
+   - *Connection*: Theoretical foundation for context effects in [[Retrieval-Practice]]
    - *Depth Potential*: Memory performance depends on match between encoding and retrieval contexts
    - *Knowledge Graph Role*: Links memory theory to practical study environment design
 

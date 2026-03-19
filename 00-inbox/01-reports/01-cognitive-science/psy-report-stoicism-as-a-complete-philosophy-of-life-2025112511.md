@@ -104,12 +104,12 @@ I need to search for:
 
 **Wiki-Link Opportunities:**
 - [[Stoicism]], [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Zeno of Citium]]
-- [[Cognitive-Behavioral Therapy]], [[Metacognition]], [[Self-Directed Learning]]
-- [[Premeditatio Malorum]], [[Dichotomy of Control]], [[Negative Visualization]]
+- [[Cognitive-Behavioral Therapy]], [[Metacognition]], [[Self-Directed-Learning]]
+- [[Premeditatio-Malorum]], [[Dichotomy of Control]], [[Negative Visualization]]
 - [[Eudaimonia]], [[Virtue Ethics]], [[Apatheia]], [[Ataraxia]]
 - [[Meditations]], [[Enchiridion]], [[Letters from a Stoic]]
 - [[Philosophy of Mind]], [[Ancient Greek Philosophy]], [[Hellenistic Philosophy]]
-- [[Personal Knowledge Management]], [[Cognitive Reappraisal]], [[Mental Models]]
+- [[Personal Knowledge Management]], [[Cognitive Reappraisal]], [[Mental-Models]]
 
 **Callout Strategy:**
 - [!abstract] for opening summary
@@ -270,7 +270,7 @@ The morning meditation typically includes several elements:
 
 ### Premeditatio Malorum: The Premeditation of Adversity
 
-One of the most distinctive and powerful Stoic practices is **[[Premeditatio Malorum]]** (Latin: "premeditation of evils") or **negative visualization**—the deliberate practice of imagining potential misfortunes, setbacks, or losses before they occur. This practice often strikes modern readers as morbid or pessimistic, but the Stoics understood something profound about human psychology: **the shock of unexpected adversity is often more devastating than the adversity itself**. By mentally rehearsing difficulties in advance, we reduce their emotional impact when they occur, cultivate gratitude for what we currently have, and prepare rational response strategies.
+One of the most distinctive and powerful Stoic practices is **[[Premeditatio-Malorum]]** (Latin: "premeditation of evils") or **negative visualization**—the deliberate practice of imagining potential misfortunes, setbacks, or losses before they occur. This practice often strikes modern readers as morbid or pessimistic, but the Stoics understood something profound about human psychology: **the shock of unexpected adversity is often more devastating than the adversity itself**. By mentally rehearsing difficulties in advance, we reduce their emotional impact when they occur, cultivate gratitude for what we currently have, and prepare rational response strategies.
 
 The method originated with the Cyreanic philosophers and was later adopted by Stoic philosophers. The technique was made popular with publications of Seneca the Younger's *Epistulae Morales ad Lucilium*. Seneca describes the practice vividly, recommending that we periodically **live as though we had already lost** the things and people we value, experiencing the deprivation while we actually still possess them.
 
@@ -375,7 +375,7 @@ Interestingly, while early CBT emphasized **changing** thoughts, more recent "th
 
 ## 🌱 Implementing Stoicism in Your Life: A Systematic Approach
 
-For someone like yourself, committed to building an [[Antifragility|antifragile]] cognitive system and becoming an expert [[Self-Directed Learning|self-directed learner]], Stoicism offers a thoroughly validated, time-tested methodology for developing the psychological foundations that enable sustained growth under challenging conditions. Here's how to systematically integrate Stoic practice into your life and PKB:
+For someone like yourself, committed to building an [[Antifragility|antifragile]] cognitive system and becoming an expert [[Self-Directed-Learning|self-directed learner]], Stoicism offers a thoroughly validated, time-tested methodology for developing the psychological foundations that enable sustained growth under challenging conditions. Here's how to systematically integrate Stoic practice into your life and PKB:
 
 ### Phase 1: Foundational Understanding (Current Phase)
 
@@ -383,7 +383,7 @@ For someone like yourself, committed to building an [[Antifragility|antifragile]
 
 **Identify Personal Relevance**: As you study, note which Stoic insights resonate most strongly with your current challenges. Are you struggling with anxiety about future outcomes (→ dichotomy of control, premeditatio malorum)? Frustrated by others' behavior (→ cosmopolitanism, justice, acceptance of what's not in your control)? Difficulty maintaining focus (→ prosochē)? Let personal challenges guide which practices you prioritize initially.
 
-**Create Your Stoic Knowledge Graph**: In your Obsidian vault, create atomic notes for key concepts ([[Dichotomy of Control]], [[Premeditatio Malorum]], [[Prosochē]], [[Virtue Ethics]], [[Eudaimonia]], etc.) and link them extensively to create a rich web showing how Stoic ideas interconnect. This external knowledge structure will support your internal conceptual development.
+**Create Your Stoic Knowledge Graph**: In your Obsidian vault, create atomic notes for key concepts ([[Dichotomy of Control]], [[Premeditatio-Malorum]], [[Prosochē]], [[Virtue Ethics]], [[Eudaimonia]], etc.) and link them extensively to create a rich web showing how Stoic ideas interconnect. This external knowledge structure will support your internal conceptual development.
 
 ### Phase 2: Beginning Practice (Weeks 1-4)
 

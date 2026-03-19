@@ -710,7 +710,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[${f.basename}]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_obsidian-web-clipper 1/templates]]
+- [[templates]]
 - [[<% (await tp.file.create_new("Content", "LinkedNote")).basename %>]]
 - [[<% selectedFile.basename %>]]
 - [[<% tp.date.tomorrow("YYYY-MM-DD") %>]]
@@ -809,7 +809,7 @@ extraction_summary:
 | 12 | [[Wiki-Links]] | — | — | Document Start | 48 |
 | 13 | [[Templater]] | — | — | What is Templater? | 69 |
 | 14 | [[obsidian]] | — | — | What is Templater? | 69 |
-| 15 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_obsidian-web-clipper 1/templates]] | — | — | What is Templater? | 69 |
+| 15 | [[templates]] | — | — | What is Templater? | 69 |
 | 16 | [[Templating Engine]] | — | — | What is Templater? | 69 |
 | 17 | [[rusty_engine]] | — | — | What is Templater? | 69 |
 | 18 | [[JavaScript]] | — | — | What is Templater? | 72 |
@@ -2750,7 +2750,7 @@ Let me execute targeted searches:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[${f.basename}]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_obsidian-web-clipper 1/templates]]
+- [[templates]]
 - [[<% (await tp.file.create_new("Content", "LinkedNote")).basename %>]]
 - [[<% selectedFile.basename %>]]
 - [[<% tp.date.tomorrow("YYYY-MM-DD") %>]]

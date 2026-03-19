@@ -112,7 +112,7 @@ importance: high
 > Research by [[Assor & Roth (2002)]] on conditional regard — parental approval contingent on performance — provides a mechanistic account of why introjection is particularly damaging. When approval is contingent on behavior, children internalize the approving/disapproving parent as an internal critic. Unlike external regulation, which is clearly *outside* the self and therefore leaves the self intact, introjection involves a fracture *within* the self — the person experiences self-criticism,…
 
 > [!analytical-insight] Key Insight
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 > [!analytical-insight] Key Insight
 > The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's…
@@ -135,8 +135,8 @@ importance: high
 
 **Cross-report connections:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Psychological-Safety|Psychological Safety]]

@@ -27,7 +27,7 @@ link-up: "[[moc-agentic-instruction-sets-2025117044009]]"
 link-related:
   - "[[reference-comprehensive-claude-prompt-component-librarian-2025111004]]"
   - "[[claude-code-pkb-system-instruction-v1.0.0]]"
-  - "[[02-projects/_spes-sequential-prompt-engineering-system/02-component-library/atomic/instructions/]]"
+  - "[[.md]]"
 
 # === SPES METADATA (Added) ===
 component-type: atomic

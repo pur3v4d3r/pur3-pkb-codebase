@@ -177,7 +177,7 @@ extraction_summary:
 #### 2. [PRE-READ-QUESTIONS] Untitled *(Line 33)*
 
 > [!pre-read-questions] Untitled
-> - What do I *think* I know about this topic? I *think* [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) is a set of "study skills" like time management, note-taking, and planning, and that good students are just better at these general skills.
+> - What do I *think* I know about this topic? I *think* [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) is a set of "study skills" like time management, note-taking, and planning, and that good students are just better at these general skills.
 >   - What are the most fundamental questions this topic addresses? It addresses *why* some learners succeed and others fail, even with similar intelligence. It asks: What *is* the mechanism of successful, independent learning?
 >   - If I had to discover this knowledge myself, where would I start? I would observe a novice and an expert trying to learn the same new thing and note every difference in their behavior, their internal monologue, and their success.
 >   - What can I prove versus what am I accepting on authority? I am accepting on authority that "planning" is a single skill, that "monitoring" is a general-purpose tool, and that these can be taught in a workshop and transferred to any subject. I can *prove* very little about this; it's an inherited assumption.
@@ -185,7 +185,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 42)*
 
 > [!abstract] Untitled
-> The conventional, widely accepted understanding of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) presents it as a set of domain-general, transferable competencies. In this model, skills such as [[goal setting]], [[planning]], [[time management]], and [[Metacognition]] are conceptualized as portable tools in a student's cognitive toolbox, ready to be deployed on any task, whether it be writing a history essay, solving a physics problem, or learning a new language. Educational institutions invest heavily in this paradigm, offering "study skills" workshops and "learning to learn" courses, all predicated on the assumption that these regulatory skills are distinct from, and can be applied to, the content being learned.
+> The conventional, widely accepted understanding of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) presents it as a set of domain-general, transferable competencies. In this model, skills such as [[goal setting]], [[planning]], [[time management]], and [[Metacognition]] are conceptualized as portable tools in a student's cognitive toolbox, ready to be deployed on any task, whether it be writing a history essay, solving a physics problem, or learning a new language. Educational institutions invest heavily in this paradigm, offering "study skills" workshops and "learning to learn" courses, all predicated on the assumption that these regulatory skills are distinct from, and can be applied to, the content being learned.
 > A first-principles approach, however, finds this assumption deeply unsatisfying. It triggers a need to deconstruct this "artifact" of the 'study skill' and ask what fundamental truths are being ignored. This approach is valuable here because the conventional model struggles to explain persistent real-world phenomena: why do "study skills" courses show notoriously poor transfer to actual disciplinary performance? Why does a student who excels at self-regulation in one domain (like a musician practicing) often appear to be a complete novice at regulating their learning in another (like statistics)? These discrepancies suggest the conventional model is built on unexamined assumptions, mistaking correlation for causation.
 > This analysis will systematically demolish the "SRL-as-general-skill" framework. We will begin by identifying the inherited assumptions and questioning their necessity. We will then dig down to the atomic axioms of human cognition—the unassailable facts of our [[Cognitive-Architecture|Cognitive Architecture]], such as the constraints of [[Working-Memory|Working Memory]] and the primacy of [[Long-Term-Memory|Long-Term Memory]]. From this bedrock, we will reconstruct a new understanding of self-regulation, not as a general-purpose skill we *apply*, but as a domain-specific, emergent *property* of deep, well-organized knowledge. This journey reveals that you do not become a good learner by learning "study skills"; you become a good learner by becoming a *knower* in a specific domain, and self-regulation is the shadow cast by that knowledge.
 
@@ -193,7 +193,7 @@ extraction_summary:
 
 > [!description] Untitled
 > **How This Topic Is Typically Taught:**
-> [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] is almost universally presented in education as a meta-skill, a "how to learn" competency that stands apart from the "what" of learning. The standard academic presentation, particularly in educational psychology textbooks and teacher training programs, models it as a cyclical, three-phase process: **forethought** (planning, goal-setting), **performance** (monitoring, strategy use), and **self-reflection** (evaluation, attunement). Each phase is populated with a list of strategies—like creating a schedule, using mnemonics, or self-testing—which are presented as discrete, teachable, and universally applicable.
+> [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] is almost universally presented in education as a meta-skill, a "how to learn" competency that stands apart from the "what" of learning. The standard academic presentation, particularly in educational psychology textbooks and teacher training programs, models it as a cyclical, three-phase process: **forethought** (planning, goal-setting), **performance** (monitoring, strategy use), and **self-reflection** (evaluation, attunement). Each phase is populated with a list of strategies—like creating a schedule, using mnemonics, or self-testing—which are presented as discrete, teachable, and universally applicable.
 > 
 > This conventional wisdom manifests in the ubiquitous "Learning Center" or "Academic Success Hub" found on university campuses. These centers operate on the explicit assumption that SRL is a general capability. They offer workshops on "Time Management," "Effective Note-Taking," or "Test-Taking Strategies," and these workshops are open to students from all majors—physics, philosophy, art history, and nursing. The implicit, and often explicit, promise is that the *same* planning strategy taught in this 30-minute session will be equally effective for a student planning a chemistry lab report as it is for a student planning a literary analysis. The explanation given is that "good students" possess these general skills, while "struggling students" lack them, and the solution is to simply remediate this "skill deficit" in isolation from the academic content itself. The artifact we are deconstructing is this very workshop, this textbook chapter, this entire "study skills" industry, all built on the idea of learning strategies as general-purpose cognitive tools.
 
@@ -222,7 +222,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Standard Definitions:**
 > 
->   * **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]:** This is conventionally defined as the cyclical, self-directed process of planning, monitoring, and evaluating one's own learning processes, independent of the domain of learning.
+>   * **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]:** This is conventionally defined as the cyclical, self-directed process of planning, monitoring, and evaluating one's own learning processes, independent of the domain of learning.
 >   * **[[Metacognition]]:** This is defined as "thinking about thinking," a general-purpose monitoring function that oversees and controls other cognitive processes, again, assumed to be domain-general.
 >   * **[[Learning Strategies]]:** This term refers to a collection of discrete, teachable "tools" or "techniques" like using mnemonics, concept mapping, or self-testing, which are believed to enhance learning in any subject.
 
@@ -382,7 +382,7 @@ extraction_summary:
 
 > [!attention] Untitled
 > **Critical Note on Completeness:**
-> We have three axioms. (I've collapsed "Learning is Change in LTM" into Axiom 2, as it's a corollary). Are they sufficient? Yes. They define the *problem* (Axiom 1: WM Limit), the *solution* (Axiom 2: LTM Primacy), and the *mechanism* (Axiom 3: Schema). From these three axioms alone, we should be able to derive the *entire* phenomenon of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]. We need no more. Adding "SRL is a skill" would be redundant and contradictory.
+> We have three axioms. (I've collapsed "Learning is Change in LTM" into Axiom 2, as it's a corollary). Are they sufficient? Yes. They define the *problem* (Axiom 1: WM Limit), the *solution* (Axiom 2: LTM Primacy), and the *mechanism* (Axiom 3: Schema). From these three axioms alone, we should be able to derive the *entire* phenomenon of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]. We need no more. Adding "SRL is a skill" would be redundant and contradictory.
 
 #### 25. [METHODOLOGY-AND-SOURCES] Untitled *(Line 266)*
 
@@ -511,7 +511,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Emergent Concepts:**
 > 
->   * **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]:** We can now re-define this term from first principles. It is **"the set of emergent, domain-specific behaviors (e.g., simulation, comparison) that become possible when an individual's schema-driven automation (T1.2) frees sufficient working memory capacity (Axiom 1) to allow for the manipulation and evaluation of the schemas themselves (T2.1)."**
+>   * **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]:** We can now re-define this term from first principles. It is **"the set of emergent, domain-specific behaviors (e.g., simulation, comparison) that become possible when an individual's schema-driven automation (T1.2) frees sufficient working memory capacity (Axiom 1) to allow for the manipulation and evaluation of the schemas themselves (T2.1)."**
 >   * **[[Adaptive Expertise]]:** This is not a primitive term but a shorthand for: **"a state of high-schema-automation (Axiom 3, T1.2) that allows an individual to not only *fluently apply* existing schemas but also to use their freed WM (T2.1) to *adapt, combine, or create new schemas* to solve novel problems."** This is the ultimate goal, and it is inseparable from self-regulation.
 
 #### 39. [ANALOGY] Untitled *(Line 401)*
@@ -567,7 +567,7 @@ extraction_summary:
 
 > [!outcome] Untitled
 > **The Full Framework:**
-> Our reconstruction shows that the entire conventional understanding of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] was built on sand. It mistook superficial behaviors (labels like "planning") for fundamental cognitive skills.
+> Our reconstruction shows that the entire conventional understanding of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] was built on sand. It mistook superficial behaviors (labels like "planning") for fundamental cognitive skills.
 > 
 > Our new framework, built on the bedrock axioms of [[Cognitive-Architecture|Cognitive Architecture]], proves that:
 > 
@@ -844,7 +844,7 @@ extraction_summary:
 
 > [!feynman-technique] Untitled
 > **The Ultimate Test:**
-> Can I explain [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] to someone who knows nothing about it, using only first principles reasoning?
+> Can I explain [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] to someone who knows nothing about it, using only first principles reasoning?
 > 
 > Yes. I would say: "Learning is hard, right? You feel overwhelmed. That's your **working memory**, a tiny mental scratchpad (Axiom 1). But you have a huge mental library, your **long-term memory** (Axiom 2). The 'trick' to getting smart isn't a 'skill,' it's *building* knowledge in your library in a way that *bypasses* the tiny scratchpad. This is called a **schema** (Axiom 3). A novice (no schemas) has their *entire scratchpad* filled with basic facts (T1.1), so they have no "brain space" left to "plan" or "monitor." An expert has *schemas*, so their scratchpad is *empty* (T1.2). What do they *do* with that free space? They *use it* to plan and check their work (T2.1). Therefore, 'self-regulation' isn't a *skill* you learn; it's the *result* of having knowledge. To get better at 'regulating,' you must get *better at the subject*."
 > 
@@ -872,7 +872,7 @@ extraction_summary:
 #### 77. [SUMMARY] Untitled *(Line 805)*
 
 > [!summary] Untitled
-> We began this analysis by examining a common artifact: the "study skills workshop," built on the "received wisdom" that [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] is a set of general-purpose, transferable skills. We accepted this premise on authority, yet we were confronted by its persistent failures—its inability to transfer, its failure to explain the gap between novice and expert. The conventional model was a house built on sand, mistaking the *symptoms* of expertise for the *cause*.
+> We began this analysis by examining a common artifact: the "study skills workshop," built on the "received wisdom" that [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] is a set of general-purpose, transferable skills. We accepted this premise on authority, yet we were confronted by its persistent failures—its inability to transfer, its failure to explain the gap between novice and expert. The conventional model was a house built on sand, mistaking the *symptoms* of expertise for the *cause*.
 > 
 > Through systematic deconstruction, we demolished that house. We threw out the flimsy, assumed "skills" of "planning" and "monitoring" and dug down to the non-negotiable bedrock of human cognition: the **[[Working-Memory|Working Memory]] Constraint**, the **[[Long-Term-Memory|Long-Term Memory]] Primacy**, and the **[[Schemas]] Mechanism**. These three axioms formed the indestructible foundation for our reconstruction.
 > 
@@ -952,7 +952,7 @@ extraction_summary:
 - [[Problem Solving]]
 - [[Schema|Schema (Psychology)]]
 - [[Schemas]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]
 - [[Working-Memory|Working Memory]]
@@ -1195,7 +1195,7 @@ graph TB
 - [[Problem Solving]]
 - [[Schema|Schema (Psychology)]]
 - [[Schemas]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[The Fallacy of General Skills]]
 - [[The Nature of Proof and Derivation]]
 - [[Working-Memory|Working Memory]]

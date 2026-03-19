@@ -267,7 +267,7 @@ extraction_summary:
 > 
 > - **[[Extended Thinking Architecture]]** — The computational implementation of metacognitive scaffolding in AI systems mirrors, in fascinating ways, the psychological literature on human metacognition. The `<thinking>` tag architecture in Claude creates a structural analog to the meta-level/object-level distinction that is foundational in Flavell's model. Where human metacognition involves second-order awareness of one's cognitive processes, extended thinking creates a distinct processing context for reasoning *about* reasoning before generating outputs. The pedagogical principle of making thinking visible has a direct computational parallel in the architectural decision to externalize internal deliberation.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
 > 
 > - **[[Reflective-Practice|Reflective Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
 > 
@@ -440,7 +440,7 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Transfer of Learning Across Domains]]
@@ -451,7 +451,7 @@ extraction_summary:
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 
 ### All Occurrences
 
@@ -551,7 +551,7 @@ extraction_summary:
 - [[Reflective-Practice|Reflective Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Transfer of Learning Across Domains]]
@@ -562,7 +562,7 @@ extraction_summary:
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 
 ### Frontmatter Relationships
 
@@ -575,7 +575,7 @@ extraction_summary:
 #### Related
 
 - [[Executive Function]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Bloom's Taxonomy]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Socratic-Method|Socratic Method]]
@@ -595,7 +595,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]

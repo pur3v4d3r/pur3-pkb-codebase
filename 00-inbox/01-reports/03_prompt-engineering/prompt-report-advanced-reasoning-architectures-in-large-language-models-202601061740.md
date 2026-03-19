@@ -168,7 +168,7 @@ These tags don't merely organize output; they fundamentally shape the computatio
 
 ### Empirical Evidence for Extended Thinking Efficacy
 
-Recent empirical research demonstrates substantial performance improvements from extended thinking architectures. [**Wei et al. (2022)]]'s seminal work on [[Chain-of-Thought Prompting]] established baseline evidence: prompting models to "think step by step" before answering improved accuracy on [[GSM8K]] mathematical reasoning tasks from 17.7% to 40.7%—a 130% relative improvement. Subsequent research has refined and extended these findings:
+Recent empirical research demonstrates substantial performance improvements from extended thinking architectures. [**Wei et al. (2022)]]'s seminal work on [[Chain-of-Thought-Prompting]] established baseline evidence: prompting models to "think step by step" before answering improved accuracy on [[GSM8K]] mathematical reasoning tasks from 17.7% to 40.7%—a 130% relative improvement. Subsequent research has refined and extended these findings:
 
 - **[[Tree of Thoughts]]** (Yao et al., 2023): Systematic exploration with backtracking increased [[Game of 24]] success rates from 7.3% to 74%—a **10-fold improvement** through structured reasoning.
 

@@ -29,7 +29,7 @@ confidence: speculative
 next-review: 2025-12-07
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-30|Daily-Note]]"
 ---
@@ -185,7 +185,7 @@ I'll organize this around:
 - Synthesis showing why the distinction matters
 
 **Wiki-Link Opportunities:**
-[[Critical Thinking]], [[General Intelligence]], [[Domain Expertise]], [[Metacognition]], [[Cognitive Biases]], [[Dual Process Theory]], [[Fluid Intelligence]], [[Crystallized Intelligence]], [[Epistemic Cognition]], [[Reflective Thinking]], [[Executive Function]], [[Transfer of Learning]], [[Cognitive Flexibility]]
+[[Critical Thinking]], [[General Intelligence]], [[Domain Expertise]], [[Metacognition]], [[Cognitive Biases]], [[Dual Process Theory]], [[Fluid Intelligence]], [[Crystallized Intelligence]], [[Epistemic Cognition]], [[Reflective Thinking]], [[Executive Function]], [[Transfer-of-Learning]], [[Cognitive Flexibility]]
 
 **Callout Strategy:**
 - [!abstract] for overview
@@ -326,7 +326,7 @@ On the other hand, general critical thinking dispositions and skills enhance the
 
 Stanovich and colleagues have identified a particularly pernicious interaction between knowledge and critical thinking: the phenomenon of **contaminated mindware**. This refers to knowledge structures—beliefs, mental models, or heuristics—that actively impede rational thinking. Examples include conspiracy theories, pseudoscientific beliefs, unwarranted stereotypes, and fallacious reasoning patterns that become deeply entrenched.
 
-Research demonstrates that deficiencies in critical thinking components, particularly contaminated mindware, contribute to unsubstantiated belief endorsement in ways that go beyond what intelligence tests measure. Critically, intelligence provides no protection against contaminated mindware; highly intelligent individuals may construct elaborate rationalizations supporting false beliefs, use their cognitive resources to defend rather than evaluate their positions, and exhibit what Stanovich calls the "[[Myside Bias]]"—the tendency to evaluate evidence in ways favoring one's prior beliefs.
+Research demonstrates that deficiencies in critical thinking components, particularly contaminated mindware, contribute to unsubstantiated belief endorsement in ways that go beyond what intelligence tests measure. Critically, intelligence provides no protection against contaminated mindware; highly intelligent individuals may construct elaborate rationalizations supporting false beliefs, use their cognitive resources to defend rather than evaluate their positions, and exhibit what Stanovich calls the "[[Myside-Bias]]"—the tendency to evaluate evidence in ways favoring one's prior beliefs.
 
 This finding has profound implications: education must attend not only to developing reasoning skills but also to evaluating the *quality* of knowledge being transmitted. Teaching critical thinking requires both positive instruction in rational thinking methods and inoculation against cognitive viruses that undermine rationality.
 

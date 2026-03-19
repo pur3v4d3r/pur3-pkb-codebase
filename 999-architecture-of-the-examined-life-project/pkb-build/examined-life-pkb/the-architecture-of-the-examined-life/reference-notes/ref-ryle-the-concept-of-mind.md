@@ -36,7 +36,7 @@ For the examined life, this means examination can't just be theoretical reflecti
 
 [[report-05-the-virtuous-reasoner|Report 05]] uses Ryle's knowing-how/knowing-that distinction to explain why intellectual virtues must be *practiced*, not just understood. You can know-that open-mindedness is important (theoretical knowledge) without having developed the know-how to actually notice your confirmation bias in real-time and override it.
 
-Ryle's broader argument that intelligence is **exhibited in performance**, not hidden in consciousness, reframes intellectual virtue: virtues aren't internal moral qualities but patterns of intelligent action. [[Intellectual courage]] isn't a feeling of bravery—it's the ability to pursue truth even when socially costly.
+Ryle's broader argument that intelligence is **exhibited in performance**, not hidden in consciousness, reframes intellectual virtue: virtues aren't internal moral qualities but patterns of intelligent action. [[Intellectual-Courage]] isn't a feeling of bravery—it's the ability to pursue truth even when socially costly.
 
 **Key concept from R05:** Virtue epistemology requires training practical abilities, not just adopting correct beliefs about good thinking. Ryle's critique of "intellectualism" (the assumption that all intelligent action requires prior theoretical contemplation) explains why virtue cultivation requires practice, not just study.
 

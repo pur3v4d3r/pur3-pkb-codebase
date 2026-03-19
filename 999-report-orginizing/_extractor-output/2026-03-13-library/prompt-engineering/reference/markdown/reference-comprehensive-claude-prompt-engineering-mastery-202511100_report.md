@@ -239,7 +239,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 52)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+> - **Key-Term**:: [[CLAUDE]]
 > - **Definition**:: Claude is a family of large language models (LLMs) developed by [[Anthropic]], designed with an emphasis on [[Constitutional AI]], safety, and helpfulness. Claude models are trained using [[Reinforcement Learning from Human Feedback]] (RLHF) with a constitution of ethical principles, making them particularly adept at nuanced reasoning, following complex instructions, and maintaining contextual awareness over extended conversations.
 
 #### 5. [KEY-CLAIM] Untitled *(Line 66)*
@@ -490,7 +490,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[CLAUDE]]
 - [[AI capabilities]]
 - [[Advanced Prompting Techniques]]
 - [[Advanced XML Architectures for Complex Workflows]]
@@ -556,7 +556,7 @@ extraction_summary:
 | 3 | [[Claude Prompt Engineering]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 4 | [[Claude AI Reference]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 21 |
 | 5 | [[wiki-links]] | — | — | 🤖 Claude AI: Comprehensive Reference ... | 35 |
-| 6 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 53 |
+| 6 | [[CLAUDE]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 53 |
 | 7 | [[Anthropic]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 8 | [[Constitutional AI]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
 | 9 | [[Reinforcement Learning from Human Feedback]] | — | — | 🧬 Claude Fundamentals: Architecture &... | 54 |
@@ -2873,7 +2873,7 @@ graph TD
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[CLAUDE]]
 - [[AI capabilities]]
 - [[Advanced Prompting Techniques]]
 - [[Advanced XML Architectures for Complex Workflows]]

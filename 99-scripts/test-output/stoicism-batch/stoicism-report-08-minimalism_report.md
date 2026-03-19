@@ -436,7 +436,7 @@ extraction_summary:
 - [[Discipline of Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Marcus Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
@@ -472,7 +472,7 @@ extraction_summary:
 | 9 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 10 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 11 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
-| 12 | [[Hedonic Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 270 |
+| 12 | [[Hedonic-Adaptation]] | — | — | Part 1: The Problem — A Culture of St... | 270 |
 | 13 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 14 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
@@ -485,7 +485,7 @@ extraction_summary:
 | 22 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
 | 23 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
 | 24 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 336 |
-| 25 | [[Hedonic Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
+| 25 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
 | 26 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
 | 27 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
 | 28 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 397 |
@@ -546,7 +546,7 @@ extraction_summary:
 - [[Discipline of Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
 - [[Marcus Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
@@ -590,7 +590,7 @@ extraction_summary:
 - [[Apatheia]]
 - [[Preferred Indifferents]]
 - [[Meditatio Paupertatis]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Voluntary Simplicity]]
 - [[Cynicism (Philosophy)]]
 - [[Epicureanism]]

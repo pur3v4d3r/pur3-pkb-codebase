@@ -506,7 +506,7 @@ SORT file.ctime DESC
 
 # 📚 Pedagogical Scaffold Mapping for Self-Development Topics
 
-This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[Atomic Notes]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[Cognitive Load]] efficiency and depth of mastery.
+This document maps 19 advanced self-development topics to the **optimal pedagogical scaffold** for their analysis. This mapping serves as an **[[Action Plan]]** for generating high-quality, structured [[Atomic Notes]] and [[Pillar Notes]] within your [[Personal Knowledge Base (PKB)]], ensuring maximum [[Cognitive-Load]] efficiency and depth of mastery.
 
 > [!tip] Scaffold-Driven Note Creation
 > Each scaffold dictates the **structure and flow** of the final note. By selecting the optimal scaffold, you ensure the note's content is organized to achieve the specific learning outcome (e.g., critical judgment, systemic understanding, foundational knowledge).

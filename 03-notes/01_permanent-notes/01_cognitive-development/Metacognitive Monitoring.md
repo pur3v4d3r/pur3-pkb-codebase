@@ -48,9 +48,9 @@ review-priority: medium
 > Research consistently demonstrates that human metacognitive calibration is systematically flawed in predictable ways.[^11] People exhibit:
 >
 > - **[[Overconfidence]]**: Particularly for difficult tasks, people's confidence exceeds their actual accuracy. When people claim to be 90% certain, they are often correct only 70-80% of the time.
-> - **[[Dunning-Kruger Effect]]**: Those with the least competence in a domain show the greatest overconfidence, lacking the metacognitive skills to recognize their own deficiencies.
-> - **[[Hard-Easy Effect]]**: People are underconfident on easy tasks and overconfident on difficult tasks, with the crossover occurring around 80% actual performance.
-> - **[[Hindsight Bias]]**: After learning an outcome, people substantially overestimate how predictable it was beforehand ("I knew it all along").
+> - **[[Dunning-Kruger-Effect]]**: Those with the least competence in a domain show the greatest overconfidence, lacking the metacognitive skills to recognize their own deficiencies.
+> - **[[Hard-Easy-Effect]]**: People are underconfident on easy tasks and overconfident on difficult tasks, with the crossover occurring around 80% actual performance.
+> - **[[Hindsight-Bias]]**: After learning an outcome, people substantially overestimate how predictable it was beforehand ("I knew it all along").
 > 
 > The calibration problem has profound implications for checkpoint design. Simply asking people "How confident are you?" does not produce reliable indicators of judgment quality. Instead, effective checkpoints must *test* rather than *query* calibration. This is why techniques like the [[Pre-Mortem Analysis]] are effective—they don't ask whether the plan will succeed (which would elicit overconfident affirmation), but rather *assume* failure and work backwards to identify causes, thereby revealing unrecognized vulnerabilities.
 

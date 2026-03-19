@@ -68,9 +68,9 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows]]
 
-**Synthesis Focus:** How do [[Schema Theory]], [[Knowledge Organization Systems]], and [[Constructivism]] converge to inform the structural design of a PKB?
+**Synthesis Focus:** How do [[Schema Theory]], [[Knowledge-Organization-Systems]], and [[Constructivism]] converge to inform the structural design of a PKB?
 **Disciplines:** Cognitive Psychology, Knowledge Management, Constructivism, Information Science
-**Original Contribution:** **[[Cognitive Alignment Principle]]** — Three-dimensional PKB design framework (relational alignment, depth alignment, construction alignment)
+**Original Contribution:** **[[Cognitive-Alignment-Principle]]** — Three-dimensional PKB design framework (relational alignment, depth alignment, construction alignment)
 **Feeds Into:** Reports 02, 03, 06, 09, 15
 **Hub Status:** Highest-connectivity node in the series — nearly every subsequent report references concepts established here
 
@@ -87,9 +87,9 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[03-constructing-understanding-pkm-framework-2026-03-13|Report 03: Constructing Understanding — How Knowledge Builds on Knowledge]]
 
-**Synthesis Focus:** How do [[Constructivism]], [[Elaboration Theory]], and [[Schema Theory]] explain knowledge construction, and what does this mean for note linking and layering?
+**Synthesis Focus:** How do [[Constructivism]], [[Elaboration-Theory]], and [[Schema Theory]] explain knowledge construction, and what does this mean for note linking and layering?
 **Disciplines:** Educational Philosophy, Cognitive Psychology, Instructional Design
-**Original Contribution:** **[[Schema-Progressive Architecture]]** — Three-layer note organization (Epitome Notes, Elaboration Notes, Accommodation Notes)
+**Original Contribution:** **[[Schema-Progressive-Architecture]]** — Three-layer note organization (Epitome Notes, Elaboration Notes, Accommodation Notes)
 **Builds On:** Reports 01, 02 | **Feeds Into:** Reports 05, 08, 11, 17
 
 ---
@@ -105,16 +105,16 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[05-motivation-architecture-pkm-framework-2026-03-13|Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
 
-**Synthesis Focus:** How do [[Self-Determination Theory]], [[Achievement Goal Theory]], and [[Mindset Theory]] explain sustained PKB engagement?
+**Synthesis Focus:** How do [[Self-Determination Theory]], [[Achievement-Goal-Theory]], and [[Mindset Theory]] explain sustained PKB engagement?
 **Disciplines:** Educational Psychology, Psychology of Learning, Stoic Philosophy, Learning Experience Design
-**Original Contribution:** **[[Fourfold Motivational Architecture]]** — SDT + AGT + Stoic philosophy + LXD integration for PKB motivation design
+**Original Contribution:** **[[Fourfold-Motivational-Architecture]]** — SDT + AGT + Stoic philosophy + LXD integration for PKB motivation design
 **Builds On:** Reports 03, 04 | **Feeds Into:** Reports 08, 10, 13, 19
 
 ---
 
 ### [[06-science-of-remembering-pkm-framework-2026-03-13|Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 
-**Synthesis Focus:** How do [[Spacing Effect]], [[Testing Effect]], [[Interleaving]], and [[Desirable Difficulties]] combine to inform PKB review systems?
+**Synthesis Focus:** How do [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], and [[Desirable-Difficulties]] combine to inform PKB review systems?
 **Disciplines:** Cognitive Psychology, Psychology of Learning, Educational Psychology, Knowledge Management
 **Original Contribution:** **[[Retrieval-Oriented Note Architecture (RONA)]]** — Notes designed as retrieval training instruments from creation
 **Builds On:** Reports 01, 02, 04 | **Feeds Into:** Reports 09, 12, 16, 20
@@ -123,7 +123,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14|Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]
 
-**Synthesis Focus:** How do [[Critical Thinking]] frameworks, [[Socratic Questioning]], and [[Epistemic Vigilance]] inform how PKB users evaluate and refine stored knowledge?
+**Synthesis Focus:** How do [[Critical Thinking]] frameworks, [[Socratic Questioning]], and [[Epistemic-Vigilance]] inform how PKB users evaluate and refine stored knowledge?
 **Disciplines:** Cognitive Psychology, Educational Philosophy, Critical Thinking, Metacognition
 **Original Contribution:** **[[External Epistemic Vigilance System (EEVS)]]** — Four-mechanism PKB architecture compensating for biological epistemic limitations
 **Builds On:** Reports 03, 04 | **Feeds Into:** Reports 11, 14, 18, 21
@@ -132,7 +132,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14|Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle]]
 
-**Synthesis Focus:** How do [[Dewey's Reflective Inquiry]], [[Kolb's Experiential Learning Cycle]], and [[Pragmatist Epistemology]] inform experience capture and transformation in a PKB?
+**Synthesis Focus:** How do [[Dewey's-Reflective-Inquiry]], [[Kolb's-Experiential-Learning-Cycle]], and [[Pragmatist-Epistemology]] inform experience capture and transformation in a PKB?
 **Disciplines:** Educational Philosophy, Educational Psychology, Metacognition, Knowledge Management
 **Original Contribution:** **[[Experience Processing Architecture (EPA)]]** — Four-stage PKB workflow (Capture → Reflect → Conceptualize → Experiment)
 **Builds On:** Reports 03, 04, 05 | **Feeds Into:** Reports 12, 15, 19, 22
@@ -143,7 +143,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[09-designing-the-learning-pkb-pkm-framework-2026-03-14|Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]
 
-**Original Contribution:** **[[Cognitive Architecture Isomorphism Principle]]** — PKB structure should mirror five properties of long-term memory
+**Original Contribution:** **[[Cognitive-Architecture-Isomorphism-Principle]]** — PKB structure should mirror five properties of long-term memory
 **Builds On:** Reports 01, 02, 04, 06 | **Feeds Into:** Report 27
 
 ---
@@ -164,42 +164,42 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14|Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]
 
-**Original Contribution:** **[[Structural Metacognition Principle]] + [[Embedded Monitoring Architecture]]** — Structural redesign to correct metacognitive monitoring failures
+**Original Contribution:** **[[Structural-Metacognition-Principle]] + [[Embedded-Monitoring-Architecture]]** — Structural redesign to correct metacognitive monitoring failures
 **Builds On:** Reports 04, 06, 08 | **Feeds Into:** Reports 18, 26
 
 ---
 
 ### [[13-emotional-regulation-resilient-learning-pkm-framework-2026-03-14|Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]
 
-**Original Contribution:** **[[Epistemic Emotional Architecture]]** — Three-layer design treating PKB as appraisal machine
+**Original Contribution:** **[[Epistemic-Emotional-Architecture]]** — Three-layer design treating PKB as appraisal machine
 **Builds On:** Reports 05, 04 | **Feeds Into:** Reports 19, 29
 
 ---
 
 ### [[14-inquiry-based-knowledge-building-pkm-framework-2026-03-14|Report 14: Inquiry-Based Knowledge Building — Socratic and Pragmatist Methods in PKM]]
 
-**Original Contribution:** **[[Inquiry-First PKB Architecture]] + [[Aporia-to-Schema Pipeline]]** — Fundamental unit is inquiry node, not assertion
+**Original Contribution:** **[[Inquiry-First PKB Architecture]] + [[Aporia-to-Schema-Pipeline]]** — Fundamental unit is inquiry node, not assertion
 **Builds On:** Reports 07, 03 | **Feeds Into:** Reports 21, 28
 
 ---
 
 ### [[15-knowledge-organization-at-scale-pkm-framework-2026-03-14|Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]
 
-**Original Contribution:** **[[Progressive Parameterized Tagging]] + [[Organization-Learning Loop]]** — Hybrid tag architecture balancing imposed and emergent structure
+**Original Contribution:** **[[Progressive-Parameterized-Tagging]] + [[Organization-Learning-Loop]]** — Hybrid tag architecture balancing imposed and emergent structure
 **Builds On:** Reports 01, 08 | **Feeds Into:** Reports 25, 27
 
 ---
 
 ### [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14|Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]
 
-**Original Contribution:** **[[Reconstruction Imperative]]** — Four-dimensional framework unifying desirable difficulties research
+**Original Contribution:** **[[Reconstruction-Imperative]]** — Four-dimensional framework unifying desirable difficulties research
 **Builds On:** Reports 02, 06 | **Feeds Into:** Reports 20, 30
 
 ---
 
 ### [[17-note-making-knowledge-construction-pkm-framework-2026-03-14|Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]
 
-**Original Contribution:** **[[Articulatory Construction Principle]] + [[Cognitive Event Model]]** — Notes as records of cognitive construction events, not information containers
+**Original Contribution:** **[[Articulatory-Construction-Principle]] + [[Cognitive-Event-Model]]** — Notes as records of cognitive construction events, not information containers
 **Builds On:** Reports 03, 11 | **Feeds Into:** Reports 21, 27
 
 ---
@@ -215,7 +215,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[19-sustaining-lifelong-learning-pkm-framework-2026-03-15|Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]
 
-**Original Contribution:** **[[Motivational Compounding Model]] + [[Automaticity-Autonomy Paradox]]** — Long-term PKB motivation as compound interest across three mechanisms
+**Original Contribution:** **[[Motivational-Compounding-Model]] + [[Automaticity-Autonomy Paradox]]** — Long-term PKB motivation as compound interest across three mechanisms
 
 ---
 
@@ -233,7 +233,7 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[22-tacit-knowledge-limits-of-capture-pkm-framework-2026-03-15|Report 22: Tacit Knowledge and the Limits of Capture]]
 
-**Original Contribution:** **[[Tacit Knowledge Observatory]]** — PKB's proper role in tacit-knowledge-rich domains is observation and triangulation, not direct capture
+**Original Contribution:** **[[Tacit-Knowledge-Observatory]]** — PKB's proper role in tacit-knowledge-rich domains is observation and triangulation, not direct capture
 
 ---
 
@@ -251,13 +251,13 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[25-integration-problem-pkm-framework-2026-03-15|Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 
-**Original Contribution:** **[[Integration Paradox]] + [[Small-World PKB Principle]]** — Optimal PKB topology mirrors expert semantic networks
+**Original Contribution:** **[[Integration-Paradox]] + [[Small-World-PKB-Principle]]** — Optimal PKB topology mirrors expert semantic networks
 
 ---
 
 ### [[26-feedback-loops-pkm-framework-2026-03-15|Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 
-**Original Contribution:** **[[Learning Metabolism Framework]] + [[Calibration Prosthetic]]** — Five-property feedback architecture model
+**Original Contribution:** **[[Learning Metabolism Framework]] + [[Calibration-Prosthetic]]** — Five-property feedback architecture model
 
 ---
 
@@ -265,14 +265,14 @@ Starts with the design destination (Report 09), then backtracks to understand th
 
 ### [[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]
 
-**Original Contribution:** **[[Integrated Learning System Model]] + [[Five Convergence Zones]] + [[Twelve Master Principles]]** — Full series meta-synthesis
+**Original Contribution:** **[[Integrated-Learning-System-Model]] + [[Five-Convergence-Zones]] + [[Twelve-Master-Principles]]** — Full series meta-synthesis
 **Status:** Capstone report synthesizing all preceding 26 reports
 
 ---
 
 ### [[28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15|Report 28: The Philosophy of Personal Knowledge — What It Means to "Know" in a PKB]]
 
-**Original Contribution:** **[[Relational Theory of PKB Knowledge]] + [[Epistemic Ecosystem Model]]** — Knowledge as relationship constituted through Encounter, Challenge, Integration, Application
+**Original Contribution:** **[[Relational-Theory-of-PKB-Knowledge]] + [[Epistemic Ecosystem Model]]** — Knowledge as relationship constituted through Encounter, Challenge, Integration, Application
 
 ---
 

@@ -325,7 +325,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
 > 
@@ -497,7 +497,7 @@ extraction_summary:
 - [[SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-determination]]
 - [[Attribution-Theory|attribution theory]]
 - [[Autonomy-Orientation|autonomy orientation]]
@@ -567,7 +567,7 @@ extraction_summary:
 - [[SDT]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-determination]]
 - [[Attribution-Theory|attribution theory]]
 - [[Autonomy-Orientation|autonomy orientation]]
@@ -593,7 +593,7 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Overjustification-Effect|Overjustification Effect]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
 - [[Attribution-Theory|Attribution Theory]]

@@ -132,7 +132,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 35)*
 
 > [!abstract] Untitled
-> The **[[Personal Knowledge Base|PKB]]** functions as an open, self-organizing learning system where the practitioner transforms fragmented information into a coherent web of understanding. At its core, the system consists of three primary **stocks**: **[[Atomic Notes|Notes]]** (the discrete units of thought), **[[Connections]]** (the associative links between ideas), and **[[Mental Models|Understanding]]** (the internalized cognitive structures). These stocks are regulated by powerful **flows**—the acts of **[[Note Creation]]**, **[[Linking]]**, **[[review]]**, **[[Retrieval]]**, and **[[synthesis]]**. The system's behavior is governed by two competing forces: a **reinforcing loop** (the "knowledge snowball") where more notes and connections exponentially generate more insights, and multiple **balancing loops** that manage cognitive load, attention allocation, and time constraints. The emergent property that distinguishes a mature PKB from a simple archive is its capacity for **serendipitous insight generation**—the spontaneous recognition of patterns that were not deliberately sought. The highest-leverage intervention point in this system is not the acquisition of more information, but rather the consistent practice of **[[Progressive Summarization|distillation]]** and **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|periodic review]]**, which transforms the PKB from a passive repository into an active "conversation partner" for thought.
+> The **[[Personal Knowledge Base|PKB]]** functions as an open, self-organizing learning system where the practitioner transforms fragmented information into a coherent web of understanding. At its core, the system consists of three primary **stocks**: **[[Atomic Notes|Notes]]** (the discrete units of thought), **[[Connections]]** (the associative links between ideas), and **[[Mental-Models|Understanding]]** (the internalized cognitive structures). These stocks are regulated by powerful **flows**—the acts of **[[Note Creation]]**, **[[Linking]]**, **[[review]]**, **[[Retrieval]]**, and **[[synthesis]]**. The system's behavior is governed by two competing forces: a **reinforcing loop** (the "knowledge snowball") where more notes and connections exponentially generate more insights, and multiple **balancing loops** that manage cognitive load, attention allocation, and time constraints. The emergent property that distinguishes a mature PKB from a simple archive is its capacity for **serendipitous insight generation**—the spontaneous recognition of patterns that were not deliberately sought. The highest-leverage intervention point in this system is not the acquisition of more information, but rather the consistent practice of **[[Progressive Summarization|distillation]]** and **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|periodic review]]**, which transforms the PKB from a passive repository into an active "conversation partner" for thought.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 40)*
 
@@ -149,13 +149,13 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **System Boundary:**
->       - The boundary of the PKB system encompasses *everything* from the moment you decide to capture an idea through to the moment that idea influences your thinking or actions in the world. This includes the physical and digital tools you use (note-taking applications like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], [[Notion]], or [[Roam Research]]), the **processes** you follow (capture, organize, distill, express—often called the **[[PARA Method|CODE]]** cycle), and most critically, the **mental habits** of reflection, connection-making, and review. What lies *outside* the system's boundary is the external world of information sources (books, lectures, conversations) and the downstream applications of your knowledge (writing projects, decisions, creative work). The PKB sits as a mediator between these two domains.
+>       - The boundary of the PKB system encompasses *everything* from the moment you decide to capture an idea through to the moment that idea influences your thinking or actions in the world. This includes the physical and digital tools you use (note-taking applications like [[Obsidian]], [[Notion]], or [[Roam Research]]), the **processes** you follow (capture, organize, distill, express—often called the **[[PARA Method|CODE]]** cycle), and most critically, the **mental habits** of reflection, connection-making, and review. What lies *outside* the system's boundary is the external world of information sources (books, lectures, conversations) and the downstream applications of your knowledge (writing projects, decisions, creative work). The PKB sits as a mediator between these two domains.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 51)*
 
 > [!principle-point] Untitled
 > - **Key "Stocks" (The Accumulations):**
->   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
+>   	  - The PKB accumulates three primary types of *stocks*—think of these as the "inventory" that defines the system's current state. First, there are **[[Atomic Notes|Notes]]**, the discrete packets of captured thought. In the [[Zettelkasten Method|Zettelkasten]] tradition, each note is "atomic," meaning it contains a single, complete idea that can stand alone and be combined with other ideas. These notes are not mere transcriptions; they are *reformulations* of external information through your own cognitive filter. Second, there are **[[Connections|Links]]**, the associative pathways between notes. In a mature PKB, the number of connections often exceeds the number of notes themselves, forming a dense web. These links represent your understanding of *relationships*—how concepts influence, contradict, or extend one another. Third, and most importantly, there is the stock of **[[Mental-Models|Understanding]]**—the internalized, tacit knowledge that resides not in the files themselves, but in *your mind* as a result of engaging with the system. This is the PKB's ultimate output: a transformed capacity for thought.
 
 #### 8. [PRINCIPLE-POINT] Untitled *(Line 55)*
 
@@ -224,7 +224,7 @@ extraction_summary:
 
 > [!counter-argument] Untitled
 > - **An "Obvious" but Low-Leverage Solution: Adding More Tools or Features**
->   	  - A common "solution" to a stagnant PKB is to switch tools—to migrate from [[Evernote]] to [[Notion]], or from [[Notion]] to [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], in the hope that the new tool's features (backlinks, graph view, plugins) will magically improve the system. This is a low-leverage intervention because it operates at Meadows' lowest level: changing *parameters* (the tool's features) rather than changing *behavior* (how you use the tool). The structure of the feedback loops remains unchanged. You may experience a temporary boost in motivation (the **Motivation and Confidence Loop** activates due to novelty), but without changing your review habits, your linking practices, or your capture discipline, the new tool will eventually accumulate the same problems as the old one. The system's behavior is determined by its *structure*, not by the parameters. This is why experienced PKB practitioners often say, "The best tool is the one you'll actually use," emphasizing process over features.
+>   	  - A common "solution" to a stagnant PKB is to switch tools—to migrate from [[Evernote]] to [[Notion]], or from [[Notion]] to [[Obsidian]], in the hope that the new tool's features (backlinks, graph view, plugins) will magically improve the system. This is a low-leverage intervention because it operates at Meadows' lowest level: changing *parameters* (the tool's features) rather than changing *behavior* (how you use the tool). The structure of the feedback loops remains unchanged. You may experience a temporary boost in motivation (the **Motivation and Confidence Loop** activates due to novelty), but without changing your review habits, your linking practices, or your capture discipline, the new tool will eventually accumulate the same problems as the old one. The system's behavior is determined by its *structure*, not by the parameters. This is why experienced PKB practitioners often say, "The best tool is the one you'll actually use," emphasizing process over features.
 
 #### 20. [HELPFUL-TIP] Untitled *(Line 152)*
 
@@ -304,10 +304,10 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
+- [[Knowledge Management]]
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Networked Thought]]
+- [[Obsidian]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/tags]]
 - [[Archiving]]
 - [[Atomic-Notes|Atomic Notes]]
@@ -377,7 +377,7 @@ extraction_summary:
 | 11 | [[synthesis]] | — | — | Document Start | 36 |
 | 12 | [[Progressive-Summarization|Progressive Summarization]] | distillation | — | Document Start | 36 |
 | 13 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | periodic review | — | Document Start | 36 |
-| 14 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
+| 14 | [[Obsidian]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 15 | [[Notion]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 16 | [[Roam Research]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 17 | [[PARA Method]] | CODE | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
@@ -423,7 +423,7 @@ extraction_summary:
 | 57 | [[Evernote]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 58 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 59 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
-| 60 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
+| 60 | [[Obsidian]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 61 | [[Zettelkasten Method]] | Zettelkasten | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 154 |
 | 62 | [[Niklas Luhmann]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 154 |
 | 63 | [[Insight Compounding Loop]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 185 |
@@ -440,8 +440,8 @@ extraction_summary:
 | 74 | [[Mental-Models|Mental Models]] | — | — | 7.0 📚 Reference/Appendix | 217 |
 | 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 218 |
 | 76 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 224 |
-| 77 | [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
-| 78 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 226 |
+| 77 | [[Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
+| 78 | [[Networked Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 226 |
 | 79 | [[Second Brain]] | — | — | 🔗 Related Topics for PKB Expansion | 227 |
 | 80 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 228 |
 
@@ -524,10 +524,10 @@ Let me break down what I need to do:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
+- [[Knowledge Management]]
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Networked Thought]]
+- [[Obsidian]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/tags]]
 - [[Archiving]]
 - [[Atomic-Notes|Atomic Notes]]

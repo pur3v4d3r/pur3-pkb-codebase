@@ -1,18 +1,11 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Core Concept Definition"
+title: Core Concept Definition
 aliases:
-  - "Core Concept Definition"
-  - "CCD"
+  - Core Concept Definition
+  - CCD
 type: permanent-note
 status: evergreen
 confidence: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -22,74 +15,43 @@ tags:
   - type/reflection
   - cognitive-development
   - self-regulation
-
 domain: other
 subdomains:
   - 
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "cog-psy-role-of-stoic-journaling-practices-in-metacognitive-monitoring-20251128214625"
+  - cog-psy-role-of-stoic-journaling-practices-in-metacognitive-monitoring-20251128214625
 evidence-quality: medium
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: intermediate
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[The-Role-of-Stoic-Journaling-Practices-in-Metacognitive-Monitoring-An-Analysis-o|The Role of Stoic Journaling Practices in Metacognitive Monitoring: An Analysis of Reflective Writing as a Tool for Self-Regulation, Memory Consolidation, and Behavioral Modification.]]"
   - "[[Stoicism]]"
   - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Memory-Consolidation|Memory Consolidation]]"
   - "[[Behavioral-Modification|Behavioral Modification]]"
   - "[[Reflective-Writing|Reflective Writing]]"
   - "[[Marcus-Aurelius|Marcus Aurelius]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[]]"
-
 enables:
   - "[[]]"
-
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: medium
@@ -125,7 +87,7 @@ importance: medium
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Neuroplasticity]]
@@ -133,4 +95,4 @@ importance: medium
 - [[Habit-Formation|Habit Formation]]
 
 **Related concepts:**
-[[The-Role-of-Stoic-Journaling-Practices-in-Metacognitive-Monitoring-An-Analysis-o|The Role of Stoic Journaling Practices in Metacognitive Monitoring: An Analysis of Reflective Writing as a Tool for Self-Regulation, Memory Consolidation, and Behavioral Modification.]] · [[Stoicism]] · [[Metacognition]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Memory-Consolidation|Memory Consolidation]] · [[Behavioral-Modification|Behavioral Modification]] · [[Reflective-Writing|Reflective Writing]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Seneca]] · [[Epictetus]] · [[Working-Memory|Working Memory]] · [[Neuroplasticity]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Executive-Function|Executive Function]] · [[Cognitive-Load-Theory|Cognitive Load Theory]]
+[[The-Role-of-Stoic-Journaling-Practices-in-Metacognitive-Monitoring-An-Analysis-o|The Role of Stoic Journaling Practices in Metacognitive Monitoring: An Analysis of Reflective Writing as a Tool for Self-Regulation, Memory Consolidation, and Behavioral Modification.]] · [[Stoicism]] · [[Metacognition]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Memory-Consolidation|Memory Consolidation]] · [[Behavioral-Modification|Behavioral Modification]] · [[Reflective-Writing|Reflective Writing]] · [[Marcus-Aurelius|Marcus Aurelius]] · [[Seneca]] · [[Epictetus]] · [[Working-Memory|Working Memory]] · [[Neuroplasticity]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Executive-Function|Executive Function]] · [[Cognitive-Load-Theory|Cognitive Load Theory]]

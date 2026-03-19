@@ -602,7 +602,7 @@ extraction_summary:
 #### Related
 
 - [[Metacognitive Awareness Inventory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive Forcing Functions]]
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Working Memory and Executive Function]]

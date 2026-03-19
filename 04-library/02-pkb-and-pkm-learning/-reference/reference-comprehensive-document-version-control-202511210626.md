@@ -85,7 +85,7 @@ This multi-dimensional capture transforms work logs from simple time tracking in
 
 > [!key-claim]
 > **Central Principle: Logs as Cognitive Offloading**
-> Work logs reduce [[Cognitive Load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
+> Work logs reduce [[Cognitive-Load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
 
 ### Why Work Logs Matter for Knowledge Workers
 
@@ -312,7 +312,7 @@ Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underes
 - Natural for reflective practitioners
 - Lower daily burden (weekly summary rather than hourly log)
 - Excellent for knowledge recovery months/years later
-- Supports [[Reflective Practice]] and learning
+- Supports [[Reflective-Practice]] and learning
 
 **Disadvantages**:
 - Requires narrative synthesis skill (not everyone thinks in stories)

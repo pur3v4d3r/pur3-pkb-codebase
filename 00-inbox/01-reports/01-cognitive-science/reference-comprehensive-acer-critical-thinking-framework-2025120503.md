@@ -214,10 +214,10 @@ link-related:
 > - [[Argument Analysis]]
 > - [[Evidence Evaluation]]
 > - [[Cognitive Biases]]
-> - [[Reflective Practice]]
+> - [[Reflective-Practice]]
 > - [[Educational Assessment]]
 > - [[Skill Development Frameworks]]
-> - [[Transfer of Learning]]
+> - [[Transfer-of-Learning]]
 > - [[Epistemic Cognition]]
 > **CALLOUT STRATEGY:**
 > - [!definition] for framework terms and aspects
@@ -294,7 +294,7 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 > [!principle-point]
 > **Domain-General with Domain-Specific Application**
-> While the framework describes critical thinking as a generally applicable skillset that transfers across disciplines, it explicitly acknowledges that application must be embedded within the methodologies, conventions, and "ways of knowing" of specific domains. This balances universality with contextual relevance—essential for [[Transfer of Learning]].
+> While the framework describes critical thinking as a generally applicable skillset that transfers across disciplines, it explicitly acknowledges that application must be embedded within the methodologies, conventions, and "ways of knowing" of specific domains. This balances universality with contextual relevance—essential for [[Transfer-of-Learning]].
 
 ---
 
@@ -344,7 +344,7 @@ This structure acknowledges that critical thinking serves multiple functions sim
 
 ### Foundational Concepts
 
-The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[Constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[Information Literacy]], [[Research Methods]], and [[Inquiry-Based Learning]].
+The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[Constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[Information Literacy]], [[Research Methods]], and [[Inquiry-Based-Learning]].
 
 Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[Lifelong Learning]] and [[Personal Knowledge Management]].
 
@@ -458,7 +458,7 @@ Evaluation in the ACER Framework requires understanding of logical principles, s
 > [!definition]
 > **Identifying Reasoning**:: The ability to recognize and articulate the structure of arguments, including premises, conclusions, assumptions, and logical connections
 
-Identifying reasoning involves analyzing how conclusions are derived from premises, recognizing argument structures, and uncovering implicit assumptions. This requires understanding [[Deductive Reasoning]], [[Inductive Reasoning]], [[Abductive Reasoning]], and common [[Argument Patterns]].
+Identifying reasoning involves analyzing how conclusions are derived from premises, recognizing argument structures, and uncovering implicit assumptions. This requires understanding [[Deductive-Reasoning]], [[Inductive-Reasoning]], [[Abductive-Reasoning]], and common [[Argument Patterns]].
 
 **Observable Behaviors:**
 - Identifies premises (stated and unstated) and conclusions in arguments
@@ -484,7 +484,7 @@ Identifying reasoning involves analyzing how conclusions are derived from premis
 
 **Cognitive Skills Involved:**
 - [[Logical Analysis]]
-- [[Argument Mapping]]
+- [[Argument-Mapping]]
 - [[Assumption Detection]]
 - [[Critical Reading]]
 - [[Structural Thinking]]
@@ -521,8 +521,8 @@ Applying logic involves assessing whether conclusions follow from premises (vali
 > - **Correlation-causation confusion**: Assuming correlation implies causation
 
 **Cognitive Skills Involved:**
-- [[Deductive Reasoning]]
-- [[Inductive Reasoning]]
+- [[Deductive-Reasoning]]
+- [[Inductive-Reasoning]]
 - [[Fallacy Recognition]]
 - [[Consistency Checking]]
 - [[Conditional Reasoning]]
@@ -559,7 +559,7 @@ Evaluating claims extends beyond logical structure to assess the quality and tru
 - [[Source Criticism]]
 - [[Evidence Evaluation]]
 - [[Skepticism]] (balanced, not cynical)
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance]]
 - [[Comparative Analysis]]
 
 > [!key-claim]
@@ -666,7 +666,7 @@ This aspect draws from [[Multi-Criteria Decision Analysis]] (MCDA), [[Value Theo
 
 > [!important]
 > **The Criteria Problem in Ill-Structured Decisions**
-> Many real-world decisions are [[Ill-Structured Problems]] where appropriate criteria are unclear or contested. Part of critical thinking in decision-making is wrestling with *what should count as a good decision* before evaluating specific options. This meta-level reasoning is often more challenging than comparing options against established criteria.
+> Many real-world decisions are [[Ill-Structured-Problems]] where appropriate criteria are unclear or contested. Part of critical thinking in decision-making is wrestling with *what should count as a good decision* before evaluating specific options. This meta-level reasoning is often more challenging than comparing options against established criteria.
 
 ---
 
@@ -750,7 +750,7 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 > - **[[Anchoring Bias]]**: Over-weighting first alternative considered
 > - **[[Status Quo Bias]]**: Preferring current state over change
 > - **[[Sunk Cost Fallacy]]**: Continuing investment due to past commitment
-> - **[[Availability Heuristic]]**: Over-weighting easily recalled outcomes
+> - **[[Availability-Heuristic]]**: Over-weighting easily recalled outcomes
 > - **[[Optimism Bias]]**: Underestimating likelihood of negative outcomes
 > 
 > Systematic evaluation using explicit criteria helps counteract these biases.
@@ -762,7 +762,7 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 > [!definition]
 > **Monitoring Outcomes**:: The ability to track the effects of decisions, evaluate results against criteria, and adjust course based on feedback
 
-The third aspect completes the decision-making cycle: implementation, monitoring, and learning. This reflects the pragmatic, action-oriented nature of critical thinking—decisions must be evaluated based on their actual effects, not just predicted outcomes. This aspect embodies [[Reflective Practice]] and [[Evidence-Based Adjustment]].
+The third aspect completes the decision-making cycle: implementation, monitoring, and learning. This reflects the pragmatic, action-oriented nature of critical thinking—decisions must be evaluated based on their actual effects, not just predicted outcomes. This aspect embodies [[Reflective-Practice]] and [[Evidence-Based Adjustment]].
 
 **Theoretical Foundation:**  
 This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-Act]] cycles, [[Metacognitive Monitoring]], and [[Adaptive Decision-Making]] models. It recognizes that real-world decisions occur under uncertainty and require iterative refinement.
@@ -828,7 +828,7 @@ This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-
 - [[Causal Analysis]]
 - [[Pattern Recognition]]
 - [[Adaptive Learning]]
-- [[Reflective Practice]]
+- [[Reflective-Practice]]
 
 > [!key-claim]
 > **Closing the Learning Loop**

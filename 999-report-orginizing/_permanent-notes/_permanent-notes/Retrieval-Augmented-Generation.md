@@ -5,6 +5,7 @@
 title: "Retrieval-Augmented Generation"
 aliases:
   - "Retrieval-Augmented Generation"
+  - "Retrieval Augmented Generation"
 type: permanent-note
 status: evergreen
 confidence: medium

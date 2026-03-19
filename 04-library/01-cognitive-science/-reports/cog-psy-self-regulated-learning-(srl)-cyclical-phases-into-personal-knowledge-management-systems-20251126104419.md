@@ -33,7 +33,7 @@ review-count: 0
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-26|Daily-Note]]"
 ---
@@ -113,7 +113,7 @@ This will require extensive exploration of:
 - Cross-domain connections to cybernetics, systems thinking, cognitive science
 
 **Wiki-Link Opportunities:**
-[[Self-Regulated Learning]], [[Personal Knowledge Management]], [[Metacognition]], [[Feedback Loops]], [[Zimmerman's Cyclical Model]], [[Winne and Hadwin COPES]], [[Goal Setting]], [[Strategic Planning]], [[Self-Reflection]], [[Forethought Phase]], [[Performance Phase]], [[Self-Reflection Phase]], [[Cognitive Strategies]], [[Metacognitive Strategies]], [[Motivation]], [[Executive Function]], [[Cybernetics]], [[Systems Thinking]], [[Zettelkasten]], [[Obsidian]], [[Knowledge Graph]], [[Spaced Repetition]], [[Retrieval Practice]], [[Elaborative Interrogation]], [[Transfer Learning]], [[Cognitive Load Theory]], [[Working Memory]], [[Long-Term Memory]], [[Neuroplasticity]]
+[[Self-Regulated Learning]], [[Personal Knowledge Management]], [[Metacognition]], [[Feedback Loops]], [[Zimmerman's Cyclical Model]], [[Winne and Hadwin COPES]], [[Goal Setting]], [[Strategic Planning]], [[Self-Reflection]], [[Forethought-Phase]], [[Performance-Phase]], [[Self-Reflection-Phase]], [[Cognitive Strategies]], [[Metacognitive Strategies]], [[Motivation]], [[Executive Function]], [[Cybernetics]], [[Systems Thinking]], [[Zettelkasten]], [[Obsidian]], [[Knowledge Graph]], [[Spaced Repetition]], [[Retrieval-Practice]], [[Elaborative-Interrogation]], [[Transfer Learning]], [[Cognitive Load Theory]], [[Working Memory]], [[Long-Term Memory]], [[Neuroplasticity]]
 
 **Callout Strategy:**
 - [!abstract] for opening overview
@@ -337,7 +337,7 @@ The self-reflection phase, while theoretically recognized as crucial, often rece
 **Learning Analytics for Pattern Detection** leverage computational analysis to identify patterns that may not be apparent through individual reflection alone. Machine learning methods applied to data generated during learning can predict outcomes, with explainable AI approaches helping unpack predictions to reveal which factors most significantly influence learning success. While sophisticated analytics capabilities may exceed what individual PKM systems provide, even basic pattern detection—identifying which note types prove most valuable, which times of day show highest productivity, which topics require disproportionate review effort—generates valuable feedback for metacognitive refinement.
 
 > [!connections-and-links]
-> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate Practice]], [[Metacognitive Calibration]], [[Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
+> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate Practice]], [[Metacognitive Calibration]], [[Transfer-of-Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
 
 ## 🌐 Cross-Domain Integration: Connecting to Broader Frameworks
 

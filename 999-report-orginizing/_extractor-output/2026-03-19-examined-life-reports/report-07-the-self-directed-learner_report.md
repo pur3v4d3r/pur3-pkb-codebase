@@ -448,7 +448,7 @@ extraction_summary:
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne and Hadwin]]
 - [[Zettelkasten]]
@@ -553,7 +553,7 @@ extraction_summary:
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne and Hadwin]]
 - [[Zettelkasten]]
@@ -564,7 +564,7 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Constructivism]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Metacognitive-Monitoring|Metacognitive Monitoring]]

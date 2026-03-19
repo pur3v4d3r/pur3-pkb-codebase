@@ -157,7 +157,7 @@ extraction_summary:
 #### 4. [DEFINITION] 🔑 Core Concept Definition *(Line 134)*
 
 > [!definition] 🔑 Core Concept Definition
-> **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoic-Philosophy|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus Aurelius]]'s *Meditations* and contemporary research on [[Self-Regulated-Learning-—-SRL|self-regulated learning]].
+> **Stoic Journaling as Metacognitive Tool**: The systematic practice of written self-examination rooted in ancient [[Stoic-Philosophy|Stoic philosophy]], wherein practitioners engage in structured reflection to monitor cognitive processes, evaluate judgments, regulate emotional responses, and consciously reshape behavioral patterns through the externalization of thought into permanent textual form. This practice operates simultaneously as philosophical discipline, cognitive scaffold, and neuroplasticity intervention, bridging the 2000-year gap between [[Marcus Aurelius]]'s *Meditations* and contemporary research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]].
 
 #### 5. [THE-PHILOSOPHY] ⚖️ Philosophical Framework *(Line 147)*
 
@@ -225,7 +225,7 @@ extraction_summary:
 > [!connections-and-links] 🕸️ Framework Integration Map
 > **Stoic Journaling** interfaces with:
 > 
-> → [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
+> → [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
 > 
 > → [[Self-Determination-Theory|Self-Determination Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
 > 
@@ -398,7 +398,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Development]]
 - [[Self-Referential Processing]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Sleep Neuroscience]]
@@ -684,7 +684,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Development]]
 - [[Self-Referential Processing]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Sleep Neuroscience]]

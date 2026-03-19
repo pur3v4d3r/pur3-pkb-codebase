@@ -1,7 +1,4 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Relationship Motivation Theory: Need Support, Autonomy, and the Architecture of Close Relationship Quality — A Focused Analysis"
 aliases:
   - "[[RMT Focused Analysis]]"
@@ -10,10 +7,6 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - focused-analysis
@@ -35,99 +28,70 @@ tags:
   - comprehensive
   - research-grounded
   - analytical-depth
-
 domain: motivational-psychology
 subdomains:
   - relationship-psychology
   - self-determination-theory
   - basic-psychological-needs
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-13
 updated: 2026-03-13
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
 peer-validation: multiple-frameworks
-
-analytical-focus: "How Relationship Motivation Theory reconceptualizes relationship quality as a function of the dyadic motivational climate — specifically, how the interplay between partner need support vs. need thwarting and autonomous vs. controlled relationship motivation determines both relationship outcomes and individual well-being, and what the mechanisms of this process reveal about the nature of genuine intimacy."
-
+analytical-focus: How Relationship Motivation Theory reconceptualizes relationship quality as a function of the dyadic motivational climate — specifically, how the interplay between partner need support vs. need thwarting and autonomous vs. controlled relationship motivation determines both relationship outcomes and individual well-being, and what the mechanisms of this process reveal about the nature of genuine intimacy.
 key-frameworks:
-  - name: "Relationship Motivation Theory (RMT)"
-    description: "Mini-theory within SDT applying basic psychological needs to close relationship dynamics"
-    developers: "Deci & Ryan (2014), developed from earlier SDT work"
-    validation: "High — extensive experimental and longitudinal evidence"
-  - name: "Basic Psychological Needs Theory (BPNT)"
-    description: "Framework positing autonomy, competence, and relatedness as universal psychological necessities"
-    developers: "Deci & Ryan (2000)"
-    validation: "Very high — cross-cultural replications across 20+ countries"
-  - name: "Organismic Integration Theory (OIT)"
-    description: "SDT mini-theory explaining internalization continuum of extrinsic motivation"
-    developers: "Deci & Ryan (1985)"
-    validation: "High — well-replicated across domains"
-
+  - name: Relationship Motivation Theory (RMT)
+    description: Mini-theory within SDT applying basic psychological needs to close relationship dynamics
+    developers: Deci & Ryan (2014), developed from earlier SDT work
+    validation: High — extensive experimental and longitudinal evidence
+  - name: Basic Psychological Needs Theory (BPNT)
+    description: Framework positing autonomy, competence, and relatedness as universal psychological necessities
+    developers: Deci & Ryan (2000)
+    validation: Very high — cross-cultural replications across 20+ countries
+  - name: Organismic Integration Theory (OIT)
+    description: SDT mini-theory explaining internalization continuum of extrinsic motivation
+    developers: Deci & Ryan (1985)
+    validation: High — well-replicated across domains
 key-researchers:
-  - "Edward Deci"
-  - "Richard Ryan"
-  - "Jennifer La Guardia"
-  - "Christopher Knee"
-  - "Emily Impett"
-  - "Amy Canevello"
-  - "Netta Weinstein"
-  - "Bart Soenens"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~10,200"
+  - Edward Deci
+  - Richard Ryan
+  - Jennifer La Guardia
+  - Christopher Knee
+  - Emily Impett
+  - Amy Canevello
+  - Netta Weinstein
+  - Bart Soenens
+word-count: ~10,200
 complexity-level: advanced-practitioner
-target-audience: "Instructional designers, educational psychologists, and graduate students with foundational knowledge of Self-Determination Theory who seek focused analysis of its relational applications and implications for learning contexts"
+target-audience: Instructional designers, educational psychologists, and graduate students with foundational knowledge of Self-Determination Theory who seek focused analysis of its relational applications and implications for learning contexts
 depth-level: analytical-focused
 treatment-type: focused-analysis
-
 analytical-contributions:
   insight-count: 5
   original-syntheses: 2
   tensions-identified: 3
   cross-domain-connections: 2
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Basic psychological needs within close relationships"
-  - "Autonomous vs. controlled relationship motivation"
-  - "Need support vs. need thwarting"
-  - "Perceived partner responsiveness"
-  - "Conditional positive regard"
-  - "Mutuality and bidirectional need support"
-  - "Internalization of relationship goals"
-
+  - Basic psychological needs within close relationships
+  - Autonomous vs. controlled relationship motivation
+  - Need support vs. need thwarting
+  - Perceived partner responsiveness
+  - Conditional positive regard
+  - Mutuality and bidirectional need support
+  - Internalization of relationship goals
 key-arguments:
-  - "Relationship quality is not determined by positive affect, conflict frequency, or commitment level per se, but by whether the relationship functions as a context that supports or thwarts each partner's basic psychological needs"
-  - "The distinction between autonomous and controlled motivation for maintaining a relationship predicts relationship outcomes and well-being independently of relationship satisfaction — people in high-satisfaction but controlled-motivation relationships show worse psychological outcomes than those in equivalent-satisfaction autonomous-motivation relationships"
+  - Relationship quality is not determined by positive affect, conflict frequency, or commitment level per se, but by whether the relationship functions as a context that supports or thwarts each partner's basic psychological needs
+  - The distinction between autonomous and controlled motivation for maintaining a relationship predicts relationship outcomes and well-being independently of relationship satisfaction — people in high-satisfaction but controlled-motivation relationships show worse psychological outcomes than those in equivalent-satisfaction autonomous-motivation relationships
   - "The autonomy-relatedness integration problem is the central theoretical and practical challenge RMT addresses: genuine intimacy requires feeling fully known and fully self-directed simultaneously, and RMT specifies the conditions under which this integration is achieved vs. when one need is purchased at the cost of the other"
-
 key-distinctions:
   - "Need support vs. need satisfaction: need support is a partner's behavior; need satisfaction is the experienced outcome — the same partner behavior can produce different levels of need satisfaction depending on the recipient's internalized goals and relational history"
   - "Autonomous motivation vs. high commitment: a person can be highly committed to a relationship for controlled reasons (guilt, fear of aloneness, sunk costs) — commitment and autonomy are orthogonal dimensions"
   - "Relatedness as quality vs. quantity: RMT holds that the need for relatedness is satisfied not by frequency of contact or number of relationships but by experiencing genuine mutual understanding and care within specific connections"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Self-Determination Theory — Foundational Concepts]]"
   - "[[Basic Psychological Needs Theory]]"
-
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
-
 related:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
@@ -135,84 +99,64 @@ related:
   - "[[Attachment Theory — Bowlby and Ainsworth]]"
   - "[[Perceived-Partner-Responsiveness|Perceived Partner Responsiveness]]"
   - "[[Conditional-Positive-Regard|Conditional Positive Regard]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-
 broader:
   - "[[Motivational Psychology]]"
   - "[[Relationship Science]]"
   - "[[Social Psychology of Close Relationships]]"
-
 narrower:
   - "[[Autonomy Support in Romantic Relationships]]"
   - "[[Need Thwarting and Relationship Dissolution]]"
   - "[[Compassionate vs. Self-Image Goals in Relationships]]"
-
 see-also:
   - "[[Interdependence Theory — Kelley and Thibaut]]"
   - "[[Terror Management Theory]]"
   - "[[Positive Psychology — Flourishing Models]]"
-
 contrasts-with:
   - "[[Social Exchange Theory]]"
   - "[[Investment Model — Rusbult]]"
-
 applied-in:
   - "[[Instructional Design — Relational Climate]]"
   - "[[Mentorship Program Design]]"
   - "[[Therapeutic Alliance Research]]"
   - "[[Teacher-Student Relationship Quality]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
   - "[[Attachment Theory — Bowlby and Ainsworth]]"
-
 enables:
   - "[[Autonomy-Supportive Learning Environments]]"
   - "[[Mentorship Program Design]]"
   - "[[Relational Pedagogy]]"
-
 expansion-topics:
   - topic: "[[Autonomy Support in Teaching — Mechanisms and Evidence]]"
-    description: "Deep dive into how teacher autonomy support operationalizes RMT principles in the classroom — covering Reeve's ISLE model, the distinction between structure and autonomy support, and intervention designs that improve both student motivation and learning outcomes."
+    description: Deep dive into how teacher autonomy support operationalizes RMT principles in the classroom — covering Reeve's ISLE model, the distinction between structure and autonomy support, and intervention designs that improve both student motivation and learning outcomes.
     priority: high
   - topic: "[[Conditional Positive Regard — Costs and Clinical Implications]]"
-    description: "Focused analysis of Deci et al.'s conditional positive regard research, tracing how contingent approval in relationships produces fragile self-esteem, performance anxiety, and ultimately need thwarting despite apparent warmth."
+    description: Focused analysis of Deci et al.'s conditional positive regard research, tracing how contingent approval in relationships produces fragile self-esteem, performance anxiety, and ultimately need thwarting despite apparent warmth.
     priority: high
   - topic: "[[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]"
-    description: "Examines Reis, Clark & Holmes's model of responsiveness (feeling understood, validated, and cared for) as the primary phenomenological marker of need satisfaction within close relationships, and how responsiveness functions as a relational scaffold for need integration."
+    description: Examines Reis, Clark & Holmes's model of responsiveness (feeling understood, validated, and cared for) as the primary phenomenological marker of need satisfaction within close relationships, and how responsiveness functions as a relational scaffold for need integration.
     priority: high
   - topic: "[[Attachment Security and Need Fulfillment — Integrating RMT and Attachment Theory]]"
-    description: "Analyzes the theoretical and empirical overlap between attachment security and basic need satisfaction, examining whether attachment represents an evolved expression of BPN needs and where the two frameworks diverge."
+    description: Analyzes the theoretical and empirical overlap between attachment security and basic need satisfaction, examining whether attachment represents an evolved expression of BPN needs and where the two frameworks diverge.
     priority: medium
   - topic: "[[Compassionate Goals vs. Self-Image Goals in Close Relationships]]"
-    description: "Examines Canevello and Crocker's work on how the goal orientation partners bring to a relationship (caring for vs. impression-managing) determines the quality of the motivational climate they create — a relational analog to mastery vs. performance goal orientation in learning."
+    description: Examines Canevello and Crocker's work on how the goal orientation partners bring to a relationship (caring for vs. impression-managing) determines the quality of the motivational climate they create — a relational analog to mastery vs. performance goal orientation in learning.
     priority: medium
   - topic: "[[Need Thwarting Dynamics — Beyond the Absence of Support]]"
-    description: "Focused analysis of Bartholomew et al.'s work establishing that need thwarting is not simply the absence of need support but an active undermining process with distinct antecedents and more severe outcomes — with implications for clinical and coaching contexts."
+    description: Focused analysis of Bartholomew et al.'s work establishing that need thwarting is not simply the absence of need support but an active undermining process with distinct antecedents and more severe outcomes — with implications for clinical and coaching contexts.
     priority: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "La Guardia et al. (2000) — attachment styles and differential need fulfillment across relationships"
-  - "Patrick, Knee, Canevello & Lonsbary (2007) — need fulfillment mediating relationship quality and well-being"
-  - "Deci, La Guardia, Moller, Scheiner & Ryan (2006) — controlled motivation for relationship maintenance"
-  - "Impett et al. (2010) — autonomous vs. controlled giving and relationship outcomes"
-
+  - La Guardia et al. (2000) — attachment styles and differential need fulfillment across relationships
+  - Patrick, Knee, Canevello & Lonsbary (2007) — need fulfillment mediating relationship quality and well-being
+  - Deci, La Guardia, Moller, Scheiner & Ryan (2006) — controlled motivation for relationship maintenance
+  - Impett et al. (2010) — autonomous vs. controlled giving and relationship outcomes
 limitations-noted:
-  - "Most evidence is self-report; partner-report and behavioral observation studies are less common"
-  - "Cultural boundary conditions of the autonomy need in collectivist vs. individualist societies remain contested"
-  - "Bidirectional causality between need support and relationship satisfaction is difficult to disentangle with existing study designs"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Most evidence is self-report; partner-report and behavioral observation studies are less common
+  - Cultural boundary conditions of the autonomy need in collectivist vs. individualist societies remain contested
+  - Bidirectional causality between need support and relationship satisfaction is difficult to disentangle with existing study designs
 sections:
   - "Phase I: Orientation & Analytical Focus"
   - "Phase II: Analytical Framework"
@@ -222,22 +166,16 @@ sections:
   - "Phase VI: Synthesis, Integration & Original Contribution"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix"
-
 document-features:
   callouts: 27
   wiki-links: 42
   reflective-questions: 18
   cognitive-engagement-elements: 14
   analytical-commentary: 12
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
 foundational-for-future-learning: true
-
 source: claude-sonnet-4-6
 generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
@@ -445,7 +383,7 @@ The framework RMT provides invites a synthesis that the theory itself does not f
 > [!original-synthesis] **Relationships as Motivational Ecosystems: The Bidirectional Resource Model**
 > The ecological framing clarifies something the standard dyadic analysis misses. When RMT evidence shows that controlled motivation for relationship maintenance spills over into reduced autonomous functioning in work, personal goals, and health behaviors, it is revealing that a relationship is not a sealed system — it is a motivational context whose effects permeate the total psychological economy of each participant. A need-thwarting relationship does not merely reduce satisfaction within the relationship; it depletes the autonomous motivational resources available for self-directed functioning everywhere else. Conversely, a need-supporting relationship is not merely pleasant; it actively enriches the motivational resources each partner brings to the rest of their lives — producing a resource amplification effect whereby the relationship makes both participants more capable of pursuing their goals, engaging with challenges, and functioning autonomously outside it. This reframes the value of relationship quality from a hedonic register (relationships feel good or bad) to an ecosystemic one (relationships shape the total motivational environment in which both participants operate). The practical implication is consequential: improving the need-supportive quality of a close relationship is not merely a relational intervention — it is a global well-being intervention that affects the person's entire motivational functioning.
 
-This synthesis also resolves an apparent tension in the learning science context. Studies of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] consistently show that motivational resources — particularly autonomous motivation and self-efficacy — are among the strongest predictors of regulatory engagement. What is less often examined is where those motivational resources *come from* in the first place. The relational ecology model suggests that the quality of the close relationships within which learners are embedded — family, mentors, peer learning partners — constitutes a primary source of the motivational capital that SRL research treats as a given predictor variable. Learners who experience their most important relationships as need-supporting are not just well-connected; they are motivationally resourced in a way that learners in need-thwarting relational contexts are not, and this resourcing directly affects their capacity for autonomous self-regulation.
+This synthesis also resolves an apparent tension in the learning science context. Studies of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] consistently show that motivational resources — particularly autonomous motivation and self-efficacy — are among the strongest predictors of regulatory engagement. What is less often examined is where those motivational resources *come from* in the first place. The relational ecology model suggests that the quality of the close relationships within which learners are embedded — family, mentors, peer learning partners — constitutes a primary source of the motivational capital that SRL research treats as a given predictor variable. Learners who experience their most important relationships as need-supporting are not just well-connected; they are motivationally resourced in a way that learners in need-thwarting relational contexts are not, and this resourcing directly affects their capacity for autonomous self-regulation.
 
 > [!original-synthesis] **RMT as the Motivational Infrastructure of Attachment Security**
 > A second integrative synthesis concerns the relationship between RMT and [[Attachment Theory]]. Attachment security is typically described as the outcome of a history of responsive caregiving — a child develops secure attachment by experiencing a caregiver who is available, sensitive, and responsive to distress. What this formulation leaves underspecified is *why* secure attachment produces the psychological benefits it does. RMT provides a mechanistic account: secure attachment is functionally equivalent to a history of sustained need support. The securely attached individual has a working model of relationships as contexts in which their autonomy is respected, their competence is affirmed, and their relatedness need is genuinely met — and this working model functions as a motivational scaffold for engaging with new relationships from a position of trust rather than vigilance. The attachment security effect on well-being is, on this account, largely a need satisfaction effect: security means reliable, history-backed expectation of need support. This integration has empirical support in La Guardia et al.'s finding that secure attachment predicts overall need fulfillment across relationships, and it generates the testable prediction that need satisfaction should mediate the relationship between attachment security and well-being outcomes — a prediction that has received initial but not comprehensive empirical attention.
@@ -471,7 +409,7 @@ The question posed at the opening was: what is it about a relationship that make
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — RMT is a mini-theory within SDT's architecture, and its analysis here deepens the foundational SDT framework in a specific and important direction. Where the SDT foundational report establishes the basic psychological needs and their universality, the RMT analysis reveals how these needs operate within the distinctive constraints of close relationships — how interdependence creates both the greatest opportunities for need satisfaction and the greatest risks of need thwarting. The connection is not merely hierarchical (RMT is under SDT) but bidirectional: understanding RMT enriches SDT's general framework by showing how the basic needs interact and potentially conflict in dyadic contexts, something the general framework does not fully specify.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report establishes that working memory capacity is the critical bottleneck in learning, and that extraneous cognitive load — demands unrelated to the intrinsic structure of the material — depletes the resources available for germane processing. The RMT analysis suggests a motivational analog to this cognitive load concept: need thwarting within a learning relationship produces a kind of *motivational extraneous load* — the learner must devote regulatory and emotional resources to managing the relational environment (monitoring for conditional approval cues, managing self-presentation, suppressing authentic responses) that would otherwise be available for autonomous engagement with the learning content. This is a connection the CLT literature has not developed, but which the RMT evidence strongly suggests: the relational climate is a motivational load variable, not merely an affective backdrop.
 >

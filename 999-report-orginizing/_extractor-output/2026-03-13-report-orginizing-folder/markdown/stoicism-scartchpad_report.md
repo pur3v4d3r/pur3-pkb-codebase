@@ -72,7 +72,7 @@ extraction_summary:
   - ## Stoicism Journaling
     - ### Important
     - ### Metacognitive Development through Journaling
-    - ### Notes from [[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]]
+    - ### Notes from [[reference-comprehensive-stoicism-journal-20251130195735]]
     - ### The Three-Pillar Architecture
     - ### Marcus Aurelius
     - ### Seneca
@@ -161,7 +161,7 @@ extraction_summary:
 > [!connections-and-links] 🕸️ Framework Integration Map
 > **Stoic Journaling** interfaces with:
 > 
-> → [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
+> → [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
 > 
 > → [[Self-Determination-Theory|Self-Determination Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
 > 
@@ -235,7 +235,7 @@ extraction_summary:
 > [!important] Untitled
 > **Distinguishing Premeditatio Malorum from Rumination**
 > 
-> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
+> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio-Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
 
 #### 13. [METHODOLOGY-AND-SOURCES] Untitled *(Line 316)*
 
@@ -368,7 +368,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]]
+- [[reference-comprehensive-stoicism-journal-20251130195735]]
 - [[2025-11-25]]
 - [[2025-11-30]]
 - [[Acceptance and Commitment Therapy]]
@@ -437,7 +437,7 @@ extraction_summary:
 - [[Rumination]]
 - [[Self-Compassion]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Seneca the Younger]]
@@ -547,7 +547,7 @@ extraction_summary:
 | 88 | [[Prefrontal Cortex]] | prefrontal cortex | — | Metacognitive Development through Jou... | 319 |
 | 89 | [[Stoic Principle]] | Stoic principle | — | Metacognitive Development through Jou... | 319 |
 | 90 | [[Implementation-Intentions|Implementation Intentions]] | implementation intentions | — | Metacognitive Development through Jou... | 319 |
-| 91 | [[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]] | — | — | Notes from [[00-inbox/03-research/03-... | 342 |
+| 91 | [[reference-comprehensive-stoicism-journal-20251130195735]] | — | — | Notes from [[00-inbox/03-research/03-... | 342 |
 | 92 | [[Metacognitive Journaling]] | — | — | Notes from [[00-inbox/03-research/03-... | 349 |
 | 93 | [[Implementation Friction]] | — | — | Notes from [[00-inbox/03-research/03-... | 349 |
 | 94 | [[External Achievement]] | — | — | Notes from [[00-inbox/03-research/03-... | 353 |
@@ -644,7 +644,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]]
+- [[reference-comprehensive-stoicism-journal-20251130195735]]
 - [[2025-11-25]]
 - [[2025-11-30]]
 - [[Acceptance and Commitment Therapy]]
@@ -713,7 +713,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Rumination]]
 - [[Self-Compassion]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Seneca the Younger]]

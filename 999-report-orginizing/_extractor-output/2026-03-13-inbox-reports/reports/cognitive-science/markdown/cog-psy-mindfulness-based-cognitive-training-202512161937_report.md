@@ -465,7 +465,7 @@ extraction_summary:
 > **Connection:** Both mindfulness and metacognition involve awareness of one's mental processes, and theoretical frameworks propose that mindfulness training enhances metacognitive abilities—potentially explaining cognitive benefits through improved self-monitoring and cognitive strategy selection.
 > **Depth Potential:** This connection integrates contemplative practice with the broader metacognition literature from educational psychology, examining whether mindfulness practitioners show enhanced metacognitive accuracy (knowing what they know), better calibration (confidence matching performance), and more effective cognitive strategy use.
 > **Knowledge Graph Role:** Connects contemplative neuroscience with educational psychology and self-regulated learning frameworks—establishing mindfulness as a metacognitive training approach.
-> **Prerequisites:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Cognitive Calibration]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Flavell's Metacognitive Framework]].
+> **Prerequisites:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Cognitive Calibration]], [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], [[Flavell's Metacognitive Framework]].
 > 
 > ### 3. **[[Default Mode Network Dysfunction Across Psychopathology]]**
 > **Connection:** The Default Mode Network shows consistent alterations across diverse psychiatric conditions (depression, anxiety, ADHD, autism, schizophrenia), and mindfulness training's effects on DMN connectivity suggest potential transdiagnostic therapeutic mechanism.
@@ -641,7 +641,7 @@ extraction_summary:
 - [[STRONG Project]]
 - [[Salience Network]]
 - [[Selective Attention]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]
 - [[Sezer]]
@@ -1514,7 +1514,7 @@ for (let letter of sortedLetters) {
 - [[STRONG Project]]
 - [[Salience Network]]
 - [[Selective Attention]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]
 - [[Sezer]]

@@ -28,12 +28,12 @@ related_concepts:
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning]]"
   - "[[Critical Thinking]]"
   - "[[Perspectivism]]"
   - "[[Steel-Man Argumentation]]"
   - "[[Assumption Excavation]]"
-  - "[[FAR Transfer]]"
+  - "[[Far-Transfer]]"
   - "[[Dialectical Synthesis]]"
 knowledge_level: advanced
 tags:
@@ -564,11 +564,11 @@ Execute in `<thinking>` blocks:
 
 ## Section 4: Cognitive Engagement Architecture (Dialectical)
 
-[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[Schema Theory]], [[Cognitive Load Theory]], [[Self-Regulated Learning]], and [[Transfer of Learning]].]
+[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[Schema Theory]], [[Cognitive Load Theory]], [[Self-Regulated Learning]], and [[Transfer-of-Learning]].]
 
 ### Schema Activation Protocol
 
-Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[Advance Organizer]] theory (Ausubel) and [[Schema Theory]] (Bartlett, Piaget):
+Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[Advance-Organizer]] theory (Ausubel) and [[Schema Theory]] (Bartlett, Piaget):
 
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
 > Before reading this re-examination, take a moment to articulate your current understanding of {topic}. What do you believe to be true about it? What are the core claims you'd defend? What evidence supports those beliefs? Writing this down — not just thinking it — creates the cognitive anchor that makes the dialectical process most productive. The comparison between your starting position and your position after the dialectical process is where the deepest learning lies.
@@ -605,7 +605,7 @@ Invite the reader to actively adopt a different interpretive lens and describe w
 
 **Format**:
 > [!ask-yourself-this] **Perspective Switch**
-> Set aside the {dominant framework} lens for a moment. From the perspective of {alternative framework / marginalized viewpoint / practical application}, what does {phenomenon} look like? What features become prominent that were invisible before? What questions arise that the dominant framework cannot ask? Practicing this switch is itself a form of intellectual development — it builds the capacity for genuine [[Actively Open-Minded Thinking]].
+> Set aside the {dominant framework} lens for a moment. From the perspective of {alternative framework / marginalized viewpoint / practical application}, what does {phenomenon} look like? What features become prominent that were invisible before? What questions arise that the dominant framework cannot ask? Practicing this switch is itself a form of intellectual development — it builds the capacity for genuine [[Actively-Open-Minded-Thinking]].
 
 #### 4. Conceptual Checkpoint — `> [!ask-yourself-this]`
 
@@ -688,11 +688,11 @@ This return-and-deepen pattern is the structural mechanism by which the dialecti
 
 ## Section 6: FAR Transfer Architecture
 
-[**FAR-Transfer-Architecture**:: A dedicated, research-grounded architecture for ensuring that the dialectical insights from the report travel beyond their originating domain. Drawing on [[Transfer of Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural Mapping Theory]] (Gentner, 1983), and [[Analogical Reasoning]] (Holyoak & Thagard, 1995), this system moves from concrete dialectical findings to abstract structural principles to specific applications in new domains.]
+[**FAR-Transfer-Architecture**:: A dedicated, research-grounded architecture for ensuring that the dialectical insights from the report travel beyond their originating domain. Drawing on [[Transfer-of-Learning]] research (Halpern, 1998; Perkins & Salomon, 1992; Barnett & Ceci, 2002), [[Structural Mapping Theory]] (Gentner, 1983), and [[Analogical-Reasoning]] (Holyoak & Thagard, 1995), this system moves from concrete dialectical findings to abstract structural principles to specific applications in new domains.]
 
 ### Why a Dedicated Phase
 
-Most reports treat transfer as an afterthought — a paragraph at the end noting that "these insights may apply elsewhere." Research on [[Transfer of Learning]] demonstrates why this fails: transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed. [[Diane Halpern]]'s four-component model identifies the requirements: (1) a dispositional component (motivation to transfer), (2) instruction in the skills of transfer, (3) training in specific transfer mechanisms (structural encoding, analogical reasoning), and (4) practice applying skills across contexts.
+Most reports treat transfer as an afterthought — a paragraph at the end noting that "these insights may apply elsewhere." Research on [[Transfer-of-Learning]] demonstrates why this fails: transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed. [[Diane Halpern]]'s four-component model identifies the requirements: (1) a dispositional component (motivation to transfer), (2) instruction in the skills of transfer, (3) training in specific transfer mechanisms (structural encoding, analogical reasoning), and (4) practice applying skills across contexts.
 
 This dedicated phase addresses components 2-4 systematically.
 
@@ -712,7 +712,7 @@ Identify other domains where the same abstract structural principle operates —
 
 #### Operation 3: Transfer Encoding
 
-Encode the insight in a form optimized for retrieval in new contexts. Research on [[Encoding Specificity]] and [[Schema Theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
+Encode the insight in a form optimized for retrieval in new contexts. Research on [[Encoding-Specificity]] and [[Schema Theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
 
 **Template**: *"When you encounter {trigger pattern — recognizable surface features}, consider whether {abstract principle} might be operating. The diagnostic question is: {question that tests whether the structural analogy holds}. If it does, the dialectical insight from this report predicts that {transferable prediction}."*
 
@@ -1180,7 +1180,7 @@ Every Dialectical Re-Examination Report follows an eight-phase architecture. Eac
 
 **Perspective-Switching Exercise:**
 > [!ask-yourself-this] **Perspective Switch**
-> Set aside {the received view} entirely. Adopt the perspective of {alternative framework}. From this vantage point, what does {the phenomenon} look like? What features become prominent that were invisible before? What questions arise that the received view cannot ask? The capacity to genuinely occupy multiple perspectives — not just acknowledge them — is the foundation of [[Actively Open-Minded Thinking]].
+> Set aside {the received view} entirely. Adopt the perspective of {alternative framework}. From this vantage point, what does {the phenomenon} look like? What features become prominent that were invisible before? What questions arise that the received view cannot ask? The capacity to genuinely occupy multiple perspectives — not just acknowledge them — is the foundation of [[Actively-Open-Minded-Thinking]].
 
 **Calibration Exercise** (after the densest section):
 > [!ask-yourself-this] **Calibration Check**
@@ -1256,7 +1256,7 @@ Every Dialectical Re-Examination Report follows an eight-phase architecture. Eac
 
 - **Application Bridges**: Specific, actionable recommendations for applying the transferred insight in at least 2 target domains. Include enough domain-specific detail to act on.
 
-- **Meta-Transfer Reflection**: A brief reflection on the transfer process itself — what makes some insights more transferable than others, and what the reader can learn about their own capacity for [[Transfer of Learning|transfer]].
+- **Meta-Transfer Reflection**: A brief reflection on the transfer process itself — what makes some insights more transferable than others, and what the reader can learn about their own capacity for [[Transfer-of-Learning|transfer]].
 
 **Callout Strategy:**
 - `> [!cross-domain-connection]` for structural analogues (2-3 REQUIRED)

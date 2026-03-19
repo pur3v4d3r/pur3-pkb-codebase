@@ -66,7 +66,7 @@ aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 
 ### What is Templater?
 
-[[Templater]] is a community plugin for [[obsidian]] that extends the native [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_obsidian-web-clipper 1/templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
+[[Templater]] is a community plugin for [[obsidian]] that extends the native [[templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
 
 - **Variable Interpolation**: Insert computed values based on file metadata, dates, or custom logic
 - **JavaScript Execution**: Run arbitrary [[JavaScript]] code within templates

@@ -46,7 +46,7 @@ link-related:
   - "[[working-memory]]"
   - "[[cognitive-load-theory]]"
   - "[[executive-function]]"
-  - "[[self-regulated-learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning]]"
   - "[[dual-process-theory]]"
   - "[[distributed-cognition]]"
   - "[[extended-mind]]"
@@ -321,7 +321,7 @@ LIMIT 10
 - [[Cognitive Biases]] - Systematic judgment deviations
   - [[Confirmation Bias]] - Belief-confirming evidence preference
   - [[Anchoring Effect]] - Initial value over-influence
-  - [[Availability Heuristic]] - Ease-of-recall bias
+  - [[Availability-Heuristic]] - Ease-of-recall bias
   - [[Representativeness Heuristic]] - Stereotype-based judgment
   - [[Illusions Of Comprehension]] - Metacognitive illusions
 
@@ -562,17 +562,17 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
 
 ## 🔗 Related Topics for PKB Expansion
 
-1. **[[Embodied Cognition]]**
+1. **[[Embodied-Cognition]]**
    - *Connection*: Extends [[Extended Mind]] by emphasizing bodily basis of thought
    - *Depth Potential*: Bridges cognitive science with phenomenology, motor control, AI robotics
    - *Knowledge Graph Role*: Links Pillar I (architecture) with sensorimotor foundations
 
-2. **[[Situated Cognition]]**
+2. **[[Situated-Cognition]]**
    - *Connection*: Complements [[Distributed Cognition]] and [[Extended Mind]]
    - *Depth Potential*: Environmental context effects on reasoning, learning, memory
    - *Knowledge Graph Role*: Cross-domain hub connecting cognition, ecology, education
 
-3. **[[Predictive Processing]]**
+3. **[[Predictive-Processing]]**
    - *Connection*: Unifying framework for perception, action, learning, and consciousness
    - *Depth Potential*: Bayesian brain hypothesis, active inference, free energy principle
    - *Knowledge Graph Role*: Meta-theoretical framework potentially reorganizing entire MOC

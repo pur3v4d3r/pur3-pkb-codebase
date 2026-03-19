@@ -161,7 +161,7 @@ importance: high
 > What the autonomy pathway mechanism reveals is that rewards do not merely add a new reason to perform an activity alongside the pre-existing intrinsic reason. They can transform the *experienced meaning* of the activity itself. Before the reward, drawing was an act of self-expression. After repeated reward administration, drawing is an act of earning. The activity's identity — what it *is* for the person — has changed. This is why the effect persists after rewards are removed: you cannot simply subtract the reward and expect to return to the previous motivational state, because the activity's meaning has been reorganised. This is a far more radical claim than merely saying "people become accustomed to rewards" — it is a claim about how reward structures reshape the self-world relationship.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's regulatory styles describe *within-person variability across activities*, not a fixed developmental level. This has profound practical implications: practitioners cannot treat a learner's "motivational profile" as a stable trait to be gradually improved — it must be assessed activity by activity.
@@ -226,7 +226,7 @@ importance: high
 
 **Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
@@ -236,8 +236,8 @@ importance: high
 
 **Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
@@ -246,8 +246,8 @@ importance: high
 
 **Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 

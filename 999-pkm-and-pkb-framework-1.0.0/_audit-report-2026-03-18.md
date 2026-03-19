@@ -128,7 +128,7 @@ They have outgoing links but nothing links back to them.
 | [[Cognitive-Alignment-Principle]] | 64 | 30 |
 | [[Self-Determination-Theory]] | 63 | 23 |
 | [[Cognitive-Conflict-Disequilibrium]] | 61 | 36 |
-| [[Self-Regulated-Learning-—-SRL]] | 57 | 26 |
+| [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]] | 57 | 26 |
 | [[Confirmation-Bias-Myside-Bias]] | 56 | 23 |
 | [[Elaborative-Interrogation]] | 55 | 31 |
 | [[Calibration]] | 52 | 33 |

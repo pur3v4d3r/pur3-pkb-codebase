@@ -25,7 +25,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 # PKM/PKB Framework — Design Principles & Implementation
 
 > [!abstract] Purpose
-> The practical output of the entire framework: the [[Integrated Learning System Model]], [[Five Convergence Zones]], and [[Twelve Master Principles]] with implementation guidance for [[Obsidian]]-based PKBs. This MOC translates 280,000 words of cross-domain theory into actionable PKB design decisions.
+> The practical output of the entire framework: the [[Integrated-Learning-System-Model]], [[Five-Convergence-Zones]], and [[Twelve-Master-Principles]] with implementation guidance for [[Obsidian]]-based PKBs. This MOC translates 280,000 words of cross-domain theory into actionable PKB design decisions.
 
 ---
 
@@ -174,7 +174,7 @@ Note creation, review, and reorganization workflows embed elaboration prompts, g
 
 #### [[DP5: Calibration Systems]] — Embedded Confidence Tracking
 
-Systematic tracking of confidence levels alongside actual knowledge accuracy. Surfaces the [[Fluency Illusion]] by forcing comparison between feeling of knowing and demonstrated knowing.
+Systematic tracking of confidence levels alongside actual knowledge accuracy. Surfaces the [[Fluency-Illusion]] by forcing comparison between feeling of knowing and demonstrated knowing.
 
 **Source:** FP3 | **Reports:** 18, 26
 
@@ -186,7 +186,7 @@ These three principles govern how the PKB evolves over time.
 
 #### [[RP1: Evolutionary Architecture]] — Scaffolding Fades with Expertise
 
-PKB structure should evolve dynamically: high scaffolding for novice domains (templates, prompts, rigid structure) fading as expertise develops. Prevents the [[Expertise Reversal Effect]] where scaffolding that helps beginners hinders experts.
+PKB structure should evolve dynamically: high scaffolding for novice domains (templates, prompts, rigid structure) fading as expertise develops. Prevents the [[Expertise-Reversal-Effect]] where scaffolding that helps beginners hinders experts.
 
 **Source:** FP1 + FP4 | **Reports:** 10, 24
 

@@ -23,13 +23,13 @@ Read: __LOCAL-REPO/CLAUDE.md
 ### Step 2: Load Memory Files (Priority Order)
 
 **Immediate Context** (read first):
-1. **[[.claude/core/activeContext]]** — Current work-in-progress, next steps
-2. **[[.claude/core/progress]]** — Implementation timeline, milestones
+1. **activeContext** — Current work-in-progress, next steps
+2. **progress** — Implementation timeline, milestones
 
 **Strategic Context** (as needed):
-3. **[[.claude/core/projectbrief]]** — Vault purpose, goals, constraints
-4. **[[.claude/core/systemPatterns]]** — Architectural patterns, design decisions
-5. **[[.claude/core/techContext]]** — Technology stack, configurations
+3. **projectbrief** — Vault purpose, goals, constraints
+4. **systemPatterns** — Architectural patterns, design decisions
+5. **techContext** — Technology stack, configurations
 
 **Reference** (optional):
 6. **[[00-meta/system/session-memory]]** — Human-readable session history
@@ -250,9 +250,9 @@ Use the connection tool to find notes related to "projectbrief.md"
 ### Can't Find Information
 
 **Check order**:
-1. [[.claude/core/activeContext]] — Recent work
-2. [[.claude/core/progress]] — Timeline
-3. [[.claude/memory-index]] — Navigation hub
+1. activeContext — Recent work
+2. progress — Timeline
+3. memory-index — Navigation hub
 4. [[00-meta/system/session-memory]] — Full history
 
 ### Memory Files Out of Date
@@ -340,9 +340,9 @@ ls .claude/core/*.md | wc -l
 - [[00-meta/system/user-preferences]] — Communication preferences
 
 ### Agent Memory (.claude/)
-- [[.claude/memory-index]] — Master navigation hub
-- [[.claude/core/activeContext]] — Current WIP
-- [[.claude/core/progress]] — Implementation status
+- memory-index — Master navigation hub
+- activeContext — Current WIP
+- progress — Implementation status
 
 ---
 

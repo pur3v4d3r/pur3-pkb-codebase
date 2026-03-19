@@ -105,7 +105,7 @@ In this model, cognitive complexity is secondary to affective depth. A learner w
 
 ### Self-Directed Learning Architecture
 
-[[Self-Directed Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
+[[Self-Directed-Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
 
 **Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[Metacognitive Awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.
 
@@ -140,7 +140,7 @@ Humanistic Learning Theory occupies a specific position in the constellation of 
 
 **[[Behaviorist Learning Theory]]** (Skinner, Thorndike, Watson) conceptualizes learning as behavioral change resulting from environmental conditioning through reinforcement schedules. Humanistic theory explicitly rejects this mechanistic model, arguing that:
 
-- External rewards undermine [[Intrinsic Motivation]] (see [[Overjustification Effect]])
+- External rewards undermine [[Intrinsic Motivation]] (see [[Overjustification-Effect]])
 - Humans are not stimulus-response machines but meaning-making agents
 - Learning divorced from personal relevance produces only shallow, non-transferable knowledge
 - The [[Black Box]] approach ignoring internal states misses the essence of human cognition
@@ -170,7 +170,7 @@ Despite tensions, both frameworks recognize that learning involves transformatio
 
 ### Connection to [[Experiential Learning Theory]]
 
-**[[Kolb's Experiential Learning Cycle]]** operationalizes many humanistic principles into a structured model:
+**[[Kolb's-Experiential-Learning-Cycle]]** operationalizes many humanistic principles into a structured model:
 
 1. **Concrete Experience** (doing/experiencing)
 2. **Reflective Observation** (reviewing/reflecting)
@@ -225,7 +225,7 @@ This cycle embodies the humanistic emphasis on learning through personally meani
 
 **Efficiency Concerns**: Self-directed, exploratory learning may be less efficient than structured instruction for acquiring specific skill sets within time constraints. A purely humanistic approach might not serve someone needing to pass a certification exam or acquire job-specific competencies quickly.
 
-**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory]], [[Dual Coding Theory]], or [[Retrieval Practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.
+**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory]], [[Dual-Coding-Theory]], or [[Retrieval-Practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.
 
 Despite these limitations, humanistic principles remain invaluable for understanding learning as a holistic, personally meaningful process—particularly for lifelong learners designing self-directed development programs.
 
@@ -276,7 +276,7 @@ Based on your context (building a cognitive self-development project emphasizing
 
 5. **[[Intrinsic Motivation Research]] (Csikszentmihalyi, Deci)**
    - **Connection**: Explores the psychological states that make learning inherently rewarding
-   - **Depth Potential**: Includes [[Flow Theory]], [[Optimal Challenge]], [[Autotelic Experience]]
+   - **Depth Potential**: Includes [[Flow Theory]], [[Optimal-Challenge]], [[Autotelic Experience]]
    - **PKB Integration**: Design principles for creating intrinsically motivating learning conditions
 
 6. **[[Affective Domain Learning]] (Krathwohl)**

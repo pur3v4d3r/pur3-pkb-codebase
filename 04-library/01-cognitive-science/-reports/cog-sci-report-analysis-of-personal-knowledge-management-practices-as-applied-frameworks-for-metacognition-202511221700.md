@@ -20,7 +20,7 @@ quarter: "[[2025-Q4]]"
 year: "[[2025]]"
 type: cog-psy/report
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-22|Daily-Note]]"
 ---
@@ -34,7 +34,7 @@ link-related:
 # 🗺️ Interdisciplinary Synthesis Report: [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] as Applied [[Metacognition]]
 
 > [!abstract]
-> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive Psychology]]**, **[[Information Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
+> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive Psychology]]**, **[[Information-Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
 
 -----
 
@@ -93,12 +93,12 @@ The psychological framework of Nelson and Narens (1990) divides metacognition in
 
 -----
 
-## 3\. 🌉 The Second Bridge: Analysis via [[Information Science]]
+## 3\. 🌉 The Second Bridge: Analysis via [[Information-Science]]
 
 This section repeats the process, adding another layer of "stereoscopic" vision.
 
 > [!the-purpose]
-> To further enrich the analysis by applying the distinct frameworks of **[[Information Science]]** and **[[Ontology]]**.
+> To further enrich the analysis by applying the distinct frameworks of **[[Information-Science]]** and **[[Ontology]]**.
 
 ### 3.1. A New Lens: Information Science's Perspective
 

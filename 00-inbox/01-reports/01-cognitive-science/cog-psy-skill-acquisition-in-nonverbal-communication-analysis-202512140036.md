@@ -30,7 +30,7 @@ confidence: "speculative"
 next-review: "2025-12-21"
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-12-14|Daily-Note]]"
 ---
@@ -459,7 +459,7 @@ Optimal skill acquisition requires continuous calibration of task difficulty to 
 
 For micro-expression detection, adaptive training might manipulate exposure duration (starting at 200-500 milliseconds for novices, progressively decreasing to 40 milliseconds as accuracy improves), expression intensity (beginning with full-intensity prototypical displays, gradually introducing subtle or partial expressions), or stimulus complexity (isolated facial regions progressing to full-face configurations with competing information). The [[Micro-Expression Training Tool]] implements a graduated approach where learners first practice identifying emotions at longer exposure durations, then progressively challenge themselves with briefer presentations as confidence builds, though the specific adaptation algorithms remain proprietary.
 
-<span style='color: #72FFF1;'>Interleaved versus blocked practice</span> represents another critical training structure decision. Blocked practice involves extended repetition of a single task variant (e.g., multiple consecutive trials detecting anger) before switching to a different variant (detecting fear). Interleaved practice randomly intermixes different task variants within a practice session. Motor learning research consistently demonstrates that while blocked practice produces superior performance during acquisition, interleaved practice yields better retention and transfer—a phenomenon termed the [[Contextual Interference Effect]]. The benefit of interleaving appears to arise from forcing learners to actively retrieve task-relevant information and discriminate between similar response alternatives on each trial rather than simply repeating the most recent response.
+<span style='color: #72FFF1;'>Interleaved versus blocked practice</span> represents another critical training structure decision. Blocked practice involves extended repetition of a single task variant (e.g., multiple consecutive trials detecting anger) before switching to a different variant (detecting fear). Interleaved practice randomly intermixes different task variants within a practice session. Motor learning research consistently demonstrates that while blocked practice produces superior performance during acquisition, interleaved practice yields better retention and transfer—a phenomenon termed the [[Contextual-Interference-Effect]]. The benefit of interleaving appears to arise from forcing learners to actively retrieve task-relevant information and discriminate between similar response alternatives on each trial rather than simply repeating the most recent response.
 
 For emotion discrimination training, interleaving would involve random presentation of all emotion categories within each practice session rather than blocked exposure to one emotion at a time. <span style='color: #FF5700;'>Research on perceptual category learning</span> suggests that interleaving is particularly beneficial for learning to discriminate between similar categories (fear versus surprise, anger versus disgust) where within-category consolidation must be balanced against between-category differentiation. However, extreme variability can overwhelm working memory capacity for complex discriminations, suggesting that partially blocked schedules (short blocks of 3-5 trials before category switching) may provide optimal balance between consolidation and differentiation.
 
@@ -534,7 +534,7 @@ The distinction between <span style='color: #72FFF1;'>perceptual sensitivity imp
 
 izes into automatic pattern recognition.
 >
-> **[[Transfer of Learning]]** research provides theoretical grounding for understanding why training often fails to generalize beyond laboratory contexts. Near transfer to similar stimuli occurs readily, but far transfer requiring abstraction of deep principles from surface features demands training protocols that explicitly promote schema induction through varied exemplars and explicit instruction in underlying structural commonalities.
+> **[[Transfer-of-Learning]]** research provides theoretical grounding for understanding why training often fails to generalize beyond laboratory contexts. Near transfer to similar stimuli occurs readily, but far transfer requiring abstraction of deep principles from surface features demands training protocols that explicitly promote schema induction through varied exemplars and explicit instruction in underlying structural commonalities.
 
 > [!summary]
 > **Synthesis of Core Mechanisms and Applied Principles**

@@ -231,7 +231,7 @@ INFORMATION ARCHITECTURE:
 - [[CSS Customization]]
 - [[Nested Structures]]
 - [[Code Blocks]]
-- [[Wiki Links]]
+- [[wiki-links]]
 - [[Frontmatter]]
 - [[YAML]]
 - [[Knowledge Graph]]
@@ -286,7 +286,7 @@ I'll create a comprehensive reference note on Obsidian callout techniques. Let m
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference is organized into 8 major sections covering foundational syntax, nesting architecture, Markdown integration, plugin compatibility, CSS customization, best practices, syntax patterns, and troubleshooting. Use callout folding (`+`/`-` indicators) to manage document length, and leverage [[Wiki Links]] to explore related concepts.
+> This reference is organized into 8 major sections covering foundational syntax, nesting architecture, Markdown integration, plugin compatibility, CSS customization, best practices, syntax patterns, and troubleshooting. Use callout folding (`+`/`-` indicators) to manage document length, and leverage [[wiki-links]] to explore related concepts.
 
 ## 📑 Table of Contents
 

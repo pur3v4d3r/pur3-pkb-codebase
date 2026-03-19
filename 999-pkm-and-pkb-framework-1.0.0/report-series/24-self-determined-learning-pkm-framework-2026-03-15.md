@@ -1,10 +1,9 @@
 ---
-doc_id: "pkm-24-self-determined-learning-pedagogy-to-heutagogy-2026-03-15"
+doc_id: pkm-24-self-determined-learning-pedagogy-to-heutagogy-2026-03-15
 doc_type: permanent-note
 doc_created: 2026-03-15
 doc_modified: 2026-03-15
 author: claude-sonnet-4-6
-
 primary_domain: knowledge-management
 secondary_domains:
   - educational-science
@@ -15,39 +14,28 @@ secondary_domains:
   - stoic-philosophy
   - knowledge-management
   - learning-experience-design
-
-analytical-focus: >
-  How does the progression from Pedagogy (teacher-directed) to Andragogy (self-directed)
-  to Heutagogy (self-determined) map onto PKB development stages — and what does each
-  stage demand from PKB design? More fundamentally: what philosophical and psychological
-  transformation must occur for a learner to become genuinely self-determining rather than
-  merely self-directing, and how does a PKB either facilitate or obstruct that transformation?
-
+analytical-focus: |
+  How does the progression from Pedagogy (teacher-directed) to Andragogy (self-directed) to Heutagogy (self-determined) map onto PKB development stages — and what does each stage demand from PKB design? More fundamentally: what philosophical and psychological transformation must occur for a learner to become genuinely self-determining rather than merely self-directing, and how does a PKB either facilitate or obstruct that transformation?
 framework-series-position: "Report 24 of 30 — Tier 3: Synthesis & Advanced Application"
-
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 08: Reflective Practice and Experiential Learning]]"
   - "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
-
 feeds-into:
   - "[[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]"
   - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]"
   - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
-
 cross-report-dependencies:
   - "[[Report 05: SDT internalization continuum, autonomy need, integrated regulation]]"
   - "[[Report 10: PAH spectrum mechanics, scaffolding/fading, expertise reversal]]"
   - "[[Report 19: Interest deepening, identity consolidation, heutagogical reference]]"
   - "[[Report 04: Metacognitive regulation, SRL, Zimmerman's cycles]]"
-
 status: evergreen
 maturity: highly-developed
 confidence: high
 knowledge_level: advanced
-
 tags:
   - pkm-framework
   - educational-science/heutagogy
@@ -64,14 +52,12 @@ tags:
   - pkb-design/epistemological-architecture
   - pkb-design/heutagogical
   - report-24
-
 analytical-contributions:
   analytical_insight: 5
   what_the_evidence_suggests: 3
   tension_identified: 3
   cross_domain_connection: 4
   original_synthesis: 3
-
 related-concepts:
   - "[[Heutagogy]]"
   - "[[Andragogy]]"
@@ -92,7 +78,7 @@ related-concepts:
   - "[[Malcolm Knowles]]"
   - "[[Socratic Self-Examination]]"
   - "[[PAH-Continuum|PAH Continuum]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Metacognitive Autonomy]]"
   - "[[Reflective-Practice|Reflective Practice]]"
   - "[[Correspondence Theory of Knowledge]]"
@@ -103,33 +89,15 @@ related-concepts:
   - "[[PKM Design Principles]]"
   - "[[Obsidian]]"
   - "[[Emergent Knowledge Structure]]"
-
 aliases:
   - Report 24
-  - 'Report 24: Self-Determined Learning and the PKB'
-  - 'Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy'
+  - "Report 24: Self-Determined Learning and the PKB"
+  - "Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy"
   - PKM Report 24
   - Heutagogy and PKB Design
   - Self-Determined Learning PKB
-
-summary: >
-  Report 24 synthesizes the Pedagogy-Andragogy-Heutagogy (PAH) continuum (educational
-  science), Self-Determination Theory (educational psychology), Double-Loop Learning
-  (Argyris & Schön), Transformative Learning Theory (Mezirow), and Socratic philosophical
-  self-examination to address the deepest question in PKB design: what must change —
-  philosophically, psychologically, and architecturally — for a learner to become genuinely
-  self-determining rather than merely self-directing? The report's central argument is that
-  the move from andragogy to heutagogy is not quantitative (more self-direction) but
-  qualitative: it involves an epistemological shift from a correspondence theory (there is
-  correct knowledge to acquire) to a constructivist-emergentist theory (knowledge is created
-  through inquiry), which demands a fundamentally different PKB architecture. The report's
-  original contribution — the Knowledge Ecology Model — proposes that the heutagogical PKB
-  functions not as a managed system but as a self-organizing intellectual ecosystem in which
-  the user's learning agenda itself becomes an emergent property rather than a prior design
-  decision. Three PKB design stages (Pedagogical PKB, Andragogical PKB, Heutagogical PKB)
-  are developed with specific Obsidian implementation guidance, and the critical concept of
-  double-loop PKB design — supporting not just learning but meta-learning — is introduced as
-  the distinguishing architectural feature of the heutagogical stage.
+summary: |
+  Report 24 synthesizes the Pedagogy-Andragogy-Heutagogy (PAH) continuum (educational science), Self-Determination Theory (educational psychology), Double-Loop Learning (Argyris & Schön), Transformative Learning Theory (Mezirow), and Socratic philosophical self-examination to address the deepest question in PKB design: what must change — philosophically, psychologically, and architecturally — for a learner to become genuinely self-determining rather than merely self-directing? The report's central argument is that the move from andragogy to heutagogy is not quantitative (more self-direction) but qualitative: it involves an epistemological shift from a correspondence theory (there is correct knowledge to acquire) to a constructivist-emergentist theory (knowledge is created through inquiry), which demands a fundamentally different PKB architecture. The report's original contribution — the Knowledge Ecology Model — proposes that the heutagogical PKB functions not as a managed system but as a self-organizing intellectual ecosystem in which the user's learning agenda itself becomes an emergent property rather than a prior design decision. Three PKB design stages (Pedagogical PKB, Andragogical PKB, Heutagogical PKB) are developed with specific Obsidian implementation guidance, and the critical concept of double-loop PKB design — supporting not just learning but meta-learning — is introduced as the distinguishing architectural feature of the heutagogical stage.
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -198,7 +166,7 @@ The [[Pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as 
 
 ### Self-Determination Theory's Regulatory Continuum
 
-[[Self-Determination-Theory|Self-Determination Theory]] (Deci & Ryan, 1985, 2000) provides the motivational substrate that explains *why* the PAH progression occurs and under what conditions it is sustainable. SDT's [[Organismic Integration Theory]] — its account of how extrinsic motivation becomes internalized — maps onto the PAH continuum with striking precision.
+[[Self-Determination-Theory|Self-Determination Theory]] (Deci & Ryan, 1985, 2000) provides the motivational substrate that explains *why* the PAH progression occurs and under what conditions it is sustainable. SDT's [[Organismic-Integration-Theory]] — its account of how extrinsic motivation becomes internalized — maps onto the PAH continuum with striking precision.
 
 > [!definition] **SDT's Regulatory Continuum (Educational Psychology — Deci & Ryan, OIT)**
 > SDT identifies six points on a continuum of behavioral regulation: **(1) Amotivation** — no motivation, no engagement; **(2) External Regulation** — behavior driven by reward/punishment; **(3) Introjected Regulation** — behavior driven by internalized pressure, ego-involvement, shame; **(4) Identified Regulation** — behavior aligned with personally valued goals, though instrumentally pursued; **(5) Integrated Regulation** — behavior fully assimilated into one's core identity and values, experienced as an authentic expression of self; **(6) Intrinsic Motivation** — behavior engaged in for its inherent enjoyment, curiosity, or satisfaction. The pedagogical learner typically operates at External or Introjected Regulation. The andragogical learner operates at Identified or Integrated Regulation. The heutagogical learner has fully integrated learning into their identity — they do not decide to learn because it serves goals; learning is simply how they are.
@@ -293,7 +261,7 @@ Argyris and Schön's double-loop learning framework emerged from organizational 
 
 ### Mechanism 1: The Internalization Engine
 
-The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization-Continuum|Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.
+The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization-Continuum|Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic-Integration-Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], and [[Relatedness-Need]] — in the specific context of the activity being internalized.
 
 Internalization is not a deliberate cognitive act. A learner does not decide to shift from external to integrated regulation; the shift occurs as a consequence of sustained need satisfaction in learning contexts. When learning consistently satisfies the need for autonomy (the experience of volition and self-endorsement), competence (the experience of effectiveness and mastery), and relatedness (the experience of meaningful connection to others), the regulatory style associated with that learning progressively internalizes — it becomes identified, then integrated, then intrinsically motivated.
 

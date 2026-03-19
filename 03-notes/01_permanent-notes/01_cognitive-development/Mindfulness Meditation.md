@@ -28,7 +28,7 @@ next-review: 2025-12-01
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-24|Daily-Note]]"
 status: active

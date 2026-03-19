@@ -11,13 +11,13 @@ priority: high
 created: 2025-12-24
 type: tutorial
 project: prompt-engineering-templater-system
-link-up: "[[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]]"
+link-up: "[[01-spes-master-operations-manual]]"
 ---
 
 # 🚀 SPES Quick Start Guide
 
 > [!abstract] Get Operational in 15 Minutes
-> This guide gets you creating, managing, and optimizing prompts immediately. For comprehensive documentation, see [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]].
+> This guide gets you creating, managing, and optimizing prompts immediately. For comprehensive documentation, see [[01-spes-master-operations-manual]].
 
 ---
 
@@ -234,7 +234,7 @@ WHERE maturity = "seedling" AND created < date(today) - dur(7 days)
 |------------|----------|
 | Learn all metadata fields | [[metadata-schema-reference]] |
 | Understand workflows | [[architecture-overview]] |
-| Master the full system | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]] |
+| Master the full system | [[01-spes-master-operations-manual]] |
 | Create custom components | [[02-component-library-reference]] |
 
 ---
@@ -306,4 +306,4 @@ quality-score: 0.0
 ---
 
 *Quick Start Version: 1.0.0 | Created: 2025-12-24*
-*For full documentation: [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]]*
+*For full documentation: [[01-spes-master-operations-manual]]*

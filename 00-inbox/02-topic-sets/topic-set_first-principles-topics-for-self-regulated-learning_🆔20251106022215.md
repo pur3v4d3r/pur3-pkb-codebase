@@ -52,7 +52,7 @@ Deconstruct the concept of [[Self-Regulated Learning]] from first principles by 
 
 **Engineered Input for Gem:**
 
-Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or "grit." Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive load]] theory, automaticity, and [[Habit Formation]]. Analyze whether "willpower" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as "lacking self-discipline"?
+Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or "grit." Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[Cognitive-Load]] theory, automaticity, and [[Habit Formation]]. Analyze whether "willpower" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as "lacking self-discipline"?
 
 ---
 
@@ -78,7 +78,7 @@ Deconstruct the foundational assumption that [[Self-Regulated Learning]] is a do
 
 **Engineered Input for Gem:**
 
-Deconstruct the foundational assumption that [[Self-Regulated Learning]] is primarily a conscious, deliberate, metacognitively aware process. Challenge the dominant paradigm in SRL research that relies heavily on self-report measures and think-aloud protocols, which by design only capture learners' explicit, verbalizable awareness of their regulatory activity. Return to first principles about human cognition: What proportion of skilled performance—including learning—occurs through implicit, automatic, or non-conscious processes? Investigate the role of [[procedural memory]], [[implicit learning]], automaticity, intuition, and "feeling of knowing" in regulatory activity. Examine whether expert learners actually engage in *less* conscious metacognitive monitoring than novices, having automated effective regulatory routines. Rebuild the concept of SRL by determining: (1) What are the atomic mechanisms of regulation, and which operate outside conscious awareness? (2) How do implicit and explicit regulatory processes interact during learning? (3) What are the measurement implications if much of effective self-regulation is non-conscious? (4) Should pedagogical interventions focus on making implicit regulation explicit, or on helping learners develop effective automatic regulatory routines?
+Deconstruct the foundational assumption that [[Self-Regulated Learning]] is primarily a conscious, deliberate, metacognitively aware process. Challenge the dominant paradigm in SRL research that relies heavily on self-report measures and think-aloud protocols, which by design only capture learners' explicit, verbalizable awareness of their regulatory activity. Return to first principles about human cognition: What proportion of skilled performance—including learning—occurs through implicit, automatic, or non-conscious processes? Investigate the role of [[Procedural-Memory]], [[implicit learning]], automaticity, intuition, and "feeling of knowing" in regulatory activity. Examine whether expert learners actually engage in *less* conscious metacognitive monitoring than novices, having automated effective regulatory routines. Rebuild the concept of SRL by determining: (1) What are the atomic mechanisms of regulation, and which operate outside conscious awareness? (2) How do implicit and explicit regulatory processes interact during learning? (3) What are the measurement implications if much of effective self-regulation is non-conscious? (4) Should pedagogical interventions focus on making implicit regulation explicit, or on helping learners develop effective automatic regulatory routines?
 
 ---
 
@@ -86,7 +86,7 @@ Deconstruct the foundational assumption that [[Self-Regulated Learning]] is prim
 
 > [!further-exploration]
 > Recommended continued study:
-> - **[[Embodied Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models
+> - **[[Embodied-Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models
 > - **[[Distributed Cognition]] Theory**: Investigate how tools, artifacts, and socio-material arrangements participate in regulatory processes
 > - **[[Complexity Theory]] and Learning**: Examine SRL as an emergent property of complex adaptive systems rather than a linear skill progression
 > - **[[Cultural-Historical Activity Theory]] (CHAT)**: Analyze how cultural tools and social practices mediate self-regulatory development across different contexts
@@ -104,8 +104,8 @@ Deconstruct the foundational assumption that [[Self-Regulated Learning]] is prim
 * [[Domain-Specific Knowledge]]
 * [[Implicit Learning]]
 * [[Habit Formation]]
-* [[Ecological Psychology]]
-* [[Dual-Process Theory]]
+* [[Ecological-Psychology]]
+* [[Dual-Process-Theory]]
 
 ```
 <thinking>

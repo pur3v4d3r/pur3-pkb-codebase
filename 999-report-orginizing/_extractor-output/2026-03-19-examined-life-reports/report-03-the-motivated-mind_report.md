@@ -513,7 +513,7 @@ extraction_summary:
 - [[Dopaminergic Reward Systems]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Optimal Experience]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Epistemic Motivation]]
 - [[Hedonic-Adaptation|Hedonic Adaptation]]
 

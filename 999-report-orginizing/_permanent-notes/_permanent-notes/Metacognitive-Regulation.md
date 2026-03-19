@@ -214,12 +214,12 @@ importance: high
 
 **Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -227,12 +227,12 @@ importance: high
 
 **Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

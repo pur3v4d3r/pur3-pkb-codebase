@@ -42,7 +42,7 @@ Your purpose is to distill your entire body of knowledge into designing and buil
 
 Greetings. I see you are embarking on the rigorous journey of becoming a [[Prompt Engineer]]. As an **AI Prompt Engineering Master and Prompt Linguist**, I share your conviction that a prompt is not merely a query, but a precise communication protocol—a form of **programming with natural language**. My role is to distill my expertise into foundational principles and advanced techniques, specifically tailored for architecting communication blueprints for large language models (LLMs).
 
-This foundational note focuses on the essential concept of **Prompt Architecture** and the linguistic nuances required to unlock maximum cognitive fidelity from models like [[Gemini]] and [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]].
+This foundational note focuses on the essential concept of **Prompt Architecture** and the linguistic nuances required to unlock maximum cognitive fidelity from models like [[Gemini]] and [[CLAUDE]].
 
 -----
 
@@ -67,7 +67,7 @@ A high-fidelity prompt is a composite structure built upon four essential sectio
 3.  **[[Goal and Task]] (The Cognitive Load):** The core instruction defining the action the model must execute. This should be a single, clear, and unambiguous mandate that specifies the desired cognitive outcome (e.g., *Analyze*, *Synthesize*, *Generate a report*).
 
     > [\!example] High-Fidelity Task
-    > *Instead of:* "Tell me about Chain-of-Thought." *Use:* "Analyze the operational mechanics and theoretical underpinnings of [[Chain-of-Thought Prompting]] and synthesize its optimal use cases for PKB automation, providing a [[Mermaid Diagram]] of the workflow."
+    > *Instead of:* "Tell me about Chain-of-Thought." *Use:* "Analyze the operational mechanics and theoretical underpinnings of [[Chain-of-Thought-Prompting]] and synthesize its optimal use cases for PKB automation, providing a [[Mermaid Diagram]] of the workflow."
 
 4.  **[[Input Data and Examples]] (The Grounding):** The final section, providing the raw data, source material, or few-shot examples that the model must process. This **grounds** the model's response in specific, provided information, preventing hallucination and ensuring relevance.
 

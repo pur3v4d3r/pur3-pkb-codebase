@@ -31,7 +31,7 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 # Plan
 
 > [!the-mission]
-> **I need to reduce my** [[Cognitive Load]].
+> **I need to reduce my** [[Cognitive-Load]].
 
 > [!todo]
 >
@@ -130,7 +130,7 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ## 📊 Category 1: PKB Infrastructure (Foundation)
 
 > [!insight]
-> **Why This Matters First**: A chaotic PKB creates constant [[Cognitive Load]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
+> **Why This Matters First**: A chaotic PKB creates constant [[Cognitive-Load]], draining mental resources from actual learning. Every hour spent organizing your system saves dozens of hours in future friction. This is **highest ROI work** for a knowledge worker.
 
 ### 🔴 Critical Priority
 
@@ -341,7 +341,7 @@ Important for efficiency, but system functions without them:
 1. [[Cognitive Load Theory]] (directly applicable to PKB design)
 2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active Recall]] (learning efficiency)
 3. [[Metacognitive Regulation]] (learning to learn)
-4. [[Transfer of Learning]] (applying knowledge across domains)
+4. [[Transfer-of-Learning]] (applying knowledge across domains)
 
 > [!connection-ideas]
 > Create atomic notes for each major concept. Link to practical applications in your PKB workflows. This is perfect candidate for [[zettelkasten method]]—theoretical notes linked to practical implementation notes.
@@ -641,7 +641,7 @@ SORT file.mtime DESC
 
 **Prerequisite Skills**:
 - Solid API usage
-- Understanding of [[Chain-of-Thought Prompting]]
+- Understanding of [[Chain-of-Thought-Prompting]]
 - Basic programming (Python)
 - [[ReAct Framework]] and [[Tool Use Patterns]]
 
@@ -906,7 +906,7 @@ This note needs to cover:
 - [[Folder Hierarchy Design]]
 - [[Note Type Taxonomy]]
 - [[Iterative Refinement]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting]]
 - [[ReAct Framework]]
 - [[Context Window Management]]
 - [[Self-Regulated Learning]]

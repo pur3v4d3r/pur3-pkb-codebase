@@ -1,7 +1,4 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Organismic Integration Theory: How Extrinsic Becomes Own — A Focused Analysis of the Internalization Continuum"
 aliases:
   - "[[Organismic-Integration-Theory|OIT]]"
@@ -11,10 +8,6 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - focused-analysis
@@ -35,103 +28,74 @@ tags:
   - comprehensive
   - research-grounded
   - analytical-depth
-
-domain: "learning-science"
+domain: learning-science
 subdomains:
-  - "motivation"
-  - "self-determination"
-  - "educational-psychology"
-  - "instructional-design"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-13"
-updated: "2026-03-13"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - motivation
+  - self-determination
+  - educational-psychology
+  - instructional-design
+created: 2026-03-13
+updated: 2026-03-13
 source-type: academic-synthesis
-research-base: "empirical-studies and theoretical-analysis"
+research-base: empirical-studies and theoretical-analysis
 evidence-quality: high
 peer-validation: multiple-frameworks
-
-analytical-focus: "How do human beings transform externally-imposed regulations into genuinely self-determined motivations — and what conditions enable or block this transformation?"
-
+analytical-focus: How do human beings transform externally-imposed regulations into genuinely self-determined motivations — and what conditions enable or block this transformation?
 key-frameworks:
-  - name: "Organismic Integration Theory (OIT)"
-    description: "Sub-theory of SDT specifying a continuum of regulatory styles from amotivation through external, introjected, identified, integrated, and intrinsic regulation"
-    developers: "Deci & Ryan (1985, 2000)"
-    validation: "Extensive cross-cultural empirical support"
-  - name: "Self-Determination Theory (SDT)"
-    description: "Macro-theory of human motivation grounding OIT within basic psychological needs framework"
-    developers: "Deci & Ryan (1985)"
-    validation: "Highly established"
-  - name: "Basic Psychological Needs Theory (BPNT)"
-    description: "Sub-theory specifying that autonomy, competence, and relatedness satisfaction enables internalization"
-    developers: "Ryan & Deci (2000)"
-    validation: "Well-supported"
-
+  - name: Organismic Integration Theory (OIT)
+    description: Sub-theory of SDT specifying a continuum of regulatory styles from amotivation through external, introjected, identified, integrated, and intrinsic regulation
+    developers: Deci & Ryan (1985, 2000)
+    validation: Extensive cross-cultural empirical support
+  - name: Self-Determination Theory (SDT)
+    description: Macro-theory of human motivation grounding OIT within basic psychological needs framework
+    developers: Deci & Ryan (1985)
+    validation: Highly established
+  - name: Basic Psychological Needs Theory (BPNT)
+    description: Sub-theory specifying that autonomy, competence, and relatedness satisfaction enables internalization
+    developers: Ryan & Deci (2000)
+    validation: Well-supported
 key-researchers:
-  - "Edward Deci"
-  - "Richard Ryan"
-  - "Maarten Vansteenkiste"
-  - "Bart Soenens"
-  - "Netta Weinstein"
-  - "Avi Assor"
-  - "Guy Roth"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~10,400"
-complexity-level: "advanced-practitioner"
-target-audience: "Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivational theory"
+  - Edward Deci
+  - Richard Ryan
+  - Maarten Vansteenkiste
+  - Bart Soenens
+  - Netta Weinstein
+  - Avi Assor
+  - Guy Roth
+word-count: ~10,400
+complexity-level: advanced-practitioner
+target-audience: Instructional designers, educational psychologists, and graduate students with foundational knowledge of SDT and motivational theory
 depth-level: analytical-focused
 treatment-type: focused-analysis
-
 analytical-contributions:
   insight-count: 5
   original-syntheses: 2
   tensions-identified: 3
   cross-domain-connections: 2
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Internalization"
-  - "Integration"
-  - "Regulatory continuum"
-  - "Introjection"
-  - "Identified regulation"
-  - "Autonomous vs. controlled motivation"
-  - "Organismic integration tendency"
-  - "Autonomy support"
-
+  - Internalization
+  - Integration
+  - Regulatory continuum
+  - Introjection
+  - Identified regulation
+  - Autonomous vs. controlled motivation
+  - Organismic integration tendency
+  - Autonomy support
 key-arguments:
-  - "The regulatory continuum is topological and bidirectional, not a developmental stage sequence to be completed once"
-  - "Introjection is uniquely damaging relative to its position on the continuum — its costs may exceed those of pure external regulation in certain contexts"
+  - The regulatory continuum is topological and bidirectional, not a developmental stage sequence to be completed once
+  - Introjection is uniquely damaging relative to its position on the continuum — its costs may exceed those of pure external regulation in certain contexts
   - "OIT carries an implicit normativity that requires critical examination: integration is presumed optimal, but this assumption has important limits"
-
 key-distinctions:
   - "Internalization vs. integration: taking in a value vs. fully assimilating it as one's own"
-  - "Controlled motivation (external + introjected) vs. autonomous motivation (identified + integrated + intrinsic)"
+  - Controlled motivation (external + introjected) vs. autonomous motivation (identified + integrated + intrinsic)
   - "Quantity of motivation vs. quality of motivation: OIT's central insight"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
-
 related:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Basic Psychological Needs Theory]]"
@@ -139,84 +103,64 @@ related:
   - "[[Identity Development Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Expectancy-Value Theory]]"
-
 broader:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Motivational Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Introjection in Learning Contexts]]"
   - "[[Autonomous Motivation Measurement (RAI)]]"
   - "[[Conditional Regard and Introjection]]"
-
 see-also:
   - "[[Vygotsky Zone of Proximal Development]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Psychological Safety]]"
   - "[[Gamification]]"
-
 contrasts-with:
   - "[[Behaviorist Reinforcement Theory]]"
   - "[[Expectancy-Value Theory]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Coaching and Mentoring]]"
   - "[[Health Behavior Change]]"
   - "[[Organizational Management]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic Motivation Research (Deci 1971)]]"
   - "[[Basic Psychological Needs Theory]]"
-
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
   - "[[Motivational Interviewing]]"
   - "[[Self-Regulated Learning — Motivational Substrates]]"
-
 expansion-topics:
   - topic: "[[Conditional Regard and the Introjection Trap]]"
-    description: "Deep analysis of how contingent parental/teacher approval drives introjected regulation, including Assor & Roth's empirical work on its long-term psychological costs and what distinguishes healthy from unhealthy internalization scaffolding"
+    description: Deep analysis of how contingent parental/teacher approval drives introjected regulation, including Assor & Roth's empirical work on its long-term psychological costs and what distinguishes healthy from unhealthy internalization scaffolding
     priority: high
   - topic: "[[Autonomy Support — Mechanisms and Measurement]]"
-    description: "Focused treatment of how autonomy-supportive environments are operationalized, including the distinction between autonomy support and permissiveness, Reeve's work on motivating styles, and practical implementation principles"
+    description: Focused treatment of how autonomy-supportive environments are operationalized, including the distinction between autonomy support and permissiveness, Reeve's work on motivating styles, and practical implementation principles
     priority: high
   - topic: "[[Motivational Interviewing as Applied OIT]]"
-    description: "Analysis of motivational interviewing as the clinical translation of OIT's internalization principles — how the techniques map onto OIT constructs and what this connection reveals about both"
+    description: Analysis of motivational interviewing as the clinical translation of OIT's internalization principles — how the techniques map onto OIT constructs and what this connection reveals about both
     priority: high
   - topic: "[[Relative Autonomy Index — Measurement and Critique]]"
-    description: "Critical analysis of how the regulatory continuum is operationalized and measured, including scoring debates and whether the simplex structure actually holds across cultures"
+    description: Critical analysis of how the regulatory continuum is operationalized and measured, including scoring debates and whether the simplex structure actually holds across cultures
     priority: medium
   - topic: "[[Gamification Through an OIT Lens]]"
-    description: "Analysis of why gamification often fails to produce lasting motivation — examined through OIT's framework of controlling vs. autonomy-supportive reward structures"
+    description: Analysis of why gamification often fails to produce lasting motivation — examined through OIT's framework of controlling vs. autonomy-supportive reward structures
     priority: medium
   - topic: "[[OIT Across Cultures — Universality and Variation]]"
-    description: "Examination of cross-cultural evidence on the internalization continuum, including debates about whether autonomy is culturally variable and what this means for OIT's theoretical claims"
+    description: Examination of cross-cultural evidence on the internalization continuum, including debates about whether autonomy is culturally variable and what this means for OIT's theoretical claims
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Deci et al. (1991) meta-analysis on internalization in education"
-  - "Williams et al. (1996-2009) health behavior series"
-  - "Assor & Roth (2002) conditional regard research"
-  - "Vansteenkiste et al. cross-cultural SDT validation studies"
-
+  - Deci et al. (1991) meta-analysis on internalization in education
+  - Williams et al. (1996-2009) health behavior series
+  - Assor & Roth (2002) conditional regard research
+  - Vansteenkiste et al. cross-cultural SDT validation studies
 limitations-noted:
-  - "Regulatory continuum operationalization debates (simplex vs. ordinal structure)"
-  - "Cultural universality of autonomy construct remains contested"
-  - "Causal mechanisms underlying internalization shifts under-specified"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Regulatory continuum operationalization debates (simplex vs. ordinal structure)
+  - Cultural universality of autonomy construct remains contested
+  - Causal mechanisms underlying internalization shifts under-specified
 sections:
   - "Phase I: Orientation & Analytical Focus"
   - "Phase II: Analytical Framework"
@@ -226,20 +170,15 @@ sections:
   - "Phase VI: Synthesis, Integration & Original Contribution"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix"
-
 document-features:
   callouts: 28
   wiki-links: 38
   reflective-questions: 18
   cognitive-engagement-elements: 14
   analytical-commentary: 12
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
-generation-date: "2026-03-13"
+generation-date: 2026-03-13
 ---
 
 # Organismic Integration Theory: How Extrinsic Becomes Own
@@ -564,7 +503,7 @@ Practitioners who internalize (appropriately!) this framework can ask different 
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — OIT and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — OIT and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection between OIT and [[Cognitive-Load-Theory|Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
 >

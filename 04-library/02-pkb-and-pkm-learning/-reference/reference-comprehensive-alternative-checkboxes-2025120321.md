@@ -1256,7 +1256,7 @@ This layering ensures portability (syntactic) while enabling rich functionality 
 
 > [!key-claim]
 > **Principle 2: Visual Consistency**
-> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[Procedural Memory]] and reduces cognitive processing time.
+> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[Procedural-Memory]] and reduces cognitive processing time.
 
 > [!key-claim]
 > **Principle 3: Workflow Alignment**
@@ -1418,7 +1418,7 @@ Alternative checkboxes exemplify key [[03-notes/01_permanent-notes/02_personal-k
 
 **2. Progressive Summarization**: Visual checkbox icons provide first-level progressive summarization—enabling quick scanning before reading task text.
 
-**3. Linking over Hierarchy**: Checkbox-based queries create dynamic links between tasks across your vault, forming a [[Semantic Network]] of work states.
+**3. Linking over Hierarchy**: Checkbox-based queries create dynamic links between tasks across your vault, forming a [[Semantic-Network]] of work states.
 
 **4. Future-Proof Plain Text**: Even if all Obsidian plugins and themes disappeared tomorrow, your notes remain readable with brackets containing meaningful characters.
 

@@ -458,8 +458,8 @@ graph TD
 - **SPES Project**: [02-projects/_spes-sequential-prompt-engineering-system/](../../02-projects/_spes-sequential-prompt-engineering-system/)
 - **Session Memory**: [[00-meta/session-memory]]
 - **Project Tracker**: [[00-meta/project-tracker]]
-- **Active Context**: [[.claude/core/activeContext]]
-- **Skills Registry**: [[.claude/core/activeSkills]]
+- **Active Context**: activeContext
+- **Skills Registry**: activeSkills
 
 ---
 

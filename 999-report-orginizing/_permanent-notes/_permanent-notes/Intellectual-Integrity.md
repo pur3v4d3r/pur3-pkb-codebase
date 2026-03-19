@@ -96,7 +96,7 @@ importance: high
 # Intellectual Integrity
 
 > [!definition] **Intellectual Integrity**
-> **Intellectual integrity** is the disposition to bring the same epistemic standards to bear on all beliefs and arguments — to not apply stricter scrutiny to conclusions one dislikes than to conclusions one favors, to acknowledge when one's reasoning has been influenced by non-epistemic factors, and to pursue truth even when it conflicts with self-interest, identity, or prior commitment. It is the cognitive virtue most directly opposed to [[Motivated Reasoning]] — the disposition to reason accurately rather than directionally.
+> **Intellectual integrity** is the disposition to bring the same epistemic standards to bear on all beliefs and arguments — to not apply stricter scrutiny to conclusions one dislikes than to conclusions one favors, to acknowledge when one's reasoning has been influenced by non-epistemic factors, and to pursue truth even when it conflicts with self-interest, identity, or prior commitment. It is the cognitive virtue most directly opposed to [[Motivated-Reasoning]] — the disposition to reason accurately rather than directionally.
 
 ## Core Explanation
 

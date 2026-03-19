@@ -364,7 +364,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
 > 
@@ -557,7 +557,7 @@ extraction_summary:
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[autonomy]]
 - [[competence]]
 - [[relatedness]]
@@ -635,7 +635,7 @@ extraction_summary:
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[autonomy]]
 - [[competence]]
 - [[relatedness]]
@@ -653,7 +653,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Organismic-Integration-Theory|Organismic Integration Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Autonomy Support in Education]]
 
 #### Broader

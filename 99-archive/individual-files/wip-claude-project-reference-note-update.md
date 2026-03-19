@@ -1697,7 +1697,7 @@ Follow the full output scaffold below.
 > - [[Systems Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
 > - [[Spaced Practice]] → suggests iterative refinement cycles  
-> - [[Mental Models]] → frames prompting as model-based reasoning  
+> - [[Mental-Models]] → frames prompting as model-based reasoning  
 >  
 > Format: **[[Concept Name]]** followed by explanation of the relationship.  
 
@@ -2134,7 +2134,7 @@ Follow the universal output scaffold below.
 > - [[Systems Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates downstream impacts  
 > - [[Constraint Theory]] → identifies bottlenecks  
-> - [[Mental Models]] → enables cross-domain transfer  
+> - [[Mental-Models]] → enables cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 > [!summary]  

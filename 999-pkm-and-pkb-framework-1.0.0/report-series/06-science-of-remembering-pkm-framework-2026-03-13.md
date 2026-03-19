@@ -1,10 +1,9 @@
 ---
-doc_id: "06-science-of-remembering-pkm-framework-2026-03-13"
+doc_id: 06-science-of-remembering-pkm-framework-2026-03-13
 doc_type: permanent-note
 doc_created: 2026-03-13
 doc_modified: 2026-03-13
 author: claude-sonnet-4-6
-
 primary_domain: cognitive-psychology
 secondary_domains:
   - psychology-of-learning
@@ -13,7 +12,6 @@ secondary_domains:
   - instructional-design
   - metacognition
   - learning-experience-design
-
 related_concepts:
   - "[[Spaced-Repetition-Spacing-Effect|Spacing Effect]]"
   - "[[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]"
@@ -32,10 +30,9 @@ related_concepts:
   - "[[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
-
 knowledge_level: advanced
 tags:
   - pkm-framework
@@ -51,11 +48,9 @@ tags:
   - cross-domain-synthesis
   - report-06
   - tier-1-foundations
-
 status: evergreen
 maturity: highly-developed
 confidence: high
-
 framework_series_position: 6
 framework_series_tier: 1
 builds_on:
@@ -67,8 +62,7 @@ feeds_into:
   - "[[12-the-reflective-pkb-pkm-framework]]"
   - "[[16-desirable-difficulties-by-design-pkm-framework]]"
   - "[[20-retrieval-enhanced-knowledge-networks-pkm-framework]]"
-
-analytical_focus: "How do the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity combine with knowledge management principles to inform a fundamentally redesigned PKB review and retrieval architecture?"
+analytical_focus: How do the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity combine with knowledge management principles to inform a fundamentally redesigned PKB review and retrieval architecture?
 analytical_contributions:
   analytical_insights: 4
   what_evidence_suggests: 3
@@ -76,24 +70,20 @@ analytical_contributions:
   cross_domain_connections: 4
   original_syntheses: 2
   total_analytical_commentary: 16
-
 quality_score: 9.2
 word_count_estimate: 11200
 callout_count: 34
 wiki_link_count: 48
 validation_date: 2026-03-13
-
 summary: "A cross-domain synthesis report examining how memory science — specifically the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity — should fundamentally redesign PKB review and retrieval systems. Argues that most PKBs are optimized for storage and retrieval failure (passive re-reading) rather than retrieval success (active recall). Introduces Retrieval-Oriented Note Architecture (RONA) as an original synthesis principle: designing notes from inception with their retrieval context in mind. Draws on cognitive psychology, psychology of learning, educational psychology, metacognition, and knowledge management to produce integrated design guidance for Obsidian-based PKBs."
-
 aliases:
   - Report 06
-  - 'Report 06: The Science of Remembering'
-  - 'Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design'
+  - "Report 06: The Science of Remembering"
+  - "Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design"
   - Science of Remembering PKM Report
   - Memory Science PKB Design
   - PKM Report 06
   - RONA — Retrieval-Oriented Note Architecture
-
 link_up: "[[Report Generation Prompt Suite]]"
 link_related:
   - "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]"
@@ -129,7 +119,7 @@ The productive intersection of these traditions yields insights that none of the
 
 ### Scope and Connections
 
-This report builds on [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] (which established [[Schema-Theory|Schema Theory]] as the cognitive framework for knowledge organization), [[02-architecture-of-learning-pkm-framework-2026-03-13]] (which examined [[Cognitive-Load-Theory|Cognitive Load Theory]] and working memory), and [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] (which established [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] as the cognitive control system for effective PKM). Understanding the mechanisms here will deepen the return-to-deepen analysis in Phases IV and VI.
+This report builds on [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] (which established [[Schema-Theory|Schema Theory]] as the cognitive framework for knowledge organization), [[02-architecture-of-learning-pkm-framework-2026-03-13]] (which examined [[Cognitive-Load-Theory|Cognitive Load Theory]] and working memory), and [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] (which established [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] as the cognitive control system for effective PKM). Understanding the mechanisms here will deepen the return-to-deepen analysis in Phases IV and VI.
 
 ### Report Roadmap
 
@@ -511,7 +501,7 @@ This means that a PKB without systematic retrieval practice is a system where sc
 
 ### Return-and-Deepen: Self-Regulated Learning Revisited
 
-[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] introduced [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] as the cognitive control system for effective PKM — the planning, monitoring, and reflection cycle that enables adaptive self-direction of learning. The memory science in this report reveals that SRL faces a specific structural challenge in the domain of review: learners' metacognitive monitoring is systematically miscalibrated in ways that undermine effective self-regulation of review behavior precisely where it matters most.
+[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] introduced [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] as the cognitive control system for effective PKM — the planning, monitoring, and reflection cycle that enables adaptive self-direction of learning. The memory science in this report reveals that SRL faces a specific structural challenge in the domain of review: learners' metacognitive monitoring is systematically miscalibrated in ways that undermine effective self-regulation of review behavior precisely where it matters most.
 
 This means that the SRL cycle — planning, monitoring, reflecting — must be applied to review practices with explicit metacognitive *knowledge* about memory science, not just metacognitive *awareness* about one's current learning state. Effective self-regulation of PKB review requires the learner to know that: JOLs after re-reading are systematically inflated by the fluency illusion; errors during retrieval practice are not signals of failure but signals of productive effortful retrieval; the discomfort of interleaved review is a feature of effective learning, not a problem to be smoothed away. Metacognitive knowledge *about* memory science is itself a component of effective SRL for PKM — which suggests that studying the memory science (as in this report) is not merely intellectual enrichment but a practical prerequisite for accurately self-regulating one's review behavior.
 
@@ -536,7 +526,7 @@ How should PKB review be designed to support not just recall but creative and ge
 >
 > **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
 >
-> **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
+> **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
 >
 > **[[Encoding-Specificity-Principle|Encoding Specificity Principle]]** — Connects to knowledge management's emphasis on context-rich knowledge. Notes that preserve encoding context are more retrievable in ecologically valid contexts. RONA's commitment to context preservation is grounded in this principle. The principle links information science (context-sensitive retrieval systems) to cognitive psychology (memory encoding mechanisms).
 >

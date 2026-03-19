@@ -1,41 +1,21 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Autonomy Need"
+title: Autonomy Need
 aliases:
-  - "Autonomy Need"
+  - Autonomy Need
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - educational-psychology
-
 domain: educational-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 50
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Academic-Emotions]]"
   - "[[Achievement-Goal-Theory]]"
@@ -50,15 +30,11 @@ see-also:
   - "[[Metacognition|Metacognition]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
   - "[[Ann-Brown|Ann Brown]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -131,7 +107,7 @@ importance: high
 > The cross-cultural challenge to BPNT's autonomy universality thesis typically takes the form of a reductio: if collectivist cultures value interdependence and subordination of individual will to group norms, how can the autonomy need be universal? The Chirkov et al. (2003) evidence reveals that this challenge rests on a conflation of *autonomy content* (what one chooses) with *autonomy function* (the experience of choosing volitionally). A collectivist student who genuinely endorses collective norms and enacts them from a place of authentic internalization is satisfying their autonomy need just as fully as an individualist student pursuing personal goals. What they both require — and what both will suffer without — is the experience of authorship over their own engagement, whether the content of that engagement is directed toward self or toward others. This distinction is critical for applying BPNT outside Western educational contexts.
 
 > [!analytical-insight] Key Insight *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
-> A non-obvious implication of RMT's definition of relatedness emerges when you trace its components carefully. Feeling understood, validated, and cared for — Reis, Clark, and Holmes's (2004) three components of [[perceived partner responsiveness]] — is not identical to feeling liked, approved of, or positively evaluated. A partner who consistently agrees with you, never challenges you, and reflects your self-presentation back to you without amendment is making you feel *liked*, but not necessarily *known*. RMT predicts that the relatedness need is more fully satisfied by accurate, responsive understanding (which may include disagreement and honest challenge) than by unvarying positive regard. This has an important implication: relationships oriented around unconditional approval may satisfy a desire for validation without actually satisfying the need for relatedness, producing relationships that feel good superficially but leave a persistent sense of not being truly known.
+> A non-obvious implication of RMT's definition of relatedness emerges when you trace its components carefully. Feeling understood, validated, and cared for — Reis, Clark, and Holmes's (2004) three components of [[Perceived-Partner-Responsiveness]] — is not identical to feeling liked, approved of, or positively evaluated. A partner who consistently agrees with you, never challenges you, and reflects your self-presentation back to you without amendment is making you feel *liked*, but not necessarily *known*. RMT predicts that the relatedness need is more fully satisfied by accurate, responsive understanding (which may include disagreement and honest challenge) than by unvarying positive regard. This has an important implication: relationships oriented around unconditional approval may satisfy a desire for validation without actually satisfying the need for relatedness, producing relationships that feel good superficially but leave a persistent sense of not being truly known.
 
 > [!analytical-insight] Key Insight *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
 > A person's position on the autonomous-controlled motivation continuum is not the same as their level of relationship satisfaction. High autonomous motivation and high controlled motivation can both co-occur with high satisfaction — what differs is the well-being cost. Two people can report equally high satisfaction with their respective relationships while one maintains the relationship with autonomous motivation and the other with controlled motivation; the evidence consistently shows that the controlled-motivation person pays a larger well-being cost for equivalent relational investment, and is more vulnerable to identity dissolution when the relationship is threatened or ends.
@@ -186,10 +162,10 @@ importance: high
 ## Connections & Context
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, metacognition-motivation-foundational-report-2026-03-05.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
-[[Metacognition|Metacognition]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Efklides|Efklides]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]]
+[[Metacognition|Metacognition]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Efklides|Efklides]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -202,7 +178,7 @@ importance: high
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

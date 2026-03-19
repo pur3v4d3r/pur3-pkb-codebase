@@ -291,7 +291,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
 > 
@@ -476,7 +476,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory and Academic Achievement]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman]]
 
 ### All Occurrences
@@ -564,7 +564,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory and Academic Achievement]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Zimmerman]]
 
 ### Frontmatter Relationships
@@ -577,7 +577,7 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Growth Mindset Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

@@ -40,7 +40,7 @@ Stanovich's framework helps explain why some highly intelligent people remain st
 
 ### In Report 05: The Virtuous Reasoner
 
-[[report-05-the-virtuous-reasoner|Report 05]] integrates Stanovich's work with [[virtue epistemology]], showing that intellectual virtues are essentially trained patterns in the reflective mind. Virtues like [[intellectual humility]], [[open-mindedness]], and [[intellectual courage]] represent stable dispositions of the reflective mind to override biased System 1 responses.
+[[report-05-the-virtuous-reasoner|Report 05]] integrates Stanovich's work with [[Virtue-Epistemology]], showing that intellectual virtues are essentially trained patterns in the reflective mind. Virtues like [[Intellectual-Humility]], [[open-mindedness]], and [[Intellectual-Courage]] represent stable dispositions of the reflective mind to override biased System 1 responses.
 
 Stanovich's research on dysrationalia (the inability to think rationally despite high IQ) demonstrates why virtue cultivation matters: you can be cognitively capable yet fail to deploy that capacity because your reflective mind hasn't developed the habitual override patterns that constitute intellectual virtue.
 
@@ -61,7 +61,7 @@ Stanovich's distinction between System 1 (autonomous mind), System 2 algorithmic
 - **[[Dysrationalia]]**: The inability to think and behave rationally despite adequate intelligence; occurs when reflective mind is underdeveloped
 - **[[Cognitive Reflection]]**: The disposition and ability to resist reporting the first response that comes to mind; measurable via cognitive reflection tests
 - **[[Mindware]]**: The rules, knowledge structures, and strategies that the reflective mind can deploy to override problematic default responses
-- **[[Myside Bias]]**: The tendency to evaluate information in ways that favor your existing beliefs, even when trying to be objective
+- **[[Myside-Bias]]**: The tendency to evaluate information in ways that favor your existing beliefs, even when trying to be objective
 - **[[Contaminated Mindware]]**: Beliefs and thinking patterns that actively impede rational thinking (conspiracy theories, pseudoscience, etc.)
 - **[[Reflective Equilibrium]]**: The process of balancing intuitive judgments against considered principles through reflective oversight
 

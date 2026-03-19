@@ -707,7 +707,7 @@ Cognitive biases are often the *psychological cause* of logical fallacies.
 | :--- | :--- | :--- |
 | **[[Confirmation Bias]]** (Tendency to favor info that confirms existing beliefs) | ... | **[[Hasty Generalization]]** (Cherry-picking data) or **[[Straw Man]]** (Ignoring an opponent's real argument) |
 | **[[Sunk Cost Fallacy]]** (Can't abandon a project due to past investment) | ... | **[[Appeal to Emotion]]** (Justifying a bad decision by lamenting the "waste" rather than using logic) |
-| **[[Availability Heuristic]]** (Overestimating the importance of recent/vivid examples) | ... | **[[Hasty Generalization]]** (Basing a broad conclusion on a few memorable, but unrepresentative, examples) |
+| **[[Availability-Heuristic]]** (Overestimating the importance of recent/vivid examples) | ... | **[[Hasty Generalization]]** (Basing a broad conclusion on a few memorable, but unrepresentative, examples) |
 | **[[Groupthink]]** (Desire for harmony leads to irrational consensus) | ... | **[[Bandwagon Fallacy]]** (Assuming the group's consensus must be correct) |
 
 ## 4.2 PRACTICAL FALLACY DETECTION

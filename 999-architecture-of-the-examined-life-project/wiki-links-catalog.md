@@ -20,12 +20,12 @@
 4. **[[Fallibilism]]** — 14 occurrences
 5. **[[Narrative Identity]]** — 14 occurrences
 6. **[[Cognitive Load Theory]]** — 13 occurrences
-7. **[[Predictive Processing]]** — 13 occurrences
+7. **[[Predictive-Processing]]** — 13 occurrences
 8. **[[Self-Regulated Learning]]** — 12 occurrences
-9. **[[Intellectual Humility]]** — 12 occurrences
-10. **[[Aporic Receptivity]]** — 12 occurrences
+9. **[[Intellectual-Humility]]** — 12 occurrences
+10. **[[Aporic-Receptivity]]** — 12 occurrences
 11. **[[Constructivism]]** — 11 occurrences
-12. **[[Emotional Granularity]]** — 11 occurrences
+12. **[[Emotional-Granularity]]** — 11 occurrences
 13. **[[Metacognitive Self-Regulation]]** — 11 occurrences
 14. **[[Dewey's Reflective Thinking]]** — 10 occurrences
 15. **[[Phronesis]]** — 10 occurrences
@@ -43,29 +43,29 @@
   - *First appears in: Executive Assessment*
 - **[[Cognitive Load Theory]]** (13×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
-- **[[Predictive Processing]]** (13×)
+- **[[Predictive-Processing]]** (13×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Metacognitive Self-Regulation]]** (11×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Dewey's Reflective Thinking]]** (10×)
   - *First appears in: What the Framework Does Exceptionally Well*
-- **[[Motivated Reasoning]]** (10×)
+- **[[Motivated-Reasoning]]** (10×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Philosophy of Mind]]** (7×)
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
 - **[[Distributed Cognition]]** (6×)
   - *First appears in: Gap 4: Social Cognition and Distributed Thinking*
-- **[[Embodied Cognition]]** (6×)
+- **[[Embodied-Cognition]]** (6×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
 - **[[Metacognition]]** (6×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
 - **[[Cognitive Science]]** (5×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
-- **[[Cognitive Vitality]]** (5×)
+- **[[Cognitive-Vitality]]** (5×)
   - *First appears in: 🎯 Phase I: The Premise — The Motivational Problem at the Heart of the Examined Life*
 - **[[Narrative Metacognition]]** (5×)
   - *First appears in: The Emergent Insight: Narrative Metacognition as the Highest-Order Practice*
-- **[[Physiological Metacognition]]** (5×)
+- **[[Physiological-Metacognition]]** (5×)
   - *First appears in: ⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 - **[[Growth Mindset]]** (4×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
@@ -79,13 +79,13 @@
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
 - **[[metacognitive self-regulation]]** (3×)
   - *First appears in: Phase I: The Premise — The Problem of the Knowing Subject 🔑*
-- **[[Cognitive Bias]]** (2×)
+- **[[Cognitive-Bias]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
-- **[[Cognitive Decoupling]]** (2×)
+- **[[Cognitive-Decoupling]]** (2×)
   - *First appears in: ✨ The Emergent Insight: The Governed Attentional Gap*
 - **[[Cognitive Forcing Functions in Clinical Reasoning]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
-- **[[Cognitive Load]]** (2×)
+- **[[Cognitive-Load]]** (2×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Cognitive Miserliness]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
@@ -97,13 +97,13 @@
   - *First appears in: LEARNING PATHWAYS*
 - **[[Identity-Protective Cognition]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
-- **[[Integrated Cognitive Personhood]]** (2×)
+- **[[Integrated-Cognitive-Personhood]]** (2×)
   - *First appears in: The Emergent Insight: Integrated Cognitive Personhood*
 - **[[Metacognitive Strategy]]** (2×)
   - *First appears in: Phase I — The Premise 🧭: The Paradox of Intellectual Self-Construction*
 - **[[Mindware and Cognitive Miserliness]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
-- **[[Recognition-Primed Decision Model|Recognition-Primed Decision (RPD) Model]]** (2×)
+- **[[Recognition-Primed-Decision-Model|Recognition-Primed Decision (RPD) Model]]** (2×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[Reflective Thinking]]** (2×)
   - *First appears in: Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥*
@@ -121,11 +121,11 @@
   - *First appears in: §0 — Critical Review & Evolution Recommendations*
 - [[#Recommendation 4: Add a "Developmental Staging" Model]]
   - *First appears in: §0 — Critical Review & Evolution Recommendations*
-- [[4E Cognition]]
+- [[4E-Cognition]]
   - *First appears in: RELATIONSHIPS*
 - [[AI and the Examined Life — Cognitive Sovereignty]]
   - *First appears in: 🔭 Expansion Topics for PKB Development*
-- [[Actively Open-Minded Thinking]]
+- [[Actively-Open-Minded-Thinking]]
   - *First appears in: C. Dual Process Theory: The Cognitive Science of Activation Costs*
 - [[Actively Open-Minded Thinking — Assessment and Development]]
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
@@ -135,11 +135,11 @@
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - [[Cognitive Biases and Heuristics]]
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
-- [[Cognitive Bias|Cognitive biases]]
+- [[Cognitive-Bias|Cognitive biases]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Cognitive Debiasing]]
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
-- [[Cognitive Decoupling|cognitive decoupling]]
+- [[Cognitive-Decoupling|cognitive decoupling]]
   - *First appears in: 🧠 The Architecture of Automatic Thought: Dual Process Theory*
 - [[Cognitive Forcing Functions]]
   - *First appears in: RELATIONSHIPS*
@@ -153,7 +153,7 @@
   - *First appears in: LEARNING PATHWAYS*
 - [[Cognitive Reflection Test and Rationality Quotient]]
   - *First appears in: 🗺️ Expansion Topics for PKB Development*
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding]]
   - *First appears in: 🔄 Retroactive Enrichment of Previous Reports*
 - [[Cognitive Scaffolding — Report 04]]
   - *First appears in: RELATIONSHIPS*
@@ -199,7 +199,7 @@
   - *First appears in: RELATIONSHIPS*
 - [[Nadurak's Type 1 Metacognitive Monitoring]]
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
-- [[Narrative Coherence as Cognitive Architecture]]
+- [[Narrative-Coherence-as-Cognitive-Architecture]]
   - *First appears in: 📖 Key Definitions*
 - [[Open-Mindedness]]
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
@@ -211,9 +211,9 @@
   - *First appears in: 🗺️ Expansion Topics for PKB Development*
 - [[Recognition-Primed Decision Making]]
   - *First appears in: Recommendation 2: Expand to a Three-Tier Architecture*
-- [[Recognition-Primed Decision Model]]
+- [[Recognition-Primed-Decision-Model]]
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
-- [[Recognition-Primed Decision Model|Recognition-Primed Decision]]
+- [[Recognition-Primed-Decision-Model|Recognition-Primed Decision]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Report 12 — The Social Thinker: Distributed Cognition, Epistemic Justice, and Thinking in Community]]
   - *First appears in: PKB Expansion Topics*
@@ -261,13 +261,13 @@
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Stoic Prosoche]]** (6×)
   - *First appears in: Executive Assessment*
-- **[[Appraisal Theory]]** (5×)
+- **[[Appraisal-Theory]]** (5×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
 - **[[Aristotle]]** (5×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[Constructed Emotion Theory]]** (4×)
   - *First appears in: Recommendation 2: Expand to a Three-Tier Architecture*
-- **[[Organismic Integration Theory]]** (4×)
+- **[[Organismic-Integration-Theory]]** (4×)
   - *First appears in: RELATIONSHIPS*
 - **[[Argumentative Theory]]** (3×)
   - *First appears in: Gap 4: Social Cognition and Distributed Thinking*
@@ -279,9 +279,9 @@
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
 - **[[Stoic Prohairesis]]** (3×)
   - *First appears in: 🎯 Phase I: The Premise — The Motivational Problem at the Heart of the Examined Life*
-- **[[Theory of Constructed Emotion]]** (3×)
+- **[[Theory-of-Constructed-Emotion]]** (3×)
   - *First appears in: 1.2 The Third Function: Emotion as Epistemic Signal*
-- **[[Affect-as-Information Theory]]** (2×)
+- **[[Affect-as-Information-Theory]]** (2×)
   - *First appears in: 1.2 The Third Function: Emotion as Epistemic Signal*
 - **[[Constructed Emotion Theory — Deep Dive]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════════════*
@@ -317,17 +317,17 @@
   - *First appears in: RELATIONSHIPS*
 - [[Component Process Model]]
   - *First appears in: 2.2 Appraisal Theory: Emotions as Evaluative Responses*
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory]]
   - *First appears in: Expansion Topics for PKB Development 🔗*
 - [[Constructed Emotion Theory|constructed emotions]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Flow|Flow theory]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
-- [[Generative Model]]
+- [[Generative-Model]]
   - *First appears in: The Generative Model: The Brain's Working Theory of the World*
 - [[Narrative Self-Model]]
   - *First appears in: RELATIONSHIPS*
-- [[Phenomenal Self-Model]]
+- [[Phenomenal-Self-Model]]
   - *First appears in: Metzinger's Self-Model: Seeing Yourself as a Prediction*
 - [[Philosophy of Action]]
   - *First appears in: RELATIONSHIPS*
@@ -411,27 +411,27 @@
 
 *53 concepts*
 
-- **[[Intellectual Humility]]** (12×)
+- **[[Intellectual-Humility]]** (12×)
   - *First appears in: Addition 2: Epistemic Humility Under Radical Uncertainty*
-- **[[Intellectual Courage]]** (9×)
+- **[[Intellectual-Courage]]** (9×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
-- **[[Virtue Epistemology]]** (8×)
+- **[[Virtue-Epistemology]]** (8×)
   - *First appears in: Gap 3: Practical Wisdom (Phronesis) — The Missing Theory of Action*
-- **[[Intellectual Empathy]]** (6×)
+- **[[Intellectual-Empathy]]** (6×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Epistemic Injustice]]** (5×)
   - *First appears in: Gap 4: Social Cognition and Distributed Thinking*
-- **[[Intellectual Integrity]]** (5×)
+- **[[Intellectual-Integrity]]** (5×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
-- **[[Intellectual Perseverance]]** (5×)
+- **[[Intellectual-Perseverance]]** (5×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Stoic Virtue Ethics]]** (5×)
   - *First appears in: What the Framework Does Exceptionally Well*
-- **[[Intellectual Virtues]]** (4×)
+- **[[Intellectual-Virtues]]** (4×)
   - *First appears in: Expansion Topics for PKB Development 🔗*
 - **[[Virtue Ethics]]** (4×)
   - *First appears in: RELATIONSHIPS*
-- **[[Epistemic Cowardice]]** (2×)
+- **[[Epistemic-Cowardice]]** (2×)
   - *First appears in: 🏛️ Virtue Epistemology: The Architecture of Intellectual Character*
 - **[[Epistemic Curiosity and the Information Gap]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
@@ -453,7 +453,7 @@
   - *First appears in: Phase I: The Premise 🎯 The Question This Series Has Been Answering*
 - [[#Addition 2: Epistemic Humility Under Radical Uncertainty]]
   - *First appears in: §0 — Critical Review & Evolution Recommendations*
-- [[Apt Epistemic Performance]]
+- [[Apt-Epistemic-Performance]]
   - *First appears in: RELATIONSHIPS*
 - [[Apt Epistemic Performance — Barzilai and Chinn Framework]]
   - *First appears in: LEARNING PATHWAYS*
@@ -467,7 +467,7 @@
   - *First appears in: LEARNING PATHWAYS*
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
   - *First appears in: 📚 Expansion Topics*
-- [[Emotional Granularity as Epistemic Precision]]
+- [[Emotional-Granularity-as-Epistemic-Precision]]
   - *First appears in: 📖 Key Definitions*
 - [[Epistemic Architecture]]
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
@@ -475,17 +475,17 @@
   - *First appears in: RELATIONSHIPS*
 - [[Epistemic Autonomy and Intellectual Independence]]
   - *First appears in: LEARNING PATHWAYS*
-- [[Epistemic Character]]
+- [[Epistemic-Character]]
   - *First appears in: RELATIONSHIPS*
 - [[Epistemic Character Measurement — VICS and Related Instruments]]
   - *First appears in: LEARNING PATHWAYS*
 - [[Epistemic Democracy and Deliberative Institutions]]
   - *First appears in: LEARNING PATHWAYS*
-- [[Epistemic Humility]]
+- [[Epistemic-Humility]]
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
 - [[Epistemic Injustice|epistemic injustice]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
-- [[Epistemic Justice]]
+- [[Epistemic-Justice]]
   - *First appears in: Recommendation 3: Strengthen Existing Reports With Minor Revisions*
 - [[Epistemic Motivation]]
   - *First appears in: RELATIONSHIPS*
@@ -497,15 +497,15 @@
   - *First appears in: LEARNING PATHWAYS*
 - [[Intellectual Character]]
   - *First appears in: The Emergent Insight: Precision Flexibility as Cognitive Character*
-- [[Intellectual Humility|Intellectual humility]]
+- [[Intellectual-Humility|Intellectual humility]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
-- [[Intellectual Virtue]]
+- [[Intellectual-Virtue]]
   - *First appears in: ⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 - [[Intellectual Virtues and Virtue Epistemology]]
   - *First appears in: RELATIONSHIPS*
-- [[Intellectual courage]]
+- [[Intellectual-Courage]]
   - *First appears in: Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭*
-- [[Intellectual humility]]
+- [[Intellectual-Humility]]
   - *First appears in: Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭*
 - [[The Neuroscience of Moral Character]]
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
@@ -515,7 +515,7 @@
   - *First appears in: D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing*
 - [[in-group favoritism in epistemic evaluation]]
   - *First appears in: 🗺️ The Complete Correspondence Map*
-- [[intellectual humility]]
+- [[Intellectual-Humility]]
   - *First appears in: The Emergent Insight: Epistemological Posture as Psychological Architecture*
 
 
@@ -635,7 +635,7 @@
   - *First appears in: PKB Expansion Topics*
 - [[Neurophenomenology]]
   - *First appears in: RELATIONSHIPS*
-- [[Pathē/Eupatheia]]
+- [[Eupatheia]]
   - *First appears in: Recommendation 2: Expand to a Three-Tier Architecture*
 - [[Pellegrino]]
   - *First appears in: PKB Expansion Topics*
@@ -801,7 +801,7 @@
   - *First appears in: PKB Expansion Topics*
 - [[Self-Cultivation — Confucian]]
   - *First appears in: The Universalism Tension: Whose Examined Life?*
-- [[Social Constructivism]]
+- [[Social-Constructivism]]
   - *First appears in: Expansion Topics for PKB Development 🔗*
 - [[Social Epistemology|social epistemology]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
@@ -815,19 +815,19 @@
 
 - **[[Narrative Identity]]** (14×)
   - *First appears in: Gap 6: Narrative Identity and Meaning-Making*
-- **[[Aporic Receptivity]]** (12×)
+- **[[Aporic-Receptivity]]** (12×)
   - *First appears in: Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥*
 - **[[Self-Regulated Learning]]** (12×)
   - *First appears in: What the Framework Does Exceptionally Well*
-- **[[Emotional Granularity]]** (11×)
+- **[[Emotional-Granularity]]** (11×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
 - **[[Zone of Proximal Development]]** (8×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
-- **[[Pragmatic Maxim]]** (7×)
+- **[[Pragmatic-Maxim]]** (7×)
   - *First appears in: Gap 3: Practical Wisdom (Phronesis) — The Missing Theory of Action*
 - **[[Jean Piaget]]** (6×)
   - *First appears in: Phase I: The Premise — The Problem of the Knowing Subject 🔑*
-- **[[Somatic Marker Hypothesis]]** (6×)
+- **[[Somatic-Marker-Hypothesis]]** (6×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
 - **[[Working Memory]]** (6×)
   - *First appears in: RELATIONSHIPS*
@@ -835,13 +835,13 @@
   - *First appears in: Gap 6: Narrative Identity and Meaning-Making*
 - **[[Anil Seth]]** (5×)
   - *First appears in: 🌊 Interoceptive Inference — The Brain Models the Body*
-- **[[Constructive Attentiveness]]** (5×)
+- **[[Constructive-Attentiveness]]** (5×)
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
 - **[[Daniel Kahneman]]** (5×)
   - *First appears in: Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥*
-- **[[Free Energy Principle]]** (5×)
+- **[[Free-Energy-Principle]]** (5×)
   - *First appears in: Recommendation 2: Expand to a Three-Tier Architecture*
-- **[[John Dewey]]** (5×)
+- **[[John-Dewey]]** (5×)
   - *First appears in: Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥*
 - **[[Lev Vygotsky]]** (5×)
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
@@ -849,7 +849,7 @@
   - *First appears in: Gap 6: Narrative Identity and Meaning-Making*
 - **[[System 1]]** (5×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
-- **[[Active Inference]]** (4×)
+- **[[Active-Inference]]** (4×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Confirmation Bias]]** (4×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
@@ -863,7 +863,7 @@
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - **[[Hermeneutical Humility]]** (4×)
   - *First appears in: Recommendation 3: Strengthen Existing Reports With Minor Revisions*
-- **[[Interoceptive Inference]]** (4×)
+- **[[Interoceptive-Inference]]** (4×)
   - *First appears in: Gap 1: Embodied Cognition and the Absent Body*
 - **[[Jerome Bruner]]** (4×)
   - *First appears in: The Problem of the Productive Gap: Vygotsky and the Zone of Proximal Development*
@@ -883,19 +883,19 @@
   - *First appears in: Recommendation 3: Strengthen Existing Reports With Minor Revisions*
 - **[[Will to Meaning]]** (4×)
   - *First appears in: Phase I — The Premise: The Unanswered Question at the Heart of the Architecture 🎯*
-- **[[Affective Realism]]** (3×)
+- **[[Affective-Realism]]** (3×)
   - *First appears in: Gap 2: Emotional Cognition — Emotions as Epistemic Signals, Not Obstacles*
-- **[[Allostatic Load]]** (3×)
+- **[[Allostatic-Load]]** (3×)
   - *First appears in: ⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 - **[[Antonio Damasio]]** (3×)
   - *First appears in: 🎯 The Somatic Marker Hypothesis — The Body's Decision Counsel*
 - **[[Applied Epistemology]]** (3×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
-- **[[Belief Revision]]** (3×)
+- **[[Belief-Revision]]** (3×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
 - **[[Charles Taylor]]** (3×)
   - *First appears in: Phase I — The Premise: The Unanswered Question at the Heart of the Architecture 🎯*
-- **[[David Rumelhart]]** (3×)
+- **[[David-Rumelhart]]** (3×)
   - *First appears in: Constructivism: Knowledge as Built, Not Found*
 - **[[Dialogical Courage]]** (3×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
@@ -917,11 +917,11 @@
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - **[[Miranda Fricker]]** (3×)
   - *First appears in: Phase I 🧭 The Premise: The Individual Thinker's Social Blind Spot*
-- **[[Precision Weighting]]** (3×)
+- **[[Precision-Weighting]]** (3×)
   - *First appears in: Gap 5: Predictive Processing and Active Inference*
-- **[[Recursive Self-Authorship]]** (3×)
+- **[[Recursive-Self-Authorship]]** (3×)
   - *First appears in: The Emergent Insight: Recursive Self-Authorship*
-- **[[Transient Hypofrontality]]** (3×)
+- **[[Transient-Hypofrontality]]** (3×)
   - *First appears in: RELATIONSHIPS*
 - **[[Ziva Kunda]]** (3×)
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
@@ -929,15 +929,15 @@
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
 - **[[Affect-as-Information in Decision Making]]** (2×)
   - *First appears in: ═══════════════════════════════════════════════════════════════════════════*
-- **[[Analysis Paralysis]]** (2×)
+- **[[Analysis-Paralysis]]** (2×)
   - *First appears in: Gap 3: Practical Wisdom (Phronesis) — The Missing Theory of Action*
 - **[[Andy Clark]]** (2×)
   - *First appears in: 🧠 Embodied and Extended Cognition — The Body as Cognitive Scaffold*
-- **[[Availability Heuristic]]** (2×)
+- **[[Availability-Heuristic]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - **[[Backfire Effect]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
-- **[[Barry Zimmerman]]** (2×)
+- **[[Barry-Zimmerman]]** (2×)
   - *First appears in: Phase I — The Premise 🧭: The Paradox of Intellectual Self-Construction*
 - **[[Charles Taylor's Sources of the Self]]** (2×)
   - *First appears in: Gap 6: Narrative Identity and Meaning-Making*
@@ -949,9 +949,9 @@
   - *First appears in: ══════════════════════════════════════════════════════════════════════════*
 - **[[Disconfirmation Bias]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
-- **[[Dunning-Kruger Effect]]** (2×)
+- **[[Dunning-Kruger-Effect]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
-- **[[Ecological Rationality|ecological rationality]]** (2×)
+- **[[Ecological-Rationality|ecological rationality]]** (2×)
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - **[[Edward Deci]]** (2×)
   - *First appears in: Self-Determination Theory: The Three Necessary Conditions*
@@ -977,7 +977,7 @@
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - **[[Hugo Mercier]]** (2×)
   - *First appears in: Phase I 🧭 The Premise: The Individual Thinker's Social Blind Spot*
-- **[[Illusion of Explanatory Depth]]** (2×)
+- **[[Illusion-of-Explanatory-Depth]]** (2×)
   - *First appears in: 🔬 Cognitive Bias Research: Cataloguing Systematic Failures*
 - **[[Intrinsic Motivation]]** (2×)
   - *First appears in: 🔄 Retroactive Enrichment of Previous Reports*
@@ -989,7 +989,7 @@
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
 - **[[Jonathan Evans]]** (2×)
   - *First appears in: C. Dual Process Theory: The Cognitive Science of Activation Costs*
-- **[[Knightian Uncertainty]]** (2×)
+- **[[Knightian-Uncertainty]]** (2×)
   - *First appears in: Addition 2: Epistemic Humility Under Radical Uncertainty*
 - **[[Martha Nussbaum]]** (2×)
   - *First appears in: 2.3 The Stoic Theory of Passions: Pathē, Eupatheia, and Cognitive Content*
@@ -1017,7 +1017,7 @@
   - *First appears in: 4.2 The Epistemic Limits of Emotional Signals*
 - **[[System 1 Governance]]** (2×)
   - *First appears in: Distinguished Research Scholar — Socratic Synthesis Protocol v2.0.0 Prompt*
-- **[[Testimonial Injustice]]** (2×)
+- **[[Testimonial-Injustice]]** (2×)
   - *First appears in: Worked Example: The Advisory Committee*
 - **[[The Epistemology of Scientific Consensus]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
@@ -1025,11 +1025,11 @@
   - *First appears in: Phase I 🌅 The Premise — A Machine That Predicts Itself*
 - **[[Transfer of Learning and Near vs. Far Transfer]]** (2×)
   - *First appears in: LEARNING PATHWAYS*
-- **[[Ventromedial Prefrontal Cortex]]** (2×)
+- **[[Ventromedial-Prefrontal-Cortex]]** (2×)
   - *First appears in: 🎯 The Somatic Marker Hypothesis — The Body's Decision Counsel*
 - **[[Viktor Frankl]]** (2×)
   - *First appears in: Logotherapy: The Will to Meaning*
-- **[[aporic receptivity]]** (2×)
+- **[[Aporic-Receptivity]]** (2×)
   - *First appears in: Phase I: The Premise — The Problem of the Knowing Subject 🔑*
 - **[[schema]]** (2×)
   - *First appears in: Constructivism: Knowledge as Built, Not Found*
@@ -1063,7 +1063,7 @@
   - *First appears in: 📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 - [[Amos Tversky|Tversky]]
   - *First appears in: 🧠 The Architecture of Automatic Thought: Dual Process Theory*
-- [[Analysis paralysis]]
+- [[Analysis-Paralysis]]
   - *First appears in: The Second Tension: Fallibilism and the Necessity of Acting Anyway*
 - [[Anchoring and Adjustment]]
   - *First appears in: 🧠 The Architecture of Automatic Thought: Dual Process Theory*
@@ -1077,7 +1077,7 @@
   - *First appears in: 1.3 Why This Matters for the Examined Life*
 - [[Appraisal Retraining Interventions]]
   - *First appears in: ═══════════════════════════════════════════════════════════════════════════*
-- [[Assimilation and Accommodation|assimilation and accommodation]]
+- [[Assimilation-and-Accommodation|assimilation and accommodation]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Autonomy-Supportive Teaching and Learning Environments]]
   - *First appears in: Expansion Topics for PKB Development*
@@ -1085,13 +1085,13 @@
   - *First appears in: 2.1 The Theory of Constructed Emotion: Emotions as Predictive Categorizations*
 - [[Barry Schwartz]]
   - *First appears in: The Aristotelian Foundation: Phronesis as Irreducible Intelligence*
-- [[Basic Psychological Needs]]
+- [[Basic-Psychological-Needs]]
   - *First appears in: Self-Determination Theory: The Three Necessary Conditions*
 - [[Basic Psychological Needs in Educational Contexts]]
   - *First appears in: LEARNING PATHWAYS*
 - [[Bayesian Epistemology]]
   - *First appears in: Expansion Topics for PKB Development 🔗*
-- [[Bayesian Inference]]
+- [[Bayesian-Inference]]
   - *First appears in: RELATIONSHIPS*
 - [[Behavioral Signatures]]
   - *First appears in: ⚖️ Conceptual Tension: Character Traits or Trainable Skills?*
@@ -1107,7 +1107,7 @@
   - *First appears in: Growth Mindset: The Neural Disposition Toward Challenge*
 - [[Cass Sunstein]]
   - *First appears in: Social Epistemology and the Conditions for Collective Intelligence*
-- [[Challenge-Skill Balance]]
+- [[Challenge-Skill-Balance]]
   - *First appears in: Flow Theory: The Architecture of Optimal Engagement*
 - [[Charles Sanders Peirce]]
   - *First appears in: The Pragmatist Revolution in Epistemology*
@@ -1117,7 +1117,7 @@
   - *First appears in: 2.1 The Theory of Constructed Emotion: Emotions as Predictive Categorizations*
 - [[Coherentism and Foundationalism]]
   - *First appears in: Expansion Topics for PKB Development 🔗*
-- [[Competence Need]]
+- [[Competence-Need]]
   - *First appears in: A Second Structural Homology: Flow's Challenge-Skill Balance and SDT's Competence Need*
 - [[Computational Psychiatry]]
   - *First appears in: RELATIONSHIPS*
@@ -1159,7 +1159,7 @@
   - *First appears in: The Discovery-Instruction Controversy Resolved*
 - [[Dopaminergic Reward Systems]]
   - *First appears in: RELATIONSHIPS*
-- [[Dunning-Kruger Effect|competence problem]]
+- [[Dunning-Kruger-Effect|competence problem]]
   - *First appears in: Worked Example: The Autodidact at the Edge of Expertise*
 - [[Eleanor Rosch]]
   - *First appears in: 🧠 Embodied and Extended Cognition — The Body as Cognitive Scaffold*
@@ -1169,7 +1169,7 @@
   - *First appears in: 2.4 Emotional Granularity: The Epistemic Precision of Fine-Grained Feeling*
 - [[Emotion Regulation]]
   - *First appears in: 2.4 Emotional Granularity: The Epistemic Precision of Fine-Grained Feeling*
-- [[Emotional Granularity|Emotional granularity]]
+- [[Emotional-Granularity|Emotional granularity]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Epistemological Posture|epistemological posture]]
   - *First appears in: The Emergent Insight: Precision Flexibility as Cognitive Character*
@@ -1195,7 +1195,7 @@
   - *First appears in: 🎯 Phase I: The Premise — The Motivational Problem at the Heart of the Examined Life*
 - [[Fallibilist Epistemology]]
   - *First appears in: 🎯 Phase I: The Premise — The Regulatory Problem*
-- [[Fast-and-Frugal Heuristics|fast-and-frugal heuristics]]
+- [[Fast-and-Frugal-Heuristics|fast-and-frugal heuristics]]
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - [[Frank Knight]]
   - *First appears in: Knightian Uncertainty: When More Thinking Cannot Help*
@@ -1207,7 +1207,7 @@
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
 - [[Gail Ross]]
   - *First appears in: The Problem of the Productive Gap: Vygotsky and the Zone of Proximal Development*
-- [[Genetic Epistemology]]
+- [[Genetic-Epistemology]]
   - *First appears in: Key Term Lexicon 📖*
 - [[Gerald Clore]]
   - *First appears in: 1.2 The Third Function: Emotion as Epistemic Signal*
@@ -1219,11 +1219,11 @@
   - *First appears in: ✨ The Emergent Insight: The Governed Attentional Gap*
 - [[Harry Collins]]
   - *First appears in: PKB Expansion Topics*
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
   - *First appears in: RELATIONSHIPS*
 - [[Herbert Simon]]
   - *First appears in: Gigerenzer's Ecological Rationality: Why Less Is Sometimes More*
-- [[Hermeneutical Injustice]]
+- [[Hermeneutical-Injustice]]
   - *First appears in: Worked Example: The Advisory Committee*
 - [[Hilary Putnam]]
   - *First appears in: The Central Conceptual Tension: Mechanism Versus Meaning*
@@ -1241,13 +1241,13 @@
   - *First appears in: RELATIONSHIPS*
 - [[Impression Management]]
   - *First appears in: 📜 The Stoic Discovery: Prosoche as Practiced Attention*
-- [[Inquiry-Based Learning]]
+- [[Inquiry-Based-Learning]]
   - *First appears in: RELATIONSHIPS*
 - [[Inquiry-Based Learning Design]]
   - *First appears in: ═══════════════════════════════════════════════════════════════════*
 - [[Interoception and Interoceptive Inference]]
   - *First appears in: ═══════════════════════════════════════════════════════════════════════════*
-- [[Interoceptive Inference|Seth's interoceptive inference]]
+- [[Interoceptive-Inference|Seth's interoceptive inference]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Interoceptive Training Protocols]]
   - *First appears in: LEARNING PATHWAYS*
@@ -1267,7 +1267,7 @@
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Jeroen van Merriënboer]]
   - *First appears in: Phase I — The Premise: The Architecture of Construction 🏗️*
-- [[John Dewey|Dewey]]
+- [[John-Dewey|Dewey]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[John Flavell|Flavell's]]
   - *First appears in: 🎯 Phase I: The Premise — The Regulatory Problem*
@@ -1277,13 +1277,13 @@
   - *First appears in: 🎯 Phase I: The Premise — The Regulatory Problem*
 - [[Joseph Eyer]]
   - *First appears in: ⚖️ Allostasis and Allostatic Load — The Physiology of Cognitive Capacity*
-- [[Kataleptic Impression|kataleptic impression]]
+- [[Kataleptic-Impression|kataleptic impression]]
   - *First appears in: 🔁 The Structural Homology: Prosoche IS Metacognitive Monitoring*
 - [[Keith Stanovich|Stanovich]]
   - *First appears in: 🎯 Phase I: The Premise — The Regulatory Problem*
 - [[Klaus Scherer]]
   - *First appears in: 2.2 Appraisal Theory: Emotions as Evaluative Responses*
-- [[Knightian Uncertainty|radical uncertainty]]
+- [[Knightian-Uncertainty|radical uncertainty]]
   - *First appears in: Phase I 🏛️ The Premise: The Gap the Tier 1 Architecture Cannot Cross*
 - [[Kristjan Kristjansson]]
   - *First appears in: The Aristotelian Foundation: Phronesis as Irreducible Intelligence*
@@ -1411,7 +1411,7 @@
   - *First appears in: Narrative Identity: The Story We Live By*
 - [[Redemptive Sequence]]
   - *First appears in: Key Terms Lexicon*
-- [[Region of Proximal Learning]]
+- [[Region-of-Proximal-Learning]]
   - *First appears in: D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing*
 - [[Representativeness Heuristic]]
   - *First appears in: 🧠 The Architecture of Automatic Thought: Dual Process Theory*
@@ -1441,7 +1441,7 @@
   - *First appears in: LEARNING PATHWAYS*
 - [[Socratic Elenchus]]
   - *First appears in: The Master Homology: Socratic Dialectic as Evolutionary Confirmation*
-- [[Somatic Marker Hypothesis|Damasio's somatic markers]]
+- [[Somatic-Marker-Hypothesis|Damasio's somatic markers]]
   - *First appears in: The Master Homology: A Single Mechanism Across Twelve Reports*
 - [[Somatic Markers]]
   - *First appears in: 1.2 The Third Function: Emotion as Epistemic Signal*
@@ -1459,7 +1459,7 @@
   - *First appears in: RELATIONSHIPS*
 - [[The Fallibilist-Constructivist Epistemological Posture]]
   - *First appears in: The Emergent Insight: Epistemological Posture as Psychological Architecture*
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
   - *First appears in: RELATIONSHIPS*
 - [[Viktor Frankl's Logotherapy]]
   - *First appears in: Gap 6: Narrative Identity and Meaning-Making*
@@ -1491,7 +1491,7 @@
   - *First appears in: PKB Expansion Topics*
 - [[confirmation bias]]
   - *First appears in: Phase I: The Premise — The Problem of the Knowing Subject 🔑*
-- [[conflict monitoring]]
+- [[Conflict-Monitoring]]
   - *First appears in: C. Dual Process Theory: The Cognitive Science of Activation Costs*
 - [[elenchus]]
   - *First appears in: B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish*
@@ -1501,9 +1501,9 @@
   - *First appears in: Phase I: The Premise — The Problem of the Knowing Subject 🔑*
 - [[feeling of knowing]]
   - *First appears in: D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing*
-- [[felt difficulty]]
+- [[Felt-Difficulty]]
   - *First appears in: A. John Dewey and the Logic of Felt Difficulty*
-- [[genetic epistemology]]
+- [[Genetic-Epistemology]]
   - *First appears in: Constructivism: Knowledge as Built, Not Found*
 - [[habit]]
   - *First appears in: A. John Dewey and the Logic of Felt Difficulty*
@@ -1525,7 +1525,7 @@
   - *First appears in: The Aristotelian Foundation: Phronesis as Irreducible Intelligence*
 - [[via negativa]]
   - *First appears in: PKB Expansion Topics*
-- [[warranted assertibility]]
+- [[Warranted-Assertibility]]
   - *First appears in: The Pragmatist Revolution in Epistemology*
 - [[will]]
   - *First appears in: PKB Expansion Topics*
@@ -1581,34 +1581,34 @@
 
 ### 4
 
-- [[4E Cognition]]
+- [[4E-Cognition]]
 
 ### A
 
 - [[AI and the Examined Life — Cognitive Sovereignty]]
 - [[Acceptance and Commitment Therapy]]
 - [[Accommodation]]
-- [[Active Inference]] — 4×
+- [[Active-Inference]] — 4×
 - [[Active Inference and Ethical Agency]]
-- [[Actively Open-Minded Thinking]]
+- [[Actively-Open-Minded-Thinking]]
 - [[Actively Open-Minded Thinking — Assessment and Development]]
 - [[Actor-Observer Bias]]
-- [[Affect-as-Information Theory]] — 2×
+- [[Affect-as-Information-Theory]] — 2×
 - [[Affect-as-Information in Decision Making]] — 2×
 - [[Affective Appraisal Theory]]
 - [[Affective Neuroscience]]
 - [[Affective Prediction Errors]]
-- [[Affective Realism]] — 3×
+- [[Affective-Realism]] — 3×
 - [[Albert Bandura]]
 - [[Allostasis]] — 3×
-- [[Allostatic Load]] — 3×
+- [[Allostatic-Load]] — 3×
 - [[Allostatic Load Measurement and Monitoring]]
 - [[Alvin Goldman]]
 - [[Amor Fati]] — 5×
 - [[Amos Tversky]]
 - [[Amos Tversky|Tversky]]
-- [[Analysis Paralysis]] — 2×
-- [[Analysis paralysis]]
+- [[Analysis-Paralysis]] — 2×
+- [[Analysis-Paralysis]]
 - [[Anchoring and Adjustment]]
 - [[Anders Ericsson]]
 - [[Andy Clark]] — 2×
@@ -1618,12 +1618,12 @@
 - [[Antonio Damasio]] — 3×
 - [[Apatheia]]
 - [[Aporia]]
-- [[Aporic Receptivity]] — 12×
+- [[Aporic-Receptivity]] — 12×
 - [[Applied Epistemology]] — 3×
 - [[Appraisal Accuracy]]
 - [[Appraisal Retraining Interventions]]
-- [[Appraisal Theory]] — 5×
-- [[Apt Epistemic Performance]]
+- [[Appraisal-Theory]] — 5×
+- [[Apt-Epistemic-Performance]]
 - [[Apt Epistemic Performance — Barzilai and Chinn Framework]]
 - [[Argumentative Theory]] — 3×
 - [[Argumentative Theory of Reasoning]] — 3×
@@ -1631,9 +1631,9 @@
 - [[Artificial Intelligence and the Examined Life — Epistemic Ecology]]
 - [[Artinger]]
 - [[Askēsis]]
-- [[Assimilation and Accommodation|assimilation and accommodation]]
+- [[Assimilation-and-Accommodation|assimilation and accommodation]]
 - [[Autonomy-Supportive Teaching and Learning Environments]]
-- [[Availability Heuristic]] — 2×
+- [[Availability-Heuristic]] — 2×
 
 ### B
 
@@ -1641,15 +1641,15 @@
 - [[Bandura]]
 - [[Barrett and Wormwood]]
 - [[Barry Schwartz]]
-- [[Barry Zimmerman]] — 2×
-- [[Basic Psychological Needs]]
+- [[Barry-Zimmerman]] — 2×
+- [[Basic-Psychological-Needs]]
 - [[Basic Psychological Needs Theory]]
 - [[Basic Psychological Needs in Educational Contexts]]
 - [[Bayesian Brain — Empirical Status Review]]
 - [[Bayesian Epistemology]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference]]
 - [[Behavioral Signatures]]
-- [[Belief Revision]] — 3×
+- [[Belief-Revision]] — 3×
 - [[Bounded Rationality]]
 - [[Bratman]]
 - [[Bruce McEwen]]
@@ -1660,7 +1660,7 @@
 - [[C. Thi Nguyen]]
 - [[Carol Dweck]]
 - [[Cass Sunstein]]
-- [[Challenge-Skill Balance]]
+- [[Challenge-Skill-Balance]]
 - [[Character Development]]
 - [[Charles Sanders Peirce]]
 - [[Charles Sanders Peirce|Peirce]]
@@ -1670,17 +1670,17 @@
 - [[Cicero]]
 - [[Classical View of Emotion]]
 - [[Cognitive Behavioral Therapy]]
-- [[Cognitive Bias]] — 2×
+- [[Cognitive-Bias]] — 2×
 - [[Cognitive Bias Research]]
 - [[Cognitive Biases]] — 3×
 - [[Cognitive Biases and Heuristics]]
-- [[Cognitive Bias|Cognitive biases]]
+- [[Cognitive-Bias|Cognitive biases]]
 - [[Cognitive Debiasing]]
-- [[Cognitive Decoupling]] — 2×
-- [[Cognitive Decoupling|cognitive decoupling]]
+- [[Cognitive-Decoupling]] — 2×
+- [[Cognitive-Decoupling|cognitive decoupling]]
 - [[Cognitive Forcing Functions]]
 - [[Cognitive Forcing Functions in Clinical Reasoning]] — 2×
-- [[Cognitive Load]] — 2×
+- [[Cognitive-Load]] — 2×
 - [[Cognitive Load Theory]] — 13×
 - [[Cognitive Miserliness]] — 2×
 - [[Cognitive Mode of Being]]
@@ -1690,18 +1690,18 @@
 - [[Cognitive Reappraisal]]
 - [[Cognitive Reflection Test and Rational Thinking]]
 - [[Cognitive Reflection Test and Rationality Quotient]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding]]
 - [[Cognitive Scaffolding — Report 04]]
 - [[Cognitive Science]] — 5×
 - [[Cognitive Science of Expertise]]
-- [[Cognitive Vitality]] — 5×
+- [[Cognitive-Vitality]] — 5×
 - [[Coherentism and Foundationalism]]
 - [[Collective Intelligence Design Patterns]] — 2×
-- [[Competence Need]]
+- [[Competence-Need]]
 - [[Component Process Model]]
 - [[Computational Psychiatry]]
 - [[Computational Psychiatry and the Examined Life]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory]]
 - [[Confirmation Bias]] — 4×
 - [[Conflict Monitoring and Error Correction Mechanisms]]
 - [[Conflict Monitoring and the Bootstrap Problem]]
@@ -1710,7 +1710,7 @@
 - [[Constructed Emotion Theory]] — 4×
 - [[Constructed Emotion Theory — Deep Dive]] — 2×
 - [[Constructed Emotion Theory|constructed emotions]]
-- [[Constructive Attentiveness]] — 5×
+- [[Constructive-Attentiveness]] — 5×
 - [[Constructivism]] — 11×
 - [[Constructivism (Educational Psychology)]]
 - [[Constructivist Stance]]
@@ -1731,7 +1731,7 @@
 - [[Daniel Kahneman|Kahneman]]
 - [[David Chalmers]]
 - [[David Marr]]
-- [[David Rumelhart]] — 3×
+- [[David-Rumelhart]] — 3×
 - [[David Wood]]
 - [[Debiasing]] — 3×
 - [[Debiasing Interventions]]
@@ -1759,43 +1759,43 @@
 - [[Dreyfus]]
 - [[Dreyfus Model of Skill Acquisition]] — 2×
 - [[Dual Process Theory]] — 19×
-- [[Dunning-Kruger Effect]] — 2×
-- [[Dunning-Kruger Effect|competence problem]]
+- [[Dunning-Kruger-Effect]] — 2×
+- [[Dunning-Kruger-Effect|competence problem]]
 
 ### E
 
 - [[Echo Chambers and Epistemic Bubbles - A Diagnostic Toolkit]]
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
-- [[Ecological Rationality|ecological rationality]] — 2×
+- [[Ecological-Rationality|ecological rationality]] — 2×
 - [[Educational Psychology]] — 3×
 - [[Edward Deci]] — 2×
 - [[Edwin Hutchins]] — 2×
 - [[Eleanor Rosch]]
 - [[Elena]]
-- [[Embodied Cognition]] — 6×
+- [[Embodied-Cognition]] — 6×
 - [[Emotion Concepts]]
 - [[Emotion Differentiation]]
 - [[Emotion Regulation]]
-- [[Emotional Granularity]] — 11×
+- [[Emotional-Granularity]] — 11×
 - [[Emotional Granularity Training Protocols]] — 2×
-- [[Emotional Granularity as Epistemic Precision]]
-- [[Emotional Granularity|Emotional granularity]]
+- [[Emotional-Granularity-as-Epistemic-Precision]]
+- [[Emotional-Granularity|Emotional granularity]]
 - [[Emotional Intelligence]] — 4×
 - [[Epictetus]] — 6×
 - [[Epistemic Architecture]]
 - [[Epistemic Architecture - Reports 01-08]]
 - [[Epistemic Autonomy and Intellectual Independence]]
-- [[Epistemic Character]]
+- [[Epistemic-Character]]
 - [[Epistemic Character Measurement — VICS and Related Instruments]]
-- [[Epistemic Cowardice]] — 2×
+- [[Epistemic-Cowardice]] — 2×
 - [[Epistemic Curiosity and the Information Gap]] — 2×
 - [[Epistemic Democracy and Deliberative Institutions]]
-- [[Epistemic Humility]]
+- [[Epistemic-Humility]]
 - [[Epistemic Injustice]] — 5×
 - [[Epistemic Injustice and Collective Virtue]] — 2×
 - [[Epistemic Injustice in Healthcare and Clinical Epistemology]] — 2×
 - [[Epistemic Injustice|epistemic injustice]]
-- [[Epistemic Justice]]
+- [[Epistemic-Justice]]
 - [[Epistemic Motivation]]
 - [[Epistemic Virtues]] — 2×
 - [[Epistemological Posture|epistemological posture]]
@@ -1829,7 +1829,7 @@
 - [[Fallibilist Epistemological Posture]]
 - [[Fallibilist Epistemology]]
 - [[Fallibilist-Constructivist Epistemological Posture]] — 3×
-- [[Fast-and-Frugal Heuristics|fast-and-frugal heuristics]]
+- [[Fast-and-Frugal-Heuristics|fast-and-frugal heuristics]]
 - [[Flow]] — 4×
 - [[Flow Theory]] — 3×
 - [[Flow in Intellectual Work]]
@@ -1840,7 +1840,7 @@
 - [[Frank Martela]]
 - [[Fred Paas]]
 - [[Frederic Bartlett]] — 3×
-- [[Free Energy Principle]] — 5×
+- [[Free-Energy-Principle]] — 5×
 - [[Fundamental Attribution Error]] — 2×
 
 ### G
@@ -1849,8 +1849,8 @@
 - [[Galen]]
 - [[Gary Klein]] — 4×
 - [[Gary Klein's Recognition-Primed Decision Model]]
-- [[Generative Model]]
-- [[Genetic Epistemology]]
+- [[Generative-Model]]
+- [[Genetic-Epistemology]]
 - [[Gerald Clore]]
 - [[Gerd Gigerenzer]] — 2×
 - [[Gerd Gigerenzer's Ecological Rationality]]
@@ -1867,10 +1867,10 @@
 
 - [[Harry Collins]]
 - [[Heather Battaly]] — 4×
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation]]
 - [[Herbert Simon]]
 - [[Hermeneutical Humility]] — 4×
-- [[Hermeneutical Injustice]]
+- [[Hermeneutical-Injustice]]
 - [[Heuristics and Biases Program]] — 2×
 - [[Hilary Putnam]]
 - [[Hippocampus]]
@@ -1889,33 +1889,33 @@
 - [[Identity-Protective Cognition and Science Literacy]]
 - [[Ikigai]]
 - [[Ikigai and Cross-Cultural Meaning Frameworks]] — 2×
-- [[Illusion of Explanatory Depth]] — 2×
+- [[Illusion-of-Explanatory-Depth]] — 2×
 - [[Implementation Intentions and Bias Correction]]
 - [[Implementation Intentions and Habit Formation]]
 - [[Implicit Theories of Intelligence]]
 - [[Impression Management]]
-- [[Inquiry-Based Learning]]
+- [[Inquiry-Based-Learning]]
 - [[Inquiry-Based Learning Design]]
 - [[Inquiry-Based Learning Design: Principles and Evidence]]
-- [[Integrated Cognitive Personhood]] — 2×
+- [[Integrated-Cognitive-Personhood]] — 2×
 - [[Intellectual Character]]
-- [[Intellectual Courage]] — 9×
-- [[Intellectual Empathy]] — 6×
-- [[Intellectual Humility]] — 12×
-- [[Intellectual Humility|Intellectual humility]]
-- [[Intellectual Integrity]] — 5×
-- [[Intellectual Perseverance]] — 5×
-- [[Intellectual Virtue]]
+- [[Intellectual-Courage]] — 9×
+- [[Intellectual-Empathy]] — 6×
+- [[Intellectual-Humility]] — 12×
+- [[Intellectual-Humility|Intellectual humility]]
+- [[Intellectual-Integrity]] — 5×
+- [[Intellectual-Perseverance]] — 5×
+- [[Intellectual-Virtue]]
 - [[Intellectual Virtue Development Interventions]] — 2×
-- [[Intellectual Virtues]] — 4×
+- [[Intellectual-Virtues]] — 4×
 - [[Intellectual Virtues and Virtue Epistemology]]
-- [[Intellectual courage]]
-- [[Intellectual humility]]
+- [[Intellectual-Courage]]
+- [[Intellectual-Humility]]
 - [[Internalization Continuum and Developmental Motivation]]
 - [[Interoception]] — 3×
 - [[Interoception and Interoceptive Inference]]
-- [[Interoceptive Inference]] — 4×
-- [[Interoceptive Inference|Seth's interoceptive inference]]
+- [[Interoceptive-Inference]] — 4×
+- [[Interoceptive-Inference|Seth's interoceptive inference]]
 - [[Interoceptive Training Protocols]]
 - [[Intrinsic Motivation]] — 2×
 - [[Introduction to Epistemology]] — 2×
@@ -1934,8 +1934,8 @@
 - [[Jean Piaget|Piaget]]
 - [[Jeroen van Merriënboer]]
 - [[Jerome Bruner]] — 4×
-- [[John Dewey]] — 5×
-- [[John Dewey|Dewey]]
+- [[John-Dewey]] — 5×
+- [[John-Dewey|Dewey]]
 - [[John Flavell]] — 4×
 - [[John Flavell|Flavell's]]
 - [[John Flavell|John H. Flavell's]]
@@ -1949,14 +1949,14 @@
 
 - [[Kahneman]]
 - [[Karl Friston]] — 4×
-- [[Kataleptic Impression|kataleptic impression]]
+- [[Kataleptic-Impression|kataleptic impression]]
 - [[Kathekon]] — 3×
 - [[Kathêkon|kathêkon]]
 - [[Keith Stanovich]] — 3×
 - [[Keith Stanovich|Stanovich]]
 - [[Klaus Scherer]]
-- [[Knightian Uncertainty]] — 2×
-- [[Knightian Uncertainty|radical uncertainty]]
+- [[Knightian-Uncertainty]] — 2×
+- [[Knightian-Uncertainty|radical uncertainty]]
 - [[Kristjan Kristjansson]]
 
 ### L
@@ -2007,14 +2007,14 @@
 - [[Miranda Fricker|Fricker]]
 - [[Moral Emotions and Ethical Perception]]
 - [[Moral Psychology]]
-- [[Motivated Reasoning]] — 10×
+- [[Motivated-Reasoning]] — 10×
 - [[Motivational Psychology]]
 
 ### N
 
 - [[Nadurak's Type 1 Metacognitive Monitoring]]
 - [[Naive Realism]] — 2×
-- [[Narrative Coherence as Cognitive Architecture]]
+- [[Narrative-Coherence-as-Cognitive-Architecture]]
 - [[Narrative Identity]] — 14×
 - [[Narrative Metacognition]] — 5×
 - [[Narrative Self-Model]]
@@ -2042,14 +2042,14 @@
 - [[O'Toole, Bovard-Abbo, and Weightman]]
 - [[Open-Mindedness]]
 - [[Optimal Experience]]
-- [[Organismic Integration Theory]] — 4×
+- [[Organismic-Integration-Theory]] — 4×
 - [[Overconfidence Bias]]
 
 ### P
 
 - [[Paradigmatic Thought]]
 - [[Pathē]] — 3×
-- [[Pathē/Eupatheia]]
+- [[Eupatheia]]
 - [[Paul Pintrich]] — 2×
 - [[Paul Ricoeur]]
 - [[Paul Ricoeur's Mimesis and Narrative Time]]
@@ -2067,7 +2067,7 @@
 - [[Perspective-Taking Failures]]
 - [[Peter Sterling]]
 - [[Phantasia|phantasia]]
-- [[Phenomenal Self-Model]]
+- [[Phenomenal-Self-Model]]
 - [[Phenomenology]]
 - [[Philosophy of Action]]
 - [[Philosophy of Cognitive Science]]
@@ -2078,7 +2078,7 @@
 - [[Phronesis]] — 10×
 - [[Phronesis|phronesis]]
 - [[Phronimos]]
-- [[Physiological Metacognition]] — 5×
+- [[Physiological-Metacognition]] — 5×
 - [[Piaget's Constructivism]]
 - [[Piaget's Perturbation-Accommodation-Equilibration Cycle]]
 - [[Pierre Hadot]]
@@ -2090,11 +2090,11 @@
 - [[Post-Traumatic Growth]] — 4×
 - [[Practical Architecture - Reports 09-11]]
 - [[Practical Philosophy]]
-- [[Pragmatic Maxim]] — 7×
+- [[Pragmatic-Maxim]] — 7×
 - [[Pragmatism]] — 4×
-- [[Precision Weighting]] — 3×
+- [[Precision-Weighting]] — 3×
 - [[Precision Weighting in Predictive Processing]]
-- [[Predictive Processing]] — 13×
+- [[Predictive-Processing]] — 13×
 - [[Presence of Meaning]]
 - [[Process Dissociation Procedures in Debiasing]]
 - [[Productive Failure in Learning]]
@@ -2116,14 +2116,14 @@
 - [[Rational Choice Theory]]
 - [[Rationality Studies]]
 - [[Recognition-Primed Decision Making]]
-- [[Recognition-Primed Decision Model]]
-- [[Recognition-Primed Decision Model|Recognition-Primed Decision]]
-- [[Recognition-Primed Decision Model|Recognition-Primed Decision (RPD) Model]] — 2×
-- [[Recursive Self-Authorship]] — 3×
+- [[Recognition-Primed-Decision-Model]]
+- [[Recognition-Primed-Decision-Model|Recognition-Primed Decision]]
+- [[Recognition-Primed-Decision-Model|Recognition-Primed Decision (RPD) Model]] — 2×
+- [[Recursive-Self-Authorship]] — 3×
 - [[Redemptive Self]]
 - [[Redemptive Sequence]]
 - [[Reflective Thinking]] — 2×
-- [[Region of Proximal Learning]]
+- [[Region-of-Proximal-Learning]]
 - [[Relatedness]]
 - [[Reliabilism]]
 - [[Report 01]] — 7×
@@ -2172,7 +2172,7 @@
 - [[Situationist Critique]]
 - [[Situationist Critique of Virtue Ethics]] — 2×
 - [[Sleep Science and Cognitive Performance]]
-- [[Social Constructivism]]
+- [[Social-Constructivism]]
 - [[Social Epistemic Virtue]] — 2×
 - [[Social Epistemology]] — 6×
 - [[Social Epistemology|social epistemology]]
@@ -2181,8 +2181,8 @@
 - [[Socrates|Socratic]]
 - [[Socratic Elenchus]]
 - [[Socratic Method]] — 8×
-- [[Somatic Marker Hypothesis]] — 6×
-- [[Somatic Marker Hypothesis|Damasio's somatic markers]]
+- [[Somatic-Marker-Hypothesis]] — 6×
+- [[Somatic-Marker-Hypothesis|Damasio's somatic markers]]
 - [[Somatic Markers]]
 - [[Sophos]]
 - [[Sources of the Self]]
@@ -2223,7 +2223,7 @@
 - [[Taming System 1 — Report 06]]
 - [[Terror Management Theory]]
 - [[Terror Management Theory and Meaning]] — 2×
-- [[Testimonial Injustice]] — 2×
+- [[Testimonial-Injustice]] — 2×
 - [[Testimonial Sensitivity]] — 4×
 - [[The Actively Open-Minded Thinking Scale: Measurement and Development]]
 - [[The Architecture of the Examined Life]]
@@ -2247,7 +2247,7 @@
 - [[The Self-Directed Learner — Report 07]]
 - [[The Social Thinker — Report 12]]
 - [[The Virtuous Reasoner — Report 05]]
-- [[Theory of Constructed Emotion]] — 3×
+- [[Theory-of-Constructed-Emotion]] — 3×
 - [[Thinking, Fast and Slow]]
 - [[Thomas Metzinger]] — 2×
 - [[Thomasma]]
@@ -2256,9 +2256,9 @@
 - [[Tier 2 — Practical Architecture]] — 2×
 - [[Tier 3 — Integrative Architecture]] — 2×
 - [[Transfer of Epistemic Dispositions Across Domains]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]] — 2×
-- [[Transient Hypofrontality]] — 3×
+- [[Transient-Hypofrontality]] — 3×
 - [[Tversky]]
 
 ### U
@@ -2268,11 +2268,11 @@
 ### V
 
 - [[Velleman]]
-- [[Ventromedial Prefrontal Cortex]] — 2×
+- [[Ventromedial-Prefrontal-Cortex]] — 2×
 - [[Viability]]
 - [[Viktor Frankl]] — 2×
 - [[Viktor Frankl's Logotherapy]]
-- [[Virtue Epistemology]] — 8×
+- [[Virtue-Epistemology]] — 8×
 - [[Virtue Ethics]] — 4×
 - [[Vygotsky's ZPD]]
 
@@ -2299,7 +2299,7 @@
 - [[accommodation]]
 - [[antifragility]]
 - [[aporia]]
-- [[aporic receptivity]] — 2×
+- [[Aporic-Receptivity]] — 2×
 - [[assimilation]]
 
 ### B
@@ -2310,7 +2310,7 @@
 
 - [[commitment]]
 - [[confirmation bias]]
-- [[conflict monitoring]]
+- [[Conflict-Monitoring]]
 
 ### E
 
@@ -2322,11 +2322,11 @@
 
 - [[fallibilism]]
 - [[feeling of knowing]]
-- [[felt difficulty]]
+- [[Felt-Difficulty]]
 
 ### G
 
-- [[genetic epistemology]]
+- [[Genetic-Epistemology]]
 
 ### H
 
@@ -2336,7 +2336,7 @@
 ### I
 
 - [[in-group favoritism in epistemic evaluation]]
-- [[intellectual humility]]
+- [[Intellectual-Humility]]
 - [[intention]]
 
 ### K
@@ -2374,7 +2374,7 @@
 
 ### W
 
-- [[warranted assertibility]]
+- [[Warranted-Assertibility]]
 - [[wiki-links]] — 3×
 - [[will]]
 
@@ -2467,7 +2467,7 @@
 
 | [[#What the Framework Does Exceptionally Well]] | 1 | §0 — Critical Review & Evolution Recommendations |
 
-| [[4E Cognition]] | 1 | RELATIONSHIPS |
+| [[4E-Cognition]] | 1 | RELATIONSHIPS |
 
 | [[AI and the Examined Life — Cognitive Sovereignty]] | 1 | 🔭 Expansion Topics for PKB Development |
 
@@ -2475,17 +2475,17 @@
 
 | [[Accommodation]] | 1 | Key Term Lexicon 📖 |
 
-| [[Active Inference]] | 4 | Gap 5: Predictive Processing and Active Inference |
+| [[Active-Inference]] | 4 | Gap 5: Predictive Processing and Active Inference |
 
 | [[Active Inference and Ethical Agency]] | 1 | PKB Expansion Topics |
 
-| [[Actively Open-Minded Thinking]] | 1 | C. Dual Process Theory: The Cognitive Science o... |
+| [[Actively-Open-Minded-Thinking]] | 1 | C. Dual Process Theory: The Cognitive Science o... |
 
 | [[Actively Open-Minded Thinking — Assessment and Development]] | 1 | ═══════════════════════════════════════════════... |
 
 | [[Actor-Observer Bias]] | 1 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
-| [[Affect-as-Information Theory]] | 2 | 1.2 The Third Function: Emotion as Epistemic Si... |
+| [[Affect-as-Information-Theory]] | 2 | 1.2 The Third Function: Emotion as Epistemic Si... |
 
 | [[Affect-as-Information in Decision Making]] | 2 | ═══════════════════════════════════════════════... |
 
@@ -2495,13 +2495,13 @@
 
 | [[Affective Prediction Errors]] | 1 | 5.2 Bidirectional Enrichment: How Report 10 Tra... |
 
-| [[Affective Realism]] | 3 | Gap 2: Emotional Cognition — Emotions as Episte... |
+| [[Affective-Realism]] | 3 | Gap 2: Emotional Cognition — Emotions as Episte... |
 
 | [[Albert Bandura]] | 1 | The Self-Regulated Learning Tradition: How Does... |
 
 | [[Allostasis]] | 3 | Gap 1: Embodied Cognition and the Absent Body |
 
-| [[Allostatic Load]] | 3 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
+| [[Allostatic-Load]] | 3 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
 
 | [[Allostatic Load Measurement and Monitoring]] | 1 | LEARNING PATHWAYS |
 
@@ -2513,9 +2513,9 @@
 
 | [[Amos Tversky|Tversky]] | 1 | 🧠 The Architecture of Automatic Thought: Dual P... |
 
-| [[Analysis Paralysis]] | 2 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
+| [[Analysis-Paralysis]] | 2 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
-| [[Analysis paralysis]] | 1 | The Second Tension: Fallibilism and the Necessi... |
+| [[Analysis-Paralysis]] | 1 | The Second Tension: Fallibilism and the Necessi... |
 
 | [[Anchoring and Adjustment]] | 1 | 🧠 The Architecture of Automatic Thought: Dual P... |
 
@@ -2535,7 +2535,7 @@
 
 | [[Aporia]] | 1 | The Developmental Staging Model: From Conscious... |
 
-| [[Aporic Receptivity]] | 12 | Phase I: The Premise — The Paradox at the Heart... |
+| [[Aporic-Receptivity]] | 12 | Phase I: The Premise — The Paradox at the Heart... |
 
 | [[Applied Epistemology]] | 3 | ═══════════════════════════════════════════════... |
 
@@ -2543,9 +2543,9 @@
 
 | [[Appraisal Retraining Interventions]] | 1 | ═══════════════════════════════════════════════... |
 
-| [[Appraisal Theory]] | 5 | Gap 2: Emotional Cognition — Emotions as Episte... |
+| [[Appraisal-Theory]] | 5 | Gap 2: Emotional Cognition — Emotions as Episte... |
 
-| [[Apt Epistemic Performance]] | 1 | RELATIONSHIPS |
+| [[Apt-Epistemic-Performance]] | 1 | RELATIONSHIPS |
 
 | [[Apt Epistemic Performance — Barzilai and Chinn Framework]] | 1 | LEARNING PATHWAYS |
 
@@ -2561,11 +2561,11 @@
 
 | [[Askēsis]] | 1 | ⚡ The Stoic Tradition: Virtue as Trained Dispos... |
 
-| [[Assimilation and Accommodation|assimilation and accommodation]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Assimilation-and-Accommodation|assimilation and accommodation]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[Autonomy-Supportive Teaching and Learning Environments]] | 1 | Expansion Topics for PKB Development |
 
-| [[Availability Heuristic]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
+| [[Availability-Heuristic]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
 | [[Backfire Effect]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
@@ -2575,9 +2575,9 @@
 
 | [[Barry Schwartz]] | 1 | The Aristotelian Foundation: Phronesis as Irred... |
 
-| [[Barry Zimmerman]] | 2 | Phase I — The Premise 🧭: The Paradox of Intelle... |
+| [[Barry-Zimmerman]] | 2 | Phase I — The Premise 🧭: The Paradox of Intelle... |
 
-| [[Basic Psychological Needs]] | 1 | Self-Determination Theory: The Three Necessary ... |
+| [[Basic-Psychological-Needs]] | 1 | Self-Determination Theory: The Three Necessary ... |
 
 | [[Basic Psychological Needs Theory]] | 1 | RELATIONSHIPS |
 
@@ -2587,11 +2587,11 @@
 
 | [[Bayesian Epistemology]] | 1 | Expansion Topics for PKB Development 🔗 |
 
-| [[Bayesian Inference]] | 1 | RELATIONSHIPS |
+| [[Bayesian-Inference]] | 1 | RELATIONSHIPS |
 
 | [[Behavioral Signatures]] | 1 | ⚖️ Conceptual Tension: Character Traits or Trai... |
 
-| [[Belief Revision]] | 3 | Gap 5: Predictive Processing and Active Inference |
+| [[Belief-Revision]] | 3 | Gap 5: Predictive Processing and Active Inference |
 
 | [[Bounded Rationality]] | 1 | RELATIONSHIPS |
 
@@ -2607,7 +2607,7 @@
 
 | [[Cass Sunstein]] | 1 | Social Epistemology and the Conditions for Coll... |
 
-| [[Challenge-Skill Balance]] | 1 | Flow Theory: The Architecture of Optimal Engage... |
+| [[Challenge-Skill-Balance]] | 1 | Flow Theory: The Architecture of Optimal Engage... |
 
 | [[Character Development]] | 1 | ═══════════════════════════════════════════════... |
 
@@ -2627,7 +2627,7 @@
 
 | [[Cognitive Behavioral Therapy]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
-| [[Cognitive Bias]] | 2 | ═══════════════════════════════════════════════... |
+| [[Cognitive-Bias]] | 2 | ═══════════════════════════════════════════════... |
 
 | [[Cognitive Bias Research]] | 1 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
@@ -2635,19 +2635,19 @@
 
 | [[Cognitive Biases and Heuristics]] | 1 | ═══════════════════════════════════════════════... |
 
-| [[Cognitive Bias|Cognitive biases]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Cognitive-Bias|Cognitive biases]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[Cognitive Debiasing]] | 1 | ═══════════════════════════════════════════════... |
 
-| [[Cognitive Decoupling]] | 2 | ✨ The Emergent Insight: The Governed Attentiona... |
+| [[Cognitive-Decoupling]] | 2 | ✨ The Emergent Insight: The Governed Attentiona... |
 
-| [[Cognitive Decoupling|cognitive decoupling]] | 1 | 🧠 The Architecture of Automatic Thought: Dual P... |
+| [[Cognitive-Decoupling|cognitive decoupling]] | 1 | 🧠 The Architecture of Automatic Thought: Dual P... |
 
 | [[Cognitive Forcing Functions]] | 1 | RELATIONSHIPS |
 
 | [[Cognitive Forcing Functions in Clinical Reasoning]] | 2 | LEARNING PATHWAYS |
 
-| [[Cognitive Load]] | 2 | Gap 5: Predictive Processing and Active Inference |
+| [[Cognitive-Load]] | 2 | Gap 5: Predictive Processing and Active Inference |
 
 | [[Cognitive Load Theory]] | 13 | Gap 1: Embodied Cognition and the Absent Body |
 
@@ -2667,7 +2667,7 @@
 
 | [[Cognitive Reflection Test and Rationality Quotient]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
-| [[Cognitive Scaffolding]] | 1 | 🔄 Retroactive Enrichment of Previous Reports |
+| [[Cognitive-Scaffolding]] | 1 | 🔄 Retroactive Enrichment of Previous Reports |
 
 | [[Cognitive Scaffolding — Report 04]] | 1 | RELATIONSHIPS |
 
@@ -2675,13 +2675,13 @@
 
 | [[Cognitive Science of Expertise]] | 1 | RELATIONSHIPS |
 
-| [[Cognitive Vitality]] | 5 | 🎯 Phase I: The Premise — The Motivational Probl... |
+| [[Cognitive-Vitality]] | 5 | 🎯 Phase I: The Premise — The Motivational Probl... |
 
 | [[Coherentism and Foundationalism]] | 1 | Expansion Topics for PKB Development 🔗 |
 
 | [[Collective Intelligence Design Patterns]] | 2 | LEARNING PATHWAYS |
 
-| [[Competence Need]] | 1 | A Second Structural Homology: Flow's Challenge-... |
+| [[Competence-Need]] | 1 | A Second Structural Homology: Flow's Challenge-... |
 
 | [[Component Process Model]] | 1 | 2.2 Appraisal Theory: Emotions as Evaluative Re... |
 
@@ -2689,7 +2689,7 @@
 
 | [[Computational Psychiatry and the Examined Life]] | 1 | PKB Expansion Topics |
 
-| [[Conceptual Change Theory]] | 1 | Expansion Topics for PKB Development 🔗 |
+| [[Conceptual-Change-Theory]] | 1 | Expansion Topics for PKB Development 🔗 |
 
 | [[Confirmation Bias]] | 4 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
@@ -2707,7 +2707,7 @@
 
 | [[Constructed Emotion Theory|constructed emotions]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[Constructive Attentiveness]] | 5 | Phase I — The Premise: The Architecture of Cons... |
+| [[Constructive-Attentiveness]] | 5 | Phase I — The Premise: The Architecture of Cons... |
 
 | [[Constructivism]] | 11 | What the Framework Does Exceptionally Well |
 
@@ -2743,7 +2743,7 @@
 
 | [[David Marr]] | 1 | The Central Conceptual Tension: Mechanism Versu... |
 
-| [[David Rumelhart]] | 3 | Constructivism: Knowledge as Built, Not Found |
+| [[David-Rumelhart]] | 3 | Constructivism: Knowledge as Built, Not Found |
 
 | [[David Wood]] | 1 | The Problem of the Productive Gap: Vygotsky and... |
 
@@ -2799,15 +2799,15 @@
 
 | [[Dual Process Theory]] | 19 | What the Framework Does Exceptionally Well |
 
-| [[Dunning-Kruger Effect]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
+| [[Dunning-Kruger-Effect]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
-| [[Dunning-Kruger Effect|competence problem]] | 1 | Worked Example: The Autodidact at the Edge of E... |
+| [[Dunning-Kruger-Effect|competence problem]] | 1 | Worked Example: The Autodidact at the Edge of E... |
 
 | [[Echo Chambers and Epistemic Bubbles - A Diagnostic Toolkit]] | 1 | LEARNING PATHWAYS |
 
 | [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]] | 1 | 📚 Expansion Topics |
 
-| [[Ecological Rationality|ecological rationality]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[Ecological-Rationality|ecological rationality]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Educational Psychology]] | 3 | ═══════════════════════════════════════════════... |
 
@@ -2819,7 +2819,7 @@
 
 | [[Elena]] | 1 | Worked Example: The Climate Policy Encounter |
 
-| [[Embodied Cognition]] | 6 | Gap 1: Embodied Cognition and the Absent Body |
+| [[Embodied-Cognition]] | 6 | Gap 1: Embodied Cognition and the Absent Body |
 
 | [[Emotion Concepts]] | 1 | 2.1 The Theory of Constructed Emotion: Emotions... |
 
@@ -2827,13 +2827,13 @@
 
 | [[Emotion Regulation]] | 1 | 2.4 Emotional Granularity: The Epistemic Precis... |
 
-| [[Emotional Granularity]] | 11 | Gap 2: Emotional Cognition — Emotions as Episte... |
+| [[Emotional-Granularity]] | 11 | Gap 2: Emotional Cognition — Emotions as Episte... |
 
 | [[Emotional Granularity Training Protocols]] | 2 | ═══════════════════════════════════════════════... |
 
-| [[Emotional Granularity as Epistemic Precision]] | 1 | 📖 Key Definitions |
+| [[Emotional-Granularity-as-Epistemic-Precision]] | 1 | 📖 Key Definitions |
 
-| [[Emotional Granularity|Emotional granularity]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Emotional-Granularity|Emotional granularity]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[Emotional Intelligence]] | 4 | RELATIONSHIPS |
 
@@ -2845,17 +2845,17 @@
 
 | [[Epistemic Autonomy and Intellectual Independence]] | 1 | LEARNING PATHWAYS |
 
-| [[Epistemic Character]] | 1 | RELATIONSHIPS |
+| [[Epistemic-Character]] | 1 | RELATIONSHIPS |
 
 | [[Epistemic Character Measurement — VICS and Related Instruments]] | 1 | LEARNING PATHWAYS |
 
-| [[Epistemic Cowardice]] | 2 | 🏛️ Virtue Epistemology: The Architecture of Int... |
+| [[Epistemic-Cowardice]] | 2 | 🏛️ Virtue Epistemology: The Architecture of Int... |
 
 | [[Epistemic Curiosity and the Information Gap]] | 2 | ═══════════════════════════════════════════════... |
 
 | [[Epistemic Democracy and Deliberative Institutions]] | 1 | LEARNING PATHWAYS |
 
-| [[Epistemic Humility]] | 1 | ═══════════════════════════════════════════════... |
+| [[Epistemic-Humility]] | 1 | ═══════════════════════════════════════════════... |
 
 | [[Epistemic Injustice]] | 5 | Gap 4: Social Cognition and Distributed Thinking |
 
@@ -2865,7 +2865,7 @@
 
 | [[Epistemic Injustice|epistemic injustice]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[Epistemic Justice]] | 1 | Recommendation 3: Strengthen Existing Reports W... |
+| [[Epistemic-Justice]] | 1 | Recommendation 3: Strengthen Existing Reports W... |
 
 | [[Epistemic Motivation]] | 1 | RELATIONSHIPS |
 
@@ -2927,7 +2927,7 @@
 
 | [[Fallibilist-Constructivist Epistemological Posture]] | 3 | Phase I: The Premise — The Problem of the Knowi... |
 
-| [[Fast-and-Frugal Heuristics|fast-and-frugal heuristics]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[Fast-and-Frugal-Heuristics|fast-and-frugal heuristics]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Flow]] | 4 | Gap 2: Emotional Cognition — Emotions as Episte... |
 
@@ -2949,7 +2949,7 @@
 
 | [[Frederic Bartlett]] | 3 | Constructivism: Knowledge as Built, Not Found |
 
-| [[Free Energy Principle]] | 5 | Recommendation 2: Expand to a Three-Tier Archit... |
+| [[Free-Energy-Principle]] | 5 | Recommendation 2: Expand to a Three-Tier Archit... |
 
 | [[Fundamental Attribution Error]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
@@ -2961,9 +2961,9 @@
 
 | [[Gary Klein's Recognition-Primed Decision Model]] | 1 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
-| [[Generative Model]] | 1 | The Generative Model: The Brain's Working Theor... |
+| [[Generative-Model]] | 1 | The Generative Model: The Brain's Working Theor... |
 
-| [[Genetic Epistemology]] | 1 | Key Term Lexicon 📖 |
+| [[Genetic-Epistemology]] | 1 | Key Term Lexicon 📖 |
 
 | [[Gerald Clore]] | 1 | 1.2 The Third Function: Emotion as Epistemic Si... |
 
@@ -2991,13 +2991,13 @@
 
 | [[Heather Battaly]] | 4 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
-| [[Hedonic Adaptation]] | 1 | RELATIONSHIPS |
+| [[Hedonic-Adaptation]] | 1 | RELATIONSHIPS |
 
 | [[Herbert Simon]] | 1 | Gigerenzer's Ecological Rationality: Why Less I... |
 
 | [[Hermeneutical Humility]] | 4 | Recommendation 3: Strengthen Existing Reports W... |
 
-| [[Hermeneutical Injustice]] | 1 | Worked Example: The Advisory Committee |
+| [[Hermeneutical-Injustice]] | 1 | Worked Example: The Advisory Committee |
 
 | [[Heuristics and Biases Program]] | 2 | 📋 Phase I — The Premise: What Cognitive Failure... |
 
@@ -3029,7 +3029,7 @@
 
 | [[Ikigai and Cross-Cultural Meaning Frameworks]] | 2 | LEARNING PATHWAYS |
 
-| [[Illusion of Explanatory Depth]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
+| [[Illusion-of-Explanatory-Depth]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
 | [[Implementation Intentions and Bias Correction]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
@@ -3039,39 +3039,39 @@
 
 | [[Impression Management]] | 1 | 📜 The Stoic Discovery: Prosoche as Practiced At... |
 
-| [[Inquiry-Based Learning]] | 1 | RELATIONSHIPS |
+| [[Inquiry-Based-Learning]] | 1 | RELATIONSHIPS |
 
 | [[Inquiry-Based Learning Design]] | 1 | ═══════════════════════════════════════════════... |
 
 | [[Inquiry-Based Learning Design: Principles and Evidence]] | 1 | Expansion Topics for PKB Development |
 
-| [[Integrated Cognitive Personhood]] | 2 | The Emergent Insight: Integrated Cognitive Pers... |
+| [[Integrated-Cognitive-Personhood]] | 2 | The Emergent Insight: Integrated Cognitive Pers... |
 
 | [[Intellectual Character]] | 1 | The Emergent Insight: Precision Flexibility as ... |
 
-| [[Intellectual Courage]] | 9 | Distinguished Research Scholar — Socratic Synth... |
+| [[Intellectual-Courage]] | 9 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Intellectual Empathy]] | 6 | Distinguished Research Scholar — Socratic Synth... |
+| [[Intellectual-Empathy]] | 6 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Intellectual Humility]] | 12 | Addition 2: Epistemic Humility Under Radical Un... |
+| [[Intellectual-Humility]] | 12 | Addition 2: Epistemic Humility Under Radical Un... |
 
-| [[Intellectual Humility|Intellectual humility]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Intellectual-Humility|Intellectual humility]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[Intellectual Integrity]] | 5 | Distinguished Research Scholar — Socratic Synth... |
+| [[Intellectual-Integrity]] | 5 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Intellectual Perseverance]] | 5 | Distinguished Research Scholar — Socratic Synth... |
+| [[Intellectual-Perseverance]] | 5 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Intellectual Virtue]] | 1 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
+| [[Intellectual-Virtue]] | 1 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
 
 | [[Intellectual Virtue Development Interventions]] | 2 | ═══════════════════════════════════════════════... |
 
-| [[Intellectual Virtues]] | 4 | Expansion Topics for PKB Development 🔗 |
+| [[Intellectual-Virtues]] | 4 | Expansion Topics for PKB Development 🔗 |
 
 | [[Intellectual Virtues and Virtue Epistemology]] | 1 | RELATIONSHIPS |
 
-| [[Intellectual courage]] | 1 | Phase V: The Synthesis — Emergent Insights, Cro... |
+| [[Intellectual-Courage]] | 1 | Phase V: The Synthesis — Emergent Insights, Cro... |
 
-| [[Intellectual humility]] | 1 | Phase V: The Synthesis — Emergent Insights, Cro... |
+| [[Intellectual-Humility]] | 1 | Phase V: The Synthesis — Emergent Insights, Cro... |
 
 | [[Internalization Continuum and Developmental Motivation]] | 1 | LEARNING PATHWAYS |
 
@@ -3079,9 +3079,9 @@
 
 | [[Interoception and Interoceptive Inference]] | 1 | ═══════════════════════════════════════════════... |
 
-| [[Interoceptive Inference]] | 4 | Gap 1: Embodied Cognition and the Absent Body |
+| [[Interoceptive-Inference]] | 4 | Gap 1: Embodied Cognition and the Absent Body |
 
-| [[Interoceptive Inference|Seth's interoceptive inference]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Interoceptive-Inference|Seth's interoceptive inference]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[Interoceptive Training Protocols]] | 1 | LEARNING PATHWAYS |
 
@@ -3113,9 +3113,9 @@
 
 | [[Jerome Bruner]] | 4 | The Problem of the Productive Gap: Vygotsky and... |
 
-| [[John Dewey]] | 5 | Phase I: The Premise — The Paradox at the Heart... |
+| [[John-Dewey]] | 5 | Phase I: The Premise — The Paradox at the Heart... |
 
-| [[John Dewey|Dewey]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[John-Dewey|Dewey]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[John Flavell]] | 4 | Phase I: The Premise — The Paradox at the Heart... |
 
@@ -3137,7 +3137,7 @@
 
 | [[Karl Friston]] | 4 | The Primary Emergent Insight: Inquiry Activatio... |
 
-| [[Kataleptic Impression|kataleptic impression]] | 1 | 🔁 The Structural Homology: Prosoche IS Metacogn... |
+| [[Kataleptic-Impression|kataleptic impression]] | 1 | 🔁 The Structural Homology: Prosoche IS Metacogn... |
 
 | [[Kathekon]] | 3 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
@@ -3149,9 +3149,9 @@
 
 | [[Klaus Scherer]] | 1 | 2.2 Appraisal Theory: Emotions as Evaluative Re... |
 
-| [[Knightian Uncertainty]] | 2 | Addition 2: Epistemic Humility Under Radical Un... |
+| [[Knightian-Uncertainty]] | 2 | Addition 2: Epistemic Humility Under Radical Un... |
 
-| [[Knightian Uncertainty|radical uncertainty]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[Knightian-Uncertainty|radical uncertainty]] | 1 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
 | [[Kristjan Kristjansson]] | 1 | The Aristotelian Foundation: Phronesis as Irred... |
 
@@ -3241,7 +3241,7 @@
 
 | [[Moral Psychology]] | 1 | RELATIONSHIPS |
 
-| [[Motivated Reasoning]] | 10 | Distinguished Research Scholar — Socratic Synth... |
+| [[Motivated-Reasoning]] | 10 | Distinguished Research Scholar — Socratic Synth... |
 
 | [[Motivational Psychology]] | 1 | RELATIONSHIPS |
 
@@ -3249,7 +3249,7 @@
 
 | [[Naive Realism]] | 2 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
-| [[Narrative Coherence as Cognitive Architecture]] | 1 | 📖 Key Definitions |
+| [[Narrative-Coherence-as-Cognitive-Architecture]] | 1 | 📖 Key Definitions |
 
 | [[Narrative Identity]] | 14 | Gap 6: Narrative Identity and Meaning-Making |
 
@@ -3299,7 +3299,7 @@
 
 | [[Optimal Experience]] | 1 | RELATIONSHIPS |
 
-| [[Organismic Integration Theory]] | 4 | RELATIONSHIPS |
+| [[Organismic-Integration-Theory]] | 4 | RELATIONSHIPS |
 
 | [[Overconfidence Bias]] | 1 | 🔬 Cognitive Bias Research: Cataloguing Systemat... |
 
@@ -3307,7 +3307,7 @@
 
 | [[Pathē]] | 3 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Pathē/Eupatheia]] | 1 | Recommendation 2: Expand to a Three-Tier Archit... |
+| [[Eupatheia]] | 1 | Recommendation 2: Expand to a Three-Tier Archit... |
 
 | [[Paul Pintrich]] | 2 | Phase I — The Premise 🧭: The Paradox of Intelle... |
 
@@ -3343,7 +3343,7 @@
 
 | [[Phantasia|phantasia]] | 1 | The Stoic Theory of Action: Kathekon and Hormê |
 
-| [[Phenomenal Self-Model]] | 1 | Metzinger's Self-Model: Seeing Yourself as a Pr... |
+| [[Phenomenal-Self-Model]] | 1 | Metzinger's Self-Model: Seeing Yourself as a Pr... |
 
 | [[Phenomenology]] | 1 | RELATIONSHIPS |
 
@@ -3365,7 +3365,7 @@
 
 | [[Phronimos]] | 1 | The Central Conceptual Tension: Endpoint or Ori... |
 
-| [[Physiological Metacognition]] | 5 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
+| [[Physiological-Metacognition]] | 5 | ⚙️ Phase I — The Premise: The Disembodied Ghost... |
 
 | [[Piaget's Constructivism]] | 1 | The Master Structural Homology: One Thing, Fift... |
 
@@ -3389,15 +3389,15 @@
 
 | [[Practical Philosophy]] | 1 | RELATIONSHIPS |
 
-| [[Pragmatic Maxim]] | 7 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
+| [[Pragmatic-Maxim]] | 7 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
 | [[Pragmatism]] | 4 | ═══════════════════════════════════════════════... |
 
-| [[Precision Weighting]] | 3 | Gap 5: Predictive Processing and Active Inference |
+| [[Precision-Weighting]] | 3 | Gap 5: Predictive Processing and Active Inference |
 
 | [[Precision Weighting in Predictive Processing]] | 1 | 🗺️ Expansion Topics for PKB Development |
 
-| [[Predictive Processing]] | 13 | Gap 5: Predictive Processing and Active Inference |
+| [[Predictive-Processing]] | 13 | Gap 5: Predictive Processing and Active Inference |
 
 | [[Presence of Meaning]] | 1 | Key Terms Lexicon |
 
@@ -3435,13 +3435,13 @@
 
 | [[Recognition-Primed Decision Making]] | 1 | Recommendation 2: Expand to a Three-Tier Archit... |
 
-| [[Recognition-Primed Decision Model]] | 1 | Distinguished Research Scholar — Socratic Synth... |
+| [[Recognition-Primed-Decision-Model]] | 1 | Distinguished Research Scholar — Socratic Synth... |
 
-| [[Recognition-Primed Decision Model|Recognition-Primed Decision]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Recognition-Primed-Decision-Model|Recognition-Primed Decision]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
-| [[Recognition-Primed Decision Model|Recognition-Primed Decision (RPD) Model]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
+| [[Recognition-Primed-Decision-Model|Recognition-Primed Decision (RPD) Model]] | 2 | Phase I 🏛️ The Premise: The Gap the Tier 1 Arch... |
 
-| [[Recursive Self-Authorship]] | 3 | The Emergent Insight: Recursive Self-Authorship |
+| [[Recursive-Self-Authorship]] | 3 | The Emergent Insight: Recursive Self-Authorship |
 
 | [[Redemptive Self]] | 1 | Narrative Identity: The Story We Live By |
 
@@ -3449,7 +3449,7 @@
 
 | [[Reflective Thinking]] | 2 | Phase I: The Premise — The Paradox at the Heart... |
 
-| [[Region of Proximal Learning]] | 1 | D. Metacognitive Monitoring: The Architecture o... |
+| [[Region-of-Proximal-Learning]] | 1 | D. Metacognitive Monitoring: The Architecture o... |
 
 | [[Relatedness]] | 1 | The Relatedness Need and Epistemic Community |
 
@@ -3541,7 +3541,7 @@
 
 | [[Sleep Science and Cognitive Performance]] | 1 | LEARNING PATHWAYS |
 
-| [[Social Constructivism]] | 1 | Expansion Topics for PKB Development 🔗 |
+| [[Social-Constructivism]] | 1 | Expansion Topics for PKB Development 🔗 |
 
 | [[Social Epistemic Virtue]] | 2 | Phase I 🧭 The Premise: The Individual Thinker's... |
 
@@ -3559,9 +3559,9 @@
 
 | [[Socratic Method]] | 8 | What the Framework Does Exceptionally Well |
 
-| [[Somatic Marker Hypothesis]] | 6 | Gap 1: Embodied Cognition and the Absent Body |
+| [[Somatic-Marker-Hypothesis]] | 6 | Gap 1: Embodied Cognition and the Absent Body |
 
-| [[Somatic Marker Hypothesis|Damasio's somatic markers]] | 1 | The Master Homology: A Single Mechanism Across ... |
+| [[Somatic-Marker-Hypothesis|Damasio's somatic markers]] | 1 | The Master Homology: A Single Mechanism Across ... |
 
 | [[Somatic Markers]] | 1 | 1.2 The Third Function: Emotion as Epistemic Si... |
 
@@ -3637,7 +3637,7 @@
 
 | [[Terror Management Theory and Meaning]] | 2 | LEARNING PATHWAYS |
 
-| [[Testimonial Injustice]] | 2 | Worked Example: The Advisory Committee |
+| [[Testimonial-Injustice]] | 2 | Worked Example: The Advisory Committee |
 
 | [[Testimonial Sensitivity]] | 4 | Recommendation 3: Strengthen Existing Reports W... |
 
@@ -3685,7 +3685,7 @@
 
 | [[The Virtuous Reasoner — Report 05]] | 1 | RELATIONSHIPS |
 
-| [[Theory of Constructed Emotion]] | 3 | 1.2 The Third Function: Emotion as Epistemic Si... |
+| [[Theory-of-Constructed-Emotion]] | 3 | 1.2 The Third Function: Emotion as Epistemic Si... |
 
 | [[Thinking, Fast and Slow]] | 1 | C. Dual Process Theory: The Cognitive Science o... |
 
@@ -3703,11 +3703,11 @@
 
 | [[Transfer of Epistemic Dispositions Across Domains]] | 1 | LEARNING PATHWAYS |
 
-| [[Transfer of Learning]] | 1 | RELATIONSHIPS |
+| [[Transfer-of-Learning]] | 1 | RELATIONSHIPS |
 
 | [[Transfer of Learning and Near vs. Far Transfer]] | 2 | LEARNING PATHWAYS |
 
-| [[Transient Hypofrontality]] | 3 | RELATIONSHIPS |
+| [[Transient-Hypofrontality]] | 3 | RELATIONSHIPS |
 
 | [[Tversky]] | 1 | 3.1 The Master Tension: Information vs. Bias |
 
@@ -3715,7 +3715,7 @@
 
 | [[Velleman]] | 1 | PKB Expansion Topics |
 
-| [[Ventromedial Prefrontal Cortex]] | 2 | 🎯 The Somatic Marker Hypothesis — The Body's De... |
+| [[Ventromedial-Prefrontal-Cortex]] | 2 | 🎯 The Somatic Marker Hypothesis — The Body's De... |
 
 | [[Viability]] | 1 | Key Term Lexicon 📖 |
 
@@ -3723,7 +3723,7 @@
 
 | [[Viktor Frankl's Logotherapy]] | 1 | Gap 6: Narrative Identity and Meaning-Making |
 
-| [[Virtue Epistemology]] | 8 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
+| [[Virtue-Epistemology]] | 8 | Gap 3: Practical Wisdom (Phronesis) — The Missi... |
 
 | [[Virtue Ethics]] | 4 | RELATIONSHIPS |
 
@@ -3759,7 +3759,7 @@
 
 | [[aporia]] | 1 | B. The Socratic Method: Elenchus, Aporia, and t... |
 
-| [[aporic receptivity]] | 2 | Phase I: The Premise — The Problem of the Knowi... |
+| [[Aporic-Receptivity]] | 2 | Phase I: The Premise — The Problem of the Knowi... |
 
 | [[assimilation]] | 1 | Constructivism: Knowledge as Built, Not Found |
 
@@ -3769,7 +3769,7 @@
 
 | [[confirmation bias]] | 1 | Phase I: The Premise — The Problem of the Knowi... |
 
-| [[conflict monitoring]] | 1 | C. Dual Process Theory: The Cognitive Science o... |
+| [[Conflict-Monitoring]] | 1 | C. Dual Process Theory: The Cognitive Science o... |
 
 | [[elenchus]] | 1 | B. The Socratic Method: Elenchus, Aporia, and t... |
 
@@ -3781,9 +3781,9 @@
 
 | [[feeling of knowing]] | 1 | D. Metacognitive Monitoring: The Architecture o... |
 
-| [[felt difficulty]] | 1 | A. John Dewey and the Logic of Felt Difficulty |
+| [[Felt-Difficulty]] | 1 | A. John Dewey and the Logic of Felt Difficulty |
 
-| [[genetic epistemology]] | 1 | Constructivism: Knowledge as Built, Not Found |
+| [[Genetic-Epistemology]] | 1 | Constructivism: Knowledge as Built, Not Found |
 
 | [[habit]] | 1 | A. John Dewey and the Logic of Felt Difficulty |
 
@@ -3791,7 +3791,7 @@
 
 | [[in-group favoritism in epistemic evaluation]] | 1 | 🗺️ The Complete Correspondence Map |
 
-| [[intellectual humility]] | 1 | The Emergent Insight: Epistemological Posture a... |
+| [[Intellectual-Humility]] | 1 | The Emergent Insight: Epistemological Posture a... |
 
 | [[intention]] | 1 | PKB Expansion Topics |
 
@@ -3819,7 +3819,7 @@
 
 | [[via negativa]] | 1 | PKB Expansion Topics |
 
-| [[warranted assertibility]] | 1 | The Pragmatist Revolution in Epistemology |
+| [[Warranted-Assertibility]] | 1 | The Pragmatist Revolution in Epistemology |
 
 | [[wiki-links]] | 3 | Distinguished Research Scholar — Socratic Synth... |
 
@@ -3843,17 +3843,17 @@
 
 *79 concepts*
 
-- [[Actively Open-Minded Thinking]]
+- [[Actively-Open-Minded-Thinking]]
 - [[Aristotle]] (5× total)
 - [[Charles Sanders Peirce]]
 - [[Constructed Emotion Theory]] (4× total)
 - [[Constructivism]] (11× total)
 - [[Daniel Kahneman]] (5× total)
-- [[David Rumelhart]] (3× total)
+- [[David-Rumelhart]] (3× total)
 - [[Dewey's Reflective Thinking]] (10× total)
 - [[Distributed Cognition]] (6× total)
 - [[Dual Process Theory]] (19× total)
-- [[Embodied Cognition]] (6× total)
+- [[Embodied-Cognition]] (6× total)
 - [[Epistemic Injustice]] (5× total)
 - [[Ernst von Glasersfeld]] (2× total)
 - [[Eudaimonia]] (10× total)
@@ -3871,25 +3871,25 @@
 
 *26 concepts*
 
-- [[Allostatic Load]] (3× total)
+- [[Allostatic-Load]] (3× total)
 - [[Amor Fati]] (5× total)
 - [[Aporia]]
-- [[Aporic Receptivity]] (12× total)
-- [[Cognitive Load]] (2× total)
+- [[Aporic-Receptivity]] (12× total)
+- [[Cognitive-Load]] (2× total)
 - [[Debiasing]] (3× total)
 - [[Developmental Staging Model]]
 - [[Elena]]
-- [[Emotional Granularity]] (11× total)
+- [[Emotional-Granularity]] (11× total)
 - [[Fallibilism]] (14× total)
 - [[Gary Klein]] (4× total)
-- [[Intellectual Courage]] (9× total)
-- [[Intellectual Humility]] (12× total)
+- [[Intellectual-Courage]] (9× total)
+- [[Intellectual-Humility]] (12× total)
 - [[Marcus]]
 - [[Metacognitive Monitoring]] (18× total)
 - [[Narrative Identity]] (14× total)
 - [[Phronesis]] (10× total)
-- [[Physiological Metacognition]] (5× total)
-- [[Predictive Processing]] (13× total)
+- [[Physiological-Metacognition]] (5× total)
+- [[Predictive-Processing]] (13× total)
 - [[Prohairesis]] (7× total)
 
 *...and 6 more concepts*
@@ -3900,10 +3900,10 @@
 *6 concepts*
 
 - [[Dewey's Reflective Thinking]] (10× total)
-- [[Intellectual courage]]
-- [[Intellectual humility]]
+- [[Intellectual-Courage]]
+- [[Intellectual-Humility]]
 - [[Zone of Proximal Development]] (8× total)
-- [[aporic receptivity]] (2× total)
+- [[Aporic-Receptivity]] (2× total)
 - [[schema]] (2× total)
 
 #### Phase VI
@@ -3913,22 +3913,22 @@
 - [[AI and the Examined Life — Cognitive Sovereignty]]
 - [[Accommodation]]
 - [[Anterior Cingulate Cortex]]
-- [[Aporic Receptivity]] (12× total)
-- [[Basic Psychological Needs]]
+- [[Aporic-Receptivity]] (12× total)
+- [[Basic-Psychological-Needs]]
 - [[Basic Psychological Needs Theory]]
 - [[Basic Psychological Needs in Educational Contexts]]
 - [[Bayesian Epistemology]]
-- [[Belief Revision]] (3× total)
+- [[Belief-Revision]] (3× total)
 - [[Carol Dweck]]
-- [[Challenge-Skill Balance]]
-- [[Cognitive Bias]] (2× total)
+- [[Challenge-Skill-Balance]]
+- [[Cognitive-Bias]] (2× total)
 - [[Cognitive Neuroscience]] (3× total)
 - [[Cognitive Psychology Foundations]] (2× total)
 - [[Cognitive Science]] (5× total)
-- [[Cognitive Vitality]] (5× total)
+- [[Cognitive-Vitality]] (5× total)
 - [[Coherentism and Foundationalism]]
-- [[Competence Need]]
-- [[Conceptual Change Theory]]
+- [[Competence-Need]]
+- [[Conceptual-Change-Theory]]
 - [[Conflict Monitoring and the Bootstrap Problem]]
 
 *...and 80 more concepts*
@@ -3941,7 +3941,7 @@
 - [[Cognitive Load Theory]] (13× total)
 - [[Dewey's Reflective Thinking]] (10× total)
 - [[Dreyfus Model of Skill Acquisition]] (2× total)
-- [[Emotional Granularity]] (11× total)
+- [[Emotional-Granularity]] (11× total)
 - [[Flow]] (4× total)
 - [[Metacognitive Monitoring]] (18× total)
 - [[Metacognitive Self-Regulation]] (11× total)
@@ -3955,7 +3955,7 @@
 - [[Piaget's Perturbation-Accommodation-Equilibration Cycle]]
 - [[Prokoptōn]] (3× total)
 - [[Self-Cultivation — Confucian]]
-- [[Somatic Marker Hypothesis]] (6× total)
+- [[Somatic-Marker-Hypothesis]] (6× total)
 - [[Sophos]]
 - [[Stoic Prosoche]] (6× total)
 
@@ -3966,15 +3966,15 @@
 
 *3 concepts*
 
-- [[Free Energy Principle]] (5× total)
-- [[Integrated Cognitive Personhood]] (2× total)
+- [[Free-Energy-Principle]] (5× total)
+- [[Integrated-Cognitive-Personhood]] (2× total)
 - [[Karl Friston]] (4× total)
 
 #### Phase I
 
 *25 concepts*
 
-- [[Aporic Receptivity]] (12× total)
+- [[Aporic-Receptivity]] (12× total)
 - [[Constructivist Stance]]
 - [[Daniel Kahneman]] (5× total)
 - [[Dewey's Reflective Thinking]] (10× total)
@@ -3983,12 +3983,12 @@
 - [[Eudaimonia]] (10× total)
 - [[Fallibilist-Constructivist Epistemological Posture]] (3× total)
 - [[Jean Piaget]] (6× total)
-- [[John Dewey]] (5× total)
+- [[John-Dewey]] (5× total)
 - [[John Flavell]] (4× total)
 - [[Metacognitive Monitoring]] (18× total)
 - [[Metacognitive Self-Regulation]] (11× total)
 - [[Narrative Identity]] (14× total)
-- [[Predictive Processing]] (13× total)
+- [[Predictive-Processing]] (13× total)
 - [[Reflective Thinking]] (2× total)
 - [[Socratic Method]] (8× total)
 - [[Tier 1 — Epistemic Architecture]] (2× total)
@@ -4002,25 +4002,25 @@
 
 *526 concepts*
 
-- [[4E Cognition]]
+- [[4E-Cognition]]
 - [[Acceptance and Commitment Therapy]]
-- [[Active Inference]] (4× total)
+- [[Active-Inference]] (4× total)
 - [[Active Inference and Ethical Agency]]
 - [[Actor-Observer Bias]]
-- [[Affect-as-Information Theory]] (2× total)
+- [[Affect-as-Information-Theory]] (2× total)
 - [[Affect-as-Information in Decision Making]] (2× total)
 - [[Affective Appraisal Theory]]
 - [[Affective Neuroscience]]
 - [[Affective Prediction Errors]]
-- [[Affective Realism]] (3× total)
+- [[Affective-Realism]] (3× total)
 - [[Albert Bandura]]
-- [[Allostatic Load]] (3× total)
+- [[Allostatic-Load]] (3× total)
 - [[Allostatic Load Measurement and Monitoring]]
 - [[Alvin Goldman]]
 - [[Amor Fati]] (5× total)
 - [[Amos Tversky]]
 - [[Amos Tversky|Tversky]]
-- [[Analysis paralysis]]
+- [[Analysis-Paralysis]]
 - [[Anchoring and Adjustment]]
 
 *...and 506 more concepts*
@@ -4049,9 +4049,9 @@
 
 | [[Fallibilism]] | Phase II, Phase IV, Phase VI, Report 04 | 14 |
 
-| [[Predictive Processing]] | Phase I, Phase IV, Phase II, Report 04 | 13 |
+| [[Predictive-Processing]] | Phase I, Phase IV, Phase II, Report 04 | 13 |
 
-| [[Aporic Receptivity]] | Phase IV, Phase I, Phase VI, Report 04 | 12 |
+| [[Aporic-Receptivity]] | Phase IV, Phase I, Phase VI, Report 04 | 12 |
 
 | [[Phronesis]] | Phase IV, Phase III, Phase II, Report 04 | 10 |
 
@@ -4059,13 +4059,13 @@
 
 | [[System 2]] | Phase II, Phase IV, Phase VI, Report 04 | 4 |
 
-| [[Intellectual Humility]] | Phase IV, Phase VI, Report 04 | 12 |
+| [[Intellectual-Humility]] | Phase IV, Phase VI, Report 04 | 12 |
 
 | [[Self-Regulated Learning]] | Phase VI, Phase II, Report 04 | 12 |
 
 | [[Constructivism]] | Phase VI, Phase II, Report 04 | 11 |
 
-| [[Emotional Granularity]] | Phase IV, Phase III, Report 04 | 11 |
+| [[Emotional-Granularity]] | Phase IV, Phase III, Report 04 | 11 |
 
 | [[Eudaimonia]] | Phase I, Phase II, Report 04 | 10 |
 
@@ -4075,7 +4075,7 @@
 
 | [[Zone of Proximal Development]] | Phase V: The Synthesis — Emergent Insights, Cross-, Phase II, Report 04 | 8 |
 
-| [[Pragmatic Maxim]] | Phase II, Phase VI, Report 04 | 7 |
+| [[Pragmatic-Maxim]] | Phase II, Phase VI, Report 04 | 7 |
 
 | [[Jean Piaget]] | Phase II, Phase I, Report 04 | 6 |
 
@@ -4083,15 +4083,15 @@
 
 | [[Social Epistemology]] | Phase IV, Phase II, Report 04 | 6 |
 
-| [[Somatic Marker Hypothesis]] | Phase IV, Phase III, Report 04 | 6 |
+| [[Somatic-Marker-Hypothesis]] | Phase IV, Phase III, Report 04 | 6 |
 
 | [[Stoic Prosoche]] | Phase III, Phase II, Report 04 | 6 |
 
 | [[Daniel Kahneman]] | Phase II, Phase I, Report 04 | 5 |
 
-| [[John Dewey]] | Phase II, Phase I, Report 04 | 5 |
+| [[John-Dewey]] | Phase II, Phase I, Report 04 | 5 |
 
-| [[Physiological Metacognition]] | Phase IV, Phase VI, Report 04 | 5 |
+| [[Physiological-Metacognition]] | Phase IV, Phase VI, Report 04 | 5 |
 
 | [[Gary Klein]] | Phase IV, Phase II, Report 04 | 4 |
 

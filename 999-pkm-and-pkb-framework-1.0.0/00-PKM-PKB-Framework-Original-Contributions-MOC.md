@@ -37,7 +37,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ## Tier 1 Contributions (Reports 01–08): Cognitive Foundations
 
-### R01: [[Cognitive Alignment Principle]]
+### R01: [[Cognitive-Alignment-Principle]]
 
 **Three-dimensional PKB design framework** requiring structural correspondence between external PKB organization and internal knowledge architecture across: (1) *Relational Alignment* — relationships, not containers, as primary organizational unit; (2) *Depth Alignment* — concept nodes organized by deep structural principles, not surface topics; (3) *Construction Alignment* — deliberate affordances for accommodation, not just assimilation.
 
@@ -55,7 +55,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R03: [[Schema-Progressive Architecture]]
+### R03: [[Schema-Progressive-Architecture]]
 
 **Three-layer note organization model:** (1) *Epitome Notes* — schema seeds providing simple, coherent orienting overviews; (2) *Elaboration Notes* — schema extensions adding progressive complexity with explicit elaboration relationship metadata; (3) *Accommodation Notes* — records of schema restructuring events with before/after structure.
 
@@ -73,7 +73,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R05: [[Fourfold Motivational Architecture]]
+### R05: [[Fourfold-Motivational-Architecture]]
 
 **Integrated motivation framework** addressing PKB engagement simultaneously at four levels: (1) Basic psychological needs via SDT (autonomy, competence, relatedness); (2) Goal orientation via AGT (mastery over performance); (3) Resilience under adversity via Stoic praxis; (4) Optimal engagement calibration via Flow/LXD.
 
@@ -111,7 +111,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ## Tier 2 Contributions (Reports 09–18): Advanced Design
 
-### R09: [[Cognitive Architecture Isomorphism Principle]]
+### R09: [[Cognitive-Architecture-Isomorphism-Principle]]
 
 **PKB structure should mirror five properties of long-term memory:** (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation.
 
@@ -129,37 +129,37 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R12: [[Structural Metacognition Principle]] + [[Embedded Monitoring Architecture]]
+### R12: [[Structural-Metacognition-Principle]] + [[Embedded-Monitoring-Architecture]]
 
 **Structural redesign to correct metacognitive monitoring failures** — monitoring and self-assessment embedded as required structural features of notes and review processes, not optional add-ons.
 
 ---
 
-### R13: [[Epistemic Emotional Architecture]]
+### R13: [[Epistemic-Emotional-Architecture]]
 
 **Three-layer PKB design treating PKB as appraisal machine:** (1) Emotion-awareness layer (recognizing emotional responses to learning); (2) Regulation layer (Stoic-informed response management); (3) Resilience layer (systematic frustration management).
 
 ---
 
-### R14: [[Inquiry-First PKB Architecture]] + [[Aporia-to-Schema Pipeline]]
+### R14: [[Inquiry-First PKB Architecture]] + [[Aporia-to-Schema-Pipeline]]
 
 **Fundamental unit is inquiry node, not assertion** — the PKB organized around questions driving investigation rather than answers awaiting storage. Questions evolve through Socratic aporia toward schema construction.
 
 ---
 
-### R15: [[Progressive Parameterized Tagging]] + [[Organization-Learning Loop]]
+### R15: [[Progressive-Parameterized-Tagging]] + [[Organization-Learning-Loop]]
 
 **Hybrid tag architecture** balancing imposed structure (hierarchical domain/subdomain tags) with emergent structure (practitioner-generated folksonomy). Organization itself becomes a learning process as tag evolution reflects conceptual development.
 
 ---
 
-### R16: [[Reconstruction Imperative]]
+### R16: [[Reconstruction-Imperative]]
 
 **Four-dimensional framework unifying desirable difficulties research:** Every PKB engagement should require reconstruction (retrieval) rather than recognition (re-reading). Dimensions: temporal (spacing), modal (generation), sequential (interleaving), structural (elaboration).
 
 ---
 
-### R17: [[Articulatory Construction Principle]] + [[Cognitive Event Model]]
+### R17: [[Articulatory-Construction-Principle]] + [[Cognitive-Event-Model]]
 
 **Notes as records of cognitive construction events** — each note documents a thinking event (what the writer understood, struggled with, connected, resolved) rather than an information summary.
 
@@ -173,7 +173,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ## Tier 3 Contributions (Reports 19–26): Advanced Synthesis
 
-### R19: [[Motivational Compounding Model]] + [[Automaticity-Autonomy Paradox]]
+### R19: [[Motivational-Compounding-Model]] + [[Automaticity-Autonomy Paradox]]
 
 **Long-term PKB motivation as compound interest** across three mechanisms: skill compounding, interest deepening, and identity integration. Paradox: as PKM practices become automatic (reducing effort), they risk losing the autonomy-satisfying quality of deliberate choice.
 
@@ -191,7 +191,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R22: [[Tacit Knowledge Observatory]]
+### R22: [[Tacit-Knowledge-Observatory]]
 
 **PKB's proper role in tacit-knowledge-rich domains** is observation and triangulation, not direct capture. Tacit knowledge can be pointed toward through approximation, metaphor, and experiential description — but never fully externalized.
 
@@ -209,13 +209,13 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ---
 
-### R25: [[Integration Paradox]] + [[Small-World PKB Principle]]
+### R25: [[Integration-Paradox]] + [[Small-World-PKB-Principle]]
 
 **Optimal PKB topology mirrors expert semantic networks** — high local clustering (dense connections within knowledge domains) with short global path lengths (bridge connections between domains). The paradox: integration effort feels unproductive in the short term but is the primary determinant of long-term PKB value.
 
 ---
 
-### R26: [[Learning Metabolism Framework]] + [[Calibration Prosthetic]]
+### R26: [[Learning Metabolism Framework]] + [[Calibration-Prosthetic]]
 
 **Five-property feedback architecture model:** specificity, timeliness, actionability, calibration accuracy, self-generation capacity. The PKB as calibration prosthetic — compensating for known human miscalibration through embedded comparison mechanisms.
 
@@ -223,13 +223,13 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ## Tier 4 Contributions (Reports 27–30): Meta-Framework
 
-### R27: [[Integrated Learning System Model]] + [[Five Convergence Zones]] + [[Twelve Master Principles]]
+### R27: [[Integrated-Learning-System-Model]] + [[Five-Convergence-Zones]] + [[Twelve-Master-Principles]]
 
 **The series capstone synthesis.** A PKB at full function has three synergistic properties: (1) [[Isomorphic External Memory]], (2) [[Constructive Processing Engine]], (3) [[Self-Regulating Adaptive System]]. Twelve Master Principles organized as Foundational (FP1-4), Derived (DP1-5), and Refinement (RP1-3) — see [[00-PKM-PKB-Framework-Design-Principles-MOC]] for full specification.
 
 ---
 
-### R28: [[Relational Theory of PKB Knowledge]] + [[Epistemic Ecosystem Model]]
+### R28: [[Relational-Theory-of-PKB-Knowledge]] + [[Epistemic Ecosystem Model]]
 
 **Knowledge as relationship** constituted through four modes of epistemic engagement: Encounter (meeting new information), Challenge (testing against existing understanding), Integration (connecting to knowledge network), Application (using in practice).
 

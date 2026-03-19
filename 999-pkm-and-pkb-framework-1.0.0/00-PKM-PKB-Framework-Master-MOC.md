@@ -48,8 +48,8 @@ related_concepts:
   - "[[Personal Knowledge Management]]"
   - "[[Personal Knowledge Base]]"
   - "[[Lifelong Learning]]"
-  - "[[Integrated Learning System Model]]"
-  - "[[Twelve Master Principles]]"
+  - "[[Integrated-Learning-System-Model]]"
+  - "[[Twelve-Master-Principles]]"
   - "[[Cognitive Partnership Model]]"
 children:
   - "[[00-PKM-PKB-Framework-Series-MOC]]"
@@ -62,7 +62,7 @@ children:
 # PKM/PKB Lifelong Learning Framework — Master Map of Content
 
 > [!abstract] What This Framework Is
-> A **30-report, ~280,000-word cross-domain synthesis** grounding [[Personal Knowledge Management]] in rigorous scientific evidence drawn from [[Cognitive Science]], [[Educational Psychology]], [[Educational Philosophy]], [[Knowledge Management]], [[Instructional Design]], [[Learning Experience Design]], [[Metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
+> A **30-report, ~280,000-word cross-domain synthesis** grounding [[Personal Knowledge Management]] in rigorous scientific evidence drawn from [[Cognitive Science]], [[Educational Psychology]], [[Educational-Philosophy]], [[Knowledge Management]], [[Instructional Design]], [[Learning-Experience-Design]], [[Metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
 
 ---
 
@@ -78,9 +78,9 @@ Most PKM advice circulates as community folklore — tips, workflows, and organi
 
 The framework pursues three interconnected goals:
 
-**Scientific Foundation.** Establish the cognitive, psychological, and philosophical foundations that should govern PKB design — moving beyond personal preference to evidence-based architecture. The core deliverable is the [[Integrated Learning System Model]]: a PKB at full function operates as (1) [[Isomorphic External Memory]], (2) [[Constructive Processing Engine]], and (3) [[Self-Regulating Adaptive System]].
+**Scientific Foundation.** Establish the cognitive, psychological, and philosophical foundations that should govern PKB design — moving beyond personal preference to evidence-based architecture. The core deliverable is the [[Integrated-Learning-System-Model]]: a PKB at full function operates as (1) [[Isomorphic External Memory]], (2) [[Constructive Processing Engine]], and (3) [[Self-Regulating Adaptive System]].
 
-**Actionable Design Guidance.** Translate cross-domain theoretical insights into concrete PKB design principles — the [[Twelve Master Principles]] organized in a foundational-derived-refinement hierarchy, grounded in [[Five Convergence Zones]] where independent research traditions converge on identical structural requirements.
+**Actionable Design Guidance.** Translate cross-domain theoretical insights into concrete PKB design principles — the [[Twelve-Master-Principles]] organized in a foundational-derived-refinement hierarchy, grounded in [[Five-Convergence-Zones]] where independent research traditions converge on identical structural requirements.
 
 **Interconnected Knowledge Graph.** Build not a collection of isolated topic reports but a self-reinforcing knowledge network where each report enriches all others. The 30 reports form a directed acyclic graph (DAG) with explicit `builds-on` and `feeds-into` dependency relationships.
 
@@ -128,7 +128,7 @@ This master MOC connects to five specialized maps, each serving a distinct navig
 
 ### [[00-PKM-PKB-Framework-Design-Principles-MOC|MOC 5: Design Principles & Implementation]]
 
-> The [[Integrated Learning System Model]], [[Five Convergence Zones]], [[Twelve Master Principles]], and actionable PKB design guidance — the practical output of the entire framework.
+> The [[Integrated-Learning-System-Model]], [[Five-Convergence-Zones]], [[Twelve-Master-Principles]], and actionable PKB design guidance — the practical output of the entire framework.
 
 **Use when:** You want to make PKB design decisions, implement specific principles, or evaluate your current PKB against the framework.
 
@@ -187,25 +187,25 @@ Every discipline in the series independently converges on three structural patte
 ### Established with High Confidence (meta-analytic or multi-tradition convergence)
 
 - Knowledge is relational, not propositional — PKBs should be semantic networks, not filing systems (Reports 01, 09, 15)
-- [[Testing Effect]] (d = 0.50) and [[Spacing Effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
-- The [[Fluency Illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
+- [[Testing-Effect]] (d = 0.50) and [[Spacing-Effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
+- The [[Fluency-Illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
 - [[Cognitive Load Theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
 - [[Self-Regulated Learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
-- [[Faceted Classification]] outperforms single hierarchies for knowledge organization (Reports 01, 15)
+- [[Faceted-Classification]] outperforms single hierarchies for knowledge organization (Reports 01, 15)
 
 ### Established with Moderate Confidence (theoretical synthesis with convergent support)
 
-- The [[Cognitive Architecture Isomorphism Principle]] — PKB structure should mirror five properties of long-term memory (Report 09)
-- The [[Schema-Progressive Architecture]] — notes organized in Epitome/Elaboration/Accommodation layers (Report 03)
-- The [[Fourfold Motivational Architecture]] — SDT + AGT + Stoic + LXD integration (Report 05)
-- The [[Twelve Master Principles]] hierarchy (Report 27)
+- The [[Cognitive-Architecture-Isomorphism-Principle]] — PKB structure should mirror five properties of long-term memory (Report 09)
+- The [[Schema-Progressive-Architecture]] — notes organized in Epitome/Elaboration/Accommodation layers (Report 03)
+- The [[Fourfold-Motivational-Architecture]] — SDT + AGT + Stoic + LXD integration (Report 05)
+- The [[Twelve-Master-Principles]] hierarchy (Report 27)
 
 ### Emerging (original synthesis requiring validation)
 
 - The [[Cognitive Partnership Model]] — AI as Socratic interlocutor (Report 30)
 - The [[Epistemic Counterfeiting]] concept — AI-generated fluency mimicking understanding (Report 30)
 - The [[Knowledge Ecology Model]] (Report 24)
-- The [[Relational Theory of PKB Knowledge]] (Report 28)
+- The [[Relational-Theory-of-PKB-Knowledge]] (Report 28)
 
 ---
 
@@ -236,7 +236,7 @@ The framework's most consequential practical implication is a reframing: **PKB d
 
 ### 6.1 What the Framework Achieved
 
-The PKM/PKB Lifelong Learning Framework represents the most comprehensive attempt to date to ground Personal Knowledge Management in rigorous, multi-disciplinary scientific evidence. Its 30 original contributions — from the [[Cognitive Alignment Principle]] (Report 01) through the [[Cognitive Partnership Model]] (Report 30) — constitute a cumulative intellectual arc that no single discipline could produce independently. The [[Integrated Learning System Model]] and [[Twelve Master Principles]] provide a coherent, prioritized design specification for PKBs oriented toward genuine learning.
+The PKM/PKB Lifelong Learning Framework represents the most comprehensive attempt to date to ground Personal Knowledge Management in rigorous, multi-disciplinary scientific evidence. Its 30 original contributions — from the [[Cognitive-Alignment-Principle]] (Report 01) through the [[Cognitive Partnership Model]] (Report 30) — constitute a cumulative intellectual arc that no single discipline could produce independently. The [[Integrated-Learning-System-Model]] and [[Twelve-Master-Principles]] provide a coherent, prioritized design specification for PKBs oriented toward genuine learning.
 
 ### 6.2 What Remains
 
@@ -291,7 +291,7 @@ See [[00-PKM-PKB-Framework-Series-MOC]] for the complete annotated registry.
 |-----------|----------------------|-----------------|
 | [[Cognitive Psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
 | [[Educational Psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
-| [[Educational Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
+| [[Educational-Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
 | [[Memory Science]] | Testing Effect, Spacing, Desirable Difficulties | Bjork, Roediger, Dunlosky |
 | [[Knowledge Management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
 | [[Instructional Design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |

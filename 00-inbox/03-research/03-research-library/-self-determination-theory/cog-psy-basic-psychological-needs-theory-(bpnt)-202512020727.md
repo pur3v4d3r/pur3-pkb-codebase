@@ -30,7 +30,7 @@ confidence: provisional
 next-review: 2025-12-09
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-12-02|Daily-Note]]"
 ---
@@ -231,7 +231,7 @@ aliases: [BPNT, Basic Needs Theory, Psychological Needs Theory, SDT Basic Needs,
 > [!abstract]
 > **Foundational Overview: The Architecture of Universal Human Needs**
 >
-> [[Basic Psychological Needs Theory]] (BPNT) represents one of the six cornerstone mini-theories within [[Self-Determination Theory]] and advances a bold, empirically grounded claim: that certain psychological needs are not culturally constructed preferences but universal, innate requirements for human flourishing. This theory identifies three specific needs—[[Autonomy]], [[Competence]], and [[Relatedness]]—as psychological nutrients that function analogously to essential vitamins for physical health. Just as the body requires specific micronutrients that cannot substitute for one another, the human psyche requires satisfaction of all three needs for optimal development, with deficiency in any producing distinct pathological consequences. BPNT challenges social constructivist perspectives by arguing that these needs operate across all developmental stages, cultural contexts, and individual differences, representing not learned desires but evolved specifications of our [[Organismic-Dialectical Meta-Theory|organismic nature]]. The theory further distinguishes between [[Need Satisfaction]]—which catalyzes growth and well-being—and [[Need Frustration]]—which actively thwarts development and generates ill-being—establishing dual pathways that illuminate both the bright and dark sides of human motivation.
+> [[Basic Psychological Needs Theory]] (BPNT) represents one of the six cornerstone mini-theories within [[Self-Determination Theory]] and advances a bold, empirically grounded claim: that certain psychological needs are not culturally constructed preferences but universal, innate requirements for human flourishing. This theory identifies three specific needs—[[Autonomy]], [[Competence]], and [[Relatedness]]—as psychological nutrients that function analogously to essential vitamins for physical health. Just as the body requires specific micronutrients that cannot substitute for one another, the human psyche requires satisfaction of all three needs for optimal development, with deficiency in any producing distinct pathological consequences. BPNT challenges social constructivist perspectives by arguing that these needs operate across all developmental stages, cultural contexts, and individual differences, representing not learned desires but evolved specifications of our [[Organismic-Dialectical Meta-Theory|organismic nature]]. The theory further distinguishes between [[Need-Satisfaction]]—which catalyzes growth and well-being—and [[Need-Frustration]]—which actively thwarts development and generates ill-being—establishing dual pathways that illuminate both the bright and dark sides of human motivation.
 
 ## 🌱 Philosophical Foundations & Historical Development
 
@@ -304,7 +304,7 @@ The autonomy need has sparked particular controversy in cross-cultural psycholog
 > [!core-principle]
 > **Asymmetry Between Satisfaction and Frustration**
 >
-> One of BPNT's most important theoretical refinements involves distinguishing [[Need Satisfaction]] from [[Need Frustration]] as independent constructs that operate through different psychological mechanisms. Low satisfaction does not automatically imply frustration, and absence of frustration does not guarantee satisfaction—these represent two dimensions that independently predict different outcomes.
+> One of BPNT's most important theoretical refinements involves distinguishing [[Need-Satisfaction]] from [[Need-Frustration]] as independent constructs that operate through different psychological mechanisms. Low satisfaction does not automatically imply frustration, and absence of frustration does not guarantee satisfaction—these represent two dimensions that independently predict different outcomes.
 
 The development of this dual-process understanding emerged from theoretical reasoning and empirical observations. Theoretically, [[Maarten Vansteenkiste]] and Richard Ryan argued that need frustration represents more than mere deprivation or absence of satisfaction—it involves the *active thwarting* or blocking of need fulfillment, creating a qualitatively distinct psychological experience. Empirically, researchers observed that the absence of need satisfaction showed weaker relationships with negative outcomes like depression and anxiety than did the presence of need frustration, suggesting these capture different processes.
 
@@ -340,7 +340,7 @@ Applying these stringent criteria, BPNT maintains that only autonomy, competence
 >
 > BPNT's architecture connects fundamentally to several cornerstone concepts within your evolving personal knowledge base, creating a rich conceptual ecosystem for understanding human motivation and development.
 >
-> **[[Self-Determination Theory Overview]]** serves as the umbrella framework within which BPNT operates as one of six mini-theories, each addressing distinct motivational phenomena. Understanding BPNT requires situating it within SDT's broader architecture, particularly its relationships with [[Cognitive Evaluation Theory]] (which explains how social contexts affect intrinsic motivation through need satisfaction), [[Organismic Integration Theory]] (which describes how need satisfaction facilitates internalization of extrinsic regulations), and [[Goal Contents Theory]] (which explains why intrinsic life goals better satisfy needs than extrinsic goals). These mini-theories interlock to provide comprehensive explanations of motivational phenomena from multiple complementary perspectives.
+> **[[Self-Determination Theory Overview]]** serves as the umbrella framework within which BPNT operates as one of six mini-theories, each addressing distinct motivational phenomena. Understanding BPNT requires situating it within SDT's broader architecture, particularly its relationships with [[Cognitive-Evaluation-Theory]] (which explains how social contexts affect intrinsic motivation through need satisfaction), [[Organismic-Integration-Theory]] (which describes how need satisfaction facilitates internalization of extrinsic regulations), and [[Goal Contents Theory]] (which explains why intrinsic life goals better satisfy needs than extrinsic goals). These mini-theories interlock to provide comprehensive explanations of motivational phenomena from multiple complementary perspectives.
 >
 > **[[Humanistic Psychology]]** and the tradition including [[Abraham Maslow]]'s hierarchy of needs, [[Carl Rogers]]'s person-centered theory, and [[Rollo May]]'s existential psychology form the intellectual lineage from which BPNT emerged. BPNT can be understood as an empirical specification and rigorous testing of humanistic insights about human nature and optimal conditions for development, translating phenomenological and clinical observations into testable hypotheses supported by experimental and correlational evidence. Where humanistic theories remained somewhat vague about mechanisms, BPNT provides precise constructs, measurement instruments, and causal models.
 >
@@ -348,7 +348,7 @@ Applying these stringent criteria, BPNT maintains that only autonomy, competence
 >
 > **[[Attachment Theory]]** intersects with BPNT particularly around the relatedness need, with research showing that [[Secure Attachment]] predicts greater need satisfaction across domains while [[Insecure Attachment]] patterns (anxious, avoidant) predict chronic need frustration. The early relational environments that shape attachment working models simultaneously shape individual differences in need satisfaction capacity, creating developmental pathways toward either psychological resilience or vulnerability.
 >
-> **[[Motivation and Volition]]** as broader cognitive constructs find precise mechanistic explanations through BPNT. The theory specifies exactly what conditions support [[Autonomous Motivation]] (characterized by volition, authenticity, and full engagement) versus [[Controlled Motivation]] (characterized by pressure, compliance, and defiance)—namely, the satisfaction versus frustration of the three basic needs. This provides a parsimonious model for understanding why individuals approach the same objective task with radically different motivational qualities depending on social-contextual supports.
+> **[[Motivation and Volition]]** as broader cognitive constructs find precise mechanistic explanations through BPNT. The theory specifies exactly what conditions support [[Autonomous-Motivation]] (characterized by volition, authenticity, and full engagement) versus [[Controlled-Motivation]] (characterized by pressure, compliance, and defiance)—namely, the satisfaction versus frustration of the three basic needs. This provides a parsimonious model for understanding why individuals approach the same objective task with radically different motivational qualities depending on social-contextual supports.
 >
 > **[[Cross-Cultural Psychology]]** and debates about [[Cultural Relativism]] versus [[Psychological Universals]] represent a crucial intersection where BPNT makes strong theoretical commitments. The theory's universality thesis positions it against strong relativist perspectives while its "universalism without uniformity" principle acknowledges cultural specificity in behavioral content. This generates productive tensions with cultural psychology approaches and has spurred important research examining how cultural values, social norms, and relational practices shape the specific pathways to need satisfaction without changing the underlying process relationships.
 >
@@ -420,12 +420,12 @@ The mechanisms through which need satisfaction produces well-being and need frus
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Cognitive Evaluation Theory]]**
+1. **[[Cognitive-Evaluation-Theory]]**
    - *Connection*: CET represents the first mini-theory of SDT, explaining specifically how external events like rewards and feedback affect intrinsic motivation through their effects on autonomy and competence need satisfaction
    - *Depth Potential*: Deserves separate exploration as it specifies precise mechanisms through which social-contextual factors either enhance or undermine intrinsic motivation, including the famous findings about rewards undermining intrinsic motivation
    - *Knowledge Graph Role*: Forms a critical bridge between general BPNT principles and specific predictions about how particular environmental features (choice, feedback type, reward contingencies) affect motivation through need satisfaction
 
-2. **[[Organismic Integration Theory]]**
+2. **[[Organismic-Integration-Theory]]**
    - *Connection*: OIT explains how need satisfaction facilitates the internalization and integration of initially extrinsic regulations, transforming external demands into authentic values—a process essential for socialization and moral development
    - *Depth Potential*: Merits comprehensive treatment as it describes the continuum from external regulation through introjection and identification to full integration, explaining how individuals come to autonomously engage in behaviors that are not intrinsically interesting
    - *Knowledge Graph Role*: Provides the developmental and process account of how basic psychological needs enable healthy socialization, connecting BPNT to questions about moral development, cultural transmission, and identity formation

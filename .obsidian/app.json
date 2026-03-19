@@ -4,7 +4,7 @@
   "newFileFolderPath": "00-inbox",
   "attachmentFolderPath": "99_system/06_attachments",
   "showLineNumber": false,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "promptDelete": false,
   "strictLineBreaks": false,
   "foldHeading": true,

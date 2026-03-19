@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Metacognitive Feelings"
+title: Metacognitive Feelings
 aliases:
-  - "Metacognitive Feelings"
+  - Metacognitive Feelings
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -20,67 +13,40 @@ tags:
   - academic-synthesis
   - cognitive-psychology/metacognition
   - cognitive-psychology/motivation
-
 domain: other
 subdomains:
   - 
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "metacognition-motivation-foundational-report-2026-03-05"
+  - metacognition-motivation-foundational-report-2026-03-05
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: intermediate
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Metacognition]]"
   - "[[Metacognition]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition-Foundational-Report|Metacognition Foundational Report]]"
   - "[[Motivation-Theory-Foundational-Report|Motivation Theory Foundational Report]]"
-
 enables:
   - "[[]]"
-
 expansion-topics:
   - topic: "[[A-deep-dive-into-Efklides'-work-on-the-phenomenological-dimension-of-metacogniti|A deep-dive into Efklides' work on the phenomenological dimension of metacognition — how Feelings of]]"
     description: ""
@@ -94,10 +60,6 @@ expansion-topics:
   - topic: "[[A-focused-treatment-of-mastery-vs.-performance-goal-orientations-—-their-measure|A focused treatment of mastery vs. performance goal orientations — their measurement, developmental ]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -133,7 +95,7 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -141,4 +103,4 @@ importance: high
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
 
 **Related concepts:**
-[[Metacognition]] · [[Metacognition]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Regulated-Learning|Self-Regulated Learning]] · [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] · [[Growth-Mindset-Theory|Growth Mindset Theory]] · [[John-Flavell|John Flavell]] · [[Ann-Brown|Ann Brown]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Feeling-of-Knowing|Feeling of Knowing]] · [[Ease-of-Learning|Ease of Learning]] · [[Judgment-of-Learning|Judgment of Learning]] · [[Efklides]] · [[Self-Determination-Theory|Self-Determination Theory]]
+[[Metacognition]] · [[Metacognition]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] · [[Growth-Mindset-Theory|Growth Mindset Theory]] · [[John-Flavell|John Flavell]] · [[Ann-Brown|Ann Brown]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Feeling-of-Knowing|Feeling of Knowing]] · [[Ease-of-Learning|Ease of Learning]] · [[Judgment-of-Learning|Judgment of Learning]] · [[Efklides]] · [[Self-Determination-Theory|Self-Determination Theory]]

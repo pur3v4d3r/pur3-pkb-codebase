@@ -393,7 +393,7 @@ Your relationship vocabulary is excellent. I'd expand it with additional relatio
 | Type | Symbol | Use Case | Example |
 |------|--------|----------|---------|
 | `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[Information Processing]] |
-| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic Load]] →(operationalizes)→ [[Element Interactivity]] |
+| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic Load]] →(operationalizes)→ [[Element-Interactivity]] |
 | `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[Automation]] |
 | `falsifies` | →(falsifies)→ | Empirical refutation | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
@@ -498,7 +498,7 @@ cognitive-load:
 [**Application-Domain**:: [[Prompt Engineering]] | trigger:"complex instructions failing" | action:"decompose into sequential steps"]
 ```
 
-**PKB Value**: Query "what knowledge applies to X situation"; build domain-specific toolkits; reduce [[Inert Knowledge]] problem.
+**PKB Value**: Query "what knowledge applies to X situation"; build domain-specific toolkits; reduce [[Inert-Knowledge]] problem.
 
 ---
 

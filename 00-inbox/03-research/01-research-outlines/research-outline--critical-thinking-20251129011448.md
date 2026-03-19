@@ -154,7 +154,7 @@ Source: `= this.source`
 > 23. CT in Academic Acquisition → **Case Studies** (practical application)
 > 24. CT in PKB Systems → **Problem-Solving** (implementation)
 > **PKB INTEGRATION STRATEGY:**
-> - Create MOCs for: [[Critical Thinking Frameworks]], [[Intellectual Standards]], [[Cognitive Biases]]
+> - Create MOCs for: [[Critical Thinking Frameworks]], [[Intellectual-Standards]], [[Cognitive Biases]]
 > - Heavy wiki-linking to concepts like [[Metacognition]], [[Epistemology]], [[Logic]], [[Argumentation]]
 > - Tag architecture: #critical-thinking/paul-elder, #critical-thinking/cognitive-biases, #critical-thinking/metacognition
 > - Each topic should generate atomic notes for key concepts
@@ -252,7 +252,7 @@ Applying CT skills to research, synthesis, and PKB integration
 8. What is my Point of View, and how might alternative perspectives see this differently?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Elements of Thought]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point of View]], [[Perspective-Taking]], [[Reasoning Structure]]
+- Core concepts to wiki-link: [[Elements of Thought]], [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point-of-View]], [[Perspective-Taking]], [[Reasoning Structure]]
 - Recommended tags: #critical-thinking/paul-elder #reasoning-framework #elements-of-thought
 - Connection points: Create [[MOC - Paul-Elder Framework]]; links to [[Argumentation]], [[Logic]], [[Analytical Thinking]]
 
@@ -283,7 +283,7 @@ Applying CT skills to research, synthesis, and PKB integration
 9. Is it Fair - balanced and free from bias?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Intellectual Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]], [[Quality of Reasoning]], [[Evaluation Criteria]]
+- Core concepts to wiki-link: [[Intellectual-Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]], [[Quality of Reasoning]], [[Evaluation Criteria]]
 - Recommended tags: #critical-thinking/intellectual-standards #evaluation-framework
 - Connection points: Links to [[MOC - Paul-Elder Framework]], [[Epistemology]], [[Truth]], [[Evidence]], [[Argumentation]]
 
@@ -310,7 +310,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. What is the relationship between egocentric/sociocentric thinking and bias?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive Bias]], [[Confirmation Bias]], [[Availability Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[Heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
+- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[Heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
 - Recommended tags: #cognitive-bias #logical-fallacies #critical-thinking/error-detection
 - Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision Making]], [[Epistemology]], [[Psychology]]
 
@@ -338,7 +338,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. What role do warrants play in connecting evidence to claims?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Argument]], [[Premise]], [[Conclusion]], [[Inference]], [[Validity]], [[Soundness]], [[Deductive Reasoning]], [[Inductive Reasoning]], [[Abductive Reasoning]], [[Evidence]], [[Warrant]], [[Toulmin Model]], [[Argument Structure]], [[Hidden Assumptions]]
+- Core concepts to wiki-link: [[Argument]], [[Premise]], [[Conclusion]], [[Inference]], [[Validity]], [[Soundness]], [[Deductive-Reasoning]], [[Inductive-Reasoning]], [[Abductive-Reasoning]], [[Evidence]], [[Warrant]], [[Toulmin-Model]], [[Argument Structure]], [[Hidden Assumptions]]
 - Recommended tags: #argumentation #critical-thinking/analysis #logic
 - Connection points: Links to [[Logic]], [[Rhetoric]], [[Epistemology]], [[Academic Writing]]; create [[MOC - Argumentation Theory]]
 
@@ -366,7 +366,7 @@ Applying CT skills to research, synthesis, and PKB integration
 6. How does Confidence in Reasoning develop through practice?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Intellectual Traits]], [[Intellectual Humility]], [[Intellectual Courage]], [[Intellectual Empathy]], [[Intellectual Integrity]], [[Intellectual Perseverance]], [[Fairmindedness]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Stages of CT Development]], [[Virtue Epistemology]], [[Character Development]]
+- Core concepts to wiki-link: [[Intellectual Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Fairmindedness]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Stages of CT Development]], [[Virtue-Epistemology]], [[Character Development]]
 - Recommended tags: #critical-thinking/intellectual-traits #virtue-epistemology #self-development
 - Connection points: Complete [[MOC - Paul-Elder Framework]]; links to [[Ethics]], [[Virtue Ethics]], [[Epistemology]], [[Self-Improvement]]
 
@@ -394,7 +394,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I build metacognitive reflection directly into my PKB note-taking process?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Metacognition]], [[Self-Regulated Learning]], [[Metastrategic Knowledge]], [[Metacognitive Monitoring]], [[Metacognitive Control]], [[Comprehension Monitoring]], [[Self-Questioning]], [[Reflection]], [[Learning Strategies]], [[Cognitive Regulation]]
+- Core concepts to wiki-link: [[Metacognition]], [[Self-Regulated Learning]], [[Metastrategic Knowledge]], [[Metacognitive Monitoring]], [[Metacognitive Control]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Reflection]], [[Learning Strategies]], [[Cognitive Regulation]]
 - Recommended tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
 - Connection points: Links to [[Learning Theory]], [[Cognitive Science]], [[Andragogy]], [[Personal Knowledge Management]]; bridge to PKB application topics
 
@@ -422,7 +422,7 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I use the Paul-Elder Elements to analyze an academic article systematically?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Source Evaluation]], [[Research Methodology]], [[Literature Review]], [[Academic Synthesis]], [[Peer Review]], [[Research Claims]], [[Evidence Quality]], [[Theoretical Framework]], [[Empirical Research]], [[Scholarly Communication]], [[Research Gaps]]
+- Core concepts to wiki-link: [[Source Evaluation]], [[Research Methodology]], [[Literature-Review]], [[Academic Synthesis]], [[Peer Review]], [[Research Claims]], [[Evidence Quality]], [[Theoretical Framework]], [[Empirical Research]], [[Scholarly Communication]], [[Research Gaps]]
 - Recommended tags: #academic-skills #research-methods #critical-thinking/application
 - Connection points: Links to [[Research Methodology]], [[Academic Writing]], [[Information Literacy]], [[Scholarship]]; prepares for PKB integration
 
@@ -655,7 +655,7 @@ Generate a comprehensive academic report on the Elements of Thought that:
    - Demonstrate how Element analysis uncovers hidden assumptions and implications
 
 6. **PKB Capture Guidance**:
-   - Create atomic note for each Element: [[Purpose in Reasoning]], [[Question at Issue]], [[Information vs Evidence]], [[Inferences]], [[Concepts and Theories]], [[Assumptions]], [[Implications]], [[Point of View]]
+   - Create atomic note for each Element: [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Inferences]], [[Concepts and Theories]], [[Assumptions]], [[Implications]], [[Point-of-View]]
    - Recommended tags: #critical-thinking/paul-elder #reasoning-framework #elements-of-thought
    - Start building [[MOC - Paul-Elder Framework]]
    - Link to [[Logic]], [[Argumentation]], [[Analytical Thinking]]
@@ -745,7 +745,7 @@ Generate a comprehensive academic report on Intellectual Standards that:
    - Building Standards into PKB workflows
 
 7. **PKB Capture Guidance**:
-   - Atomic notes: [[Intellectual Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]]
+   - Atomic notes: [[Intellectual-Standards]], [[Clarity]], [[Accuracy]], [[Precision]], [[Relevance]], [[Depth]], [[Breadth]], [[Logic]], [[Significance]], [[Fairness]]
    - Tags: #critical-thinking/intellectual-standards #evaluation-framework
    - Expand [[MOC - Paul-Elder Framework]]
    - Links to [[Epistemology]], [[Truth]], [[Evidence]], [[Quality of Reasoning]]
@@ -981,7 +981,7 @@ Generate a comprehensive academic report on Argument Analysis and Evaluation tha
 
 8. **PKB Capture Guidance**:
    - Create [[MOC - Argumentation Theory]]
-   - Atomic notes: [[Argument]], [[Premise]], [[Conclusion]], [[Validity]], [[Soundness]], [[Deductive Reasoning]], [[Inductive Reasoning]], [[Abductive Reasoning]], [[Evidence Evaluation]], [[Assumptions]]
+   - Atomic notes: [[Argument]], [[Premise]], [[Conclusion]], [[Validity]], [[Soundness]], [[Deductive-Reasoning]], [[Inductive-Reasoning]], [[Abductive-Reasoning]], [[Evidence Evaluation]], [[Assumptions]]
    - Tags: #argumentation #critical-thinking/analysis #logic
    - Create argument analysis template for Obsidian
    - Link to [[Logic]], [[Rhetoric]], [[Academic Writing]], [[Epistemology]]
@@ -1151,7 +1151,7 @@ Generate a comprehensive academic report on Intellectual Traits and CT Developme
 
 8. **PKB Capture Guidance**:
    - Complete [[MOC - Paul-Elder Framework]]
-   - Atomic notes: [[Intellectual Traits]], [[Intellectual Humility]], [[Intellectual Courage]], [[Intellectual Empathy]], [[Intellectual Integrity]], [[Intellectual Perseverance]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Fairmindedness]], [[Stages of CT Development]]
+   - Atomic notes: [[Intellectual Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Fairmindedness]], [[Stages of CT Development]]
    - Tags: #critical-thinking/intellectual-traits #virtue-epistemology #self-development
    - Create self-assessment template
    - Developmental tracking system in PKB
@@ -1317,7 +1317,7 @@ Generate a comprehensive academic report on Metacognition and Self-Regulated Lea
     - Reflection notes that analyze your own thinking
 
 11. **PKB Capture Guidance**:
-    - Atomic notes: [[Metacognition]], [[Metacognitive Knowledge]], [[Metacognitive Regulation]], [[Self-Regulated Learning]], [[Comprehension Monitoring]], [[Self-Questioning]], [[Planning]], [[Monitoring]], [[Evaluation]], [[Learning Strategies]]
+    - Atomic notes: [[Metacognition]], [[Metacognitive Knowledge]], [[Metacognitive Regulation]], [[Self-Regulated Learning]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Planning]], [[Monitoring]], [[Evaluation]], [[Learning Strategies]]
     - Tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
     - Create metacognitive reflection template
     - Create learning log template
@@ -1491,7 +1491,7 @@ Generate a comprehensive academic report on Critical Thinking in Academic Knowle
     - Creating interconnected knowledge from academic sources
 
 11. **PKB Capture Guidance**:
-    - Atomic notes: [[Source Evaluation]], [[Research Methodology]], [[Literature Review]], [[Academic Synthesis]], [[Empirical Research]], [[Theoretical Argument]], [[Evidence Quality]], [[Research Limitations]], [[Scholarly Communication]]
+    - Atomic notes: [[Source Evaluation]], [[Research Methodology]], [[Literature-Review]], [[Academic Synthesis]], [[Empirical Research]], [[Theoretical Argument]], [[Evidence Quality]], [[Research Limitations]], [[Scholarly Communication]]
     - Tags: #academic-skills #research-methods #critical-thinking/application
     - Create academic article analysis template
     - Create literature synthesis template

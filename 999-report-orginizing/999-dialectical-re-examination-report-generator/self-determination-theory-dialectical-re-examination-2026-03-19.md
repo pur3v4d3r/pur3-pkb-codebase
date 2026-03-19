@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Dialectical Re-Examination: Self-Determination Theory — The Universality Thesis Under Scrutiny"
 aliases:
-  - "SDT Dialectical Re-Examination"
-  - "Self-Determination Theory Critical Analysis"
-  - "SDT Universality Thesis"
-  - "Needs Theory Under Pressure"
+  - SDT Dialectical Re-Examination
+  - Self-Determination Theory Critical Analysis
+  - SDT Universality Thesis
+  - Needs Theory Under Pressure
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - dialectical-re-examination
@@ -39,74 +32,56 @@ tags:
   - comprehensive
   - research-grounded
   - dialectical-depth
-
-domain: "motivation"
+domain: motivation
 subdomains:
-  - "basic-psychological-needs"
-  - "internalization-theory"
-  - "autonomy-support"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-19"
-updated: "2026-03-19"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - basic-psychological-needs
+  - internalization-theory
+  - autonomy-support
+created: 2026-03-19
+updated: 2026-03-19
 source-type: academic-synthesis
-research-base: "empirical-studies and theoretical-analysis"
-evidence-quality: "high"
-peer-validation: "multiple-frameworks"
-
-dialectical-focus: "SDT's claim that three universal, innate basic psychological needs (autonomy, competence, relatedness) are necessary and sufficient for intrinsic motivation and human flourishing is examined for its universality assumption, internalization teleology, undermining-effect robustness, and philosophical concept of the self."
-
+research-base: empirical-studies and theoretical-analysis
+evidence-quality: high
+peer-validation: multiple-frameworks
+dialectical-focus: SDT's claim that three universal, innate basic psychological needs (autonomy, competence, relatedness) are necessary and sufficient for intrinsic motivation and human flourishing is examined for its universality assumption, internalization teleology, undermining-effect robustness, and philosophical concept of the self.
 perspectival-lenses-used:
-  - "Empirical — cross-cultural replication, undermining-effect meta-analytic evidence"
-  - "Philosophical — universal-need ontology, teleology of internalization, concept of the self"
-  - "Practical — autonomy-supportive pedagogy challenges, relatedness-autonomy tension in practice"
-  - "Critical — Western individualism embedded in universalism claim, chronic deprivation contexts"
-
+  - Empirical — cross-cultural replication, undermining-effect meta-analytic evidence
+  - Philosophical — universal-need ontology, teleology of internalization, concept of the self
+  - Practical — autonomy-supportive pedagogy challenges, relatedness-autonomy tension in practice
+  - Critical — Western individualism embedded in universalism claim, chronic deprivation contexts
 key-frameworks:
-  - name: "Self-Determination Theory"
-    description: "Macro-theory of human motivation organized around three basic psychological needs"
-    developers: "Edward Deci & Richard Ryan (1985–2017)"
-    role-in-analysis: "The thesis under dialectical scrutiny"
-  - name: "Organismic Integration Theory"
-    description: "SDT sub-theory describing the internalization continuum from external to integrated regulation"
-    developers: "Deci & Ryan (1985)"
-    role-in-analysis: "Primary target of the philosophical challenge"
-  - name: "Cognitive Evaluation Theory"
-    description: "SDT sub-theory explaining how external events affect intrinsic motivation"
-    developers: "Deci & Ryan (1980)"
-    role-in-analysis: "Empirical challenge target regarding undermining effect"
-  - name: "Causality Orientations Theory"
-    description: "SDT sub-theory of individual differences in orientation toward environments"
-    developers: "Deci & Ryan (1985)"
-    role-in-analysis: "Informs the reconstruction regarding individual variation"
-
+  - name: Self-Determination Theory
+    description: Macro-theory of human motivation organized around three basic psychological needs
+    developers: Edward Deci & Richard Ryan (1985–2017)
+    role-in-analysis: The thesis under dialectical scrutiny
+  - name: Organismic Integration Theory
+    description: SDT sub-theory describing the internalization continuum from external to integrated regulation
+    developers: Deci & Ryan (1985)
+    role-in-analysis: Primary target of the philosophical challenge
+  - name: Cognitive Evaluation Theory
+    description: SDT sub-theory explaining how external events affect intrinsic motivation
+    developers: Deci & Ryan (1980)
+    role-in-analysis: Empirical challenge target regarding undermining effect
+  - name: Causality Orientations Theory
+    description: SDT sub-theory of individual differences in orientation toward environments
+    developers: Deci & Ryan (1985)
+    role-in-analysis: Informs the reconstruction regarding individual variation
 key-researchers:
-  - "Edward Deci"
-  - "Richard Ryan"
-  - "Netta Weinstein"
-  - "Avi Assor"
-  - "Johnmarshall Reeve"
-  - "Arlen Moller"
-  - "Judy Cameron"
-  - "W. David Pierce"
-  - "Valery Chirkov"
-  - "Guy Roth"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~9800"
-complexity-level: "advanced-practitioner"
-target-audience: "Students and practitioners with foundational knowledge of SDT who seek a rigorous pressure-test of the theory's core claims"
+  - Edward Deci
+  - Richard Ryan
+  - Netta Weinstein
+  - Avi Assor
+  - Johnmarshall Reeve
+  - Arlen Moller
+  - Judy Cameron
+  - W. David Pierce
+  - Valery Chirkov
+  - Guy Roth
+word-count: ~9800
+complexity-level: advanced-practitioner
+target-audience: Students and practitioners with foundational knowledge of SDT who seek a rigorous pressure-test of the theory's core claims
 depth-level: dialectical-re-examination
 treatment-type: dialectical-analysis
-
 analytical-contributions:
   analytical-insights: 5
   evidence-assessments: 3
@@ -115,142 +90,105 @@ analytical-contributions:
   original-syntheses: 2
   assumption-challenges: 4
   steel-man-constructions: 2
-
 transfer-contributions:
   abstract-principles-extracted: 3
   structural-analogues-identified: 6
   target-domains-bridged: 4
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DIALECTICAL STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
-received-view: "Three universal innate needs (autonomy, competence, relatedness) determine motivational quality; autonomous motivation is categorically superior; internalization naturally tends toward integration; need-supportive environments produce flourishing."
+received-view: Three universal innate needs (autonomy, competence, relatedness) determine motivational quality; autonomous motivation is categorically superior; internalization naturally tends toward integration; need-supportive environments produce flourishing.
 primary-challenges:
-  - "Empirical — The undermining effect is substantially more conditional than CET originally proposed; cross-cultural replications reveal that autonomy satisfaction patterns vary meaningfully across cultural contexts even when need-universality holds"
-  - "Philosophical — OIT's internalization continuum embeds a teleological directionality that is culturally assumed rather than demonstrated; the 'authentic self' that integration presupposes is philosophically contested"
-  - "Critical — SDT's universalism claim carries embedded assumptions about bounded selfhood that privilege Western individualist frameworks even in its 'relational' elaborations"
+  - Empirical — The undermining effect is substantially more conditional than CET originally proposed; cross-cultural replications reveal that autonomy satisfaction patterns vary meaningfully across cultural contexts even when need-universality holds
+  - Philosophical — OIT's internalization continuum embeds a teleological directionality that is culturally assumed rather than demonstrated; the 'authentic self' that integration presupposes is philosophically contested
+  - Critical — SDT's universalism claim carries embedded assumptions about bounded selfhood that privilege Western individualist frameworks even in its 'relational' elaborations
 assumptions-excavated:
   - "The Bounded-Self Assumption — SDT presupposes a coherent, bounded self capable of self-authorship; verdict: modified — partially survives as minimal-self, collapses as strong individualist self"
   - "The Teleological Internalization Assumption — OIT treats external-to-integrated as the natural developmental direction; verdict: failed — internalization is contextually reversible and culturally shaped"
   - "The Three-and-Only-Three Assumption — Only autonomy, competence, and relatedness qualify as basic needs; verdict: partially survives — strong case for these three, but evidence for completeness is weak"
   - "The Undifferentiated Undermining Assumption — External rewards categorically threaten intrinsic motivation; verdict: failed — undermining is moderator-dependent, not categorical"
 reconstructed-understanding: "SDT's core contributions — need quality over quantity, regulatory style as motivationally consequential, internalization as a genuine psychological process — survive scrutiny and deserve full confidence. The universality claim requires reconceptualization: universal frustration-ill-being links hold robustly; universal form-of-satisfaction does not. Autonomy should be understood as volitional congruence with one's values rather than independence, resolving the cross-cultural paradox. OIT's teleology should be softened to a developmental possibility rather than natural trajectory."
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Basic Psychological Needs (Autonomy, Competence, Relatedness)"
-  - "Internalization Continuum (OIT)"
-  - "Undermining Effect / Overjustification Effect"
-  - "Autonomous vs. Controlled Motivation"
-  - "Need-Supportive Environments"
-
+  - Basic Psychological Needs (Autonomy, Competence, Relatedness)
+  - Internalization Continuum (OIT)
+  - Undermining Effect / Overjustification Effect
+  - Autonomous vs. Controlled Motivation
+  - Need-Supportive Environments
 key-arguments:
-  - "SDT's universality claim rests on conflating universality of need-frustration effects with universality of need-satisfaction form — a distinction that rescues the core theory while qualifying its cross-cultural applications"
-  - "The undermining effect is a moderator-conditional phenomenon, not a categorical law — its reliability depends on reward salience, task type, perceived locus of causality, and individual difference variables"
+  - SDT's universality claim rests on conflating universality of need-frustration effects with universality of need-satisfaction form — a distinction that rescues the core theory while qualifying its cross-cultural applications
+  - The undermining effect is a moderator-conditional phenomenon, not a categorical law — its reliability depends on reward salience, task type, perceived locus of causality, and individual difference variables
   - "Reconstructed SDT: autonomous motivation's superiority for complex, creative, and persistent engagement is among the most well-supported claims in motivational psychology; its universal application requires careful attention to what 'autonomy' means across cultural contexts"
-
 key-distinctions:
-  - "Universality of frustration effects vs. universality of satisfaction form"
-  - "Autonomy-as-independence vs. autonomy-as-volitional-congruence"
-  - "Internalization as teleological development vs. internalization as contextually-reversible process"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Universality of frustration effects vs. universality of satisfaction form
+  - Autonomy-as-independence vs. autonomy-as-volitional-congruence
+  - Internalization as teleological development vs. internalization as contextually-reversible process
 prerequisites:
   - "[[Self-Determination Theory]]"
   - "[[Basic-Psychological-Needs]]"
   - "[[Intrinsic-Motivation]]"
-
 foundational-report: "[[Self-Determination Theory]]"
 focused-analysis: "[[Cognitive-Evaluation-Theory]]"
-
 related:
   - "[[Autonomous-Motivation]]"
   - "[[Controlled-Motivation]]"
   - "[[Organismic-Integration-Theory]]"
   - "[[Causality-Orientations-Theory]]"
   - "[[Achievement-Goal-Theory]]"
-  - "[[Self-Regulated-Learning-—-SRL]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
   - "[[Attribution-Theory]]"
   - "[[Flow]]"
-
 broader:
   - "[[Educational-Psychology]]"
   - "[[Motivational-Climate]]"
-
 narrower:
   - "[[Undermining-Effect]]"
   - "[[Autonomy-Support]]"
   - "[[Internalization-Continuum]]"
-
 see-also:
   - "[[Self-Efficacy]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
   - "[[Locus-of-Control]]"
   - "[[Learned-Helplessness]]"
-
 contrasts-with:
   - "[[Behaviorism]]"
   - "[[Achievement-Goal-Theory]]"
-
 applied-in:
   - "[[Autonomy-Supportive-Environment]]"
   - "[[Motivational-Climate]]"
   - "[[Personal-Knowledge-Management]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory]]"
   - "[[Cognitive-Evaluation-Theory]]"
   - "[[Organismic-Integration-Theory]]"
-
 enables:
   - "[[The-Integrated-Gateway-Model-Autonomy-as-the-Motivational-Gatekeeper]]"
   - "[[The-Fourfold-Motivational-Architecture-for-PKB-Design]]"
   - "[[Motivational-Climate]]"
-
 expansion-topics:
   - topic: "[[Cross-Cultural-Motivation-Research]]"
-    description: "The empirical literature on SDT replication across cultures deserves its own dialectical treatment; Chirkov et al.'s seminal work and subsequent debates about what 'autonomy' means in collectivist contexts"
-    priority: "high"
+    description: The empirical literature on SDT replication across cultures deserves its own dialectical treatment; Chirkov et al.'s seminal work and subsequent debates about what 'autonomy' means in collectivist contexts
+    priority: high
   - topic: "[[Undermining-Effect]]"
-    description: "The meta-analytic wars between Deci/Koestner/Ryan (1999) and Cameron/Pierce (1994, 1996) constitute one of motivational psychology's most productive empirical disputes and deserve focused analysis"
-    priority: "high"
+    description: The meta-analytic wars between Deci/Koestner/Ryan (1999) and Cameron/Pierce (1994, 1996) constitute one of motivational psychology's most productive empirical disputes and deserve focused analysis
+    priority: high
   - topic: "[[The-Integration-Paradox]]"
-    description: "The philosophical puzzle of how a person can autonomously adopt values that were initially externally imposed — the paradox at the heart of OIT — merits its own focused examination"
-    priority: "high"
+    description: The philosophical puzzle of how a person can autonomously adopt values that were initially externally imposed — the paradox at the heart of OIT — merits its own focused examination
+    priority: high
   - topic: "[[Relatedness-Need]]"
     description: "SDT's under-theorized need: relatedness receives less theoretical development than autonomy and competence, and its relationship to attachment theory, belonging science, and relational self-construal is richer than standard SDT accounts suggest"
-    priority: "medium"
+    priority: medium
   - topic: "[[Relationship-Motivation-Theory]]"
-    description: "SDT's most recently elaborated mini-theory applies the need-satisfaction framework to close relationships and departs interestingly from the standard motivational account"
-    priority: "medium"
+    description: SDT's most recently elaborated mini-theory applies the need-satisfaction framework to close relationships and departs interestingly from the standard motivational account
+    priority: medium
   - topic: "[[Goal-Content-Theory]]"
-    description: "The GCT mini-theory extends SDT's logic to goal content (intrinsic vs. extrinsic aspirations) in ways that open productive connections to well-being research and the Aspiration Index"
-    priority: "medium"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
+    description: The GCT mini-theory extends SDT's logic to goal content (intrinsic vs. extrinsic aspirations) in ways that open productive connections to well-being research and the Aspiration Index
+    priority: medium
 empirical-support:
-  - "Deci, Koestner & Ryan (1999) meta-analysis of undermining effect — 128 studies"
-  - "Chirkov et al. (2003, 2011) cross-cultural SDT replications"
-  - "Ryan & Deci (2000, 2017) SDT comprehensive theoretical statements"
-  - "Vansteenkiste & Ryan (2013) on need frustration vs. need absence"
-  - "Assor, Roth & Deci (2004) on conditional regard and introjection"
-
+  - Deci, Koestner & Ryan (1999) meta-analysis of undermining effect — 128 studies
+  - Chirkov et al. (2003, 2011) cross-cultural SDT replications
+  - Ryan & Deci (2000, 2017) SDT comprehensive theoretical statements
+  - Vansteenkiste & Ryan (2013) on need frustration vs. need absence
+  - Assor, Roth & Deci (2004) on conditional regard and introjection
 limitations-noted:
-  - "The report's philosophical challenge of the self-concept draws on traditions (Buddhist psychology, post-structuralism) that SDT theorists may not accept as epistemically comparable to empirical research"
-  - "The cross-cultural evidence is improving but remains concentrated in certain regions; genuinely indigenous motivational frameworks from non-Western traditions are underrepresented"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - The report's philosophical challenge of the self-concept draws on traditions (Buddhist psychology, post-structuralism) that SDT theorists may not accept as epistemically comparable to empirical research
+  - The cross-cultural evidence is improving but remains concentrated in certain regions; genuinely indigenous motivational frameworks from non-Western traditions are underrepresented
 sections:
   - "Phase I: Orientation & Thesis Articulation"
   - "Phase II: Perspectival Framework"
@@ -260,7 +198,6 @@ sections:
   - "Phase VI: FAR Transfer — Structural Analogues Across Domains"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix (Lexicon, References, Expansion Topics)"
-
 document-features:
   callouts: 28
   wiki-links: 52
@@ -270,21 +207,13 @@ document-features:
   assumption-challenges: 4
   steel-man-constructions: 2
   transfer-principles: 3
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
-importance: "critical"
+importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Dialectical Re-Examination Report Generator v1.0]]"
-generation-date: "2026-03-19"
+generation-date: 2026-03-19
 ---
 
 # Dialectical Re-Examination: Self-Determination Theory — The Universality Thesis Under Scrutiny

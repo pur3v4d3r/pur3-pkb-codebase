@@ -18,7 +18,7 @@ link-related:
   - "[[Andragogy]]"
   - "[[Constructivist Learning]]"
   - "[[Educational Psychology]]"
-  - "[[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]"
+  - "[[Knowledge Management]]"
   - "[[Library Science]]"
   - "[[Pedagogy]]"
 maturity: seedling

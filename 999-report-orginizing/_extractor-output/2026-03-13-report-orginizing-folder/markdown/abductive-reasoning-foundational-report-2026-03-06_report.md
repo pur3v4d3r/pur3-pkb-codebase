@@ -452,7 +452,7 @@ extraction_summary:
 - [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
 - [[Scientific Reasoning]]
 - [[Scientific Reasoning in Education]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Umberto Eco]]
 
@@ -566,7 +566,7 @@ extraction_summary:
 - [[Scientific Discovery — Cognitive Models and Historical Case Studies]]
 - [[Scientific Reasoning]]
 - [[Scientific Reasoning in Education]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Umberto Eco]]
 

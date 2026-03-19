@@ -122,7 +122,7 @@ related:
   - "[[Apatheia]]"
   - "[[Preferred Indifferents]]"
   - "[[Meditatio Paupertatis]]"
-  - "[[Hedonic Adaptation]]"
+  - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity]]"
   - "[[Cynicism (Philosophy)]]"
   - "[[Epicureanism]]"
@@ -208,7 +208,7 @@ link-down:
   - "[[Stoic Frugality]]"
   - "[[Preferred Indifferents — Complete Taxonomy]]"
 link-related:
-  - "[[Hedonic Adaptation]]"
+  - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity Movement]]"
   - "[[Eudaimonic Wellbeing]]"
   - "[[Buddhist Non-Attachment]]"
@@ -267,7 +267,7 @@ importance: high
 
 Something has gone wrong with the way modern culture relates to material goods, and nearly everyone senses it without quite being able to articulate what it is. People work more hours than any previous generation to afford things that do not make them as happy as they expected. They accumulate possessions that briefly satisfy and then quietly disappear into the background of daily life, requiring storage, maintenance, and eventual replacement. They upgrade — phones, cars, kitchens, clothes — on a rhythm set not by genuine need but by a machinery of desire that is specifically engineered by some of the most sophisticated persuasion technologies in human history. And at the end of all this accumulation, surveys reliably find that people in wealthy societies report no greater life satisfaction than they did decades earlier, when they owned substantially less.
 
-This is not a moral indictment. It is a description of a structural psychological dynamic that psychologists call [[Hedonic Adaptation]] — the well-documented tendency of humans to rapidly normalize improvements in their material circumstances and return to a roughly stable level of subjective wellbeing. The new car becomes simply the car. The promotion becomes the new baseline. The house that felt luxurious in the first year becomes what one is entitled to by the third. The technical name for this dynamic, when it runs in perpetual acquisition mode, is the hedonic treadmill — and it is not a metaphor but a precise characterization: no matter how fast you walk, you stay in roughly the same place.
+This is not a moral indictment. It is a description of a structural psychological dynamic that psychologists call [[Hedonic-Adaptation]] — the well-documented tendency of humans to rapidly normalize improvements in their material circumstances and return to a roughly stable level of subjective wellbeing. The new car becomes simply the car. The promotion becomes the new baseline. The house that felt luxurious in the first year becomes what one is entitled to by the third. The technical name for this dynamic, when it runs in perpetual acquisition mode, is the hedonic treadmill — and it is not a metaphor but a precise characterization: no matter how fast you walk, you stay in roughly the same place.
 
 > [!research]
 > **The Empirical Landscape of Wealth and Wellbeing**
@@ -363,7 +363,7 @@ The Stoic framework for material simplicity was developed through philosophical 
 
 **Hedonic Adaptation and the Treadmill**
 
-The concept of [[Hedonic Adaptation]] — the mechanism by which humans rapidly normalize improvements in their circumstances — directly explains why the Stoic preferred indifferents framework is psychologically accurate. If the Stoics are right that wealth and comfort are not genuinely constitutive of flourishing, then the hedonic adaptation data explain the mechanism: these goods produce a real but transient positive response, after which the practitioner returns to baseline and requires more stimulation to reproduce the initial effect. The treadmill is the experiential evidence for the philosophical claim.
+The concept of [[Hedonic-Adaptation]] — the mechanism by which humans rapidly normalize improvements in their circumstances — directly explains why the Stoic preferred indifferents framework is psychologically accurate. If the Stoics are right that wealth and comfort are not genuinely constitutive of flourishing, then the hedonic adaptation data explain the mechanism: these goods produce a real but transient positive response, after which the practitioner returns to baseline and requires more stimulation to reproduce the initial effect. The treadmill is the experiential evidence for the philosophical claim.
 
 > [!research]
 > **Hedonic Adaptation: The Empirical Foundation**

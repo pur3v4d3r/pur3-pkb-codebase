@@ -294,9 +294,9 @@ Given your existing work on James's psychology of habit and pragmatist education
 > - Flanagan, Owen (1991). *The Science of the Mind*, 2nd ed. Cambridge, MA: MIT Press. [Chapter on James]
 >
 > ### Stanford Encyclopedia Entries
-> - "William James" [[https://plato.stanford.edu/entries/james/]]
-> - "Charles Sanders Peirce" [[https://plato.stanford.edu/entries/peirce/]]
-> - "Pragmatism" [[https://plato.stanford.edu/entries/pragmatism/]]
+> - "William James" [[.md]]
+> - "Charles Sanders Peirce" [[.md]]
+> - "Pragmatism" [[.md]]
 
 ---
 

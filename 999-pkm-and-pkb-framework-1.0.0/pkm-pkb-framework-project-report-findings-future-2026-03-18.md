@@ -59,18 +59,18 @@ source_documents_count: 38
 # KNOWLEDGE GRAPH INTEGRATION
 # ═══════════════════════════════════════════════════════════════════════════
 related_concepts:
-  - "[[Integrated Learning System Model]]"
-  - "[[Twelve Master Principles]]"
-  - "[[Five Convergence Zones]]"
+  - "[[Integrated-Learning-System-Model]]"
+  - "[[Twelve-Master-Principles]]"
+  - "[[Five-Convergence-Zones]]"
   - "[[Cognitive Architecture Isomorphism]]"
   - "[[Convenience-Learning Tension]]"
-  - "[[Fluency Illusion]]"
+  - "[[Fluency-Illusion]]"
   - "[[Cognitive Partnership Model]]"
   - "[[Epistemic Counterfeiting]]"
   - "[[Offloading Quality Distinction]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Testing Effect]]"
-  - "[[Active Construction Imperative]]"
+  - "[[Desirable-Difficulties]]"
+  - "[[Testing-Effect]]"
+  - "[[Active-Construction-Imperative]]"
 builds_on:
   - "[[pkm-pkb-framework-synthesis]]"
   - "[[pkm-pkb-framework-taxonomy]]"
@@ -89,9 +89,9 @@ companion_report: "[[pkm-pkb-framework-project-report-architecture-methodology-2
 
 ### 1.1 The Integrated Learning System Model
 
-The framework's capstone deliverable, developed in Report 27 ([[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|The Complete PKM/PKB Design Framework]]), is the [[Integrated Learning System Model]] (ILSM). This model asserts that a PKB at full function is not merely a storage system with organizational features — it is a system with three synergistic properties that together constitute a distributed cognitive architecture:
+The framework's capstone deliverable, developed in Report 27 ([[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|The Complete PKM/PKB Design Framework]]), is the [[Integrated-Learning-System-Model]] (ILSM). This model asserts that a PKB at full function is not merely a storage system with organizational features — it is a system with three synergistic properties that together constitute a distributed cognitive architecture:
 
-**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[Schema Theory]], [[Semantic Networks]], [[Cognitive Load Theory]], [[Expert Knowledge Organization]], [[Information Foraging Theory]], and the [[SECI Model]].
+**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[Schema Theory]], [[Semantic-Networks]], [[Cognitive Load Theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
 
 **Property 2 — Constructive Processing Engine.** The PKB's workflows and interaction patterns demand active cognitive construction during every encounter — not passive retrieval. Notes are designed as retrieval training instruments, review sessions require generation before re-exposure, and organizational structures create productive difficulty through cross-domain juxtaposition and elaborative interrogation.
 
@@ -145,13 +145,13 @@ The framework proposes the [[Offloading Quality Distinction]] as the primary heu
 
 ### 1.5 The Cognitive Partnership Model
 
-Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[Desirable Difficulties]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
+Report 30's original contribution — the [[Cognitive Partnership Model]] — addresses the AI integration question by proposing that AI in PKM should function not as oracle (providing answers), not as scribe (reducing effort), but as [[Socratic Interlocutor]] — challenging, questioning, surfacing tensions, and generating productive uncertainty. This model is grounded in the framework's own [[Desirable-Difficulties]] evidence base: if productive difficulty is the mechanism of learning, then AI's value in a learning-oriented PKB lies not in removing difficulty but in calibrating it.
 
 ### 1.6 The Three-Concept Diagnostic Chain
 
 The synthesis identifies what it terms the single most important diagnostic for AI-integrated PKM design:
 
-**[[Fluency Illusion]]** (mechanism) → **[[Dunning-Kruger Effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
+**[[Fluency-Illusion]]** (mechanism) → **[[Dunning-Kruger-Effect]]** (systemic consequence) → **[[Epistemic Counterfeiting]]** (AI amplification)
 
 Each concept builds on the previous. The Fluency Illusion causes individuals to mistake ease of processing for depth of understanding. The Dunning-Kruger Effect means those most susceptible to this illusion are least able to detect it. Epistemic Counterfeiting — the production of the appearance of knowledge without substance — is what occurs when AI's fluent output triggers the Fluency Illusion at scale. Together, they describe a compounding failure mode that threatens the epistemic autonomy the framework is designed to develop.
 
@@ -181,7 +181,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 ### 2.3 Limitations and Potential Sources of Bias
 
-**Limitation 1 — The Implementation Gap.** The framework's most significant practical limitation is the absence of implementation artifacts. The [[Twelve Master Principles]] provide excellent design specifications, but zero [[Templater]] templates, [[Dataview]] queries, [[QuickAdd]] macros, or concrete implementation scripts accompany them. The distance between "DP3 prescribes spaced, retrieval-based review" and "here is the Dataview query that generates your review queue" is the distance between theoretical framework and operational tool. The expansion topics registry correctly identifies this as a Critical priority gap.
+**Limitation 1 — The Implementation Gap.** The framework's most significant practical limitation is the absence of implementation artifacts. The [[Twelve-Master-Principles]] provide excellent design specifications, but zero [[Templater]] templates, [[Dataview]] queries, [[QuickAdd]] macros, or concrete implementation scripts accompany them. The distance between "DP3 prescribes spaced, retrieval-based review" and "here is the Dataview query that generates your review queue" is the distance between theoretical framework and operational tool. The expansion topics registry correctly identifies this as a Critical priority gap.
 
 **Limitation 2 — Generalization from Educational Settings.** The framework's evidence base draws primarily from controlled studies in educational settings with students — not from adult self-directed learners building PKBs. The cognitive processes described (schema construction, retrieval strengthening, desirable difficulties) are general enough that extension to PKM contexts is highly plausible, but the specific design prescriptions have not been validated in PKM research contexts. They should be treated as high-confidence design hypotheses, not empirically validated PKM recommendations.
 
@@ -201,7 +201,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 **Finding 2 — The Severity of the AI Threat.** Report 30's analysis of AI integration risks was more severe than the project's initial framing suggested. The three-concept diagnostic chain (Fluency Illusion → Dunning-Kruger → Epistemic Counterfeiting) identifies a compounding failure mode that does not merely reduce learning effectiveness but actively undermines the epistemic autonomy the framework is designed to develop. The finding that "AI's most convenient features directly conflict with desirable difficulties research on deep learning" emerged as the framework's most urgent practical warning.
 
-**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[Fluency Illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
+**Finding 3 — The Universality of the Fluency Illusion.** Across the series, the [[Fluency-Illusion]] emerged as the single most referenced failure mode — appearing not just in the metacognition and calibration reports where it was expected, but recurring in discussions of note-making (Report 17), retrieval practice (Report 20), dialectical knowledge building (Report 21), and AI integration (Report 30). Its identification as the "universal PKM failure mode" was an emergent finding of the synthesis process, not a pre-planned conclusion.
 
 ---
 
@@ -235,7 +235,7 @@ For practitioners, the framework provides several immediately actionable insight
 
 ### 4.1 Summary of the Project
 
-The PKM/PKB Lifelong Learning Framework v1.0 is a 30-report, approximately 280,000–330,000-word series synthesizing findings from cognitive science, educational psychology, educational philosophy, instructional design, learning experience design, knowledge management, memory science, metacognition, and philosophical traditions into a unified framework for designing PKBs as genuine learning instruments. Accompanied by four analytical companion documents (synthesis, taxonomy, expansion topics, working notes), the framework produces the [[Integrated Learning System Model]], operationalized through the [[Twelve Master Principles]], grounded in the [[Five Convergence Zones]], and capped by the [[Cognitive Partnership Model]] for AI-era PKM.
+The PKM/PKB Lifelong Learning Framework v1.0 is a 30-report, approximately 280,000–330,000-word series synthesizing findings from cognitive science, educational psychology, educational philosophy, instructional design, learning experience design, knowledge management, memory science, metacognition, and philosophical traditions into a unified framework for designing PKBs as genuine learning instruments. Accompanied by four analytical companion documents (synthesis, taxonomy, expansion topics, working notes), the framework produces the [[Integrated-Learning-System-Model]], operationalized through the [[Twelve-Master-Principles]], grounded in the [[Five-Convergence-Zones]], and capped by the [[Cognitive Partnership Model]] for AI-era PKM.
 
 ### 4.2 Principal Conclusions
 
@@ -306,7 +306,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > Foundation of [[Schema Theory]]. Knowledge is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
-> Coined [[Desirable Difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
+> Coined [[Desirable-Difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
 
 > [!cite] **Chi, M.T.H., Feltovich, P.J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5(2), 121–152.**
 > Foundation for expert vs. novice knowledge organization. Supports principle-based PKB organization (DP1).
@@ -315,7 +315,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > [[Extended Mind Theory]]. Theoretical grounding for PKB as cognitive extension.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
-> [[Semantic Networks]] and [[Spreading Activation]]. Architectural analog for wiki-link PKB structures.
+> [[Semantic-Networks]] and [[Spreading-Activation]]. Architectural analog for wiki-link PKB structures.
 
 > [!cite] **Cowan, N. (2001). The magical number 4 in short-term memory. *Behavioral and Brain Sciences*, 24(1), 87–114.**
 > Working memory capacity revised to ~4 chunks. Key constraint for note design.
@@ -336,7 +336,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > [[Metacognition]] taxonomy. Foundation of regulatory embedding principle.
 
 > [!cite] **Furnas, G.W., Landauer, T.K., Gomez, L.M., & Dumais, S.T. (1987). The vocabulary problem in human-system communication. *Communications of the ACM*, 30(11), 964–971.**
-> [[Vocabulary Mismatch Problem]]. <20% naming agreement. Foundation for faceted classification need.
+> [[Vocabulary-Mismatch-Problem]]. <20% naming agreement. Foundation for faceted classification need.
 
 > [!cite] **Kolb, D.A. (1984). *Experiential Learning: Experience as the Source of Learning and Development*. Prentice-Hall.**
 > [[Experiential Learning Cycle]]. Foundation of experience processing architecture.
@@ -345,22 +345,22 @@ The most appropriate way to engage with this framework is the way the framework 
 > Monitoring-control model of metacognition. Foundation for calibration systems.
 
 > [!cite] **Nonaka, I. & Takeuchi, H. (1995). *The Knowledge-Creating Company*. Oxford University Press.**
-> [[SECI Model]]. Knowledge creation cycle adapted for personal knowledge management.
+> [[SECI-Model]]. Knowledge creation cycle adapted for personal knowledge management.
 
 > [!cite] **Piaget, J. (1952). *The Origins of Intelligence in Children*. International Universities Press.**
 > [[Constructivism]]. Assimilation and accommodation as knowledge construction mechanisms.
 
 > [!cite] **Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.**
-> [[Tacit Knowledge]]. Foundation for understanding PKB capture limits.
+> [[Tacit-Knowledge]]. Foundation for understanding PKB capture limits.
 
 > [!cite] **Reigeluth, C.M. (1999). *Instructional-Design Theories and Models: Volume II*. Lawrence Erlbaum.**
-> [[Elaboration Theory]]. Sequencing architecture adapted for PKB note organization.
+> [[Elaboration-Theory]]. Sequencing architecture adapted for PKB note organization.
 
 > [!cite] **Rosch, E. (1975). Cognitive representations of semantic categories. *Journal of Experimental Psychology: General*, 104, 192–233.**
-> [[Prototype Theory]] and [[Basic-Level Categories]]. Foundation for tag system design.
+> [[Prototype-Theory]] and [[Basic-Level-Categories]]. Foundation for tag system design.
 
 > [!cite] **Rowland, C.A. (2014). The effect of testing versus restudy on retention: A meta-analytic review. *Psychological Bulletin*, 140(6), 1432–1463.**
-> [[Testing Effect]] d = 0.50, 159 experiments. Primary evidence for retrieval-based review.
+> [[Testing-Effect]] d = 0.50, 159 experiments. Primary evidence for retrieval-based review.
 
 > [!cite] **Rumelhart, D.E. (1980). Schemata: The building blocks of cognition. In R.J. Spiro, B.C. Bruce, & W.F. Brewer (Eds.), *Theoretical Issues in Reading Comprehension*. Lawrence Erlbaum.**
 > Schema Theory development. Knowledge as organized mental structures.

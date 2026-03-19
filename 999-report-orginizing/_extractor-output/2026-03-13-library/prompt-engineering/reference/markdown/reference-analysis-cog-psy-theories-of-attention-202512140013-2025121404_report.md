@@ -361,7 +361,7 @@ extraction_summary:
 > <span style='color: #FF00DC;'>**Critical Issues:**</span>
 > 
 > 1. **Incorrect `link-up` MOC**: Document is linked to `[[cosmology-moc]]` but content is clearly cognitive science
->    - **Fix**: Change to `[[99-archive/05-moc's/cognitive-science-moc]]` or `[[neuroscience-moc]]`
+>    - **Fix**: Change to `[[cognitive-science-moc]]` or `[[neuroscience-moc]]`
 > 
 > 2. **Exposed thinking block** (lines 337-354): Raw `> [! ] ### Claude Thinking` block visible
 >    - **Fix**: Remove entirely or collapse into hidden comment
@@ -419,7 +419,7 @@ extraction_summary:
 > 1. **Fix `link-up` MOC**:
 >    ```yaml
 >    link-up:
->      - "[[99-archive/05-moc's/cognitive-science-moc]]"
+>      - "[[cognitive-science-moc]]"
 >    ```
 > 
 > 2. **Remove exposed thinking block** (lines 337-354): Delete entire `> [! ] ### Claude Thinking` section
@@ -526,7 +526,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[99-archive/05-moc's/cognitive-science-moc]]
+- [[cognitive-science-moc]]
 - [[Allocation Policy]]
 - [[Anne Treisman]]
 - [[Capacity Model]]
@@ -592,9 +592,9 @@ extraction_summary:
 | 19 | [[Dorsal Attention Network]] | — | — | Dimension 3: Knowledge Graph Potentia... | 445 |
 | 20 | [[Ventral Attention Network]] | — | — | Dimension 3: Knowledge Graph Potentia... | 445 |
 | 21 | [[cosmology-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 499 |
-| 22 | [[99-archive/05-moc's/cognitive-science-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 500 |
+| 22 | [[cognitive-science-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 500 |
 | 23 | [[neuroscience-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 500 |
-| 24 | [[99-archive/05-moc's/cognitive-science-moc]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 568 |
+| 24 | [[cognitive-science-moc]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 568 |
 | 25 | [[Yerkes-Dodson Law]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 576 |
 | 26 | [[Anne Treisman]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 577 |
 | 27 | [[Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
@@ -747,7 +747,7 @@ try {
 
 ```yaml
 >    link-up:
->      - "[[99-archive/05-moc's/cognitive-science-moc]]"
+>      - "[[cognitive-science-moc]]"
 >
 ```
 
@@ -979,7 +979,7 @@ for (let letter of sortedLetters) {
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[99-archive/05-moc's/cognitive-science-moc]]
+- [[cognitive-science-moc]]
 - [[Allocation Policy]]
 - [[Anne Treisman]]
 - [[Capacity Model]]

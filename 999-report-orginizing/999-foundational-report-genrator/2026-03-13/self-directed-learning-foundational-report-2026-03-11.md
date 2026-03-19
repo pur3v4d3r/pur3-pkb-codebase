@@ -1,141 +1,100 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Self-Directed Learning: Initiative, Autonomy, and the Architecture of Personal Knowledge Construction"
 aliases:
-  - "Self-Directed Learning"
-  - "SDL"
-  - "Self-Direction in Learning"
+  - Self-Directed Learning
+  - SDL
+  - Self-Direction in Learning
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
-  # Content Type
   - permanent-note
   - foundational-report
   - academic-synthesis
-
-  # Domain
   - learning-sciences/self-directed-learning
   - adult-education/andragogy
   - educational-psychology/learner-autonomy
   - cognitive-psychology/self-regulation
   - philosophy-of-education/personal-autonomy
-
-  # Methodology
   - empirical-research
   - theoretical-synthesis
   - practical-application
-
-  # Specific Frameworks
   - andragogy
   - heutagogy
   - pro-model
   - garrison-model
   - sdlrs
-
-  # Status
   - evergreen
   - comprehensive
   - research-grounded
-
 domain: learning-sciences
 subdomains:
   - adult-education
   - learner-autonomy
   - self-regulation
   - lifelong-learning
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-11
 updated: 2026-03-11
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: mixed-methods
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Andragogy and SDL Process Model"
-    description: "Knowles's six-step model in which learners take initiative in diagnosing needs, formulating goals, identifying resources, choosing strategies, and evaluating outcomes"
-    developers: "Malcolm Knowles (1975)"
-    validation: "Widely cited foundational framework; empirical support mixed"
-  - name: "Self-Directed Learning Readiness Scale (SDLRS)"
-    description: "58-item psychometric instrument measuring an individual's attitudes, abilities, and characteristics associated with SDL"
-    developers: "Lucy Guglielmino (1977)"
-    validation: "Extensively validated; some structural validity debates"
-  - name: "Personal Responsibility Orientation (PRO) Model"
+  - name: Andragogy and SDL Process Model
+    description: Knowles's six-step model in which learners take initiative in diagnosing needs, formulating goals, identifying resources, choosing strategies, and evaluating outcomes
+    developers: Malcolm Knowles (1975)
+    validation: Widely cited foundational framework; empirical support mixed
+  - name: Self-Directed Learning Readiness Scale (SDLRS)
+    description: 58-item psychometric instrument measuring an individual's attitudes, abilities, and characteristics associated with SDL
+    developers: Lucy Guglielmino (1977)
+    validation: Extensively validated; some structural validity debates
+  - name: Personal Responsibility Orientation (PRO) Model
     description: "Reconceptualises SDL along two dimensions: self-direction as a learner characteristic (self-directedness) and self-direction as a teaching-learning process"
-    developers: "Roger Brockett & Ralph Hiemstra (1991)"
-    validation: "Widely adopted; clarifies earlier conceptual ambiguities"
-  - name: "Three-Component SDL Model"
-    description: "Garrison's interactional model integrating self-management (behavioural), self-monitoring (cognitive), and motivation (entering/task) as necessary and sufficient conditions for SDL"
-    developers: "D. Randy Garrison (1997)"
-    validation: "Empirically grounded; strong integration with cognitive science"
-  - name: "Heutagogy"
-    description: "Extension of SDL toward fully self-determined learning in which learners not only direct their learning process but define their own competencies and learning pathways"
-    developers: "Stewart Hase & Chris Kenyon (2000)"
-    validation: "Emerging framework; active theoretical development"
-
+    developers: Roger Brockett & Ralph Hiemstra (1991)
+    validation: Widely adopted; clarifies earlier conceptual ambiguities
+  - name: Three-Component SDL Model
+    description: Garrison's interactional model integrating self-management (behavioural), self-monitoring (cognitive), and motivation (entering/task) as necessary and sufficient conditions for SDL
+    developers: D. Randy Garrison (1997)
+    validation: Empirically grounded; strong integration with cognitive science
+  - name: Heutagogy
+    description: Extension of SDL toward fully self-determined learning in which learners not only direct their learning process but define their own competencies and learning pathways
+    developers: Stewart Hase & Chris Kenyon (2000)
+    validation: Emerging framework; active theoretical development
 key-researchers:
-  - "Malcolm Knowles"
-  - "Allen Tough"
-  - "Lucy Guglielmino"
-  - "Philip Candy"
-  - "Roger Brockett"
-  - "Ralph Hiemstra"
-  - "D. Randy Garrison"
-  - "Stewart Hase"
-  - "Chris Kenyon"
-  - "Stephen Brookfield"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~9,500"
+  - Malcolm Knowles
+  - Allen Tough
+  - Lucy Guglielmino
+  - Philip Candy
+  - Roger Brockett
+  - Ralph Hiemstra
+  - D. Randy Garrison
+  - Stewart Hase
+  - Chris Kenyon
+  - Stephen Brookfield
+word-count: ~9,500
 complexity-level: intermediate
-target-audience: "Educators, instructional designers, researchers in learning sciences, and reflective practitioners seeking theoretical grounding for autonomy-supportive pedagogy"
+target-audience: Educators, instructional designers, researchers in learning sciences, and reflective practitioners seeking theoretical grounding for autonomy-supportive pedagogy
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "SDL as process vs. SDL as personal characteristic vs. SDL as educational goal"
-  - "Learner initiative and learning projects"
-  - "Self-directedness readiness"
-  - "Personal autonomy in learning"
-  - "Andragogy and its assumptions about adult learners"
-  - "Learning contracts"
-  - "Heutagogy and self-determined learning"
-
+  - SDL as process vs. SDL as personal characteristic vs. SDL as educational goal
+  - Learner initiative and learning projects
+  - Self-directedness readiness
+  - Personal autonomy in learning
+  - Andragogy and its assumptions about adult learners
+  - Learning contracts
+  - Heutagogy and self-determined learning
 key-distinctions:
-  - "Self-Directed Learning vs. Self-Regulated Learning"
-  - "Andragogy vs. Pedagogy vs. Heutagogy"
-  - "SDL as process vs. SDL as personal attribute"
-  - "Self-management vs. self-monitoring vs. motivational readiness"
-  - "Independent study vs. autonomous learning"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Self-Directed Learning vs. Self-Regulated Learning
+  - Andragogy vs. Pedagogy vs. Heutagogy
+  - SDL as process vs. SDL as personal attribute
+  - Self-management vs. self-monitoring vs. motivational readiness
+  - Independent study vs. autonomous learning
 prerequisites:
   - "[[Metacognition & Lifelong Learning]]"
   - "[[Schema-Theory|Schema Theory]]"
-
 related:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
@@ -143,90 +102,70 @@ related:
   - "[[Metacognition & Motivation]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Inquiry-Based Learning Design & Evidence]]"
-
 broader:
   - "[[Adult Education]]"
   - "[[Learning Sciences]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Learning-Contracts|Learning Contracts]]"
   - "[[Personal Learning Environments]]"
   - "[[Self-Directed-Learning-Readiness-Scale|Self-Directed Learning Readiness Scale]]"
   - "[[Heutagogy]]"
-
 see-also:
   - "[[Metacognition & Critical Thinking]]"
   - "[[Lifelong Learning]]"
   - "[[Andragogy]]"
   - "[[Transformative Learning]]"
   - "[[Online Learning Design]]"
-
 contrasts-with:
   - "[[Directed Instruction]]"
   - "[[Behaviorist Learning Theory]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Online Learning Design]]"
   - "[[Professional Development]]"
   - "[[Higher Education Pedagogy]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Metacognition & Lifelong Learning]]"
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-
 enables:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Heutagogy]]"
   - "[[Personal Learning Environments]]"
   - "[[Inquiry-Based Learning Design & Evidence]]"
-
 expansion-topics:
-  - topic: "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
-    description: "SDL's closely related but conceptually distinct sibling — SRL focuses on the cognitive and metacognitive strategies learners deploy within instructional contexts, with rich empirical grounding in Zimmerman and Pintrich's work"
+  - topic: "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
+    description: SDL's closely related but conceptually distinct sibling — SRL focuses on the cognitive and metacognitive strategies learners deploy within instructional contexts, with rich empirical grounding in Zimmerman and Pintrich's work
     priority: high
   - topic: "[[Heutagogy]]"
-    description: "The theoretical extension of SDL toward full learner self-determination of competencies and learning pathways, with applications in capability development and digital learning environments"
+    description: The theoretical extension of SDL toward full learner self-determination of competencies and learning pathways, with applications in capability development and digital learning environments
     priority: high
   - topic: "[[Personal Learning Environments]]"
-    description: "The technological and organisational architectures through which SDL is enacted in digital contexts; connects SDL theory to contemporary learning technology design"
+    description: The technological and organisational architectures through which SDL is enacted in digital contexts; connects SDL theory to contemporary learning technology design
     priority: high
   - topic: "[[Andragogy]]"
-    description: "Knowles's broader theory of adult learning from which SDL emerges; a dedicated report would cover andragogical assumptions, critiques of their cultural specificity, and the andragogy-pedagogy debate"
+    description: Knowles's broader theory of adult learning from which SDL emerges; a dedicated report would cover andragogical assumptions, critiques of their cultural specificity, and the andragogy-pedagogy debate
     priority: medium
   - topic: "[[Transformative Learning]]"
-    description: "Mezirow's framework for deep shifts in frame of reference, which intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making"
+    description: Mezirow's framework for deep shifts in frame of reference, which intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making
     priority: medium
   - topic: "[[Learning-Contracts|Learning Contracts]]"
-    description: "The primary pedagogical tool for operationalising SDL in formal educational settings; deserves dedicated treatment of design, negotiation, and assessment practices"
+    description: The primary pedagogical tool for operationalising SDL in formal educational settings; deserves dedicated treatment of design, negotiation, and assessment practices
     priority: medium
   - topic: "[[Online Learning Design]]"
-    description: "The domain in which SDL theory has become most urgently relevant; a report examining how digital environments afford and constrain self-direction"
+    description: The domain in which SDL theory has become most urgently relevant; a report examining how digital environments afford and constrain self-direction
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Tough (1971) — adult learning projects research establishing empirical baseline for informal SDL"
-  - "Guglielmino (1977) — SDLRS validation studies across multiple populations"
-  - "Garrison (1997) — three-component model with empirical integration"
-  - "Knowles (1975, 1980) — foundational theoretical work with practice validation"
-
+  - Tough (1971) — adult learning projects research establishing empirical baseline for informal SDL
+  - Guglielmino (1977) — SDLRS validation studies across multiple populations
+  - Garrison (1997) — three-component model with empirical integration
+  - Knowles (1975, 1980) — foundational theoretical work with practice validation
 limitations-noted:
-  - "WEIRD-sample bias in readiness scale validation studies"
-  - "Conceptual conflation between SDL process and SDL trait across literature"
-  - "Limited causal evidence on SDL instructional interventions"
-  - "Cultural assumptions embedded in autonomy-centred models"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - WEIRD-sample bias in readiness scale validation studies
+  - Conceptual conflation between SDL process and SDL trait across literature
+  - Limited causal evidence on SDL instructional interventions
+  - Cultural assumptions embedded in autonomy-centred models
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -235,7 +174,6 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 29
   wiki-links: 44
@@ -244,18 +182,10 @@ document-features:
   lexicon-entries: 10
   references: 10
   expansion-topics: 7
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
 generation-date: 2026-03-11
@@ -280,7 +210,7 @@ This observation is the starting point for [[Self-Directed-Learning|Self-Directe
 
 This report provides a foundational treatment of [[Self-Directed-Learning|Self-Directed Learning]] as a theoretical construct and empirical research domain. It covers the field's conceptual architecture — the key definitional distinctions, the major theoretical frameworks, the mechanisms through which SDL operates, and its applications and limitations in practice. It does not provide a how-to guide for self-directed learners, nor does it attempt exhaustive coverage of every model or measurement instrument in the literature. Readers with background in educational psychology will find the theoretical landscape treatment most immediately useful; readers coming from instructional design will benefit most from Phases IV and V; readers new to the field should read linearly through Phases II and III before engaging the later material.
 
-This report is positioned within a broader network of PKB nodes. It connects most directly to [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] — a closely related but conceptually distinct construct — and to the [[Metacognition & Lifelong Learning]] node already in the knowledge base. Readers who have engaged those nodes will find SDL's unique emphasis on learner initiative and formal goal-setting to be an important complement to the cognitive process emphasis of SRL and the metacognitive monitoring emphasis of the metacognition cluster.
+This report is positioned within a broader network of PKB nodes. It connects most directly to [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] — a closely related but conceptually distinct construct — and to the [[Metacognition & Lifelong Learning]] node already in the knowledge base. Readers who have engaged those nodes will find SDL's unique emphasis on learner initiative and formal goal-setting to be an important complement to the cognitive process emphasis of SRL and the metacognitive monitoring emphasis of the metacognition cluster.
 
 ---
 
@@ -347,7 +277,7 @@ The SDL field is not dominated by a single framework. Five distinct models have 
 **Garrison's Three-Component Model** (1997) is arguably the most theoretically sophisticated and empirically grounded framework in the SDL literature. [[D. Randy Garrison]] proposed that SDL is best understood not as a single construct but as the product of three interacting components: *self-management* (the behavioural dimension — the learner's control of the external environment, including resources, schedules, and task execution), *self-monitoring* (the cognitive and metacognitive dimension — the learner's ongoing monitoring and regulation of their own cognitive processes and understanding), and *motivation* (the entering and task motivation that initiates and sustains learning activity). Garrison argued that all three components are necessary for genuine SDL: a learner who manages their external environment effectively but fails to monitor their own understanding is not genuinely self-directing; a learner who is highly motivated but does not self-manage externally will fail to execute. The model's integration of a motivational component is particularly important, as it connects SDL to the substantial literature on [[Self-Determination-Theory|Self-Determination Theory]] and [[Achievement-Goal-Theory|Achievement Goal Theory]] while grounding SDL in cognitive science through the self-monitoring dimension.
 
 > [!insight] **SDL and Self-Regulated Learning: A Critical Distinction**
-> Garrison's three-component model sits at the intersection of the SDL tradition and the [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) literature developed by [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
+> Garrison's three-component model sits at the intersection of the SDL tradition and the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) literature developed by [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
 
 **Heutagogy** (Hase & Kenyon, 2000, 2007) represents a provocative extension of the SDL tradition rather than a fully elaborated theory. Hase and Kenyon argue that the information-rich, complexity-dense environments of contemporary professional and social life require not merely self-directed learners who can pursue pre-specified goals autonomously, but *self-determined* learners who can define their own competencies, generate their own learning pathways, and demonstrate double-loop learning — the capacity to reflect on and revise not only their learning strategies but the assumptions and values underlying those strategies. The concept draws on [[Argyris-and-Schön|Argyris and Schön]]'s double-loop learning framework and on capability development theory. While the theoretical foundations of heutagogy are less developed than those of the SDL frameworks reviewed above, the concept has generated productive work in professional development, digital learning environments, and higher education contexts where the limits of competency-based prescription have become apparent.
 
@@ -413,7 +343,7 @@ Understanding SDL at the level of observable behaviour and theoretical construct
 
 [[Self-Directed-Learning|Self-Directed Learning]] theory has been applied most productively in three domains: adult and continuing professional education, online and distance learning design, and institutional reform efforts in higher education. The applications in each domain are genuinely distinct because the structural affordances and constraints are different.
 
-In **adult and continuing professional education**, the learning contract tradition represents the clearest operationalisation of SDL process theory. A [[Learning Contracts|learning contract]] is a negotiated agreement between learner and facilitator that specifies the learner's goals (what they will learn), the strategies and resources they will use, the evidence they will produce as documentation of learning, and the criteria by which that evidence will be evaluated. The contract externalises and makes visible the diagnostic and planning activities that natural SDL performs implicitly. It also creates a structure for iterative feedback and revision — the learner can renegotiate the contract as they learn more about their own needs and the domain. Knowles championed learning contracts as the primary pedagogical instrument for facilitating SDL in formal settings, and they remain widely used in professional development, portfolio-based assessment, and competency-based credentialing. The evidence for their effectiveness is broadly positive, though it is important to note that learning contracts work best when the facilitator genuinely participates in the negotiation rather than simply approving whatever the learner proposes, and when learners have sufficient domain knowledge to make realistic assessments of their own gaps.
+In **adult and continuing professional education**, the learning contract tradition represents the clearest operationalisation of SDL process theory. A [[Learning-Contracts|learning contract]] is a negotiated agreement between learner and facilitator that specifies the learner's goals (what they will learn), the strategies and resources they will use, the evidence they will produce as documentation of learning, and the criteria by which that evidence will be evaluated. The contract externalises and makes visible the diagnostic and planning activities that natural SDL performs implicitly. It also creates a structure for iterative feedback and revision — the learner can renegotiate the contract as they learn more about their own needs and the domain. Knowles championed learning contracts as the primary pedagogical instrument for facilitating SDL in formal settings, and they remain widely used in professional development, portfolio-based assessment, and competency-based credentialing. The evidence for their effectiveness is broadly positive, though it is important to note that learning contracts work best when the facilitator genuinely participates in the negotiation rather than simply approving whatever the learner proposes, and when learners have sufficient domain knowledge to make realistic assessments of their own gaps.
 
 In **online and distance learning design**, SDL theory has become practically indispensable because online learning environments structurally remove many of the external scaffolds that co-present teaching provides — the real-time feedback of a teacher noticing confusion, the social pressure of a learning group, the imposed temporal structure of a class meeting. Online learners must manage their own time, seek help proactively, monitor their own understanding without the continuous feedback loop of face-to-face interaction, and sustain motivation across extended periods of relatively isolated study. Research consistently finds that SDL readiness is a significant predictor of success in online learning, and that online course completions drop sharply among learners with low SDL readiness who have not received SDL support. The practical implication is that online learning designers cannot assume SDL readiness as a baseline; they must build in structured supports for learner self-management and self-monitoring while gradually transferring responsibility to the learner as readiness develops.
 
@@ -462,7 +392,7 @@ The connections to the [[Metacognition & Motivation]] and [[Achievement-Goal-The
 >
 > - **[[Metacognition & Lifelong Learning]]** — SDL's self-monitoring component is an enactment of metacognitive processes in the context of learner-organised learning. This node provides the cognitive architecture — monitoring, evaluation, and regulation — that SDL's Garrison model treats as one of its three necessary components. Together, the two nodes map the relationship between *how* metacognition works and *when* it becomes the learner's own responsibility to activate.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
 >
 > - **[[Feedback Design for Autonomy and Mastery]]** — SDL theory implies specific properties of effective feedback: it should be informational rather than evaluative, and it should support the learner's capacity for self-monitoring rather than substituting for it. The feedback design node operationalises these implications in concrete instructional terms.
 >
@@ -564,7 +494,7 @@ The connections to the [[Metacognition & Motivation]] and [[Achievement-Goal-The
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> > [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > > A dedicated Foundational Report on Self-Regulated Learning would treat the rich empirical literature on how learners regulate their cognitive processes *within* learning episodes — complementing SDL's focus on who controls the broader learning process. Coverage would include Zimmerman's cyclical model of SRL (forethought, performance, self-reflection), Pintrich's framework distinguishing cognitive, metacognitive, motivational, and behavioural regulation, and the extensive empirical literature on strategy instruction, goal setting, and feedback. This is the highest-priority expansion topic in the learner autonomy cluster because it provides the cognitive microfoundation that SDL's macro-level account requires. **Priority: High**
 >
 > > [!topic-idea] [[Heutagogy]]

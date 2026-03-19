@@ -60,7 +60,7 @@ SDT topics would generate extensive wiki-links:
 - [[Intrinsic Motivation]], [[Extrinsic Motivation]]
 - [[Autonomy]], [[Competence]], [[Relatedness]]
 - [[Internalization]], [[Integration]]
-- [[Controlled Motivation]], [[Autonomous Motivation]]
+- [[Controlled-Motivation]], [[Autonomous-Motivation]]
 - [[Amotivation]], [[Flow State]]
 - [[Goal Theory]], [[Achievement Motivation]]
 - [[Self-Efficacy]], [[Locus of Control]]
@@ -170,8 +170,8 @@ OIT is perhaps SDT's most sophisticated mini-theory, proposing a *continuum* of 
 - [[Introjected Regulation]] - ego-involvement and contingent self-worth
 - [[Identified Regulation]] - conscious valuing
 - [[Integrated Regulation]] - coherent self-organization
-- [[Autonomous Motivation]] - the functional category
-- [[Controlled Motivation]] - the contrasting category
+- [[Autonomous-Motivation]] - the functional category
+- [[Controlled-Motivation]] - the contrasting category
 - [[Amotivation]] - lack of intentionality
 - [[Self-Concordance]] - alignment with core values
 - [[Autonomy Supportive Parenting/Teaching]]
@@ -260,8 +260,8 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 **Prerequisite Knowledge**:
 - [[Self-Determination Theory Overview]]
 - [[Autonomy]] as psychological need
-- [[Intrinsic Motivation]] and [[Autonomous Motivation]]
-- [[Organismic Integration Theory]]
+- [[Intrinsic Motivation]] and [[Autonomous-Motivation]]
+- [[Organismic-Integration-Theory]]
 **Research Starting Points**:
 - Reeve (2009) "Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive"
 - Joussemet, Landry & Koestner (2008) "A self-determination theory perspective on parenting"
@@ -287,9 +287,9 @@ Autonomy-supportive contexts function like good coaching in sports—the coach p
 3. **[[Self-Concordance Theory and Goal Striving]]**
    - *Connection*: Developed by Sheldon and Elliot from SDT principles, this theory focuses on *why* people pursue their personal goals (autonomous vs. controlled reasons), predicting that self-concordant goal pursuit leads to greater effort, attainment, and well-being.
    - *Depth Potential*: Longitudinal research designs, mediation analyses, integration with goal-setting theory, and practical applications in coaching and therapeutic contexts.
-   - *Knowledge Graph Role*: Bridges SDT's [[Organismic Integration Theory]] with goal theory, self-regulation research, and [[Personal Strivings]] literature.
+   - *Knowledge Graph Role*: Bridges SDT's [[Organismic-Integration-Theory]] with goal theory, self-regulation research, and [[Personal Strivings]] literature.
 
 4. **[[Need Thwarting versus Need Frustration in SDT]]**
    - *Connection*: Beyond mere lack of need satisfaction, SDT distinguishes active *frustration* (blocked needs) from *thwarting* (actively undermined needs through hostile, rejecting, controlling contexts), with the latter predicting dark outcomes like aggression, psychopathology, and ill-being.
    - *Depth Potential*: Emerging research area with implications for understanding psychopathology, defensive processes, compensatory behaviors, dark personality traits, and "dark side" of motivation.
-   - *Knowledge Graph Role*: Connects SDT to clinical psychology, psychopathology, [[Defensive Processes]], [[Contingent Self-Worth]], and [[Ego-Involvement]] while completing the positive-to-negative continuum of need experiences.
+   - *Knowledge Graph Role*: Connects SDT to clinical psychology, psychopathology, [[Defensive Processes]], [[Contingent-Self-Worth]], and [[Ego-Involvement]] while completing the positive-to-negative continuum of need experiences.

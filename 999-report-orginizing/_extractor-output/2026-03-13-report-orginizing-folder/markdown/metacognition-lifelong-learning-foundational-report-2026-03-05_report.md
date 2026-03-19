@@ -473,7 +473,7 @@ extraction_summary:
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[spaced practice]]
 - [[study time allocation]]
 - [[variation practice]]
@@ -623,7 +623,7 @@ extraction_summary:
 - [[reciprocal teaching]]
 - [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[spaced practice]]
 - [[study time allocation]]
 - [[variation practice]]
@@ -638,7 +638,7 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Deliberate Practice]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]

@@ -1,19 +1,12 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Metacognition and Critical Thinking: Foundations, Intersections, and Pedagogical Design"
 aliases:
-  - "Metacognition & Critical Thinking"
-  - "MCT Foundational Report"
-  - "Thinking About Thinking — Critical Reasoning"
+  - Metacognition & Critical Thinking
+  - MCT Foundational Report
+  - Thinking About Thinking — Critical Reasoning
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -32,7 +25,6 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
 domain: cognitive-psychology
 subdomains:
   - metacognition
@@ -40,173 +32,129 @@ subdomains:
   - pedagogical-design
   - instructional-scaffolding
   - reflective-learning
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-05
 updated: 2026-03-05
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies-and-theoretical-analysis
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Flavell's Metacognitive Model"
-    description: "Tripartite model distinguishing metacognitive knowledge, experience, and regulation"
-    developers: "John H. Flavell (1979)"
-    validation: "highly validated — foundational across cognitive and educational psychology"
-  - name: "Paul-Elder Critical Thinking Framework"
-    description: "Intellectual standards applied to elements of reasoning for quality-controlled thought"
-    developers: "Richard Paul & Linda Elder (1990s–present)"
-    validation: "widely adopted in higher education and professional development"
-  - name: "Schön's Reflective Practice"
-    description: "Distinction between reflection-in-action and reflection-on-action as mechanisms of professional learning"
-    developers: "Donald Schön (1983)"
-    validation: "well-validated in professional education and teacher development research"
-  - name: "Bloom's Taxonomy (Revised)"
-    description: "Hierarchical model of cognitive objectives; upper tiers map directly to critical thinking"
-    developers: "Benjamin Bloom (1956); Anderson & Krathwohl revision (2001)"
-    validation: "highly validated — ubiquitous in curriculum design and assessment"
-
+  - name: Flavell's Metacognitive Model
+    description: Tripartite model distinguishing metacognitive knowledge, experience, and regulation
+    developers: John H. Flavell (1979)
+    validation: highly validated — foundational across cognitive and educational psychology
+  - name: Paul-Elder Critical Thinking Framework
+    description: Intellectual standards applied to elements of reasoning for quality-controlled thought
+    developers: Richard Paul & Linda Elder (1990s–present)
+    validation: widely adopted in higher education and professional development
+  - name: Schön's Reflective Practice
+    description: Distinction between reflection-in-action and reflection-on-action as mechanisms of professional learning
+    developers: Donald Schön (1983)
+    validation: well-validated in professional education and teacher development research
+  - name: Bloom's Taxonomy (Revised)
+    description: Hierarchical model of cognitive objectives; upper tiers map directly to critical thinking
+    developers: Benjamin Bloom (1956); Anderson & Krathwohl revision (2001)
+    validation: highly validated — ubiquitous in curriculum design and assessment
 key-researchers:
-  - "John H. Flavell"
-  - "Ann Brown"
-  - "Richard Paul"
-  - "Linda Elder"
-  - "Donald Schön"
-  - "John Dewey"
-  - "Lev Vygotsky"
-  - "Robert Sternberg"
-  - "Patricia King & Karen Kitchener"
-  - "Keith Stanovich"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+  - John H. Flavell
+  - Ann Brown
+  - Richard Paul
+  - Linda Elder
+  - Donald Schön
+  - John Dewey
+  - Lev Vygotsky
+  - Robert Sternberg
+  - Patricia King & Karen Kitchener
+  - Keith Stanovich
 word-count: ~7500
 complexity-level: intermediate-to-advanced-practitioner
-target-audience: "Educators, learning designers, cognitive scientists, and reflective practitioners seeking to integrate metacognitive and critical thinking development into educational contexts"
+target-audience: Educators, learning designers, cognitive scientists, and reflective practitioners seeking to integrate metacognitive and critical thinking development into educational contexts
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Metacognitive knowledge (declarative, procedural, conditional)"
-  - "Metacognitive regulation (planning, monitoring, evaluation)"
-  - "Critical thinking as disciplined self-correcting inquiry"
-  - "Reflective judgment and epistemic cognition"
-  - "Metacognitive scaffolding in instructional design"
-  - "Transfer of metacognitive strategies across domains"
-  - "Intellectual standards as evaluative criteria"
-
+  - Metacognitive knowledge (declarative, procedural, conditional)
+  - Metacognitive regulation (planning, monitoring, evaluation)
+  - Critical thinking as disciplined self-correcting inquiry
+  - Reflective judgment and epistemic cognition
+  - Metacognitive scaffolding in instructional design
+  - Transfer of metacognitive strategies across domains
+  - Intellectual standards as evaluative criteria
 key-distinctions:
-  - "Metacognition vs. cognition — thinking about thinking vs. thinking itself"
-  - "Critical thinking vs. creative thinking — evaluative vs. generative reasoning"
-  - "Metacognitive knowledge vs. metacognitive regulation — knowing vs. doing"
-  - "Reflection-in-action vs. reflection-on-action (Schön)"
-  - "First-order thinking vs. second-order thinking (thinking about one's thinking process)"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Metacognition vs. cognition — thinking about thinking vs. thinking itself
+  - Critical thinking vs. creative thinking — evaluative vs. generative reasoning
+  - Metacognitive knowledge vs. metacognitive regulation — knowing vs. doing
+  - Reflection-in-action vs. reflection-on-action (Schön)
+  - First-order thinking vs. second-order thinking (thinking about one's thinking process)
 prerequisites:
   - "[[Cognitive Psychology Fundamentals]]"
   - "[[Learning Theory Overview]]"
   - "[[Philosophy of Knowledge (Epistemology)]]"
-
 related:
   - "[[Executive Function]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Bloom's Taxonomy]]"
   - "[[Reflective-Practice|Reflective Practice]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Epistemic-Cognition|Epistemic Cognition]]"
-
 broader:
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Critical Thinking Dispositions]]"
   - "[[Argumentation-Theory|Argumentation Theory]]"
   - "[[Reflective Judgment Model]]"
-
 see-also:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Intellectual-Humility|Intellectual Humility]]"
   - "[[Dunning-Kruger-Effect|Dunning-Kruger Effect]]"
-
 contrasts-with:
   - "[[Rote Learning]]"
   - "[[Surface Approaches to Learning]]"
   - "[[Algorithmic Problem Solving]]"
-
 applied-in:
   - "[[Higher Education Pedagogy]]"
   - "[[Professional Development]]"
   - "[[K-12 Curriculum Design]]"
   - "[[Clinical Reasoning Training]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Piaget's Constructivism]]"
   - "[[Vygotsky's Zone of Proximal Development]]"
   - "[[Information Processing Theory]]"
-
 enables:
   - "[[Advanced Argumentation and Dialectic]]"
   - "[[Evidence-Based Professional Practice]]"
   - "[[Research Methodology and Epistemology]]"
-
 expansion-topics:
   - topic: "[[Metacognitive Scaffolding Design Patterns]]"
-    description: "Detailed instructional design patterns for embedding metacognitive prompts, think-aloud protocols, and self-assessment tools into courses"
+    description: Detailed instructional design patterns for embedding metacognitive prompts, think-aloud protocols, and self-assessment tools into courses
     priority: high
   - topic: "[[Critical Thinking Assessment and Measurement]]"
-    description: "Psychometric instruments (Watson-Glaser, Halpern, CLA+), their validity, and practical rubrics for classroom use"
+    description: Psychometric instruments (Watson-Glaser, Halpern, CLA+), their validity, and practical rubrics for classroom use
     priority: high
   - topic: "[[Epistemic Cognition and Reflective Judgment]]"
-    description: "King and Kitchener's model of how individuals reason about ill-structured problems across developmental stages"
+    description: King and Kitchener's model of how individuals reason about ill-structured problems across developmental stages
     priority: medium
   - topic: "[[Intellectual Virtues and Disposition Theory]]"
-    description: "Virtue epistemology applied to education — cultivating intellectual humility, open-mindedness, and epistemic courage"
+    description: Virtue epistemology applied to education — cultivating intellectual humility, open-mindedness, and epistemic courage
     priority: medium
   - topic: "[[Socratic Questioning Techniques in Education]]"
-    description: "The structure, taxonomy, and evidence base for Socratic questioning as a pedagogical method for developing critical thought"
+    description: The structure, taxonomy, and evidence base for Socratic questioning as a pedagogical method for developing critical thought
     priority: high
   - topic: "[[Transfer of Learning Across Domains]]"
-    description: "The conditions under which metacognitive and critical thinking skills transfer to novel domains, and the design principles that promote transfer"
+    description: The conditions under which metacognitive and critical thinking skills transfer to novel domains, and the design principles that promote transfer
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Flavell's foundational empirical work on children's memory monitoring (1971–1979)"
-  - "Brown's research on metacognition and learning disabilities (1980s)"
-  - "Hattie's meta-analysis showing metacognitive strategies as among the highest-effect educational interventions (d=0.69)"
-  - "Facione's Delphi study establishing the consensus definition of critical thinking (1990)"
-  - "King & Kitchener's longitudinal studies of reflective judgment development"
-
+  - Flavell's foundational empirical work on children's memory monitoring (1971–1979)
+  - Brown's research on metacognition and learning disabilities (1980s)
+  - Hattie's meta-analysis showing metacognitive strategies as among the highest-effect educational interventions (d=0.69)
+  - Facione's Delphi study establishing the consensus definition of critical thinking (1990)
+  - King & Kitchener's longitudinal studies of reflective judgment development
 limitations-noted:
-  - "Difficulty of directly measuring metacognition — most instruments rely on self-report, which is itself a metacognitive act subject to bias"
-  - "Debate over whether critical thinking is a general skill or inherently domain-specific"
-  - "Transfer of metacognitive strategies is not automatic — context, instruction, and motivation all mediate it"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Difficulty of directly measuring metacognition — most instruments rely on self-report, which is itself a metacognitive act subject to bias
+  - Debate over whether critical thinking is a general skill or inherently domain-specific
+  - Transfer of metacognitive strategies is not automatic — context, instruction, and motivation all mediate it
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -215,24 +163,15 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 22
   wiki-links: 38
   reflective-questions: 14
   active-reading-prompts: 6
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
 generation-date: 2026-03-05
@@ -412,7 +351,7 @@ The translation of metacognitive and critical thinking theory into effective ins
 > [!best-practice] **The Role of Ill-Structured Problems**
 > [[King and Kitchener]]'s research on reflective judgment development suggests that genuine critical thinking development requires sustained engagement with *ill-structured problems* — problems where the evidence is incomplete, where experts disagree, and where multiple reasonable positions are defensible. Well-structured problems with clear correct answers can be solved by algorithm; ill-structured problems require the full apparatus of metacognitive monitoring and critical evaluation. Curricula that consist primarily of well-structured problems, however, fail to develop this capacity — producing students who can perform within the known structure but are disoriented by genuine intellectual complexity.
 
-**Principle 4: Make metacognitive knowledge explicit.** Students benefit from being taught *about* metacognition, not only from having metacognitive experiences. Explicitly teaching the Flavell framework — the distinction between person, task, and strategy knowledge; the concept of metacognitive monitoring; the idea that comprehension monitoring is a learnable skill — gives students a conceptual vocabulary for their own cognitive experiences. Research on [[Self-Regulated-Learning-—-SRL|self-regulated learning]] consistently shows that students who have accurate and sophisticated models of their own learning are significantly more effective learners than those who do not, independent of intelligence or prior achievement.
+**Principle 4: Make metacognitive knowledge explicit.** Students benefit from being taught *about* metacognition, not only from having metacognitive experiences. Explicitly teaching the Flavell framework — the distinction between person, task, and strategy knowledge; the concept of metacognitive monitoring; the idea that comprehension monitoring is a learnable skill — gives students a conceptual vocabulary for their own cognitive experiences. Research on [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]] consistently shows that students who have accurate and sophisticated models of their own learning are significantly more effective learners than those who do not, independent of intelligence or prior achievement.
 
 **Principle 5: Design for transfer, not performance.** The most insidious failure mode in critical thinking instruction is the production of students who can perform critical analysis on the specific text types, argument forms, and domains in which they were trained, but who cannot transfer this capacity to novel contexts. Transfer requires that learners extract the *principles* underlying their critical thinking practice, not merely its surface form. This requires explicit attention to the structure of reasoning across multiple domains, discussion of why certain evaluative standards apply across contexts, and practice with genuinely diverse argument forms, evidence types, and problem domains.
 
@@ -466,7 +405,7 @@ The most important open questions at the intersection of metacognition and criti
 >
 > - **[[Extended Thinking Architecture]]** — The computational implementation of metacognitive scaffolding in AI systems mirrors, in fascinating ways, the psychological literature on human metacognition. The `<thinking>` tag architecture in Claude creates a structural analog to the meta-level/object-level distinction that is foundational in Flavell's model. Where human metacognition involves second-order awareness of one's cognitive processes, extended thinking creates a distinct processing context for reasoning *about* reasoning before generating outputs. The pedagogical principle of making thinking visible has a direct computational parallel in the architectural decision to externalize internal deliberation.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
 >
 > - **[[Reflective-Practice|Reflective Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
 >

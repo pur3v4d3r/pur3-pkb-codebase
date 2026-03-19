@@ -149,7 +149,7 @@ extraction_summary:
 #### 6. [ANALOGY] Untitled *(Line 74)*
 
 > [!analogy] Untitled
-> **The Library Metaphor Reconsidered:** Traditional PKB design resembles a library optimized for storage and classification—but human cognition doesn't work like library retrieval. It functions more like a [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] ecosystem where ideas activate related concepts through spreading activation, with [[Retrieval Structures]] enabling access through multiple associative pathways rather than single hierarchical addresses.
+> **The Library Metaphor Reconsidered:** Traditional PKB design resembles a library optimized for storage and classification—but human cognition doesn't work like library retrieval. It functions more like a [[Networked Thought]] ecosystem where ideas activate related concepts through spreading activation, with [[Retrieval Structures]] enabling access through multiple associative pathways rather than single hierarchical addresses.
 
 #### 7. [THE-PHILOSOPHY] Untitled *(Line 85)*
 
@@ -244,8 +244,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Networked Thought]]
+- [[Personal Knowledge Management]]
 - [[Access-Control-Select]]
 - [[Andragogy]]
 - [[Associationism]]
@@ -325,7 +325,7 @@ extraction_summary:
 - [[Self-Control Strategies]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation Theory]]
 - [[Signal Detection Theory]]
 - [[Spaced Repetition Systems in PKM]]
@@ -355,7 +355,7 @@ extraction_summary:
 | 7 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Document Start | 45 |
 | 8 | [[Metacognitive]] | — | — | Document Start | 45 |
 | 9 | [[Information-Architecture|Information Architecture]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
-| 10 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
+| 10 | [[Personal Knowledge Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 54 |
 | 11 | [[Personal Information Management]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 12 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🧠 The Psychological Foundation: Why M... | 56 |
 | 13 | [[Metacognition]] | metacognitive | — | 🧠 The Psychological Foundation: Why M... | 56 |
@@ -379,7 +379,7 @@ extraction_summary:
 | 31 | [[Working-Memory|Working Memory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
 | 32 | [[Long-Term-Memory|Long-Term Memory]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
 | 33 | [[Schemas]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 72 |
-| 34 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 75 |
+| 34 | [[Networked Thought]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 75 |
 | 35 | [[Retrieval Structures]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 75 |
 | 36 | [[Wiki-Links]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 77 |
 | 37 | [[Metadata]] | — | — | ⚙️ Cognitive Load Management: The Pri... | 77 |
@@ -484,7 +484,7 @@ extraction_summary:
 | 136 | [[Information Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 137 | [[Library Science]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 138 | [[Knowledge-Management|Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
-| 139 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
+| 139 | [[Networked Thought]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 140 | [[Extended Mind]] | — | — | 🌐 Integration: The Forty Concepts as ... | 258 |
 | 141 | [[Information-Architecture|Information Architecture]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
 | 142 | [[System Building]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
@@ -495,7 +495,7 @@ extraction_summary:
 | 147 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
 | 148 | [[Signal Detection Theory]] | — | — | 🌐 Integration: The Forty Concepts as ... | 262 |
 | 149 | [[Psychological Resilience]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
-| 150 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
+| 150 | [[Personal Knowledge Management]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
 | 151 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 🌐 Integration: The Forty Concepts as ... | 266 |
 | 152 | [[Educational Neuroscience]] | — | — | Neuroscience-Informed Design | 278 |
 | 153 | [[Cognitive-Load|Cognitive Load]] | — | — | Neuroscience-Informed Design | 278 |
@@ -619,8 +619,8 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
+- [[Networked Thought]]
+- [[Personal Knowledge Management]]
 - [[Access-Control-Select]]
 - [[Andragogy]]
 - [[Associationism]]
@@ -700,7 +700,7 @@ The user has provided 40+ concepts that are already formatted as wiki-links. I n
 - [[Self-Control Strategies]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulation Theory]]
 - [[Signal Detection Theory]]
 - [[Spaced Repetition Systems in PKM]]

@@ -20,7 +20,7 @@ quarter: "[[2025-Q4]]"
 year: "[[2025]]"
 type: cog-psy/report
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
 ---
 #  Methodological Analysis of Personal Knowledge Management Practices as Applied Frameworks for Metacognition,

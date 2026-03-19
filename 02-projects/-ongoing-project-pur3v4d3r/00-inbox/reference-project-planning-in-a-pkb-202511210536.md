@@ -47,7 +47,7 @@ aliases: [Project Planning Framework, Obsidian Project System, PKB Project Manag
 
 > [!abstract]
 > **Executive Overview**
-> This reference note establishes a comprehensive, plugin-integrated project planning system within your Obsidian PKB. It synthesizes [[Self-Regulated Learning]] principles, [[GTD methodology]], and your complete plugin stack (Dataview, Templater, QuickAdd, Meta Bind, Tasks, Day Planner, Charts, Kanban, and supporting tools) into a unified workflow. The framework transforms project planning from scattered task lists into a systematic, automated, cognitively optimized process that reduces [[Cognitive Load]] while maximizing project success rates.
+> This reference note establishes a comprehensive, plugin-integrated project planning system within your Obsidian PKB. It synthesizes [[Self-Regulated Learning]] principles, [[GTD methodology]], and your complete plugin stack (Dataview, Templater, QuickAdd, Meta Bind, Tasks, Day Planner, Charts, Kanban, and supporting tools) into a unified workflow. The framework transforms project planning from scattered task lists into a systematic, automated, cognitively optimized process that reduces [[Cognitive-Load]] while maximizing project success rates.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -289,7 +289,7 @@ Effective project planning addresses three cognitive domains simultaneously:
 # 📐 The SRL Project Planning Framework
 
 > [!definition]
-> - **Self-Regulated Learning (SRL)**:: A [[Metacognitive]] framework for managing complex learning or performance tasks through three phases: Forethought (planning), Performance (execution + monitoring), and Self-Reflection (evaluation). Originally developed by [[Barry Zimmerman]] for educational contexts, SRL maps perfectly to project management.
+> - **Self-Regulated Learning (SRL)**:: A [[Metacognitive]] framework for managing complex learning or performance tasks through three phases: Forethought (planning), Performance (execution + monitoring), and Self-Reflection (evaluation). Originally developed by [[Barry-Zimmerman]] for educational contexts, SRL maps perfectly to project management.
 
 ## The Three-Phase Cycle
 

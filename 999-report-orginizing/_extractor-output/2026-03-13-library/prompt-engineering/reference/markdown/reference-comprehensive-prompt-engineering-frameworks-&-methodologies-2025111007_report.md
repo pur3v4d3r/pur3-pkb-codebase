@@ -581,7 +581,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
+- [[Knowledge Management]]
 - [[5C Framework]]
 - [[AI Communication Architecture]]
 - [[AI systems]]
@@ -699,7 +699,7 @@ extraction_summary:
 | 28 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Theoretical Models of Interaction | 95 |
 | 29 | [[Information-Architecture|Information Architecture]] | — | — | Theoretical Models of Interaction | 97 |
 | 30 | [[Library Science]] | — | — | Theoretical Models of Interaction | 97 |
-| 31 | [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] | — | — | Theoretical Models of Interaction | 97 |
+| 31 | [[Knowledge Management]] | — | — | Theoretical Models of Interaction | 97 |
 | 32 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Theoretical Models of Interaction | 99 |
 | 33 | [[attention mechanisms]] | — | — | Theoretical Models of Interaction | 103 |
 | 34 | [[Tokenization]] | — | — | Theoretical Models of Interaction | 103 |
@@ -1043,7 +1043,7 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
+- [[Knowledge Management]]
 - [[5C Framework]]
 - [[AI Communication Architecture]]
 - [[AI systems]]

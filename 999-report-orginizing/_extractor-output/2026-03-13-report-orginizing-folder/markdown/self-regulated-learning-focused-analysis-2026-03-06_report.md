@@ -555,7 +555,7 @@ extraction_summary:
 - [[Self-Efficacy Calibration — The Optimal Confidence Zone]]
 - [[Self-Monitoring]]
 - [[Self-Reflection-Phase|Self-Reflection Phase]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Task Value]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
@@ -654,7 +654,7 @@ extraction_summary:
 - [[Self-Efficacy Calibration — The Optimal Confidence Zone]]
 - [[Self-Monitoring]]
 - [[Self-Reflection-Phase|Self-Reflection Phase]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Task Value]]
 - [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 

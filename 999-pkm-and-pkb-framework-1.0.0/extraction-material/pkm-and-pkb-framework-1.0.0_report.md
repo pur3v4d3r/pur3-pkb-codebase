@@ -1173,10 +1173,10 @@ extraction_summary:
 
 - [[ADDIE]]
 - [[AI-Assisted Learning]]
-- [[Academic Emotions]]
+- [[Academic-Emotions]]
 - [[Academic Report Generator]]
 - [[Academic Research]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory]]
 - [[Active Reading Pedagogy]]
 - [[Adaptive Learning Systems]]
 - [[Advanced Reasoning Techniques]]
@@ -1189,9 +1189,9 @@ extraction_summary:
 - [[Aporia]]
 - [[Applied Epistemology]]
 - [[Argument Analysis]]
-- [[Argument Mapping]]
+- [[Argument-Mapping]]
 - [[Argumentation Theory]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic]]
 - [[Basic Argument Analysis]]
 - [[Bayesian Reasoning]]
 - [[Calibration]]
@@ -1216,46 +1216,46 @@ extraction_summary:
 - [[Concept X]]
 - [[Concept Y]]
 - [[Concept Z]]
-- [[Conceptual Change]]
+- [[Conceptual-Change]]
 - [[Confirmation Bias]]
 - [[Constructivism]]
-- [[Constructivist Knowledge]]
+- [[Constructivist-Knowledge]]
 - [[Constructivist Learning Environments]]
-- [[Constructivist Struggle]]
+- [[Constructivist-Struggle]]
 - [[Critical Pedagogy]]
 - [[Critical Thinking]]
-- [[Critical Thinking Ethics]]
+- [[Critical-Thinking-Ethics]]
 - [[Death, Mortality, and the Stoic Practice of Memento Mori]]
 - [[Debiasing Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
 - [[Decision Making Under Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties]]
 - [[Dewey's Inquiry Model]]
-- [[Dewey's Reflective Inquiry]]
+- [[Dewey's-Reflective-Inquiry]]
 - [[Dichotomy of Control]]
 - [[Domain-Specific Critical Thinking]]
 - [[Domain-Specific Critical Thinking Standards]]
 - [[Dreyfus's Skill Model]]
 - [[Dual Process Theory]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory]]
 - [[Dual-Process-Thinking-Model]]
 - [[Dunning-Kruger research]]
-- [[Educational Philosophy]]
+- [[Educational-Philosophy]]
 - [[Educational Psychology]]
 - [[Educational Technology]]
-- [[Elaboration Theory]]
-- [[Elaborative Interrogation]]
-- [[Elaborative Retrieval]]
+- [[Elaboration-Theory]]
+- [[Elaborative-Interrogation]]
+- [[Elaborative-Retrieval]]
 - [[Elenchus]]
-- [[Embodied Cognition]]
-- [[Encoding Specificity]]
-- [[Encoding Variability]]
+- [[Embodied-Cognition]]
+- [[Encoding-Specificity]]
+- [[Encoding-Variability]]
 - [[Engagement Design]]
-- [[Epistemic Humility]]
+- [[Epistemic-Humility]]
 - [[Epistemic Humility and Intellectual Virtue]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
 - [[Epistemology]]
@@ -1276,7 +1276,7 @@ extraction_summary:
 - [[Foundational Report: Topic]]
 - [[Framework Name]]
 - [[Full Concept Name]]
-- [[Generation Effect]]
+- [[Generation-Effect]]
 - [[Graph Theory]]
 - [[Habit Formation]]
 - [[Heuristic-Based Decision Making]]
@@ -1285,24 +1285,24 @@ extraction_summary:
 - [[Inductive Reasoning Strategies]]
 - [[Information Processing Models]]
 - [[Instructional Design]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility]]
 - [[Interconnected Knowledge]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory]]
 - [[Interleaving]]
 - [[Introduction to Critical Thinking]]
 - [[Intuitive Judgment]]
 - [[Iterative Design]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning]]
 - [[Knowledge Graph Integration]]
-- [[Knowledge Integration]]
+- [[Knowledge-Integration]]
 - [[Knowledge Management]]
 - [[Knowledge Organization]]
-- [[Knowledge Organization Systems]]
-- [[Kolb's Experiential Learning Cycle]]
-- [[Learned Helplessness]]
+- [[Knowledge-Organization-Systems]]
+- [[Kolb's-Experiential-Learning-Cycle]]
+- [[Learned-Helplessness]]
 - [[Learner Journey Mapping]]
-- [[Learning Analytics]]
-- [[Learning Experience Design]]
+- [[Learning-Analytics]]
+- [[Learning-Experience-Design]]
 - [[Lifelong Learning]]
 - [[Logical Reasoning Foundations]]
 - [[Lower-Level Concept]]
@@ -1338,12 +1338,12 @@ extraction_summary:
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
 - [[Pragmatism]]
-- [[Pragmatist Epistemology]]
-- [[Pragmatist Truth]]
+- [[Pragmatist-Epistemology]]
+- [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]
 - [[Prediction-Based Learning]]
 - [[Predictive Reading Framework]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
 - [[Problem Solving in Complex Domains]]
@@ -1354,7 +1354,7 @@ extraction_summary:
 - [[Rationality Studies]]
 - [[ReAct-Framework]]
 - [[Red Team Thinking]]
-- [[Reflective Inquiry]]
+- [[Reflective-Inquiry]]
 - [[Reflective Judgment Model]]
 - [[Reflective Thinking]]
 - [[Related Concept 1]]
@@ -1367,10 +1367,10 @@ extraction_summary:
 - [[Report Generator - Foundational]]
 - [[Report N: Title]]
 - [[Researcher Name]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation]]
 - [[SDT]]
-- [[SECI Model]]
-- [[Schema Construction]]
+- [[SECI-Model]]
+- [[Schema-Construction]]
 - [[Schema Theory]]
 - [[Scientific Reasoning]]
 - [[Self-Consistency]]
@@ -1378,18 +1378,18 @@ extraction_summary:
 - [[Self-Explanation]]
 - [[Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
-- [[Situated Cognition]]
-- [[Socratic Dialectic]]
+- [[Situated-Cognition]]
+- [[Socratic-Dialectic]]
 - [[Socratic Dialogue Report Prompt]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance]]
 - [[Socratic Knowing]]
 - [[Socratic Method]]
 - [[Socratic Philosophy]]
 - [[Socratic Questioning]]
 - [[Spaced Repetition]]
-- [[Spacing Effect]]
+- [[Spacing-Effect]]
 - [[Stoic Discipline]]
-- [[Stoic Ethics]]
+- [[Stoic-Ethics]]
 - [[Stoic Ethics in Professional Life]]
 - [[Stoic Philosophy]]
 - [[Stoic Wisdom]]
@@ -1398,7 +1398,7 @@ extraction_summary:
 - [[Stoicism, Social Justice, and Political Engagement]]
 - [[Strategic Planning]]
 - [[Structural Encoding Techniques]]
-- [[Testing Effect]]
+- [[Testing-Effect]]
 - [[Theory B]]
 - [[Theory W]]
 - [[Theory X]]
@@ -1406,7 +1406,7 @@ extraction_summary:
 - [[Topic]]
 - [[Topic X]]
 - [[Transfer]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
 - [[Tree-of-Thoughts]]
 - [[UX for Learning]]
@@ -1414,7 +1414,7 @@ extraction_summary:
 - [[Virtue Ethics]]
 - [[Working Memory]]
 - [[Working Memory and Executive Function]]
-- [[Writing to Learn]]
+- [[Writing-to-Learn]]
 - [[Zone of Proximal Development]]
 - [[double-bracket]]
 - [[wiki-link]]
@@ -1455,104 +1455,104 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Schema Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
-| 2 | [[Knowledge Organization Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
+| 2 | [[Knowledge-Organization-Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
 | 3 | [[Constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 65 |
 | 4 | [[Cognitive Load Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 5 | [[Working Memory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 6 | [[Instructional Design]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 71 |
 | 7 | [[Constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
-| 8 | [[Elaboration Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
+| 8 | [[Elaboration-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
 | 9 | [[Schema Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 77 |
 | 10 | [[Metacognition]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 11 | [[Self-Regulated Learning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 12 | [[Reflective Thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 83 |
 | 13 | [[Self-Determination Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
-| 14 | [[Achievement Goal Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
+| 14 | [[Achievement-Goal-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
 | 15 | [[Mindset Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 89 |
-| 16 | [[Spacing Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
-| 17 | [[Testing Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 16 | [[Spacing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 17 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 18 | [[Interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
-| 19 | [[Desirable Difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
-| 20 | [[Encoding Specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 19 | [[Desirable-Difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
+| 20 | [[Encoding-Specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 95 |
 | 21 | [[Critical Thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
 | 22 | [[Socratic Questioning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
-| 23 | [[Epistemic Vigilance]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
+| 23 | [[Epistemic-Vigilance]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
 | 24 | [[Causal Reasoning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 101 |
-| 25 | [[Dewey's Reflective Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
-| 26 | [[Kolb's Experiential Learning Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
-| 27 | [[Pragmatist Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
+| 25 | [[Dewey's-Reflective-Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
+| 26 | [[Kolb's-Experiential-Learning-Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
+| 27 | [[Pragmatist-Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 107 |
 | 28 | [[Pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 29 | [[Andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 30 | [[Heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
 | 31 | [[Cognitive Load Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 124 |
-| 32 | [[Transfer of Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
-| 33 | [[Situated Cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
-| 34 | [[Encoding Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
+| 32 | [[Transfer-of-Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
+| 33 | [[Situated-Cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
+| 34 | [[Encoding-Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 129 |
 | 35 | [[Self-Regulated Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 134 |
 | 36 | [[Metacognitive Monitoring]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 134 |
-| 37 | [[Reflective Inquiry]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 134 |
+| 37 | [[Reflective-Inquiry]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 134 |
 | 38 | [[Stoic Philosophy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
 | 39 | [[Self-Determination Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
-| 40 | [[Academic Emotions]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
-| 41 | [[Learned Helplessness]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
+| 40 | [[Academic-Emotions]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
+| 41 | [[Learned-Helplessness]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 139 |
 | 42 | [[Socratic Questioning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 144 |
 | 43 | [[Dewey's Inquiry Model]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 144 |
 | 44 | [[Constructivist Learning Environments]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 144 |
-| 45 | [[Knowledge Organization Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 149 |
-| 46 | [[Desirable Difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
-| 47 | [[Generation Effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
+| 45 | [[Knowledge-Organization-Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 149 |
+| 46 | [[Desirable-Difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
+| 47 | [[Generation-Effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
 | 48 | [[Interleaving]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
-| 49 | [[Constructivist Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
-| 50 | [[Writing to Learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
-| 51 | [[Elaborative Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 49 | [[Constructivist-Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 154 |
+| 50 | [[Writing-to-Learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 51 | [[Elaborative-Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
 | 52 | [[Self-Explanation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
-| 53 | [[Schema Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
+| 53 | [[Schema-Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 159 |
 | 54 | [[Metacognitive Calibration]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
 | 55 | [[Dunning-Kruger research]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
-| 56 | [[Socratic Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
-| 57 | [[Epistemic Humility]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
+| 56 | [[Socratic-Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
+| 57 | [[Epistemic-Humility]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 164 |
 | 58 | [[SDT]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 175 |
 | 59 | [[Stoic Discipline]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 175 |
 | 60 | [[Habit Formation]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 175 |
-| 61 | [[Interest Development Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 175 |
-| 62 | [[Testing Effect]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
+| 61 | [[Interest-Development-Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 175 |
+| 62 | [[Testing-Effect]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
 | 63 | [[Spaced Repetition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
-| 64 | [[Elaborative Retrieval]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
+| 64 | [[Elaborative-Retrieval]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
 | 65 | [[Network Models of Memory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 179 |
-| 66 | [[Socratic Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
+| 66 | [[Socratic-Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 67 | [[Argumentation Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 68 | [[Thesis-Antithesis-Synthesis]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 69 | [[Cognitive Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 183 |
 | 70 | [[Polanyi's Tacit Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
 | 71 | [[Nonaka's SECI Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
-| 72 | [[Embodied Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
+| 72 | [[Embodied-Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
 | 73 | [[Dreyfus's Skill Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 187 |
 | 74 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 75 | [[Zone of Proximal Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
-| 76 | [[Learning Experience Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
+| 76 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 77 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 191 |
 | 78 | [[Pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 79 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
 | 80 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 195 |
-| 81 | [[Knowledge Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
-| 82 | [[Conceptual Change]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
+| 81 | [[Knowledge-Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
+| 82 | [[Conceptual-Change]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
 | 83 | [[Interconnected Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
 | 84 | [[Graph Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 199 |
 | 85 | [[Feedback in Learning]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
 | 86 | [[Self-Regulation Cycles]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
-| 87 | [[Learning Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
+| 87 | [[Learning-Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
 | 88 | [[Iterative Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 203 |
 | 89 | [[Epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
-| 90 | [[Pragmatist Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
-| 91 | [[Constructivist Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
+| 90 | [[Pragmatist-Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
+| 91 | [[Constructivist-Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 92 | [[Stoic Wisdom]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 93 | [[Socratic Knowing]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 218 |
 | 94 | [[Epistemic Virtues]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
-| 95 | [[Intellectual Humility]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
-| 96 | [[Stoic Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
-| 97 | [[Critical Thinking Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
+| 95 | [[Intellectual-Humility]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
+| 96 | [[Stoic-Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
+| 97 | [[Critical-Thinking-Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 222 |
 | 98 | [[AI-Assisted Learning]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 226 |
-| 99 | [[Retrieval-Augmented Generation]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 226 |
+| 99 | [[Retrieval-Augmented-Generation]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 226 |
 | 100 | [[Adaptive Learning Systems]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 226 |
 | 101 | [[Personal Knowledge Management]] | — | — | ═════════════════════════════════════... | 589 |
 | 102 | [[Personal Knowledge Base]] | — | — | ═════════════════════════════════════... | 590 |
@@ -1592,41 +1592,41 @@ extraction_summary:
 | 136 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 701 |
 | 137 | [[wiki-links]] | — | — | The Core Mission | 881 |
 | 138 | [[Cognitive Science]] | — | — | The Disciplinary Toolkit | 905 |
-| 139 | [[Dual-Process Theory]] | — | — | The Disciplinary Toolkit | 905 |
+| 139 | [[Dual-Process-Theory]] | — | — | The Disciplinary Toolkit | 905 |
 | 140 | [[Working Memory]] | — | — | The Disciplinary Toolkit | 905 |
 | 141 | [[Cognitive Architecture]] | — | — | The Disciplinary Toolkit | 905 |
 | 142 | [[Cognitive Psychology]] | — | — | The Disciplinary Toolkit | 906 |
 | 143 | [[Schema Theory]] | — | — | The Disciplinary Toolkit | 906 |
 | 144 | [[Cognitive Load Theory]] | — | — | The Disciplinary Toolkit | 906 |
-| 145 | [[Encoding Specificity]] | — | — | The Disciplinary Toolkit | 906 |
+| 145 | [[Encoding-Specificity]] | — | — | The Disciplinary Toolkit | 906 |
 | 146 | [[Educational Psychology]] | — | — | The Disciplinary Toolkit | 907 |
 | 147 | [[Self-Regulated Learning]] | — | — | The Disciplinary Toolkit | 907 |
-| 148 | [[Achievement Goal Theory]] | — | — | The Disciplinary Toolkit | 907 |
+| 148 | [[Achievement-Goal-Theory]] | — | — | The Disciplinary Toolkit | 907 |
 | 149 | [[Transfer]] | — | — | The Disciplinary Toolkit | 907 |
-| 150 | [[Educational Philosophy]] | — | — | The Disciplinary Toolkit | 908 |
+| 150 | [[Educational-Philosophy]] | — | — | The Disciplinary Toolkit | 908 |
 | 151 | [[Pragmatism]] | — | — | The Disciplinary Toolkit | 908 |
 | 152 | [[Constructivism]] | — | — | The Disciplinary Toolkit | 908 |
 | 153 | [[Critical Pedagogy]] | — | — | The Disciplinary Toolkit | 908 |
 | 154 | [[Instructional Design]] | — | — | The Disciplinary Toolkit | 909 |
 | 155 | [[ADDIE]] | — | — | The Disciplinary Toolkit | 909 |
 | 156 | [[Merrill's Principles]] | — | — | The Disciplinary Toolkit | 909 |
-| 157 | [[Elaboration Theory]] | — | — | The Disciplinary Toolkit | 909 |
-| 158 | [[Learning Experience Design]] | — | — | The Disciplinary Toolkit | 910 |
+| 157 | [[Elaboration-Theory]] | — | — | The Disciplinary Toolkit | 909 |
+| 158 | [[Learning-Experience-Design]] | — | — | The Disciplinary Toolkit | 910 |
 | 159 | [[UX for Learning]] | — | — | The Disciplinary Toolkit | 910 |
 | 160 | [[Learner Journey Mapping]] | — | — | The Disciplinary Toolkit | 910 |
 | 161 | [[Engagement Design]] | — | — | The Disciplinary Toolkit | 910 |
 | 162 | [[Knowledge Management]] | — | — | The Disciplinary Toolkit | 911 |
-| 163 | [[SECI Model]] | — | — | The Disciplinary Toolkit | 911 |
+| 163 | [[SECI-Model]] | — | — | The Disciplinary Toolkit | 911 |
 | 164 | [[PKM Frameworks]] | — | — | The Disciplinary Toolkit | 911 |
-| 165 | [[Knowledge Organization Systems]] | — | — | The Disciplinary Toolkit | 911 |
+| 165 | [[Knowledge-Organization-Systems]] | — | — | The Disciplinary Toolkit | 911 |
 | 166 | [[Psychology of Learning]] | — | — | The Disciplinary Toolkit | 912 |
-| 167 | [[Spacing Effect]] | — | — | The Disciplinary Toolkit | 912 |
-| 168 | [[Testing Effect]] | — | — | The Disciplinary Toolkit | 912 |
+| 167 | [[Spacing-Effect]] | — | — | The Disciplinary Toolkit | 912 |
+| 168 | [[Testing-Effect]] | — | — | The Disciplinary Toolkit | 912 |
 | 169 | [[Interleaving]] | — | — | The Disciplinary Toolkit | 912 |
-| 170 | [[Desirable Difficulties]] | — | — | The Disciplinary Toolkit | 912 |
+| 170 | [[Desirable-Difficulties]] | — | — | The Disciplinary Toolkit | 912 |
 | 171 | [[Stoic Philosophy]] | — | — | The Disciplinary Toolkit | 913 |
 | 172 | [[Dichotomy of Control]] | — | — | The Disciplinary Toolkit | 913 |
-| 173 | [[Premeditatio Malorum]] | — | — | The Disciplinary Toolkit | 913 |
+| 173 | [[Premeditatio-Malorum]] | — | — | The Disciplinary Toolkit | 913 |
 | 174 | [[Virtue Ethics]] | — | — | The Disciplinary Toolkit | 913 |
 | 175 | [[Socratic Philosophy]] | — | — | The Disciplinary Toolkit | 914 |
 | 176 | [[Socratic Method]] | — | — | The Disciplinary Toolkit | 914 |
@@ -1635,7 +1635,7 @@ extraction_summary:
 | 179 | [[Metacognition]] | — | — | The Disciplinary Toolkit | 915 |
 | 180 | [[Metacognitive Regulation]] | — | — | The Disciplinary Toolkit | 915 |
 | 181 | [[Calibration]] | — | — | The Disciplinary Toolkit | 915 |
-| 182 | [[Judgment of Learning]] | — | — | The Disciplinary Toolkit | 915 |
+| 182 | [[Judgment-of-Learning]] | — | — | The Disciplinary Toolkit | 915 |
 | 183 | [[Concept A]] | — | — | The Return-and-Deepen Pattern | 1152 |
 | 184 | [[Concept B]] | — | — | The Return-and-Deepen Pattern | 1152 |
 | 185 | [[wiki-link]] | — | — | Phase II: Analytical Framework — Cros... | 1190 |
@@ -1647,104 +1647,104 @@ extraction_summary:
 | 191 | [[wiki-link]] | — | — | Step 2: Knowledge Graph Analysis | 1443 |
 | 192 | [[double-bracket]] | — | — | Critical Output Requirements | 1637 |
 | 193 | [[Schema Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
-| 194 | [[Knowledge Organization Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
+| 194 | [[Knowledge-Organization-Systems]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
 | 195 | [[Constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1672 |
 | 196 | [[Cognitive Load Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 197 | [[Working Memory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 198 | [[Instructional Design]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1678 |
 | 199 | [[Constructivism]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
-| 200 | [[Elaboration Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
+| 200 | [[Elaboration-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
 | 201 | [[Schema Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1684 |
 | 202 | [[Metacognition]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 203 | [[Self-Regulated Learning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 204 | [[Reflective Thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1690 |
 | 205 | [[Self-Determination Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
-| 206 | [[Achievement Goal Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
+| 206 | [[Achievement-Goal-Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
 | 207 | [[Mindset Theory]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1696 |
-| 208 | [[Spacing Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
-| 209 | [[Testing Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 208 | [[Spacing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 209 | [[Testing-Effect]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 210 | [[Interleaving]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
-| 211 | [[Desirable Difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
-| 212 | [[Encoding Specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 211 | [[Desirable-Difficulties]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
+| 212 | [[Encoding-Specificity]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1702 |
 | 213 | [[Critical Thinking]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
 | 214 | [[Socratic Questioning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
-| 215 | [[Epistemic Vigilance]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
+| 215 | [[Epistemic-Vigilance]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
 | 216 | [[Causal Reasoning]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1708 |
-| 217 | [[Dewey's Reflective Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
-| 218 | [[Kolb's Experiential Learning Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
-| 219 | [[Pragmatist Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
+| 217 | [[Dewey's-Reflective-Inquiry]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
+| 218 | [[Kolb's-Experiential-Learning-Cycle]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
+| 219 | [[Pragmatist-Epistemology]] | — | — | TIER 1: COGNITIVE & ARCHITECTURAL FOU... | 1714 |
 | 220 | [[Pedagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 221 | [[Andragogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 222 | [[Heutagogy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
 | 223 | [[Cognitive Load Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1731 |
-| 224 | [[Transfer of Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
-| 225 | [[Situated Cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
-| 226 | [[Encoding Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
+| 224 | [[Transfer-of-Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
+| 225 | [[Situated-Cognition]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
+| 226 | [[Encoding-Variability]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1736 |
 | 227 | [[Self-Regulated Learning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1741 |
 | 228 | [[Metacognitive Monitoring]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1741 |
-| 229 | [[Reflective Inquiry]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1741 |
+| 229 | [[Reflective-Inquiry]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1741 |
 | 230 | [[Stoic Philosophy]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
 | 231 | [[Self-Determination Theory]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
-| 232 | [[Academic Emotions]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
-| 233 | [[Learned Helplessness]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
+| 232 | [[Academic-Emotions]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
+| 233 | [[Learned-Helplessness]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1746 |
 | 234 | [[Socratic Questioning]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1751 |
 | 235 | [[Dewey's Inquiry Model]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1751 |
 | 236 | [[Constructivist Learning Environments]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1751 |
-| 237 | [[Knowledge Organization Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1756 |
-| 238 | [[Desirable Difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
-| 239 | [[Generation Effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
+| 237 | [[Knowledge-Organization-Systems]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1756 |
+| 238 | [[Desirable-Difficulties]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
+| 239 | [[Generation-Effect]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
 | 240 | [[Interleaving]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
-| 241 | [[Constructivist Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
-| 242 | [[Writing to Learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
-| 243 | [[Elaborative Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 241 | [[Constructivist-Struggle]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1761 |
+| 242 | [[Writing-to-Learn]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 243 | [[Elaborative-Interrogation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
 | 244 | [[Self-Explanation]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
-| 245 | [[Schema Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
+| 245 | [[Schema-Construction]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1766 |
 | 246 | [[Metacognitive Calibration]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
 | 247 | [[Dunning-Kruger research]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
-| 248 | [[Socratic Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
-| 249 | [[Epistemic Humility]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
+| 248 | [[Socratic-Ignorance]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
+| 249 | [[Epistemic-Humility]] | — | — | TIER 2: ADVANCED INTEGRATION & DESIGN... | 1771 |
 | 250 | [[SDT]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1782 |
 | 251 | [[Stoic Discipline]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1782 |
 | 252 | [[Habit Formation]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1782 |
-| 253 | [[Interest Development Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1782 |
-| 254 | [[Testing Effect]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
+| 253 | [[Interest-Development-Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1782 |
+| 254 | [[Testing-Effect]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
 | 255 | [[Spaced Repetition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
-| 256 | [[Elaborative Retrieval]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
+| 256 | [[Elaborative-Retrieval]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
 | 257 | [[Network Models of Memory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1786 |
-| 258 | [[Socratic Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
+| 258 | [[Socratic-Dialectic]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 259 | [[Argumentation Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 260 | [[Thesis-Antithesis-Synthesis]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 261 | [[Cognitive Conflict]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1790 |
 | 262 | [[Polanyi's Tacit Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
 | 263 | [[Nonaka's SECI Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
-| 264 | [[Embodied Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
+| 264 | [[Embodied-Cognition]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
 | 265 | [[Dreyfus's Skill Model]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1794 |
 | 266 | [[Constructivist Learning Environments]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 267 | [[Zone of Proximal Development]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
-| 268 | [[Learning Experience Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
+| 268 | [[Learning-Experience-Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 269 | [[Educational Technology]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1798 |
 | 270 | [[Pedagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 271 | [[Andragogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
 | 272 | [[Heutagogy]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1802 |
-| 273 | [[Knowledge Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
-| 274 | [[Conceptual Change]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
+| 273 | [[Knowledge-Integration]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
+| 274 | [[Conceptual-Change]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
 | 275 | [[Interconnected Knowledge]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
 | 276 | [[Graph Theory]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1806 |
 | 277 | [[Feedback in Learning]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
 | 278 | [[Self-Regulation Cycles]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
-| 279 | [[Learning Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
+| 279 | [[Learning-Analytics]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
 | 280 | [[Iterative Design]] | — | — | TIER 3: SYNTHESIS & ADVANCED APPLICAT... | 1810 |
 | 281 | [[Epistemology]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
-| 282 | [[Pragmatist Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
-| 283 | [[Constructivist Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
+| 282 | [[Pragmatist-Truth]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
+| 283 | [[Constructivist-Knowledge]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 284 | [[Stoic Wisdom]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 285 | [[Socratic Knowing]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1825 |
 | 286 | [[Epistemic Virtues]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
-| 287 | [[Intellectual Humility]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
-| 288 | [[Stoic Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
-| 289 | [[Critical Thinking Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
+| 287 | [[Intellectual-Humility]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
+| 288 | [[Stoic-Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
+| 289 | [[Critical-Thinking-Ethics]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1829 |
 | 290 | [[AI-Assisted Learning]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1833 |
-| 291 | [[Retrieval-Augmented Generation]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1833 |
+| 291 | [[Retrieval-Augmented-Generation]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1833 |
 | 292 | [[Adaptive Learning Systems]] | — | — | TIER 4: META-FRAMEWORK & FUTURE DIREC... | 1833 |
 | 293 | [[Foundational Report Architecture]] | — | — | ═════════════════════════════════════... | 2152 |
 | 294 | [[Chain of Density]] | — | — | ═════════════════════════════════════... | 2153 |
@@ -1844,7 +1844,7 @@ extraction_summary:
 | 388 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 3247 |
 | 389 | [[Topic X]] | — | — | What "Focused Analysis" Means | 3373 |
 | 390 | [[Prediction-Based Learning]] | — | — | Modality 1: Predictive Engagement | 3571 |
-| 391 | [[Elaborative Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 3594 |
+| 391 | [[Elaborative-Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 3594 |
 | 392 | [[Calibration Training]] | — | — | Modality 3: Calibration Exercises | 3607 |
 | 393 | [[Metacognitive Awareness]] | — | — | Modality 3: Calibration Exercises | 3607 |
 | 394 | [[Concept A]] | — | — | The Return-and-Deepen Pattern | 3741 |
@@ -1914,17 +1914,17 @@ extraction_summary:
 | 458 | [[Metacognition]] | — | — | ═════════════════════════════════════... | 4937 |
 | 459 | [[PENCRISAL Assessment Framework]] | — | — | ═════════════════════════════════════... | 4938 |
 | 460 | [[Metacognitive Awareness Inventory]] | — | — | ═════════════════════════════════════... | 4939 |
-| 461 | [[Epistemic Vigilance]] | — | — | ═════════════════════════════════════... | 4940 |
+| 461 | [[Epistemic-Vigilance]] | — | — | ═════════════════════════════════════... | 4940 |
 | 462 | [[Dual Process Theory]] | — | — | ═════════════════════════════════════... | 4941 |
 | 463 | [[Cognitive Load Theory]] | — | — | ═════════════════════════════════════... | 4942 |
 | 464 | [[Argument Analysis]] | — | — | ═════════════════════════════════════... | 4943 |
 | 465 | [[Decision Making Under Uncertainty]] | — | — | ═════════════════════════════════════... | 4944 |
 | 466 | [[Cognitive Biases and Debiasing]] | — | — | ═════════════════════════════════════... | 4945 |
 | 467 | [[Scientific Reasoning]] | — | — | ═════════════════════════════════════... | 4946 |
-| 468 | [[Transfer of Learning]] | — | — | ═════════════════════════════════════... | 4947 |
+| 468 | [[Transfer-of-Learning]] | — | — | ═════════════════════════════════════... | 4947 |
 | 469 | [[Self-Regulated Learning]] | — | — | ═════════════════════════════════════... | 4948 |
 | 470 | [[Confirmation Bias]] | — | — | ═════════════════════════════════════... | 4949 |
-| 471 | [[Availability Heuristic]] | — | — | ═════════════════════════════════════... | 4950 |
+| 471 | [[Availability-Heuristic]] | — | — | ═════════════════════════════════════... | 4950 |
 | 472 | [[Anchoring Bias]] | — | — | ═════════════════════════════════════... | 4951 |
 | 473 | [[Cognitive Psychology]] | — | — | ═════════════════════════════════════... | 4954 |
 | 474 | [[Educational Psychology]] | — | — | ═════════════════════════════════════... | 4955 |
@@ -1940,9 +1940,9 @@ extraction_summary:
 | 484 | [[Working Memory and Executive Function]] | — | — | ═════════════════════════════════════... | 4969 |
 | 485 | [[Expertise Development]] | — | — | ═════════════════════════════════════... | 4970 |
 | 486 | [[Reflective Judgment Model]] | — | — | ═════════════════════════════════════... | 4971 |
-| 487 | [[Intellectual Humility]] | — | — | ═════════════════════════════════════... | 4972 |
+| 487 | [[Intellectual-Humility]] | — | — | ═════════════════════════════════════... | 4972 |
 | 488 | [[Bayesian Reasoning]] | — | — | ═════════════════════════════════════... | 4973 |
-| 489 | [[Argument Mapping]] | — | — | ═════════════════════════════════════... | 4974 |
+| 489 | [[Argument-Mapping]] | — | — | ═════════════════════════════════════... | 4974 |
 | 490 | [[Socratic Questioning]] | — | — | ═════════════════════════════════════... | 4975 |
 | 491 | [[Pre-Mortem Analysis]] | — | — | ═════════════════════════════════════... | 4976 |
 | 492 | [[Red Team Thinking]] | — | — | ═════════════════════════════════════... | 4977 |
@@ -2870,10 +2870,10 @@ tags:
 
 - [[ADDIE]]
 - [[AI-Assisted Learning]]
-- [[Academic Emotions]]
+- [[Academic-Emotions]]
 - [[Academic Report Generator]]
 - [[Academic Research]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory]]
 - [[Active Reading Pedagogy]]
 - [[Adaptive Learning Systems]]
 - [[Advanced Reasoning Techniques]]
@@ -2886,9 +2886,9 @@ tags:
 - [[Aporia]]
 - [[Applied Epistemology]]
 - [[Argument Analysis]]
-- [[Argument Mapping]]
+- [[Argument-Mapping]]
 - [[Argumentation Theory]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic]]
 - [[Basic Argument Analysis]]
 - [[Bayesian Reasoning]]
 - [[Calibration]]
@@ -2913,46 +2913,46 @@ tags:
 - [[Concept X]]
 - [[Concept Y]]
 - [[Concept Z]]
-- [[Conceptual Change]]
+- [[Conceptual-Change]]
 - [[Confirmation Bias]]
 - [[Constructivism]]
-- [[Constructivist Knowledge]]
+- [[Constructivist-Knowledge]]
 - [[Constructivist Learning Environments]]
-- [[Constructivist Struggle]]
+- [[Constructivist-Struggle]]
 - [[Critical Pedagogy]]
 - [[Critical Thinking]]
-- [[Critical Thinking Ethics]]
+- [[Critical-Thinking-Ethics]]
 - [[Death, Mortality, and the Stoic Practice of Memento Mori]]
 - [[Debiasing Interventions]]
 - [[Debugging Strategies for Reasoning Errors]]
 - [[Decision Making Under Uncertainty]]
 - [[Deductive Reasoning Techniques]]
 - [[Deep Dive Report Prompt]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties]]
 - [[Dewey's Inquiry Model]]
-- [[Dewey's Reflective Inquiry]]
+- [[Dewey's-Reflective-Inquiry]]
 - [[Dichotomy of Control]]
 - [[Domain-Specific Critical Thinking]]
 - [[Domain-Specific Critical Thinking Standards]]
 - [[Dreyfus's Skill Model]]
 - [[Dual Process Theory]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory]]
 - [[Dual-Process-Thinking-Model]]
 - [[Dunning-Kruger research]]
-- [[Educational Philosophy]]
+- [[Educational-Philosophy]]
 - [[Educational Psychology]]
 - [[Educational Technology]]
-- [[Elaboration Theory]]
-- [[Elaborative Interrogation]]
-- [[Elaborative Retrieval]]
+- [[Elaboration-Theory]]
+- [[Elaborative-Interrogation]]
+- [[Elaborative-Retrieval]]
 - [[Elenchus]]
-- [[Embodied Cognition]]
-- [[Encoding Specificity]]
-- [[Encoding Variability]]
+- [[Embodied-Cognition]]
+- [[Encoding-Specificity]]
+- [[Encoding-Variability]]
 - [[Engagement Design]]
-- [[Epistemic Humility]]
+- [[Epistemic-Humility]]
 - [[Epistemic Humility and Intellectual Virtue]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance]]
 - [[Epistemic Virtue Development]]
 - [[Epistemic Virtues]]
 - [[Epistemology]]
@@ -2973,7 +2973,7 @@ tags:
 - [[Foundational Report: Topic]]
 - [[Framework Name]]
 - [[Full Concept Name]]
-- [[Generation Effect]]
+- [[Generation-Effect]]
 - [[Graph Theory]]
 - [[Habit Formation]]
 - [[Heuristic-Based Decision Making]]
@@ -2982,24 +2982,24 @@ tags:
 - [[Inductive Reasoning Strategies]]
 - [[Information Processing Models]]
 - [[Instructional Design]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility]]
 - [[Interconnected Knowledge]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory]]
 - [[Interleaving]]
 - [[Introduction to Critical Thinking]]
 - [[Intuitive Judgment]]
 - [[Iterative Design]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning]]
 - [[Knowledge Graph Integration]]
-- [[Knowledge Integration]]
+- [[Knowledge-Integration]]
 - [[Knowledge Management]]
 - [[Knowledge Organization]]
-- [[Knowledge Organization Systems]]
-- [[Kolb's Experiential Learning Cycle]]
-- [[Learned Helplessness]]
+- [[Knowledge-Organization-Systems]]
+- [[Kolb's-Experiential-Learning-Cycle]]
+- [[Learned-Helplessness]]
 - [[Learner Journey Mapping]]
-- [[Learning Analytics]]
-- [[Learning Experience Design]]
+- [[Learning-Analytics]]
+- [[Learning-Experience-Design]]
 - [[Lifelong Learning]]
 - [[Logical Reasoning Foundations]]
 - [[Lower-Level Concept]]
@@ -3035,12 +3035,12 @@ tags:
 - [[Polanyi's Tacit Knowledge]]
 - [[Practical Reasoning in Real-World Contexts]]
 - [[Pragmatism]]
-- [[Pragmatist Epistemology]]
-- [[Pragmatist Truth]]
+- [[Pragmatist-Epistemology]]
+- [[Pragmatist-Truth]]
 - [[Pre-Mortem Analysis]]
 - [[Prediction-Based Learning]]
 - [[Predictive Reading Framework]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Prerequisite Concept 1]]
 - [[Prerequisite Concept 2]]
 - [[Problem Solving in Complex Domains]]
@@ -3051,7 +3051,7 @@ tags:
 - [[Rationality Studies]]
 - [[ReAct-Framework]]
 - [[Red Team Thinking]]
-- [[Reflective Inquiry]]
+- [[Reflective-Inquiry]]
 - [[Reflective Judgment Model]]
 - [[Reflective Thinking]]
 - [[Related Concept 1]]
@@ -3064,10 +3064,10 @@ tags:
 - [[Report Generator - Foundational]]
 - [[Report N: Title]]
 - [[Researcher Name]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation]]
 - [[SDT]]
-- [[SECI Model]]
-- [[Schema Construction]]
+- [[SECI-Model]]
+- [[Schema-Construction]]
 - [[Schema Theory]]
 - [[Scientific Reasoning]]
 - [[Self-Consistency]]
@@ -3075,18 +3075,18 @@ tags:
 - [[Self-Explanation]]
 - [[Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
-- [[Situated Cognition]]
-- [[Socratic Dialectic]]
+- [[Situated-Cognition]]
+- [[Socratic-Dialectic]]
 - [[Socratic Dialogue Report Prompt]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance]]
 - [[Socratic Knowing]]
 - [[Socratic Method]]
 - [[Socratic Philosophy]]
 - [[Socratic Questioning]]
 - [[Spaced Repetition]]
-- [[Spacing Effect]]
+- [[Spacing-Effect]]
 - [[Stoic Discipline]]
-- [[Stoic Ethics]]
+- [[Stoic-Ethics]]
 - [[Stoic Ethics in Professional Life]]
 - [[Stoic Philosophy]]
 - [[Stoic Wisdom]]
@@ -3095,7 +3095,7 @@ tags:
 - [[Stoicism, Social Justice, and Political Engagement]]
 - [[Strategic Planning]]
 - [[Structural Encoding Techniques]]
-- [[Testing Effect]]
+- [[Testing-Effect]]
 - [[Theory B]]
 - [[Theory W]]
 - [[Theory X]]
@@ -3103,7 +3103,7 @@ tags:
 - [[Topic]]
 - [[Topic X]]
 - [[Transfer]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning]]
 - [[Transfer-Enabling Pedagogical Frameworks]]
 - [[Tree-of-Thoughts]]
 - [[UX for Learning]]
@@ -3111,7 +3111,7 @@ tags:
 - [[Virtue Ethics]]
 - [[Working Memory]]
 - [[Working Memory and Executive Function]]
-- [[Writing to Learn]]
+- [[Writing-to-Learn]]
 - [[Zone of Proximal Development]]
 - [[double-bracket]]
 - [[wiki-link]]

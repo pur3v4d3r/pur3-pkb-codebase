@@ -314,7 +314,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — RMT is a mini-theory within SDT's architecture, and its analysis here deepens the foundational SDT framework in a specific and important direction. Where the SDT foundational report establishes the basic psychological needs and their universality, the RMT analysis reveals how these needs operate within the distinctive constraints of close relationships — how interdependence creates both the greatest opportunities for need satisfaction and the greatest risks of need thwarting. The connection is not merely hierarchical (RMT is under SDT) but bidirectional: understanding RMT enriches SDT's general framework by showing how the basic needs interact and potentially conflict in dyadic contexts, something the general framework does not fully specify.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report establishes that working memory capacity is the critical bottleneck in learning, and that extraneous cognitive load — demands unrelated to the intrinsic structure of the material — depletes the resources available for germane processing. The RMT analysis suggests a motivational analog to this cognitive load concept: need thwarting within a learning relationship produces a kind of *motivational extraneous load* — the learner must devote regulatory and emotional resources to managing the relational environment (monitoring for conditional approval cues, managing self-presentation, suppressing authentic responses) that would otherwise be available for autonomous engagement with the learning content. This is a connection the CLT literature has not developed, but which the RMT evidence strongly suggests: the relational climate is a motivational load variable, not merely an affective backdrop.
 > 
@@ -521,7 +521,7 @@ extraction_summary:
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Focused Analysis]]
 - [[autonomy]]
 - [[Autonomy-Support|autonomy support]]
@@ -619,7 +619,7 @@ extraction_summary:
 - [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard Ryan]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Focused Analysis]]
 - [[autonomy]]
 - [[Autonomy-Support|autonomy support]]
@@ -645,7 +645,7 @@ extraction_summary:
 - [[Attachment Theory — Bowlby and Ainsworth]]
 - [[Perceived-Partner-Responsiveness|Perceived Partner Responsiveness]]
 - [[Conditional-Positive-Regard|Conditional Positive Regard]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 #### Broader

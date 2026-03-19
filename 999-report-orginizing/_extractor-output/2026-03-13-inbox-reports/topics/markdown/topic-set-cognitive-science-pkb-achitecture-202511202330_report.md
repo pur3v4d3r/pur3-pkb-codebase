@@ -121,7 +121,7 @@ extraction_summary:
 #### 1. [PRINCIPLE-POINT] Core Insight: Cognitive Alignment Principle *(Line 38)*
 
 > [!principle-point] Core Insight: Cognitive Alignment Principle
-> An effective PKB should reduce [[Cognitive-Load|Cognitive Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
+> An effective PKB should reduce [[Cognitive-Load|Cognitive Load]], support [[Schema Formation]], enable [[Metacognition]], and scaffold [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]. The architecture itself becomes an external cognitive artifact that compensates for working memory limitations while amplifying long-term memory consolidation.
 
 #### 2. [KEY-CLAIM] Design Constraint from Cognitive Science *(Line 45)*
 
@@ -185,7 +185,7 @@ extraction_summary:
 #### 12. [KEY-CLAIM] Self-Knowledge as Knowledge Management *(Line 127)*
 
 > [!key-claim] Self-Knowledge as Knowledge Management
-> Effective [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] requires accurate [[Metacognition]]—awareness of what you know, what you don't know, and how well you're learning. Your PKB should function as an external metacognitive tool.
+> Effective [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] requires accurate [[Metacognition]]—awareness of what you know, what you don't know, and how well you're learning. Your PKB should function as an external metacognitive tool.
 
 #### 13. [METHODOLOGY-AND-SOURCES] Implementation Pattern: The Three-Phase Review Protocol *(Line 140)*
 
@@ -356,7 +356,7 @@ extraction_summary:
 - [[Schema Theory and MOC Architecture]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Design]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Spatial Memory]]
 - [[Topic]]
@@ -587,7 +587,7 @@ Structural Planning:
 - [[Schema Theory and MOC Architecture]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation Design]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Spatial Memory]]
 - [[Topic]]

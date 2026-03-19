@@ -179,7 +179,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive-Science|Cognitive Science]], [[Educational-Psychology|Educational Psychology]], and [[Knowledge-Management|Knowledge Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive-Architecture|Cognitive Architecture]].
+> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive-Science|Cognitive Science]], [[Educational-Psychology|Educational Psychology]], and [[Knowledge-Management|Knowledge Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive-Architecture|Cognitive Architecture]].
 
 #### 5. [HOW-TO-USE-THIS] Untitled *(Line 165)*
 
@@ -249,7 +249,7 @@ extraction_summary:
 #### 10. [DEFINITION] Untitled *(Line 260)*
 
 > [!definition] Untitled
-> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] patterns
+> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] patterns
 > - **Core Mechanism**:: Zimmerman's cyclical model describes self-regulation as occurring through three interrelated phases—forethought, performance, and self-reflection—that operate recursively with feedback from prior efforts affecting subsequent planning
 
 #### 11. [METHODOLOGY-AND-SOURCES] Untitled *(Line 278)*
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Synaptic Plasticity]]
 - [[System Quality]]
@@ -920,7 +920,7 @@ More serendipitous discoveries possible
 - [[Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spacing-Effect|Spacing Effect]]
 - [[Synaptic Plasticity]]
 - [[System Quality]]

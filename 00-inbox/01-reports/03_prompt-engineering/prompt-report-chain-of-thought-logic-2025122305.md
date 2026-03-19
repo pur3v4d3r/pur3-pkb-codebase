@@ -317,7 +317,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 1. **[[Mechanistic Interpretability of Reasoning Circuits]]**
 **Connection:** While we understand CoT *empirically* improves reasoning, the exact neural circuits activated during reasoning chain generation remain opaque. What specific attention heads, feed-forward layers, and activation patterns distinguish valid from invalid reasoning steps?
 **Depth Potential:** Applying [[Activation Patching]], [[Causal Tracing]], and [[Sparse Autoencoders]] to identify reasoning-critical circuits could reveal whether models develop specialized "reasoning modules" or distribute reasoning across general-purpose circuits. This could inform targeted intervention strategies to improve reasoning reliability.
-**Knowledge Graph Role:** Bridges [[Chain-of-Thought Prompting]] with [[Mechanistic Interpretability]] and [[Neural Network Circuits]], providing mechanistic grounding for observed empirical phenomena.
+**Knowledge Graph Role:** Bridges [[Chain-of-Thought-Prompting]] with [[Mechanistic Interpretability]] and [[Neural Network Circuits]], providing mechanistic grounding for observed empirical phenomena.
 **Priority:** High — Understanding mechanisms is essential for reliable deployment and improvement strategies
 **Prerequisites:** [[Transformer Architecture]], [[Attention Visualization]], [[Activation Analysis]]
 
@@ -325,7 +325,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 2. **[[Adversarial Robustness of CoT Reasoning]]**
 **Connection:** If CoT reduces logical fallacy rates by 30-50%, what happens when adversaries deliberately craft inputs to exploit remaining vulnerabilities? Can attackers trigger specific fallacies even in CoT-enhanced models?
 **Depth Potential:** Systematic adversarial testing could reveal which reasoning vulnerabilities persist despite CoT, informing development of more robust prompting strategies or architectural modifications. Particularly relevant for security-critical applications (medical AI, autonomous systems, financial analysis).
-**Knowledge Graph Role:** Connects [[Chain-of-Thought Prompting]] with [[Adversarial Examples]], [[AI Safety]], and [[Logical Fallacies]], extending robustness evaluation beyond standard benchmarks to adversarial scenarios.
+**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Adversarial Examples]], [[AI Safety]], and [[Logical Fallacies]], extending robustness evaluation beyond standard benchmarks to adversarial scenarios.
 **Priority:** High — Security implications demand understanding worst-case rather than average-case performance
 **Prerequisites:** [[Logical Reasoning]], [[Adversarial Machine Learning]], [[Prompt Injection]]
 
@@ -333,7 +333,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 3. **[[Multimodal Chain-of-Thought Reasoning]]**
 **Connection:** Current CoT research focuses on text reasoning, but vision-language models and multimodal systems require reasoning across modalities. How do visual reasoning traces differ from textual ones? Can models generate visual step-by-step reasoning analogous to textual CoT?
 **Depth Potential:** Exploring multimodal CoT could enable applications like medical image diagnosis with visual reasoning traces ("first I observe enlarged lymph nodes, then check for other cancer indicators...") or architectural design with iterative visual refinement. Raises questions about whether reasoning structure differs fundamentally across modalities.
-**Knowledge Graph Role:** Extends [[Chain-of-Thought Prompting]] to [[Multimodal Learning]], [[Vision-Language Models]], and [[Visual Reasoning]], creating cross-domain synthesis opportunities.
+**Knowledge Graph Role:** Extends [[Chain-of-Thought-Prompting]] to [[Multimodal Learning]], [[Vision-Language Models]], and [[Visual Reasoning]], creating cross-domain synthesis opportunities.
 **Priority:** Medium — Growing importance with multimodal model development, but foundational text CoT work still maturing
 **Prerequisites:** [[Vision Transformers]], [[Cross-Modal Attention]], [[Image Captioning]]
 
@@ -341,7 +341,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 4. **[[Economic Analysis of CoT Cost-Benefit Tradeoffs]]**
 **Connection:** CoT increases accuracy but multiplies costs 2-10x (or 40-400x with Self-Consistency). At what accuracy threshold does increased cost become economically justified? How do different deployment contexts (customer service vs. medical diagnosis) change this calculus?
 **Depth Potential:** Systematic cost-benefit analysis across domains and use cases could establish decision frameworks for when to employ CoT versus simpler prompting. Particularly valuable as edge deployment and cost-conscious applications become priorities. Could reveal that CoT is over-applied in domains where simpler methods suffice.
-**Knowledge Graph Role:** Bridges [[Chain-of-Thought Prompting]] with [[AI Economics]], [[Resource Optimization]], and [[System Design]], providing practical deployment guidance beyond pure technical performance.
+**Knowledge Graph Role:** Bridges [[Chain-of-Thought-Prompting]] with [[AI Economics]], [[Resource Optimization]], and [[System Design]], providing practical deployment guidance beyond pure technical performance.
 **Priority:** Medium — Practical importance high, but less theoretical novelty than mechanism or robustness research
 **Prerequisites:** [[Cloud Computing Costs]], [[Inference Optimization]], [[Cost-Accuracy Pareto Frontiers]]
 
@@ -349,7 +349,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 5. **[[Training-Time Integration: CoT as Architectural Inductive Bias]]**
 **Connection:** Current models learn reasoning prompting as external technique, but next-generation models (OpenAI o-series, DeepSeek R1) internalize reasoning through specialized training. What architectural modifications or training procedures most effectively "compile" CoT capabilities into model weights?
 **Depth Potential:** Research on whether reasoning requires architectural changes (specialized reasoning heads, hierarchical planning modules) versus training procedure modifications (reasoning-focused pre-training, RL from verifiable reasoning traces). Could lead to models that reason efficiently without external prompting overhead.
-**Knowledge Graph Role:** Connects [[Chain-of-Thought Prompting]] with [[Transformer Architecture Design]], [[Reinforcement Learning]], [[Curriculum Learning]], and [[Training Objectives]], exploring how prompting insights inform architecture evolution.
+**Knowledge Graph Role:** Connects [[Chain-of-Thought-Prompting]] with [[Transformer Architecture Design]], [[Reinforcement Learning]], [[Curriculum Learning]], and [[Training Objectives]], exploring how prompting insights inform architecture evolution.
 **Priority:** High — Represents next frontier in reasoning research as field transitions from prompting to architecture
 **Prerequisites:** [[Neural Architecture Search]], [[Meta-Learning]], [[Process Supervision]]
 
@@ -357,7 +357,7 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 ### 6. **[[Cross-Cultural and Cross-Linguistic Reasoning Patterns]]**
 **Connection:** CoT research predominantly focuses on English and Western reasoning styles. Do reasoning demonstrations from different cultures (Eastern holistic vs. Western analytic reasoning) or languages (morphologically rich vs. analytic languages) produce different CoT patterns and effectiveness?
 **Depth Potential:** Cross-cultural analysis could reveal whether CoT capitalizes on universal reasoning structures or culturally-specific patterns. Findings could inform development of multilingual models and culturally-adaptive reasoning systems, challenging assumptions about reasoning universality.
-**Knowledge Graph Role:** Bridges [[Chain-of-Thought Prompting]] with [[Cross-Cultural Cognition]], [[Multilingual NLP]], and [[Cultural Psychology]], introducing diversity considerations into reasoning research.
+**Knowledge Graph Role:** Bridges [[Chain-of-Thought-Prompting]] with [[Cross-Cultural Cognition]], [[Multilingual NLP]], and [[Cultural Psychology]], introducing diversity considerations into reasoning research.
 **Priority:** Medium — Important for global deployment and theoretical completeness, but requires substantial resources for proper multilingual evaluation
 **Prerequisites:** [[Cross-Lingual Transfer]], [[Cultural Cognitive Science]], [[Multilingual Transformers]]
 

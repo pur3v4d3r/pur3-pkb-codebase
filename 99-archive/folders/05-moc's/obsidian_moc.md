@@ -59,7 +59,7 @@ This is a MOC (Map of Content) devoted to all of the various Obsidian Documentat
 	2. [[bases-roadmap]]
 	3. [[bases-syntax]]
 	4. [[create-a-base]]
-	5. [[04_library/00_obsidian-documentation/02_Official-Documentation/01_⚫📋Official-Documentation/Bases/Functions|Functions]]
+	5. [[functions|Functions]]
 	6. [[introduction-to-bases]]
 	7. [[views]]
 3. Editing and Formatting

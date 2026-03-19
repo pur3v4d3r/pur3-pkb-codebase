@@ -32,7 +32,7 @@ confidence: established
 next-review: 2025-12-07
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-30|Daily-Note]]"
 ---
@@ -271,7 +271,7 @@ The Stoics conceived of their practices as *askēsis* ([[Spiritual Exercises]])�
 Journaling served as the container for multiple spiritual exercises:
 - **[[Prosoche]]** - Continuous attention to the present moment
 - **[[View from Above]]** (*Kosmou Theōria*) - Contemplating events from cosmic perspective
-- **[[Premeditatio Malorum]]** - Visualization of potential difficulties
+- **[[Premeditatio-Malorum]]** - Visualization of potential difficulties
 - **[[Negative Visualization]]** - Imagining loss to enhance appreciation
 - **[[Memento Mori]]** - Meditation on mortality
 - **[[Amor Fati]]** - Love of fate; acceptance of necessity
@@ -316,7 +316,7 @@ The parallel mechanisms are striking:
 | Examining [[Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
 | [[Dichotomy of Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
-| [[Premeditatio Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
+| [[Premeditatio-Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
 | [[Virtue]] cultivation | [[Values Clarification]] | Aligning behavior with principles |
 
 > [!evidence]
@@ -391,7 +391,7 @@ The opening book differs from the subsequent eleven—Marcus pays eloquent homag
 - Cultivates [[Gratitude]] as foundational attitude
 - Identifies specific virtues to emulate
 - Creates social accountability through recognition
-- Counters [[Hedonic Adaptation]] by highlighting blessings
+- Counters [[Hedonic-Adaptation]] by highlighting blessings
 
 **Morning Preparation (Premeditatio Malorum)**
 
@@ -462,7 +462,7 @@ Modern understanding of [[Memory Consolidation]] confirms this approach—review
 
 ### The Discipline of Assent
 
-All three frameworks implement what the Stoics called the **[[Discipline of Assent]]** (*synkatathesis*)—the practice of withholding automatic agreement with initial impressions until rational examination occurs. The journal becomes the laboratory for this discipline:
+All three frameworks implement what the Stoics called the **[[Discipline-of-Assent]]** (*synkatathesis*)—the practice of withholding automatic agreement with initial impressions until rational examination occurs. The journal becomes the laboratory for this discipline:
 
 **Initial Impression** (*phantasia*) → **Pause** → **Examination** → **Rational Assent or Rejection**
 
@@ -1947,7 +1947,7 @@ IR: "Not wisdom. I should reserve judgment until I know more."
 
 ### Premeditated Catastrophe Analysis
 
-**Concept**: Advanced form of [[Premeditatio Malorum]]—deeply examine worst-case scenarios to build genuine resilience rather than superficial preparation.
+**Concept**: Advanced form of [[Premeditatio-Malorum]]—deeply examine worst-case scenarios to build genuine resilience rather than superficial preparation.
 
 **Protocol**:
 1. **Identify Fear**: What outcome do you most dread?
@@ -2070,7 +2070,7 @@ How do they appear now? What truly matters? What deserves my energy?
 
 ### Hedonic Adaptation Journaling
 
-**Concept**: Systematic practice of [[Negative Visualization]] paired with [[Gratitude]] to counter [[Hedonic Adaptation]].
+**Concept**: Systematic practice of [[Negative Visualization]] paired with [[Gratitude]] to counter [[Hedonic-Adaptation]].
 
 **Weekly Protocol**:
 1. **Blessing Identification**: List current life blessings (relationships, capabilities, possessions)

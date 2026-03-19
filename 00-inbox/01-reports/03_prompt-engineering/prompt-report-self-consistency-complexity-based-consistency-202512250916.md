@@ -113,9 +113,9 @@ modified: 2024-12-25
 status: evergreen
 certainty: established
 type: reference
-related: [[Chain-of-Thought Prompting]], [[Ensemble Methods]], [[Reasoning Verification]], [[Majority Voting]], [[Cognitive Diversity]]
+related: [[Chain-of-Thought-Prompting]], [[Ensemble Methods]], [[Reasoning Verification]], [[Majority Voting]], [[Cognitive Diversity]]
 prerequisites:
-  hard: [[Chain-of-Thought Prompting]], [[Temperature Sampling]]
+  hard: [[Chain-of-Thought-Prompting]], [[Temperature Sampling]]
   soft: [[Ensemble Learning]], [[Bayesian Reasoning]]
 enables:
   direct: [[Complex Reasoning Tasks]], [[Math Word Problems]], [[Commonsense Reasoning]], [[Multi-Step Inference]]
@@ -385,7 +385,7 @@ The economic dimension of this reliability engineering tradeoff merits emphasis.
 
 > [!connections-and-links] Integration with Complementary Techniques
 > 
-> **[[Chain-of-Thought Prompting]] → Self-Consistency**
+> **[[Chain-of-Thought-Prompting]] → Self-Consistency**
 > 
 > [[Self-Consistency]] requires [[Chain-of-Thought]] as its foundation—the technique aggregates reasoning paths, necessitating that reasoning be explicit rather than implicit. CoT quality directly determines Self-Consistency effectiveness: better-structured reasoning chains produce more reliable consensus. The combination represents a synergistic pairing where CoT enables interpretable multi-step reasoning and Self-Consistency filters its stochastic unreliability.
 > 
@@ -401,7 +401,7 @@ The economic dimension of this reliability engineering tradeoff merits emphasis.
 > 
 > Apply Self-Consistency at each decomposition stage of [[Least-to-Most]] reasoning: generate multiple solution attempts for each sub-problem, aggregate via voting, then pass consensus answer to next stage. This creates hierarchical reliability where each stage's accuracy is ensemble-enhanced, compounding improvements across the full reasoning chain.
 > 
-> **[[Retrieval-Augmented Generation]] + Self-Consistency**
+> **[[Retrieval-Augmented-Generation]] + Self-Consistency**
 > 
 > Generate multiple reasoning chains where each retrieves potentially different evidence sets (through retrieval stochasticity), then aggregate final answers. This creates evidence diversity in addition to reasoning diversity, strengthening consensus when multiple independent evidence sources support the same conclusion.
 

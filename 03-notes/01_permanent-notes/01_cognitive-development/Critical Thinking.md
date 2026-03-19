@@ -34,7 +34,7 @@ link-related:
   - "[[Schemas]]"
   - "[[Self Behavioral Management]]"
   - "[[Self Directed Learning]]"
-  - "[[Self Regulated Learning]]"
+  - "[[Self-Regulated-Learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[System Building]]"
   - "[[Zone Of Proximal Development]]"

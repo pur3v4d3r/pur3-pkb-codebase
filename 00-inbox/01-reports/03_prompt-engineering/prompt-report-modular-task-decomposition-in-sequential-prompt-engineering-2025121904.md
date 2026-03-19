@@ -57,7 +57,7 @@ modified: 2025-12-19
 status: evergreen
 certainty: confident
 type: reference
-related: [[Prompt Engineering]], [[Cognitive Load Theory]], [[Systems Thinking]], [[Zettelkasten Methodology]], [[Chain-of-Thought Prompting]]
+related: [[Prompt Engineering]], [[Cognitive Load Theory]], [[Systems Thinking]], [[Zettelkasten Methodology]], [[Chain-of-Thought-Prompting]]
 
 ---
 
@@ -96,7 +96,7 @@ In the context of prompt engineering for document generation, modularity manifes
 The third theoretical foundation derives from [[Schema Theory]], particularly as articulated by cognitive psychologists studying expertise development and knowledge organization. <span style='color: #FF5700;'>According to Chi, Glaser, and Farr (1988)</span>, experts differ from novices not merely in the quantity of information they possess but in how that information is organized into <span style='color: #27FF00;'>**hierarchical, richly interconnected schemas**</span> that support rapid pattern recognition and automated response selection.
 [**Schema**:: an organized mental framework that structures related information, enabling efficient storage, retrieval, and application of knowledge through pattern recognition rather than effortful deliberation]^verified-stable
 [**Chunking**:: the cognitive process of grouping related elements into unified higher-order structures, effectively reducing the number of discrete items that must be maintained in working memory]^verified-stable
-Modular task decomposition facilitates schema development for prompt engineering itself. When a designer repeatedly works with well-defined prompt modules—"this module generates comprehensive overviews," "this module produces detailed examples," "this module synthesizes connections"—these patterns become automated schemas. The designer no longer expends cognitive effort reconstructing how to approach each component; instead, <span style='color: #72FFF1;'>**pattern recognition triggers established templates**</span>, dramatically reducing the [[Cognitive Load]] of prompt architecture while improving consistency and quality.
+Modular task decomposition facilitates schema development for prompt engineering itself. When a designer repeatedly works with well-defined prompt modules—"this module generates comprehensive overviews," "this module produces detailed examples," "this module synthesizes connections"—these patterns become automated schemas. The designer no longer expends cognitive effort reconstructing how to approach each component; instead, <span style='color: #72FFF1;'>**pattern recognition triggers established templates**</span>, dramatically reducing the [[Cognitive-Load]] of prompt architecture while improving consistency and quality.
 Furthermore, the modular approach enables the construction of <span style='color: #FFC700;'>**prompt libraries**</span>—reusable, tested, documented modules that function as the building blocks for diverse document generation objectives. This architectural strategy mirrors the profound impact of standardized components in engineering disciplines, where the availability of reliable modules (standard screw threads, integrated circuits, software libraries) exponentially accelerates development while reducing failure rates.
 ## 🔬 Core Principles and Operational Philosophy
 ### The Principle of Functional Decomposition
@@ -414,7 +414,7 @@ Document architects can deliberately design module sequences to maximize this ef
 > The phased generation pattern mirrors instructional design models like ADDIE (Analysis, Design, Development, Implementation, Evaluation) and Dick & Carey's systematic design model. The modular approach enables the application of evidence-based pedagogical principles ([[Scaffolding]], [[Progressive Elaboration]], [[Worked Examples]]) at the document generation level.
 > 
 > **Synthesis with [[Prompt Engineering]] Best Practices:**
-> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought Prompting]], [[Few-Shot Learning]], or [[Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
+> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought-Prompting]], [[Few-Shot Learning]], or [[Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
 > 
 > **Parallel to [[Project Management]] Methodologies:**
 > The approach exhibits structural parallels to [[Agile Development]] methodologies, particularly the emphasis on iterative refinement, adaptive planning, and modular component development. Similarly, [[Work Breakdown Structure]] concepts from traditional project management map onto functional decomposition in prompt engineering—both partition complex objectives into manageable work packages.

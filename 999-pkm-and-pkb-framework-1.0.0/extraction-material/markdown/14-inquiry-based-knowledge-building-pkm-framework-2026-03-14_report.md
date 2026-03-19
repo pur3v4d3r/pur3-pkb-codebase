@@ -274,7 +274,7 @@ extraction_summary:
 #### 23. [CROSS-DOMAIN-CONNECTION] Deweyan Inquiry and Self-Regulated Learning: Two Cycles, One Architecture *(Line 290)*
 
 > [!cross-domain-connection] Deweyan Inquiry and Self-Regulated Learning: Two Cycles, One Architecture
-> Dewey's five-phase inquiry cycle (felt difficulty → problem definition → hypothesis generation → reasoning through implications → testing) and Zimmerman's [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] cycle established in [[Report 04 — Metacognitive Self-Regulation]] (planning → execution → self-monitoring → self-reflection → adaptation) are structurally isomorphic — both describe a recursive loop in which the learner manages their own cognitive process through cycles of planning, executing, monitoring, and revising. The connection is not merely structural; it is causal. Deweyan inquiry is a theory of how genuine thinking occurs; Zimmerman's SRL is a theory of how effective learners manage their own thinking. A PKB that implements Deweyan inquiry as its workflow architecture is, simultaneously, embedding SRL cycles into the system's structure. The Inquiry Node architecture (explored in Phase V) operationalizes both cycles simultaneously: it structures the inquiry process (Dewey) through explicit metacognitive monitoring and revision tracking (Zimmerman). This convergence suggests that inquiry-based PKB design serves dual functions: it produces understanding (Dewey's contribution) and it cultivates the metacognitive regulatory skills that make continued autonomous learning possible (Zimmerman's contribution).
+> Dewey's five-phase inquiry cycle (felt difficulty → problem definition → hypothesis generation → reasoning through implications → testing) and Zimmerman's [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] cycle established in [[Report 04 — Metacognitive Self-Regulation]] (planning → execution → self-monitoring → self-reflection → adaptation) are structurally isomorphic — both describe a recursive loop in which the learner manages their own cognitive process through cycles of planning, executing, monitoring, and revising. The connection is not merely structural; it is causal. Deweyan inquiry is a theory of how genuine thinking occurs; Zimmerman's SRL is a theory of how effective learners manage their own thinking. A PKB that implements Deweyan inquiry as its workflow architecture is, simultaneously, embedding SRL cycles into the system's structure. The Inquiry Node architecture (explored in Phase V) operationalizes both cycles simultaneously: it structures the inquiry process (Dewey) through explicit metacognitive monitoring and revision tracking (Zimmerman). This convergence suggests that inquiry-based PKB design serves dual functions: it produces understanding (Dewey's contribution) and it cultivates the metacognitive regulatory skills that make continued autonomous learning possible (Zimmerman's contribution).
 
 #### 24. [ANALYTICAL-INSIGHT] The Inquiry Stance as a Cognitive Disposition, Not Just a Technique *(Line 299)*
 
@@ -491,7 +491,7 @@ extraction_summary:
 > 
 > - **[[03-constructing-understanding-pkm-framework-2026-03-13]]** — Report 03 established [[Constructivism]], [[Elaboration-Theory|Elaboration Theory]], and the principle that knowledge builds on knowledge through active construction. The inquiry-first approach developed here is the PKB workflow operationalization of those principles. Elaboration Theory (Reigeluth) prescribes elaborative sequences; the Inquiry Trail architecture implements elaborative sequences in PKB practice.
 > 
-> - **[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]** — The [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] cycle (Zimmerman) and the Deweyan inquiry cycle are structurally isomorphic, as identified in Phase IV's cross-domain connection. The Inquiry Node template operationalizes both cycles simultaneously: it structures inquiry (Dewey) and embeds metacognitive monitoring and revision tracking (Zimmerman). The inquiry dashboard extends this by providing system-level metacognitive oversight.
+> - **[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]** — The [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] cycle (Zimmerman) and the Deweyan inquiry cycle are structurally isomorphic, as identified in Phase IV's cross-domain connection. The Inquiry Node template operationalizes both cycles simultaneously: it structures inquiry (Dewey) and embeds metacognitive monitoring and revision tracking (Zimmerman). The inquiry dashboard extends this by providing system-level metacognitive oversight.
 > 
 > - **[[11-transfer-problem-pkm-framework-2026-03-14]]** — Report 11 established that knowledge fails to transfer when it is not genuinely understood — only superficially encoded. The inquiry-first approach addresses this directly: the Aporia-to-Schema Pipeline produces the deep schema construction that Report 11 identified as necessary for transfer. Inquiry-based notes, by requiring generative processing, are more likely to produce knowledge adequate for transfer to new contexts.
 > 
@@ -716,7 +716,7 @@ extraction_summary:
 - [[Report 21 — Dialectical Knowledge Building]]
 - [[Report 21 — Dialectical Knowledge Building: Synthesis Through Productive Disagreement]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
@@ -1032,7 +1032,7 @@ extraction_summary:
 - [[Report 21 — Dialectical Knowledge Building]]
 - [[Report 21 — Dialectical Knowledge Building: Synthesis Through Productive Disagreement]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
@@ -1070,7 +1070,7 @@ extraction_summary:
 - [[Intellectual-Humility|Intellectual Humility]]
 - [[Warranted-Assertibility|Warranted Assertibility]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Inquiry-Based Learning]]
+- [[Inquiry-Based-Learning]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Maieutic Method]]
 - [[Inquiry-Node|Inquiry Node]]

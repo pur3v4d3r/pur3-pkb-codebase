@@ -326,9 +326,9 @@ Research on metacognitive training for specific populations—older adults exper
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
 > 1. [[Metacognitive Calibration]]
 >     - The accuracy with which individuals' subjective confidence judgments align with their objective performance. Well-calibrated individuals accurately predict when they will succeed or fail, while poor calibration leads to overconfidence or underconfidence. Calibration develops through experience and feedback, requiring both accurate self-monitoring and realistic self-knowledge about one's capabilities in different domains.
-> 2. [[Cognitive Scaffolding]]
+> 2. [[Cognitive-Scaffolding]]
 >     - The temporary support structures—whether provided by teachers, peers, or mental strategies—that enable learners to accomplish tasks beyond their current independent capability. As metacognitive abilities develop, external scaffolding is gradually internalized, transforming into self-scaffolding strategies that learners can deploy autonomously to support their own learning.
-> 3. [[Epistemic Vigilance]]
+> 3. [[Epistemic-Vigilance]]
 >     - The metacognitive capacity to monitor and evaluate the credibility, consistency, and source of information, protecting against misinformation and faulty reasoning. This involves both monitoring one's own reasoning for errors and biases and critically evaluating external information sources, representing a crucial metacognitive skill for navigating information-rich environments.
 
 > [!thoughts]

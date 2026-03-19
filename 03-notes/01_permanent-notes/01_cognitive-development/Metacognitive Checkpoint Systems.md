@@ -24,7 +24,7 @@ link-related:
   - "[[Metacognition]]"
   - "[[Metacognitive Monitoring]]"
   - "[[Metacognitive Regulation]]"
-  - "[[Dual-Process Theory]]"
+  - "[[Dual-Process-Theory]]"
   - "[[Epistemic Cognition]]"
   - "[[Metacognitive Bias]]"
   - "[[as]]"
@@ -73,14 +73,14 @@ review-priority: medium
 > **Building from Principle 3:** **[[Constructing the External Scaffolding]]**
 > - What does this "external scaffolding" (P3) look like? It is a *structured process* that forces [[Metacognition]]. This is where the specific frameworks mentioned in the prompt are not just "good ideas" but are the *logical engineering solutions* to the first-principles problem.
 > - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System 1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System 1]] narrative and *engages* [[System 2]] to analytically find risks.
-> - If our problem is [[Hindsight Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
+> - If our problem is [[Hindsight-Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
 > - If our problem is [[Confirmation Bias]] (a [[System 1]] tendency to seek agreeable facts), the scaffold is an **[[Epistemic Spot Check]]**. This is a *mandatory* checklist (like the "TWED" mnemonic) that forces you to ask: "What is the *quality* of this evidence? What is the *strongest argument for the other side*? Have I actively tried to *disprove* my own hypothesis?" These questions are the *external* trigger to force [[System 2]] to do the hard work of analytical validation.
 
 > [!phase-two]
 > **Building from Principle 3:** **[[Constructing the External Scaffolding]]**
 > - What does this "external scaffolding" (P3) look like? It is a *structured process* that forces [[Metacognition]]. This is where the specific frameworks mentioned in the prompt are not just "good ideas" but are the *logical engineering solutions* to the first-principles problem.
 > - If our problem is [[Optimism Bias]] and [[Planning Fallacy]] (a [[System 1]] "coherent story" of success), the scaffold is **[[Pre-Mortem Analysis]]**. This tool, developed by [[Gary Klein]], *forces* the team to "imagine the project has failed". This one simple, external change of frame shatters the [[System 1]] narrative and *engages* [[System 2]] to analytically find risks.
-> - If our problem is [[Hindsight Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
+> - If our problem is [[Hindsight-Bias]] and a failure to learn from mistakes (a [[System 1]] habit of "smoothing out" the past), the scaffold is a **[[Decision Journaling Protocol]]**. This is a *structured* log where you *must* write down your reasoning, your evidence, and your prediction *before* the outcome is known. This external record is an unchangeable "truth" that prevents your biased brain from "remembering" that you "knew it all along", forcing an accurate [[System 2]] review.
 > - If our problem is [[Confirmation Bias]] (a [[System 1]] tendency to seek agreeable facts), the scaffold is an **[[Epistemic Spot Check]]**. This is a *mandatory* checklist (like the "TWED" mnemonic) that forces you to ask: "What is the *quality* of this evidence? What is the *strongest argument for the other side*? Have I actively tried to *disprove* my own hypothesis?" These questions are the *external* trigger to force [[System 2]] to do the hard work of analytical validation.
 
 # HELPFUL TIP

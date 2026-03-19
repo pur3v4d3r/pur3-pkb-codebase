@@ -31,7 +31,7 @@ link-related:
   - "[[Atomic Notes]]"
   - "[[Planning]]"
   - "[[Self Behavioral Management]]"
-  - "[[Long Term Memory]]"
+  - "[[Long-Term-Memory]]"
   - "[[Long-Term Working Memory]]"
   - "[[Planning]]"
   - "[[Critical Thinking]]"

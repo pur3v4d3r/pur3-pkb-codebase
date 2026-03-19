@@ -227,7 +227,7 @@ extraction_summary:
 #### 16. [INSIGHT] A Convergent Picture *(Line 377)*
 
 > [!insight] A Convergent Picture
-> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
+> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
 
 #### 17. [ASK-YOURSELF-THIS] Mapping Your Position *(Line 380)*
 
@@ -497,7 +497,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Reference-Effect|Self-Reference Effect]]
 - [[Self-Reference Effect in Memory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[The Generation Effect]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
@@ -642,7 +642,7 @@ extraction_summary:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Reference-Effect|Self-Reference Effect]]
 - [[Self-Reference Effect in Memory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[The Generation Effect]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
@@ -710,7 +710,7 @@ extraction_summary:
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Elaborative Interrogation as Study Strategy]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Desirable Difficulties in Learning]]
 
 ---

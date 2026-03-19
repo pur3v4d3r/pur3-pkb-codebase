@@ -77,11 +77,11 @@ review-priority: medium
       - [Quadrant 4: What Should We Remember?](https://www.google.com/search?q=%23quadrant-4-what-should-we-remember)
 4.  [Key Examples: A-Rapid-Reference-Catalog](https://www.google.com/search?q=%234---key-examples-a-rapid-reference-catalog)
       - [[Anchoring Bias]]
-      - [[Availability Heuristic]]
+      - [[Availability-Heuristic]]
       - [[Confirmation Bias]]
-      - [[Dunning-Kruger Effect]]
+      - [[Dunning-Kruger-Effect]]
       - [[Fundamental Attribution Error]]
-      - [[Hindsight Bias]]
+      - [[Hindsight-Bias]]
       - [[Sunk Cost Fallacy (Irrational Escalation)]]
       - [[Survivorship Bias]]
 5.  [Key Theoretical Model: Prospect Theory](https://www.google.com/search?q=%235---key-theoretical-model-prospect-theory)
@@ -124,8 +124,8 @@ This section outlines the three pillars of understanding cognitive bias: its pre
 
 It is impossible to understand biases without understanding heuristics. The human brain has limited processing power and time. To compensate, it develops heuristics (shortcuts) that are "good enough" most of the time.
 
-A [[Cognitive Biases]] is what happens when one of these shortcuts is applied in the wrong context, leading to a predictable error. For example, the [[Availability Heuristic]] (judging the likelihood of an event by how easily it comes to mind) is a fast shortcut. However, it reliably produces the [[Availability Bias]], where we overestimate the frequency of shark attacks because they are vivid and heavily reported, not because they are statistically common.
-[[Availability Heuristic]]
+A [[Cognitive Biases]] is what happens when one of these shortcuts is applied in the wrong context, leading to a predictable error. For example, the [[Availability-Heuristic]] (judging the likelihood of an event by how easily it comes to mind) is a fast shortcut. However, it reliably produces the [[Availability Bias]], where we overestimate the frequency of shark attacks because they are vivid and heavily reported, not because they are statistically common.
+[[Availability-Heuristic]]
 
 ## CORE MECHANISM: SYSTEM 1 & SYSTEM 2 THINKING
 
@@ -175,7 +175,7 @@ Their initial work identified three foundational heuristics that explain a wide 
 >
 > 1.  **[[Representativeness Heuristic]]**: Judging the probability of something based on how well it *matches* a prototype or stereotype, while ignoring statistical base rates.
 >       - *Bias*: Believing a quiet, poetry-reading person is more likely to be an Ivy League Classics professor than a truck driver (ignoring the fact that there are thousands of times more truck drivers than Classics professors).
-> 2.  **[[Availability Heuristic]]**: Judging the frequency of an event by the *ease* with which instances come to mind.
+> 2.  **[[Availability-Heuristic]]**: Judging the frequency of an event by the *ease* with which instances come to mind.
 >       - *Bias*: Overestimating the risk of plane crashes after seeing one on the news.
 > 3.  **[[Anchoring and Adjustment]]**: Making an estimate by starting from an initial value (the "anchor") and making insufficient *adjustments* away from it, even if the anchor is arbitrary.
 >       - *Bias*: A negotiator's first offer, no matter how high, sets the "anchor" that all subsequent numbers are judged against.
@@ -196,7 +196,7 @@ The world is an overwhelming flood of data. Our brains must filter almost all of
 
   - **Key Biases Include**:
       - **[[Confirmation Bias]]**: We see and value evidence that supports what we already believe.
-      - **[[Availability Heuristic]]**: We value information that is recent, vivid, or easy to recall.
+      - **[[Availability-Heuristic]]**: We value information that is recent, vivid, or easy to recall.
       - **[[Anchoring Bias]]**: We over-value the first piece of information we receive.
       - **[[Frequency Illusion (Baader-Meinhof Phenomenon)]]**: We notice things more often *after* we first learn about them (e.g., you buy a red car and suddenly see red cars everywhere).
 
@@ -225,7 +225,7 @@ We are constrained by time and information. We must be able to make a decision q
   - **Key Biases Include**:
       - **[[Sunk Cost Fallacy]]**: We over-value things we have already invested time, money, or effort in, even if it's rational to abandon them.
       - **[[Optimism Bias]] / [[Overconfidence Bias]]**: We are overly optimistic about our own abilities and the likelihood of positive outcomes.
-      - **[[Dunning-Kruger Effect]]**: The least competent people are the most likely to overestimate their competence.
+      - **[[Dunning-Kruger-Effect]]**: The least competent people are the most likely to overestimate their competence.
       - **[[Status Quo Bias]]**: We prefer to keep things the same, as change (even for the better) is seen as a risk.
 
 ## QUADRANT 4: WHAT SHOULD WE REMEMBER?
@@ -237,7 +237,7 @@ We cannot store everything. We must choose what is important and worth saving. O
 > "We discard specifics to form generalities. We edit and reinforce memories after the fact to fit our current understanding, creating a feedback loop."
 
   - **Key Biases Include**:
-      - **[[Hindsight Bias]] ("I-knew-it-all-along")**: After an event occurs, we misremember our past predictions and believe the outcome was obvious.
+      - **[[Hindsight-Bias]] ("I-knew-it-all-along")**: After an event occurs, we misremember our past predictions and believe the outcome was obvious.
       - **[[Misinformation Effect]]**: Our memories of an event are altered if we are later exposed to misleading information about it.
       - **[[Peak-End Rule]]**: We judge an entire past experience based on its *peak* (most intense moment) and its *end*, rather than the average of the whole experience.
       - **[[Rosy Retrospection]]**: We remember the past as being better than it actually was.
@@ -256,7 +256,7 @@ This section provides brief, technical definitions for the most commonly-cited b
 
 > [!definition]
 >
->   - **Key-Term**:**[[Availability Heuristic]]**
+>   - **Key-Term**:**[[Availability-Heuristic]]**
 >   - **Definition**:A mental shortcut for judging the likelihood of an event based on the *ease* with which examples come to mind. Vivid, recent, or emotionally charged events are perceived as more common than they are.
 >   - **Category**:[[\#Quadrant 1: Too Much Information]]
 
@@ -268,7 +268,7 @@ This section provides brief, technical definitions for the most commonly-cited b
 
 > [!definition]
 >
->   - **Key-Term**:**[[Dunning-Kruger Effect]]**
+>   - **Key-Term**:**[[Dunning-Kruger-Effect]]**
 >   - **Definition**:A cognitive bias in which people with low ability at a task overestimate their ability. It is a metacognitive failure where the incompetence that prevents good performance also prevents the person from *recognizing* their own incompetence.
 >   - **Category**:[[\#Quadrant 3: The Need to Act Fast]]
 
@@ -280,7 +280,7 @@ This section provides brief, technical definitions for the most commonly-cited b
 
 > [!definition]
 >
->   - **Key-Term**:**[[Hindsight Bias]]**
+>   - **Key-Term**:**[[Hindsight-Bias]]**
 >   - **Definition**:The tendency, after an event has occurred, to see the event as having been predictable, despite there having been little or no objective basis for predicting it ("I knew it all along").
 >   - **Category**:[[\#Quadrant 4: What Should We Remember?]]
 
@@ -359,7 +359,7 @@ Cognitive biases are not just academic curiosities. They have massive, measurabl
 
   - **[[Halo Effect]] (Management)**: A manager sees that an employee is charismatic and assumes they are also competent and productive, leading to biased performance reviews.
   - **[[Fundamental Attribution Error]] (Management)**: A manager attributes a missed deadline to an employee's "laziness" (disposition) rather than an "unrealistic timeline" (situation).
-  - **[[Hindsight Bias]] (Law)**: After a tragedy, juries and judges are prone to believe the negative outcome was "obvious" and that the defendant *should have* foreseen it.
+  - **[[Hindsight-Bias]] (Law)**: After a tragedy, juries and judges are prone to believe the negative outcome was "obvious" and that the defendant *should have* foreseen it.
 
 -----
 
@@ -409,7 +409,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 |---|---|---|---|
 | **[[as]]** | A *systematic error* in thinking; a predictable deviation from rationality. | Unconscious Error (System 1) | **[[Sunk Cost Fallacy]]**: "I'll keep watching this bad movie because I already paid for the ticket." |
 | **[[Logical Fallacy]]** | An *error in reasoning* or a flaw in the structure of a logical argument. | Conscious or Unconscious Error (System 2) | **Straw Man**: "You want to reduce defense spending? So you want to leave the country defenseless?" |
-| **[[Heuristic]]** | A *mental shortcut* or rule of thumb used to simplify decision-making. | Unconscious Process (System 1) | **[[Availability Heuristic]]**: "I can think of 3 friends who got the flu, so it must be everywhere." |
+| **[[Heuristic]]** | A *mental shortcut* or rule of thumb used to simplify decision-making. | Unconscious Process (System 1) | **[[Availability-Heuristic]]**: "I can think of 3 friends who got the flu, so it must be everywhere." |
 
 -----
 
@@ -431,8 +431,8 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 > **Connection to Broader Knowledge**
 >
 >   - **Parent Topic**: [[Cognitive Science]], [[Psychology]], [[Behavioral Economics]]
->   - **Sibling Topics**: [[Logical Fallacies]], [[Mental Models]], [[Heuristics]]
->   - **Child Topics**: [[Confirmation Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability Heuristic]], [[Sunk Cost Fallacy]]
+>   - **Sibling Topics**: [[Logical Fallacies]], [[Mental-Models]], [[Heuristics]]
+>   - **Child Topics**: [[Confirmation Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk Cost Fallacy]]
 
 -----
 

@@ -358,7 +358,7 @@ this.container.querySelectorAll(".table-view-table tr:first-of-type th:first-of-
 |--------------|--------------|
 | [[Query Example 1]] | [[Dataview Overview]] |
 | [[Dashboard Note]] | [[DQL Reference]] |
-| [[Project Analysis]] | [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-obsidian/-bases/functions]] |
+| [[Project Analysis]] | [[functions]] |
 | [[Research Query]] | [[Data Commands]] |
 
 ### Why This Matters
@@ -473,7 +473,7 @@ WHERE rating > 7
 
 - Query meta
   - QueryType:: [[dql]]
-  - dataCommands:: [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-obsidian/-formatting/table]], [[from]], [[flatten]], [[where]]
+  - dataCommands:: [[table]], [[from]], [[flatten]], [[where]]
   - functions:: 
   - tags:: #library #data-organization
   - image:: [[Book-Query-Screenshot.png]]

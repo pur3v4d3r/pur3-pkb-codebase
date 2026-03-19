@@ -70,7 +70,7 @@ builds_on:
 > [!further-exploration] Critical Gaps — Must Be Addressed for Framework Operationalization
 >
 > > [!topic-idea] [[PKM Implementation Companion — Twelve Master Principles]]
-> > **Gap Identified:** The framework provides exceptional theoretical design principles (the [[Twelve Master Principles]]) but zero implementation artifacts. No [[Templater]] templates, no [[Dataview]] queries, no [[QuickAdd]] macros, no [[Meta Bind]] configurations. This is the single largest gap in the entire series.
+> > **Gap Identified:** The framework provides exceptional theoretical design principles (the [[Twelve-Master-Principles]]) but zero implementation artifacts. No [[Templater]] templates, no [[Dataview]] queries, no [[QuickAdd]] macros, no [[Meta Bind]] configurations. This is the single largest gap in the entire series.
 > > **Where It Would Connect:** [[Report 27 — The Complete PKM/PKB Design Framework]], [[Obsidian PKB Architecture]], [[pkm-pkb-framework-synthesis]]
 > > **Estimated Effort:** <span style='color: #E50000;'>Substantial</span> — Each of the 12 principles requires specific tooling
 > > **Value Proposition:** Transforms the framework from theoretical resource to operational blueprint
@@ -106,7 +106,7 @@ builds_on:
 > [!further-exploration] High-Impact Extensions — Significantly Enhance Framework Value
 >
 > > [!topic-idea] [[Review Architecture Implementation — DP3 Operationalization]]
-> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing Effect]] (d = 0.50) and [[Spacing Effect]] are among the most robust findings in the series — they deserve the best tooling.
+> > **Gap Identified:** [[DP3: Review Architecture]] prescribes spaced, retrieval-based review but the series provides no concrete implementation for Obsidian. The [[Testing-Effect]] (d = 0.50) and [[Spacing-Effect]] are among the most robust findings in the series — they deserve the best tooling.
 > > **Where It Would Connect:** [[Report 06 — The Science of Remembering]], [[Report 16 — Desirable Difficulties by Design]], [[Report 20 — Retrieval-Enhanced Knowledge Networks]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Implements the single highest-evidence learning technique in the entire framework
@@ -127,8 +127,8 @@ builds_on:
 > > - Annual architecture review checklist
 >
 > > [!topic-idea] [[Calibration Tracker — DP5 Operationalization]]
-> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[Fluency Illusion]] — the framework's identified universal failure mode.
-> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[Fluency Illusion]], [[Dunning-Kruger Effect]]
+> > **Gap Identified:** [[DP5: Calibration Systems]] demands embedded confidence tracking and accuracy comparison. Without tooling, practitioners have no operational way to combat the [[Fluency-Illusion]] — the framework's identified universal failure mode.
+> > **Where It Would Connect:** [[Report 18 — Calibration & Epistemic Humility]], [[Report 30 — Future of PKM / AI-Enhanced Knowledge Building]], [[Fluency-Illusion]], [[Dunning-Kruger-Effect]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Operationalizes the anti-fluency-illusion mechanism that the framework identifies as most critical
 > > **Suggested Approach:**
@@ -138,7 +138,7 @@ builds_on:
 >
 > > [!topic-idea] [[Active Processing Workflow Templates — DP4 Operationalization]]
 > > **Gap Identified:** [[DP4: Active Processing Workflows]] requires that note creation include elaboration, generation, and synthesis prompts. Currently theoretical.
-> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[Desirable Difficulties]]
+> > **Where It Would Connect:** [[Report 17 — Note-Making as Knowledge Construction]], [[Report 03 — Constructing Understanding]], [[Desirable-Difficulties]]
 > > **Estimated Effort:** <span style='color: #27FF00;'>Brief</span>
 > > **Value Proposition:** Low-effort, high-impact — modifying Templater templates is quick and immediately impacts every new note created
 > > **Suggested Approach:**
@@ -155,7 +155,7 @@ builds_on:
 > [!further-exploration] Framework Extensions — Broaden Coverage and Depth
 >
 > > [!topic-idea] [[Collaborative PKM Framework — Report 31]]
-> > **Gap Identified:** Report 27 explicitly acknowledges that the current model addresses only solo practice. [[Collaborative Knowledge Building]], shared [[Zettelkasten]], team knowledge graphs, and social [[SECI Model]] processes are absent.
+> > **Gap Identified:** Report 27 explicitly acknowledges that the current model addresses only solo practice. [[Collaborative Knowledge Building]], shared [[Zettelkasten]], team knowledge graphs, and social [[SECI-Model]] processes are absent.
 > > **Where It Would Connect:** [[Report 05 — Motivation Architecture]] (relatedness need), [[Report 22 — Tacit Knowledge & Limits of Capture]] (SECI socialization), [[Report 27 — The Complete PKM/PKB Design Framework]]
 > > **Estimated Effort:** <span style='color: #E50000;'>Substantial</span> — New research synthesis required
 > > **Value Proposition:** Extends framework to the social dimension, which SDT identifies as a basic psychological need

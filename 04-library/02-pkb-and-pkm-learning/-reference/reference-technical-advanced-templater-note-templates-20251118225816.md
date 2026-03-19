@@ -2578,7 +2578,7 @@ graph TD
 *Research Log Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 `````
 
-**Template Purpose:** Comprehensive research synthesis environment combining [[Literature Review]] methodology, [[Argument Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
+**Template Purpose:** Comprehensive research synthesis environment combining [[Literature-Review]] methodology, [[Argument-Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
 
 **Key Features:**
 - Multi-phase research tracking (literature → analysis → writing)
@@ -4273,7 +4273,7 @@ graph LR
 *Follow-up status: <% tp.frontmatter.follow_up_needed ? "🔴 Follow-up needed" : "✅ Complete" %>*
 `````
 
-**Template Purpose:** Comprehensive framework for archiving educational LLM conversations with structured learning assessment, comprehension tracking, and integration into spaced repetition workflows. Designed for [[Self-Directed Learning]] and [[Metacognitive Development]].
+**Template Purpose:** Comprehensive framework for archiving educational LLM conversations with structured learning assessment, comprehension tracking, and integration into spaced repetition workflows. Designed for [[Self-Directed-Learning]] and [[Metacognitive-Development]].
 
 **Key Features:**
 - Learning stage and comprehension level tracking for metacognitive awareness

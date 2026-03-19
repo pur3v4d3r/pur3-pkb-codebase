@@ -319,7 +319,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 28)*
 
 > [!the-purpose] Untitled
-> This is the start of the [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] [[Prompt-Component |prompt-component]] Library. (The start of it anyway) I will be using the system I have worked out with the LLM [[Gemini]] for building a robust set of [[Prompt-Component |prompting-components]] to be used as modular pieces in a [[Prompt Template|template]].
+> This is the start of the [[CLAUDE]] [[Prompt-Component |prompt-component]] Library. (The start of it anyway) I will be using the system I have worked out with the LLM [[Gemini]] for building a robust set of [[Prompt-Component |prompting-components]] to be used as modular pieces in a [[Prompt Template|template]].
 
 #### 2. [QUICK-REFERENCE] Untitled *(Line 33)*
 
@@ -832,7 +832,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Decisive Recommendation**
-> For a [[Prompt Component Library]] managed by [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] as a librarian, **Convention A (Type-Prefix)** is significantly superior for this specific use case, despite Convention B's advantages in other PKB contexts.
+> For a [[Prompt Component Library]] managed by [[CLAUDE]] as a librarian, **Convention A (Type-Prefix)** is significantly superior for this specific use case, despite Convention B's advantages in other PKB contexts.
 
 #### 57. [THOUGHT-EXPERIMENT] Untitled *(Line 2065)*
 
@@ -989,8 +989,8 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/00_⚫Obsidian-Help/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[Obsidian]]
+- [[CLAUDE]]
 - [[20251110045351_claude-as-prompt-component-librarian_📚comprehensive-reference]]
 - [[Atomic Components]]
 - [[Atomic components]]
@@ -1064,7 +1064,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | Document Start | 29 |
+| 1 | [[CLAUDE]] | — | — | Document Start | 29 |
 | 2 | [[Prompt-Component]] | prompt-component | — | Document Start | 29 |
 | 3 | [[Gemini]] | — | — | Document Start | 29 |
 | 4 | [[Prompt-Component]] | prompting-components | — | Document Start | 29 |
@@ -1085,16 +1085,16 @@ extraction_summary:
 | 19 | [[Constraint Components]] | — | — | Validation Notes | 1108 |
 | 20 | [[Prompt-Component]] | prompt components | — | Validation Notes | 1108 |
 | 21 | [[Prompt-Component]] | — | — | Validation Notes | 1116 |
-| 22 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | Component Discovery & Selection Workflow | 1142 |
+| 22 | [[CLAUDE]] | — | — | Component Discovery & Selection Workflow | 1142 |
 | 23 | [[Prompt-Component]] | — | — | Component Discovery & Selection Workflow | 1142 |
 | 24 | [[Dataview]] | — | — | Quick Reference for Data to Collect a... | 1222 |
 | 25 | [[Bayesian Statistics]] | — | — | Quick Reference for Data to Collect a... | 1229 |
 | 26 | [[20251110045351_claude-as-prompt-component-librarian_📚comprehensive-reference]] | — | — | **Phase 1: Foundation | 1246 |
-| 27 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | **Phase 1: Foundation | 1248 |
+| 27 | [[CLAUDE]] | — | — | **Phase 1: Foundation | 1248 |
 | 28 | [[Prompt-Component]] | Prompt-Components | — | **Phase 1: Foundation | 1248 |
 | 29 | [[Prompt-Component]] | — | — | **Phase 1: Foundation | 1252 |
 | 30 | [[Prompt-Component]] | Prompt-Components | — | **Phase 1: Foundation | 1254 |
-| 31 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | **Phase 2: Pattern Recognition | 1266 |
+| 31 | [[CLAUDE]] | — | — | **Phase 2: Pattern Recognition | 1266 |
 | 32 | [[Prompt-Component]] | prompt components | — | **Phase 2: Pattern Recognition | 1266 |
 | 33 | [[Prompt-Component]] | prompt components | — | **Phase 2: Pattern Recognition | 1267 |
 | 34 | [[Prompt-Component]] | prompt components | — | **Phase 2: Pattern Recognition | 1267 |
@@ -1128,16 +1128,16 @@ extraction_summary:
 | 62 | [[Core-Output-Markdown-Documentation-v2]] | — | — | EXAMPLE OF YAML FRONT MATTER | 1767 |
 | 63 | [[Technique-Reasoning-Step-by-Step-Explanation-v1]] | — | — | EXAMPLE OF YAML FRONT MATTER | 1768 |
 | 64 | [[Core-Role-Technical-Writer-v1]] | — | — | EXAMPLE OF YAML FRONT MATTER | 1769 |
-| 65 | [[04_library/00_⚫Obsidian-Help/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | ✅ STRONG DESIGN ELEMENTS | 1791 |
+| 65 | [[Obsidian]] | — | — | ✅ STRONG DESIGN ELEMENTS | 1791 |
 | 66 | [[component hierarchy model]] | — | — | ✅ STRONG DESIGN ELEMENTS | 1793 |
 | 67 | [[Prompt Component Library]] | — | — | Recent Changes | 2025 |
-| 68 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | Recent Changes | 2025 |
+| 68 | [[CLAUDE]] | — | — | Recent Changes | 2025 |
 | 69 | [[Prompt Component Librarian]] | — | — | Recent Changes | 2025 |
 | 70 | [[Prompt Component Library]] | — | — | 📊 COMPARATIVE ANALYSIS | 2033 |
 | 71 | [[Obsidian PKB]] | — | — | 📊 COMPARATIVE ANALYSIS | 2033 |
 | 72 | [[Prompt Component Library]] | — | — | 💡 CRITICAL ANALYSIS | 2055 |
-| 73 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | 💡 CRITICAL ANALYSIS | 2055 |
-| 74 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | WHY CONVENTION A EXCELS FOR COMPONENT... | 2063 |
+| 73 | [[CLAUDE]] | — | — | 💡 CRITICAL ANALYSIS | 2055 |
+| 74 | [[CLAUDE]] | — | — | WHY CONVENTION A EXCELS FOR COMPONENT... | 2063 |
 | 75 | [[Zettelkasten]] | — | — | WHEN CONVENTION B WOULD BE BETTER | 2073 |
 | 76 | [[Prompt Component Library]] | — | — | 🎯 FINAL RECOMMENDATION | 2178 |
 | 77 | [[Prompt Component Librarian]] | — | — | 🎯 FINAL RECOMMENDATION | 2188 |
@@ -1166,7 +1166,7 @@ extraction_summary:
 | 100 | [[{{author}}]] | — | — | 🧩 {{title}} | 2482 |
 | 101 | [[Prompt Component Library]] | — | — | VERSION HISTORY | 2522 |
 | 102 | [[Prompt Component Library]] | — | — | 📋 IMPLEMENTATION RECOMMENDATIONS | 2534 |
-| 103 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | 📋 IMPLEMENTATION RECOMMENDATIONS | 2534 |
+| 103 | [[CLAUDE]] | — | — | 📋 IMPLEMENTATION RECOMMENDATIONS | 2534 |
 | 104 | [[Component Template Variations for Specific Types]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 2540 |
 | 105 | [[Automated Template Population with Templater]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 2541 |
 | 106 | [[Component Testing Frameworks and Protocols]] | — | — | 🔗 RELATED TOPICS FOR PKB EXPANSION | 2542 |
@@ -2415,8 +2415,8 @@ graph LR
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/00_⚫Obsidian-Help/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[Obsidian]]
+- [[CLAUDE]]
 - [[20251110045351_claude-as-prompt-component-librarian_📚comprehensive-reference]]
 - [[Atomic Components]]
 - [[Atomic components]]

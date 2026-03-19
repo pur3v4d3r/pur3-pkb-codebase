@@ -549,7 +549,7 @@ extraction_summary:
 - [[Metacognitive Reflection]]
 - [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Prediction Error]]
+- [[Prediction-Error]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 12 — The Reflective PKB]]
@@ -557,7 +557,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Phenomenology of Experience Capture — Hermeneutics and PKM]]
 - [[The Tacit-Explicit Spiral in Personal Knowledge Development]]
@@ -580,7 +580,7 @@ extraction_summary:
 | 12 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Dewey and the Problem of Experience | 132 |
 | 13 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | The Evidence for Reflective Writing | 205 |
 | 14 | [[Felt-Difficulty|Felt Difficulty]] | — | — | How Reflective Inquiry Works at the C... | 251 |
-| 15 | [[Prediction Error]] | — | — | How Reflective Inquiry Works at the C... | 251 |
+| 15 | [[Prediction-Error]] | — | — | How Reflective Inquiry Works at the C... | 251 |
 | 16 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | The Tacit-Explicit Conversion Mechanism | 271 |
 | 17 | [[Metacognitive Reflection]] | — | — | Return-and-Deepen: Metacognitive Refl... | 292 |
 | 18 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Return-and-Deepen: Metacognitive Refl... | 294 |
@@ -628,7 +628,7 @@ extraction_summary:
 - [[Metacognitive Reflection]]
 - [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]
 - [[Pragmatist-Epistemology|Pragmatist Epistemology]]
-- [[Prediction Error]]
+- [[Prediction-Error]]
 - [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 12 — The Reflective PKB]]
@@ -636,7 +636,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Phenomenology of Experience Capture — Hermeneutics and PKM]]
 - [[The Tacit-Explicit Spiral in Personal Knowledge Development]]
@@ -669,7 +669,7 @@ extraction_summary:
 - [[Nonaka Knowledge Creation]]
 - [[Experiential Learning]]
 - [[Felt-Difficulty|Felt Difficulty]]
-- [[Inquiry-Based Learning]]
+- [[Inquiry-Based-Learning]]
 - [[Writing-to-Learn|Writing to Learn]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Encoding-Specificity|Encoding Specificity]]

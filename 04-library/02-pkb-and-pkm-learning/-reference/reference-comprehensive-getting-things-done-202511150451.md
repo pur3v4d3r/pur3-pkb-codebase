@@ -20,7 +20,7 @@ aliases:
   - GTD in Obsidian
 link-up: []
 link-related:
-  - "[[02-projects/-ongoing-project-pur3v4d3r/00-inbox/reference-comprehensive-orginization-in-pkm-202511150447]]"
+  - "[[reference-comprehensive-orginization-in-pkm-202511150447]]"
   - "[[reference-comprehensive-planning-through-a-pkb-202511142154]]"
 ---
 
@@ -3175,7 +3175,7 @@ GTD mastery requires both dimensions:
 4. **[[Weekly Review as Meta-Skill - Applications Beyond GTD]]**
    - *Connection*: The weekly review ritual represents broader principle of systematic reflection and recalibration applicable to any pursuit
    - *Depth Potential*: Review across domains (relationships, health, learning, business), review psychology research, designing domain-specific review protocols, cultural practices of reflection
-   - *Knowledge Graph Role*: Links [[productivity]], [[Metacognition]], [[Habit Formation]], [[Self-Regulated Learning]], [[Reflective Practice]]
+   - *Knowledge Graph Role*: Links [[productivity]], [[Metacognition]], [[Habit Formation]], [[Self-Regulated Learning]], [[Reflective-Practice]]
 
 ```
 <thinking>

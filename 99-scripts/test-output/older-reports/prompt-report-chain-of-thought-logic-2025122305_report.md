@@ -352,7 +352,7 @@ extraction_summary:
 - [[Bootstrap Aggregating]]
 - [[Breadth-First Search]]
 - [[Causal Tracing]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting]]
 - [[Chanin Of Thought]]
 - [[Circuit Complexity Theory]]
 - [[Cloud Computing Costs]]
@@ -516,14 +516,14 @@ extraction_summary:
 | 73 | [[Activation Patching]] | — | — | 1. **[[Mechanistic Interpretability o... | 319 |
 | 74 | [[Causal Tracing]] | — | — | 1. **[[Mechanistic Interpretability o... | 319 |
 | 75 | [[Sparse Autoencoders]] | — | — | 1. **[[Mechanistic Interpretability o... | 319 |
-| 76 | [[Chain-of-Thought Prompting]] | — | — | 1. **[[Mechanistic Interpretability o... | 320 |
+| 76 | [[Chain-of-Thought-Prompting]] | — | — | 1. **[[Mechanistic Interpretability o... | 320 |
 | 77 | [[Mechanistic Interpretability]] | — | — | 1. **[[Mechanistic Interpretability o... | 320 |
 | 78 | [[Neural Network Circuits]] | — | — | 1. **[[Mechanistic Interpretability o... | 320 |
 | 79 | [[Transformer Architecture]] | — | — | 1. **[[Mechanistic Interpretability o... | 322 |
 | 80 | [[Attention Visualization]] | — | — | 1. **[[Mechanistic Interpretability o... | 322 |
 | 81 | [[Activation Analysis]] | — | — | 1. **[[Mechanistic Interpretability o... | 322 |
 | 82 | [[Adversarial Robustness of CoT Reasoning]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 325 |
-| 83 | [[Chain-of-Thought Prompting]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
+| 83 | [[Chain-of-Thought-Prompting]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 84 | [[Adversarial Examples]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 85 | [[AI Safety]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
 | 86 | [[Logical Fallacies]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 328 |
@@ -531,7 +531,7 @@ extraction_summary:
 | 88 | [[Adversarial Machine Learning]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 330 |
 | 89 | [[Prompt Injection]] | — | — | 2. **[[Adversarial Robustness of CoT ... | 330 |
 | 90 | [[Multimodal Chain-of-Thought Reasoning]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 333 |
-| 91 | [[Chain-of-Thought Prompting]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 336 |
+| 91 | [[Chain-of-Thought-Prompting]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 336 |
 | 92 | [[Multimodal Learning]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 336 |
 | 93 | [[Vision-Language Models]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 336 |
 | 94 | [[Visual Reasoning]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 336 |
@@ -539,7 +539,7 @@ extraction_summary:
 | 96 | [[Cross-Modal Attention]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 338 |
 | 97 | [[Image Captioning]] | — | — | 3. **[[Multimodal Chain-of-Thought Re... | 338 |
 | 98 | [[Economic Analysis of CoT Cost-Benefit Tradeoffs]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 341 |
-| 99 | [[Chain-of-Thought Prompting]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 344 |
+| 99 | [[Chain-of-Thought-Prompting]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 344 |
 | 100 | [[AI Economics]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 344 |
 | 101 | [[Resource Optimization]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 344 |
 | 102 | [[System Design]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 344 |
@@ -547,7 +547,7 @@ extraction_summary:
 | 104 | [[Inference Optimization]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 346 |
 | 105 | [[Cost-Accuracy Pareto Frontiers]] | — | — | 4. **[[Economic Analysis of CoT Cost-... | 346 |
 | 106 | [[Training-Time Integration: CoT as Architectural Inductive Bias]] | — | — | 5. **[[Training-Time Integration: CoT... | 349 |
-| 107 | [[Chain-of-Thought Prompting]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
+| 107 | [[Chain-of-Thought-Prompting]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 108 | [[Transformer Architecture Design]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 109 | [[Reinforcement Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
 | 110 | [[Curriculum Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 352 |
@@ -556,7 +556,7 @@ extraction_summary:
 | 113 | [[Meta-Learning]] | — | — | 5. **[[Training-Time Integration: CoT... | 354 |
 | 114 | [[Process Supervision]] | — | — | 5. **[[Training-Time Integration: CoT... | 354 |
 | 115 | [[Cross-Cultural and Cross-Linguistic Reasoning Patterns]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 357 |
-| 116 | [[Chain-of-Thought Prompting]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 360 |
+| 116 | [[Chain-of-Thought-Prompting]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 360 |
 | 117 | [[Cross-Cultural Cognition]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 360 |
 | 118 | [[Multilingual NLP]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 360 |
 | 119 | [[Cultural Psychology]] | — | — | 6. **[[Cross-Cultural and Cross-Lingu... | 360 |
@@ -1127,7 +1127,7 @@ $$
 - [[Bootstrap Aggregating]]
 - [[Breadth-First Search]]
 - [[Causal Tracing]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting]]
 - [[Chanin Of Thought]]
 - [[Circuit Complexity Theory]]
 - [[Cloud Computing Costs]]

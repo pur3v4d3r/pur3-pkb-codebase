@@ -586,7 +586,7 @@ extraction_summary:
 - [[Apatheia]]
 - [[Amor Fati]]
 - [[Memento Mori]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Cognitive Behavioral Therapy]]
 - [[Acceptance and Commitment Therapy]]
 - [[Cognitive Reappraisal]]
@@ -603,7 +603,7 @@ extraction_summary:
 
 #### Narrower
 
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum]]
 - [[Amor Fati]]
 - [[The Obstacle Is the Way]]
 - [[Stoic Consolation]]

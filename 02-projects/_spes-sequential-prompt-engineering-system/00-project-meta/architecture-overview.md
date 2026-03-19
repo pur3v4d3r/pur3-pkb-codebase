@@ -693,7 +693,7 @@ Level 4: System Health (Overall SPES)
 
 - [[project-charter]] → Vision, objectives, success criteria
 - [[implementation-roadmap]] → Phased execution plan
-- [[01-claude-librarian-instructions/]] → Operational procedures
+- [[.md]] → Operational procedures
 - [[00-meta/project-tracker]] → Current task status
 
 ---

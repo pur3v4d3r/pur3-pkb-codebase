@@ -436,7 +436,7 @@ Process:
 Output: Structured knowledge base for each document section
 ```
 
-This phase addresses the epistemic challenge: ensuring factual accuracy and comprehensive coverage. Rather than expecting the model to generate content purely from parametric knowledge (which risks hallucination and omission), dedicated research modules systematically gather, verify, and organize information before generation begins. This implements [[Retrieval-Augmented Generation]] principles within a modular decomposition framework.
+This phase addresses the epistemic challenge: ensuring factual accuracy and comprehensive coverage. Rather than expecting the model to generate content purely from parametric knowledge (which risks hallucination and omission), dedicated research modules systematically gather, verify, and organize information before generation begins. This implements [[Retrieval-Augmented-Generation]] principles within a modular decomposition framework.
 
 %%confidence: confident%%
 

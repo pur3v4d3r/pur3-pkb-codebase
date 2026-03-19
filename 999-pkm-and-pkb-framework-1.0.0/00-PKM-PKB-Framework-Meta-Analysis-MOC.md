@@ -82,7 +82,7 @@ parent: "[[00-PKM-PKB-Framework-Master-MOC]]"
 
 ### Tension 1: Thoroughness vs. Sustainability
 
-The framework's [[Active Construction Imperative]] (FP2) demands effortful processing for every note. The [[Motivational Sustainability Imperative]] (FP4) demands that PKM be sustainable over decades. These imperatives compete for the same resource: practitioner cognitive energy. **No "minimum viable practice" specification exists** — no guidance on how to implement the Twelve Master Principles at a level comprehensive enough to be effective but lightweight enough to be sustainable.
+The framework's [[Active-Construction-Imperative]] (FP2) demands effortful processing for every note. The [[Motivational Sustainability Imperative]] (FP4) demands that PKM be sustainable over decades. These imperatives compete for the same resource: practitioner cognitive energy. **No "minimum viable practice" specification exists** — no guidance on how to implement the Twelve Master Principles at a level comprehensive enough to be effective but lightweight enough to be sustainable.
 
 *Status:* Identified as the framework's most significant unresolved tension. The [[Minimum Viable PKB Practice]] expansion topic is rated critical priority.
 
@@ -121,7 +121,7 @@ All 30 reports were generated in a 3-day window. The reports claim to "build on"
 |-----|--------|---------------------|--------|
 | No review system tooling | Highest-evidence technique (Testing Effect) unimplemented | [[Review Architecture Implementation — DP3 Operationalization]] | Not started |
 | No integration diagnostics | Cannot detect [[Accumulation Problem]] — #1 failure mode | [[Integration Metabolism Dashboard — RP3 Operationalization]] | Not started |
-| No calibration tooling | Cannot counter [[Fluency Illusion]] — universal failure mode | [[Calibration Tracker — DP5 Operationalization]] | Not started |
+| No calibration tooling | Cannot counter [[Fluency-Illusion]] — universal failure mode | [[Calibration Tracker — DP5 Operationalization]] | Not started |
 | No active processing templates | Note creation lacks elaboration prompts | [[Active Processing Workflow Templates — DP4 Operationalization]] | Not started |
 
 ### Medium Priority

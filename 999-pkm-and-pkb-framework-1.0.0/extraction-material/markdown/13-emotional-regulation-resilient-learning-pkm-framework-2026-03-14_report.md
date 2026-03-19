@@ -570,7 +570,7 @@ extraction_summary:
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
-- [[Relatedness Need]]
+- [[Relatedness-Need]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seligman]]
@@ -608,7 +608,7 @@ extraction_summary:
 | 25 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | How Academic Emotions Are Actually Ge... | 291 |
 | 26 | [[Autonomy-Need|Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
 | 27 | [[Competence-Need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
-| 28 | [[Relatedness Need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
+| 28 | [[Relatedness-Need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
 | 29 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | SDT Need Support as Emotional Inocula... | 331 |
 | 30 | [[Schema-Theory|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
 | 31 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | Report 04: Metacognitive Self-Regulation | — | Phase VII: PKB Connections & Cross-Re... | 438 |
@@ -662,7 +662,7 @@ extraction_summary:
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
-- [[Relatedness Need]]
+- [[Relatedness-Need]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seligman]]

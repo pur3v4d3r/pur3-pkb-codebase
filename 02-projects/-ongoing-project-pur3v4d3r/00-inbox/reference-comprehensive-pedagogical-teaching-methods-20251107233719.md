@@ -109,7 +109,7 @@ There are three main families of learning theories with an emerging fourth: beha
 
 > [!definition]
 > - **Behaviorism**:: A learning theory positing that learning occurs through interaction with the environment and is evidenced by observable, measurable changes in behavior
-> - **Key Theorists**:: [[B.F. Skinner]], [[John B. Watson]], [[Edward Thorndike]], [[Ivan Pavlov]]
+> - **Key Theorists**:: [[B.F. Skinner]], [[John B. Watson]], [[Edward-Thorndike]], [[Ivan Pavlov]]
 
 Behaviorism grew from early 20th-century psychologists who hypothesized that learning occurs through interaction with the environment. This paradigm fundamentally rejects the study of internal mental states, focusing exclusively on observable behaviors that can be measured and modified through environmental manipulation.
 
@@ -139,7 +139,7 @@ Behaviorist principles manifest in teaching through:
 
 > [!definition]
 > - **Cognitivism**:: A learning theory conceptualizing the mind as an information processing system that encodes, stores, and retrieves information through mental structures called [[Schemas|schemata]]
-> - **Key Theorists**:: [[Jean Piaget]], [[Jerome Bruner]], [[Robert Gagné]], [[David Ausubel]]
+> - **Key Theorists**:: [[Jean Piaget]], [[Jerome Bruner]], [[Robert Gagné]], [[David-Ausubel]]
 
 Cognitivism emerged in the mid-20th century as a response to behaviorism's limitations, redirecting attention to internal mental processes that mediate between stimulus and response. Piaget detailed how learners compare new information with prior held beliefs and actively change behavior or disregard learning based upon their analysis of the material.
 
@@ -157,7 +157,7 @@ Cognitivist principles inform teaching through:
 - [[Advance Organizers]] providing conceptual frameworks before detailed content
 - [[Concept Mapping]] to externalize knowledge structures
 - [[Chunking]] information to respect working memory limitations
-- [[Elaborative Rehearsal]] promoting deep processing
+- [[Elaborative-Rehearsal]] promoting deep processing
 - [[Metacognitive Strategies]] helping learners monitor their thinking
 - [[Scaffolding]] that progressively transfers cognitive responsibility
 
@@ -165,7 +165,7 @@ Cognitivist principles inform teaching through:
 
 > [!definition]
 > - **Constructivism**:: A learning theory proposing that learners actively construct knowledge through experiences and reflection rather than passively receiving information
-> - **Key Theorists**:: [[Jean Piaget]] (Cognitive Constructivism), [[Lev Vygotsky]] (Social Constructivism), [[Jerome Bruner]], [[John Dewey]]
+> - **Key Theorists**:: [[Jean Piaget]] (Cognitive Constructivism), [[Lev Vygotsky]] (Social Constructivism), [[Jerome Bruner]], [[John-Dewey]]
 
 Constructivism suggests learners actively build their knowledge through experiences and interactions, with education focusing on problem-solving and critical thinking while encouraging learners to connect new information with prior knowledge.
 
@@ -200,7 +200,7 @@ Vygotsky's theory of social constructivism posits that learning and development 
 Constructivist principles manifest in:
 - [[Problem-Based Learning]] where learners construct understanding through problem-solving
 - [[Project-Based Learning]] with authentic, extended inquiries
-- [[Inquiry-Based Learning]] emphasizing question formulation and investigation
+- [[Inquiry-Based-Learning]] emphasizing question formulation and investigation
 - [[Collaborative Learning]] leveraging peer interaction
 - [[Discovery Learning]] with guided exploration
 - [[Authentic Assessment]] evaluating real-world application
@@ -375,7 +375,7 @@ Pure lecture without active elements shows consistently poor learning outcomes c
 
 > [!definition]
 > - **Demonstration**:: A pedagogical method where the teacher performs a skill or procedure while students observe, then students practice under supervision
-> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[Albert Bandura]]), [[Cognitive Apprenticeship]]
+> - **Theoretical Foundation**:: [[Social Learning Theory]] ([[Albert Bandura]]), [[Cognitive-Apprenticeship]]
 
 Demonstration and modeling bridges the gap between abstract explanation and practical application by making expert performance visible and providing clear exemplars for novice learners to emulate.
 
@@ -399,7 +399,7 @@ Demonstration and modeling bridges the gap between abstract explanation and prac
 
 > [!connections-and-links]
 > **Evolution to Contemporary Methods**
-> Classical demonstration evolved into [[Cognitive Apprenticeship]] (see [[#5-instructional-design-frameworks|Instructional Design Frameworks]]), which makes cognitive and metacognitive processes visible, not just physical actions.
+> Classical demonstration evolved into [[Cognitive-Apprenticeship]] (see [[#5-instructional-design-frameworks|Instructional Design Frameworks]]), which makes cognitive and metacognitive processes visible, not just physical actions.
 
 ### 📝 Rote Learning and Memorization
 
@@ -486,7 +486,7 @@ The evidence strongly favors active learning over traditional lecture-only appro
 > [!definition]
 > - **Collaborative Learning**:: Instructional methods leveraging student interaction in groups to achieve learning objectives through shared intellectual effort
 > - **Cooperative Learning**:: A structured form of collaborative learning with defined roles, individual accountability, and positive interdependence
-> - **Theoretical Foundation**:: [[Social Constructivism]] ([[Vygotsky]]), [[Cognitive Elaboration Theory]]
+> - **Theoretical Foundation**:: [[Social-Constructivism]] ([[Vygotsky]]), [[Cognitive Elaboration Theory]]
 
 Collaborative approaches recognize that learning is fundamentally social, with peer interaction providing opportunities for articulation, cognitive conflict resolution, and exposure to diverse perspectives.
 
@@ -587,7 +587,7 @@ Sweller proposed cognitive load theory to explain how novices react to problem-s
 
 > [!definition]
 > - **Project-Based Learning**:: An extended learning approach where students investigate complex questions or problems through sustained inquiry, culminating in publicly presented products or performances
-> - **Theoretical Foundation**:: [[Constructivism]], [[Experiential Learning Theory]] ([[John Dewey]])
+> - **Theoretical Foundation**:: [[Constructivism]], [[Experiential Learning Theory]] ([[John-Dewey]])
 > - **Historical Origin**:: 1918 (William Kilpatrick's "Project Method")
 
 Project-based learning is a student-centered approach where learners gain knowledge by working for an extended period to investigate and respond to authentic, complex questions or problems. While sharing similarities with PBL, PjBL emphasizes tangible product creation and public presentation.
@@ -690,7 +690,7 @@ However, purely unguided discovery learning shows poor effectiveness, particular
 
 > [!definition]
 > - **Experiential Learning**:: A pedagogical philosophy emphasizing learning through direct experience, reflection, and application
-> - **Theoretical Foundation**:: [[David Kolb]]'s Experiential Learning Theory, [[John Dewey]]'s Progressive Education
+> - **Theoretical Foundation**:: [[David-Kolb]]'s Experiential Learning Theory, [[John-Dewey]]'s Progressive Education
 > - **Key Principle**:: Learning results from grasping experience and transforming it through reflection
 
 Kolb's Experiential Learning Cycle describes learning as a four-stage cyclical process:
@@ -1013,7 +1013,7 @@ UbD identifies six dimensions demonstrating deep understanding:
 > [!definition]
 > - **5E Model**:: A constructivist instructional framework consisting of five phases: Engage, Explore, Explain, Elaborate, and Evaluate
 > - **Origin**:: [[Biological Sciences Curriculum Study]] (BSCS)
-> - **Theoretical Foundation**:: [[Constructivism]], [[Conceptual Change Theory]]
+> - **Theoretical Foundation**:: [[Constructivism]], [[Conceptual-Change-Theory]]
 
 The 5E Model provides a learning cycle structure particularly prevalent in science education but applicable across disciplines. It systematically guides learners from initial engagement through exploration, explanation, application, and assessment.
 
@@ -1107,7 +1107,7 @@ This framework provides a systematic approach for scaffolding instruction, begin
 
 > [!definition]
 > - **Cognitive Apprenticeship**:: An instructional model making thinking visible by externalizing cognitive and metacognitive processes experts use in problem-solving and skill performance
-> - **Developers**:: [[Allan Collins]], [[John Seely Brown]], [[Susan Newman]]
+> - **Developers**:: [[Allan-Collins]], [[John Seely Brown]], [[Susan Newman]]
 > - **Purpose**:: Bridge the gap between school learning and authentic practice
 
 Traditional apprenticeship makes physical skills visible through observation and practice. Cognitive Apprenticeship extends this model to intellectual skills by making invisible cognitive processes visible and situated in authentic contexts.
@@ -1475,7 +1475,7 @@ Summative assessments should:
 
 > [!definition]
 > - **Authentic Assessment**:: Evaluation requiring students to demonstrate knowledge and skills through real-world application rather than artificial test contexts
-> - **Theoretical Foundation**:: [[Situated Learning Theory]], [[Transfer of Learning]]
+> - **Theoretical Foundation**:: [[Situated Learning Theory]], [[Transfer-of-Learning]]
 > - **Key Characteristic**:: Tasks resembling performances expected in professional or civic contexts
 
 Authentic assessment addresses limitations of traditional testing by evaluating whether students can apply learning in contexts resembling actual knowledge use.

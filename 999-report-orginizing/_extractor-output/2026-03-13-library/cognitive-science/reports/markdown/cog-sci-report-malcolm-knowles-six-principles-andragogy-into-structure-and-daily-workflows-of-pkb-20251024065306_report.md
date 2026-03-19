@@ -179,7 +179,7 @@ extraction_summary:
 #### 4. [THE-PURPOSE] Untitled *(Line 56)*
 
 > [!the-purpose] Untitled
-> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
+> This article exists at the intersection of two parallel revolutions in how we understand human learning and knowledge work. The first is the formalization of [[Andragogy]] as a distinct theory of adult learning, primarily through the pioneering work of Malcolm Knowles in the 1970s and 1980s. The second is the emergence of sophisticated [[Personal Knowledge Management]] (PKM) systems and [[Personal Knowledge Bases]] (PKBs) as essential tools for navigating the exponential growth of information in the 21st century. Our purpose is not merely to describe these two domains, but to reveal their deep structural relationship: that the design of knowledge management systems either enables or constrains the fundamental processes by which adults learn, and that understanding andragogy provides us with precise design principles for building more effective knowledge systems.
 
 #### 5. [QUOTE] Untitled *(Line 61)*
 
@@ -222,7 +222,7 @@ extraction_summary:
 > 
 > An andragogically-informed Personal Knowledge Base makes the "why" explicit from the outset. This manifests in several ways:
 > 
-> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps-of-Content-—-MOCs|Maps of Content]] (MOCs) in systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
+> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps-of-Content-—-MOCs|Maps of Content]] (MOCs) in systems like [[Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
 > 
 > 1. **Visible Connection to Outputs**: Every note should have a potential path to becoming something—an essay, a presentation, a solution to a problem, a decision you need to make. The [[Zettelkasten]] method implements this through the concept of "structure notes" or "hub notes" that explicitly connect atomic notes to larger projects or areas of inquiry. When capturing information, you should be able to answer: "How might this note contribute to something I'm building?"
 > 
@@ -246,7 +246,7 @@ extraction_summary:
 > 
 > **Design Implementation:**
 > 
-> 1. **Anti-Prescriptive Architecture**: The system should provide *capabilities* and *building blocks* rather than rigid templates or mandatory workflows. This is why tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], [[Roam Research]], or even well-designed file systems (with minimal folder hierarchy) work better than heavily opinionated apps that dictate structure. The user is the architect, not a tenant following someone else's blueprint.
+> 1. **Anti-Prescriptive Architecture**: The system should provide *capabilities* and *building blocks* rather than rigid templates or mandatory workflows. This is why tools like [[Obsidian]], [[Roam Research]], or even well-designed file systems (with minimal folder hierarchy) work better than heavily opinionated apps that dictate structure. The user is the architect, not a tenant following someone else's blueprint.
 > 
 > 1. **Progressive Disclosure of Complexity**: The system should be simple enough for beginners to start immediately, yet powerful enough to grow with the user's sophistication. This is the principle of [[progressive elaboration]]—you start with basic note-taking, gradually discovering features like backlinks, templates, plugins, or custom workflows as your needs evolve. The system doesn't overwhelm with possibilities initially but makes them discoverable as the user's agency grows.
 > 
@@ -571,8 +571,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Personal Knowledge Management]]
+- [[Obsidian]]
 - [[Andragogy]]
 - [[Anki]]
 - [[Anti-fragile]]
@@ -633,7 +633,7 @@ extraction_summary:
 | 2 | [[Andragogy]] | — | — | Document Start | 48 |
 | 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 48 |
 | 4 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 57 |
-| 5 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 1.0 📜 INTRODUCTION | 57 |
+| 5 | [[Personal Knowledge Management]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 6 | [[Personal Knowledge Bases]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 7 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 67 |
 | 8 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1.0 📜 INTRODUCTION | 78 |
@@ -644,12 +644,12 @@ extraction_summary:
 | 13 | [[Niklas Luhmann]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 118 |
 | 14 | [[transclusion]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 120 |
 | 15 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
-| 16 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
+| 16 | [[Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
 | 17 | [[Zettelkasten]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 151 |
 | 18 | [[PARA]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 153 |
 | 19 | [[CODE]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 153 |
 | 20 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 158 |
-| 21 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 171 |
+| 21 | [[Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 171 |
 | 22 | [[Roam Research]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 171 |
 | 23 | [[progressive elaboration]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 173 |
 | 24 | [[future-proof]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 179 |
@@ -790,8 +790,8 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Personal Knowledge Management]]
+- [[Obsidian]]
 - [[Andragogy]]
 - [[Anki]]
 - [[Anti-fragile]]

@@ -30,7 +30,7 @@ next-review: 2025-12-04
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
   - "[[Andragogy]]"
   - "[[Autonomy]]"
   - "[[Cognitive Processes]]"
@@ -53,7 +53,7 @@ link-up:
   - "[[Rumination]]"
   - "[[Self Behavioral Management]]"
   - "[[Self Determination Theory]]"
-  - "[[Self Regulated Learning]]"
+  - "[[Self-Regulated-Learning]]"
   - "[[Self Directed Learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Self-Determination Theory]]"

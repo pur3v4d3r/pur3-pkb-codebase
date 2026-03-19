@@ -265,7 +265,7 @@ extraction_summary:
 #### 21. [KEY-INSIGHT] The Developmental Progression of Feedback Levels *(Line 442)*
 
 > [!key-insight] The Developmental Progression of Feedback Levels
-> The most impactful feedback trajectory across a learning arc: (1) Early learning phase — task-level feedback establishing what is right/wrong, with process-level annotations explaining *why*; (2) Developing phase — diminishing task-level correction, increasing process-level commentary on strategy quality; (3) Independent phase — self-regulation-level feedback cultivating self-monitoring capacity, gradually withdrawing external feedback in favour of scaffolded self-assessment. The endpoint is a learner who generates their own task-and-process-level feedback with minimal external input — the hallmark of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]].
+> The most impactful feedback trajectory across a learning arc: (1) Early learning phase — task-level feedback establishing what is right/wrong, with process-level annotations explaining *why*; (2) Developing phase — diminishing task-level correction, increasing process-level commentary on strategy quality; (3) Independent phase — self-regulation-level feedback cultivating self-monitoring capacity, gradually withdrawing external feedback in favour of scaffolded self-assessment. The endpoint is a learner who generates their own task-and-process-level feedback with minimal external input — the hallmark of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]].
 
 #### 22. [THOUGHT-EXPERIMENT] The Autonomy Cost of Controlling Feedback *(Line 451)*
 
@@ -515,7 +515,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Seligman]]
 - [[Summative Assessment]]
 - [[Topping]]
@@ -642,7 +642,7 @@ extraction_summary:
 - [[Richard Ryan]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Seligman]]
 - [[Summative Assessment]]
 - [[Topping]]
@@ -715,7 +715,7 @@ extraction_summary:
 - [[Inquiry-Based Learning Design]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 
 ---
 

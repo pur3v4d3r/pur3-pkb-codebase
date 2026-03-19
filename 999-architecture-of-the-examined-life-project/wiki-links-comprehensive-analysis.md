@@ -41,19 +41,19 @@
 4. **[[Fallibilism]]** — 14× mentions, 140 depth score
 5. **[[Narrative Identity]]** — 14× mentions, 140 depth score
 6. **[[Cognitive Load Theory]]** — 13× mentions, 120 depth score
-7. **[[Predictive Processing]]** — 13× mentions, 130 depth score
+7. **[[Predictive-Processing]]** — 13× mentions, 130 depth score
 8. **[[Self-Regulated Learning]]** — 12× mentions, 120 depth score
-9. **[[Intellectual Humility]]** — 12× mentions, 120 depth score
-10. **[[Aporic Receptivity]]** — 12× mentions, 120 depth score
+9. **[[Intellectual-Humility]]** — 12× mentions, 120 depth score
+10. **[[Aporic-Receptivity]]** — 12× mentions, 120 depth score
 11. **[[Constructivism]]** — 11× mentions, 100 depth score
-12. **[[Emotional Granularity]]** — 11× mentions, 100 depth score
+12. **[[Emotional-Granularity]]** — 11× mentions, 100 depth score
 13. **[[Metacognitive Self-Regulation]]** — 11× mentions, 110 depth score
 14. **[[Dewey's Reflective Thinking]]** — 10× mentions, 100 depth score
 15. **[[Phronesis]]** — 10× mentions, 100 depth score
 16. **[[Eudaimonia]]** — 10× mentions, 100 depth score
-17. **[[Motivated Reasoning]]** — 10× mentions, 100 depth score
+17. **[[Motivated-Reasoning]]** — 10× mentions, 100 depth score
 18. **[[Schema Theory]]** — 9× mentions, 90 depth score
-19. **[[Intellectual Courage]]** — 9× mentions, 90 depth score
+19. **[[Intellectual-Courage]]** — 9× mentions, 90 depth score
 20. **[[Socratic Method]]** — 8× mentions, 80 depth score
 
 ---
@@ -63,7 +63,7 @@
 *Automatically extracted definitions from the text*
 
 
-### [[Aporic Receptivity]]
+### [[Aporic-Receptivity]]
 
 **Type**: Callout
 **Length**: 678 characters
@@ -71,7 +71,7 @@
 > Introduced in Report 01 as the series' first emergent insight: the cultivated willingness to dwell productively in confusion — to remain genuinely open to the disruption that occurs when existing schemas cannot accommodate new evidence — rather than rushing to premature closure. Aporic Receptivity is the psychological precondition for genuine inquiry. It is distinguishable from mere tolerance of uncertainty (passive) and from the deliberate seeking of disconfirming evidence (active epistemic virtue). At Stage 5 of the developmental model, Aporic Receptivity is no longer a cultivated disposition but a natural expression of the practitioner's orientation toward the world.
 
 
-### [[Emotional Granularity as Epistemic Precision]]
+### [[Emotional-Granularity-as-Epistemic-Precision]]
 
 **Type**: Callout
 **Length**: 565 characters
@@ -79,7 +79,7 @@
 > From Report 10: the capacity to make fine-grained distinctions between emotional states — distinguishing, for example, anxiety from excitement, frustration from disappointment, moral indignation from personal offense — which is itself a form of cognitive precision that improves both reasoning and decision-making. Where coarse emotional categories generate coarse behavioral responses, fine-grained emotional distinctions enable calibrated, context-appropriate responses. Developing Emotional Granularity is not a merely psychological project but an epistemic one.
 
 
-### [[Integrated Cognitive Personhood]]
+### [[Integrated-Cognitive-Personhood]]
 
 **Type**: Callout
 **Length**: 783 characters
@@ -87,7 +87,7 @@
 > The emergent insight of Report 15: the claim that the examined life does not add cognitive capabilities to a pre-existing person but constitutes personhood in its fullest expression. When the fifteen dimensions of the Architecture of the Examined Life framework operate concurrently and fluidly — inquiry activation, fallibilist epistemology, autonomous motivation, constructive attentiveness, intellectual virtue, metacognitive governance, self-directed development, embodied awareness, emotional calibration, practical wisdom, social epistemic virtue, predictive flexibility, and narrative coherence — they describe not a person who thinks well but a person genuinely engaged with reality. This engagement is simultaneously the means to flourishing and its constitutive expression.
 
 
-### [[Narrative Coherence as Cognitive Architecture]]
+### [[Narrative-Coherence-as-Cognitive-Architecture]]
 
 **Type**: Callout
 **Length**: 624 characters
@@ -95,7 +95,7 @@
 > From Report 14: the claim that the construction of a coherent life narrative is not a luxury of reflective personalities but a cognitive necessity. In predictive processing terms, the narrative self-model functions as the highest-level generative model — predicting not sensory data but the trajectory of one's life. When the narrative is coherent, this highest-level model provides appropriate contextual priors for all downstream processing; when it is incoherent (as in identity crises), the uncertainty propagates down the hierarchy, generating what clinicians describe as anxiety, dissociation, or existential distress.
 
 
-### [[Physiological Metacognition]]
+### [[Physiological-Metacognition]]
 
 **Type**: Callout
 **Length**: 508 characters
@@ -127,28 +127,28 @@
 | [[Constructivism]] ↔ [[Fallibilism]] | 5× |
 | [[Prohairesis]] ↔ [[Self-Determination Theory]] | 5× |
 | [[Dual Process Theory]] ↔ [[Metacognitive Self-Regulation]] | 5× |
-| [[Narrative Identity]] ↔ [[Predictive Processing]] | 5× |
-| [[Eudaimonia]] ↔ [[Predictive Processing]] | 5× |
+| [[Narrative Identity]] ↔ [[Predictive-Processing]] | 5× |
+| [[Eudaimonia]] ↔ [[Predictive-Processing]] | 5× |
 | [[Logotherapy]] ↔ [[Narrative Identity]] | 5× |
 | [[Eudaimonia]] ↔ [[Logotherapy]] | 5× |
-| [[Intellectual Courage]] ↔ [[Intellectual Humility]] | 5× |
-| [[Intellectual Empathy]] ↔ [[Intellectual Humility]] | 5× |
-| [[Intellectual Courage]] ↔ [[Intellectual Empathy]] | 5× |
+| [[Intellectual-Courage]] ↔ [[Intellectual-Humility]] | 5× |
+| [[Intellectual-Empathy]] ↔ [[Intellectual-Humility]] | 5× |
+| [[Intellectual-Courage]] ↔ [[Intellectual-Empathy]] | 5× |
 | [[Dewey's Reflective Thinking]] ↔ [[Metacognitive Monitoring]] | 4× |
 | [[Fallibilism]] ↔ [[Metacognitive Monitoring]] | 4× |
 | [[Dewey's Reflective Thinking]] ↔ [[Socratic Method]] | 4× |
 | [[Constructivism]] ↔ [[Self-Determination Theory]] | 4× |
 | [[Dual Process Theory]] ↔ [[Schema Theory]] | 4× |
 | [[Cognitive Science]] ↔ [[Dual Process Theory]] | 4× |
-| [[Emotional Granularity]] ↔ [[Phronesis]] | 4× |
+| [[Emotional-Granularity]] ↔ [[Phronesis]] | 4× |
 | [[Distributed Cognition]] ↔ [[Social Epistemology]] | 4× |
 | [[Epistemic Injustice]] ↔ [[Social Epistemology]] | 4× |
 | [[Distributed Cognition]] ↔ [[Epistemic Injustice]] | 4× |
-| [[Active Inference]] ↔ [[Predictive Processing]] | 4× |
-| [[Logotherapy]] ↔ [[Predictive Processing]] | 4× |
+| [[Active-Inference]] ↔ [[Predictive-Processing]] | 4× |
+| [[Logotherapy]] ↔ [[Predictive-Processing]] | 4× |
 | [[Schema Theory]] ↔ [[Zone of Proximal Development]] | 4× |
-| [[Intellectual Courage]] ↔ [[Intellectual Perseverance]] | 4× |
-| [[Intellectual Empathy]] ↔ [[Intellectual Perseverance]] | 4× |
+| [[Intellectual-Courage]] ↔ [[Intellectual-Perseverance]] | 4× |
+| [[Intellectual-Empathy]] ↔ [[Intellectual-Perseverance]] | 4× |
 
 ---
 
@@ -160,29 +160,29 @@
 ### Defining Contexts
 
 - [[Fallibilism]] — 3× defining
-- [[Aporic Receptivity]] — 3× defining
+- [[Aporic-Receptivity]] — 3× defining
 - [[Report 01]] — 3× defining
 - [[Self-Determination Theory]] — 2× defining
 - [[Dual Process Theory]] — 2× defining
 - [[Cognitive Load Theory]] — 2× defining
-- [[Emotional Granularity]] — 2× defining
-- [[Predictive Processing]] — 2× defining
-- [[Intellectual Humility]] — 2× defining
-- [[Intellectual Courage]] — 2× defining
-- [[Motivated Reasoning]] — 2× defining
+- [[Emotional-Granularity]] — 2× defining
+- [[Predictive-Processing]] — 2× defining
+- [[Intellectual-Humility]] — 2× defining
+- [[Intellectual-Courage]] — 2× defining
+- [[Motivated-Reasoning]] — 2× defining
 - [[Metacognitive Self-Regulation]] — 2× defining
 - [[Report 04]] — 2× defining
-- [[Recursive Self-Authorship]] — 2× defining
+- [[Recursive-Self-Authorship]] — 2× defining
 - [[Aristotle]] — 2× defining
 
 ### Explaining Contexts
 
 - [[Self-Determination Theory]] — 2× explaining
 - [[Dual Process Theory]] — 2× explaining
-- [[aporic receptivity]] — 2× explaining
+- [[Aporic-Receptivity]] — 2× explaining
 - [[Epistemic Injustice]] — 1× explaining
 - [[Argumentative Theory]] — 1× explaining
-- [[Predictive Processing]] — 1× explaining
+- [[Predictive-Processing]] — 1× explaining
 - [[Growth Mindset]] — 1× explaining
 - [[Daniel Kahneman]] — 1× explaining
 - [[Inquiry-Based Learning Design: Principles and Evidence]] — 1× explaining
@@ -201,11 +201,11 @@
 - [[Constructivism]] — 2× questioning
 - [[Dual Process Theory]] — 2× questioning
 - [[Cognitive Load Theory]] — 2× questioning
-- [[Precision Weighting]] — 2× questioning
+- [[Precision-Weighting]] — 2× questioning
 - [[Narrative Identity]] — 2× questioning
-- [[Free Energy Principle]] — 2× questioning
+- [[Free-Energy-Principle]] — 2× questioning
 - [[Eudaimonia]] — 2× questioning
-- [[Ecological Rationality|ecological rationality]] — 2× questioning
+- [[Ecological-Rationality|ecological rationality]] — 2× questioning
 - [[Narrative Therapy]] — 2× questioning
 - [[Metacognitive Monitoring]] — 1× questioning
 - [[Self-Regulated Learning]] — 1× questioning
@@ -213,8 +213,8 @@
 
 ### Exemplifying Contexts
 
-- [[Intellectual Courage]] — 1× exemplifying
-- [[Emotional Granularity as Epistemic Precision]] — 1× exemplifying
+- [[Intellectual-Courage]] — 1× exemplifying
+- [[Emotional-Granularity-as-Epistemic-Precision]] — 1× exemplifying
 
 ### Contrasting Contexts
 
@@ -228,24 +228,24 @@
 - [[Dewey's Reflective Thinking]] — 4× contrasting
 - [[Self-Regulated Learning]] — 4× contrasting
 - [[Cognitive Load Theory]] — 4× contrasting
-- [[Emotional Granularity]] — 4× contrasting
+- [[Emotional-Granularity]] — 4× contrasting
 - [[Phronesis]] — 4× contrasting
-- [[Intellectual Humility]] — 4× contrasting
-- [[Aporic Receptivity]] — 4× contrasting
+- [[Intellectual-Humility]] — 4× contrasting
+- [[Aporic-Receptivity]] — 4× contrasting
 - [[Metacognitive Monitoring]] — 3× contrasting
 
 ### Integrating Contexts
 
 - [[Narrative Identity]] — 5× integrating
 - [[Logotherapy]] — 3× integrating
-- [[Embodied Cognition]] — 2× integrating
-- [[Interoceptive Inference]] — 2× integrating
+- [[Embodied-Cognition]] — 2× integrating
+- [[Interoceptive-Inference]] — 2× integrating
 - [[Allostasis]] — 2× integrating
-- [[Emotional Granularity]] — 2× integrating
-- [[Appraisal Theory]] — 2× integrating
+- [[Emotional-Granularity]] — 2× integrating
+- [[Appraisal-Theory]] — 2× integrating
 - [[Phronesis]] — 2× integrating
 - [[Naturalistic Decision Making]] — 2× integrating
-- [[Virtue Epistemology]] — 2× integrating
+- [[Virtue-Epistemology]] — 2× integrating
 - [[Kathekon]] — 2× integrating
 - [[Social Epistemology]] — 2× integrating
 - [[Distributed Cognition]] — 2× integrating
@@ -256,18 +256,18 @@
 
 - [[Narrative Identity]] — 5× citing
 - [[Meaning in Life]] — 5× citing
-- [[Embodied Cognition]] — 4× citing
-- [[Motivated Reasoning]] — 4× citing
+- [[Embodied-Cognition]] — 4× citing
+- [[Motivated-Reasoning]] — 4× citing
 - [[Self-Regulated Learning]] — 3× citing
-- [[Somatic Marker Hypothesis]] — 3× citing
-- [[Interoceptive Inference]] — 3× citing
+- [[Somatic-Marker-Hypothesis]] — 3× citing
+- [[Interoceptive-Inference]] — 3× citing
 - [[Logotherapy]] — 3× citing
 - [[Eudaimonia]] — 3× citing
-- [[Intellectual Courage]] — 3× citing
+- [[Intellectual-Courage]] — 3× citing
 - [[wiki-links]] — 3× citing
 - [[Jerome Bruner]] — 3× citing
 - [[Ziva Kunda]] — 3× citing
-- [[Allostatic Load]] — 3× citing
+- [[Allostatic-Load]] — 3× citing
 - [[Constructivism]] — 2× citing
 
 ---
@@ -326,30 +326,30 @@
 | [[Self-Determination Theory]] | 16 | 7328 |  | 160 |
 | [[Fallibilism]] | 14 | 7669 |  | 140 |
 | [[Narrative Identity]] | 14 | 7133 |  | 140 |
-| [[Predictive Processing]] | 13 | 6807 |  | 130 |
+| [[Predictive-Processing]] | 13 | 6807 |  | 130 |
 | [[Self-Regulated Learning]] | 12 | 6449 |  | 120 |
 | [[Cognitive Load Theory]] | 12 | 7311 |  | 120 |
-| [[Intellectual Humility]] | 12 | 6874 |  | 120 |
-| [[Aporic Receptivity]] | 12 | 1395 |  | 120 |
+| [[Intellectual-Humility]] | 12 | 6874 |  | 120 |
+| [[Aporic-Receptivity]] | 12 | 1395 |  | 120 |
 | [[Metacognitive Self-Regulation]] | 11 | 6922 |  | 110 |
 | [[Dewey's Reflective Thinking]] | 10 | 7799 |  | 100 |
 | [[Constructivism]] | 10 | 6522 |  | 100 |
-| [[Emotional Granularity]] | 10 | 6631 |  | 100 |
+| [[Emotional-Granularity]] | 10 | 6631 |  | 100 |
 | [[Phronesis]] | 10 | 6713 |  | 100 |
 | [[Eudaimonia]] | 10 | 6660 |  | 100 |
-| [[Motivated Reasoning]] | 10 | 6639 |  | 100 |
+| [[Motivated-Reasoning]] | 10 | 6639 |  | 100 |
 | [[Schema Theory]] | 9 | 6484 |  | 90 |
-| [[Intellectual Courage]] | 9 | 6639 |  | 90 |
+| [[Intellectual-Courage]] | 9 | 6639 |  | 90 |
 | [[Socratic Method]] | 8 | 6527 |  | 80 |
-| [[Virtue Epistemology]] | 8 | 748 |  | 80 |
+| [[Virtue-Epistemology]] | 8 | 748 |  | 80 |
 | [[Zone of Proximal Development]] | 8 | 7407 |  | 80 |
 | [[Prohairesis]] | 7 | 6460 |  | 70 |
 | [[Philosophy of Mind]] | 7 | 126 |  | 70 |
 | [[Stoic Prosoche]] | 6 | 859 |  | 60 |
-| [[Embodied Cognition]] | 6 | 6125 |  | 60 |
-| [[Somatic Marker Hypothesis]] | 6 | 6259 |  | 60 |
+| [[Embodied-Cognition]] | 6 | 6125 |  | 60 |
+| [[Somatic-Marker-Hypothesis]] | 6 | 6259 |  | 60 |
 | [[Prosoche]] | 6 | 6211 |  | 60 |
-| [[Pragmatic Maxim]] | 6 | 7014 |  | 60 |
+| [[Pragmatic-Maxim]] | 6 | 7014 |  | 60 |
 | [[Social Epistemology]] | 6 | 6260 |  | 60 |
 
 ---
@@ -414,7 +414,7 @@
 - [[Self-Regulated Learning]]
 - [[Metacognitive Monitoring]]
 - [[Philosophy of Mind]]
-- [[Predictive Processing]]
+- [[Predictive-Processing]]
 - [[Virtue Ethics]]
 - [[Constructivism]]
 - [[Self-Determination Theory]]
@@ -431,7 +431,7 @@
 - [[wiki-links]]
 - [[metacognitive self-regulation]]
 - [[Flow Theory]]
-- [[Recursive Self-Authorship]]
+- [[Recursive-Self-Authorship]]
 
 ---
 
@@ -690,7 +690,7 @@ occurrences: 14
 ## Related Concepts
 
 - [[Eudaimonia]] (6× co-occurrence)
-- [[Predictive Processing]] (5× co-occurrence)
+- [[Predictive-Processing]] (5× co-occurrence)
 - [[Logotherapy]] (5× co-occurrence)
 - [[Meaning in Life]] (3× co-occurrence)
 - [[Self-Determination Theory]] (2× co-occurrence)
@@ -733,10 +733,10 @@ occurrences: 13
 
 ## Related Concepts
 
-- [[Somatic Marker Hypothesis]] (3× co-occurrence)
-- [[Interoceptive Inference]] (3× co-occurrence)
+- [[Somatic-Marker-Hypothesis]] (3× co-occurrence)
+- [[Interoceptive-Inference]] (3× co-occurrence)
 - [[Allostasis]] (3× co-occurrence)
-- [[Pragmatic Maxim]] (3× co-occurrence)
+- [[Pragmatic-Maxim]] (3× co-occurrence)
 - [[Schema Theory]] (3× co-occurrence)
 
 ## Appears In
@@ -776,7 +776,7 @@ occurrences: 13
 
 - [[Narrative Identity]] (5× co-occurrence)
 - [[Eudaimonia]] (5× co-occurrence)
-- [[Active Inference]] (4× co-occurrence)
+- [[Active-Inference]] (4× co-occurrence)
 - [[Logotherapy]] (4× co-occurrence)
 - [[Social Epistemology]] (2× co-occurrence)
 
@@ -859,9 +859,9 @@ occurrences: 12
 
 ## Related Concepts
 
-- [[Intellectual Courage]] (5× co-occurrence)
-- [[Intellectual Empathy]] (5× co-occurrence)
-- [[Intellectual Perseverance]] (3× co-occurrence)
+- [[Intellectual-Courage]] (5× co-occurrence)
+- [[Intellectual-Empathy]] (5× co-occurrence)
+- [[Intellectual-Perseverance]] (3× co-occurrence)
 - [[Intellectual Integrity]] (3× co-occurrence)
 - [[Metacognitive Monitoring]] (3× co-occurrence)
 
@@ -988,7 +988,7 @@ occurrences: 11
 ## Related Concepts
 
 - [[Phronesis]] (4× co-occurrence)
-- [[Appraisal Theory]] (3× co-occurrence)
+- [[Appraisal-Theory]] (3× co-occurrence)
 - [[Affective Realism]] (2× co-occurrence)
 - [[Cognitive Load Theory]] (2× co-occurrence)
 - [[Constructed Emotion Theory]] (2× co-occurrence)
@@ -1118,7 +1118,7 @@ occurrences: 10
 
 ## Related Concepts
 
-- [[Emotional Granularity]] (4× co-occurrence)
+- [[Emotional-Granularity]] (4× co-occurrence)
 - [[Naturalistic Decision Making]] (3× co-occurrence)
 - [[Kathekon]] (2× co-occurrence)
 - [[Social Epistemology]] (2× co-occurrence)
@@ -1162,10 +1162,10 @@ occurrences: 10
 ## Related Concepts
 
 - [[Narrative Identity]] (6× co-occurrence)
-- [[Predictive Processing]] (5× co-occurrence)
+- [[Predictive-Processing]] (5× co-occurrence)
 - [[Logotherapy]] (5× co-occurrence)
 - [[Meaning in Life]] (2× co-occurrence)
-- [[Active Inference]] (1× co-occurrence)
+- [[Active-Inference]] (1× co-occurrence)
 
 ## Appears In
 
@@ -1206,7 +1206,7 @@ occurrences: 10
 - [[Cognitive Biases]] (3× co-occurrence)
 - [[Stoic Philosophy]] (3× co-occurrence)
 - [[Stoic Virtue Ethics]] (2× co-occurrence)
-- [[Intellectual Courage]] (2× co-occurrence)
+- [[Intellectual-Courage]] (2× co-occurrence)
 - [[Intellectual Integrity]] (2× co-occurrence)
 
 ## Appears In
@@ -1246,7 +1246,7 @@ occurrences: 9
 - [[Dual Process Theory]] (4× co-occurrence)
 - [[Zone of Proximal Development]] (4× co-occurrence)
 - [[Cognitive Load Theory]] (3× co-occurrence)
-- [[Pragmatic Maxim]] (3× co-occurrence)
+- [[Pragmatic-Maxim]] (3× co-occurrence)
 - [[Metacognitive Monitoring]] (2× co-occurrence)
 
 ## Appears In
@@ -1285,11 +1285,11 @@ occurrences: 9
 
 ## Related Concepts
 
-- [[Intellectual Humility]] (5× co-occurrence)
-- [[Intellectual Empathy]] (5× co-occurrence)
-- [[Intellectual Perseverance]] (4× co-occurrence)
+- [[Intellectual-Humility]] (5× co-occurrence)
+- [[Intellectual-Empathy]] (5× co-occurrence)
+- [[Intellectual-Perseverance]] (4× co-occurrence)
 - [[Intellectual Integrity]] (3× co-occurrence)
-- [[Motivated Reasoning]] (2× co-occurrence)
+- [[Motivated-Reasoning]] (2× co-occurrence)
 
 ## Appears In
 
@@ -1362,14 +1362,14 @@ occurrences: 8
 - [[Dual Process Theory]] (19×)
 - [[Metacognitive Monitoring]] (18×)
 - [[Narrative Identity]] (14×)
-- [[Predictive Processing]] (13×)
-- [[Aporic Receptivity]] (12×)
+- [[Predictive-Processing]] (13×)
+- [[Aporic-Receptivity]] (12×)
 - [[Metacognitive Self-Regulation]] (11×)
 - [[Dewey's Reflective Thinking]] (10×)
 - [[Eudaimonia]] (10×)
 - [[Socratic Method]] (8×)
 - [[Jean Piaget]] (6×)
-- [[John Dewey]] (5×)
+- [[John-Dewey]] (5×)
 - [[Daniel Kahneman]] (5×)
 - [[John Flavell]] (4×)
 - [[Fallibilist-Constructivist Epistemological Posture]] (3×)
@@ -1386,7 +1386,7 @@ occurrences: 8
 - [[Self-Determination Theory]] (17×)
 - [[Fallibilism]] (14×)
 - [[Narrative Identity]] (14×)
-- [[Predictive Processing]] (13×)
+- [[Predictive-Processing]] (13×)
 - [[Self-Regulated Learning]] (12×)
 - [[Constructivism]] (11×)
 - [[Metacognitive Self-Regulation]] (11×)
@@ -1395,7 +1395,7 @@ occurrences: 8
 - [[Eudaimonia]] (10×)
 - [[Schema Theory]] (9×)
 - [[Socratic Method]] (8×)
-- [[Virtue Epistemology]] (8×)
+- [[Virtue-Epistemology]] (8×)
 - [[Zone of Proximal Development]] (8×)
 
 *...and 64 more*
@@ -1408,12 +1408,12 @@ occurrences: 8
 - [[Metacognitive Monitoring]] (18×)
 - [[Narrative Identity]] (14×)
 - [[Cognitive Load Theory]] (13×)
-- [[Emotional Granularity]] (11×)
+- [[Emotional-Granularity]] (11×)
 - [[Metacognitive Self-Regulation]] (11×)
 - [[Dewey's Reflective Thinking]] (10×)
 - [[Phronesis]] (10×)
 - [[Stoic Prosoche]] (6×)
-- [[Somatic Marker Hypothesis]] (6×)
+- [[Somatic-Marker-Hypothesis]] (6×)
 - [[Flow]] (4×)
 - [[Prokoptōn]] (3×)
 - [[metacognitive self-regulation]] (3×)
@@ -1432,17 +1432,17 @@ occurrences: 8
 - [[Self-Determination Theory]] (17×)
 - [[Fallibilism]] (14×)
 - [[Narrative Identity]] (14×)
-- [[Predictive Processing]] (13×)
-- [[Intellectual Humility]] (12×)
-- [[Aporic Receptivity]] (12×)
-- [[Emotional Granularity]] (11×)
+- [[Predictive-Processing]] (13×)
+- [[Intellectual-Humility]] (12×)
+- [[Aporic-Receptivity]] (12×)
+- [[Emotional-Granularity]] (11×)
 - [[Phronesis]] (10×)
-- [[Intellectual Courage]] (9×)
+- [[Intellectual-Courage]] (9×)
 - [[Prohairesis]] (7×)
-- [[Somatic Marker Hypothesis]] (6×)
+- [[Somatic-Marker-Hypothesis]] (6×)
 - [[Social Epistemology]] (6×)
 - [[Amor Fati]] (5×)
-- [[Physiological Metacognition]] (5×)
+- [[Physiological-Metacognition]] (5×)
 
 *...and 11 more*
 
@@ -1451,9 +1451,9 @@ occurrences: 8
 
 *3 concepts*
 
-- [[Free Energy Principle]] (5×)
+- [[Free-Energy-Principle]] (5×)
 - [[Karl Friston]] (4×)
-- [[Integrated Cognitive Personhood]] (2×)
+- [[Integrated-Cognitive-Personhood]] (2×)
 
 ### Phase V: The Synthesis — Emergent Insights, Cross-
 
@@ -1461,10 +1461,10 @@ occurrences: 8
 
 - [[Dewey's Reflective Thinking]] (10×)
 - [[Zone of Proximal Development]] (8×)
-- [[aporic receptivity]] (2×)
+- [[Aporic-Receptivity]] (2×)
 - [[schema]] (2×)
-- [[Intellectual humility]] (1×)
-- [[Intellectual courage]] (1×)
+- [[Intellectual-Humility]] (1×)
+- [[Intellectual-Courage]] (1×)
 
 ### Phase VI
 
@@ -1475,13 +1475,13 @@ occurrences: 8
 - [[Self-Determination Theory]] (17×)
 - [[Fallibilism]] (14×)
 - [[Self-Regulated Learning]] (12×)
-- [[Intellectual Humility]] (12×)
-- [[Aporic Receptivity]] (12×)
+- [[Intellectual-Humility]] (12×)
+- [[Aporic-Receptivity]] (12×)
 - [[Constructivism]] (11×)
 - [[Metacognitive Self-Regulation]] (11×)
 - [[Dewey's Reflective Thinking]] (10×)
 - [[Schema Theory]] (9×)
-- [[Pragmatic Maxim]] (7×)
+- [[Pragmatic-Maxim]] (7×)
 - [[Prohairesis]] (7×)
 - [[Philosophy of Mind]] (7×)
 - [[Metacognition]] (6×)
@@ -1499,12 +1499,12 @@ occurrences: 8
 - [[Fallibilism]] (14×)
 - [[Narrative Identity]] (14×)
 - [[Cognitive Load Theory]] (13×)
-- [[Predictive Processing]] (13×)
+- [[Predictive-Processing]] (13×)
 - [[Self-Regulated Learning]] (12×)
-- [[Intellectual Humility]] (12×)
-- [[Aporic Receptivity]] (12×)
+- [[Intellectual-Humility]] (12×)
+- [[Aporic-Receptivity]] (12×)
 - [[Constructivism]] (11×)
-- [[Emotional Granularity]] (11×)
+- [[Emotional-Granularity]] (11×)
 - [[Metacognitive Self-Regulation]] (11×)
 - [[Dewey's Reflective Thinking]] (10×)
 - [[Phronesis]] (10×)
@@ -1527,17 +1527,17 @@ occurrences: 8
 | [[Self-Determination Theory]] | Phase II, Phase IV, Phase VI, Report 04 | 17× |
 | [[Dual Process Theory]] | Phase I, Phase II, Phase VI, Report 04 | 19× |
 | [[Phronesis]] | Phase II, Phase III, Phase IV, Report 04 | 10× |
-| [[Predictive Processing]] | Phase I, Phase II, Phase IV, Report 04 | 13× |
+| [[Predictive-Processing]] | Phase I, Phase II, Phase IV, Report 04 | 13× |
 | [[Prohairesis]] | Phase II, Phase IV, Phase VI, Report 04 | 7× |
-| [[Aporic Receptivity]] | Phase I, Phase IV, Phase VI, Report 04 | 12× |
+| [[Aporic-Receptivity]] | Phase I, Phase IV, Phase VI, Report 04 | 12× |
 | [[System 2]] | Phase II, Phase IV, Phase VI, Report 04 | 4× |
 | [[Stoic Prosoche]] | Phase II, Phase III, Report 04 | 6× |
 | [[Socratic Method]] | Phase I, Phase II, Report 04 | 8× |
 | [[Constructivism]] | Phase II, Phase VI, Report 04 | 11× |
 | [[Self-Regulated Learning]] | Phase II, Phase VI, Report 04 | 12× |
-| [[Somatic Marker Hypothesis]] | Phase III, Phase IV, Report 04 | 6× |
-| [[Emotional Granularity]] | Phase III, Phase IV, Report 04 | 11× |
-| [[Pragmatic Maxim]] | Phase II, Phase VI, Report 04 | 7× |
+| [[Somatic-Marker-Hypothesis]] | Phase III, Phase IV, Report 04 | 6× |
+| [[Emotional-Granularity]] | Phase III, Phase IV, Report 04 | 11× |
+| [[Pragmatic-Maxim]] | Phase II, Phase VI, Report 04 | 7× |
 | [[Social Epistemology]] | Phase II, Phase IV, Report 04 | 6× |
 
 ---

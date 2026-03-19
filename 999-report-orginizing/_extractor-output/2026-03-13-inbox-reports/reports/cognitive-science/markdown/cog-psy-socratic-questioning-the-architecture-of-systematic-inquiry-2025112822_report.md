@@ -162,7 +162,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 189)*
 
 > [!abstract] Untitled
-> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard Paul]] and [[Linda Elder]] through the [[Foundation for Critical Thinking]], this taxonomy transforms the classical [[Elenchus|Elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[Critical-Thinking|Critical Thinking]], a metacognitive scaffold for [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], and a therapeutic technique in [[Cognitive-Behavioral Therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
+> **Socratic Questioning** represents the systematization of an ancient philosophical method into a modern pedagogical and analytical framework. Developed primarily by [[Richard Paul]] and [[Linda Elder]] through the [[Foundation for Critical Thinking]], this taxonomy transforms the classical [[Elenchus|Elenchus]] into a structured cognitive tool with six discrete question types, each targeting specific layers of thinking. Unlike casual inquiry, Socratic questioning operates as **disciplined, systematic, and deep interrogation** that probes foundational concepts, uncovers hidden assumptions, evaluates evidence quality, explores alternative perspectives, traces logical implications, and examines the questioning process itself. The framework functions simultaneously as an andragogical method for cultivating [[Critical-Thinking|Critical Thinking]], a metacognitive scaffold for [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and a therapeutic technique in [[Cognitive-Behavioral Therapy]]. This reference note provides an encyclopedic examination of the structural components, cognitive mechanisms, pedagogical applications, and ethical considerations of Socratic questioning as both art and science.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 200)*
 
@@ -404,7 +404,7 @@ extraction_summary:
 - [[Scientific Reasoning]]
 - [[Self-Deception]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic Circles]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning: The Architecture of Systematic Inquiry]]
@@ -659,7 +659,7 @@ extraction_summary:
 - [[Scientific Reasoning]]
 - [[Self-Deception]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic Circles]]
 - [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning: The Architecture of Systematic Inquiry]]

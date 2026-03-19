@@ -1218,7 +1218,7 @@ Each document must include **self-contained introductions** to core concepts whi
 > [!definition] **Pragmatism**
 > 
 > Pragmatism is a philosophical tradition originating in the late 19th century 
-> with [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]]. 
+> with [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]]. 
 > The core principle: the meaning and truth of ideas lie in their practical 
 > consequences and applications. In decision-making contexts, Pragmatism 
 > emphasizes empirical testing of ideas, flexible adaptation based on outcomes, 
@@ -1895,11 +1895,11 @@ Before generating ANY document, confirm:
 **Tier 3: Cognitive Science Concepts** (as relevant)
 - Neural structures: `[[prefrontal cortex]]`, `[[amygdala]]`, `[[hippocampus]]`
 - Neurotransmitters: `[[dopamine]]`, `[[serotonin]]`, `[[cortisol]]`
-- Models: `[[dual-process theory]]`, `[[working memory]]`, `[[predictive processing]]`
+- Models: `[[Dual-Process-Theory]]`, `[[working memory]]`, `[[Predictive-Processing]]`
 - Processes: `[[cognitive reappraisal]]`, `[[reinforcement learning]]`, `[[schema formation]]`
 
 **Tier 4: Philosophical Figures** (historical context)
-- `[[Charles Sanders Peirce]]`, `[[William James]]`, `[[John Dewey]]`
+- `[[Charles Sanders Peirce]]`, `[[William James]]`, `[[John-Dewey]]`
 - `[[Marcus Aurelius]]`, `[[Epictetus]]`, `[[Seneca]]`
 - `[[Jean Piaget]]`, `[[Lev Vygotsky]]`
 
@@ -2237,11 +2237,11 @@ Now, let me create the **comprehensive development checklist** for tracking your
 - [ ] [[amygdala]]
 - [ ] [[hippocampus]]
 - [ ] [[dopamine]]
-- [ ] [[dual-process theory]]
+- [ ] [[Dual-Process-Theory]]
 - [ ] [[working memory]]
 - [ ] [[cognitive reappraisal]]
 - [ ] [[reinforcement learning]]
-- [ ] [[predictive processing]]
+- [ ] [[Predictive-Processing]]
 - [ ] [[metacognition]]
 
 ---
@@ -2273,7 +2273,7 @@ Now, let me create the **comprehensive development checklist** for tracking your
 **Wiki-Links to Introduce**:
 - [ ] [[Charles Sanders Peirce]]
 - [ ] [[William James]]
-- [ ] [[John Dewey]]
+- [ ] [[John-Dewey]]
 - [ ] [[Pragmatic Decision-Making]]
 - [ ] [[Empirical Testing]]
 - [ ] [[Consequence Evaluation]]
@@ -2353,7 +2353,7 @@ Now, let me create the **comprehensive development checklist** for tracking your
 - [ ] [[Logical Fallacies]]
 - [ ] [[Cognitive Biases]]
 - [ ] [[Confirmation Bias]]
-- [ ] [[Availability Heuristic]]
+- [ ] [[Availability-Heuristic]]
 - [ ] [[Analytical Reasoning]]
 - [ ] [[Evidence Evaluation]]
 
@@ -2392,7 +2392,7 @@ Now, let me create the **comprehensive development checklist** for tracking your
 - [ ] [[Constructivist Learning]]
 - [ ] [[Schema Theory]]
 - [ ] [[Experiential Learning]]
-- [ ] [[Reflective Practice]]
+- [ ] [[Reflective-Practice]]
 - [ ] [[Zone of Proximal Development]]
 
 **Integration Points to Address**:
@@ -2762,15 +2762,15 @@ This alignment creates what we term the **Layered Model**—a hierarchical yet i
 
 > [!definition] **Pragmatism**
 > 
-> [[Pragmatism]] emerged as an American philosophical movement in the late 19th century through the work of [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]]. The tradition's core epistemological claim holds that the meaning and truth-value of ideas derive from their practical consequences and applications rather than correspondence to abstract ideals or metaphysical essences. In the words of William James, "The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea. It becomes true, is made true by events."
+> [[Pragmatism]] emerged as an American philosophical movement in the late 19th century through the work of [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]]. The tradition's core epistemological claim holds that the meaning and truth-value of ideas derive from their practical consequences and applications rather than correspondence to abstract ideals or metaphysical essences. In the words of William James, "The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea. It becomes true, is made true by events."
 > 
 > **Cognitive Domain Focus**: [[Decision-Making]] and [[Action]]
 > 
 > **Core Question**: "What works in practice?"
 > 
-> **Neural Substrate**: Pragmatism aligns with [[reinforcement learning]] mechanisms in the [[ventromedial prefrontal cortex]] and [[striatum]], where actions are evaluated based on [[reward prediction errors]] mediated by [[dopaminergic pathways]]. The [[dorsolateral prefrontal cortex]] supports the planning and execution of pragmatic experiments, while [[orbitofrontal cortex]] integrates outcome feedback to update action policies.
+> **Neural Substrate**: Pragmatism aligns with [[reinforcement learning]] mechanisms in the [[Ventromedial-Prefrontal-Cortex]] and [[striatum]], where actions are evaluated based on [[reward prediction errors]] mediated by [[dopaminergic pathways]]. The [[dorsolateral prefrontal cortex]] supports the planning and execution of pragmatic experiments, while [[orbitofrontal cortex]] integrates outcome feedback to update action policies.
 
-The neurocognitive grounding for Pragmatism's domain assignment emerges from research on decision-making neural architecture. Studies by Koechlin and colleagues demonstrate that the [[lateral prefrontal cortex]] specifically encodes action-outcome contingencies and supports flexible rule-based action selection—precisely the cognitive operations emphasized by pragmatic philosophy. The pragmatic maxim—"consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have"—directly parallels how the brain's [[dorsolateral prefrontal cortex]] evaluates potential action sequences by simulating their consequences through [[mental models]].
+The neurocognitive grounding for Pragmatism's domain assignment emerges from research on decision-making neural architecture. Studies by Koechlin and colleagues demonstrate that the [[lateral prefrontal cortex]] specifically encodes action-outcome contingencies and supports flexible rule-based action selection—precisely the cognitive operations emphasized by pragmatic philosophy. The pragmatic maxim—"consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have"—directly parallels how the brain's [[dorsolateral prefrontal cortex]] evaluates potential action sequences by simulating their consequences through [[Mental-Models]].
 
 Furthermore, contemporary research in [[computational neuroscience]] reveals that the brain implements decision-making through mechanisms remarkably similar to pragmatic hypothesis testing. [[Dopamine neurons]] in the [[ventral tegmental area]] encode [[reward prediction errors]]—the difference between expected and actual outcomes—providing a neural implementation of pragmatic empiricism. When an action produces unexpected consequences, dopaminergic signals update the brain's internal models, facilitating the adaptive learning emphasized by Dewey's concept of [[experimental intelligence]]. This neural substrate explains why pragmatic approaches excel in dynamic environments requiring iterative refinement based on feedback.
 
@@ -2804,11 +2804,11 @@ Research by Ochsner and colleagues demonstrates that the strength of [[prefronta
 > 
 > **Neural Substrate**: Critical thinking engages the [[dual-process]] architecture, particularly [[System 2]] analytical reasoning supported by [[dorsolateral prefrontal cortex]], [[anterior cingulate cortex]] for error monitoring, and [[posterior parietal cortex]] for attention and working memory.
 
-The mapping of Critical Thinking to information processing and analysis reflects the cognitive demands of analytical reasoning and the neural systems that support systematic evaluation of evidence and arguments. Contemporary cognitive psychology, particularly through Kahneman's popularization of [[dual-process theory]], distinguishes between [[System 1]]—fast, automatic, intuitive thinking prone to [[heuristics]] and [[biases]]—and [[System 2]]—slow, deliberate, analytical thinking that requires conscious effort and attention. Critical thinking represents the deliberate activation and skillful deployment of System 2 processes to override intuitive but potentially erroneous System 1 judgments.
+The mapping of Critical Thinking to information processing and analysis reflects the cognitive demands of analytical reasoning and the neural systems that support systematic evaluation of evidence and arguments. Contemporary cognitive psychology, particularly through Kahneman's popularization of [[Dual-Process-Theory]], distinguishes between [[System 1]]—fast, automatic, intuitive thinking prone to [[heuristics]] and [[biases]]—and [[System 2]]—slow, deliberate, analytical thinking that requires conscious effort and attention. Critical thinking represents the deliberate activation and skillful deployment of System 2 processes to override intuitive but potentially erroneous System 1 judgments.
 
-Neuroscientific research identifies the [[dorsolateral prefrontal cortex]] as critical for the sustained attention, [[working memory]], and cognitive control required for analytical reasoning. Studies examining complex problem-solving and logical reasoning consistently show increased activation in [[Brodmann areas 9 and 46]] of the dlPFC, particularly in the right hemisphere. The [[anterior cingulate cortex]] provides error-monitoring functions essential for detecting when intuitive responses conflict with logical analysis—a metacognitive capability central to critical thinking. When individuals successfully identify [[confirmation bias]] or resist [[availability heuristic]] errors, neuroimaging reveals enhanced dlPFC activity suppressing prepotent but incorrect responses generated by automatic associative processes.
+Neuroscientific research identifies the [[dorsolateral prefrontal cortex]] as critical for the sustained attention, [[working memory]], and cognitive control required for analytical reasoning. Studies examining complex problem-solving and logical reasoning consistently show increased activation in [[Brodmann areas 9 and 46]] of the dlPFC, particularly in the right hemisphere. The [[anterior cingulate cortex]] provides error-monitoring functions essential for detecting when intuitive responses conflict with logical analysis—a metacognitive capability central to critical thinking. When individuals successfully identify [[confirmation bias]] or resist [[Availability-Heuristic]] errors, neuroimaging reveals enhanced dlPFC activity suppressing prepotent but incorrect responses generated by automatic associative processes.
 
-The cognitive architecture of critical thinking also involves [[posterior parietal cortex]] networks supporting selective attention and information integration. When evaluating complex arguments with multiple premises and potential counterarguments, the brain must maintain representations of logical relationships in [[working memory]] while systematically assessing each component—a computationally demanding process requiring coordinated activity across [[frontoparietal control networks]]. This neurobiological substrate explains why critical thinking fatigues cognitive resources and why individuals under [[cognitive load]] or time pressure default to less effortful intuitive judgments, even when aware of potential biases.
+The cognitive architecture of critical thinking also involves [[posterior parietal cortex]] networks supporting selective attention and information integration. When evaluating complex arguments with multiple premises and potential counterarguments, the brain must maintain representations of logical relationships in [[working memory]] while systematically assessing each component—a computationally demanding process requiring coordinated activity across [[frontoparietal control networks]]. This neurobiological substrate explains why critical thinking fatigues cognitive resources and why individuals under [[Cognitive-Load]] or time pressure default to less effortful intuitive judgments, even when aware of potential biases.
 
 ### Constructivism → Knowledge Building & Learning
 
@@ -2824,7 +2824,7 @@ The cognitive architecture of critical thinking also involves [[posterior pariet
 
 The assignment of Constructivism to knowledge building and learning reflects extensive neuroscientific evidence on how the brain encodes, consolidates, and integrates new information with existing knowledge structures. Piaget's concepts of [[assimilation]]—integrating new information into existing schemas—and [[accommodation]]—modifying schemas to incorporate inconsistent information—find direct neural correlates in the brain's memory systems. The [[hippocampus]] serves as the brain's primary system for encoding new [[episodic memories]] and detecting novelty or prediction errors that signal the need for schema updating, while [[neocortical]] regions store consolidated [[semantic knowledge]] in distributed networks.
 
-Contemporary research in [[computational neuroscience]] models learning as a process of [[Bayesian inference]], where the brain maintains probabilistic models of the world and updates these models based on prediction errors—discrepancies between expected and actual sensory input. This neural mechanism implements the constructivist principle that knowledge emerges through the interaction between prior mental frameworks (captured in synaptic connection patterns) and new experiences (represented by incoming sensory signals). When these interact to produce [[prediction errors]], [[learning]] occurs through synaptic modifications that adjust the brain's internal models to better predict future inputs—a neural instantiation of Piaget's equilibration process.
+Contemporary research in [[computational neuroscience]] models learning as a process of [[Bayesian-Inference]], where the brain maintains probabilistic models of the world and updates these models based on prediction errors—discrepancies between expected and actual sensory input. This neural mechanism implements the constructivist principle that knowledge emerges through the interaction between prior mental frameworks (captured in synaptic connection patterns) and new experiences (represented by incoming sensory signals). When these interact to produce [[prediction errors]], [[learning]] occurs through synaptic modifications that adjust the brain's internal models to better predict future inputs—a neural instantiation of Piaget's equilibration process.
 
 Vygotsky's emphasis on social learning finds support in research on [[mirror neuron systems]] and [[mentalizing networks]] that enable [[social cognition]]. The [[temporo-parietal junction]] and [[medial prefrontal cortex]] activate during social learning scenarios, supporting the hypothesis that other people's knowledge can scaffold one's own learning through [[observational learning]] mechanisms. Vygotsky's [[zone of proximal development]]—the gap between what a learner can accomplish independently versus with guidance—may reflect the difference between tasks that can be executed with current neural circuitry versus tasks requiring neural reorganization facilitated by external support. This neurocognitive perspective validates constructivism's focus on active meaning-making and social scaffolding while grounding these concepts in brain mechanisms.
 
@@ -2838,7 +2838,7 @@ Vygotsky's emphasis on social learning finds support in research on [[mirror neu
 
 ### Tier 1: Intermediate Depth Requirements
 
-When this series presents cognitive mechanisms underlying philosophical approaches, it adheres to specific evidentiary standards. First, relevant [[neural structures]] are explicitly named—such as identifying the [[dorsolateral prefrontal cortex]] as implementing [[executive function]] or the [[amygdala]] as generating [[emotional arousal]]—rather than vaguely referencing "the brain." Second, pertinent [[neurotransmitter systems]] receive mention when mechanistically relevant; for instance, discussing how [[dopaminergic]] [[reward prediction errors]] implement pragmatic learning or how [[serotonergic]] modulation affects emotional regulation. Third, established [[cognitive models]] provide theoretical frameworks, such as [[dual-process theory]] for understanding intuitive versus analytical thinking or [[working memory]] models for comprehending reasoning limitations.
+When this series presents cognitive mechanisms underlying philosophical approaches, it adheres to specific evidentiary standards. First, relevant [[neural structures]] are explicitly named—such as identifying the [[dorsolateral prefrontal cortex]] as implementing [[executive function]] or the [[amygdala]] as generating [[emotional arousal]]—rather than vaguely referencing "the brain." Second, pertinent [[neurotransmitter systems]] receive mention when mechanistically relevant; for instance, discussing how [[dopaminergic]] [[reward prediction errors]] implement pragmatic learning or how [[serotonergic]] modulation affects emotional regulation. Third, established [[cognitive models]] provide theoretical frameworks, such as [[Dual-Process-Theory]] for understanding intuitive versus analytical thinking or [[working memory]] models for comprehending reasoning limitations.
 
 Fourth, specific empirical research receives citation, including study methodologies and key findings. For example, this document has referenced Buhle and colleagues' meta-analysis of 48 neuroimaging studies demonstrating that [[cognitive reappraisal]] consistently reduces [[amygdala]] activity while engaging prefrontal control regions—providing quantitative evidence for the neural basis of Stoic emotional regulation. Fifth, where available, effect sizes and quantitative findings ground claims in measurement rather than mere assertion. The goal is not exhaustive technical coverage but sufficient depth that readers can evaluate the empirical foundation supporting each philosophical-cognitive mapping.
 
@@ -3225,7 +3225,7 @@ Beyond understanding specific neural structures, cognitive science has developed
 
 > [!evidence] **Tier 1: Dual-Process Theory**
 > 
-> [[Dual-process theory]] proposes that cognition involves two distinct types of processing: System 1, which is fast, automatic, associative, and often unconscious; and System 2, which is slow, controlled, rule-based, and consciously accessible (Kahneman, 2011; Evans & Stanovich, 2013). System 1 processes enable rapid pattern recognition and intuitive judgments based on learned associations—essential for efficient navigation of familiar environments but prone to systematic biases when faced with statistical reasoning or logical problems. System 2 processes engage when System 1's outputs are insufficient, implementing the deliberate analysis characteristic of [[Critical Thinking]].
+> [[Dual-Process-Theory]] proposes that cognition involves two distinct types of processing: System 1, which is fast, automatic, associative, and often unconscious; and System 2, which is slow, controlled, rule-based, and consciously accessible (Kahneman, 2011; Evans & Stanovich, 2013). System 1 processes enable rapid pattern recognition and intuitive judgments based on learned associations—essential for efficient navigation of familiar environments but prone to systematic biases when faced with statistical reasoning or logical problems. System 2 processes engage when System 1's outputs are insufficient, implementing the deliberate analysis characteristic of [[Critical Thinking]].
 >
 > Neuroimaging evidence broadly supports this dual-process framework, though the neural implementation is more distributed than the simple two-system model suggests. Automatic, intuitive processing often involves posterior cortical regions specialized for specific domains (visual recognition, language comprehension, motor control), while controlled processing reliably engages lateral prefrontal and parietal regions associated with working memory and cognitive control (Lieberman, 2007).
 >
@@ -3241,7 +3241,7 @@ Beyond understanding specific neural structures, cognitive science has developed
 
 > [!evidence] **Tier 1: Working Memory and Cognitive Control**
 > 
-> [[Working memory]], the system for temporarily maintaining and manipulating information during ongoing tasks, is arguably the most fundamental cognitive capacity underlying intelligent behavior. [[Alan Baddeley]]'s influential model proposes that working memory comprises multiple components: a phonological loop for verbal information, a visuospatial sketchpad for visual and spatial information, an episodic buffer integrating information from different sources, and a central executive controlling attention allocation among these subsystems (Baddeley, 2000).
+> [[Working memory]], the system for temporarily maintaining and manipulating information during ongoing tasks, is arguably the most fundamental cognitive capacity underlying intelligent behavior. [[Alan-Baddeley]]'s influential model proposes that working memory comprises multiple components: a phonological loop for verbal information, a visuospatial sketchpad for visual and spatial information, an episodic buffer integrating information from different sources, and a central executive controlling attention allocation among these subsystems (Baddeley, 2000).
 >
 > Working memory capacity is strongly predictive of fluid intelligence, academic achievement, and complex reasoning ability (Engle, 2002). Individual differences in working memory capacity largely reflect differences in cognitive control—the ability to maintain goal-relevant information active in the face of distraction and interference. Neuroimaging studies consistently implicate lateral prefrontal cortex and posterior parietal cortex in working memory maintenance and manipulation, with prefrontal regions particularly involved in controlling attention to resist distraction (D'Esposito & Postle, 2015).
 >
@@ -3285,7 +3285,7 @@ Having established the neural architecture and cognitive models underlying intel
 >
 > Neuroimaging meta-analyses consistently demonstrate that cognitive reappraisal engages dorsolateral and ventrolateral prefrontal cortex while reducing amygdala activity (Buhle et al., 2014). The effect size is substantial: successful reappraisal reduces amygdala responses by approximately thirty to forty percent compared to passive viewing of emotional stimuli. Individual differences in prefrontal cortex gray matter volume and prefrontal-amygdala functional connectivity predict reappraisal effectiveness, suggesting that these neural pathways can be strengthened through practice—supporting [[Stoicism]]'s claim that emotional resilience is trainable rather than fixed.
 >
-> The mechanism involves the prefrontal cortex generating alternative interpretations of emotional situations (engaging language and semantic processing systems) and transmitting these reinterpretations to the amygdala through direct and indirect pathways, updating the amygdala's appraisal of the situation's emotional significance. This top-down modulation can be conceptualized within [[predictive processing]] frameworks: the prefrontal cortex updates high-level predictions about situations, which propagate down to modify lower-level emotional responses (Barrett, 2017).
+> The mechanism involves the prefrontal cortex generating alternative interpretations of emotional situations (engaging language and semantic processing systems) and transmitting these reinterpretations to the amygdala through direct and indirect pathways, updating the amygdala's appraisal of the situation's emotional significance. This top-down modulation can be conceptualized within [[Predictive-Processing]] frameworks: the prefrontal cortex updates high-level predictions about situations, which propagate down to modify lower-level emotional responses (Barrett, 2017).
 >
 > Importantly, reappraisal is more effective when applied early in emotional episodes rather than after emotions have fully developed. This timing dependence reflects that emotional responses involve cascading physiological and cognitive changes that become harder to reverse once fully deployed. [[Stoic]] practices of anticipating challenges ("premeditation of evils") and maintaining continuous awareness of interpretive flexibility may work partly by positioning cognitive reappraisal at the earliest stages of emotional processing.
 
@@ -3484,7 +3484,7 @@ This report has established the cognitive science foundation underlying the [[Sy
 ---
 
 **Wiki-Links Introduced in This Report** (Total: 35):
-[[Cognitive Science]], [[Synthesis Framework]], [[Pragmatism]], [[Stoicism]], [[Critical Thinking]], [[Constructivism]], [[Tier 1]], [[Tier 2]], [[Frederick Bartlett]], [[schemas]], [[Alan Turing]], [[Allen Newell]], [[Herbert Simon]], [[Noam Chomsky]], [[George Miller]], [[working memory]], [[cognitive neuroscience]], [[Michael Gazzaniga]], [[Karl Pribram]], [[Steven Pinker]], [[fMRI]], [[PET]], [[EEG]], [[reinforcement learning]], [[prefrontal cortex]], [[dlPFC]], [[vmPFC]], [[ACC]], [[amygdala]], [[hippocampus]], [[basal ganglia]], [[reward prediction errors]], [[cognitive reappraisal]], [[dual-process theory]], [[metacognition]]
+[[Cognitive Science]], [[Synthesis Framework]], [[Pragmatism]], [[Stoicism]], [[Critical Thinking]], [[Constructivism]], [[Tier 1]], [[Tier 2]], [[Frederick Bartlett]], [[schemas]], [[Alan Turing]], [[Allen Newell]], [[Herbert Simon]], [[Noam Chomsky]], [[George Miller]], [[working memory]], [[cognitive neuroscience]], [[Michael Gazzaniga]], [[Karl Pribram]], [[Steven Pinker]], [[fMRI]], [[PET]], [[EEG]], [[reinforcement learning]], [[prefrontal cortex]], [[dlPFC]], [[vmPFC]], [[ACC]], [[amygdala]], [[hippocampus]], [[basal ganglia]], [[reward prediction errors]], [[cognitive reappraisal]], [[Dual-Process-Theory]], [[metacognition]]
 
 ---
 
@@ -3614,7 +3614,7 @@ related_concepts:
   - "[[executive function]]"
   - "[[Charles Sanders Peirce]]"
   - "[[William James]]"
-  - "[[John Dewey]]"
+  - "[[John-Dewey]]"
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -3642,7 +3642,7 @@ related_concepts:
 
 > [!definition] **Pragmatism**
 > 
-> [[Pragmatism]] is a philosophical tradition originating in the early 1870s among members of "The Metaphysical Club" in Cambridge, Massachusetts, and formalized through the work of [[Charles Sanders Peirce]], [[William James]], and [[John Dewey]]. The tradition's central commitment holds that the meaning and truth of ideas lie in their practical consequences and observable effects. Peirce articulated this through his *pragmatic maxim*: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." In decision-making contexts, Pragmatism emphasizes [[Empirical Testing]] of ideas, flexible adaptation based on outcomes, and a persistent focus on "what works" rather than adherence to abstract ideals or theoretical elegance.
+> [[Pragmatism]] is a philosophical tradition originating in the early 1870s among members of "The Metaphysical Club" in Cambridge, Massachusetts, and formalized through the work of [[Charles Sanders Peirce]], [[William James]], and [[John-Dewey]]. The tradition's central commitment holds that the meaning and truth of ideas lie in their practical consequences and observable effects. Peirce articulated this through his *pragmatic maxim*: "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object." In decision-making contexts, Pragmatism emphasizes [[Empirical Testing]] of ideas, flexible adaptation based on outcomes, and a persistent focus on "what works" rather than adherence to abstract ideals or theoretical elegance.
 > 
 > **Domain Focus in Synthesis Framework**: [[Decision-Making]] & Action
 > 
@@ -3674,7 +3674,7 @@ The story of [[Pragmatism]] begins not in lecture halls or published treatises b
 
 ### Charles Sanders Peirce: The Logical Architect
 
-Peirce, whom [[John Dewey]] later characterized as writing "as a logician," forged the conceptual foundations of Pragmatism through rigorous analysis of meaning and inquiry. His 1878 essay "How to Make Our Ideas Clear" introduced the *pragmatic maxim*, a principle for clarifying the meaning of concepts by identifying their conceivable practical effects. For Peirce, an idea's meaning was exhausted by the totality of its practical consequences—if two concepts produced identical practical outcomes in every conceivable scenario, they were, for all philosophical purposes, identical in meaning.
+Peirce, whom [[John-Dewey]] later characterized as writing "as a logician," forged the conceptual foundations of Pragmatism through rigorous analysis of meaning and inquiry. His 1878 essay "How to Make Our Ideas Clear" introduced the *pragmatic maxim*, a principle for clarifying the meaning of concepts by identifying their conceivable practical effects. For Peirce, an idea's meaning was exhausted by the totality of its practical consequences—if two concepts produced identical practical outcomes in every conceivable scenario, they were, for all philosophical purposes, identical in meaning.
 
 > [!quote]
 > 
@@ -3695,7 +3695,7 @@ James's celebrated essay "The Will to Believe" (1897) further extended pragmatic
 
 ### John Dewey: The Democratic Instrumentalist
 
-[[John Dewey]] (1859–1952), the third architect of classical pragmatism, had studied briefly with Peirce at Johns Hopkins and drew sustained inspiration from James's psychological orientation. Over an illustrious career spanning seven decades, Dewey reformulated pragmatism into what he called "instrumentalism"—a comprehensive philosophy treating ideas, concepts, and theories as *instruments* for solving problems rather than as mirrors reflecting an independent reality.
+[[John-Dewey]] (1859–1952), the third architect of classical pragmatism, had studied briefly with Peirce at Johns Hopkins and drew sustained inspiration from James's psychological orientation. Over an illustrious career spanning seven decades, Dewey reformulated pragmatism into what he called "instrumentalism"—a comprehensive philosophy treating ideas, concepts, and theories as *instruments* for solving problems rather than as mirrors reflecting an independent reality.
 
 Dewey's instrumentalism represented the most systematic integration of pragmatic principles with the domains of education, social reform, and democratic practice. His understanding of [[inquiry]]—outlined in *Logic: The Theory of Inquiry* (1938)—conceived of thinking as a structured process that begins with a genuinely felt difficulty or "problematic situation," proceeds through hypothesis generation and testing, and concludes with the transformation of the original situation into one that is determinate and resolved. This process model of inquiry carries profound implications for [[Decision-Making]]: it positions effective decision-making not as a momentary act of will but as a sustained process of investigation, experimentation, and reflective adjustment.
 
@@ -3745,7 +3745,7 @@ Beyond the automatic learning mediated by RPEs, pragmatic decision-making engage
 
 Executive functions relevant to pragmatic decision-making include [[working memory]] (holding and manipulating relevant information), cognitive flexibility (shifting between strategies), and inhibitory control (suppressing impulsive or habitual responses when evidence indicates they are no longer adaptive). Neuroimaging research demonstrates that the dlPFC is activated during tasks requiring the evaluation of action-outcome contingencies—precisely the kind of "what works?" assessment that defines pragmatic reasoning (Miller & Cohen, 2001).
 
-The interaction between the fast, habitual learning system (striatum-based RPE encoding) and the slower, deliberative system (prefrontal executive function) maps onto the [[dual-process theory]] framework discussed in [[Report 2 - Cognitive Science Foundations]]. Pragmatic decision-making, in its fullest expression, integrates both systems: automatic learning from experience provides rapid default responses, while executive oversight enables the reflective testing and revision of strategies that distinguishes sophisticated pragmatism from mere habit.
+The interaction between the fast, habitual learning system (striatum-based RPE encoding) and the slower, deliberative system (prefrontal executive function) maps onto the [[Dual-Process-Theory]] framework discussed in [[Report 2 - Cognitive Science Foundations]]. Pragmatic decision-making, in its fullest expression, integrates both systems: automatic learning from experience provides rapid default responses, while executive oversight enables the reflective testing and revision of strategies that distinguishes sophisticated pragmatism from mere habit.
 
 ---
 
@@ -3769,7 +3769,7 @@ A defining feature of pragmatic philosophy, particularly as developed by Dewey, 
 
 > [!atomic-concept] **Inquiry as Iterative Action**
 > 
-> For [[John Dewey]], inquiry is not a purely mental activity that precedes action but an integrated process in which thought and action are reciprocally constitutive. Effective decision-making, from this perspective, requires the willingness to act on provisional hypotheses, observe results, and adjust understanding accordingly. This positions [[Empirical Testing]]—real-world experimentation with ideas—as the fundamental mechanism of intelligent decision-making.
+> For [[John-Dewey]], inquiry is not a purely mental activity that precedes action but an integrated process in which thought and action are reciprocally constitutive. Effective decision-making, from this perspective, requires the willingness to act on provisional hypotheses, observe results, and adjust understanding accordingly. This positions [[Empirical Testing]]—real-world experimentation with ideas—as the fundamental mechanism of intelligent decision-making.
 
 ### Consequentialism of Meaning (Not Ethics)
 
@@ -4194,7 +4194,7 @@ The Roman Stoics translated this theoretical framework into practical methodolog
 
 [[Epictetus]] (c. 50–135 CE), born into slavery and eventually freed to establish a philosophical school, brought to Stoic emotional regulation an emphasis on the radical interiority of freedom. His *Discourses* and *Enchiridion* systematize the practical application of the [[Dichotomy of Control]], offering students exercises for distinguishing their own judgments and choices (which are always within their power) from everything external (which is not). Epictetus's famous analogy of the philosopher as a "watchman" who examines every incoming impression (*phantasia*) before granting or withholding assent captures the Stoic model of emotional regulation as a form of cognitive vigilance.
 
-[[Marcus Aurelius]] (121–180 CE), Roman Emperor and the last major Stoic philosopher, left behind the *Meditations*—a private journal never intended for publication—that reveals the daily practice of Stoic emotional regulation under conditions of extraordinary pressure. Governing an empire beset by plague, military insurrection, and personal loss, Marcus employed techniques including [[premeditatio malorum]] (the pre-rehearsal of adversity), the [[view from above]] (imagining one's situation from a cosmic perspective to reduce its emotional weight), and systematic [[cognitive reappraisal]] of threatening situations.
+[[Marcus Aurelius]] (121–180 CE), Roman Emperor and the last major Stoic philosopher, left behind the *Meditations*—a private journal never intended for publication—that reveals the daily practice of Stoic emotional regulation under conditions of extraordinary pressure. Governing an empire beset by plague, military insurrection, and personal loss, Marcus employed techniques including [[Premeditatio-Malorum]] (the pre-rehearsal of adversity), the [[view from above]] (imagining one's situation from a cosmic perspective to reduce its emotional weight), and systematic [[cognitive reappraisal]] of threatening situations.
 
 > [!quote]
 > "Choose not to be harmed—and you won't feel harmed. Don't feel harmed—and you haven't been."
@@ -4211,7 +4211,7 @@ The Stoic practice of examining and revising one's judgments about events finds 
 
 > [!evidence] **Tier 1: The Prefrontal-Amygdala Regulatory Circuit**
 > 
-> Neuroimaging research has consistently identified a fronto-parietal network as the neural substrate of [[cognitive reappraisal]]. Functional MRI studies demonstrate that when participants are instructed to reappraise negative emotional stimuli—reinterpreting a threatening image as non-threatening, or reframing a personal setback as a learning opportunity—activation increases in lateral and medial [[prefrontal cortex]] regions while [[amygdala]] activation decreases (Buhle et al., 2014; Ochsner et al., 2002). A comprehensive meta-analysis of 48 neuroimaging studies by Buhle and colleagues found reliable reappraisal-related activation in the [[dorsolateral prefrontal cortex]] (dlPFC), [[ventrolateral prefrontal cortex]] (vlPFC), [[ventromedial prefrontal cortex]] (vmPFC), and posterior temporal regions, along with consistent bilateral reduction in [[amygdala]] response.
+> Neuroimaging research has consistently identified a fronto-parietal network as the neural substrate of [[cognitive reappraisal]]. Functional MRI studies demonstrate that when participants are instructed to reappraise negative emotional stimuli—reinterpreting a threatening image as non-threatening, or reframing a personal setback as a learning opportunity—activation increases in lateral and medial [[prefrontal cortex]] regions while [[amygdala]] activation decreases (Buhle et al., 2014; Ochsner et al., 2002). A comprehensive meta-analysis of 48 neuroimaging studies by Buhle and colleagues found reliable reappraisal-related activation in the [[dorsolateral prefrontal cortex]] (dlPFC), [[ventrolateral prefrontal cortex]] (vlPFC), [[Ventromedial-Prefrontal-Cortex]] (vmPFC), and posterior temporal regions, along with consistent bilateral reduction in [[amygdala]] response.
 >
 > Recent causal evidence has strengthened these correlational findings. A 2023 TMS-fMRI study demonstrated that the [[vlPFC]] and [[vmPFC]] causally contribute to emotion regulation, with transcranial magnetic stimulation to these regions directly altering both prefrontal activation patterns and downstream amygdala responses. The mechanism operates through negative functional coupling: as prefrontal regulatory regions increase their activity, the [[amygdala]]'s threat-detection response proportionally diminishes. This is not merely suppression; it represents a genuine recomputation of the emotional significance of the stimulus.
 >
@@ -4288,13 +4288,13 @@ The [[Dichotomy of Control]] is the master principle organizing all Stoic emotio
 
 > [!insight]
 > 
-> The [[Dichotomy of Control]] functions as what cognitive scientists would call a **[[metacognitive]] classification schema**—a higher-order framework for categorizing experiences before they trigger emotional cascades. By training oneself to automatically classify incoming stressors as "within my control" or "not within my control," one creates a pre-processing filter that prevents the full emotional escalation that occurs when we treat uncontrollable events as controllable (generating frustration and helplessness) or controllable events as uncontrollable (generating passivity and despair). This schema functions analogously to how [[dual-process theory]]'s System 2 can override System 1 defaults when properly trained—the classification becomes habitual with practice, eventually requiring minimal conscious effort.
+> The [[Dichotomy of Control]] functions as what cognitive scientists would call a **[[metacognitive]] classification schema**—a higher-order framework for categorizing experiences before they trigger emotional cascades. By training oneself to automatically classify incoming stressors as "within my control" or "not within my control," one creates a pre-processing filter that prevents the full emotional escalation that occurs when we treat uncontrollable events as controllable (generating frustration and helplessness) or controllable events as uncontrollable (generating passivity and despair). This schema functions analogously to how [[Dual-Process-Theory]]'s System 2 can override System 1 defaults when properly trained—the classification becomes habitual with practice, eventually requiring minimal conscious effort.
 
 ### Stoic Techniques as Cognitive Regulation Strategies
 
 The Stoic tradition developed a rich repertoire of specific techniques, each targeting a particular aspect of emotional regulation. These are not abstract philosophical positions but practical exercises with direct cognitive-scientific parallels.
 
-**[[Premeditatio Malorum]] (Premeditation of Adversity)**: The deliberate visualization of potential setbacks and worst-case scenarios, practiced not to generate anxiety but to reduce the shock value of adverse events and prepare adaptive responses. This technique functions as a form of cognitive "inoculation"—by pre-processing potential threats in a calm, reflective state, one reduces the [[amygdala]]'s surprise response when similar events actually occur. Research on [[stress inoculation training]] in clinical and military contexts validates this principle.
+**[[Premeditatio-Malorum]] (Premeditation of Adversity)**: The deliberate visualization of potential setbacks and worst-case scenarios, practiced not to generate anxiety but to reduce the shock value of adverse events and prepare adaptive responses. This technique functions as a form of cognitive "inoculation"—by pre-processing potential threats in a calm, reflective state, one reduces the [[amygdala]]'s surprise response when similar events actually occur. Research on [[stress inoculation training]] in clinical and military contexts validates this principle.
 
 **[[View from Above]] (The Cosmic Perspective)**: Marcus Aurelius frequently employed the exercise of imagining one's situation from an increasingly elevated vantage point—from the city, from the continent, from the globe, from the cosmos. This technique leverages [[psychological distancing]], a well-studied emotion regulation strategy in which adopting a third-person or spatially distant perspective on a stressful event reduces its emotional intensity. fMRI studies of self-distancing show reduced [[amygdala]] activation and increased prefrontal engagement, mirroring the neural signature of cognitive reappraisal (Kross et al., 2014).
 
@@ -4384,7 +4384,7 @@ The [[Synthesis Framework]]'s power lies not in any single philosophical pillar 
 
 ### Connections to [[Critical Thinking]]
 
-[[Critical Thinking]], as the [[Synthesis Framework]]'s pillar for [[Information Processing]] and Analysis, depends on the capacity for unbiased evaluation of evidence and arguments. [[Emotional Regulation]] is a prerequisite for effective critical thinking because [[cognitive biases]] are substantially amplified by emotional arousal. The [[affect heuristic]]—the tendency to let current emotional state influence judgments of probability and value—the [[confirmation bias]]—intensified when ego-involving beliefs are at stake—and [[motivated reasoning]]—the unconscious distortion of evidence evaluation to protect emotionally valued conclusions—are all forms of reasoning failure that Stoic emotional regulation directly mitigates. By reducing the emotional charge around beliefs and conclusions, Stoic practice creates the cognitive space in which [[Critical Thinking]] can operate with less distortion.
+[[Critical Thinking]], as the [[Synthesis Framework]]'s pillar for [[Information Processing]] and Analysis, depends on the capacity for unbiased evaluation of evidence and arguments. [[Emotional Regulation]] is a prerequisite for effective critical thinking because [[cognitive biases]] are substantially amplified by emotional arousal. The [[affect heuristic]]—the tendency to let current emotional state influence judgments of probability and value—the [[confirmation bias]]—intensified when ego-involving beliefs are at stake—and [[Motivated-Reasoning]]—the unconscious distortion of evidence evaluation to protect emotionally valued conclusions—are all forms of reasoning failure that Stoic emotional regulation directly mitigates. By reducing the emotional charge around beliefs and conclusions, Stoic practice creates the cognitive space in which [[Critical Thinking]] can operate with less distortion.
 
 ### Connections to [[Constructivism]]
 
@@ -4418,7 +4418,7 @@ Additionally, the Stoic approach to [[Emotional Regulation]] is most effective w
 
 > [!summary]
 > 
-> [[Stoicism]] occupies a unique position within the [[Synthesis Framework]] as the philosophical pillar most directly concerned with the inner life of the practitioner. While [[Pragmatism]] addresses what to do, [[Critical Thinking]] addresses what to believe, and [[Constructivism]] addresses how to learn, Stoicism addresses how to *be*—how to maintain psychological equilibrium, clarity of judgment, and capacity for virtuous action in the face of adversity, uncertainty, and emotional turbulence. The ancient Stoic insight that emotions arise from judgments rather than from events themselves has been powerfully validated by modern [[cognitive neuroscience]], which has identified the specific neural circuits—the [[prefrontal cortex]]-to-[[amygdala]] regulatory pathway—through which cognitive reappraisal modulates emotional responses. The Stoic tradition offers both a theoretical framework (the architecture of impression, assent, and passion) and a practical methodology (the [[Dichotomy of Control]], [[premeditatio malorum]], the [[view from above]], the evening review) for cultivating [[Emotional Regulation]] as a sustained practice rather than an occasional intervention. Through its direct historical influence on [[Cognitive Behavioral Therapy]] and its deep resonance with [[Acceptance and Commitment Therapy]]'s concept of [[psychological flexibility]], Stoicism demonstrates that philosophical practice and empirical clinical science converge on a common understanding of emotional wellbeing: that the capacity to examine, evaluate, and when necessary revise one's interpretive responses to events is the foundation of human resilience.
+> [[Stoicism]] occupies a unique position within the [[Synthesis Framework]] as the philosophical pillar most directly concerned with the inner life of the practitioner. While [[Pragmatism]] addresses what to do, [[Critical Thinking]] addresses what to believe, and [[Constructivism]] addresses how to learn, Stoicism addresses how to *be*—how to maintain psychological equilibrium, clarity of judgment, and capacity for virtuous action in the face of adversity, uncertainty, and emotional turbulence. The ancient Stoic insight that emotions arise from judgments rather than from events themselves has been powerfully validated by modern [[cognitive neuroscience]], which has identified the specific neural circuits—the [[prefrontal cortex]]-to-[[amygdala]] regulatory pathway—through which cognitive reappraisal modulates emotional responses. The Stoic tradition offers both a theoretical framework (the architecture of impression, assent, and passion) and a practical methodology (the [[Dichotomy of Control]], [[Premeditatio-Malorum]], the [[view from above]], the evening review) for cultivating [[Emotional Regulation]] as a sustained practice rather than an occasional intervention. Through its direct historical influence on [[Cognitive Behavioral Therapy]] and its deep resonance with [[Acceptance and Commitment Therapy]]'s concept of [[psychological flexibility]], Stoicism demonstrates that philosophical practice and empirical clinical science converge on a common understanding of emotional wellbeing: that the capacity to examine, evaluate, and when necessary revise one's interpretive responses to events is the foundation of human resilience.
 
 > [!further-exploration] **Expanding the Knowledge Base**
 
@@ -4685,7 +4685,7 @@ fact_check_status: "verified"
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Critical Thinking Frameworks]]"
-  - "[[dual-process theory]]"
+  - "[[Dual-Process-Theory]]"
   - "[[Cognitive Biases]]"
   - "[[Argument Analysis]]"
   - "[[Logical Fallacies]]"
@@ -4727,7 +4727,7 @@ source: "claude-opus-4.5"
 ## 🎯 Phase 1: Introduction & Domain Mapping
 
 > [!abstract]
-> Critical thinking constitutes the analytical pillar of the [[Synthesis Framework]], providing the systematic methods through which information is evaluated, arguments are assessed, and beliefs are warranted. Where [[Pragmatism]] asks "what works?" and [[Stoicism]] asks "what is within my control?", critical thinking poses the foundational epistemic question: **"What is the evidence and logic?"** This report traces the intellectual lineage of critical thinking from the [[Presocratics]] through modern [[cognitive science]], establishes its neural and cognitive underpinnings in [[dual-process theory]], and maps its practical application within the [[Layered Model]] of the Synthesis Framework. The domain of [[Information Processing]] and analysis represents critical thinking's natural territory—the cognitive space where raw data, claims, and arguments are transformed into warranted beliefs through disciplined evaluation.
+> Critical thinking constitutes the analytical pillar of the [[Synthesis Framework]], providing the systematic methods through which information is evaluated, arguments are assessed, and beliefs are warranted. Where [[Pragmatism]] asks "what works?" and [[Stoicism]] asks "what is within my control?", critical thinking poses the foundational epistemic question: **"What is the evidence and logic?"** This report traces the intellectual lineage of critical thinking from the [[Presocratics]] through modern [[cognitive science]], establishes its neural and cognitive underpinnings in [[Dual-Process-Theory]], and maps its practical application within the [[Layered Model]] of the Synthesis Framework. The domain of [[Information Processing]] and analysis represents critical thinking's natural territory—the cognitive space where raw data, claims, and arguments are transformed into warranted beliefs through disciplined evaluation.
 
 > [!definition] **Critical Thinking**
 >
@@ -4773,7 +4773,7 @@ The intellectual lineage of critical thinking stretches far deeper than commonly
 > "It is the mark of an educated mind to be able to entertain a thought without accepting it."
 > — Attributed to [[Aristotle]], often cited as encapsulating the core disposition of the critical thinker.
 
-The modern critical thinking movement emerged from a quite specific historical context. The conventional attribution credits [[John Dewey]] with originating the concept in his 1910 work *How We Think*, but this narrative requires qualification. Dewey's primary term was "[[reflective thinking]]"—a phrase that appeared approximately twenty times in the first edition, while "critical thinking" appeared only twice and was not indexed (Lau, 2024). What Dewey contributed was not the terminology itself but the educational philosophy that systematic thinking could and should be taught as a deliberate skill rather than assumed as an innate capacity. His conception of reflective thought as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it" remains foundational.
+The modern critical thinking movement emerged from a quite specific historical context. The conventional attribution credits [[John-Dewey]] with originating the concept in his 1910 work *How We Think*, but this narrative requires qualification. Dewey's primary term was "[[reflective thinking]]"—a phrase that appeared approximately twenty times in the first edition, while "critical thinking" appeared only twice and was not indexed (Lau, 2024). What Dewey contributed was not the terminology itself but the educational philosophy that systematic thinking could and should be taught as a deliberate skill rather than assumed as an innate capacity. His conception of reflective thought as "active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it" remains foundational.
 
 The crystallization of critical thinking as a distinct field occurred in the 1970s and 1980s through the [[informal logic]] movement. [[Robert Ennis]] published his influential definition in 1962 and refined it over subsequent decades, establishing the framework that most contemporary critical thinking instruction follows. [[Richard Paul]] made a crucial contribution by distinguishing between "weak-sense" and "strong-sense" critical thinking. Weak-sense critical thinking applies logical tools selectively—finding flaws in opponents' arguments while exempting one's own beliefs from scrutiny. Strong-sense critical thinking, by contrast, requires intellectual courage: the willingness to turn the full apparatus of critical analysis upon one's own most cherished convictions. Paul's distinction illuminates a persistent challenge within the field—the difference between critical thinking as a *skill set* (analyzable, teachable, assessable) and critical thinking as an *intellectual character* (requiring sustained cultivation of dispositions like intellectual humility, fair-mindedness, and epistemic courage).
 
@@ -4788,7 +4788,7 @@ The crystallization of critical thinking as a distinct field occurred in the 197
 
 > [!evidence] **Tier 1: The Neural Architecture of Critical Thinking — Dual-Process Theory**
 >
-> The cognitive science of critical thinking centers on [[dual-process theory]], the widely validated framework proposing that human cognition operates through two functionally distinct processing systems (Kahneman, 2011; Evans & Stanovich, 2013). [[System 1]] operates automatically, rapidly, and with minimal conscious effort—generating intuitive judgments, pattern-matched responses, and heuristic-based conclusions. [[System 2]] operates deliberately, slowly, and with substantial cognitive effort—engaging analytical reasoning, logical evaluation, and systematic problem-solving. Critical thinking, in neurological terms, is the deliberate activation of System 2 processing to monitor, evaluate, and when necessary override the outputs of System 1.
+> The cognitive science of critical thinking centers on [[Dual-Process-Theory]], the widely validated framework proposing that human cognition operates through two functionally distinct processing systems (Kahneman, 2011; Evans & Stanovich, 2013). [[System 1]] operates automatically, rapidly, and with minimal conscious effort—generating intuitive judgments, pattern-matched responses, and heuristic-based conclusions. [[System 2]] operates deliberately, slowly, and with substantial cognitive effort—engaging analytical reasoning, logical evaluation, and systematic problem-solving. Critical thinking, in neurological terms, is the deliberate activation of System 2 processing to monitor, evaluate, and when necessary override the outputs of System 1.
 >
 > A 2024 ALE meta-analysis of fMRI studies examining the neural foundations of dual-process tasks identified convergent activation in the medial frontal cortex, superior frontal cortex, [[anterior cingulate cortex]] (ACC), insula, and left inferior frontal gyrus (Filippi et al., 2024). These regions overlap substantially with the cognitive control network, confirming a neural common ground between dual-process reasoning and executive control. The [[dorsolateral prefrontal cortex]] (dlPFC), particularly Brodmann areas 9 and 46, serves as a primary hub for System 2 operations—maintaining information in [[working memory]], suppressing prepotent responses, and coordinating multi-step reasoning sequences. The ACC functions as a conflict monitoring system, detecting discrepancies between System 1 outputs and available evidence—essentially serving as the brain's error-detection alarm that triggers the engagement of more deliberate analytical processing (Botvinick et al., 2001).
 >
@@ -4815,7 +4815,7 @@ The crystallization of critical thinking as a distinct field occurred in the 197
 >
 > [[Confirmation bias]]—the tendency to seek, interpret, and remember information that confirms pre-existing beliefs—represents one of the most significant obstacles to effective critical thinking. Neuroimaging research has begun to reveal why this bias is so persistent and difficult to overcome. Leong et al. (2019) demonstrated through fMRI that the posterior medial prefrontal cortex (pMFC) tracks the strength of opinions that *agree* with a participant's existing position but shows substantially reduced sensitivity to *disagreeing* opinions of equal strength. In other words, the brain literally processes confirming and disconfirming information through asymmetric neural pathways.
 >
-> The neural architecture of confidence evaluation further illuminates this pattern. Research on prefrontal networks has identified two functionally dissociable systems: a dorsal network encompassing the [[dorsal anterior cingulate cortex]] (dACC), bilateral insula, and dorsomedial and dorsolateral prefrontal cortices, which correlates *negatively* with confidence judgments; and a ventral network centered on the [[ventromedial prefrontal cortex]] (vmPFC), which correlates *positively* with confidence (Weiss et al., 2023). The dACC was originally identified as a center for performance monitoring and error detection, while the vmPFC encodes subjective confidence in one's judgments. Confirmation bias may partly arise from dysregulation in the balance between these networks—specifically, attenuated error signals from the dorsal network when encountering belief-inconsistent information, combined with enhanced confidence signals from the ventral network when encountering belief-consistent information.
+> The neural architecture of confidence evaluation further illuminates this pattern. Research on prefrontal networks has identified two functionally dissociable systems: a dorsal network encompassing the [[dorsal anterior cingulate cortex]] (dACC), bilateral insula, and dorsomedial and dorsolateral prefrontal cortices, which correlates *negatively* with confidence judgments; and a ventral network centered on the [[Ventromedial-Prefrontal-Cortex]] (vmPFC), which correlates *positively* with confidence (Weiss et al., 2023). The dACC was originally identified as a center for performance monitoring and error detection, while the vmPFC encodes subjective confidence in one's judgments. Confirmation bias may partly arise from dysregulation in the balance between these networks—specifically, attenuated error signals from the dorsal network when encountering belief-inconsistent information, combined with enhanced confidence signals from the ventral network when encountering belief-consistent information.
 >
 > **Key Citations**:
 > - Leong, Y. C. et al. (2019). "Neurocomputational mechanisms underlying motivated seeing." *Nature Human Behaviour*, 3(9), 962–973.
@@ -4848,9 +4848,9 @@ A critical thinker evaluates arguments along multiple dimensions. **Deductive va
 >
 > [[Cognitive Biases]] are systematic deviations from normatively correct reasoning that arise from the interaction between System 1 heuristics and the constraints of human cognitive architecture. They are not random errors but predictable patterns, which is precisely what makes them both dangerous and, with appropriate knowledge, correctable. The landscape of documented biases is vast, but several are particularly relevant to [[Information Processing]] in the context of the Synthesis Framework.
 
-The [[Availability Heuristic]] leads thinkers to judge the probability of events based on how easily examples come to mind rather than on actual frequency data. Dramatic, recent, or emotionally vivid events are overweighted; mundane, distant, or statistically common events are underweighted. The [[Anchoring Effect]] causes initial information to exert disproportionate influence on subsequent judgments, even when the anchor is arbitrary or irrelevant. The [[Dunning-Kruger Effect]] describes how individuals with limited knowledge in a domain tend to overestimate their competence precisely because they lack the expertise needed to recognize the boundaries of their understanding—a metacognitive failure with direct implications for critical self-assessment.
+The [[Availability-Heuristic]] leads thinkers to judge the probability of events based on how easily examples come to mind rather than on actual frequency data. Dramatic, recent, or emotionally vivid events are overweighted; mundane, distant, or statistically common events are underweighted. The [[Anchoring Effect]] causes initial information to exert disproportionate influence on subsequent judgments, even when the anchor is arbitrary or irrelevant. The [[Dunning-Kruger-Effect]] describes how individuals with limited knowledge in a domain tend to overestimate their competence precisely because they lack the expertise needed to recognize the boundaries of their understanding—a metacognitive failure with direct implications for critical self-assessment.
 
-[[Motivated reasoning]] occupies a particularly insidious position in the bias landscape because it involves the unconscious recruitment of cognitive resources to defend pre-existing conclusions rather than to discover truth. Unlike simple error, motivated reasoning co-opts the very mechanisms of analytical thinking—constructing elaborate justifications, finding methodological flaws in inconvenient studies, and generating sophisticated counterarguments—all in service of protecting a belief the thinker is emotionally invested in preserving.
+[[Motivated-Reasoning]] occupies a particularly insidious position in the bias landscape because it involves the unconscious recruitment of cognitive resources to defend pre-existing conclusions rather than to discover truth. Unlike simple error, motivated reasoning co-opts the very mechanisms of analytical thinking—constructing elaborate justifications, finding methodological flaws in inconvenient studies, and generating sophisticated counterarguments—all in service of protecting a belief the thinker is emotionally invested in preserving.
 
 ### Logical Fallacies as Reasoning Errors
 
@@ -4900,7 +4900,7 @@ Critical thinking's application to [[Information Processing]] follows a structur
 >
 > **Analysis**: Several flags warrant investigation. "Immune function" is an extraordinarily broad category—what specific immune markers were measured? A 300% increase would be an extraordinary effect size requiring extraordinary evidence. Was the study a randomized controlled trial or an observational study? What was the sample size? Was it replicated? Who funded the research—does the journal have relationships with supplement manufacturers?
 >
-> **Evaluation**: The [[Availability Heuristic]] may be influencing the colleague—the dramatic percentage and personal testimony make the claim feel compelling. The specificity of "300%" creates an [[Anchoring Effect]] that may make even a reduced estimate seem impressive. The claim warrants careful examination before acceptance, not because health benefits are impossible but because the evidence must be proportional to the claim's strength.
+> **Evaluation**: The [[Availability-Heuristic]] may be influencing the colleague—the dramatic percentage and personal testimony make the claim feel compelling. The specificity of "300%" creates an [[Anchoring Effect]] that may make even a reduced estimate seem impressive. The claim warrants careful examination before acceptance, not because health benefits are impossible but because the evidence must be proportional to the claim's strength.
 >
 > **Integration**: Even if the specific study proves flawed, the investigation may yield useful information about immune health, supplementation research methodology, and the colleague's characteristic reasoning patterns. The critical thinking process is valuable regardless of the conclusion reached.
 
@@ -4914,7 +4914,7 @@ Critical thinking's application to [[Information Processing]] follows a structur
 >
 > **Analysis**: Examine the underlying *models* rather than just the conclusions. What assumptions does each model make about consumer behavior, market conditions, and policy transmission mechanisms? What historical precedents does each cite, and how analogous are those precedents to the current situation? Are there identifiable *value differences* (not just empirical disagreements) driving the divergent conclusions—for instance, different weightings of short-term versus long-term effects?
 >
-> **Evaluation**: Resist the temptation to resolve the tension prematurely by selecting whichever analysis aligns with your pre-existing political orientation ([[motivated reasoning]]). Instead, identify the specific empirical claims that differ between the analyses—these are testable predictions that will eventually be resolved by evidence. Assign tentative probability estimates to each scenario, acknowledging genuine uncertainty.
+> **Evaluation**: Resist the temptation to resolve the tension prematurely by selecting whichever analysis aligns with your pre-existing political orientation ([[Motivated-Reasoning]]). Instead, identify the specific empirical claims that differ between the analyses—these are testable predictions that will eventually be resolved by evidence. Assign tentative probability estimates to each scenario, acknowledging genuine uncertainty.
 >
 > **Integration**: Expert disagreement, properly understood, is *informative*—it reveals the boundaries of current knowledge and identifies the specific variables whose values are most consequential for the outcome. This represents epistemic gain, not failure.
 
@@ -4938,14 +4938,14 @@ Critical thinking's application to [[Information Processing]] follows a structur
 
 ### Connections to [[Pragmatism]]
 
-Critical thinking and [[Pragmatic Decision-Making]] share a fundamental orientation toward consequences and evidence, though they operate at different phases of the decision cycle. Critical thinking provides the analytical infrastructure that pragmatism requires to function effectively—without rigorous evaluation of available evidence, pragmatic experimentation risks degenerating into uninformed trial-and-error. Conversely, pragmatism prevents critical thinking from becoming purely theoretical: the pragmatic insistence that ideas must be tested through action provides critical thinking with a telos beyond mere analysis. In the language of [[dual-process theory]], critical thinking engages System 2 to evaluate options that pragmatism then tests in the world, and the results of pragmatic testing provide new evidence for critical evaluation.
+Critical thinking and [[Pragmatic Decision-Making]] share a fundamental orientation toward consequences and evidence, though they operate at different phases of the decision cycle. Critical thinking provides the analytical infrastructure that pragmatism requires to function effectively—without rigorous evaluation of available evidence, pragmatic experimentation risks degenerating into uninformed trial-and-error. Conversely, pragmatism prevents critical thinking from becoming purely theoretical: the pragmatic insistence that ideas must be tested through action provides critical thinking with a telos beyond mere analysis. In the language of [[Dual-Process-Theory]], critical thinking engages System 2 to evaluate options that pragmatism then tests in the world, and the results of pragmatic testing provide new evidence for critical evaluation.
 
 > [!insight]
 > The pragmatic maxim—that the meaning of a concept lies in its practical consequences—can be applied reflexively to critical thinking itself. A critical thinking practice that produces no improvement in actual decision quality is, by pragmatic standards, failing regardless of its logical sophistication. This creates a healthy tension that prevents critical analysis from becoming an end in itself.
 
 ### Connections to [[Stoicism]]
 
-The relationship between critical thinking and [[Stoic Emotional Regulation]] reveals one of the most powerful synergies within the Synthesis Framework. [[Cognitive Biases]] are frequently amplified by emotional states—fear intensifies the [[Availability Heuristic]], desire strengthens [[confirmation bias]], anger fuels [[motivated reasoning]]. Stoic practices of [[cognitive reappraisal]] and emotional distancing create the psychological space within which critical analysis can operate more effectively. The [[Dichotomy of Control]] is itself an application of critical thinking: distinguishing what is within one's power from what is not requires careful analysis of causal chains and personal agency.
+The relationship between critical thinking and [[Stoic Emotional Regulation]] reveals one of the most powerful synergies within the Synthesis Framework. [[Cognitive Biases]] are frequently amplified by emotional states—fear intensifies the [[Availability-Heuristic]], desire strengthens [[confirmation bias]], anger fuels [[Motivated-Reasoning]]. Stoic practices of [[cognitive reappraisal]] and emotional distancing create the psychological space within which critical analysis can operate more effectively. The [[Dichotomy of Control]] is itself an application of critical thinking: distinguishing what is within one's power from what is not requires careful analysis of causal chains and personal agency.
 
 The neural connection is direct: the [[amygdala]], whose activation drives emotional reactivity, exerts top-down influence on information processing. When the amygdala is strongly activated, it biases attention toward threat-relevant information and away from disconfirming evidence. Stoic reappraisal, by modulating amygdala activation through prefrontal engagement (Ochsner et al., 2002), literally creates more favorable neurological conditions for unbiased critical analysis.
 
@@ -4969,14 +4969,14 @@ The most significant practical challenge in applying critical thinking is the **
 
 ### Boundary Conditions
 
-Critical thinking has genuine limitations that an honest assessment must acknowledge. First, it is most effective when applied to claims that are empirically testable or logically analyzable—it provides less traction on questions of aesthetic value, personal meaning, or certain ethical dilemmas where reasonable people may weigh incommensurable values differently. Second, critical thinking cannot generate new information—it can only evaluate information that has been gathered through observation, experiment, or testimony. Third, the application of critical thinking is always situated within a framework of background knowledge, and errors in that background knowledge can produce systematically flawed conclusions even from impeccable reasoning. Finally, as the research on [[dual-process theory]] reveals, the capacity for critical thinking is constrained by neurological architecture—[[working memory]] limitations, attentional bottlenecks, and the sheer processing speed advantage of System 1 mean that no amount of training can eliminate all bias. The goal is not perfect rationality but *improved* rationality through systematic practice.
+Critical thinking has genuine limitations that an honest assessment must acknowledge. First, it is most effective when applied to claims that are empirically testable or logically analyzable—it provides less traction on questions of aesthetic value, personal meaning, or certain ethical dilemmas where reasonable people may weigh incommensurable values differently. Second, critical thinking cannot generate new information—it can only evaluate information that has been gathered through observation, experiment, or testimony. Third, the application of critical thinking is always situated within a framework of background knowledge, and errors in that background knowledge can produce systematically flawed conclusions even from impeccable reasoning. Finally, as the research on [[Dual-Process-Theory]] reveals, the capacity for critical thinking is constrained by neurological architecture—[[working memory]] limitations, attentional bottlenecks, and the sheer processing speed advantage of System 1 mean that no amount of training can eliminate all bias. The goal is not perfect rationality but *improved* rationality through systematic practice.
 
 ---
 
 ## 🎯 Phase 8: Synthesis & Continued Learning
 
 > [!summary]
-> Critical thinking occupies a unique position within the [[Synthesis Framework]] as the domain responsible for the *quality* of [[Information Processing]] and analysis. Grounded in an intellectual tradition stretching from the [[Presocratics]] through [[Aristotle]], the [[informal logic]] movement, and modern [[cognitive science]], it provides the evaluative mechanisms through which claims, evidence, and arguments are assessed for reliability. The cognitive science of [[dual-process theory]] reveals that critical thinking is fundamentally an exercise in System 2 oversight of System 1—engaging the [[dorsolateral prefrontal cortex]] and [[anterior cingulate cortex]] to monitor and correct the rapid but bias-prone outputs of automatic processing. [[Cognitive Biases]] such as [[confirmation bias]], the [[Availability Heuristic]], and [[motivated reasoning]] represent systematic obstacles to accurate information processing, but their very systematicity means they can be anticipated and counteracted through structured analytical practice. Within the [[Layered Model]], critical thinking provides the analytical foundation upon which [[Pragmatism|pragmatic experimentation]], [[Stoicism|stoic resilience]], and [[Constructivism|constructivist learning]] all depend—it is the quality assurance mechanism of the entire framework.
+> Critical thinking occupies a unique position within the [[Synthesis Framework]] as the domain responsible for the *quality* of [[Information Processing]] and analysis. Grounded in an intellectual tradition stretching from the [[Presocratics]] through [[Aristotle]], the [[informal logic]] movement, and modern [[cognitive science]], it provides the evaluative mechanisms through which claims, evidence, and arguments are assessed for reliability. The cognitive science of [[Dual-Process-Theory]] reveals that critical thinking is fundamentally an exercise in System 2 oversight of System 1—engaging the [[dorsolateral prefrontal cortex]] and [[anterior cingulate cortex]] to monitor and correct the rapid but bias-prone outputs of automatic processing. [[Cognitive Biases]] such as [[confirmation bias]], the [[Availability-Heuristic]], and [[Motivated-Reasoning]] represent systematic obstacles to accurate information processing, but their very systematicity means they can be anticipated and counteracted through structured analytical practice. Within the [[Layered Model]], critical thinking provides the analytical foundation upon which [[Pragmatism|pragmatic experimentation]], [[Stoicism|stoic resilience]], and [[Constructivism|constructivist learning]] all depend—it is the quality assurance mechanism of the entire framework.
 
 > [!further-exploration] **Expanding the Knowledge Base**
 
@@ -4996,7 +4996,7 @@ Critical thinking has genuine limitations that an honest assessment must acknowl
 > An examination of how the digital information environment—characterized by algorithmic curation, filter bubbles, deepfakes, and information abundance—creates novel challenges for critical thinking. This topic would explore how traditional critical thinking tools must be adapted for evaluating online sources, detecting AI-generated content, and navigating epistemic fragmentation.
 
 > [!topic-idea] [[The Neuroscience of Intellectual Humility]]
-> A cognitive science investigation into what happens in the brain when individuals successfully recognize the limits of their own knowledge, update their beliefs in response to disconfirming evidence, and resist the pull of overconfidence. This topic would integrate research on the [[anterior cingulate cortex]], [[metacognition]], and the [[Dunning-Kruger Effect]] into a unified neural account of intellectual humility.
+> A cognitive science investigation into what happens in the brain when individuals successfully recognize the limits of their own knowledge, update their beliefs in response to disconfirming evidence, and resist the pull of overconfidence. This topic would integrate research on the [[anterior cingulate cortex]], [[metacognition]], and the [[Dunning-Kruger-Effect]] into a unified neural account of intellectual humility.
 
 ---
 
@@ -5072,13 +5072,13 @@ Critical thinking has genuine limitations that an honest assessment must acknowl
      WIKI-LINKS INTRODUCED IN THIS DOCUMENT:
      [[Critical Thinking]], [[Critical Thinking Frameworks]], [[Argument Analysis]],
      [[Logical Fallacies]], [[Cognitive Biases]], [[Confirmation Bias]],
-     [[Availability Heuristic]], [[Analytical Reasoning]], [[Evidence Evaluation]],
+     [[Availability-Heuristic]], [[Analytical Reasoning]], [[Evidence Evaluation]],
      [[System 1]], [[System 2]], [[Robert Ennis]], [[Richard Paul]],
      [[informal logic]], [[Presocratics]], [[Xenophanes]], [[formal logic]],
-     [[motivated reasoning]], [[Anchoring Effect]], [[Dunning-Kruger Effect]],
+     [[Motivated-Reasoning]], [[Anchoring Effect]], [[Dunning-Kruger-Effect]],
      [[correlation]], [[causation]], [[Socratic Method]], [[reflective thinking]],
      [[Zeno of Elea]], [[dorsal anterior cingulate cortex]],
-     [[ventromedial prefrontal cortex]]
+     [[Ventromedial-Prefrontal-Cortex]]
      
      NEXT RECOMMENDED DOCUMENT: Report 6 - Constructivism & Knowledge Building
      
@@ -5277,7 +5277,7 @@ callout_count: 15
 >
 > **Social Mediation**: Learning is profoundly shaped by social interaction. Vygotsky's concept of the [[Zone of Proximal Development]] demonstrates that learners can accomplish more with guided assistance than independently, and that this guided accomplishment becomes the foundation for future independent capability.
 >
-> **Experiential Foundation**: Genuine understanding arises from engagement with concrete experience, not from abstract instruction divorced from practice. [[John Dewey]]'s philosophy of education, closely allied with constructivist principles, emphasized that learning emerges from the continuous reorganization and reconstruction of experience.
+> **Experiential Foundation**: Genuine understanding arises from engagement with concrete experience, not from abstract instruction divorced from practice. [[John-Dewey]]'s philosophy of education, closely allied with constructivist principles, emphasized that learning emerges from the continuous reorganization and reconstruction of experience.
 >
 > **Metacognitive Awareness**: Effective knowledge building requires the capacity to monitor, evaluate, and regulate one's own cognitive processes—a capacity known as [[metacognition]]. Constructivism emphasizes that learners must develop awareness of what they know, what they do not know, and what strategies are available for bridging that gap.
 
@@ -5387,7 +5387,7 @@ Constructivist theory, when synthesized across its cognitive, social, and radica
 >
 > [[Assimilation]] and [[accommodation]] are not opposing forces but complementary aspects of a single adaptive process that Piaget termed [[equilibration]]. Assimilation preserves cognitive stability by integrating new experiences into existing schemas, while accommodation enables cognitive growth by restructuring schemas when they prove inadequate. Neither process alone is sufficient: pure assimilation without accommodation would produce rigid thinking that distorts new experiences to fit preconceived categories, while pure accommodation without assimilation would produce chaotic thinking that treats every experience as entirely novel. Effective learning requires a dynamic balance between the two—a state Piaget called "equilibration."
 
-The constructivist learning cycle begins with **concrete experience**—direct engagement with phenomena, problems, or situations. This engagement generates what [[John Dewey]] called "genuine perplexity"—the encountering of something that does not fit neatly within one's existing understanding. This perplexity creates a state of [[disequilibrium]] that motivates further inquiry.
+The constructivist learning cycle begins with **concrete experience**—direct engagement with phenomena, problems, or situations. This engagement generates what [[John-Dewey]] called "genuine perplexity"—the encountering of something that does not fit neatly within one's existing understanding. This perplexity creates a state of [[disequilibrium]] that motivates further inquiry.
 
 From disequilibrium, the learner moves to **reflective observation**—the examination of the experience from multiple perspectives, the identification of patterns and regularities, and the comparison of the new experience with prior knowledge. This phase corresponds to what metacognitive researchers call "monitoring"—the evaluation of one's current understanding against the demands of the situation.
 
@@ -5447,7 +5447,7 @@ Constructivism translates from philosophical theory to practical application thr
 
 **Elaborative Interrogation**: Rather than passively reading or listening, actively generate explanations for the material. Ask "why?" and "how?" questions that force you to connect new information to existing schemas. Research consistently shows that elaborative interrogation produces deeper encoding than rereading or highlighting (Dunlosky et al., 2013).
 
-**[[Reflective Practice]]**: After each learning session, engage in structured reflection: What did I learn? How does it connect to what I already knew? What remains unclear? What would I do differently? This activates metacognitive monitoring circuits and strengthens the consolidation of newly constructed knowledge.
+**[[Reflective-Practice]]**: After each learning session, engage in structured reflection: What did I learn? How does it connect to what I already knew? What remains unclear? What would I do differently? This activates metacognitive monitoring circuits and strengthens the consolidation of newly constructed knowledge.
 
 **Social Construction**: Seek opportunities to discuss, debate, and collaboratively problem-solve with others. Vygotskian theory and modern neuroscience converge on the finding that social interaction activates unique neural pathways that enhance learning beyond what solitary study achieves. Explaining concepts to others is one of the most effective strategies for deepening your own understanding—a finding sometimes called the "protégé effect."
 
@@ -5459,7 +5459,7 @@ Constructivism translates from philosophical theory to practical application thr
 
 ### Connections to [[Pragmatism]]
 
-The relationship between Constructivism and [[Pragmatism]] is perhaps the most intimate of all cross-pillar connections in the [[Synthesis Framework]]. [[John Dewey]], who features prominently in both traditions, regarded learning and doing as inseparable: knowledge is constructed through action, and action is guided by constructed knowledge. The pragmatic emphasis on testing ideas through their practical consequences (explored in [[Report 3 - Pragmatism and Decision-Making]]) provides the experimental methodology that drives the constructivist learning cycle. When a pragmatist tests a hypothesis through action and evaluates the results, they are simultaneously engaging in the constructivist process of assimilation (when results confirm expectations) and accommodation (when results disconfirm them). The pragmatic maxim—judge ideas by their practical effects—functions as a built-in validation mechanism for constructed knowledge, ensuring that schemas remain grounded in reality rather than drifting into untested abstraction.
+The relationship between Constructivism and [[Pragmatism]] is perhaps the most intimate of all cross-pillar connections in the [[Synthesis Framework]]. [[John-Dewey]], who features prominently in both traditions, regarded learning and doing as inseparable: knowledge is constructed through action, and action is guided by constructed knowledge. The pragmatic emphasis on testing ideas through their practical consequences (explored in [[Report 3 - Pragmatism and Decision-Making]]) provides the experimental methodology that drives the constructivist learning cycle. When a pragmatist tests a hypothesis through action and evaluates the results, they are simultaneously engaging in the constructivist process of assimilation (when results confirm expectations) and accommodation (when results disconfirm them). The pragmatic maxim—judge ideas by their practical effects—functions as a built-in validation mechanism for constructed knowledge, ensuring that schemas remain grounded in reality rather than drifting into untested abstraction.
 
 ### Connections to [[Stoicism]]
 
@@ -5523,7 +5523,7 @@ Constructivism also faces limitations in domains where knowledge is conventional
 > Comprehensive review of evidence-based programs designed to enhance metacognitive awareness and regulation, including their effects on academic achievement, professional performance, and psychological well-being. Examines the neural plasticity of metacognitive circuits and the developmental trajectory of metacognitive capabilities from childhood through adulthood.
 
 > [!topic-idea] [[Constructivism Meets Predictive Processing]]
-> Exploring the emerging convergence between constructivist learning theory and the [[predictive processing]] framework in computational neuroscience. Both frameworks hold that the brain is fundamentally a prediction-generating, error-correcting system—raising the possibility that constructivism and predictive processing are describing the same phenomenon at different levels of analysis.
+> Exploring the emerging convergence between constructivist learning theory and the [[Predictive-Processing]] framework in computational neuroscience. Both frameworks hold that the brain is fundamentally a prediction-generating, error-correcting system—raising the possibility that constructivism and predictive processing are describing the same phenomenon at different levels of analysis.
 
 ---
 

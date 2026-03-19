@@ -1,5 +1,5 @@
 ---
-doc_id: "04-metacognitive-self-regulation-pkm-framework-2026-03-13"
+doc_id: 04-metacognitive-self-regulation-pkm-framework-2026-03-13
 doc_type: permanent-note
 doc_created: 2026-03-13
 doc_modified: 2026-03-13
@@ -15,7 +15,7 @@ secondary_domains:
   - stoic-philosophy
 related_concepts:
   - "[[Metacognition]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Reflective-Inquiry|Reflective Inquiry]]"
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Metacognitive-Control|Metacognitive Control]]"
@@ -55,8 +55,8 @@ tags:
 status: evergreen
 maturity: highly-developed
 confidence: high
-framework-series-position: 04
-analytical-focus: "How do Metacognition, Self-Regulated Learning, and Reflective Thinking combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what does this mean for how a PKB should be designed?"
+framework-series-position: 4
+analytical-focus: How do Metacognition, Self-Regulated Learning, and Reflective Thinking combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what does this mean for how a PKB should be designed?
 analytical-contributions:
   analytical-insight: 3
   what-the-evidence-suggests: 3
@@ -80,9 +80,8 @@ cross-report-dependencies:
 summary: "Cross-domain synthesis of Metacognition (Flavell, Nelson & Narens), Self-Regulated Learning (Zimmerman), Reflective Inquiry (Dewey), and Reflective Practice (Schön) revealing the cognitive control architecture that distinguishes effective PKM from mere information accumulation. Central contribution: the Metacognitive PKB — a reframing of the Personal Knowledge Base not as external memory but as an external metacognitive scaffold that compensates for natural monitoring limitations, externalizes the monitoring-control loop, and embeds deliberate reflection as a first-class structural feature. Translates into concrete PKB design guidance for reflection templates, calibration checkpoints, learning journal protocols, and metacognitive metadata systems."
 aliases:
   - Report 04
-  - 'Report 04: Metacognitive Self-Regulation'
-  - 'Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM'
-
+  - "Report 04: Metacognitive Self-Regulation"
+  - "Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM"
 ---
 
 # Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM
@@ -104,7 +103,7 @@ The most powerful determinant of learning quality is not storage architecture, n
 
 ### The Synthesis Question
 
-This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (Educational Psychology), [[Reflective-Inquiry|Reflective Inquiry]] (Educational Philosophy), and [[Reflective-Practice|Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**
+This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (Educational Psychology), [[Reflective-Inquiry|Reflective Inquiry]] (Educational Philosophy), and [[Reflective-Practice|Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**
 
 The answer that emerges from this cross-domain analysis is not that metacognition is important — that much is widely acknowledged. The answer is structural: there exists a specific cognitive architecture, operating through a monitoring-control loop, that can be deliberately cultivated and, crucially, *externalized into PKB design*. Most PKB frameworks treat metacognition as a practice that happens around the PKB. This report argues that metacognition should be designed *into* the PKB — not as an optional workflow but as a first-class structural feature.
 

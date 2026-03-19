@@ -196,7 +196,7 @@ link-related:
 > - [[Metacognition]]
 > - [[Cognitive Biases]]
 > - [[Socratic Questioning]]
-> - [[Intellectual Humility]]
+> - [[Intellectual-Humility]]
 > - [[Bloom's Taxonomy]]
 > - [[Argumentation Theory]]
 > - [[Logic]]
@@ -207,7 +207,7 @@ link-related:
 > - [[Assumptions]]
 > - [[Implications]]
 > - [[Evidence]]
-> - [[Point of View]]
+> - [[Point-of-View]]
 > - [[Concepts]]
 > - [[Question Formulation]]
 > - [[Clarity]]
@@ -219,11 +219,11 @@ link-related:
 > - [[Logic]] (as standard)
 > - [[Significance]]
 > - [[Fairness]]
-> - [[Intellectual Courage]]
-> - [[Intellectual Empathy]]
+> - [[Intellectual-Courage]]
+> - [[Intellectual-Empathy]]
 > - [[Intellectual Autonomy]]
-> - [[Intellectual Integrity]]
-> - [[Intellectual Perseverance]]
+> - [[Intellectual-Integrity]]
+> - [[Intellectual-Perseverance]]
 > - [[Confidence in Reason]]
 > - [[Fair-mindedness]]
 > Callout Strategy:
@@ -337,7 +337,7 @@ The framework rests on several foundational premises about [[human cognition]] a
 > [!principle-point]
 > **Central Principle: Fair-Minded Critical Thinking**
 > 
-> The framework distinguishes between "weak-sense" critical thinking (using skills to advance one's own agenda regardless of truth) and "strong-sense" or "fair-minded" critical thinking, which is predisposed toward [[intellectual empathy]], [[intellectual humility]], [[intellectual perseverance]], [[intellectual integrity]], and [[intellectual responsibility]]. This ethical dimension elevates critical thinking beyond mere technique to a virtue-based cognitive practice.
+> The framework distinguishes between "weak-sense" critical thinking (using skills to advance one's own agenda regardless of truth) and "strong-sense" or "fair-minded" critical thinking, which is predisposed toward [[Intellectual-Empathy]], [[Intellectual-Humility]], [[Intellectual-Perseverance]], [[Intellectual-Integrity]], and [[intellectual responsibility]]. This ethical dimension elevates critical thinking beyond mere technique to a virtue-based cognitive practice.
 
 ### Discipline-Neutral Architecture
 
@@ -430,7 +430,7 @@ Assumptions function as the bedrock of reasoning—often invisible yet foundatio
 - Which of my assumptions are warranted? Which are questionable?
 - What would happen to my reasoning if this assumption proved false?
 - Am I making culturally-specific assumptions that may not apply universally?
-- How might my [[point of view]] bias my assumptions?
+- How might my [[Point-of-View]] bias my assumptions?
 
 **Assumption Analysis Techniques:**
 - Systematic questioning: "What must be true for this conclusion to follow?"
@@ -699,7 +699,7 @@ Precision goes one step further than Accuracy, demanding that words and data use
 > - **Core Question**: How does that relate to the problem? How does that bear on the question? How does that help us with the issue?
 > - **Definition**: All included information directly relates to and helps address the question at issue.
 
-Relevance means everything included is important, that each part makes a difference, focusing on what needs to be said. Irrelevant information distracts, confuses, and wastes cognitive resources. Relevance requires constant reference back to the [[purpose]] and [[question at issue]].
+Relevance means everything included is important, that each part makes a difference, focusing on what needs to be said. Irrelevant information distracts, confuses, and wastes cognitive resources. Relevance requires constant reference back to the [[purpose]] and [[Question-at-Issue]].
 
 **Relevance Failures:**
 - **Red herrings**: Introducing distracting tangential issues
@@ -782,7 +782,7 @@ Logical means an argument is reasonable, the thinking is consistent, and conclus
 > - **Core Question**: Is this the most important problem to consider? Is this the central idea to focus on? Which of these facts are most important?
 > - **Definition**: The reasoning focuses on what is most important, addressing the most crucial aspects rather than trivial details.
 
-Significance compels us to include the most important ideas, ensuring we don't leave out crucial facts that would help make a point, with everything essential included. Significance requires discernment about what matters most in the context of the [[purpose]] and [[question at issue]].
+Significance compels us to include the most important ideas, ensuring we don't leave out crucial facts that would help make a point, with everything essential included. Significance requires discernment about what matters most in the context of the [[purpose]] and [[Question-at-Issue]].
 
 **Determining Significance:**
 - Impact analysis: What has the greatest consequences?
@@ -803,7 +803,7 @@ Significance compels us to include the most important ideas, ensuring we don't l
 > - **Core Question**: Am I considering the viewpoints of others seriously, or am I just protecting my own interests? Am I being biased in my reasoning? Am I giving equal weight to evidence that contradicts my preferred conclusion?
 > - **Definition**: The reasoning is balanced, unbiased, impartial, and genuinely considers alternative perspectives without distortion.
 
-Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[intellectual integrity]] and resistance to [[egocentric thinking]].
+Fairness means the argument is balanced and free from bias, pushing us to be impartial and evenhanded toward other positions, being objective. Fairness represents the ethical dimension of intellectual standards, requiring [[Intellectual-Integrity]] and resistance to [[egocentric thinking]].
 
 **Fairness Requirements:**
 - Accurately represent opposing views (not straw-man versions)
@@ -1143,8 +1143,8 @@ graph TD
 
 #### Phase 1: Analysis (Elements)
 The critical thinker begins by deconstructing reasoning into its fundamental components using the [[Elements of Thought]]. This analytical phase involves:
-- Identifying the [[purpose]] and [[question at issue]]
-- Surfacing [[assumptions]] and [[point of view]]
+- Identifying the [[purpose]] and [[Question-at-Issue]]
+- Surfacing [[assumptions]] and [[Point-of-View]]
 - Examining [[information]] and [[concepts]]
 - Tracing [[inferences]] and [[implications]]
 
@@ -1200,7 +1200,7 @@ For any reasoning task, the triadic model suggests this systematic approach:
 
 ### The Question-Based Analysis Method
 
-The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[Elements of Thought]] with [[Intellectual Standards]], we generate diagnostic questions:
+The Framework provides systematic question templates for analyzing any piece of reasoning. By combining [[Elements of Thought]] with [[Intellectual-Standards]], we generate diagnostic questions:
 
 #### Template for Comprehensive Analysis
 
@@ -1797,7 +1797,7 @@ Critical thinking is not a destination but a lifelong practice. Even master thin
 - Build communities of practice that value rigorous thinking
 - Create systems and routines that support critical thinking habits
 - Regularly engage with challenging material outside comfort zones
-- Maintain [[intellectual humility]] about the ongoing nature of development
+- Maintain [[Intellectual-Humility]] about the ongoing nature of development
 - Celebrate progress while recognizing the journey continues
 
 ### The Transformative Potential

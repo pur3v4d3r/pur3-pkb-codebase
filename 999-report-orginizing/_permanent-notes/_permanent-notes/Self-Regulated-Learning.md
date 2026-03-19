@@ -1,19 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Self-Regulated Learning — SRL"
+title: Zimmerman's Self-Regulated Learning Cycle
 aliases:
-  - "Self-Regulated Learning — SRL"
-  - "Self-Regulated Learning"
-  - "SRL"
+  - Self-Regulated Learning — SRL
+  - Self-Regulated Learning
+  - SRL
+  - Self Regulated Learning
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -23,7 +17,6 @@ tags:
   - self-regulated-learning
   - reflective-thinking
   - cognitive-psychology
-
 domain: learning-science
 subdomains:
   - cognitive-psychology
@@ -31,48 +24,28 @@ subdomains:
   - educational-philosophy
   - instructional-design
   - metacognition
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "04-metacognitive-self-regulation-pkm-framework-2026-03-13"
-  - "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md"
-  - "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
-  - "metacognition-motivation-foundational-report-2026-03-05.md"
-  - "self-regulated-learning-focused-analysis-2026-03-06.md"
-  - "report-07-the-self-directed-learner.md"
+  - 04-metacognitive-self-regulation-pkm-framework-2026-03-13
+  - feedback-design-autonomy-mastery-foundational-report-2026-03-10.md
+  - metacognition-lifelong-learning-foundational-report-2026-03-05.md
+  - metacognition-motivation-foundational-report-2026-03-05.md
+  - self-regulated-learning-focused-analysis-2026-03-06.md
+  - report-07-the-self-directed-learner.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
   - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
@@ -90,38 +63,28 @@ see-also:
   - "[[Black-&-Wiliam|Black & Wiliam]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Summative-Assessment|Summative Assessment]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]"
   - "[[02-architecture-of-learning-pkm-framework-2026-03-13]]"
   - "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
-
 enables:
   - "[[06-science-of-remembering-pkm-framework]]"
   - "[[09-designing-the-learning-pkb-pkm-framework]]"
   - "[[12-reflective-pkb-pkm-framework]]"
   - "[[18-calibration-epistemic-humility-pkm-framework]]"
-
 expansion-topics:
   - topic: "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
-    description: "The direct next report in the series, developing the memory science that is mechanistically continuo"
+    description: The direct next report in the series, developing the memory science that is mechanistically continuo
     priority: medium
   - topic: "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]"
     description: "The architectural extension of this report — taking the metacognitive principles developed here and "
     priority: medium
   - topic: "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
-    description: "Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses ho"
+    description: Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses ho
     priority: medium
   - topic: "[[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
-    description: "While this report establishes that monitoring accuracy is the critical variable and identifies speci"
+    description: While this report establishes that monitoring accuracy is the critical variable and identifies speci
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -285,7 +248,7 @@ importance: high
 [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Argyris-and-Schön|Argyris and Schön]] · [[Arnold-and-Pistilli|Arnold and Pistilli]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Black-and-Wiliam|Black and Wiliam]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]] · [[Complex-Adaptive-Systems|Complex Adaptive Systems]] · [[Cybernetics]] · [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Donald-Schön|Donald Schön]] · [[Double-Loop-Learning|Double-Loop Learning]]
 
 **Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, report-07-the-self-directed-learner.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]]
 
 **Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
@@ -300,7 +263,7 @@ importance: high
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -347,7 +310,7 @@ importance: high
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
 
 **Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]

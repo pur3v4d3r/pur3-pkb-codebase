@@ -47,9 +47,9 @@ The report synthesizes Epictetus's prosoche with [[constructivism]]—both requi
 [[report-05-the-virtuous-reasoner|Report 05]] makes Epictetus central to understanding how intellectual virtues become stable traits rather than occasional acts. Epictetus's method is **systematic attention training**: repeatedly catching automatic reactions and redirecting them until virtue becomes habitual.
 
 The report shows how each intellectual virtue can be framed as a Stoic discipline:
-- [[Intellectual humility]] = catching overconfidence, redirecting to acknowledgment of fallibility
+- [[Intellectual-Humility]] = catching overconfidence, redirecting to acknowledgment of fallibility
 - [[Open-mindedness]] = catching dismissiveness, redirecting to genuine consideration
-- [[Intellectual courage]] = catching conformity pressure, redirecting to independent judgment
+- [[Intellectual-Courage]] = catching conformity pressure, redirecting to independent judgment
 
 **Key concept from R05:** Epictetus provides the *how* for virtue cultivation—prosoche is the practice that transforms epistemology from theory ("I should be humble") to lived reality ("I habitually catch and correct arrogance").
 

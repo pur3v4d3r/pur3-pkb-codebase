@@ -539,17 +539,17 @@ related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
-  - "[[Epistemic Vigilance]]"
+  - "[[Epistemic-Vigilance]]"
   - "[[Dual Process Theory]]"
   - "[[Cognitive Load Theory]]"
   - "[[Argument Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning]]"
   - "[[Self-Regulated Learning]]"
   - "[[Confirmation Bias]]"
-  - "[[Availability Heuristic]]"
+  - "[[Availability-Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
@@ -571,9 +571,9 @@ see-also:
   - "[[Working Memory and Executive Function]]"
   - "[[Expertise Development]]"
   - "[[Reflective Judgment Model]]"
-  - "[[Intellectual Humility]]"
+  - "[[Intellectual-Humility]]"
   - "[[Bayesian Reasoning]]"
-  - "[[Argument Mapping]]"
+  - "[[Argument-Mapping]]"
   - "[[Socratic Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
@@ -2243,7 +2243,7 @@ broader:
   - "[[Applied Philosophy]]"
 
 narrower:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Memento Mori]]"
   - "[[Stoic Journaling]]"
   - "[[The View from Above]]"
@@ -2300,7 +2300,7 @@ practical-components:
 # ═══════════════════════════════════════════════════════════════════════════
 link-up: "[[Stoicism MOC]]"
 link-down:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Memento Mori]]"
   - "[[Stoic Journaling]]"
   - "[[The View from Above]]"
@@ -2510,7 +2510,7 @@ There is also a hedonic mechanism: voluntary temporary deprivation of comfort re
 
 ### Example 1: Marcus Aurelius and the Practice of the Morning Review
 
-The most detailed historical record of Stoic daily practice in action comes from the *Meditations* itself, which was almost certainly composed as part of a morning review practice — Marcus setting down his philosophical reminders for the day in the manner of [[premeditatio malorum]] before the demands of empire descended on him.
+The most detailed historical record of Stoic daily practice in action comes from the *Meditations* itself, which was almost certainly composed as part of a morning review practice — Marcus setting down his philosophical reminders for the day in the manner of [[Premeditatio-Malorum]] before the demands of empire descended on him.
 
 One of the most remarkable passages in the *Meditations* is the opening of Book II: "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I... cannot be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him."
 
@@ -4328,7 +4328,7 @@ related:
   - "[[Apatheia]]"
   - "[[Amor Fati]]"
   - "[[Memento Mori]]"
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Cognitive Behavioral Therapy]]"
   - "[[Acceptance and Commitment Therapy]]"
   - "[[Cognitive Reappraisal]]"
@@ -4353,7 +4353,7 @@ broader:
   - "[[Contemplative Practice]]"
 
 narrower:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Amor Fati]]"
   - "[[The Obstacle Is the Way]]"
   - "[[Stoic Consolation]]"
@@ -4408,7 +4408,7 @@ practical-components:
 # ═══════════════════════════════════════════════════════════════════════════
 link-up: "[[Stoicism MOC]]"
 link-down:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Amor Fati]]"
   - "[[The Obstacle Is the Way (Principle)]]"
   - "[[Stoic Consolation Literature]]"
@@ -5830,7 +5830,7 @@ related:
   - "[[Apatheia]]"
   - "[[Preferred Indifferents]]"
   - "[[Meditatio Paupertatis]]"
-  - "[[Hedonic Adaptation]]"
+  - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity]]"
   - "[[Cynicism (Philosophy)]]"
   - "[[Epicureanism]]"
@@ -5916,7 +5916,7 @@ link-down:
   - "[[Stoic Frugality]]"
   - "[[Preferred Indifferents — Complete Taxonomy]]"
 link-related:
-  - "[[Hedonic Adaptation]]"
+  - "[[Hedonic-Adaptation]]"
   - "[[Voluntary Simplicity Movement]]"
   - "[[Eudaimonic Wellbeing]]"
   - "[[Buddhist Non-Attachment]]"
@@ -5975,7 +5975,7 @@ importance: high
 
 Something has gone wrong with the way modern culture relates to material goods, and nearly everyone senses it without quite being able to articulate what it is. People work more hours than any previous generation to afford things that do not make them as happy as they expected. They accumulate possessions that briefly satisfy and then quietly disappear into the background of daily life, requiring storage, maintenance, and eventual replacement. They upgrade — phones, cars, kitchens, clothes — on a rhythm set not by genuine need but by a machinery of desire that is specifically engineered by some of the most sophisticated persuasion technologies in human history. And at the end of all this accumulation, surveys reliably find that people in wealthy societies report no greater life satisfaction than they did decades earlier, when they owned substantially less.
 
-This is not a moral indictment. It is a description of a structural psychological dynamic that psychologists call [[Hedonic Adaptation]] — the well-documented tendency of humans to rapidly normalize improvements in their material circumstances and return to a roughly stable level of subjective wellbeing. The new car becomes simply the car. The promotion becomes the new baseline. The house that felt luxurious in the first year becomes what one is entitled to by the third. The technical name for this dynamic, when it runs in perpetual acquisition mode, is the hedonic treadmill — and it is not a metaphor but a precise characterization: no matter how fast you walk, you stay in roughly the same place.
+This is not a moral indictment. It is a description of a structural psychological dynamic that psychologists call [[Hedonic-Adaptation]] — the well-documented tendency of humans to rapidly normalize improvements in their material circumstances and return to a roughly stable level of subjective wellbeing. The new car becomes simply the car. The promotion becomes the new baseline. The house that felt luxurious in the first year becomes what one is entitled to by the third. The technical name for this dynamic, when it runs in perpetual acquisition mode, is the hedonic treadmill — and it is not a metaphor but a precise characterization: no matter how fast you walk, you stay in roughly the same place.
 
 > [!research]
 > **The Empirical Landscape of Wealth and Wellbeing**
@@ -6071,7 +6071,7 @@ The Stoic framework for material simplicity was developed through philosophical 
 
 **Hedonic Adaptation and the Treadmill**
 
-The concept of [[Hedonic Adaptation]] — the mechanism by which humans rapidly normalize improvements in their circumstances — directly explains why the Stoic preferred indifferents framework is psychologically accurate. If the Stoics are right that wealth and comfort are not genuinely constitutive of flourishing, then the hedonic adaptation data explain the mechanism: these goods produce a real but transient positive response, after which the practitioner returns to baseline and requires more stimulation to reproduce the initial effect. The treadmill is the experiential evidence for the philosophical claim.
+The concept of [[Hedonic-Adaptation]] — the mechanism by which humans rapidly normalize improvements in their circumstances — directly explains why the Stoic preferred indifferents framework is psychologically accurate. If the Stoics are right that wealth and comfort are not genuinely constitutive of flourishing, then the hedonic adaptation data explain the mechanism: these goods produce a real but transient positive response, after which the practitioner returns to baseline and requires more stimulation to reproduce the initial effect. The treadmill is the experiential evidence for the philosophical claim.
 
 > [!research]
 > **Hedonic Adaptation: The Empirical Foundation**

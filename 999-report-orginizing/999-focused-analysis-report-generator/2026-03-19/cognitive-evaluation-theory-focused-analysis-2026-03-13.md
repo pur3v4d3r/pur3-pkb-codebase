@@ -1,229 +1,164 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Cognitive Evaluation Theory: How External Events Shape Intrinsic Motivation — A Focused Analysis"
 aliases:
-  - "CET Focused Analysis"
-  - "Cognitive Evaluation Theory"
-  - "CET — Functional Significance and Intrinsic Motivation"
-  - "Why Rewards Undermine Motivation"
+  - CET Focused Analysis
+  - Cognitive Evaluation Theory
+  - CET — Functional Significance and Intrinsic Motivation
+  - Why Rewards Undermine Motivation
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
-  # Content Type
   - permanent-note
   - focused-analysis
   - academic-synthesis
   - analytical-report
-
-  # Domain
   - educational-psychology/motivation-theory
   - educational-psychology/self-determination
   - cognitive-science/evaluative-processing
   - instructional-design/reward-systems
-
-  # Methodology
   - empirical-research
   - theoretical-synthesis
   - critical-analysis
   - practical-application
-
-  # Frameworks
   - cognitive-evaluation-theory
   - self-determination-theory
   - functional-significance
   - perceived-locus-of-causality
-
-  # Status
   - evergreen
   - comprehensive
   - research-grounded
   - analytical-depth
-
 domain: educational-psychology
 subdomains:
   - motivation-theory
   - self-determination
   - evaluative-processing
   - reward-systems
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-13
 updated: 2026-03-13
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
 peer-validation: multiple-frameworks
-
-analytical-focus: "How does the functional significance of an external event — specifically whether it registers as controlling or informational — determine whether that event enhances or undermines intrinsic motivation, and what cognitive-evaluative processes mediate this relationship?"
-
+analytical-focus: How does the functional significance of an external event — specifically whether it registers as controlling or informational — determine whether that event enhances or undermines intrinsic motivation, and what cognitive-evaluative processes mediate this relationship?
 key-frameworks:
-  - name: "Cognitive Evaluation Theory"
-    description: "Sub-theory of SDT explaining how external events affect intrinsic motivation through their impact on perceived autonomy and perceived competence"
-    developers: "Edward Deci & Richard Ryan (1985)"
-    validation: "High — supported by meta-analyses and cross-cultural replication"
-  - name: "Perceived Locus of Causality Framework"
-    description: "Theoretical lens for understanding whether individuals attribute their behaviour to internal or external causes"
-    developers: "de Charms (1968); refined by Deci & Ryan"
-    validation: "High — theoretically central, empirically operationalised through multiple instruments"
-  - name: "Functional Significance Taxonomy"
-    description: "Classification of ambient conditions as controlling, informational, or amotivating based on their perceived primary function"
-    developers: "Deci & Ryan (1985)"
-    validation: "Medium-High — compelling theoretically, but operationalisation remains contested"
-
+  - name: Cognitive Evaluation Theory
+    description: Sub-theory of SDT explaining how external events affect intrinsic motivation through their impact on perceived autonomy and perceived competence
+    developers: Edward Deci & Richard Ryan (1985)
+    validation: High — supported by meta-analyses and cross-cultural replication
+  - name: Perceived Locus of Causality Framework
+    description: Theoretical lens for understanding whether individuals attribute their behaviour to internal or external causes
+    developers: de Charms (1968); refined by Deci & Ryan
+    validation: High — theoretically central, empirically operationalised through multiple instruments
+  - name: Functional Significance Taxonomy
+    description: Classification of ambient conditions as controlling, informational, or amotivating based on their perceived primary function
+    developers: Deci & Ryan (1985)
+    validation: Medium-High — compelling theoretically, but operationalisation remains contested
 key-researchers:
-  - "Edward L. Deci"
-  - "Richard M. Ryan"
-  - "Mark R. Lepper"
-  - "David Greene"
-  - "Richard E. Nisbett"
-  - "Judy Cameron"
-  - "W. David Pierce"
-  - "Judith Harackiewicz"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "approximately 9,800 words"
+  - Edward L. Deci
+  - Richard M. Ryan
+  - Mark R. Lepper
+  - David Greene
+  - Richard E. Nisbett
+  - Judy Cameron
+  - W. David Pierce
+  - Judith Harackiewicz
+word-count: approximately 9,800 words
 complexity-level: advanced-practitioner
-target-audience: "Instructional designers, educational psychologists, and graduate students with foundational knowledge of motivation theory and SDT"
+target-audience: Instructional designers, educational psychologists, and graduate students with foundational knowledge of motivation theory and SDT
 depth-level: analytical-focused
 treatment-type: focused-analysis
-
 analytical-contributions:
   insight-count: 5
   original-syntheses: 2
   tensions-identified: 3
   cross-domain-connections: 2
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Functional significance (controlling vs. informational aspect)"
-  - "Perceived locus of causality (PLOC)"
-  - "Perceived competence"
-  - "Intrinsic motivation"
-  - "Overjustification / undermining effect"
-  - "Reward contingency types"
-
+  - Functional significance (controlling vs. informational aspect)
+  - Perceived locus of causality (PLOC)
+  - Perceived competence
+  - Intrinsic motivation
+  - Overjustification / undermining effect
+  - Reward contingency types
 key-arguments:
-  - "The same external event (e.g., a reward) can either undermine or enhance intrinsic motivation depending on its functional significance — the relative salience of its controlling versus informational aspect"
+  - The same external event (e.g., a reward) can either undermine or enhance intrinsic motivation depending on its functional significance — the relative salience of its controlling versus informational aspect
   - "Intrinsic motivation is mediated by two separable psychological needs: autonomy (PLOC) and competence, and external events affect these two pathways differentially"
-  - "The undermining of intrinsic motivation by controlling events is not simply an artefact of reward structures but reflects a fundamental principle about human agency and the conditions that sustain self-directed engagement"
-
+  - The undermining of intrinsic motivation by controlling events is not simply an artefact of reward structures but reflects a fundamental principle about human agency and the conditions that sustain self-directed engagement
 key-distinctions:
-  - "Controlling vs. informational functional significance — the most important distinction in CET"
-  - "Task-contingent vs. performance-contingent vs. completion-contingent rewards — the three reward structures with meaningfully different motivational effects"
-  - "Competence pathway vs. autonomy pathway — two separable mediating mechanisms explaining how external events reach motivational outcomes"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Controlling vs. informational functional significance — the most important distinction in CET
+  - Task-contingent vs. performance-contingent vs. completion-contingent rewards — the three reward structures with meaningfully different motivational effects
+  - Competence pathway vs. autonomy pathway — two separable mediating mechanisms explaining how external events reach motivational outcomes
 prerequisites:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Operant Conditioning]]"
-
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
-
 related:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Overjustification-Effect|Overjustification Effect]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expectancy-Value Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Goal-Setting Theory]]"
-
 broader:
   - "[[Motivation Theory]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Reward Contingency Research]]"
   - "[[Perceived-Locus-of-Causality|Perceived Locus of Causality]]"
   - "[[Informational Feedback Design]]"
-
 see-also:
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Feedback Effects on Learning]]"
   - "[[Autonomy-Supportive Teaching]]"
   - "[[Gamification in Education]]"
-
 contrasts-with:
   - "[[Behaviourist Reinforcement Theory]]"
   - "[[Expectancy-Value Theory]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Management Systems]]"
   - "[[Performance Management]]"
   - "[[Game-Based Learning]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Attribution-Theory|Attribution Theory]]"
-
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
   - "[[Motivationally-Informed Feedback Design]]"
   - "[[Basic Psychological Needs Theory]]"
-
 expansion-topics:
   - topic: "[[Basic Psychological Needs Theory]]"
-    description: "CET posits autonomy and competence as mediating mechanisms, but BPNT provides the fuller theoretical architecture for understanding psychological needs as universal nutriments for growth. An expansion here would examine how need satisfaction and need frustration differ, and what the implications are for instructional contexts."
+    description: CET posits autonomy and competence as mediating mechanisms, but BPNT provides the fuller theoretical architecture for understanding psychological needs as universal nutriments for growth. An expansion here would examine how need satisfaction and need frustration differ, and what the implications are for instructional contexts.
     priority: high
   - topic: "[[Expectancy-Value Theory]]"
-    description: "CET focuses on the source of motivation (intrinsic vs. extrinsic); EVT focuses on the structure of motivation (expectancy × value). Comparing these two frameworks exposes important complementarities and reveals where each is inadequate alone — particularly around how task value interacts with autonomy perceptions."
+    description: CET focuses on the source of motivation (intrinsic vs. extrinsic); EVT focuses on the structure of motivation (expectancy × value). Comparing these two frameworks exposes important complementarities and reveals where each is inadequate alone — particularly around how task value interacts with autonomy perceptions.
     priority: high
   - topic: "[[Feedback Effects on Motivation and Learning]]"
-    description: "CET's informational/controlling distinction maps directly onto the feedback literature, where normative feedback (controlling) and mastery-referenced feedback (informational) have markedly different effects. A focused analysis here would bridge CET with the feedback research tradition."
+    description: CET's informational/controlling distinction maps directly onto the feedback literature, where normative feedback (controlling) and mastery-referenced feedback (informational) have markedly different effects. A focused analysis here would bridge CET with the feedback research tradition.
     priority: high
   - topic: "[[Gamification and Intrinsic Motivation]]"
-    description: "Gamification typically layers extrinsic reward structures onto intrinsically motivating activities — precisely the scenario CET predicts will undermine motivation. A focused analysis would examine when gamification enhances vs. undermines engagement using CET as the theoretical lens."
+    description: Gamification typically layers extrinsic reward structures onto intrinsically motivating activities — precisely the scenario CET predicts will undermine motivation. A focused analysis would examine when gamification enhances vs. undermines engagement using CET as the theoretical lens.
     priority: medium
   - topic: "[[Autonomy-Supportive Teaching Practices]]"
-    description: "Applied analysis of what it actually means to create an autonomy-supportive learning environment — not just removing controlling language but actively supporting internalization through rationale provision, acknowledgment of negative affect, and reliance on non-controlling language."
+    description: Applied analysis of what it actually means to create an autonomy-supportive learning environment — not just removing controlling language but actively supporting internalization through rationale provision, acknowledgment of negative affect, and reliance on non-controlling language.
     priority: medium
   - topic: "[[Growth Mindset and CET Intersections]]"
-    description: "Growth mindset interventions frequently involve praise strategies — but the functional significance of that praise matters enormously for whether it enhances or undermines intrinsic motivation. Examining how Dweck's work intersects with CET's praise research reveals important nuances for instructional designers."
+    description: Growth mindset interventions frequently involve praise strategies — but the functional significance of that praise matters enormously for whether it enhances or undermines intrinsic motivation. Examining how Dweck's work intersects with CET's praise research reveals important nuances for instructional designers.
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Deci, Koestner & Ryan (1999) meta-analysis of 128 studies"
-  - "Lepper, Greene & Nisbett (1973) — foundational overjustification experiment"
-  - "Deci (1971) — original money undermining study"
-  - "Cameron & Pierce (1994) — contested meta-analysis"
-
+  - Deci, Koestner & Ryan (1999) meta-analysis of 128 studies
+  - Lepper, Greene & Nisbett (1973) — foundational overjustification experiment
+  - Deci (1971) — original money undermining study
+  - Cameron & Pierce (1994) — contested meta-analysis
 limitations-noted:
-  - "Operationalisation of functional significance is theoretically post-hoc in many studies"
-  - "Most foundational research conducted in WEIRD populations"
-  - "Meta-analytic battles expose sensitivity to coding decisions"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Operationalisation of functional significance is theoretically post-hoc in many studies
+  - Most foundational research conducted in WEIRD populations
+  - Meta-analytic battles expose sensitivity to coding decisions
 sections:
   - "Phase I: Orientation & Analytical Focus"
   - "Phase II: Analytical Framework"
@@ -233,17 +168,12 @@ sections:
   - "Phase VI: Synthesis, Integration & Original Contribution"
   - "Phase VII: PKB Connections & Cross-Report Links"
   - "Phase VIII: Appendix"
-
 document-features:
   callouts: 27
   wiki-links: 42
   reflective-questions: 18
   cognitive-engagement-elements: 14
   analytical-commentary: 12
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
 generation-date: 2026-03-13
@@ -528,7 +458,7 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 >
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
 >
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
 >
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
 >

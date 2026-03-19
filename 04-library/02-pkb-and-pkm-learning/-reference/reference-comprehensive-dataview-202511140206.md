@@ -1999,7 +1999,7 @@ tags: [, dashboard]
 2. **[[Metadata Schema Design Patterns for PKM]]**
    - *Connection*: Expands metadata architecture section into systematic schema design
    - *Depth Potential*: Cross-note-type schemas, inheritance patterns, validation strategies
-   - *Knowledge Graph Role*: Bridges Dataview with broader [[03_notes/01_permanent-notes/01_cognitive development/Knowledge management]] methodology
+   - *Knowledge Graph Role*: Bridges Dataview with broader [[Knowledge Management]] methodology
 
 3. **[[DataviewJS Advanced Patterns & Custom Views]]**
    - *Connection*: Extends DataviewJS section with sophisticated JavaScript techniques

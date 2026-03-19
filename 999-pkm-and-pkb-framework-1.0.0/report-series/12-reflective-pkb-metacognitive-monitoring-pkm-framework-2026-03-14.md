@@ -1,10 +1,9 @@
 ---
-doc_id: "pkm-12-reflective-pkb-metacognitive-monitoring-daily-practice-2026-03-14"
+doc_id: pkm-12-reflective-pkb-metacognitive-monitoring-daily-practice-2026-03-14
 doc_type: permanent-note
 doc_created: 2026-03-14
 doc_modified: 2026-03-14
 author: claude-sonnet-4-6
-
 primary_domain: knowledge-management
 secondary_domains:
   - cognitive-psychology
@@ -14,39 +13,28 @@ secondary_domains:
   - metacognition
   - psychology-of-learning
   - behavioral-science
-
-analytical-focus: >
-  How can Zimmerman's Self-Regulated Learning cycle, Flavell's Metacognitive
-  Monitoring processes, Dewey's Reflective Inquiry, and Gollwitzer's
-  Implementation Intentions be synthesized to embed metacognitive monitoring
-  not as an optional PKB practice but as a designed-in structural feature
-  that makes honest self-assessment the path of least resistance in daily use?
-
+analytical-focus: |
+  How can Zimmerman's Self-Regulated Learning cycle, Flavell's Metacognitive Monitoring processes, Dewey's Reflective Inquiry, and Gollwitzer's Implementation Intentions be synthesized to embed metacognitive monitoring not as an optional PKB practice but as a designed-in structural feature that makes honest self-assessment the path of least resistance in daily use?
 framework-series-position: "Report 12 of 30 — Tier 2: Advanced Integration & Design"
-
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
-
 feeds-into:
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
   - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
   - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
-
 cross-report-dependencies:
   - "[[Report 04: Monitoring-Control Loop, Metacognitive Architecture, Flavell, Zimmerman]]"
   - "[[Report 06: Fluency Illusion, Testing Effect, Spaced Retrieval]]"
   - "[[Report 08: Reflective Inquiry, Kolb Cycle, Experiential Processing]]"
   - "[[Report 09: PKB Structural Design, Note Metadata, Review Workflows]]"
-
 status: evergreen
 maturity: highly-developed
 confidence: high
 knowledge_level: advanced
-
 tags:
   - metacognition/monitoring
   - metacognition/calibration
@@ -64,7 +52,6 @@ tags:
   - pkb-design/learning-process-logs
   - pkm-framework
   - report-12
-
 analytical-contributions:
   analytical-insight: 5
   what-the-evidence-suggests: 3
@@ -72,11 +59,10 @@ analytical-contributions:
   cross-domain-connection: 4
   original-synthesis: 2
   total-analytical-commentary: 16
-
 related-concepts:
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Metacognitive-Control|Metacognitive Control]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
   - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
   - "[[Nelson-Narens-Model|Nelson Narens Model]]"
@@ -102,26 +88,12 @@ related-concepts:
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Daily Practice]]"
   - "[[Obsidian Dataview]]"
-
-summary: >
-  Cross-domain synthesis revealing why metacognitive monitoring — despite being
-  universally acknowledged as essential for effective PKM — systematically
-  fails in daily PKB practice, and how to redesign PKB systems to correct this
-  failure structurally rather than motivationally. Central contribution: the
-  Structural Metacognition Principle, which holds that monitoring fails not
-  from insufficient effort or awareness but from PKB designs that accidentally
-  reward the fluency illusion while making genuine monitoring effortful. The
-  solution is to embed monitoring infrastructure — automated reflection prompts,
-  calibration metadata, learning process logs, and metacognitive dashboards —
-  as structural defaults that make honest self-assessment the easiest available
-  action rather than the hardest. Synthesizes Zimmerman's SRL cycle, Flavell's
-  monitoring processes, Gollwitzer's implementation intentions, and Dewey's
-  reflective inquiry with fluency illusion research and habit formation science.
+summary: |
+  Cross-domain synthesis revealing why metacognitive monitoring — despite being universally acknowledged as essential for effective PKM — systematically fails in daily PKB practice, and how to redesign PKB systems to correct this failure structurally rather than motivationally. Central contribution: the Structural Metacognition Principle, which holds that monitoring fails not from insufficient effort or awareness but from PKB designs that accidentally reward the fluency illusion while making genuine monitoring effortful. The solution is to embed monitoring infrastructure — automated reflection prompts, calibration metadata, learning process logs, and metacognitive dashboards — as structural defaults that make honest self-assessment the easiest available action rather than the hardest. Synthesizes Zimmerman's SRL cycle, Flavell's monitoring processes, Gollwitzer's implementation intentions, and Dewey's reflective inquiry with fluency illusion research and habit formation science.
 aliases:
   - Report 12
-  - 'Report 12: The Reflective PKB'
-  - 'Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice'
-
+  - "Report 12: The Reflective PKB"
+  - "Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice"
 ---
 
 # Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice

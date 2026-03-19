@@ -113,9 +113,9 @@ Stoicism enhanced Daily Note
 [[prompt-daily-note-components-v1.0.0-2025121218]]
 [[pkb-automation-daily-note-components]]
 [[daily-note-possible-upgrades]]
-[[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]]
-[[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-quotes-and-precepts-2025120220]]
-[[00-inbox/03-research/03-research-library/-stoicism/reference-taxonomy-stoic-termonology-2025120303]]
+[[reference-comprehensive-stoicism-journal-20251130195735]]
+[[reference-comprehensive-stoicism-quotes-and-precepts-2025120220]]
+[[reference-taxonomy-stoic-termonology-2025120303]]
 
 
 

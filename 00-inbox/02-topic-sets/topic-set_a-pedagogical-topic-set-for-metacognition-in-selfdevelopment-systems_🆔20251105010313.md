@@ -50,7 +50,7 @@ Provide a comprehensive exposition on the architecture of metacognitive monitori
  * [x] *Used?**  [created:: 2025-11-05]  [completion:: 2025-11-05]
 
 > [!topic-idea]
-> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
+> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger-Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
 >
 > **Scope & Angle:** This topic addresses the concrete problem of how individuals can accurately assess their own competencies and progress when cognitive biases (particularly the Dunning-Kruger effect) systematically distort self-perception. It explores practical solutions including external calibration methods, structured reflection protocols, and objective measurement systems. The focus is on creating a reliable feedback system that overcomes the inherent limitations of self-assessment.
 

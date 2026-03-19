@@ -90,7 +90,7 @@ Has term been linked in this section already?
 > *Links key concepts once per section*
 
 > [!warning] Over-Linking (Avoid)
-> [[Cognitive Load]] theory explains how [[cognitive load]] affects learning. When [[cognitive load]] is too high, [[cognitive load]] overwhelms [[working memory]].
+> [[Cognitive-Load]] theory explains how [[Cognitive-Load]] affects learning. When [[Cognitive-Load]] is too high, [[Cognitive-Load]] overwhelms [[working memory]].
 > 
 > *Same term linked repeatedly = visual clutter*
 

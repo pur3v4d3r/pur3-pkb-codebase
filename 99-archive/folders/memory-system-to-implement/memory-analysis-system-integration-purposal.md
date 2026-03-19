@@ -138,7 +138,7 @@ The architecture recognizes three critical constraints of current [[LLM]] system
 1. **[[Tree of Thoughts]]** — For complex architectural decisions requiring multiple solution paths
 2. **[[Chain of Density]]** — For progressive summarization of accumulated context
 3. **[[Reflection Prompting]]** — For meta-cognitive self-assessment beyond numerical scoring
-4. **[[Retrieval-Augmented Generation]]** — For intelligent memory retrieval based on semantic similarity
+4. **[[Retrieval-Augmented-Generation]]** — For intelligent memory retrieval based on semantic similarity
 
 [**Technique Gap Impact**:: The absence of semantic retrieval means the system relies entirely on structured navigation rather than intelligent context-aware memory access—limiting scalability for large, interconnected codebases.]
 
@@ -1002,7 +1002,7 @@ link-related:
 # 🔗 Smart Connections + LLM Memory Integration
 
 > [!abstract] Executive Summary
-> This guide demonstrates how to integrate **[[Smart Connections]]** with [[Claude]], [[Gemini]], and **Local LLMs** to create an **auto-embedding memory system**. When memory files are added to your Obsidian vault, Smart Connections automatically generates embeddings. These embeddings are then accessible to LLMs via the **Model Context Protocol (MCP)**, enabling semantic search across your entire memory bank without manual retrieval.
+> This guide demonstrates how to integrate **[[Smart-Connections]]** with [[Claude]], [[Gemini]], and **Local LLMs** to create an **auto-embedding memory system**. When memory files are added to your Obsidian vault, Smart Connections automatically generates embeddings. These embeddings are then accessible to LLMs via the **Model Context Protocol (MCP)**, enabling semantic search across your entire memory bank without manual retrieval.
 
 ---
 

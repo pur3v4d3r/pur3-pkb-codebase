@@ -50,7 +50,7 @@ version: 1.0.0
 
 ### ❌ Not Suitable For:
 
-- **Real-time learning from streaming data**: MetaICL parameters are frozen at inference; cannot adapt to continuous data streams. For online adaptation → Use [[Online Learning]] or [[Continual Learning]] approaches with parameter updates.
+- **Real-time learning from streaming data**: MetaICL parameters are frozen at inference; cannot adapt to continuous data streams. For online adaptation → Use [[Online-Learning]] or [[Continual Learning]] approaches with parameter updates.
 
 - **Tasks requiring precise numerical computation**: Pattern matching via LMs doesn't provide mathematical precision. For symbolic reasoning → Use [[Program-of-Thoughts]] or hybrid neuro-symbolic systems.
 

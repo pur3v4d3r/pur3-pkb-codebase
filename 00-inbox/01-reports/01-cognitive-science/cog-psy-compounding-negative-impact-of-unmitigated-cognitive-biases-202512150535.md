@@ -30,7 +30,7 @@ confidence: "speculative"
 next-review: "2025-12-22"
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-12-15|Daily-Note]]"
 ---
@@ -390,7 +390,7 @@ related: [[Cognitive Biases]], [[Decision-Making]], [[Personal Development]], [[
 
 ### The Debt Metaphor: From Technical to Cognitive Domains
 
-The concept of [[cognitive debt]] borrows its foundational metaphor from Ward Cunningham's influential notion of [[technical debt]] in software engineering. <span style='color: #FFC700;'>**Technical debt**</span> describes decisions that achieve short-term gains—shipping code quickly—but accrue long-term maintenance costs requiring eventual "repayment" through refactoring. This metaphor proves remarkably apt when extended to [[human cognition]]: our brains evolved to prioritize immediate survival over long-term optimization, creating systematic patterns of thinking that serve us well in ancestral environments but generate compounding liabilities in modern contexts.
+The concept of [[Cognitive-Debt]] borrows its foundational metaphor from Ward Cunningham's influential notion of [[technical debt]] in software engineering. <span style='color: #FFC700;'>**Technical debt**</span> describes decisions that achieve short-term gains—shipping code quickly—but accrue long-term maintenance costs requiring eventual "repayment" through refactoring. This metaphor proves remarkably apt when extended to [[human cognition]]: our brains evolved to prioritize immediate survival over long-term optimization, creating systematic patterns of thinking that serve us well in ancestral environments but generate compounding liabilities in modern contexts.
 
 [**Cognitive-Debt-Definition**:: <span style='color: #27FF00;'>The cumulative psychological, emotional, and developmental burden that accumulates when cognitive biases and faulty reasoning patterns remain unexamined and uncorrected over extended periods, resulting in progressively degraded decision-making quality, reduced agency, and diminished life outcomes</span>]
 
@@ -417,7 +417,7 @@ Understanding cognitive debt requires grappling with a fundamental insight from 
 %%evidence: meta-analysis%%
 
 > [!key-claim] Biases as Adaptive Trade-offs
-> <span style='color: #FFC700;'>**Cognitive biases represent evolutionary adaptations optimized for ancestral environments**</span>, not modern decision contexts. They enabled rapid, energy-efficient decisions under primordial conditions—detecting predators, forming coalitions, securing resources—but these same mechanisms systematically misfire in contemporary settings characterized by abstract information, long time horizons, and complex interdependencies. The [[availability heuristic]] served our ancestors well when recent predator sightings indicated genuine elevated risk; today it causes us to overweight vivid media coverage while underweighting statistical base rates, producing distorted risk assessments.
+> <span style='color: #FFC700;'>**Cognitive biases represent evolutionary adaptations optimized for ancestral environments**</span>, not modern decision contexts. They enabled rapid, energy-efficient decisions under primordial conditions—detecting predators, forming coalitions, securing resources—but these same mechanisms systematically misfire in contemporary settings characterized by abstract information, long time horizons, and complex interdependencies. The [[Availability-Heuristic]] served our ancestors well when recent predator sightings indicated genuine elevated risk; today it causes us to overweight vivid media coverage while underweighting statistical base rates, producing distorted risk assessments.
 
 The structural nature of these biases carries profound implications for intervention strategies. Korteling et al.'s systematic literature review concluded that "<span style='color: #FF00DC;'>simple education or training interventions would be [un]effective to improve human decision making beyond the specific educational context (transfer) and/or for a prolonged period of time (retention)</span>." This finding—that awareness alone proves insufficient—underscores why cognitive debt accumulates despite widespread knowledge of bias existence. The neural architectures producing biases operate largely outside conscious awareness, making them resistant to volitional correction.
 
@@ -444,7 +444,7 @@ Where:
 > [!analogy] Compound Interest in Action
 > Consider an individual who develops [[confirmation bias]] regarding their career capabilities at age 25. If left unexamined, this bias shapes: (1) <span style='color: #9E6CD3;'>which feedback they attend to</span> (selectively remembering praise, dismissing criticism), (2) <span style='color: #9E6CD3;'>which opportunities they pursue</span> (gravitating toward familiar domains, avoiding stretching assignments), (3) <span style='color: #9E6CD3;'>how they interpret setbacks</span> (external attribution for failures, internal attribution for successes). Each domain represents an "interest payment"—additional cognitive distortion built atop the original bias. By age 35, the accumulated debt manifests as an entrenched self-concept divorced from objective capabilities, requiring massive cognitive restructuring to repay.
 
-The compound nature introduces several critical characteristics. First, <span style='background-color: #FF00DC40; color: #FF00DC;'>early intervention yields disproportionate returns</span>: addressing bias at $t=1$ prevents 10 years of compounding by $t=11$. Second, the model explains why cognitive debt can become unserviceable: beyond certain thresholds, the cognitive effort required to examine and correct accumulated distortions exceeds available [[metacognitive capacity]], trapping individuals in self-perpetuating cycles. Third, it highlights heterogeneity in vulnerability—individuals with higher "interest rates" (stronger bias reinforcement through personality, environment, or trauma) accumulate debt faster than those with structural or contextual protections.
+The compound nature introduces several critical characteristics. First, <span style='background-color: #FF00DC40; color: #FF00DC;'>early intervention yields disproportionate returns</span>: addressing bias at $t=1$ prevents 10 years of compounding by $t=11$. Second, the model explains why cognitive debt can become unserviceable: beyond certain thresholds, the cognitive effort required to examine and correct accumulated distortions exceeds available [[Metacognitive-Capacity]], trapping individuals in self-perpetuating cycles. Third, it highlights heterogeneity in vulnerability—individuals with higher "interest rates" (stronger bias reinforcement through personality, environment, or trauma) accumulate debt faster than those with structural or contextual protections.
 
 [**Bias-Reinforcement-Rate**:: <span style='color: #72FFF1;'>The parameter determining how rapidly a cognitive bias becomes entrenched through repeated activation, environmental confirmation, and integration into self-concept; analogous to interest rate in financial compound interest models</span>]
 
@@ -619,9 +619,9 @@ Perhaps the most insidious cost of accumulated cognitive debt: <span style='colo
 %%evidence: single-study%%
 %%mental-model: feedback-loops%%
 
-This finding has profound implications for cognitive debt accumulation. The capacity to recognize biased thinking, engage [[system 2]] analytic processing, and implement corrective strategies requires robust [[metacognitive capacity]]—precisely what erodes under cognitive debt burden. Research on debt and cognitive functioning demonstrates this empirically: financial debt (often itself the product of biased decision-making) impairs cognitive performance, creating feedback loops where debt impairs the cognition needed to manage debt.
+This finding has profound implications for cognitive debt accumulation. The capacity to recognize biased thinking, engage [[system 2]] analytic processing, and implement corrective strategies requires robust [[Metacognitive-Capacity]]—precisely what erodes under cognitive debt burden. Research on debt and cognitive functioning demonstrates this empirically: financial debt (often itself the product of biased decision-making) impairs cognitive performance, creating feedback loops where debt impairs the cognition needed to manage debt.
 
-The metacognitive erosion mechanism explains why cognitive debt often reaches crisis before intervention: like financial debt that becomes unserviceable (payments exceed income), cognitive debt can exceed [[metacognitive capacity]]. At this threshold, individuals lack sufficient psychological resources to even recognize the depth of their cognitive liabilities, much less implement systematic repayment strategies. External intervention (therapy, coaching, structured decision frameworks) becomes necessary—analogous to debt counseling or bankruptcy protection in financial contexts.
+The metacognitive erosion mechanism explains why cognitive debt often reaches crisis before intervention: like financial debt that becomes unserviceable (payments exceed income), cognitive debt can exceed [[Metacognitive-Capacity]]. At this threshold, individuals lack sufficient psychological resources to even recognize the depth of their cognitive liabilities, much less implement systematic repayment strategies. External intervention (therapy, coaching, structured decision frameworks) becomes necessary—analogous to debt counseling or bankruptcy protection in financial contexts.
 
 %%QA:metacognition:cognitive-capacity-limits%%
 %%applies-to: therapy%%
@@ -663,7 +663,7 @@ For adults beyond sensitive developmental windows but before cognitive debt reac
 > [!methodology-and-sources] Consider-the-Opposite Strategy
 > One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[confirmation bias]], [[anchoring effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position argue?"</span> (3) <span style='color: #72FFF1;'>"If I'm wrong, what am I missing?"</span> This engages [[system 2]] analytic processing and temporarily suspends bias-driven [[system 1]] responding.
 
-The effectiveness of continuous monitoring depends critically on [[metacognitive capacity]]—the very resource that erodes under cognitive debt burden. This suggests monitoring strategies work best as *preventive* rather than *corrective* measures: they help individuals with modest debt loads prevent further accumulation, but may prove insufficient for those already carrying substantial cognitive liabilities. The parallel to financial debt management is striking: budgeting and expense tracking work well for mild debt but become overwhelmed by severe debt burdens requiring more dramatic interventions (debt consolidation, bankruptcy).
+The effectiveness of continuous monitoring depends critically on [[Metacognitive-Capacity]]—the very resource that erodes under cognitive debt burden. This suggests monitoring strategies work best as *preventive* rather than *corrective* measures: they help individuals with modest debt loads prevent further accumulation, but may prove insufficient for those already carrying substantial cognitive liabilities. The parallel to financial debt management is striking: budgeting and expense tracking work well for mild debt but become overwhelmed by severe debt burdens requiring more dramatic interventions (debt consolidation, bankruptcy).
 
 %%QA:debiasing:practical-strategies%%
 
@@ -690,7 +690,7 @@ For individuals carrying substantial accumulated cognitive debt—identifiable t
 
 The debt repayment analogy proves particularly apt regarding timescales and expectations. Just as substantial financial debt requires years of disciplined repayment, <span style='color: #FF00DC;'>cognitive debt accumulated over decades cannot be repaid in weeks or months</span>. The MIT AI study found that students who developed cognitive depth before using AI assistance performed better—suggesting that building cognitive capacity before attempting bias correction enhances outcomes. This implies debt repayment might require first *building* metacognitive resources (through structured practice, therapy, or cognitive training) before attempting major belief revision.
 
-%%prereq-hard: [[Metacognitive Capacity]]%%
+%%prereq-hard: [[Metacognitive-Capacity]]%%
 
 ### Environmental Engineering: System-Level Interventions
 
@@ -728,14 +728,14 @@ The environmental engineering approach acknowledges a fundamental reality: <span
 > [!key-claim] Biases as Autonomy Thieves
 > [[Confirmation bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk cost fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status quo bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of these biases creates <span style='background-color: #FF00DC40; color: #FF00DC;'>**pseudo-autonomy**: the subjective experience of choice without actual self-determination</span>. Cognitive debt repayment then becomes a prerequisite for authentic autonomy—not coincidentally, therapy often helps clients recognize how unconscious patterns constrain their choices.
 
-The competence need also suffers under cognitive debt. [[Overconfidence bias]] creates illusory competence, preventing skill development by obscuring genuine deficits. [[Dunning-Kruger effect]] (those least competent are least able to recognize their incompetence) represents a particularly pernicious form of cognitive debt: the liability specifically impairs assessment of the liability's magnitude. Conversely, [[impostor syndrome]] (competent individuals experiencing fraudulent feelings) represents cognitive debt in the opposite direction—systematic underestimation of capabilities preventing appropriate challenge-seeking and opportunity-seizing.
+The competence need also suffers under cognitive debt. [[Overconfidence bias]] creates illusory competence, preventing skill development by obscuring genuine deficits. [[Dunning-Kruger-Effect]] (those least competent are least able to recognize their incompetence) represents a particularly pernicious form of cognitive debt: the liability specifically impairs assessment of the liability's magnitude. Conversely, [[impostor syndrome]] (competent individuals experiencing fraudulent feelings) represents cognitive debt in the opposite direction—systematic underestimation of capabilities preventing appropriate challenge-seeking and opportunity-seizing.
 
 %%confidence: confident%%
 %%prereq-soft: [[Self-Determination Theory]]%%
 
 ### Growth Mindset: Debt Prevention Through Belief Malleability
 
-[[Carol Dweck]]'s distinction between [[fixed mindset]] (abilities as innate, unchangeable) and [[growth mindset]] (abilities as developable through effort) directly impacts cognitive debt accumulation rates. Fixed mindsets accelerate debt accumulation through several mechanisms:
+[[Carol Dweck]]'s distinction between [[Fixed-Mindset]] (abilities as innate, unchangeable) and [[growth mindset]] (abilities as developable through effort) directly impacts cognitive debt accumulation rates. Fixed mindsets accelerate debt accumulation through several mechanisms:
 
 > [!comparison] Fixed vs. Growth Mindset Impact on Cognitive Debt
 > **Fixed Mindset → Accelerated Debt:**
@@ -772,7 +772,7 @@ The implication: cultivating growth mindset may represent primary prevention for
 %%confidence: confident%%
 %%mental-model: metacognition%%
 
-The MIT study on AI-assisted essay writing revealed [[metacognitive capacity]]'s critical role: students who attempted tasks independently before using AI assistance maintained cognitive function, while those starting with AI assistance showed metacognitive erosion. This suggests <span style='color: #FF00DC;'>metacognitive capacity functions both as preventive infrastructure (detecting biases before accumulation) and as repayment infrastructure (enabling systematic bias correction)</span>. The vicious cycle of cognitive debt includes metacognitive erosion: debt burden impairs the monitoring capacity needed to manage debt, much like overwhelming financial debt can impair the judgment needed to escape the debt trap.
+The MIT study on AI-assisted essay writing revealed [[Metacognitive-Capacity]]'s critical role: students who attempted tasks independently before using AI assistance maintained cognitive function, while those starting with AI assistance showed metacognitive erosion. This suggests <span style='color: #FF00DC;'>metacognitive capacity functions both as preventive infrastructure (detecting biases before accumulation) and as repayment infrastructure (enabling systematic bias correction)</span>. The vicious cycle of cognitive debt includes metacognitive erosion: debt burden impairs the monitoring capacity needed to manage debt, much like overwhelming financial debt can impair the judgment needed to escape the debt trap.
 
 Practical implications suggest prioritizing [[metacognitive skill development]] as foundational for all debt management efforts. This includes: (1) <span style='color: #72FFF1;'>**metacognitive knowledge training**</span>—learning about common biases, heuristics, and systematic errors, (2) <span style='color: #72FFF1;'>**monitoring practice**</span>—regularly examining one's own thinking patterns, decisions, and belief revisions, (3) <span style='color: #72FFF1;'>**regulation strategies**</span>—developing techniques to override automatic biased processing when detected.
 
@@ -813,14 +813,14 @@ Not all individuals accumulate cognitive debt at equal rates. The CogBIAS study 
 > **Protective Factors** (slower debt accumulation):
 > - <span style='color: #27FF00;'>High [[trait conscientiousness]]</span>—systematic thinking, planning, delayed gratification
 > - <span style='color: #27FF00;'>[[Growth mindset]]</span>—belief malleability preventing identity-level integration
-> - <span style='color: #27FF00;'>Strong [[metacognitive capacity]]</span>—intrinsic monitoring and regulation
+> - <span style='color: #27FF00;'>Strong [[Metacognitive-Capacity]]</span>—intrinsic monitoring and regulation
 > - <span style='color: #27FF00;'>Diverse social networks</span>—exposure to belief-challenging perspectives
 > - <span style='color: #27FF00;'>Structured decision environments</span>—workplace/family cultures supporting analytical processing
 > 
 > **Vulnerability Factors** (faster debt accumulation):
 > - <span style='color: #FF00DC;'>High [[need for cognitive closure]]</span>—discomfort with ambiguity driving premature belief crystallization
-> - <span style='color: #FF00DC;'>[[Fixed mindset]]</span>—ability beliefs accelerating identity-level integration
-> - <span style='color: #FF00DC;'>Low [[intellectual humility]]</span>—overconfidence in existing beliefs
+> - <span style='color: #FF00DC;'>[[Fixed-Mindset]]</span>—ability beliefs accelerating identity-level integration
+> - <span style='color: #FF00DC;'>Low [[Intellectual-Humility]]</span>—overconfidence in existing beliefs
 > - <span style='color: #FF00DC;'>Homogeneous information environments</span>—echo chambers providing continuous confirmation
 > - <span style='color: #FF00DC;'>Chronic stress</span>—depleting cognitive resources needed for bias regulation
 
@@ -868,7 +868,7 @@ The framework also reframes the personal development question from "how do I bec
 **Depth Potential:** Could cover [[metacognitive knowledge]] training (learning about cognitive processes), [[metacognitive monitoring]] practice (awareness of current states), [[metacognitive control]] strategies (regulation techniques), developmental trajectories of metacognitive capacity, and integration with educational/therapeutic contexts.  
 **Knowledge Graph Role:** Bridges theoretical cognitive science (this note) to practical intervention design, connecting to [[learning theory]], [[self-regulated learning]], and [[instructional design]].  
 **Priority:** **High** - Metacognitive capacity functions as foundational infrastructure for all debt management; without it, repayment becomes impossible.  
-**Prerequisites:** Understanding of basic [[metacognition]] concepts and [[cognitive bias]] categories.
+**Prerequisites:** Understanding of basic [[metacognition]] concepts and [[Cognitive-Bias]] categories.
 
 ### 2. **[[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]**
 **Connection:** Given limited effectiveness of individual-level training (Korteling et al., 2021), environmental engineering emerges as most promising long-term strategy. Detailed exploration of [[choice architecture]], [[nudge theory]], and organizational decision protocols would operationalize system-level interventions.  
@@ -907,7 +907,7 @@ The framework also reframes the personal development question from "how do I bec
 **Depth Potential:** Could develop formal computational models of disorders as debt accumulation processes, specify interventions as debt restructuring/repayment protocols, simulate treatment trajectories using agent-based or differential equation models, and predict intervention outcomes based on debt parameters. Integration with [[computational psychiatry]] approaches using [[Bayesian brain]] frameworks.  
 **Knowledge Graph Role:** Revolutionary bridge between [[clinical psychology]], [[computational neuroscience]], [[psychiatry]], and [[systems theory]]—potentially transforming how mental health is conceptualized and treated, moving from symptom-focused to structure-focused frameworks.  
 **Priority:** **Low** (current time) but **Extremely High** (long-term) - Requires mastery of both clinical psychology and computational modeling; represents frontier research territory but could reshape clinical practice if successfully developed.  
-**Prerequisites:** **[[Computational Modeling]]**, **[[Clinical Psychology]]**, **[[Bayesian Inference]]**, **[[Psychopathology]]**, **[[Dynamical Systems Theory]]**, deep understanding of specific disorders.
+**Prerequisites:** **[[Computational Modeling]]**, **[[Clinical Psychology]]**, **[[Bayesian-Inference]]**, **[[Psychopathology]]**, **[[Dynamical Systems Theory]]**, deep understanding of specific disorders.
 
 ---
 

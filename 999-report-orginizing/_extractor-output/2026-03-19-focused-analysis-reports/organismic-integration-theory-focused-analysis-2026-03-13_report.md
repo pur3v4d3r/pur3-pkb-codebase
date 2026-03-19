@@ -349,7 +349,7 @@ extraction_summary:
 > 
 > - **[[Self-Determination-Theory|Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — OIT and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — OIT and [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
 > 
 > - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection between OIT and [[Cognitive-Load-Theory|Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
 > 
@@ -557,7 +557,7 @@ extraction_summary:
 - [[Relative-Autonomy-Index|Relative Autonomy Index]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Foundational Report]]
 - [[Soenens & Vansteenkiste (2011)]]
 - [[Vansteenkiste, Lens, & Deci (2006)]]
@@ -674,7 +674,7 @@ extraction_summary:
 - [[Relative-Autonomy-Index|Relative Autonomy Index]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Foundational Report]]
 - [[Soenens & Vansteenkiste (2011)]]
 - [[Vansteenkiste, Lens, & Deci (2006)]]
@@ -700,7 +700,7 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Basic Psychological Needs Theory]]

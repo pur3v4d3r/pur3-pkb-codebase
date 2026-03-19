@@ -69,7 +69,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 > **Estimated Effort:** Moderate
 > **Key Sources:** Ericsson's deliberate practice research; Collins on tacit knowledge transmission; Polanyi on apprenticeship; Dreyfus on phenomenology of skill acquisition.
 
-> [!topic-idea] **[[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]**
+> [!topic-idea] **[[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory]]**
 > **Source:** Report 01 Expansion Topics (internal)
 > **Gap Description:** Philip Johnson-Laird's mental model theory offers an important alternative to schema theory: mental models are analog, spatial, and "runnable" — they can be mentally simulated to generate predictions. What would it mean to design PKB notes that function as runnable mental models? How does the mental model perspective change Report 01's design recommendations?
 > **Where It Would Connect:** Reports 01, 02, 09, 11, 22
@@ -110,7 +110,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 > **Where It Would Connect:** Reports 01, 10, 11, 24
 > **Estimated Effort:** Moderate
 
-> [!topic-idea] **[[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]**
+> [!topic-idea] **[[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture]]**
 > **Source:** Report 01 Expansion Topics (internal)
 > **Gap Description:** Embodied cognition (Lakoff & Johnson, Varela et al.) and situated cognition (Brown et al.) argue that much of what we know is grounded in bodily experience and situational context in ways text-based representations cannot fully capture. What categories of knowledge resist text capture? What complementary practices address these? This report would honestly map the PKB's limits from an embodied cognition perspective — complementing Report 22's phenomenological approach.
 > **Where It Would Connect:** Reports 22, 23, 24, 28

@@ -1145,7 +1145,7 @@ Common scripting paradigms include event-driven scripting (e.g., JavaScript), pr
 > - [[Systems Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
-> - [[Mental Models]] → supports cross-domain transfer  
+> - [[Mental-Models]] → supports cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 

@@ -114,7 +114,7 @@ related:
   - "[[Apatheia]]"
   - "[[Amor Fati]]"
   - "[[Memento Mori]]"
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Cognitive Behavioral Therapy]]"
   - "[[Acceptance and Commitment Therapy]]"
   - "[[Cognitive Reappraisal]]"
@@ -139,7 +139,7 @@ broader:
   - "[[Contemplative Practice]]"
 
 narrower:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Amor Fati]]"
   - "[[The Obstacle Is the Way]]"
   - "[[Stoic Consolation]]"
@@ -194,7 +194,7 @@ practical-components:
 # ═══════════════════════════════════════════════════════════════════════════
 link-up: "[[Stoicism MOC]]"
 link-down:
-  - "[[Premeditatio Malorum]]"
+  - "[[Premeditatio-Malorum]]"
   - "[[Amor Fati]]"
   - "[[The Obstacle Is the Way (Principle)]]"
   - "[[Stoic Consolation Literature]]"

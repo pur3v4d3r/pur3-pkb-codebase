@@ -116,4 +116,4 @@ Cosmic inflation is a remarkably powerful theory that transformed modern cosmolo
 - Siegel, Ethan. "What Is The Evidence For Cosmic Inflation?" _Forbes_, [https://www.forbes.com/sites/startswithabang/2019/10/24/what-is-the-evidence-for-cosmic-inflation/](https://www.google.com/search?q=https://www.forbes.com/sites/startswithabang/2019/10/24/what-is-the-evidence-for-cosmic-inflation/). Accessed 25 Sep. 2025.
     
 
-![[05 References/01_Attachments/#1 2.jpeg]]
+![[.md#1 2.jpeg]]

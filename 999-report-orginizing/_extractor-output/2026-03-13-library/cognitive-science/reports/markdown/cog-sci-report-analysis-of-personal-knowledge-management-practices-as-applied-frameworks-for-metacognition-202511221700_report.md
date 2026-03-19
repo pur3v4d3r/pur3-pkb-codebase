@@ -167,7 +167,7 @@ extraction_summary:
 
 > [!question] Untitled
 > **How does Cognitive Psychology conceptualize or interact with PKM?**
-> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
+> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
 
 #### 8. [EXAMPLE] Example: The Empty Link *(Line 80)*
 
@@ -245,7 +245,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > **Synthesized Definition of PKM as Metacognition**
-> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
+> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
 
 #### 20. [ANALYSIS-COGNITIVE] Untitled *(Line 170)*
 
@@ -347,7 +347,7 @@ extraction_summary:
 - [[Productivity Science]]
 - [[Quantum Entanglement]]
 - [[Schema]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
 - [[The Generation Effect]]
@@ -501,7 +501,7 @@ $$
 - [[Productivity Science]]
 - [[Quantum Entanglement]]
 - [[Schema]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
 - [[The Generation Effect]]

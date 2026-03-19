@@ -31,7 +31,7 @@ next-review: 2025-12-05
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
   - "[[Andragogy]]"
   - "[[Constructivism]]"
   - "[[Educational Psychology]]"

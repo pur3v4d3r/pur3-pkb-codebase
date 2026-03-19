@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Advance Organizers & Prior Knowledge Activation in Instruction"
+title: Advance Organizers & Prior Knowledge Activation in Instruction
 aliases:
-  - "Advance Organizers"
-  - "Prior Knowledge Activation"
-  - "AO & PKA"
-  - "Ausubelian Instruction"
+  - Advance Organizers
+  - Prior Knowledge Activation
+  - AO & PKA
+  - Ausubelian Instruction
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -34,189 +27,144 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "learning-science"
+domain: learning-science
 subdomains:
-  - "instructional-design"
-  - "cognitive-architecture"
-  - "pedagogical-design"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-11"
-updated: "2026-03-11"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - instructional-design
+  - cognitive-architecture
+  - pedagogical-design
+created: 2026-03-11
+updated: 2026-03-11
 source-type: academic-synthesis
-research-base: "mixed-methods"
-evidence-quality: "high"
-peer-validation: "multiple-frameworks"
-
+research-base: mixed-methods
+evidence-quality: high
+peer-validation: multiple-frameworks
 key-frameworks:
-  - name: "Assimilation Theory"
-    description: "Ausubel's theory that new material is learned by being subsumed under existing cognitive structures (subsumers)"
-    developers: "David Ausubel (1960, 1968)"
-    validation: "well-established, extensively replicated with qualified effect sizes"
-  - name: "Schema Theory"
-    description: "Framework explaining how prior knowledge is organized into mental structures that guide comprehension and inference"
-    developers: "Bartlett (1932), Piaget (1952), Anderson & Pearson (1984)"
-    validation: "highly robust, foundational to cognitive psychology"
-  - name: "Cognitive Load Theory"
-    description: "Framework explaining how instructional design affects working memory demands and long-term learning"
-    developers: "Sweller (1988, 1994)"
-    validation: "well-established with active ongoing refinement"
-  - name: "Elaborative Interrogation"
-    description: "Prior knowledge activation via self-explanation questions (Why is this true? How does this connect?)"
-    developers: "Woloshyn, Pressley & Schneider (1992)"
-    validation: "moderate, consistent positive effects"
-
+  - name: Assimilation Theory
+    description: Ausubel's theory that new material is learned by being subsumed under existing cognitive structures (subsumers)
+    developers: David Ausubel (1960, 1968)
+    validation: well-established, extensively replicated with qualified effect sizes
+  - name: Schema Theory
+    description: Framework explaining how prior knowledge is organized into mental structures that guide comprehension and inference
+    developers: Bartlett (1932), Piaget (1952), Anderson & Pearson (1984)
+    validation: highly robust, foundational to cognitive psychology
+  - name: Cognitive Load Theory
+    description: Framework explaining how instructional design affects working memory demands and long-term learning
+    developers: Sweller (1988, 1994)
+    validation: well-established with active ongoing refinement
+  - name: Elaborative Interrogation
+    description: Prior knowledge activation via self-explanation questions (Why is this true? How does this connect?)
+    developers: Woloshyn, Pressley & Schneider (1992)
+    validation: moderate, consistent positive effects
 key-researchers:
-  - "David Ausubel"
-  - "Frederic Bartlett"
-  - "Jean Piaget"
-  - "Richard Anderson"
-  - "Richard Mayer"
-  - "John Sweller"
-  - "Robert Glaser"
-  - "Patricia Alexander"
-  - "Wolff-Michael Roth"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~7800"
-complexity-level: "intermediate"
-target-audience: "Educators, instructional designers, and knowledge workers seeking to understand and apply research-grounded strategies for activating prior knowledge before instruction or reading"
+  - David Ausubel
+  - Frederic Bartlett
+  - Jean Piaget
+  - Richard Anderson
+  - Richard Mayer
+  - John Sweller
+  - Robert Glaser
+  - Patricia Alexander
+  - Wolff-Michael Roth
+word-count: ~7800
+complexity-level: intermediate
+target-audience: Educators, instructional designers, and knowledge workers seeking to understand and apply research-grounded strategies for activating prior knowledge before instruction or reading
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Advance Organizer"
-  - "Prior Knowledge Activation"
-  - "Schema"
-  - "Subsumption / Assimilation"
-  - "Expository vs. Comparative Organizer"
-  - "Cognitive Anchoring"
-  - "Meaningful Learning"
-  - "Elaborative Interrogation"
-  - "Bridging Analogies"
-
+  - Advance Organizer
+  - Prior Knowledge Activation
+  - Schema
+  - Subsumption / Assimilation
+  - Expository vs. Comparative Organizer
+  - Cognitive Anchoring
+  - Meaningful Learning
+  - Elaborative Interrogation
+  - Bridging Analogies
 key-distinctions:
-  - "Expository organizers vs. Comparative organizers"
-  - "Meaningful learning vs. Rote learning"
-  - "Schema activation vs. Schema construction"
-  - "Advance organizer vs. Summary or overview"
-  - "Prior knowledge quantity vs. Prior knowledge accuracy"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Expository organizers vs. Comparative organizers
+  - Meaningful learning vs. Rote learning
+  - Schema activation vs. Schema construction
+  - Advance organizer vs. Summary or overview
+  - Prior knowledge quantity vs. Prior knowledge accuracy
 prerequisites:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
-
 related:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Metacognition & Lifelong Learning]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-
 broader:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
-
 narrower:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[KWL Strategy]]"
   - "[[Bridging Analogies]]"
   - "[[Concept Mapping as Organizer]]"
-
 see-also:
   - "[[Worked Examples Effect]]"
   - "[[Retrieval-Practice|Retrieval Practice]]"
   - "[[Spaced Practice]]"
   - "[[Analogical-Reasoning|Analogical Reasoning]]"
-
 contrasts-with:
   - "[[Rote Learning]]"
   - "[[Discovery Learning (pure)]]"
   - "[[Tabula Rasa Instruction]]"
-
 applied-in:
   - "[[Instructional Design for eLearning]]"
   - "[[Classroom Pedagogy]]"
   - "[[Academic Writing]]"
   - "[[AI-Assisted Learning Systems]]"
   - "[[Prompt Engineering for Educational AI]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Cognitive-Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]"
   - "[[Meaningful Learning Theory]]"
-
 enables:
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Inquiry-Based Learning Design & Evidence]]"
   - "[[Prompt Engineering for Educational AI]]"
-
 expansion-topics:
   - topic: "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
-    description: "When prior knowledge is wrong rather than merely absent, activation can backfire. Conceptual change theory addresses how learners revise deeply held misconceptions — a natural extension of the 'inaccurate prior knowledge' limitation identified in this report."
-    priority: "high"
+    description: When prior knowledge is wrong rather than merely absent, activation can backfire. Conceptual change theory addresses how learners revise deeply held misconceptions — a natural extension of the 'inaccurate prior knowledge' limitation identified in this report.
+    priority: high
   - topic: "[[Transfer-of-Learning|Transfer of Learning]]"
-    description: "Advance organizers are a primary mechanism for facilitating transfer by establishing the abstract relational structures that can be applied across contexts. Understanding transfer fully requires understanding the organizer's role in building flexible knowledge representations."
-    priority: "high"
+    description: Advance organizers are a primary mechanism for facilitating transfer by establishing the abstract relational structures that can be applied across contexts. Understanding transfer fully requires understanding the organizer's role in building flexible knowledge representations.
+    priority: high
   - topic: "[[Retrieval Practice & Testing Effect]]"
     description: "An empirically potent complement to advance organizers: rather than presenting existing knowledge before study, retrieval practice forces its reconstruction. The interaction between organizer-based priming and retrieval-based consolidation is a productive research frontier."
-    priority: "high"
+    priority: high
   - topic: "[[Analogical Reasoning in Instruction]]"
-    description: "Bridging analogies are a specific type of advance organizer that works through structural mapping. A dedicated report on analogical reasoning in instruction would deepen understanding of why and how analogy-based organizers succeed — and fail."
-    priority: "medium"
+    description: Bridging analogies are a specific type of advance organizer that works through structural mapping. A dedicated report on analogical reasoning in instruction would deepen understanding of why and how analogy-based organizers succeed — and fail.
+    priority: medium
   - topic: "[[Worked Examples Effect & Instructional Sequencing]]"
-    description: "Worked examples benefit most when learners have sufficient prior knowledge to process them without becoming overwhelmed. This interaction with prior knowledge connects directly to organizer research."
-    priority: "medium"
+    description: Worked examples benefit most when learners have sufficient prior knowledge to process them without becoming overwhelmed. This interaction with prior knowledge connects directly to organizer research.
+    priority: medium
   - topic: "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
-    description: "Flagged as high-priority across multiple PKB nodes. Advance organizers reduce germane cognitive load by providing organizational scaffolding; CLT provides the mechanistic explanation for why. A full CLT report would strengthen this node's theoretical grounding considerably."
-    priority: "high"
+    description: Flagged as high-priority across multiple PKB nodes. Advance organizers reduce germane cognitive load by providing organizational scaffolding; CLT provides the mechanistic explanation for why. A full CLT report would strengthen this node's theoretical grounding considerably.
+    priority: high
   - topic: "[[Prompt Engineering for Educational AI]]"
     description: "A practical extension applying advance organizer principles to AI-assisted learning: how to structure prompts so AI tutors, report generators, and knowledge tools activate appropriate user schemas before delivering content."
-    priority: "medium"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
+    priority: medium
 empirical-support:
-  - "Mayer (1979) meta-analysis establishing organizer effects on transfer"
+  - Mayer (1979) meta-analysis establishing organizer effects on transfer
   - "Luiten, Ames & Ackerson (1980) meta-analysis: d ≈ 0.44 across 135 studies"
   - "Stone (1983) meta-analysis: d ≈ 0.21–0.37 depending on outcome measure"
-  - "Alexander, Kulikowich & Schulze (1994) on domain knowledge–interest interactions"
+  - Alexander, Kulikowich & Schulze (1994) on domain knowledge–interest interactions
   - "Dochy, Segers & Buehl (1999) review: prior knowledge explains 30–60% of post-test variance"
-
 limitations-noted:
-  - "Heterogeneous operationalization makes cross-study comparison difficult"
-  - "Effect sizes for advance organizers specifically are modest (d ≈ 0.2–0.4)"
-  - "Inaccurate prior knowledge can produce assimilation errors worse than no prior knowledge"
-  - "WEIRD-sample bias in most foundational studies"
+  - Heterogeneous operationalization makes cross-study comparison difficult
+  - Effect sizes for advance organizers specifically are modest (d ≈ 0.2–0.4)
+  - Inaccurate prior knowledge can produce assimilation errors worse than no prior knowledge
+  - WEIRD-sample bias in most foundational studies
   - "Domain-specificity: organizer effects stronger in science and text comprehension than in procedural skills"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -225,27 +173,18 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 28
   wiki-links: 42
   reflective-questions: 15
   active-reading-prompts: 6
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
-importance: "high"
+importance: high
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-11"
+generation-date: 2026-03-11
 ---
 
 # Advance Organizers & Prior Knowledge Activation in Instruction
@@ -276,7 +215,7 @@ This report examines what that claim means in practice: what prior knowledge act
 ### What Prior Knowledge Is — and Why It Matters
 
 > [!definition] **Prior Knowledge**
-> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic Memory|episodic memories]], and [[Mental-Models|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
+> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic-Memory|episodic memories]], and [[Mental-Models|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
 
 The centrality of prior knowledge to learning is not merely a pedagogical preference — it reflects the architecture of human memory itself. [[Long-Term-Memory|Long-Term Memory]] is not a warehouse of discrete files but an associative network: every new piece of information gets encoded in relation to existing nodes in that network. This is not a metaphor; it is how memory consolidation actually works at the neurological level, with new synaptic connections formed by associating novel activations with existing patterns. When a learner has rich, accurate, organized prior knowledge relevant to new material, they have more nodes available to anchor the new material, more associative pathways through which to retrieve it later, and more inferential scaffolding to generate meaning from incomplete cues.
 
@@ -618,7 +557,7 @@ The most productive open questions that remain after comprehensive treatment of 
 > > [!topic-idea] [[Prompt Engineering for Educational AI]]
 > > The practical extension of this report's Phase V into a full design framework. How should AI-assisted learning systems (tutors, report generators, knowledge tools) incorporate prior knowledge activation principles? What prompt architectures produce genuine schema activation rather than generic orientation? How do PKB-linked knowledge graphs change the prompt engineering calculus? **Priority: Medium** — directly applicable to the PKB project and an area of active practical relevance.
 >
-> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> > [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > > Prior knowledge activation, when executed by learners themselves rather than instructors, is a metacognitive and self-regulatory behavior — knowing what you know, deliberately accessing it, and strategically connecting it to new material. A Foundational Report on SRL (flagged as high-priority from the Feedback Design report) would ground the activation strategies in the broader framework of learner agency and cognitive self-management. **Priority: High** — already flagged; this report adds further motivation.
 
 ---

@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Heutagogy"
+title: Heutagogy
 aliases:
-  - "Heutagogy"
+  - Heutagogy
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - educational-science/andragogy
   - educational-science/pedagogy
   - self-determined-learning
-
 domain: learning-science
 subdomains:
   - educational-science
@@ -29,35 +21,18 @@ subdomains:
   - self-determined-learning
   - educational-psychology
   - cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "24-self-determined-learning-pkm-framework-2026-03-15"
-  - "self-directed-learning-foundational-report-2026-03-11.md"
+  - 24-self-determined-learning-pkm-framework-2026-03-15
+  - self-directed-learning-foundational-report-2026-03-11.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Heutagogy]]"
   - "[[Andragogy]]"
@@ -69,13 +44,10 @@ related:
   - "[[Double-Loop-Learning|Double-Loop Learning]]"
   - "[[Single-Loop-Learning|Single-Loop Learning]]"
   - "[[Knowledge-Ecology|Knowledge Ecology]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
   - "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
@@ -90,42 +62,32 @@ see-also:
   - "[[Adult-Education|Adult Education]]"
   - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Learning-Contracts|Learning Contracts]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Malcolm-Knowles|Malcolm Knowles]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 08: Reflective Practice and Experiential Learning]]"
   - "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
-
 enables:
   - "[[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]"
   - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]"
   - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
-
 expansion-topics:
   - topic: "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
     description: "The unresolved question from Phase VI: how do AI tools like Claude change the dynamics of self-deter"
     priority: medium
   - topic: "[[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]"
-    description: "Mezirow's research shows that perspective transformation is the deepest form of adult learning but r"
+    description: Mezirow's research shows that perspective transformation is the deepest form of adult learning but r
     priority: medium
   - topic: "[[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]"
-    description: "Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an un"
+    description: Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an un
     priority: medium
   - topic: "[[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]"
-    description: "The capability note type introduced in Phase V requires further development as a practice. What exac"
+    description: The capability note type introduced in Phase V requires further development as a practice. What exac
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -189,19 +151,19 @@ importance: high
 [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] · [[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Autonomy-Need|Autonomy Need]] · [[Canvas]] · [[Capability]] · [[Capability-Development|Capability Development]] · [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competence-Need|Competence Need]] · [[Competency]] · [[Competency-Development|Competency Development]] · [[Constructivist-Emergentist]]
 
 **Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
-[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Pedagogy|Pedagogy]] * [[Philip-Candy|Philip Candy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]]
+[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Pedagogy|Pedagogy]] * [[Philip-Candy|Philip Candy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]]
 
 **Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
 **Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
 - [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 

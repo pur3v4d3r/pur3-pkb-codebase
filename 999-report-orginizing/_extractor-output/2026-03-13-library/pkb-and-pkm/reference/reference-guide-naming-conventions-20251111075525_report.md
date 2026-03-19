@@ -157,7 +157,7 @@ extraction_summary:
 > [!core-principle] Untitled
 > **Human Readability First, Machine Parsability Second**
 > 
-> While it's tempting to optimize for database queries or script automation, your naming conventions must prioritize human comprehension. You will spend far more time reading, scanning, and manually navigating your notes than you will writing scripts to process them. A filename like `20251111_quantum-entanglement_bell-theorem.md` is infinitely more useful than `qe_bt_1111.md`, even if the latter is slightly more efficient for certain automated processes. That said, modern PKB tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] offer robust tagging and metadata systems—use those for machine-readable categorization, and reserve filenames for human cognition.
+> While it's tempting to optimize for database queries or script automation, your naming conventions must prioritize human comprehension. You will spend far more time reading, scanning, and manually navigating your notes than you will writing scripts to process them. A filename like `20251111_quantum-entanglement_bell-theorem.md` is infinitely more useful than `qe_bt_1111.md`, even if the latter is slightly more efficient for certain automated processes. That said, modern PKB tools like [[Obsidian]] offer robust tagging and metadata systems—use those for machine-readable categorization, and reserve filenames for human cognition.
 
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 41)*
 
@@ -178,7 +178,7 @@ extraction_summary:
 > [!core-principle] Untitled
 > **Separation of Concerns: Filenames vs. Metadata**
 > 
-> Modern PKB systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] support rich metadata through YAML frontmatter, inline tags, and properties. This means you don't need to cram every piece of information into the filename itself. Use filenames for **identification and basic human navigation**, and use metadata for **categorization, status tracking, and advanced queries**. For example, instead of `Project_Active_2025_ClientX_Strategy_v2_FINAL.md`, use `ClientX_Strategy.md` with frontmatter like `status: active`, `year: 2025`, `version: 2`, `project: ClientX`.
+> Modern PKB systems like [[Obsidian]] support rich metadata through YAML frontmatter, inline tags, and properties. This means you don't need to cram every piece of information into the filename itself. Use filenames for **identification and basic human navigation**, and use metadata for **categorization, status tracking, and advanced queries**. For example, instead of `Project_Active_2025_ClientX_Strategy_v2_FINAL.md`, use `ClientX_Strategy.md` with frontmatter like `status: active`, `year: 2025`, `version: 2`, `project: ClientX`.
 
 #### 7. [HELPFUL-TIP] Untitled *(Line 74)*
 
@@ -213,7 +213,7 @@ extraction_summary:
 > 
 > Niklas Luhmann's original slip-box used an alphanumeric **folgezettel** (German: "following note") system that encoded both position and relationship. A note might be labeled `1`, with a continuation `1a`, a branch from that `1a1`, and an alternative to the original `1b`. This created a tree-like structure where the ID itself indicated conceptual proximity and branching. 
 > 
-> In digital PKBs, this system is generally considered **too rigid** for the fluid, multi-dimensional linking that tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] enable. However, the principle—that IDs can encode *some* structural information—remains influential.
+> In digital PKBs, this system is generally considered **too rigid** for the fluid, multi-dimensional linking that tools like [[Obsidian]] enable. However, the principle—that IDs can encode *some* structural information—remains influential.
 
 #### 12. [HELPFUL-TIP] Untitled *(Line 127)*
 
@@ -597,7 +597,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[Ancient Stoicism]]
@@ -623,7 +623,7 @@ extraction_summary:
 - [[Overview]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Philosophy/Stoicism]]
+- [[Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoicism]]
@@ -645,20 +645,20 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Zettelkasten]] | — | — | 📐 Core Principles of Effective Naming | 29 |
-| 2 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 39 |
-| 3 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 54 |
+| 2 | [[Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 39 |
+| 3 | [[Obsidian]] | — | — | 📐 Core Principles of Effective Naming | 54 |
 | 4 | [[zettelkasten method]] | — | — | 🗃️ Zettelkasten Approaches | 104 |
-| 5 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 🗃️ Zettelkasten Approaches | 111 |
+| 5 | [[Obsidian]] | — | — | 🗃️ Zettelkasten Approaches | 111 |
 | 6 | [[para method]] | — | — | 📦 PARA Method Naming | 137 |
 | 7 | [[linking your thinking]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 8 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
-| 9 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 🖥️ Obsidian-Specific Considerations | 255 |
+| 9 | [[Obsidian]] | — | — | 🖥️ Obsidian-Specific Considerations | 255 |
 | 10 | [[Wiki-Links]] | — | — | 🔗 Wiki-Link Best Practices | 284 |
 | 11 | [[Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 286 |
 | 12 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 13 | [[Stoicism Overview]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 14 | [[Ancient Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
-| 15 | [[Philosophy/Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 297 |
+| 15 | [[Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 297 |
 | 16 | [[Folder/Note]] | — | — | 🔗 Wiki-Link Best Practices | 302 |
 | 17 | [[dataview]] | — | — | ⚡ Dataview Query Optimization | 306 |
 | 18 | [[Overview]] | — | — | 🚨 Anti-Patterns & Pitfalls | 571 |
@@ -962,7 +962,7 @@ for root, dirs, files in os.walk(vault_path):
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[<% tp.date.now("YYYY-MM-DD", -1) %>]]
 - [[<% tp.date.now("YYYY-MM-DD", 1) %>]]
 - [[Ancient Stoicism]]
@@ -988,7 +988,7 @@ for root, dirs, files in os.walk(vault_path):
 - [[Overview]]
 - [[PARA Method]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
-- [[Philosophy/Stoicism]]
+- [[Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
 - [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoicism]]

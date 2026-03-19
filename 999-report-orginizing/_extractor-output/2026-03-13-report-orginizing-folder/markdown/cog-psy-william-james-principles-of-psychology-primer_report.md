@@ -173,9 +173,9 @@ extraction_summary:
 > - Flanagan, Owen (1991). *The Science of the Mind*, 2nd ed. Cambridge, MA: MIT Press. [Chapter on James]
 > 
 > ### Stanford Encyclopedia Entries
-> - "William James" [[https://plato.stanford.edu/entries/james/]]
-> - "Charles Sanders Peirce" [[https://plato.stanford.edu/entries/peirce/]]
-> - "Pragmatism" [[https://plato.stanford.edu/entries/pragmatism/]]
+> - "William James" [[.md]]
+> - "Charles Sanders Peirce" [[.md]]
+> - "Pragmatism" [[.md]]
 
 ---
 
@@ -260,9 +260,9 @@ extraction_summary:
 - [[William James]]
 - [[William James - Habit and Education]]
 - [[Working-Memory|Working Memory]]
-- [[https://plato.stanford.edu/entries/james/]]
-- [[https://plato.stanford.edu/entries/peirce/]]
-- [[https://plato.stanford.edu/entries/pragmatism/]]
+- [[.md]]
+- [[.md]]
+- [[.md]]
 
 ### All Occurrences
 
@@ -356,9 +356,9 @@ extraction_summary:
 | 86 | [[Pragmatism and Education]] | — | — | 🔗 Connections to Your Knowledge Base | 266 |
 | 87 | [[Metacognition and Self-Regulation]] | — | — | 🔗 Connections to Your Knowledge Base | 268 |
 | 88 | [[Critical Thinking Deployment]] | — | — | 🔗 Connections to Your Knowledge Base | 270 |
-| 89 | [[https://plato.stanford.edu/entries/james/]] | — | — | 📚 References & Further Reading | 297 |
-| 90 | [[https://plato.stanford.edu/entries/peirce/]] | — | — | 📚 References & Further Reading | 298 |
-| 91 | [[https://plato.stanford.edu/entries/pragmatism/]] | — | — | 📚 References & Further Reading | 299 |
+| 89 | [[.md]] | — | — | 📚 References & Further Reading | 297 |
+| 90 | [[.md]] | — | — | 📚 References & Further Reading | 298 |
+| 91 | [[.md]] | — | — | 📚 References & Further Reading | 299 |
 
 ---
 
@@ -456,9 +456,9 @@ extraction_summary:
 - [[William James]]
 - [[William James - Habit and Education]]
 - [[Working-Memory|Working Memory]]
-- [[https://plato.stanford.edu/entries/james/]]
-- [[https://plato.stanford.edu/entries/peirce/]]
-- [[https://plato.stanford.edu/entries/pragmatism/]]
+- [[.md]]
+- [[.md]]
+- [[.md]]
 
 ---
 

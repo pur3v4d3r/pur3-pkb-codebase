@@ -32,7 +32,7 @@ review-count: 0
 link-count: 0
 backlink-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-26|Daily-Note]]"
 ---
@@ -82,7 +82,7 @@ Source: `= this.source`
 ---
 
 > [!summary] Abstract
-> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
+> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic-Integration-Theory]], [[Cognitive-Evaluation-Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
 
 ## Phase 1: Overture
 

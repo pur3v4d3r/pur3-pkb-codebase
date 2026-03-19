@@ -1,17 +1,14 @@
 ---
-# CORE IDENTITY
 title: "Taming System 1: Metacognitive Regulation of Intuitive Thought"
 aliases:
-  - "Report 06 — The Architecture of the Examined Life"
-  - "System 1 Governance"
-  - "Stoic Metacognition"
-  - "Debiasing and Prosoche"
-  - "Metacognitive Self-Regulation Report"
+  - Report 06 — The Architecture of the Examined Life
+  - System 1 Governance
+  - Stoic Metacognition
+  - Debiasing and Prosoche
+  - Metacognitive Self-Regulation Report
 type: permanent-note
 status: evergreen
 confidence: high
-
-# CLASSIFICATION
 tags:
   - permanent-note
   - academic-synthesis
@@ -27,7 +24,6 @@ tags:
   - self-regulation
   - evergreen
   - comprehensive
-
 domain: cognitive-psychology
 subdomains:
   - metacognition
@@ -35,131 +31,108 @@ subdomains:
   - stoic-philosophy
   - debiasing-science
   - self-regulated-cognition
-
-# TEMPORAL
 created: 2026-02-28
 updated: 2026-02-28
-
-# ACADEMIC METADATA
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
-series: "The Architecture of the Examined Life"
+series: The Architecture of the Examined Life
 series-report-number: "06"
 tier: "1"
-tier-name: "Epistemic Architecture"
-
+tier-name: Epistemic Architecture
 synthesis-moves-applied:
   - structural-homology
   - conceptual-tension-resolution
   - emergent-insight-generation
   - retroactive-enrichment
   - forward-dependency-mapping
-
 frameworks-synthesized:
   - Dual Process Theory (Kahneman, Evans, Stanovich)
   - Stoic Prosoche and Impression Management (Epictetus, Marcus Aurelius)
   - Metacognitive Self-Regulation (Flavell, Schraw)
   - Debiasing Research (Swaryandini et al. 2025; Lilienfeld et al.)
-
 key-researchers:
-  - "Daniel Kahneman — Thinking Fast and Slow; System 1/System 2 popularization"
-  - "Jonathan Evans — Dual process theory; heuristic-analytic theory"
-  - "Keith Stanovich — Type 1/Type 2 distinction; cognitive decoupling; mindware"
-  - "Epictetus — Discourses; prosoche; impression management; dichotomy of control"
-  - "Marcus Aurelius — Meditations; practical prosoche; evening self-examination"
-  - "Pierre Hadot — Philosophy as a Way of Life; prosoche as spiritual exercise"
-  - "John Flavell — Metacognition; metacognitive monitoring; cognitive monitoring"
-  - "Gregory Schraw — Metacognitive Awareness Inventory; regulation of cognition"
-  - "Ghassani Swaryandini et al. — 2025 meta-analysis of debiasing interventions (Nature Human Behaviour)"
-
-# CONTENT CHARACTERISTICS
-word-count: "~10,500"
+  - Daniel Kahneman — Thinking Fast and Slow; System 1/System 2 popularization
+  - Jonathan Evans — Dual process theory; heuristic-analytic theory
+  - Keith Stanovich — Type 1/Type 2 distinction; cognitive decoupling; mindware
+  - Epictetus — Discourses; prosoche; impression management; dichotomy of control
+  - Marcus Aurelius — Meditations; practical prosoche; evening self-examination
+  - Pierre Hadot — Philosophy as a Way of Life; prosoche as spiritual exercise
+  - John Flavell — Metacognition; metacognitive monitoring; cognitive monitoring
+  - Gregory Schraw — Metacognitive Awareness Inventory; regulation of cognition
+  - Ghassani Swaryandini et al. — 2025 meta-analysis of debiasing interventions (Nature Human Behaviour)
+word-count: ~10,500
 complexity-level: advanced-practitioner
 depth-level: comprehensive
 treatment-type: synthesis-focused
-
-# CORE CONCEPTS & SYNTHESIS
-central-synthesis-argument: "Stoic prosoche and metacognitive monitoring are functionally identical practices — both involve cultivated attentiveness to one's own cognitive processes that inserts a governed gap between System 1 impression and deliberate response — and their integration produces a motivationally complete debiasing architecture superior to either tradition in isolation."
-emergent-insight: "Governed Attentional Gap — the practised capacity to inhabit the moment between automatic cognitive response and deliberate assent, transforming what Epictetus called the space of prohairesis and what cognitive science calls the Type 2 override window into a cultivated cognitive dwelling rather than a fleeting emergency brake."
+central-synthesis-argument: Stoic prosoche and metacognitive monitoring are functionally identical practices — both involve cultivated attentiveness to one's own cognitive processes that inserts a governed gap between System 1 impression and deliberate response — and their integration produces a motivationally complete debiasing architecture superior to either tradition in isolation.
+emergent-insight: Governed Attentional Gap — the practised capacity to inhabit the moment between automatic cognitive response and deliberate assent, transforming what Epictetus called the space of prohairesis and what cognitive science calls the Type 2 override window into a cultivated cognitive dwelling rather than a fleeting emergency brake.
 core-tensions:
-  - "Modest debiasing effect sizes vs. the promise of sustained cognitive reorientation"
-  - "System 1's evolutionary value vs. its systematic error-production"
-  - "Stoic aspiration to sage-like attentiveness vs. the cognitive costs of sustained metacognitive monitoring"
-
-# RELATIONSHIPS
+  - Modest debiasing effect sizes vs. the promise of sustained cognitive reorientation
+  - System 1's evolutionary value vs. its systematic error-production
+  - Stoic aspiration to sage-like attentiveness vs. the cognitive costs of sustained metacognitive monitoring
 series-connections:
   builds-from:
-    - "Report 01 — System 2 activation explained the cost of departing automaticity; this report governs that departure"
-    - "Report 02 — Fallibilist epistemological posture provides the intellectual stance the governance system protects"
-    - "Report 03 — Intrinsic motivation provides energy for sustained monitoring; prosoche requires motivational grounding"
-    - "Report 04 — Cognitive Load Theory explains why governance is effortful; this report provides the regulatory layer above it"
-    - "Report 05 — Intellectual virtues operationalize the debiasing strategies that governance deploys"
+    - Report 01 — System 2 activation explained the cost of departing automaticity; this report governs that departure
+    - Report 02 — Fallibilist epistemological posture provides the intellectual stance the governance system protects
+    - Report 03 — Intrinsic motivation provides energy for sustained monitoring; prosoche requires motivational grounding
+    - Report 04 — Cognitive Load Theory explains why governance is effortful; this report provides the regulatory layer above it
+    - Report 05 — Intellectual virtues operationalize the debiasing strategies that governance deploys
   enables:
-    - "Report 07 — Self-directed learning requires metacognitive governance of one's own learning system"
-    - "Report 09 — Embodied cognition extends System 1 governance to interoceptive signals"
-    - "Report 10 — Emotional calibration requires the same gap-creating attentiveness as cognitive debiasing"
-    - "Report 13 — Precision weighting in predictive processing is the mechanistic account of what governance regulates"
+    - Report 07 — Self-directed learning requires metacognitive governance of one's own learning system
+    - Report 09 — Embodied cognition extends System 1 governance to interoceptive signals
+    - Report 10 — Emotional calibration requires the same gap-creating attentiveness as cognitive debiasing
+    - Report 13 — Precision weighting in predictive processing is the mechanistic account of what governance regulates
   retroactively-enriches:
     - "Report 01 — Aporic Receptivity gains an architectural companion: it is not only about activating inquiry but about governing the System 1 impressions that resist it"
     - "Report 05 — Intellectual virtues gain an operational mechanism: each virtue is prosoche applied to a specific class of cognitive impression"
-
 prerequisites:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Metacognition]]"
   - "[[Stoic-Philosophy|Stoic Philosophy]]"
   - "[[Cognitive Biases]]"
-
 related:
   - "[[Metacognitive Awareness Inventory]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive Forcing Functions]]"
   - "[[Motivated-Reasoning|Motivated Reasoning]]"
   - "[[Working Memory and Executive Function]]"
   - "[[Mindfulness and Attention Regulation]]"
-
 broader:
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
-
-# LEARNING PATHWAYS
 expansion-topics:
   - topic: "[[Mindware and Cognitive Miserliness]]"
-    description: "Stanovich's account of how inadequate or miscalibrated cognitive software underlies Type 1 override failures; the role of mindware installation in debiasing"
+    description: Stanovich's account of how inadequate or miscalibrated cognitive software underlies Type 1 override failures; the role of mindware installation in debiasing
     priority: high
   - topic: "[[Stoic Spiritual Exercises]]"
-    description: "Pierre Hadot's account of prosoche, hypomnemata, and evening self-examination as integrated metacognitive practices; their modern therapeutic descendants"
+    description: Pierre Hadot's account of prosoche, hypomnemata, and evening self-examination as integrated metacognitive practices; their modern therapeutic descendants
     priority: high
   - topic: "[[Cognitive Reflection Test and Rational Thinking]]"
-    description: "Stanovich's CART/RQ research; individual differences in override capacity; the distinction between intelligence and rationality"
+    description: Stanovich's CART/RQ research; individual differences in override capacity; the distinction between intelligence and rationality
     priority: high
   - topic: "[[Process Dissociation Procedures in Debiasing]]"
-    description: "Methodological approaches to separating automatic from controlled contributions to cognitive outcomes; implications for measuring debiasing effectiveness"
+    description: Methodological approaches to separating automatic from controlled contributions to cognitive outcomes; implications for measuring debiasing effectiveness
     priority: medium
   - topic: "[[Implementation Intentions and Habit Formation]]"
-    description: "How if-then plans encode debiasing strategies into Type 1 responses, progressively reducing the cognitive cost of governance"
+    description: How if-then plans encode debiasing strategies into Type 1 responses, progressively reducing the cognitive cost of governance
     priority: medium
   - topic: "[[Cognitive Forcing Functions in Clinical Reasoning]]"
-    description: "Structured metacognitive prompts that force System 2 engagement in high-stakes domains; medical diagnostic applications"
+    description: Structured metacognitive prompts that force System 2 engagement in high-stakes domains; medical diagnostic applications
     priority: medium
-
-# QUALITY INDICATORS
 empirical-support:
-  - "Swaryandini et al. (2025, Nature Human Behaviour) — meta-analysis of 54 RCTs, g=0.26 for brief debiasing interventions"
-  - "Evans & Stanovich (2013) — dual-process theory; cognitive decoupling as defining Type 2 feature"
-  - "Stanovich (2018) — miserliness in human cognition; mindware and override"
-  - "Schraw & Dennison (1994) — Metacognitive Awareness Inventory; regulation of cognition framework"
-  - "Flavell (1979) — foundational metacognition theory; monitoring and regulation"
-
+  - Swaryandini et al. (2025, Nature Human Behaviour) — meta-analysis of 54 RCTs, g=0.26 for brief debiasing interventions
+  - Evans & Stanovich (2013) — dual-process theory; cognitive decoupling as defining Type 2 feature
+  - Stanovich (2018) — miserliness in human cognition; mindware and override
+  - Schraw & Dennison (1994) — Metacognitive Awareness Inventory; regulation of cognition framework
+  - Flavell (1979) — foundational metacognition theory; monitoring and regulation
 limitations-noted:
-  - "Modest effect sizes for brief debiasing interventions raise questions about long-term transfer"
-  - "Prosoche–metacognitive monitoring homology is a structural argument, not a direct empirical comparison"
-  - "The sustained cognitive cost of metacognitive monitoring may produce fatigue effects under realistic conditions"
-  - "Individual differences in cognitive decoupling capacity mean the framework's accessibility varies substantially"
-
-# DOCUMENT STRUCTURE
+  - Modest effect sizes for brief debiasing interventions raise questions about long-term transfer
+  - Prosoche–metacognitive monitoring homology is a structural argument, not a direct empirical comparison
+  - The sustained cognitive cost of metacognitive monitoring may produce fatigue effects under realistic conditions
+  - Individual differences in cognitive decoupling capacity mean the framework's accessibility varies substantially
 sections:
   - "Phase I: The Premise — The Regulatory Problem"
   - "Phase II: The Exposition — Building the Conceptual Toolkit"

@@ -1,8 +1,5 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Critical Thinking Skills and Metacognitive Self-Regulation"
+title: Critical Thinking Skills and Metacognitive Self-Regulation
 aliases:
   - Critical Thinking Deployment
   - Metacognitive Self-Regulation in Reasoning
@@ -15,89 +12,60 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
-  # Content Type
   - permanent-note
   - academic-synthesis
   - reference-note
   - practical-framework
-  
-  # Domain (hierarchical)
   - cognitive-psychology/metacognition
   - cognitive-psychology/critical-thinking
   - educational-psychology/learning-strategies
   - cognitive-psychology/self-regulation
-  
-  # Methodology
   - empirical-research
   - assessment-frameworks
   - systematic-protocols
   - practical-application
   - evidence-based
-  
-  # Specific Frameworks
   - pencrisal-framework
   - mai-framework
   - epistemic-vigilance
-  
-  # Core Competencies
   - reasoning-skills
   - error-detection
   - transfer-learning
   - calibration-training
   - deployment-strategies
-  
-  # Status
   - evergreen
   - comprehensive
   - research-grounded
-
 domain: cognitive-psychology
 subdomains:
   - metacognition
   - critical-thinking
   - educational-psychology
   - self-regulated-learning
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-02-01
 updated: 2026-02-01
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
   - name: PENCRISAL
-    description: "Five-dimensional critical thinking assessment (Deductive Reasoning, Inductive Reasoning, Practical Reasoning, Decision-Making, Problem-Solving)"
-    developers: "Rivas & Saiz (2012)"
-    validation: "psychometric-validated"
-  
+    description: Five-dimensional critical thinking assessment (Deductive Reasoning, Inductive Reasoning, Practical Reasoning, Decision-Making, Problem-Solving)
+    developers: Rivas & Saiz (2012)
+    validation: psychometric-validated
   - name: MAI
-    description: "Metacognitive Awareness Inventory - 8 subdimensions across Knowledge and Regulation of Cognition"
-    developers: "Schraw & Dennison (1994)"
-    validation: "widely-validated"
-  
+    description: Metacognitive Awareness Inventory - 8 subdimensions across Knowledge and Regulation of Cognition
+    developers: Schraw & Dennison (1994)
+    validation: widely-validated
   - name: EEVF
-    description: "Extended Epistemic Vigilance Framework - 3-dimensional evaluation (Source, Claim, Receiver)"
-    developers: "Sperber et al. (2010), Bielik & Krüger (2024)"
-    validation: "empirically-supported"
-  
+    description: Extended Epistemic Vigilance Framework - 3-dimensional evaluation (Source, Claim, Receiver)
+    developers: Sperber et al. (2010), Bielik & Krüger (2024)
+    validation: empirically-supported
   - name: Halpern Transfer Model
-    description: "Four-component framework for critical thinking transfer across domains"
-    developers: "Halpern (1998)"
-    validation: "empirically-validated"
-
+    description: Four-component framework for critical thinking transfer across domains
+    developers: Halpern (1998)
+    validation: empirically-validated
 key-researchers:
   - Diane Halpern
   - Gregory Schraw
@@ -105,16 +73,11 @@ key-researchers:
   - Dan Sperber
   - Hugo Mercier
   - Raymond Dennison
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
 word-count: 6200
 complexity-level: advanced-practitioner
-target-audience: "Intermediate to Advanced learners in cognitive psychology, educators, professionals seeking systematic reasoning improvement"
+target-audience: Intermediate to Advanced learners in cognitive psychology, educators, professionals seeking systematic reasoning improvement
 depth-level: comprehensive
 treatment-type: practical-deployment-focused
-
 practical-components:
   - operational-templates
   - decision-protocols
@@ -122,10 +85,6 @@ practical-components:
   - debugging-workflows
   - self-assessment-tools
   - monitoring-checklists
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
   - Metacognitive Self-Regulation as Cognitive Control System
   - PENCRISAL Five-Dimensional Framework
@@ -137,24 +96,18 @@ core-concepts:
   - Confidence Calibration Training
   - Structural Encoding for Transfer
   - Systematic Error Debugging Protocols
-
 key-distinctions:
-  - "Domain-General vs Domain-Specific Critical Thinking"
-  - "Monitoring vs Control in Metacognition"
-  - "Knowledge of Cognition vs Regulation of Cognition"
-  - "Immersion vs Infusion Instructional Approaches"
-  - "System 1 vs System 2 Deployment Triggers"
-  - "Overconfidence vs Underconfidence Calibration Errors"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Domain-General vs Domain-Specific Critical Thinking
+  - Monitoring vs Control in Metacognition
+  - Knowledge of Cognition vs Regulation of Cognition
+  - Immersion vs Infusion Instructional Approaches
+  - System 1 vs System 2 Deployment Triggers
+  - Overconfidence vs Underconfidence Calibration Errors
 prerequisites:
   - "[[Introduction to Critical Thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
-
 related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
@@ -167,17 +120,15 @@ related:
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
   - "[[Availability-Heuristic|Availability Heuristic]]"
   - "[[Anchoring Bias]]"
-
 broader:
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
-
 narrower:
   - "[[Deductive Reasoning Techniques]]"
   - "[[Inductive Reasoning Strategies]]"
@@ -186,7 +137,6 @@ narrower:
   - "[[Calibration Training Methods]]"
   - "[[Debugging Strategies for Reasoning Errors]]"
   - "[[Structural Encoding Techniques]]"
-
 see-also:
   - "[[Working Memory and Executive Function]]"
   - "[[Expertise Development]]"
@@ -198,58 +148,42 @@ see-also:
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
   - "[[Cognitive Forcing Functions]]"
-
 contrasts-with:
   - "[[Heuristic-Based Decision Making]]"
   - "[[Intuitive Judgment]]"
   - "[[Unconscious Competence]]"
-
 applied-in:
   - "[[Professional Decision Making]]"
   - "[[Academic Research]]"
   - "[[Strategic Planning]]"
   - "[[Problem Solving in Complex Domains]]"
   - "[[Evidence-Based Practice]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Foundational Logic]]"
   - "[[Cognitive Development Theory]]"
   - "[[Information Processing Models]]"
-
 enables:
   - "[[Advanced Reasoning Techniques]]"
   - "[[Domain-Specific Critical Thinking]]"
   - "[[Debiasing Interventions]]"
   - "[[Metacognitive Instruction Design]]"
   - "[[Epistemic Virtue Development]]"
-
 expansion-topics:
   - topic: "[[Domain-Specific Critical Thinking Standards]]"
-    description: "Field-specific criteria and recognition patterns for professional contexts"
+    description: Field-specific criteria and recognition patterns for professional contexts
     priority: high
-  
   - topic: "[[Metacognitive Intervention Design]]"
-    description: "Systematic protocols for targeting specific metacognitive deficiencies"
+    description: Systematic protocols for targeting specific metacognitive deficiencies
     priority: high
-  
   - topic: "[[Cognitive Bias Mitigation Protocols]]"
-    description: "Operational detection and correction algorithms for specific biases"
+    description: Operational detection and correction algorithms for specific biases
     priority: medium
-  
   - topic: "[[Transfer-Enabling Pedagogical Frameworks]]"
-    description: "Instructional design for building transferable competencies"
+    description: Instructional design for building transferable competencies
     priority: medium
-  
   - topic: "[[Epistemic Humility and Intellectual Virtue]]"
-    description: "Dispositional foundations supporting critical thinking deployment"
+    description: Dispositional foundations supporting critical thinking deployment
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PRACTICAL APPLICATION
-# ═══════════════════════════════════════════════════════════════════════════
 use-cases:
   - Personal decision-making improvement
   - Professional reasoning enhancement
@@ -257,7 +191,6 @@ use-cases:
   - Research methodology
   - Strategic planning
   - Quality assurance protocols
-
 deployment-contexts:
   - High-stakes decisions
   - Persuasive communication evaluation
@@ -265,7 +198,6 @@ deployment-contexts:
   - Evidence assessment
   - Strategic planning
   - Learning and skill development
-
 tools-provided:
   - Pre-task planning protocol
   - Monitoring checkpoint template
@@ -274,33 +206,23 @@ tools-provided:
   - Calibration training exercise
   - MAI self-assessment guide
   - Recognition pattern checklist
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
   - PENCRISAL validation studies (Rivas & Saiz, 2012, 2015)
   - MAI psychometric validation (Schraw & Dennison, 1994)
   - Transfer research (Halpern, 1998; Tiruneh et al., 2017)
   - Epistemic vigilance studies (Sperber et al., 2010)
   - Metacognition-CT relationship studies (Magno, 2010; Ku & Ho, 2010)
-
 validation-evidence:
   - Longitudinal persistence of training effects
   - Cross-cultural replication
   - Convergent validity with multiple instruments
   - Predictive validity for academic performance
   - Structural equation modeling support
-
 limitations-noted:
   - Optimal balance of explicit vs implicit instruction remains debated
   - Domain specificity vs generality tension
   - Limited long-term naturalistic validation
   - Individual difference moderators not fully characterized
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
 sections:
   - Abstract and Executive Overview
   - Architectural Foundation (Metacognitive Engine)
@@ -313,7 +235,6 @@ sections:
   - Bridging Transfer Gap
   - Synthesis and Integration
   - References and Resources
-
 document-features:
   - callouts: 17
   - wiki-links: 27+
@@ -321,15 +242,10 @@ document-features:
   - operational-templates: 7
   - framework-integrations: 4
   - practical-examples: 12+
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: critical
 foundational-for-future-learning: true
-
 connection-strength:
   high:
     - Metacognition
@@ -343,17 +259,12 @@ connection-strength:
     - Expertise Development
     - Instructional Design
     - Epistemic Virtue
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CUSTOM METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 pencrisal-dimensions:
   - Deductive Reasoning
   - Inductive Reasoning
   - Practical Reasoning
   - Decision-Making
   - Problem-Solving
-
 mai-dimensions:
   knowledge:
     - Declarative Knowledge
@@ -365,19 +276,16 @@ mai-dimensions:
     - Comprehension Monitoring
     - Debugging Strategies
     - Evaluation
-
 eevf-dimensions:
   - Source Evaluation
   - Claim Evaluation
   - Receiver Self-Evaluation
-
 assessment-instruments:
   - PENCRISAL (35 items, 0-70 scale)
   - MAI (52 items, two-factor structure)
   - Holistic Critical Thinking Scoring Rubric
   - Watson-Glaser Critical Thinking Test (referenced)
   - Cornell Critical Thinking Tests (referenced)
-
 ---
 
 

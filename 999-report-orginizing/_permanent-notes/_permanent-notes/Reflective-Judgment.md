@@ -123,7 +123,7 @@ importance: high
 
 **Cross-report connections:**
 - [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Reflective-Practice|Reflective Practice]]
 - [[Bloom's-Taxonomy|Bloom's Taxonomy]]
 

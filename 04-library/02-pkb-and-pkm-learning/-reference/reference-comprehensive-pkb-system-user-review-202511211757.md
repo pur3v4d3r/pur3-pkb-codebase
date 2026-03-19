@@ -43,7 +43,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 
 > [!abstract]
 > **Executive Overview**
-> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[obsidian]], integrating [[Periodic Notes]], [[Templater]], [[dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
+> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[obsidian]], integrating [[Periodic Notes]], [[Templater]], [[dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -73,7 +73,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 > [!the-philosophy]
 > **The Examined Life Principle**
 > 
-> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated Learning]] and [[Metacognitive Development]].
+> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated Learning]] and [[Metacognitive-Development]].
 
 ### The Purpose of Systematic Reviews
 
@@ -118,7 +118,7 @@ Research on reflective practice shows that consistent self-reflection correlates
 ## 🧠 Review Psychology & Cognitive Science
 
 > [!definition]
-> - **Reflective Practice**:: [[Reflective Practice]]
+> - **Reflective Practice**:: [[Reflective-Practice]]
 > - **Definition**:: The systematic examination of one's experiences, decisions, and outcomes to extract learning and improve future performance. Rooted in [[Metacognition]]—thinking about thinking.
 
 ### Cognitive Mechanisms Behind Effective Reviews
@@ -2758,7 +2758,7 @@ Structural Planning:
   * [[Periodic Notes]]
   * [[Templater]]
   * [[Personal Knowledge Management]]
-  * [[Reflective Practice]]
+  * [[Reflective-Practice]]
   * [[GTD (Getting Things Done)]]
   * [[Spaced Repetition]]
   * [[Zettelkasten]]

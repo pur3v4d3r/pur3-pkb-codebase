@@ -41,9 +41,9 @@ These deserve wiki-links whenever mentioned:
 |----------|----------|
 | Named Theories | [[Cognitive Load Theory]], [[Dual Process Theory]], [[Schema Theory]] |
 | Named Frameworks | [[Zettelkasten]], [[PARA Method]], [[GTD]] |
-| Named Effects/Phenomena | [[Spacing Effect]], [[Testing Effect]], [[Dunning-Kruger Effect]] |
+| Named Effects/Phenomena | [[Spacing-Effect]], [[Testing-Effect]], [[Dunning-Kruger-Effect]] |
 | Researchers/Thinkers | [[Hermann Ebbinghaus]], [[Niklas Luhmann]], [[Daniel Kahneman]] |
-| Key Methodologies | [[Spaced Repetition]], [[Active Recall]], [[Retrieval Practice]] |
+| Key Methodologies | [[Spaced Repetition]], [[Active Recall]], [[Retrieval-Practice]] |
 | Tools/Software | [[Obsidian]], [[Anki]], [[Dataview]] |
 
 ### Tier 2: USUALLY Link (Medium Priority)
@@ -52,7 +52,7 @@ Link when the concept is substantive to the content:
 | Category | Examples |
 |----------|----------|
 | Technical Terms | [[working memory]], [[metacognition]], [[executive function]] |
-| Domain Concepts | [[cognitive load]], [[schema]], [[attention]] |
+| Domain Concepts | [[Cognitive-Load]], [[schema]], [[attention]] |
 | Processes | [[encoding]], [[retrieval]], [[consolidation]] |
 | Practices | [[note-taking]], [[annotation]], [[summarization]] |
 
@@ -93,7 +93,7 @@ Link only if central to the discussion:
 ### Strategy 1: Concept Extraction
 Identify standalone concepts that could be their own atomic notes:
 ```
-The article discusses how [[working memory]] capacity limits [[cognitive load]],
+The article discusses how [[working memory]] capacity limits [[Cognitive-Load]],
 which has implications for [[instructional design]].
 ```
 

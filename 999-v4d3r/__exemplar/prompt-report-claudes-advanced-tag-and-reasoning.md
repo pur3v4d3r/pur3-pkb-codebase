@@ -64,11 +64,11 @@ related_concepts:
   - "[[Metacognitive Monitoring]]"
   - "[[Prompt Engineering]]"
   - "[[LLM Reasoning]]"
-  - "[[Cognitive Scaffolding]]"
+  - "[[Cognitive-Scaffolding]]"
   - "[[Quality Assurance Systems]]"
   - "[[Claude Architecture]]"
 prerequisites:
-  - "[[Chain of Thought Prompting]]"
+  - "[[Chain-of-Thought-Prompting]]"
   - "[[LLM Fundamentals]]"
   - "[[XML Semantics]]"
   - "[[Prompt Engineering Basics]]"
@@ -3363,7 +3363,7 @@ Solution: Accept that quality reasoning requires tokens
 **Depth Potential**: A comprehensive exploration (2000-3000 words) would cover:
 - [[Flavell's Three-Component Model]] (metacognitive knowledge, monitoring, control)
 - [[Executive Function]] and its relationship to metacognition
-- [[Working Memory Capacity]] constraints and metacognitive load
+- [[Working-Memory-Capacity]] constraints and metacognitive load
 - Developmental trajectory of metacognitive skills
 - Domain-specific vs. domain-general metacognition
 - Instructional strategies for teaching metacognitive skills

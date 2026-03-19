@@ -1127,7 +1127,7 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Connection**: This report identifies metacognition as distinguishing feature of expert CT; dedicated treatment would examine metacognitive processes, development, training, and relationship to learning effectiveness.
 
-**Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
+**Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
 
 **Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[Cognitive Development]], [[Educational-Psychology|Educational Psychology]].
 

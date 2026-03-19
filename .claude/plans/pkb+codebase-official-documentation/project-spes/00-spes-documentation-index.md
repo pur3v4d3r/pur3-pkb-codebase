@@ -21,18 +21,18 @@ link-up: "[[prompt-engineering-moc]]"
 
 | I need to... | Go to... |
 |--------------|----------|
-| Get started quickly | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/02-spes-quick-start-guide]] |
-| Understand everything | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]] |
-| Operate as an AI assistant | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/03-llm-integration-protocol]] |
-| Find/create components | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/04-component-library-reference]] |
-| Fix a problem | [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/05-troubleshooting-diagnostics-guide]] |
+| Get started quickly | [[02-spes-quick-start-guide]] |
+| Understand everything | [[01-spes-master-operations-manual]] |
+| Operate as an AI assistant | [[03-llm-integration-protocol]] |
+| Find/create components | [[04-component-library-reference]] |
+| Fix a problem | [[05-troubleshooting-diagnostics-guide]] |
 
 ---
 
 ## 📚 Documentation Suite Overview
 
 ### 1. Master Operations Manual
-**File:** [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/01-spes-master-operations-manual]]
+**File:** [[01-spes-master-operations-manual]]
 
 > [!what-this-does] Complete System Reference
 > The **authoritative, comprehensive guide** to the entire SPES system. Contains:
@@ -50,7 +50,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 2. Quick Start Guide
-**File:** [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/02-spes-quick-start-guide]]
+**File:** [[02-spes-quick-start-guide]]
 
 > [!what-this-does] Get Operational in 15 Minutes
 > **Fastest path to productivity.** Contains:
@@ -67,7 +67,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 3. LLM Integration Protocol
-**File:** [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/03-llm-integration-protocol]]
+**File:** [[03-llm-integration-protocol]]
 
 > [!what-this-does] AI Assistant Operating Instructions
 > **How Claude and other LLMs should work within SPES.** Contains:
@@ -85,7 +85,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 4. Component Library Reference
-**File:** [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/04-component-library-reference]]
+**File:** [[04-component-library-reference]]
 
 > [!what-this-does] Complete Guide to Prompt Building Blocks
 > **Everything about components.** Contains:
@@ -103,7 +103,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 5. Troubleshooting & Diagnostics Guide
-**File:** [[999-v4d3r/__exemplar/__import/pkb+prompt-library-docs-with-memory/05-troubleshooting-diagnostics-guide]]
+**File:** [[05-troubleshooting-diagnostics-guide]]
 
 > [!what-this-does] Problem Solving & System Maintenance
 > **Fix issues and keep the system healthy.** Contains:

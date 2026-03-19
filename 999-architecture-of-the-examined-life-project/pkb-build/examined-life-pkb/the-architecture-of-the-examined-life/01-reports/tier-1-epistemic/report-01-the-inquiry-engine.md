@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════
 title: "The Inquiry Engine: How Reflective Thought Is Activated"
 aliases:
-  - "Report 01 — The Inquiry Engine"
-  - "Inquiry Activation Synthesis"
-  - "Dewey Socrates Dual Process Integration"
-  - "Architecture of the Examined Life — Report 01"
+  - Report 01 — The Inquiry Engine
+  - Inquiry Activation Synthesis
+  - Dewey Socrates Dual Process Integration
+  - Architecture of the Examined Life — Report 01
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════
 tags:
   - content/synthesis-report
   - domain/cognitive-science
@@ -28,7 +21,6 @@ tags:
   - tier/epistemic-architecture
   - status/evergreen
   - depth/comprehensive
-
 domain: epistemic-cognition
 subdomains:
   - inquiry-activation
@@ -36,38 +28,27 @@ subdomains:
   - reflective-thinking
   - dual-process-cognition
   - epistemic-motivation
-
-# ═══════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════
 created: 2026-02-27
 updated: 2026-02-27
-
-# ═══════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
-series: "The Architecture of the Examined Life"
+series: The Architecture of the Examined Life
 series-report-number: "01"
 tier: "1"
-tier-name: "Epistemic Architecture"
-
+tier-name: Epistemic Architecture
 synthesis-moves-applied:
   - structural-homology-identification
   - conceptual-tension-resolution
   - emergent-concept-generation
   - cross-framework-convergence-argument
-
 frameworks-synthesized:
-  - "Dewey's Reflective Thinking (How We Think, 1910/1933)"
-  - "Socratic Method and Elenchus (Vlastos reconstruction)"
-  - "Dual Process Theory (Kahneman, Stanovich, Evans)"
-  - "Metacognitive Monitoring (Flavell 1979; Fleming et al. 2024)"
-  - "Epistemic Curiosity and Information Gap Theory (Loewenstein 1994; Metcalfe 2020)"
-  - "Actively Open-Minded Thinking (Stanovich & West 1997)"
-
+  - Dewey's Reflective Thinking (How We Think, 1910/1933)
+  - Socratic Method and Elenchus (Vlastos reconstruction)
+  - Dual Process Theory (Kahneman, Stanovich, Evans)
+  - Metacognitive Monitoring (Flavell 1979; Fleming et al. 2024)
+  - Epistemic Curiosity and Information Gap Theory (Loewenstein 1994; Metcalfe 2020)
+  - Actively Open-Minded Thinking (Stanovich & West 1997)
 key-researchers:
   - "John Dewey: Pragmatist philosopher; foundational theory of reflective thinking"
   - "Socrates/Plato: Philosophical origin of elenctic inquiry and aporia"
@@ -78,87 +59,62 @@ key-researchers:
   - "Wim De Neys: Conflict monitoring and the detection paradox"
   - "Janet Metcalfe: Metacognitive feelings; Region of Proximal Learning"
   - "George Loewenstein: Information Gap Theory of curiosity"
-
-# ═══════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════
-word-count: "~10,500"
+word-count: ~10,500
 complexity-level: advanced-practitioner
 depth-level: comprehensive
 treatment-type: synthesis-focused
-
-# ═══════════════════════════════════════════════════════════════════
-# CORE CONCEPTS & SYNTHESIS
-# ═══════════════════════════════════════════════════════════════════
-central-synthesis-argument: "Dewey's felt difficulty, Socratic aporia, conflict-monitoring-triggered System 2 activation, and metacognitive feeling-of-not-knowing are four descriptions of the same underlying cognitive event — the disruption of automated processing by an expectation-reality mismatch — and this convergence reveals that inquiry activation is a unified psychological mechanism across philosophical and scientific traditions."
-
-emergent-insight: "Aporic Receptivity — the cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty — is the meta-disposition prerequisite to all genuine inquiry, synthesizing the dispositional requirements named across all four frameworks."
-
+central-synthesis-argument: Dewey's felt difficulty, Socratic aporia, conflict-monitoring-triggered System 2 activation, and metacognitive feeling-of-not-knowing are four descriptions of the same underlying cognitive event — the disruption of automated processing by an expectation-reality mismatch — and this convergence reveals that inquiry activation is a unified psychological mechanism across philosophical and scientific traditions.
+emergent-insight: Aporic Receptivity — the cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty — is the meta-disposition prerequisite to all genuine inquiry, synthesizing the dispositional requirements named across all four frameworks.
 core-tensions:
-  - "Why is inquiry effortful if it is beneficial? (Resolved via evolutionary mismatch between System 1 adaptive efficiency and modern accuracy demands)"
+  - Why is inquiry effortful if it is beneficial? (Resolved via evolutionary mismatch between System 1 adaptive efficiency and modern accuracy demands)
   - "Is Socratic aporia a destination or a launching pad? (Resolved as sequential stages: wisdom-in-ignorance AND inquiry-activation)"
-  - "Can Dewey's pragmatist account and Plato's rationalist account genuinely converge? (Resolved via structural homology at the level of cognitive mechanism)"
-
-# ═══════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════
+  - Can Dewey's pragmatist account and Plato's rationalist account genuinely converge? (Resolved via structural homology at the level of cognitive mechanism)
 series-connections:
   builds-from:
-    - "Series foundation — no prior reports. Grounds all subsequent reports."
+    - Series foundation — no prior reports. Grounds all subsequent reports.
   enables:
     - "Report 02: The epistemological posture presupposes the activation mechanism described here"
     - "Report 03: Intrinsic motivation must sustain what this report shows is costly to activate"
     - "Report 06: System 1 governance is the practical continuation of this report's theoretical account"
     - "Report 13: Felt difficulty = prediction error in the predictive processing synthesis"
   retroactively-enriches:
-    - "As Report 01, this report is the retroactive ground for all subsequent reports"
-
+    - As Report 01, this report is the retroactive ground for all subsequent reports
 prerequisites:
   - "[[Cognitive Psychology Foundations]]"
   - "[[Philosophy of Mind Basics]]"
   - "[[Introduction to Epistemology]]"
-
 related:
   - "[[Metacognition]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Cognitive-Bias|Cognitive Bias]]"
   - "[[Epistemic Virtues]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Pragmatism]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
-
 broader:
   - "[[Philosophy of Education]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[Applied Epistemology]]"
-
-# ═══════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════
 expansion-topics:
   - topic: "[[Epistemic Curiosity and the Information Gap]]"
-    description: "Deep dive into Loewenstein's theory and the neuroscience of curiosity; reward circuitry, optimal uncertainty zones, and practical cultivation strategies"
+    description: Deep dive into Loewenstein's theory and the neuroscience of curiosity; reward circuitry, optimal uncertainty zones, and practical cultivation strategies
     priority: high
   - topic: "[[Conflict Monitoring and Error Correction Mechanisms]]"
-    description: "De Neys's research on how System 1/System 2 conflict is detected; the bootstrap problem and contemporary solutions"
+    description: De Neys's research on how System 1/System 2 conflict is detected; the bootstrap problem and contemporary solutions
     priority: high
   - topic: "[[Productive Failure in Learning]]"
-    description: "Kapur's research on how allowing students to fail before instruction enhances deeper conceptual learning; aporia engineered pedagogically"
+    description: Kapur's research on how allowing students to fail before instruction enhances deeper conceptual learning; aporia engineered pedagogically
     priority: medium
   - topic: "[[The Meno Paradox in Educational Theory]]"
-    description: "Plato's original paradox of inquiry and its contemporary relevance for constructivist learning theory"
+    description: Plato's original paradox of inquiry and its contemporary relevance for constructivist learning theory
     priority: medium
   - topic: "[[Inquiry-Based Learning Design]]"
-    description: "Pedagogical frameworks derived from Dewey's reflective thinking model; design principles for activating and sustaining inquiry in educational contexts"
+    description: Pedagogical frameworks derived from Dewey's reflective thinking model; design principles for activating and sustaining inquiry in educational contexts
     priority: high
   - topic: "[[Actively Open-Minded Thinking — Assessment and Development]]"
-    description: "Stanovich's AOT scale; empirical correlates; intervention research for developing the dispositional foundation of inquiry"
+    description: Stanovich's AOT scale; empirical correlates; intervention research for developing the dispositional foundation of inquiry
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════
 empirical-support:
   - "Kahneman (2011): Dual Process Theory — extensive empirical support from heuristics and biases research"
   - "Flavell (1979): Metacognitive monitoring — foundational empirical studies on developmental trajectory"
@@ -166,16 +122,11 @@ empirical-support:
   - "Loewenstein (1994): Information Gap Theory — empirical studies on curiosity and information seeking"
   - "De Neys (2012): Conflict monitoring — neuroscientific and behavioral evidence"
   - "Metcalfe & Schwartz (2020): Region of Proximal Learning — empirical studies on metacognitive feelings and learning"
-
 limitations-noted:
-  - "The structural homology claim is theoretically compelling but lacks direct empirical validation as a unification claim across all four frameworks simultaneously"
-  - "Aporic Receptivity is a novel integrative construct requiring independent empirical operationalization"
-  - "The Socratic method's historical reconstruction via Vlastos has been contested by Scott (2002) and others who question whether Socrates had a single unified method"
-  - "Individual differences in AOT and conflict monitoring capacity are substantial; the report's claims about activation mechanisms should not obscure large variance in natural dispositions"
-
-# ═══════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════
+  - The structural homology claim is theoretically compelling but lacks direct empirical validation as a unification claim across all four frameworks simultaneously
+  - Aporic Receptivity is a novel integrative construct requiring independent empirical operationalization
+  - The Socratic method's historical reconstruction via Vlastos has been contested by Scott (2002) and others who question whether Socrates had a single unified method
+  - Individual differences in AOT and conflict monitoring capacity are substantial; the report's claims about activation mechanisms should not obscure large variance in natural dispositions
 sections:
   - "Phase I: The Premise — The Paradox at the Heart of Inquiry"
   - "Phase II: The Exposition — Four Accounts of One Activation"

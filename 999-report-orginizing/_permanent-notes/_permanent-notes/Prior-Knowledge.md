@@ -98,7 +98,7 @@ importance: high
 # Prior Knowledge
 
 > [!definition] **Prior Knowledge**
-> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic Memory|episodic memories]], and [[Mental Model|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
+> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic-Memory|episodic memories]], and [[Mental-Model|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
 
 ## Core Explanation
 
@@ -123,7 +123,7 @@ importance: high
 > Use comparative organizers when learners have relevant prior knowledge that needs to be made explicitly accessible and connected to new material. The organizer should: (a) identify the specific prior knowledge structure being activated; (b) map explicit parallels between the existing structure and the new material; (c) clearly delineate the boundaries of the analogy — where the comparison holds and where it breaks down; and (d) prepare the learner to notice and process the differences as well…
 
 > [!warning] **Key Distinction**
-> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual Change Theory]], which should be treated as a necessary…
+> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory]], which should be treated as a necessary…
 
 ## Connections & Context
 

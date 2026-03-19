@@ -269,7 +269,7 @@ extraction_summary:
 > 
 > - **[[Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
 > 
-> - **[[Reflective Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
+> - **[[Reflective-Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
 > 
 > - **[[Bloom's Taxonomy]]** — The upper tiers of the revised Bloom's taxonomy (analyze, evaluate, create) map directly onto the cognitive operations that constitute critical thinking. Understanding metacognition enriches the interpretation of Bloom's upper tiers: genuine analysis and evaluation, in the sense Bloom intends, require metacognitive monitoring to be consistently high-quality.
 > 
@@ -413,8 +413,8 @@ extraction_summary:
 - [[Critical Thinking Assessment and Measurement]]
 - [[Critical thinking]]
 - [[Delphi Report]]
-- [[Donald Schön]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön]]
+- [[Dunning-Kruger-Effect]]
 - [[Edmund Husserl]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
@@ -422,7 +422,7 @@ extraction_summary:
 - [[Gregory Yates]]
 - [[Immanuel Kant]]
 - [[Intellectual Virtues and Disposition Theory]]
-- [[John Dewey]]
+- [[John-Dewey]]
 - [[John H. Flavell]]
 - [[John Hattie]]
 - [[John Mason]]
@@ -437,7 +437,7 @@ extraction_summary:
 - [[Peter Facione]]
 - [[Reflection-in-action]]
 - [[Reflective Judgment Model]]
-- [[Reflective Practice]]
+- [[Reflective-Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
 - [[Self-Regulated Learning]]
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Vygotsky]]
 - [[William James]]
 - [[critical thinking]]
-- [[desirable difficulties]]
+- [[Desirable-Difficulties]]
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
@@ -462,7 +462,7 @@ extraction_summary:
 | 3 | [[John Hattie]] | — | — | Why This Matters | 262 |
 | 4 | [[metacognition]] | — | — | The Emergence of Metacognition as a F... | 274 |
 | 5 | [[John H. Flavell]] | — | — | The Emergence of Metacognition as a F... | 274 |
-| 6 | [[John Dewey]] | — | — | The Emergence of Metacognition as a F... | 274 |
+| 6 | [[John-Dewey]] | — | — | The Emergence of Metacognition as a F... | 274 |
 | 7 | [[metacognition]] | — | — | The Emergence of Metacognition as a F... | 276 |
 | 8 | [[Ann Brown]] | — | — | The Emergence of Metacognition as a F... | 281 |
 | 9 | [[Critical thinking]] | — | — | Critical Thinking: An Equally Complex... | 285 |
@@ -473,12 +473,12 @@ extraction_summary:
 | 14 | [[Immanuel Kant]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 15 | [[William James]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 16 | [[Edmund Husserl]] | — | — | The Intellectual Genealogy of Reflection | 301 |
-| 17 | [[John Dewey]] | — | — | The Intellectual Genealogy of Reflection | 301 |
+| 17 | [[John-Dewey]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 18 | [[Flavell's Metacognitive Model]] | — | — | Flavell's Tripartite Model of Metacog... | 314 |
 | 19 | [[Paul-Elder Critical Thinking Framework]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 20 | [[Richard Paul]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 21 | [[Linda Elder]] | — | — | The Paul-Elder Framework for Critical... | 327 |
-| 22 | [[Donald Schön]] | — | — | Schön's Reflective Practice | 336 |
+| 22 | [[Donald-Schön]] | — | — | Schön's Reflective Practice | 336 |
 | 23 | [[John Mason]] | — | — | Schön's Reflective Practice | 341 |
 | 24 | [[Keith Stanovich]] | — | — | Schön's Reflective Practice | 341 |
 | 25 | [[dysrationalia]] | — | — | Schön's Reflective Practice | 341 |
@@ -487,21 +487,21 @@ extraction_summary:
 | 28 | [[Reflective Judgment Model]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
 | 29 | [[Critical thinking]] | — | — | How Metacognition Enhances Critical R... | 362 |
 | 30 | [[Vygotsky]] | — | — | How Metacognition Enhances Critical R... | 362 |
-| 31 | [[Dunning-Kruger Effect]] | — | — | How Metacognition Enhances Critical R... | 369 |
+| 31 | [[Dunning-Kruger-Effect]] | — | — | How Metacognition Enhances Critical R... | 369 |
 | 32 | [[Keith Stanovich]] | — | — | How Metacognition Enhances Critical R... | 369 |
 | 33 | [[domain knowledge]] | — | — | The Role of Prior Knowledge and Domai... | 376 |
 | 34 | [[Reflection-in-action]] | — | — | Metacognitive Monitoring in Real Time | 383 |
 | 35 | [[John Hattie]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 36 | [[Gregory Yates]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 37 | [[Paul-Elder framework]] | — | — | Designing Learning Experiences for Me... | 408 |
-| 38 | [[desirable difficulties]] | — | — | Designing Learning Experiences for Me... | 410 |
+| 38 | [[Desirable-Difficulties]] | — | — | Designing Learning Experiences for Me... | 410 |
 | 39 | [[King and Kitchener]] | — | — | Designing Learning Experiences for Me... | 413 |
 | 40 | [[self-regulated learning]] | — | — | Designing Learning Experiences for Me... | 415 |
 | 41 | [[metacognition]] | — | — | The Unified Picture | 449 |
 | 42 | [[critical thinking]] | — | — | The Unified Picture | 449 |
 | 43 | [[Extended Thinking Architecture]] | — | — | Unresolved Questions | 467 |
 | 44 | [[Self-Regulated Learning]] | — | — | Unresolved Questions | 469 |
-| 45 | [[Reflective Practice]] | — | — | Unresolved Questions | 471 |
+| 45 | [[Reflective-Practice]] | — | — | Unresolved Questions | 471 |
 | 46 | [[Bloom's Taxonomy]] | — | — | Unresolved Questions | 473 |
 | 47 | [[Metacognitive Scaffolding Design Patterns]] | — | — | D. Expansion Topics | 559 |
 | 48 | [[Critical Thinking Assessment and Measurement]] | — | — | D. Expansion Topics | 562 |
@@ -524,8 +524,8 @@ extraction_summary:
 - [[Critical Thinking Assessment and Measurement]]
 - [[Critical thinking]]
 - [[Delphi Report]]
-- [[Donald Schön]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön]]
+- [[Dunning-Kruger-Effect]]
 - [[Edmund Husserl]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
@@ -533,7 +533,7 @@ extraction_summary:
 - [[Gregory Yates]]
 - [[Immanuel Kant]]
 - [[Intellectual Virtues and Disposition Theory]]
-- [[John Dewey]]
+- [[John-Dewey]]
 - [[John H. Flavell]]
 - [[John Hattie]]
 - [[John Mason]]
@@ -548,7 +548,7 @@ extraction_summary:
 - [[Peter Facione]]
 - [[Reflection-in-action]]
 - [[Reflective Judgment Model]]
-- [[Reflective Practice]]
+- [[Reflective-Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
 - [[Self-Regulated Learning]]
@@ -558,7 +558,7 @@ extraction_summary:
 - [[Vygotsky]]
 - [[William James]]
 - [[critical thinking]]
-- [[desirable difficulties]]
+- [[Desirable-Difficulties]]
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
@@ -577,7 +577,7 @@ extraction_summary:
 - [[Executive Function]]
 - [[Self-Regulated Learning]]
 - [[Bloom's Taxonomy]]
-- [[Reflective Practice]]
+- [[Reflective-Practice]]
 - [[Socratic Method]]
 - [[Epistemic Cognition]]
 
@@ -597,8 +597,8 @@ extraction_summary:
 
 - [[Self-Regulated Learning]]
 - [[Growth Mindset]]
-- [[Intellectual Humility]]
-- [[Dunning-Kruger Effect]]
+- [[Intellectual-Humility]]
+- [[Dunning-Kruger-Effect]]
 
 #### Contrasts With
 

@@ -107,7 +107,7 @@ importance: high
 # Impersonal Orientation
 
 > [!definition] **Impersonal Orientation**
-> The tendency to orient toward the environment as if one's behavior were beyond intentional control — as if outcomes are determined by forces (internal or external) that cannot be managed. Individuals high in impersonal orientation characteristically experience themselves as incapable of producing desired outcomes, attribute performance to luck, fate, or overwhelming circumstances, and often disengage from effortful pursuit. Impersonal orientation is theoretically associated with [[Amotivation]] in OIT's motivational continuum and with [[Learned Helplessness]] in Seligman's framework. Unlike the control orientation (which involves controlled motivation — the person is still trying), impersonal orientation involves the collapse of intentional motivation itself.
+> The tendency to orient toward the environment as if one's behavior were beyond intentional control — as if outcomes are determined by forces (internal or external) that cannot be managed. Individuals high in impersonal orientation characteristically experience themselves as incapable of producing desired outcomes, attribute performance to luck, fate, or overwhelming circumstances, and often disengage from effortful pursuit. Impersonal orientation is theoretically associated with [[Amotivation]] in OIT's motivational continuum and with [[Learned-Helplessness]] in Seligman's framework. Unlike the control orientation (which involves controlled motivation — the person is still trying), impersonal orientation involves the collapse of intentional motivation itself.
 
 ## Core Explanation
 

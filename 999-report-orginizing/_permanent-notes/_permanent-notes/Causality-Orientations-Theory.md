@@ -98,7 +98,7 @@ importance: high
 # Causality Orientations Theory
 
 > [!definition] **Causality Orientations Theory**
-> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[attribution theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
+> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[Attribution-Theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
 
 ## Core Explanation
 
@@ -132,7 +132,7 @@ importance: high
 
 **Cross-report connections:**
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]

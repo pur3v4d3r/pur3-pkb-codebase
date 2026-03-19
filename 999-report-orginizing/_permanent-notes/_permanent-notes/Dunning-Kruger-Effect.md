@@ -5,6 +5,7 @@
 title: "Dunning-Kruger Effect"
 aliases:
   - "Dunning-Kruger Effect"
+  - "Dunning Kruger Effect"
 type: permanent-note
 status: evergreen
 confidence: high

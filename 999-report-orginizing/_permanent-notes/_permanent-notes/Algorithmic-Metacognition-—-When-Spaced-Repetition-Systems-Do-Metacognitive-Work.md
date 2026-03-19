@@ -80,5 +80,5 @@ importance: medium
 - [[Reflective-Inquiry]]
 - [[Reflective-Practice]]
 - [[Self-Efficacy]]
-- [[Self-Regulated-Learning-—-SRL]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[The-Metacognitive-PKB-External-Memory-Is-the-Wrong-Frame]]

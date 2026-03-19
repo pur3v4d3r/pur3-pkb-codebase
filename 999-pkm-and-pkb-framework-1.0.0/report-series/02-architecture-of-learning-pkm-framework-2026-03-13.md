@@ -79,8 +79,8 @@ related_concepts:
   - "[[Extraneous-Load|Extraneous Load]]"
   - "[[Germane-Load|Germane Load]]"
   - "[[Split-Attention-Effect|Split-Attention Effect]]"
-  - "[[Modality Effect]]"
-  - "[[Redundancy Effect]]"
+  - "[[Modality-Effect]]"
+  - "[[Redundancy-Effect]]"
   - "[[Miller's Law]]"
   - "[[Cowan's Capacity Estimate]]"
 
@@ -154,7 +154,7 @@ The critical insight of CLT is not simply that complexity is bad — it is that 
 ### Mayer's Multimedia Learning Theory: Design Principles for Complex Content
 
 > [!definition] **Mayer's Cognitive Theory of Multimedia Learning (Mayer, 2001, 2009)**
-> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[Redundancy Effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
+> A theory of how people learn from words and pictures — or more broadly, from multimodal information — grounded in three assumptions: (1) the dual-channel assumption (humans have separate channels for processing visual/pictorial and auditory/verbal information), (2) the limited-capacity assumption (each channel has limited processing capacity, corresponding to working memory), and (3) the active-processing assumption (meaningful learning occurs when learners engage in appropriate cognitive processing — selecting relevant material, organizing it into coherent mental representations, and integrating it with prior knowledge). From these assumptions, Mayer derives a set of evidence-based design principles — including the [[Coherence-Principle|Coherence Principle]], [[Signaling-Principle|Signaling Principle]], [[Segmenting Principle]], [[Modality Principle]], and [[Redundancy-Effect]] — each of which reduces extraneous load or enhances germane load. *Disciplinary home: Educational Psychology / Instructional Design.*
 
 Mayer's framework is especially significant for PKB design because it addresses the kind of learning PKB users most commonly engage in: reading text-rich notes, sometimes augmented with diagrams, code blocks, or embedded media. The [[Signaling-Principle|Signaling Principle]] — that cues highlighting organization and key ideas (headers, bolding, callouts) reduce extraneous load by directing attention — directly informs how notes should be formatted. The [[Segmenting Principle]] — that users learn better from material presented in learner-paced segments than as a continuous unit — suggests that very long notes should be structured in explicitly traversable sections rather than expected to be read linearly.
 

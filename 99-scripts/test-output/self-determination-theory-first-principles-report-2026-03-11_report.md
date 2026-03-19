@@ -562,8 +562,8 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Bratman's Planning Theory]]
 - [[Carl Rogers]]
-- [[Challenge-Skill Balance]]
-- [[Cognitive Evaluation Theory]]
+- [[Challenge-Skill-Balance]]
+- [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
@@ -574,7 +574,7 @@ extraction_summary:
 - [[Intrinsic vs Extrinsic Motivation]]
 - [[Korsgaard's Self-Constitution]]
 - [[Organismic Integration]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory]]
 - [[Philosophy of Agency]]
 - [[Relatedness]]
 - [[Self-Determination Theory]]
@@ -589,8 +589,8 @@ extraction_summary:
 | 2 | [[Autonomy]] | — | — | The Standard Account | 137 |
 | 3 | [[Competence]] | — | — | The Standard Account | 137 |
 | 4 | [[Relatedness]] | — | — | The Standard Account | 137 |
-| 5 | [[Cognitive Evaluation Theory]] | — | — | The Standard Account | 137 |
-| 6 | [[Organismic Integration Theory]] | — | — | The Standard Account | 137 |
+| 5 | [[Cognitive-Evaluation-Theory]] | — | — | The Standard Account | 137 |
+| 6 | [[Organismic-Integration-Theory]] | — | — | The Standard Account | 137 |
 | 7 | [[Organismic Integration]] | — | — | The Standard Narrative | 144 |
 | 8 | [[Carl Rogers]] | — | — | The Standard Narrative | 144 |
 | 9 | [[Abraham Maslow]] | — | — | The Standard Narrative | 144 |
@@ -607,7 +607,7 @@ extraction_summary:
 | 20 | [[Cross-Cultural Psychology]] | — | — | Relationship to Other Report Types | 435 |
 | 21 | [[Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 441 |
 | 22 | [[Flow Theory]] | — | — | The Invitation to Reconstruct Further | 441 |
-| 23 | [[Challenge-Skill Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
+| 23 | [[Challenge-Skill-Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
 
 ---
 
@@ -649,8 +649,8 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Bratman's Planning Theory]]
 - [[Carl Rogers]]
-- [[Challenge-Skill Balance]]
-- [[Cognitive Evaluation Theory]]
+- [[Challenge-Skill-Balance]]
+- [[Cognitive-Evaluation-Theory]]
 - [[Competence]]
 - [[Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
@@ -661,7 +661,7 @@ extraction_summary:
 - [[Intrinsic vs Extrinsic Motivation]]
 - [[Korsgaard's Self-Constitution]]
 - [[Organismic Integration]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory]]
 - [[Philosophy of Agency]]
 - [[Relatedness]]
 - [[Self-Determination Theory]]
@@ -682,11 +682,11 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Intrinsic Motivation]]
 - [[Extrinsic Motivation]]
-- [[Internalization Continuum]]
+- [[Internalization-Continuum]]
 - [[Autonomy]]
 - [[Agency]]
-- [[Organismic Integration Theory]]
-- [[Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory]]
+- [[Cognitive-Evaluation-Theory]]
 - [[Humanistic Psychology]]
 - [[Cross-Cultural Universality]]
 - [[Goal Contents Theory]]

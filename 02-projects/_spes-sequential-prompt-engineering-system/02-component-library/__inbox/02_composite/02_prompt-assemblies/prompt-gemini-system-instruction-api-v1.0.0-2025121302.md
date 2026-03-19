@@ -6,7 +6,7 @@ version: "1.0.0"
 rating: "0.0"
 source: "claude-opus-4.1"
 title: "System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration"
-description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal Knowledge Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought Prompting]], [[Few-Shot Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
+description: "This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal Knowledge Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture."
 key-takeaway: "REACT Framework, and other useful techniques have been applied."
 last-used: "[[2025-12-13]]"
 tags:
@@ -145,7 +145,7 @@ aliases: [Gemini PKB System Prompt, Gemini 2.5 Obsidian Configuration, Cross-Mod
 # System Prompt Architecture: Gemini 2.5 Pro PKB Specialist Configuration
 
 > [!abstract] Executive Summary
-> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal Knowledge Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought Prompting]], [[Few-Shot Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
+> This document provides a production-ready [[System Prompt]] engineered to configure [[Gemini 2.5 Pro]] as a specialized [[Personal Knowledge Management]] architect matching the output quality, formatting standards, and contextual awareness currently achieved with Claude. The prompt incorporates [[Constitutional AI]] principles, [[Chain-of-Thought-Prompting]], [[Few-Shot Learning]], and [[Role Prompting]] techniques optimized for Gemini's architecture.
 
 ---
 
@@ -177,7 +177,7 @@ The `<constitutional_principles>` section implements a lightweight [[Constitutio
 
 The `<few_shot_examples>` section provides concrete output demonstrations that teach through pattern recognition rather than abstract description. [**Few-Shot-Effectiveness**:: showing the model exactly what a compliant atomic note and technical response look like is more effective than extensive rule descriptions alone—the model can pattern-match against these exemplars.]
 
-### [[Chain-of-Thought Prompting]] via ReAct Protocol
+### [[Chain-of-Thought-Prompting]] via ReAct Protocol
 
 The `<react_protocol>` implements [[ReAct Framework]] (Reasoning + Acting) to encourage systematic thinking before response generation. [**ReAct-Benefit**:: structuring the model's cognitive process through explicit phases (Analyze → Compose → Validate) reduces errors from premature commitment to suboptimal response structures.]
 

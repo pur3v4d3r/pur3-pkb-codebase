@@ -76,5 +76,5 @@ importance: medium
 - [[Negative-Feedback-Loop]]
 - [[Positive-Feedback-Loop]]
 - [[Reflective-Practitioner]]
-- [[Self-Regulated-Learning-—-SRL]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[The-Learning-Metabolism-Framework]]

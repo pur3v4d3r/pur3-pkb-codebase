@@ -81,7 +81,7 @@ We implement this in Obsidian through **Templates**, **Queries**, and **Rituals*
 
 ### Phase I: Architecting Forethought (The Setup)
 
-The goal here is to reduce [[Cognitive Load]] during work by pre-loading intent.
+The goal here is to reduce [[Cognitive-Load]] during work by pre-loading intent.
 
 **Mechanism:** *The Daily Note Prelude & Project Templates*
 

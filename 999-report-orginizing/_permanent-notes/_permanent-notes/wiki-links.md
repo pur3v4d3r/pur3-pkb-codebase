@@ -5,6 +5,7 @@
 title: "wiki-links"
 aliases:
   - "wiki-links"
+  - "Wiki Links"
 type: permanent-note
 status: seedling
 confidence: low

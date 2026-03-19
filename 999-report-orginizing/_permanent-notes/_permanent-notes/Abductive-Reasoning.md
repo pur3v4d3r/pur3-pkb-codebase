@@ -98,7 +98,7 @@ importance: high
 # Abductive Reasoning
 
 > [!definition] **Abductive Reasoning**
-> The logical form of inference that moves from a surprising or anomalous observation to the hypothesis that would, if true, render that observation intelligible or expected. Abduction does NOT establish that the hypothesis is true — only that it is worth investigating. It is the logic of hypothesis *generation*, not hypothesis *confirmation*. It is sometimes called *retroduction* in Peirce's earlier writings, and its more recent analytic reconstruction is known as [[Inference to the Best Explanation]].
+> The logical form of inference that moves from a surprising or anomalous observation to the hypothesis that would, if true, render that observation intelligible or expected. Abduction does NOT establish that the hypothesis is true — only that it is worth investigating. It is the logic of hypothesis *generation*, not hypothesis *confirmation*. It is sometimes called *retroduction* in Peirce's earlier writings, and its more recent analytic reconstruction is known as [[Inference-to-the-Best-Explanation]].
 
 ## Core Explanation
 

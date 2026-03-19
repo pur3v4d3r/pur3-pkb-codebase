@@ -603,7 +603,7 @@ extraction_summary:
 - [[Dual-Process-Theory|Dual Process Theory]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Epistemic Virtues]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Pragmatism]]
 - [[Socratic-Method|Socratic Method]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]

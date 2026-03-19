@@ -844,7 +844,7 @@ extraction_summary:
 - [[Note Linking Philosophy]]
 - [[Progressive Note Development]]
 - [[Knowledge Scaffolding]]
-- [[Prior Knowledge]]
+- [[Prior-Knowledge]]
 - [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
 
 ---

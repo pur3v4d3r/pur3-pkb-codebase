@@ -487,7 +487,7 @@ extraction_summary:
 > > [!topic-idea] [[Prompt Engineering for Educational AI]]
 > > The practical extension of this report's Phase V into a full design framework. How should AI-assisted learning systems (tutors, report generators, knowledge tools) incorporate prior knowledge activation principles? What prompt architectures produce genuine schema activation rather than generic orientation? How do PKB-linked knowledge graphs change the prompt engineering calculus? **Priority: Medium** — directly applicable to the PKB project and an area of active practical relevance.
 > 
-> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> > [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > > Prior knowledge activation, when executed by learners themselves rather than instructors, is a metacognitive and self-regulatory behavior — knowing what you know, deliberately accessing it, and strategically connecting it to new material. A Foundational Report on SRL (flagged as high-priority from the Feedback Design report) would ground the activation strategies in the broader framework of learner agency and cognitive self-management. **Priority: High** — already flagged; this report adds further motivation.
 
 ---
@@ -544,7 +544,7 @@ extraction_summary:
 - [[Richard Mayer]]
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample Bias]]
@@ -692,7 +692,7 @@ extraction_summary:
 - [[Richard Mayer]]
 - [[Schema]]
 - [[Schema-Theory|Schema Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stone (1983)]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample Bias]]
@@ -713,7 +713,7 @@ extraction_summary:
 - [[Schema-Theory|Schema Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Metacognition & Lifelong Learning]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -762,7 +762,7 @@ extraction_summary:
 
 - [[Transfer-of-Learning|Transfer of Learning]]
 - [[Conceptual-Change-Theory|Conceptual Change Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Inquiry-Based Learning Design & Evidence]]
 - [[Prompt Engineering for Educational AI]]
 

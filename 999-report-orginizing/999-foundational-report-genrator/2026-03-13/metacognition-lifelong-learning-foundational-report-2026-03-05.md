@@ -1,20 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
 title: "Metacognition and Lifelong Learning: Knowing How You Know, and Growing How You Grow"
 aliases:
-  - "Metacognition in Lifelong Learning"
-  - "Learning to Learn"
-  - "Self-Regulated Learning and Metacognition"
-  - "Metacognitive Development Across the Lifespan"
+  - Metacognition in Lifelong Learning
+  - Learning to Learn
+  - Self-Regulated Learning and Metacognition
+  - Metacognitive Development Across the Lifespan
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -35,106 +28,81 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "cognitive-psychology"
+domain: cognitive-psychology
 subdomains:
-  - "metacognition"
-  - "lifelong-learning"
-  - "self-regulated-learning"
-  - "adult-education"
-  - "cognitive-development"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-05"
-updated: "2026-03-05"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - metacognition
+  - lifelong-learning
+  - self-regulated-learning
+  - adult-education
+  - cognitive-development
+created: 2026-03-05
+updated: 2026-03-05
 source-type: academic-synthesis
-research-base: "mixed-methods"
+research-base: mixed-methods
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Flavell's Metacognitive Model"
-    description: "Foundational tripartite model distinguishing metacognitive knowledge, metacognitive experiences, and metacognitive regulation"
-    developers: "John H. Flavell (1979)"
-    validation: "extensively replicated"
-  - name: "Zimmerman's Self-Regulated Learning Model"
-    description: "Cyclical phase model of forethought, performance, and self-reflection governing academic and lifelong learning"
-    developers: "Barry J. Zimmerman (1989, 2000)"
-    validation: "strong empirical support"
-  - name: "Efklides's Metacognitive and Affective Model of Self-Regulated Learning (MASRL)"
-    description: "Integrates metacognition with affect, motivation, and volition in a multilevel framework"
-    developers: "Anastasia Efklides (2011)"
-    validation: "emerging empirical support"
-  - name: "Dunning-Kruger Effect"
-    description: "Cognitive bias where people with limited competence overestimate their ability, with direct implications for metacognitive calibration"
-    developers: "Kruger & Dunning (1999)"
-    validation: "replicated across domains with nuance"
-  - name: "Socio-Cultural Theory of Learning"
-    description: "Vygotsky's framework establishing how social interaction and cultural tools scaffold metacognitive development"
-    developers: "Lev Vygotsky (1978, posthumous)"
-    validation: "foundational, broadly adopted"
-
+  - name: Flavell's Metacognitive Model
+    description: Foundational tripartite model distinguishing metacognitive knowledge, metacognitive experiences, and metacognitive regulation
+    developers: John H. Flavell (1979)
+    validation: extensively replicated
+  - name: Zimmerman's Self-Regulated Learning Model
+    description: Cyclical phase model of forethought, performance, and self-reflection governing academic and lifelong learning
+    developers: Barry J. Zimmerman (1989, 2000)
+    validation: strong empirical support
+  - name: Efklides's Metacognitive and Affective Model of Self-Regulated Learning (MASRL)
+    description: Integrates metacognition with affect, motivation, and volition in a multilevel framework
+    developers: Anastasia Efklides (2011)
+    validation: emerging empirical support
+  - name: Dunning-Kruger Effect
+    description: Cognitive bias where people with limited competence overestimate their ability, with direct implications for metacognitive calibration
+    developers: Kruger & Dunning (1999)
+    validation: replicated across domains with nuance
+  - name: Socio-Cultural Theory of Learning
+    description: Vygotsky's framework establishing how social interaction and cultural tools scaffold metacognitive development
+    developers: Lev Vygotsky (1978, posthumous)
+    validation: foundational, broadly adopted
 key-researchers:
-  - "John H. Flavell"
-  - "Barry J. Zimmerman"
-  - "Ann L. Brown"
-  - "Anastasia Efklides"
-  - "Lev Vygotsky"
-  - "Albert Bandura"
-  - "Carol Dweck"
-  - "Robert Bjork"
-  - "Katherine Rawson"
-  - "David Dunning"
-  - "Justin Kruger"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~7,200"
-complexity-level: "intermediate"
-target-audience: "Intelligent adults with interest in psychology, education, or personal development; does not assume prior formal study of cognitive science"
+  - John H. Flavell
+  - Barry J. Zimmerman
+  - Ann L. Brown
+  - Anastasia Efklides
+  - Lev Vygotsky
+  - Albert Bandura
+  - Carol Dweck
+  - Robert Bjork
+  - Katherine Rawson
+  - David Dunning
+  - Justin Kruger
+word-count: ~7,200
+complexity-level: intermediate
+target-audience: Intelligent adults with interest in psychology, education, or personal development; does not assume prior formal study of cognitive science
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Metacognitive knowledge (declarative, procedural, conditional)"
-  - "Metacognitive regulation (planning, monitoring, evaluation)"
-  - "Self-regulated learning"
-  - "Calibration and metacognitive accuracy"
-  - "Desirable difficulties"
-  - "The Zone of Proximal Development"
-  - "Growth mindset vs. fixed mindset"
-  - "Transfer-appropriate processing"
-  - "Retrieval practice and the testing effect"
-  - "Deliberate practice"
-
+  - Metacognitive knowledge (declarative, procedural, conditional)
+  - Metacognitive regulation (planning, monitoring, evaluation)
+  - Self-regulated learning
+  - Calibration and metacognitive accuracy
+  - Desirable difficulties
+  - The Zone of Proximal Development
+  - Growth mindset vs. fixed mindset
+  - Transfer-appropriate processing
+  - Retrieval practice and the testing effect
+  - Deliberate practice
 key-distinctions:
-  - "Metacognition vs. cognition — thinking about thinking vs. doing the thinking"
-  - "Declarative vs. procedural vs. conditional metacognitive knowledge"
-  - "Online vs. offline metacognition — monitoring during vs. judging after"
-  - "Metacognitive accuracy vs. metacognitive sophistication"
-  - "Self-regulated learning vs. externally regulated learning"
-  - "Desirable difficulties vs. undesirable difficulties"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Metacognition vs. cognition — thinking about thinking vs. doing the thinking
+  - Declarative vs. procedural vs. conditional metacognitive knowledge
+  - Online vs. offline metacognition — monitoring during vs. judging after
+  - Metacognitive accuracy vs. metacognitive sophistication
+  - Self-regulated learning vs. externally regulated learning
+  - Desirable difficulties vs. undesirable difficulties
 prerequisites:
   - "[[Memory Systems and Encoding]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Executive Function]]"
-
 related:
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Deliberate Practice]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]"
@@ -142,92 +110,72 @@ related:
   - "[[Formative-Assessment|Formative Assessment]]"
   - "[[Cognitive Biases in Learning]]"
   - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
-
 broader:
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Lifespan Developmental Psychology]]"
-
 narrower:
   - "[[Metacognitive Monitoring Strategies]]"
   - "[[Study Skills and Learning Strategies]]"
   - "[[Metacognition in Professional Development]]"
   - "[[Metacognition in Older Adults]]"
-
 see-also:
   - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Epistemic-Humility|Epistemic Humility]]"
   - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Expertise Development]]"
-
 contrasts-with:
   - "[[Rote Learning]]"
   - "[[Passive Learning]]"
   - "[[Fixed-Mindset|Fixed Mindset]]"
-
 applied-in:
   - "[[Professional Development]]"
   - "[[Medical Education]]"
   - "[[K-12 Education]]"
   - "[[Workplace Learning]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Memory Systems and Encoding]]"
   - "[[Attention and Cognitive Control]]"
   - "[[Schema-Theory|Schema Theory]]"
-
 enables:
   - "[[Expert-Level Skill Acquisition]]"
   - "[[Adaptive Learning System Design]]"
   - "[[Personal Learning Architecture]]"
-
 expansion-topics:
   - topic: "[[Retrieval Practice and the Testing Effect]]"
-    description: "Empirical evidence showing that actively retrieving information (rather than re-reading) produces dramatically superior long-term retention; directly actionable metacognitive tool"
+    description: Empirical evidence showing that actively retrieving information (rather than re-reading) produces dramatically superior long-term retention; directly actionable metacognitive tool
     priority: high
   - topic: "[[Spaced-Repetition-Systems|Spaced Repetition Systems]]"
-    description: "Systematic application of the spacing effect through scheduling algorithms; one of the highest-leverage metacognitive learning tools available"
+    description: Systematic application of the spacing effect through scheduling algorithms; one of the highest-leverage metacognitive learning tools available
     priority: high
   - topic: "[[Metacognition in Professional Domains]]"
-    description: "How metacognitive practices manifest specifically in medicine, law, engineering, and other expert domains; includes clinical reasoning and diagnostic calibration"
+    description: How metacognitive practices manifest specifically in medicine, law, engineering, and other expert domains; includes clinical reasoning and diagnostic calibration
     priority: high
   - topic: "[[Cognitive Biases and Their Impact on Self-Assessment]]"
-    description: "Comprehensive treatment of how systematic cognitive biases (Dunning-Kruger, overconfidence, hindsight bias) distort metacognitive accuracy"
+    description: Comprehensive treatment of how systematic cognitive biases (Dunning-Kruger, overconfidence, hindsight bias) distort metacognitive accuracy
     priority: medium
   - topic: "[[The Science of Deliberate Practice]]"
-    description: "Ericsson's research program on expert skill acquisition; examines the metacognitive structures that separate effective practice from mere repetition"
+    description: Ericsson's research program on expert skill acquisition; examines the metacognitive structures that separate effective practice from mere repetition
     priority: high
   - topic: "[[Metacognitive Interventions in Education]]"
-    description: "Empirically-tested pedagogical approaches for cultivating metacognitive skills in learners across developmental stages"
+    description: Empirically-tested pedagogical approaches for cultivating metacognitive skills in learners across developmental stages
     priority: medium
   - topic: "[[Vygotsky and Socio-Cultural Learning Theory]]"
-    description: "Full treatment of Vygotsky's framework and its implications for scaffolded metacognitive development in social contexts"
+    description: Full treatment of Vygotsky's framework and its implications for scaffolded metacognitive development in social contexts
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Flavell (1979) — foundational metacognition model, extensively replicated"
-  - "Zimmerman (2000) — self-regulated learning cyclical model, strong empirical support"
-  - "Kruger & Dunning (1999) — metacognitive calibration and incompetence blindness"
-  - "Roediger & Karpicke (2006) — testing effect / retrieval practice superiority"
-  - "Bjork & Bjork (2011) — desirable difficulties research program"
-  - "Dweck (2006) — growth vs. fixed mindset and learning outcomes"
-
+  - Flavell (1979) — foundational metacognition model, extensively replicated
+  - Zimmerman (2000) — self-regulated learning cyclical model, strong empirical support
+  - Kruger & Dunning (1999) — metacognitive calibration and incompetence blindness
+  - Roediger & Karpicke (2006) — testing effect / retrieval practice superiority
+  - Bjork & Bjork (2011) — desirable difficulties research program
+  - Dweck (2006) — growth vs. fixed mindset and learning outcomes
 limitations-noted:
-  - "Metacognitive interventions show variable effectiveness across age groups and domains"
-  - "Self-report measures of metacognition have validity concerns"
-  - "Cultural variation in metacognitive norms is understudied"
-  - "Transfer of metacognitive skills across domains is not guaranteed"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Metacognitive interventions show variable effectiveness across age groups and domains
+  - Self-report measures of metacognition have validity concerns
+  - Cultural variation in metacognitive norms is understudied
+  - Transfer of metacognitive skills across domains is not guaranteed
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -236,27 +184,18 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 22
   wiki-links: 34
   reflective-questions: 15
   active-reading-prompts: 7
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-05"
+generation-date: 2026-03-05
 ---
 
 # Metacognition and Lifelong Learning: Knowing How You Know, and Growing How You Grow
@@ -320,7 +259,7 @@ Within the modern scientific tradition, the intellectual lineage of metacognitio
 
 ### The Self-Regulated Learning Framework
 
-No theoretical framework has been more influential in applying metacognitive theory to practical learning than [[Barry-Zimmerman|Barry Zimmerman]]'s model of [[Self-Regulated-Learning-—-SRL|self-regulated learning]] (SRL). Zimmerman argued that effective learners are not passive recipients of instruction but active agents who systematically govern their own cognitive, motivational, and behavioral processes during learning. His cyclical model, developed across the 1980s and refined through the 2000s, organizes self-regulated learning into three recurring phases.
+No theoretical framework has been more influential in applying metacognitive theory to practical learning than [[Barry-Zimmerman|Barry Zimmerman]]'s model of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]] (SRL). Zimmerman argued that effective learners are not passive recipients of instruction but active agents who systematically govern their own cognitive, motivational, and behavioral processes during learning. His cyclical model, developed across the 1980s and refined through the 2000s, organizes self-regulated learning into three recurring phases.
 
 The **Forethought Phase** precedes actual learning and encompasses two clusters of processes: task analysis and motivational beliefs. Task analysis involves goal setting — establishing specific, hierarchically organized learning goals — and strategic planning, in which the learner selects and sequences strategies based on their knowledge of themselves, the task, and available strategies. Motivational beliefs include the learner's self-efficacy (their confidence in their ability to perform the task), their intrinsic interest, and their causal attributions about what determines learning success. These motivational factors are not peripheral to metacognition; they determine whether metacognitive knowledge is deployed at all.
 

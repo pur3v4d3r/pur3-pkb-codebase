@@ -1,17 +1,10 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Implementation Intentions"
+title: Implementation Intentions
 aliases:
-  - "Implementation Intentions"
+  - Implementation Intentions
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +14,6 @@ tags:
   - metacognition/embedding
   - educational-psychology/self-regulated-learning
   - educational-philosophy/reflective-inquiry
-
 domain: learning-science
 subdomains:
   - cognitive-psychology
@@ -29,38 +21,21 @@ subdomains:
   - educational-philosophy
   - instructional-design
   - metacognition
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-18
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14"
+  - 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Metacognitive-Control|Metacognitive Control]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
   - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
   - "[[Nelson-Narens-Model|Nelson Narens Model]]"
@@ -68,13 +43,10 @@ related:
   - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
   - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[Calibration]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Behavioral-Science|Behavioral Science]]"
   - "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
@@ -84,39 +56,29 @@ see-also:
   - "[[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]"
   - "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
   - "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
-
 enables:
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
   - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
   - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
-
 expansion-topics:
   - topic: "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-    description: "How does metacognitive calibration accuracy change with deliberate practice, and what is the traject"
+    description: How does metacognitive calibration accuracy change with deliberate practice, and what is the traject
     priority: medium
   - topic: "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
-    description: "A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin"
+    description: A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin
     priority: medium
   - topic: "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-    description: "Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found"
+    description: Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found
     priority: medium
   - topic: "[[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]"
     description: "Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level "
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high

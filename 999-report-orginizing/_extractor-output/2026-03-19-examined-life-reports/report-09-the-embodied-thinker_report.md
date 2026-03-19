@@ -575,7 +575,7 @@ extraction_summary:
 - [[Predictive-Processing|Predictive Processing]]
 - [[Active-Inference|Active Inference]]
 - [[Emotional Intelligence]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stress and Cognition]]
 
 #### Broader

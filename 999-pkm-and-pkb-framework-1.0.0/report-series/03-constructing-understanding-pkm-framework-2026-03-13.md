@@ -25,7 +25,7 @@ related_concepts:
   - "[[Note Linking Philosophy]]"
   - "[[Progressive Note Development]]"
   - "[[Knowledge Scaffolding]]"
-  - "[[Prior Knowledge]]"
+  - "[[Prior-Knowledge]]"
   - "[[Schema-Progressive-Architecture|Schema-Progressive Architecture]]"
 knowledge_level: advanced
 tags:

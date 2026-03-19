@@ -1,8 +1,5 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Levels of Processing Theory (Craik & Lockhart)"
+title: Levels of Processing Theory (Craik & Lockhart)
 aliases:
   - "[[Levels-of-Processing|Levels of Processing]]"
   - "[[LOP Theory]]"
@@ -11,123 +8,85 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
-  # Content Type
   - permanent-note
   - foundational-report
   - academic-synthesis
-
-  # Domain
   - cognitive-psychology/memory
   - cognitive-psychology/encoding
   - learning-sciences/encoding-and-retrieval
   - educational-psychology/study-strategies
-
-  # Methodology
   - empirical-research
   - theoretical-synthesis
   - experimental-paradigm
-
-  # Frameworks
   - levels-of-processing
   - transfer-appropriate-processing
   - encoding-specificity
   - elaborative-encoding
-
-  # Status
   - evergreen
   - comprehensive
   - research-grounded
-
 domain: cognitive-psychology
 subdomains:
   - memory
   - encoding
   - learning-and-retention
   - study-strategies
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-13
 updated: 2026-03-13
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Levels of Processing (LOP)"
-    description: "Framework proposing that memory trace durability is a function of the depth at which information is encoded, with semantic processing producing stronger traces than structural or phonemic processing"
-    developers: "Craik & Lockhart (1972)"
-    validation: "extensively replicated with noted circularity limitation"
-  - name: "Elaboration and Distinctiveness"
-    description: "Amendment to original LOP proposing that within a given depth level, the degree of elaboration and uniqueness of the encoding further determines retention"
-    developers: "Craik & Tulving (1975)"
-    validation: "well-supported empirically"
-  - name: "Transfer-Appropriate Processing (TAP)"
-    description: "Alternative account proposing that retention depends not on absolute processing depth but on the overlap between encoding and retrieval operations"
-    developers: "Morris, Bransford & Franks (1977)"
-    validation: "well-supported; now treated as complementary to LOP"
-  - name: "Self-Reference Effect"
-    description: "Empirical finding that encoding information with reference to the self produces superior retention, extending LOP's depth dimension to include personal relevance"
-    developers: "Rogers, Kuiper & Kirker (1977)"
-    validation: "replicated widely across cultures"
-
+  - name: Levels of Processing (LOP)
+    description: Framework proposing that memory trace durability is a function of the depth at which information is encoded, with semantic processing producing stronger traces than structural or phonemic processing
+    developers: Craik & Lockhart (1972)
+    validation: extensively replicated with noted circularity limitation
+  - name: Elaboration and Distinctiveness
+    description: Amendment to original LOP proposing that within a given depth level, the degree of elaboration and uniqueness of the encoding further determines retention
+    developers: Craik & Tulving (1975)
+    validation: well-supported empirically
+  - name: Transfer-Appropriate Processing (TAP)
+    description: Alternative account proposing that retention depends not on absolute processing depth but on the overlap between encoding and retrieval operations
+    developers: Morris, Bransford & Franks (1977)
+    validation: well-supported; now treated as complementary to LOP
+  - name: Self-Reference Effect
+    description: Empirical finding that encoding information with reference to the self produces superior retention, extending LOP's depth dimension to include personal relevance
+    developers: Rogers, Kuiper & Kirker (1977)
+    validation: replicated widely across cultures
 key-researchers:
-  - "Fergus I. M. Craik"
-  - "Robert S. Lockhart"
-  - "Endel Tulving"
-  - "C. Donald Morris"
-  - "John D. Bransford"
-  - "Theodore B. Rogers"
-  - "Thomas S. Hyde"
-  - "James J. Jenkins"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "approximately 9,200"
+  - Fergus I. M. Craik
+  - Robert S. Lockhart
+  - Endel Tulving
+  - C. Donald Morris
+  - John D. Bransford
+  - Theodore B. Rogers
+  - Thomas S. Hyde
+  - James J. Jenkins
+word-count: approximately 9,200
 complexity-level: intermediate
-target-audience: "Researchers and practitioners in learning sciences, educational psychology, and cognitive psychology seeking foundational understanding of encoding and memory"
+target-audience: Researchers and practitioners in learning sciences, educational psychology, and cognitive psychology seeking foundational understanding of encoding and memory
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "Processing depth (structural → phonemic → semantic)"
-  - "Memory trace durability as a function of encoding quality"
-  - "Orienting tasks as experimental methodology"
-  - "Elaboration and distinctiveness as within-depth modifiers"
-  - "Transfer-appropriate processing as a complementary account"
-  - "Self-reference effect as a maximal depth phenomenon"
-  - "Incidental vs. intentional learning distinction"
-
+  - Processing depth (structural → phonemic → semantic)
+  - Memory trace durability as a function of encoding quality
+  - Orienting tasks as experimental methodology
+  - Elaboration and distinctiveness as within-depth modifiers
+  - Transfer-appropriate processing as a complementary account
+  - Self-reference effect as a maximal depth phenomenon
+  - Incidental vs. intentional learning distinction
 key-distinctions:
-  - "Depth of processing vs. amount of processing (time/effort)"
-  - "Elaboration (richness) vs. distinctiveness (uniqueness) as separate encoding dimensions"
-  - "Levels of processing vs. transfer-appropriate processing as accounts of retention"
-  - "Memory trace durability vs. strength — trace quality not just quantity"
-  - "Shallow phonemic encoding vs. deep semantic encoding"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Depth of processing vs. amount of processing (time/effort)
+  - Elaboration (richness) vs. distinctiveness (uniqueness) as separate encoding dimensions
+  - Levels of processing vs. transfer-appropriate processing as accounts of retention
+  - Memory trace durability vs. strength — trace quality not just quantity
+  - Shallow phonemic encoding vs. deep semantic encoding
 prerequisites:
   - "[[Working-Memory|Working Memory]]"
   - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Encoding and Retrieval Basics]]"
-
 related:
   - "[[Schema-Theory|Schema Theory]]"
   - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
@@ -137,89 +96,69 @@ related:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
-
 broader:
   - "[[Memory-Systems|Memory Systems]]"
   - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
-
 narrower:
   - "[[Self-Reference Effect in Memory]]"
   - "[[Elaborative Encoding Strategies]]"
   - "[[Orienting Tasks Paradigm]]"
   - "[[Semantic Processing]]"
-
 see-also:
   - "[[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]"
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
   - "[[Generation-Effect|Generation Effect]]"
   - "[[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]"
-
 contrasts-with:
   - "[[Atkinson-Shiffrin Multi-Store Model]]"
   - "[[Trace Decay Theory]]"
-
 applied-in:
   - "[[Study Strategy Design]]"
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Curriculum Development]]"
   - "[[Formative Assessment Design]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Working-Memory|Working Memory]]"
   - "[[Atkinson-Shiffrin Multi-Store Model]]"
   - "[[Schema-Theory|Schema Theory]]"
-
 enables:
   - "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
   - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
   - "[[Elaborative Interrogation as Study Strategy]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Desirable Difficulties in Learning]]"
-
 expansion-topics:
   - topic: "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
     description: "The Morris, Bransford & Franks (1977) framework that reframes LOP's claims: retention depends on the match between encoding and retrieval operations, not depth per se. Essential for understanding why surface-level processing can sometimes outperform deep processing on rhyme-based retrieval tasks."
     priority: high
   - topic: "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
-    description: "Tulving & Thomson's (1973) principle that memory is best when retrieval conditions reinstate encoding conditions. Closely related to TAP; understanding both frameworks together provides a comprehensive picture of encoding-retrieval interactions."
+    description: Tulving & Thomson's (1973) principle that memory is best when retrieval conditions reinstate encoding conditions. Closely related to TAP; understanding both frameworks together provides a comprehensive picture of encoding-retrieval interactions.
     priority: high
   - topic: "[[Elaborative Interrogation as Study Strategy]]"
-    description: "The applied translation of LOP into a specific study technique — generating 'why' and 'how' explanations for facts. Dunlosky et al.'s (2013) learning strategies review rates this as high utility, making it a critical bridge from LOP theory to educational practice."
+    description: The applied translation of LOP into a specific study technique — generating 'why' and 'how' explanations for facts. Dunlosky et al.'s (2013) learning strategies review rates this as high utility, making it a critical bridge from LOP theory to educational practice.
     priority: high
   - topic: "[[Self-Reference Effect in Memory]]"
-    description: "Rogers et al.'s (1977) discovery that self-referential encoding produces superior recall, with subsequent cross-cultural and neuroscientific investigations (e.g., fMRI studies showing medial prefrontal cortex activation). A node specifically addressing self-referencing as a classroom and self-study tool."
+    description: Rogers et al.'s (1977) discovery that self-referential encoding produces superior recall, with subsequent cross-cultural and neuroscientific investigations (e.g., fMRI studies showing medial prefrontal cortex activation). A node specifically addressing self-referencing as a classroom and self-study tool.
     priority: medium
   - topic: "[[Retrieval Practice and Processing Depth]]"
     description: "The intersection of retrieval practice (testing effect) with LOP: does retrieval constitute a form of deep reprocessing? Roediger & Karpicke's (2006) work is directly relevant, and integrating these two frameworks yields important instructional design implications."
     priority: high
   - topic: "[[Desirable Difficulties in Learning]]"
-    description: "Bjork's (1994) framework proposing that encoding conditions that slow acquisition (e.g., interleaving, spacing, generation) often promote deeper processing and long-term retention, directly inheriting from and extending LOP principles."
+    description: Bjork's (1994) framework proposing that encoding conditions that slow acquisition (e.g., interleaving, spacing, generation) often promote deeper processing and long-term retention, directly inheriting from and extending LOP principles.
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Hyde & Jenkins (1973) — orienting task studies showing semantic superiority"
-  - "Craik & Tulving (1975) — elaboration studies with yes/no encoding questions"
-  - "Morris, Bransford & Franks (1977) — TAP demonstration with rhyme retrieval"
-  - "Rogers, Kuiper & Kirker (1977) — self-reference effect"
-  - "Lockhart & Craik (1990) — retrospective review and reformulation"
-
+  - Hyde & Jenkins (1973) — orienting task studies showing semantic superiority
+  - Craik & Tulving (1975) — elaboration studies with yes/no encoding questions
+  - Morris, Bransford & Franks (1977) — TAP demonstration with rhyme retrieval
+  - Rogers, Kuiper & Kirker (1977) — self-reference effect
+  - Lockhart & Craik (1990) — retrospective review and reformulation
 limitations-noted:
-  - "Circularity in operational definition of processing depth"
-  - "Transfer-appropriate processing challenges universality of depth advantage"
-  - "Mechanistic account of 'depth' remains theoretically underspecified"
-  - "Individual differences in what constitutes semantically rich encoding inadequately addressed"
-  - "Primarily studied with verbal materials; generalization to other modalities less clear"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - Circularity in operational definition of processing depth
+  - Transfer-appropriate processing challenges universality of depth advantage
+  - Mechanistic account of 'depth' remains theoretically underspecified
+  - Individual differences in what constitutes semantically rich encoding inadequately addressed
+  - Primarily studied with verbal materials; generalization to other modalities less clear
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -228,24 +167,15 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 22
   wiki-links: 38
   reflective-questions: 14
   active-reading-prompts: 6
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: high
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
 generation-date: 2026-03-13
@@ -375,7 +305,7 @@ The [[Self-Reference-Effect|Self-Reference Effect]] has been replicated extensiv
 Together, LOP, TAP, and the [[Encoding-Specificity-Principle|Encoding Specificity Principle]] form a family of related accounts that converge on a common insight: memory is a constructive, context-dependent process. The durability of a memory is not a fixed property of the trace at encoding; it is a function of the relationship between what was encoded and what the retrieval environment provides. LOP identifies encoding quality (depth) as a primary determinant of trace durability under neutral retrieval conditions. TAP qualifies this by showing that the relevant encoding quality depends on what retrieval will demand. The [[Encoding-Specificity-Principle|Encoding Specificity Principle]] adds that contextual cues encoded alongside the target also form part of the trace, enabling or hindering retrieval depending on their reinstatement.
 
 > [!insight] **A Convergent Picture**
-> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
+> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
 
 > [!ask-yourself-this] **Mapping Your Position**
 > As you encounter the tension between LOP and TAP, notice whether you feel the pull toward one framework over the other. Students of educational psychology often gravitate toward LOP because of its clean pedagogical implications; researchers in cognitive psychology often favor TAP because of its greater theoretical precision. What would you lose by adopting only one framework? What does holding both in tension require of you intellectually?

@@ -32,7 +32,7 @@ date modified: Monday, September 29th 2025, 12:30:44 am
 [^16]: [[ref_gemini-prompt_guide-to-creating-smart-notes_2025-09-23]]
 [^17]: [[Document Your Searches during Research]]
 [^18]: [[ref_gemini-prompt_guide-to-obsidian-plug-in-quickadd_2025-09-24]]
-[^19]: [[00 Inbox/00_File/REF_Gemini-Deep-Research_Obsidian-Knowledge-Research-Guide_2025-09-12]]
+[^19]: [[ref_gemini-deep-research_obsidian-knowledge-research-guide_2025-09-12]]
 
 > [!the-purpose]
 > This is a complete workflow for building out a AI integrated workflow in your Obsidian [[PKB]]. Its from an article that Gemini generated for using a custom prompt. Both of which have been left at the bottom of this section for reference.

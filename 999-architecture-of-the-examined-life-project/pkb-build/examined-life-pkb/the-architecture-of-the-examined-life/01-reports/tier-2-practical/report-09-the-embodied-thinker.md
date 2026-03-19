@@ -1,15 +1,12 @@
 ---
-# CORE IDENTITY
 title: "The Embodied Thinker: Physiological Foundations of the Examined Life"
 aliases:
-  - "Report 09 — The Embodied Thinker"
-  - "Physiological Foundations of the Examined Life"
-  - "Embodied Cognition and the Examined Life"
+  - Report 09 — The Embodied Thinker
+  - Physiological Foundations of the Examined Life
+  - Embodied Cognition and the Examined Life
 type: permanent-note
 status: evergreen
 confidence: high
-
-# CLASSIFICATION
 tags:
   - synthesis-report
   - tier-2-practical-architecture
@@ -29,141 +26,118 @@ subdomains:
   - Stoic Philosophy
   - Decision Neuroscience
   - Interoceptive Science
-
-# TEMPORAL
 created: 2026-02-28
 updated: 2026-02-28
-
-# ACADEMIC METADATA
 source-type: academic-synthesis
 research-base: empirical-studies
 evidence-quality: high
-series: "The Architecture of the Examined Life"
+series: The Architecture of the Examined Life
 series-report-number: "09"
 tier: "2"
-tier-name: "Practical Architecture"
-
+tier-name: Practical Architecture
 synthesis-moves-applied:
   - Structural Homology (Damasio's somatic markers ↔ Stoic propatheiai)
   - Mechanistic Integration (interoceptive inference explains somatic marker mechanism)
   - Retroactive Enrichment (Cognitive Load Theory, System 1 governance, and Tier 1 broadly gain physiological dimension)
   - Conceptual Tension Resolution (embodiment vs. deliberate cognition — resolved through substrate/signal distinction)
   - Emergent Concept Generation (physiological metacognition as epistemic practice)
-
 frameworks-synthesized:
   - Embodied and Extended Cognition (Clark & Chalmers, Varela Thompson & Rosch, Shapiro)
   - Interoceptive Inference (Anil Seth, Karl Friston)
   - Somatic Marker Hypothesis (Antonio Damasio)
   - Allostasis and Allostatic Load (Sterling, McEwen)
   - Stoic Propatheiai (Seneca, Epictetus)
-
 key-researchers:
-  - "Antonio Damasio — somatic marker hypothesis, VMPFC research, decision neuroscience"
-  - "Anil Seth — interoceptive inference, predictive processing of bodily states"
-  - "Andy Clark — extended mind thesis, embodied and predictive cognition"
-  - "Francisco Varela and Evan Thompson — enactivism, The Embodied Mind"
-  - "Bruce McEwen — allostatic load, stress and hippocampal vulnerability"
-  - "Peter Sterling — allostasis, predictive physiological regulation"
-  - "Seneca — Stoic theory of propatheiai as pre-emotional bodily responses"
-
-# CONTENT CHARACTERISTICS
-word-count: "~10,500"
+  - Antonio Damasio — somatic marker hypothesis, VMPFC research, decision neuroscience
+  - Anil Seth — interoceptive inference, predictive processing of bodily states
+  - Andy Clark — extended mind thesis, embodied and predictive cognition
+  - Francisco Varela and Evan Thompson — enactivism, The Embodied Mind
+  - Bruce McEwen — allostatic load, stress and hippocampal vulnerability
+  - Peter Sterling — allostasis, predictive physiological regulation
+  - Seneca — Stoic theory of propatheiai as pre-emotional bodily responses
+word-count: ~10,500
 complexity-level: advanced-practitioner
 depth-level: comprehensive
 treatment-type: synthesis-focused
-
-# CORE CONCEPTS & SYNTHESIS
-central-synthesis-argument: "The body is not merely the vehicle for a disembodied reasoning mind but a constitutive component of the cognitive architecture itself — meaning that physiological state management (sleep, stress regulation, interoceptive awareness) is not a lifestyle practice adjacent to intellectual development but a prerequisite for the epistemic operations described across Tier 1."
-emergent-insight: "Physiological metacognition — the capacity to monitor and regulate one's bodily states as a form of cognitive self-management, extending the metacognitive self-regulation of Tier 1 into the physiological domain."
+central-synthesis-argument: The body is not merely the vehicle for a disembodied reasoning mind but a constitutive component of the cognitive architecture itself — meaning that physiological state management (sleep, stress regulation, interoceptive awareness) is not a lifestyle practice adjacent to intellectual development but a prerequisite for the epistemic operations described across Tier 1.
+emergent-insight: Physiological metacognition — the capacity to monitor and regulate one's bodily states as a form of cognitive self-management, extending the metacognitive self-regulation of Tier 1 into the physiological domain.
 core-tensions:
   - "Does embodiment undermine the case for deliberate System 2 thinking? (Resolved: embodiment provides the substrate and signal channel through which System 2 operates, not a competing alternative to it)"
   - "Are somatic markers reliable epistemic guides or sources of bias? (Resolved: somatic markers are calibratable signals, not noise — the goal is calibration, not suppression)"
-  - "Does the extended mind thesis commit cognitive bloat, or does it identify genuine cognitive constitution? (Engaged honestly with the constitution-vs-causation debate)"
-
-# RELATIONSHIPS
+  - Does the extended mind thesis commit cognitive bloat, or does it identify genuine cognitive constitution? (Engaged honestly with the constitution-vs-causation debate)
 series-connections:
   builds-from:
-    - "Report 01 — Inquiry activation has physiological resource requirements; 'felt difficulty' is partly somatic"
-    - "Report 03 — Motivational energy has a physiological substrate; intrinsic motivation depends on autonomic state"
-    - "Report 04 — Cognitive Load Theory gains an embodied substrate; load is physiologically mediated"
-    - "Report 06 — System 1 governance gains an embodied mechanism; some 'intuitive' processing is interoceptive signaling"
+    - Report 01 — Inquiry activation has physiological resource requirements; 'felt difficulty' is partly somatic
+    - Report 03 — Motivational energy has a physiological substrate; intrinsic motivation depends on autonomic state
+    - Report 04 — Cognitive Load Theory gains an embodied substrate; load is physiologically mediated
+    - Report 06 — System 1 governance gains an embodied mechanism; some 'intuitive' processing is interoceptive signaling
   enables:
-    - "Report 10 — Emotions as embodied cognition; this report establishes the physiological substrate for emotional processing"
-    - "Report 13 — Interoceptive inference as predictive processing; the bridge between embodiment and PP is laid here"
-    - "Report 15 — Full integration requires the embodied dimension established in this report"
+    - Report 10 — Emotions as embodied cognition; this report establishes the physiological substrate for emotional processing
+    - Report 13 — Interoceptive inference as predictive processing; the bridge between embodiment and PP is laid here
+    - Report 15 — Full integration requires the embodied dimension established in this report
   retroactively-enriches:
-    - "Report 01 — Dewey's 'felt difficulty' and Socratic aporia are partly somatic events, not purely cognitive"
-    - "Report 04 — Cognitive load is physiologically mediated, not merely informational"
-    - "Report 06 — Debiasing framework shifts from purely cognitive suppression to include physiological regulation of System 1"
-    - "Report 07 — Self-directed learning requires management of the extended cognitive ecology, not just internal processes"
-
+    - Report 01 — Dewey's 'felt difficulty' and Socratic aporia are partly somatic events, not purely cognitive
+    - Report 04 — Cognitive load is physiologically mediated, not merely informational
+    - Report 06 — Debiasing framework shifts from purely cognitive suppression to include physiological regulation of System 1
+    - Report 07 — Self-directed learning requires management of the extended cognitive ecology, not just internal processes
 prerequisites:
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Metacognitive Self-Regulation]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Dewey's Reflective Thinking]]"
   - "[[Stoic Virtue Ethics]]"
-
 related:
   - "[[Predictive-Processing|Predictive Processing]]"
   - "[[Active-Inference|Active Inference]]"
   - "[[Emotional Intelligence]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Stress and Cognition]]"
-
 broader:
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Cognitive Neuroscience]]"
   - "[[Phenomenology]]"
   - "[[Psychophysiology]]"
-
-# LEARNING PATHWAYS
 expansion-topics:
   - topic: "[[Polyvagal Theory — Critical Engagement]]"
-    description: "Deep examination of Porges' three-circuit autonomic model, the evidence for and against specific polyvagal claims, and what practitioners can appropriately take from the framework despite ongoing empirical debates."
+    description: Deep examination of Porges' three-circuit autonomic model, the evidence for and against specific polyvagal claims, and what practitioners can appropriately take from the framework despite ongoing empirical debates.
     priority: high
   - topic: "[[Sleep Science and Cognitive Performance]]"
-    description: "Comprehensive review of how sleep stages (NREM, REM) serve distinct cognitive consolidation functions and what sleep deprivation does specifically to each of the epistemic capacities described in Tier 1."
+    description: Comprehensive review of how sleep stages (NREM, REM) serve distinct cognitive consolidation functions and what sleep deprivation does specifically to each of the epistemic capacities described in Tier 1.
     priority: critical
   - topic: "[[Interoceptive Training Protocols]]"
-    description: "Evidence-based approaches to developing interoceptive sensitivity — mindfulness-based interoceptive training, heartbeat detection tasks, body scan practices — and their effects on emotional granularity and decision quality."
+    description: Evidence-based approaches to developing interoceptive sensitivity — mindfulness-based interoceptive training, heartbeat detection tasks, body scan practices — and their effects on emotional granularity and decision quality.
     priority: high
   - topic: "[[The Extended Cognitive Ecology — PKB Design]]"
-    description: "Clark's extended mind thesis applied to personal knowledge management — how notebook systems, PKBs, and cognitive tools are not aids to thinking but parts of the cognitive system, with design implications."
+    description: Clark's extended mind thesis applied to personal knowledge management — how notebook systems, PKBs, and cognitive tools are not aids to thinking but parts of the cognitive system, with design implications.
     priority: high
   - topic: "[[Exercise Neuroscience and Intellectual Performance]]"
-    description: "BDNF, hippocampal neurogenesis, aerobic exercise and prefrontal function — the evidence for movement as a cognitive enhancement practice rather than merely a health practice."
+    description: BDNF, hippocampal neurogenesis, aerobic exercise and prefrontal function — the evidence for movement as a cognitive enhancement practice rather than merely a health practice.
     priority: medium
   - topic: "[[Allostatic Load Measurement and Monitoring]]"
-    description: "Biomarker panels for allostatic load assessment, wearable monitoring approaches, and practical frameworks for tracking physiological regulatory capacity as a cognitive variable."
+    description: Biomarker panels for allostatic load assessment, wearable monitoring approaches, and practical frameworks for tracking physiological regulatory capacity as a cognitive variable.
     priority: medium
-
-# QUALITY INDICATORS
 empirical-support:
-  - "Meta-analysis of allostatic load and cognition (Stawski et al., 2021 — r ≈ -0.07 to -0.08 for global cognition)"
-  - "Sleep deprivation and working memory (Killgore, 2010; multiple replications)"
-  - "Interoceptive inference computational model (Seth, 2013; Seth & Friston, 2016)"
-  - "Somatic marker hypothesis — Iowa Gambling Task (Damasio et al., 1991; Bechara et al., 1994)"
-  - "VMPFC lesion studies and decision-making (Damasio, 1994 — Phineas Gage and patients)"
-  - "Cortisol and hippocampal volume (McEwen, 2007; Lupien et al., 2009)"
-  - "Exercise and BDNF/hippocampal neurogenesis (Cotman & Berchtold, 2002)"
-
+  - Meta-analysis of allostatic load and cognition (Stawski et al., 2021 — r ≈ -0.07 to -0.08 for global cognition)
+  - Sleep deprivation and working memory (Killgore, 2010; multiple replications)
+  - Interoceptive inference computational model (Seth, 2013; Seth & Friston, 2016)
+  - Somatic marker hypothesis — Iowa Gambling Task (Damasio et al., 1991; Bechara et al., 1994)
+  - VMPFC lesion studies and decision-making (Damasio, 1994 — Phineas Gage and patients)
+  - Cortisol and hippocampal volume (McEwen, 2007; Lupien et al., 2009)
+  - Exercise and BDNF/hippocampal neurogenesis (Cotman & Berchtold, 2002)
 limitations-noted:
-  - "Somatic marker hypothesis has contested empirical standing — Rolls' alternative interpretation; mixed findings across labs"
-  - "Polyvagal Theory treated with explicit critical caveats — specific vagal tone claims disputed"
-  - "Effect sizes for allostatic load–cognition associations are real but modest (r ≈ 0.07–0.08)"
-  - "Extended mind thesis constitution-vs-causation debate remains philosophically unresolved"
-  - "Individual variation in physiological-cognitive relationships is substantial"
-  - "Emergent concept of physiological metacognition is theoretically grounded but awaits systematic empirical validation as an integrated construct"
-
-# DOCUMENT STRUCTURE
+  - Somatic marker hypothesis has contested empirical standing — Rolls' alternative interpretation; mixed findings across labs
+  - Polyvagal Theory treated with explicit critical caveats — specific vagal tone claims disputed
+  - Effect sizes for allostatic load–cognition associations are real but modest (r ≈ 0.07–0.08)
+  - Extended mind thesis constitution-vs-causation debate remains philosophically unresolved
+  - Individual variation in physiological-cognitive relationships is substantial
+  - Emergent concept of physiological metacognition is theoretically grounded but awaits systematic empirical validation as an integrated construct
 sections:
   - "Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine"
   - "Phase II — The Exposition: Five Frameworks, One Body"
   - "Phase III — The Dialectic: Integration, Tensions, Homologies"
   - "Phase IV — The Application: Physiological Metacognition in Practice"
   - "Phase V — The Synthesis: Emergent Insights, Implications, Limitations"
-  - "Phase VI — Appendix and Lexicon"
+  - Phase VI — Appendix and Lexicon
 ---
 
 # The Embodied Thinker: Physiological Foundations of the Examined Life

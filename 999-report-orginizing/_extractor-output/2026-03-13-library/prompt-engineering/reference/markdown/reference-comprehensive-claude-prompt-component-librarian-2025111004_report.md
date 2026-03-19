@@ -165,7 +165,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> This reference document defines a comprehensive system for leveraging [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] [[Personal-Knowledge-Base|Personal Knowledge Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
+> This reference document defines a comprehensive system for leveraging [[CLAUDE|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal-Knowledge-Base|Personal Knowledge Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 56)*
 
@@ -177,7 +177,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **Key-Term**: [[Prompt Component Librarian]]
-> - **Definition**: A systematic role where an AI assistant (specifically [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base|Personal Knowledge Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
+> - **Definition**: A systematic role where an AI assistant (specifically [[CLAUDE]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base|Personal Knowledge Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
 
 #### 5. [KEY-CLAIM] Untitled *(Line 88)*
 
@@ -540,8 +540,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[Obsidian]]
+- [[CLAUDE]]
 - [[Advanced Patterns]]
 - [[Advanced Prompt Engineering Techniques]]
 - [[Bayesian Statistics]]
@@ -642,19 +642,19 @@ extraction_summary:
 | 2 | [[Claude Desktop PKB Integration]] | — | — | 📚Claude as Prompt Component Librarian... | 41 |
 | 3 | [[Modular Prompt Engineering System]] | — | — | 📚Claude as Prompt Component Librarian... | 42 |
 | 4 | [[Prompt Librarian Methodology]] | — | — | 📚Claude as Prompt Component Librarian... | 43 |
-| 5 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | Claude Desktop | — | 📚Claude as Prompt Component Librarian... | 54 |
-| 6 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 📚Claude as Prompt Component Librarian... | 54 |
+| 5 | [[CLAUDE]] | Claude Desktop | — | 📚Claude as Prompt Component Librarian... | 54 |
+| 6 | [[Obsidian]] | — | — | 📚Claude as Prompt Component Librarian... | 54 |
 | 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📚Claude as Prompt Component Librarian... | 54 |
 | 8 | [[wiki-links]] | — | — | 📚Claude as Prompt Component Librarian... | 58 |
 | 9 | [[Prompt Component Librarian]] | — | — | 1. 🎯 Conceptual Foundation | 77 |
-| 10 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | — | — | 1. 🎯 Conceptual Foundation | 78 |
+| 10 | [[CLAUDE]] | — | — | 1. 🎯 Conceptual Foundation | 78 |
 | 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1. 🎯 Conceptual Foundation | 78 |
 | 12 | [[Prompt Engineering]] | — | — | The Evolution from Ad-Hoc Prompting t... | 82 |
 | 13 | [[Knowledge Graph]] | — | — | The Evolution from Ad-Hoc Prompting t... | 84 |
 | 14 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
 | 15 | [[Obsidian vault]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
 | 16 | [[Zettelkasten]] | — | — | The Evolution from Ad-Hoc Prompting t... | 86 |
-| 17 | [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]] | Claude Desktop | — | Why Claude Desktop as Librarian? | 94 |
+| 17 | [[CLAUDE]] | Claude Desktop | — | Why Claude Desktop as Librarian? | 94 |
 | 18 | [[Model-Context-Protocol|Model Context Protocol]] | — | — | Why Claude Desktop as Librarian? | 94 |
 | 19 | [[Obsidian vault]] | — | — | Why Claude Desktop as Librarian? | 94 |
 | 20 | [[Knowledge Graph]] | — | — | Why Claude Desktop as Librarian? | 94 |
@@ -1003,8 +1003,8 @@ EXPECTED INSIGHT: This should reveal organizational principles, versioning strat
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-copilot/_documentation/CLAUDE]]
+- [[Obsidian]]
+- [[CLAUDE]]
 - [[Advanced Patterns]]
 - [[Advanced Prompt Engineering Techniques]]
 - [[Bayesian Statistics]]

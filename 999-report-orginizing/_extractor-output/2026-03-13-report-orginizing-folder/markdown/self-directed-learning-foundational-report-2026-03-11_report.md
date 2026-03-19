@@ -184,7 +184,7 @@ extraction_summary:
 #### 10. [INSIGHT] SDL and Self-Regulated Learning: A Critical Distinction *(Line 349)*
 
 > [!insight] SDL and Self-Regulated Learning: A Critical Distinction
-> Garrison's three-component model sits at the intersection of the SDL tradition and the [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) literature developed by [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
+> Garrison's three-component model sits at the intersection of the SDL tradition and the [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL) literature developed by [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
 
 #### 11. [ASK-YOURSELF-THIS] Anticipating Tensions *(Line 356)*
 
@@ -271,7 +271,7 @@ extraction_summary:
 > 
 > - **[[Metacognition & Lifelong Learning]]** — SDL's self-monitoring component is an enactment of metacognitive processes in the context of learner-organised learning. This node provides the cognitive architecture — monitoring, evaluation, and regulation — that SDL's Garrison model treats as one of its three necessary components. Together, the two nodes map the relationship between *how* metacognition works and *when* it becomes the learner's own responsibility to activate.
 > 
-> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
+> - **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — SDL theory implies specific properties of effective feedback: it should be informational rather than evaluative, and it should support the learner's capacity for self-monitoring rather than substituting for it. The feedback design node operationalises these implications in concrete instructional terms.
 > 
@@ -400,7 +400,7 @@ extraction_summary:
 #### 48. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 565)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+> > [!topic-idea] [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 > > A dedicated Foundational Report on Self-Regulated Learning would treat the rich empirical literature on how learners regulate their cognitive processes *within* learning episodes — complementing SDL's focus on who controls the broader learning process. Coverage would include Zimmerman's cyclical model of SRL (forethought, performance, self-reflection), Pintrich's framework distinguishing cognitive, metacognitive, motivational, and behavioural regulation, and the extensive empirical literature on strategy instruction, goal setting, and feedback. This is the highest-priority expansion topic in the learner autonomy cluster because it provides the cognitive microfoundation that SDL's macro-level account requires. **Priority: High**
 > 
 > > [!topic-idea] [[Heutagogy]]
@@ -458,7 +458,7 @@ extraction_summary:
 - [[Roger Brockett]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stephen Brookfield]]
 - [[Stewart Hase]]
 - [[Transformative Learning]]
@@ -561,7 +561,7 @@ extraction_summary:
 - [[Roger Brockett]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Directed-Learning|Self-Directed Learning]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Stephen Brookfield]]
 - [[Stewart Hase]]
 - [[Transformative Learning]]
@@ -575,7 +575,7 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -625,7 +625,7 @@ extraction_summary:
 
 #### Enables
 
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Heutagogy]]
 - [[Personal Learning Environments]]
 - [[Inquiry-Based Learning Design & Evidence]]

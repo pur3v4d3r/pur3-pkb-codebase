@@ -19,8 +19,8 @@ date modified: Monday, September 29th 2025, 3:15:17 am
 #### Sources:
 
 [^1]: [[2025-09-28]]
-[^2]: [[00 Inbox/00_File/REF_Gemini-Deep-Research_Obsidian-Knowledge-Research-Guide_2025-09-12]]
-[^3]: [[99-archive/2025-09-09_beyond-the-search-bar/01_ai-articles/00_inbox/ref_chatgpt_research_learning-to-conduct-research-for-pkm_2025-09-12]]
+[^2]: [[ref_gemini-deep-research_obsidian-knowledge-research-guide_2025-09-12]]
+[^3]: [[ref_chatgpt_research_learning-to-conduct-research-for-pkm_2025-09-12]]
 [^4]: [[REF_Gemini-Chat_Response-to-Note_Researching Material for use in Vault_2025-09-12]]
 [^5]: [[Note-Taking for Different Subjects and Contexts]]
 [^6]: [[ref_gemini-dr_directory-opus-guide_2025-09-11]]

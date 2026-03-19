@@ -485,8 +485,8 @@ extraction_summary:
 - [[{{DATE:YYYY-MM-DD}}_daily-note]]
 - [[{{LINKCURRENT}}]]
 - [[{{VALUE:projectFolder}}]]
-- [[{{VALUE:projectFolder}}meeting-notes/]]
-- [[{{VALUE:projectFolder}}outputs/]]
+- [[.md]]
+- [[.md]]
 
 ### All Occurrences
 
@@ -505,8 +505,8 @@ extraction_summary:
 | 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔧 Five Production-Ready Macro Examples | 311 |
 | 12 | [[{{DATE:YYYY-MM-DD}}_daily-note]] | — | — | Macro 1: 📥 Rapid Thought Capture to I... | 366 |
 | 13 | [[{{VALUE:projectFolder}}]] | — | — | 📁 Project Resources | 641 |
-| 14 | [[{{VALUE:projectFolder}}meeting-notes/]] | — | — | 📁 Project Resources | 642 |
-| 15 | [[{{VALUE:projectFolder}}outputs/]] | — | — | 📁 Project Resources | 643 |
+| 14 | [[.md]] | — | — | 📁 Project Resources | 642 |
+| 15 | [[.md]] | — | — | 📁 Project Resources | 643 |
 | 16 | [[Wiki-Link]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 710 |
 | 17 | [[${currentFile.basename}]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 746 |
 | 18 | [[${f.basename}]] | — | — | Macro 4: 🧩 Atomic Note Creation with ... | 753 |
@@ -857,8 +857,8 @@ target-date:
 ## 📁 Project Resources
 
 - **Folder**: `[[{{VALUE:projectFolder}}]]`
-- **Meeting Notes**: `[[{{VALUE:projectFolder}}meeting-notes/]]`
-- **Outputs**: `[[{{VALUE:projectFolder}}outputs/]]`
+- **Meeting Notes**: `[[.md]]`
+- **Outputs**: `[[.md]]`
 
 ## 🔗 Related Notes
 
@@ -1652,8 +1652,8 @@ graph TD
 - [[{{DATE:YYYY-MM-DD}}_daily-note]]
 - [[{{LINKCURRENT}}]]
 - [[{{VALUE:projectFolder}}]]
-- [[{{VALUE:projectFolder}}meeting-notes/]]
-- [[{{VALUE:projectFolder}}outputs/]]
+- [[.md]]
+- [[.md]]
 
 ---
 

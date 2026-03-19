@@ -527,7 +527,7 @@ extraction_summary:
 #### 61. [METHODOLOGY-AND-SOURCES] Research Grounding for This Report *(Line 548)*
 
 > [!methodology-and-sources] Research Grounding for This Report
-> This report draws on four primary research traditions: (1) the [[Cognitive-Load-Theory|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
+> This report draws on four primary research traditions: (1) the [[Cognitive-Load-Theory|Cognitive Load Theory]] expertise reversal literature, which is empirically well-established with multiple independent replications across domains (Kalyuga et al., Renkl & Atkinson, Reisslein et al.); (2) the andragogy literature (Knowles), which is theoretically influential but empirically mixed, as Merriam's review documents — claims from this tradition are held with appropriate qualification; (3) the [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]], which is a phenomenological account rather than an experimental finding, and is treated here as a useful organizing heuristic rather than a precise cognitive process model; and (4) [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] research (Zimmerman), which is empirically well-grounded.
 > 
 > Several claims in Phase VI's synthesis — specifically the [[PKB-Maturity-Architecture|PKB Maturity Architecture]] concept and the [[Scaffolding-Archaeology|Scaffolding Archaeology]] problem — are Claude's original cross-domain synthesis contributions, explicitly flagged as such. They are informed by the research traditions above but not independently validated in the PKM literature, which has not addressed these precise design challenges. Practitioners should treat these as reasoned design hypotheses warranting personal empirical testing rather than established findings.
 
@@ -607,7 +607,7 @@ extraction_summary:
 - [[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]
 - [[Schema]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Expertise Reversal Effect Across Knowledge Domains: What Counts as "Expertise" in a PKB?]]
 - [[The Temporal Dynamics of Scaffolding Fading: Evidence from Longitudinal Self-Study]]
@@ -725,7 +725,7 @@ extraction_summary:
 - [[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]
 - [[Schema]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Expertise Reversal Effect Across Knowledge Domains: What Counts as "Expertise" in a PKB?]]
 - [[The Temporal Dynamics of Scaffolding Fading: Evidence from Longitudinal Self-Study]]

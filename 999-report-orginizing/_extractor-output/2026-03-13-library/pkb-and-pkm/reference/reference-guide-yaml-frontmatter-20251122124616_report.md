@@ -104,7 +104,7 @@ extraction_summary:
 #### 1. [DEFINITION] What is Frontmatter? *(Line 33)*
 
 > [!definition] What is Frontmatter?
-> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] workflows.
+> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge Management]] workflows.
 
 ---
 
@@ -116,8 +116,8 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Knowledge Management]]
+- [[Obsidian]]
 - [[Breadcrumbs]]
 - [[Dataview]]
 - [[ISO 8601]]
@@ -145,9 +145,9 @@ extraction_summary:
 | 2 | [[YAML]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
 | 3 | [[Markdown]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
 | 4 | [[PKB]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 5 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
+| 5 | [[Obsidian]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
 | 6 | [[Dataview]] | — | — | [[YAML Frontmatter]]: A Reference for... | 31 |
-| 7 | [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] | — | — | [[YAML Frontmatter]]: A Reference for... | 34 |
+| 7 | [[Knowledge Management]] | — | — | [[YAML Frontmatter]]: A Reference for... | 34 |
 | 8 | [[filename]] | — | — | 📇 Core Metadata Keys | 45 |
 | 9 | [[Zettelkasten]] | — | — | 📇 Core Metadata Keys | 46 |
 | 10 | [[ISO 8601]] | — | — | 📇 Core Metadata Keys | 47 |
@@ -287,8 +287,8 @@ link-related: []
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Knowledge Management]]
+- [[Obsidian]]
 - [[Breadcrumbs]]
 - [[Dataview]]
 - [[ISO 8601]]

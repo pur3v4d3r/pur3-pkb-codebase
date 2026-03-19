@@ -298,8 +298,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Networked Thought]]
+- [[Obsidian]]
 - [[Adult Learner Motivation]]
 - [[Adult Learning Theory]]
 - [[Andragogy]]
@@ -378,7 +378,7 @@ extraction_summary:
 | 32 | [[Flow Theory]] | — | — | Flow Theory: The Psychology of Optima... | 121 |
 | 33 | [[Hermann Ebbinghaus]] | — | — | The Forgetting Curve and Its Implicat... | 147 |
 | 34 | [[Zettelkasten]] | — | — | The Forgetting Curve and Its Implicat... | 154 |
-| 35 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | The Forgetting Curve and Its Implicat... | 154 |
+| 35 | [[Networked Thought]] | — | — | The Forgetting Curve and Its Implicat... | 154 |
 | 36 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | The Forgetting Curve and Its Implicat... | 156 |
 | 37 | [[Anki]] | — | — | The Forgetting Curve and Its Implicat... | 156 |
 | 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and System Comp... | 167 |
@@ -386,7 +386,7 @@ extraction_summary:
 | 40 | [[Progressive Enhancement]] | — | — | Principle Seven: Embrace Progressive ... | 258 |
 | 41 | [[David Allen]] | — | — | The Capture-Develop-Review Cycle | 268 |
 | 42 | [[Getting Things Done]] | — | — | The Capture-Develop-Review Cycle | 268 |
-| 43 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | Social Practices: Learning From Commu... | 288 |
+| 43 | [[Obsidian]] | — | — | Social Practices: Learning From Commu... | 288 |
 | 44 | [[Roam Research]] | — | — | Social Practices: Learning From Commu... | 288 |
 | 45 | [[Logseq]] | — | — | Social Practices: Learning From Commu... | 288 |
 | 46 | [[Cognitive Load Theory in Educational Design]] | — | — | 🔗 Related Topics for PKB Expansion | 358 |
@@ -485,8 +485,8 @@ I'll conduct comprehensive research on the psychological foundations of PKB desi
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Networked Thought]]
+- [[Obsidian]]
 - [[Adult Learner Motivation]]
 - [[Adult Learning Theory]]
 - [[Andragogy]]

@@ -1,41 +1,21 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Cybernetics"
+title: Cybernetics
 aliases:
-  - "Cybernetics"
+  - Cybernetics
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - other
-
 domain: other
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-18
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 11
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Calibration-Prosthetic]]"
   - "[[Complex-Adaptive-System]]"
@@ -46,11 +26,7 @@ see-also:
   - "[[Negative-Feedback-Loop]]"
   - "[[Positive-Feedback-Loop]]"
   - "[[Reflective-Practitioner]]"
-  - "[[Self-Regulated-Learning-—-SRL]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]"
 review-frequency: quarterly
 mastery-stage: seedling
 importance: medium
@@ -74,5 +50,5 @@ importance: medium
 - [[Negative-Feedback-Loop]]
 - [[Positive-Feedback-Loop]]
 - [[Reflective-Practitioner]]
-- [[Self-Regulated-Learning-—-SRL]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning]]
 - [[The-Learning-Metabolism-Framework]]

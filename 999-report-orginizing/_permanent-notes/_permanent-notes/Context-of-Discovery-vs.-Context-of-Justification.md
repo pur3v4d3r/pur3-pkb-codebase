@@ -98,7 +98,7 @@ importance: high
 # Context of Discovery vs. Context of Justification
 
 > [!definition] **Context of Discovery vs. Context of Justification**
-> A foundational distinction in [[Philosophy of Science|philosophy of science]], associated with [[Hans Reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[Inference to the Best Explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
+> A foundational distinction in [[Philosophy of Science|philosophy of science]], associated with [[Hans Reichenbach]] (1938), between the *context of discovery* (the psychological and heuristic process by which hypotheses are generated) and the *context of justification* (the logical process by which hypotheses are tested and confirmed or disconfirmed). Peirce's abduction belongs primarily to the context of discovery, though [[Inference-to-the-Best-Explanation]] attempts to give it a role in the context of justification as well. The distinction matters pedagogically: abductive reasoning instruction concerns different cognitive skills than hypothesis-testing instruction, and conflating the two leads to curricular design errors.
 
 ## Core Explanation
 

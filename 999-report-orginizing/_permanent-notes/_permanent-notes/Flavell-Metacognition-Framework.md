@@ -1,41 +1,21 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Flavell Metacognition Framework"
+title: Flavell Metacognition Framework
 aliases:
-  - "Flavell Metacognition Framework"
+  - Flavell Metacognition Framework
 type: permanent-note
 status: seedling
 confidence: low
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - seedling
   - concept-stub
   - cognitive-psychology
-
 domain: cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: stub-generation
-extraction-method: "generate-stubs-v1 (auto-generated from wiki-link audit)"
+extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 15
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 see-also:
   - "[[Calibration-Discrepancy]]"
   - "[[Delayed-JOL-Effect]]"
@@ -48,17 +28,13 @@ see-also:
   - "[[Metacognitive-Monitoring]]"
   - "[[Monitoring-Gap]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
-  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]]"
   - "[[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]]"
   - "[[PKB|PKB]]"
   - "[[Forethought-Phase|Forethought Phase]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: medium
@@ -95,7 +71,7 @@ importance: medium
 > Across two studies of young women learning a motor skill (dart-throwing) and a writing revision skill, Zimmerman and Kitsantas systematically varied whether participants set process goals (focus on the regulatory steps) or outcome goals (focus on the final performance score), and whether they shifted from process to outcome goals when competence was established. The key finding: participants who set process goals initially and shifted to outcome goals upon achieving competence significantly outperformed those who set only outcome goals or only process goals throughout. The performance advantage persisted in transfer conditions. Critically, self-efficacy mediated the relationship — process goal setting produced larger self-efficacy gains, which in turn drove performance. This is among the clearest experimental demonstrations that it is the regulatory process, not simply motivation to achieve, that drives SRL-linked performance gains.
 
 > [!evidence] Supporting Evidence *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
-> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise Reversal Effect]] documented by Kalyuga and colleagues. The cognitive cost of monitoring and controlling learning competes with the cognitive resources available for actually learning the content. The implication, largely unacknowledged in SRL-enthusiast literature, is that SRL interventions should be targeted to learners at the right stage of expertise — not applied universally as if regulation were costless.
+> The evidence more accurately suggests that SRL interventions produce significant gains for learners who are motivationally engaged with the learning task and who have sufficient domain knowledge to make meaningful strategy judgments. For learners with very low prior knowledge, teaching self-regulatory strategies may produce negligible or even negative effects relative to direct instruction — an instance of the [[Expertise-Reversal-Effect]] documented by Kalyuga and colleagues. The cognitive cost of monitoring and controlling learning competes with the cognitive resources available for actually learning the content. The implication, largely unacknowledged in SRL-enthusiast literature, is that SRL interventions should be targeted to learners at the right stage of expertise — not applied universally as if regulation were costless.
 
 > [!evidence] Supporting Evidence *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > Hattie and Timperley's influential analysis of feedback research identified self-regulation as one of four feedback levels (task, process, self-regulation, and self). Their synthesis of meta-analytic data indicated that feedback at the self-regulation level — feedback that enhances self-monitoring, self-assessment, and self-correction rather than simply providing task-level correction — produced effect sizes averaging d = 0.75, substantially larger than task-level feedback (d = 0.34). Critically, they distinguished between feedback that does the regulatory work for the learner and feedback that builds the learner's capacity to do that regulatory work themselves. The latter requires a specific structural feature: it must be actionable within the learner's current monitoring and control capability.
@@ -128,7 +104,7 @@ importance: medium
 ## Connections & Context
 
 **Related concepts** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
-[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[PKB|PKB]] * [[Forethought-Phase|Forethought Phase]] * [[Self-Efficacy|Self-Efficacy]] * [[Performance-Phase|Performance Phase]] * [[Self-Monitoring|Self-Monitoring]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]]
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Learning-Theory-—-Foundational-Report|Learning Theory — Foundational Report]] * [[Metacognition-—-Foundational-Concepts|Metacognition — Foundational Concepts]] * [[PKB|PKB]] * [[Forethought-Phase|Forethought Phase]] * [[Self-Efficacy|Self-Efficacy]] * [[Performance-Phase|Performance Phase]] * [[Self-Monitoring|Self-Monitoring]] * [[Self-Reflection-Phase|Self-Reflection Phase]] * [[Motivational-Regulation|Motivational Regulation]] * [[Goal-Orientation|Goal Orientation]] * [[Task-Value|Task Value]]
 
 **Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
 - [[Negative-Feedback-Control-System|Negative Feedback Control System]]

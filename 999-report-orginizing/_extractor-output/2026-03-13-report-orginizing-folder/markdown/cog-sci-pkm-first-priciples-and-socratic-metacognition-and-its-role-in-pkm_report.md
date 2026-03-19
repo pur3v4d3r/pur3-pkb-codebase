@@ -350,7 +350,7 @@ extraction_summary:
 #### 37. [DEFINITION] Untitled *(Line 385)*
 
 > [!definition] Untitled
-> **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL)**: A theory of active, autonomous learning in which learners set goals, deploy strategies, monitor progress, and adapt their approach based on metacognitive evaluation of their own performance. Distinguished from passive or externally regulated learning by the learner's proactive assumption of responsibility for the planning, execution, and evaluation of their own cognitive development. PKM systems function as SRL environments to the extent that they support rather than substitute for these self-regulatory processes.
+> **[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL)**: A theory of active, autonomous learning in which learners set goals, deploy strategies, monitor progress, and adapt their approach based on metacognitive evaluation of their own performance. Distinguished from passive or externally regulated learning by the learner's proactive assumption of responsibility for the planning, execution, and evaluation of their own cognitive development. PKM systems function as SRL environments to the extent that they support rather than substitute for these self-regulatory processes.
 
 #### 38. [DEFINITION] Untitled *(Line 388)*
 
@@ -434,7 +434,7 @@ extraction_summary:
 > 
 > A deconstruction of this belief reveals a deeper truth: the *animating intelligence* behind any PKM system is [[metacognition]]—the human capacity to think about one's own thinking, to monitor comprehension, evaluate knowledge gaps, and regulate the cognitive strategies one employs when encountering new information. Coined by developmental psychologist [[John H. Flavell]] in 1976, metacognition encompasses two primary dimensions: *metacognitive knowledge* (what one knows about one's own cognition) and *metacognitive regulation* (the active monitoring and adjustment of cognitive processes). These two capacities, not the tool architecture, determine whether a PKM system becomes a dynamic engine of insight or a passive archive of forgotten notes.
 > 
-> By rebuilding our understanding of PKM from first principles—beginning with the neuroscientific foundations of memory, the cognitive science of [[Self-Regulated-Learning-—-SRL|self-regulated learning]], and the pedagogical principles of [[deliberate practice]]—we arrive at a radically different model. A truly effective PKM is not a *storage system with metacognitive features tacked on*. It is, fundamentally, a *metacognitive practice that happens to require a storage system*. This reframe transforms how individuals design their workflows, select their strategies, and measure their progress, ultimately yielding a practice that genuinely accelerates learning, creativity, and intellectual well-being.
+> By rebuilding our understanding of PKM from first principles—beginning with the neuroscientific foundations of memory, the cognitive science of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]], and the pedagogical principles of [[deliberate practice]]—we arrive at a radically different model. A truly effective PKM is not a *storage system with metacognitive features tacked on*. It is, fundamentally, a *metacognitive practice that happens to require a storage system*. This reframe transforms how individuals design their workflows, select their strategies, and measure their progress, ultimately yielding a practice that genuinely accelerates learning, creativity, and intellectual well-being.
 
 #### 54. [THE-PURPOSE] Untitled *(Line 492)*
 
@@ -500,7 +500,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 4:** [[Self-Regulated Learning and the Metacognitive Cycle]]
->   - [[Barry-Zimmerman|Barry Zimmerman]]'s foundational model of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL), developed through the 1980s and 1990s, synthesizes metacognition with motivation and behavioral self-management into a cyclical framework that describes how expert learners operate. The SRL cycle comprises three phases: a *forethought phase* (goal setting, strategic planning, and self-efficacy assessment before beginning a task), a *performance phase* (self-monitoring, use of learning strategies, and attention management during the task), and a *self-reflection phase* (self-evaluation, causal attribution, and adaptive reactions after the task). Crucially, Zimmerman's research demonstrates that expert learners are distinguished not primarily by higher intelligence, but by more frequent, more accurate, and more strategically responsive use of these self-regulatory processes. They *notice* when they don't understand. They *adjust* their strategy when one approach is failing. They *evaluate* their own output against meaningful standards, not just against the feeling of having done something.
+>   - [[Barry-Zimmerman|Barry Zimmerman]]'s foundational model of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] (SRL), developed through the 1980s and 1990s, synthesizes metacognition with motivation and behavioral self-management into a cyclical framework that describes how expert learners operate. The SRL cycle comprises three phases: a *forethought phase* (goal setting, strategic planning, and self-efficacy assessment before beginning a task), a *performance phase* (self-monitoring, use of learning strategies, and attention management during the task), and a *self-reflection phase* (self-evaluation, causal attribution, and adaptive reactions after the task). Crucially, Zimmerman's research demonstrates that expert learners are distinguished not primarily by higher intelligence, but by more frequent, more accurate, and more strategically responsive use of these self-regulatory processes. They *notice* when they don't understand. They *adjust* their strategy when one approach is failing. They *evaluate* their own output against meaningful standards, not just against the feeling of having done something.
 > 
 >   This framework reveals the central failure of tool-centric PKM: it optimizes almost exclusively for the *capture* and *organization* phases of the knowledge lifecycle, while neglecting the self-reflection and self-monitoring phases that are the actual sites of cognitive growth. Zimmerman and [[Dale Schunk]]'s subsequent research further demonstrated that metacognitive skill is the primary predictor of academic achievement across age groups and domains—more predictive than prior knowledge or measured intelligence. This is perhaps the most important empirical result for PKM practitioners to internalize: *how you think about your own thinking* is the master variable in your intellectual development.
 
@@ -531,8 +531,8 @@ extraction_summary:
 > **Atom 2:** Memory decays exponentially ($R = e^{-t/S}$) in the absence of retrieval; only spaced retrieval practice durably counters this decay.
 > **Atom 3:** [[Metacognition]] is the capacity to monitor and regulate one's own cognitive processes—and it is the primary predictor of learning success, more powerful than intelligence or prior knowledge.
 > **Atom 4:** The *quality of cognitive processing* at the moment of learning (generative vs. passive) is the master variable in retention and transferability.
-> **Atom 5:** [[Dunning-Kruger Effect|Metacognitive blindness]] is a structural risk of any system that produces the *feeling* of learning without the *reality* of it.
-> **Atom 6:** [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] is a cyclical, learnable process requiring planning, monitoring, and self-evaluation—not just execution.
+> **Atom 5:** [[Dunning-Kruger-Effect|Metacognitive blindness]] is a structural risk of any system that produces the *feeling* of learning without the *reality* of it.
+> **Atom 6:** [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] is a cyclical, learnable process requiring planning, monitoring, and self-evaluation—not just execution.
 > 
 > Notice what is *absent* from this list: Obsidian, Notion, Zettelkasten, PARA, backlinks, graph views, and folder structures. These tools are not irrelevant—but they are not first principles. They are *possible implementations* of these principles. Their value is entirely conditional on whether they are used in a way that honors the cognitive science above.
 
@@ -581,7 +581,7 @@ extraction_summary:
 > [!phase-four] Untitled
 > **Building from Principle 5: Calibration Mechanisms — Forcing Contact with Reality**
 > 
-> Because the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] and related [[Fluency Illusion|fluency illusions]] can make us feel competent when we are not, a metacognitive PKM system must include mechanisms that *generate objective feedback*—moments where the practitioner's understanding is tested against something external to their own subjective feeling of comprehension. This is the most demanding architectural element because it requires intellectual vulnerability: the willingness to discover that one does not understand something one thought one did.
+> Because the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] and related [[Fluency-Illusion|fluency illusions]] can make us feel competent when we are not, a metacognitive PKM system must include mechanisms that *generate objective feedback*—moments where the practitioner's understanding is tested against something external to their own subjective feeling of comprehension. This is the most demanding architectural element because it requires intellectual vulnerability: the willingness to discover that one does not understand something one thought one did.
 > 
 > The most potent such mechanism is *writing for an audience*—producing explanatory text about concepts in one's PKM system that is intended for someone else to read and understand. This practice, sometimes called [[The Feynman Technique]] after physicist [[Richard Feynman]]'s reported learning method, exposes comprehension gaps with brutal efficiency. When one attempts to explain an idea simply and clearly for a non-expert reader, the hedges, vague language, and implicit assumptions that pass unnoticed in one's private notes become painfully visible. Every vague sentence is a metacognitive signal: "I have not understood this deeply enough to make it plain."
 > 
@@ -654,7 +654,7 @@ extraction_summary:
 > 
 > - [**Roediger, H. L., & Karpicke, J. D. (2006). Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention.** *Psychological Science*, 17(3), 249–255.](https://doi.org/10.1111/j.1467-9280.2006.01693.x) — The landmark study on the [[Testing-Effect|Testing Effect]], demonstrating retrieval practice superiority over re-study.
 > 
-> - [**Zimmerman, B. J. (2000). Attaining Self-Regulation: A Social Cognitive Perspective.** In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation*.](https://www.sciencedirect.com/handbook/handbook-of-self-regulation) — Foundational synthesis of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] theory.
+> - [**Zimmerman, B. J. (2000). Attaining Self-Regulation: A Social Cognitive Perspective.** In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation*.](https://www.sciencedirect.com/handbook/handbook-of-self-regulation) — Foundational synthesis of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]] theory.
 > 
 > - [**Dunning, D., & Kruger, J. (1999). Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments.** *Journal of Personality and Social Psychology*, 77(6), 1121–1134.](https://doi.org/10.1037/0022-3514.77.6.1121) — The original [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] paper.
 > 
@@ -702,7 +702,7 @@ extraction_summary:
 > [!abstract] Untitled
 > The dominant discourse around [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM) treats knowledge as an object to be *filed*. Tools like Obsidian, Notion, and Roam Research are celebrated as "second brains," implying that the primary limitation of the first brain is storage capacity. The PKM community has converged on a set of practices—the CODE cycle (Capture, Organize, Distill, Express), the PARA method, progressive summarization—that are, at their core, sophisticated filing systems. The assumption baked into all of these frameworks is that if you just *capture and organize* well enough, knowledge will naturally compound and learning will naturally deepen. This is an assumption so ubiquitous it has become invisible.
 > 
-> A first-principles deconstruction of PKM reveals that the filing metaphor is a fundamental category error. When we strip away the tool-centric assumptions and trace the problem back to its most atomic truths—the neurological basis of memory, the cognitive science of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], and the mathematics of information retrieval—we discover that the limiting factor in any knowledge system is not the *database* but the *metacognitive operator* who uses it. [[Metacognition]], the capacity to monitor and regulate one's own thinking, is not a peripheral enhancement to a PKM system; it is the irreducible *engine* of the entire enterprise.
+> A first-principles deconstruction of PKM reveals that the filing metaphor is a fundamental category error. When we strip away the tool-centric assumptions and trace the problem back to its most atomic truths—the neurological basis of memory, the cognitive science of [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]], and the mathematics of information retrieval—we discover that the limiting factor in any knowledge system is not the *database* but the *metacognitive operator* who uses it. [[Metacognition]], the capacity to monitor and regulate one's own thinking, is not a peripheral enhancement to a PKM system; it is the irreducible *engine* of the entire enterprise.
 > 
 > Rebuilding a PKM system from these atomic truths produces something radically different from a note-taking application. It produces a **metacognitive practice architecture**—a system designed not to store knowledge, but to develop the cognitive self-awareness that allows knowledge to be *genuinely understood, connected, and transferred*. This document will walk through that deconstruction and reconstruction in full, ultimately arguing that the most transformative upgrade any knowledge worker can make is not a new app, but a new relationship with their own cognition.
 
@@ -1023,7 +1023,7 @@ extraction_summary:
 - [[Schraw and Moshman]]
 - [[Sebastian Leitner]]
 - [[Seek-Sense-Share Framework — Harold Jarche]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning and Zimmerman's Cyclical Model]]
 - [[Self-Regulated Learning and the Metacognitive Cycle]]
 - [[Self-Regulated Learning — Zimmerman's Cycle]]
@@ -1077,7 +1077,7 @@ extraction_summary:
 - [[deliberate practice]]
 - [[graph view]]
 - [[metacognition]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[shiny object syndrome]]
 - [[wiki-link]]
 - [[Working-Memory|working memory]]
@@ -1565,7 +1565,7 @@ $$
 - [[Schraw and Moshman]]
 - [[Sebastian Leitner]]
 - [[Seek-Sense-Share Framework — Harold Jarche]]
-- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Self-Regulated Learning and Zimmerman's Cyclical Model]]
 - [[Self-Regulated Learning and the Metacognitive Cycle]]
 - [[Self-Regulated Learning — Zimmerman's Cycle]]
@@ -1619,7 +1619,7 @@ $$
 - [[deliberate practice]]
 - [[graph view]]
 - [[metacognition]]
-- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
+- [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|self-regulated learning]]
 - [[shiny object syndrome]]
 - [[wiki-link]]
 - [[Working-Memory|working memory]]

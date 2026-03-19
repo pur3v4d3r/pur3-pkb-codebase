@@ -29,7 +29,7 @@ next-review: 2025-12-20
 review-count: 0
 cssclass: philosophy-moc
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
   - "[[stoicism]]"
@@ -236,7 +236,7 @@ if (mindPages.length > 0) {
 > [!principle-point] Domain Focus  
 > [**Epistemology-Practical-Focus**:: The study of knowledge, belief, and justification—particularly as applied to evaluating information sources, calibrating confidence levels, and maintaining intellectual honesty in personal knowledge work.]
 
-[[Epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[epistemic humility]] and [[validation practices]].
+[[Epistemology]] grounds our [[PKM]] practice in philosophical rigor, ensuring we approach knowledge with appropriate [[Epistemic-Humility]] and [[validation practices]].
 
 ### 🔗 Epistemology Network
 
@@ -280,7 +280,7 @@ if (epistemicPages.length > 0) {
 **Applied Epistemology:**
 - [[Source Evaluation]] — *Assessing information quality*
 - [[Confidence Calibration]] — *Matching certainty to evidence*
-- [[Epistemic Humility]] — *Recognizing knowledge limits*
+- [[Epistemic-Humility]] — *Recognizing knowledge limits*
 
 ---
 
@@ -541,7 +541,7 @@ action:
 
 - **Up:** [[Home]] → [[Knowledge MOC]]
 - **Lateral:** 
-  - [[99-archive/05-moc's/cognitive-science-moc]] — *Psychology of philosophical practice*
+  - [[cognitive-science-moc]] — *Psychology of philosophical practice*
   - [[pkb-&-pkm-moc]] — *System design philosophy*
   - [[learning-theory-moc]] — *Education philosophy*
 - **Down:** 

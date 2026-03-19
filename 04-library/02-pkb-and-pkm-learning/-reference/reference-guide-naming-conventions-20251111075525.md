@@ -36,7 +36,7 @@ The art and science of naming conventions rests upon several fundamental princip
 > [!core-principle]
 > **Human Readability First, Machine Parsability Second**
 > 
-> While it's tempting to optimize for database queries or script automation, your naming conventions must prioritize human comprehension. You will spend far more time reading, scanning, and manually navigating your notes than you will writing scripts to process them. A filename like `20251111_quantum-entanglement_bell-theorem.md` is infinitely more useful than `qe_bt_1111.md`, even if the latter is slightly more efficient for certain automated processes. That said, modern PKB tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] offer robust tagging and metadata systems—use those for machine-readable categorization, and reserve filenames for human cognition.
+> While it's tempting to optimize for database queries or script automation, your naming conventions must prioritize human comprehension. You will spend far more time reading, scanning, and manually navigating your notes than you will writing scripts to process them. A filename like `20251111_quantum-entanglement_bell-theorem.md` is infinitely more useful than `qe_bt_1111.md`, even if the latter is slightly more efficient for certain automated processes. That said, modern PKB tools like [[Obsidian]] offer robust tagging and metadata systems—use those for machine-readable categorization, and reserve filenames for human cognition.
 
 > [!core-principle]
 > **Scalability & Future-Proofing**
@@ -51,7 +51,7 @@ The art and science of naming conventions rests upon several fundamental princip
 > [!core-principle]
 > **Separation of Concerns: Filenames vs. Metadata**
 > 
-> Modern PKB systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] support rich metadata through YAML frontmatter, inline tags, and properties. This means you don't need to cram every piece of information into the filename itself. Use filenames for **identification and basic human navigation**, and use metadata for **categorization, status tracking, and advanced queries**. For example, instead of `Project_Active_2025_ClientX_Strategy_v2_FINAL.md`, use `ClientX_Strategy.md` with frontmatter like `status: active`, `year: 2025`, `version: 2`, `project: ClientX`.
+> Modern PKB systems like [[Obsidian]] support rich metadata through YAML frontmatter, inline tags, and properties. This means you don't need to cram every piece of information into the filename itself. Use filenames for **identification and basic human navigation**, and use metadata for **categorization, status tracking, and advanced queries**. For example, instead of `Project_Active_2025_ClientX_Strategy_v2_FINAL.md`, use `ClientX_Strategy.md` with frontmatter like `status: active`, `year: 2025`, `version: 2`, `project: ClientX`.
 
 ---
 
@@ -108,7 +108,7 @@ The [[zettelkasten method]] has perhaps the richest history of naming convention
 > 
 > Niklas Luhmann's original slip-box used an alphanumeric **folgezettel** (German: "following note") system that encoded both position and relationship. A note might be labeled `1`, with a continuation `1a`, a branch from that `1a1`, and an alternative to the original `1b`. This created a tree-like structure where the ID itself indicated conceptual proximity and branching. 
 > 
-> In digital PKBs, this system is generally considered **too rigid** for the fluid, multi-dimensional linking that tools like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] enable. However, the principle—that IDs can encode *some* structural information—remains influential.
+> In digital PKBs, this system is generally considered **too rigid** for the fluid, multi-dimensional linking that tools like [[Obsidian]] enable. However, the principle—that IDs can encode *some* structural information—remains influential.
 
 **Modern Timestamp IDs** have largely replaced folgezettel in digital Zettelkasten implementations. The standard format is `YYYYMMDDHHmm` or `YYYYMMDDHHmmss`:
 
@@ -252,7 +252,7 @@ Many PKB practitioners use **visual prefixes** (emojis or symbols) to create sem
 
 ## 🖥️ Obsidian-Specific Considerations
 
-[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] is a powerful PKB tool, but it has specific constraints and features that impact your naming strategy. Understanding these nuances ensures your conventions work *with* the tool, not against it.
+[[Obsidian]] is a powerful PKB tool, but it has specific constraints and features that impact your naming strategy. Understanding these nuances ensures your conventions work *with* the tool, not against it.
 
 ### 🚫 Reserved Characters & Limitations
 

@@ -149,7 +149,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **System Boundary:**
->       - **Inside the System:** The complete **[[Learning Workflow]]** from the moment an experience occurs through its capture in the PKB, subsequent reflection activities, abstraction into conceptual frameworks, active experimentation with new behaviors, and the recursive feedback from those experiments back into the system. This includes the **[[Note-Taking Infrastructure]]** (tools like **[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|Text-Generator]]**), the **[[Methodological Frameworks]]** employed (**[[Zettelkasten]]**, **[[Atomic-Notes|Atomic Notes]]**), the **[[Cognitive Processes]]** of the learner, and the **[[Information-Architecture|Information Architecture]]** that structures knowledge relationships.
+>       - **Inside the System:** The complete **[[Learning Workflow]]** from the moment an experience occurs through its capture in the PKB, subsequent reflection activities, abstraction into conceptual frameworks, active experimentation with new behaviors, and the recursive feedback from those experiments back into the system. This includes the **[[Note-Taking Infrastructure]]** (tools like **[[Obsidian|Text-Generator]]**), the **[[Methodological Frameworks]]** employed (**[[Zettelkasten]]**, **[[Atomic-Notes|Atomic Notes]]**), the **[[Cognitive Processes]]** of the learner, and the **[[Information-Architecture|Information Architecture]]** that structures knowledge relationships.
 >       - **Outside the System (Environment):** The raw, unprocessed external world where experiences originate. External learning resources (books, courses, conversations) that haven't yet been processed through the cycle. Other people's knowledge systems. The biological constraints of human cognition (working memory limits, circadian rhythms affecting cognitive performance). External validation mechanisms (professional outcomes, academic assessments) that may inform but don't directly constitute the learning system itself.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 54)*
@@ -408,7 +408,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Abstract-Conceptualization|Abstract Conceptualization]]
 - [[Abstract Conceptualizations]]
 - [[Accelerated Pattern Recognition Across Domains]]
@@ -614,7 +614,7 @@ extraction_summary:
 | 19 | [[Transferable Knowledge]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 47 |
 | 20 | [[Learning Workflow]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 21 | [[Note-Taking Infrastructure]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
-| 22 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | Text-Generator | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
+| 22 | [[Obsidian]] | Text-Generator | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 23 | [[Methodological Frameworks]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 24 | [[Zettelkasten]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 25 | [[Atomic-Notes|Atomic Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
@@ -902,7 +902,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 > Each is a candidate for backlink creation in your PKB.
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Abstract-Conceptualization|Abstract Conceptualization]]
 - [[Abstract Conceptualizations]]
 - [[Accelerated Pattern Recognition Across Domains]]

@@ -341,7 +341,7 @@ modified: 2025-12-15
 status: evergreen
 certainty: verified
 type: reference
-related: [[Smart Connections]], [[Templater]], [[Dataview]], [[Claude API]], [[Prompt Engineering]], [[PKB Automation]]
+related: [[Smart-Connections]], [[Templater]], [[Dataview]], [[Claude API]], [[Prompt Engineering]], [[PKB Automation]]
 version: "Text Generator 0.7.x+ (December 2024)"
 platform: "Obsidian 1.4.0+"
 ---
@@ -354,7 +354,7 @@ platform: "Obsidian 1.4.0+"
 %%QA:obsidian:text-generator-mastery%%
 
 > [!abstract] Executive Summary
-> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template Engineering]], [[Smart Connections]] integration, and replicating [[Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
+> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template Engineering]], [[Smart-Connections]] integration, and replicating [[Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
 
 > [!how-to-use-this] Navigation Guide
 > This reference note is organized into 11 major sections covering all aspects of Text Generator Plugin mastery. Use the table of contents below for quick navigation. Sections progress from foundational concepts through advanced techniques, with extensive code examples and real-world workflows throughout.
@@ -384,7 +384,7 @@ platform: "Obsidian 1.4.0+"
 > [!definition] Text Generator Plugin
 > [**Text-Generator-Plugin**:: An open-source [[Obsidian]] community plugin that provides a native interface to [[Large Language Models]] (LLMs) including [[OpenAI]], [[Anthropic Claude]], [[Google Gemini]], [[HuggingFace]], and local models via [[Ollama]]. It enables AI-assisted text generation, transformation, and automation directly within your vault using a sophisticated [[Template System|template system]].]
 
-Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[Cognitive Load]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
+Text Generator Plugin (TGP) represents a paradigm shift in how knowledge workers interact with AI. Rather than context-switching between your [[PKB]] and external AI interfaces like [[ChatGPT]] or [[Claude.ai]], TGP brings the AI directly into your workspace. This architectural decision has profound implications for [[Cognitive-Load]] management—you never lose context, your prompts can reference your existing notes, and outputs flow directly into your knowledge system.
 
 ### Why Use Text Generator as Your Primary API Interface?
 
@@ -400,7 +400,7 @@ Direct [[API]] usage through TGP follows pay-per-token pricing, which for seriou
 TGP's [[Template System]] enables you to codify your best prompts, create reusable workflows, and build sophisticated [[Prompt Engineering]] libraries that evolve with your practice.
 
 **4. Workflow Integration**
-Combined with [[Smart Connections]] for [[Semantic Search]], [[Templater]] for note automation, and [[Dataview]] for queries, TGP becomes the AI layer in a fully integrated knowledge work system.
+Combined with [[Smart-Connections]] for [[Semantic Search]], [[Templater]] for note automation, and [[Dataview]] for queries, TGP becomes the AI layer in a fully integrated knowledge work system.
 
 > [!principle-point] The Vault-Centric AI Philosophy
 > [**Vault-Centric-AI**:: The principle that AI interactions should occur within your knowledge environment rather than external applications. This preserves context, enables knowledge graph integration, and eliminates the cognitive overhead of tool-switching. Your vault becomes both the source of context and the destination for AI outputs.]
@@ -957,7 +957,7 @@ promptTemplate: |
 For sophisticated workflows, you may need to programmatically build context:
 
 > [!example] Semantic Context Injection
-> **What This Does:** Queries [[Smart Connections]] for relevant notes and includes them as context
+> **What This Does:** Queries [[Smart-Connections]] for relevant notes and includes them as context
 
 ```yaml
 ---
@@ -1876,14 +1876,14 @@ output: cursor          # cursor, replace, new-note
 **Depth Potential:** Agent architectures, tool use patterns, memory systems, and goal-directed behavior within PKB context
 **Knowledge Graph Role:** Advanced node representing frontier PKB capabilities
 **Priority:** Low (for now) - Emerging capability for power users
-**Prerequisites:** [[Text Generator Plugin]], [[Smart Connections]], JavaScript proficiency, understanding of agent architectures
+**Prerequisites:** [[Text-Generator-Plugin]], [[Smart-Connections]], JavaScript proficiency, understanding of agent architectures
 
 ##### 6. **[[Semantic Search Architecture for PKB]]** *[Requires prerequisites]*
 **Connection:** Deep dive into how Smart Connections and similar tools create embeddings and enable semantic retrieval
 **Depth Potential:** Embedding models, vector databases, similarity metrics, and optimizing semantic search for knowledge work
 **Knowledge Graph Role:** Technical foundation for understanding AI-enhanced PKB
 **Priority:** Low - Technical depth for those interested in mechanisms
-**Prerequisites:** [[Smart Connections]] usage, basic ML concepts
+**Prerequisites:** [[Smart-Connections]] usage, basic ML concepts
 
 ---
 

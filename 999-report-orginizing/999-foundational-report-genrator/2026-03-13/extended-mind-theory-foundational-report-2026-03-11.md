@@ -1,8 +1,5 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Extended Mind Theory"
+title: Extended Mind Theory
 aliases:
   - "[[Extended Mind]]"
   - "[[Active-Externalism|Active Externalism]]"
@@ -11,10 +8,6 @@ aliases:
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - foundational-report
@@ -36,97 +29,72 @@ tags:
   - evergreen
   - comprehensive
   - research-grounded
-
-domain: "philosophy-of-mind"
+domain: philosophy-of-mind
 subdomains:
-  - "cognitive-science"
-  - "externalism"
-  - "4E-cognition"
-  - "learning-environments"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
-created: "2026-03-11"
-updated: "2026-03-11"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# ACADEMIC METADATA
-# ═══════════════════════════════════════════════════════════════════════════
+  - cognitive-science
+  - externalism
+  - 4E-cognition
+  - learning-environments
+created: 2026-03-11
+updated: 2026-03-11
 source-type: academic-synthesis
-research-base: "theoretical-analysis with empirical grounding"
+research-base: theoretical-analysis with empirical grounding
 evidence-quality: high
 peer-validation: multiple-frameworks
-
 key-frameworks:
-  - name: "Extended Mind Hypothesis"
-    description: "The claim that cognitive processes can genuinely extend beyond the boundary of skull and skin into the environment when environmental elements satisfy functional criteria equivalent to internal cognitive processes"
-    developers: "Andy Clark & David Chalmers (1998)"
-    validation: "Influential and contested; generated major debate in philosophy of mind and cognitive science"
-  - name: "The Parity Principle"
-    description: "If an external element plays the same functional role as an internal cognitive process, it ought to be counted as part of the cognitive system"
-    developers: "Andy Clark & David Chalmers (1998)"
-    validation: "Core theoretical tool; subject to the coupling-constitution objection"
-  - name: "Distributed Cognition"
-    description: "Cognitive systems extend across individuals, artifacts, and environmental structures; cognition is distributed across a sociotechnical system rather than residing in an individual mind"
-    developers: "Edwin Hutchins (1995)"
-    validation: "Well-supported by ethnographic and observational research"
-  - name: "4E Cognition"
-    description: "Umbrella framework treating cognition as Embodied, Embedded, Enacted, and Extended — all four 'E's challenging classical cognitivism's brain-bound, representational model"
-    developers: "Multiple contributors — Varela/Thompson/Rosch (embodied/enacted), Clark (extended), Robbins/Aydede (embedded)"
-    validation: "Widely influential theoretical synthesis; ongoing integration efforts"
-
+  - name: Extended Mind Hypothesis
+    description: The claim that cognitive processes can genuinely extend beyond the boundary of skull and skin into the environment when environmental elements satisfy functional criteria equivalent to internal cognitive processes
+    developers: Andy Clark & David Chalmers (1998)
+    validation: Influential and contested; generated major debate in philosophy of mind and cognitive science
+  - name: The Parity Principle
+    description: If an external element plays the same functional role as an internal cognitive process, it ought to be counted as part of the cognitive system
+    developers: Andy Clark & David Chalmers (1998)
+    validation: Core theoretical tool; subject to the coupling-constitution objection
+  - name: Distributed Cognition
+    description: Cognitive systems extend across individuals, artifacts, and environmental structures; cognition is distributed across a sociotechnical system rather than residing in an individual mind
+    developers: Edwin Hutchins (1995)
+    validation: Well-supported by ethnographic and observational research
+  - name: 4E Cognition
+    description: Umbrella framework treating cognition as Embodied, Embedded, Enacted, and Extended — all four 'E's challenging classical cognitivism's brain-bound, representational model
+    developers: Multiple contributors — Varela/Thompson/Rosch (embodied/enacted), Clark (extended), Robbins/Aydede (embedded)
+    validation: Widely influential theoretical synthesis; ongoing integration efforts
 key-researchers:
-  - "Andy Clark"
-  - "David Chalmers"
-  - "Edwin Hutchins"
-  - "Francisco Varela"
-  - "Evan Thompson"
-  - "Eleanor Rosch"
-  - "Frederick Adams"
-  - "Kenneth Aizawa"
-  - "Alva Noë"
-  - "Merlin Donald"
-  - "Richard Menary"
-  - "Robert Rupert"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
-word-count: "~8200"
-complexity-level: "intermediate"
-target-audience: "Educated reader with interest in cognitive science and philosophy of mind; no specialised prior knowledge assumed"
+  - Andy Clark
+  - David Chalmers
+  - Edwin Hutchins
+  - Francisco Varela
+  - Evan Thompson
+  - Eleanor Rosch
+  - Frederick Adams
+  - Kenneth Aizawa
+  - Alva Noë
+  - Merlin Donald
+  - Richard Menary
+  - Robert Rupert
+word-count: ~8200
+complexity-level: intermediate
+target-audience: Educated reader with interest in cognitive science and philosophy of mind; no specialised prior knowledge assumed
 depth-level: comprehensive
 treatment-type: foundational-encyclopedic
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE CONCEPTS
-# ═══════════════════════════════════════════════════════════════════════════
 core-concepts:
-  - "The Parity Principle"
-  - "Active Externalism"
-  - "Coupling vs. Constitution"
-  - "The Otto-Inga Thought Experiment"
-  - "Cognitive Scaffolding"
-  - "Distributed Cognition"
-  - "The Mark of the Cognitive"
-  - "4E Cognition"
-
+  - The Parity Principle
+  - Active Externalism
+  - Coupling vs. Constitution
+  - The Otto-Inga Thought Experiment
+  - Cognitive Scaffolding
+  - Distributed Cognition
+  - The Mark of the Cognitive
+  - 4E Cognition
 key-distinctions:
-  - "Active externalism vs. passive externalism"
-  - "Coupling vs. constitution (the coupling-constitution fallacy)"
-  - "Extended mind vs. embedded cognition"
-  - "Vehicle externalism vs. content externalism"
-  - "Cognitive bloat vs. cognitive chauvinism"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
+  - Active externalism vs. passive externalism
+  - Coupling vs. constitution (the coupling-constitution fallacy)
+  - Extended mind vs. embedded cognition
+  - Vehicle externalism vs. content externalism
+  - Cognitive bloat vs. cognitive chauvinism
 prerequisites:
   - "[[Philosophy of Mind — Foundations]]"
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
   - "[[Functionalism (Philosophy of Mind)]]"
-
 related:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Schema-Theory|Schema Theory]]"
@@ -135,93 +103,73 @@ related:
   - "[[Affordances]]"
   - "[[Enactivism]]"
   - "[[Situated-Learning|Situated Learning]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Metacognition & Lifelong Learning]]"
-
 broader:
   - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Cognitive-Science|Cognitive Science]]"
   - "[[4E-Cognition|4E Cognition]]"
-
 narrower:
   - "[[Parity-Principle|Parity Principle]]"
   - "[[Cognitive-Scaffolding|Cognitive Scaffolding]]"
   - "[[Epistemic Coupling]]"
   - "[[Technology as Cognitive Prosthesis]]"
-
 see-also:
   - "[[Situated-Cognition|Situated Cognition]]"
   - "[[Personal Knowledge Base Theory]]"
   - "[[Externalism in Philosophy of Language]]"
   - "[[Epistemic Injustice]]"
-
 contrasts-with:
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
   - "[[Internalism|Internalism (Philosophy of Mind)]]"
   - "[[Cartesian Dualism]]"
-
 applied-in:
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Environment Design]]"
   - "[[Human-Computer Interaction]]"
   - "[[Assistive Technology Design]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Functionalism (Philosophy of Mind)]]"
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
   - "[[Ecological-Psychology|Ecological Psychology]]"
-
 enables:
   - "[[Instructional Design Principles — Environmental Scaffolding]]"
   - "[[Personal Knowledge Management — Cognitive Foundations]]"
   - "[[Technology-Augmented Learning]]"
   - "[[Distributed Cognition in Teams]]"
-
 expansion-topics:
   - topic: "[[Embodied-Cognition|Embodied Cognition]]"
-    description: "The foundational 'E' that grounds extended mind theory — the claim that cognition is constituted by, not merely dependent on, the structure and dynamics of the body. Covers Merleau-Ponty's phenomenology, sensorimotor theories of perception, and implications for learning and skill acquisition."
+    description: The foundational 'E' that grounds extended mind theory — the claim that cognition is constituted by, not merely dependent on, the structure and dynamics of the body. Covers Merleau-Ponty's phenomenology, sensorimotor theories of perception, and implications for learning and skill acquisition.
     priority: high
   - topic: "[[Distributed-Cognition|Distributed Cognition]]"
-    description: "Hutchins's detailed empirical account of how cognitive processes are distributed across individuals, representations, and artifacts in sociotechnical systems. Directly applicable to team learning, workplace cognition, and collaborative knowledge construction."
+    description: Hutchins's detailed empirical account of how cognitive processes are distributed across individuals, representations, and artifacts in sociotechnical systems. Directly applicable to team learning, workplace cognition, and collaborative knowledge construction.
     priority: high
   - topic: "[[Affordances and Ecological Psychology]]"
-    description: "Gibson's account of perception as direct detection of action possibilities in the environment — a natural complement to extended mind theory, explaining the perceptual side of organism-environment coupling."
+    description: Gibson's account of perception as direct detection of action possibilities in the environment — a natural complement to extended mind theory, explaining the perceptual side of organism-environment coupling.
     priority: medium
   - topic: "[[Enactivism and Embodied Meaning]]"
-    description: "Varela, Thompson, and Rosch's account of cognition as enacted through sensorimotor coupling — the most radical of the 4Es, claiming that mind and world co-emerge through action."
+    description: Varela, Thompson, and Rosch's account of cognition as enacted through sensorimotor coupling — the most radical of the 4Es, claiming that mind and world co-emerge through action.
     priority: medium
   - topic: "[[Cognitive Scaffolding in Instructional Design]]"
-    description: "Applied treatment of how educational environments can be deliberately designed to extend and support cognitive processes — drawing on extended mind theory, Vygotsky's zone of proximal development, and learning sciences."
+    description: Applied treatment of how educational environments can be deliberately designed to extend and support cognitive processes — drawing on extended mind theory, Vygotsky's zone of proximal development, and learning sciences.
     priority: high
   - topic: "[[Personal Knowledge Management — Cognitive Foundations]]"
-    description: "Theoretical grounding for PKB practices in cognitive science — what makes externalised knowledge genuinely cognitive rather than merely stored, and how PKB architecture can satisfy the conditions for genuine cognitive extension."
+    description: Theoretical grounding for PKB practices in cognitive science — what makes externalised knowledge genuinely cognitive rather than merely stored, and how PKB architecture can satisfy the conditions for genuine cognitive extension.
     priority: high
   - topic: "[[Technology as Cognitive Prosthesis]]"
-    description: "Applied and ethical analysis of digital tools, AI assistants, and augmented reality systems as potential cognitive extensions — including questions of dependency, autonomy, cognitive offloading costs and benefits."
+    description: Applied and ethical analysis of digital tools, AI assistants, and augmented reality systems as potential cognitive extensions — including questions of dependency, autonomy, cognitive offloading costs and benefits.
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# QUALITY INDICATORS
-# ═══════════════════════════════════════════════════════════════════════════
 empirical-support:
-  - "Hutchins (1995) — ethnographic studies of navigation as distributed cognition"
-  - "Clark & Chalmers (1998) — foundational theoretical argument with thought experiments"
-  - "Wilson (2002) — six views of embodied cognition, empirical review"
-  - "Risko & Gilbert (2016) — cognitive offloading research, empirical studies"
-
+  - Hutchins (1995) — ethnographic studies of navigation as distributed cognition
+  - Clark & Chalmers (1998) — foundational theoretical argument with thought experiments
+  - Wilson (2002) — six views of embodied cognition, empirical review
+  - Risko & Gilbert (2016) — cognitive offloading research, empirical studies
 limitations-noted:
   - "Coupling-constitution objection: functional coupling does not necessarily entail constitution of the cognitive system"
   - "Bloat problem: liberal application of parity principle may extend 'cognition' too broadly"
-  - "WEIRD-sample research base in empirical cognitive science; cross-cultural evidence limited"
-  - "Most evidence is theoretical or observational; controlled experimental support for extended mind claims is limited"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# DOCUMENT STRUCTURE
-# ═══════════════════════════════════════════════════════════════════════════
+  - WEIRD-sample research base in empirical cognitive science; cross-cultural evidence limited
+  - Most evidence is theoretical or observational; controlled experimental support for extended mind claims is limited
 sections:
   - "Phase I: Orientation & Context Setting"
   - "Phase II: Conceptual Foundations"
@@ -230,7 +178,6 @@ sections:
   - "Phase V: Applications, Implications & Limitations"
   - "Phase VI: Synthesis & Integration"
   - "Phase VII: Appendix"
-
 document-features:
   callouts: 26
   wiki-links: 42
@@ -239,21 +186,13 @@ document-features:
   lexicon-entries: 10
   references: 10
   expansion-topics: 7
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: budding
 importance: critical
 foundational-for-future-learning: true
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE & GENERATION
-# ═══════════════════════════════════════════════════════════════════════════
 source: claude-sonnet-4-6
 generation-prompt: "[[Foundational Report Generator v1.0]]"
-generation-date: "2026-03-11"
+generation-date: 2026-03-11
 ---
 
 # Extended Mind Theory

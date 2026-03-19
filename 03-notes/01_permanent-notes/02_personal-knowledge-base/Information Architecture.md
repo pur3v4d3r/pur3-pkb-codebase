@@ -30,7 +30,7 @@ review-priority: medium
 
 > [!definition]
 > - **Key-Term**:: [[Information Architecture]]
-> - [**Definition**:: The organization of information within a prompt follows principles from [[Library Science]] and [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.]
+> - [**Definition**:: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.]
 
 
 

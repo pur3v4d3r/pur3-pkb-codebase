@@ -46,7 +46,7 @@ For the examined life, Marcus provides not a method but an **exemplar**—this i
 
 The report highlights Marcus's technique of **preemptive rehearsal**: "When you wake up in the morning, tell yourself: I will meet people who are meddling, ungrateful, arrogant..." He's training [[intellectual patience]] and [[intellectual charity]] by preparing for frustration before it arises.
 
-**Key concept from R05:** Marcus demonstrates how intellectual virtues require constant practice, not one-time commitments. You cultivate [[intellectual humility]] not by deciding to be humble but by repeatedly catching and correcting arrogance across thousands of moments.
+**Key concept from R05:** Marcus demonstrates how intellectual virtues require constant practice, not one-time commitments. You cultivate [[Intellectual-Humility]] not by deciding to be humble but by repeatedly catching and correcting arrogance across thousands of moments.
 
 ### In Report 06: Taming System 1
 

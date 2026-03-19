@@ -46,7 +46,7 @@ For the examined life, Hadot's work is revolutionary because it shows that exami
 
 ### In Report 05: The Virtuous Reasoner
 
-[[report-05-the-virtuous-reasoner|Report 05]] uses Hadot's concept of **spiritual exercises** to explain how intellectual virtues become stable character traits. Hadot shows that ancient philosophers didn't just advocate for virtues like [[intellectual humility]]—they designed specific practices to cultivate them.
+[[report-05-the-virtuous-reasoner|Report 05]] uses Hadot's concept of **spiritual exercises** to explain how intellectual virtues become stable character traits. Hadot shows that ancient philosophers didn't just advocate for virtues like [[Intellectual-Humility]]—they designed specific practices to cultivate them.
 
 The report synthesizes Hadot with virtue epistemology: intellectual virtues are developed through the same kind of systematic practice that Hadot documents. [[Prosoche]] (attention training) is the master exercise that enables all others—you can't cultivate any virtue without first developing the ability to catch yourself in moments of failure.
 

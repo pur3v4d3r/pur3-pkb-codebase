@@ -57,11 +57,11 @@ related-works:
 
 ## What This Work Contributes
 
-[[Andy Clark]]'s *Surfing Uncertainty* provides the most philosophically accessible treatment of **[[Predictive Processing]]** (PP), the dominant paradigm in contemporary computational neuroscience. Clark synthesizes [[Karl Friston]]'s mathematically dense [[Free Energy Principle]] with [[Jakob Hohwy]]'s philosophical elaborations to present a unified account of the brain as a "prediction machine" — a system fundamentally organized around minimizing prediction error.
+[[Andy Clark]]'s *Surfing Uncertainty* provides the most philosophically accessible treatment of **[[Predictive-Processing]]** (PP), the dominant paradigm in contemporary computational neuroscience. Clark synthesizes [[Karl Friston]]'s mathematically dense [[Free-Energy-Principle]] with [[Jakob Hohwy]]'s philosophical elaborations to present a unified account of the brain as a "prediction machine" — a system fundamentally organized around minimizing prediction error.
 
-The **core insight**: The brain doesn't passively react to sensory input but actively generates predictions about what it expects to encounter. Perception is not bottom-up data processing but "controlled hallucination" — your brain's best guess about the causes of sensory signals, constrained by prediction errors (the mismatches between predictions and actual input). Action, in turn, is not commanded output but **[[Active Inference]]** — the brain generates predictions about desired states and then acts to make those predictions come true.
+The **core insight**: The brain doesn't passively react to sensory input but actively generates predictions about what it expects to encounter. Perception is not bottom-up data processing but "controlled hallucination" — your brain's best guess about the causes of sensory signals, constrained by prediction errors (the mismatches between predictions and actual input). Action, in turn, is not commanded output but **[[Active-Inference]]** — the brain generates predictions about desired states and then acts to make those predictions come true.
 
-**The unifying mechanism**: All cognitive processes — perception, action, attention, learning, decision-making, emotion — can be understood as variations on a single computational theme: **hierarchical prediction-error minimization**. The brain maintains multi-level generative models that predict sensory input from causes. When predictions fail, prediction errors propagate upward, updating higher-level models. When prediction errors are weighted as unreliable (low precision), top-down predictions dominate; when weighted as reliable (high precision), bottom-up errors drive updating. This **[[Precision Weighting]]** mechanism is what attention *is* at the computational level.
+**The unifying mechanism**: All cognitive processes — perception, action, attention, learning, decision-making, emotion — can be understood as variations on a single computational theme: **hierarchical prediction-error minimization**. The brain maintains multi-level generative models that predict sensory input from causes. When predictions fail, prediction errors propagate upward, updating higher-level models. When prediction errors are weighted as unreliable (low precision), top-down predictions dominate; when weighted as reliable (high precision), bottom-up errors drive updating. This **[[Precision-Weighting]]** mechanism is what attention *is* at the computational level.
 
 Clark's distinctive contribution is showing that PP is not just a neuroscientific proposal but a framework with profound philosophical implications for understanding embodiment, action, perception, consciousness, and selfhood. The framework dissolves traditional boundaries between perception and action, prediction and inference, mind and body — revealing them as artificial distinctions imposed on a unified predictive architecture.
 
@@ -71,7 +71,7 @@ Clark's distinctive contribution is showing that PP is not just a neuroscientifi
 
 ### Report 09 — The Embodied Reasoner
 
-Clark's work provides the computational neuroscience foundation for embodied cognition. The PP framework explains *how* the body constitutes part of the cognitive system: interoceptive predictions (the brain's model of the body's internal state) are not separate from cognitive predictions but integrated within the same hierarchical generative model. [[Interoceptive Inference]] — the brain's continuous prediction of visceral, autonomic, and metabolic states — is the mechanistic basis for [[Damasio]]'s [[Somatic Markers]] (from [[ref-damasio-descartes-error|*Descartes' Error*]]) and [[Barrett]]'s [[Core Affect]] (from [[ref-barrett-how-emotions-are-made|*How Emotions Are Made*]]).
+Clark's work provides the computational neuroscience foundation for embodied cognition. The PP framework explains *how* the body constitutes part of the cognitive system: interoceptive predictions (the brain's model of the body's internal state) are not separate from cognitive predictions but integrated within the same hierarchical generative model. [[Interoceptive-Inference]] — the brain's continuous prediction of visceral, autonomic, and metabolic states — is the mechanistic basis for [[Damasio]]'s [[Somatic Markers]] (from [[ref-damasio-descartes-error|*Descartes' Error*]]) and [[Barrett]]'s [[Core-Affect]] (from [[ref-barrett-how-emotions-are-made|*How Emotions Are Made*]]).
 
 The synthesis: Embodied cognition is not a metaphor but a computational necessity. The brain's generative models predict both external sensory input and internal bodily states simultaneously, and these predictions constrain each other. You cannot understand cognition without understanding how the body's predicted states shape the interpretation of environmental signals.
 
@@ -89,9 +89,9 @@ The synthesis: Embodied cognition is not a metaphor but a computational necessit
 - **[[Interoception]]** (Report 09) = **predictive modeling of the body** — visceral, autonomic, metabolic state prediction
 - **[[Constructed Emotion]]** (Report 10) = **categorization of interoceptive prediction errors** using learned emotion concepts
 - **[[Metacognitive Monitoring]]** = **prediction error at a higher hierarchical level** — models monitoring other models
-- **[[Belief Revision]]** = **updating deeply nested generative models** (explains why it's psychologically difficult)
+- **[[Belief-Revision]]** = **updating deeply nested generative models** (explains why it's psychologically difficult)
 
-**[[Precision Weighting]]** — Clark's central concept — provides the mechanistic account of what [[Stoic Prosoche]] (governance of attention) and metacognitive monitoring regulate. The brain modulates how much weight it gives to prediction errors versus prior beliefs. This is *what attention is* at the computational level — the allocation of precision estimates that determines which signals drive model updating.
+**[[Precision-Weighting]]** — Clark's central concept — provides the mechanistic account of what [[Stoic Prosoche]] (governance of attention) and metacognitive monitoring regulate. The brain modulates how much weight it gives to prediction errors versus prior beliefs. This is *what attention is* at the computational level — the allocation of precision estimates that determines which signals drive model updating.
 
 **The Examined Life recontextualized**: The entire framework becomes the practice of **becoming a better predictor** by becoming more responsive to prediction error. The Socratic "know thyself," the Stoic governance of attention, the Deweyan inquiry process — all are practices for calibrating precision weighting, updating generative models, and maintaining appropriate epistemic permeability to error signals.
 
@@ -107,14 +107,14 @@ Clark's framework (particularly his later work on the "narrative self-model" in 
 
 All of these concepts are developed in detail in the [[glossary]]:
 
-- **[[Predictive Processing]]** / [[Predictive Coding]]: The brain as prediction machine — continuously generating predictions about sensory input and updating models based on prediction errors
-- **[[Active Inference]]**: Action as self-fulfilling prediction — the brain predicts desired states and then acts to make those predictions come true, minimizing prediction error through action rather than model revision
-- **[[Prediction Error]]**: The mismatch between predicted and actual sensory input; the signal that drives model updating in hierarchical systems
+- **[[Predictive-Processing]]** / [[Predictive Coding]]: The brain as prediction machine — continuously generating predictions about sensory input and updating models based on prediction errors
+- **[[Active-Inference]]**: Action as self-fulfilling prediction — the brain predicts desired states and then acts to make those predictions come true, minimizing prediction error through action rather than model revision
+- **[[Prediction-Error]]**: The mismatch between predicted and actual sensory input; the signal that drives model updating in hierarchical systems
 - **[[Generative Models]]**: The brain's internal models that generate predictions about the causes of sensory signals; organized hierarchically from low-level features to high-level causes
-- **[[Precision Weighting]]**: The mechanism that modulates how much weight is given to prediction errors versus prior predictions; computationally equivalent to attention allocation
-- **[[Free Energy Principle]]**: Friston's mathematical formalization — organisms minimize a quantity called "free energy" (roughly: surprise or prediction error) to maintain their integrity
+- **[[Precision-Weighting]]**: The mechanism that modulates how much weight is given to prediction errors versus prior predictions; computationally equivalent to attention allocation
+- **[[Free-Energy-Principle]]**: Friston's mathematical formalization — organisms minimize a quantity called "free energy" (roughly: surprise or prediction error) to maintain their integrity
 - **[[Hierarchical Predictive Coding]]**: Multi-level architecture where higher levels predict activity at lower levels; prediction errors propagate upward, predictions propagate downward
-- **[[Controlled Hallucination]]**: Clark's characterization of perception — you hallucinate the world based on your generative model, constrained by sensory input correcting your hallucinations
+- **[[Controlled-Hallucination]]**: Clark's characterization of perception — you hallucinate the world based on your generative model, constrained by sensory input correcting your hallucinations
 - **[[Bayesian Brain]]**: The hypothesis that the brain performs approximate Bayesian inference, combining prior beliefs (predictions) with sensory evidence (prediction errors) weighted by precision estimates
 - **[[Precision Optimization]]**: Attention as the process of optimizing precision estimates — determining which signals are reliable (should drive updating) versus unreliable (should be ignored)
 
@@ -173,4 +173,4 @@ Clark, Andy. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied 
   - [[report-09-the-embodied-reasoner|Report 09 — The Embodied Reasoner]] (interoceptive prediction foundation)
   - [[report-13-the-predictive-mind|Report 13 — The Predictive Mind]] (master unification framework)
   - [[report-15-narrative-and-the-examined-life|Report 15 — Narrative and the Examined Life]] (narrative self-model as highest-level generative model)
-- **Key Glossary Terms**: [[Predictive Processing]], [[Active Inference]], [[Prediction Error]], [[Precision Weighting]], [[Generative Models]], [[Free Energy Principle]]
+- **Key Glossary Terms**: [[Predictive-Processing]], [[Active-Inference]], [[Prediction-Error]], [[Precision-Weighting]], [[Generative Models]], [[Free-Energy-Principle]]

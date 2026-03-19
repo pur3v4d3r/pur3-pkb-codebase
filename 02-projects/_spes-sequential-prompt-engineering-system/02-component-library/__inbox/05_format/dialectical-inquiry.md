@@ -28,12 +28,12 @@ link-related:
 
 # 🔱The Dialectical Inquiry Framework
 
-  * **[RATIONALE]:** This model is grounded in the [[Hegelian Dialectic]] (Thesis, Antithesis, Synthesis). Its pedagogical purpose is to force the learner to move beyond binary, "pro/con" thinking by critically examining two opposing viewpoints and then constructing a new, more sophisticated understanding that reconciles their valid points. This fills a crucial gap by focusing on *transformative understanding* rather than mere *comparative analysis*.
+  * **[RATIONALE]:** This model is grounded in the [[Hegelian-Dialectic]] (Thesis, Antithesis, Synthesis). Its pedagogical purpose is to force the learner to move beyond binary, "pro/con" thinking by critically examining two opposing viewpoints and then constructing a new, more sophisticated understanding that reconciles their valid points. This fills a crucial gap by focusing on *transformative understanding* rather than mere *comparative analysis*.
 ## 🔱**Scaffold**: The Dialectical Inquiry Framework
 
 > **Note:**
 >
->   * **Learning Model:** [[Hegelian Dialectic]] (Thesis-Antithesis-Synthesis).
+>   * **Learning Model:** [[Hegelian-Dialectic]] (Thesis-Antithesis-Synthesis).
 >   * **Pedagogical Purpose:** To cultivate deep [[Critical Thinking]] by forcing a confrontation between opposing ideas, leading to a more nuanced, integrated, and sophisticated understanding (Synthesis) rather than a simple "winner-takes-all" conclusion.
 >   * **Best Use Cases:**
 >     1.  Analyzing complex, controversial, or "grey" topics (e.g., [[The Ethics of AI]], [[Economic Policy Debates]], [[Philosophical Arguments]]).

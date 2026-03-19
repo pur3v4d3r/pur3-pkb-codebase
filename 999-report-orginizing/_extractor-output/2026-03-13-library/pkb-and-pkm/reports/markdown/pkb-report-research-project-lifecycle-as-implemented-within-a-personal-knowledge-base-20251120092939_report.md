@@ -391,7 +391,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Atomic Note-Taking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and External Memory Systems]]
@@ -449,7 +449,7 @@ extraction_summary:
 | 13 | [[Dual-Coding-Theory|dual-coding theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
 | 14 | [[spreading activation theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
 | 15 | [[Desirable-Difficulties|desirable difficulties]] | — | — | 2.0 🧭 Historical Context & Foundation... | 68 |
-| 16 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
+| 16 | [[Obsidian]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
 | 17 | [[Roam Research]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
 | 18 | [[Logseq]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
 | 19 | [[scientific methodology]] | — | — | 4.2 📚 Literature Acquisition and Prog... | 137 |
@@ -528,7 +528,7 @@ I'll create a comprehensive academic article on the research project lifecycle w
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
+- [[Obsidian]]
 - [[Atomic Note-Taking]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and External Memory Systems]]

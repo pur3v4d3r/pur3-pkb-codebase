@@ -20,7 +20,7 @@ quarter: "[[2025-Q4]]"
 year: "[[2025]]"
 type: cog-psy/report
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-11-22|Daily-Note]]"
 ---
@@ -79,7 +79,7 @@ Aliases: [[Pragmatic-Stoic Synthesis]], [[Constructivist Resilience Model]], [[T
 > **The Pragmatic-Stoic-Constructivist (PSC) Loop** is a cyclical model of self-development wherein **Pragmatism** defines the criterion of truth (utility and actionability), **Stoicism** provides the emotional stability to endure error signals from the environment, and **Constructivism** provides the cognitive architecture to modify internal schemas in response to those errors.
 
 > [!core-principle]
-> The fundamental operational philosophy here is **Instrumentalism**, derived from [[John Dewey]]. In this synthesis, beliefs are not static representations of reality to be admired, but tools (instruments) for navigating an environment. When a tool fails—when reality contradicts our expectations—the untrained mind experiences emotional distress. The **PSC Loop** solves this by using Stoic discipline to neutralize the distress of failure, thereby clearing the cognitive workspace for the Constructivist process of "accommodation," or re-tooling the mind for better future performance.
+> The fundamental operational philosophy here is **Instrumentalism**, derived from [[John-Dewey]]. In this synthesis, beliefs are not static representations of reality to be admired, but tools (instruments) for navigating an environment. When a tool fails—when reality contradicts our expectations—the untrained mind experiences emotional distress. The **PSC Loop** solves this by using Stoic discipline to neutralize the distress of failure, thereby clearing the cognitive workspace for the Constructivist process of "accommodation," or re-tooling the mind for better future performance.
 
 ### 3. Phase 2: Encyclopedic Exposition (The Deep Dive)
 
@@ -123,7 +123,7 @@ With the emotional volatility neutralized by Stoic discipline, the mind is free 
 >
 >   * **[[Cybernetics]]:** The PSC Loop is essentially a biological feedback loop. Norbert Wiener's work on error-correction in systems is the mathematical equivalent of this philosophical synthesis.
 >   * **[[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]]:** Nassim Taleb’s concept goes beyond resilience. A Constructivist system doesn't just survive shocks (Stoicism); it gains information from them to build better schemas.
->   * **[[Predictive Processing]]:** Karl Friston’s neuroscience theory suggests the brain is a "prediction engine." Stoicism minimizes the "free energy" (stress) of prediction errors, allowing for better model updating.
+>   * **[[Predictive-Processing]]:** Karl Friston’s neuroscience theory suggests the brain is a "prediction engine." Stoicism minimizes the "free energy" (stress) of prediction errors, allowing for better model updating.
 
 > [!further-exploration]
 >

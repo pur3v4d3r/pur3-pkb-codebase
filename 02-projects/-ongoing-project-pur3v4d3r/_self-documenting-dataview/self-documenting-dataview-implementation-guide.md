@@ -793,8 +793,8 @@ The query should now display something like:
 
 | Sections | Metadata | Image |
 |----------|----------|-------|
-| Query 1: Books by Genre with Counts | QueryType:: [[dql]]<br>dataCommands:: [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-obsidian/-formatting/table]], [[from]], [[flatten]], [[GROUP BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
-| Query 2: Reading Progress Dashboard | QueryType:: [[dql]]<br>dataCommands:: [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-obsidian/-formatting/table]], [[from]], [[flatten]], [[where]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[round]] | |
+| Query 1: Books by Genre with Counts | QueryType:: [[dql]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[GROUP BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
+| Query 2: Reading Progress Dashboard | QueryType:: [[dql]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[where]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[round]] | |
 
 > [!attention]
 > If you see "No results", troubleshoot:

@@ -54,7 +54,7 @@ link-related:
   - "[[Information Theory]]"
   - "[[Instructional Design]]"
   - "[[Intrinsic Motivation]]"
-  - "[[Kolb's Experiential Learning Cycle]]"
+  - "[[Kolb's-Experiential-Learning-Cycle]]"
   - "[[Learner Autonomy Spectrum]]"
   - "[[Library Science]]"
   - "[[Locus Of Control]]"
@@ -74,7 +74,7 @@ link-related:
   - "[[Self-Regulation-Theory]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]"
   - "[[System Building]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning]]"
   - "[[Working Memory]]"
   - "[[Zone Of Proximal Development]]"
 status: active

@@ -30,7 +30,7 @@ confidence: "speculative"
 next-review: "2025-12-21"
 review-count: 0
 link-up:
-  - "[[99-archive/05-moc's/cognitive-science-moc]]"
+  - "[[cognitive-science-moc]]"
 link-related:
   - "[[2025-12-14|Daily-Note]]"
 ---
@@ -418,7 +418,7 @@ The critical bottleneck mechanism. Broadbent argued that <span style='color: #FF
 [**Bottleneck-Hypothesis**:: The proposal that human information processing contains a structural limitation—a narrow passage through which only limited information can flow. The location of this bottleneck (early vs. late) became the central theoretical battleground.]
 
 **Stage 3: Limited-Capacity Channel (P-System)**  
-Information passing through the filter enters a limited-capacity **perceptual channel** where pattern recognition, semantic analysis, and conscious awareness occur. Broadbent estimated this channel could process approximately **one message stream at full rate**. After perceptual analysis, information transfers to [[short-term memory]] and potentially [[long-term memory]] for permanent storage.
+Information passing through the filter enters a limited-capacity **perceptual channel** where pattern recognition, semantic analysis, and conscious awareness occur. Broadbent estimated this channel could process approximately **one message stream at full rate**. After perceptual analysis, information transfers to [[Short-Term-Memory]] and potentially [[long-term memory]] for permanent storage.
 
 > [!definition] Early Selection
 > <span style='color: #27FF00;'>The theoretical position that attentional filtering occurs **before** semantic/meaning analysis. Unattended stimuli receive only rudimentary physical analysis and never reach consciousness or memory systems. Selection protects limited-capacity semantic processors from overload.</span>
@@ -661,7 +661,7 @@ Object-selective areas like the **fusiform face area** and **parahippocampal pla
 
 The selective attention debates fundamentally concerned how the brain manages **limited cognitive resources**. This connects directly to models of [[working memory]] and [[executive function]]:
 
-- **Broadbent's filter** anticipated [[Baddeley's Working Memory Model]] (1974) by proposing that a limited-capacity central processor requires protection from overload.
+- **Broadbent's filter** anticipated [[Baddeley's-Working-Memory-Model]] (1974) by proposing that a limited-capacity central processor requires protection from overload.
 
 - **Treisman's variable thresholds** foreshadowed [[Cowan's Embedded Processes Model]] (1999), which emphasizes activated long-term memory with limited-capacity focus of attention selecting among activated representations.
 
@@ -675,7 +675,7 @@ The locus of selection has profound consequences for **what gets learned**:
 
 If **early selection** predominates, unattended information never reaches [[long-term memory]] encoding—creating selective ignorance. If **late selection** operates, unattended information receives full semantic encoding and should produce **implicit memory** even without explicit awareness (as confirmed by [[repetition priming]] studies showing facilitation for unattended stimuli).
 
-This connects to debates about **learning without awareness** in [[implicit learning]], [[statistical learning]], and [[procedural memory]] systems. The late selection framework predicts that environmental regularities should be learned even without attention—a prediction strongly supported by research showing infants and adults extract statistical patterns from unattended auditory streams.
+This connects to debates about **learning without awareness** in [[implicit learning]], [[statistical learning]], and [[Procedural-Memory]] systems. The late selection framework predicts that environmental regularities should be learned even without attention—a prediction strongly supported by research showing infants and adults extract statistical patterns from unattended auditory streams.
 
 ---
 
@@ -744,7 +744,7 @@ Understanding selective attention has practical implications for:
 **Depth Potential:** Explores how predictive coding frameworks (Friston, 2010; Clark, 2013) reinterpret classic attention phenomena: the cocktail party effect becomes precision-weighted prediction error on self-relevant stimuli; early vs. late selection reflects hierarchical level of prediction error amplification.  
 **Knowledge Graph Role:** Bridges classical cognitive psychology with computational neuroscience and machine learning; demonstrates paradigm shifts in attention theory.  
 **Priority:** **Medium** — Represents cutting-edge theoretical developments but requires substantial mathematical/computational background for full understanding.  
-**Prerequisites:** [[Bayesian inference]], [[hierarchical models]], [[neural network basics]]; helpful to understand [[predictive processing]] framework first.
+**Prerequisites:** [[Bayesian-Inference]], [[hierarchical models]], [[neural network basics]]; helpful to understand [[Predictive-Processing]] framework first.
 
 ### 4. **[[Cognitive Load Theory]]** in Instructional Design
 **Connection:** Both CLT and selective attention models address limited cognitive capacity. CLT's distinction between **intrinsic load** (inherent task complexity) and **extraneous load** (imposed by poor design) parallels attention theory's concern with managing capacity limits through strategic filtering.  

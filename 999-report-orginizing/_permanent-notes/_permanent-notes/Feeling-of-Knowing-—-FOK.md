@@ -1,19 +1,12 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Feeling of Knowing — FOK"
+title: Feeling of Knowing — FOK
 aliases:
-  - "Feeling of Knowing — FOK"
-  - "Feeling of Knowing"
-  - "FOK"
+  - Feeling of Knowing — FOK
+  - Feeling of Knowing
+  - FOK
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -23,7 +16,6 @@ tags:
   - metacognition/embedding
   - educational-psychology/self-regulated-learning
   - educational-philosophy/reflective-inquiry
-
 domain: learning-science
 subdomains:
   - cognitive-psychology
@@ -31,39 +23,22 @@ subdomains:
   - educational-philosophy
   - instructional-design
   - metacognition
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14"
-  - "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+  - 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14
+  - metacognition-lifelong-learning-foundational-report-2026-03-05.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
   - "[[Metacognitive-Control|Metacognitive Control]]"
-  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
   - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
   - "[[Nelson-Narens-Model|Nelson Narens Model]]"
@@ -71,13 +46,10 @@ related:
   - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
   - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[Calibration]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
   - "[[Behavioral-Science|Behavioral Science]]"
@@ -95,39 +67,29 @@ see-also:
   - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
   - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
   - "[[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
   - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
   - "[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]"
   - "[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]"
-
 enables:
   - "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
   - "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
   - "[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]"
   - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
-
 expansion-topics:
   - topic: "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-    description: "How does metacognitive calibration accuracy change with deliberate practice, and what is the traject"
+    description: How does metacognitive calibration accuracy change with deliberate practice, and what is the traject
     priority: medium
   - topic: "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
-    description: "A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin"
+    description: A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin
     priority: medium
   - topic: "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-    description: "Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found"
+    description: Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found
     priority: medium
   - topic: "[[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]"
     description: "Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level "
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -197,7 +159,7 @@ importance: high
 [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Behavioral-Science|Behavioral Science]] · [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration-Tracking|Calibration Tracking]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] · [[Ease-of-Learning-—-EOL|Ease of Learning]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell]] · [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 
 **Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
-[[Metacognition|Metacognition]] * [[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[self-regulated-learning|self-regulated learning]]
+[[Metacognition|Metacognition]] * [[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|self-regulated learning]]
 
 **Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]

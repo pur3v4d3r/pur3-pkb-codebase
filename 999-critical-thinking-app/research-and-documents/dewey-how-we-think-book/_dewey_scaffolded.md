@@ -46,7 +46,7 @@ theme, we shall, however, first take note briefly of some
 other mental processes to which the name thought is sometimes given.
 
 
-The ‘[[Stream of Consciousness|Stream of Consciousness]]’ 
+The ‘[[Stream-of-Consciousness|Stream of Consciousness]]’ 
 
 
 All the time we are awake and sometimes when we are 
