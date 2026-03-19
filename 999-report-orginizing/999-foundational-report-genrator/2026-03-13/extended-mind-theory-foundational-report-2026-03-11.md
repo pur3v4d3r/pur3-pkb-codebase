@@ -5,9 +5,9 @@
 title: "Extended Mind Theory"
 aliases:
   - "[[Extended Mind]]"
-  - "[[Active Externalism]]"
+  - "[[Active-Externalism|Active Externalism]]"
   - "[[Clark-Chalmers Hypothesis]]"
-  - "[[EMT]]"
+  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|EMT]]"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -124,56 +124,56 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Philosophy of Mind — Foundations]]"
-  - "[[Classical Cognitivism]]"
+  - "[[Classical-Cognitivism|Classical Cognitivism]]"
   - "[[Functionalism (Philosophy of Mind)]]"
 
 related:
-  - "[[Cognitive Load Theory]]"
-  - "[[Schema Theory]]"
-  - "[[Embodied Cognition]]"
-  - "[[Distributed Cognition]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Embodied-Cognition|Embodied Cognition]]"
+  - "[[Distributed-Cognition|Distributed Cognition]]"
   - "[[Affordances]]"
   - "[[Enactivism]]"
-  - "[[Situated Learning]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Situated-Learning|Situated Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[Metacognition & Lifelong Learning]]"
 
 broader:
-  - "[[Philosophy of Mind]]"
-  - "[[Cognitive Science]]"
-  - "[[4E Cognition]]"
+  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[4E-Cognition|4E Cognition]]"
 
 narrower:
-  - "[[Parity Principle]]"
-  - "[[Cognitive Scaffolding]]"
+  - "[[Parity-Principle|Parity Principle]]"
+  - "[[Cognitive-Scaffolding|Cognitive Scaffolding]]"
   - "[[Epistemic Coupling]]"
   - "[[Technology as Cognitive Prosthesis]]"
 
 see-also:
-  - "[[Situated Cognition]]"
+  - "[[Situated-Cognition|Situated Cognition]]"
   - "[[Personal Knowledge Base Theory]]"
   - "[[Externalism in Philosophy of Language]]"
   - "[[Epistemic Injustice]]"
 
 contrasts-with:
-  - "[[Classical Cognitivism]]"
-  - "[[Internalism (Philosophy of Mind)]]"
+  - "[[Classical-Cognitivism|Classical Cognitivism]]"
+  - "[[Internalism|Internalism (Philosophy of Mind)]]"
   - "[[Cartesian Dualism]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Environment Design]]"
   - "[[Human-Computer Interaction]]"
   - "[[Assistive Technology Design]]"
-  - "[[Personal Knowledge Management]]"
+  - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[Functionalism (Philosophy of Mind)]]"
-  - "[[Classical Cognitivism]]"
-  - "[[Ecological Psychology]]"
+  - "[[Classical-Cognitivism|Classical Cognitivism]]"
+  - "[[Ecological-Psychology|Ecological Psychology]]"
 
 enables:
   - "[[Instructional Design Principles — Environmental Scaffolding]]"
@@ -182,10 +182,10 @@ enables:
   - "[[Distributed Cognition in Teams]]"
 
 expansion-topics:
-  - topic: "[[Embodied Cognition]]"
+  - topic: "[[Embodied-Cognition|Embodied Cognition]]"
     description: "The foundational 'E' that grounds extended mind theory — the claim that cognition is constituted by, not merely dependent on, the structure and dynamics of the body. Covers Merleau-Ponty's phenomenology, sensorimotor theories of perception, and implications for learning and skill acquisition."
     priority: high
-  - topic: "[[Distributed Cognition]]"
+  - topic: "[[Distributed-Cognition|Distributed Cognition]]"
     description: "Hutchins's detailed empirical account of how cognitive processes are distributed across individuals, representations, and artifacts in sociotechnical systems. Directly applicable to team learning, workplace cognition, and collaborative knowledge construction."
     priority: high
   - topic: "[[Affordances and Ecological Psychology]]"
@@ -262,13 +262,13 @@ generation-date: "2026-03-11"
 
 Where does your mind end and the world begin?
 
-The question may sound like a puzzle for a philosophy seminar, but it bears directly on some of the most pressing practical questions in contemporary cognitive science, education, and technology design. Most of us carry an unreflective assumption that the answer is obvious — the mind resides inside the skull, perhaps loosely identified with the brain, and everything outside constitutes the "environment" that the mind perceives, manipulates, and responds to. This is the picture that has dominated Western philosophy since Descartes, was formalised in mid-twentieth-century [[Classical Cognitivism]], and continues to shape intuitions about learning, intelligence, and what it means to know something.
+The question may sound like a puzzle for a philosophy seminar, but it bears directly on some of the most pressing practical questions in contemporary cognitive science, education, and technology design. Most of us carry an unreflective assumption that the answer is obvious — the mind resides inside the skull, perhaps loosely identified with the brain, and everything outside constitutes the "environment" that the mind perceives, manipulates, and responds to. This is the picture that has dominated Western philosophy since Descartes, was formalised in mid-twentieth-century [[Classical-Cognitivism|Classical Cognitivism]], and continues to shape intuitions about learning, intelligence, and what it means to know something.
 
 In 1998, philosophers [[Andy Clark]] and [[David Chalmers]] published a short, startling paper in the journal *Analysis*. "The Extended Mind" proposed a direct challenge to the skull-bound view: cognitive processes, they argued, can genuinely extend into the world. When the environment plays the same functional role as an internal mental state — when an external element carries, transforms, and makes available information in ways structurally equivalent to what the brain does when it does these things internally — then that external element is, by any theoretically defensible criterion, part of the cognitive system. The mind, on this view, is not a thing inside the head but a process that can span brain, body, and world.
 
-The paper generated one of the most productive philosophical debates of the past three decades. Critics charged that Clark and Chalmers had confused functional coupling with genuine cognitive constitution, that they had proved too much, and that their view threatened to dissolve any principled boundary around cognition. Defenders argued that the critics were guilty of an arbitrary, chauvinistic preference for neurons over other media, and that a consistent functionalist account of mind had to follow its logic wherever it led. Decades later, the debate remains alive, and the [[Extended Mind Theory]] has seeded an entire research programme under the banner of [[4E Cognition]] — treating cognition as Embodied, Embedded, Enacted, and Extended — that now commands serious attention across philosophy, cognitive science, neuroscience, and educational research.
+The paper generated one of the most productive philosophical debates of the past three decades. Critics charged that Clark and Chalmers had confused functional coupling with genuine cognitive constitution, that they had proved too much, and that their view threatened to dissolve any principled boundary around cognition. Defenders argued that the critics were guilty of an arbitrary, chauvinistic preference for neurons over other media, and that a consistent functionalist account of mind had to follow its logic wherever it led. Decades later, the debate remains alive, and the [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] has seeded an entire research programme under the banner of [[4E-Cognition|4E Cognition]] — treating cognition as Embodied, Embedded, Enacted, and Extended — that now commands serious attention across philosophy, cognitive science, neuroscience, and educational research.
 
-This report covers the conceptual core of Extended Mind Theory in depth: its foundational thought experiments and principles, its relationship to the broader theoretical landscape of [[Embodied Cognition]] and [[Distributed Cognition]], the mechanisms through which environmental extension is proposed to operate, its practical implications for learning environment design and personal knowledge management, and the substantive limitations and objections that any careful reader must take seriously. The report treats Extended Mind Theory not as settled doctrine but as a powerful theoretical framework whose productivity and limitations are both worth understanding precisely.
+This report covers the conceptual core of Extended Mind Theory in depth: its foundational thought experiments and principles, its relationship to the broader theoretical landscape of [[Embodied-Cognition|Embodied Cognition]] and [[Distributed-Cognition|Distributed Cognition]], the mechanisms through which environmental extension is proposed to operate, its practical implications for learning environment design and personal knowledge management, and the substantive limitations and objections that any careful reader must take seriously. The report treats Extended Mind Theory not as settled doctrine but as a powerful theoretical framework whose productivity and limitations are both worth understanding precisely.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, articulate your current intuition: is there a meaningful difference between knowing something "in your head" and knowing where to find it reliably? If you always carry a notebook with the same information you might otherwise memorise, does anything cognitively important change? Note your intuition — the theory will put direct pressure on it.
@@ -281,7 +281,7 @@ The report is structured for an intelligent reader without assumed background in
 
 ### The Target: Classical Cognitivism and Its Boundaries
 
-To understand what Extended Mind Theory is challenging, it is necessary first to understand what it is challenging. The dominant paradigm in cognitive science from roughly the 1960s through the 1990s can be characterised as [[Classical Cognitivism]] — the view that cognition consists in the manipulation of internal representations according to formal rules, carried out by computational processes instantiated in the brain. On this picture, the cognitive system is firmly delimited by the boundary of the individual organism: sensory inputs carry information in from the world, central processing manipulates it, and motor outputs send responses back out. The world figures in cognition as input and as target of output — but never as a constituent part of the cognitive process itself.
+To understand what Extended Mind Theory is challenging, it is necessary first to understand what it is challenging. The dominant paradigm in cognitive science from roughly the 1960s through the 1990s can be characterised as [[Classical-Cognitivism|Classical Cognitivism]] — the view that cognition consists in the manipulation of internal representations according to formal rules, carried out by computational processes instantiated in the brain. On this picture, the cognitive system is firmly delimited by the boundary of the individual organism: sensory inputs carry information in from the world, central processing manipulates it, and motor outputs send responses back out. The world figures in cognition as input and as target of output — but never as a constituent part of the cognitive process itself.
 
 > [!definition] **Classical Cognitivism**
 > The theoretical framework, dominant in cognitive science from the 1960s–1990s, holding that cognition consists in computational processes over internal, brain-bound representations. The mind is understood as an information-processing system with a principled boundary at the organism's skin or skull. External environments figure only as inputs and outputs, never as constituents of cognitive processes proper.
@@ -335,9 +335,9 @@ The difference matters. Content externalism leaves the Cartesian picture of the 
 
 ### The Broader 4E Cognition Movement
 
-Extended Mind Theory did not emerge from a vacuum. It arrived as one expression of a broader reaction against [[Classical Cognitivism]] that had been building since the 1970s. The umbrella term [[4E Cognition]] — cognition as Embodied, Embedded, Enacted, and Extended — groups several distinct but related research programmes that collectively challenge the brain-bound, representational picture.
+Extended Mind Theory did not emerge from a vacuum. It arrived as one expression of a broader reaction against [[Classical-Cognitivism|Classical Cognitivism]] that had been building since the 1970s. The umbrella term [[4E-Cognition|4E Cognition]] — cognition as Embodied, Embedded, Enacted, and Extended — groups several distinct but related research programmes that collectively challenge the brain-bound, representational picture.
 
-**[[Embodied Cognition]]**, rooted in phenomenological philosophy (especially [[Maurice Merleau-Ponty]]) and developed empirically by researchers including [[Lawrence Barsalou]], holds that cognitive processes are fundamentally shaped by the structure of the body and its sensorimotor capacities. This is more than the observation that bodies constrain thought; the claim is that the body's specific architecture is constitutively involved in the character of cognition — that concepts, for instance, are grounded in bodily simulation rather than in abstract symbols detached from sensorimotor experience.
+**[[Embodied-Cognition|Embodied Cognition]]**, rooted in phenomenological philosophy (especially [[Maurice Merleau-Ponty]]) and developed empirically by researchers including [[Lawrence Barsalou]], holds that cognitive processes are fundamentally shaped by the structure of the body and its sensorimotor capacities. This is more than the observation that bodies constrain thought; the claim is that the body's specific architecture is constitutively involved in the character of cognition — that concepts, for instance, are grounded in bodily simulation rather than in abstract symbols detached from sensorimotor experience.
 
 **Embedded cognition** holds that cognitive systems are deeply adapted to, and exploit, the structure of their environments — that organisms off-load work onto environmental regularities rather than computing everything from scratch. This is a weaker claim than Extended Mind Theory: the environment is used by the cognitive system but does not itself become part of it. The distinction between embedded and extended cognition is important and marks one of the key fault lines in the 4E literature.
 
@@ -348,7 +348,7 @@ Extended Mind Theory did not emerge from a vacuum. It arrived as one expression 
 
 ### Distributed Cognition: Hutchins's Empirical Programme
 
-Independently of Clark and Chalmers, anthropologist and cognitive scientist [[Edwin Hutchins]] developed the framework of [[Distributed Cognition]] through intensive empirical study of real-world cognitive systems. In his landmark 1995 book *Cognition in the Wild*, Hutchins studied the navigation of large naval vessels, arguing that the cognitive work of navigation is not performed by any individual crew member but is distributed across the crew, the physical instruments, the charts, the procedures, and the spatial layout of the ship itself. The ship's navigation system is, on Hutchins's account, a cognitive system — and understanding how it functions requires analysing the entire sociotechnical ensemble, not the individual minds within it.
+Independently of Clark and Chalmers, anthropologist and cognitive scientist [[Edwin Hutchins]] developed the framework of [[Distributed-Cognition|Distributed Cognition]] through intensive empirical study of real-world cognitive systems. In his landmark 1995 book *Cognition in the Wild*, Hutchins studied the navigation of large naval vessels, arguing that the cognitive work of navigation is not performed by any individual crew member but is distributed across the crew, the physical instruments, the charts, the procedures, and the spatial layout of the ship itself. The ship's navigation system is, on Hutchins's account, a cognitive system — and understanding how it functions requires analysing the entire sociotechnical ensemble, not the individual minds within it.
 
 Hutchins's programme converges with Clark and Chalmers's argument from a different direction: where Clark and Chalmers use philosophical thought experiments to establish the logical possibility of cognitive extension, Hutchins provides detailed empirical description of how such extension actually operates in complex real-world environments. The two frameworks are distinct in methodology and emphasis but mutually reinforcing in their challenge to internalism.
 
@@ -408,10 +408,10 @@ The phenomenology of expert tool use provides some experiential support for the 
 
 ### Scaffolding, Zone of Proximal Development, and Learning
 
-The extended mind framework connects with [[Lev Vygotsky]]'s concept of the [[Zone of Proximal Development]] and with research on [[Cognitive Scaffolding]] in productive ways. Vygotsky argued that cognitive development is fundamentally social: children first accomplish tasks in collaboration with more capable others, and only later internalise those capacities as individual skills. On a Vygotskian reading enriched by extended mind theory, the social and material scaffolding provided during learning is not merely a temporary support to be discarded — it may be the site where much of the cognitive work genuinely occurs, with internalisation representing the gradual reconfiguration of the cognitive system as the work is moved from the extended (social/material) system to the internal one.
+The extended mind framework connects with [[Lev Vygotsky]]'s concept of the [[Zone-of-Proximal-Development|Zone of Proximal Development]] and with research on [[Cognitive-Scaffolding|Cognitive Scaffolding]] in productive ways. Vygotsky argued that cognitive development is fundamentally social: children first accomplish tasks in collaboration with more capable others, and only later internalise those capacities as individual skills. On a Vygotskian reading enriched by extended mind theory, the social and material scaffolding provided during learning is not merely a temporary support to be discarded — it may be the site where much of the cognitive work genuinely occurs, with internalisation representing the gradual reconfiguration of the cognitive system as the work is moved from the extended (social/material) system to the internal one.
 
 > [!insight] **PKB as Cognitive Extension — A Direct Application**
-> The practice of maintaining a [[Personal Knowledge Base]] — systematically externalising, organising, and cross-referencing knowledge — can be understood through the lens of Extended Mind Theory. On Clark and Chalmers's account, a sufficiently well-maintained, reliably accessible, and automatically-endorsed PKB is not merely a reference resource: it may constitute a genuine cognitive extension. The quality of the PKB architecture matters cognitively, not just informationally. A well-structured PKB with meaningful links and clear retrieval paths enables cognitive extension; a poorly organised archive requires effortful reconstruction and functions more like a library — a resource external to the cognitive system rather than a constituent part of it.
+> The practice of maintaining a [[Personal-Knowledge-Base|Personal Knowledge Base]] — systematically externalising, organising, and cross-referencing knowledge — can be understood through the lens of Extended Mind Theory. On Clark and Chalmers's account, a sufficiently well-maintained, reliably accessible, and automatically-endorsed PKB is not merely a reference resource: it may constitute a genuine cognitive extension. The quality of the PKB architecture matters cognitively, not just informationally. A well-structured PKB with meaningful links and clear retrieval paths enables cognitive extension; a poorly organised archive requires effortful reconstruction and functions more like a library — a resource external to the cognitive system rather than a constituent part of it.
 
 > [!reflection] **Understanding the Machinery**
 > 1. The neurological evidence about tool incorporation (parietal body schema extension) suggests that the brain itself reorganises around coupled tools. Does this change your assessment of the coupling-constitution objection? Does the brain reorganising around a tool look more like constitution than coupling?
@@ -424,7 +424,7 @@ The extended mind framework connects with [[Lev Vygotsky]]'s concept of the [[Zo
 
 ### Implications for Learning Environment Design
 
-If cognition can genuinely extend into the environment, then the design of learning environments is not merely a matter of comfort or information display — it is a matter of cognitive architecture. A well-designed learning environment is not one that merely presents information clearly but one that structures the learner's cognitive system, augmenting and extending it in ways that support the development of competence. This is a reframing with significant consequences for [[Instructional Design]].
+If cognition can genuinely extend into the environment, then the design of learning environments is not merely a matter of comfort or information display — it is a matter of cognitive architecture. A well-designed learning environment is not one that merely presents information clearly but one that structures the learner's cognitive system, augmenting and extending it in ways that support the development of competence. This is a reframing with significant consequences for [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]].
 
 > [!best-practice] **Designing for Cognitive Extension in Learning Environments**
 > Drawing on extended mind theory, effective learning environment design should consider: (a) providing well-organised, reliably accessible external representations that can be trusted and automatically endorsed rather than requiring constant verification; (b) designing the spatial and material structure of the learning environment to encode relationships and procedures in accessible form; (c) scaffolding the construction of individual external knowledge systems (notes, diagrams, concept maps) as genuine cognitive extensions, not merely study aids; (d) attending to the conditions under which scaffolding can be faded without impoverishing the learner's extended cognitive system.
@@ -436,7 +436,7 @@ The framework also implies that assessments conducted in the absence of the lear
 
 ### Implications for Personal Knowledge Management
 
-The theoretical grounding that Extended Mind Theory provides for [[Personal Knowledge Management]] practices is among its most direct practical applications for the purposes of this PKB. [[Andy Clark]]'s account suggests that the value of a PKB is not merely informational but cognitive: a well-maintained PKB, reliably accessible and automatically endorsed, can function as a genuine extension of the practitioner's cognitive system. This means that the quality of PKB architecture — the meaningfulness of links, the clarity of retrieval structures, the reliability of access — is not merely a matter of aesthetic preference but a matter of cognitive capability.
+The theoretical grounding that Extended Mind Theory provides for [[Personal-Knowledge-Management|Personal Knowledge Management]] practices is among its most direct practical applications for the purposes of this PKB. [[Andy Clark]]'s account suggests that the value of a PKB is not merely informational but cognitive: a well-maintained PKB, reliably accessible and automatically endorsed, can function as a genuine extension of the practitioner's cognitive system. This means that the quality of PKB architecture — the meaningfulness of links, the clarity of retrieval structures, the reliability of access — is not merely a matter of aesthetic preference but a matter of cognitive capability.
 
 This also implies that time invested in PKB maintenance is not time spent "organising notes" — it is time spent developing and refining a cognitive system. The difference is motivationally and practically significant.
 
@@ -485,11 +485,11 @@ The synthesis insight is this: *cognitive systems are more porous and environmen
 > [!connections-and-links]
 > **Internal PKB Connections**
 >
-> This report on [[Extended Mind Theory]] connects to existing knowledge across the PKB:
+> This report on [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] connects to existing knowledge across the PKB:
 >
-> - **[[Cognitive Load Theory]]** — Cognitive Load Theory and Extended Mind Theory address the same underlying problem — the limited capacity of internal cognitive systems — from complementary directions. Where CLT focuses on managing the demands placed on internal working memory, Extended Mind Theory proposes that some cognitive work need not be internal at all. Together, they frame a powerful account of optimal learning environment design: reduce unnecessary demands on working memory (CLT) while designing environments that enable genuine cognitive extension (EMT). The two frameworks predict similar instructional recommendations but from different theoretical foundations.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Cognitive Load Theory and Extended Mind Theory address the same underlying problem — the limited capacity of internal cognitive systems — from complementary directions. Where CLT focuses on managing the demands placed on internal working memory, Extended Mind Theory proposes that some cognitive work need not be internal at all. Together, they frame a powerful account of optimal learning environment design: reduce unnecessary demands on working memory (CLT) while designing environments that enable genuine cognitive extension (EMT). The two frameworks predict similar instructional recommendations but from different theoretical foundations.
 >
-> - **[[Schema Theory]]** — Schema Theory describes how internal knowledge structures are organised and activated; Extended Mind Theory proposes that the relevant structures may not always be internal. A mature synthesis would ask how schemas extend into environmental structures — how well-designed external systems (PKB architecture, concept maps, worked examples) can encode and activate schematic knowledge in a way that extends the individual's effective schema repertoire. Bartlett's original account of schemas was already attentive to the cultural embedding of memory; extended mind theory radicalises this insight.
+> - **[[Schema-Theory|Schema Theory]]** — Schema Theory describes how internal knowledge structures are organised and activated; Extended Mind Theory proposes that the relevant structures may not always be internal. A mature synthesis would ask how schemas extend into environmental structures — how well-designed external systems (PKB architecture, concept maps, worked examples) can encode and activate schematic knowledge in a way that extends the individual's effective schema repertoire. Bartlett's original account of schemas was already attentive to the cultural embedding of memory; extended mind theory radicalises this insight.
 >
 > - **[[Metacognition & Lifelong Learning]]** — Metacognition is the capacity to monitor and regulate one's own cognitive processes. Extended Mind Theory adds an important dimension: if cognitive processes can extend into the environment, then metacognitive monitoring and regulation must extend there too. Effective metacognition, on this view, includes awareness of one's extended cognitive system — knowing where one's knowledge is stored, whether one's external systems are reliable, and how to maintain and develop them. This reframes the metacognitive demand of lifelong learning.
 >
@@ -589,10 +589,10 @@ The synthesis insight is this: *cognitive systems are more porous and environmen
 
 > [!further-exploration] **Deepening Your Practice**
 
-> > [!topic-idea] [[Embodied Cognition]]
+> > [!topic-idea] [[Embodied-Cognition|Embodied Cognition]]
 > > A comprehensive treatment of the claim that cognitive processes are constituted by, not merely dependent on, the structure and dynamics of the body. Would cover Merleau-Ponty's phenomenology of the lived body, Barsalou's grounded cognition and simulation theory, the role of sensorimotor contingencies in perception (O'Regan & Noë), and the distinction between weak embodiment (the body causally shapes cognition) and strong embodiment (the body constitutively participates in cognition). Essential background for Extended Mind Theory and a natural expansion of this node. **Priority: High.**
 
-> > [!topic-idea] [[Distributed Cognition]]
+> > [!topic-idea] [[Distributed-Cognition|Distributed Cognition]]
 > > A full treatment of Hutchins's framework and its applications, covering the theoretical architecture of distributed cognition, the ethnographic methodology through which it was developed, and applications to team learning, organisational knowledge, and workplace design. Hutchins's work is complementary to Clark-Chalmers — where Clark-Chalmers focus on individual organism-environment coupling, Hutchins focuses on sociotechnical systems. The two frameworks together constitute a powerful account of cognitive extension at different levels of analysis. **Priority: High.**
 
 > > [!topic-idea] [[Cognitive Scaffolding in Instructional Design]]

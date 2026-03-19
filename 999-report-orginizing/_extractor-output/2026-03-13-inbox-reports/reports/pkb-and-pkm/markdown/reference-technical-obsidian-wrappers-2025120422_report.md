@@ -392,7 +392,7 @@ extraction_summary:
 > - [[QuickAdd]] - capture plugin
 > - [[CSS Snippets]] - Obsidian feature
 > - [[Dataview]] - query plugin
-> - [[Personal Knowledge Management]] - broader context
+> - [[Personal-Knowledge-Management|Personal Knowledge Management]] - broader context
 > - [[Text Formatting]] - general concept
 > - [[Accessibility]] - design principle
 > - [[Keyboard Shortcuts]] - efficiency technique
@@ -621,7 +621,7 @@ extraction_summary:
 - [[Obsidian CSS Variables]]
 - [[Obsidian Callouts]]
 - [[Obsidian Wrappers]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[QuickAdd]]
 - [[Semantic Markup Principles for Knowledge Management]]
 - [[Stoicism]]
@@ -646,7 +646,7 @@ extraction_summary:
 | 6 | [[QuickAdd]] | — | — | Obsidian Wrappers | 250 |
 | 7 | [[CSS Snippets]] | — | — | Obsidian Wrappers | 251 |
 | 8 | [[Dataview]] | — | — | Obsidian Wrappers | 252 |
-| 9 | [[Personal Knowledge Management]] | — | — | Obsidian Wrappers | 253 |
+| 9 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Obsidian Wrappers | 253 |
 | 10 | [[Text Formatting]] | — | — | Obsidian Wrappers | 254 |
 | 11 | [[Accessibility]] | — | — | Obsidian Wrappers | 255 |
 | 12 | [[Keyboard Shortcuts]] | — | — | Obsidian Wrappers | 256 |
@@ -656,7 +656,7 @@ extraction_summary:
 | 16 | [[HTML]] | — | — | 1. 🎯 Foundation: Understanding Obsidi... | 326 |
 | 17 | [[CSS]] | — | — | 1. 🎯 Foundation: Understanding Obsidi... | 326 |
 | 18 | [[Markdown]] | — | — | 1. 🎯 Foundation: Understanding Obsidi... | 326 |
-| 19 | [[Personal Knowledge Management]] | — | — | What Makes Wrappers Powerful | 330 |
+| 19 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | What Makes Wrappers Powerful | 330 |
 | 20 | [[Templater]] | — | — | What Makes Wrappers Powerful | 330 |
 | 21 | [[QuickAdd]] | — | — | What Makes Wrappers Powerful | 330 |
 | 22 | [[Stoicism]] | — | — | Use Cases & Application Contexts | 352 |
@@ -1613,7 +1613,7 @@ const newPattern = "<span style='color: #DC2626; font-weight: 500;'>$1</span>";
 - [[Obsidian CSS Variables]]
 - [[Obsidian Callouts]]
 - [[Obsidian Wrappers]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[QuickAdd]]
 - [[Semantic Markup Principles for Knowledge Management]]
 - [[Stoicism]]

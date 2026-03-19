@@ -277,7 +277,7 @@ extraction_summary:
 #### 19. [CONNECTION-IDEAS] Untitled *(Line 340)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]] and [[Self-Determination Theory (SDT)]]. SDT posits that human well-being is contingent on three needs: **Autonomy, Competence, and Relatedness**. [^13]
+> The principles discussed here strongly connect to the field of [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] and [[Self-Determination-Theory|Self-Determination Theory (SDT)]]. SDT posits that human well-being is contingent on three needs: **Autonomy, Competence, and Relatedness**. [^13]
 > 
 > - The **Andragogical Personal Knowledge Base** is a direct answer to these needs.
 > - **Autonomy:** The entire system is built on self-direction, personal links, and emergent structure (Principles 1, 2, 4).
@@ -344,7 +344,7 @@ extraction_summary:
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 1. `[[Andragogy]]`
 > 1. `[[Problem-Centered Learning]]`
-> 1. `[[Cognitive Scaffolding]]`
+> 1. `[[Cognitive-Scaffolding|Cognitive Scaffolding]]`
 
 #### 27. [QUESTION] Untitled *(Line 415)*
 
@@ -421,8 +421,8 @@ extraction_summary:
 - [[Andragogy]]
 - [[Author (Year)]]
 - [[Autonomy fosters engagement]]
-- [[Cognitive Bias]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Confirmation Bias means users only see ads that prove their existing beliefs]]
 - [[Contradiction: My experience says "trust your gut" but this data says "gut instinct is biased"]]
 - [[Evergreen Note: The concept of "User Empathy"]]
@@ -440,12 +440,12 @@ extraction_summary:
 - [[My Core Beliefs & Experiences]]
 - [[My Mental Models]]
 - [[My first job taught me leadership]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Problem-Centered Learning]]
 - [[Problem: My marketing ads are failing]]
 - [[Problem: Why am I procrastinating?]]
 - [[Project: Q1 Marketing Strategy]]
-- [[Self-Determination Theory (SDT)]]
+- [[Self-Determination-Theory|Self-Determination Theory (SDT)]]
 - [[The "Need to Know" is the gatekeeper of adult attention]]
 - [[This explains *why* the 2023 product launch failed so badly]]
 - [[Zettelkasten]]
@@ -456,8 +456,8 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Author (Year)]] | — | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 180 |
-| 2 | [[Cognitive Bias]] | — | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 184 |
-| 3 | [[Cognitive Bias]] | the user's confirmation bias | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 184 |
+| 2 | [[Cognitive-Bias|Cognitive Bias]] | — | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 184 |
+| 3 | [[Cognitive-Bias|Cognitive Bias]] | the user's confirmation bias | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 184 |
 | 4 | [[Project: Q1 Marketing Strategy]] | — | — | 4.1 PRINCIPLE 1: THE NEED TO KNOW (CO... | 186 |
 | 5 | [[My Mental Models]] | — | — | 4.3 PRINCIPLE 3: THE ROLE OF PRIOR EX... | 214 |
 | 6 | [[My Core Beliefs & Experiences]] | — | — | 4.3 PRINCIPLE 3: THE ROLE OF PRIOR EX... | 214 |
@@ -482,13 +482,13 @@ extraction_summary:
 | 25 | [[Loss Aversion makes users fear missing out]] | — | — | 5.0 🔬OBSERVATIONAL EVIDENCE AND MANIF... | 328 |
 | 26 | [[Confirmation Bias means users only see ads that prove their existing beliefs]] | — | — | 5.0 🔬OBSERVATIONAL EVIDENCE AND MANIF... | 328 |
 | 27 | [[Problem: My marketing ads are failing]] | — | — | 5.0 🔬OBSERVATIONAL EVIDENCE AND MANIF... | 328 |
-| 28 | [[Personal Knowledge Management (PKM)]] | — | — | 6.0 🌍BROADER IMPLICATIONS AND SIGNIFI... | 342 |
-| 29 | [[Self-Determination Theory (SDT)]] | — | — | 6.0 🌍BROADER IMPLICATIONS AND SIGNIFI... | 342 |
+| 28 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.0 🌍BROADER IMPLICATIONS AND SIGNIFI... | 342 |
+| 29 | [[Self-Determination-Theory|Self-Determination Theory (SDT)]] | — | — | 6.0 🌍BROADER IMPLICATIONS AND SIGNIFI... | 342 |
 | 30 | [[Problem: Why am I procrastinating?]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 400 |
 | 31 | [[Zettelkasten]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 402 |
 | 32 | [[Andragogy]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 411 |
 | 33 | [[Problem-Centered Learning]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 412 |
-| 34 | [[Cognitive Scaffolding]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 413 |
+| 34 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | 9.0🧠KEY QUESTIONS FOR ACTIVE READING ... | 413 |
 
 ---
 
@@ -549,8 +549,8 @@ extraction_summary:
 - [[Andragogy]]
 - [[Author (Year)]]
 - [[Autonomy fosters engagement]]
-- [[Cognitive Bias]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Confirmation Bias means users only see ads that prove their existing beliefs]]
 - [[Contradiction: My experience says "trust your gut" but this data says "gut instinct is biased"]]
 - [[Evergreen Note: The concept of "User Empathy"]]
@@ -568,12 +568,12 @@ extraction_summary:
 - [[My Core Beliefs & Experiences]]
 - [[My Mental Models]]
 - [[My first job taught me leadership]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Problem-Centered Learning]]
 - [[Problem: My marketing ads are failing]]
 - [[Problem: Why am I procrastinating?]]
 - [[Project: Q1 Marketing Strategy]]
-- [[Self-Determination Theory (SDT)]]
+- [[Self-Determination-Theory|Self-Determination Theory (SDT)]]
 - [[The "Need to Know" is the gatekeeper of adult attention]]
 - [[This explains *why* the 2023 product launch failed so badly]]
 - [[Zettelkasten]]

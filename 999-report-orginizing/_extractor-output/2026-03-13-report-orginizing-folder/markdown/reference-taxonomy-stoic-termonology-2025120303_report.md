@@ -665,7 +665,7 @@ extraction_summary:
 > - **Key-Term**:: [[Hegemonikon]] (ἡγεμονικόν)
 > - **Pronunciation**:: heh-geh-mo-nee-KON
 > - **Translation**:: "Ruling faculty" or "Commanding faculty"
-> - **Definition**:: The central rational faculty of the soul; the seat of consciousness, judgment, and decision-making; the part of us that gives or withholds [[Assent]]
+> - **Definition**:: The central rational faculty of the soul; the seat of consciousness, judgment, and decision-making; the part of us that gives or withholds [[Stoic-Synkatathesis-—-Assent|Assent]]
 > - **Location**: Stoics believed it resided in the heart (not brain), coordinating all mental functions
 > - **Functions**: Receives [[Phantasia]] (impressions), gives [[Sunkatathesis]] (assent), forms [[Hormê]] (impulses), exercises reason
 > - **Marcus Aurelius**: "You have power over your mind—not outside events" (Meditations 6.52) — this power IS the [[Hegemonikon]]
@@ -686,7 +686,7 @@ extraction_summary:
 > - **Epictetus**: "It is not things themselves that disturb people, but their judgments about things" (Enchiridion 5) — assent is where we make those judgments
 > - **The Freedom Point**: Assent is always up to us ([[Eph' Hêmin]])—even if we can't control what impressions arise
 > - **Practical Application**: Before reacting, ask: "Do I really have to accept this thought as true? Could I be mistaken?"
-> - **Cross-References**:: See [[Phantasia]], [[Katalepsis]], [[Prohairesis]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Phantasia]], [[Katalepsis]], [[Prohairesis]], [[Discipline-of-Assent|Discipline of Assent]]
 
 #### 29. [DEFINITION] Untitled *(Line 624)*
 
@@ -903,7 +903,7 @@ extraction_summary:
 > - **Source of Freedom**: True freedom comes from investing energy only in [[Eph' Hêmin]]—what we actually control
 > - **Practical Framework**: Before any action/emotion, ask: "Is this response within my power? Am I controlling what I can control?"
 > - **The Core Practice**: Most Stoic exercises aim to redirect attention from [[Ouk Eph' Hêmin]] to [[Eph' Hêmin]]
-> - **Cross-References**:: See [[Ouk Eph' Hêmin]], [[Prohairesis]], [[Hegemonikon]], [[Dichotomy of Control]]
+> - **Cross-References**:: See [[Ouk Eph' Hêmin]], [[Prohairesis]], [[Hegemonikon]], [[Dichotomy-of-Control|Dichotomy of Control]]
 
 #### 45. [DEFINITION] Untitled *(Line 829)*
 
@@ -941,8 +941,8 @@ extraction_summary:
 > - **Pronunciation**:: AH-skeh-sis
 > - **Translation**:: Training, discipline, exercise, practice
 > - **Definition**:: Systematic spiritual and ethical training designed to develop [[Virtue]]; disciplined practices that strengthen the soul just as physical exercise strengthens the body
-> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline of Assent]]
-> - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
+> - **Epictetus' Three Topoi**: (1) [[Discipline of Desire]], (2) [[Discipline of Action]], (3) [[Discipline-of-Assent|Discipline of Assent]]
+> - **Types of Askesis**: [[Morning/Evening Review]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[View from Above]], [[Memento Mori]], [[Hypomnemata]]
 > - **Not Asceticism**: Goal is not self-denial for its own sake but training toward [[Virtue]] and [[Apatheia]]
 > - **Seneca**: "Cherish some man of high character, and keep him ever before your eyes, living as if he watched you, and ordering all your actions as if he beheld them" (Moral Letters 11.8)
 > - **Daily Rhythm**: Morning preparation → Mindful action → Evening review = continuous training cycle
@@ -956,18 +956,18 @@ extraction_summary:
 > - **Pronunciation**:: pro-so-KHAY
 > - **Translation**:: Attention, mindfulness, vigilance, watchfulness
 > - **Definition**:: The continuous, vigilant attention to one's own [[Prohairesis]] (moral character); sustained awareness of impressions and judgments as they arise
-> - **Core Practice**: Maintaining moment-to-moment awareness of the [[Dichotomy of Control]] and quality of one's [[Assent]]
+> - **Core Practice**: Maintaining moment-to-moment awareness of the [[Dichotomy-of-Control|Dichotomy of Control]] and quality of one's [[Stoic-Synkatathesis-—-Assent|Assent]]
 > - **Epictetus**: "Keep watch over yourself as over an enemy lying in ambush" (Discourses 4.12)
 > - **Pierre Hadot**: Called [[Prosochê]] "the fundamental Stoic spiritual attitude"—all other practices flow from this
 > - **Modern Connection**: Closely related to [[Mindfulness]] in Buddhist practice, but specifically focused on moral character
 > - **Challenge**: Requires constant effort—the mind habitually wanders to [[Ouk Eph' Hêmin]]
 > - **Practical Application**: Set reminders throughout day: "Am I paying attention to my judgments? Am I reacting automatically or consciously?"
-> - **Cross-References**:: See [[Askesis]], [[Sunkatathesis]], [[Hegemonikon]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Askesis]], [[Sunkatathesis]], [[Hegemonikon]], [[Discipline-of-Assent|Discipline of Assent]]
 
 #### 49. [DEFINITION] Untitled *(Line 882)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Premeditatio Malorum]] (Latin)
+> - **Key-Term**:: [[Premeditatio-Malorum|Premeditatio Malorum]] (Latin)
 > - **Translation**:: Premeditation of evils, negative visualization
 > - **Greek Equivalent**:: [[Praemeditatio]] / [[Melete Kakôn]]
 > - **Definition**:: The practice of imagining potential adversities, losses, and challenges before they occur to prepare the mind and reduce emotional impact
@@ -992,7 +992,7 @@ extraction_summary:
 > - **Philosophical Function**: Death reveals that all [[Adiaphora]] are temporary—only [[Character]] persists in impact
 > - **Modern Connection**: Basis of [[Existentialism]]'s "being-toward-death" and many contemplative traditions
 > - **Practical Application**: Daily reminder—"I could die today. What is essential? Am I living according to [[Virtue]]?"
-> - **Cross-References**:: See [[Premeditatio Malorum]], [[View from Above]], [[Melete Thanatou]]
+> - **Cross-References**:: See [[Premeditatio-Malorum|Premeditatio Malorum]], [[View from Above]], [[Melete Thanatou]]
 
 #### 51. [DEFINITION] Untitled *(Line 908)*
 
@@ -1006,7 +1006,7 @@ extraction_summary:
 > - **Seneca's Practice**: Nightly self-examination—"What bad habit did I cure today? What fault did I resist? In what way am I better?"
 > - **Content Examples**: Memorable quotes, personal challenges, analysis of [[Hamartia]] (errors), gratitude reflections
 > - **Michel Foucault**: Identified [[Hypomnemata]] as key technology of self in ancient philosophy
-> - **Practical Application**: Keep daily Stoic journal—evening review of day's events through lens of [[Dichotomy of Control]]
+> - **Practical Application**: Keep daily Stoic journal—evening review of day's events through lens of [[Dichotomy-of-Control|Dichotomy of Control]]
 > - **Cross-References**:: See [[Askesis]], [[Prosochê]], [[Evening Review]], [[Marcus Aurelius Meditations]]
 
 #### 52. [DEFINITION] Untitled *(Line 921)*
@@ -1021,7 +1021,7 @@ extraction_summary:
 > - **Epictetus' Version**: "Do not seek for things to happen as you wish, but wish for things to happen as they do, and you will be serene" (Enchiridion 8)
 > - **Practical Foundation**: Rooted in [[Heimarmenê]] (fate) and [[Pronoia]] (providence)—cosmic events serve larger purpose
 > - **Practical Application**: When facing difficulty, consciously say: "This is exactly what I need to develop [[Virtue]]—I embrace this challenge"
-> - **Cross-References**:: See [[Heimarmenê]], [[Pronoia]], [[Premeditatio Malorum]], [[Obstacle Is the Way]]
+> - **Cross-References**:: See [[Heimarmenê]], [[Pronoia]], [[Premeditatio-Malorum|Premeditatio Malorum]], [[Obstacle Is the Way]]
 
 #### 53. [DEFINITION] Untitled *(Line 939)*
 
@@ -1029,14 +1029,14 @@ extraction_summary:
 > - **Key-Term**:: [[The Three Disciplines / Topoi]] (τόποι)
 > - **Pronunciation**:: TOH-poy (plural)
 > - **Translation**:: The three areas of training, the three topics
-> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline of Assent]] (sunkatathesis)
+> - **Epictetus' Framework**: (1) [[Discipline of Desire]] (orexis), (2) [[Discipline of Action]] (hormê), (3) [[Discipline-of-Assent|Discipline of Assent]] (sunkatathesis)
 > - **Definition**:: The three domains of practical Stoic training, each addressing a different aspect of human psychology and corresponding to branches of philosophy
 > - **Correspondence**: Desire → Physics/Theology | Action → Ethics | Assent → Logic
 > - **Progressive Structure**: (1) First master desires/aversions, (2) Then appropriate actions, (3) Finally refine assent
 > - **Epictetus**: "In the first topic, we have impressions of what is good and bad…in the second, impulses…in the third, assent" (Discourses 3.2)
 > - **Pierre Hadot**: Identified these as structuring principle of [[Marcus Aurelius]]' *Meditations*
 > - **Practical Application**: Each day, train in all three: examine desires, perform duties, scrutinize judgments
-> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline of Assent]]
+> - **Cross-References**:: See [[Discipline of Desire]], [[Discipline of Action]], [[Discipline-of-Assent|Discipline of Assent]]
 
 #### 54. [DEFINITION] Untitled *(Line 952)*
 
@@ -1122,7 +1122,7 @@ extraction_summary:
 > - **Translation**:: Pre-passions, first movements, proto-emotions
 > - **Definition**:: Automatic physiological responses to impressions that occur before judgment—rapid heartbeat, flinch, blush, tears
 > - **Key Distinction**: [[Propatheiai]] are NOT [[Pathos]] (passions)—they're involuntary physical reactions, not judgments
-> - **Even in the Sage**: The [[Sophos]] experiences [[Propatheiai]] but doesn't give [[Assent]] to false judgments about them
+> - **Even in the Sage**: The [[Sophos]] experiences [[Propatheiai]] but doesn't give [[Stoic-Synkatathesis-—-Assent|Assent]] to false judgments about them
 > - **Seneca**: "The color and expression of the face are affected, the limbs tremble…but these are not the passion itself" (On Anger 2.2)
 > - **Practical Relevance**: Don't judge yourself for initial emotional responses—judge your subsequent judgments
 > - **Modern Connection**: Similar to distinction between "System 1" (automatic) and "System 2" (deliberative) in cognitive psychology
@@ -1189,7 +1189,7 @@ extraction_summary:
 - [[Apoproegmena]]
 - [[Arete]]
 - [[Askesis]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Autarkeia]]
 - [[Autexousion]]
@@ -1209,12 +1209,12 @@ extraction_summary:
 - [[Cosmos]]
 - [[Courage]]
 - [[Dianoia]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dikaiosyne]]
 - [[Diogenes Laertius]]
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
-- [[Discipline of Assent]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Discipline of Desire]]
 - [[Doxa]]
 - [[Ekloge]]
@@ -1225,7 +1225,7 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Episteme]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Epithumia]]
 - [[Ethical Framework]]
 - [[Ethics]]
@@ -1306,7 +1306,7 @@ extraction_summary:
 - [[Phantasiai]]
 - [[Philanthropia]]
 - [[Philoponia]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Phobos]]
 - [[Phronesis]]
 - [[Physics]]
@@ -1316,7 +1316,7 @@ extraction_summary:
 - [[Practical Philosophy]]
 - [[Praemeditatio]]
 - [[Praxis]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Proegmena]]
 - [[Prohairesis]]
 - [[Prokoptôn]]
@@ -1577,7 +1577,7 @@ extraction_summary:
 | 199 | [[Apatheia]] | — | — | Vice, Error, and Moral Progress | 575 |
 | 200 | [[Eupatheia]] | — | — | Vice, Error, and Moral Progress | 575 |
 | 201 | [[Prokoptôn]] | — | — | Vice, Error, and Moral Progress | 575 |
-| 202 | [[Philosophy of Mind]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 581 |
+| 202 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 581 |
 | 203 | [[Stoic Practice]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 581 |
 | 204 | [[Eph' Hêmin]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 581 |
 | 205 | [[Phantasia]] | — | — | 🧠 Psychology & Cognition - Mental Ope... | 584 |
@@ -1593,7 +1593,7 @@ extraction_summary:
 | 215 | [[Hegemonikon]] | — | — | The Psychological Chain: From Impress... | 597 |
 | 216 | [[Prosochê]] | — | — | The Psychological Chain: From Impress... | 597 |
 | 217 | [[Hegemonikon]] | — | — | The Psychological Chain: From Impress... | 600 |
-| 218 | [[Assent]] | — | — | The Psychological Chain: From Impress... | 603 |
+| 218 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The Psychological Chain: From Impress... | 603 |
 | 219 | [[Phantasia]] | — | — | The Psychological Chain: From Impress... | 605 |
 | 220 | [[Sunkatathesis]] | — | — | The Psychological Chain: From Impress... | 605 |
 | 221 | [[Hormê]] | — | — | The Psychological Chain: From Impress... | 605 |
@@ -1611,7 +1611,7 @@ extraction_summary:
 | 233 | [[Phantasia]] | — | — | The Psychological Chain: From Impress... | 622 |
 | 234 | [[Katalepsis]] | — | — | The Psychological Chain: From Impress... | 622 |
 | 235 | [[Prohairesis]] | — | — | The Psychological Chain: From Impress... | 622 |
-| 236 | [[Discipline of Assent]] | — | — | The Psychological Chain: From Impress... | 622 |
+| 236 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | The Psychological Chain: From Impress... | 622 |
 | 237 | [[Prohairesis]] | — | — | The Psychological Chain: From Impress... | 625 |
 | 238 | [[Sunkatathesis]] | — | — | The Psychological Chain: From Impress... | 628 |
 | 239 | [[Prohairesis]] | — | — | The Psychological Chain: From Impress... | 632 |
@@ -1779,7 +1779,7 @@ extraction_summary:
 | 401 | [[Ouk Eph' Hêmin]] | — | — | The Dichotomy of Control | 827 |
 | 402 | [[Prohairesis]] | — | — | The Dichotomy of Control | 827 |
 | 403 | [[Hegemonikon]] | — | — | The Dichotomy of Control | 827 |
-| 404 | [[Dichotomy of Control]] | — | — | The Dichotomy of Control | 827 |
+| 404 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Dichotomy of Control | 827 |
 | 405 | [[Ta Ouk Eph' Hêmin]] | — | — | The Dichotomy of Control | 830 |
 | 406 | [[Prohairesis]] | — | — | The Dichotomy of Control | 833 |
 | 407 | [[Ouk Eph' Hêmin]] | — | — | The Dichotomy of Control | 835 |
@@ -1806,9 +1806,9 @@ extraction_summary:
 | 428 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 860 |
 | 429 | [[Discipline of Desire]] | — | — | Spiritual Exercises & Daily Practices | 861 |
 | 430 | [[Discipline of Action]] | — | — | Spiritual Exercises & Daily Practices | 861 |
-| 431 | [[Discipline of Assent]] | — | — | Spiritual Exercises & Daily Practices | 861 |
+| 431 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | Spiritual Exercises & Daily Practices | 861 |
 | 432 | [[Morning/Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 862 |
-| 433 | [[Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 862 |
+| 433 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 862 |
 | 434 | [[View from Above]] | — | — | Spiritual Exercises & Daily Practices | 862 |
 | 435 | [[Memento Mori]] | — | — | Spiritual Exercises & Daily Practices | 862 |
 | 436 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 862 |
@@ -1820,16 +1820,16 @@ extraction_summary:
 | 442 | [[Melete Thanatou]] | — | — | Spiritual Exercises & Daily Practices | 867 |
 | 443 | [[Prosochê]] | — | — | Spiritual Exercises & Daily Practices | 870 |
 | 444 | [[Prohairesis]] | — | — | Spiritual Exercises & Daily Practices | 873 |
-| 445 | [[Dichotomy of Control]] | — | — | Spiritual Exercises & Daily Practices | 874 |
-| 446 | [[Assent]] | — | — | Spiritual Exercises & Daily Practices | 874 |
+| 445 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Spiritual Exercises & Daily Practices | 874 |
+| 446 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | Spiritual Exercises & Daily Practices | 874 |
 | 447 | [[Prosochê]] | — | — | Spiritual Exercises & Daily Practices | 876 |
 | 448 | [[Mindfulness]] | — | — | Spiritual Exercises & Daily Practices | 877 |
 | 449 | [[Ouk Eph' Hêmin]] | — | — | Spiritual Exercises & Daily Practices | 878 |
 | 450 | [[Askesis]] | — | — | Spiritual Exercises & Daily Practices | 880 |
 | 451 | [[Sunkatathesis]] | — | — | Spiritual Exercises & Daily Practices | 880 |
 | 452 | [[Hegemonikon]] | — | — | Spiritual Exercises & Daily Practices | 880 |
-| 453 | [[Discipline of Assent]] | — | — | Spiritual Exercises & Daily Practices | 880 |
-| 454 | [[Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 883 |
+| 453 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | Spiritual Exercises & Daily Practices | 880 |
+| 454 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 883 |
 | 455 | [[Praemeditatio]] | — | — | Spiritual Exercises & Daily Practices | 885 |
 | 456 | [[Melete Kakôn]] | — | — | Spiritual Exercises & Daily Practices | 885 |
 | 457 | [[Ouk Eph' Hêmin]] | — | — | Spiritual Exercises & Daily Practices | 890 |
@@ -1844,7 +1844,7 @@ extraction_summary:
 | 466 | [[Character]] | — | — | Spiritual Exercises & Daily Practices | 903 |
 | 467 | [[Existentialism]] | — | — | Spiritual Exercises & Daily Practices | 904 |
 | 468 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 905 |
-| 469 | [[Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 906 |
+| 469 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 906 |
 | 470 | [[View from Above]] | — | — | Spiritual Exercises & Daily Practices | 906 |
 | 471 | [[Melete Thanatou]] | — | — | Spiritual Exercises & Daily Practices | 906 |
 | 472 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 909 |
@@ -1852,7 +1852,7 @@ extraction_summary:
 | 474 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 913 |
 | 475 | [[Hamartia]] | — | — | Spiritual Exercises & Daily Practices | 916 |
 | 476 | [[Hypomnemata]] | — | — | Spiritual Exercises & Daily Practices | 917 |
-| 477 | [[Dichotomy of Control]] | — | — | Spiritual Exercises & Daily Practices | 918 |
+| 477 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Spiritual Exercises & Daily Practices | 918 |
 | 478 | [[Askesis]] | — | — | Spiritual Exercises & Daily Practices | 919 |
 | 479 | [[Prosochê]] | — | — | Spiritual Exercises & Daily Practices | 919 |
 | 480 | [[Evening Review]] | — | — | Spiritual Exercises & Daily Practices | 919 |
@@ -1865,22 +1865,22 @@ extraction_summary:
 | 487 | [[Virtue]] | — | — | Spiritual Exercises & Daily Practices | 930 |
 | 488 | [[Heimarmenê]] | — | — | Spiritual Exercises & Daily Practices | 931 |
 | 489 | [[Pronoia]] | — | — | Spiritual Exercises & Daily Practices | 931 |
-| 490 | [[Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 931 |
+| 490 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises & Daily Practices | 931 |
 | 491 | [[Obstacle Is the Way]] | — | — | Spiritual Exercises & Daily Practices | 931 |
 | 492 | [[Logic]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 493 | [[Logikê]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
-| 494 | [[Epistemology]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
+| 494 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 495 | [[Rhetoric]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 496 | [[Virtue]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 497 | [[Three Disciplines]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 937 |
 | 498 | [[The Three Disciplines / Topoi]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 940 |
 | 499 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 500 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
-| 501 | [[Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
+| 501 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 943 |
 | 502 | [[Marcus Aurelius]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 948 |
 | 503 | [[Discipline of Desire]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 504 | [[Discipline of Action]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
-| 505 | [[Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
+| 505 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 950 |
 | 506 | [[Lekton]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 953 |
 | 507 | [[Lekta]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 960 |
 | 508 | [[Phantasiai]] | — | — | 🔍 Logic & Epistemology - Reasoning & ... | 961 |
@@ -1946,7 +1946,7 @@ extraction_summary:
 | 568 | [[Pathos]] | — | — | Advanced Psychological Terms | 1031 |
 | 569 | [[Sophos]] | — | — | Advanced Psychological Terms | 1032 |
 | 570 | [[Propatheiai]] | — | — | Advanced Psychological Terms | 1032 |
-| 571 | [[Assent]] | — | — | Advanced Psychological Terms | 1032 |
+| 571 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | Advanced Psychological Terms | 1032 |
 | 572 | [[Pathos]] | — | — | Advanced Psychological Terms | 1036 |
 | 573 | [[Sunkatathesis]] | — | — | Advanced Psychological Terms | 1036 |
 | 574 | [[Phantasia]] | — | — | Advanced Psychological Terms | 1036 |
@@ -2309,7 +2309,7 @@ LIMIT 15
 - [[Apoproegmena]]
 - [[Arete]]
 - [[Askesis]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Autarkeia]]
 - [[Autexousion]]
@@ -2329,12 +2329,12 @@ LIMIT 15
 - [[Cosmos]]
 - [[Courage]]
 - [[Dianoia]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dikaiosyne]]
 - [[Diogenes Laertius]]
 - [[Diogenes the Cynic]]
 - [[Discipline of Action]]
-- [[Discipline of Assent]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Discipline of Desire]]
 - [[Doxa]]
 - [[Ekloge]]
@@ -2345,7 +2345,7 @@ LIMIT 15
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Episteme]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Epithumia]]
 - [[Ethical Framework]]
 - [[Ethics]]
@@ -2426,7 +2426,7 @@ LIMIT 15
 - [[Phantasiai]]
 - [[Philanthropia]]
 - [[Philoponia]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Phobos]]
 - [[Phronesis]]
 - [[Physics]]
@@ -2436,7 +2436,7 @@ LIMIT 15
 - [[Practical Philosophy]]
 - [[Praemeditatio]]
 - [[Praxis]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Proegmena]]
 - [[Prohairesis]]
 - [[Prokoptôn]]

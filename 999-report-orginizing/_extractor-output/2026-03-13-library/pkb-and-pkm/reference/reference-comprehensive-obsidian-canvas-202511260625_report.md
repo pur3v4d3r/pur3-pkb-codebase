@@ -247,7 +247,7 @@ extraction_summary:
 
 > [!analogy] Untitled
 > **Illuminating Comparison**
-> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[Wiki-Links]] are roads (connections), [[MOC|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
+> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[Wiki-Links]] are roads (connections), [[Maps-of-Content-—-MOCs|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
 
 #### 9. [DEFINITION] Untitled *(Line 221)*
 
@@ -522,17 +522,17 @@ extraction_summary:
 
 - [[Advanced Canvas]]
 - [[Canvas Minimap]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Concept Mapping]]
 - [[Dataview]]
 - [[Dataview Advanced Techniques]]
 - [[Enhanced Canvas]]
 - [[Flexibility Over Rigidity]]
 - [[Graph View]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[JSON Canvas Specification Deep Dive]]
 - [[Knowledge Synthesis]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Markdown]]
 - [[Mind Mapping]]
 - [[Note Name]]
@@ -546,7 +546,7 @@ extraction_summary:
 - [[Query Library]]
 - [[Query Note]]
 - [[QuickAdd]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Spatial Memory]]
 - [[Spatial Thinking]]
 - [[Tasks]]
@@ -577,7 +577,7 @@ extraction_summary:
 | 3 | [[Visual Knowledge Management]] | — | — | Claude Thinking: | 104 |
 | 4 | [[Spatial Thinking]] | — | — | Claude Thinking: | 105 |
 | 5 | [[Zettelkasten]] | — | — | Claude Thinking: | 106 |
-| 6 | [[MOC]] | — | — | Claude Thinking: | 107 |
+| 6 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Claude Thinking: | 107 |
 | 7 | [[Mind Mapping]] | — | — | Claude Thinking: | 108 |
 | 8 | [[Concept Mapping]] | — | — | Claude Thinking: | 109 |
 | 9 | [[Graph View]] | — | — | Claude Thinking: | 110 |
@@ -588,7 +588,7 @@ extraction_summary:
 | 14 | [[Dataview]] | — | — | Claude Thinking: | 115 |
 | 15 | [[Templater]] | — | — | Claude Thinking: | 116 |
 | 16 | [[Visual Hierarchy]] | — | — | Claude Thinking: | 117 |
-| 17 | [[Information Architecture]] | — | — | Claude Thinking: | 118 |
+| 17 | [[Information-Architecture|Information Architecture]] | — | — | Claude Thinking: | 118 |
 | 18 | [[Spatial Thinking]] | spatial knowledge organization | — | Claude Thinking: | 160 |
 | 19 | [[Visual Knowledge Management]] | — | — | Claude Thinking: | 160 |
 | 20 | [[Zettelkasten]] | — | — | Claude Thinking: | 160 |
@@ -604,10 +604,10 @@ extraction_summary:
 | 30 | [[Flexibility Over Rigidity]] | — | — | Foundational Philosophy | 200 |
 | 31 | [[Obsidian]] | — | — | Foundational Philosophy | 204 |
 | 32 | [[Wiki-Links]] | — | — | Foundational Philosophy | 204 |
-| 33 | [[MOC]] | MOCs | — | Foundational Philosophy | 204 |
+| 33 | [[Maps-of-Content-—-MOCs|MOC]] | MOCs | — | Foundational Philosophy | 204 |
 | 34 | [[Mind Mapping]] | — | — | Use Case Philosophy | 210 |
 | 35 | [[Concept Mapping]] | — | — | Use Case Philosophy | 211 |
-| 36 | [[MOC]] | Maps of Content | — | Use Case Philosophy | 214 |
+| 36 | [[Maps-of-Content-—-MOCs|MOC]] | Maps of Content | — | Use Case Philosophy | 214 |
 | 37 | [[Advanced Canvas]] | — | — | Technical Specifications | 279 |
 | 38 | [[Graph View]] | — | — | Technical Specifications | 283 |
 | 39 | [[Advanced Canvas]] | — | — | Technical Specifications | 283 |
@@ -632,7 +632,7 @@ extraction_summary:
 | 58 | [[ZettelFlow]] | — | — | [[ZettelFlow]] Plugin (Zettelkasten-S... | 599 |
 | 59 | [[QuickAdd]] | — | — | [[ZettelFlow]] Plugin (Zettelkasten-S... | 609 |
 | 60 | [[canvas-queries]] | — | Due This Week | No Date (Needs Processing) | 716 |
-| 61 | [[MOC]] | Maps of Content | — | Visual MOC Implementation | 779 |
+| 61 | [[Maps-of-Content-—-MOCs|MOC]] | Maps of Content | — | Visual MOC Implementation | 779 |
 | 62 | [[wiki-links]] | — | — | Visual MOC Implementation | 783 |
 | 63 | [[Topic MOC]] | — | — | Visual MOC Implementation | 804 |
 | 64 | [[Topic MOC Canvas]] | — | — | Visual MOC Implementation | 804 |
@@ -645,8 +645,8 @@ extraction_summary:
 | 71 | [[🎯Prompt-Engineering_🗺️MOC]] | — | — | Implementation Phase 2: Visual MOC Co... | 1038 |
 | 72 | [[links]] | — | — | Implementation Phase 2: Visual MOC Co... | 1041 |
 | 73 | [[QuickAdd]] | — | — | Implementation Phase 4: System Optimi... | 1092 |
-| 74 | [[Self-Regulated Learning]] | — | — | Pattern 2: **Weekly Review Canvas** | 1134 |
-| 75 | [[Cognitive Load]] | — | — | Pattern 4: **Meta-Cognitive Reflectio... | 1157 |
+| 74 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Pattern 2: **Weekly Review Canvas** | 1134 |
+| 75 | [[Cognitive-Load|Cognitive Load]] | — | — | Pattern 4: **Meta-Cognitive Reflectio... | 1157 |
 | 76 | [[Zettelkasten]] | — | — | Limitation 1: No Native Graph Integra... | 1179 |
 | 77 | [[Graph View]] | — | — | Limitation 1: No Native Graph Integra... | 1182 |
 | 78 | [[Advanced Canvas]] | — | — | Limitation 1: No Native Graph Integra... | 1187 |
@@ -656,7 +656,7 @@ extraction_summary:
 | 82 | [[Advanced Canvas]] | — | — | Limitation 5: No Built-In Presentatio... | 1234 |
 | 83 | [[Canvas Minimap]] | — | — | Edge Cases & Gotchas | 1241 |
 | 84 | [[Zettelkasten]] | — | — | 🎯 Synthesis & Mastery | 1334 |
-| 85 | [[MOC]] | — | — | Comparative Analysis: When to Use Can... | 1354 |
+| 85 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Comparative Analysis: When to Use Can... | 1354 |
 | 86 | [[Dataview]] | — | — | Comparative Analysis: When to Use Can... | 1354 |
 | 87 | [[Graph View]] | — | — | Comparative Analysis: When to Use Can... | 1354 |
 | 88 | [[Advanced Canvas]] | — | — | Canvas Mastery Progression | 1380 |
@@ -1038,7 +1038,7 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 
 ### Table 3 *(Line 1236, 8 rows)*
 
-| Task | Canvas | [[MOC]] | [[Dataview]] | [[Graph View]] |
+| Task | Canvas | [[Maps-of-Content-—-MOCs|MOC]] | [[Dataview]] | [[Graph View]] |
 | --- | --- | --- | --- | --- |
 | **Quick Navigation** | ❌ Slow | ✅ Fast | ❌ Query Required | ✅ Visual |
 | **Relationship Discovery** | ✅ Explicit | ⚠️ Implicit | ❌ No | ✅ Emergent |
@@ -1088,17 +1088,17 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 
 - [[Advanced Canvas]]
 - [[Canvas Minimap]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Concept Mapping]]
 - [[Dataview]]
 - [[Dataview Advanced Techniques]]
 - [[Enhanced Canvas]]
 - [[Flexibility Over Rigidity]]
 - [[Graph View]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[JSON Canvas Specification Deep Dive]]
 - [[Knowledge Synthesis]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Markdown]]
 - [[Mind Mapping]]
 - [[Note Name]]
@@ -1112,7 +1112,7 @@ create_moc_canvas("03_permanent-notes/cognitive-science", "moc-canvas.canvas")
 - [[Query Library]]
 - [[Query Note]]
 - [[QuickAdd]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Spatial Memory]]
 - [[Spatial Thinking]]
 - [[Tasks]]

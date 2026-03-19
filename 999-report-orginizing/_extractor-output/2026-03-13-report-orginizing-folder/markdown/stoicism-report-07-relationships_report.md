@@ -156,7 +156,7 @@ extraction_summary:
 > → Next: [[Stoicism and Minimalism - Living a Simple Fulfilling Life]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–06. This report builds directly on the [[Dichotomy of Control]] (Report 01 & 02), the cardinal virtue of [[Dikaiosyne]] (Report 02), and the emotional self-governance framework (Reports 03 & 06). Readers new to the series will find the report accessible but will benefit from the fuller context of the earlier reports.
+> **Recommended Prerequisites**: Reports 01–06. This report builds directly on the [[Dichotomy-of-Control|Dichotomy of Control]] (Report 01 & 02), the cardinal virtue of [[Dikaiosyne]] (Report 02), and the emotional self-governance framework (Reports 03 & 06). Readers new to the series will find the report accessible but will benefit from the fuller context of the earlier reports.
 
 #### 3. [RESEARCH] Untitled *(Line 275)*
 
@@ -236,7 +236,7 @@ extraction_summary:
 > [!key-insight] Untitled
 > **The Self-Determination Theory Connection**
 > 
-> [[Self-Determination Theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
+> [[Self-Determination-Theory|Self-Determination Theory]] (Deci & Ryan) identifies three fundamental psychological needs — autonomy, competence, and relatedness — whose satisfaction predicts wellbeing across cultures. The Stoic relational framework is, in effect, a systematic way of satisfying all three: autonomy is preserved by locating responsibility in one's own character rather than in others' behavior; competence is exercised through the challenging practice of virtue under relational pressure; and relatedness — the experience of genuine connection with others — is cultivated precisely when we engage with others through the lens of justice, oikeiosis, and the recognition of our shared rational nature rather than through the lens of what they can provide for us.
 
 #### 16. [EXAMPLE] Untitled *(Line 447)*
 
@@ -454,7 +454,7 @@ extraction_summary:
 
 - [[Chrysippus]]
 - [[Cosmopolitan Ethics — From Hierocles to Nussbaum]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dikaiosyne]]
 - [[Diogenes Laërtius]]
 - [[Epictetus]]
@@ -471,7 +471,7 @@ extraction_summary:
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Prohairesis]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Seneca on Friendship — De Amicitia and the Letters]]
 - [[Socrates]]
@@ -494,7 +494,7 @@ extraction_summary:
 | 6 | [[Stoicism Series Overview]] | — | — | Stoicism in Relationships: Building S... | 253 |
 | 7 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Stoicism in Relationships: Building S... | 255 |
 | 8 | [[Stoicism and Minimalism - Living a Simple Fulfilling Life]] | — | — | Stoicism in Relationships: Building S... | 256 |
-| 9 | [[Dichotomy of Control]] | — | — | Stoicism in Relationships: Building S... | 259 |
+| 9 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism in Relationships: Building S... | 259 |
 | 10 | [[Dikaiosyne]] | — | — | Stoicism in Relationships: Building S... | 259 |
 | 11 | [[Justice]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
 | 12 | [[Oikeiosis]] | — | — | Part 1: The Problem Relationships Pre... | 269 |
@@ -512,7 +512,7 @@ extraction_summary:
 | 24 | [[Dikaiosyne]] | — | — | Justice as the Relational Virtue | 310 |
 | 25 | [[Seneca]] | — | — | Seneca on Friendship: The Highest For... | 322 |
 | 26 | [[Epictetus]] | — | — | Epictetus and the Limits of Relationa... | 336 |
-| 27 | [[Dichotomy of Control]] | — | — | Epictetus and the Limits of Relationa... | 336 |
+| 27 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Epictetus and the Limits of Relationa... | 336 |
 | 28 | [[Prohairesis]] | — | — | Epictetus and the Limits of Relationa... | 344 |
 | 29 | [[Socrates]] | — | — | Principle 2: Understand Others Throug... | 367 |
 | 30 | [[Kathêkon]] | — | — | Principle 3: Distinguish Roles and Ob... | 381 |
@@ -522,7 +522,7 @@ extraction_summary:
 | 34 | [[Nonviolent Communication]] | — | — | Part 4: The Psychology Behind the Phi... | 428 |
 | 35 | [[Interpersonal Neurobiology]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
 | 36 | [[View from Above]] | — | — | Part 4: The Psychology Behind the Phi... | 430 |
-| 37 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 435 |
+| 37 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 435 |
 | 38 | [[Marcus Aurelius]] | — | — | Conclusion: Relationships Reframed | 631 |
 | 39 | [[Seneca on Friendship — De Amicitia and the Letters]] | — | — | Expansion Topics for PKB | 697 |
 | 40 | [[Stoic View of Anger — De Ira and Modern Applications]] | — | — | Expansion Topics for PKB | 699 |
@@ -560,7 +560,7 @@ extraction_summary:
 
 - [[Chrysippus]]
 - [[Cosmopolitan Ethics — From Hierocles to Nussbaum]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Dikaiosyne]]
 - [[Diogenes Laërtius]]
 - [[Epictetus]]
@@ -577,7 +577,7 @@ extraction_summary:
 - [[Oikeiosis]]
 - [[Oikeiosis — Natural Affiliation and the Expansion of Care]]
 - [[Prohairesis]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Seneca on Friendship — De Amicitia and the Letters]]
 - [[Socrates]]
@@ -606,7 +606,7 @@ extraction_summary:
 - [[Seneca]]
 - [[Chrysippus]]
 - [[Hierocles]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Virtue Ethics]]
 - [[Eudaimonia]]
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Attachment Theory (Bowlby)]]
 - [[Nonviolent Communication (Rosenberg)]]
 - [[Gottman Four Horsemen]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Interpersonal Acceptance and Commitment Therapy]]
 - [[Buddhist Metta (Lovingkindness)]]
 

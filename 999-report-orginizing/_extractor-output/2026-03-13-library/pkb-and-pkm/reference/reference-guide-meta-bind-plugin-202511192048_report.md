@@ -162,7 +162,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
-> **Meta Bind transforms your static [[obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal Knowledge Base]].
+> **Meta Bind transforms your static [[obsidian]] notes into dynamic, interactive documents** by allowing you to create input fields, view fields, and action buttons that bind directly to [[YAML Frontmatter]] properties. This creates a **bidirectional synchronization system** where changes to input fields instantly update metadata, and metadata changes instantly reflect in your note content—enabling powerful [[Dashboard Design]], [[Task Management]], [[habit tracking]], and [[Project Management]] workflows within your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 2. [CORE-PRINCIPLE] Untitled *(Line 50)*
 
@@ -263,20 +263,20 @@ extraction_summary:
 - [[Dashboard Design Principles]]
 - [[Data Binding]]
 - [[Dataview]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dynamic Content]]
 - [[GTD]]
 - [[Habit Tracking]]
 - [[Input Fields]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKB]]
 - [[Metadata Schema MOC]]
 - [[Obsidian]]
 - [[PKB Style Guide]]
 - [[PKM Automation]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Management]]
 - [[Projects MOC]]
 - [[QuickAdd]]
@@ -304,9 +304,9 @@ extraction_summary:
 | 4 | [[Task Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 5 | [[habit tracking]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 6 | [[Project Management]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
-| 7 | [[Personal Knowledge Base]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
+| 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📝 Meta Bind Plugin — Interactive Meta... | 44 |
 | 8 | [[obsidian]] | — | — | 🎯 Core Concept & Value Proposition | 53 |
-| 9 | [[Personal Knowledge Base]] | — | — | Why This Matters for PKM | 59 |
+| 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Why This Matters for PKM | 59 |
 | 10 | [[dataview]] | — | — | Why This Matters for PKM | 62 |
 | 11 | [[GTD]] | — | — | Why This Matters for PKM | 63 |
 | 12 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Why This Matters for PKM | 64 |
@@ -329,7 +329,7 @@ extraction_summary:
 | 29 | [[Buttons]] | — | — | Recommended Plugin Stack | 666 |
 | 30 | [[Callout Manager]] | — | — | Recommended Plugin Stack | 667 |
 | 31 | [[CSS Snippets]] | — | — | Recommended Plugin Stack | 668 |
-| 32 | [[Dataview Plugin]] | — | — | 🧭 Related Topics for PKB Expansion | 687 |
+| 32 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🧭 Related Topics for PKB Expansion | 687 |
 | 33 | [[Reactive Programming in PKM]] | — | — | 🧭 Related Topics for PKB Expansion | 692 |
 | 34 | [[Dashboard Design Principles]] | — | — | 🧭 Related Topics for PKB Expansion | 697 |
 | 35 | [[Metadata Schema Design for PKB]] | — | — | 🧭 Related Topics for PKB Expansion | 702 |
@@ -348,8 +348,8 @@ extraction_summary:
 | 48 | [[Dashboard Design]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 49 | [[Project Management]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 50 | [[Habit Tracking]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 51 | [[Progressive Summarization]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
-| 52 | [[MOC]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 51 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
+| 52 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 53 | [[Template System]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 54 | [[Reactive Programming]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
 | 55 | [[Data Binding]] | — | — | 🧭 Related Topics for PKB Expansion | 741 |
@@ -688,20 +688,20 @@ Maintain a **Reading List MOC** with:
 - [[Dashboard Design Principles]]
 - [[Data Binding]]
 - [[Dataview]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dynamic Content]]
 - [[GTD]]
 - [[Habit Tracking]]
 - [[Input Fields]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKB]]
 - [[Metadata Schema MOC]]
 - [[Obsidian]]
 - [[PKB Style Guide]]
 - [[PKM Automation]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Management]]
 - [[Projects MOC]]
 - [[QuickAdd]]

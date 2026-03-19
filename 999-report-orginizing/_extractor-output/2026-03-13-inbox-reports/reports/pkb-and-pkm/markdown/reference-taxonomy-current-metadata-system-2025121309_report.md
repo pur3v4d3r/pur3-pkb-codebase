@@ -325,15 +325,15 @@ extraction_summary:
 - [[2025-12]]
 - [[2025-Q4]]
 - [[2025-W50]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Dashboard]]
 - [[Dataview]]
 - [[DataviewJS Advanced Patterns]]
 - [[Dataviewjs Query Snippets]]
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Knowledge Graph]]
 - [[Metadata Schema Design]]
 - [[Metadata System Quick Reference]]
@@ -393,11 +393,11 @@ extraction_summary:
 | 33 | [[Taxonomy Design Principles]] | — | — | 🔗 Related Topics for PKB Expansion | 840 |
 | 34 | [[Facetted Classification]] | — | — | 🔗 Related Topics for PKB Expansion | 842 |
 | 35 | [[Hierarchical Taxonomy]] | — | — | 🔗 Related Topics for PKB Expansion | 842 |
-| 36 | [[Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 843 |
+| 36 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 843 |
 | 37 | [[Prompt Component Library]] | — | — | 🔗 Related Topics for PKB Expansion | 844 |
 | 38 | [[Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 847 |
-| 39 | [[Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 848 |
-| 40 | [[Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 851 |
+| 39 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 848 |
+| 40 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 851 |
 | 41 | [[DataviewJS Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 855 |
 | 42 | [[Metadata Schema Design]] | — | — | 🔗 Related Topics for PKB Expansion | 860 |
 | 43 | [[Obsidian Query Optimization]] | — | — | 🔗 Related Topics for PKB Expansion | 865 |
@@ -1058,15 +1058,15 @@ for (let letter of sortedLetters) {
 - [[2025-12]]
 - [[2025-Q4]]
 - [[2025-W50]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Dashboard]]
 - [[Dataview]]
 - [[DataviewJS Advanced Patterns]]
 - [[Dataviewjs Query Snippets]]
 - [[Facetted Classification]]
 - [[Hierarchical Taxonomy]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Knowledge Graph]]
 - [[Metadata Schema Design]]
 - [[Metadata System Quick Reference]]

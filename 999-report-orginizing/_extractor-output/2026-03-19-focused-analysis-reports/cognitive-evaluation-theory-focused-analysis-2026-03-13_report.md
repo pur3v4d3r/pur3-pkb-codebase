@@ -323,13 +323,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
 > 
-> - **[[Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
 > 
-> - **[[Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
 > 
-> - **[[Attribution Theory]]** — Weiner's attribution theory addresses how people explain their successes and failures. CET's PLOC construct is conceptually related to Weiner's locus of control dimension, but they are not identical: PLOC in CET is specifically about the perceived cause of *behaviour* (internal vs. external), while locus of control in attribution theory is about the perceived cause of *outcomes* (success/failure). The intersection is particularly important for understanding how competence feedback interacts with attributional patterns: negative feedback attributed to controllable, internal causes (effort) has different motivational effects than the same feedback attributed to stable, internal causes (lack of ability) — and CET's competence pathway prediction depends on this attributional dimension without fully theorising it.
+> - **[[Attribution-Theory|Attribution Theory]]** — Weiner's attribution theory addresses how people explain their successes and failures. CET's PLOC construct is conceptually related to Weiner's locus of control dimension, but they are not identical: PLOC in CET is specifically about the perceived cause of *behaviour* (internal vs. external), while locus of control in attribution theory is about the perceived cause of *outcomes* (success/failure). The intersection is particularly important for understanding how competence feedback interacts with attributional patterns: negative feedback attributed to controllable, internal causes (effort) has different motivational effects than the same feedback attributed to stable, internal causes (lack of ability) — and CET's competence pathway prediction depends on this attributional dimension without fully theorising it.
 > 
 > **Cross-Report Links:**
 > 
@@ -350,7 +350,7 @@ extraction_summary:
 #### 34. [DEFINITION] Causality Orientations Theory (COT) *(Line 555)*
 
 > [!definition] Causality Orientations Theory (COT)
-> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[attribution theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
+> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[Attribution-Theory|attribution theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
 
 #### 35. [DEFINITION] Ego Involvement *(Line 558)*
 
@@ -482,30 +482,30 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[CET]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|CET]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
 - [[Feedback Effects on Motivation and Learning]]
 - [[Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
 - [[Gamification in Educational Contexts]]
 - [[Growth Mindset and CET]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[SDT]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-determination]]
-- [[attribution theory]]
-- [[autonomy orientation]]
-- [[control orientation]]
-- [[functional significance]]
-- [[intrinsic motivation]]
-- [[perceived competence]]
-- [[perceived locus of causality]]
+- [[Attribution-Theory|attribution theory]]
+- [[Autonomy-Orientation|autonomy orientation]]
+- [[Control-Orientation|control orientation]]
+- [[Functional-Significance|functional significance]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
+- [[Perceived-Competence|perceived competence]]
+- [[Perceived-Locus-of-Causality|perceived locus of causality]]
 - [[self-determination]]
 - [[speech act theory]]
 
@@ -513,29 +513,29 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[CET]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
-| 2 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
+| 1 | [[Cognitive-Evaluation-Theory|CET]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
+| 2 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
 | 3 | [[SDT]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
-| 4 | [[intrinsic motivation]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
-| 5 | [[functional significance]] | — | — | Phase I: Orientation & Analytical Focus | 269 |
-| 6 | [[Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
+| 4 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | Phase I: Orientation & Analytical Focus | 267 |
+| 5 | [[Functional-Significance|functional significance]] | — | — | Phase I: Orientation & Analytical Focus | 269 |
+| 6 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
 | 7 | [[Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
 | 8 | [[self-determination]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
-| 9 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
-| 10 | [[perceived locus of causality]] | — | — | Phase II: Analytical Framework | 293 |
-| 11 | [[perceived competence]] | — | — | Phase II: Analytical Framework | 293 |
+| 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 271 |
+| 10 | [[Perceived-Locus-of-Causality|perceived locus of causality]] | — | — | Phase II: Analytical Framework | 293 |
+| 11 | [[Perceived-Competence|perceived competence]] | — | — | Phase II: Analytical Framework | 293 |
 | 12 | [[Self-determination]] | — | — | The Two-Pathway Architecture | 379 |
 | 13 | [[speech act theory]] | — | — | The Temporal Dynamics of Functional S... | 404 |
 | 14 | [[Gamification]] | — | — | Direct Implications | 449 |
-| 15 | [[autonomy orientation]] | — | — | Limitations and Honest Boundaries | 462 |
-| 16 | [[Causality Orientations Theory]] | — | — | Limitations and Honest Boundaries | 462 |
-| 17 | [[control orientation]] | — | — | Limitations and Honest Boundaries | 462 |
-| 18 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 529 |
-| 19 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
-| 20 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
-| 21 | [[Attribution Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 535 |
+| 15 | [[Autonomy-Orientation|autonomy orientation]] | — | — | Limitations and Honest Boundaries | 462 |
+| 16 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | Limitations and Honest Boundaries | 462 |
+| 17 | [[Control-Orientation|control orientation]] | — | — | Limitations and Honest Boundaries | 462 |
+| 18 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 529 |
+| 19 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
+| 20 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
+| 21 | [[Attribution-Theory|Attribution Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 535 |
 | 22 | [[Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
-| 23 | [[attribution theory]] | — | — | A. Lexicon of Key Terms | 556 |
+| 23 | [[Attribution-Theory|attribution theory]] | — | — | A. Lexicon of Key Terms | 556 |
 | 24 | [[Basic Psychological Needs Theory]] | — | — | D. Expansion Topics | 628 |
 | 25 | [[Feedback Effects on Motivation and Learning]] | — | — | D. Expansion Topics | 631 |
 | 26 | [[Expectancy-Value Theory]] | — | — | D. Expansion Topics | 634 |
@@ -552,30 +552,30 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[CET]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|CET]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
 - [[Feedback Effects on Motivation and Learning]]
 - [[Focused Analysis Report Generator v1.0]]
 - [[Gamification]]
 - [[Gamification in Educational Contexts]]
 - [[Growth Mindset and CET]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[SDT]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-determination]]
-- [[attribution theory]]
-- [[autonomy orientation]]
-- [[control orientation]]
-- [[functional significance]]
-- [[intrinsic motivation]]
-- [[perceived competence]]
-- [[perceived locus of causality]]
+- [[Attribution-Theory|attribution theory]]
+- [[Autonomy-Orientation|autonomy orientation]]
+- [[Control-Orientation|control orientation]]
+- [[Functional-Significance|functional significance]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
+- [[Perceived-Competence|perceived competence]]
+- [[Perceived-Locus-of-Causality|perceived locus of causality]]
 - [[self-determination]]
 - [[speech act theory]]
 
@@ -583,36 +583,36 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
-- [[Intrinsic Motivation]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Operant Conditioning]]
 
 #### Related
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Organismic Integration Theory]]
-- [[Overjustification Effect]]
-- [[Self-Regulated Learning]]
-- [[Cognitive Load Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Overjustification-Effect|Overjustification Effect]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Goal-Setting Theory]]
 
 #### Broader
 
 - [[Motivation Theory]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
 - [[Reward Contingency Research]]
-- [[Perceived Locus of Causality]]
+- [[Perceived-Locus-of-Causality|Perceived Locus of Causality]]
 - [[Informational Feedback Design]]
 
 #### See Also
 
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Feedback Effects on Learning]]
 - [[Autonomy-Supportive Teaching]]
 - [[Gamification in Education]]
@@ -624,15 +624,15 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Learning Management Systems]]
 - [[Performance Management]]
 - [[Game-Based Learning]]
 
 #### Builds On
 
-- [[Self-Determination Theory]]
-- [[Attribution Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 
 #### Enables
 

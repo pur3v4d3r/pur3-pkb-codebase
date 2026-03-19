@@ -4,8 +4,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 title: "Growth Mindset and Learning: A Foundational Report"
 aliases:
-  - "[[Growth Mindset]]"
-  - "[[Incremental Theory of Intelligence]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
+  - "[[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]"
   - "[[Dweck Mindset Theory]]"
 type: permanent-note
 status: evergreen
@@ -114,17 +114,17 @@ prerequisites:
   - "[[Motivation in Educational Settings]]"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Achievement Goal Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Neuroplasticity]]"
-  - "[[Formative Assessment]]"
-  - "[[Productive Failure]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Productive-Failure|Productive Failure]]"
   - "[[Self-Efficacy Theory]]"
   - "[[Grit and Perseverance]]"
 
 broader:
-  - "[[Educational Psychology]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
 
 narrower:
   - "[[Praise and Feedback Research]]"
@@ -132,14 +132,14 @@ narrower:
   - "[[Mindset in STEM Education]]"
 
 see-also:
-  - "[[Learned Helplessness]]"
-  - "[[Attribution Theory]]"
-  - "[[Zone of Proximal Development]]"
+  - "[[Learned-Helplessness|Learned Helplessness]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
   - "[[Deliberate Practice]]"
 
 contrasts-with:
-  - "[[Fixed Mindset]]"
-  - "[[Entity Theory of Intelligence]]"
+  - "[[Fixed-Mindset|Fixed Mindset]]"
+  - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
   - "[[Talent-First Frameworks]]"
 
 applied-in:
@@ -153,7 +153,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Implicit Theories of Intelligence]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]"
   - "[[Behaviorist vs. Cognitive Theories of Learning]]"
 
 enables:
@@ -241,7 +241,7 @@ Imagine two students who both receive a failing grade on a mathematics exam. The
 
 What separates these two students is not raw intelligence, prior knowledge, or even study habits in isolation. What separates them is a set of implicit beliefs about the nature of their own minds — beliefs so deeply held they rarely surface into conscious reflection, yet so operationally powerful they shape every academic decision from which courses to take to whether to raise a hand in class. These beliefs constitute what psychologist [[Carol S. Dweck]] calls a [[mindset]]: a foundational cognitive framework through which individuals interpret challenge, effort, failure, and feedback.
 
-The concept of the [[growth mindset]] — and its counterpart, the [[fixed mindset]] — emerged from decades of research into [[implicit theories of intelligence]] and has grown into one of the most widely cited and widely applied frameworks in contemporary [[educational psychology]]. Its claims are both scientifically substantive and practically actionable: that beliefs about whether intelligence is malleable or fixed predict meaningful differences in motivation, resilience, and achievement, and that these beliefs can be changed through targeted intervention.
+The concept of the [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] — and its counterpart, the [[Fixed-Mindset|fixed mindset]] — emerged from decades of research into [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] and has grown into one of the most widely cited and widely applied frameworks in contemporary [[Educational-Psychology|educational psychology]]. Its claims are both scientifically substantive and practically actionable: that beliefs about whether intelligence is malleable or fixed predict meaningful differences in motivation, resilience, and achievement, and that these beliefs can be changed through targeted intervention.
 
 **What This Report Covers**
 
@@ -286,7 +286,7 @@ Phase II establishes the conceptual bedrock: precise definitions of growth and f
 
 The intellectual story of growth mindset begins not with a sudden discovery but with a decades-long research program rooted in a deceptively simple observation: different children respond to failure in profoundly different ways. In the 1970s, [[Carol Dweck]], then a young researcher at the University of Illinois, began studying what she called "helpless" versus "mastery-oriented" response patterns. Some children, when encountering difficult problems, would quickly give up, disparage their own abilities, and perform worse on problems they had previously solved correctly. Others would lean into difficulty, maintain positive affect, and try harder strategies. Crucially, this split did not correlate neatly with measured intelligence — some high-ability children showed helpless patterns, and some lower-ability children showed remarkable resilience.
 
-The early explanation Dweck developed focused on [[attribution theory]] — specifically, how children attributed their failures. Children who attributed failure to effort ("I didn't try hard enough") maintained motivation; those who attributed it to ability ("I'm just not smart enough") became helpless. But attribution was downstream of something deeper. In a pivotal theoretical development through the 1980s, Dweck and her colleagues — particularly [[Mary Bandura]], [[Ellen Leggett]], and later [[Claudia Mueller]] — identified that the root variable was not attribution style per se but the implicit theory of intelligence underlying it. If you believe intelligence is fixed, then poor performance is devastating — it reveals what you fundamentally are. If you believe intelligence is malleable, then poor performance is informative — it reveals what you need to work on.
+The early explanation Dweck developed focused on [[Attribution-Theory|attribution theory]] — specifically, how children attributed their failures. Children who attributed failure to effort ("I didn't try hard enough") maintained motivation; those who attributed it to ability ("I'm just not smart enough") became helpless. But attribution was downstream of something deeper. In a pivotal theoretical development through the 1980s, Dweck and her colleagues — particularly [[Mary Bandura]], [[Ellen Leggett]], and later [[Claudia Mueller]] — identified that the root variable was not attribution style per se but the implicit theory of intelligence underlying it. If you believe intelligence is fixed, then poor performance is devastating — it reveals what you fundamentally are. If you believe intelligence is malleable, then poor performance is informative — it reveals what you need to work on.
 
 > [!key-claim] **The Central Proposition**
 > The core theoretical claim is directional and causal: implicit theories of intelligence (entity vs. incremental) generate different goal orientations (performance vs. mastery), which generate different responses to challenge and failure, which produce different long-term achievement trajectories. Mindset is not merely correlated with achievement patterns — the framework proposes it is a generative cause.
@@ -297,7 +297,7 @@ The landmark 1998 paper by [[Claudia Mueller]] and Dweck — involving six caref
 
 ### Intellectual Genealogy
 
-Growth mindset theory draws on several intellectual traditions. From [[cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation science]], it draws heavily on [[achievement goal theory]] developed by [[Carole Ames]] and [[John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[attribution theory]], associated with [[Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
+Growth mindset theory draws on several intellectual traditions. From [[Cognitive-Psychology|cognitive psychology]], it inherits the emphasis on mental representations — specifically, how beliefs and schemas shape information processing. The concept of implicit theories connects to a broader tradition of research on naive epistemology and folk psychology. From [[motivation science]], it draws heavily on [[Achievement-Goal-Theory|achievement goal theory]] developed by [[Carole Ames]] and [[John Elliot]], which distinguished mastery from performance orientations well before the mindset terminology became dominant. From [[Attribution-Theory|attribution theory]], associated with [[Bernard Weiner]], it inherits the insight that how learners interpret the causes of outcomes (stable vs. unstable, controllable vs. uncontrollable) shapes their subsequent motivation.
 
 The neuroscientific grounding of growth mindset theory — its claim that the brain literally changes through learning — connects to a long tradition of [[neuroplasticity]] research, from [[Donald Hebb]]'s 1949 foundational work on synaptic strengthening to contemporary research by [[Michael Merzenich]] and others on experience-dependent cortical reorganization. This neuroscientific connection gives growth mindset its biological legitimacy: the claim is not merely that people *feel* more capable when they believe in malleability, but that the brain's architecture actually changes in response to learning.
 
@@ -367,7 +367,7 @@ The most useful framework for this is Dweck's own cognitive-motivational mediati
 
 **Step 1: Implicit Theory → Meaning of Challenge**
 
-The first mechanism is interpretive. When a learner encounters a genuinely difficult task — one they cannot immediately solve — their implicit theory determines what that difficulty *means*. For a fixed-mindset learner, difficulty signals that the task may exceed their ability. Since ability is fixed and diagnostic, difficulty becomes a potential threat to self-concept. The rational response, from within this framework, is to avoid situations where failure might reveal the limits of one's intelligence. This leads to the well-documented fixed-mindset pattern of [[challenge avoidance]] — choosing easier tasks to protect a self-image of competence.
+The first mechanism is interpretive. When a learner encounters a genuinely difficult task — one they cannot immediately solve — their implicit theory determines what that difficulty *means*. For a fixed-mindset learner, difficulty signals that the task may exceed their ability. Since ability is fixed and diagnostic, difficulty becomes a potential threat to self-concept. The rational response, from within this framework, is to avoid situations where failure might reveal the limits of one's intelligence. This leads to the well-documented fixed-mindset pattern of [[Challenge-Avoidance|challenge avoidance]] — choosing easier tasks to protect a self-image of competence.
 
 For a growth-mindset learner, difficulty signals that the task is engaging their learning edge — the zone where their current capabilities are being stretched. Since ability is malleable and developmental, difficulty is neither threatening nor diagnostic of worth. It is, at most, informative: pointing to where effort and strategy need to be applied. This generates the growth-mindset pattern of [[challenge-seeking]] — a preference for tasks that are genuinely stretching, even at the cost of occasional failure.
 
@@ -394,7 +394,7 @@ In a growth mindset framework, effort is the mechanism of development. It is nei
 
 **Step 4: Implicit Theory → Reception of Feedback**
 
-[[Formative feedback]] is one of the most powerful tools in a teacher's or coach's toolkit — but its power depends on how the recipient processes it. Fixed-mindset learners are highly motivated to protect their self-image, which makes critical feedback threatening. Research shows they are more likely to discount, minimize, or rationalize negative feedback, to attend to it through the lens of "what does this say about my intelligence?" rather than "what does this tell me about how to improve?" Growth-mindset learners, by contrast, are more likely to process feedback instrumentally — extracting the information content rather than the evaluative content, and translating it into strategic revision.
+[[Formative-Feedback|Formative feedback]] is one of the most powerful tools in a teacher's or coach's toolkit — but its power depends on how the recipient processes it. Fixed-mindset learners are highly motivated to protect their self-image, which makes critical feedback threatening. Research shows they are more likely to discount, minimize, or rationalize negative feedback, to attend to it through the lens of "what does this say about my intelligence?" rather than "what does this tell me about how to improve?" Growth-mindset learners, by contrast, are more likely to process feedback instrumentally — extracting the information content rather than the evaluative content, and translating it into strategic revision.
 
 > [!ask-yourself-this] **Testing Your Understanding**
 > Before moving on, can you articulate — without looking back — the four-link chain through which mindset beliefs generate behavioral outcomes? Challenge meaning → failure response → effort relationship → feedback reception. If you can trace the causal pathway from implicit theory to learning behavior through these four mechanisms, you have a working model of growth mindset as a cognitive system, not just a slogan.
@@ -423,7 +423,7 @@ The most direct application of growth mindset research is in the design of prais
 
 **In Feedback Design for Learning**
 
-[[Formative assessment]] and feedback design are perhaps the highest-leverage application domains. [[John Hattie]]'s research synthesis identifies feedback as among the most powerful of all educational interventions — but poorly designed feedback can be counterproductive. Growth-mindset-aligned feedback focuses on the gap between current performance and learning goal, specifies the actionable next step, and frames improvement as achievable through strategy and effort. It distinguishes between work quality (which is improvable) and learner identity (which is not a relevant category in growth-mindset framing). Rubrics that describe levels of quality in terms of specific, observable, improvable features — rather than grades that rank and sort — are more consistent with growth mindset principles.
+[[Formative-Assessment|Formative assessment]] and feedback design are perhaps the highest-leverage application domains. [[John Hattie]]'s research synthesis identifies feedback as among the most powerful of all educational interventions — but poorly designed feedback can be counterproductive. Growth-mindset-aligned feedback focuses on the gap between current performance and learning goal, specifies the actionable next step, and frames improvement as achievable through strategy and effort. It distinguishes between work quality (which is improvable) and learner identity (which is not a relevant category in growth-mindset framing). Rubrics that describe levels of quality in terms of specific, observable, improvable features — rather than grades that rank and sort — are more consistent with growth mindset principles.
 
 **In Mindset Intervention Programs**
 
@@ -486,13 +486,13 @@ The field's most important open questions include: Under what precise conditions
 >
 > This report on Growth Mindset connects to the following nodes in your knowledge base:
 >
-> - **[[Self-Determination Theory]]** — SDT and mindset theory are complementary explanations of intrinsic motivation. SDT explains the environmental conditions (autonomy, competence, relatedness) that support motivated learning; mindset theory explains how individual beliefs about ability mediate response to those conditions. Together, they provide a more complete account of motivated learning than either offers alone. Neither theory is derivable from the other; they operate at different levels of analysis.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT and mindset theory are complementary explanations of intrinsic motivation. SDT explains the environmental conditions (autonomy, competence, relatedness) that support motivated learning; mindset theory explains how individual beliefs about ability mediate response to those conditions. Together, they provide a more complete account of motivated learning than either offers alone. Neither theory is derivable from the other; they operate at different levels of analysis.
 >
 > - **[[Neuroplasticity]]** — The neuroscience of brain plasticity provides the biological substrate that growth mindset interventions invoke to make their claims credible and concrete. Understanding neuroplasticity deepens understanding of why the growth mindset claim is not merely inspirational but scientifically grounded. Conversely, mindset theory provides a psychological framework for explaining why some learners experience more of the benefits of neuroplasticity than others — because their beliefs lead them to engage in the experiences that drive neural change.
 >
-> - **[[Formative Assessment]]** — Formative assessment practice is one of the highest-leverage application domains for growth mindset research. The design of feedback — its specificity, its focus on process versus product, its positioning of the learner as active reviser rather than passive recipient of judgment — either supports or undermines growth mindset development. Growth mindset theory provides the motivational rationale for why formative assessment works, and formative assessment practice provides the operational method for implementing growth mindset principles.
+> - **[[Formative-Assessment|Formative Assessment]]** — Formative assessment practice is one of the highest-leverage application domains for growth mindset research. The design of feedback — its specificity, its focus on process versus product, its positioning of the learner as active reviser rather than passive recipient of judgment — either supports or undermines growth mindset development. Growth mindset theory provides the motivational rationale for why formative assessment works, and formative assessment practice provides the operational method for implementing growth mindset principles.
 >
-> - **[[Attribution Theory]]** — Mindset theory grew directly out of attribution theory research. Understanding that growth mindset is, at its root, about how learners attribute the causes of their outcomes (to stable, fixed ability vs. to unstable, controllable effort and strategy) connects it to a broader intellectual tradition and illuminates the mechanism through which mindset beliefs operate.
+> - **[[Attribution-Theory|Attribution Theory]]** — Mindset theory grew directly out of attribution theory research. Understanding that growth mindset is, at its root, about how learners attribute the causes of their outcomes (to stable, fixed ability vs. to unstable, controllable effort and strategy) connects it to a broader intellectual tradition and illuminates the mechanism through which mindset beliefs operate.
 >
 > The pattern of connections reveals that growth mindset theory is most powerful not as a standalone intervention framework but as a connecting tissue between neuroscience (the biological substrate of learning), motivation science (the psychological conditions for sustained engagement), and pedagogical design (the practical structures that express and reinforce beliefs about ability). Its most significant contribution may be conceptual integration: providing a bridge between these domains that neither offers on its own.
 

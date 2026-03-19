@@ -166,7 +166,7 @@ extraction_summary:
 #### 5. [ANALYTICAL-INSIGHT] The Asymmetry of Relatedness: Feeling Known vs. Feeling Liked *(Line 280)*
 
 > [!analytical-insight] The Asymmetry of Relatedness: Feeling Known vs. Feeling Liked
-> A non-obvious implication of RMT's definition of relatedness emerges when you trace its components carefully. Feeling understood, validated, and cared for — Reis, Clark, and Holmes's (2004) three components of [[perceived partner responsiveness]] — is not identical to feeling liked, approved of, or positively evaluated. A partner who consistently agrees with you, never challenges you, and reflects your self-presentation back to you without amendment is making you feel *liked*, but not necessarily *known*. RMT predicts that the relatedness need is more fully satisfied by accurate, responsive understanding (which may include disagreement and honest challenge) than by unvarying positive regard. This has an important implication: relationships oriented around unconditional approval may satisfy a desire for validation without actually satisfying the need for relatedness, producing relationships that feel good superficially but leave a persistent sense of not being truly known.
+> A non-obvious implication of RMT's definition of relatedness emerges when you trace its components carefully. Feeling understood, validated, and cared for — Reis, Clark, and Holmes's (2004) three components of [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] — is not identical to feeling liked, approved of, or positively evaluated. A partner who consistently agrees with you, never challenges you, and reflects your self-presentation back to you without amendment is making you feel *liked*, but not necessarily *known*. RMT predicts that the relatedness need is more fully satisfied by accurate, responsive understanding (which may include disagreement and honest challenge) than by unvarying positive regard. This has an important implication: relationships oriented around unconditional approval may satisfy a desire for validation without actually satisfying the need for relatedness, producing relationships that feel good superficially but leave a persistent sense of not being truly known.
 
 #### 6. [KEY-CLAIM] The Orthogonality of Motivation and Satisfaction *(Line 289)*
 
@@ -211,7 +211,7 @@ extraction_summary:
 #### 14. [WHAT-THE-EVIDENCE-SUGGESTS] The Receiver's Sensitivity to Motivational Quality *(Line 341)*
 
 > [!what-the-evidence-suggests] The Receiver's Sensitivity to Motivational Quality
-> What makes the Impett et al. findings particularly theoretically significant is the receiver side of the equation. Partners were sensitive to the motivational quality of the sacrifice even when they lacked explicit information about it. This sensitivity is consistent with RMT's emphasis on [[perceived partner responsiveness]] as a phenomenological marker of genuine connection: receivers appear to detect something — subtle behavioral signals, affective tone, temporal patterns of the sacrifice behavior — that allows them to distinguish autonomous from controlled giving. This suggests that the motivational infrastructure of relationship behavior is not hidden inside the giver and inaccessible to the receiver, but is in some way interpersonally legible, with direct consequences for the receiver's own need satisfaction.
+> What makes the Impett et al. findings particularly theoretically significant is the receiver side of the equation. Partners were sensitive to the motivational quality of the sacrifice even when they lacked explicit information about it. This sensitivity is consistent with RMT's emphasis on [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] as a phenomenological marker of genuine connection: receivers appear to detect something — subtle behavioral signals, affective tone, temporal patterns of the sacrifice behavior — that allows them to distinguish autonomous from controlled giving. This suggests that the motivational infrastructure of relationship behavior is not hidden inside the giver and inaccessible to the receiver, but is in some way interpersonally legible, with direct consequences for the receiver's own need satisfaction.
 
 #### 15. [ASK-YOURSELF-THIS] Prediction Point *(Line 344)*
 
@@ -312,13 +312,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — RMT is a mini-theory within SDT's architecture, and its analysis here deepens the foundational SDT framework in a specific and important direction. Where the SDT foundational report establishes the basic psychological needs and their universality, the RMT analysis reveals how these needs operate within the distinctive constraints of close relationships — how interdependence creates both the greatest opportunities for need satisfaction and the greatest risks of need thwarting. The connection is not merely hierarchical (RMT is under SDT) but bidirectional: understanding RMT enriches SDT's general framework by showing how the basic needs interact and potentially conflict in dyadic contexts, something the general framework does not fully specify.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — RMT is a mini-theory within SDT's architecture, and its analysis here deepens the foundational SDT framework in a specific and important direction. Where the SDT foundational report establishes the basic psychological needs and their universality, the RMT analysis reveals how these needs operate within the distinctive constraints of close relationships — how interdependence creates both the greatest opportunities for need satisfaction and the greatest risks of need thwarting. The connection is not merely hierarchical (RMT is under SDT) but bidirectional: understanding RMT enriches SDT's general framework by showing how the basic needs interact and potentially conflict in dyadic contexts, something the general framework does not fully specify.
 > 
-> - **[[Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The PKB's SRL report establishes that autonomous motivation is a critical resource for self-regulatory engagement, and treats it primarily as a function of goal orientation, self-efficacy, and task properties. The RMT analysis adds a relational dimension to this account: autonomous motivation is not simply generated internally by the learner but is shaped by the motivational climate of the close relationships the learner inhabits. A learner whose mentor exercises conditional positive regard is receiving a continuous signal that their autonomous functioning is conditional — contingent on approval — which directly undermines the self-endorsed, volitional quality that autonomous motivation requires. The SRL analysis and the RMT analysis together suggest that the relational context of learning is not merely a support structure around the regulatory cycle but a primary source of the motivational energy the cycle depends on.
 > 
-> - **[[Cognitive Load Theory]]** — The CLT report establishes that working memory capacity is the critical bottleneck in learning, and that extraneous cognitive load — demands unrelated to the intrinsic structure of the material — depletes the resources available for germane processing. The RMT analysis suggests a motivational analog to this cognitive load concept: need thwarting within a learning relationship produces a kind of *motivational extraneous load* — the learner must devote regulatory and emotional resources to managing the relational environment (monitoring for conditional approval cues, managing self-presentation, suppressing authentic responses) that would otherwise be available for autonomous engagement with the learning content. This is a connection the CLT literature has not developed, but which the RMT evidence strongly suggests: the relational climate is a motivational load variable, not merely an affective backdrop.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report establishes that working memory capacity is the critical bottleneck in learning, and that extraneous cognitive load — demands unrelated to the intrinsic structure of the material — depletes the resources available for germane processing. The RMT analysis suggests a motivational analog to this cognitive load concept: need thwarting within a learning relationship produces a kind of *motivational extraneous load* — the learner must devote regulatory and emotional resources to managing the relational environment (monitoring for conditional approval cues, managing self-presentation, suppressing authentic responses) that would otherwise be available for autonomous engagement with the learning content. This is a connection the CLT literature has not developed, but which the RMT evidence strongly suggests: the relational climate is a motivational load variable, not merely an affective backdrop.
 > 
-> - **[[Conditional Positive Regard]]** — This PKB node, if developed, would provide the deep conceptual analysis of CPR that the current report treats as a mechanism. The connection here is generative: the RMT report establishes the *consequences* of CPR within relationships; the CPR node would elaborate the *phenomenology and developmental origins* of CPR, including how parental CPR becomes internalized as contingent self-esteem, and how CPR in early caregiving relationships shapes the expectation patterns that determine how later relationships are interpreted.
+> - **[[Conditional-Positive-Regard|Conditional Positive Regard]]** — This PKB node, if developed, would provide the deep conceptual analysis of CPR that the current report treats as a mechanism. The connection here is generative: the RMT report establishes the *consequences* of CPR within relationships; the CPR node would elaborate the *phenomenology and developmental origins* of CPR, including how parental CPR becomes internalized as contingent self-esteem, and how CPR in early caregiving relationships shapes the expectation patterns that determine how later relationships are interpreted.
 > 
 > - **[[Attachment Theory — Bowlby and Ainsworth]]** — The RMT-attachment integration proposed in Phase VI represents a genuine theoretical contribution: the claim that attachment security is functionally equivalent to a history of sustained need support, and that the well-being benefits of security are largely mediated by need satisfaction. This connection has empirical backing in La Guardia et al. (2000) but has not been fully developed in either the attachment or the SDT literature. A focused analysis of this integration would be a high-value PKB addition.
 > 
@@ -498,12 +498,12 @@ extraction_summary:
 - [[Attachment Theory]]
 - [[Attachment Theory — Bowlby and Ainsworth]]
 - [[Autonomy Support in Teaching — Mechanisms and Evidence]]
-- [[Autonomy support]]
+- [[Autonomy-Support|Autonomy support]]
 - [[Basic Psychological Needs Theory]]
 - [[Canevello]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
-- [[Conditional Positive Regard]]
+- [[Conditional-Positive-Regard|Conditional Positive Regard]]
 - [[Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
@@ -514,66 +514,66 @@ extraction_summary:
 - [[La Guardia]]
 - [[Lonsbary]]
 - [[Need Thwarting Dynamics — Beyond the Absence of Support]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Patrick]]
 - [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
-- [[Relationship Motivation Theory]]
+- [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Focused Analysis]]
 - [[autonomy]]
-- [[autonomy support]]
+- [[Autonomy-Support|autonomy support]]
 - [[autonomy-relatedness integration problem]]
-- [[basic psychological needs]]
+- [[Basic-Psychological-Needs|basic psychological needs]]
 - [[competence]]
-- [[conditional positive regard]]
-- [[perceived partner responsiveness]]
+- [[Conditional-Positive-Regard|conditional positive regard]]
+- [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
 - [[relatedness]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Relationship Motivation Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 1 | [[Relationship-Motivation-Theory|Relationship Motivation Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 2 | [[Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 4 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 5 | [[basic psychological needs]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
+| 5 | [[Basic-Psychological-Needs|basic psychological needs]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 6 | [[autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 7 | [[competence]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
 | 8 | [[relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 252 |
-| 9 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
+| 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
 | 10 | [[Basic Psychological Needs Theory]] | — | — | Phase I: Orientation & Analytical Focus | 261 |
 | 11 | [[Basic Psychological Needs Theory]] | — | — | The Basic Psychological Needs as Appl... | 269 |
 | 12 | [[autonomy]] | — | — | The Basic Psychological Needs as Appl... | 269 |
 | 13 | [[competence]] | — | — | The Basic Psychological Needs as Appl... | 269 |
 | 14 | [[relatedness]] | — | — | The Basic Psychological Needs as Appl... | 269 |
-| 15 | [[perceived partner responsiveness]] | — | — | The Basic Psychological Needs as Appl... | 281 |
-| 16 | [[Organismic Integration Theory]] | — | — | Autonomous vs. Controlled Motivation ... | 285 |
+| 15 | [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] | — | — | The Basic Psychological Needs as Appl... | 281 |
+| 16 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Autonomous vs. Controlled Motivation ... | 285 |
 | 17 | [[Knee]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
 | 18 | [[Patrick]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
 | 19 | [[Lonsbary]] | — | — | Autonomous vs. Controlled Motivation ... | 287 |
-| 20 | [[Autonomy support]] | — | — | Need Support vs. Need Thwarting: A Cr... | 297 |
+| 20 | [[Autonomy-Support|Autonomy support]] | — | — | Need Support vs. Need Thwarting: A Cr... | 297 |
 | 21 | [[La Guardia]] | — | — | The Foundational Evidence: Need Fulfi... | 318 |
 | 22 | [[Deci]] | — | — | The Controlled Motivation Cost | 325 |
 | 23 | [[Impett]] | — | — | The Evidence on Giving: Autonomous vs... | 337 |
-| 24 | [[perceived partner responsiveness]] | — | — | The Evidence on Giving: Autonomous vs... | 342 |
-| 25 | [[conditional positive regard]] | — | — | The Conditional Positive Regard Mecha... | 356 |
-| 26 | [[autonomy support]] | — | — | The Autonomy Support Pathway | 367 |
-| 27 | [[Autonomy support]] | — | — | The Autonomy Support Pathway | 367 |
+| 24 | [[Perceived-Partner-Responsiveness|perceived partner responsiveness]] | — | — | The Evidence on Giving: Autonomous vs... | 342 |
+| 25 | [[Conditional-Positive-Regard|conditional positive regard]] | — | — | The Conditional Positive Regard Mecha... | 356 |
+| 26 | [[Autonomy-Support|autonomy support]] | — | — | The Autonomy Support Pathway | 367 |
+| 27 | [[Autonomy-Support|Autonomy support]] | — | — | The Autonomy Support Pathway | 367 |
 | 28 | [[Canevello]] | — | — | The Mutuality Dynamic | 378 |
 | 29 | [[Crocker]] | — | — | The Mutuality Dynamic | 378 |
 | 30 | [[Iterated Prisoner's Dilemma]] | — | — | The Mutuality Dynamic | 381 |
 | 31 | [[autonomy-relatedness integration problem]] | — | — | The Autonomy-Relatedness Integration ... | 385 |
 | 32 | [[Reeve]] | — | — | Applications in Learning Contexts | 409 |
-| 33 | [[Self-Regulated Learning]] | — | — | The Relational Ecology Model: An Orig... | 448 |
+| 33 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Relational Ecology Model: An Orig... | 448 |
 | 34 | [[Attachment Theory]] | — | — | The Relational Ecology Model: An Orig... | 451 |
-| 35 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 472 |
-| 36 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 474 |
-| 37 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 476 |
-| 38 | [[Conditional Positive Regard]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
+| 35 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 472 |
+| 36 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 474 |
+| 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 476 |
+| 38 | [[Conditional-Positive-Regard|Conditional Positive Regard]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 39 | [[Attachment Theory — Bowlby and Ainsworth]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 40 | [[Self-Regulated Learning — Focused Analysis]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
 | 41 | [[Autonomy Support in Teaching — Mechanisms and Evidence]] | — | — | D. Expansion Topics | 576 |
@@ -596,12 +596,12 @@ extraction_summary:
 - [[Attachment Theory]]
 - [[Attachment Theory — Bowlby and Ainsworth]]
 - [[Autonomy Support in Teaching — Mechanisms and Evidence]]
-- [[Autonomy support]]
+- [[Autonomy-Support|Autonomy support]]
 - [[Basic Psychological Needs Theory]]
 - [[Canevello]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compassionate Goals vs. Self-Image Goals in Close Relationships]]
-- [[Conditional Positive Regard]]
+- [[Conditional-Positive-Regard|Conditional Positive Regard]]
 - [[Conditional Positive Regard — Costs and Clinical Implications]]
 - [[Crocker]]
 - [[Deci]]
@@ -612,22 +612,22 @@ extraction_summary:
 - [[La Guardia]]
 - [[Lonsbary]]
 - [[Need Thwarting Dynamics — Beyond the Absence of Support]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Patrick]]
 - [[Perceived Partner Responsiveness — Theory, Measurement, and Mechanisms]]
 - [[Reeve]]
-- [[Relationship Motivation Theory]]
+- [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Focused Analysis]]
 - [[autonomy]]
-- [[autonomy support]]
+- [[Autonomy-Support|autonomy support]]
 - [[autonomy-relatedness integration problem]]
-- [[basic psychological needs]]
+- [[Basic-Psychological-Needs|basic psychological needs]]
 - [[competence]]
-- [[conditional positive regard]]
-- [[perceived partner responsiveness]]
+- [[Conditional-Positive-Regard|conditional positive regard]]
+- [[Perceived-Partner-Responsiveness|perceived partner responsiveness]]
 - [[relatedness]]
 
 ### Frontmatter Relationships
@@ -639,14 +639,14 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Attachment Theory — Bowlby and Ainsworth]]
-- [[Perceived Partner Responsiveness]]
-- [[Conditional Positive Regard]]
-- [[Self-Regulated Learning]]
-- [[Cognitive Load Theory]]
+- [[Perceived-Partner-Responsiveness|Perceived Partner Responsiveness]]
+- [[Conditional-Positive-Regard|Conditional Positive Regard]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 
 #### Broader
 
@@ -680,7 +680,7 @@ extraction_summary:
 
 #### Builds On
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
 - [[Attachment Theory — Bowlby and Ainsworth]]
 

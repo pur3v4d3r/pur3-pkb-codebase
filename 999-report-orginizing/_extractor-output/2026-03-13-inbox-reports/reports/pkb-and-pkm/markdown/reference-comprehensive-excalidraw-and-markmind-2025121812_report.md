@@ -930,8 +930,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[Architecture Documentation]]
-- [[Cognitive Load]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
 - [[Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
@@ -939,7 +939,7 @@ extraction_summary:
 - [[Dataview]]
 - [[Design Specs]]
 - [[Domain]]
-- [[Dual Coding Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Established Theory]]
 - [[ExcaliBrain]]
 - [[Excalidraw]]
@@ -956,7 +956,7 @@ extraction_summary:
 - [[Learning Theory]]
 - [[Learning Theory Basics]]
 - [[Learning Theory Fundamentals]]
-- [[Literature Review]]
+- [[Literature-Review|Literature Review]]
 - [[MarkMind]]
 - [[MarkMind Basics]]
 - [[MarkMind PDF Features]]
@@ -979,7 +979,7 @@ extraction_summary:
 - [[Person A]]
 - [[Person B]]
 - [[Person C]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
 - [[Project Name]]
 - [[QuickAdd]]
@@ -1008,7 +1008,7 @@ extraction_summary:
 - [[Visual System Modeling & Diagramming]]
 - [[Visual Thinking]]
 - [[Visual Thinking Principles]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zsolt Viczian]]
 - [[mind mapping]]
 - [[outlining]]
@@ -1082,11 +1082,11 @@ extraction_summary:
 | 62 | [[System Architecture Mindmap]] | — | — | Pattern 3: System Design Workflow | 1292 |
 | 63 | [[wiki-links]] | — | — | Issue 3: Links Not Clickable | 1383 |
 | 64 | [[Visual PKM Philosophy]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1430 |
-| 65 | [[Personal Knowledge Management]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1431 |
-| 66 | [[Dual Coding Theory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
+| 65 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1431 |
+| 66 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
 | 67 | [[Visual Thinking]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
-| 68 | [[Cognitive Load]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
-| 69 | [[Working Memory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
+| 68 | [[Cognitive-Load|Cognitive Load]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
+| 69 | [[Working-Memory|Working Memory]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1432 |
 | 70 | [[Cognitive Science Basics]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1435 |
 | 71 | [[Learning Theory Fundamentals]] | — | — | 1. **[[Visual PKM Philosophy]]** | 1435 |
 | 72 | [[Sketch-noting & Visual Note-Taking Techniques]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1438 |
@@ -1097,13 +1097,13 @@ extraction_summary:
 | 77 | [[Excalidraw Basics]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
 | 78 | [[Visual Thinking Principles]] | — | — | 2. **[[Sketch-noting & Visual Note-Ta... | 1443 |
 | 79 | [[Mind Mapping Theory & Research]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1447 |
-| 80 | [[Cognitive Psychology]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
+| 80 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
 | 81 | [[Learning Theory]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1450 |
 | 82 | [[Learning Theory Basics]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1452 |
 | 83 | [[MarkMind Basics]] | — | — | 3. **[[Mind Mapping Theory & Research... | 1452 |
 | 84 | [[PDF Annotation Workflows in Academia]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1455 |
 | 85 | [[Research Methods]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1458 |
-| 86 | [[Literature Review]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1458 |
+| 86 | [[Literature-Review|Literature Review]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1458 |
 | 87 | [[Reading Strategies]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1458 |
 | 88 | [[MarkMind PDF Features]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1460 |
 | 89 | [[Research Methodology Basics]] | — | — | 4. **[[PDF Annotation Workflows in Ac... | 1460 |
@@ -2071,8 +2071,8 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Architecture Documentation]]
-- [[Cognitive Load]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Cognitive Science Basics]]
 - [[Community Plugins]]
 - [[Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian]]
@@ -2080,7 +2080,7 @@ $$
 - [[Dataview]]
 - [[Design Specs]]
 - [[Domain]]
-- [[Dual Coding Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Established Theory]]
 - [[ExcaliBrain]]
 - [[Excalidraw]]
@@ -2097,7 +2097,7 @@ $$
 - [[Learning Theory]]
 - [[Learning Theory Basics]]
 - [[Learning Theory Fundamentals]]
-- [[Literature Review]]
+- [[Literature-Review|Literature Review]]
 - [[MarkMind]]
 - [[MarkMind Basics]]
 - [[MarkMind PDF Features]]
@@ -2120,7 +2120,7 @@ $$
 - [[Person A]]
 - [[Person B]]
 - [[Person C]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Development]]
 - [[Project Name]]
 - [[QuickAdd]]
@@ -2149,7 +2149,7 @@ $$
 - [[Visual System Modeling & Diagramming]]
 - [[Visual Thinking]]
 - [[Visual Thinking Principles]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zsolt Viczian]]
 - [[mind mapping]]
 - [[outlining]]

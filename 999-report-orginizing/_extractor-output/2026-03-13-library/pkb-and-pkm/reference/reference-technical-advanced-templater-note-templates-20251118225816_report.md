@@ -686,7 +686,7 @@ extraction_summary:
 - [[Anki]]
 - [[Architecture Pattern]]
 - [[Architecture Patterns]]
-- [[Argument Mapping]]
+- [[Argument-Mapping|Argument Mapping]]
 - [[Atomic Habits]]
 - [[Author Name]]
 - [[Author Year - Title]]
@@ -721,7 +721,7 @@ extraction_summary:
 - [[Dependencies]]
 - [[Domain MOC]]
 - [[Earlier LLM Conversation]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Existing Concept 1]]
 - [[Existing Topic Note]]
 - [[Flow State]]
@@ -740,13 +740,13 @@ extraction_summary:
 - [[Learning Theory]]
 - [[Literature Note 1]]
 - [[Literature Notes]]
-- [[Literature Review]]
+- [[Literature-Review|Literature Review]]
 - [[MOC Name]]
 - [[Main Research Project]]
 - [[Mendeley]]
 - [[Meta-Learning from LLM Interactions]]
 - [[Metacognition]]
-- [[Metacognitive Development]]
+- [[Metacognitive-Development|Metacognitive Development]]
 - [[Methodological Framework]]
 - [[Obsidian Plugin Integration Patterns]]
 - [[PKB Automation Design Principles]]
@@ -769,12 +769,12 @@ extraction_summary:
 - [[Research Method]]
 - [[Research Method 1]]
 - [[Research Topic 1]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Similar Topic Conversation]]
 - [[Source 1]]
 - [[Source 2]]
 - [[Source Reliability Scoring]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) + 1 %>]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]
@@ -888,8 +888,8 @@ extraction_summary:
 | 70 | [[Advanced Topic 2]] | — | — | 🔗 Knowledge Graph Connections | 1898 |
 | 71 | [[Related Concept 1]] | — | — | 🔗 Knowledge Graph Connections | 1901 |
 | 72 | [[Related Concept 2]] | — | — | 🔗 Knowledge Graph Connections | 1902 |
-| 73 | [[Spaced Repetition]] | — | — | 🔗 Knowledge Graph Connections | 1908 |
-| 74 | [[Elaborative Interrogation]] | — | — | 🔗 Knowledge Graph Connections | 1908 |
+| 73 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔗 Knowledge Graph Connections | 1908 |
+| 74 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | 🔗 Knowledge Graph Connections | 1908 |
 | 75 | [[Anki]] | — | — | 🔗 Knowledge Graph Connections | 1921 |
 | 76 | [[<% await tp.system.prompt("Link to main project note name") %>]] | — | — | Agile Sprint Planning Board Template | 1938 |
 | 77 | [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]] | — | — | 🔗 Related Sprints | 2053 |
@@ -923,8 +923,8 @@ extraction_summary:
 | 105 | [[Core Concept 2]] | — | — | 🔗 Connected Research | 2550 |
 | 106 | [[Research Method 1]] | — | — | 🔗 Connected Research | 2553 |
 | 107 | [[Statistical Technique]] | — | — | 🔗 Connected Research | 2554 |
-| 108 | [[Literature Review]] | — | — | Discussion Draft | 2581 |
-| 109 | [[Argument Mapping]] | — | — | Discussion Draft | 2581 |
+| 108 | [[Literature-Review|Literature Review]] | — | — | Discussion Draft | 2581 |
+| 109 | [[Argument-Mapping|Argument Mapping]] | — | — | Discussion Draft | 2581 |
 | 110 | [[Academic Writing]] | — | — | Discussion Draft | 2581 |
 | 111 | [[Zotero]] | — | — | Discussion Draft | 2596 |
 | 112 | [[Mendeley]] | — | — | Discussion Draft | 2596 |
@@ -1006,8 +1006,8 @@ extraction_summary:
 | 188 | [[Course Notes]] | — | — | 🔗 Learning Network | 4238 |
 | 189 | [[Similar Topic Conversation]] | — | — | 🔗 Learning Network | 4241 |
 | 190 | [[Complementary Concept Conversation]] | — | — | 🔗 Learning Network | 4242 |
-| 191 | [[Self-Directed Learning]] | — | — | 💭 Meta-Learning Reflections | 4276 |
-| 192 | [[Metacognitive Development]] | — | — | 💭 Meta-Learning Reflections | 4276 |
+| 191 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 💭 Meta-Learning Reflections | 4276 |
+| 192 | [[Metacognitive-Development|Metacognitive Development]] | — | — | 💭 Meta-Learning Reflections | 4276 |
 | 193 | [[Anki]] | — | — | 💭 Meta-Learning Reflections | 4291 |
 | 194 | [[LLM Prompt Engineering for PKB]] | — | — | 🔗 Related Topics for PKB Expansion | 4299 |
 | 195 | [[AI-Assisted Research Verification Protocols]] | — | — | 🔗 Related Topics for PKB Expansion | 4304 |
@@ -1383,7 +1383,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 15 — `plaintext` *(Lines 1906-1927)*
 
 ```plaintext
-**Template Purpose:** Structured learning documentation following [[Spaced Repetition]] and [[Elaborative Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] and [[Elaborative-Interrogation|Elaborative Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness
@@ -1453,7 +1453,7 @@ WHERE date >= date(<% moment(tp.date.now("YYYY-MM-DD")).startOf('week').format("
 ### Code Block 18 — `plaintext` *(Lines 2579-2624)*
 
 ```plaintext
-**Template Purpose:** Comprehensive research synthesis environment combining [[Literature Review]] methodology, [[Argument Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
+**Template Purpose:** Comprehensive research synthesis environment combining [[Literature-Review|Literature Review]] methodology, [[Argument-Mapping|Argument Mapping]], and [[Academic Writing]] scaffolds. Designed for graduate-level research, systematic reviews, meta-analyses, or extended analytical projects.
 
 **Key Features:**
 - Multi-phase research tracking (literature → analysis → writing)
@@ -2107,7 +2107,7 @@ graph LR
 - [[Anki]]
 - [[Architecture Pattern]]
 - [[Architecture Patterns]]
-- [[Argument Mapping]]
+- [[Argument-Mapping|Argument Mapping]]
 - [[Atomic Habits]]
 - [[Author Name]]
 - [[Author Year - Title]]
@@ -2142,7 +2142,7 @@ graph LR
 - [[Dependencies]]
 - [[Domain MOC]]
 - [[Earlier LLM Conversation]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Existing Concept 1]]
 - [[Existing Topic Note]]
 - [[Flow State]]
@@ -2161,13 +2161,13 @@ graph LR
 - [[Learning Theory]]
 - [[Literature Note 1]]
 - [[Literature Notes]]
-- [[Literature Review]]
+- [[Literature-Review|Literature Review]]
 - [[MOC Name]]
 - [[Main Research Project]]
 - [[Mendeley]]
 - [[Meta-Learning from LLM Interactions]]
 - [[Metacognition]]
-- [[Metacognitive Development]]
+- [[Metacognitive-Development|Metacognitive Development]]
 - [[Methodological Framework]]
 - [[Obsidian Plugin Integration Patterns]]
 - [[PKB Automation Design Principles]]
@@ -2190,12 +2190,12 @@ graph LR
 - [[Research Method]]
 - [[Research Method 1]]
 - [[Research Topic 1]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Similar Topic Conversation]]
 - [[Source 1]]
 - [[Source 2]]
 - [[Source Reliability Scoring]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) + 1 %>]]
 - [[Sprint <% parseInt((await tp.system.prompt("Sprint number (e.g., Sprint 12)")).replace(/\D/g, '')) - 1 %>]]
 - [[Statistical Technique]]

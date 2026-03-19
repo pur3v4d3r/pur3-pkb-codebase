@@ -391,7 +391,7 @@ extraction_summary:
 >     └── Internal link opportunities: 
 >         - [[Dataview]], [[YAML]], [[Obsidian Properties]]
 >         - [[Templater]], [[QuickAdd]] (for workflow integration)
->         - [[Personal Knowledge Management]], [[Zettelkasten]]
+>         - [[Personal-Knowledge-Management|Personal Knowledge Management]], [[Zettelkasten]]
 >         - [[Inline Fields]], [[Metadata Schema]]
 > Now I'll execute the research phase.
 > Now I have sufficient research to create a comprehensive reference note. Let me proceed with the response following the structure outlined in the thinking phase.
@@ -626,12 +626,12 @@ extraction_summary:
 - [[Obsidian]]
 - [[Obsidian Plugin Development - Creating Custom Metadata Processors]]
 - [[Obsidian Properties]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management Schemas - Design Patterns]]
 - [[Properties]]
 - [[QuickAdd]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Templater & QuickAdd Integration - Advanced Metadata Automation]]
 - [[Wiki-Links]]
@@ -651,7 +651,7 @@ extraction_summary:
 | 4 | [[Obsidian Properties]] | — | — | Comprehensive Reference: Metadata Menu | 381 |
 | 5 | [[Templater]] | — | — | Comprehensive Reference: Metadata Menu | 382 |
 | 6 | [[QuickAdd]] | — | — | Comprehensive Reference: Metadata Menu | 382 |
-| 7 | [[Personal Knowledge Management]] | — | — | Comprehensive Reference: Metadata Menu | 383 |
+| 7 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Comprehensive Reference: Metadata Menu | 383 |
 | 8 | [[Zettelkasten]] | — | — | Comprehensive Reference: Metadata Menu | 383 |
 | 9 | [[Inline Fields]] | — | — | Comprehensive Reference: Metadata Menu | 384 |
 | 10 | [[Metadata Schema]] | — | — | Comprehensive Reference: Metadata Menu | 384 |
@@ -661,10 +661,10 @@ extraction_summary:
 | 14 | [[Dataview]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
 | 15 | [[Dataview Syntax]] | field notation | — | Comprehensive Reference: Metadata Menu | 400 |
 | 16 | [[YAML Frontmatter]] | — | — | Comprehensive Reference: Metadata Menu | 400 |
-| 17 | [[Personal Knowledge Base]] | PKB | — | Comprehensive Reference: Metadata Menu | 400 |
+| 17 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | PKB | — | Comprehensive Reference: Metadata Menu | 400 |
 | 18 | [[DataviewJS]] | — | — | Comprehensive Reference: Metadata Menu | 404 |
 | 19 | [[Wiki-Links]] | — | — | Comprehensive Reference: Metadata Menu | 404 |
-| 20 | [[Personal Knowledge Management]] | — | — | Foundational Understanding | 429 |
+| 20 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Foundational Understanding | 429 |
 | 21 | [[Obsidian]] | — | — | Foundational Understanding | 429 |
 | 22 | [[YAML]] | — | — | Foundational Understanding | 429 |
 | 23 | [[Dataview]] | — | — | Foundational Understanding | 429 |
@@ -679,7 +679,7 @@ extraction_summary:
 | 32 | [[wikilink]] | — | — | 2. Context Menu (Right-Click) | 1108 |
 | 33 | [[QuickAdd]] | — | — | Bulk Updating Lookup Fields | 1643 |
 | 34 | [[Templater]] | — | — | Bulk Updating Lookup Fields | 1643 |
-| 35 | [[Spaced Repetition]] | — | — | Optional: Link to Cycle field | 1879 |
+| 35 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Optional: Link to Cycle field | 1879 |
 | 36 | [[Zettelkasten]] | — | — | Optional: Link to Cycle field | 1879 |
 | 37 | [[Dataview Query Language - Advanced Patterns]] | — | — | 🔗 Related Topics for PKB Expansion | 2070 |
 | 38 | [[Obsidian Plugin Development - Creating Custom Metadata Processors]] | — | — | 🔗 Related Topics for PKB Expansion | 2075 |
@@ -1625,7 +1625,7 @@ Metadata Menu supports <span style='color: #72FFF1;'>time-shifting Date fields</
 3. If linked to `review-stage` Cycle field, that advances too
 4. Interval increases (next shift will be +2 weeks)
 
-<span style='color: #27FF00;'>✓ Use Case:</span> [[Spaced Repetition]] for [[Zettelkasten]] notes, vocabulary learning, concept reviews.
+<span style='color: #27FF00;'>✓ Use Case:</span> [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] for [[Zettelkasten]] notes, vocabulary learning, concept reviews.
 
 ---
 
@@ -2102,12 +2102,12 @@ For <span style='color: #FF00DC;'>Lookup fields</span> that don't need real-time
 - [[Obsidian]]
 - [[Obsidian Plugin Development - Creating Custom Metadata Processors]]
 - [[Obsidian Properties]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Personal Knowledge Management Schemas - Design Patterns]]
 - [[Properties]]
 - [[QuickAdd]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Templater & QuickAdd Integration - Advanced Metadata Automation]]
 - [[Wiki-Links]]

@@ -134,7 +134,7 @@ extraction_summary:
 #### 1. [PRE-READ-QUESTIONS] Untitled *(Line 28)*
 
 > [!pre-read-questions] Untitled
-> - How does the architecture of a [[Personal Knowledge Base]] fundamentally reshape the cognitive workflow of academic research compared to traditional linear methodologies?
+> - How does the architecture of a [[Personal-Knowledge-Base|Personal Knowledge Base]] fundamentally reshape the cognitive workflow of academic research compared to traditional linear methodologies?
 > - What are the specific mechanisms by which [[knowledge emergence]] occurs within an interconnected note system, and how does this differ from deliberate analytical synthesis?
 > - In what ways does the research lifecycle become a cyclical, self-reinforcing system rather than a linear progression when implemented within a [[PKB]] environment?
 > - How do the principles of [[atomicity]] and [[connectivity]] in note-taking systems translate into tangible improvements in research output quality and ideation velocity?
@@ -268,7 +268,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > - *The principles discussed here* **strongly connect to the field of:**
->     - [[Cognitive Load Theory]] and [[Working Memory Research]]
+>     - [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Working Memory Research]]
 >     - **The reason:**
 >         - Personal Knowledge Base methodologies are essentially applied cognitive science—they work precisely because they respect the limitations of working memory and the associative nature of long-term memory retrieval. By externalizing knowledge in atomic, connected form, they reduce the cognitive load required to synthesize complex information, freeing mental resources for higher-order thinking. This suggests that Personal Knowledge Base training should be integrated with explicit instruction in cognitive science principles, helping researchers understand *why* these practices work, not just *how* to implement them.
 
@@ -393,7 +393,7 @@ extraction_summary:
 
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[Atomic Note-Taking]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and External Memory Systems]]
 - [[Contemporary PKM research]]
 - [[Digital Minimalism and Sustainable Knowledge Work Practices]]
@@ -406,7 +406,7 @@ extraction_summary:
 - [[Niklas Luhmann]]
 - [[Niklas Luhmann's documented productivity]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive Elaboration]]
 - [[Roam Research]]
 - [[The Extended Mind Thesis and Cognitive Extension]]
@@ -415,10 +415,10 @@ extraction_summary:
 - [[Zettelkasten Method]]
 - [[atomicity]]
 - [[connectivity]]
-- [[desirable difficulties]]
-- [[dual-coding theory]]
+- [[Desirable-Difficulties|desirable difficulties]]
+- [[Dual-Coding-Theory|dual-coding theory]]
 - [[elaboration]]
-- [[extended mind theory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|extended mind theory]]
 - [[information asymmetry]]
 - [[institutional conservatism]]
 - [[knowledge emergence]]
@@ -434,7 +434,7 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | Document Start | 29 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 29 |
 | 2 | [[knowledge emergence]] | — | — | Document Start | 30 |
 | 3 | [[PKB]] | — | — | Document Start | 31 |
 | 4 | [[atomicity]] | — | — | Document Start | 32 |
@@ -446,9 +446,9 @@ extraction_summary:
 | 10 | [[atomicity]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
 | 11 | [[connectivity]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
 | 12 | [[elaboration]] | — | — | 2.0 🧭 Historical Context & Foundation... | 64 |
-| 13 | [[dual-coding theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
+| 13 | [[Dual-Coding-Theory|dual-coding theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
 | 14 | [[spreading activation theory]] | — | — | 2.0 🧭 Historical Context & Foundation... | 66 |
-| 15 | [[desirable difficulties]] | — | — | 2.0 🧭 Historical Context & Foundation... | 68 |
+| 15 | [[Desirable-Difficulties|desirable difficulties]] | — | — | 2.0 🧭 Historical Context & Foundation... | 68 |
 | 16 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
 | 17 | [[Roam Research]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
 | 18 | [[Logseq]] | — | — | 2.0 🧭 Historical Context & Foundation... | 70 |
@@ -460,10 +460,10 @@ extraction_summary:
 | 24 | [[regulatory capture]] | — | — | 4.4 🌿 Emergent Synthesis and Structur... | 153 |
 | 25 | [[Niklas Luhmann's documented productivity]] | — | — | 5.0 🔬 Observational Evidence | 182 |
 | 26 | [[Contemporary PKM research]] | — | — | 5.0 🔬 Observational Evidence | 187 |
-| 27 | [[Cognitive Load Theory]] | — | — | 6.1 🎓 Implications for Doctoral Educa... | 215 |
+| 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 6.1 🎓 Implications for Doctoral Educa... | 215 |
 | 28 | [[Working Memory Research]] | — | — | 6.1 🎓 Implications for Doctoral Educa... | 215 |
 | 29 | [[polypharmacy risks in elderly patients]] | — | — | 6.2 💼 Implications for Knowledge-Inte... | 225 |
-| 30 | [[extended mind theory]] | — | — | 6.3 🧠 Implications for Cognitive Scie... | 237 |
+| 30 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|extended mind theory]] | — | — | 6.3 🧠 Implications for Cognitive Scie... | 237 |
 | 31 | [[learning science research]] | — | — | 9.0 🧠 Key Questions | 295 |
 | 32 | [[Atomic Note-Taking]] | — | — | 9.0 🧠 Key Questions | 308 |
 | 33 | [[Emergent Synthesis]] | — | — | 9.0 🧠 Key Questions | 310 |
@@ -530,7 +530,7 @@ I'll create a comprehensive academic article on the research project lifecycle w
 
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[Atomic Note-Taking]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and External Memory Systems]]
 - [[Contemporary PKM research]]
 - [[Digital Minimalism and Sustainable Knowledge Work Practices]]
@@ -543,7 +543,7 @@ I'll create a comprehensive academic article on the research project lifecycle w
 - [[Niklas Luhmann]]
 - [[Niklas Luhmann's documented productivity]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Progressive Elaboration]]
 - [[Roam Research]]
 - [[The Extended Mind Thesis and Cognitive Extension]]
@@ -552,10 +552,10 @@ I'll create a comprehensive academic article on the research project lifecycle w
 - [[Zettelkasten Method]]
 - [[atomicity]]
 - [[connectivity]]
-- [[desirable difficulties]]
-- [[dual-coding theory]]
+- [[Desirable-Difficulties|desirable difficulties]]
+- [[Dual-Coding-Theory|dual-coding theory]]
 - [[elaboration]]
-- [[extended mind theory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|extended mind theory]]
 - [[information asymmetry]]
 - [[institutional conservatism]]
 - [[knowledge emergence]]

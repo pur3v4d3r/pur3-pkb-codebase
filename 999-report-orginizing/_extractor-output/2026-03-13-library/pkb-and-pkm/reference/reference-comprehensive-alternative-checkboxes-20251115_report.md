@@ -236,7 +236,7 @@ extraction_summary:
 - [[Alternate Checkboxes]]
 - [[AnuPpuccin]]
 - [[CSS Snippets]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[How to create a CSS Snippet in Obsidian]]
 - [[Minimal]]
 - [[Obsidian AnuPpuccin Theme]]
@@ -292,7 +292,7 @@ extraction_summary:
 | 38 | [[CSS Snippets]] | — | — | 🔗 Related Topics for PKB Expansion | 374 |
 | 39 | [[Obsidian Minimal Theme]] | — | — | 🔗 Related Topics for PKB Expansion | 375 |
 | 40 | [[Obsidian AnuPpuccin Theme]] | — | — | 🔗 Related Topics for PKB Expansion | 376 |
-| 41 | [[Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 377 |
+| 41 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 377 |
 | 42 | [[How to create a CSS Snippet in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 378 |
 
 ---
@@ -474,7 +474,7 @@ extraction_summary:
 - [[Alternate Checkboxes]]
 - [[AnuPpuccin]]
 - [[CSS Snippets]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[How to create a CSS Snippet in Obsidian]]
 - [[Minimal]]
 - [[Obsidian AnuPpuccin Theme]]

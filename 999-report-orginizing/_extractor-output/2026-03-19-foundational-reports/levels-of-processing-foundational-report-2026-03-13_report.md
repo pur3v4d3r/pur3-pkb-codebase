@@ -227,7 +227,7 @@ extraction_summary:
 #### 16. [INSIGHT] A Convergent Picture *(Line 377)*
 
 > [!insight] A Convergent Picture
-> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
+> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
 
 #### 17. [ASK-YOURSELF-THIS] Mapping Your Position *(Line 380)*
 
@@ -238,7 +238,7 @@ extraction_summary:
 
 > [!reflection] Engaging the Landscape
 > 1. The Morris, Bransford & Franks (1977) experiment showed that phonemic encoding could outperform semantic encoding on a rhyme retrieval test. What does this imply about how students should think about preparing for different kinds of examination formats? Are there examinations that actually reward shallow processing?
-> 2. The [[Self-Reference Effect]] suggests that one reliable way to deepen encoding is to make material personally relevant. What are the practical and ethical implications of designing instruction around self-referential prompts? Are there domains where this strategy seems more or less appropriate?
+> 2. The [[Self-Reference-Effect|Self-Reference Effect]] suggests that one reliable way to deepen encoding is to make material personally relevant. What are the practical and ethical implications of designing instruction around self-referential prompts? Are there domains where this strategy seems more or less appropriate?
 > 3. If transfer-appropriate processing is correct, then the ideal study strategy depends on what kind of test a student will face. Does this imply that students should be told what type of test they will face in advance? What are the arguments for and against such transparency?
 
 #### 19. [KEY-INSIGHT] Depth as Associative Richness *(Line 400)*
@@ -266,7 +266,7 @@ extraction_summary:
 > [!reflection] Understanding the Machinery
 > 1. The orienting task paradigm reveals that where we direct attention during encoding shapes what we remember. What does this imply about the design of reading activities, note-taking strategies, and classroom discussions? Which common educational activities direct attention toward shallow features (dates, spelling, physical layout), and which direct it toward deeper features?
 > 2. The incidental/intentional learning finding is striking: the *intent* to remember adds relatively little to what *depth of processing* predicts. Does this finding make you skeptical of strategies like "I'll just read it again more carefully" or "I'll try harder to memorize"? What would you need to replace these strategies with?
-> 3. How does the [[Schema Theory]] account of elaboration connect to the way knowledge builds on prior knowledge? What does the LOP framework imply about what happens when a learner lacks the prior schemas that would enable semantic elaboration — for example, an absolute beginner in a completely unfamiliar domain?
+> 3. How does the [[Schema-Theory|Schema Theory]] account of elaboration connect to the way knowledge builds on prior knowledge? What does the LOP framework imply about what happens when a learner lacks the prior schemas that would enable semantic elaboration — for example, an absolute beginner in a completely unfamiliar domain?
 
 #### 24. [BEST-PRACTICE] Designing for Semantic Depth in Instruction *(Line 453)*
 
@@ -276,12 +276,12 @@ extraction_summary:
 #### 25. [BEST-PRACTICE] Self-Referential Anchoring *(Line 456)*
 
 > [!best-practice] Self-Referential Anchoring
-> Instructors can leverage the [[Self-Reference Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
+> Instructors can leverage the [[Self-Reference-Effect|Self-Reference Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
 
 #### 26. [IMPORTANT] The Circularity Limitation *(Line 469)*
 
 > [!important] The Circularity Limitation
-> The [[Levels of Processing]] framework faces a fundamental logical problem: "depth" of processing is defined operationally by the retention it produces, but retention is used as evidence for depth. This circularity means the framework cannot, in its original form, generate falsifiable predictions about novel encoding conditions. A new kind of processing task might produce excellent retention, but this would simply be interpreted as evidence that it engaged deep processing — the framework is insulated from disconfirmation. Lockhart and Craik acknowledged this problem in their 1990 retrospective review and did not fully resolve it, though they noted that converging empirical evidence from multiple paradigms provided some degree of theoretical constraint.
+> The [[Levels-of-Processing|Levels of Processing]] framework faces a fundamental logical problem: "depth" of processing is defined operationally by the retention it produces, but retention is used as evidence for depth. This circularity means the framework cannot, in its original form, generate falsifiable predictions about novel encoding conditions. A new kind of processing task might produce excellent retention, but this would simply be interpreted as evidence that it engaged deep processing — the framework is insulated from disconfirmation. Lockhart and Craik acknowledged this problem in their 1990 retrospective review and did not fully resolve it, though they noted that converging empirical evidence from multiple paradigms provided some degree of theoretical constraint.
 
 #### 27. [WARNING] Overextending the Depth Heuristic *(Line 478)*
 
@@ -302,13 +302,13 @@ extraction_summary:
 > 
 > This report on [[Levels of Processing Theory]] connects to existing knowledge in your PKB across several clusters:
 > 
-> - **[[Schema Theory]]** — The LOP framework's depth-as-associative-richness account is a direct functional description of what schema activation accomplishes. Deep processing works, in part, *because* it activates existing schemas and assimilates new information into them. The Schema Theory report provides the structural account of *what* gets activated during deep encoding; LOP provides the motivational/instructional account of *how* to ensure that activation occurs. Together, these nodes form a paired explanation of meaningful learning.
+> - **[[Schema-Theory|Schema Theory]]** — The LOP framework's depth-as-associative-richness account is a direct functional description of what schema activation accomplishes. Deep processing works, in part, *because* it activates existing schemas and assimilates new information into them. The Schema Theory report provides the structural account of *what* gets activated during deep encoding; LOP provides the motivational/instructional account of *how* to ensure that activation occurs. Together, these nodes form a paired explanation of meaningful learning.
 > 
 > - **[[Metacognition & Lifelong Learning]]** — The LOP framework's most profound educational implication is metacognitive: learners who are aware of their processing depth and can deliberately regulate it are far more effective than learners who process habitually and unreflectively. The connection is bidirectional: metacognitive monitoring enables intentional deployment of deep processing strategies, while understanding of LOP provides concrete content for metacognitive knowledge (knowing *that* semantic elaboration produces better retention, and *how* to produce it).
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — Formative feedback can function as a depth intervention. Feedback that merely signals correct/incorrect operates at a shallow processing level; feedback that requires learners to explain *why* an answer is correct or incorrect, or to generate an alternative solution, induces elaborative reprocessing of the relevant concept. The two nodes together answer the question: what should good feedback *require learners to do*, and why does that matter for durable learning?
 > 
-> - **[[Self-Determination Theory]]** — The connection between motivation and processing depth is underexplored in the LOP literature but theoretically compelling. SDT's account of intrinsic motivation proposes that autonomously motivated learners are more likely to engage in deep, exploratory processing, while externally motivated learners (studying to avoid punishment or gain a grade) are more likely to adopt minimal-effort, shallow strategies. Connecting these frameworks opens the question of whether deep processing is partly *a product of* motivational quality, not merely a cognitive option learners can always choose.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — The connection between motivation and processing depth is underexplored in the LOP literature but theoretically compelling. SDT's account of intrinsic motivation proposes that autonomously motivated learners are more likely to engage in deep, exploratory processing, while externally motivated learners (studying to avoid punishment or gain a grade) are more likely to adopt minimal-effort, shallow strategies. Connecting these frameworks opens the question of whether deep processing is partly *a product of* motivational quality, not merely a cognitive option learners can always choose.
 > 
 > - **[[Critical Thinking in Education]]** — Critical thinking, as analyzed in the Critical Thinking report, requires exactly the kinds of cognitive operations that LOP identifies as semantically deep: evaluation, inference, comparison, and integration. The LOP framework offers a mechanistic explanation for *why* critical thinking activities promote better learning: they are, by definition, semantically elaborative. The Critical Thinking node provides the normative framework (what thinking *should* look like); LOP provides the memory science explanation of *why* that kind of thinking produces learning.
 > 
@@ -319,7 +319,7 @@ extraction_summary:
 > [!reflection] Integration and Forward Momentum
 > 1. If you had to identify the single most important insight from this report for your own learning practice, what would it be? Not the most interesting finding, but the one you will actually use?
 > 2. In three sentences: the LOP framework says that memory durability depends on processing depth at encoding; depth is best understood as the degree to which semantic meaning and existing knowledge structures are engaged; and the practical implication is that activities requiring explanation, connection, and application produce better retention than activities requiring only recognition or repetition.
-> 3. What is the next question this report has made you curious about? The [[Transfer-Appropriate Processing]] node and the [[Elaborative Interrogation]] node are natural next steps — which pulls at you more strongly, and why?
+> 3. What is the next question this report has made you curious about? The [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] node and the [[Elaborative-Interrogation|Elaborative Interrogation]] node are natural next steps — which pulls at you more strongly, and why?
 
 #### 31. [DEFINITION] Levels of Processing (Craik & Lockhart, 1972) *(Line 538)*
 
@@ -424,12 +424,12 @@ extraction_summary:
 #### 51. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 602)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Transfer-Appropriate Processing]]
-> > A full foundational report on TAP would cover the Morris, Bransford & Franks (1977) paradigm in depth, trace the theoretical development of the encoding-retrieval match principle, examine the relationship between TAP and the [[Encoding Specificity Principle]], and consider the practical implications for assessment design and study strategy guidance. The central question: if memory depends on encoding-retrieval match, how should students think about preparing for different types of tests? This node would complete the theoretical picture left partially open by the present report and is essential for a balanced treatment of encoding and retrieval in the PKB.
+> > [!topic-idea] [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+> > A full foundational report on TAP would cover the Morris, Bransford & Franks (1977) paradigm in depth, trace the theoretical development of the encoding-retrieval match principle, examine the relationship between TAP and the [[Encoding-Specificity-Principle|Encoding Specificity Principle]], and consider the practical implications for assessment design and study strategy guidance. The central question: if memory depends on encoding-retrieval match, how should students think about preparing for different types of tests? This node would complete the theoretical picture left partially open by the present report and is essential for a balanced treatment of encoding and retrieval in the PKB.
 > > **Priority: High**
 > 
-> > [!topic-idea] [[Encoding Specificity Principle]]
-> > Tulving and Thomson's (1973) encoding specificity principle holds that memory depends critically on the reinstatement of encoding context at retrieval. A foundational report would cover the principle's theoretical derivation, the classic experiments (including the shocking finding that extra-list cues can sometimes be less effective than intra-list cues), and the relationship to both LOP and TAP. This report would serve as a bridge between encoding-focused and retrieval-focused accounts of memory, and would connect naturally to [[Retrieval Practice]], [[Spaced Repetition]], and [[Contextual Learning Environments]].
+> > [!topic-idea] [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
+> > Tulving and Thomson's (1973) encoding specificity principle holds that memory depends critically on the reinstatement of encoding context at retrieval. A foundational report would cover the principle's theoretical derivation, the classic experiments (including the shocking finding that extra-list cues can sometimes be less effective than intra-list cues), and the relationship to both LOP and TAP. This report would serve as a bridge between encoding-focused and retrieval-focused accounts of memory, and would connect naturally to [[Retrieval-Practice|Retrieval Practice]], [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]], and [[Contextual Learning Environments]].
 > > **Priority: High**
 > 
 > > [!topic-idea] [[Elaborative Interrogation as Study Strategy]]
@@ -461,7 +461,7 @@ extraction_summary:
 - [[Atkinson-Shiffrin Multi-Store Model]]
 - [[Bartlett]]
 - [[Bartlett's reconstructive memory theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Contextual Learning Environments]]
 - [[Craik]]
 - [[Craik and Lockhart's 1972 paper]]
@@ -469,9 +469,9 @@ extraction_summary:
 - [[Critical Thinking in Education]]
 - [[Desirable Difficulties in Learning]]
 - [[Donald Thomson's]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Study Strategy]]
-- [[Encoding Specificity Principle]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Endel Tulving]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Fergus I. M. Craik]]
@@ -479,29 +479,29 @@ extraction_summary:
 - [[Foundational Report Generator v1.0]]
 - [[Jean Piaget's]]
 - [[LOP Theory]]
-- [[Levels of Processing]]
+- [[Levels-of-Processing|Levels of Processing]]
 - [[Levels of Processing Theory]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition & Lifelong Learning]]
 - [[Morris, Bransford, and Franks]]
 - [[Motivation]]
 - [[Multi-Store Model]]
-- [[Orienting Task]]
-- [[Retrieval Practice]]
+- [[Orienting-Task|Orienting Task]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Retrieval Practice and Processing Depth]]
 - [[Robert S. Lockhart]]
 - [[Roediger]]
 - [[Rogers, Kuiper, and Kirker]]
 - [[Rumelhart]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Reference Effect]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Reference-Effect|Self-Reference Effect]]
 - [[Self-Reference Effect in Memory]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[The Generation Effect]]
-- [[Transfer-Appropriate Processing]]
-- [[Working Memory]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
@@ -510,83 +510,83 @@ extraction_summary:
 | 1 | [[Levels of Processing Theory]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 2 | [[Fergus I. M. Craik]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 3 | [[Robert S. Lockhart]] | — | — | Phase I: Orientation & Context Setting | 262 |
-| 4 | [[Transfer-Appropriate Processing]] | — | — | Scope and Reader Positioning | 266 |
-| 5 | [[Retrieval Practice]] | — | — | Scope and Reader Positioning | 266 |
-| 6 | [[Spaced Repetition]] | — | — | Scope and Reader Positioning | 266 |
-| 7 | [[Working Memory]] | — | — | Scope and Reader Positioning | 266 |
-| 8 | [[Long-Term Memory]] | — | — | Scope and Reader Positioning | 266 |
+| 4 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Scope and Reader Positioning | 266 |
+| 5 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Scope and Reader Positioning | 266 |
+| 6 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Scope and Reader Positioning | 266 |
+| 7 | [[Working-Memory|Working Memory]] | — | — | Scope and Reader Positioning | 266 |
+| 8 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Scope and Reader Positioning | 266 |
 | 9 | [[Levels of Processing Theory]] | — | — | Why This Matters | 270 |
 | 10 | [[LOP Theory]] | — | — | Why This Matters | 270 |
-| 11 | [[Transfer-Appropriate Processing]] | — | — | Report Roadmap | 274 |
+| 11 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Report Roadmap | 274 |
 | 12 | [[Craik and Lockhart's 1972 paper]] | — | — | The Problem LOP Was Designed to Solve | 285 |
 | 13 | [[Atkinson-Shiffrin Multi-Store Model]] | — | — | The Problem LOP Was Designed to Solve | 285 |
 | 14 | [[Craik]] | — | — | The Problem LOP Was Designed to Solve | 287 |
 | 15 | [[Multi-Store Model]] | — | — | The Problem LOP Was Designed to Solve | 287 |
 | 16 | [[Atkinson-Shiffrin Multi-Store Model]] | — | — | Core Definitions | 304 |
-| 17 | [[Levels of Processing]] | — | — | Historical Development | 317 |
+| 17 | [[Levels-of-Processing|Levels of Processing]] | — | — | Historical Development | 317 |
 | 18 | [[Bartlett's reconstructive memory theory]] | — | — | Historical Development | 317 |
 | 19 | [[Jean Piaget's]] | — | — | Historical Development | 317 |
 | 20 | [[Atkinson-Shiffrin Multi-Store Model]] | — | — | The Foundational Distinction: Depth V... | 329 |
 | 21 | [[Craik and Tulving]] | — | — | The Original Framework and Its First ... | 341 |
 | 22 | [[Craik and Tulving]] | — | — | The Original Framework and Its First ... | 346 |
-| 23 | [[Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
+| 23 | [[Levels-of-Processing|Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
 | 24 | [[Morris, Bransford, and Franks]] | — | — | Transfer-Appropriate Processing: A Fu... | 350 |
-| 25 | [[Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
-| 26 | [[Transfer-Appropriate Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
+| 25 | [[Levels-of-Processing|Levels of Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
+| 26 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
 | 27 | [[Roediger]] | — | — | Transfer-Appropriate Processing: A Fu... | 357 |
 | 28 | [[Rogers, Kuiper, and Kirker]] | — | — | The Self-Reference Effect: Deepest of... | 364 |
-| 29 | [[Self-Reference Effect]] | — | — | The Self-Reference Effect: Deepest of... | 369 |
+| 29 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | The Self-Reference Effect: Deepest of... | 369 |
 | 30 | [[Endel Tulving]] | — | — | Encoding Specificity and the Broader ... | 373 |
 | 31 | [[Donald Thomson's]] | — | — | Encoding Specificity and the Broader ... | 373 |
-| 32 | [[Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 373 |
-| 33 | [[Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
-| 34 | [[Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
-| 35 | [[Self-Regulated Learning]] | — | — | Encoding Specificity and the Broader ... | 378 |
+| 32 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 373 |
+| 33 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
+| 34 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Encoding Specificity and the Broader ... | 375 |
+| 35 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Encoding Specificity and the Broader ... | 378 |
 | 36 | [[Metacognition & Lifelong Learning]] | — | — | Encoding Specificity and the Broader ... | 378 |
-| 37 | [[Self-Reference Effect]] | — | — | Encoding Specificity and the Broader ... | 385 |
-| 38 | [[Levels of Processing]] | — | — | What "Deep Processing" Actually Does ... | 394 |
-| 39 | [[Schema Theory]] | — | — | What "Deep Processing" Actually Does ... | 398 |
+| 37 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | Encoding Specificity and the Broader ... | 385 |
+| 38 | [[Levels-of-Processing|Levels of Processing]] | — | — | What "Deep Processing" Actually Does ... | 394 |
+| 39 | [[Schema-Theory|Schema Theory]] | — | — | What "Deep Processing" Actually Does ... | 398 |
 | 40 | [[Craik and Tulving]] | — | — | The Role of Elaboration in Trace Form... | 405 |
-| 41 | [[Schema Theory]] | — | — | The Role of Elaboration in Trace Form... | 407 |
+| 41 | [[Schema-Theory|Schema Theory]] | — | — | The Role of Elaboration in Trace Form... | 407 |
 | 42 | [[Rumelhart]] | — | — | The Role of Elaboration in Trace Form... | 407 |
 | 43 | [[Bartlett]] | — | — | The Role of Elaboration in Trace Form... | 407 |
-| 44 | [[Levels of Processing]] | — | — | Incidental vs. Intentional Learning: ... | 414 |
-| 45 | [[Orienting Task]] | — | — | Orienting Tasks as a Window into Enco... | 423 |
-| 46 | [[Levels of Processing]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
-| 47 | [[Cognitive Load Theory]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
-| 48 | [[Cognitive Load Theory]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
-| 49 | [[Self-Reference Effect]] | — | — | The Self-Reference Mechanism: Why Per... | 432 |
-| 50 | [[Schema Theory]] | — | — | The Self-Reference Mechanism: Why Per... | 439 |
-| 51 | [[Levels of Processing]] | — | — | Educational Implications: Designing f... | 447 |
-| 52 | [[Elaborative Interrogation]] | — | — | Educational Implications: Designing f... | 449 |
+| 44 | [[Levels-of-Processing|Levels of Processing]] | — | — | Incidental vs. Intentional Learning: ... | 414 |
+| 45 | [[Orienting-Task|Orienting Task]] | — | — | Orienting Tasks as a Window into Enco... | 423 |
+| 46 | [[Levels-of-Processing|Levels of Processing]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
+| 47 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
+| 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Orienting Tasks as a Window into Enco... | 425 |
+| 49 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | The Self-Reference Mechanism: Why Per... | 432 |
+| 50 | [[Schema-Theory|Schema Theory]] | — | — | The Self-Reference Mechanism: Why Per... | 439 |
+| 51 | [[Levels-of-Processing|Levels of Processing]] | — | — | Educational Implications: Designing f... | 447 |
+| 52 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Educational Implications: Designing f... | 449 |
 | 53 | [[The Generation Effect]] | — | — | Educational Implications: Designing f... | 451 |
-| 54 | [[Self-Reference Effect]] | — | — | Educational Implications: Designing f... | 457 |
-| 55 | [[Transfer-Appropriate Processing]] | — | — | Applications in Assessment Design | 461 |
+| 54 | [[Self-Reference-Effect|Self-Reference Effect]] | — | — | Educational Implications: Designing f... | 457 |
+| 55 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Applications in Assessment Design | 461 |
 | 56 | [[Formative Assessment Design]] | — | — | Applications in Assessment Design | 463 |
 | 57 | [[Feedback Design for Autonomy and Mastery]] | — | — | Applications in Assessment Design | 463 |
-| 58 | [[Levels of Processing]] | — | — | Limitations: The Circularity Problem | 467 |
-| 59 | [[Levels of Processing]] | — | — | Limitations: The Circularity Problem | 470 |
-| 60 | [[Transfer-Appropriate Processing]] | — | — | Limitations: Transfer-Appropriate Pro... | 476 |
-| 61 | [[Levels of Processing]] | — | — | Limitations: Individual Differences a... | 483 |
-| 62 | [[Schema Theory]] | — | — | Limitations: Individual Differences a... | 485 |
+| 58 | [[Levels-of-Processing|Levels of Processing]] | — | — | Limitations: The Circularity Problem | 467 |
+| 59 | [[Levels-of-Processing|Levels of Processing]] | — | — | Limitations: The Circularity Problem | 470 |
+| 60 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Limitations: Transfer-Appropriate Pro... | 476 |
+| 61 | [[Levels-of-Processing|Levels of Processing]] | — | — | Limitations: Individual Differences a... | 483 |
+| 62 | [[Schema-Theory|Schema Theory]] | — | — | Limitations: Individual Differences a... | 485 |
 | 63 | [[Levels of Processing Theory]] | — | — | The Enduring Insight and Its Proper S... | 498 |
-| 64 | [[Levels of Processing]] | — | — | The "So What?" | 504 |
+| 64 | [[Levels-of-Processing|Levels of Processing]] | — | — | The "So What?" | 504 |
 | 65 | [[Feedback Design for Autonomy and Mastery]] | — | — | The "So What?" | 504 |
 | 66 | [[Metacognition & Lifelong Learning]] | — | — | The "So What?" | 504 |
 | 67 | [[Motivation]] | — | — | Unresolved Questions | 508 |
 | 68 | [[Levels of Processing Theory]] | — | — | Unresolved Questions | 513 |
-| 69 | [[Schema Theory]] | — | — | Unresolved Questions | 515 |
+| 69 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 515 |
 | 70 | [[Metacognition & Lifelong Learning]] | — | — | Unresolved Questions | 517 |
 | 71 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 519 |
-| 72 | [[Self-Determination Theory]] | — | — | Unresolved Questions | 521 |
+| 72 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Unresolved Questions | 521 |
 | 73 | [[Critical Thinking in Education]] | — | — | Unresolved Questions | 523 |
-| 74 | [[Transfer-Appropriate Processing]] | — | — | Unresolved Questions | 530 |
-| 75 | [[Elaborative Interrogation]] | — | — | Unresolved Questions | 530 |
-| 76 | [[Transfer-Appropriate Processing]] | — | — | C. Expansion Topics | 604 |
-| 77 | [[Encoding Specificity Principle]] | — | — | C. Expansion Topics | 605 |
-| 78 | [[Encoding Specificity Principle]] | — | — | C. Expansion Topics | 608 |
-| 79 | [[Retrieval Practice]] | — | — | C. Expansion Topics | 609 |
-| 80 | [[Spaced Repetition]] | — | — | C. Expansion Topics | 609 |
+| 74 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Unresolved Questions | 530 |
+| 75 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Unresolved Questions | 530 |
+| 76 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | C. Expansion Topics | 604 |
+| 77 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | C. Expansion Topics | 605 |
+| 78 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | C. Expansion Topics | 608 |
+| 79 | [[Retrieval-Practice|Retrieval Practice]] | — | — | C. Expansion Topics | 609 |
+| 80 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | C. Expansion Topics | 609 |
 | 81 | [[Contextual Learning Environments]] | — | — | C. Expansion Topics | 609 |
 | 82 | [[Elaborative Interrogation as Study Strategy]] | — | — | C. Expansion Topics | 612 |
 | 83 | [[Retrieval Practice and Processing Depth]] | — | — | C. Expansion Topics | 616 |
@@ -606,7 +606,7 @@ extraction_summary:
 - [[Atkinson-Shiffrin Multi-Store Model]]
 - [[Bartlett]]
 - [[Bartlett's reconstructive memory theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Contextual Learning Environments]]
 - [[Craik]]
 - [[Craik and Lockhart's 1972 paper]]
@@ -614,9 +614,9 @@ extraction_summary:
 - [[Critical Thinking in Education]]
 - [[Desirable Difficulties in Learning]]
 - [[Donald Thomson's]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elaborative Interrogation as Study Strategy]]
-- [[Encoding Specificity Principle]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Endel Tulving]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Fergus I. M. Craik]]
@@ -624,53 +624,53 @@ extraction_summary:
 - [[Foundational Report Generator v1.0]]
 - [[Jean Piaget's]]
 - [[LOP Theory]]
-- [[Levels of Processing]]
+- [[Levels-of-Processing|Levels of Processing]]
 - [[Levels of Processing Theory]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition & Lifelong Learning]]
 - [[Morris, Bransford, and Franks]]
 - [[Motivation]]
 - [[Multi-Store Model]]
-- [[Orienting Task]]
-- [[Retrieval Practice]]
+- [[Orienting-Task|Orienting Task]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Retrieval Practice and Processing Depth]]
 - [[Robert S. Lockhart]]
 - [[Roediger]]
 - [[Rogers, Kuiper, and Kirker]]
 - [[Rumelhart]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Reference Effect]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Reference-Effect|Self-Reference Effect]]
 - [[Self-Reference Effect in Memory]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[The Generation Effect]]
-- [[Transfer-Appropriate Processing]]
-- [[Working Memory]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[Working-Memory|Working Memory]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Working Memory]]
-- [[Long-Term Memory]]
+- [[Working-Memory|Working Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Encoding and Retrieval Basics]]
 
 #### Related
 
-- [[Schema Theory]]
-- [[Encoding Specificity Principle]]
-- [[Transfer of Learning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Metacognition & Lifelong Learning]]
-- [[Cognitive Load Theory]]
-- [[Elaborative Interrogation]]
-- [[Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Feedback Design for Autonomy and Mastery]]
 
 #### Broader
 
-- [[Memory Systems]]
-- [[Cognitive Psychology]]
+- [[Memory-Systems|Memory Systems]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Learning Sciences]]
 
 #### Narrower
@@ -682,10 +682,10 @@ extraction_summary:
 
 #### See Also
 
-- [[Retrieval Practice Effect]]
-- [[Desirable Difficulties]]
-- [[Generation Effect]]
-- [[Spaced Repetition]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Generation-Effect|Generation Effect]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 
 #### Contrasts With
 
@@ -695,22 +695,22 @@ extraction_summary:
 #### Applied In
 
 - [[Study Strategy Design]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Curriculum Development]]
 - [[Formative Assessment Design]]
 
 #### Builds On
 
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Atkinson-Shiffrin Multi-Store Model]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Enables
 
-- [[Transfer-Appropriate Processing]]
-- [[Encoding Specificity Principle]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
 - [[Elaborative Interrogation as Study Strategy]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Desirable Difficulties in Learning]]
 
 ---

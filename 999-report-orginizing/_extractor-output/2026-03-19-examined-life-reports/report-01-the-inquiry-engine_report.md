@@ -248,7 +248,7 @@ extraction_summary:
 #### 24. [CONNECTION-IDEAS] Forward Connection to Report 13 *(Line 397)*
 
 > [!connection-ideas] Forward Connection to Report 13
-> The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free Energy Principle]]. In predictive processing terms, Dewey's "felt difficulty" is a prediction error — the signal generated when the brain's generative model fails to predict incoming sensory or cognitive input. Socratic aporia arises when a belief-model generates predictions (the interlocutor's confident assertions) that are shown to be inconsistent with other beliefs — a particularly high-level form of prediction error. Conflict monitoring is the mechanism by which prediction errors are detected across processing levels. Metacognitive monitoring is prediction error at the level of one's models of one's own cognition. The four frameworks are not merely analogous to predictive processing; they are, in important senses, early philosophical and psychological discoveries of the same underlying mechanism that predictive processing later formalized computationally.
+> The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free-Energy-Principle|Free Energy Principle]]. In predictive processing terms, Dewey's "felt difficulty" is a prediction error — the signal generated when the brain's generative model fails to predict incoming sensory or cognitive input. Socratic aporia arises when a belief-model generates predictions (the interlocutor's confident assertions) that are shown to be inconsistent with other beliefs — a particularly high-level form of prediction error. Conflict monitoring is the mechanism by which prediction errors are detected across processing levels. Metacognitive monitoring is prediction error at the level of one's models of one's own cognition. The four frameworks are not merely analogous to predictive processing; they are, in important senses, early philosophical and psychological discoveries of the same underlying mechanism that predictive processing later formalized computationally.
 
 #### 25. [SUMMARY] Phase V Summary — What the Synthesis Establishes *(Line 412)*
 
@@ -410,94 +410,94 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Actively Open-Minded Thinking]]
-- [[Aporic Receptivity]]
+- [[Actively-Open-Minded-Thinking|Actively Open-Minded Thinking]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Conflict Monitoring and the Bootstrap Problem]]
 - [[Daniel Kahneman]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elena]]
 - [[Epistemic Curiosity and the Information Gap]]
-- [[Free Energy Principle]]
+- [[Free-Energy-Principle|Free Energy Principle]]
 - [[Gregory Vlastos]]
 - [[How We Think]]
 - [[Inquiry-Based Learning Design: Principles and Evidence]]
 - [[Janet Metcalfe]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[Jonathan Evans]]
 - [[Karl Friston]]
 - [[Keith Stanovich]]
 - [[Marcus]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Productive Failure in Learning (Kapur)]]
-- [[Reflective Thinking]]
-- [[Region of Proximal Learning]]
+- [[Reflective-Thinking|Reflective Thinking]]
+- [[Region-of-Proximal-Learning|Region of Proximal Learning]]
 - [[Richard West]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Stephen Fleming]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
 - [[The Actively Open-Minded Thinking Scale: Measurement and Development]]
 - [[The Meno Paradox in Educational Theory]]
 - [[Thinking, Fast and Slow]]
 - [[Wim De Neys]]
 - [[aporia]]
-- [[conflict monitoring]]
-- [[elenchus]]
+- [[Conflict-Monitoring|conflict monitoring]]
+- [[Elenchus|elenchus]]
 - [[epistemic curiosity]]
-- [[feeling of knowing]]
-- [[felt difficulty]]
+- [[Feeling-of-Knowing-—-FOK|feeling of knowing]]
+- [[Felt-Difficulty|felt difficulty]]
 - [[habit]]
 - [[metacognition]]
 - [[metacognitive experiences]]
-- [[metacognitive knowledge]]
+- [[Metacognitive-Knowledge|metacognitive knowledge]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[John Dewey]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
-| 2 | [[Reflective Thinking]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
-| 3 | [[Socratic Method]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
+| 1 | [[John-Dewey|John Dewey]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
+| 2 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
+| 3 | [[Socratic-Method|Socratic Method]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
 | 4 | [[Daniel Kahneman]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
-| 5 | [[Dual Process Theory]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
+| 5 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
 | 6 | [[John Flavell]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
-| 7 | [[Metacognitive Monitoring]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
-| 8 | [[Aporic Receptivity]] | — | — | Phase I: The Premise — The Paradox at... | 206 |
-| 9 | [[John Dewey]] | — | — | A. John Dewey and the Logic of Felt D... | 220 |
-| 10 | [[Reflective Thinking]] | — | — | A. John Dewey and the Logic of Felt D... | 220 |
+| 7 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase I: The Premise — The Paradox at... | 204 |
+| 8 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Phase I: The Premise — The Paradox at... | 206 |
+| 9 | [[John-Dewey|John Dewey]] | — | — | A. John Dewey and the Logic of Felt D... | 220 |
+| 10 | [[Reflective-Thinking|Reflective Thinking]] | — | — | A. John Dewey and the Logic of Felt D... | 220 |
 | 11 | [[How We Think]] | — | — | A. John Dewey and the Logic of Felt D... | 220 |
-| 12 | [[felt difficulty]] | — | — | A. John Dewey and the Logic of Felt D... | 222 |
+| 12 | [[Felt-Difficulty|felt difficulty]] | — | — | A. John Dewey and the Logic of Felt D... | 222 |
 | 13 | [[habit]] | — | — | A. John Dewey and the Logic of Felt D... | 229 |
-| 14 | [[Socratic Method]] | — | — | B. The Socratic Method: Elenchus, Apo... | 238 |
+| 14 | [[Socratic-Method|Socratic Method]] | — | — | B. The Socratic Method: Elenchus, Apo... | 238 |
 | 15 | [[Gregory Vlastos]] | — | — | B. The Socratic Method: Elenchus, Apo... | 240 |
-| 16 | [[elenchus]] | — | — | B. The Socratic Method: Elenchus, Apo... | 240 |
+| 16 | [[Elenchus|elenchus]] | — | — | B. The Socratic Method: Elenchus, Apo... | 240 |
 | 17 | [[aporia]] | — | — | B. The Socratic Method: Elenchus, Apo... | 240 |
-| 18 | [[Dual Process Theory]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
+| 18 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 19 | [[Daniel Kahneman]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 20 | [[Thinking, Fast and Slow]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 21 | [[Jonathan Evans]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 22 | [[Keith Stanovich]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
 | 23 | [[Richard West]] | — | — | C. Dual Process Theory: The Cognitive... | 257 |
-| 24 | [[System 1]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
-| 25 | [[System 2]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
+| 24 | [[System-1|System 1]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
+| 25 | [[System-2|System 2]] | — | — | C. Dual Process Theory: The Cognitive... | 259 |
 | 26 | [[Wim De Neys]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
-| 27 | [[conflict monitoring]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
-| 28 | [[Actively Open-Minded Thinking]] | — | — | C. Dual Process Theory: The Cognitive... | 274 |
+| 27 | [[Conflict-Monitoring|conflict monitoring]] | — | — | C. Dual Process Theory: The Cognitive... | 269 |
+| 28 | [[Actively-Open-Minded-Thinking|Actively Open-Minded Thinking]] | — | — | C. Dual Process Theory: The Cognitive... | 274 |
 | 29 | [[John Flavell]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
 | 30 | [[metacognition]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
-| 31 | [[metacognitive knowledge]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
+| 31 | [[Metacognitive-Knowledge|metacognitive knowledge]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
 | 32 | [[metacognitive experiences]] | — | — | D. Metacognitive Monitoring: The Arch... | 278 |
-| 33 | [[feeling of knowing]] | — | — | D. Metacognitive Monitoring: The Arch... | 280 |
+| 33 | [[Feeling-of-Knowing-—-FOK|feeling of knowing]] | — | — | D. Metacognitive Monitoring: The Arch... | 280 |
 | 34 | [[Stephen Fleming]] | — | — | D. Metacognitive Monitoring: The Arch... | 285 |
 | 35 | [[Janet Metcalfe]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
 | 36 | [[epistemic curiosity]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
-| 37 | [[Region of Proximal Learning]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
-| 38 | [[Aporic Receptivity]] | — | — | The Emergent Insight: Aporic Receptivity | 348 |
+| 37 | [[Region-of-Proximal-Learning|Region of Proximal Learning]] | — | — | D. Metacognitive Monitoring: The Arch... | 287 |
+| 38 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | The Emergent Insight: Aporic Receptivity | 348 |
 | 39 | [[Elena]] | — | — | Worked Example: The Climate Policy En... | 362 |
 | 40 | [[Marcus]] | — | — | Worked Example: The Climate Policy En... | 364 |
 | 41 | [[Karl Friston]] | — | — | The Primary Emergent Insight: Inquiry... | 398 |
-| 42 | [[Free Energy Principle]] | — | — | The Primary Emergent Insight: Inquiry... | 398 |
+| 42 | [[Free-Energy-Principle|Free Energy Principle]] | — | — | The Primary Emergent Insight: Inquiry... | 398 |
 | 43 | [[Epistemic Curiosity and the Information Gap]] | — | — | Expansion Topics for PKB Development | 502 |
 | 44 | [[Conflict Monitoring and the Bootstrap Problem]] | — | — | Expansion Topics for PKB Development | 505 |
 | 45 | [[Productive Failure in Learning (Kapur)]] | — | — | Expansion Topics for PKB Development | 508 |
@@ -547,47 +547,47 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Actively Open-Minded Thinking]]
-- [[Aporic Receptivity]]
+- [[Actively-Open-Minded-Thinking|Actively Open-Minded Thinking]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Conflict Monitoring and the Bootstrap Problem]]
 - [[Daniel Kahneman]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Elena]]
 - [[Epistemic Curiosity and the Information Gap]]
-- [[Free Energy Principle]]
+- [[Free-Energy-Principle|Free Energy Principle]]
 - [[Gregory Vlastos]]
 - [[How We Think]]
 - [[Inquiry-Based Learning Design: Principles and Evidence]]
 - [[Janet Metcalfe]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[Jonathan Evans]]
 - [[Karl Friston]]
 - [[Keith Stanovich]]
 - [[Marcus]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Productive Failure in Learning (Kapur)]]
-- [[Reflective Thinking]]
-- [[Region of Proximal Learning]]
+- [[Reflective-Thinking|Reflective Thinking]]
+- [[Region-of-Proximal-Learning|Region of Proximal Learning]]
 - [[Richard West]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Stephen Fleming]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
 - [[The Actively Open-Minded Thinking Scale: Measurement and Development]]
 - [[The Meno Paradox in Educational Theory]]
 - [[Thinking, Fast and Slow]]
 - [[Wim De Neys]]
 - [[aporia]]
-- [[conflict monitoring]]
-- [[elenchus]]
+- [[Conflict-Monitoring|conflict monitoring]]
+- [[Elenchus|elenchus]]
 - [[epistemic curiosity]]
-- [[feeling of knowing]]
-- [[felt difficulty]]
+- [[Feeling-of-Knowing-—-FOK|feeling of knowing]]
+- [[Felt-Difficulty|felt difficulty]]
 - [[habit]]
 - [[metacognition]]
 - [[metacognitive experiences]]
-- [[metacognitive knowledge]]
+- [[Metacognitive-Knowledge|metacognitive knowledge]]
 
 ### Frontmatter Relationships
 
@@ -600,18 +600,18 @@ extraction_summary:
 #### Related
 
 - [[Metacognition]]
-- [[Dual Process Theory]]
-- [[Cognitive Bias]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Epistemic Virtues]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Pragmatism]]
-- [[Socratic Method]]
-- [[Growth Mindset]]
+- [[Socratic-Method|Socratic Method]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 
 #### Broader
 
 - [[Philosophy of Education]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Applied Epistemology]]
 
 ---

@@ -292,9 +292,9 @@ extraction_summary:
 > 
 > **[[Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
 > 
-> **[[Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
+> **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
 > 
-> **[[Socratic Method]]** — The Socratic Method is the oldest and most theoretically grounded implementation of CT pedagogy. This report's treatment of CT mechanisms explains the cognitive basis of the Socratic approach — it is, at core, an externally regulated metacognitive process that surfaces implicit assumptions and forces explicit evaluation of reasoning.
+> **[[Socratic-Method|Socratic Method]]** — The Socratic Method is the oldest and most theoretically grounded implementation of CT pedagogy. This report's treatment of CT mechanisms explains the cognitive basis of the Socratic approach — it is, at core, an externally regulated metacognitive process that surfaces implicit assumptions and forces explicit evaluation of reasoning.
 > 
 > The pattern these connections reveal is significant: critical thinking is not an isolated educational objective but the *integrative capacity* that makes higher-order engagement across all knowledge domains possible. Every sophisticated educational practice connects back to CT at its core.
 
@@ -448,12 +448,12 @@ extraction_summary:
 - [[California Critical Thinking Dispositions Inventory]]
 - [[California Critical Thinking Skills Test]]
 - [[Critical Thinking Across the Curriculum — Subject-Specific Integration]]
-- [[Critical thinking]]
+- [[Critical-Thinking|Critical thinking]]
 - [[Daniel Kahneman]]
 - [[Daniel Willingham]]
 - [[Foundational Report Generator v1.0]]
-- [[Inquiry-Based Learning]]
-- [[John Dewey]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[John Sweller]]
 - [[Metacognition]]
@@ -461,13 +461,13 @@ extraction_summary:
 - [[Metacognition in Learning]]
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
 - [[Robert Ennis]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Socratic Seminars — Design and Facilitation]]
 - [[Tim van Gelder]]
 - [[Watson-Glaser Critical Thinking Appraisal]]
-- [[Working memory]]
-- [[cognitive load theory]]
-- [[critical thinking]]
+- [[Working-Memory|Working memory]]
+- [[Cognitive-Load-Theory|cognitive load theory]]
+- [[Critical-Thinking|critical thinking]]
 - [[misinformation]]
 
 ### All Occurrences
@@ -475,16 +475,16 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Robert Ennis]] | — | — | Phase I: Orientation & Context Setting | 243 |
-| 2 | [[critical thinking]] | — | — | Phase I: Orientation & Context Setting | 245 |
+| 2 | [[Critical-Thinking|critical thinking]] | — | — | Phase I: Orientation & Context Setting | 245 |
 | 3 | [[misinformation]] | — | — | Phase I: Orientation & Context Setting | 247 |
-| 4 | [[Critical thinking]] | — | — | Phase I: Orientation & Context Setting | 247 |
-| 5 | [[critical thinking]] | — | — | Defining Critical Thinking: A Contest... | 282 |
-| 6 | [[Socratic Method]] | — | — | Historical Development: From Socrates... | 295 |
-| 7 | [[John Dewey]] | — | — | Historical Development: From Socrates... | 297 |
+| 4 | [[Critical-Thinking|Critical thinking]] | — | — | Phase I: Orientation & Context Setting | 247 |
+| 5 | [[Critical-Thinking|critical thinking]] | — | — | Defining Critical Thinking: A Contest... | 282 |
+| 6 | [[Socratic-Method|Socratic Method]] | — | — | Historical Development: From Socrates... | 295 |
+| 7 | [[John-Dewey|John Dewey]] | — | — | Historical Development: From Socrates... | 297 |
 | 8 | [[Benjamin Bloom]] | — | — | Historical Development: From Socrates... | 299 |
-| 9 | [[Working memory]] | — | — | How Critical Thinking Actually Works:... | 359 |
+| 9 | [[Working-Memory|Working memory]] | — | — | How Critical Thinking Actually Works:... | 359 |
 | 10 | [[John Sweller]] | — | — | How Critical Thinking Actually Works:... | 359 |
-| 11 | [[cognitive load theory]] | — | — | How Critical Thinking Actually Works:... | 359 |
+| 11 | [[Cognitive-Load-Theory|cognitive load theory]] | — | — | How Critical Thinking Actually Works:... | 359 |
 | 12 | [[Daniel Willingham]] | — | — | How Critical Thinking Actually Works:... | 362 |
 | 13 | [[Daniel Kahneman]] | — | — | How Critical Thinking Actually Works:... | 364 |
 | 14 | [[Metacognition]] | — | — | Metacognitive Regulation: The Executi... | 382 |
@@ -496,8 +496,8 @@ extraction_summary:
 | 20 | [[California Critical Thinking Dispositions Inventory]] | — | — | The Assessment Challenge | 423 |
 | 21 | [[Metacognition in Learning]] | — | — | The "So What?" — What This Understand... | 475 |
 | 22 | [[Bloom's Taxonomy]] | — | — | The "So What?" — What This Understand... | 477 |
-| 23 | [[Inquiry-Based Learning]] | — | — | The "So What?" — What This Understand... | 479 |
-| 24 | [[Socratic Method]] | — | — | The "So What?" — What This Understand... | 481 |
+| 23 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | The "So What?" — What This Understand... | 479 |
+| 24 | [[Socratic-Method|Socratic Method]] | — | — | The "So What?" — What This Understand... | 481 |
 | 25 | [[Socratic Seminars — Design and Facilitation]] | — | — | D. Expansion Topics | 574 |
 | 26 | [[Assessment of Critical Thinking — Tools and Methods]] | — | — | D. Expansion Topics | 577 |
 | 27 | [[Metacognition and Self-Regulated Learning]] | — | — | D. Expansion Topics | 580 |
@@ -523,12 +523,12 @@ extraction_summary:
 - [[California Critical Thinking Dispositions Inventory]]
 - [[California Critical Thinking Skills Test]]
 - [[Critical Thinking Across the Curriculum — Subject-Specific Integration]]
-- [[Critical thinking]]
+- [[Critical-Thinking|Critical thinking]]
 - [[Daniel Kahneman]]
 - [[Daniel Willingham]]
 - [[Foundational Report Generator v1.0]]
-- [[Inquiry-Based Learning]]
-- [[John Dewey]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[John Sweller]]
 - [[Metacognition]]
@@ -536,13 +536,13 @@ extraction_summary:
 - [[Metacognition in Learning]]
 - [[Philosophy for Children (P4C) — Lipman's Programme]]
 - [[Robert Ennis]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Socratic Seminars — Design and Facilitation]]
 - [[Tim van Gelder]]
 - [[Watson-Glaser Critical Thinking Appraisal]]
-- [[Working memory]]
-- [[cognitive load theory]]
-- [[critical thinking]]
+- [[Working-Memory|Working memory]]
+- [[Cognitive-Load-Theory|cognitive load theory]]
+- [[Critical-Thinking|critical thinking]]
 - [[misinformation]]
 
 ### Frontmatter Relationships
@@ -555,26 +555,26 @@ extraction_summary:
 #### Related
 
 - [[Metacognition in Learning]]
-- [[Inquiry-Based Learning]]
-- [[Socratic Method]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
 - [[Problem-Based Learning]]
 - [[Bloom's Taxonomy]]
 
 #### Broader
 
-- [[Educational Psychology]]
-- [[Epistemology]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 
 #### Narrower
 
-- [[Argument Mapping]]
+- [[Argument-Mapping|Argument Mapping]]
 - [[Socratic Seminars]]
 - [[Case-Based Reasoning in Education]]
 
 #### See Also
 
 - [[Higher-Order Thinking Skills (HOTS)]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Academic Argumentation]]
 
 #### Contrasts With

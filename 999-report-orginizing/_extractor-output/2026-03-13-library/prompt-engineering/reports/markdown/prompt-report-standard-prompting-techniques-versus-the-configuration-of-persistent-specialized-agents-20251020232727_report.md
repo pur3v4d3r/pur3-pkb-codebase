@@ -410,7 +410,7 @@ extraction_summary:
 #### 26. [CONNECTION-IDEAS] Untitled *(Line 395)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]] and the [[Zettelkasten]] method.
+> The principles discussed here strongly connect to the field of [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] and the [[Zettelkasten]] method.
 > 
 > - A standard chat is like a fleeting conversation. You might learn something, but the insight is lost unless you manually write it down.
 > 
@@ -488,7 +488,7 @@ extraction_summary:
 > [!important] Untitled
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
-> 1. `[[Retrieval-Augmented Generation (RAG)]]`
+> 1. `[[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]`
 > 
 > 1. `[[Parameterized Knowledge vs. External Knowledge]]`
 > 
@@ -519,17 +519,17 @@ extraction_summary:
 
 - [[Parameterized Knowledge vs. External Knowledge]]
 - [[Persistent Agent (Custom GPT)]]
-- [[Personal Knowledge Management (PKM)]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 - [[Zettelkasten]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Management (PKM)]] | — | — | 6. 🌍Broader Implications and Signific... | 397 |
+| 1 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6. 🌍Broader Implications and Signific... | 397 |
 | 2 | [[Zettelkasten]] | — | — | 6. 🌍Broader Implications and Signific... | 397 |
-| 3 | [[Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 492 |
+| 3 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 492 |
 | 4 | [[Parameterized Knowledge vs. External Knowledge]] | — | — | 9. 🧠Key Questions for Active Reading ... | 494 |
 | 5 | [[Persistent Agent (Custom GPT)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 496 |
 
@@ -589,8 +589,8 @@ graph TD
 
 - [[Parameterized Knowledge vs. External Knowledge]]
 - [[Persistent Agent (Custom GPT)]]
-- [[Personal Knowledge Management (PKM)]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 - [[Zettelkasten]]
 
 ---

@@ -363,13 +363,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> This first-principles analysis of [[Self-Determination Theory]] connects to existing knowledge in your PKB:
+> This first-principles analysis of [[Self-Determination-Theory|Self-Determination Theory]] connects to existing knowledge in your PKB:
 > 
 > - **[[Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.
 > 
 > - **[[Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.
 > 
-> - **[[Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.
 > 
 > - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.
 > 
@@ -562,22 +562,22 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Bratman's Planning Theory]]
 - [[Carl Rogers]]
-- [[Challenge-Skill Balance]]
-- [[Cognitive Evaluation Theory]]
+- [[Challenge-Skill-Balance|Challenge-Skill Balance]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
 - [[Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
 - [[Flow Theory]]
 - [[Frankfurt's Hierarchy of Desires]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Humanistic Psychology]]
 - [[Intrinsic vs Extrinsic Motivation]]
 - [[Korsgaard's Self-Constitution]]
 - [[Organismic Integration]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Philosophy of Agency]]
 - [[Relatedness]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory Foundational Report]]
 - [[Socratic Dialogue on Autonomy and Self-Determination]]
 
@@ -589,17 +589,17 @@ extraction_summary:
 | 2 | [[Autonomy]] | — | — | The Standard Account | 137 |
 | 3 | [[Competence]] | — | — | The Standard Account | 137 |
 | 4 | [[Relatedness]] | — | — | The Standard Account | 137 |
-| 5 | [[Cognitive Evaluation Theory]] | — | — | The Standard Account | 137 |
-| 6 | [[Organismic Integration Theory]] | — | — | The Standard Account | 137 |
+| 5 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Standard Account | 137 |
+| 6 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Standard Account | 137 |
 | 7 | [[Organismic Integration]] | — | — | The Standard Narrative | 144 |
 | 8 | [[Carl Rogers]] | — | — | The Standard Narrative | 144 |
 | 9 | [[Abraham Maslow]] | — | — | The Standard Narrative | 144 |
 | 10 | [[Self-Determination Theory Foundational Report]] | — | — | Relationship to Other Report Types | 418 |
 | 11 | [[Socratic Dialogue on Autonomy and Self-Determination]] | — | — | Relationship to Other Report Types | 420 |
-| 12 | [[Self-Determination Theory]] | — | — | Relationship to Other Report Types | 425 |
+| 12 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Relationship to Other Report Types | 425 |
 | 13 | [[Intrinsic vs Extrinsic Motivation]] | — | — | Relationship to Other Report Types | 427 |
 | 14 | [[Humanistic Psychology]] | — | — | Relationship to Other Report Types | 429 |
-| 15 | [[Growth Mindset]] | — | — | Relationship to Other Report Types | 431 |
+| 15 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Relationship to Other Report Types | 431 |
 | 16 | [[Philosophy of Agency]] | — | — | Relationship to Other Report Types | 433 |
 | 17 | [[Frankfurt's Hierarchy of Desires]] | — | — | Relationship to Other Report Types | 433 |
 | 18 | [[Bratman's Planning Theory]] | — | — | Relationship to Other Report Types | 433 |
@@ -607,7 +607,7 @@ extraction_summary:
 | 20 | [[Cross-Cultural Psychology]] | — | — | Relationship to Other Report Types | 435 |
 | 21 | [[Effectance Motivation]] | — | — | The Invitation to Reconstruct Further | 441 |
 | 22 | [[Flow Theory]] | — | — | The Invitation to Reconstruct Further | 441 |
-| 23 | [[Challenge-Skill Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
+| 23 | [[Challenge-Skill-Balance|Challenge-Skill Balance]] | — | — | The Invitation to Reconstruct Further | 441 |
 
 ---
 
@@ -649,22 +649,22 @@ extraction_summary:
 - [[Basic Psychological Needs Theory]]
 - [[Bratman's Planning Theory]]
 - [[Carl Rogers]]
-- [[Challenge-Skill Balance]]
-- [[Cognitive Evaluation Theory]]
+- [[Challenge-Skill-Balance|Challenge-Skill Balance]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
 - [[Cross-Cultural Psychology]]
 - [[Effectance Motivation]]
 - [[Flow Theory]]
 - [[Frankfurt's Hierarchy of Desires]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Humanistic Psychology]]
 - [[Intrinsic vs Extrinsic Motivation]]
 - [[Korsgaard's Self-Constitution]]
 - [[Organismic Integration]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Philosophy of Agency]]
 - [[Relatedness]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory Foundational Report]]
 - [[Socratic Dialogue on Autonomy and Self-Determination]]
 
@@ -678,15 +678,15 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Extrinsic Motivation]]
-- [[Internalization Continuum]]
+- [[Internalization-Continuum|Internalization Continuum]]
 - [[Autonomy]]
 - [[Agency]]
-- [[Organismic Integration Theory]]
-- [[Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Humanistic Psychology]]
 - [[Cross-Cultural Universality]]
 - [[Goal Contents Theory]]

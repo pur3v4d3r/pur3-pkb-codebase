@@ -163,7 +163,7 @@ extraction_summary:
 > → Next: *Series Complete*
 > 
 > **Series Arc Position**: Capstone — Integration Phase
-> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
+> **Recommended Prerequisites**: All prior reports in the series, particularly Reports 01, 02, 03, and 04. This report assumes fluency with Stoic core concepts ([[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], [[Preferred Indifferents]], [[Virtue Ethics]], [[Eudaimonia]]) and presupposes basic familiarity with CBT's cognitive model. Readers encountering CBT for the first time are encouraged to begin with Report 04.
 
 #### 3. [CONNECTION-IDEAS] Untitled *(Line 282)*
 
@@ -260,7 +260,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 2: The "Up to Me / Not Up to Me" Daily Audit**
 > 
-> **What it is**: A five-minute morning practice that deploys the [[Dichotomy of Control]] as an ACT-compatible acceptance framework.
+> **What it is**: A five-minute morning practice that deploys the [[Dichotomy-of-Control|Dichotomy of Control]] as an ACT-compatible acceptance framework.
 > 
 > **The Protocol**:
 > 1. *Name today's central concern or challenge*: What is most on your mind this morning?
@@ -462,7 +462,7 @@ extraction_summary:
 - [[Cognitive Defusion]]
 - [[Cognitive Defusion vs Stoic Reserve Clause — Are They Equivalent?]]
 - [[Cognitive Distortions]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Donald Robertson]]
 - [[Donald Robertson and Stoic CBT — A Clinical Synthesis]]
 - [[Epictetan Impression Theory — Phantasia, Synkatathesis, and Prohairesis]]
@@ -488,7 +488,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism Series Overview]] | — | — | Stoicism and CBT: Similarities, Diffe... | 262 |
 | 2 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and CBT: Similarities, Diffe... | 264 |
-| 3 | [[Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
+| 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 4 | [[Prohairesis]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 5 | [[Preferred Indifferents]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
 | 6 | [[Virtue Ethics]] | — | — | Stoicism and CBT: Similarities, Diffe... | 268 |
@@ -507,7 +507,7 @@ extraction_summary:
 | 19 | [[Eudaimonia]] | — | — | Convergence 5: Values Orientation in ... | 403 |
 | 20 | [[Logos]] | — | — | Divergence 2: Cosmology — The Stoic L... | 429 |
 | 21 | [[Marcus Aurelius]] | — | — | Level 2: The Teleological Complement ... | 486 |
-| 22 | [[Dichotomy of Control]] | — | — | Level 3: The Cosmological Dimension —... | 499 |
+| 22 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Level 3: The Cosmological Dimension —... | 499 |
 | 23 | [[Epictetus]] | — | — | Ellis's Explicit Acknowledgment | 517 |
 | 24 | [[Marcus Aurelius]] | — | — | Ellis's Explicit Acknowledgment | 517 |
 | 25 | [[Seneca]] | — | — | Ellis's Explicit Acknowledgment | 517 |
@@ -564,7 +564,7 @@ extraction_summary:
 - [[Cognitive Defusion]]
 - [[Cognitive Defusion vs Stoic Reserve Clause — Are They Equivalent?]]
 - [[Cognitive Distortions]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Donald Robertson]]
 - [[Donald Robertson and Stoic CBT — A Clinical Synthesis]]
 - [[Epictetan Impression Theory — Phantasia, Synkatathesis, and Prohairesis]]
@@ -608,7 +608,7 @@ extraction_summary:
 - [[Aaron Beck]]
 - [[Steven Hayes]]
 - [[Donald Robertson]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Virtue Ethics]]
 - [[Eudaimonia]]

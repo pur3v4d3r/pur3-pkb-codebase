@@ -332,7 +332,7 @@ extraction_summary:
 #### 19. [CONNECTIONS-AND-LINKS] Integration with Complementary Techniques *(Line 386)*
 
 > [!connections-and-links] Integration with Complementary Techniques
-> **[[Chain-of-Thought Prompting]] → Self-Consistency**
+> **[[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] → Self-Consistency**
 > 
 > [[Self-Consistency]] requires [[Chain-of-Thought]] as its foundation—the technique aggregates reasoning paths, necessitating that reasoning be explicit rather than implicit. CoT quality directly determines Self-Consistency effectiveness: better-structured reasoning chains produce more reliable consensus. The combination represents a synergistic pairing where CoT enables interpretable multi-step reasoning and Self-Consistency filters its stochastic unreliability.
 > 
@@ -348,7 +348,7 @@ extraction_summary:
 > 
 > Apply Self-Consistency at each decomposition stage of [[Least-to-Most]] reasoning: generate multiple solution attempts for each sub-problem, aggregate via voting, then pass consensus answer to next stage. This creates hierarchical reliability where each stage's accuracy is ensemble-enhanced, compounding improvements across the full reasoning chain.
 > 
-> **[[Retrieval-Augmented Generation]] + Self-Consistency**
+> **[[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] + Self-Consistency**
 > 
 > Generate multiple reasoning chains where each retrieves potentially different evidence sets (through retrieval stochasticity), then aggregate final answers. This creates evidence diversity in addition to reasoning diversity, strengthening consensus when multiple independent evidence sources support the same conclusion.
 
@@ -494,7 +494,7 @@ extraction_summary:
 - [[Brown et al. (2023)]]
 - [[Calibrated Confidence Estimation]]
 - [[Chain-of-Thought]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude-2]]
 - [[Cognitive Diversity]]
 - [[Commonsense Reasoning]]
@@ -544,7 +544,7 @@ extraction_summary:
 - [[Reasoning Verification]]
 - [[Reliability Engineering]]
 - [[Reranking]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Self-Consistency]]
 - [[Self-Consistency & Complexity-Based Consistency]]
 - [[Self-Consistency for Tool Use]]
@@ -566,12 +566,12 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**Self-Consistency & Complexity-Based Consistency**]] | — | — | Foundational Understanding | 103 |
-| 2 | [[Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 116 |
+| 2 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 116 |
 | 3 | [[Ensemble Methods]] | — | — | Foundational Understanding | 116 |
 | 4 | [[Reasoning Verification]] | — | — | Foundational Understanding | 116 |
 | 5 | [[Majority Voting]] | — | — | Foundational Understanding | 116 |
 | 6 | [[Cognitive Diversity]] | — | — | Foundational Understanding | 116 |
-| 7 | [[Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 118 |
+| 7 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 118 |
 | 8 | [[Temperature Sampling]] | — | — | Foundational Understanding | 118 |
 | 9 | [[Ensemble Learning]] | — | — | Foundational Understanding | 119 |
 | 10 | [[Bayesian Reasoning]] | — | — | Foundational Understanding | 119 |
@@ -643,7 +643,7 @@ extraction_summary:
 | 76 | [[Early Stopping]] | — | — | ⚙️ Reliability Engineering Perspectiv... | 359 |
 | 77 | [[Self-Consistency]] | — | — | ⚙️ Reliability Engineering Perspectiv... | 375 |
 | 78 | [[Self-Consistency]] | — | — | 🔗 Integration with Broader Prompting ... | 384 |
-| 79 | [[Chain-of-Thought Prompting]] | — | — | 🔗 Integration with Broader Prompting ... | 388 |
+| 79 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | 🔗 Integration with Broader Prompting ... | 388 |
 | 80 | [[Self-Consistency]] | — | — | 🔗 Integration with Broader Prompting ... | 390 |
 | 81 | [[Chain-of-Thought]] | — | — | 🔗 Integration with Broader Prompting ... | 390 |
 | 82 | [[Few-Shot Learning]] | — | — | 🔗 Integration with Broader Prompting ... | 392 |
@@ -651,7 +651,7 @@ extraction_summary:
 | 84 | [[Self-Refine]] | — | — | 🔗 Integration with Broader Prompting ... | 398 |
 | 85 | [[Least-to-Most Prompting]] | — | — | 🔗 Integration with Broader Prompting ... | 400 |
 | 86 | [[Least-to-Most]] | — | — | 🔗 Integration with Broader Prompting ... | 402 |
-| 87 | [[Retrieval-Augmented Generation]] | — | — | 🔗 Integration with Broader Prompting ... | 404 |
+| 87 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | 🔗 Integration with Broader Prompting ... | 404 |
 | 88 | [[Self-Consistency]] | — | — | 🚧 Limitations, Boundary Conditions, a... | 435 |
 | 89 | [[Self-Consistency]] | — | — | 🚧 Limitations, Boundary Conditions, a... | 439 |
 | 90 | [[Monty Hall Problem]] | — | — | 🚧 Limitations, Boundary Conditions, a... | 453 |
@@ -1159,7 +1159,7 @@ $$
 - [[Brown et al. (2023)]]
 - [[Calibrated Confidence Estimation]]
 - [[Chain-of-Thought]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude-2]]
 - [[Cognitive Diversity]]
 - [[Commonsense Reasoning]]
@@ -1209,7 +1209,7 @@ $$
 - [[Reasoning Verification]]
 - [[Reliability Engineering]]
 - [[Reranking]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Self-Consistency]]
 - [[Self-Consistency & Complexity-Based Consistency]]
 - [[Self-Consistency for Tool Use]]

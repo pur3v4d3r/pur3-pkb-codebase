@@ -442,9 +442,9 @@ extraction_summary:
 #### 32. [CONNECTIONS-AND-LINKS] Integration with Existing Cognitive Science Frameworks *(Line 572)*
 
 > [!connections-and-links] Integration with Existing Cognitive Science Frameworks
-> The evidence for mindfulness-based cognitive enhancement intersects with and informs multiple established domains within cognitive science and neuroscience. **[[Cognitive Load Theory]]** provides a complementary framework for understanding mindfulness effects: if working memory capacity increases or cognitive efficiency improves, the effective cognitive load imposed by complex tasks should decrease, enabling better learning and performance. The finding that mindfulness training enhances working memory accuracy but not processing speed suggests improvements in the quality of cognitive processing rather than mere acceleration—consistent with Cognitive Load Theory's emphasis on germane load (productive cognitive effort) over extraneous load (wasted effort due to poor design or internal interference).
+> The evidence for mindfulness-based cognitive enhancement intersects with and informs multiple established domains within cognitive science and neuroscience. **[[Cognitive-Load-Theory|Cognitive Load Theory]]** provides a complementary framework for understanding mindfulness effects: if working memory capacity increases or cognitive efficiency improves, the effective cognitive load imposed by complex tasks should decrease, enabling better learning and performance. The finding that mindfulness training enhances working memory accuracy but not processing speed suggests improvements in the quality of cognitive processing rather than mere acceleration—consistent with Cognitive Load Theory's emphasis on germane load (productive cognitive effort) over extraneous load (wasted effort due to poor design or internal interference).
 > 
-> **[[Dual Coding Theory]]** and **[[Elaborative Encoding]]** principles from learning science suggest potential synergies between mindfulness training and evidence-based learning strategies. Enhanced working memory capacity should enable more effective elaborative encoding—the deep processing of new information through connection to existing knowledge structures—by freeing cognitive resources for generative learning processes. Students combining mindfulness practice with active learning strategies may achieve greater benefit than either approach alone, though this hypothesis remains largely untested in controlled research. The integration of contemplative practices with evidence-based pedagogy represents an promising frontier for educational neuroscience.
+> **[[Dual-Coding-Theory|Dual Coding Theory]]** and **[[Elaborative Encoding]]** principles from learning science suggest potential synergies between mindfulness training and evidence-based learning strategies. Enhanced working memory capacity should enable more effective elaborative encoding—the deep processing of new information through connection to existing knowledge structures—by freeing cognitive resources for generative learning processes. Students combining mindfulness practice with active learning strategies may achieve greater benefit than either approach alone, though this hypothesis remains largely untested in controlled research. The integration of contemplative practices with evidence-based pedagogy represents an promising frontier for educational neuroscience.
 > 
 > **[[Attentional Control Theory]]**, which explains how anxiety impairs cognitive performance through disruption of executive function, provides a mechanistic framework for understanding mindfulness-based cognitive enhancement in clinical populations. If anxiety chronically occupies working memory with threat-related content and disrupts goal-directed attention, then mindfulness training's capacity to enhance attentional control and reduce emotional reactivity could restore executive function by preventing this anxiety-induced impairment. This suggests mindfulness may be particularly beneficial for individuals whose cognitive performance is limited by anxiety rather than by fundamental capacity constraints—a prediction that could be tested through individual differences research examining anxiety as a moderator of training effects.
 > 
@@ -465,7 +465,7 @@ extraction_summary:
 > **Connection:** Both mindfulness and metacognition involve awareness of one's mental processes, and theoretical frameworks propose that mindfulness training enhances metacognitive abilities—potentially explaining cognitive benefits through improved self-monitoring and cognitive strategy selection.
 > **Depth Potential:** This connection integrates contemplative practice with the broader metacognition literature from educational psychology, examining whether mindfulness practitioners show enhanced metacognitive accuracy (knowing what they know), better calibration (confidence matching performance), and more effective cognitive strategy use.
 > **Knowledge Graph Role:** Connects contemplative neuroscience with educational psychology and self-regulated learning frameworks—establishing mindfulness as a metacognitive training approach.
-> **Prerequisites:** [[Metacognitive Monitoring]], [[Cognitive Calibration]], [[Self-Regulated Learning]], [[Flavell's Metacognitive Framework]].
+> **Prerequisites:** [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Cognitive Calibration]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Flavell's Metacognitive Framework]].
 > 
 > ### 3. **[[Default Mode Network Dysfunction Across Psychopathology]]**
 > **Connection:** The Default Mode Network shows consistent alterations across diverse psychiatric conditions (depression, anxiety, ADHD, autism, schizophrenia), and mindfulness training's effects on DMN connectivity suggest potential transdiagnostic therapeutic mechanism.
@@ -483,7 +483,7 @@ extraction_summary:
 > **Connection:** Mindfulness practices emphasize body awareness and interoception (awareness of internal bodily states), connecting to embodied cognition frameworks proposing that cognitive processes are grounded in bodily experience and sensorimotor systems.
 > **Depth Potential:** Exploring whether mindfulness-induced cognitive enhancement depends critically on somatic awareness practices (body scans, breath awareness) versus purely mental attention training could establish whether cognition fundamentally relies on bodily grounding or can be trained independently.
 > **Knowledge Graph Role:** Bridges contemplative practice, embodied cognition theory, and interoceptive neuroscience—challenging computational/disembodied models of cognition.
-> **Prerequisites:** [[Embodied Cognition Theory]], [[Interoception]], [[Insula Function]], [[Sensorimotor Grounding]], [[4E Cognition]].
+> **Prerequisites:** [[Embodied Cognition Theory]], [[Interoception]], [[Insula Function]], [[Sensorimotor Grounding]], [[4E-Cognition|4E Cognition]].
 > 
 > ### 6. **[[Attention Restoration Theory and Nature-Based Mindfulness]]**
 > **Connection:** Attention Restoration Theory proposes that natural environments restore depleted attentional capacity through involuntary attention to fascinating stimuli—potentially synergizing with mindfulness practice conducted in nature.
@@ -564,7 +564,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[4E Cognition]]
+- [[4E-Cognition|4E Cognition]]
 - [[Amishi Jha]]
 - [[Anterior Cingulate Cortex]]
 - [[Attention Networks]]
@@ -577,10 +577,10 @@ extraction_summary:
 - [[Britta Hölzel]]
 - [[Capacity-Efficiency Mindfulness Framework]]
 - [[Center for Healthy Minds]]
-- [[Central Executive]]
+- [[Central-Executive|Central Executive]]
 - [[Central Executive Network]]
 - [[Cognitive Calibration]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Reserve Theory]]
 - [[Cognitive Reserve and Contemplative Practice]]
 - [[Cognitive Training]]
@@ -590,13 +590,13 @@ extraction_summary:
 - [[Default Mode Network Dysfunction Across Psychopathology]]
 - [[Directed vs Fascination Attention]]
 - [[Dorsolateral Prefrontal Cortex]]
-- [[Dual Coding Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[EEG]]
 - [[Elaborative Encoding]]
 - [[Embodied Cognition Theory]]
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
-- [[Episodic Buffer]]
+- [[Episodic-Buffer|Episodic Buffer]]
 - [[Executive Function]]
 - [[Experience-Dependent Neuroplasticity]]
 - [[Flanker Task]]
@@ -615,8 +615,8 @@ extraction_summary:
 - [[Jha]]
 - [[Jon Kabat-Zinn]]
 - [[Kral]]
-- [[Long-Term Memory]]
-- [[Metacognitive Monitoring]]
+- [[Long-Term-Memory|Long-Term Memory]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Michael Posner]]
 - [[Mindfulness Meditation]]
 - [[Mindfulness and Metacognition Integration]]
@@ -632,7 +632,7 @@ extraction_summary:
 - [[Neuroplasticity Across Lifespan]]
 - [[Newman]]
 - [[Operant Conditioning]]
-- [[Phonological Loop]]
+- [[Phonological-Loop|Phonological Loop]]
 - [[Picard]]
 - [[Posterior Cingulate Cortex]]
 - [[Prefrontal Cortex]]
@@ -641,7 +641,7 @@ extraction_summary:
 - [[STRONG Project]]
 - [[Salience Network]]
 - [[Selective Attention]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]
 - [[Sezer]]
@@ -653,9 +653,9 @@ extraction_summary:
 - [[Trail Making Test Part B]]
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]
-- [[Visuospatial Sketchpad]]
+- [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
 - [[Wisconsin Card Sorting Task]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Training Literature]]
 - [[Yi-Yuan Tang]]
 - [[Zainal]]
@@ -671,7 +671,7 @@ extraction_summary:
 | 3 | [[Cognitive Training]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 4 | [[Neural Plasticity]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 5 | [[Attention Networks]] | — | — | Mindfulness-Based Cognitive Training | 350 |
-| 6 | [[Working Memory]] | — | — | Mindfulness-Based Cognitive Training | 350 |
+| 6 | [[Working-Memory|Working Memory]] | — | — | Mindfulness-Based Cognitive Training | 350 |
 | 7 | [[Default Mode Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 8 | [[Salience Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
 | 9 | [[Central Executive Network]] | — | — | Mindfulness-Based Cognitive Training ... | 357 |
@@ -683,11 +683,11 @@ extraction_summary:
 | 15 | [[Go/No-Go Paradigm]] | — | — | 🧠 Theoretical Foundations: Executive ... | 361 |
 | 16 | [[Flanker Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 361 |
 | 17 | [[Baddeley]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
-| 18 | [[Central Executive]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
-| 19 | [[Phonological Loop]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
-| 20 | [[Visuospatial Sketchpad]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
-| 21 | [[Episodic Buffer]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
-| 22 | [[Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
+| 18 | [[Central-Executive|Central Executive]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
+| 19 | [[Phonological-Loop|Phonological Loop]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
+| 20 | [[Visuospatial-Sketchpad|Visuospatial Sketchpad]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
+| 21 | [[Episodic-Buffer|Episodic Buffer]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
+| 22 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 Theoretical Foundations: Executive ... | 363 |
 | 23 | [[Set Shifting]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 24 | [[Task Switching]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
 | 25 | [[Wisconsin Card Sorting Task]] | — | — | 🧠 Theoretical Foundations: Executive ... | 365 |
@@ -761,8 +761,8 @@ extraction_summary:
 | 93 | [[Jon Kabat-Zinn]] | — | — | Clinical and Therapeutic Applications | 538 |
 | 94 | [[Mindfulness-Based Cognitive Therapy]] | — | — | Clinical and Therapeutic Applications | 538 |
 | 95 | [[Richard Davidson]] | — | — | Clinical and Therapeutic Applications | 543 |
-| 96 | [[Cognitive Load Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 573 |
-| 97 | [[Dual Coding Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
+| 96 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 573 |
+| 97 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
 | 98 | [[Elaborative Encoding]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 575 |
 | 99 | [[Attentional Control Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 577 |
 | 100 | [[Neural Darwinism]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 579 |
@@ -773,9 +773,9 @@ extraction_summary:
 | 105 | [[fMRI]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 589 |
 | 106 | [[Operant Conditioning]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 589 |
 | 107 | [[Mindfulness and Metacognition Integration]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 591 |
-| 108 | [[Metacognitive Monitoring]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
+| 108 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 109 | [[Cognitive Calibration]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
-| 110 | [[Self-Regulated Learning]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
+| 110 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 111 | [[Flavell's Metacognitive Framework]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 595 |
 | 112 | [[Default Mode Network Dysfunction Across Psychopathology]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 597 |
 | 113 | [[Triple Network Model]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 601 |
@@ -792,7 +792,7 @@ extraction_summary:
 | 124 | [[Interoception]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
 | 125 | [[Insula Function]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
 | 126 | [[Sensorimotor Grounding]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
-| 127 | [[4E Cognition]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
+| 127 | [[4E-Cognition|4E Cognition]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 613 |
 | 128 | [[Attention Restoration Theory and Nature-Based Mindfulness]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 615 |
 | 129 | [[Attention Restoration Theory]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
 | 130 | [[Directed vs Fascination Attention]] | — | — | 🔗 PKB Integration and Knowledge Archi... | 619 |
@@ -1437,7 +1437,7 @@ for (let letter of sortedLetters) {
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[4E Cognition]]
+- [[4E-Cognition|4E Cognition]]
 - [[Amishi Jha]]
 - [[Anterior Cingulate Cortex]]
 - [[Attention Networks]]
@@ -1450,10 +1450,10 @@ for (let letter of sortedLetters) {
 - [[Britta Hölzel]]
 - [[Capacity-Efficiency Mindfulness Framework]]
 - [[Center for Healthy Minds]]
-- [[Central Executive]]
+- [[Central-Executive|Central Executive]]
 - [[Central Executive Network]]
 - [[Cognitive Calibration]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Reserve Theory]]
 - [[Cognitive Reserve and Contemplative Practice]]
 - [[Cognitive Training]]
@@ -1463,13 +1463,13 @@ for (let letter of sortedLetters) {
 - [[Default Mode Network Dysfunction Across Psychopathology]]
 - [[Directed vs Fascination Attention]]
 - [[Dorsolateral Prefrontal Cortex]]
-- [[Dual Coding Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[EEG]]
 - [[Elaborative Encoding]]
 - [[Embodied Cognition Theory]]
 - [[Embodied Cognition and Somatic Awareness]]
 - [[Environmental Neuroscience]]
-- [[Episodic Buffer]]
+- [[Episodic-Buffer|Episodic Buffer]]
 - [[Executive Function]]
 - [[Experience-Dependent Neuroplasticity]]
 - [[Flanker Task]]
@@ -1488,8 +1488,8 @@ for (let letter of sortedLetters) {
 - [[Jha]]
 - [[Jon Kabat-Zinn]]
 - [[Kral]]
-- [[Long-Term Memory]]
-- [[Metacognitive Monitoring]]
+- [[Long-Term-Memory|Long-Term Memory]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Michael Posner]]
 - [[Mindfulness Meditation]]
 - [[Mindfulness and Metacognition Integration]]
@@ -1505,7 +1505,7 @@ for (let letter of sortedLetters) {
 - [[Neuroplasticity Across Lifespan]]
 - [[Newman]]
 - [[Operant Conditioning]]
-- [[Phonological Loop]]
+- [[Phonological-Loop|Phonological Loop]]
 - [[Picard]]
 - [[Posterior Cingulate Cortex]]
 - [[Prefrontal Cortex]]
@@ -1514,7 +1514,7 @@ for (let letter of sortedLetters) {
 - [[STRONG Project]]
 - [[Salience Network]]
 - [[Selective Attention]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sensorimotor Grounding]]
 - [[Set Shifting]]
 - [[Sezer]]
@@ -1526,9 +1526,9 @@ for (let letter of sortedLetters) {
 - [[Trail Making Test Part B]]
 - [[Transdiagnostic Mechanisms]]
 - [[Triple Network Model]]
-- [[Visuospatial Sketchpad]]
+- [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
 - [[Wisconsin Card Sorting Task]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Training Literature]]
 - [[Yi-Yuan Tang]]
 - [[Zainal]]

@@ -284,7 +284,7 @@ extraction_summary:
 #### 4. [ABSTRACT] Untitled *(Line 376)*
 
 > [!abstract] Untitled
-> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.
+> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive-Science|Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 389)*
 
@@ -333,28 +333,28 @@ extraction_summary:
 > [!methodology-and-sources] Untitled
 > **Dataview for Research Tracking**
 > 
-> The [[Dataview plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.
+> The [[Dataview-Plugin|Dataview plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.
 
 #### 12. [CONNECTIONS-AND-LINKS] Untitled *(Line 656)*
 
 > [!connections-and-links] Untitled
 > **Integration with Existing Cognitive Frameworks**
 > 
-> **[[Self-Determination Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
+> **[[Self-Determination-Theory|Self-Determination Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
 > 
 > **[[Metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.
 > 
-> **[[Cognitive Load Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
+> **[[Cognitive-Load-Theory|Cognitive Load Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
 > 
 > **[[Zettelkasten methodology]]**: This framework extends classical Zettelkasten principles with explicit project management structures and Obsidian-specific implementation strategies.
 > 
-> **[[Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.
+> **[[Progressive-Summarization|Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.
 > 
 > **[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
 > 
 > **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
-> **[[Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
+> **[[Distributed-Cognition|Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
 
 #### 13. [SUMMARY] Untitled *(Line 677)*
 
@@ -419,18 +419,18 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Atomic notes]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
+- [[Atomic-Notes|Atomic notes]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Critical Thinking Frameworks]]
 - [[Dataview]]
-- [[Dataview plugin]]
-- [[Distributed Cognition]]
+- [[Dataview-Plugin|Dataview plugin]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[George Miller]]
 - [[Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Mendeley]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring in Knowledge Work]]
@@ -439,11 +439,11 @@ extraction_summary:
 - [[Obsidian]]
 - [[Paperpile]]
 - [[Paul-Elder model]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization Implementation]]
 - [[QuickAdd]]
 - [[Research Question Development Frameworks]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Tasks]]
 - [[Tasks plugin]]
 - [[Templater]]
@@ -451,9 +451,9 @@ extraction_summary:
 - [[Zettelkasten methodology]]
 - [[Zotero]]
 - [[Zotero Integration]]
-- [[atomic notes]]
+- [[Atomic-Notes|atomic notes]]
 - [[chunking]]
-- [[distributed cognition]]
+- [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
 - [[information processing]]
 - [[literature notes]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[object-level cognition]]
 - [[permanent notes]]
 - [[reference manager]]
-- [[testing effect]]
+- [[Testing-Effect|testing effect]]
 - [[weekly review]]
 - [[wiki-links]]
 
@@ -472,9 +472,9 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]] | — | — | Document Start | 38 |
 | 2 | [[Zettelkasten methodology]] | — | — | 🔬 The Architecture of Research: Condu... | 377 |
-| 3 | [[Cognitive Science]] | — | — | 🔬 The Architecture of Research: Condu... | 377 |
+| 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔬 The Architecture of Research: Condu... | 377 |
 | 4 | [[Obsidian]] | — | — | 🔬 The Architecture of Research: Condu... | 377 |
-| 5 | [[distributed cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 387 |
+| 5 | [[Distributed-Cognition|distributed cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 387 |
 | 6 | [[extended mind]] | — | — | The Cognitive Foundation: Why PKB Cha... | 387 |
 | 7 | [[metacognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
 | 8 | [[object-level cognition]] | — | — | The Cognitive Foundation: Why PKB Cha... | 396 |
@@ -489,31 +489,31 @@ extraction_summary:
 | 17 | [[Zotero Integration]] | — | — | Resource Mapping and Source Planning | 456 |
 | 18 | [[wiki-links]] | — | — | The Three-Stage Note Pipeline | 470 |
 | 19 | [[literature notes]] | — | — | Literature Notes: The Scholarly Sourc... | 476 |
-| 20 | [[atomic notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
+| 20 | [[Atomic-Notes|atomic notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
 | 21 | [[permanent notes]] | — | — | Literature Notes: The Scholarly Sourc... | 487 |
-| 22 | [[Atomic notes]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 491 |
+| 22 | [[Atomic-Notes|Atomic notes]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 491 |
 | 23 | [[Niklas Luhmann]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
 | 24 | [[chunking]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
 | 25 | [[George Miller]] | — | — | Atomic Notes: The Knowledge Graph Fou... | 493 |
-| 26 | [[Maps of Content]] | — | — | Maps of Content: Navigation and Emerg... | 524 |
+| 26 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | Maps of Content: Navigation and Emerg... | 524 |
 | 27 | [[Tasks plugin]] | — | — | Status Tracking Systems | 555 |
-| 28 | [[Dataview plugin]] | — | — | Status Tracking Systems | 562 |
+| 28 | [[Dataview-Plugin|Dataview plugin]] | — | — | Status Tracking Systems | 562 |
 | 29 | [[weekly review]] | — | — | The Weekly Review Ritual | 574 |
 | 30 | [[Dataview]] | — | — | Essential Plugin Stack for Research | 588 |
 | 31 | [[Templater]] | — | — | Essential Plugin Stack for Research | 590 |
 | 32 | [[Tasks]] | — | — | Essential Plugin Stack for Research | 592 |
 | 33 | [[Zotero Integration]] | — | — | Essential Plugin Stack for Research | 594 |
 | 34 | [[QuickAdd]] | — | — | Essential Plugin Stack for Research | 596 |
-| 35 | [[testing effect]] | — | — | From Notes to Understanding | 626 |
-| 36 | [[Self-Determination Theory]] | — | — | Maintaining Research Value Long-Term | 659 |
+| 35 | [[Testing-Effect|testing effect]] | — | — | From Notes to Understanding | 626 |
+| 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Maintaining Research Value Long-Term | 659 |
 | 37 | [[Metacognition]] | — | — | Maintaining Research Value Long-Term | 661 |
-| 38 | [[Cognitive Load Theory]] | — | — | Maintaining Research Value Long-Term | 663 |
+| 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Maintaining Research Value Long-Term | 663 |
 | 39 | [[Zettelkasten methodology]] | — | — | Maintaining Research Value Long-Term | 665 |
-| 40 | [[Progressive Summarization]] | — | — | Maintaining Research Value Long-Term | 667 |
+| 40 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Maintaining Research Value Long-Term | 667 |
 | 41 | [[Critical Thinking Frameworks]] | — | — | Maintaining Research Value Long-Term | 669 |
 | 42 | [[Paul-Elder model]] | — | — | Maintaining Research Value Long-Term | 669 |
 | 43 | [[Knowledge Graph Theory]] | — | — | Maintaining Research Value Long-Term | 671 |
-| 44 | [[Distributed Cognition]] | — | — | Maintaining Research Value Long-Term | 673 |
+| 44 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Maintaining Research Value Long-Term | 673 |
 | 45 | [[Research Question Development Frameworks]] | — | — | 🔗 Related Topics for PKB Expansion | 734 |
 | 46 | [[Progressive Summarization Implementation]] | — | — | 🔗 Related Topics for PKB Expansion | 739 |
 | 47 | [[Literature Review Matrix Methods]] | — | — | 🔗 Related Topics for PKB Expansion | 744 |
@@ -710,18 +710,18 @@ for (let letter of sortedLetters) {
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Atomic notes]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
+- [[Atomic-Notes|Atomic notes]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Critical Thinking Frameworks]]
 - [[Dataview]]
-- [[Dataview plugin]]
-- [[Distributed Cognition]]
+- [[Dataview-Plugin|Dataview plugin]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[George Miller]]
 - [[Knowledge Graph Theory]]
 - [[Literature Review Matrix Methods]]
 - [[Map of Content]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Mendeley]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring in Knowledge Work]]
@@ -730,11 +730,11 @@ for (let letter of sortedLetters) {
 - [[Obsidian]]
 - [[Paperpile]]
 - [[Paul-Elder model]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization Implementation]]
 - [[QuickAdd]]
 - [[Research Question Development Frameworks]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Tasks]]
 - [[Tasks plugin]]
 - [[Templater]]
@@ -742,9 +742,9 @@ for (let letter of sortedLetters) {
 - [[Zettelkasten methodology]]
 - [[Zotero]]
 - [[Zotero Integration]]
-- [[atomic notes]]
+- [[Atomic-Notes|atomic notes]]
 - [[chunking]]
-- [[distributed cognition]]
+- [[Distributed-Cognition|distributed cognition]]
 - [[extended mind]]
 - [[information processing]]
 - [[literature notes]]
@@ -753,7 +753,7 @@ for (let letter of sortedLetters) {
 - [[object-level cognition]]
 - [[permanent notes]]
 - [[reference manager]]
-- [[testing effect]]
+- [[Testing-Effect|testing effect]]
 - [[weekly review]]
 - [[wiki-links]]
 

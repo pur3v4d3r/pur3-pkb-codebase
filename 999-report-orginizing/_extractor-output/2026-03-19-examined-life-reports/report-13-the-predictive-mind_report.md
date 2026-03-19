@@ -415,98 +415,98 @@ extraction_summary:
 - [[Active Inference and Ethical Agency]]
 - [[Andy Clark]]
 - [[Anil Seth]]
-- [[Assimilation and Accommodation]]
+- [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
 - [[Bayesian Brain — Empirical Status Review]]
 - [[Charles Sanders Peirce]]
-- [[Cognitive Bias]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Psychiatry and the Examined Life]]
 - [[Constructed Emotion Theory]]
 - [[Contemplative Practice and Predictive Processing]]
 - [[Cultural Affordances in Active Inference]]
 - [[Dan Sperber]]
 - [[David Marr]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
 - [[Francisco Varela]]
-- [[Free Energy Principle]]
-- [[Generative Model]]
+- [[Free-Energy-Principle|Free Energy Principle]]
+- [[Generative-Model|Generative Model]]
 - [[Hilary Putnam]]
 - [[Hugo Mercier]]
 - [[Intellectual Character]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Interoceptive Inference]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Jakob Hohwy]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Karl Friston]]
 - [[Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
 - [[Miranda Fricker]]
 - [[Neurophenomenology and First-Person Methods]]
-- [[Phenomenal Self-Model]]
+- [[Phenomenal-Self-Model|Phenomenal Self-Model]]
 - [[Phronesis]]
-- [[Precision Weighting]]
-- [[Predictive Processing]]
+- [[Precision-Weighting|Precision Weighting]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Prosoche]]
-- [[Recognition-Primed Decision Model]]
+- [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Report 12 — The Social Thinker: Distributed Cognition, Epistemic Justice, and Thinking in Community]]
 - [[Report 14 — The Meaningful Life: Narrative Identity, Purpose, and the Telos of the Examined Life]]
-- [[Schema Theory]]
-- [[Social Epistemology]]
+- [[Schema-Theory|Schema Theory]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socrates]]
-- [[Somatic Marker Hypothesis]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Thomas Metzinger]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Predictive Processing]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
+| 1 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 2 | [[Karl Friston]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 3 | [[Andy Clark]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 4 | [[Jakob Hohwy]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 5 | [[Anil Seth]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
 | 6 | [[Thomas Metzinger]] | — | — | Phase I 🌅 The Premise — A Machine Tha... | 193 |
-| 7 | [[Generative Model]] | — | — | The Generative Model: The Brain's Wor... | 211 |
+| 7 | [[Generative-Model|Generative Model]] | — | — | The Generative Model: The Brain's Wor... | 211 |
 | 8 | [[Karl Friston]] | — | — | Free Energy: The Master Variable | 222 |
-| 9 | [[Free Energy Principle]] | — | — | Free Energy: The Master Variable | 222 |
-| 10 | [[Precision Weighting]] | — | — | Precision Weighting: The Control Syst... | 233 |
+| 9 | [[Free-Energy-Principle|Free Energy Principle]] | — | — | Free Energy: The Master Variable | 222 |
+| 10 | [[Precision-Weighting|Precision Weighting]] | — | — | Precision Weighting: The Control Syst... | 233 |
 | 11 | [[Anil Seth]] | — | — | Interoceptive Inference: The Body's P... | 244 |
 | 12 | [[Lisa Feldman Barrett]] | — | — | Interoceptive Inference: The Body's P... | 246 |
 | 13 | [[Constructed Emotion Theory]] | — | — | Interoceptive Inference: The Body's P... | 246 |
 | 14 | [[Thomas Metzinger]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
-| 15 | [[Phenomenal Self-Model]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
-| 16 | [[John Dewey]] | Dewey | — | The Master Homology: A Single Mechani... | 271 |
+| 15 | [[Phenomenal-Self-Model|Phenomenal Self-Model]] | — | — | Metzinger's Self-Model: Seeing Yourse... | 250 |
+| 16 | [[John-Dewey|John Dewey]] | Dewey | — | The Master Homology: A Single Mechani... | 271 |
 | 17 | [[Socrates]] | Socratic | — | The Master Homology: A Single Mechani... | 271 |
 | 18 | [[Charles Sanders Peirce]] | Peirce | — | The Master Homology: A Single Mechani... | 273 |
 | 19 | [[Fallibilism]] | fallibilism | — | The Master Homology: A Single Mechani... | 273 |
 | 20 | [[Jean Piaget]] | Piaget | — | The Master Homology: A Single Mechani... | 273 |
-| 21 | [[Assimilation and Accommodation]] | assimilation and accommodation | — | The Master Homology: A Single Mechani... | 273 |
+| 21 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | assimilation and accommodation | — | The Master Homology: A Single Mechani... | 273 |
 | 22 | [[Flow]] | Flow theory | — | The Master Homology: A Single Mechani... | 275 |
-| 23 | [[Schema Theory]] | Schema theory | — | The Master Homology: A Single Mechani... | 277 |
-| 24 | [[Zone of Proximal Development]] | ZPD | — | The Master Homology: A Single Mechani... | 277 |
-| 25 | [[Cognitive Load Theory]] | — | — | The Master Homology: A Single Mechani... | 277 |
-| 26 | [[Intellectual Humility]] | Intellectual humility | — | The Master Homology: A Single Mechani... | 279 |
-| 27 | [[Intellectual Courage]] | — | — | The Master Homology: A Single Mechani... | 279 |
-| 28 | [[Intellectual Empathy]] | — | — | The Master Homology: A Single Mechani... | 279 |
-| 29 | [[Cognitive Bias]] | Cognitive biases | — | The Master Homology: A Single Mechani... | 279 |
+| 23 | [[Schema-Theory|Schema Theory]] | Schema theory | — | The Master Homology: A Single Mechani... | 277 |
+| 24 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | ZPD | — | The Master Homology: A Single Mechani... | 277 |
+| 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Master Homology: A Single Mechani... | 277 |
+| 26 | [[Intellectual-Humility|Intellectual Humility]] | Intellectual humility | — | The Master Homology: A Single Mechani... | 279 |
+| 27 | [[Intellectual-Courage|Intellectual Courage]] | — | — | The Master Homology: A Single Mechani... | 279 |
+| 28 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | The Master Homology: A Single Mechani... | 279 |
+| 29 | [[Cognitive-Bias|Cognitive Bias]] | Cognitive biases | — | The Master Homology: A Single Mechani... | 279 |
 | 30 | [[Metacognition]] | metacognitive monitoring | — | The Master Homology: A Single Mechani... | 284 |
 | 31 | [[Prosoche]] | prosoche | — | The Master Homology: A Single Mechani... | 284 |
-| 32 | [[Somatic Marker Hypothesis]] | Damasio's somatic markers | — | The Master Homology: A Single Mechani... | 286 |
-| 33 | [[Interoceptive Inference]] | Seth's interoceptive inference | — | The Master Homology: A Single Mechani... | 286 |
+| 32 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | Damasio's somatic markers | — | The Master Homology: A Single Mechani... | 286 |
+| 33 | [[Interoceptive-Inference|Interoceptive Inference]] | Seth's interoceptive inference | — | The Master Homology: A Single Mechani... | 286 |
 | 34 | [[Constructed Emotion Theory]] | constructed emotions | — | The Master Homology: A Single Mechani... | 286 |
-| 35 | [[Emotional Granularity]] | Emotional granularity | — | The Master Homology: A Single Mechani... | 286 |
+| 35 | [[Emotional-Granularity|Emotional Granularity]] | Emotional granularity | — | The Master Homology: A Single Mechani... | 286 |
 | 36 | [[Phronesis]] | phronesis | — | The Master Homology: A Single Mechani... | 288 |
-| 37 | [[Recognition-Primed Decision Model]] | Recognition-Primed Decision | — | The Master Homology: A Single Mechani... | 288 |
-| 38 | [[Social Epistemology]] | social epistemology | — | The Master Homology: A Single Mechani... | 290 |
+| 37 | [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]] | Recognition-Primed Decision | — | The Master Homology: A Single Mechani... | 288 |
+| 38 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | social epistemology | — | The Master Homology: A Single Mechani... | 290 |
 | 39 | [[Hugo Mercier]] | Mercier | — | The Master Homology: A Single Mechani... | 290 |
 | 40 | [[Dan Sperber]] | Sperber | — | The Master Homology: A Single Mechani... | 290 |
 | 41 | [[Miranda Fricker]] | Fricker | — | The Master Homology: A Single Mechani... | 290 |
@@ -557,77 +557,77 @@ extraction_summary:
 - [[Active Inference and Ethical Agency]]
 - [[Andy Clark]]
 - [[Anil Seth]]
-- [[Assimilation and Accommodation]]
+- [[Assimilation-and-Accommodation|Assimilation and Accommodation]]
 - [[Bayesian Brain — Empirical Status Review]]
 - [[Charles Sanders Peirce]]
-- [[Cognitive Bias]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Psychiatry and the Examined Life]]
 - [[Constructed Emotion Theory]]
 - [[Contemplative Practice and Predictive Processing]]
 - [[Cultural Affordances in Active Inference]]
 - [[Dan Sperber]]
 - [[David Marr]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Epistemic Injustice]]
 - [[Epistemological Posture]]
 - [[Fallibilism]]
 - [[Flow]]
 - [[Francisco Varela]]
-- [[Free Energy Principle]]
-- [[Generative Model]]
+- [[Free-Energy-Principle|Free Energy Principle]]
+- [[Generative-Model|Generative Model]]
 - [[Hilary Putnam]]
 - [[Hugo Mercier]]
 - [[Intellectual Character]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Interoceptive Inference]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Interoceptive-Inference|Interoceptive Inference]]
 - [[Jakob Hohwy]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Karl Friston]]
 - [[Lisa Feldman Barrett]]
 - [[Maxwell Ramstead]]
 - [[Metacognition]]
 - [[Miranda Fricker]]
 - [[Neurophenomenology and First-Person Methods]]
-- [[Phenomenal Self-Model]]
+- [[Phenomenal-Self-Model|Phenomenal Self-Model]]
 - [[Phronesis]]
-- [[Precision Weighting]]
-- [[Predictive Processing]]
+- [[Precision-Weighting|Precision Weighting]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Prosoche]]
-- [[Recognition-Primed Decision Model]]
+- [[Recognition-Primed-Decision-Model|Recognition-Primed Decision Model]]
 - [[Report 12 — The Social Thinker: Distributed Cognition, Epistemic Justice, and Thinking in Community]]
 - [[Report 14 — The Meaningful Life: Narrative Identity, Purpose, and the Telos of the Examined Life]]
-- [[Schema Theory]]
-- [[Social Epistemology]]
+- [[Schema-Theory|Schema Theory]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socrates]]
-- [[Somatic Marker Hypothesis]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Thomas Metzinger]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
 - [[Reports 01-12 - The Architecture of the Examined Life]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference|Bayesian Inference]]
 - [[Cognitive Neuroscience]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 
 #### Related
 
 - [[Consciousness Studies]]
 - [[Computational Psychiatry]]
 - [[Metacognition]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 
 #### Broader
 
 - [[Philosophy of Cognitive Science]]
 - [[Neurophenomenology]]
-- [[4E Cognition]]
+- [[4E-Cognition|4E Cognition]]
 
 ---
 

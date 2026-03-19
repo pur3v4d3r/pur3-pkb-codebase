@@ -133,34 +133,34 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Self-Determination Theory]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Operant Conditioning]]"
 
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
 
 related:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
-  - "[[Organismic Integration Theory]]"
-  - "[[Overjustification Effect]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Overjustification-Effect|Overjustification Effect]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expectancy-Value Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Goal-Setting Theory]]"
 
 broader:
   - "[[Motivation Theory]]"
-  - "[[Educational Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
 
 narrower:
   - "[[Reward Contingency Research]]"
-  - "[[Perceived Locus of Causality]]"
+  - "[[Perceived-Locus-of-Causality|Perceived Locus of Causality]]"
   - "[[Informational Feedback Design]]"
 
 see-also:
-  - "[[Growth Mindset]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Feedback Effects on Learning]]"
   - "[[Autonomy-Supportive Teaching]]"
   - "[[Gamification in Education]]"
@@ -170,7 +170,7 @@ contrasts-with:
   - "[[Expectancy-Value Theory]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Management Systems]]"
   - "[[Performance Management]]"
   - "[[Game-Based Learning]]"
@@ -179,8 +179,8 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
 
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
@@ -264,11 +264,11 @@ Yet in the early 1970s, a converging set of experiments began to tell a more uns
 
 This is not a minor anomaly or a curiosity. It is a phenomenon with profound implications for education, management, parenting, and any context in which one person tries to motivate another. It suggests that the relationship between external reinforcement and motivation is far more complex than operant conditioning models acknowledged, and that something important about human psychology is missed when we treat motivation as merely a function of reward history.
 
-**Cognitive Evaluation Theory** ([[CET]]), developed by Edward Deci and Richard Ryan as a sub-theory of [[Self-Determination Theory]] ([[SDT]]), provides the most theoretically sophisticated and empirically supported account of this phenomenon. It explains *how* external events affect [[intrinsic motivation]] — not by issuing a blanket condemnation of rewards, but by identifying the precise psychological mechanism through which different types of external events, and even the same event administered differently, produce radically different motivational effects.
+**Cognitive Evaluation Theory** ([[Cognitive-Evaluation-Theory|CET]]), developed by Edward Deci and Richard Ryan as a sub-theory of [[Self-Determination-Theory|Self-Determination Theory]] ([[SDT]]), provides the most theoretically sophisticated and empirically supported account of this phenomenon. It explains *how* external events affect [[Intrinsic-Motivation|intrinsic motivation]] — not by issuing a blanket condemnation of rewards, but by identifying the precise psychological mechanism through which different types of external events, and even the same event administered differently, produce radically different motivational effects.
 
-**This report's analytical focus is specific**: it examines the central explanatory mechanism in CET — the concept of [[functional significance]] — and asks how and why an event's functional meaning determines its motivational impact. The central question is: *What cognitive-evaluative process determines whether an external event enhances or undermines intrinsic motivation, and what structural features of events influence which pathway is activated?*
+**This report's analytical focus is specific**: it examines the central explanatory mechanism in CET — the concept of [[Functional-Significance|functional significance]] — and asks how and why an event's functional meaning determines its motivational impact. The central question is: *What cognitive-evaluative process determines whether an external event enhances or undermines intrinsic motivation, and what structural features of events influence which pathway is activated?*
 
-For comprehensive background on SDT's broader architecture — including [[Organismic Integration Theory]], [[Basic Psychological Needs Theory]], and the full continuum of [[self-determination]] — see the Foundational Report on [[Self-Determination Theory]]. Here, we focus specifically on the sub-theory that addresses how external conditions modify intrinsic motivation states, drilling into mechanisms that the foundational treatment necessarily glosses.
+For comprehensive background on SDT's broader architecture — including [[Organismic-Integration-Theory|Organismic Integration Theory]], [[Basic Psychological Needs Theory]], and the full continuum of [[self-determination]] — see the Foundational Report on [[Self-Determination-Theory|Self-Determination Theory]]. Here, we focus specifically on the sub-theory that addresses how external conditions modify intrinsic motivation states, drilling into mechanisms that the foundational treatment necessarily glosses.
 
 This analysis proceeds as follows: Phase II establishes the conceptual toolkit CET requires. Phase III examines the evidence base critically, including the major meta-analytic dispute that makes the field more contentious than it sometimes appears. Phase IV analyses the underlying psychological mechanisms — particularly the two separable pathways through which functional significance acts. Phase V traces the practical implications and is honest about the theory's limitations. Phase VI offers original synthetic contributions, including a model that integrates findings across the report in a new way. The analysis concludes with PKB connection notes and a structured appendix.
 
@@ -290,7 +290,7 @@ Before we can follow CET's argument, we need four conceptual tools: a precise de
 > [!definition] **Reward Contingency Types**
 > The structural relationship between performance and reward. Three types matter most for CET: (1) **Task-contingent rewards** — given simply for participating in or completing the task, without reference to quality (e.g., "here is a sticker for drawing"). (2) **Completion-contingent rewards** — given for completing the task to a basic standard. (3) **Performance-contingent rewards** — given in proportion to quality of performance (e.g., "top marks get a prize"). CET predicts that task-contingent and completion-contingent rewards carry primarily a controlling functional significance and reliably undermine intrinsic motivation; performance-contingent rewards are more ambiguous because they also carry informational content about competence, though their controlling aspect typically dominates unless the framing is explicitly informational.
 
-With these four tools in place, CET's core claim can be stated precisely: **external events affect intrinsic motivation through their functional significance — the relative salience of controlling versus informational aspects — which operates on intrinsic motivation through two separable mediating pathways: [[perceived locus of causality]] (the autonomy pathway) and [[perceived competence]] (the competence pathway)**.
+With these four tools in place, CET's core claim can be stated precisely: **external events affect intrinsic motivation through their functional significance — the relative salience of controlling versus informational aspects — which operates on intrinsic motivation through two separable mediating pathways: [[Perceived-Locus-of-Causality|perceived locus of causality]] (the autonomy pathway) and [[Perceived-Competence|perceived competence]] (the competence pathway)**.
 
 > [!key-claim] **CET's Central Proposition**
 > No external event has an intrinsically fixed effect on intrinsic motivation. Its effect is determined by the cognitive-evaluative interpretation that establishes its functional significance. Controlling events (those perceived primarily as pressure) undermine intrinsic motivation by externalising PLOC. Informational events (those perceived primarily as competence feedback) can enhance intrinsic motivation when they convey positive competence information and when PLOC remains internal. Amotivating events (those that convey neither agency nor competence — such as meaningless failure or arbitrary incompetence feedback) undermine both autonomy and competence perceptions, producing the deepest motivational damage.
@@ -459,7 +459,7 @@ CET has been enormously generative and remains the most theoretically rigorous a
 
 **Population specificity**: The foundational research was conducted almost entirely in North American, Western European, and East Asian academic populations, with laboratory tasks of limited ecological validity. The degree to which CET's predictions hold in contexts with different cultural relationships to authority, evaluation, and reward is not well established. There is some cross-cultural evidence for the basic need structure of SDT, but the specific functional significance mechanism may operate differently in collectivist contexts where evaluation is understood within a relational rather than autonomous frame.
 
-**Individual differences are underspecified**: CET predicts that controlling events undermine intrinsic motivation on average, but individuals differ substantially in how sensitive they are to this effect. People with high [[autonomy orientation]] (from SDT's [[Causality Orientations Theory]]) show smaller undermining effects; people with high [[control orientation]] may actually show facilitated performance under controlling conditions, at least in the short term. CET's current theoretical architecture does not fully integrate these individual difference moderators — it acknowledges them, but they are not part of the core explanatory model.
+**Individual differences are underspecified**: CET predicts that controlling events undermine intrinsic motivation on average, but individuals differ substantially in how sensitive they are to this effect. People with high [[Autonomy-Orientation|autonomy orientation]] (from SDT's [[Causality-Orientations-Theory|Causality Orientations Theory]]) show smaller undermining effects; people with high [[Control-Orientation|control orientation]] may actually show facilitated performance under controlling conditions, at least in the short term. CET's current theoretical architecture does not fully integrate these individual difference moderators — it acknowledges them, but they are not part of the core explanatory model.
 
 **The intensity question**: CET predicts the direction of effects (controlling events undermine, informational events enhance) but is less precise about magnitude. Under what conditions are the effects large enough to be practically significant? The meta-analytic literature shows medium effects on average, but individual studies show enormous variation — and the moderator analysis is not yet at a point where practitioners can reliably predict the size of motivational costs in their specific context.
 
@@ -526,13 +526,13 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — CET is architecturally nested within SDT as one of its six mini-theories. The SDT Foundational Report establishes the framework (basic psychological needs, the self-determination continuum, the three needs of autonomy, competence, and relatedness) within which CET operates. This focused analysis deepens the SDT treatment by examining precisely how autonomy and competence needs are affected by specific external events — a mechanism the Foundational Report gestures toward but does not fully unpack. The two documents are best read as complementary layers: SDT provides the map; CET provides the geological core sample through the motivation mechanism layer.
 >
-> - **[[Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report examines how learners regulate their cognitive, metacognitive, and motivational processes. CET connects to SRL through the motivational regulation dimension: the degree to which a learner is intrinsically versus extrinsically regulated determines their regulatory strategy selection, persistence, and deep processing engagement. Learners with internally regulated motivation engage in more effective self-regulatory processes. Conversely, external reward structures that undermine intrinsic motivation (per CET) would be expected to simultaneously degrade self-regulatory quality — particularly the autonomous goal-setting and self-evaluation processes that SRL depends on. The CET → SRL pathway is undertheorised in the literature and represents a promising integration target.
 >
-> - **[[Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT and CET address different aspects of the learning situation (cognitive architecture vs. motivational architecture), but they intersect in important ways. High extrinsic motivation under controlling conditions may produce surface processing (focused on completing the task to obtain the reward) that aligns with lower cognitive investment — potentially increasing extraneous cognitive load while reducing germane load. Conversely, high intrinsic motivation, by producing deeper engagement with the material's structure, may facilitate the kind of elaborative processing that builds schemas (the goal of CLT-informed instruction). This is a connection neither theory makes explicit, but exploring it would deepen understanding of why motivationally-optimal conditions tend also to be cognitively-optimal conditions.
 >
-> - **[[Attribution Theory]]** — Weiner's attribution theory addresses how people explain their successes and failures. CET's PLOC construct is conceptually related to Weiner's locus of control dimension, but they are not identical: PLOC in CET is specifically about the perceived cause of *behaviour* (internal vs. external), while locus of control in attribution theory is about the perceived cause of *outcomes* (success/failure). The intersection is particularly important for understanding how competence feedback interacts with attributional patterns: negative feedback attributed to controllable, internal causes (effort) has different motivational effects than the same feedback attributed to stable, internal causes (lack of ability) — and CET's competence pathway prediction depends on this attributional dimension without fully theorising it.
+> - **[[Attribution-Theory|Attribution Theory]]** — Weiner's attribution theory addresses how people explain their successes and failures. CET's PLOC construct is conceptually related to Weiner's locus of control dimension, but they are not identical: PLOC in CET is specifically about the perceived cause of *behaviour* (internal vs. external), while locus of control in attribution theory is about the perceived cause of *outcomes* (success/failure). The intersection is particularly important for understanding how competence feedback interacts with attributional patterns: negative feedback attributed to controllable, internal causes (effort) has different motivational effects than the same feedback attributed to stable, internal causes (lack of ability) — and CET's competence pathway prediction depends on this attributional dimension without fully theorising it.
 >
 > **Cross-Report Links:**
 >
@@ -553,7 +553,7 @@ Positive competence feedback in an autonomy-supportive context can enhance intri
 > An individual-level difference variable describing the general tendency to orient toward the autonomous aspects of environments — to notice and be regulated by features that support interest, value, and personal meaning. Autonomy-oriented individuals show attenuated undermining effects in response to controlling events. They are not *immune* to functional significance effects, but their interpretive filter has a stronger default bias toward internal PLOC. Contrasts with *control orientation* (tendency to be regulated by controlling features) and *impersonal orientation* (tendency to attribute regulation to uncontrollable forces, associated with amotivation).
 
 > [!definition] **Causality Orientations Theory (COT)**
-> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[attribution theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
+> A mini-theory within SDT that describes individual differences in people's tendencies to orient toward particular types of motivational regulation. Not to be confused with [[Attribution-Theory|attribution theory]]. COT predicts that autonomy-oriented individuals will respond differently to controlling events than control-oriented individuals, and this moderates the functional significance mechanism in CET. An important implication: identical instructional interventions will produce different motivational outcomes for individuals with different causality orientations.
 
 > [!definition] **Ego Involvement**
 > A motivational state in which self-worth is contingent on performance outcomes — performance becomes a test of the person's value or adequacy rather than an expression of their interests. Ego involvement is theoretically related to the controlling pathway in CET: events that create ego involvement (typically comparative evaluation, normative feedback, and high-stakes assessment) introduce a self-esteem regulation layer that makes the activity extrinsically salient and shifts PLOC external. Harackiewicz and Manderlink (1984) showed that ego-involving praise ("you're much better than average") undermine intrinsic motivation while task-involving praise ("you've really mastered the strategy") does not.

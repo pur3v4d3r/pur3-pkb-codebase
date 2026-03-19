@@ -197,7 +197,7 @@ extraction_summary:
 #### 12. [INSIGHT] The Bruner-Ausubel Debate *(Line 365)*
 
 > [!insight] The Bruner-Ausubel Debate
-> Bruner's discovery learning was famously challenged by David Ausubel, who argued that reception learning — in which well-organized, meaningful content is presented directly to learners — is cognitively more efficient than inductive discovery, especially for complex or abstract content. This debate prefigures the ongoing controversy between [[Inquiry-Based Learning]] and direct instruction models and is not fully resolved. The evidence suggests that the optimal balance depends heavily on learner prior knowledge, domain characteristics, and the quality of scaffolding provided.
+> Bruner's discovery learning was famously challenged by David Ausubel, who argued that reception learning — in which well-organized, meaningful content is presented directly to learners — is cognitively more efficient than inductive discovery, especially for complex or abstract content. This debate prefigures the ongoing controversy between [[Inquiry-Based-Learning|Inquiry-Based Learning]] and direct instruction models and is not fully resolved. The evidence suggests that the optimal balance depends heavily on learner prior knowledge, domain characteristics, and the quality of scaffolding provided.
 
 #### 13. [REFLECTION] Engaging the Landscape *(Line 374)*
 
@@ -251,7 +251,7 @@ extraction_summary:
 #### 22. [WARNING] The Illusion of Understanding Through Discovery *(Line 465)*
 
 > [!warning] The Illusion of Understanding Through Discovery
-> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+> Research on the [[Fluency-Illusion|Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
 
 #### 23. [REFLECTION] From Understanding to Action *(Line 470)*
 
@@ -269,7 +269,7 @@ extraction_summary:
 > 
 > - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework for critical thinking and Schön's reflection-in/on-action both presuppose inductive competence: the ability to reason from specific observations and experiences to generalizable principles. Theory-evidence coordination — identified in this report as a central challenge in inductive learning — is a specific critical thinking skill addressed in the reflective judgment work of King and Kitchener. The two reports together constitute a more complete account of mature epistemic cognition than either achieves alone.
 > 
-> - **[[Transfer of Learning]]** — Transfer is the ultimate test of inductive learning: a generalization that cannot be applied beyond its original context is, from a learning science perspective, incomplete. The conditions identified in this report as supporting inductive learning — varied examples, explicit principle articulation, counterexample encounters — are closely aligned with the conditions identified in the transfer literature as supporting near and far transfer. A report on transfer would deepen the treatment of these conditions considerably.
+> - **[[Transfer-of-Learning|Transfer of Learning]]** — Transfer is the ultimate test of inductive learning: a generalization that cannot be applied beyond its original context is, from a learning science perspective, incomplete. The conditions identified in this report as supporting inductive learning — varied examples, explicit principle articulation, counterexample encounters — are closely aligned with the conditions identified in the transfer literature as supporting near and far transfer. A report on transfer would deepen the treatment of these conditions considerably.
 > 
 > The pattern across these connections reveals that inductive reasoning is not a standalone cognitive skill but a process that is scaffolded by metacognition, evaluated through critical thinking, and validated by transfer. These four concepts form a tight cluster — a conceptual web — in which each illuminates the others. Building fluency in this cluster is a higher-order educational goal that transcends any single course, discipline, or age range.
 
@@ -397,28 +397,28 @@ extraction_summary:
 - [[Alison Gopnik]]
 - [[Amos Tversky]]
 - [[Analogical Reasoning in Learning]]
-- [[Analogical reasoning]]
+- [[Analogical-Reasoning|Analogical reasoning]]
 - [[Aristotle]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian Reasoning and Probabilistic Thinking in Education]]
 - [[Causal Reasoning and Scientific Understanding]]
-- [[Causal induction]]
+- [[Causal-Induction|Causal induction]]
 - [[Confirmation Bias and Epistemic Calibration]]
 - [[Constructivism]]
 - [[Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
 - [[David Hume]]
 - [[Deanna Kuhn]]
-- [[Dedre Gentner]]
-- [[Desirable Difficulties]]
+- [[Dedre-Gentner|Dedre Gentner]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discovery Learning]]
 - [[Document-Based Questioning]]
-- [[Dual-Process Theory]]
-- [[Fluency Illusion]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Fluency-Illusion|Fluency Illusion]]
 - [[Foundational Report Generator v1.0]]
 - [[Francis Bacon]]
-- [[Inductive reasoning]]
-- [[Inquiry-Based Learning]]
+- [[Inductive-Reasoning|Inductive reasoning]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based Learning: Design and Evidence]]
 - [[Jean Piaget]]
 - [[Jerome Bruner]]
@@ -429,22 +429,22 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognition and Critical Thinking]]
 - [[Metacognition and Lifelong Learning]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Nisbett]]
 - [[Robert Bjork]]
 - [[Scientific Method]]
 - [[Sleep and Memory Consolidation]]
 - [[Statistical Learning Theory]]
-- [[Structure-Mapping Theory]]
-- [[Transfer of Learning]]
-- [[Transfer-Appropriate Processing]]
+- [[Structure-Mapping-Theory|Structure-Mapping Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[claude-sonnet-4-6]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Inductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 260 |
+| 1 | [[Inductive-Reasoning|Inductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 260 |
 | 2 | [[David Hume]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 3 | [[Karl Popper]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 4 | [[Aristotle]] | — | — | Defining the Territory | 282 |
@@ -452,10 +452,10 @@ extraction_summary:
 | 6 | [[David Hume]] | — | — | Historical Development: From Bacon to... | 303 |
 | 7 | [[John Stuart Mill]] | — | — | Historical Development: From Bacon to... | 308 |
 | 8 | [[Karl Popper]] | — | — | Historical Development: From Bacon to... | 310 |
-| 9 | [[Analogical reasoning]] | — | — | Varieties of Inductive Reasoning | 321 |
-| 10 | [[Causal induction]] | — | — | Varieties of Inductive Reasoning | 325 |
+| 9 | [[Analogical-Reasoning|Analogical reasoning]] | — | — | Varieties of Inductive Reasoning | 321 |
+| 10 | [[Causal-Induction|Causal induction]] | — | — | Varieties of Inductive Reasoning | 325 |
 | 11 | [[Alison Gopnik]] | — | — | Varieties of Inductive Reasoning | 325 |
-| 12 | [[Bayesian Inference]] | — | — | Bayesian Inference: The Normative Model | 338 |
+| 12 | [[Bayesian-Inference|Bayesian Inference]] | — | — | Bayesian Inference: The Normative Model | 338 |
 | 13 | [[Joshua Tenenbaum]] | — | — | Bayesian Inference: The Normative Model | 343 |
 | 14 | [[Daniel Kahneman]] | — | — | Bayesian Inference: The Normative Model | 348 |
 | 15 | [[Amos Tversky]] | — | — | Bayesian Inference: The Normative Model | 348 |
@@ -464,28 +464,28 @@ extraction_summary:
 | 18 | [[Lev Vygotsky]] | — | — | Constructivism and Inductive Learning | 352 |
 | 19 | [[Jerome Bruner]] | — | — | Jerome Bruner and Discovery Learning | 361 |
 | 20 | [[Discovery Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
-| 21 | [[Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
-| 22 | [[Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 366 |
-| 23 | [[Dual-Process Theory]] | — | — | Dual-Process Theory and Inductive Heu... | 370 |
+| 21 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 363 |
+| 22 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Jerome Bruner and Discovery Learning | 366 |
+| 23 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Dual-Process Theory and Inductive Heu... | 370 |
 | 24 | [[Metacognition]] | metacognitive | — | Dual-Process Theory and Inductive Heu... | 372 |
 | 25 | [[Statistical Learning Theory]] | statistical learning | — | How Inductive Reasoning Operates Duri... | 387 |
 | 26 | [[Scientific Method]] | — | — | How Inductive Reasoning Operates Duri... | 392 |
 | 27 | [[Deanna Kuhn]] | — | — | How Inductive Reasoning Operates Duri... | 394 |
-| 28 | [[Dedre Gentner]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
-| 29 | [[Structure-Mapping Theory]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
+| 28 | [[Dedre-Gentner|Dedre Gentner]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
+| 29 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | How Inductive Reasoning Operates Duri... | 399 |
 | 30 | [[Sleep and Memory Consolidation]] | sleep-dependent memory consolidation | — | How Inductive Reasoning Operates Duri... | 411 |
-| 31 | [[Retrieval Practice]] | repeated retrieval | — | How Inductive Reasoning Operates Duri... | 411 |
+| 31 | [[Retrieval-Practice|Retrieval Practice]] | repeated retrieval | — | How Inductive Reasoning Operates Duri... | 411 |
 | 32 | [[Robert Bjork]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
-| 33 | [[Desirable Difficulties]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
-| 34 | [[Inquiry-Based Learning]] | — | — | Real-World Applications in Education | 426 |
+| 33 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | How Inductive Reasoning Operates Duri... | 411 |
+| 34 | [[Inquiry-Based-Learning|Inquiry-Based Learning]] | — | — | Real-World Applications in Education | 426 |
 | 35 | [[Document-Based Questioning]] | — | — | Real-World Applications in Education | 433 |
-| 36 | [[Transfer-Appropriate Processing]] | — | — | Instructional Design Principles | 444 |
-| 37 | [[Fluency Illusion]] | — | — | Limitations and Open Questions | 466 |
+| 36 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | Instructional Design Principles | 444 |
+| 37 | [[Fluency-Illusion|Fluency Illusion]] | — | — | Limitations and Open Questions | 466 |
 | 38 | [[Richard Nisbett]] | — | — | Limitations and Open Questions | 468 |
 | 39 | [[Metacognition and Lifelong Learning]] | — | — | The "So What?" | 498 |
 | 40 | [[Metacognition and Critical Thinking]] | — | — | The "So What?" | 500 |
-| 41 | [[Transfer of Learning]] | — | — | The "So What?" | 502 |
-| 42 | [[Transfer of Learning]] | — | — | D. Expansion Topics | 591 |
+| 41 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | The "So What?" | 502 |
+| 42 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | D. Expansion Topics | 591 |
 | 43 | [[Bayesian Reasoning and Probabilistic Thinking in Education]] | — | — | D. Expansion Topics | 594 |
 | 44 | [[Confirmation Bias and Epistemic Calibration]] | — | — | D. Expansion Topics | 597 |
 | 45 | [[Inquiry-Based Learning: Design and Evidence]] | — | — | D. Expansion Topics | 600 |
@@ -507,28 +507,28 @@ extraction_summary:
 - [[Alison Gopnik]]
 - [[Amos Tversky]]
 - [[Analogical Reasoning in Learning]]
-- [[Analogical reasoning]]
+- [[Analogical-Reasoning|Analogical reasoning]]
 - [[Aristotle]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian Reasoning and Probabilistic Thinking in Education]]
 - [[Causal Reasoning and Scientific Understanding]]
-- [[Causal induction]]
+- [[Causal-Induction|Causal induction]]
 - [[Confirmation Bias and Epistemic Calibration]]
 - [[Constructivism]]
 - [[Daniel Kahneman]]
 - [[Data Literacy and Statistical Reasoning in Education]]
 - [[David Hume]]
 - [[Deanna Kuhn]]
-- [[Dedre Gentner]]
-- [[Desirable Difficulties]]
+- [[Dedre-Gentner|Dedre Gentner]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discovery Learning]]
 - [[Document-Based Questioning]]
-- [[Dual-Process Theory]]
-- [[Fluency Illusion]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Fluency-Illusion|Fluency Illusion]]
 - [[Foundational Report Generator v1.0]]
 - [[Francis Bacon]]
-- [[Inductive reasoning]]
-- [[Inquiry-Based Learning]]
+- [[Inductive-Reasoning|Inductive reasoning]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Inquiry-Based Learning: Design and Evidence]]
 - [[Jean Piaget]]
 - [[Jerome Bruner]]
@@ -539,15 +539,15 @@ extraction_summary:
 - [[Metacognition]]
 - [[Metacognition and Critical Thinking]]
 - [[Metacognition and Lifelong Learning]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Nisbett]]
 - [[Robert Bjork]]
 - [[Scientific Method]]
 - [[Sleep and Memory Consolidation]]
 - [[Statistical Learning Theory]]
-- [[Structure-Mapping Theory]]
-- [[Transfer of Learning]]
-- [[Transfer-Appropriate Processing]]
+- [[Structure-Mapping-Theory|Structure-Mapping Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[claude-sonnet-4-6]]
 
 ### Frontmatter Relationships
@@ -560,36 +560,36 @@ extraction_summary:
 #### Related
 
 - [[Deductive Reasoning in Education]]
-- [[Abductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Scientific Method]]
 - [[Metacognition and Lifelong Learning]]
 - [[Metacognition and Critical Thinking]]
-- [[Transfer of Learning]]
-- [[Inquiry-Based Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 
 #### Broader
 
 - [[Reasoning and Argumentation]]
-- [[Epistemology]]
-- [[Cognitive Science]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
+- [[Cognitive-Science|Cognitive Science]]
 
 #### Narrower
 
-- [[Analogical Reasoning]]
-- [[Causal Induction]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
+- [[Causal-Induction|Causal Induction]]
 - [[Statistical Reasoning]]
-- [[Enumerative Induction]]
+- [[Enumerative-Induction|Enumerative Induction]]
 
 #### See Also
 
 - [[Bayesian Reasoning]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Problem-Based Learning]]
 - [[Discovery Learning]]
 
 #### Contrasts With
 
-- [[Deductive Reasoning]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
 - [[Direct Instruction Models]]
 
 #### Applied In
@@ -597,7 +597,7 @@ extraction_summary:
 - [[STEM Education]]
 - [[Scientific Inquiry in Schools]]
 - [[Data Literacy Education]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 
 #### Builds On
 
@@ -606,8 +606,8 @@ extraction_summary:
 
 #### Enables
 
-- [[Transfer of Learning]]
-- [[Epistemic Calibration]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Scientific Reasoning in Education]]
 - [[Deliberate Practice Frameworks]]
 

@@ -218,7 +218,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> QuickAdd is a powerful automation plugin for [[obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[Personal Knowledge Base]].
+> QuickAdd is a powerful automation plugin for [[obsidian]] that transforms note creation, task capture, and knowledge management workflows through macros, templates, and intelligent choice menus. It serves as the connective tissue between rapid thought capture and structured knowledge organization, enabling friction-free information processing in your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 46)*
 
@@ -472,8 +472,8 @@ extraction_summary:
 - [[Markdown]]
 - [[Metadata]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
 - [[Wiki-Link]]
@@ -493,7 +493,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[obsidian]] | — | — | Document Start | 44 |
-| 2 | [[Personal Knowledge Base]] | — | — | Document Start | 44 |
+| 2 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 44 |
 | 3 | [[obsidian]] | — | — | 🎯 Core Concepts & Architecture | 66 |
 | 4 | [[Templater]] | — | — | Foundational Understanding | 77 |
 | 5 | [[dataview]] | — | — | Foundational Understanding | 77 |
@@ -502,7 +502,7 @@ extraction_summary:
 | 8 | [[YAML Frontmatter]] | — | — | Template Choice | 118 |
 | 9 | [[Templater]] | — | — | Template Choice | 121 |
 | 10 | [[{{LINKCURRENT}}]] | — | — | Variable System | 236 |
-| 11 | [[Personal Knowledge Base]] | — | — | 🔧 Five Production-Ready Macro Examples | 311 |
+| 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔧 Five Production-Ready Macro Examples | 311 |
 | 12 | [[{{DATE:YYYY-MM-DD}}_daily-note]] | — | — | Macro 1: 📥 Rapid Thought Capture to I... | 366 |
 | 13 | [[{{VALUE:projectFolder}}]] | — | — | 📁 Project Resources | 641 |
 | 14 | [[{{VALUE:projectFolder}}meeting-notes/]] | — | — | 📁 Project Resources | 642 |
@@ -522,7 +522,7 @@ extraction_summary:
 | 28 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 29 | [[Templater]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 30 | [[Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
-| 31 | [[Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
+| 31 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 32 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 33 | [[Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
 | 34 | [[Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 1648 |
@@ -1507,7 +1507,7 @@ Structural Planning:
   * Choice system
   * Advanced patterns and integration
   * Troubleshooting
-- Wiki-Link Opportunities: [[Obsidian]], [[Templater]], [[Dataview]], [[Personal Knowledge Management]], [[Zettelkasten]], [[Automation]], [[Metadata]], [[YAML Frontmatter]], [[JavaScript]], [[Markdown]], etc.
+- Wiki-Link Opportunities: [[Obsidian]], [[Templater]], [[Dataview]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[Zettelkasten]], [[Automation]], [[Metadata]], [[YAML Frontmatter]], [[JavaScript]], [[Markdown]], etc.
 - Callout Strategy:
   * [!definition] for core concepts
   * [!methodology-and-sources] for macro implementation
@@ -1639,8 +1639,8 @@ graph TD
 - [[Markdown]]
 - [[Metadata]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Templater]]
 - [[Templater Advanced Patterns for QuickAdd Integration]]
 - [[Wiki-Link]]

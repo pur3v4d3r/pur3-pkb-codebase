@@ -809,7 +809,7 @@ extraction_summary:
 > - **[[Unix Philosophy]]**: Small, composable tools that do one thing well—MCP servers embody this principle
 > - **[[API Design Patterns]]**: REST informed HTTP APIs; LSP informed IDE integrations; MCP informs AI integrations
 > - **[[Knowledge Graph Theory]]**: MCP enables AI to traverse and strengthen knowledge connections automatically
-> - **[[Cognitive Load Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]**: Reducing manual integration burden frees cognitive resources for higher-order thinking
 
 #### 58. [APPLICATION-CONTEXT] Untitled *(Line 979)*
 
@@ -859,9 +859,9 @@ extraction_summary:
 > **Cross-Domain Bridges**
 > 
 > - **MCP × [[Zettelkasten]]**: AI-assisted atomic note creation and linking
-> - **MCP × [[Spaced Repetition]]**: Automated review scheduling through PKB queries
+> - **MCP × [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]**: Automated review scheduling through PKB queries
 > - **MCP × [[PARA Method]]**: AI-driven project/area classification
-> - **MCP × [[Cognitive Load Theory]]**: Reducing integration overhead preserves cognitive resources
+> - **MCP × [[Cognitive-Load-Theory|Cognitive Load Theory]]**: Reducing integration overhead preserves cognitive resources
 
 #### 62. [METHODOLOGY-AND-SOURCES] Untitled *(Line 1031)*
 
@@ -1163,9 +1163,9 @@ extraction_summary:
 #### 93. [CONNECTIONS-AND-LINKS] Untitled *(Line 1716)*
 
 > [!connections-and-links] Untitled
-> - [[Personal Knowledge Base]] – Source of `pkb://` resources
+> - [[Personal-Knowledge-Base|Personal Knowledge Base]] – Source of `pkb://` resources
 > - [[Prompt Engineering]] – Domain for `prompt://` resources
-> - [[Cognitive Load Theory]] – Framework for optimizing context delivery
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] – Framework for optimizing context delivery
 > - [[VS Code]] – Primary client environment
 > - [[Claude Code]] – Target reasoning engine
 > - [[Gemini Code Assist]] – Target reasoning engine
@@ -1182,7 +1182,7 @@ extraction_summary:
 
 > [!synthesis-opportunities] Untitled
 > - Connect MCP to [[Zettelkasten]] principles via backlink-aware resources
-> - Integrate with [[Spaced Repetition]] by logging AI-reviewed concepts
+> - Integrate with [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] by logging AI-reviewed concepts
 > - Bridge to [[Local LLMs]] for offline cognitive processing
 
 #### 96. [METHODOLOGY-AND-SOURCES] Untitled *(Line 1739)*
@@ -1227,7 +1227,7 @@ extraction_summary:
 - [[Claude Desktop]]
 - [[Cognitive Engineering Stack]]
 - [[Cognitive Load Optimization]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Comprehensive Refernece: MCP Servers]]
 - [[Context-Aware Prompting]]
 - [[Custom MCP Server Development]]
@@ -1264,7 +1264,7 @@ extraction_summary:
 - [[Obsidian Automation]]
 - [[Obsidian MCP Integration]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Engineering]]
 - [[Prompt Engineering Basics]]
 - [[Prompt Engineering Version Control]]
@@ -1274,7 +1274,7 @@ extraction_summary:
 - [[Python Fundamentals]]
 - [[Second Brain]]
 - [[Second Brain Architecture]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Unix Philosophy]]
 - [[VS Code]]
@@ -1310,7 +1310,7 @@ extraction_summary:
 | 23 | [[Unix Philosophy]] | — | — | 🎯 Synthesis & Mastery | 974 |
 | 24 | [[API Design Patterns]] | — | — | 🎯 Synthesis & Mastery | 975 |
 | 25 | [[Knowledge Graph Theory]] | — | — | 🎯 Synthesis & Mastery | 976 |
-| 26 | [[Cognitive Load Theory]] | — | — | 🎯 Synthesis & Mastery | 977 |
+| 26 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Synthesis & Mastery | 977 |
 | 27 | [[Claude Code]] | — | — | 🔗 PKB Integration | 1002 |
 | 28 | [[Obsidian]] | — | — | 🔗 PKB Integration | 1003 |
 | 29 | [[Prompt Engineering]] | — | — | 🔗 PKB Integration | 1004 |
@@ -1324,9 +1324,9 @@ extraction_summary:
 | 37 | [[MCP Security Best Practices]] | — | — | 🔗 PKB Integration | 1016 |
 | 38 | [[Obsidian MCP Integration]] | — | — | 🔗 PKB Integration | 1017 |
 | 39 | [[Zettelkasten]] | — | — | 🔗 PKB Integration | 1022 |
-| 40 | [[Spaced Repetition]] | — | — | 🔗 PKB Integration | 1023 |
+| 40 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔗 PKB Integration | 1023 |
 | 41 | [[PARA Method]] | — | — | 🔗 PKB Integration | 1024 |
-| 42 | [[Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1025 |
+| 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1025 |
 | 43 | [[FastMCP Development Guide]] | — | — | 1. **[[FastMCP Development Guide]]** | 1066 |
 | 44 | [[Python Fundamentals]] | — | — | 1. **[[FastMCP Development Guide]]** | 1071 |
 | 45 | [[Async Programming]] | — | — | 1. **[[FastMCP Development Guide]]** | 1071 |
@@ -1354,11 +1354,11 @@ extraction_summary:
 | 67 | [[Comprehensive Refernece: MCP Servers]] | — | — | Active Review Task | 1387 |
 | 68 | [[VS Code]] | — | — | QWEN TOT Search | 1408 |
 | 69 | [[Node.js]] | — | — | QWEN TOT Search | 1408 |
-| 70 | [[Personal Knowledge Base]] | — | — | QWEN TOT Search | 1408 |
+| 70 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | QWEN TOT Search | 1408 |
 | 71 | [[Prompt Engineering]] | — | — | QWEN TOT Search | 1408 |
 | 72 | [[LSP]] | — | — | QWEN TOT Search | 1409 |
 | 73 | [[JSON-RPC]] | — | — | QWEN TOT Search | 1409 |
-| 74 | [[Cognitive Load Theory]] | — | — | QWEN TOT Search | 1409 |
+| 74 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | QWEN TOT Search | 1409 |
 | 75 | [[AI Agent Orchestration]] | — | — | QWEN TOT Search | 1411 |
 | 76 | [[Context-Aware Prompting]] | — | — | QWEN TOT Search | 1411 |
 | 77 | [[Cognitive Engineering Stack]] | — | — | QWEN TOT Search | 1411 |
@@ -1366,9 +1366,9 @@ extraction_summary:
 | 79 | [[Human-AI Collaboration]] | — | — | QWEN TOT Search | 1412 |
 | 80 | [[Obsidian Automation]] | — | — | QWEN TOT Search | 1412 |
 | 81 | [[2025-04-05]] | — | — | QWEN TOT Search | 1416 |
-| 82 | [[Personal Knowledge Base]] | — | — | 🔗 PKB Integration | 1717 |
+| 82 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔗 PKB Integration | 1717 |
 | 83 | [[Prompt Engineering]] | — | — | 🔗 PKB Integration | 1718 |
-| 84 | [[Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1719 |
+| 84 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 PKB Integration | 1719 |
 | 85 | [[VS Code]] | — | — | 🔗 PKB Integration | 1720 |
 | 86 | [[Claude Code]] | — | — | 🔗 PKB Integration | 1721 |
 | 87 | [[Gemini Code Assist]] | — | — | 🔗 PKB Integration | 1722 |
@@ -1377,7 +1377,7 @@ extraction_summary:
 | 90 | [[AI Agent Gateway]] | — | — | 🔗 PKB Integration | 1727 |
 | 91 | [[Cognitive Engineering Stack]] | — | — | 🔗 PKB Integration | 1728 |
 | 92 | [[Zettelkasten]] | — | — | 🔗 PKB Integration | 1731 |
-| 93 | [[Spaced Repetition]] | — | — | 🔗 PKB Integration | 1732 |
+| 93 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | 🔗 PKB Integration | 1732 |
 | 94 | [[Local LLMs]] | — | — | 🔗 PKB Integration | 1733 |
 | 95 | [[AI Agent Orchestration]] | — | — | 🔗 Related Topics for PKB Expansion | 1757 |
 | 96 | [[Obsidian Automation]] | — | — | 🔗 Related Topics for PKB Expansion | 1760 |
@@ -2004,8 +2004,8 @@ freshness:
   domain-volatility: moderate
   last-verified: 2025-04-05
 prerequisites:
-  hard: [[VS Code]], [[Node.js]], [[Personal Knowledge Base]], [[Prompt Engineering]]
-  soft: [[LSP]], [[JSON-RPC]], [[Cognitive Load Theory]]
+  hard: [[VS Code]], [[Node.js]], [[Personal-Knowledge-Base|Personal Knowledge Base]], [[Prompt Engineering]]
+  soft: [[LSP]], [[JSON-RPC]], [[Cognitive-Load-Theory|Cognitive Load Theory]]
 enables:
   direct: [[AI Agent Orchestration]], [[Context-Aware Prompting]], [[Cognitive Engineering Stack]]
   related: [[Second Brain]], [[Human-AI Collaboration]], [[Obsidian Automation]]
@@ -2388,7 +2388,7 @@ graph LR
 - [[Claude Desktop]]
 - [[Cognitive Engineering Stack]]
 - [[Cognitive Load Optimization]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Comprehensive Refernece: MCP Servers]]
 - [[Context-Aware Prompting]]
 - [[Custom MCP Server Development]]
@@ -2425,7 +2425,7 @@ graph LR
 - [[Obsidian Automation]]
 - [[Obsidian MCP Integration]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Engineering]]
 - [[Prompt Engineering Basics]]
 - [[Prompt Engineering Version Control]]
@@ -2435,7 +2435,7 @@ graph LR
 - [[Python Fundamentals]]
 - [[Second Brain]]
 - [[Second Brain Architecture]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Templater]]
 - [[Unix Philosophy]]
 - [[VS Code]]

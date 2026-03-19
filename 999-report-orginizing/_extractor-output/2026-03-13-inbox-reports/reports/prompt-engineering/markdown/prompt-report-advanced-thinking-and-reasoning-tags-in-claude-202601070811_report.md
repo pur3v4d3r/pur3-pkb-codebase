@@ -388,7 +388,7 @@ extraction_summary:
 - [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]]
 - [[Benchmarking]]
 - [[Chain of Verification]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science Foundations of Extended Thinking]]
 - [[Condorcet's Jury Theorem]]
 - [[Cost Optimization]]
@@ -425,7 +425,7 @@ extraction_summary:
 | 7 | [[Metacognition]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
 | 8 | [[Quality Optimization]] | — | — | 1. **[[Advanced Prompt Engineering fo... | 2995 |
 | 9 | [[Metacognitive AI Systems Beyond Thinking Tags]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3001 |
-| 10 | [[Cognitive Science]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3013 |
+| 10 | [[Cognitive-Science|Cognitive Science]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3013 |
 | 11 | [[AI Consciousness]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3013 |
 | 12 | [[Self-Aware Systems]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3013 |
 | 13 | [[Meta-Learning]] | — | — | 2. **[[Metacognitive AI Systems Beyon... | 3013 |
@@ -445,7 +445,7 @@ extraction_summary:
 | 27 | [[Benchmarking]] | — | — | 5. **[[Thinking Quality Metrics and B... | 3072 |
 | 28 | [[Evaluation Metrics]] | — | — | 5. **[[Thinking Quality Metrics and B... | 3072 |
 | 29 | [[Cognitive Science Foundations of Extended Thinking]] | — | — | 6. **[[Cognitive Science Foundations ... | 3078 |
-| 30 | [[Cognitive Science]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
+| 30 | [[Cognitive-Science|Cognitive Science]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 31 | [[Neuroscience]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 32 | [[AI Architecture]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
 | 33 | [[Human Cognition]] | — | — | 6. **[[Cognitive Science Foundations ... | 3091 |
@@ -2604,7 +2604,7 @@ description includes Review
 - [[Advanced Thinking and Reasoning Tags in Claude's LLM: A Comprehensive Technical Report]]
 - [[Benchmarking]]
 - [[Chain of Verification]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Science Foundations of Extended Thinking]]
 - [[Condorcet's Jury Theorem]]
 - [[Cost Optimization]]

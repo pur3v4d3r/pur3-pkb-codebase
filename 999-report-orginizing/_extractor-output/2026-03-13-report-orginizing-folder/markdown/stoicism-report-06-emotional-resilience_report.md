@@ -149,7 +149,7 @@ extraction_summary:
 > → Next: [[Stoicism in Relationships - Building Stronger Connections]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–05. This report presupposes familiarity with the [[Dichotomy of Control]], [[Prohairesis]], the four cardinal virtues, and the Stoic practice disciplines. Readers new to the series are recommended to read Reports 01 and 02 first.
+> **Recommended Prerequisites**: Reports 01–05. This report presupposes familiarity with the [[Dichotomy-of-Control|Dichotomy of Control]], [[Prohairesis]], the four cardinal virtues, and the Stoic practice disciplines. Readers new to the series are recommended to read Reports 01 and 02 first.
 
 #### 3. [RESEARCH] Untitled *(Line 265)*
 
@@ -186,7 +186,7 @@ extraction_summary:
 #### 8. [KEY-INSIGHT] Untitled *(Line 329)*
 
 > [!key-insight] Untitled
-> **Framework Principle 1 — Control as Cognitive Triage**: The [[Dichotomy of Control]] in adversity functions as a form of cognitive and emotional triage. It does not deny the reality or the pain of what has happened. It asks a different, more productive question: *Given what has happened, what is now within my power to affect?* This is not passivity — it is the concentration of available agency on the territory where agency actually matters, rather than its dissipation against the immovable.
+> **Framework Principle 1 — Control as Cognitive Triage**: The [[Dichotomy-of-Control|Dichotomy of Control]] in adversity functions as a form of cognitive and emotional triage. It does not deny the reality or the pain of what has happened. It asks a different, more productive question: *Given what has happened, what is now within my power to affect?* This is not passivity — it is the concentration of available agency on the territory where agency actually matters, rather than its dissipation against the immovable.
 
 #### 9. [QUOTE] Untitled *(Line 340)*
 
@@ -237,11 +237,11 @@ extraction_summary:
 > 
 > Stockdale had been introduced to Epictetus by philosopher Philip Rhinelander at Stanford. When he ejected from his aircraft over Vietnam, he later recounted thinking: "I'm leaving the world of technology and entering the world of Epictetus." He carried the [[Enchiridion]]'s framework with him as the cognitive architecture for surviving what followed.
 > 
-> His application of the [[Dichotomy of Control]] was direct and consequential. He could not control whether he was tortured, whether his fellow prisoners were treated humanely, or whether the war ended. He could control how he conducted himself under torture, what information he revealed and how he managed the inevitable moments when physical pressure exceeded his endurance, and the character of his leadership of the prisoner community. He focused entirely on the second category.
+> His application of the [[Dichotomy-of-Control|Dichotomy of Control]] was direct and consequential. He could not control whether he was tortured, whether his fellow prisoners were treated humanely, or whether the war ended. He could control how he conducted himself under torture, what information he revealed and how he managed the inevitable moments when physical pressure exceeded his endurance, and the character of his leadership of the prisoner community. He focused entirely on the second category.
 > 
 > Crucially, Stockdale identified a specific psychological pattern that he called the "Stockdale Paradox" (named by Jim Collins in *Good to Great*): the prisoners who survived psychologically tended not to be the optimists who said "we'll be out by Christmas" — and then broke down when Christmas passed — but those who combined unflinching acceptance of the reality of their situation with an unshakeable conviction in their ultimate resilience. This is the Stoic combination exactly: *amor fati* (accepting what is) combined with the stable identity of prohairesis (the self that cannot be taken).
 > 
-> **The Lesson**: Stoic resilience in extremis is not the suppression of fear or pain. It is the maintained commitment to conducting oneself with integrity and clarity in the face of both, using the [[Dichotomy of Control]] as a cognitive structure that prevents the contraction of identity around what one cannot influence and redirects agency toward what one can.
+> **The Lesson**: Stoic resilience in extremis is not the suppression of fear or pain. It is the maintained commitment to conducting oneself with integrity and clarity in the face of both, using the [[Dichotomy-of-Control|Dichotomy of Control]] as a cognitive structure that prevents the contraction of identity around what one cannot influence and redirects agency toward what one can.
 
 #### 17. [EXAMPLE] Untitled *(Line 451)*
 
@@ -250,7 +250,7 @@ extraction_summary:
 > 
 > Without a Stoic framework, the most common psychological responses to Rachel's situation include: catastrophizing (mentally projecting to worst-case scenarios and inhabiting them as certainties), grief that expands into despair (the loss of her previous health becoming a loss of her sense of a worthwhile future), and the exhaustion of fighting the diagnosis itself — spending psychological resources resisting the reality rather than engaging with it.
 > 
-> With Stoic orientation, the first move is the application of the [[Dichotomy of Control]]: the diagnosis is real and not within her power to undo. What is within her power: her medical choices and engagement with treatment; her relationship with her body going forward; the quality of her relationships and presence with the people she loves; her continuing capacity to express virtue — care, courage, honesty, commitment to what she values — within whatever functional constraints the illness imposes. The illness changes the terrain. It does not change the agent navigating it.
+> With Stoic orientation, the first move is the application of the [[Dichotomy-of-Control|Dichotomy of Control]]: the diagnosis is real and not within her power to undo. What is within her power: her medical choices and engagement with treatment; her relationship with her body going forward; the quality of her relationships and presence with the people she loves; her continuing capacity to express virtue — care, courage, honesty, commitment to what she values — within whatever functional constraints the illness imposes. The illness changes the terrain. It does not change the agent navigating it.
 > 
 > The *premeditatio malorum* perspective: Rachel discovers, in working with this framework, that she has already done some of this thinking — that the years of deliberately contemplating impermanence have made the diagnosis, while genuinely painful, not the identity-shattering rupture it might otherwise have been. She can still distinguish between what she has lost and who she is.
 > 
@@ -290,7 +290,7 @@ extraction_summary:
 > 
 > **Duration**: 2–5 minutes for small adversities; longer deliberate reflection for significant ones.
 > 
-> **Stoic Grounding**: The direct application of the [[Dichotomy of Control]] from Epictetus (*Enchiridion* 1) and [[Marcus Aurelius]]'s repeated returns in the *Meditations* to the question of what is "up to us."
+> **Stoic Grounding**: The direct application of the [[Dichotomy-of-Control|Dichotomy of Control]] from Epictetus (*Enchiridion* 1) and [[Marcus Aurelius]]'s repeated returns in the *Meditations* to the question of what is "up to us."
 > 
 > **Psychological Mechanism**: Redirects attention and cognitive resources from the domain of the uncontrollable (which produces helplessness and rumination) to the domain of the controllable (which produces agency and purposeful action). Prevents the conflation of external setback with personal defeat.
 > 
@@ -446,7 +446,7 @@ extraction_summary:
 
 - [[Acceptance and Commitment Therapy]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[James Stockdale]]
@@ -477,30 +477,30 @@ extraction_summary:
 | 5 | [[Stoicism Series Overview]] | — | — | Stoicism and Emotional Resilience: Co... | 247 |
 | 6 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Emotional Resilience: Co... | 249 |
 | 7 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Emotional Resilience: Co... | 250 |
-| 8 | [[Dichotomy of Control]] | — | — | Stoicism and Emotional Resilience: Co... | 253 |
+| 8 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism and Emotional Resilience: Co... | 253 |
 | 9 | [[Prohairesis]] | — | — | Stoicism and Emotional Resilience: Co... | 253 |
 | 10 | [[Marcus Aurelius]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 11 | [[Epictetus]] | — | — | Part 1: The Problem Adversity Present... | 263 |
 | 12 | [[Seneca]] | — | — | Part 1: The Problem Adversity Present... | 263 |
-| 13 | [[Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 311 |
+| 13 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 311 |
 | 14 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 313 |
 | 15 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 315 |
-| 16 | [[Dichotomy of Control]] | — | — | Framework Principle 1: The Dichotomy ... | 330 |
+| 16 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Framework Principle 1: The Dichotomy ... | 330 |
 | 17 | [[Post-Traumatic Growth]] | — | — | Framework Principle 2: Adversity as M... | 350 |
 | 18 | [[Seneca]] | — | — | Framework Principle 3: Amor Fati — Fr... | 360 |
 | 19 | [[Marcus Aurelius]] | — | — | Framework Principle 5: The Distinctio... | 389 |
 | 20 | [[Acceptance and Commitment Therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 404 |
 | 21 | [[Viktor Frankl]] | — | — | Part 4: The Psychology Behind the Phi... | 411 |
-| 22 | [[Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 411 |
+| 22 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 411 |
 | 23 | [[Epictetus]] | — | — | Example 1: Epictetus — Structural Res... | 419 |
 | 24 | [[Enchiridion]] | — | — | Example 1: Epictetus — Structural Res... | 421 |
 | 25 | [[Epictetus]] | — | — | Example 1: Epictetus — Structural Res... | 426 |
 | 26 | [[James Stockdale]] | — | — | Example 2: James Stockdale — Epictetu... | 434 |
 | 27 | [[Enchiridion]] | — | — | Example 2: James Stockdale — Epictetu... | 439 |
-| 28 | [[Dichotomy of Control]] | — | — | Example 2: James Stockdale — Epictetu... | 441 |
-| 29 | [[Dichotomy of Control]] | — | — | Example 2: James Stockdale — Epictetu... | 445 |
-| 30 | [[Dichotomy of Control]] | — | — | Example 3: A Modern Composite — Navig... | 456 |
-| 31 | [[Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 498 |
+| 28 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 2: James Stockdale — Epictetu... | 441 |
+| 29 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 2: James Stockdale — Epictetu... | 445 |
+| 30 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Example 3: A Modern Composite — Navig... | 456 |
+| 31 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 498 |
 | 32 | [[Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 498 |
 | 33 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 537 |
 | 34 | [[Epictetus]] | — | — | Part 7: Common Obstacles and How the ... | 560 |
@@ -544,7 +544,7 @@ extraction_summary:
 
 - [[Acceptance and Commitment Therapy]]
 - [[Amor Fati — The Stoic and Nietzschean Traditions]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[James Stockdale]]
@@ -579,17 +579,17 @@ extraction_summary:
 - [[Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Virtue Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Amor Fati]]
 - [[Memento Mori]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Cognitive Behavioral Therapy]]
 - [[Acceptance and Commitment Therapy]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Post-Traumatic Growth]]
 - [[Emotional Regulation]]
 - [[James Stockdale]]
@@ -603,7 +603,7 @@ extraction_summary:
 
 #### Narrower
 
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Amor Fati]]
 - [[The Obstacle Is the Way]]
 - [[Stoic Consolation]]

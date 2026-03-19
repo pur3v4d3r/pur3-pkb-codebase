@@ -148,7 +148,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This exposition constitutes a comprehensive, university-level analysis of reading as a cognitively governed acquisition and retention technology, examined through the dual lens of contemporary cognitive science and personal knowledge management (PKM) systems design. Reading — in the context of deliberate knowledge work — is far more than a passive decoding exercise. It is an active, constructive, metabolic process through which the mind builds, refines, and integrates conceptual structures from symbolic input. The foundational argument advanced here is that most professional readers are grossly inefficient precisely because they have never been taught to read with cognitive intentionality: they mistake fluency for comprehension, re-reading for learning, and note-taking volume for knowledge acquisition.
 > 
-> The exposition proceeds from historical origins of reading science through the major theoretical frameworks — including [[Walter Kintsch]]'s Construction-Integration Model, [[Alan Baddeley]]'s Working Memory Model, [[John Sweller]]'s [[Cognitive Load Theory]], [[Allan Paivio]]'s [[Dual Coding Theory]], and [[Robert Bjork]]'s framework of [[Desirable Difficulties]] — before arriving at a rigorous treatment of evidence-based reading strategies such as elaborative interrogation, spaced retrieval practice, and the annotation-encoding cycle. The final sections translate these theoretical structures into actionable, PKM-integrated reading systems with concrete protocols for Obsidian-style vaults, progressive summarization workflows, and individual calibration methodologies.
+> The exposition proceeds from historical origins of reading science through the major theoretical frameworks — including [[Walter Kintsch]]'s Construction-Integration Model, [[Alan-Baddeley|Alan Baddeley]]'s Working Memory Model, [[John Sweller]]'s [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Allan Paivio]]'s [[Dual-Coding-Theory|Dual Coding Theory]], and [[Robert Bjork]]'s framework of [[Desirable-Difficulties|Desirable Difficulties]] — before arriving at a rigorous treatment of evidence-based reading strategies such as elaborative interrogation, spaced retrieval practice, and the annotation-encoding cycle. The final sections translate these theoretical structures into actionable, PKM-integrated reading systems with concrete protocols for Obsidian-style vaults, progressive summarization workflows, and individual calibration methodologies.
 > 
 > The synthesis offered here bridges the gap between academic reading research (largely confined to laboratory memory studies and educational psychology journals) and the practical demands of knowledge workers who must not merely encounter ideas but permanently incorporate them into a growing, retrievable, and generative personal knowledge base.
 
@@ -160,7 +160,7 @@ extraction_summary:
 #### 3. [THE-PHILOSOPHY] Untitled *(Line 29)*
 
 > [!the-philosophy] Untitled
-> The philosophical foundation of cognitively-informed reading for PKM rests on a reconceptualization of reading not as *information transfer* but as *knowledge construction*. Text does not contain meaning that migrates intact into the reader's mind; rather, the reader constructs meaning through active inference, prediction, prior knowledge activation, and elaborative processing. This constructivist epistemology — descending from [[Jean Piaget]]'s developmental psychology through [[David Ausubel]]'s [[Assimilation Theory]] to contemporary cognitive architectures — demands that reading strategies be designed to scaffold and amplify this constructive process, not merely to expose the reader to words.
+> The philosophical foundation of cognitively-informed reading for PKM rests on a reconceptualization of reading not as *information transfer* but as *knowledge construction*. Text does not contain meaning that migrates intact into the reader's mind; rather, the reader constructs meaning through active inference, prediction, prior knowledge activation, and elaborative processing. This constructivist epistemology — descending from [[Jean Piaget]]'s developmental psychology through [[David-Ausubel|David Ausubel]]'s [[Assimilation Theory]] to contemporary cognitive architectures — demands that reading strategies be designed to scaffold and amplify this constructive process, not merely to expose the reader to words.
 
 #### 4. [QUOTE] Untitled *(Line 48)*
 
@@ -170,7 +170,7 @@ extraction_summary:
 #### 5. [ATOMIC-CONCEPT] Untitled *(Line 61)*
 
 > [!atomic-concept] Untitled
-> The **[[Situation Model]]** is the mental simulation that readers construct of the world described by a text — incorporating not just what the text explicitly states but what the reader infers, predicts, and fills in from prior knowledge. Comprehension at the situation model level, rather than at the surface or textbase level, is the hallmark of genuine understanding and is the primary determinant of transfer and application. Crucially, deep-processing reading strategies are those that promote situation model construction.
+> The **[[Situation-Model|Situation Model]]** is the mental simulation that readers construct of the world described by a text — incorporating not just what the text explicitly states but what the reader infers, predicts, and fills in from prior knowledge. Comprehension at the situation model level, rather than at the surface or textbase level, is the hallmark of genuine understanding and is the primary determinant of transfer and application. Crucially, deep-processing reading strategies are those that promote situation model construction.
 
 #### 6. [EQUATION] Untitled *(Line 76)*
 
@@ -199,7 +199,7 @@ extraction_summary:
 #### 10. [KEY-CLAIM] Untitled *(Line 130)*
 
 > [!key-claim] Untitled
-> The generation effect is mechanistically related to the broader phenomenon of **[[retrieval practice]]** — the finding that the act of retrieving information from memory is itself a powerful learning event, strengthening the memory trace more effectively than additional study exposure. This has been called the "testing effect" or "retrieval practice effect" and is among the most replicated and practically significant findings in all of cognitive psychology.
+> The generation effect is mechanistically related to the broader phenomenon of **[[Retrieval-Practice|retrieval practice]]** — the finding that the act of retrieving information from memory is itself a powerful learning event, strengthening the memory trace more effectively than additional study exposure. This has been called the "testing effect" or "retrieval practice effect" and is among the most replicated and practically significant findings in all of cognitive psychology.
 
 #### 11. [EQUATION] Untitled *(Line 141)*
 
@@ -208,7 +208,7 @@ extraction_summary:
 > 
 > $$R(t) = e^{-t/S}$$
 > 
-> Where $R$ is the retention fraction at time $t$ after encoding, and $S$ is the memory stability parameter that varies as a function of encoding depth, prior knowledge, and number of prior retrievals. Each successful retrieval practice event increases $S$, flattening the curve and extending the interval before the next review is required. This is the mathematical foundation underlying [[Spaced Repetition Systems]] (SRS) such as [[Anki]] and [[SuperMemo]].
+> Where $R$ is the retention fraction at time $t$ after encoding, and $S$ is the memory stability parameter that varies as a function of encoding depth, prior knowledge, and number of prior retrievals. Each successful retrieval practice event increases $S$, flattening the curve and extending the interval before the next review is required. This is the mathematical foundation underlying [[Spaced-Repetition-Systems|Spaced Repetition Systems]] (SRS) such as [[Anki]] and [[SuperMemo]].
 
 #### 12. [INSIGHT] Untitled *(Line 158)*
 
@@ -228,7 +228,7 @@ extraction_summary:
 #### 15. [EXAMPLE] Untitled *(Line 213)*
 
 > [!example] Untitled
-> A PKM practitioner preparing to read a new book on decision-making might spend three minutes writing in their vault: "What I currently know about decision-making: dual process theory (System 1/System 2), the role of cognitive biases, prospect theory basics. What I want to learn: how organizational structure affects decisions, what the research says about when to use intuition versus analysis. How this connects to existing notes: [[Dual Process Theory]], [[Kahneman]], [[Expected Utility Theory]]." This brief ritual transforms subsequent reading from passive exposure into active hypothesis testing — a fundamentally different and more productive cognitive engagement.
+> A PKM practitioner preparing to read a new book on decision-making might spend three minutes writing in their vault: "What I currently know about decision-making: dual process theory (System 1/System 2), the role of cognitive biases, prospect theory basics. What I want to learn: how organizational structure affects decisions, what the research says about when to use intuition versus analysis. How this connects to existing notes: [[Dual-Process-Theory|Dual Process Theory]], [[Kahneman]], [[Expected Utility Theory]]." This brief ritual transforms subsequent reading from passive exposure into active hypothesis testing — a fundamentally different and more productive cognitive engagement.
 
 #### 16. [CORE-PRINCIPLE] Untitled *(Line 222)*
 
@@ -238,7 +238,7 @@ extraction_summary:
 #### 17. [CONNECTIONS-AND-LINKS] Untitled *(Line 237)*
 
 > [!connections-and-links] Untitled
-> The Zettelkasten reading-to-note workflow integrates with the project's existing knowledge architecture in several critical ways. The elaborative interrogation operations performed during Zettel creation map directly to [[Metacognitive Scaffolding]] patterns used in the [[Extended Thinking Architecture]]. The linking of new notes to existing ones is functionally equivalent to the [[Graph of Thoughts]] reasoning structure — both create semantic networks where meaning emerges from relations rather than isolated nodes. The spacing and interleaving of note review mirrors the [[Desirable Difficulties]] framework underlying principled learning system design.
+> The Zettelkasten reading-to-note workflow integrates with the project's existing knowledge architecture in several critical ways. The elaborative interrogation operations performed during Zettel creation map directly to [[Metacognitive Scaffolding]] patterns used in the [[Extended Thinking Architecture]]. The linking of new notes to existing ones is functionally equivalent to the [[Graph of Thoughts]] reasoning structure — both create semantic networks where meaning emerges from relations rather than isolated nodes. The spacing and interleaving of note review mirrors the [[Desirable-Difficulties|Desirable Difficulties]] framework underlying principled learning system design.
 
 #### 18. [ASK-YOURSELF-THIS] Untitled *(Line 246)*
 
@@ -260,7 +260,7 @@ extraction_summary:
 #### 21. [CONNECTIONS-AND-LINKS] Untitled *(Line 287)*
 
 > [!connections-and-links] Untitled
-> This exposition connects to and extends the existing knowledge base across several critical dimensions. The [[Metacognitive Scaffolding]] principles developed in the context of LLM reasoning apply directly to human reading metacognition — both involve explicit monitoring and regulation of cognitive processing. The [[Dual Process Theory]] nodes that underpin decision-making analysis also govern reading comprehension: automatic, pattern-matching processes (System 1) handle word recognition and familiar schemas; deliberate, effortful processes (System 2) handle novel information, complex inference, and comprehension failure recovery. [[Cognitive Load Theory]], mentioned in the LLM reasoning context as a framework for understanding working memory constraints in transformer architectures, is here its source domain — a theory of human cognition whose insights were only subsequently applied to AI systems. The [[Zettelkasten]] methodology's requirement for independent idea formulation maps precisely to the generation effect's prescription for superior encoding: both require that the learner produce, not merely recognize, the target information. Finally, the [[Situation Model]] construct — building a rich mental simulation rather than merely a propositional representation — parallels the distinction between surface-level and deep reasoning that motivates [[Extended Thinking Architecture]] design.
+> This exposition connects to and extends the existing knowledge base across several critical dimensions. The [[Metacognitive Scaffolding]] principles developed in the context of LLM reasoning apply directly to human reading metacognition — both involve explicit monitoring and regulation of cognitive processing. The [[Dual-Process-Theory|Dual Process Theory]] nodes that underpin decision-making analysis also govern reading comprehension: automatic, pattern-matching processes (System 1) handle word recognition and familiar schemas; deliberate, effortful processes (System 2) handle novel information, complex inference, and comprehension failure recovery. [[Cognitive-Load-Theory|Cognitive Load Theory]], mentioned in the LLM reasoning context as a framework for understanding working memory constraints in transformer architectures, is here its source domain — a theory of human cognition whose insights were only subsequently applied to AI systems. The [[Zettelkasten]] methodology's requirement for independent idea formulation maps precisely to the generation effect's prescription for superior encoding: both require that the learner produce, not merely recognize, the target information. Finally, the [[Situation-Model|Situation Model]] construct — building a rich mental simulation rather than merely a propositional representation — parallels the distinction between surface-level and deep reasoning that motivates [[Extended Thinking Architecture]] design.
 
 #### 22. [FURTHER-EXPLORATION] Untitled *(Line 290)*
 
@@ -270,7 +270,7 @@ extraction_summary:
 #### 23. [TOPIC-IDEA] Untitled *(Line 293)*
 
 > [!topic-idea] Untitled
-> **[[Embodied Cognition and Reading]]** — The emerging research on how physical sensorimotor systems contribute to reading comprehension, including the role of motor simulation in understanding action language, the tactile and proprioceptive affordances of print versus digital reading, and the implications of embodied simulation for reading environment design. Directly connects to [[Dual Coding Theory]] and [[Situation Model]] literature while extending into neuroscience territory.
+> **[[Embodied Cognition and Reading]]** — The emerging research on how physical sensorimotor systems contribute to reading comprehension, including the role of motor simulation in understanding action language, the tactile and proprioceptive affordances of print versus digital reading, and the implications of embodied simulation for reading environment design. Directly connects to [[Dual-Coding-Theory|Dual Coding Theory]] and [[Situation-Model|Situation Model]] literature while extending into neuroscience territory.
 
 #### 24. [TOPIC-IDEA] Untitled *(Line 296)*
 
@@ -280,7 +280,7 @@ extraction_summary:
 #### 25. [TOPIC-IDEA] Untitled *(Line 299)*
 
 > [!topic-idea] Untitled
-> **[[Prior Knowledge as the Primary Leverage Variable in Reading]]** — A focused analysis of the research demonstrating that domain prior knowledge is the single most powerful predictor of reading comprehension and retention, with implications for strategic reading sequence design — reading order matters enormously and should be calibrated to build knowledge scaffolding progressively. Connects to [[Schema Theory]], [[Advance Organizers]], and [[Cognitive Load Theory]].
+> **[[Prior Knowledge as the Primary Leverage Variable in Reading]]** — A focused analysis of the research demonstrating that domain prior knowledge is the single most powerful predictor of reading comprehension and retention, with implications for strategic reading sequence design — reading order matters enormously and should be calibrated to build knowledge scaffolding progressively. Connects to [[Schema-Theory|Schema Theory]], [[Advance Organizers]], and [[Cognitive-Load-Theory|Cognitive Load Theory]].
 
 #### 26. [TOPIC-IDEA] Untitled *(Line 302)*
 
@@ -365,9 +365,9 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Advance Organizer]]
+- [[Advance-Organizer|Advance Organizer]]
 - [[Advance Organizers]]
-- [[Alan Baddeley]]
+- [[Alan-Baddeley|Alan Baddeley]]
 - [[Alexander Renkl]]
 - [[Allan Paivio]]
 - [[American psychologist]]
@@ -380,26 +380,26 @@ extraction_summary:
 - [[Building a Second Brain]]
 - [[Callender]]
 - [[Carol Donnelly]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]
-- [[David Ausubel]]
-- [[David Rumelhart]]
-- [[Desirable Difficulties]]
+- [[David-Ausubel|David Ausubel]]
+- [[David-Rumelhart|David Rumelhart]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Doug Rohrer]]
-- [[Dual Coding Theory]]
-- [[Dual Process Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus Forgetting Curve]]
 - [[Edmund Burke Huey]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Embodied Cognition and Reading]]
 - [[Epstein]]
 - [[Excalibrain]]
 - [[Expected Utility Theory]]
 - [[Extended Thinking Architecture]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Fergus Craik]]
 - [[Fred Paas]]
 - [[Frederic Bartlett]]
@@ -426,7 +426,7 @@ extraction_summary:
 - [[Large Language Models]]
 - [[Leopold]]
 - [[Leutner]]
-- [[Levels of Processing]]
+- [[Levels-of-Processing|Levels of Processing]]
 - [[Linda Baker]]
 - [[Logan Fiorella]]
 - [[Logseq]]
@@ -449,11 +449,11 @@ extraction_summary:
 - [[Olive]]
 - [[Orbit]]
 - [[Patricia Carpenter]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philip Gough]]
 - [[Piolat]]
 - [[Prior Knowledge as the Primary Leverage Variable in Reading]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Quantum Country]]
 - [[Reader]]
 - [[Reading Fluency and Its Relationship to Comprehension]]
@@ -464,13 +464,13 @@ extraction_summary:
 - [[Robert Bjork]]
 - [[Robert Lockhart]]
 - [[Roediger]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schwamborn]]
 - [[Simple View of Reading]]
-- [[Situation Model]]
+- [[Situation-Model|Situation Model]]
 - [[Slamecka]]
 - [[Spaced Repetition Algorithm Design for PKM]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stanislas Dehaene]]
 - [[SuperMemo]]
 - [[Sönke Ahrens]]
@@ -484,43 +484,43 @@ extraction_summary:
 - [[Walter Kintsch]]
 - [[Wilkinson]]
 - [[Zettelkasten]]
-- [[central executive]]
+- [[Central-Executive|central executive]]
 - [[default mode network]]
-- [[episodic buffer]]
+- [[Episodic-Buffer|episodic buffer]]
 - [[expanding retrieval practice]]
-- [[forgetting curve]]
-- [[illusion of knowing]]
+- [[Forgetting-Curve|forgetting curve]]
+- [[Illusion-of-Knowing|illusion of knowing]]
 - [[levels-of-processing]]
-- [[metacognitive monitoring]]
-- [[phonological loop]]
+- [[Metacognitive-Monitoring|metacognitive monitoring]]
+- [[Phonological-Loop|phonological loop]]
 - [[prior knowledge networks]]
-- [[progressive summarization]]
+- [[Progressive-Summarization|progressive summarization]]
 - [[reading fluency]]
 - [[reading span task]]
 - [[retrieval pathways]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[saccades]]
 - [[schemata]]
 - [[sketchnoting]]
 - [[spaced repetition algorithms]]
-- [[spacing effect]]
-- [[visuospatial sketchpad]]
-- [[working memory]]
-- [[working memory capacity]]
+- [[Spacing-Effect|spacing effect]]
+- [[Visuospatial-Sketchpad|visuospatial sketchpad]]
+- [[Working-Memory|working memory]]
+- [[Working-Memory-Capacity|working memory capacity]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Walter Kintsch]] | — | — | Document Start | 10 |
-| 2 | [[Alan Baddeley]] | — | — | Document Start | 10 |
+| 2 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Document Start | 10 |
 | 3 | [[John Sweller]] | — | — | Document Start | 10 |
-| 4 | [[Cognitive Load Theory]] | — | — | Document Start | 10 |
+| 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Document Start | 10 |
 | 5 | [[Allan Paivio]] | — | — | Document Start | 10 |
-| 6 | [[Dual Coding Theory]] | — | — | Document Start | 10 |
+| 6 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | Document Start | 10 |
 | 7 | [[Robert Bjork]] | — | — | Document Start | 10 |
-| 8 | [[Desirable Difficulties]] | — | — | Document Start | 10 |
-| 9 | [[Personal Knowledge Management]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
+| 8 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Document Start | 10 |
+| 9 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 10 | [[Roam Research]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 11 | [[Obsidian]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 12 | [[Notion]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
@@ -530,16 +530,16 @@ extraction_summary:
 | 16 | [[Sönke Ahrens]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 17 | [[Zettelkasten]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
 | 18 | [[Richard Saul Wurman]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 18 |
-| 19 | [[Levels of Processing]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
+| 19 | [[Levels-of-Processing|Levels of Processing]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 20 | [[Fergus Craik]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 21 | [[Robert Lockhart]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
-| 22 | [[Cognitive Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
-| 23 | [[Educational Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
+| 22 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
+| 23 | [[Educational-Psychology|Educational Psychology]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
 | 24 | [[Neuroscience of Learning]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 25 |
-| 25 | [[forgetting curve]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
+| 25 | [[Forgetting-Curve|forgetting curve]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
 | 26 | [[Hermann Ebbinghaus]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 27 |
 | 27 | [[Jean Piaget]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 30 |
-| 28 | [[David Ausubel]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 30 |
+| 28 | [[David-Ausubel|David Ausubel]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 30 |
 | 29 | [[Assimilation Theory]] | — | — | 🌐 Phase 1: Introduction & Context — W... | 30 |
 | 30 | [[Louis Émile Javal]] | — | — | The Birth of Reading Science | 38 |
 | 31 | [[saccades]] | — | — | The Birth of Reading Science | 38 |
@@ -552,27 +552,27 @@ extraction_summary:
 | 38 | [[Information Processing Theory]] | — | — | The Cognitive Revolution and Reading ... | 53 |
 | 39 | [[Philip Gough]] | — | — | The Cognitive Revolution and Reading ... | 55 |
 | 40 | [[Kenneth Goodman]] | — | — | The Cognitive Revolution and Reading ... | 55 |
-| 41 | [[David Rumelhart]] | — | — | The Cognitive Revolution and Reading ... | 55 |
+| 41 | [[David-Rumelhart|David Rumelhart]] | — | — | The Cognitive Revolution and Reading ... | 55 |
 | 42 | [[Teun van Dijk]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 43 | [[Walter Kintsch]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
 | 44 | [[Construction-Integration Model]] | — | — | The Text Comprehension Revolution: Ki... | 59 |
-| 45 | [[Situation Model]] | — | — | The Text Comprehension Revolution: Ki... | 62 |
-| 46 | [[working memory]] | — | — | Working Memory as the Comprehension B... | 72 |
-| 47 | [[Alan Baddeley]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 45 | [[Situation-Model|Situation Model]] | — | — | The Text Comprehension Revolution: Ki... | 62 |
+| 46 | [[Working-Memory|working memory]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 47 | [[Alan-Baddeley|Alan Baddeley]] | — | — | Working Memory as the Comprehension B... | 72 |
 | 48 | [[Graham Hitch]] | — | — | Working Memory as the Comprehension B... | 72 |
-| 49 | [[central executive]] | — | — | Working Memory as the Comprehension B... | 72 |
-| 50 | [[phonological loop]] | — | — | Working Memory as the Comprehension B... | 72 |
-| 51 | [[visuospatial sketchpad]] | — | — | Working Memory as the Comprehension B... | 72 |
-| 52 | [[episodic buffer]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 49 | [[Central-Executive|central executive]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 50 | [[Phonological-Loop|phonological loop]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 51 | [[Visuospatial-Sketchpad|visuospatial sketchpad]] | — | — | Working Memory as the Comprehension B... | 72 |
+| 52 | [[Episodic-Buffer|episodic buffer]] | — | — | Working Memory as the Comprehension B... | 72 |
 | 53 | [[reading span task]] | — | — | Working Memory as the Comprehension B... | 74 |
 | 54 | [[Meredith Daneman]] | — | — | Working Memory as the Comprehension B... | 74 |
 | 55 | [[Patricia Carpenter]] | — | — | Working Memory as the Comprehension B... | 74 |
 | 56 | [[John Sweller]] | — | — | Cognitive Load Theory and Reading | 87 |
-| 57 | [[Cognitive Load Theory]] | — | — | Cognitive Load Theory and Reading | 87 |
+| 57 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and Reading | 87 |
 | 58 | [[Fred Paas]] | — | — | Cognitive Load Theory and Reading | 89 |
 | 59 | [[Alexander Renkl]] | — | — | Cognitive Load Theory and Reading | 89 |
 | 60 | [[Allan Paivio]] | — | — | Dual Coding Theory and Multimodal Enc... | 96 |
-| 61 | [[Dual Coding Theory]] | — | — | Dual Coding Theory and Multimodal Enc... | 96 |
+| 61 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | Dual Coding Theory and Multimodal Enc... | 96 |
 | 62 | [[Cornell Note-Taking System]] | — | — | Dual Coding Theory and Multimodal Enc... | 98 |
 | 63 | [[sketchnoting]] | — | — | Dual Coding Theory and Multimodal Enc... | 98 |
 | 64 | [[Construction-Integration Model]] | — | — | The Construction-Integration Model in... | 105 |
@@ -582,28 +582,28 @@ extraction_summary:
 | 68 | [[Tulving]] | — | — | Encoding: The Gateway to Long-Term Me... | 122 |
 | 69 | [[Slamecka]] | — | — | The Generation Effect and Retrieval P... | 128 |
 | 70 | [[Graf]] | — | — | The Generation Effect and Retrieval P... | 128 |
-| 71 | [[retrieval practice]] | — | — | The Generation Effect and Retrieval P... | 131 |
+| 71 | [[Retrieval-Practice|retrieval practice]] | — | — | The Generation Effect and Retrieval P... | 131 |
 | 72 | [[Roediger]] | — | — | The Generation Effect and Retrieval P... | 133 |
 | 73 | [[Karpicke]] | — | — | The Generation Effect and Retrieval P... | 133 |
 | 74 | [[retrieval pathways]] | — | — | The Generation Effect and Retrieval P... | 135 |
 | 75 | [[Hermann Ebbinghaus]] | — | — | The Spacing Effect and Forgetting Dyn... | 139 |
-| 76 | [[spacing effect]] | — | — | The Spacing Effect and Forgetting Dyn... | 139 |
+| 76 | [[Spacing-Effect|spacing effect]] | — | — | The Spacing Effect and Forgetting Dyn... | 139 |
 | 77 | [[Ebbinghaus Forgetting Curve]] | — | — | The Spacing Effect and Forgetting Dyn... | 142 |
-| 78 | [[Spaced Repetition Systems]] | — | — | The Spacing Effect and Forgetting Dyn... | 146 |
+| 78 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | The Spacing Effect and Forgetting Dyn... | 146 |
 | 79 | [[Anki]] | — | — | The Spacing Effect and Forgetting Dyn... | 146 |
 | 80 | [[SuperMemo]] | — | — | The Spacing Effect and Forgetting Dyn... | 146 |
 | 81 | [[expanding retrieval practice]] | — | — | The Spacing Effect and Forgetting Dyn... | 148 |
 | 82 | [[spaced repetition algorithms]] | — | — | The Spacing Effect and Forgetting Dyn... | 148 |
 | 83 | [[Andy Matuschak]] | — | — | The Spacing Effect and Forgetting Dyn... | 150 |
 | 84 | [[Orbit]] | — | — | The Spacing Effect and Forgetting Dyn... | 150 |
-| 85 | [[metacognitive monitoring]] | — | — | Metacognitive Monitoring and Comprehe... | 154 |
+| 85 | [[Metacognitive-Monitoring|metacognitive monitoring]] | — | — | Metacognitive Monitoring and Comprehe... | 154 |
 | 86 | [[Linda Baker]] | — | — | Metacognitive Monitoring and Comprehe... | 154 |
 | 87 | [[Ann Brown]] | — | — | Metacognitive Monitoring and Comprehe... | 154 |
 | 88 | [[Markman]] | — | — | Metacognitive Monitoring and Comprehe... | 156 |
-| 89 | [[Feeling of Knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
+| 89 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 90 | [[Thomas Nelson]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 91 | [[Louis Narens]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
-| 92 | [[illusion of knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
+| 92 | [[Illusion-of-Knowing|illusion of knowing]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 93 | [[Glenberg]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 94 | [[Wilkinson]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
 | 95 | [[Epstein]] | — | — | Metacognitive Monitoring and Comprehe... | 161 |
@@ -621,7 +621,7 @@ extraction_summary:
 | 107 | [[Robert Bjork]] | — | — | The Interleaving Effect and Contextua... | 191 |
 | 108 | [[Doug Rohrer]] | — | — | The Interleaving Effect and Contextua... | 193 |
 | 109 | [[Kelli Taylor]] | — | — | The Interleaving Effect and Contextua... | 193 |
-| 110 | [[progressive summarization]] | — | — | The Interleaving Effect and Contextua... | 195 |
+| 110 | [[Progressive-Summarization|progressive summarization]] | — | — | The Interleaving Effect and Contextua... | 195 |
 | 111 | [[Logan Fiorella]] | — | — | The Generative Drawing and Dual Encod... | 199 |
 | 112 | [[Richard Mayer]] | — | — | The Generative Drawing and Dual Encod... | 199 |
 | 113 | [[Schwamborn]] | — | — | The Generative Drawing and Dual Encod... | 201 |
@@ -629,25 +629,25 @@ extraction_summary:
 | 115 | [[Thillmann]] | — | — | The Generative Drawing and Dual Encod... | 201 |
 | 116 | [[Leopold]] | — | — | The Generative Drawing and Dual Encod... | 201 |
 | 117 | [[Leutner]] | — | — | The Generative Drawing and Dual Encod... | 201 |
-| 118 | [[David Ausubel]] | — | — | Strategic Pre-Reading: Activating Pri... | 209 |
-| 119 | [[Advance Organizer]] | — | — | Strategic Pre-Reading: Activating Pri... | 209 |
+| 118 | [[David-Ausubel|David Ausubel]] | — | — | Strategic Pre-Reading: Activating Pri... | 209 |
+| 119 | [[Advance-Organizer|Advance Organizer]] | — | — | Strategic Pre-Reading: Activating Pri... | 209 |
 | 120 | [[prior knowledge networks]] | — | — | Strategic Pre-Reading: Activating Pri... | 211 |
-| 121 | [[Dual Process Theory]] | — | — | Strategic Pre-Reading: Activating Pri... | 214 |
+| 121 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Strategic Pre-Reading: Activating Pri... | 214 |
 | 122 | [[Kahneman]] | — | — | Strategic Pre-Reading: Activating Pri... | 214 |
 | 123 | [[Expected Utility Theory]] | — | — | Strategic Pre-Reading: Activating Pri... | 214 |
 | 124 | [[Hypothes.is]] | — | — | The Three-Layer Annotation System | 220 |
 | 125 | [[Kindle's]] | — | — | The Three-Layer Annotation System | 220 |
 | 126 | [[Excalibrain]] | — | — | The Three-Layer Annotation System | 220 |
 | 127 | [[Tiago Forte]] | — | — | Progressive Summarization as Spaced R... | 227 |
-| 128 | [[Progressive Summarization]] | — | — | Progressive Summarization as Spaced R... | 227 |
+| 128 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Progressive Summarization as Spaced R... | 227 |
 | 129 | [[Zettelkasten]] | — | — | Progressive Summarization as Spaced R... | 229 |
 | 130 | [[Niklas Luhmann]] | — | — | The Zettelkasten as Distributed Encod... | 233 |
 | 131 | [[Zettelkasten]] | — | — | The Zettelkasten as Distributed Encod... | 233 |
 | 132 | [[Metacognitive Scaffolding]] | — | — | The Zettelkasten as Distributed Encod... | 238 |
 | 133 | [[Extended Thinking Architecture]] | — | — | The Zettelkasten as Distributed Encod... | 238 |
 | 134 | [[Graph of Thoughts]] | — | — | The Zettelkasten as Distributed Encod... | 238 |
-| 135 | [[Desirable Difficulties]] | — | — | The Zettelkasten as Distributed Encod... | 238 |
-| 136 | [[working memory capacity]] | — | — | Individual Calibration and the Workin... | 242 |
+| 135 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Zettelkasten as Distributed Encod... | 238 |
+| 136 | [[Working-Memory-Capacity|working memory capacity]] | — | — | Individual Calibration and the Workin... | 242 |
 | 137 | [[reading fluency]] | — | — | Individual Calibration and the Workin... | 242 |
 | 138 | [[Stanislas Dehaene]] | — | — | The Neuroscience of Reading | 255 |
 | 139 | [[Visual Word Form Area]] | — | — | The Neuroscience of Reading | 255 |
@@ -662,21 +662,21 @@ extraction_summary:
 | 148 | [[Readwise]] | — | — | Large Language Models and Reading Aug... | 274 |
 | 149 | [[Reader]] | — | — | Large Language Models and Reading Aug... | 274 |
 | 150 | [[Metacognitive Scaffolding]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
-| 151 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
-| 152 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
+| 151 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
+| 152 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
 | 153 | [[Zettelkasten]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
-| 154 | [[Situation Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
+| 154 | [[Situation-Model|Situation Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
 | 155 | [[Extended Thinking Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 288 |
 | 156 | [[Embodied Cognition and Reading]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 294 |
-| 157 | [[Dual Coding Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 294 |
-| 158 | [[Situation Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 294 |
+| 157 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 294 |
+| 158 | [[Situation-Model|Situation Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 294 |
 | 159 | [[Spaced Repetition Algorithm Design for PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 297 |
 | 160 | [[Obsidian]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 297 |
 | 161 | [[Ebbinghaus Forgetting Curve]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 297 |
 | 162 | [[Prior Knowledge as the Primary Leverage Variable in Reading]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
-| 163 | [[Schema Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
+| 163 | [[Schema-Theory|Schema Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
 | 164 | [[Advance Organizers]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
-| 165 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
+| 165 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 300 |
 | 166 | [[The Mnemonic Media Design Space]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
 | 167 | [[Orbit]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
 | 168 | [[Human-Computer Interaction]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 303 |
@@ -739,9 +739,9 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Advance Organizer]]
+- [[Advance-Organizer|Advance Organizer]]
 - [[Advance Organizers]]
-- [[Alan Baddeley]]
+- [[Alan-Baddeley|Alan Baddeley]]
 - [[Alexander Renkl]]
 - [[Allan Paivio]]
 - [[American psychologist]]
@@ -754,26 +754,26 @@ $$
 - [[Building a Second Brain]]
 - [[Callender]]
 - [[Carol Donnelly]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Construction-Integration Model]]
 - [[Cornell Note-Taking System]]
 - [[Craik]]
-- [[David Ausubel]]
-- [[David Rumelhart]]
-- [[Desirable Difficulties]]
+- [[David-Ausubel|David Ausubel]]
+- [[David-Rumelhart|David Rumelhart]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Doug Rohrer]]
-- [[Dual Coding Theory]]
-- [[Dual Process Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus Forgetting Curve]]
 - [[Edmund Burke Huey]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Embodied Cognition and Reading]]
 - [[Epstein]]
 - [[Excalibrain]]
 - [[Expected Utility Theory]]
 - [[Extended Thinking Architecture]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Fergus Craik]]
 - [[Fred Paas]]
 - [[Frederic Bartlett]]
@@ -800,7 +800,7 @@ $$
 - [[Large Language Models]]
 - [[Leopold]]
 - [[Leutner]]
-- [[Levels of Processing]]
+- [[Levels-of-Processing|Levels of Processing]]
 - [[Linda Baker]]
 - [[Logan Fiorella]]
 - [[Logseq]]
@@ -823,11 +823,11 @@ $$
 - [[Olive]]
 - [[Orbit]]
 - [[Patricia Carpenter]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philip Gough]]
 - [[Piolat]]
 - [[Prior Knowledge as the Primary Leverage Variable in Reading]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Quantum Country]]
 - [[Reader]]
 - [[Reading Fluency and Its Relationship to Comprehension]]
@@ -838,13 +838,13 @@ $$
 - [[Robert Bjork]]
 - [[Robert Lockhart]]
 - [[Roediger]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schwamborn]]
 - [[Simple View of Reading]]
-- [[Situation Model]]
+- [[Situation-Model|Situation Model]]
 - [[Slamecka]]
 - [[Spaced Repetition Algorithm Design for PKM]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stanislas Dehaene]]
 - [[SuperMemo]]
 - [[Sönke Ahrens]]
@@ -858,29 +858,29 @@ $$
 - [[Walter Kintsch]]
 - [[Wilkinson]]
 - [[Zettelkasten]]
-- [[central executive]]
+- [[Central-Executive|central executive]]
 - [[default mode network]]
-- [[episodic buffer]]
+- [[Episodic-Buffer|episodic buffer]]
 - [[expanding retrieval practice]]
-- [[forgetting curve]]
-- [[illusion of knowing]]
+- [[Forgetting-Curve|forgetting curve]]
+- [[Illusion-of-Knowing|illusion of knowing]]
 - [[levels-of-processing]]
-- [[metacognitive monitoring]]
-- [[phonological loop]]
+- [[Metacognitive-Monitoring|metacognitive monitoring]]
+- [[Phonological-Loop|phonological loop]]
 - [[prior knowledge networks]]
-- [[progressive summarization]]
+- [[Progressive-Summarization|progressive summarization]]
 - [[reading fluency]]
 - [[reading span task]]
 - [[retrieval pathways]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[saccades]]
 - [[schemata]]
 - [[sketchnoting]]
 - [[spaced repetition algorithms]]
-- [[spacing effect]]
-- [[visuospatial sketchpad]]
-- [[working memory]]
-- [[working memory capacity]]
+- [[Spacing-Effect|spacing effect]]
+- [[Visuospatial-Sketchpad|visuospatial sketchpad]]
+- [[Working-Memory|working memory]]
+- [[Working-Memory-Capacity|working memory capacity]]
 
 ---
 

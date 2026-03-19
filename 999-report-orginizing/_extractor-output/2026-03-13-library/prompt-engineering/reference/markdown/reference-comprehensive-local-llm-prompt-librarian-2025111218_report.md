@@ -344,7 +344,7 @@ extraction_summary:
 #### 4. [DEFINITION] Untitled *(Line 71)*
 
 > [!definition] Untitled
-> - **Local LLM Component Librarian**: A self-hosted [[Artificial Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal Knowledge Base]], operating entirely on local hardware without external API dependencies.
+> - **Local LLM Component Librarian**: A self-hosted [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal-Knowledge-Base|Personal Knowledge Base]], operating entirely on local hardware without external API dependencies.
 > - **Core Function**: Semantic search, component recommendation, composition assistance, and metadata enrichment for prompt engineering artifacts.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 87)*
@@ -632,7 +632,7 @@ extraction_summary:
 - [[AI]]
 - [[API Documentation Generator]]
 - [[Advanced RAG Architectures for Knowledge Management]]
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought Framework]]
 - [[ChromaDB]]
@@ -643,7 +643,7 @@ extraction_summary:
 - [[Component Library]]
 - [[Component Name]]
 - [[Component-Name]]
-- [[Context Window]]
+- [[Context-Window|Context Window]]
 - [[Copilot Plugin]]
 - [[Customer Support Bot]]
 - [[Embedding]]
@@ -671,7 +671,7 @@ extraction_summary:
 - [[Obsidian Plugin Development for AI Integration]]
 - [[Ollama]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Plugin Ecosystem]]
 - [[Privacy]]
 - [[Prompt Component Librarian]]
@@ -688,7 +688,7 @@ extraction_summary:
 - [[Semantic Search]]
 - [[Semantic Similarity]]
 - [[Sentiment Analysis Demonstrations]]
-- [[Smart Connections]]
+- [[Smart-Connections|Smart Connections]]
 - [[Specific-Component-Name]]
 - [[Synthesis Components]]
 - [[System Architecture]]
@@ -696,7 +696,7 @@ extraction_summary:
 - [[Technical Blog Post Template]]
 - [[Technical Documentation Writer]]
 - [[Templates]]
-- [[Text Generator Plugin]]
+- [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Token Throughput]]
 - [[Vector Database]]
 - [[Vector Embeddings]]
@@ -719,9 +719,9 @@ extraction_summary:
 | 6 | [[RAG]] | — | — | Document Start | 48 |
 | 7 | [[Obsidian Community Plugins]] | — | — | Document Start | 48 |
 | 8 | [[Wiki-Links]] | — | — | Document Start | 52 |
-| 9 | [[Artificial Intelligence]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
+| 9 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
 | 10 | [[Prompt Components]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
-| 11 | [[Personal Knowledge Base]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
+| 11 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1️⃣ Conceptual Foundation: Local LLM ... | 72 |
 | 12 | [[LLM]] | — | — | The Paradigm Shift: From Cloud to Edge | 77 |
 | 13 | [[AI]] | — | — | The Paradigm Shift: From Cloud to Edge | 79 |
 | 14 | [[Component Library]] | — | — | The Paradigm Shift: From Cloud to Edge | 79 |
@@ -792,15 +792,15 @@ extraction_summary:
 | 79 | [[Local LLM]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 80 | [[Ollama]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 81 | [[Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
-| 82 | [[Smart Connections]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
-| 83 | [[Text Generator Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
+| 82 | [[Smart-Connections|Smart Connections]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
+| 83 | [[Text-Generator-Plugin|Text Generator Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 84 | [[Copilot Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 85 | [[Prompt Engineering]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 86 | [[Component Library]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 87 | [[RAG]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 88 | [[Vector Database]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 89 | [[Embedding Models]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
-| 90 | [[Context Window]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
+| 90 | [[Context-Window|Context Window]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 91 | [[Quantization]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 92 | [[GGUF Format]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
 | 93 | [[Model Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 2674 |
@@ -2309,7 +2309,7 @@ graph TD
 - [[AI]]
 - [[API Documentation Generator]]
 - [[Advanced RAG Architectures for Knowledge Management]]
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought Framework]]
 - [[ChromaDB]]
@@ -2320,7 +2320,7 @@ graph TD
 - [[Component Library]]
 - [[Component Name]]
 - [[Component-Name]]
-- [[Context Window]]
+- [[Context-Window|Context Window]]
 - [[Copilot Plugin]]
 - [[Customer Support Bot]]
 - [[Embedding]]
@@ -2348,7 +2348,7 @@ graph TD
 - [[Obsidian Plugin Development for AI Integration]]
 - [[Ollama]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Plugin Ecosystem]]
 - [[Privacy]]
 - [[Prompt Component Librarian]]
@@ -2365,7 +2365,7 @@ graph TD
 - [[Semantic Search]]
 - [[Semantic Similarity]]
 - [[Sentiment Analysis Demonstrations]]
-- [[Smart Connections]]
+- [[Smart-Connections|Smart Connections]]
 - [[Specific-Component-Name]]
 - [[Synthesis Components]]
 - [[System Architecture]]
@@ -2373,7 +2373,7 @@ graph TD
 - [[Technical Blog Post Template]]
 - [[Technical Documentation Writer]]
 - [[Templates]]
-- [[Text Generator Plugin]]
+- [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Token Throughput]]
 - [[Vector Database]]
 - [[Vector Embeddings]]

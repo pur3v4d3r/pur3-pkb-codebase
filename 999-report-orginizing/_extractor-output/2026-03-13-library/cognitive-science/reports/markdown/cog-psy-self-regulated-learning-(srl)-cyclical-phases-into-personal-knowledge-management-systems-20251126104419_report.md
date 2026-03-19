@@ -174,7 +174,7 @@ extraction_summary:
 #### 6. [DEFINITION] Untitled *(Line 163)*
 
 > [!definition] Untitled
-> **Personal Knowledge Management** encompasses the methodologies, practices, and technological systems through which individuals gather, organize, process, and utilize information in pursuit of intellectual and professional goals. PKM emerged as a response to the recognition that knowledge workers must assume responsibility for their own growth and learning, representing a bottom-up approach to knowledge management that prioritizes individual agency and personalized workflow design. The discipline integrates insights from [[Personal Information Management]], [[Knowledge Management]], [[Cognitive Psychology]], and organizational theory to create frameworks that respect both the limitations and capabilities of human cognition.
+> **Personal Knowledge Management** encompasses the methodologies, practices, and technological systems through which individuals gather, organize, process, and utilize information in pursuit of intellectual and professional goals. PKM emerged as a response to the recognition that knowledge workers must assume responsibility for their own growth and learning, representing a bottom-up approach to knowledge management that prioritizes individual agency and personalized workflow design. The discipline integrates insights from [[Personal Information Management]], [[Knowledge-Management|Knowledge Management]], [[Cognitive-Psychology|Cognitive Psychology]], and organizational theory to create frameworks that respect both the limitations and capabilities of human cognition.
 
 #### 7. [ANALOGY] Untitled *(Line 168)*
 
@@ -264,7 +264,7 @@ extraction_summary:
 #### 24. [CONNECTIONS-AND-LINKS] Untitled *(Line 339)*
 
 > [!connections-and-links] Untitled
-> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate Practice]], [[Metacognitive Calibration]], [[Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
+> The reflection infrastructure in PKM systems connects deeply to concepts from [[Deliberate Practice]], [[Metacognitive-Calibration|Metacognitive Calibration]], [[Transfer-of-Learning|Transfer of Learning]], and [[Expertise Development]]. Expert learners distinguish themselves not merely through accumulated knowledge but through refined metacognitive awareness developed via systematic reflection on learning experiences. By building reflection mechanisms directly into PKM infrastructure, we create environments that accelerate the transition from novice to expert self-regulation, reducing the time required to develop sophisticated conditional knowledge about personal learning processes.
 
 #### 25. [ATTENTION] Untitled *(Line 384)*
 
@@ -300,48 +300,48 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[COPES Framework for Learning Analysis]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Strategies]]
 - [[Cybernetics]]
 - [[Deliberate Practice]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Executive Function]]
 - [[Expertise Development]]
 - [[Feedback Loops]]
-- [[Forethought Phase]]
+- [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Knowledge Graph]]
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Learning Science]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and Illusions of Competence]]
 - [[Metacognitive Strategies]]
 - [[Motivation]]
 - [[Neuroplasticity]]
 - [[Obsidian]]
-- [[Performance Phase]]
+- [[Performance-Phase|Performance Phase]]
 - [[Personal Information Management]]
-- [[Personal Knowledge Management]]
-- [[Retrieval Practice]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Self-Reflection]]
-- [[Self-Reflection Phase]]
-- [[Self-Regulated Learning]]
+- [[Self-Reflection-Phase|Self-Reflection Phase]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning (Srl) Cyclical Phases Into Personal Knowledge Management Systems]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Strategic Planning]]
 - [[Systems Theory]]
 - [[Systems Thinking]]
 - [[Transfer Learning]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Winne and Hadwin COPES]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Atomic Note-Taking]]
 - [[Zimmerman's Cyclical Model]]
@@ -352,8 +352,8 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self-Regulated Learning (Srl) Cyclical Phases Into Personal Knowledge Management Systems]] | — | — | Self-Regulated Learning (Srl) Cyclica... | 44 |
-| 2 | [[Self-Regulated Learning]] | — | — | Claude Thinking: | 116 |
-| 3 | [[Personal Knowledge Management]] | — | — | Claude Thinking: | 116 |
+| 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Claude Thinking: | 116 |
+| 3 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Claude Thinking: | 116 |
 | 4 | [[Metacognition]] | — | — | Claude Thinking: | 116 |
 | 5 | [[Feedback Loops]] | — | — | Claude Thinking: | 116 |
 | 6 | [[Zimmerman's Cyclical Model]] | — | — | Claude Thinking: | 116 |
@@ -361,9 +361,9 @@ extraction_summary:
 | 8 | [[Goal Setting]] | — | — | Claude Thinking: | 116 |
 | 9 | [[Strategic Planning]] | — | — | Claude Thinking: | 116 |
 | 10 | [[Self-Reflection]] | — | — | Claude Thinking: | 116 |
-| 11 | [[Forethought Phase]] | — | — | Claude Thinking: | 116 |
-| 12 | [[Performance Phase]] | — | — | Claude Thinking: | 116 |
-| 13 | [[Self-Reflection Phase]] | — | — | Claude Thinking: | 116 |
+| 11 | [[Forethought-Phase|Forethought Phase]] | — | — | Claude Thinking: | 116 |
+| 12 | [[Performance-Phase|Performance Phase]] | — | — | Claude Thinking: | 116 |
+| 13 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | Claude Thinking: | 116 |
 | 14 | [[Cognitive Strategies]] | — | — | Claude Thinking: | 116 |
 | 15 | [[Metacognitive Strategies]] | — | — | Claude Thinking: | 116 |
 | 16 | [[Motivation]] | — | — | Claude Thinking: | 116 |
@@ -373,32 +373,32 @@ extraction_summary:
 | 20 | [[Zettelkasten]] | — | — | Claude Thinking: | 116 |
 | 21 | [[Obsidian]] | — | — | Claude Thinking: | 116 |
 | 22 | [[Knowledge Graph]] | — | — | Claude Thinking: | 116 |
-| 23 | [[Spaced Repetition]] | — | — | Claude Thinking: | 116 |
-| 24 | [[Retrieval Practice]] | — | — | Claude Thinking: | 116 |
-| 25 | [[Elaborative Interrogation]] | — | — | Claude Thinking: | 116 |
+| 23 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Claude Thinking: | 116 |
+| 24 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Claude Thinking: | 116 |
+| 25 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Claude Thinking: | 116 |
 | 26 | [[Transfer Learning]] | — | — | Claude Thinking: | 116 |
-| 27 | [[Cognitive Load Theory]] | — | — | Claude Thinking: | 116 |
-| 28 | [[Working Memory]] | — | — | Claude Thinking: | 116 |
-| 29 | [[Long-Term Memory]] | — | — | Claude Thinking: | 116 |
+| 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 116 |
+| 28 | [[Working-Memory|Working Memory]] | — | — | Claude Thinking: | 116 |
+| 29 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Claude Thinking: | 116 |
 | 30 | [[Neuroplasticity]] | — | — | Claude Thinking: | 116 |
-| 31 | [[Self-Regulated Learning]] | — | — | Defining Self-Regulated Learning as C... | 152 |
+| 31 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Defining Self-Regulated Learning as C... | 152 |
 | 32 | [[Personal Information Management]] | — | — | Personal Knowledge Management as Cogn... | 164 |
-| 33 | [[Knowledge Management]] | — | — | Personal Knowledge Management as Cogn... | 164 |
-| 34 | [[Cognitive Psychology]] | — | — | Personal Knowledge Management as Cogn... | 164 |
+| 33 | [[Knowledge-Management|Knowledge Management]] | — | — | Personal Knowledge Management as Cogn... | 164 |
+| 34 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Personal Knowledge Management as Cogn... | 164 |
 | 35 | [[Deliberate Practice]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
-| 36 | [[Metacognitive Calibration]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
-| 37 | [[Transfer of Learning]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
+| 36 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
+| 37 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
 | 38 | [[Expertise Development]] | — | — | Reflection and Evaluation Infrastruct... | 340 |
-| 39 | [[Cognitive Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
+| 39 | [[Cognitive-Science|Cognitive Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 40 | [[Neuroplasticity]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 41 | [[Learning Science]] | — | — | Links to Cognitive Science and Neurop... | 346 |
 | 42 | [[Executive Function]] | — | — | Links to Cognitive Science and Neurop... | 346 |
-| 43 | [[Cognitive Load Theory]] | — | — | Links to Cognitive Science and Neurop... | 348 |
-| 44 | [[Working Memory]] | — | — | Links to Cognitive Science and Neurop... | 350 |
+| 43 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Links to Cognitive Science and Neurop... | 348 |
+| 44 | [[Working-Memory|Working Memory]] | — | — | Links to Cognitive Science and Neurop... | 350 |
 | 45 | [[Cybernetics]] | — | — | Connections to Systems Theory and Cyb... | 354 |
 | 46 | [[Systems Theory]] | — | — | Connections to Systems Theory and Cyb... | 354 |
-| 47 | [[Information Architecture]] | — | — | Integration with Knowledge Architectu... | 364 |
-| 48 | [[Artificial Intelligence]] | — | — | Artificial Intelligence and Adaptive ... | 376 |
+| 47 | [[Information-Architecture|Information Architecture]] | — | — | Integration with Knowledge Architectu... | 364 |
+| 48 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | Artificial Intelligence and Adaptive ... | 376 |
 | 49 | [[Zimmerman's Cyclical Model of Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 411 |
 | 50 | [[COPES Framework for Learning Analysis]] | — | — | 🔗 Related Topics for PKB Expansion | 416 |
 | 51 | [[Zettelkasten Method and Atomic Note-Taking]] | — | — | 🔗 Related Topics for PKB Expansion | 421 |
@@ -482,48 +482,48 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[COPES Framework for Learning Analysis]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive Strategies]]
 - [[Cybernetics]]
 - [[Deliberate Practice]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Executive Function]]
 - [[Expertise Development]]
 - [[Feedback Loops]]
-- [[Forethought Phase]]
+- [[Forethought-Phase|Forethought Phase]]
 - [[Goal Setting]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Knowledge Graph]]
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Learning Science]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and Illusions of Competence]]
 - [[Metacognitive Strategies]]
 - [[Motivation]]
 - [[Neuroplasticity]]
 - [[Obsidian]]
-- [[Performance Phase]]
+- [[Performance-Phase|Performance Phase]]
 - [[Personal Information Management]]
-- [[Personal Knowledge Management]]
-- [[Retrieval Practice]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Self-Reflection]]
-- [[Self-Reflection Phase]]
-- [[Self-Regulated Learning]]
+- [[Self-Reflection-Phase|Self-Reflection Phase]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning (Srl) Cyclical Phases Into Personal Knowledge Management Systems]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Strategic Planning]]
 - [[Systems Theory]]
 - [[Systems Thinking]]
 - [[Transfer Learning]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Winne and Hadwin COPES]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Atomic Note-Taking]]
 - [[Zimmerman's Cyclical Model]]

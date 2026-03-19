@@ -21,15 +21,15 @@ secondary_domains:
   - philosophy-of-mind
 
 related_concepts:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Extrinsic Motivation]]"
-  - "[[Internalization Continuum]]"
+  - "[[Internalization-Continuum|Internalization Continuum]]"
   - "[[Autonomy]]"
   - "[[Agency]]"
-  - "[[Organismic Integration Theory]]"
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Humanistic Psychology]]"
   - "[[Cross-Cultural Universality]]"
   - "[[Goal Contents Theory]]"
@@ -87,8 +87,8 @@ prerequisites:
 
 builds_on:
   - "[[Intrinsic Motivation Research — Deci 1971]]"
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Organismic Integration Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
 
 related_critiques:
   - "[[Maslow Hierarchy Critique]]"
@@ -134,7 +134,7 @@ summary: "A first-principles deconstruction of Self-Determination Theory (Deci &
 
 Self-Determination Theory occupies a commanding position within motivational psychology. In the standard account, Deci and Ryan constructed a framework that unified decades of fragmented research on intrinsic and extrinsic motivation into a coherent, empirically productive whole. The central thesis is elegant: human beings are naturally active, growth-oriented organisms who, given supportive social conditions, will pursue activities for their inherent interest and satisfaction — a condition called intrinsic motivation. When social conditions are controlling or need-thwarting, this natural motivational tendency is suppressed, and people shift toward extrinsically regulated, lower-quality motivation or amotivation altogether.
 
-The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.
+The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic-Integration-Theory|Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.
 
 > [!key-claim] **The Core SDT Proposition**
 > Human beings possess three innate, universal basic psychological needs — autonomy, competence, and relatedness. The satisfaction of these needs is the proximal cause of intrinsic motivation and psychological well-being; their frustration is the proximal cause of ill-being and controlled motivation. This causal relationship holds across cultures, developmental stages, and life domains.
@@ -422,13 +422,13 @@ A [[Socratic Dialogue on Autonomy and Self-Determination]] would productively de
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> This first-principles analysis of [[Self-Determination Theory]] connects to existing knowledge in your PKB:
+> This first-principles analysis of [[Self-Determination-Theory|Self-Determination Theory]] connects to existing knowledge in your PKB:
 >
 > - **[[Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.
 >
 > - **[[Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.
 >
-> - **[[Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.
 >
 > - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.
 >
@@ -438,7 +438,7 @@ A [[Socratic Dialogue on Autonomy and Self-Determination]] would productively de
 
 ### The Invitation to Reconstruct Further
 
-The most productive next analytical step would be to apply first-principles thinking to the competence need specifically — examining whether the substantial literature on [[Effectance Motivation]], [[Flow Theory]], and [[Challenge-Skill Balance]] can be reconstructed from axioms about goal-pursuit, feedback, and skill development without importing the "basic need for competence" framing. The competence need is the most intuitively biological-sounding of the three, which makes it the most important to examine carefully for whether its biological framing adds explanatory power or merely naturalises what may be a learned evaluative orientation.
+The most productive next analytical step would be to apply first-principles thinking to the competence need specifically — examining whether the substantial literature on [[Effectance Motivation]], [[Flow Theory]], and [[Challenge-Skill-Balance|Challenge-Skill Balance]] can be reconstructed from axioms about goal-pursuit, feedback, and skill development without importing the "basic need for competence" framing. The competence need is the most intuitively biological-sounding of the three, which makes it the most important to examine carefully for whether its biological framing adds explanatory power or merely naturalises what may be a learned evaluative orientation.
 
 > [!reflection] **The Method and Its Limits**
 > 1. This analysis changed thinking about first-principles method itself: the most productive application is not dissolving theories but distinguishing what is empirically secured from what is philosophically imported. SDT is a case study in a productive theory whose overreach can be pruned without destroying the productive core.

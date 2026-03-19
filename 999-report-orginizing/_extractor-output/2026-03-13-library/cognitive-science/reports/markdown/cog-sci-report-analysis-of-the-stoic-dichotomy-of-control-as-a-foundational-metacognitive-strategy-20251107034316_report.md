@@ -160,7 +160,7 @@ extraction_summary:
 
 > [!pre-read-questions] Untitled
 > - How does the Stoic division between "what is up to us" and "what is not up to us" function as a foundational metacognitive strategy for behavioral self-regulation?
-> - In what specific ways do ancient Stoic principles map onto modern psychological constructs such as [[internal locus of control]], [[Cognitive Reappraisal]], and [[Self-Determination Theory]]?
+> - In what specific ways do ancient Stoic principles map onto modern psychological constructs such as [[internal locus of control]], [[Cognitive-Reappraisal|Cognitive Reappraisal]], and [[Self-Determination-Theory|Self-Determination Theory]]?
 > - What empirical evidence exists for the clinical efficacy of Stoic-derived interventions in promoting [[Psychological Resilience]], [[Emotional Regulation]], and sustained [[motivation]]?
 > - How does the practice of systematically categorizing life experiences through the lens of personal agency versus external circumstances reshape neural processing patterns and behavioral responses?
 
@@ -169,7 +169,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This article presents a rigorous academic analysis of the [[Stoic Dichotomy of Control]]—the philosophical principle dividing reality into elements within personal control (prohairesis) and those beyond it—as a foundational metacognitive framework for enhancing self-behavioral management, psychological resilience, and motivational fortitude. Drawing from both classical Stoic texts and contemporary psychological research, we demonstrate that this ancient distinction functions as a sophisticated cognitive architecture for [[Emotional Regulation]], [[Self-Regulation-Theory]], and adaptive coping.
 > 
-> The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
+> The analysis establishes that the Dichotomy of Control operates through multiple psychological mechanisms: it recalibrates [[attentional focus]] toward agentic domains, restructures [[causal attributions]] to emphasize internal locus of control, facilitates [[Cognitive-Reappraisal|Cognitive Reappraisal]] of adverse events, and promotes values-aligned action independent of outcome contingencies. Contemporary empirical research from [[Cognitive-Behavioral Therapy]] (CBT), [[Metacognition]] studies, resilience science, and [[Self-Determination-Theory|Self-Determination Theory]] converges to validate the psychological efficacy of this Stoic framework. We examine how systematic application of this principle enhances [[metacognitive awareness]], strengthens behavioral persistence, reduces maladaptive emotional reactivity, and cultivates what modern psychology terms "[[hardiness]]" or psychological resilience.
 > 
 > By integrating classical philosophical wisdom with contemporary neuroscience, cognitive psychology, and clinical research, this article reveals the Dichotomy of Control not merely as an abstract philosophical principle but as a concrete, trainable cognitive skill with profound implications for mental health, performance optimization, and human flourishing. The findings suggest that explicit training in this Stoic framework represents a powerful intervention for enhancing adaptive self-regulation across clinical, educational, and organizational contexts.
 
@@ -207,7 +207,7 @@ extraction_summary:
 #### 9. [DEFINITION] Untitled *(Line 159)*
 
 > [!definition] Untitled
-> - **[[Prosoche]]**: The Stoic practice of sustained attention or vigilant self-awareness, described by Pierre Hadot as "constant readiness, contemplation in the present moment" that allows continuous monitoring of one's judgments and responses. This represents what contemporary psychology would recognize as [[Metacognitive Monitoring]]—the capacity to observe one's own thought processes and regulatory states.
+> - **[[Prosoche]]**: The Stoic practice of sustained attention or vigilant self-awareness, described by Pierre Hadot as "constant readiness, contemplation in the present moment" that allows continuous monitoring of one's judgments and responses. This represents what contemporary psychology would recognize as [[Metacognitive-Monitoring|Metacognitive Monitoring]]—the capacity to observe one's own thought processes and regulatory states.
 
 #### 10. [QUOTE] Untitled *(Line 162)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 3: Cognitive Reappraisal and Emotional Regulation**
->     - At its psychological core, the Dichotomy of Control functions as a systematic framework for [[Cognitive Reappraisal]]—the process of reinterpreting the meaning of emotional stimuli to alter their emotional impact. Cognitive reappraisal represents one of the most effective emotion regulation strategies identified by affective neuroscience, consistently outperforming suppression, distraction, and other regulatory tactics in producing sustained emotional well-being and psychological resilience.[^35]
+>     - At its psychological core, the Dichotomy of Control functions as a systematic framework for [[Cognitive-Reappraisal|Cognitive Reappraisal]]—the process of reinterpreting the meaning of emotional stimuli to alter their emotional impact. Cognitive reappraisal represents one of the most effective emotion regulation strategies identified by affective neuroscience, consistently outperforming suppression, distraction, and other regulatory tactics in producing sustained emotional well-being and psychological resilience.[^35]
 >     - The Stoic application works through a specific reappraisal sequence: (1) *Categorization*: Explicitly identify which elements of the situation are controllable versus uncontrollable. (2) *De-catastrophization*: Recognize that what is uncontrollable cannot constitute genuine harm to what truly matters (one's character, choices, rational capacity). (3) *Response-focusing*: Redirect emotional and cognitive energy toward available responses within the controllable domain. (4) *Value-realignment*: Reaffirm that genuine value resides in virtuous response rather than favorable outcomes.
 >     - Research on Stoic practices demonstrates that cognitive distancing—the capacity to observe one's thoughts and circumstances from a more detached, objective perspective—enables more adaptive emotional processing. Studies link virtuous behaviors aligned with Stoic principles (compassion, gratitude, forgiveness) not only to positive social relations but also to reduced anxiety, depression, and suicidal behaviors, with the mechanism operating through improved emotion regulation and meaning-making.[^36]
 >     - The framework also incorporates what psychologists term "acceptance"—not passive resignation but active acknowledgment of reality as a prerequisite for effective response. Acceptance and Commitment Therapy (ACT), one of the "third wave" cognitive-behavioral approaches, explicitly draws on Stoic principles of accepting what cannot be changed while committing to values-based action in controllable domains. The fusion of Stoic acceptance with modern mindfulness practices has generated empirically validated protocols for treating anxiety disorders, depression, chronic pain, and trauma-related conditions.[^37]
@@ -245,7 +245,7 @@ extraction_summary:
 #### 15. [DEFINITION] Untitled *(Line 185)*
 
 > [!definition] Untitled
-> - **[[Cognitive Reappraisal]]**: An emotion regulation strategy involving reinterpretation of the meaning of emotion-eliciting stimuli in ways that alter their emotional impact. Distinguished from suppression (which inhibits emotional expression but not experience) and distraction (which shifts attention away). Reappraisal changes the emotional response by changing the interpretation of the stimulus.
+> - **[[Cognitive-Reappraisal|Cognitive Reappraisal]]**: An emotion regulation strategy involving reinterpretation of the meaning of emotion-eliciting stimuli in ways that alter their emotional impact. Distinguished from suppression (which inhibits emotional expression but not experience) and distraction (which shifts attention away). Reappraisal changes the emotional response by changing the interpretation of the stimulus.
 
 #### 16. [PRINCIPLE-POINT] Untitled *(Line 188)*
 
@@ -259,7 +259,7 @@ extraction_summary:
 #### 17. [DEFINITION] Untitled *(Line 195)*
 
 > [!definition] Untitled
-> - **[[Intrinsic Motivation]]**: Engagement in activity for its inherent satisfaction—for the experience of competence, autonomy, and meaning—rather than for separable consequences like rewards, punishments, or outcomes. Distinguished from extrinsic motivation (acting to obtain external outcomes) and amotivation (lacking intention or motivation). The Stoic framework cultivates intrinsic motivation by locating value in the activity of virtuous response itself.
+> - **[[Intrinsic-Motivation|Intrinsic Motivation]]**: Engagement in activity for its inherent satisfaction—for the experience of competence, autonomy, and meaning—rather than for separable consequences like rewards, punishments, or outcomes. Distinguished from extrinsic motivation (acting to obtain external outcomes) and amotivation (lacking intention or motivation). The Stoic framework cultivates intrinsic motivation by locating value in the activity of virtuous response itself.
 
 #### 18. [PRINCIPLE-POINT] Untitled *(Line 198)*
 
@@ -413,7 +413,7 @@ extraction_summary:
 > 1. [[Prohairesis]]
 >     - The Stoic term for the faculty of moral choice or volition—the capacity for deliberate, rational selection among options that constitutes the core of human agency. Prohairesis encompasses our judgments (what we deem good, evil, or indifferent), our intentions (what we choose to pursue or avoid), and our fundamental orientation toward existence. It represents the exclusive domain of absolute personal control in Stoic philosophy, with all external circumstances lying beyond its sphere. Modern psychology would recognize prohairesis as the integration of metacognitive awareness, executive function, and values-based decision-making—the capacity to step back from immediate impulses and circumstances to deliberate about appropriate response based on rational consideration and personal principles.
 > 
-> 2. [[Cognitive Reappraisal]]
+> 2. [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 >     - An emotion regulation strategy involving reinterpretation of the personal meaning or significance of emotion-eliciting events in ways that alter their emotional impact. Unlike suppression (inhibiting emotional expression) or distraction (shifting attention away), reappraisal operates by changing the cognitive evaluation underlying emotional response. For example, reappraising a work setback as a learning opportunity rather than a catastrophic failure fundamentally changes the emotional experience from shame/anxiety to curiosity/motivation. The Dichotomy of Control functions as a systematic reappraisal framework: by categorizing situation elements as controllable versus uncontrollable, it restructures their evaluative significance—uncontrollables cease to justify anxiety or rage since they lie beyond influence, while controllables focus effort productively. Extensive research demonstrates reappraisal as one of the most effective regulatory strategies for long-term psychological well-being.
 > 
 > 3. [[Psychological Resilience]]
@@ -445,18 +445,18 @@ extraction_summary:
 
 - [[2025-11-07]]
 - [[Cognitive Neuroscience of Self-Regulation]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Emotional Regulation]]
 - [[Internal Locus of Control]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
 - [[Metacognitive Architecture]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Psychological Resilience]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Regulation-Theory]]
 - [[Stoic Dichotomy of Control]]
 - [[adaptive coping]]
@@ -468,14 +468,14 @@ extraction_summary:
 - [[cognitive distancing technique]]
 - [[cognitive reframing]]
 - [[cognitive schema]]
-- [[contingent self-worth]]
+- [[Contingent-Self-Worth|contingent self-worth]]
 - [[fundamental attribution error]]
 - [[grit]]
 - [[hardiness]]
 - [[internal locus of control]]
-- [[intrinsic motivation]]
-- [[learned helplessness]]
-- [[mental model]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
+- [[Learned-Helplessness|learned helplessness]]
+- [[Mental-Model|mental model]]
 - [[metacognitive awareness]]
 - [[metacognitive strategy]]
 - [[motivation]]
@@ -493,8 +493,8 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[internal locus of control]] | — | — | Document Start | 30 |
-| 2 | [[Cognitive Reappraisal]] | — | — | Document Start | 30 |
-| 3 | [[Self-Determination Theory]] | — | — | Document Start | 30 |
+| 2 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Document Start | 30 |
+| 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 30 |
 | 4 | [[Psychological Resilience]] | — | — | Document Start | 31 |
 | 5 | [[Emotional Regulation]] | — | — | Document Start | 31 |
 | 6 | [[motivation]] | — | — | Document Start | 31 |
@@ -503,10 +503,10 @@ extraction_summary:
 | 9 | [[Self-Regulation-Theory]] | — | — | Document Start | 37 |
 | 10 | [[attentional focus]] | — | — | Document Start | 39 |
 | 11 | [[causal attributions]] | — | — | Document Start | 39 |
-| 12 | [[Cognitive Reappraisal]] | — | — | Document Start | 39 |
+| 12 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Document Start | 39 |
 | 13 | [[Cognitive-Behavioral Therapy]] | — | — | Document Start | 39 |
 | 14 | [[Metacognition]] | — | — | Document Start | 39 |
-| 15 | [[Self-Determination Theory]] | — | — | Document Start | 39 |
+| 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 39 |
 | 16 | [[metacognitive awareness]] | — | — | Document Start | 39 |
 | 17 | [[hardiness]] | — | — | Document Start | 39 |
 | 18 | [[Stoic Dichotomy of Control]] | — | — | 1.0 📜 Introduction | 48 |
@@ -517,12 +517,12 @@ extraction_summary:
 | 23 | [[values-based action]] | — | — | 1.0 📜 Introduction | 54 |
 | 24 | [[stress resistance]] | — | — | 1.0 📜 Introduction | 62 |
 | 25 | [[adaptive coping]] | — | — | 1.0 📜 Introduction | 62 |
-| 26 | [[intrinsic motivation]] | — | — | 1.0 📜 Introduction | 64 |
+| 26 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | 1.0 📜 Introduction | 64 |
 | 27 | [[grit]] | — | — | 1.0 📜 Introduction | 64 |
 | 28 | [[self-determination]] | — | — | 1.0 📜 Introduction | 64 |
 | 29 | [[Metacognitive Architecture]] | — | — | 1.0 📜 Introduction | 66 |
 | 30 | [[cognitive schema]] | — | — | 1.0 📜 Introduction | 66 |
-| 31 | [[mental model]] | — | — | 1.0 📜 Introduction | 66 |
+| 31 | [[Mental-Model|mental model]] | — | — | 1.0 📜 Introduction | 66 |
 | 32 | [[🗣️💭Quote_Everything-can-be-taken-from-a-person-but-one-thing_🆔20251107065938]] | — | — | 1.0 📜 Introduction | 72 |
 | 33 | [[internal locus of control]] | — | — | 1.0 📜 Introduction | 77 |
 | 34 | [[Stoic Dichotomy of Control]] | — | — | 2.0 🧭 Historical Context & Foundation... | 85 |
@@ -532,20 +532,20 @@ extraction_summary:
 | 38 | [[🗣️💭Quote_Some-things-are-within-our-power-(eph-ēmin)_🆔20251107081220]] | — | — | 2.3 The Core Principle: "*Eph' Ēmin*"... | 115 |
 | 39 | [[Stoic Dichotomy of Control]] | — | — | 3.1 ⚛️ Foundational Principles | 152 |
 | 40 | [[Prosoche]] | — | — | 3.1 ⚛️ Foundational Principles | 160 |
-| 41 | [[Metacognitive Monitoring]] | — | — | 3.1 ⚛️ Foundational Principles | 160 |
+| 41 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 3.1 ⚛️ Foundational Principles | 160 |
 | 42 | [[Internal Locus of Control]] | — | — | 3.1 ⚛️ Foundational Principles | 176 |
-| 43 | [[Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 180 |
-| 44 | [[Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 186 |
-| 45 | [[Intrinsic Motivation]] | — | — | 3.1 ⚛️ Foundational Principles | 196 |
+| 43 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 180 |
+| 44 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 3.1 ⚛️ Foundational Principles | 186 |
+| 45 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 3.1 ⚛️ Foundational Principles | 196 |
 | 46 | [[metacognitive strategy]] | — | — | 3.1 ⚛️ Foundational Principles | 200 |
 | 47 | [[regulatory focus]] | — | — | 3.1 ⚛️ Foundational Principles | 202 |
 | 48 | [[Metacognition]] | — | — | 3.1 ⚛️ Foundational Principles | 206 |
 | 49 | [[cognitive appraisal]] | — | — | 4.1 The Cognitive Appraisal Cascade | 216 |
 | 50 | [[fundamental attribution error]] | — | — | 4.1 The Cognitive Appraisal Cascade | 238 |
-| 51 | [[contingent self-worth]] | — | — | 4.1 The Cognitive Appraisal Cascade | 244 |
+| 51 | [[Contingent-Self-Worth|contingent self-worth]] | — | — | 4.1 The Cognitive Appraisal Cascade | 244 |
 | 52 | [[cognitive distancing technique]] | — | — | 4.2 Emotional Regulation Through Cogn... | 254 |
 | 53 | [[grit]] | — | — | 4.3 Behavioral Persistence and Grit | 266 |
-| 54 | [[learned helplessness]] | — | — | 4.3 Behavioral Persistence and Grit | 276 |
+| 54 | [[Learned-Helplessness|learned helplessness]] | — | — | 4.3 Behavioral Persistence and Grit | 276 |
 | 55 | [[psychological well-being]] | — | — | 4.5 Identity and Character Development | 302 |
 | 56 | [[Cognitive Neuroscience of Self-Regulation]] | — | — | 6.6 Neuroscience and Brain Plasticity | 450 |
 | 57 | [[2025-11-07]] | — | — | 7.6 Mechanisms of Long-Term Behavior ... | 517 |
@@ -553,7 +553,7 @@ extraction_summary:
 | 59 | [[🗣️💭Quote_The-chief-task-in-life-is-simply-this..._🆔20251107181716]] | — | — | 9.0 🧠 Key Questions | 568 |
 | 60 | [[Cognitive-Behavioral Therapy]] | — | — | 9.0 🧠 Key Questions | 579 |
 | 61 | [[Prohairesis]] | — | — | 9.0 🧠 Key Questions | 593 |
-| 62 | [[Cognitive Reappraisal]] | — | — | 9.0 🧠 Key Questions | 596 |
+| 62 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 9.0 🧠 Key Questions | 596 |
 | 63 | [[Psychological Resilience]] | — | — | 9.0 🧠 Key Questions | 599 |
 
 ---
@@ -675,18 +675,18 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 
 - [[2025-11-07]]
 - [[Cognitive Neuroscience of Self-Regulation]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Emotional Regulation]]
 - [[Internal Locus of Control]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
 - [[Metacognitive Architecture]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Psychological Resilience]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Regulation-Theory]]
 - [[Stoic Dichotomy of Control]]
 - [[adaptive coping]]
@@ -698,14 +698,14 @@ I'll create a comprehensive academic article on the Stoic Dichotomy of Control. 
 - [[cognitive distancing technique]]
 - [[cognitive reframing]]
 - [[cognitive schema]]
-- [[contingent self-worth]]
+- [[Contingent-Self-Worth|contingent self-worth]]
 - [[fundamental attribution error]]
 - [[grit]]
 - [[hardiness]]
 - [[internal locus of control]]
-- [[intrinsic motivation]]
-- [[learned helplessness]]
-- [[mental model]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
+- [[Learned-Helplessness|learned helplessness]]
+- [[Mental-Model|mental model]]
 - [[metacognitive awareness]]
 - [[metacognitive strategy]]
 - [[motivation]]

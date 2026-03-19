@@ -411,7 +411,7 @@ extraction_summary:
 
 > [!application-context] Cognitive Load Theory
 > **Domains**: 
->   - [[Instructional Design]] — curriculum sequencing
+>   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — curriculum sequencing
 >   - [[UX Design]] — interface complexity management
 >   - [[Prompt Engineering]] — chunk complexity calibration
 > **Trigger Conditions**:
@@ -425,7 +425,7 @@ extraction_summary:
 #### 9. [SYNTHESIS-OPPORTUNITY] Attention as Resource Allocation *(Line 535)*
 
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[Cognitive-Psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms
@@ -437,7 +437,7 @@ extraction_summary:
 #### 10. [MENTAL-MODEL-ANCHOR] Untitled *(Line 585)*
 
 > [!mental-model-anchor] Untitled
-> **Concept**: [[Cognitive Load Theory]]
+> **Concept**: [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > **Anchors To**:
 >   - [[Systems Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
@@ -448,7 +448,7 @@ extraction_summary:
 #### 11. [COUNTEREXAMPLE] Testing Effect Limitations *(Line 608)*
 
 > [!counterexample] Testing Effect Limitations
-> **Principle**: [[Testing Effect]] — retrieval practice enhances retention
+> **Principle**: [[Testing-Effect|Testing Effect]] — retrieval practice enhances retention
 > **Counterexample**: Very low-knowledge learners may benefit more from restudy initially
 > **Boundary Condition**: Requires sufficient initial encoding to retrieve
 > **Source**: Karpicke & Blunt, 2011
@@ -494,7 +494,7 @@ extraction_summary:
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive Load Theory]] — primary extension
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
@@ -617,7 +617,7 @@ extraction_summary:
 
 > [!application-context] Capacity Model Application
 > **Domains**: 
->   - [[Instructional Design]] — predict when learners will be overwhelmed
+>   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — predict when learners will be overwhelmed
 >   - [[UX Design]] — interface complexity management
 > **Trigger Conditions**:
 >   - "Learner performance degrades under stress" → check arousal level
@@ -645,7 +645,7 @@ extraction_summary:
 
 - [[Attenuation Model]]
 - [[Automation]]
-- [[CLT]]
+- [[Cognitive-Load-Theory|CLT]]
 - [[Capacity Model]]
 - [[Circle of Competence]]
 - [[Claim]]
@@ -653,9 +653,9 @@ extraction_summary:
 - [[Claim B]]
 - [[Claim-Name-1]]
 - [[Claim-Name-2]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]
 - [[Concept]]
@@ -668,7 +668,7 @@ extraction_summary:
 - [[Domain 3]]
 - [[Early Selection Theory]]
 - [[Economics]]
-- [[Element Interactivity]]
+- [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
 - [[Evidence-Based Practice]]
 - [[Expertise Development]]
@@ -678,19 +678,19 @@ extraction_summary:
 - [[First Principles Thinking]]
 - [[History of Cognitive Psychology]]
 - [[Illusion of Competence]]
-- [[Inert Knowledge]]
+- [[Inert-Knowledge|Inert Knowledge]]
 - [[Information Processing]]
 - [[Information Processing Theory]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]
-- [[Intrinsic Load]]
+- [[Intrinsic-Load|Intrinsic Load]]
 - [[Inversion]]
 - [[Kahneman Capacity Model]]
 - [[Late Selection Evidence]]
 - [[Learning Theory]]
 - [[Load Theory]]
 - [[Map vs Territory]]
-- [[Mental Model]]
+- [[Mental-Model|Mental Model]]
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
@@ -721,9 +721,9 @@ extraction_summary:
 - [[Target Domain 1]]
 - [[Target Domain 2]]
 - [[Target Domain 3]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[UX Design]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Basics]]
 - [[Working Memory Model]]
 - [[Yerkes-Dodson Law]]
@@ -746,55 +746,55 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Comprehensive LLM-PKB Integration Systems]] | — | — | Document Start | 39 |
-| 2 | [[Cognitive Science]] | — | — | 2. Bidirectional Link Hints — Relatio... | 389 |
+| 2 | [[Cognitive-Science|Cognitive Science]] | — | — | 2. Bidirectional Link Hints — Relatio... | 389 |
 | 3 | [[Learning Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 389 |
-| 4 | [[CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
+| 4 | [[Cognitive-Load-Theory|CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
 | 5 | [[Information Processing]] | — | — | 2. Bidirectional Link Hints — Relatio... | 395 |
-| 6 | [[Intrinsic Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
-| 7 | [[Element Interactivity]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
-| 8 | [[Working Memory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
+| 6 | [[Intrinsic-Load|Intrinsic Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
+| 7 | [[Element-Interactivity|Element Interactivity]] | — | — | 2. Bidirectional Link Hints — Relatio... | 396 |
+| 8 | [[Working-Memory|Working Memory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
 | 9 | [[RAM]] | — | — | 2. Bidirectional Link Hints — Relatio... | 397 |
 | 10 | [[Schema Acquisition]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
 | 11 | [[Automation]] | — | — | 2. Bidirectional Link Hints — Relatio... | 398 |
 | 12 | [[Late Selection Evidence]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
 | 13 | [[Early Selection Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 399 |
 | 14 | [[Load Theory]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
-| 15 | [[CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
+| 15 | [[Cognitive-Load-Theory|CLT]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 16 | [[Perceptual Load]] | — | — | 2. Bidirectional Link Hints — Relatio... | 400 |
 | 17 | [[Attenuation Model]] | — | — | 3. Atomic Extraction Markers — Note S... | 419 |
 | 18 | [[Information Processing Theory]] | — | — | 3. Atomic Extraction Markers — Note S... | 420 |
 | 19 | [[Dichotic Listening Paradigm]] | — | — | 3. Atomic Extraction Markers — Note S... | 421 |
 | 20 | [[Illusion of Competence]] | — | — | 4-9. Remaining Proposals — Summary En... | 434 |
-| 21 | [[Instructional Design]] | — | — | 11. **Application Context Markers** —... | 487 |
+| 21 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 11. **Application Context Markers** —... | 487 |
 | 22 | [[UX Design]] | — | — | 11. **Application Context Markers** —... | 488 |
 | 23 | [[Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 489 |
 | 24 | [[Prompt Engineering]] | — | — | 11. **Application Context Markers** —... | 498 |
-| 25 | [[Inert Knowledge]] | — | — | 11. **Application Context Markers** —... | 501 |
+| 25 | [[Inert-Knowledge|Inert Knowledge]] | — | — | 11. **Application Context Markers** —... | 501 |
 | 26 | [[Evidence-Based Practice]] | — | — | 12. **Evidence Weight Indicators** — ... | 509 |
-| 27 | [[Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
+| 27 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 28 | [[Kahneman Capacity Model]] | — | — | 13. **Synthesis Potential Markers** —... | 536 |
 | 29 | [[Economics]] | — | — | 13. **Synthesis Potential Markers** —... | 538 |
 | 30 | [[Computer Science]] | — | — | 13. **Synthesis Potential Markers** —... | 539 |
 | 31 | [[Organizational Behavior]] | — | — | 13. **Synthesis Potential Markers** —... | 540 |
-| 32 | [[Cognitive Load Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 586 |
+| 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 586 |
 | 33 | [[Systems Thinking]] | — | — | 15. **Mental Model Anchors** — Framew... | 588 |
 | 34 | [[Constraint Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 589 |
 | 35 | [[First Principles Thinking]] | — | — | 15. **Mental Model Anchors** — Framew... | 590 |
 | 36 | [[Inversion]] | — | — | 15. **Mental Model Anchors** — Framew... | 591 |
-| 37 | [[Cognitive Load Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 594 |
+| 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 594 |
 | 38 | [[Constraint Theory]] | — | — | 15. **Mental Model Anchors** — Framew... | 594 |
-| 39 | [[Testing Effect]] | — | — | 16. **Counterexample Collection** — E... | 609 |
-| 40 | [[Testing Effect]] | — | — | 16. **Counterexample Collection** — E... | 615 |
+| 39 | [[Testing-Effect|Testing Effect]] | — | — | 16. **Counterexample Collection** — E... | 609 |
+| 40 | [[Testing-Effect|Testing Effect]] | — | — | 16. **Counterexample Collection** — E... | 615 |
 | 41 | [[Source]] | — | — | Syntax Patterns | 777 |
 | 42 | [[Target]] | — | — | Syntax Patterns | 777 |
-| 43 | [[Cognitive Load Theory]] | — | — | Syntax Patterns | 782 |
+| 43 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Syntax Patterns | 782 |
 | 44 | [[Working Memory Model]] | — | — | Syntax Patterns | 782 |
 | 45 | [[Information Processing Theory]] | — | — | Syntax Patterns | 782 |
 | 46 | [[Filter Model]] | — | — | Syntax Patterns | 787 |
 | 47 | [[Attenuation Model]] | — | — | Syntax Patterns | 787 |
 | 48 | [[Capacity Model]] | — | — | Syntax Patterns | 787 |
-| 49 | [[CLT]] | — | — | Syntax Patterns | 792 |
-| 50 | [[Instructional Design]] | — | — | Syntax Patterns | 792 |
+| 49 | [[Cognitive-Load-Theory|CLT]] | — | — | Syntax Patterns | 792 |
+| 50 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Syntax Patterns | 792 |
 | 51 | [[Related Concept 1]] | — | — | Atomic Candidate Callout Structure | 880 |
 | 52 | [[Related Concept 2]] | — | — | Atomic Candidate Callout Structure | 881 |
 | 53 | [[ref-author-year-title]] | — | — | Inline Provenance Markers | 1102 |
@@ -811,7 +811,7 @@ extraction_summary:
 | 64 | [[Working Memory Basics]] | — | — | Inline Callout Alternative | 1242 |
 | 65 | [[History of Cognitive Psychology]] | — | — | Inline Callout Alternative | 1245 |
 | 66 | [[Research Methods in Cogsci]] | — | — | Inline Callout Alternative | 1246 |
-| 67 | [[Cognitive Load Theory]] | — | — | Inline Callout Alternative | 1250 |
+| 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Inline Callout Alternative | 1250 |
 | 68 | [[Instructional Design Principles]] | — | — | Inline Callout Alternative | 1251 |
 | 69 | [[Expertise Development]] | — | — | Inline Callout Alternative | 1254 |
 | 70 | [[Multimedia Learning]] | — | — | Inline Callout Alternative | 1255 |
@@ -834,7 +834,7 @@ extraction_summary:
 | 87 | [[Mental Model 2]] | — | — | Mental Model Anchor Callout | 2068 |
 | 88 | [[Mental Model 3]] | — | — | Mental Model Anchor Callout | 2069 |
 | 89 | [[Concept]] | — | — | Inline Model Anchors | 2084 |
-| 90 | [[Mental Model]] | — | — | Inline Model Anchors | 2084 |
+| 90 | [[Mental-Model|Mental Model]] | — | — | Inline Model Anchors | 2084 |
 | 91 | [[Concept]] | — | — | Inline Model Anchors | 2086 |
 | 92 | [[Target Domain]] | — | — | Inline Model Anchors | 2086 |
 | 93 | [[First Principles]] | — | — | Core Mental Model Reference | 2095 |
@@ -848,8 +848,8 @@ extraction_summary:
 | 101 | [[Occam's Razor]] | — | — | Core Mental Model Reference | 2103 |
 | 102 | [[Falsification]] | — | — | Core Mental Model Reference | 2104 |
 | 103 | [[First Principles Thinking]] | — | — | Two-Way Model Use | 2111 |
-| 104 | [[Cognitive Load Theory]] | — | — | Two-Way Model Use | 2111 |
-| 105 | [[Cognitive Load Theory]] | — | — | Two-Way Model Use | 2115 |
+| 104 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Two-Way Model Use | 2111 |
+| 105 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Two-Way Model Use | 2115 |
 | 106 | [[Software Architecture]] | — | — | Two-Way Model Use | 2115 |
 | 107 | [[Principle]] | — | — | Inline Boundary Markers | 2171 |
 | 108 | [[Claim]] | — | — | Inline Boundary Markers | 2173 |
@@ -860,7 +860,7 @@ extraction_summary:
 | 113 | [[Capacity Model]] | — | — | Core Components | 2272 |
 | 114 | [[Yerkes-Dodson Law]] | — | — | Core Components | 2272 |
 | 115 | [[Information Processing Theory]] | — | — | Core Components | 2272 |
-| 116 | [[Instructional Design]] | — | — | Core Components | 2278 |
+| 116 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Core Components | 2278 |
 | 117 | [[UX Design]] | — | — | Core Components | 2279 |
 | 118 | [[Multiple Resource Theory]] | — | — | Core Components | 2290 |
 | 119 | [[Dataview Query Library for PKB Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 2356 |
@@ -1433,7 +1433,7 @@ cognitive-load:
 ```markdown
 > [!application-context] Cognitive Load Theory
 > **Domains**: 
->   - [[Instructional Design]] — curriculum sequencing
+>   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — curriculum sequencing
 >   - [[UX Design]] — interface complexity management
 >   - [[Prompt Engineering]] — chunk complexity calibration
 > **Trigger Conditions**:
@@ -1466,7 +1466,7 @@ cognitive-load:
 
 ```markdown
 > [!synthesis-opportunity] Attention as Resource Allocation
-> **Source Domain**: [[Cognitive Psychology]] — [[Kahneman Capacity Model]]
+> **Source Domain**: [[Cognitive-Psychology|Cognitive Psychology]] — [[Kahneman Capacity Model]]
 > **Target Domains**: 
 >   - [[Economics]] — scarcity/allocation parallels
 >   - [[Computer Science]] — CPU scheduling algorithms
@@ -1500,7 +1500,7 @@ freshness:
 
 ```markdown
 > [!mental-model-anchor] 
-> **Concept**: [[Cognitive Load Theory]]
+> **Concept**: [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > **Anchors To**:
 >   - [[Systems Thinking]] — feedback loops between load types
 >   - [[Constraint Theory]] — bottleneck identification
@@ -1508,20 +1508,20 @@ freshness:
 >   - [[Inversion]] — what would INCREASE load? (avoid that)
 > **Integration Notes**: CLT is fundamentally a constraint/bottleneck model applied to cognition
 
-[**Model-Anchor**:: [[Cognitive Load Theory]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
+[**Model-Anchor**:: [[Cognitive-Load-Theory|Cognitive Load Theory]] ←anchors-to→ [[Constraint Theory]] | insight:"learning bottlenecks = cognitive constraints"]
 ```
 
 ### Code Block 11 — `markdown` *(Lines 607-616)*
 
 ```markdown
 > [!counterexample] Testing Effect Limitations
-> **Principle**: [[Testing Effect]] — retrieval practice enhances retention
+> **Principle**: [[Testing-Effect|Testing Effect]] — retrieval practice enhances retention
 > **Counterexample**: Very low-knowledge learners may benefit more from restudy initially
 > **Boundary Condition**: Requires sufficient initial encoding to retrieve
 > **Source**: Karpicke & Blunt, 2011
 > **Implication**: Scaffold before testing for novices
 
-[**Boundary-Condition**:: [[Testing Effect]] fails-when: "initial encoding insufficient" | population:"absolute novices" | alternative:"restudy then test"]
+[**Boundary-Condition**:: [[Testing-Effect|Testing Effect]] fails-when: "initial encoding insufficient" | population:"absolute novices" | alternative:"restudy then test"]
 ```
 
 ### Code Block 12 — `xml` *(Lines 630-661)*
@@ -2697,11 +2697,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory|Cognitive Load Theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[Cognitive Load Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive-Load-Theory|Cognitive Load Theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 # ... (15 more lines truncated)
@@ -2807,7 +2807,7 @@ The model comprises several interacting elements:
 
 > [!application-context] Capacity Model Application
 > **Domains**: 
->   - [[Instructional Design]] — predict when learners will be overwhelmed
+>   - [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] — predict when learners will be overwhelmed
 >   - [[UX Design]] — interface complexity management
 > **Trigger Conditions**:
 >   - "Learner performance degrades under stress" → check arousal level
@@ -2864,12 +2864,12 @@ for (let letter of sortedLetters) {
 
 | Type | Symbol | Use Case | Example |
 | --- | --- | --- | --- |
-| `extends` | →(extends)→ | Theoretical elaboration | [[CLT]] →(extends)→ [[Information Processing]] |
-| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic Load]] →(operationalizes)→ [[Element Interactivity]] |
-| `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working Memory]] →(analogous-to)→ [[RAM]] |
+| `extends` | →(extends)→ | Theoretical elaboration | [[Cognitive-Load-Theory|CLT]] →(extends)→ [[Information Processing]] |
+| `operationalizes` | →(operationalizes)→ | Abstract → measurable | [[Intrinsic-Load|Intrinsic Load]] →(operationalizes)→ [[Element-Interactivity|Element Interactivity]] |
+| `analogous-to` | →(analogous-to)→ | Cross-domain parallel | [[Working-Memory|Working Memory]] →(analogous-to)→ [[RAM]] |
 | `precondition-for` | →(precondition-for)→ | Logical dependency | [[Schema Acquisition]] →(precondition-for)→ [[Automation]] |
 | `falsifies` | →(falsifies)→ | Empirical refutation | [[Late Selection Evidence]] →(falsifies)→ [[Early Selection Theory]] |
-| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load Theory]] →(synthesizes)→ [[CLT]] + [[Perceptual Load]] |
+| `synthesizes` | →(synthesizes)→ | Integration of multiple | [[Load Theory]] →(synthesizes)→ [[Cognitive-Load-Theory|CLT]] + [[Perceptual Load]] |
 
 ---
 
@@ -2995,7 +2995,7 @@ for (let letter of sortedLetters) {
 
 - [[Attenuation Model]]
 - [[Automation]]
-- [[CLT]]
+- [[Cognitive-Load-Theory|CLT]]
 - [[Capacity Model]]
 - [[Circle of Competence]]
 - [[Claim]]
@@ -3003,9 +3003,9 @@ for (let letter of sortedLetters) {
 - [[Claim B]]
 - [[Claim-Name-1]]
 - [[Claim-Name-2]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Cognitive Science]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Comprehensive LLM-PKB Integration Systems]]
 - [[Computer Science]]
 - [[Concept]]
@@ -3018,7 +3018,7 @@ for (let letter of sortedLetters) {
 - [[Domain 3]]
 - [[Early Selection Theory]]
 - [[Economics]]
-- [[Element Interactivity]]
+- [[Element-Interactivity|Element Interactivity]]
 - [[Epistemology for Knowledge Workers]]
 - [[Evidence-Based Practice]]
 - [[Expertise Development]]
@@ -3028,19 +3028,19 @@ for (let letter of sortedLetters) {
 - [[First Principles Thinking]]
 - [[History of Cognitive Psychology]]
 - [[Illusion of Competence]]
-- [[Inert Knowledge]]
+- [[Inert-Knowledge|Inert Knowledge]]
 - [[Information Processing]]
 - [[Information Processing Theory]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Instructional Design Principles]]
-- [[Intrinsic Load]]
+- [[Intrinsic-Load|Intrinsic Load]]
 - [[Inversion]]
 - [[Kahneman Capacity Model]]
 - [[Late Selection Evidence]]
 - [[Learning Theory]]
 - [[Load Theory]]
 - [[Map vs Territory]]
-- [[Mental Model]]
+- [[Mental-Model|Mental Model]]
 - [[Mental Model 1]]
 - [[Mental Model 2]]
 - [[Mental Model 3]]
@@ -3071,9 +3071,9 @@ for (let letter of sortedLetters) {
 - [[Target Domain 1]]
 - [[Target Domain 2]]
 - [[Target Domain 3]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[UX Design]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Basics]]
 - [[Working Memory Model]]
 - [[Yerkes-Dodson Law]]

@@ -159,22 +159,22 @@ related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
-  - "[[Epistemic Vigilance]]"
-  - "[[Dual Process Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Argument Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
-  - "[[Transfer of Learning]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Confirmation Bias]]"
-  - "[[Availability Heuristic]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -191,9 +191,9 @@ see-also:
   - "[[Working Memory and Executive Function]]"
   - "[[Expertise Development]]"
   - "[[Reflective Judgment Model]]"
-  - "[[Intellectual Humility]]"
+  - "[[Intellectual-Humility|Intellectual Humility]]"
   - "[[Bayesian Reasoning]]"
-  - "[[Argument Mapping]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
   - "[[Socratic Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
@@ -462,7 +462,7 @@ quality_assessment:
 > You likely have these prerequisites if you've: completed foundational coursework in critical thinking, logic, or reasoning; read introductory texts on thinking skills; or demonstrated practical analytical ability in academic or professional contexts.
 >
 > **Helpful Background**:
-> While not required, understanding of the following would enhance comprehension: [[Dual Process Theory]] (System 1 vs. System 2 thinking), [[Cognitive Load Theory]] (working memory constraints affecting reasoning), [[Argumentation Theory]] (informal logic and argument mapping), [[Decision Theory]] (expected value, probability reasoning), [[Scientific Method]] (hypothesis testing, falsification).
+> While not required, understanding of the following would enhance comprehension: [[Dual-Process-Theory|Dual Process Theory]] (System 1 vs. System 2 thinking), [[Cognitive-Load-Theory|Cognitive Load Theory]] (working memory constraints affecting reasoning), [[Argumentation-Theory|Argumentation Theory]] (informal logic and argument mapping), [[Decision Theory]] (expected value, probability reasoning), [[Scientific Method]] (hypothesis testing, falsification).
 >
 > **Prerequisite Gaps to Address**:
 > If your foundational knowledge is limited, consider first developing: [[Introduction to Critical Thinking]] - core concepts and importance; [[Argument Analysis Fundamentals]] - identifying and evaluating basic arguments; [[Introduction to Metacognition]] - self-monitoring and self-regulation basics. These can be pursued before or in parallel with this topic, but foundational understanding will maximize learning value.
@@ -473,7 +473,7 @@ quality_assessment:
 
 > [!connections-and-links]
 > **Connects To Existing PKB**:
-> This topic creates rich connections to your existing knowledge foundation: **Bidirectional enhancement with [[Metacognition]]** - critical thinking provides concrete domain for metacognitive practice; metacognition enables critical thinking deployment; **Practical application of [[Dual Process Theory]]** - understanding when to engage System 2 analytical reasoning vs. relying on System 1 intuition; **Foundation for [[Epistemic Vigilance]]** - critical thinking as primary tool for evaluating information quality; **Integration with [[Decision Making]]** - critical thinking techniques directly enhance decision quality; **Bridge to [[Cognitive Biases]]** - critical thinking as debiasing mechanism; metacognitive monitoring as bias detection system; **Connection to [[Scientific Reasoning]]** - critical thinking as transferable skill applicable to hypothesis evaluation; **Support for [[Argument Analysis]]** - metacognitive awareness of when and how to deploy argument evaluation techniques.
+> This topic creates rich connections to your existing knowledge foundation: **Bidirectional enhancement with [[Metacognition]]** - critical thinking provides concrete domain for metacognitive practice; metacognition enables critical thinking deployment; **Practical application of [[Dual-Process-Theory|Dual Process Theory]]** - understanding when to engage System 2 analytical reasoning vs. relying on System 1 intuition; **Foundation for [[Epistemic-Vigilance|Epistemic Vigilance]]** - critical thinking as primary tool for evaluating information quality; **Integration with [[Decision Making]]** - critical thinking techniques directly enhance decision quality; **Bridge to [[Cognitive Biases]]** - critical thinking as debiasing mechanism; metacognitive monitoring as bias detection system; **Connection to [[Scientific Reasoning]]** - critical thinking as transferable skill applicable to hypothesis evaluation; **Support for [[Argument Analysis]]** - metacognitive awareness of when and how to deploy argument evaluation techniques.
 >
 > **Opens Pathways To**:
 > Mastering this topic naturally leads to exploration of: [[Socratic Questioning Methodology]] - structured questioning techniques for deeper analysis; [[Intellectual Humility and Epistemic Virtue]] - character traits supporting excellent reasoning; [[Bayesian Reasoning and Probabilistic Thinking]] - quantitative approaches to uncertainty; [[Argument Mapping and Visualization]] - visual tools for complex argument analysis; [[Cognitive Forcing Functions]] - environmental design to support better thinking; [[Epistemic Peer Disagreement]] - handling persistent disagreement between equally-informed reasoners; [[Reflective Equilibrium]] - method for achieving coherence between judgments and principles; [[Pre-Mortem Analysis]] - prospective hindsight for decision quality; [[Red Team Thinking]] - structured adversarial analysis; [[Cognitive Task Analysis]] - breaking down expert reasoning for skill development.
@@ -594,7 +594,7 @@ quality_assessment:
 > 
 > [DEPTH_LEVEL]: In-depth technical analysis with strong practical application focus
 > 
-> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual Process Theory]], [[Cognitive Load Theory]], [[Argument Analysis]], [[Decision Making]], [[Cognitive Biases]], [[Scientific Reasoning]], [[Epistemic Vigilance]]
+> [EXISTING_CONCEPTS]: [[Metacognition]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Argument Analysis]], [[Decision Making]], [[Cognitive Biases]], [[Scientific Reasoning]], [[Epistemic-Vigilance|Epistemic Vigilance]]
 > 
 > [SPECIAL_REQUIREMENTS]: 
 > - Emphasize PRACTICAL APPLICATION over pure theory (user already has foundations)
@@ -701,17 +701,17 @@ Created: 2026-02-01
 ## 🧠 Abstract: The Architecture of Deliberate Reasoning
 
 > [!abstract] 
-> [[Critical Thinking Skills]] and [[Metacognitive Self-Regulation]] constitute a unified cognitive architecture where domain-general reasoning principles combine with domain-specific knowledge activation through metacognitive deployment mechanisms. This comprehensive analysis synthesizes empirical evidence from the [[PENCRISAL]] assessment framework, [[Metacognitive Awareness Inventory]], and [[Epistemic Vigilance]] research to establish practical frameworks for recognizing when to deploy specific reasoning strategies, calibrating self-assessment accuracy, and systematically debugging reasoning errors. The central challenge addressed is not whether critical thinking skills exist, but rather how to achieve reliable transfer across contexts through structured metacognitive control that bridges the gap between possessing cognitive tools and deploying them appropriately in naturalistic decision-making environments.
+> [[Critical Thinking Skills]] and [[Metacognitive Self-Regulation]] constitute a unified cognitive architecture where domain-general reasoning principles combine with domain-specific knowledge activation through metacognitive deployment mechanisms. This comprehensive analysis synthesizes empirical evidence from the [[PENCRISAL]] assessment framework, [[Metacognitive Awareness Inventory]], and [[Epistemic-Vigilance|Epistemic Vigilance]] research to establish practical frameworks for recognizing when to deploy specific reasoning strategies, calibrating self-assessment accuracy, and systematically debugging reasoning errors. The central challenge addressed is not whether critical thinking skills exist, but rather how to achieve reliable transfer across contexts through structured metacognitive control that bridges the gap between possessing cognitive tools and deploying them appropriately in naturalistic decision-making environments.
 
 > [!definition] Critical Thinking as Metacognitively-Regulated Reasoning
-> **[[Critical Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
+> **[[Critical-Thinking|Critical Thinking]]** is defined operationally as the deliberate application of reasoning skills and strategies that increase the probability of reaching sound conclusions through purposeful, reflective judgment, mediated by metacognitive monitoring and control processes that regulate strategy selection, execution monitoring, and error correction. This definition emphasizes that critical thinking is fundamentally a *metacognitive process* rather than simply a collection of reasoning techniques, distinguishing skilled critical thinkers not by their possession of reasoning tools but by their ability to deploy them appropriately based on task characteristics and contextual demands.
 
 ## 🎯 The Deployment Challenge: From Skills to Situated Performance
 
 The fundamental problem facing critical thinking development is not knowledge acquisition but knowledge deployment. As [[Diane Halpern]]'s seminal research on transfer demonstrates, individuals can possess sophisticated reasoning skills yet fail to apply them when situations demand their use. This phenomenon, termed the **[[Transfer Problem]]** in educational psychology, manifests when students successfully demonstrate critical thinking in structured academic contexts but revert to intuitive, heuristic-based reasoning in real-world decision making. [[Daniel Willingham]]'s analysis reveals that even domain experts exhibit constrained transfer, with neurologists demonstrating poor diagnostic reasoning in cardiac cases and professional philosophers being swayed by irrelevant problem features despite their training in logical analysis. The implication is stark: critical thinking competence requires more than acquiring reasoning techniques; it demands developing *recognition patterns* that trigger appropriate strategy deployment and *metacognitive architectures* that regulate execution.
 
 > [!the-philosophy]
-> The core philosophical commitment underlying effective critical thinking deployment is that **reasoning is situationally activated rather than continuously engaged**. Unlike the idealized vision of the perpetual critical thinker who subjects every claim to rigorous analysis, functional critical thinking operates through selective deployment triggered by recognition of specific situational features. This pragmatic stance aligns with [[Dual Process Theory]], which distinguishes between fast, automatic [[System 1]] processing and slow, deliberate [[System 2]] reasoning, but adds the critical dimension of *metacognitive control* that determines when to override automatic processing with deliberate analysis.
+> The core philosophical commitment underlying effective critical thinking deployment is that **reasoning is situationally activated rather than continuously engaged**. Unlike the idealized vision of the perpetual critical thinker who subjects every claim to rigorous analysis, functional critical thinking operates through selective deployment triggered by recognition of specific situational features. This pragmatic stance aligns with [[Dual-Process-Theory|Dual Process Theory]], which distinguishes between fast, automatic [[System-1|System 1]] processing and slow, deliberate [[System-2|System 2]] reasoning, but adds the critical dimension of *metacognitive control* that determines when to override automatic processing with deliberate analysis.
 
 ### The Structure Training Imperative
 
@@ -728,12 +728,12 @@ The challenge, as [[Robert Ennis]] and [[John McPeck]]'s debate highlights, is t
 > [!atomic-concept] Three Types of Metacognitive Knowledge
 > **[[Declarative Knowledge]]** represents awareness of what cognitive resources exist ("I know that confirmation bias can distort my evaluation of evidence"), **[[Procedural Knowledge]]** captures understanding of how to execute cognitive strategies ("I know that I should actively seek disconfirming evidence when evaluating my hypothesis"), and **[[Conditional Knowledge]]** specifies when and why particular strategies apply ("I should deploy formal hypothesis testing when stakes are high and I have time for deliberate analysis, but rely on heuristic reasoning for routine low-stakes decisions").
 
-The functional importance of conditional knowledge for critical thinking deployment cannot be overstated. While declarative and procedural knowledge enable competent execution of reasoning strategies once activated, conditional knowledge determines *whether activation occurs*. Research using the MAI demonstrates that conditional knowledge correlates most strongly with transfer success, as it provides the recognition patterns that match situational features to appropriate strategies. For example, a learner with strong conditional knowledge recognizes that persuasive communication contexts demand heightened [[Epistemic Vigilance]]—systematic evaluation of source credibility and claim plausibility—while collaborative problem-solving contexts benefit from [[Confirmation Bias]] (each participant advocating for their position creates efficient division of cognitive labor, as [[Hugo Mercier]] and [[Dan Sperber]]'s argumentative theory of reasoning demonstrates).
+The functional importance of conditional knowledge for critical thinking deployment cannot be overstated. While declarative and procedural knowledge enable competent execution of reasoning strategies once activated, conditional knowledge determines *whether activation occurs*. Research using the MAI demonstrates that conditional knowledge correlates most strongly with transfer success, as it provides the recognition patterns that match situational features to appropriate strategies. For example, a learner with strong conditional knowledge recognizes that persuasive communication contexts demand heightened [[Epistemic-Vigilance|Epistemic Vigilance]]—systematic evaluation of source credibility and claim plausibility—while collaborative problem-solving contexts benefit from [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] (each participant advocating for their position creates efficient division of cognitive labor, as [[Hugo Mercier]] and [[Dan Sperber]]'s argumentative theory of reasoning demonstrates).
 
 ### Regulation of Cognition: The Executive Control Mechanisms
 
 > [!core-principle] Five Regulatory Mechanisms
-> [[Metacognitive Regulation]] operates through five integrated mechanisms that govern reasoning execution. **Planning** involves selecting appropriate strategies and allocating cognitive resources before task engagement, establishing success criteria and anticipating obstacles. **Information Management** optimizes cognitive load by organizing incoming data, prioritizing relevant information, and offloading working memory through external supports. **Monitoring** tracks ongoing performance through continuous assessment of comprehension, progress toward goals, and strategy effectiveness. **Debugging Strategies** detect and correct comprehension errors, performance failures, and reasoning flaws through systematic error analysis. **Evaluation** appraises both the regulatory process itself and the quality of final products against established criteria, supporting iterative improvement through feedback incorporation.
+> [[Metacognitive-Regulation|Metacognitive Regulation]] operates through five integrated mechanisms that govern reasoning execution. **Planning** involves selecting appropriate strategies and allocating cognitive resources before task engagement, establishing success criteria and anticipating obstacles. **Information Management** optimizes cognitive load by organizing incoming data, prioritizing relevant information, and offloading working memory through external supports. **Monitoring** tracks ongoing performance through continuous assessment of comprehension, progress toward goals, and strategy effectiveness. **Debugging Strategies** detect and correct comprehension errors, performance failures, and reasoning flaws through systematic error analysis. **Evaluation** appraises both the regulatory process itself and the quality of final products against established criteria, supporting iterative improvement through feedback incorporation.
 
 The practical deployment of these mechanisms requires understanding their conditional activation patterns. Planning engages most strongly in *unfamiliar* problem contexts where automatic responses may be unreliable, in *high-stakes* situations where errors have significant consequences, and in *complex* scenarios involving multiple interacting variables. Monitoring intensifies when *subjective difficulty* exceeds expectations (signaling potential comprehension failures), when *time pressure* exists (requiring progress tracking against deadlines), and when *error signals* emerge (unexpected results, logical contradictions, or discrepancies with prior knowledge). Evaluation activates after *completed reasoning episodes* to extract generalizable lessons and recalibrate strategy selection for future deployment.
 
@@ -755,7 +755,7 @@ The practical implication is that improving critical thinking deployment require
 
 ### Epistemic Vigilance Triggers
 
-[[Dan Sperber]], [[Hugo Mercier]], and colleagues' research on [[Epistemic Vigilance]] identifies specific recognition patterns that activate systematic source and claim evaluation. These evolved cognitive mechanisms detect **trust-violation signals** that indicate potential misinformation, either through source characteristics (unfamiliarity, perceived incompetence, demonstrated dishonesty, conflicting incentives) or claim features (implausibility given background knowledge, logical inconsistency, lack of supporting evidence, alignment with source's interests rather than truth).
+[[Dan Sperber]], [[Hugo Mercier]], and colleagues' research on [[Epistemic-Vigilance|Epistemic Vigilance]] identifies specific recognition patterns that activate systematic source and claim evaluation. These evolved cognitive mechanisms detect **trust-violation signals** that indicate potential misinformation, either through source characteristics (unfamiliarity, perceived incompetence, demonstrated dishonesty, conflicting incentives) or claim features (implausibility given background knowledge, logical inconsistency, lack of supporting evidence, alignment with source's interests rather than truth).
 
 > [!insight]
 > The [[Extended Epistemic Vigilance Framework]] adds a critical third dimension: evaluating **the receiver's own cognitive state**. Beyond assessing source credibility and claim plausibility, effective critical thinkers recognize when their own biased thinking, emotional state, or contextual pressures may distort information processing. This self-directed vigilance activates when recognizing strong emotional reactions to claims (suggesting motivated reasoning), alignment between claims and existing beliefs (requiring extra scrutiny due to confirmation bias), or social pressures favoring particular conclusions (demanding conscious resistance to conformity).
@@ -769,11 +769,11 @@ Addressing the [[Transfer Problem]] requires developing recognition patterns for
 > [!atomic-concept] Core Structural Patterns Enabling Transfer
 > **Trade-off structures** appear whenever decisions involve competing values or goals with no objectively optimal weighting (healthcare policy debates, personal career choices, resource allocation problems). Recognizing this structure triggers multi-criteria decision analysis frameworks that systematically evaluate options across weighted dimensions. **Causal reasoning structures** emerge when understanding mechanism or predicting outcomes requires distinguishing genuine causation from correlation, confounding, or reverse causation—triggering hypothesis testing, controlled comparison, or mechanism analysis strategies. **Argument structures** manifest when claims rest on explicit or implicit premises that can be evaluated for validity, soundness, and strength—activating formal argument analysis techniques including premise identification, inference evaluation, and alternative explanation generation.
 
-The recognition training protocol involves **contrastive case analysis** where learners examine multiple superficially different problems sharing underlying structures, explicitly mapping surface features to deep structures and practicing structure-based categorization. For instance, comparing a medical diagnosis problem (doctor reasoning from symptoms to disease), a car repair problem (mechanic reasoning from symptoms to malfunction), and a software debugging problem (programmer reasoning from errors to code defects) reveals their shared structure of **[[Abductive Reasoning]]** (inference to best explanation). Once this structural pattern is recognized across domains, diagnostic reasoning strategies transfer fluidly across medical, mechanical, and computational contexts.
+The recognition training protocol involves **contrastive case analysis** where learners examine multiple superficially different problems sharing underlying structures, explicitly mapping surface features to deep structures and practicing structure-based categorization. For instance, comparing a medical diagnosis problem (doctor reasoning from symptoms to disease), a car repair problem (mechanic reasoning from symptoms to malfunction), and a software debugging problem (programmer reasoning from errors to code defects) reveals their shared structure of **[[Abductive-Reasoning|Abductive Reasoning]]** (inference to best explanation). Once this structural pattern is recognized across domains, diagnostic reasoning strategies transfer fluidly across medical, mechanical, and computational contexts.
 
 ## 📊 Self-Assessment Frameworks: Calibrating Metacognitive Accuracy
 
-Effective critical thinking requires not only accurate reasoning but also accurate self-assessment of reasoning quality. [[Metacognitive Calibration]] represents the alignment between subjective confidence in conclusions and objective accuracy, with well-calibrated thinkers demonstrating appropriate confidence (high confidence for accurate conclusions, low confidence for errors) while poorly calibrated thinkers suffer from overconfidence or underconfidence biases that undermine decision quality.
+Effective critical thinking requires not only accurate reasoning but also accurate self-assessment of reasoning quality. [[Metacognitive-Calibration|Metacognitive Calibration]] represents the alignment between subjective confidence in conclusions and objective accuracy, with well-calibrated thinkers demonstrating appropriate confidence (high confidence for accurate conclusions, low confidence for errors) while poorly calibrated thinkers suffer from overconfidence or underconfidence biases that undermine decision quality.
 
 ### The MAI-Based Self-Assessment Protocol
 
@@ -818,9 +818,9 @@ The practical challenge is that error detection depends on active monitoring, ye
 
 Once error detection triggers debugging, systematic diagnosis identifies the specific failure mode to enable targeted correction. [[Cognitive Biases]] represent the most common systematic reasoning errors, operating through predictable patterns that can be diagnosed through their characteristic signatures.
 
-**[[Confirmation Bias]]** manifests when evidence search focuses exclusively on information supporting initial hypotheses while neglecting contradictory evidence. Diagnosis involves examining evidence collection patterns: Did you actively seek disconfirming evidence or only confirmatory examples? Did you give equal weight to contradictory information or dismiss it too readily? Did you generate alternative hypotheses and test them systematically or commit prematurely to initial impressions? Correction requires implementing structured **disconfirmation search** where deliberate effort targets evidence that would falsify current conclusions, combined with **alternative hypothesis generation** that forces consideration of multiple explanations rather than anchoring on initial theories.
+**[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]** manifests when evidence search focuses exclusively on information supporting initial hypotheses while neglecting contradictory evidence. Diagnosis involves examining evidence collection patterns: Did you actively seek disconfirming evidence or only confirmatory examples? Did you give equal weight to contradictory information or dismiss it too readily? Did you generate alternative hypotheses and test them systematically or commit prematurely to initial impressions? Correction requires implementing structured **disconfirmation search** where deliberate effort targets evidence that would falsify current conclusions, combined with **alternative hypothesis generation** that forces consideration of multiple explanations rather than anchoring on initial theories.
 
-**[[Availability Heuristic]]** errors occur when probability judgments reflect memory accessibility rather than actual frequency, with vivid, recent, or emotionally salient events being overweighted. Diagnosis examines whether probability estimates align with statistical base rates or instead track memorable instances: Are you overestimating risks of dramatic events (plane crashes, terrorist attacks) while underestimating common hazards (car accidents, heart disease)? Correction involves consulting **base rate statistics** that ground probability judgments in objective frequencies rather than subjective memory accessibility, combined with **reference class analysis** that identifies appropriate comparison populations for probability estimation.
+**[[Availability-Heuristic|Availability Heuristic]]** errors occur when probability judgments reflect memory accessibility rather than actual frequency, with vivid, recent, or emotionally salient events being overweighted. Diagnosis examines whether probability estimates align with statistical base rates or instead track memorable instances: Are you overestimating risks of dramatic events (plane crashes, terrorist attacks) while underestimating common hazards (car accidents, heart disease)? Correction involves consulting **base rate statistics** that ground probability judgments in objective frequencies rather than subjective memory accessibility, combined with **reference class analysis** that identifies appropriate comparison populations for probability estimation.
 
 **[[Anchoring Bias]]** creates insufficient adjustment from initial values, whether arbitrary anchors (random numbers, first offers in negotiation) or informational anchors (initial estimates, starting assumptions). Diagnosis detects anchoring by examining whether final judgments remain suspiciously close to starting values despite receiving substantial additional information, or whether different starting points would have led to different conclusions for identical evidence. Correction requires **consider-the-opposite** strategies that force generation of arguments supporting conclusions distant from anchors, combined with **anchor-independent estimation** that derives judgments from first principles rather than adjusting from potentially contaminated starting values.
 
@@ -849,7 +849,7 @@ The practical implication is that critical thinking instruction should explicitl
 Effective critical thinking architecture establishes **feedback loops** where monitoring outputs inform planning (recognizing that current strategies are inadequate triggers strategy revision), evaluation results inform future monitoring (identifying previously undetected error patterns increases vigilance for similar errors), and debugging successes inform conditional knowledge (successful error correction in one context suggests that similar corrections may apply in structurally similar situations).
 
 > [!insight]
-> The integration of [[Metacognitive Regulation]] components creates emergent properties that exceed the sum of individual mechanisms. Planning becomes more sophisticated as it incorporates lessons from past monitoring and evaluation; monitoring becomes more targeted as it focuses on previously identified error-prone areas; evaluation becomes more rigorous as it applies progressively refined quality criteria; debugging becomes more efficient as it pattern-matches current errors to previously diagnosed failures. This progressive refinement, operating through accumulated feedback across many reasoning episodes, constitutes the essence of developing critical thinking expertise.
+> The integration of [[Metacognitive-Regulation|Metacognitive Regulation]] components creates emergent properties that exceed the sum of individual mechanisms. Planning becomes more sophisticated as it incorporates lessons from past monitoring and evaluation; monitoring becomes more targeted as it focuses on previously identified error-prone areas; evaluation becomes more rigorous as it applies progressively refined quality criteria; debugging becomes more efficient as it pattern-matches current errors to previously diagnosed failures. This progressive refinement, operating through accumulated feedback across many reasoning episodes, constitutes the essence of developing critical thinking expertise.
 
 The practical deployment challenge is ensuring feedback loops actually close—that monitoring outputs influence planning, evaluation results modify future monitoring, and debugging insights generalize beyond specific instances. This requires deliberate **reflection routines** where learners explicitly extract lessons from reasoning episodes: "What worked well in my approach that I should repeat?" "What monitoring signals did I miss that would have caught errors earlier?" "What patterns am I noticing across multiple debugging episodes that suggest systematic weaknesses?" Without structured reflection, experience accumulates without producing learning, as feedback remains unprocessed and unintegrated.
 
@@ -1067,14 +1067,14 @@ The MAI operationalizes these constructs through 52 items yielding **Knowledge o
 
 ### When Does Critical Thinking Get Triggered?
 
-Most treatments of critical thinking focus on the *what*—the skills themselves—while neglecting the *when*. This is architecturally backwards. [[Critical thinking]] skills lie dormant until situational cues trigger their deployment. Advanced practitioners fail not because they lack skills but because they fail to **recognize situations requiring those skills**.
+Most treatments of critical thinking focus on the *what*—the skills themselves—while neglecting the *when*. This is architecturally backwards. [[Critical-Thinking|Critical thinking]] skills lie dormant until situational cues trigger their deployment. Advanced practitioners fail not because they lack skills but because they fail to **recognize situations requiring those skills**.
 
 > [!core-principle] **Deployment Primacy**
 > The limiting factor in critical thinking performance is rarely skill deficiency—it's **recognition failure**. You possess deductive reasoning capabilities, but if you don't recognize an argument as requiring deductive analysis, those capabilities remain inactive. Effective critical thinking thus requires cultivating a **pattern recognition system** that maps situational features to deployment decisions.
 
 ### Situational Triggers for Critical Thinking Deployment
 
-Research on [[epistemic vigilance]] (Sperber et al., 2010) identifies cognitive mechanisms that evolved to evaluate communicated information, protecting against misinformation. The Extended Epistemic Vigilance Framework (EEVF) provides a practical deployment taxonomy:
+Research on [[Epistemic-Vigilance|epistemic vigilance]] (Sperber et al., 2010) identifies cognitive mechanisms that evolved to evaluate communicated information, protecting against misinformation. The Extended Epistemic Vigilance Framework (EEVF) provides a practical deployment taxonomy:
 
 > [!argument] **Three-Dimensional Evaluation Framework**
 > **Dimension 1: Source Evaluation**
@@ -1144,8 +1144,8 @@ PENCRISAL demonstrates strong psychometric properties: test-retest reliability $
 > - [[Argument Analysis]] → Practical Reasoning (PR) + Deductive Reasoning (DR)
 > - [[Decision Making]] → Decision-Making (DM) dimension
 > - [[Scientific Reasoning]] → Inductive Reasoning (IR) + Problem-Solving (PS)
-> - [[Dual Process Theory]] → Explains when heuristic (System 1) vs deliberate (System 2) reasoning is deployed
-> - [[Cognitive Load Theory]] → Informs why complex problems require systematic decomposition
+> - [[Dual-Process-Theory|Dual Process Theory]] → Explains when heuristic (System 1) vs deliberate (System 2) reasoning is deployed
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] → Informs why complex problems require systematic decomposition
 
 ---
 
@@ -1569,13 +1569,13 @@ These portable standards enable quality assessment even in unfamiliar domains—
 > [!connections-and-links] **Knowledge Graph Bridges**
 > This exposition connects to your existing vault:
 > - [[Metacognition]] ← Detailed operational architecture presented here
-> - [[Dual Process Theory]] ← Explains when System 1 heuristics vs System 2 deliberation deploy
-> - [[Cognitive Load Theory]] ← Constrains working memory during analytical processing
+> - [[Dual-Process-Theory|Dual Process Theory]] ← Explains when System 1 heuristics vs System 2 deliberation deploy
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] ← Constrains working memory during analytical processing
 > - [[Argument Analysis]] ← Practical reasoning dimension of PENCRISAL
 > - [[Decision Making]] ← Decision-making dimension of PENCRISAL  
 > - [[Cognitive Biases]] ← Error patterns requiring debugging protocols
 > - [[Scientific Reasoning]] ← Inductive reasoning + problem-solving dimensions
-> - [[Epistemic Vigilance]] ← Recognition patterns for deployment triggers
+> - [[Epistemic-Vigilance|Epistemic Vigilance]] ← Recognition patterns for deployment triggers
 
 > [!further-exploration] **Expansion Topics**
 > This treatment generates several high-value expansion opportunities:

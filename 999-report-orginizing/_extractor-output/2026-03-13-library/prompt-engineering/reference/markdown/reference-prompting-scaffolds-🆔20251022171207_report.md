@@ -292,7 +292,7 @@ extraction_summary:
 - [[Safety Pass / Constitutional Critique]]
 - [[Self-Ask with Search]]
 - [[Self-Consistency]]
-- [[Self-Consistency (SC)]]
+- [[Self-Consistency|Self-Consistency (SC)]]
 - [[Structured Output (JSON/Schemas)]]
 - [[Tree-of-Thoughts]]
 - [[Tree-of-Thoughts (ToT)]]
@@ -308,7 +308,7 @@ extraction_summary:
 | 3 | [[Obsidian]] | — | — | Visual Map of the Space | 104 |
 | 4 | [[Name (Acronym)]] | — | — | Technique Cards (what it is • how it ... | 153 |
 | 5 | [[Chain-of-Thought (CoT)]] | — | — | Reasoning & Search | 162 |
-| 6 | [[Self-Consistency (SC)]] | — | — | Reasoning & Search | 168 |
+| 6 | [[Self-Consistency|Self-Consistency (SC)]] | — | — | Reasoning & Search | 168 |
 | 7 | [[Self-Ask with Search]] | — | — | Reasoning & Search | 174 |
 | 8 | [[Tree-of-Thoughts (ToT)]] | — | — | Reasoning & Search | 180 |
 | 9 | [[Graph-of-Thoughts (GoT)]] | — | — | Reasoning & Search | 186 |
@@ -426,7 +426,7 @@ extraction_summary:
 ### Code Block 5 — `plaintext` *(Lines 167-171)*
 
 ```plaintext
-**Technique:** `[[Self-Consistency (SC)]]`
+**Technique:** `[[Self-Consistency|Self-Consistency (SC)]]`
 **Description:** Rather than trusting a single chain, SC samples **multiple reasoning paths**, then **majority-votes** the final answer by marginalizing over chains. This stabilizes brittle single-trajectory errors and boosts accuracy across GSM8K, SVAMP, StrategyQA, etc. SC is a **decoding strategy**, not a prompt; pair it with CoT prompts. ([arXiv][2])
 **Best Practices:** Generate 5–20 independent chains with mild temperature; majority-vote the **final answer** (not the paths); filter obviously invalid units before voting.
 ```
@@ -799,7 +799,7 @@ mindmap
 - [[Safety Pass / Constitutional Critique]]
 - [[Self-Ask with Search]]
 - [[Self-Consistency]]
-- [[Self-Consistency (SC)]]
+- [[Self-Consistency|Self-Consistency (SC)]]
 - [[Structured Output (JSON/Schemas)]]
 - [[Tree-of-Thoughts]]
 - [[Tree-of-Thoughts (ToT)]]

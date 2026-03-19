@@ -290,13 +290,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Integration with Existing Cognitive Frameworks**
 > 
-> Understanding Stoicism's historical development illuminates its connections to multiple domains within a comprehensive knowledge system. **[[Epistemology]]** emerges as central to Stoic thought through their debate with Academic Skeptics over the possibility and criteria of knowledge, particularly their theory of kataleptic impressions as self-evidencing truth. This connects to **[[Cognitive Science]]** through Stoic psychology of judgment and its anticipation of cognitive-behavioral therapy—the recognition that emotions result from evaluative beliefs that can be modified through rational examination. The Stoic emphasis on **[[Cognitive Biases]]** in the form of false judgments about value anticipates modern research on how systematic errors in thinking create suffering.
+> Understanding Stoicism's historical development illuminates its connections to multiple domains within a comprehensive knowledge system. **[[Epistemic-Autonomy-—-Epistemology|Epistemology]]** emerges as central to Stoic thought through their debate with Academic Skeptics over the possibility and criteria of knowledge, particularly their theory of kataleptic impressions as self-evidencing truth. This connects to **[[Cognitive-Science|Cognitive Science]]** through Stoic psychology of judgment and its anticipation of cognitive-behavioral therapy—the recognition that emotions result from evaluative beliefs that can be modified through rational examination. The Stoic emphasis on **[[Cognitive Biases]]** in the form of false judgments about value anticipates modern research on how systematic errors in thinking create suffering.
 > 
 > **[[Political Philosophy]]** developed through Stoicism's transition from Greek city-state context to cosmopolitan Roman Empire, particularly their articulation of cosmopolitanism as moral framework transcending parochial loyalties. The tension between Stoic ideals and political realities visible in figures like Seneca and Marcus Aurelius connects to **[[Virtue Ethics]]** and its application in non-ideal circumstances. **[[Systems Thinking]]** appears in Stoic physics and its vision of cosmic interconnection, where individual events gain meaning through their place in larger rational order—an ancient anticipation of holistic approaches to understanding complex systems.
 > 
 > **[[Learning Theory]]** emerges through Epictetus's emphasis on *askēsis* and deliberate practice, recognizing that intellectual understanding alone doesn't change behavior without systematic training—a principle confirmed by modern research on habit formation and skill acquisition. Stoicism's therapeutic dimension connects to **[[Positive Psychology]]** through its focus on human flourishing, resilience, and the cultivation of practical wisdom rather than mere theoretical knowledge. The historical evolution from early systematic philosophy to late practical ethics demonstrates how **[[Paradigm Shifts]]** occur when changing circumstances demand new emphases while preserving core commitments.
 > 
-> **[[Comparative Philosophy]]** benefits from examining Stoicism alongside other Hellenistic schools and Eastern traditions like Buddhism, which share concerns about suffering's origins and techniques for achieving equanimity. The Stoic concept of [[Logos]] connects to **[[Philosophy of Language]]** and questions about reason's relationship to reality, while their materialism despite theological commitments creates interesting tensions explored in **[[Philosophy of Mind]]** regarding consciousness, free will, and the nature of rational agency. These connections demonstrate how studying Stoicism's origins enriches understanding across multiple domains while revealing the interconnected character of philosophical inquiry.
+> **[[Comparative Philosophy]]** benefits from examining Stoicism alongside other Hellenistic schools and Eastern traditions like Buddhism, which share concerns about suffering's origins and techniques for achieving equanimity. The Stoic concept of [[Logos]] connects to **[[Philosophy of Language]]** and questions about reason's relationship to reality, while their materialism despite theological commitments creates interesting tensions explored in **[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]** regarding consciousness, free will, and the nature of rational agency. These connections demonstrate how studying Stoicism's origins enriches understanding across multiple domains while revealing the interconnected character of philosophical inquiry.
 
 #### 22. [SUMMARY] Untitled *(Line 380)*
 
@@ -362,7 +362,7 @@ extraction_summary:
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
 - [[Cognitive Biases]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Commodus]]
 - [[Comparative Philosophy]]
 - [[Cosmopolitanism and Stoic Political Philosophy]]
@@ -380,7 +380,7 @@ extraction_summary:
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Epicurus]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Epistulae Morales ad Lucilium]]
 - [[Gaius Musonius Rufus]]
 - [[Garden]]
@@ -398,7 +398,7 @@ extraction_summary:
 - [[Paradigm Shifts]]
 - [[Pax Romana]]
 - [[Philosophy of Language]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
 - [[Platonic philosophy]]
 - [[Political Philosophy]]
@@ -528,8 +528,8 @@ extraction_summary:
 | 83 | [[social duty]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 351 |
 | 84 | [[Pax Romana]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 355 |
 | 85 | [[Commodus]] | — | — | Marcus Aurelius: The Philosopher-Emperor | 355 |
-| 86 | [[Epistemology]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
-| 87 | [[Cognitive Science]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
+| 86 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
+| 87 | [[Cognitive-Science|Cognitive Science]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
 | 88 | [[Cognitive Biases]] | — | — | ⚡ Historical Context and Philosophica... | 362 |
 | 89 | [[Political Philosophy]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
 | 90 | [[Virtue Ethics]] | — | — | ⚡ Historical Context and Philosophica... | 364 |
@@ -540,7 +540,7 @@ extraction_summary:
 | 95 | [[Comparative Philosophy]] | — | — | ⚡ Historical Context and Philosophica... | 368 |
 | 96 | [[Logos]] | — | — | ⚡ Historical Context and Philosophica... | 368 |
 | 97 | [[Philosophy of Language]] | — | — | ⚡ Historical Context and Philosophica... | 368 |
-| 98 | [[Philosophy of Mind]] | — | — | ⚡ Historical Context and Philosophica... | 368 |
+| 98 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | ⚡ Historical Context and Philosophica... | 368 |
 | 99 | [[Cato the Younger]] | — | — | ⚡ Historical Context and Philosophica... | 376 |
 | 100 | [[Stoic Opposition]] | — | — | ⚡ Historical Context and Philosophica... | 376 |
 | 101 | [[Stoic Physics and Cosmology]] | — | — | 🔗 Related Topics for PKB Expansion | 422 |
@@ -675,7 +675,7 @@ LIMIT 15
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
 - [[Cognitive Biases]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Commodus]]
 - [[Comparative Philosophy]]
 - [[Cosmopolitanism and Stoic Political Philosophy]]
@@ -693,7 +693,7 @@ LIMIT 15
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Epicurus]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Epistulae Morales ad Lucilium]]
 - [[Gaius Musonius Rufus]]
 - [[Garden]]
@@ -711,7 +711,7 @@ LIMIT 15
 - [[Paradigm Shifts]]
 - [[Pax Romana]]
 - [[Philosophy of Language]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Plato]]
 - [[Platonic philosophy]]
 - [[Political Philosophy]]

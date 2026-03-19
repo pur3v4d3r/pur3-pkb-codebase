@@ -489,18 +489,18 @@ extraction_summary:
 - [[Active Recall vs. Passive Review]]
 - [[Anki]]
 - [[Cloze Deletion]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Dataview]]
-- [[Desirable Difficulties]]
-- [[Dual Coding Theory]]
-- [[Educational Technology]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]]
 - [[Effective Flashcard Design]]
 - [[FSRS Algorithm]]
 - [[Introduction to Spaced Repetition in Obsidian]]
 - [[Learning Science]]
 - [[Linking Your Thinking (LYT)]]
-- [[Maps of Content (MOCs)]]
+- [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Markdown]]
 - [[Metacognition]]
 - [[Obsidian]]
@@ -509,8 +509,8 @@ extraction_summary:
 - [[Obsidian Spaced Repetition Recall]]
 - [[Obsidian Tags]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]
 - [[Study Strategies]]
 - [[SuperMemo]]
@@ -526,7 +526,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Introduction to Spaced Repetition in Obsidian]] | — | — | Document Start | 39 |
 | 2 | [[Obsidian]] | — | — | 📖 Introduction to Spaced Repetition i... | 388 |
-| 3 | [[Personal Knowledge Base]] | — | — | 📖 Introduction to Spaced Repetition i... | 388 |
+| 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📖 Introduction to Spaced Repetition i... | 388 |
 | 4 | [[Zettelkasten]] | — | — | 📖 Introduction to Spaced Repetition i... | 390 |
 | 5 | [[PARA Method]] | — | — | 📖 Introduction to Spaced Repetition i... | 390 |
 | 6 | [[Cloze Deletion]] | cloze deletions | — | Key Capabilities | 399 |
@@ -535,31 +535,31 @@ extraction_summary:
 | 9 | [[FSRS Algorithm]] | FSRS | — | Key Capabilities | 403 |
 | 10 | [[Obsidian]] | — | — | Standard Installation | 413 |
 | 11 | [[YAML Frontmatter]] | frontmatter tags | — | Tag-Based Decks (Recommended for Most... | 670 |
-| 12 | [[Maps of Content (MOCs)]] | MOCs | — | 📝 Whole-Note Review | 743 |
+| 12 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | MOCs | — | 📝 Whole-Note Review | 743 |
 | 13 | [[SuperMemo]] | SM-2 algorithm | — | 🧮 Scheduling Algorithm: SM-2-OSR | 793 |
 | 14 | [[Obsidian Spaced Repetition Recall]] | obsidian-spaced-repetition-recall | — | Future Algorithm: FSRS | 850 |
 | 15 | [[Obsidian Spaced Repetition Recall]] | — | — | Scheduling Data Location | 956 |
 | 16 | [[Obsidian Git]] | — | — | Backup Strategy | 962 |
 | 17 | [[Obsidian Publish]] | publish | — | Backup Strategy | 963 |
 | 18 | [[Anki]] | — | — | Migrating from Anki | 967 |
-| 19 | [[Personal Knowledge Management]] | — | — | PKM System Integration | 1121 |
+| 19 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | PKM System Integration | 1121 |
 | 20 | [[Zettelkasten]] | — | — | PKM System Integration | 1123 |
 | 21 | [[PARA Method]] | — | — | PKM System Integration | 1128 |
 | 22 | [[Linking Your Thinking (LYT)]] | — | — | PKM System Integration | 1135 |
-| 23 | [[Maps of Content (MOCs)]] | MOCs | — | PKM System Integration | 1136 |
+| 23 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | MOCs | — | PKM System Integration | 1136 |
 | 24 | [[Dataview]] | — | — | Plugin Synergies | 1141 |
 | 25 | [[Templater]] | — | — | Plugin Synergies | 1149 |
 | 26 | [[Tasks Plugin]] | — | — | Flashcards | 1161 |
-| 27 | [[Cognitive Load Theory]] | — | — | Flashcards | 1164 |
+| 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Flashcards | 1164 |
 | 28 | [[Spaced Repetition Theory]] | — | — | Related Concepts for PKB Expansion | 1173 |
-| 29 | [[Cognitive Psychology]] | — | — | Related Concepts for PKB Expansion | 1176 |
-| 30 | [[Educational Technology]] | — | — | Related Concepts for PKB Expansion | 1176 |
+| 29 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Related Concepts for PKB Expansion | 1176 |
+| 30 | [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]] | — | — | Related Concepts for PKB Expansion | 1176 |
 | 31 | [[SuperMemo Algorithm (SM-2)]] | — | — | Related Concepts for PKB Expansion | 1178 |
 | 32 | [[FSRS Algorithm]] | FSRS | — | Related Concepts for PKB Expansion | 1180 |
 | 33 | [[Effective Flashcard Design]] | — | — | Related Concepts for PKB Expansion | 1183 |
-| 34 | [[Cognitive Load Theory]] | — | — | Related Concepts for PKB Expansion | 1186 |
-| 35 | [[Dual Coding Theory]] | — | — | Related Concepts for PKB Expansion | 1186 |
-| 36 | [[Desirable Difficulties]] | — | — | Related Concepts for PKB Expansion | 1186 |
+| 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Related Concepts for PKB Expansion | 1186 |
+| 35 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | Related Concepts for PKB Expansion | 1186 |
+| 36 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Related Concepts for PKB Expansion | 1186 |
 | 37 | [[Active Recall vs. Passive Review]] | — | — | Related Concepts for PKB Expansion | 1188 |
 | 38 | [[Learning Science]] | — | — | Related Concepts for PKB Expansion | 1191 |
 | 39 | [[Metacognition]] | — | — | Related Concepts for PKB Expansion | 1191 |
@@ -997,7 +997,7 @@ tags: [#flashcards/<% tp.file.folder() %>]
 ### Code Block 35 — `markdown` *(Lines 1163-1165)*
 
 ```markdown
-- [ ] Convert [[Cognitive Load Theory]] notes to flashcards #task/learning
+- [ ] Convert [[Cognitive-Load-Theory|Cognitive Load Theory]] notes to flashcards #task/learning
 ```
 
 ### Code Block 36 — `dataviewjs` *(Lines 1202-1235)*
@@ -1168,18 +1168,18 @@ for (let letter of sortedLetters) {
 - [[Active Recall vs. Passive Review]]
 - [[Anki]]
 - [[Cloze Deletion]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Dataview]]
-- [[Desirable Difficulties]]
-- [[Dual Coding Theory]]
-- [[Educational Technology]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]]
 - [[Effective Flashcard Design]]
 - [[FSRS Algorithm]]
 - [[Introduction to Spaced Repetition in Obsidian]]
 - [[Learning Science]]
 - [[Linking Your Thinking (LYT)]]
-- [[Maps of Content (MOCs)]]
+- [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Markdown]]
 - [[Metacognition]]
 - [[Obsidian]]
@@ -1188,8 +1188,8 @@ for (let letter of sortedLetters) {
 - [[Obsidian Spaced Repetition Recall]]
 - [[Obsidian Tags]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Spaced Repetition Theory]]
 - [[Study Strategies]]
 - [[SuperMemo]]

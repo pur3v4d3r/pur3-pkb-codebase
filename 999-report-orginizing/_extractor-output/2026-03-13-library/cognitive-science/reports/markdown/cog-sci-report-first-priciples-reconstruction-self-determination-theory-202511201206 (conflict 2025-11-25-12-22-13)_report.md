@@ -207,7 +207,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Standard Definitions:**
 > 
->   - **[[Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.
+>   - **[[Intrinsic-Motivation|Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.
 >   - **[[Extrinsic Motivation]]:** Doing something because it leads to a separable outcome.
 >   - **[[Internalization]]:** The process of taking in values from the outside world.
 
@@ -539,7 +539,7 @@ extraction_summary:
 - [[Evolutionary Origins of Social Cohesion]]
 - [[Extrinsic Motivation]]
 - [[Internalization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Organismic Integration Logic]]
 - [[The Physics of Volition]]
 - [[Thermodynamics of Psychology]]
@@ -551,7 +551,7 @@ extraction_summary:
 | 1 | [[The Physics of Volition]] | — | — | First Principles Reconstruction: Self... | 42 |
 | 2 | [[Organismic Integration Logic]] | — | — | First Principles Reconstruction: Self... | 42 |
 | 3 | [[Axiomatic Motivation]] | — | — | First Principles Reconstruction: Self... | 42 |
-| 4 | [[Intrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 89 |
+| 4 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 89 |
 | 5 | [[Extrinsic Motivation]] | — | — | 1.2 The Inherited Framework | 90 |
 | 6 | [[Internalization]] | — | — | 1.2 The Inherited Framework | 91 |
 | 7 | [[Thermodynamics of Psychology]] | — | — | 11.0 📚 References & Resources | 435 |
@@ -635,7 +635,7 @@ graph TB
 - [[Evolutionary Origins of Social Cohesion]]
 - [[Extrinsic Motivation]]
 - [[Internalization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Organismic Integration Logic]]
 - [[The Physics of Volition]]
 - [[Thermodynamics of Psychology]]

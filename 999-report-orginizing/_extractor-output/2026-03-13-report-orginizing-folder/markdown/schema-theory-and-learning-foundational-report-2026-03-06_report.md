@@ -268,7 +268,7 @@ extraction_summary:
 #### 25. [IMPORTANT] Underspecification of Schema Formation Mechanisms *(Line 453)*
 
 > [!important] Underspecification of Schema Formation Mechanisms
-> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive load theory]] and research on [[spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
+> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive-Load-Theory|Cognitive load theory]] and research on [[spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
 
 #### 26. [REFLECTION] From Understanding to Action *(Line 458)*
 
@@ -288,7 +288,7 @@ extraction_summary:
 > 
 > - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework's emphasis on questioning assumptions connects directly to schema theory's account of schema interference: critical thinking, in part, is the capacity to surface, examine, and test the schemas through which one is currently interpreting a situation. Schön's reflection-in-action and reflection-on-action are, schema-theoretically, processes of schema examination during and after deployment. The Reflective Judgment Model's developmental progression maps neatly onto the schema-theoretic account of how knowledge frameworks become increasingly differentiated, calibrated, and epistemically aware.
 > 
-> - **[[Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
 > 
 > The pattern across these connections reveals that schema theory is less a self-contained framework than a conceptual foundation that recurs throughout the learning sciences: metacognition is the monitoring of one's schemas; critical thinking is the examination of one's schemas; cognitive load is reduced by the formation and automation of schemas; transfer is enabled by the abstraction of schemas across contexts. To understand schemas is to understand a central organizing theme of the entire field.
 
@@ -302,7 +302,7 @@ extraction_summary:
 #### 29. [DEFINITION] Schema *(Line 507)*
 
 > [!definition] Schema
-> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic Bartlett]] (1932) and elaborated by [[David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
+> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic Bartlett]] (1932) and elaborated by [[David-Rumelhart|David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
 
 #### 30. [DEFINITION] Assimilation (Piaget) *(Line 510)*
 
@@ -411,14 +411,14 @@ extraction_summary:
 - [[ACT-R theory]]
 - [[Adriaan de Groot]]
 - [[Bartlett]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Instructional Design]]
-- [[Cognitive load theory]]
-- [[Conceptual Change Theory]]
+- [[Cognitive-Load-Theory|Cognitive load theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Constructivism — Theoretical Foundations and Variants]]
-- [[Daniel Schwartz]]
-- [[David Ausubel]]
-- [[David Rumelhart]]
+- [[Daniel-Schwartz|Daniel Schwartz]]
+- [[David-Ausubel|David Ausubel]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Declarative schemas]]
 - [[Elizabeth Loftus]]
 - [[Ernst von Glasersfeld]]
@@ -446,19 +446,19 @@ extraction_summary:
 - [[Rumelhart]]
 - [[Schank and Abelson]]
 - [[Schema Theory and Learning]]
-- [[Schema theory]]
+- [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
 - [[Stella Vosniadou]]
 - [[Susan Carey]]
 - [[Transfer of Learning — Mechanisms and Conditions]]
 - [[William Chase]]
 - [[adaptive expertise]]
-- [[advance organizer]]
+- [[Advance-Organizer|advance organizer]]
 - [[advance organizers]]
 - [[bottom-up processing]]
 - [[cognitive structure]]
 - [[conceptual change pedagogy]]
-- [[conceptual change theory]]
+- [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
 - [[constructivist]]
 - [[information processing]]
@@ -471,7 +471,7 @@ extraction_summary:
 - [[reading comprehension]]
 - [[schema instantiation]]
 - [[spaced practice]]
-- [[spreading activation]]
+- [[Spreading-Activation|spreading activation]]
 - [[text structure]]
 - [[top-down processing]]
 - [[worked examples]]
@@ -481,7 +481,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Frederic Bartlett]] | — | — | Phase I: Orientation & Context Setting | 264 |
-| 2 | [[Schema theory]] | — | — | Phase I: Orientation & Context Setting | 266 |
+| 2 | [[Schema-Theory|Schema theory]] | — | — | Phase I: Orientation & Context Setting | 266 |
 | 3 | [[advance organizers]] | — | — | Phase I: Orientation & Context Setting | 268 |
 | 4 | [[metacognitive awareness]] | — | — | Phase I: Orientation & Context Setting | 268 |
 | 5 | [[Bartlett]] | — | — | Phase I: Orientation & Context Setting | 272 |
@@ -499,14 +499,14 @@ extraction_summary:
 | 17 | [[ACT-R theory]] | — | — | Foundational Distinctions | 314 |
 | 18 | [[top-down processing]] | — | — | Foundational Distinctions | 316 |
 | 19 | [[bottom-up processing]] | — | — | Foundational Distinctions | 316 |
-| 20 | [[David Rumelhart]] | — | — | Rumelhart's Computational Schema Theory | 329 |
+| 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Rumelhart's Computational Schema Theory | 329 |
 | 21 | [[information processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
 | 22 | [[parallel distributed processing]] | — | — | Rumelhart's Computational Schema Theory | 329 |
-| 23 | [[spreading activation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
+| 23 | [[Spreading-Activation|spreading activation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
 | 24 | [[schema instantiation]] | — | — | Rumelhart's Computational Schema Theory | 334 |
-| 25 | [[David Ausubel]] | — | — | Ausubel's Assimilation Theory and Adv... | 338 |
+| 25 | [[David-Ausubel|David Ausubel]] | — | — | Ausubel's Assimilation Theory and Adv... | 338 |
 | 26 | [[cognitive structure]] | — | — | Ausubel's Assimilation Theory and Adv... | 341 |
-| 27 | [[advance organizer]] | — | — | Ausubel's Assimilation Theory and Adv... | 343 |
+| 27 | [[Advance-Organizer|advance organizer]] | — | — | Ausubel's Assimilation Theory and Adv... | 343 |
 | 28 | [[Roger Schank]] | — | — | Schank and Abelson's Script Theory | 350 |
 | 29 | [[Robert Abelson]] | — | — | Schank and Abelson's Script Theory | 350 |
 | 30 | [[text structure]] | — | — | Schank and Abelson's Script Theory | 355 |
@@ -519,31 +519,31 @@ extraction_summary:
 | 37 | [[Adriaan de Groot]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 38 | [[William Chase]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
 | 39 | [[Herbert Simon]] | — | — | Schema-Driven Reconstruction in Recall | 404 |
-| 40 | [[conceptual change theory]] | — | — | Schema Change: From Learning to Conce... | 408 |
+| 40 | [[Conceptual-Change-Theory|conceptual change theory]] | — | — | Schema Change: From Learning to Conce... | 408 |
 | 41 | [[reading comprehension]] | — | — | Instructional Applications of Schema ... | 431 |
 | 42 | [[mathematics education]] | — | — | Instructional Applications of Schema ... | 431 |
 | 43 | [[worked examples]] | — | — | Instructional Applications of Schema ... | 431 |
 | 44 | [[naive physics]] | — | — | Instructional Applications of Schema ... | 438 |
 | 45 | [[conceptual change pedagogy]] | — | — | Instructional Applications of Schema ... | 438 |
-| 46 | [[Cognitive load theory]] | — | — | Limitations and Open Questions | 454 |
+| 46 | [[Cognitive-Load-Theory|Cognitive load theory]] | — | — | Limitations and Open Questions | 454 |
 | 47 | [[spaced practice]] | — | — | Limitations and Open Questions | 454 |
 | 48 | [[interleaved practice]] | — | — | Limitations and Open Questions | 454 |
 | 49 | [[connectionist models]] | — | — | Unresolved Questions | 481 |
 | 50 | [[Schema Theory and Learning]] | — | — | Unresolved Questions | 486 |
 | 51 | [[Metacognition and Lifelong Learning]] | — | — | Unresolved Questions | 488 |
 | 52 | [[Metacognition and Critical Thinking]] | — | — | Unresolved Questions | 490 |
-| 53 | [[Cognitive Load Theory]] | — | — | Unresolved Questions | 492 |
+| 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 492 |
 | 54 | [[Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 508 |
-| 55 | [[David Rumelhart]] | — | — | A. Lexicon of Key Terms | 508 |
+| 55 | [[David-Rumelhart|David Rumelhart]] | — | — | A. Lexicon of Key Terms | 508 |
 | 56 | [[Frederic Bartlett]] | — | — | A. Lexicon of Key Terms | 529 |
 | 57 | [[Cognitive Load Theory and Instructional Design]] | — | — | C. Expansion Topics | 570 |
-| 58 | [[Conceptual Change Theory]] | — | — | C. Expansion Topics | 573 |
+| 58 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | C. Expansion Topics | 573 |
 | 59 | [[George Posner]] | — | — | C. Expansion Topics | 574 |
 | 60 | [[Susan Carey]] | — | — | C. Expansion Topics | 574 |
 | 61 | [[Stella Vosniadou]] | — | — | C. Expansion Topics | 574 |
 | 62 | [[Transfer of Learning — Mechanisms and Conditions]] | — | — | C. Expansion Topics | 576 |
 | 63 | [[John Bransford]] | — | — | C. Expansion Topics | 577 |
-| 64 | [[Daniel Schwartz]] | — | — | C. Expansion Topics | 577 |
+| 64 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | C. Expansion Topics | 577 |
 | 65 | [[Prior Knowledge and Learning — Research Synthesis]] | — | — | C. Expansion Topics | 579 |
 | 66 | [[Expert-Novice Differences in Knowledge Organization]] | — | — | C. Expansion Topics | 582 |
 | 67 | [[adaptive expertise]] | — | — | C. Expansion Topics | 583 |
@@ -565,14 +565,14 @@ extraction_summary:
 - [[ACT-R theory]]
 - [[Adriaan de Groot]]
 - [[Bartlett]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Instructional Design]]
-- [[Cognitive load theory]]
-- [[Conceptual Change Theory]]
+- [[Cognitive-Load-Theory|Cognitive load theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Constructivism — Theoretical Foundations and Variants]]
-- [[Daniel Schwartz]]
-- [[David Ausubel]]
-- [[David Rumelhart]]
+- [[Daniel-Schwartz|Daniel Schwartz]]
+- [[David-Ausubel|David Ausubel]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Declarative schemas]]
 - [[Elizabeth Loftus]]
 - [[Ernst von Glasersfeld]]
@@ -600,19 +600,19 @@ extraction_summary:
 - [[Rumelhart]]
 - [[Schank and Abelson]]
 - [[Schema Theory and Learning]]
-- [[Schema theory]]
+- [[Schema-Theory|Schema theory]]
 - [[Script Theory — Schank and Abelson in Depth]]
 - [[Stella Vosniadou]]
 - [[Susan Carey]]
 - [[Transfer of Learning — Mechanisms and Conditions]]
 - [[William Chase]]
 - [[adaptive expertise]]
-- [[advance organizer]]
+- [[Advance-Organizer|advance organizer]]
 - [[advance organizers]]
 - [[bottom-up processing]]
 - [[cognitive structure]]
 - [[conceptual change pedagogy]]
-- [[conceptual change theory]]
+- [[Conceptual-Change-Theory|conceptual change theory]]
 - [[connectionist models]]
 - [[constructivist]]
 - [[information processing]]
@@ -625,7 +625,7 @@ extraction_summary:
 - [[reading comprehension]]
 - [[schema instantiation]]
 - [[spaced practice]]
-- [[spreading activation]]
+- [[Spreading-Activation|spreading activation]]
 - [[text structure]]
 - [[top-down processing]]
 - [[worked examples]]
@@ -640,17 +640,17 @@ extraction_summary:
 
 #### Related
 
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Metacognition and Lifelong Learning]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Prior Knowledge Activation in Instruction]]
-- [[Conceptual Change Theory]]
-- [[Situated Cognition]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
+- [[Situated-Cognition|Situated Cognition]]
 - [[Elaboration Theory of Instruction]]
 
 #### Broader
 
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Learning Sciences]]
 
 #### Narrower
@@ -662,7 +662,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Dual Coding Theory]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
 - [[Spreading Activation Theory]]
 - [[Knowledge Graph Approaches to Cognition]]
 
@@ -674,7 +674,7 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Reading Comprehension Pedagogy]]
 - [[Medical Education and Clinical Reasoning]]
 - [[Expert-Novice Research]]

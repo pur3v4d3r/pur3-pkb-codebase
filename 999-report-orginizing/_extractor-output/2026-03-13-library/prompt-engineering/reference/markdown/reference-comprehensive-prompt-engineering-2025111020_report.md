@@ -171,7 +171,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal Knowledge Base]] (PKB) systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]].
+> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal-Knowledge-Base|Personal Knowledge Base]] (PKB) systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]].
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 31)*
 
@@ -272,7 +272,7 @@ extraction_summary:
 #### 17. [DEFINITION] Untitled *(Line 343)*
 
 > [!definition] Untitled
-> - **Key-Term**:: [[Personal Knowledge Base]] (PKB)
+> - **Key-Term**:: [[Personal-Knowledge-Base|Personal Knowledge Base]] (PKB)
 > - **Definition**:: A personalized system that captures, stores, and organizes data systematically according to individual needs, goals, and interests, designed as a personal assistant that keeps track of relevant data and knows exactly where each bit of information is stored.
 
 #### 18. [USE-CASES-AND-EXAMPLES] Untitled *(Line 393)*
@@ -370,7 +370,7 @@ extraction_summary:
 - [[Multimodal Prompting Strategies]]
 - [[PARA]]
 - [[PE]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Design]]
 - [[Prompt Design Lifecycle]]
 - [[Prompt Engineering]]
@@ -416,7 +416,7 @@ extraction_summary:
 | 3 | [[AI Communication]] | — | — | Document Start | 20 |
 | 4 | [[Prompt Design]] | — | — | Document Start | 20 |
 | 5 | [[Prompt Optimization]] | — | — | Document Start | 20 |
-| 6 | [[Personal Knowledge Base]] | — | — | Document Start | 29 |
+| 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 29 |
 | 7 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | Document Start | 29 |
 | 8 | [[wiki-links]] | — | — | Document Start | 33 |
 | 9 | [[prompt-engineering_📚comprehensive-reference_🆔20251110201114]] | Here | From Best Practices to Principled Practice | 📑 Table of Contents | 48 |
@@ -450,7 +450,7 @@ extraction_summary:
 | 37 | [[top-p]] | — | — | Model Selection & Configuration | 311 |
 | 38 | [[frequency penalty]] | — | — | Model Selection & Configuration | 311 |
 | 39 | [[presence penalty]] | — | — | Model Selection & Configuration | 311 |
-| 40 | [[Personal Knowledge Base]] | — | — | 5️⃣ 📚 PKB Integration & Knowledge Man... | 344 |
+| 40 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 5️⃣ 📚 PKB Integration & Knowledge Man... | 344 |
 | 41 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | Prompting Strategies for Obsidian | 357 |
 | 42 | [[Zettelkasten]] | — | — | Prompting Strategies for Obsidian | 359 |
 | 43 | [[PARA]] | — | — | Prompting Strategies for Obsidian | 359 |
@@ -661,7 +661,7 @@ I'll now conduct thorough research to create this comprehensive reference note o
 - [[Multimodal Prompting Strategies]]
 - [[PARA]]
 - [[PE]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Design]]
 - [[Prompt Design Lifecycle]]
 - [[Prompt Engineering]]

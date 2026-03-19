@@ -239,14 +239,14 @@ extraction_summary:
 > [!abstract] Untitled
 > **Executive Summary**
 > 
-> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive Bias|cognitive biases]] have been extensively catalogued since [[Daniel Kahneman]] and [[Amos Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[Choice Architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
+> The science of debiasing represents one of the most practically significant—and contentiously debated—research programs within the judgment and decision-making (JDM) literature. While [[Cognitive Bias|cognitive biases]] have been extensively catalogued since [[Daniel Kahneman]] and [[Amos Tversky]]'s foundational work in the 1970s, the question of whether these systematic deviations from normative rationality can actually be *corrected* remains far more contested than popular accounts suggest. This report provides a comprehensive examination of debiasing interventions at three levels of analysis: *individual-level* strategies (such as the [[Consider-the-Opposite Strategy]] and [[Premortem Technique]]), *social-environmental* interventions (including [[Nudge Theory|nudges]] and [[Choice Architecture]]), and *metacognitive* approaches that address the fundamental challenge of the [[Bias Blind Spot]]—our persistent inability to recognize our own biases even while readily perceiving them in others. Critical attention is given to the ecological rationality perspective advanced by [[Gerd Gigerenzer]], which fundamentally challenges the heuristics-and-biases framing by arguing that many purported "biases" are actually adaptive [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely because—not despite—their simplicity. The evidence suggests that while certain debiasing interventions show promise, particularly those involving personalized feedback, active practice, and environmental restructuring, no universal "cure" for bias exists, and interventions must be carefully matched to specific bias types, contexts, and individual differences.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 190)*
 
 > [!key-claim] Untitled
 > **The Ecological Rationality Challenge**
 > 
-> [[Gerd Gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
+> [[Gerd Gigerenzer]] (2018) articulated what he termed the "bias bias"—the tendency of behavioral economists and psychologists to label any deviation from normative theory as an error requiring correction, without adequately examining whether the deviation might be adaptive in real-world conditions. This perspective suggests that the question "how can we debias judgment?" may itself be poorly framed, because many so-called biases are actually [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] that succeed precisely *because* they ignore information and avoid complex calculations.
 
 #### 5. [DEFINITION] Untitled *(Line 205)*
 
@@ -302,7 +302,7 @@ extraction_summary:
 > [!evidence] Untitled
 > **The MACBETH Game Studies**
 > 
-> In two longitudinal experiments, Morewedge et al. (2015) tested the effects of playing a serious video game (Missing: The Final Secret) or watching an instructional video that addressed biases critical to intelligence analysis, including [[Confirmation Bias]], [[Bias Blind Spot]], and [[Fundamental Attribution Error]]. Both interventions produced medium to large debiasing effects immediately (games ≥ 31.94% reduction, videos ≥ 18.60% reduction) that persisted at least 2 months later (games ≥ 23.57%, videos ≥ 19.20%). Critically, the games—which provided personalized feedback and practice—outperformed the videos. Effects were domain-general, transferring to problems in different contexts and formats not taught in the interventions.
+> In two longitudinal experiments, Morewedge et al. (2015) tested the effects of playing a serious video game (Missing: The Final Secret) or watching an instructional video that addressed biases critical to intelligence analysis, including [[Confirmation-Bias-Myside-Bias|Confirmation Bias]], [[Bias Blind Spot]], and [[Fundamental Attribution Error]]. Both interventions produced medium to large debiasing effects immediately (games ≥ 31.94% reduction, videos ≥ 18.60% reduction) that persisted at least 2 months later (games ≥ 23.57%, videos ≥ 19.20%). Critically, the games—which provided personalized feedback and practice—outperformed the videos. Effects were domain-general, transferring to problems in different contexts and formats not taught in the interventions.
 
 #### 13. [INSIGHT] Untitled *(Line 305)*
 
@@ -318,11 +318,11 @@ extraction_summary:
 > 
 > The debiasing literature enriches understanding of several concepts already present in your PKB:
 > 
-> **[[Critical Thinking]]**: Debiasing strategies provide concrete, evidence-based techniques for implementing the evaluative stance that critical thinking demands. The consider-the-opposite strategy operationalizes the instruction to examine alternative perspectives; reference class forecasting provides a methodology for the outside view that critical analysis requires.
+> **[[Critical-Thinking|Critical Thinking]]**: Debiasing strategies provide concrete, evidence-based techniques for implementing the evaluative stance that critical thinking demands. The consider-the-opposite strategy operationalizes the instruction to examine alternative perspectives; reference class forecasting provides a methodology for the outside view that critical analysis requires.
 > 
-> **[[Self-Determination Theory]]**: The tension between nudges and autonomous decision-making connects to SDT's emphasis on autonomy as a basic psychological need. Interventions that enhance competence (through training) may be more compatible with SDT than interventions that bypass deliberation (through defaults).
+> **[[Self-Determination-Theory|Self-Determination Theory]]**: The tension between nudges and autonomous decision-making connects to SDT's emphasis on autonomy as a basic psychological need. Interventions that enhance competence (through training) may be more compatible with SDT than interventions that bypass deliberation (through defaults).
 > 
-> **[[Stoicism]]**: The Stoic emphasis on the [[Dichotomy of Control]] suggests a complementary approach to debiasing—recognizing that many sources of bias (System 1 processes, environmental influences) are not directly controllable, but that our *responses* to these influences can be cultivated through practice and reflection.
+> **[[Stoicism]]**: The Stoic emphasis on the [[Dichotomy-of-Control|Dichotomy of Control]] suggests a complementary approach to debiasing—recognizing that many sources of bias (System 1 processes, environmental influences) are not directly controllable, but that our *responses* to these influences can be cultivated through practice and reflection.
 > 
 > **[[Metacognition]]**: The bias blind spot represents a metacognitive failure—inability to accurately monitor one's own cognitive processes. Effective debiasing may require not just specific techniques but broader enhancement of metacognitive awareness.
 
@@ -397,7 +397,7 @@ extraction_summary:
 - [[Amos Tversky]]
 - [[Anchoring Bias]]
 - [[Anne-Laure Sellier]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Baruch Fischhoff]]
 - [[Base Rates]]
 - [[Bent Flyvbjerg]]
@@ -408,22 +408,22 @@ extraction_summary:
 - [[Cass Sunstein]]
 - [[Choice Architect]]
 - [[Choice Architecture]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Reflection Test]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider-the-Opposite Strategy]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Daniel Gilbert]]
 - [[Daniel Kahneman]]
 - [[Deborah Mitchell]]
 - [[Default Effect]]
 - [[Devil's Advocate Technique]]
-- [[Dichotomy of Control]]
-- [[Dual Process Theory]]
-- [[Ecological Rationality]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Ecological-Rationality|Ecological Rationality]]
 - [[Emily Pronin]]
-- [[Fast-and-Frugal Heuristics]]
+- [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Focalism]]
 - [[Fundamental Attribution Error]]
 - [[Gary Klein]]
@@ -431,12 +431,12 @@ extraction_summary:
 - [[Groupthink]]
 - [[Halo Effect]]
 - [[Heuristics and Biases Program]]
-- [[Hindsight Bias]]
+- [[Hindsight-Bias|Hindsight Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Irene Scopelliti]]
 - [[Ivar Fahsing]]
 - [[Jay Russo]]
@@ -453,7 +453,7 @@ extraction_summary:
 - [[Overconfidence Bias]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Planning Fallacy]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Premortem Technique]]
 - [[Prospective Hindsight]]
 - [[Reactive Devaluation]]
@@ -463,7 +463,7 @@ extraction_summary:
 - [[Representativeness Heuristic]]
 - [[Richard Thaler]]
 - [[Selective Accessibility]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Stoic]]
 - [[Stoicism]]
 - [[Structured Analytic Techniques]]
@@ -476,7 +476,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Cognitive Bias Debiasing and Mitigation Strategies]] | — | — | Document Start | 39 |
-| 2 | [[Cognitive Bias]] | cognitive biases | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 2 | [[Cognitive-Bias|Cognitive Bias]] | cognitive biases | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 3 | [[Daniel Kahneman]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 4 | [[Amos Tversky]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 5 | [[Consider-the-Opposite Strategy]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
@@ -485,22 +485,22 @@ extraction_summary:
 | 8 | [[Choice Architecture]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 9 | [[Bias Blind Spot]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 10 | [[Gerd Gigerenzer]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
-| 11 | [[Fast-and-Frugal Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
+| 11 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 🧠 Cognitive Bias Debiasing and Mitiga... | 178 |
 | 12 | [[Heuristics and Biases Program]] | — | — | 📜 The Foundational Tension: Are Biase... | 184 |
-| 13 | [[Confirmation Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
+| 13 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 14 | [[Anchoring Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 15 | [[Availability Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
+| 15 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 16 | [[Representativeness Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
-| 17 | [[Hindsight Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
+| 17 | [[Hindsight-Bias|Hindsight Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 18 | [[Overconfidence Bias]] | — | — | 📜 The Foundational Tension: Are Biase... | 186 |
 | 19 | [[Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 20 | [[Adaptive Behavior and Cognition (ABC) Research Group]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
-| 21 | [[Ecological Rationality]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
+| 21 | [[Ecological-Rationality|Ecological Rationality]] | — | — | 📜 The Foundational Tension: Are Biase... | 188 |
 | 22 | [[Gerd Gigerenzer]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
-| 23 | [[Fast-and-Frugal Heuristics]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
+| 23 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 📜 The Foundational Tension: Are Biase... | 193 |
 | 24 | [[Take-the-Best Heuristic]] | — | — | 📜 The Foundational Tension: Are Biase... | 195 |
 | 25 | [[Adaptive Toolbox]] | — | — | 📜 The Foundational Tension: Are Biase... | 197 |
-| 26 | [[Dual Process Theory]] | — | — | 🔬 The Architecture of Bias: Why Corre... | 203 |
+| 26 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🔬 The Architecture of Bias: Why Corre... | 203 |
 | 27 | [[Baruch Fischhoff]] | — | — | 🔬 The Architecture of Bias: Why Corre... | 210 |
 | 28 | [[Bias Blind Spot]] | — | — | 🔬 The Architecture of Bias: Why Corre... | 210 |
 | 29 | [[Emily Pronin]] | — | — | 🔬 The Architecture of Bias: Why Corre... | 212 |
@@ -539,19 +539,19 @@ extraction_summary:
 | 62 | [[Devil's Advocate Technique]] | — | — | Institutional Debiasing: Accountabili... | 288 |
 | 63 | [[Red Team Analysis]] | — | — | Institutional Debiasing: Accountabili... | 288 |
 | 64 | [[Carey Morewedge]] | — | — | 🎮 Training Interventions: The Morewed... | 294 |
-| 65 | [[Confirmation Bias]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
+| 65 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 66 | [[Bias Blind Spot]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 67 | [[Fundamental Attribution Error]] | — | — | 🎮 Training Interventions: The Morewed... | 299 |
 | 68 | [[Anne-Laure Sellier]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
 | 69 | [[Irene Scopelliti]] | — | — | 🎮 Training Interventions: The Morewed... | 303 |
 | 70 | [[Paul-Elder Critical Thinking Framework]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
-| 71 | [[Intellectual Humility]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
-| 72 | [[Intellectual Integrity]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
-| 73 | [[Intellectual Perseverance]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
-| 74 | [[Critical Thinking]] | — | — | 🔗 Integration with Critical Thinking ... | 323 |
-| 75 | [[Self-Determination Theory]] | — | — | 🔗 Integration with Critical Thinking ... | 325 |
+| 71 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
+| 72 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
+| 73 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🔗 Integration with Critical Thinking ... | 316 |
+| 74 | [[Critical-Thinking|Critical Thinking]] | — | — | 🔗 Integration with Critical Thinking ... | 323 |
+| 75 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔗 Integration with Critical Thinking ... | 325 |
 | 76 | [[Stoicism]] | — | — | 🔗 Integration with Critical Thinking ... | 327 |
-| 77 | [[Dichotomy of Control]] | — | — | 🔗 Integration with Critical Thinking ... | 327 |
+| 77 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 🔗 Integration with Critical Thinking ... | 327 |
 | 78 | [[Metacognition]] | — | — | 🔗 Integration with Critical Thinking ... | 329 |
 | 79 | [[Stoic]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 80 | [[Affective Forecasting]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
@@ -559,7 +559,7 @@ extraction_summary:
 | 82 | [[Timothy Wilson]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 83 | [[Impact Bias]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 84 | [[Focalism]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
-| 85 | [[Premeditatio Malorum]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
+| 85 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 86 | [[Negative Visualization]] | — | — | 🔗 Integration with Critical Thinking ... | 331 |
 | 87 | [[Cognitive Reflection Test]] | — | — | 🔗 Related Topics for PKB Expansion | 387 |
 | 88 | [[Bounded Rationality]] | — | — | 🔗 Related Topics for PKB Expansion | 392 |
@@ -784,7 +784,7 @@ for (let letter of sortedLetters) {
 - [[Amos Tversky]]
 - [[Anchoring Bias]]
 - [[Anne-Laure Sellier]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Baruch Fischhoff]]
 - [[Base Rates]]
 - [[Bent Flyvbjerg]]
@@ -795,22 +795,22 @@ for (let letter of sortedLetters) {
 - [[Cass Sunstein]]
 - [[Choice Architect]]
 - [[Choice Architecture]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Bias Debiasing and Mitigation Strategies]]
 - [[Cognitive Reflection Test]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider-the-Opposite Strategy]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Daniel Gilbert]]
 - [[Daniel Kahneman]]
 - [[Deborah Mitchell]]
 - [[Default Effect]]
 - [[Devil's Advocate Technique]]
-- [[Dichotomy of Control]]
-- [[Dual Process Theory]]
-- [[Ecological Rationality]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Ecological-Rationality|Ecological Rationality]]
 - [[Emily Pronin]]
-- [[Fast-and-Frugal Heuristics]]
+- [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Focalism]]
 - [[Fundamental Attribution Error]]
 - [[Gary Klein]]
@@ -818,12 +818,12 @@ for (let letter of sortedLetters) {
 - [[Groupthink]]
 - [[Halo Effect]]
 - [[Heuristics and Biases Program]]
-- [[Hindsight Bias]]
+- [[Hindsight-Bias|Hindsight Bias]]
 - [[Impact Bias]]
 - [[Inside View]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Irene Scopelliti]]
 - [[Ivar Fahsing]]
 - [[Jay Russo]]
@@ -840,7 +840,7 @@ for (let letter of sortedLetters) {
 - [[Overconfidence Bias]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Planning Fallacy]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Premortem Technique]]
 - [[Prospective Hindsight]]
 - [[Reactive Devaluation]]
@@ -850,7 +850,7 @@ for (let letter of sortedLetters) {
 - [[Representativeness Heuristic]]
 - [[Richard Thaler]]
 - [[Selective Accessibility]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Stoic]]
 - [[Stoicism]]
 - [[Structured Analytic Techniques]]

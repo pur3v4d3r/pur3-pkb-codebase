@@ -193,7 +193,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Chain of Thought]]
-- [[Chain of Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
 - [[Dhuliawala et al. 2023]]
@@ -219,7 +219,7 @@ extraction_summary:
 | 3 | [[Self-Consistency]] | — | — | Abstract | 73 |
 | 4 | [[Reflexion]] | — | — | Abstract | 73 |
 | 5 | [[Chain of Thought]] | — | — | 2.3 The Reasoning-Response Pipeline | 143 |
-| 6 | [[Chain of Thought Prompting]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
+| 6 | [[Chain-of-Thought-Prompting|Chain of Thought Prompting]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
 | 7 | [[Wei et al. 2022]] | — | — | 3.1 Chain of Thought (CoT): The Found... | 179 |
 | 8 | [[Tree of Thoughts]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
 | 9 | [[Yao et al. 2023]] | — | — | 3.2 Tree of Thoughts (ToT): Exploring... | 207 |
@@ -945,7 +945,7 @@ graph TD
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Chain of Thought]]
-- [[Chain of Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain of Thought Prompting]]
 - [[Chain of Verification]]
 - [[Cognitive Science Foundations of LLM Reasoning Techniques]]
 - [[Dhuliawala et al. 2023]]

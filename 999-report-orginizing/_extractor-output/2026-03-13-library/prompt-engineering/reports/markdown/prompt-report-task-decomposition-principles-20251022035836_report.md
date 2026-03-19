@@ -356,8 +356,8 @@ extraction_summary:
 >   - A "Zettelkasten" note, by contrast, is "atomic"—it's about *one idea, one concept.*
 >   - Task decomposition is the *perfect* method for using an LLM to build an atomic PKM. Instead of "Tell me about 'Stoicism'" (which creates a "blob" note), you would decompose:
 >     1.  "Define the 'Logos' in Stoic philosophy." (`[[Stoic Logos]]`)
->     1.  "Define 'Dichotomy of Control.'" (`[[Dichotomy of Control]]`)
->     1.  "How are `[[Stoic Logos]]` and `[[Dichotomy of Control]]` related? Write a brief synthesis." (`[[Logos and Control Link]]`)
+>     1.  "Define 'Dichotomy of Control.'" (`[[Dichotomy-of-Control|Dichotomy of Control]]`)
+>     1.  "How are `[[Stoic Logos]]` and `[[Dichotomy-of-Control|Dichotomy of Control]]` related? Write a brief synthesis." (`[[Logos and Control Link]]`)
 > 
 > You are using the LLM to generate a *network* of atomic, linked notes, which is the entire goal of a robust PKM system.
 
@@ -452,7 +452,7 @@ extraction_summary:
 > 
 > 1.  `[[Task Decomposition]]`
 > 1.  `[[Chain of Thought (CoT)]]`
-> 1.  `[[Cognitive Scaffolding (AI)]]`
+> 1.  `[[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]`
 
 #### 29. [QUESTION] Untitled *(Line 476)*
 
@@ -476,8 +476,8 @@ extraction_summary:
 
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Chain of Thought (CoT)]]
-- [[Cognitive Scaffolding (AI)]]
-- [[Dichotomy of Control]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Logos and Control Link]]
 - [[Project Management]]
 - [[Stoic Logos]]
@@ -492,13 +492,13 @@ extraction_summary:
 | 2 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 3 | [[Zettelkasten]] | — | — | 6\. 🌍 Broader Implications and Signif... | 365 |
 | 4 | [[Stoic Logos]] | — | — | 6\. 🌍 Broader Implications and Signif... | 370 |
-| 5 | [[Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 371 |
+| 5 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 371 |
 | 6 | [[Stoic Logos]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
-| 7 | [[Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
+| 7 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
 | 8 | [[Logos and Control Link]] | — | — | 6\. 🌍 Broader Implications and Signif... | 372 |
 | 9 | [[Task Decomposition]] | — | — | 9. 🧠 Key Questions for Active Reading... | 472 |
 | 10 | [[Chain of Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 473 |
-| 11 | [[Cognitive Scaffolding (AI)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 474 |
+| 11 | [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 474 |
 
 ---
 
@@ -566,8 +566,8 @@ graph TD
 
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Chain of Thought (CoT)]]
-- [[Cognitive Scaffolding (AI)]]
-- [[Dichotomy of Control]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding (AI)]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Logos and Control Link]]
 - [[Project Management]]
 - [[Stoic Logos]]

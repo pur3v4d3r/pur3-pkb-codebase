@@ -128,7 +128,7 @@ extraction_summary:
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 81)*
 
 > [!core-principle] Untitled
-> The fundamental operational philosophy here is **Instrumentalism**, derived from [[John Dewey]]. In this synthesis, beliefs are not static representations of reality to be admired, but tools (instruments) for navigating an environment. When a tool fails—when reality contradicts our expectations—the untrained mind experiences emotional distress. The **PSC Loop** solves this by using Stoic discipline to neutralize the distress of failure, thereby clearing the cognitive workspace for the Constructivist process of "accommodation," or re-tooling the mind for better future performance.
+> The fundamental operational philosophy here is **Instrumentalism**, derived from [[John-Dewey|John Dewey]]. In this synthesis, beliefs are not static representations of reality to be admired, but tools (instruments) for navigating an environment. When a tool fails—when reality contradicts our expectations—the untrained mind experiences emotional distress. The **PSC Loop** solves this by using Stoic discipline to neutralize the distress of failure, thereby clearing the cognitive workspace for the Constructivist process of "accommodation," or re-tooling the mind for better future performance.
 
 #### 4. [ATOMIC-CONCEPT] Untitled *(Line 90)*
 
@@ -169,7 +169,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > * **[[Cybernetics]]:** The PSC Loop is essentially a biological feedback loop. Norbert Wiener's work on error-correction in systems is the mathematical equivalent of this philosophical synthesis.
 >   * **[[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]]:** Nassim Taleb’s concept goes beyond resilience. A Constructivist system doesn't just survive shocks (Stoicism); it gains information from them to build better schemas.
->   * **[[Predictive Processing]]:** Karl Friston’s neuroscience theory suggests the brain is a "prediction engine." Stoicism minimizes the "free energy" (stress) of prediction errors, allowing for better model updating.
+>   * **[[Predictive-Processing|Predictive Processing]]:** Karl Friston’s neuroscience theory suggests the brain is a "prediction engine." Stoicism minimizes the "free energy" (stress) of prediction errors, allowing for better model updating.
 
 #### 11. [FURTHER-EXPLORATION] Untitled *(Line 128)*
 
@@ -213,11 +213,11 @@ extraction_summary:
 - [[Epistemology of Action]]
 - [[Instrumentalism]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
 - [[Pragmatism]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Radical Empiricism]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Stoicism]]
@@ -238,7 +238,7 @@ extraction_summary:
 | 7 | [[Instrumentalism]] | — | — | 1. Define Core Parameters | 71 |
 | 8 | [[Cognitive-Behavioral Therapy]] | — | — | 1. Define Core Parameters | 71 |
 | 9 | [[Epistemology of Action]] | — | — | 1. Define Core Parameters | 71 |
-| 10 | [[John Dewey]] | — | — | 2. Phase 1: Overture (The "Why & What") | 82 |
+| 10 | [[John-Dewey|John Dewey]] | — | — | 2. Phase 1: Overture (The "Why & What") | 82 |
 | 11 | [[Pragmatism]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 12 | [[William James]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
 | 13 | [[Charles Sanders Peirce]] | — | — | The Pragmatic Meta-Container: Truth a... | 88 |
@@ -250,7 +250,7 @@ extraction_summary:
 | 19 | [[Lev Vygotsky]] | — | — | The Constructivist Mechanic: The Arch... | 108 |
 | 20 | [[Cybernetics]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 124 |
 | 21 | [[03_notes/01_permanent-notes/01_cognitive-development/Antifragility]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 125 |
-| 22 | [[Predictive Processing]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 126 |
+| 22 | [[Predictive-Processing|Predictive Processing]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 126 |
 | 23 | [[Bayesian Epistemology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 130 |
 | 24 | [[The OODA Loop (Observe-Orient-Decide-Act)]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 131 |
 | 25 | [[Radical Empiricism]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 132 |
@@ -329,11 +329,11 @@ extraction_summary:
 - [[Epistemology of Action]]
 - [[Instrumentalism]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Lev Vygotsky]]
 - [[Pragmatic-Stoic Synthesis]]
 - [[Pragmatism]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Radical Empiricism]]
 - [[Rational Emotive Behavior Therapy]]
 - [[Stoicism]]

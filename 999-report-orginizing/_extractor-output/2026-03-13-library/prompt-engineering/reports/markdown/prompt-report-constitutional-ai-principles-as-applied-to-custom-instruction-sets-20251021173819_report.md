@@ -276,7 +276,7 @@ extraction_summary:
 #### 16. [CONNECTION-IDEAS] Untitled *(Line 332)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]]. Specifically, the idea of a `Deep Exposition Structure` is analogous to the "Zettelkasten" method of atomic note-taking. Your constitution is *forcing* the AI to generate content that is *already* in a PKM-native format, creating "evergreen" notes (`[[Term 1 goes here]]`, `[[Term 2 goes here]]`, `[[Term 3 goes here]]`) that are pre-linked and pre-structured for long-term intellectual compounding.
+> The principles discussed here strongly connect to the field of [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]. Specifically, the idea of a `Deep Exposition Structure` is analogous to the "Zettelkasten" method of atomic note-taking. Your constitution is *forcing* the AI to generate content that is *already* in a PKM-native format, creating "evergreen" notes (`[[Term 1 goes here]]`, `[[Term 2 goes here]]`, `[[Term 3 goes here]]`) that are pre-linked and pre-structured for long-term intellectual compounding.
 
 #### 17. [COUNTER-ARGUMENT] Untitled *(Line 342)*
 
@@ -354,7 +354,7 @@ extraction_summary:
 
 - [[Agentic Heuristics]]
 - [[Inference-Time Constitutionalism]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Reinforcement Learning from AI Feedback (RLAIF)]]
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]
@@ -367,7 +367,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Wiki-Links]] | — | — | Manifestation 1: Unprecedented Struct... | 305 |
 | 2 | [[Term 1 goes here]] | — | — | Manifestation 1: Unprecedented Struct... | 305 |
-| 3 | [[Personal Knowledge Management (PKM)]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
+| 3 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
 | 4 | [[Term 1 goes here]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
 | 5 | [[Term 2 goes here]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
 | 6 | [[Term 3 goes here]] | — | — | 6.1 The Democratization of AI Alignment | 334 |
@@ -460,7 +460,7 @@ graph TD
 
 - [[Agentic Heuristics]]
 - [[Inference-Time Constitutionalism]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Reinforcement Learning from AI Feedback (RLAIF)]]
 - [[Term 1 goes here]]
 - [[Term 2 goes here]]

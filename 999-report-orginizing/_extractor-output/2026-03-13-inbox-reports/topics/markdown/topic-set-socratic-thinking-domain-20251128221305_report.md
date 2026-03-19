@@ -127,7 +127,7 @@ extraction_summary:
 - [[Ancient Skepticism]]
 - [[Aporia]]
 - [[Argumentation Ethics]]
-- [[Argumentation Theory]]
+- [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumption Probing]]
 - [[Basic Argumentation Structure]]
 - [[Basic Epistemology]]
@@ -140,7 +140,7 @@ extraction_summary:
 - [[Conceptual Analysis]]
 - [[Constructivist Learning Theory]]
 - [[Continental Philosophy]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]]
 - [[Definition Types]]
 - [[Definitional Inquiry]]
@@ -148,9 +148,9 @@ extraction_summary:
 - [[Dialectical Reasoning]]
 - [[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]]
 - [[Discovery Learning]]
-- [[Educational Psychology]]
-- [[Elenchus]]
-- [[Epistemology]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elenchus|Elenchus]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Eristic]]
 - [[Eristic vs. Dialectic]]
 - [[Essentialism]]
@@ -165,8 +165,8 @@ extraction_summary:
 - [[Informal Fallacies]]
 - [[Informal Logic]]
 - [[Innate Ideas]]
-- [[Intellectual Humility]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Knowledge vs. Opinion]]
 - [[Knowledge vs. True Belief]]
 - [[Legal Reasoning]]
@@ -189,11 +189,11 @@ extraction_summary:
 - [[Power Dynamics in Education]]
 - [[Professional Education]]
 - [[Protagoras]]
-- [[Prototype Theory]]
+- [[Prototype-Theory|Prototype Theory]]
 - [[Rhetoric vs. Philosophy]]
 - [[Richard Paul]]
 - [[Socratic Circles]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]]
 - [[Socratic Intellectualism]]
 - [[Socratic Irony]]
@@ -218,23 +218,23 @@ extraction_summary:
 - [[Truth and Power]]
 - [[Virtue Ethics]]
 - [[Virtue as Knowledge]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Socratic Thinking]] | — | — | Document Start | 22 |
-| 2 | [[Critical Thinking]] | — | — | Claude Thinking: | 49 |
-| 3 | [[Epistemology]] | — | — | Claude Thinking: | 49 |
+| 2 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 49 |
+| 3 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Claude Thinking: | 49 |
 | 4 | [[Dialectical Reasoning]] | — | — | Claude Thinking: | 49 |
 | 5 | [[Pedagogy]] | — | — | Claude Thinking: | 49 |
 | 6 | [[Philosophy of Education]] | — | — | Claude Thinking: | 49 |
 | 7 | [[Informal Logic]] | — | — | Claude Thinking: | 49 |
-| 8 | [[Argumentation Theory]] | — | — | Claude Thinking: | 49 |
+| 8 | [[Argumentation-Theory|Argumentation Theory]] | — | — | Claude Thinking: | 49 |
 | 9 | [[Cognitive Biases]] | — | — | Claude Thinking: | 49 |
-| 10 | [[Intellectual Humility]] | — | — | Claude Thinking: | 49 |
-| 11 | [[Elenchus]] | — | — | Claude Thinking: | 49 |
+| 10 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Claude Thinking: | 49 |
+| 11 | [[Elenchus|Elenchus]] | — | — | Claude Thinking: | 49 |
 | 12 | [[Maieutics]] | — | — | Claude Thinking: | 49 |
 | 13 | [[Aporia]] | — | — | Claude Thinking: | 49 |
 | 14 | [[Platonic Dialogues]] | — | — | Claude Thinking: | 49 |
@@ -264,7 +264,7 @@ extraction_summary:
 | 38 | [[Evidence Evaluation]] | — | — | Topic 2 | 136 |
 | 39 | [[Perspective-Taking]] | — | — | Topic 2 | 137 |
 | 40 | [[Implication Analysis]] | — | — | Topic 2 | 138 |
-| 41 | [[Intellectual Humility]] | — | — | Topic 2 | 139 |
+| 41 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Topic 2 | 139 |
 | 42 | [[Bloom's Taxonomy]] | — | — | Topic 2 | 140 |
 | 43 | [[Socratic Circles]] | — | — | Topic 2 | 141 |
 | 44 | [[Power Dynamics in Dialogue]] | — | — | Topic 2 | 142 |
@@ -277,9 +277,9 @@ extraction_summary:
 | 51 | [[Innate Ideas]] | — | — | Topic 3 | 178 |
 | 52 | [[Facilitative Teaching]] | — | — | Topic 3 | 179 |
 | 53 | [[Cognitive Dissonance]] | — | — | Topic 3 | 180 |
-| 54 | [[Socratic Ignorance]] | — | — | Topic 3 | 181 |
+| 54 | [[Socratic-Ignorance|Socratic Ignorance]] | — | — | Topic 3 | 181 |
 | 55 | [[Student-Centered Learning]] | — | — | Topic 3 | 182 |
-| 56 | [[Zone of Proximal Development]] | — | — | Topic 3 | 183 |
+| 56 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Topic 3 | 183 |
 | 57 | [[Socratic Questioning in CBT]] | — | — | Topic 3 | 184 |
 | 58 | [[The Slave Boy Demonstration]] | — | — | Topic 3 | 185 |
 | 59 | [[Discovery Learning]] | — | — | Topic 3 | 186 |
@@ -308,7 +308,7 @@ extraction_summary:
 | 82 | [[Stipulative Definition]] | — | — | Topic 5 | 268 |
 | 83 | [[Essentialism]] | — | — | Topic 5 | 269 |
 | 84 | [[Family Resemblance]] | — | — | Topic 5 | 270 |
-| 85 | [[Prototype Theory]] | — | — | Topic 5 | 271 |
+| 85 | [[Prototype-Theory|Prototype Theory]] | — | — | Topic 5 | 271 |
 | 86 | [[Virtue as Knowledge]] | — | — | Topic 5 | 272 |
 | 87 | [[The Priority of Definition]] | — | — | Topic 5 | 273 |
 | 88 | [[Conceptual Analysis]] | — | — | Topic 5 | 274 |
@@ -319,7 +319,7 @@ extraction_summary:
 | 93 | [[Definition Types]] | — | — | Topic 5 | 284 |
 | 94 | [[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]] | — | — | 🔗 Related Topics for PKB Expansion | 297 |
 | 95 | [[Socratic Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
-| 96 | [[Educational Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
+| 96 | [[Educational-Psychology|Educational Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 97 | [[Informal Logic]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 98 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
 | 99 | [[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]] | — | — | 🔗 Related Topics for PKB Expansion | 302 |
@@ -330,8 +330,8 @@ extraction_summary:
 | 104 | [[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]] | — | — | 🔗 Related Topics for PKB Expansion | 307 |
 | 105 | [[Socratic Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 106 | [[Ancient Skepticism]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
-| 107 | [[Epistemology]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
-| 108 | [[Intellectual Virtues]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
+| 107 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
+| 108 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 109 | [[Cognitive Biases]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 110 | [[The Socratic Method in Legal Education - Langdell's Case Method and Its Critiques]] | — | — | 🔗 Related Topics for PKB Expansion | 312 |
 | 111 | [[Socratic Pedagogy]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
@@ -370,7 +370,7 @@ extraction_summary:
 - [[Ancient Skepticism]]
 - [[Aporia]]
 - [[Argumentation Ethics]]
-- [[Argumentation Theory]]
+- [[Argumentation-Theory|Argumentation Theory]]
 - [[Assumption Probing]]
 - [[Basic Argumentation Structure]]
 - [[Basic Epistemology]]
@@ -383,7 +383,7 @@ extraction_summary:
 - [[Conceptual Analysis]]
 - [[Constructivist Learning Theory]]
 - [[Continental Philosophy]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking as Disciplined Self-Direction - Richard Paul's Intellectual Standards]]
 - [[Definition Types]]
 - [[Definitional Inquiry]]
@@ -391,9 +391,9 @@ extraction_summary:
 - [[Dialectical Reasoning]]
 - [[Dialectical Reasoning in Hegel - The Evolution from Socratic to Absolute Dialectic]]
 - [[Discovery Learning]]
-- [[Educational Psychology]]
-- [[Elenchus]]
-- [[Epistemology]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elenchus|Elenchus]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Eristic]]
 - [[Eristic vs. Dialectic]]
 - [[Essentialism]]
@@ -408,8 +408,8 @@ extraction_summary:
 - [[Informal Fallacies]]
 - [[Informal Logic]]
 - [[Innate Ideas]]
-- [[Intellectual Humility]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Knowledge vs. Opinion]]
 - [[Knowledge vs. True Belief]]
 - [[Legal Reasoning]]
@@ -432,11 +432,11 @@ extraction_summary:
 - [[Power Dynamics in Education]]
 - [[Professional Education]]
 - [[Protagoras]]
-- [[Prototype Theory]]
+- [[Prototype-Theory|Prototype Theory]]
 - [[Rhetoric vs. Philosophy]]
 - [[Richard Paul]]
 - [[Socratic Circles]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Socratic Ignorance vs. Skepticism - The Epistemology of Knowing What You Don't Know]]
 - [[Socratic Intellectualism]]
 - [[Socratic Irony]]
@@ -461,7 +461,7 @@ extraction_summary:
 - [[Truth and Power]]
 - [[Virtue Ethics]]
 - [[Virtue as Knowledge]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ---
 

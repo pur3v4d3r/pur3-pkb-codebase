@@ -2783,9 +2783,9 @@ extraction_summary:
 > - Tool restriction embodies [[Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
 > 
 > **Cognitive Science**:
-> - Context isolation prevents [[Cognitive Load]] overload: each agent processes limited, relevant information
+> - Context isolation prevents [[Cognitive-Load|Cognitive Load]] overload: each agent processes limited, relevant information
 > - Specialization leverages [[Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
-> - Explicit communication reduces [[Working Memory]] burden: written state > remembered state
+> - Explicit communication reduces [[Working-Memory|Working Memory]] burden: written state > remembered state
 
 #### 93. [APPLICATION-CONTEXT] Untitled *(Line 2753)*
 
@@ -3004,7 +3004,7 @@ extraction_summary:
 - [[Claude Code MCP Server Integration]]
 - [[Claude Opus 4]]
 - [[Claude Sonnet 4]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
 - [[Conway's Law]]
 - [[Coordination Pattern Library]]
@@ -3043,7 +3043,7 @@ extraction_summary:
 - [[Team Collaboration Patterns]]
 - [[Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[YAML Syntax]]
 
 ### All Occurrences
@@ -3062,9 +3062,9 @@ extraction_summary:
 | 10 | [[Conway's Law]] | — | — | 🎯 Synthesis & Mastery | 2744 |
 | 11 | [[Agile Standups]] | — | — | 🎯 Synthesis & Mastery | 2745 |
 | 12 | [[Principle of Least Privilege]] | — | — | 🎯 Synthesis & Mastery | 2746 |
-| 13 | [[Cognitive Load]] | — | — | 🎯 Synthesis & Mastery | 2749 |
+| 13 | [[Cognitive-Load|Cognitive Load]] | — | — | 🎯 Synthesis & Mastery | 2749 |
 | 14 | [[Expertise Theory]] | — | — | 🎯 Synthesis & Mastery | 2750 |
-| 15 | [[Working Memory]] | — | — | 🎯 Synthesis & Mastery | 2751 |
+| 15 | [[Working-Memory|Working Memory]] | — | — | 🎯 Synthesis & Mastery | 2751 |
 | 16 | [[Claude Code Basics]] | — | — | 🔗 PKB Integration | 2806 |
 | 17 | [[CLAUDE.md Files]] | — | — | 🔗 PKB Integration | 2807 |
 | 18 | [[Prompt Engineering Fundamentals]] | — | — | 🔗 PKB Integration | 2808 |
@@ -4985,7 +4985,7 @@ Main Agent (internal reasoning):
 - [[Claude Code MCP Server Integration]]
 - [[Claude Opus 4]]
 - [[Claude Sonnet 4]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Context Isolation Architecture]]
 - [[Conway's Law]]
 - [[Coordination Pattern Library]]
@@ -5024,7 +5024,7 @@ Main Agent (internal reasoning):
 - [[Team Collaboration Patterns]]
 - [[Tool Permission Grammar]]
 - [[Tool Restriction Strategies]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[YAML Syntax]]
 
 ### Frontmatter Relationships

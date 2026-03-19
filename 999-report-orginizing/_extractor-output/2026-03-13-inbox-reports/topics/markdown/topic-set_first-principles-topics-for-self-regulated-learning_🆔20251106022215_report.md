@@ -101,7 +101,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 28)*
 
 > [!the-purpose] Untitled
-> This collection presents **four distinct First-Principles explorations** of [[Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of "common knowledge" and reconstructs the concept from its atomic components.
+> This collection presents **four distinct First-Principles explorations** of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of "common knowledge" and reconstructs the concept from its atomic components.
 
 #### 2. [TOPIC-IDEA] Untitled *(Line 35)*
 
@@ -127,8 +127,8 @@ extraction_summary:
 
 > [!further-exploration] Untitled
 > Recommended continued study:
-> - **[[Embodied Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models
-> - **[[Distributed Cognition]] Theory**: Investigate how tools, artifacts, and socio-material arrangements participate in regulatory processes
+> - **[[Embodied-Cognition|Embodied Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models
+> - **[[Distributed-Cognition|Distributed Cognition]] Theory**: Investigate how tools, artifacts, and socio-material arrangements participate in regulatory processes
 > - **[[Complexity Theory]] and Learning**: Examine SRL as an emergent property of complex adaptive systems rather than a linear skill progression
 > - **[[Cultural-Historical Activity Theory]] (CHAT)**: Analyze how cultural tools and social practices mediate self-regulatory development across different contexts
 > - **[[Dual-Process Theories]]**: Study the interaction between System 1 (fast, automatic) and System 2 (slow, deliberate) processes in learning regulation
@@ -143,58 +143,58 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Theory]]
 - [[Cultural-Historical Activity Theory]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Domain-Specific Knowledge]]
 - [[Dual-Process Theories]]
-- [[Dual-Process Theory]]
-- [[Ecological Psychology]]
-- [[Embodied Cognition]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Ecological-Psychology|Ecological Psychology]]
+- [[Embodied-Cognition|Embodied Cognition]]
 - [[Executive Function]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
-- [[cognitive load]]
+- [[Cognitive-Load|cognitive load]]
 - [[domain knowledge]]
 - [[implicit learning]]
 - [[procedural fluency]]
-- [[procedural memory]]
+- [[Procedural-Memory|procedural memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 29 |
-| 2 | [[Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 42 |
-| 3 | [[Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 55 |
+| 1 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 29 |
+| 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 42 |
+| 3 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 55 |
 | 4 | [[Executive Function]] | — | — | First-Principles Topics for Self-Regu... | 55 |
-| 5 | [[cognitive load]] | — | — | First-Principles Topics for Self-Regu... | 55 |
-| 6 | [[Habit Formation]] | — | — | First-Principles Topics for Self-Regu... | 55 |
-| 7 | [[Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 68 |
+| 5 | [[Cognitive-Load|cognitive load]] | — | — | First-Principles Topics for Self-Regu... | 55 |
+| 6 | [[Habit-Formation|Habit Formation]] | — | — | First-Principles Topics for Self-Regu... | 55 |
+| 7 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 68 |
 | 8 | [[domain knowledge]] | — | — | First-Principles Topics for Self-Regu... | 68 |
 | 9 | [[procedural fluency]] | — | — | First-Principles Topics for Self-Regu... | 68 |
-| 10 | [[Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 81 |
-| 11 | [[procedural memory]] | — | — | First-Principles Topics for Self-Regu... | 81 |
+| 10 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | First-Principles Topics for Self-Regu... | 81 |
+| 11 | [[Procedural-Memory|procedural memory]] | — | — | First-Principles Topics for Self-Regu... | 81 |
 | 12 | [[implicit learning]] | — | — | First-Principles Topics for Self-Regu... | 81 |
-| 13 | [[Embodied Cognition]] | — | — | Further Exploration | 89 |
-| 14 | [[Distributed Cognition]] | — | — | Further Exploration | 90 |
+| 13 | [[Embodied-Cognition|Embodied Cognition]] | — | — | Further Exploration | 89 |
+| 14 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Further Exploration | 90 |
 | 15 | [[Complexity Theory]] | — | — | Further Exploration | 91 |
 | 16 | [[Cultural-Historical Activity Theory]] | — | — | Further Exploration | 92 |
 | 17 | [[Dual-Process Theories]] | — | — | Further Exploration | 93 |
 | 18 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 99 |
 | 19 | [[Executive Function]] | — | — | 🔗 Related Topics for PKB Expansion | 100 |
-| 20 | [[Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 101 |
+| 20 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 101 |
 | 21 | [[Zimmerman Self-Regulated Learning Model]] | — | — | 🔗 Related Topics for PKB Expansion | 102 |
-| 22 | [[Distributed Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 103 |
+| 22 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 103 |
 | 23 | [[Domain-Specific Knowledge]] | — | — | 🔗 Related Topics for PKB Expansion | 104 |
 | 24 | [[Implicit Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 105 |
-| 25 | [[Habit Formation]] | — | — | 🔗 Related Topics for PKB Expansion | 106 |
-| 26 | [[Ecological Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 107 |
-| 27 | [[Dual-Process Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 108 |
+| 25 | [[Habit-Formation|Habit Formation]] | — | — | 🔗 Related Topics for PKB Expansion | 106 |
+| 26 | [[Ecological-Psychology|Ecological Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 107 |
+| 27 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 108 |
 
 ---
 
@@ -261,26 +261,26 @@ Topic 4: Deconstruct what "self" means in self-regulated learning
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Complexity Theory]]
 - [[Cultural-Historical Activity Theory]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Domain-Specific Knowledge]]
 - [[Dual-Process Theories]]
-- [[Dual-Process Theory]]
-- [[Ecological Psychology]]
-- [[Embodied Cognition]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Ecological-Psychology|Ecological Psychology]]
+- [[Embodied-Cognition|Embodied Cognition]]
 - [[Executive Function]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Implicit Learning]]
 - [[Metacognition]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Zimmerman Self-Regulated Learning Model]]
-- [[cognitive load]]
+- [[Cognitive-Load|cognitive load]]
 - [[domain knowledge]]
 - [[implicit learning]]
 - [[procedural fluency]]
-- [[procedural memory]]
+- [[Procedural-Memory|procedural memory]]
 
 ---
 

@@ -200,7 +200,7 @@ extraction_summary:
 > **Statement**: The central psychological variable is what people believe about whether intelligence is fixed or malleable. This is the key belief that needs to change for learning to improve.
 > **Origin**: Theoretical — Dweck's original framework specifically centered "implicit theories of intelligence" as the critical psychological construct.
 > **Evidence For**: The specific intelligence-malleability framing has generated productive experimental research and has clear face validity in educational contexts where students' theories of their own academic ability seem consequential.
-> **Evidence Against**: [[Attribution Theory]] (Weiner) had already established that causal attributions for success and failure — and specifically the distinction between stable vs. unstable attributions — are the functional psychological variables driving persistence. "Intelligence is malleable" is one intervention for shifting attribution patterns, but it is not the only route and may not be the most powerful. [[Self-Efficacy Theory]] (Bandura) suggests that situation-specific competence beliefs, grounded in actual mastery experiences, are more predictive of behavior than global theories about intelligence. The malleability-of-intelligence frame may be a culturally specific philosophical claim that is at best an indirect path to the real psychological levers.
+> **Evidence Against**: [[Attribution-Theory|Attribution Theory]] (Weiner) had already established that causal attributions for success and failure — and specifically the distinction between stable vs. unstable attributions — are the functional psychological variables driving persistence. "Intelligence is malleable" is one intervention for shifting attribution patterns, but it is not the only route and may not be the most powerful. [[Self-Efficacy Theory]] (Bandura) suggests that situation-specific competence beliefs, grounded in actual mastery experiences, are more predictive of behavior than global theories about intelligence. The malleability-of-intelligence frame may be a culturally specific philosophical claim that is at best an indirect path to the real psychological levers.
 > **Load-Bearing?**: Partially — the framework could survive a reframing from "beliefs about intelligence malleability" to "attributional patterns for failure" while preserving most of its core claims. This revision would actually strengthen its empirical foundation.
 > **Verdict**: Revised ⚠ — The malleability-of-intelligence framing is a particular cultural-philosophical packaging of insights about effort attribution and goal orientation that were already better established in attribution theory and goal theory. The frame is not wrong but is overclaiming a specific mechanism.
 
@@ -230,7 +230,7 @@ extraction_summary:
 > **Statement**: The psychological space of ability-related beliefs is adequately captured by a bipolar dimension from entity (fixed) to incremental (growth) theories, and this dimension is the most important one for predicting motivational behavior.
 > **Origin**: Theoretical — Dweck's framework specifically structures the space as a two-pole dimension.
 > **Evidence For**: The dichotomy is heuristically useful and operationalizable; it generates testable predictions.
-> **Evidence Against**: Several other frameworks carve the same psychological territory differently and account for similar or more variance. Bandura's [[Self-Efficacy Theory]] focuses on situation-specific competence expectations. [[Achievement Goal Theory]] (Elliot & Dweck) identifies learning vs. performance goals, and approach vs. avoidance orientations, as the proximate motivational variables. These goal orientations may be more direct determinants of behavior than the upstream mindset beliefs that supposedly produce them. Weiner's [[Attribution Theory]] identifies locus (internal/external), stability, and controllability as three orthogonal dimensions of causal attribution, providing a richer space than entity/incremental alone.
+> **Evidence Against**: Several other frameworks carve the same psychological territory differently and account for similar or more variance. Bandura's [[Self-Efficacy Theory]] focuses on situation-specific competence expectations. [[Achievement-Goal-Theory|Achievement Goal Theory]] (Elliot & Dweck) identifies learning vs. performance goals, and approach vs. avoidance orientations, as the proximate motivational variables. These goal orientations may be more direct determinants of behavior than the upstream mindset beliefs that supposedly produce them. Weiner's [[Attribution-Theory|Attribution Theory]] identifies locus (internal/external), stability, and controllability as three orthogonal dimensions of causal attribution, providing a richer space than entity/incremental alone.
 > **Load-Bearing?**: Moderately load-bearing — the framework's predictive and prescriptive force rests substantially on the claim that this dichotomy is the most important dimension. If goal orientation is the real proximate cause, and mindset beliefs influence behavior only insofar as they influence goal orientation, the theoretical revision is significant.
 > **Verdict**: Revised ⚠ — The fixed/growth dimension captures something real but is a simplified projection of a richer motivational space. Goal orientation variables are more proximally related to learning behavior; intelligence-malleability beliefs may function as moderators or antecedents of goal orientation rather than as independent determinants of outcome.
 
@@ -365,13 +365,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Attribution Theory]]** — The three surviving axioms of this analysis are directly derived from Weiner's attribution theory. Every claim about the importance of failure attribution patterns, the distinction between stable and unstable causes, and the role of controllability in persistence behavior is grounded there. The growth mindset framework is best understood as applied attribution theory with an oversimplified causal story. Revisiting [[Attribution Theory]] after this analysis should reveal how much of what seemed novel in growth mindset was already established there.
+> - **[[Attribution-Theory|Attribution Theory]]** — The three surviving axioms of this analysis are directly derived from Weiner's attribution theory. Every claim about the importance of failure attribution patterns, the distinction between stable and unstable causes, and the role of controllability in persistence behavior is grounded there. The growth mindset framework is best understood as applied attribution theory with an oversimplified causal story. Revisiting [[Attribution-Theory|Attribution Theory]] after this analysis should reveal how much of what seemed novel in growth mindset was already established there.
 > 
 > - **[[Self-Efficacy Theory]]** — Axiom 2 (domain-specific ability beliefs shaped by experience) is essentially Bandura's self-efficacy theory rephrased. The growth mindset framework can be read as an attempt to address self-efficacy at the level of general ability beliefs rather than situation-specific competence expectations — a theoretically motivated move that the evidence suggests does not improve on Bandura's original framing.
 > 
 > - **[[Deliberate Practice]]** — The mastery-experience primacy hypothesis derived in Phase IV converges with Ericsson's deliberate practice framework. Both agree that actual structured practice producing genuine improvement is the mechanism. The growth mindset framework's implicit claim that changing beliefs can substitute for well-designed practice is where the frameworks diverge.
 > 
-> - **[[Stereotype Threat]]** — The interaction between stereotype threat and growth mindset is incompletely theorized. Stereotype threat operates partly through attribution effects (attributing difficulty to stereotype-confirming ability deficit). Growth mindset interventions might theoretically interrupt this mechanism, but the empirical evidence for this interaction is not yet robust. This remains a genuine open question for the PKB.
+> - **[[Stereotype-Threat|Stereotype Threat]]** — The interaction between stereotype threat and growth mindset is incompletely theorized. Stereotype threat operates partly through attribution effects (attributing difficulty to stereotype-confirming ability deficit). Growth mindset interventions might theoretically interrupt this mechanism, but the empirical evidence for this interaction is not yet robust. This remains a genuine open question for the PKB.
 > 
 > - **[[Replication Crisis in Psychology]]** — This analysis should be read alongside the broader PKB node on the replication crisis. The growth mindset intervention literature is one of the more prominent casualties, and the pattern of original striking results followed by failed independent replications is a case study in the sociology of psychological research that extends well beyond this specific framework.
 > 
@@ -506,7 +506,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive landscape report on attribution retraining as a distinct intervention category from growth mindset programs — mapping the evidence base, key techniques, domain-specific applications, and comparison with mindset intervention outcomes. This topic would directly extend the report's finding that attribution retraining has stronger empirical support than general mindset instruction, providing practitioners with a well-grounded alternative framework.
 > **Core Concepts**: Weiner's attribution model, attribution retraining protocols, domain-specific implementation, feedback design, teacher training requirements
-> **Related Topics**: [[Attribution Theory]], [[Motivational Interviewing]], [[Learned Helplessness]], [[Academic Buoyancy]]
+> **Related Topics**: [[Attribution-Theory|Attribution Theory]], [[Motivational Interviewing]], [[Learned-Helplessness|Learned Helplessness]], [[Academic Buoyancy]]
 
 #### 57. [TOPIC-IDEA] Untitled *(Line 570)*
 
@@ -515,7 +515,7 @@ extraction_summary:
 > **Report Type**: First Principles
 > **Description**: A first-principles analysis of how learning environments can be designed to ensure that students accumulate genuine mastery experiences — addressing the question of what counts as a mastery experience (vs. artificial easy wins), how scaffolding difficulty affects self-efficacy, and how to balance challenge and success to build domain-specific ability beliefs. Directly extends the Mastery-Experience Primacy Hypothesis derived in Phase IV.
 > **Core Concepts**: Zone of proximal development, scaffolding theory, deliberate practice, desirable difficulties, spaced retrieval, interleaving, expertise acquisition
-> **Related Topics**: [[Deliberate Practice]], [[Expertise Acquisition]], [[Cognitive Load Theory]], [[Desirable Difficulties]]
+> **Related Topics**: [[Deliberate Practice]], [[Expertise Acquisition]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]]
 
 #### 58. [TOPIC-IDEA] Untitled *(Line 577)*
 
@@ -524,7 +524,7 @@ extraction_summary:
 > **Report Type**: Foundational Report
 > **Description**: A comprehensive survey of the goal climate literature — how the motivational environment created by instructional practices, evaluation structures, and classroom culture shapes students' goal orientations independent of their individual ability beliefs. This would operationalize the Goal Orientation Bypass identified as novel in Phase IV, giving practitioners actionable tools that do not require mindset instruction.
 > **Core Concepts**: Achievement Goal Theory, motivational climate, mastery-structured assessment, social comparison effects, normative grading, competency-based evaluation
-> **Related Topics**: [[Achievement Goal Theory]], [[Classroom Motivation]], [[Competency-Based Learning]], [[Self-Determination Theory]]
+> **Related Topics**: [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Classroom Motivation]], [[Competency-Based Learning]], [[Self-Determination-Theory|Self-Determination Theory]]
 
 #### 59. [TOPIC-IDEA] Untitled *(Line 584)*
 
@@ -542,7 +542,7 @@ extraction_summary:
 > **Report Type**: Socratic Dialogue
 > **Description**: A dialectical exploration of the interaction between stereotype threat and growth mindset, specifically examining the hypothesis that stereotype threat operates partly through the same attribution mechanism identified in this report's axioms (threat activates stable-ability attributions for difficulty), and that attribution-level interventions might interrupt stereotype threat more effectively than general mindset instruction. This topic benefits from Socratic treatment because the theoretical case is plausible but the empirical record is contested.
 > **Core Concepts**: Stereotype threat mechanisms, identity contingency, attributional ambiguity, domain identification, wise interventions
-> **Related Topics**: [[Stereotype Threat]], [[Identity-Based Motivation]], [[Wise Interventions]], [[Attributional Ambiguity]]
+> **Related Topics**: [[Stereotype-Threat|Stereotype Threat]], [[Identity-Based Motivation]], [[Wise Interventions]], [[Attributional Ambiguity]]
 
 ---
 
@@ -555,33 +555,33 @@ extraction_summary:
 ### Unique Targets
 
 - [[Academic Buoyancy]]
-- [[Achievement Goal Theory]]
-- [[Attribution Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attributional Ambiguity]]
 - [[Carol Dweck]]
 - [[Classroom Motivation]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competency-Based Learning]]
 - [[Deliberate Practice]]
-- [[Desirable Difficulties]]
-- [[Entity Theory of Intelligence]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
 - [[Evidence-Based Education]]
 - [[Expertise Acquisition]]
 - [[Foundational Report Generator v1.0]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Identity-Based Motivation]]
-- [[Incremental Theory of Intelligence]]
-- [[Learned Helplessness]]
+- [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]
+- [[Learned-Helplessness|Learned Helplessness]]
 - [[Meta-Science]]
 - [[Mindset Interventions in Education]]
 - [[Motivational Interviewing]]
 - [[Open Science Framework]]
 - [[Replication Crisis in Psychology]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory]]
 - [[Social-Psychological Interventions in Education]]
 - [[Socratic Dialogue Report Prompt]]
-- [[Stereotype Threat]]
+- [[Stereotype-Threat|Stereotype Threat]]
 - [[Wise Interventions]]
 - [[Wise Interventions (Walton & Wilson)]]
 
@@ -589,45 +589,45 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Growth Mindset]] | — | — | The Standard Account | 158 |
+| 1 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | The Standard Account | 158 |
 | 2 | [[Carol Dweck]] | — | — | The Standard Account | 158 |
-| 3 | [[Entity Theory of Intelligence]] | — | — | The Standard Account | 158 |
-| 4 | [[Incremental Theory of Intelligence]] | — | — | The Standard Account | 158 |
-| 5 | [[Stereotype Threat]] | — | — | The Standard Account | 165 |
-| 6 | [[Attribution Theory]] | — | — | Phase II: The Assumption Audit | 226 |
+| 3 | [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] | — | — | The Standard Account | 158 |
+| 4 | [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] | — | — | The Standard Account | 158 |
+| 5 | [[Stereotype-Threat|Stereotype Threat]] | — | — | The Standard Account | 165 |
+| 6 | [[Attribution-Theory|Attribution Theory]] | — | — | Phase II: The Assumption Audit | 226 |
 | 7 | [[Self-Efficacy Theory]] | — | — | Phase II: The Assumption Audit | 226 |
 | 8 | [[Replication Crisis in Psychology]] | The replication crisis in psychology | — | Phase II: The Assumption Audit | 246 |
 | 9 | [[Self-Efficacy Theory]] | — | — | Phase II: The Assumption Audit | 256 |
-| 10 | [[Achievement Goal Theory]] | — | — | Phase II: The Assumption Audit | 256 |
-| 11 | [[Attribution Theory]] | — | — | Phase II: The Assumption Audit | 256 |
+| 10 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Phase II: The Assumption Audit | 256 |
+| 11 | [[Attribution-Theory|Attribution Theory]] | — | — | Phase II: The Assumption Audit | 256 |
 | 12 | [[Foundational Report Generator v1.0]] | Foundational Report | — | Relationship to Other Report Types | 446 |
 | 13 | [[Socratic Dialogue Report Prompt]] | Socratic Dialogue | — | Relationship to Other Report Types | 448 |
-| 14 | [[Attribution Theory]] | — | — | Relationship to Other Report Types | 453 |
-| 15 | [[Attribution Theory]] | — | — | Relationship to Other Report Types | 453 |
+| 14 | [[Attribution-Theory|Attribution Theory]] | — | — | Relationship to Other Report Types | 453 |
+| 15 | [[Attribution-Theory|Attribution Theory]] | — | — | Relationship to Other Report Types | 453 |
 | 16 | [[Self-Efficacy Theory]] | — | — | Relationship to Other Report Types | 455 |
 | 17 | [[Deliberate Practice]] | — | — | Relationship to Other Report Types | 457 |
-| 18 | [[Stereotype Threat]] | — | — | Relationship to Other Report Types | 459 |
+| 18 | [[Stereotype-Threat|Stereotype Threat]] | — | — | Relationship to Other Report Types | 459 |
 | 19 | [[Replication Crisis in Psychology]] | — | — | Relationship to Other Report Types | 461 |
 | 20 | [[Mindset Interventions in Education]] | — | — | Relationship to Other Report Types | 466 |
 | 21 | [[Wise Interventions (Walton & Wilson)]] | — | — | Relationship to Other Report Types | 466 |
 | 22 | [[Social-Psychological Interventions in Education]] | — | — | Relationship to Other Report Types | 466 |
-| 23 | [[Attribution Theory]] | — | — | D. Expansion Topics | 568 |
+| 23 | [[Attribution-Theory|Attribution Theory]] | — | — | D. Expansion Topics | 568 |
 | 24 | [[Motivational Interviewing]] | — | — | D. Expansion Topics | 568 |
-| 25 | [[Learned Helplessness]] | — | — | D. Expansion Topics | 568 |
+| 25 | [[Learned-Helplessness|Learned Helplessness]] | — | — | D. Expansion Topics | 568 |
 | 26 | [[Academic Buoyancy]] | — | — | D. Expansion Topics | 568 |
 | 27 | [[Deliberate Practice]] | — | — | D. Expansion Topics | 575 |
 | 28 | [[Expertise Acquisition]] | — | — | D. Expansion Topics | 575 |
-| 29 | [[Cognitive Load Theory]] | — | — | D. Expansion Topics | 575 |
-| 30 | [[Desirable Difficulties]] | — | — | D. Expansion Topics | 575 |
-| 31 | [[Achievement Goal Theory]] | — | — | D. Expansion Topics | 582 |
+| 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 575 |
+| 30 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | D. Expansion Topics | 575 |
+| 31 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | D. Expansion Topics | 582 |
 | 32 | [[Classroom Motivation]] | — | — | D. Expansion Topics | 582 |
 | 33 | [[Competency-Based Learning]] | — | — | D. Expansion Topics | 582 |
-| 34 | [[Self-Determination Theory]] | — | — | D. Expansion Topics | 582 |
+| 34 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | D. Expansion Topics | 582 |
 | 35 | [[Replication Crisis in Psychology]] | — | — | D. Expansion Topics | 589 |
 | 36 | [[Open Science Framework]] | — | — | D. Expansion Topics | 589 |
 | 37 | [[Meta-Science]] | — | — | D. Expansion Topics | 589 |
 | 38 | [[Evidence-Based Education]] | — | — | D. Expansion Topics | 589 |
-| 39 | [[Stereotype Threat]] | — | — | D. Expansion Topics | 596 |
+| 39 | [[Stereotype-Threat|Stereotype Threat]] | — | — | D. Expansion Topics | 596 |
 | 40 | [[Identity-Based Motivation]] | — | — | D. Expansion Topics | 596 |
 | 41 | [[Wise Interventions]] | — | — | D. Expansion Topics | 596 |
 | 42 | [[Attributional Ambiguity]] | — | — | D. Expansion Topics | 596 |
@@ -642,33 +642,33 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Academic Buoyancy]]
-- [[Achievement Goal Theory]]
-- [[Attribution Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attributional Ambiguity]]
 - [[Carol Dweck]]
 - [[Classroom Motivation]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competency-Based Learning]]
 - [[Deliberate Practice]]
-- [[Desirable Difficulties]]
-- [[Entity Theory of Intelligence]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
 - [[Evidence-Based Education]]
 - [[Expertise Acquisition]]
 - [[Foundational Report Generator v1.0]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Identity-Based Motivation]]
-- [[Incremental Theory of Intelligence]]
-- [[Learned Helplessness]]
+- [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]
+- [[Learned-Helplessness|Learned Helplessness]]
 - [[Meta-Science]]
 - [[Mindset Interventions in Education]]
 - [[Motivational Interviewing]]
 - [[Open Science Framework]]
 - [[Replication Crisis in Psychology]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory]]
 - [[Social-Psychological Interventions in Education]]
 - [[Socratic Dialogue Report Prompt]]
-- [[Stereotype Threat]]
+- [[Stereotype-Threat|Stereotype Threat]]
 - [[Wise Interventions]]
 - [[Wise Interventions (Walton & Wilson)]]
 
@@ -676,35 +676,35 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Self-Efficacy Theory]]
 - [[Motivational Psychology Fundamentals]]
 
 #### Related Concepts
 
-- [[Growth Mindset]]
-- [[Fixed Mindset]]
-- [[Implicit Theories of Intelligence]]
-- [[Attribution Theory]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Fixed-Mindset|Fixed Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Self-Efficacy Theory]]
 - [[Mindset Interventions]]
 - [[Deliberate Practice]]
 - [[Grit and Perseverance]]
-- [[Stereotype Threat]]
+- [[Stereotype-Threat|Stereotype Threat]]
 - [[Academic Buoyancy]]
 - [[Self-Theories (Dweck)]]
 - [[Effort Praise]]
-- [[Entity Theory of Intelligence]]
-- [[Incremental Theory of Intelligence]]
+- [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]
+- [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]
 - [[Replication Crisis]]
 
 #### Link Related
 
 - [[Self-Efficacy Theory]]
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Deliberate Practice]]
 - [[Grit and Perseverance]]
-- [[Stereotype Threat]]
+- [[Stereotype-Threat|Stereotype Threat]]
 - [[Academic Buoyancy]]
 - [[Replication Crisis in Psychology]]
 

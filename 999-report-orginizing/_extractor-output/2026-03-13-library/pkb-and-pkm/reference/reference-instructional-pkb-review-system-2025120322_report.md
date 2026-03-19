@@ -657,7 +657,7 @@ extraction_summary:
 #### 16. [ABSTRACT] Template Collection Overview *(Line 703)*
 
 > [!abstract] Template Collection Overview
-> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[Metacognitive Monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
+> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[Metacognitive-Monitoring|Metacognitive Monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
 > 
 > **Installation**: Copy each template to your `/Templates/Review/` folder.
 
@@ -1158,11 +1158,11 @@ extraction_summary:
 - [[<% weekNumber %>]]
 - [[Amor Fati]]
 - [[Automation]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Science-MOC]]
 - [[Context Switching]]
 - [[Dataview]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epistemic Beliefs]]
 - [[Epistemic Certainty]]
 - [[Extended Cognition]]
@@ -1178,7 +1178,7 @@ extraction_summary:
 - [[Meta Bind]]
 - [[Meta Bind Advanced Patterns]]
 - [[Meta-Bind]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metamemory]]
 - [[Obsidian Plugin Interoperability]]
 - [[Obsidian/Advanced]]
@@ -1189,7 +1189,7 @@ extraction_summary:
 - [[PKB/Metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Productivity]]
 - [[QuickAdd]]
 - [[REACT Protocol]]
@@ -1198,13 +1198,13 @@ extraction_summary:
 - [[Review Friction Reduction]]
 - [[Socrates]]
 - [[Spaced Repetition Algorithms]]
-- [[Spacing Effect]]
-- [[Stoic Philosophy]]
+- [[Spacing-Effect|Spacing Effect]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Template Versioning Strategies]]
 - [[Template-Automation]]
 - [[Templater]]
 - [[Templater User Scripts]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[Version-Control]]
 - [[View from Above]]
 - [[artificial-intelligence-moc]]
@@ -1228,8 +1228,8 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[PKB Review System: Complete Implementation Package]] | — | — | PKB Review System: Complete Implement... | 39 |
-| 2 | [[Stoic Philosophy]] | — | — | 🔬 PKB Review System: Complete Impleme... | 288 |
-| 3 | [[Cognitive Science]] | — | — | 🔬 PKB Review System: Complete Impleme... | 288 |
+| 2 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🔬 PKB Review System: Complete Impleme... | 288 |
+| 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔬 PKB Review System: Complete Impleme... | 288 |
 | 4 | [[pkb-&-pkm-moc]] | — | — | Note 1: Implementation Guide | 332 |
 | 5 | [[cognitive-science-moc]] | — | — | Note 1: Implementation Guide | 333 |
 | 6 | [[review-queries-library]] | — | — | Note 1: Implementation Guide | 335 |
@@ -1242,12 +1242,12 @@ extraction_summary:
 | 13 | [[Extended Cognition]] | — | — | 1.1 The Metacognitive Scaffold Concept | 354 |
 | 14 | [[Illusion of Competence]] | — | — | 1.1 The Metacognitive Scaffold Concept | 354 |
 | 15 | [[Retrieval Pathways]] | — | — | 1.1 The Metacognitive Scaffold Concept | 359 |
-| 16 | [[Testing Effect]] | — | — | 1.1 The Metacognitive Scaffold Concept | 363 |
-| 17 | [[Spacing Effect]] | — | — | 1.1 The Metacognitive Scaffold Concept | 364 |
-| 18 | [[Metacognitive Monitoring]] | — | — | 1.1 The Metacognitive Scaffold Concept | 365 |
-| 19 | [[Stoic Philosophy]] | — | — | 1.2 Stoic Integration Framework | 369 |
-| 20 | [[Dichotomy of Control]] | — | — | 1.2 Stoic Integration Framework | 373 |
-| 21 | [[Premeditatio Malorum]] | — | — | 1.2 Stoic Integration Framework | 374 |
+| 16 | [[Testing-Effect|Testing Effect]] | — | — | 1.1 The Metacognitive Scaffold Concept | 363 |
+| 17 | [[Spacing-Effect|Spacing Effect]] | — | — | 1.1 The Metacognitive Scaffold Concept | 364 |
+| 18 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 1.1 The Metacognitive Scaffold Concept | 365 |
+| 19 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 1.2 Stoic Integration Framework | 369 |
+| 20 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 1.2 Stoic Integration Framework | 373 |
+| 21 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | 1.2 Stoic Integration Framework | 374 |
 | 22 | [[View from Above]] | — | — | 1.2 Stoic Integration Framework | 375 |
 | 23 | [[Memento Mori]] | — | — | 1.2 Stoic Integration Framework | 376 |
 | 24 | [[Amor Fati]] | — | — | 1.2 Stoic Integration Framework | 377 |
@@ -1261,7 +1261,7 @@ extraction_summary:
 | 32 | [[review-system-implementation-guide]] | — | — | Note 2: Templater Templates Library | 697 |
 | 33 | [[review-queries-library]] | — | — | Note 2: Templater Templates Library | 698 |
 | 34 | [[Templater]] | — | — | Templater Templates Library: PKB Revi... | 704 |
-| 35 | [[Metacognitive Monitoring]] | — | — | Templater Templates Library: PKB Revi... | 704 |
+| 35 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Templater Templates Library: PKB Revi... | 704 |
 | 36 | [[REACT Protocol]] | — | — | Templater Templates Library: PKB Revi... | 704 |
 | 37 | [[cognitive-science-moc]] | — | — | Template 1: Review Session Launcher | 753 |
 | 38 | [[pkb-&-pkm-moc]] | — | — | Template 1: Review Session Launcher | 754 |
@@ -2962,11 +2962,11 @@ flowchart TD
 - [[<% weekNumber %>]]
 - [[Amor Fati]]
 - [[Automation]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Science-MOC]]
 - [[Context Switching]]
 - [[Dataview]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epistemic Beliefs]]
 - [[Epistemic Certainty]]
 - [[Extended Cognition]]
@@ -2982,7 +2982,7 @@ flowchart TD
 - [[Meta Bind]]
 - [[Meta Bind Advanced Patterns]]
 - [[Meta-Bind]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metamemory]]
 - [[Obsidian Plugin Interoperability]]
 - [[Obsidian/Advanced]]
@@ -2993,7 +2993,7 @@ flowchart TD
 - [[PKB/Metadata]]
 - [[PKM/Workflow]]
 - [[Phronesis]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Productivity]]
 - [[QuickAdd]]
 - [[REACT Protocol]]
@@ -3002,13 +3002,13 @@ flowchart TD
 - [[Review Friction Reduction]]
 - [[Socrates]]
 - [[Spaced Repetition Algorithms]]
-- [[Spacing Effect]]
-- [[Stoic Philosophy]]
+- [[Spacing-Effect|Spacing Effect]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Template Versioning Strategies]]
 - [[Template-Automation]]
 - [[Templater]]
 - [[Templater User Scripts]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[Version-Control]]
 - [[View from Above]]
 - [[artificial-intelligence-moc]]

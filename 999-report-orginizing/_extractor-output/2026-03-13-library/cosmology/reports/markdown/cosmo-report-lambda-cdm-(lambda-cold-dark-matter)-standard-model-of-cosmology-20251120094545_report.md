@@ -144,7 +144,7 @@ extraction_summary:
 #### 4. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
-> Before we can assess whether six numbers specify the universe, we must achieve clarity on what each term means. The [[Socratic Method]] demands precision in our definitions, for ambiguity in terms leads inevitably to confusion in thought. Let us probe each concept systematically.
+> Before we can assess whether six numbers specify the universe, we must achieve clarity on what each term means. The [[Socratic-Method|Socratic Method]] demands precision in our definitions, for ambiguity in terms leads inevitably to confusion in thought. Let us probe each concept systematically.
 
 #### 5. [ASK-YOURSELF-THIS] Untitled *(Line 46)*
 
@@ -552,7 +552,7 @@ extraction_summary:
 - [[Ptolemaic astronomy]]
 - [[Quantum-Cosmology]]
 - [[Scale-Dependent-Physics]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[WIMPs]]
 - [[baryon density]]
 - [[baryon density parameter]]
@@ -583,7 +583,7 @@ extraction_summary:
 | 8 | [[general relativity]] | — | — | Document Start | 39 |
 | 9 | [[Dark Energy]] | — | — | Document Start | 39 |
 | 10 | [[cosmological principle]] | — | — | Document Start | 39 |
-| 11 | [[Socratic Method]] | — | — | 1.0 🗣️ THE DIALOGUE: Defining the Terms | 44 |
+| 11 | [[Socratic-Method|Socratic Method]] | — | — | 1.0 🗣️ THE DIALOGUE: Defining the Terms | 44 |
 | 12 | [[Lambda-CDM Model]] | — | — | 1.0 🗣️ THE DIALOGUE: Defining the Terms | 47 |
 | 13 | [[Lambda-CDM]] | — | — | 1.0 🗣️ THE DIALOGUE: Defining the Terms | 59 |
 | 14 | [[Einstein's field equations]] | — | — | 1.0 🗣️ THE DIALOGUE: Defining the Terms | 60 |
@@ -770,7 +770,7 @@ I'll research the current state of Lambda-CDM cosmology and create a comprehensi
 - [[Ptolemaic astronomy]]
 - [[Quantum-Cosmology]]
 - [[Scale-Dependent-Physics]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[WIMPs]]
 - [[baryon density]]
 - [[baryon density parameter]]

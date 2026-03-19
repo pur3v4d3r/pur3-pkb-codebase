@@ -218,7 +218,7 @@ extraction_summary:
 > [!abstract] Untitled
 > **Self-Regulated Learning Theory** represents one of the most consequential intellectual achievements in twentieth-century educational psychology — a comprehensive account of how learners actively construct, monitor, and govern their own cognitive processes in the service of learning goals. Emerging from the confluence of [[Social Cognitive Theory]], [[Metacognition|metacognitive research]], and [[Motivational Psychology]], SRL theory reconceptualizes the learner not as a passive recipient of instructional input but as an autonomous agent exercising deliberate control over cognition, motivation, behavior, and environment. This exposition traces SRL theory from its philosophical antecedents through its formal theoretical architecture, examines its tripartite cyclical process model and competing theoretical frameworks, marshals the substantial empirical evidence base, and surveys the frontier of research extending SRL into digital, neurological, and artificial intelligence domains.
 > 
-> The significance of SRL theory extends well beyond educational practice. It constitutes a fundamental account of [[Epistemic Agency]] — how deliberate minds engage with knowledge — making it an indispensable theoretical anchor for any [[Personal Knowledge Management]] system aspiring to cultivate genuine intellectual mastery rather than mere information accumulation. The vault in which this note resides is itself a SRL artifact: a structured environment designed to externalize metacognitive monitoring, enforce spaced retrieval, and create feedback loops between knowledge states and knowledge gaps.
+> The significance of SRL theory extends well beyond educational practice. It constitutes a fundamental account of [[Epistemic Agency]] — how deliberate minds engage with knowledge — making it an indispensable theoretical anchor for any [[Personal-Knowledge-Management|Personal Knowledge Management]] system aspiring to cultivate genuine intellectual mastery rather than mere information accumulation. The vault in which this note resides is itself a SRL artifact: a structured environment designed to externalize metacognitive monitoring, enforce spaced retrieval, and create feedback loops between knowledge states and knowledge gaps.
 > 
 > This exposition proceeds through eight phases: historical and philosophical origins; theoretical architecture; the Zimmerman cyclical model; competing theoretical frameworks (Pintrich, Boekaerts, Winne); motivational and affective substrates; the empirical evidence base; pedagogical and PKM applications; and frontier research directions spanning neuroscience, technology-enhanced learning, and AI-augmented self-regulation.
 
@@ -230,7 +230,7 @@ extraction_summary:
 #### 3. [THE-PHILOSOPHY] Untitled *(Line 54)*
 
 > [!the-philosophy] Untitled
-> **The Governing Philosophical Orientation of SRL Theory**: At its philosophical core, SRL theory is a theory of *epistemic agency under constraints*. It presupposes that learners possess genuine causal powers — they can set goals, generate strategies, monitor progress, and adapt — but that these powers are exercised within biological, motivational, social, and environmental conditions that constrain the range of possible self-regulatory actions. The theory navigates a subtle middle path between voluntarist accounts (which overestimate the learner's capacity for rational self-direction) and determinist accounts (which underestimate the learner's capacity to restructure their own learning conditions). This philosophical orientation positions SRL theory in productive dialogue with [[Pragmatist Epistemology]] — particularly [[John Dewey]]'s [[Reflective Thinking]] — and with the [[Stoic]] tradition of deliberate governance of one's cognitive responses to circumstance. For a PKM practitioner, this philosophy translates directly: the knowledge vault is an environmental intervention that extends cognitive reach, but only insofar as the practitioner develops the metacognitive capacity to interrogate the vault's contents, identify knowledge gaps, and direct learning accordingly.
+> **The Governing Philosophical Orientation of SRL Theory**: At its philosophical core, SRL theory is a theory of *epistemic agency under constraints*. It presupposes that learners possess genuine causal powers — they can set goals, generate strategies, monitor progress, and adapt — but that these powers are exercised within biological, motivational, social, and environmental conditions that constrain the range of possible self-regulatory actions. The theory navigates a subtle middle path between voluntarist accounts (which overestimate the learner's capacity for rational self-direction) and determinist accounts (which underestimate the learner's capacity to restructure their own learning conditions). This philosophical orientation positions SRL theory in productive dialogue with [[Pragmatist-Epistemology|Pragmatist Epistemology]] — particularly [[John-Dewey|John Dewey]]'s [[Reflective-Thinking|Reflective Thinking]] — and with the [[Stoic]] tradition of deliberate governance of one's cognitive responses to circumstance. For a PKM practitioner, this philosophy translates directly: the knowledge vault is an environmental intervention that extends cognitive reach, but only insofar as the practitioner develops the metacognitive capacity to interrogate the vault's contents, identify knowledge gaps, and direct learning accordingly.
 
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 57)*
 
@@ -255,7 +255,7 @@ extraction_summary:
 #### 8. [ATOMIC-CONCEPT] Untitled *(Line 87)*
 
 > [!atomic-concept] Untitled
-> **Zimmerman's Cyclical Model — Self-Reflection Phase**: Following each discrete learning engagement, self-regulating learners engage in retrospective evaluation processes that close the regulatory cycle and prepare the conditions for the next forethought phase. Self-reflection encompasses *self-judgment* and *self-reaction*. Self-judgment involves *self-evaluation* — comparing actual performance against the standards and goals established in the forethought phase — and *causal attribution* — the learner's explanatory account of why performance was as it was. [[Bernard Weiner]]'s [[Attribution Theory]] is critical here: attributions vary along three dimensions — *locus* (internal vs. external), *stability* (stable vs. unstable over time), and *controllability* (within or beyond the learner's influence). Adaptive SRL depends on attributing both successes and failures to controllable, internal, and unstable causes (principally effort and strategy selection) rather than to uncontrollable, stable factors (ability, task difficulty). Self-reaction encompasses two processes: *self-satisfaction* (the affective response to performance evaluation, which functions as an intrinsic reward or punishment shaping future motivation) and *adaptive or defensive inferences* (the learner's conclusion about whether to continue current approaches or shift strategies, effort levels, or goals). The cycle then reinitializes — self-reflection informs the next episode's goal-setting and strategic planning. This cyclical architecture means that SRL is not a static competency but a dynamic, iterative process of continuous calibration between the learner's mental models, applied strategies, performance outcomes, and motivational states.
+> **Zimmerman's Cyclical Model — Self-Reflection Phase**: Following each discrete learning engagement, self-regulating learners engage in retrospective evaluation processes that close the regulatory cycle and prepare the conditions for the next forethought phase. Self-reflection encompasses *self-judgment* and *self-reaction*. Self-judgment involves *self-evaluation* — comparing actual performance against the standards and goals established in the forethought phase — and *causal attribution* — the learner's explanatory account of why performance was as it was. [[Bernard Weiner]]'s [[Attribution-Theory|Attribution Theory]] is critical here: attributions vary along three dimensions — *locus* (internal vs. external), *stability* (stable vs. unstable over time), and *controllability* (within or beyond the learner's influence). Adaptive SRL depends on attributing both successes and failures to controllable, internal, and unstable causes (principally effort and strategy selection) rather than to uncontrollable, stable factors (ability, task difficulty). Self-reaction encompasses two processes: *self-satisfaction* (the affective response to performance evaluation, which functions as an intrinsic reward or punishment shaping future motivation) and *adaptive or defensive inferences* (the learner's conclusion about whether to continue current approaches or shift strategies, effort levels, or goals). The cycle then reinitializes — self-reflection informs the next episode's goal-setting and strategic planning. This cyclical architecture means that SRL is not a static competency but a dynamic, iterative process of continuous calibration between the learner's mental models, applied strategies, performance outcomes, and motivational states.
 
 #### 9. [EQUATION] Untitled *(Line 92)*
 
@@ -292,14 +292,14 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 148)*
 
 > [!connections-and-links] Untitled
-> **PKB Integration — SRL Theory as the Governing Architecture of Effective Knowledge Management**: Self-Regulated Learning Theory does not merely *inform* PKM practice; it constitutes its theoretical foundation. Consider the alignment: the Obsidian vault implements *environmental structuring* ($E$ in the triadic model) by creating a persistently available, searchable, interlinked knowledge environment that reduces cognitive load and externalizes memory. [[Spaced Repetition]] through review schedules implements *distributed practice* (the highest-utility strategy per Dunlosky's meta-analysis). [[Retrieval Practice]] through note-questioning and [[Elaborative Interrogation]] implements the testing effect. The [[Zettelkasten]] methodology's insistence on rewriting ideas in one's own words rather than copying passages implements *generative processing* — a technique shown to produce dramatically superior retention compared to verbatim transcription. The vault's tagging and wiki-linking architecture implements *organization strategies* (identifying conceptual structure and relationships) rather than mere *rehearsal* (repetitive exposure). The note templates enforce *goal-setting and planning* before each knowledge capture episode. Collectively, these design choices are not accidental aesthetic preferences but architecturally deliberate implementations of the highest-utility SRL strategies revealed by empirical research.
+> **PKB Integration — SRL Theory as the Governing Architecture of Effective Knowledge Management**: Self-Regulated Learning Theory does not merely *inform* PKM practice; it constitutes its theoretical foundation. Consider the alignment: the Obsidian vault implements *environmental structuring* ($E$ in the triadic model) by creating a persistently available, searchable, interlinked knowledge environment that reduces cognitive load and externalizes memory. [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] through review schedules implements *distributed practice* (the highest-utility strategy per Dunlosky's meta-analysis). [[Retrieval-Practice|Retrieval Practice]] through note-questioning and [[Elaborative-Interrogation|Elaborative Interrogation]] implements the testing effect. The [[Zettelkasten]] methodology's insistence on rewriting ideas in one's own words rather than copying passages implements *generative processing* — a technique shown to produce dramatically superior retention compared to verbatim transcription. The vault's tagging and wiki-linking architecture implements *organization strategies* (identifying conceptual structure and relationships) rather than mere *rehearsal* (repetitive exposure). The note templates enforce *goal-setting and planning* before each knowledge capture episode. Collectively, these design choices are not accidental aesthetic preferences but architecturally deliberate implementations of the highest-utility SRL strategies revealed by empirical research.
 > 
-> Connections: [[Metacognition]] → [[Nelson-Narens Framework]] → [[Flavell's Metacognitive Model]] → [[Dual Process Theory]] → [[Habit Formation]] → [[Cognitive Load Theory]] → [[Desirable Difficulties]] → [[Retrieval Practice]] → [[Spaced Repetition]] → [[Elaborative Interrogation]] → [[Paul-Elder Framework]] → [[Reflective Thinking]]
+> Connections: [[Metacognition]] → [[Nelson-Narens Framework]] → [[Flavell's Metacognitive Model]] → [[Dual-Process-Theory|Dual Process Theory]] → [[Habit-Formation|Habit Formation]] → [[Cognitive-Load-Theory|Cognitive Load Theory]] → [[Desirable-Difficulties|Desirable Difficulties]] → [[Retrieval-Practice|Retrieval Practice]] → [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] → [[Elaborative-Interrogation|Elaborative Interrogation]] → [[Paul-Elder Framework]] → [[Reflective-Thinking|Reflective Thinking]]
 
 #### 16. [INSIGHT] Untitled *(Line 163)*
 
 > [!insight] Untitled
-> **The Calibration-Assistance Paradox in AI-Augmented SRL**: A subtle but critical frontier problem concerns the relationship between AI metacognitive assistance and the development of autonomous self-regulatory competence. If an AI system accurately monitors a learner's comprehension, identifies knowledge gaps, and prescribes targeted remediation, the learner benefits from superior metacognitive calibration — but may not *develop* their own metacognitive monitoring capacity, because the cognitive work of self-monitoring has been outsourced to the system. This parallels the [[Desirable Difficulties]] insight at a systemic level: AI scaffolding that is too supportive may create comfortable, productive short-term learning while preventing the development of the metacognitive musculature that enables autonomous long-term learning. The practical implication for AI-augmented PKM (including Claude-assisted knowledge development in this vault) is that AI should be deployed not to *replace* metacognitive monitoring but to *scaffold* and *model* it — generating questions the learner must answer, identifying connections the learner must evaluate, and externalizing monitoring processes the learner must progressively internalize.
+> **The Calibration-Assistance Paradox in AI-Augmented SRL**: A subtle but critical frontier problem concerns the relationship between AI metacognitive assistance and the development of autonomous self-regulatory competence. If an AI system accurately monitors a learner's comprehension, identifies knowledge gaps, and prescribes targeted remediation, the learner benefits from superior metacognitive calibration — but may not *develop* their own metacognitive monitoring capacity, because the cognitive work of self-monitoring has been outsourced to the system. This parallels the [[Desirable-Difficulties|Desirable Difficulties]] insight at a systemic level: AI scaffolding that is too supportive may create comfortable, productive short-term learning while preventing the development of the metacognitive musculature that enables autonomous long-term learning. The practical implication for AI-augmented PKM (including Claude-assisted knowledge development in this vault) is that AI should be deployed not to *replace* metacognitive monitoring but to *scaffold* and *model* it — generating questions the learner must answer, identifying connections the learner must evaluate, and externalizing monitoring processes the learner must progressively internalize.
 
 #### 17. [SUMMARY] Untitled *(Line 176)*
 
@@ -309,7 +309,7 @@ extraction_summary:
 #### 18. [CONNECTIONS-AND-LINKS] Untitled *(Line 179)*
 
 > [!connections-and-links] Untitled
-> **Explicit PKB Connections to Existing Vault Nodes**: SRL theory integrates with and enriches every major node in this vault's cognitive science cluster. The [[Metacognition]] node (Flavell's model, the Nelson-Narens Framework) provides SRL's cognitive monitoring infrastructure. [[Dual Process Theory]] (System 1 vs. System 2) illuminates why SRL requires effortful System 2 engagement to override automatic, passive study habits that feel sufficient but are epistemically inadequate. [[Cognitive Load Theory]] constrains the implementation of SRL strategies by establishing that metacognitive monitoring itself consumes working memory resources, suggesting that SRL scaffolds (external checklists, structured review templates) reduce the intrinsic cognitive load of self-regulation, freeing resources for deep processing. [[Habit Formation]] theory explains how SRL processes can be progressively automated through deliberate practice, reducing their volitional cost over time — transforming what begins as effortful self-regulation into the reliable cognitive routines that [[William James]] recognized as the hallmark of educated action. [[Interoceptive Metacognition]] and [[Somatic Markers]] connect to SRL through the bodily dimension of metacognitive experience: Efklides's MAPS model proposes that metacognitive feelings (confidence, effort, fluency) are embodied phenomena as much as cognitive ones, making the body an instrument of self-regulatory feedback. The [[Paul-Elder Critical Thinking Framework]] in this vault is, in structural terms, an *SRL protocol* specifically designed for intellectual discourse: it provides the metacognitive standards (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness) against which the critical thinker monitors and evaluates the quality of their own reasoning — precisely the self-judgment function of Zimmerman's self-reflection phase.
+> **Explicit PKB Connections to Existing Vault Nodes**: SRL theory integrates with and enriches every major node in this vault's cognitive science cluster. The [[Metacognition]] node (Flavell's model, the Nelson-Narens Framework) provides SRL's cognitive monitoring infrastructure. [[Dual-Process-Theory|Dual Process Theory]] (System 1 vs. System 2) illuminates why SRL requires effortful System 2 engagement to override automatic, passive study habits that feel sufficient but are epistemically inadequate. [[Cognitive-Load-Theory|Cognitive Load Theory]] constrains the implementation of SRL strategies by establishing that metacognitive monitoring itself consumes working memory resources, suggesting that SRL scaffolds (external checklists, structured review templates) reduce the intrinsic cognitive load of self-regulation, freeing resources for deep processing. [[Habit-Formation|Habit Formation]] theory explains how SRL processes can be progressively automated through deliberate practice, reducing their volitional cost over time — transforming what begins as effortful self-regulation into the reliable cognitive routines that [[William James]] recognized as the hallmark of educated action. [[Interoceptive Metacognition]] and [[Somatic Markers]] connect to SRL through the bodily dimension of metacognitive experience: Efklides's MAPS model proposes that metacognitive feelings (confidence, effort, fluency) are embodied phenomena as much as cognitive ones, making the body an instrument of self-regulatory feedback. The [[Paul-Elder Critical Thinking Framework]] in this vault is, in structural terms, an *SRL protocol* specifically designed for intellectual discourse: it provides the metacognitive standards (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness) against which the critical thinker monitors and evaluates the quality of their own reasoning — precisely the self-judgment function of Zimmerman's self-reflection phase.
 
 #### 19. [FURTHER-EXPLORATION] Untitled *(Line 182)*
 
@@ -321,13 +321,13 @@ extraction_summary:
 > > **[[Boekaerts' Dual Processing Model — Well-Being Regulation vs. Growth Regulation]]**: Boekaerts' adaptive learning model introduces the critical distinction between regulatory modes serving self-protection versus learning — a tension every PKM practitioner encounters when the discomfort of encountering genuine knowledge gaps provokes defensive rather than exploratory responses. This note would explore the appraisal processes governing mode-switching, the role of [[Emotional Regulation]] in SRL, and clinical implications for learners with high test anxiety.
 > 
 > > [!topic-idea]
-> > **[[Self-Determination Theory and SRL — Autonomy, Competence, and Relatedness as Motivational Substrates]]**: [[Edward Deci]] and [[Richard Ryan]]'s [[Self-Determination Theory]] offers a complementary motivational architecture to Bandura's self-efficacy account, identifying *autonomy* (perceived locus of causality), *competence* (effectiveness in interaction with the environment), and *relatedness* (social belonging) as the three basic psychological needs whose satisfaction predicts intrinsic motivation and autonomous self-regulation. A dedicated note would map SDT's needs onto Zimmerman's motivational self-beliefs and examine implications for designing learning environments that support rather than undermine SRL.
+> > **[[Self-Determination Theory and SRL — Autonomy, Competence, and Relatedness as Motivational Substrates]]**: [[Edward Deci]] and [[Richard Ryan]]'s [[Self-Determination-Theory|Self-Determination Theory]] offers a complementary motivational architecture to Bandura's self-efficacy account, identifying *autonomy* (perceived locus of causality), *competence* (effectiveness in interaction with the environment), and *relatedness* (social belonging) as the three basic psychological needs whose satisfaction predicts intrinsic motivation and autonomous self-regulation. A dedicated note would map SDT's needs onto Zimmerman's motivational self-beliefs and examine implications for designing learning environments that support rather than undermine SRL.
 > 
 > > [!topic-idea]
 > > **[[Collective Regulation of Learning (CoRL) — Social Dimensions of SRL]]**: Contemporary SRL research has extended the individual regulatory framework into collaborative learning contexts, examining how groups co-regulate their collective cognitive processes — negotiating shared goals, monitoring group understanding, and adapting collaborative strategies. This note would explore Järvelä and Hadwin's work on shared and co-regulation, implications for PKM communities of practice, and the relationship between individual SRL and [[Harold Jarche]]'s Seek-Sense-Share model.
 > 
 > > [!topic-idea]
-> > **[[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]**: One of the most practically consequential applications of SRL-adjacent research concerns the systematic miscalibration of metacognitive judgments — the tendency of learners to overestimate their knowledge in domains of genuine ignorance ([[Dunning-Kruger Effect]]) while underestimating it in domains of partial mastery. A dedicated note would examine judgment of learning (JOL) research, [[Feeling of Knowing]] studies, and the specific calibration mechanisms by which retrieval practice, delayed JOLs, and outcome feedback produce more accurate metacognitive monitoring.
+> > **[[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]**: One of the most practically consequential applications of SRL-adjacent research concerns the systematic miscalibration of metacognitive judgments — the tendency of learners to overestimate their knowledge in domains of genuine ignorance ([[Dunning-Kruger-Effect|Dunning-Kruger Effect]]) while underestimating it in domains of partial mastery. A dedicated note would examine judgment of learning (JOL) research, [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] studies, and the specific calibration mechanisms by which retrieval practice, delayed JOLs, and outcome feedback produce more accurate metacognitive monitoring.
 > 
 > > [!topic-idea]
 > > **[[AI-Augmented Metacognition — LLMs as External Metacognitive Partners]]**: This frontier note would examine the emerging research on deploying large language models as metacognitive scaffolding tools — generating Socratic questions to prompt learner self-monitoring, providing calibrated feedback on knowledge claims, and designing adaptive retrieval sequences tailored to individual knowledge gaps. This connects directly to the vault's existing work on [[Claude Code]] and [[MCP Integration with Obsidian]], extending it into the theoretical domain of AI-human cognitive collaboration.
@@ -373,7 +373,7 @@ extraction_summary:
 #### 22. [ABSTRACT] Untitled *(Line 333)*
 
 > [!abstract] Untitled
-> [[Self-Regulated Learning]] (SRL) constitutes one of the most generative and empirically substantiated constructs in the history of educational psychology — a framework that reconceives the learner not as a passive recipient of instructional transmission but as an active, metacognitively sophisticated agent who governs their own cognitive, motivational, and behavioural processes in the pursuit of learning goals. Emerging from the confluence of [[Social Cognitive Theory]], [[Metacognition]], and cognitive-developmental psychology across the 1980s and 1990s, SRL provides both a descriptive account of how expert learners operate and a prescriptive architecture for cultivating those capacities in developing learners.
+> [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) constitutes one of the most generative and empirically substantiated constructs in the history of educational psychology — a framework that reconceives the learner not as a passive recipient of instructional transmission but as an active, metacognitively sophisticated agent who governs their own cognitive, motivational, and behavioural processes in the pursuit of learning goals. Emerging from the confluence of [[Social Cognitive Theory]], [[Metacognition]], and cognitive-developmental psychology across the 1980s and 1990s, SRL provides both a descriptive account of how expert learners operate and a prescriptive architecture for cultivating those capacities in developing learners.
 > 
 > This exposition examines SRL through its foundational theoretical genealogy, its canonical cyclical architecture, and the four interacting component processes that constitute its operational machinery: **[[Goal Setting]]**, **[[Self-Monitoring]]**, **[[Self-Evaluation]]**, and **[[Self-Reflection]]**. Each component is treated with the layered scholarly depth it requires — not as an isolated skill but as a node within a dynamic, recursive, and temporally extended self-regulatory system. The exposition further marshals the empirical evidence base, addresses frontier developments including the neuroscience of self-regulation and AI-augmented SRL environments, and situates the framework within the broader knowledge architecture of cognitive science and educational theory.
 > 
@@ -387,7 +387,7 @@ extraction_summary:
 #### 24. [THE-PHILOSOPHY] Untitled *(Line 343)*
 
 > [!the-philosophy] Untitled
-> The philosophical foundation of [[Self-Regulated Learning]] rests on three interconnected premises. First, learners are *agents* — they possess and exercise genuine volitional control over their learning processes rather than being determined solely by environmental contingencies or innate ability. Second, learning is *constructive and cyclical* — effective acquisition of knowledge and skill requires iterative engagement with feedback, not a single linear passage through material. Third, [[Metacognition]] is *governing* — the capacity to think about and regulate one's own thinking constitutes the master variable upon which all other SRL processes depend. These premises place SRL at the intersection of [[Agency Theory]], [[Constructivist Epistemology]], and cognitive science, giving it both normative force (this is how one *ought* to learn) and descriptive power (this is how expert learners actually operate).
+> The philosophical foundation of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] rests on three interconnected premises. First, learners are *agents* — they possess and exercise genuine volitional control over their learning processes rather than being determined solely by environmental contingencies or innate ability. Second, learning is *constructive and cyclical* — effective acquisition of knowledge and skill requires iterative engagement with feedback, not a single linear passage through material. Third, [[Metacognition]] is *governing* — the capacity to think about and regulate one's own thinking constitutes the master variable upon which all other SRL processes depend. These premises place SRL at the intersection of [[Agency Theory]], [[Constructivist Epistemology]], and cognitive science, giving it both normative force (this is how one *ought* to learn) and descriptive power (this is how expert learners actually operate).
 
 #### 25. [QUOTE] Untitled *(Line 356)*
 
@@ -397,22 +397,22 @@ extraction_summary:
 #### 26. [CORE-PRINCIPLE] Untitled *(Line 373)*
 
 > [!core-principle] Untitled
-> The defining architectural feature of [[Self-Regulated Learning]] is its *cyclical, recursive structure*. SRL is not a set of skills deployed once and then archived; it is a continuously revolving loop in which each learning episode generates information that feeds forward into the next episode. This cyclicality distinguishes SRL from simple goal-directed behaviour: where the latter terminates at goal achievement, SRL continues past any individual outcome to extract regulatory intelligence — information about one's strategies, effort, self-efficacy calibration, and goal appropriateness — that informs future learning. The cycle operates at multiple time scales simultaneously: within a single study session, across a unit of study, across a semester, and across a lifetime of learning.
+> The defining architectural feature of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] is its *cyclical, recursive structure*. SRL is not a set of skills deployed once and then archived; it is a continuously revolving loop in which each learning episode generates information that feeds forward into the next episode. This cyclicality distinguishes SRL from simple goal-directed behaviour: where the latter terminates at goal achievement, SRL continues past any individual outcome to extract regulatory intelligence — information about one's strategies, effort, self-efficacy calibration, and goal appropriateness — that informs future learning. The cycle operates at multiple time scales simultaneously: within a single study session, across a unit of study, across a semester, and across a lifetime of learning.
 
 #### 27. [ATOMIC-CONCEPT] Untitled *(Line 380)*
 
 > [!atomic-concept] Untitled
-> **The [[Forethought Phase]]** encompasses all cognitive and motivational processes that occur prior to task engagement and that establish the conditions for successful self-regulation. It contains two principal sub-processes. *Task analysis* involves the decomposition of the learning task into its component demands, the setting of proximal and distal goals, and the strategic planning of how those goals will be pursued — including the selection of learning methods, the allocation of time and cognitive resources, and the identification of potential obstacles. *Motivational beliefs* encompass a cluster of constructs that determine the energization and direction of effort: self-efficacy beliefs regarding one's capacity to execute the required strategies, goal orientation (whether one is pursuing mastery of material or performance relative to others), intrinsic task interest, and the perceived value of learning outcomes. The quality of forethought is decisive: learners who engage in rich, specific goal-setting and motivated strategic planning enter the performance phase with substantially greater regulatory resources than those who begin immediately and without preparation.
+> **The [[Forethought-Phase|Forethought Phase]]** encompasses all cognitive and motivational processes that occur prior to task engagement and that establish the conditions for successful self-regulation. It contains two principal sub-processes. *Task analysis* involves the decomposition of the learning task into its component demands, the setting of proximal and distal goals, and the strategic planning of how those goals will be pursued — including the selection of learning methods, the allocation of time and cognitive resources, and the identification of potential obstacles. *Motivational beliefs* encompass a cluster of constructs that determine the energization and direction of effort: self-efficacy beliefs regarding one's capacity to execute the required strategies, goal orientation (whether one is pursuing mastery of material or performance relative to others), intrinsic task interest, and the perceived value of learning outcomes. The quality of forethought is decisive: learners who engage in rich, specific goal-setting and motivated strategic planning enter the performance phase with substantially greater regulatory resources than those who begin immediately and without preparation.
 
 #### 28. [ATOMIC-CONCEPT] Untitled *(Line 383)*
 
 > [!atomic-concept] Untitled
-> **The [[Performance Phase]]** encompasses the processes that occur during task engagement itself. It is divided into *self-control* processes — which implement the strategic plan formulated during forethought — and *self-observation* processes — which generate the informational raw material for subsequent evaluation and reflection. Self-control includes self-instruction (verbal guidance of one's own behaviour), attention focusing (directing cognitive resources toward task-relevant features), and the deployment of domain-specific task strategies. Self-observation includes self-recording (systematic documentation of one's performance as it unfolds) and self-experimentation (deliberate variation of strategies to test their differential effectiveness). Critically, self-observation must be conducted with sufficient precision and regularity to yield the feedback necessary for effective monitoring — a requirement that directly links the performance phase to the metacognitive monitoring processes described in Flavell's work and formalized in the [[Nelson-Narens Framework]].
+> **The [[Performance-Phase|Performance Phase]]** encompasses the processes that occur during task engagement itself. It is divided into *self-control* processes — which implement the strategic plan formulated during forethought — and *self-observation* processes — which generate the informational raw material for subsequent evaluation and reflection. Self-control includes self-instruction (verbal guidance of one's own behaviour), attention focusing (directing cognitive resources toward task-relevant features), and the deployment of domain-specific task strategies. Self-observation includes self-recording (systematic documentation of one's performance as it unfolds) and self-experimentation (deliberate variation of strategies to test their differential effectiveness). Critically, self-observation must be conducted with sufficient precision and regularity to yield the feedback necessary for effective monitoring — a requirement that directly links the performance phase to the metacognitive monitoring processes described in Flavell's work and formalized in the [[Nelson-Narens Framework]].
 
 #### 29. [ATOMIC-CONCEPT] Untitled *(Line 386)*
 
 > [!atomic-concept] Untitled
-> **The [[Self-Reflection Phase]]** encompasses the evaluative and reactive processes that occur following task completion or at natural breaks within extended learning episodes. It contains *self-judgment* processes — the evaluation of one's performance against standards and the attribution of outcomes to causal factors — and *self-reaction* processes — the affective and motivational responses to those judgments, including satisfaction or dissatisfaction, and the consequent adaptive or defensive inferences about future learning. The self-reflection phase is where the cycle either regenerates productively or deteriorates: adaptive inferences (e.g., "I need to change my study strategy") feed forward into improved forethought for the next cycle, while defensive inferences (e.g., "I am simply not talented in this domain") can generate avoidance, disengagement, or the adoption of self-handicapping strategies that undermine subsequent performance.
+> **The [[Self-Reflection-Phase|Self-Reflection Phase]]** encompasses the evaluative and reactive processes that occur following task completion or at natural breaks within extended learning episodes. It contains *self-judgment* processes — the evaluation of one's performance against standards and the attribution of outcomes to causal factors — and *self-reaction* processes — the affective and motivational responses to those judgments, including satisfaction or dissatisfaction, and the consequent adaptive or defensive inferences about future learning. The self-reflection phase is where the cycle either regenerates productively or deteriorates: adaptive inferences (e.g., "I need to change my study strategy") feed forward into improved forethought for the next cycle, while defensive inferences (e.g., "I am simply not talented in this domain") can generate avoidance, disengagement, or the adoption of self-handicapping strategies that undermine subsequent performance.
 
 #### 30. [EQUATION] Untitled *(Line 395)*
 
@@ -426,7 +426,7 @@ extraction_summary:
 #### 31. [KEY-CLAIM] Untitled *(Line 406)*
 
 > [!key-claim] Untitled
-> Learners pursuing [[Mastery Goals]] exhibit qualitatively superior self-regulatory profiles compared to those pursuing performance goals across every phase of the [[Zimmerman Cyclical Model]]. During forethought, mastery-oriented learners set deeper, more specific learning goals and select more effortful strategies. During performance, they sustain attention more effectively, apply strategies more flexibly, and persist longer in the face of difficulty. During self-reflection, they attribute failure to mutable factors (insufficient effort or inappropriate strategy) rather than immutable ones (ability), generate adaptive rather than defensive inferences, and maintain higher self-efficacy for subsequent engagement. Performance goals, particularly avoidance-performance goals, are associated with exactly the opposite profile — shallower processing, defensive self-monitoring, and helpless responses to setback.
+> Learners pursuing [[Mastery-Goals|Mastery Goals]] exhibit qualitatively superior self-regulatory profiles compared to those pursuing performance goals across every phase of the [[Zimmerman Cyclical Model]]. During forethought, mastery-oriented learners set deeper, more specific learning goals and select more effortful strategies. During performance, they sustain attention more effectively, apply strategies more flexibly, and persist longer in the face of difficulty. During self-reflection, they attribute failure to mutable factors (insufficient effort or inappropriate strategy) rather than immutable ones (ability), generate adaptive rather than defensive inferences, and maintain higher self-efficacy for subsequent engagement. Performance goals, particularly avoidance-performance goals, are associated with exactly the opposite profile — shallower processing, defensive self-monitoring, and helpless responses to setback.
 
 #### 32. [EXAMPLE] Untitled *(Line 421)*
 
@@ -451,7 +451,7 @@ extraction_summary:
 #### 36. [ARGUMENT] Untitled *(Line 451)*
 
 > [!argument] Untitled
-> The most adaptive attributional pattern following failure is the attribution of poor performance to unstable, internal, controllable factors — specifically, *insufficient effort* or *inappropriate strategy use*. When a learner judges that they performed poorly because they studied for insufficient time or used an ineffective method, they preserve both a positive self-efficacy estimate (the capacity is intact; only its deployment was suboptimal) and a clear action implication (study more, or differently). This attributional pattern maintains the motivational conditions for re-engagement and generates the specific adaptive inferences that distinguish expert self-regulators. By contrast, the attribution of failure to stable, internal, uncontrollable factors — specifically, *low ability* — has exactly the opposite consequences: it undermines self-efficacy, implies that effort is futile (since the limiting factor is fixed), and generates learned helplessness rather than strategic adaptation. This is precisely why [[Implicit Theories of Intelligence]] (Dweck's *entity* vs. *incremental* theories) are so consequential for SRL: learners who hold entity theories (intelligence is fixed) are structurally predisposed toward ability attributions in the face of failure, while those who hold incremental theories (intelligence is malleable) naturally gravitate toward effort and strategy attributions.
+> The most adaptive attributional pattern following failure is the attribution of poor performance to unstable, internal, controllable factors — specifically, *insufficient effort* or *inappropriate strategy use*. When a learner judges that they performed poorly because they studied for insufficient time or used an ineffective method, they preserve both a positive self-efficacy estimate (the capacity is intact; only its deployment was suboptimal) and a clear action implication (study more, or differently). This attributional pattern maintains the motivational conditions for re-engagement and generates the specific adaptive inferences that distinguish expert self-regulators. By contrast, the attribution of failure to stable, internal, uncontrollable factors — specifically, *low ability* — has exactly the opposite consequences: it undermines self-efficacy, implies that effort is futile (since the limiting factor is fixed), and generates learned helplessness rather than strategic adaptation. This is precisely why [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] (Dweck's *entity* vs. *incremental* theories) are so consequential for SRL: learners who hold entity theories (intelligence is fixed) are structurally predisposed toward ability attributions in the face of failure, while those who hold incremental theories (intelligence is malleable) naturally gravitate toward effort and strategy attributions.
 
 #### 37. [INSIGHT] Untitled *(Line 462)*
 
@@ -476,17 +476,17 @@ extraction_summary:
 #### 41. [COUNTER-ARGUMENT] Untitled *(Line 482)*
 
 > [!counter-argument] Untitled
-> Critics of the SRL framework have raised several substantive objections that deserve serious treatment. First, *ecological validity concerns*: most SRL research has been conducted in laboratory or classroom settings under conditions of relatively unconstrained time and cognitive resources. In real-world learning contexts — including the cognitively demanding PKM workflows of professional knowledge workers — learners face severe time pressure, attention fragmentation, and motivational demands that may overwhelm the deliberate metacognitive processing SRL requires. The [[Allostatic Load]] literature (see vault note) is directly relevant here: chronic stress systematically impairs prefrontal executive function, precisely the neurological substrate of self-regulatory processes, raising the question of whether SRL prescriptions that assume adequate regulatory resources may be inapplicable to chronically stressed learners. Second, *cultural specificity concerns*: much SRL research has been conducted with Western, educated, and relatively affluent populations. Goal-setting and self-monitoring practices that are individually oriented may interface poorly with collectivist cultural frameworks in which learning is more deeply social and interdependent. Third, *measurement concerns*: self-report instruments like the MSLQ measure learners' *beliefs* about their strategy use rather than actual strategy use, and the correlation between these is substantially imperfect.
+> Critics of the SRL framework have raised several substantive objections that deserve serious treatment. First, *ecological validity concerns*: most SRL research has been conducted in laboratory or classroom settings under conditions of relatively unconstrained time and cognitive resources. In real-world learning contexts — including the cognitively demanding PKM workflows of professional knowledge workers — learners face severe time pressure, attention fragmentation, and motivational demands that may overwhelm the deliberate metacognitive processing SRL requires. The [[Allostatic-Load|Allostatic Load]] literature (see vault note) is directly relevant here: chronic stress systematically impairs prefrontal executive function, precisely the neurological substrate of self-regulatory processes, raising the question of whether SRL prescriptions that assume adequate regulatory resources may be inapplicable to chronically stressed learners. Second, *cultural specificity concerns*: much SRL research has been conducted with Western, educated, and relatively affluent populations. Goal-setting and self-monitoring practices that are individually oriented may interface poorly with collectivist cultural frameworks in which learning is more deeply social and interdependent. Third, *measurement concerns*: self-report instruments like the MSLQ measure learners' *beliefs* about their strategy use rather than actual strategy use, and the correlation between these is substantially imperfect.
 
 #### 42. [CONNECTIONS-AND-LINKS] Untitled *(Line 491)*
 
 > [!connections-and-links] Untitled
 > **Vault Cross-Reference Network**:
 > - [[Metacognition]] → SRL's self-monitoring and self-reflection components are direct operationalizations of the *metacognitive regulation* layer in Flavell's model and the *control* function in the [[Nelson-Narens Framework]]. SRL provides the applied, educational instantiation of the abstract metacognitive architecture elaborated in those notes.
-> - [[Habit Formation]] → The automatization of SRL processes through habit formation is a critical frontier issue. The deliberate, effortful character of explicit SRL processes (goal-setting, self-monitoring, self-evaluation) imposes significant cognitive load costs; sustainable SRL depends on the progressive automatization of these processes into habitual routines. See [[Dual Process Theory]] connections below.
-> - [[Dual Process Theory]] → The SRL cycle maps productively onto System 1/System 2 architecture: the deliberate, effortful processes of goal-setting, strategic planning, and explicit self-monitoring are quintessentially System 2 operations; the gradual automatization of study routines and strategy deployment progressively transfers regulatory control toward System 1, reducing cognitive load costs while preserving regulatory effectiveness.
-> - [[Cognitive Load Theory]] → The cognitive load imposed by self-monitoring creates a fundamental design tension in SRL: the conditions that produce the best learning (high desirable difficulty) also impose the greatest intrinsic load, reducing the residual cognitive capacity available for metacognitive monitoring. Expert learners resolve this tension through schema automation; novices require instructional scaffolds that externalize the monitoring function.
-> - [[Spaced Retrieval Practice]] and [[Desirable Difficulties]] → Both are best understood not merely as effective learning strategies but as SRL-integrated methodologies that simultaneously optimize encoding and provide accurate monitoring feedback.
+> - [[Habit-Formation|Habit Formation]] → The automatization of SRL processes through habit formation is a critical frontier issue. The deliberate, effortful character of explicit SRL processes (goal-setting, self-monitoring, self-evaluation) imposes significant cognitive load costs; sustainable SRL depends on the progressive automatization of these processes into habitual routines. See [[Dual-Process-Theory|Dual Process Theory]] connections below.
+> - [[Dual-Process-Theory|Dual Process Theory]] → The SRL cycle maps productively onto System 1/System 2 architecture: the deliberate, effortful processes of goal-setting, strategic planning, and explicit self-monitoring are quintessentially System 2 operations; the gradual automatization of study routines and strategy deployment progressively transfers regulatory control toward System 1, reducing cognitive load costs while preserving regulatory effectiveness.
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] → The cognitive load imposed by self-monitoring creates a fundamental design tension in SRL: the conditions that produce the best learning (high desirable difficulty) also impose the greatest intrinsic load, reducing the residual cognitive capacity available for metacognitive monitoring. Expert learners resolve this tension through schema automation; novices require instructional scaffolds that externalize the monitoring function.
+> - [[Spaced Retrieval Practice]] and [[Desirable-Difficulties|Desirable Difficulties]] → Both are best understood not merely as effective learning strategies but as SRL-integrated methodologies that simultaneously optimize encoding and provide accurate monitoring feedback.
 > - [[Interoceptive Metacognition]] → The emerging literature on the role of bodily signals in metacognitive monitoring (see vault note on embodied cognition) opens productive connections: interoceptive awareness of effort, fatigue, and cognitive load may function as a monitoring resource that complements explicitly deliberate self-observation.
 
 #### 43. [INSIGHT] Untitled *(Line 512)*
@@ -497,7 +497,7 @@ extraction_summary:
 #### 44. [SUMMARY] Untitled *(Line 525)*
 
 > [!summary] Untitled
-> [[Self-Regulated Learning]] is best understood as the cognitive architecture of intellectual agency — the systematic of goal-directed, metacognitively governed, motivationally sustained processes by which capable learners transform raw exposure to information into durable, transferable knowledge and skill. Its four key components — [[Goal Setting]], [[Self-Monitoring]], [[Self-Evaluation]], and [[Self-Reflection]] — are not independent skills to be trained in isolation but dynamically interacting nodes in the [[Zimmerman Cyclical Model]]: goals provide the standards without which monitoring lacks referents; monitoring provides the performance data without which evaluation lacks inputs; evaluation provides the comparative judgment without which reflection lacks object; and reflection generates the adaptive inferences without which the next cycle of goal-setting lacks the regulatory intelligence to improve upon its predecessor. The cycle is self-correcting by design — but only when each component functions with sufficient precision and sophistication to generate the informational flow upon which the others depend. Where that flow is disrupted — by miscalibrated monitoring, maladaptive attribution, defensive self-reaction, or vague goal-setting — the cycle degrades from a self-improving system into a self-reinforcing one, perpetuating ineffective strategies across iterations.
+> [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] is best understood as the cognitive architecture of intellectual agency — the systematic of goal-directed, metacognitively governed, motivationally sustained processes by which capable learners transform raw exposure to information into durable, transferable knowledge and skill. Its four key components — [[Goal Setting]], [[Self-Monitoring]], [[Self-Evaluation]], and [[Self-Reflection]] — are not independent skills to be trained in isolation but dynamically interacting nodes in the [[Zimmerman Cyclical Model]]: goals provide the standards without which monitoring lacks referents; monitoring provides the performance data without which evaluation lacks inputs; evaluation provides the comparative judgment without which reflection lacks object; and reflection generates the adaptive inferences without which the next cycle of goal-setting lacks the regulatory intelligence to improve upon its predecessor. The cycle is self-correcting by design — but only when each component functions with sufficient precision and sophistication to generate the informational flow upon which the others depend. Where that flow is disrupted — by miscalibrated monitoring, maladaptive attribution, defensive self-reaction, or vague goal-setting — the cycle degrades from a self-improving system into a self-reinforcing one, perpetuating ineffective strategies across iterations.
 > 
 > For the PKM practitioner, the implications are architectural and not merely strategic. A knowledge management system that is not designed around the SRL cycle — that provides for capture and storage without engineering the conditions for goal-directed processing, metacognitive monitoring, self-evaluative comparison, and reflective synthesis — is a sophisticated index at best and an illusion of learning at worst. The deliberate integration of SRL principles into PKM design — through operationalized learning goals, retrieval-based monitoring protocols, structured self-evaluation rubrics, and regular reflective review sessions — transforms the vault from a passive repository into an active cognitive extension that compounds intellectual growth across every iteration of the cycle.
 
@@ -505,7 +505,7 @@ extraction_summary:
 
 > [!connections-and-links] Untitled
 > **PKB Integration — Existing Vault Concepts**:
-> SRL's [[Self-Monitoring]] component is the applied educational instantiation of the *monitoring function* in the [[Nelson-Narens Framework]] and of *metacognitive experience* in [[Flavell's Metacognitive Model]]. SRL's [[Self-Reflection Phase]] instantiates *Schön's Reflective Practice* at the level of individual learning episodes. The [[Habit Formation]] mechanisms documented in the vault explain how deliberate SRL processes become progressively automatized through neural habit architecture — resolving the tension between SRL's cognitive load costs and its long-term sustainability. [[Cognitive Load Theory]] provides the mechanistic account of why self-monitoring is harder under high intrinsic load conditions. [[Desirable Difficulties]] and [[Spaced Retrieval Practice]] are the optimal strategy implementations of SRL's performance phase monitoring requirements. [[Dual Process Theory]] explains the System 2 character of explicit SRL processes and the System 1 trajectory toward which habituated SRL tends. The [[Paul-Elder Critical Thinking Framework]] parallels SRL's reflective dimension — both require the metacognitive examination of one's own intellectual processes as a precondition for improvement.
+> SRL's [[Self-Monitoring]] component is the applied educational instantiation of the *monitoring function* in the [[Nelson-Narens Framework]] and of *metacognitive experience* in [[Flavell's Metacognitive Model]]. SRL's [[Self-Reflection-Phase|Self-Reflection Phase]] instantiates *Schön's Reflective Practice* at the level of individual learning episodes. The [[Habit-Formation|Habit Formation]] mechanisms documented in the vault explain how deliberate SRL processes become progressively automatized through neural habit architecture — resolving the tension between SRL's cognitive load costs and its long-term sustainability. [[Cognitive-Load-Theory|Cognitive Load Theory]] provides the mechanistic account of why self-monitoring is harder under high intrinsic load conditions. [[Desirable-Difficulties|Desirable Difficulties]] and [[Spaced Retrieval Practice]] are the optimal strategy implementations of SRL's performance phase monitoring requirements. [[Dual-Process-Theory|Dual Process Theory]] explains the System 2 character of explicit SRL processes and the System 1 trajectory toward which habituated SRL tends. The [[Paul-Elder Critical Thinking Framework]] parallels SRL's reflective dimension — both require the metacognitive examination of one's own intellectual processes as a precondition for improvement.
 
 #### 46. [FURTHER-EXPLORATION] Untitled *(Line 534)*
 
@@ -520,7 +520,7 @@ extraction_summary:
 #### 48. [TOPIC-IDEA] Untitled *(Line 540)*
 
 > [!topic-idea] Untitled
-> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit Formation]], [[Emotion Regulation]], and the [[Allostatic Load]] literature.
+> **[[Volitional Control and Motivational Self-Regulation]]** — An exposition of Corno's model of [[Volitional Control]] and the SRL literature on *motivation regulation* — the strategies learners use to sustain motivation, manage boredom and anxiety, and prevent goal abandonment during extended learning episodes. Connects to [[Habit-Formation|Habit Formation]], [[Emotion Regulation]], and the [[Allostatic-Load|Allostatic Load]] literature.
 
 #### 49. [TOPIC-IDEA] Untitled *(Line 543)*
 
@@ -545,7 +545,7 @@ extraction_summary:
 #### 53. [ASK-YOURSELF-THIS] Untitled *(Line 555)*
 
 > [!ask-yourself-this] Untitled
-> Where in your PKM workflow does the [[Self-Reflection Phase]] of the [[Zimmerman Cyclical Model]] actually occur? Is there a designated time and format in which you evaluate the quality of your self-monitoring, examine your attributional patterns in the face of comprehension failure, and generate adaptive inferences about your strategy use — or does your system end at the self-evaluation stage, generating judgments of outcome without generating the reflective intelligence needed to improve the next cycle?
+> Where in your PKM workflow does the [[Self-Reflection-Phase|Self-Reflection Phase]] of the [[Zimmerman Cyclical Model]] actually occur? Is there a designated time and format in which you evaluate the quality of your self-monitoring, examine your attributional patterns in the face of comprehension failure, and generate adaptive inferences about your strategy use — or does your system end at the self-evaluation stage, generating judgments of outcome without generating the reflective intelligence needed to improve the next cycle?
 
 #### 54. [ASK-YOURSELF-THIS] Untitled *(Line 558)*
 
@@ -601,7 +601,7 @@ extraction_summary:
 #### 57. [ABSTRACT] Untitled *(Line 650)*
 
 > [!abstract] Untitled
-> This exposition delivers a comprehensive, university-level treatment of metacognition's role in [[Self-Regulated Learning]] (SRL), examining the theoretical architecture, empirical foundations, mechanistic detail, and educational implications of this crucially important intersection. Metacognition — the capacity to think about one's own thinking — functions not merely as one component among many within self-regulated learning but as its executive governing layer: the cognitive faculty that initiates strategic planning before engagement, monitors comprehension fidelity during performance, and evaluates outcome quality in its aftermath. Drawing on more than four decades of empirical and theoretical development spanning [[Flavell's Metacognitive Model|Flavell's foundational taxonomy]], [[Barry Zimmerman|Zimmerman's cyclical model]], [[Paul Pintrich|Pintrich's phases-and-areas framework]], [[Philip Winne|Winne and Hadwin's COPES architecture]], and the emerging neuroscientific identification of prefrontal-cingulate circuits as the biological substrate of metacognitive regulation, this exposition demonstrates that self-regulated learning is, at its core, metacognitively mediated learning. The document moves through the intellectual genealogy of the field, the theoretical frameworks that organized it, the mechanisms by which metacognitive skills generate regulatory action, the robust evidence base linking metacognitive competence to academic achievement, the practical architectures through which these skills can be cultivated, and the emerging research frontiers that are reshaping the domain. Throughout, connections are drawn to the vault's existing knowledge nodes: the [[Nelson-Narens Framework]], [[Dual Process Theory]], [[Cognitive Load Theory]], [[Desirable Difficulties]], [[Habit Formation]], and [[Personal Knowledge Management]] design — positioning metacognition not as an abstract psychological construct but as the operational intelligence that makes sustainable intellectual work possible.
+> This exposition delivers a comprehensive, university-level treatment of metacognition's role in [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL), examining the theoretical architecture, empirical foundations, mechanistic detail, and educational implications of this crucially important intersection. Metacognition — the capacity to think about one's own thinking — functions not merely as one component among many within self-regulated learning but as its executive governing layer: the cognitive faculty that initiates strategic planning before engagement, monitors comprehension fidelity during performance, and evaluates outcome quality in its aftermath. Drawing on more than four decades of empirical and theoretical development spanning [[Flavell's Metacognitive Model|Flavell's foundational taxonomy]], [[Barry Zimmerman|Zimmerman's cyclical model]], [[Paul Pintrich|Pintrich's phases-and-areas framework]], [[Philip Winne|Winne and Hadwin's COPES architecture]], and the emerging neuroscientific identification of prefrontal-cingulate circuits as the biological substrate of metacognitive regulation, this exposition demonstrates that self-regulated learning is, at its core, metacognitively mediated learning. The document moves through the intellectual genealogy of the field, the theoretical frameworks that organized it, the mechanisms by which metacognitive skills generate regulatory action, the robust evidence base linking metacognitive competence to academic achievement, the practical architectures through which these skills can be cultivated, and the emerging research frontiers that are reshaping the domain. Throughout, connections are drawn to the vault's existing knowledge nodes: the [[Nelson-Narens Framework]], [[Dual-Process-Theory|Dual Process Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Desirable-Difficulties|Desirable Difficulties]], [[Habit-Formation|Habit Formation]], and [[Personal-Knowledge-Management|Personal Knowledge Management]] design — positioning metacognition not as an abstract psychological construct but as the operational intelligence that makes sustainable intellectual work possible.
 
 #### 58. [THE-PHILOSOPHY] Untitled *(Line 653)*
 
@@ -683,7 +683,7 @@ extraction_summary:
 #### 73. [CONNECTIONS-AND-LINKS] Untitled *(Line 872)*
 
 > [!connections-and-links] Untitled
-> **Cross-Vault Integration**: This exposition connects to several existing vault nodes with high conceptual relevance. The [[Nelson-Narens Framework]] provides the formal architecture of monitoring and control that underlies all three SRL cycle phases. [[Cognitive Load Theory]] contextualizes the attentional demands of metacognitive monitoring during performance, explaining why metacognitive activity is most vulnerable under conditions of high intrinsic load. The [[Desirable Difficulties]] framework explains why accurate metacognitive monitoring requires override of phenomenologically misleading fluency signals. [[Habit Formation]] theory is relevant to the conversion of deliberate metacognitive strategies into automatized learning routines, reducing the cognitive overhead of self-regulation. The [[Paul-Elder Critical Thinking Framework]] can be understood as a domain-general metacognitive toolkit for evaluating reasoning quality. [[Dual Process Theory]] illuminates the System 1/System 2 dynamics of metacognitive control: metacognitive monitoring is a System 2 activity that intervenes on System 1 processing tendencies.
+> **Cross-Vault Integration**: This exposition connects to several existing vault nodes with high conceptual relevance. The [[Nelson-Narens Framework]] provides the formal architecture of monitoring and control that underlies all three SRL cycle phases. [[Cognitive-Load-Theory|Cognitive Load Theory]] contextualizes the attentional demands of metacognitive monitoring during performance, explaining why metacognitive activity is most vulnerable under conditions of high intrinsic load. The [[Desirable-Difficulties|Desirable Difficulties]] framework explains why accurate metacognitive monitoring requires override of phenomenologically misleading fluency signals. [[Habit-Formation|Habit Formation]] theory is relevant to the conversion of deliberate metacognitive strategies into automatized learning routines, reducing the cognitive overhead of self-regulation. The [[Paul-Elder Critical Thinking Framework]] can be understood as a domain-general metacognitive toolkit for evaluating reasoning quality. [[Dual-Process-Theory|Dual Process Theory]] illuminates the System 1/System 2 dynamics of metacognitive control: metacognitive monitoring is a System 2 activity that intervenes on System 1 processing tendencies.
 
 #### 74. [SUMMARY] Untitled *(Line 909)*
 
@@ -693,7 +693,7 @@ extraction_summary:
 #### 75. [CONNECTIONS-AND-LINKS] Untitled *(Line 912)*
 
 > [!connections-and-links] Untitled
-> **Extended Vault Connections**: The following node connections are of high priority for deepening this framework within the vault. [[Flavell's Metacognitive Model]] provides the declarative foundation explored in Phase 2. [[Barry Zimmerman|Zimmerman's Cyclical Model]] is the organizing framework for Phase 3 and 4. [[Paul Pintrich|Pintrich's Phases and Areas Framework]] provides the matrix structure that extends Zimmerman's account. [[Nelson-Narens Framework]] provides the formal architecture of monitoring and control deployed throughout. [[Desirable Difficulties|Bjork's Desirable Difficulties]] connects the performance-phase calibration problem to retrieval practice and spaced repetition. [[Cognitive Load Theory]] contextualizes the attentional economics of metacognitive monitoring. [[Self-Efficacy]] provides the motivational interface discussed in Phase 5. [[Socially Shared Regulation]] extends the individual SRL frame to collaborative learning. [[Reading Metacognition]] applies the general frameworks to the domain most extensively studied. [[Metacognitive Accuracy|Calibration Research]] addresses the measurement of monitoring quality.
+> **Extended Vault Connections**: The following node connections are of high priority for deepening this framework within the vault. [[Flavell's Metacognitive Model]] provides the declarative foundation explored in Phase 2. [[Barry Zimmerman|Zimmerman's Cyclical Model]] is the organizing framework for Phase 3 and 4. [[Paul Pintrich|Pintrich's Phases and Areas Framework]] provides the matrix structure that extends Zimmerman's account. [[Nelson-Narens Framework]] provides the formal architecture of monitoring and control deployed throughout. [[Desirable Difficulties|Bjork's Desirable Difficulties]] connects the performance-phase calibration problem to retrieval practice and spaced repetition. [[Cognitive-Load-Theory|Cognitive Load Theory]] contextualizes the attentional economics of metacognitive monitoring. [[Self-Efficacy]] provides the motivational interface discussed in Phase 5. [[Socially Shared Regulation]] extends the individual SRL frame to collaborative learning. [[Reading Metacognition]] applies the general frameworks to the domain most extensively studied. [[Metacognitive Accuracy|Calibration Research]] addresses the measurement of monitoring quality.
 
 #### 76. [FURTHER-EXPLORATION] Untitled *(Line 915)*
 
@@ -777,16 +777,16 @@ extraction_summary:
 #### 85. [ABSTRACT] Untitled *(Line 1057)*
 
 > [!abstract] Untitled
-> This exposition examines one of educational psychology's most generative theoretical intersections: the dynamic relationship between [[Motivation|motivational processes]] and [[Self-Regulated Learning|self-regulated learning (SRL)]]. At its core, this relationship can be stated with deceptive simplicity—motivation determines *whether* a learner will engage in self-regulation, while self-regulation determines *how effectively* that motivational energy is channelled toward learning outcomes. Yet the mechanisms through which these two domains interpenetrate are intricate, bidirectional, and context-dependent in ways that demand rigorous theoretical treatment.
+> This exposition examines one of educational psychology's most generative theoretical intersections: the dynamic relationship between [[Motivation|motivational processes]] and [[Self-Regulated-Learning-—-SRL|self-regulated learning (SRL)]]. At its core, this relationship can be stated with deceptive simplicity—motivation determines *whether* a learner will engage in self-regulation, while self-regulation determines *how effectively* that motivational energy is channelled toward learning outcomes. Yet the mechanisms through which these two domains interpenetrate are intricate, bidirectional, and context-dependent in ways that demand rigorous theoretical treatment.
 > 
-> The exposition proceeds through eight phases. Beginning with [[Self-Determination Theory|Self-Determination Theory (SDT)]] as the dominant motivational framework, it traces the theoretical lineage from early behaviorist accounts through the cognitive revolution and into contemporary social-cognitive and self-systems perspectives. The architectural center of the analysis is [[Zimmerman's Cyclical SRL Model|Zimmerman's (2000, 2002) cyclical phase model]], which positions motivational beliefs—[[Self-Efficacy|self-efficacy]], goal orientation, intrinsic interest, and outcome expectations—as the primary drivers of each self-regulatory phase. The exposition integrates [[Achievement Goal Theory|Achievement Goal Theory]], [[Expectancy-Value Theory|Expectancy-Value Theory]], [[Attribution Theory|Attribution Theory]], and the emerging domain of **motivational regulation** to construct a comprehensive account of how learners sustain, redirect, and sometimes fail to maintain the motivational resources necessary for deep, strategic engagement. Practical implications for [[PKM System Design|PKM system design]] and deliberate learning architecture are drawn throughout.
+> The exposition proceeds through eight phases. Beginning with [[Self-Determination-Theory|Self-Determination Theory (SDT)]] as the dominant motivational framework, it traces the theoretical lineage from early behaviorist accounts through the cognitive revolution and into contemporary social-cognitive and self-systems perspectives. The architectural center of the analysis is [[Zimmerman's Cyclical SRL Model|Zimmerman's (2000, 2002) cyclical phase model]], which positions motivational beliefs—[[Self-Efficacy|self-efficacy]], goal orientation, intrinsic interest, and outcome expectations—as the primary drivers of each self-regulatory phase. The exposition integrates [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Expectancy-Value Theory|Expectancy-Value Theory]], [[Attribution-Theory|Attribution Theory]], and the emerging domain of **motivational regulation** to construct a comprehensive account of how learners sustain, redirect, and sometimes fail to maintain the motivational resources necessary for deep, strategic engagement. Practical implications for [[PKM System Design|PKM system design]] and deliberate learning architecture are drawn throughout.
 
 #### 86. [THE-PHILOSOPHY] Untitled *(Line 1066)*
 
 > [!the-philosophy] Untitled
 > **The Fundamental Asymmetry of Knowledge and Action**
 > 
-> Educational psychology has long struggled with a paradox of profound practical consequence: learners who *know* the most effective learning strategies—spaced retrieval, elaborative interrogation, interleaved practice—frequently fail to deploy them. This is not primarily a knowledge deficit. It is a motivational deficit. The gap between knowing *how* to learn and actually *doing* it is bridged, or left unbridged, by the entire motivational architecture of the self. Motivation is not merely the engine that starts learning; it is the continuous regulatory force that determines depth of processing, persistence under difficulty, strategic flexibility, and willingness to embrace the productive failure that characterizes genuine intellectual growth. No account of [[Self-Regulated Learning|self-regulated learning]] can be theoretically adequate without a correspondingly sophisticated account of the motivational systems that sustain it.
+> Educational psychology has long struggled with a paradox of profound practical consequence: learners who *know* the most effective learning strategies—spaced retrieval, elaborative interrogation, interleaved practice—frequently fail to deploy them. This is not primarily a knowledge deficit. It is a motivational deficit. The gap between knowing *how* to learn and actually *doing* it is bridged, or left unbridged, by the entire motivational architecture of the self. Motivation is not merely the engine that starts learning; it is the continuous regulatory force that determines depth of processing, persistence under difficulty, strategic flexibility, and willingness to embrace the productive failure that characterizes genuine intellectual growth. No account of [[Self-Regulated-Learning-—-SRL|self-regulated learning]] can be theoretically adequate without a correspondingly sophisticated account of the motivational systems that sustain it.
 
 #### 87. [DEFINITION] Untitled *(Line 1071)*
 
@@ -808,7 +808,7 @@ extraction_summary:
 > [!atomic-concept] Untitled
 > **Self-Determination Theory (SDT)** — Deci & Ryan (1985, 2000)
 > 
-> SDT is a macro-theory of human motivation organized around the thesis that human beings are inherently active organisms with natural tendencies toward growth, integration, and self-determination. Its organizational core is the claim that motivation exists along a continuum of *relative autonomy*, ranging from complete external control to complete self-determination, and that movement along this continuum—through the process of [[Internalization|internalization]]—predicts a wide range of psychological, behavioral, and achievement outcomes. SDT currently comprises six mini-theories: [[Cognitive Evaluation Theory|Cognitive Evaluation Theory (CET)]], [[Organismic Integration Theory|Organismic Integration Theory (OIT)]], [[Causality Orientations Theory|Causality Orientations Theory (COT)]], [[Basic Psychological Needs Theory|Basic Psychological Needs Theory (BPNT)]], [[Goal Contents Theory|Goal Contents Theory (GCT)]], and [[Relational Motivation Theory|Relational Motivation Theory (RMT)]].
+> SDT is a macro-theory of human motivation organized around the thesis that human beings are inherently active organisms with natural tendencies toward growth, integration, and self-determination. Its organizational core is the claim that motivation exists along a continuum of *relative autonomy*, ranging from complete external control to complete self-determination, and that movement along this continuum—through the process of [[Internalization|internalization]]—predicts a wide range of psychological, behavioral, and achievement outcomes. SDT currently comprises six mini-theories: [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory (CET)]], [[Organismic-Integration-Theory|Organismic Integration Theory (OIT)]], [[Causality-Orientations-Theory|Causality Orientations Theory (COT)]], [[Basic Psychological Needs Theory|Basic Psychological Needs Theory (BPNT)]], [[Goal Contents Theory|Goal Contents Theory (GCT)]], and [[Relational Motivation Theory|Relational Motivation Theory (RMT)]].
 
 #### 91. [EQUATION] Untitled *(Line 1107)*
 
@@ -885,13 +885,13 @@ extraction_summary:
 > 
 > [[Metacognition]] ↔ Motivation: The [[Nelson-Narens Framework|Nelson-Narens (1990)]] monitoring-control framework maps onto Zimmerman's self-observation/self-evaluation subprocesses. Metacognitive monitoring is motivationally driven—learners must be motivated to accurately assess their knowledge states.
 > 
-> [[Dual Process Theory]] ↔ Achievement Goals: Performance-avoidance goals activate threat-oriented System 1 processing (amygdala-mediated, performance-disrupting), while mastery-approach goals support System 2 deliberative processing associated with deep SRL.
+> [[Dual-Process-Theory|Dual Process Theory]] ↔ Achievement Goals: Performance-avoidance goals activate threat-oriented System 1 processing (amygdala-mediated, performance-disrupting), while mastery-approach goals support System 2 deliberative processing associated with deep SRL.
 > 
-> [[Habit Formation]] ↔ Volitional Control: Automatizing volitional control strategies through habit formation reduces the ongoing motivational cost of sustained learning engagement, exactly as automatizing cognitive strategies reduces cognitive load.
+> [[Habit-Formation|Habit Formation]] ↔ Volitional Control: Automatizing volitional control strategies through habit formation reduces the ongoing motivational cost of sustained learning engagement, exactly as automatizing cognitive strategies reduces cognitive load.
 > 
-> [[Cognitive Load Theory]] ↔ Motivational Regulation: Motivational depletion has functional equivalence with cognitive load—both consume limited processing capacity, and both can be managed through environmental design and strategic chunking.
+> [[Cognitive-Load-Theory|Cognitive Load Theory]] ↔ Motivational Regulation: Motivational depletion has functional equivalence with cognitive load—both consume limited processing capacity, and both can be managed through environmental design and strategic chunking.
 > 
-> [[Desirable Difficulties]] ↔ Growth Mindset: Bjork's desirable difficulties framework requires precisely the implicit theory of intelligence that Dweck's growth mindset research promotes—interpreting difficulty as an indicator of learning opportunity rather than inadequate ability.
+> [[Desirable-Difficulties|Desirable Difficulties]] ↔ Growth Mindset: Bjork's desirable difficulties framework requires precisely the implicit theory of intelligence that Dweck's growth mindset research promotes—interpreting difficulty as an indicator of learning opportunity rather than inadequate ability.
 
 #### 104. [INSIGHT] Untitled *(Line 1254)*
 
@@ -916,13 +916,13 @@ extraction_summary:
 > 
 > [[Metacognition]] — Motivational metacognition as an extension of the [[Nelson-Narens Framework|Nelson-Narens monitoring-control framework]]; specifically, motivational monitoring (tracking self-efficacy, goal orientation, volitional state) and motivational control (deploying regulation strategies) as the motivational analogue of cognitive monitoring and control.
 > 
-> [[Dual Process Theory]] — Achievement goal orientations operate partly through System 1/System 2 dynamics: performance-avoidance goals activate threat-oriented automatic appraisals (System 1), while mastery-approach goals support deliberative, strategy-oriented processing (System 2).
+> [[Dual-Process-Theory|Dual Process Theory]] — Achievement goal orientations operate partly through System 1/System 2 dynamics: performance-avoidance goals activate threat-oriented automatic appraisals (System 1), while mastery-approach goals support deliberative, strategy-oriented processing (System 2).
 > 
-> [[Habit Formation]] — Volitional control strategies are the habits of motivational management; their automatization through neural habit architecture is what distinguishes expert from novice self-regulators in long-term learning contexts.
+> [[Habit-Formation|Habit Formation]] — Volitional control strategies are the habits of motivational management; their automatization through neural habit architecture is what distinguishes expert from novice self-regulators in long-term learning contexts.
 > 
-> [[Cognitive Load Theory]] — Motivational depletion functionally reduces available working memory capacity, suggesting that motivational regulation is itself a cognitive resource management problem; intrinsically motivated learning reduces extraneous cognitive load by eliminating the processing cost of effort justification.
+> [[Cognitive-Load-Theory|Cognitive Load Theory]] — Motivational depletion functionally reduces available working memory capacity, suggesting that motivational regulation is itself a cognitive resource management problem; intrinsically motivated learning reduces extraneous cognitive load by eliminating the processing cost of effort justification.
 > 
-> [[Desirable Difficulties]] — The Bjork framework only "works" motivationally for learners who hold growth mindset attributions; for entity theorists, the difficulties are experienced as evidence of inadequacy rather than as productive challenge, producing exactly the opposite motivational response to that theorized.
+> [[Desirable-Difficulties|Desirable Difficulties]] — The Bjork framework only "works" motivationally for learners who hold growth mindset attributions; for entity theorists, the difficulties are experienced as evidence of inadequacy rather than as productive challenge, producing exactly the opposite motivational response to that theorized.
 > 
 > [[Socratic Questioning]] (Paul-Elder Framework) — The Socratic disposition of intellectual humility and genuine curiosity toward one's own thinking is structurally analogous to the mastery-approach goal orientation; both orient the thinker toward understanding rather than performance.
 
@@ -954,7 +954,7 @@ extraction_summary:
 #### 112. [TOPIC-IDEA] Untitled *(Line 1312)*
 
 > [!topic-idea] Untitled
-> **[[Interest Development Theory]]** — Hidi and Renninger's (2006) four-phase model of interest development (triggered situational interest → maintained situational interest → emerging individual interest → well-developed individual interest) as an account of how intrinsic motivation for a domain is cultivated over time—directly applicable to designing PKM learning paths.
+> **[[Interest-Development-Theory|Interest Development Theory]]** — Hidi and Renninger's (2006) four-phase model of interest development (triggered situational interest → maintained situational interest → emerging individual interest → well-developed individual interest) as an account of how intrinsic motivation for a domain is cultivated over time—directly applicable to designing PKM learning paths.
 
 #### 113. [TOPIC-IDEA] Untitled *(Line 1315)*
 
@@ -1019,22 +1019,22 @@ extraction_summary:
 
 - [[AI-Augmented Metacognition and Adaptive PKM]]
 - [[AI-Augmented Metacognition — LLMs as External Metacognitive Partners]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Action Control]]
 - [[Action Control Theory]]
-- [[Adaptive Learning Systems]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
 - [[Agency Theory]]
 - [[Albert Bandura]]
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Allyson Hadwin]]
 - [[Andrew Elliot]]
 - [[Appraisal]]
-- [[Artificial Intelligence]]
-- [[Attribution Theory]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attributional Style]]
 - [[B.F. Skinner]]
 - [[BASB]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic Psychological Needs Theory]]
 - [[Bernard Weiner]]
 - [[Boekaerts' Dual Processing Model — Well-Being Regulation vs. Growth Regulation]]
@@ -1043,26 +1043,26 @@ extraction_summary:
 - [[Calibration and the Illusion of Knowing]]
 - [[Carol Dweck]]
 - [[Causal Attribution]]
-- [[Causality Orientations Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Claude Code]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collective Regulation of Learning (CoRL) — Social Dimensions of SRL]]
 - [[Constructivist Epistemology]]
 - [[Cyclical Model of Self-Regulation]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discrepancy Reduction Model]]
 - [[Distributed Practice]]
-- [[Donald Schön]]
+- [[Donald-Schön|Donald Schön]]
 - [[Donald Schön and Reflective Practice]]
 - [[Donald Schön's Reflective Practice]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Processing Model of SRL]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Deci]]
 - [[Efklides]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elliot & Dweck]]
 - [[Elliot Ames]]
 - [[Emotion Regulation]]
@@ -1070,10 +1070,10 @@ extraction_summary:
 - [[Emotional Regulation]]
 - [[Epistemic Agency]]
 - [[Expectancy-Value Theory]]
-- [[Feeling of Knowing]]
-- [[Fixed Mindset]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
+- [[Fixed-Mindset|Fixed Mindset]]
 - [[Flavell's Metacognitive Model]]
-- [[Forethought Phase]]
+- [[Forethought-Phase|Forethought Phase]]
 - [[Four-Phase Model of SRL]]
 - [[George Miller]]
 - [[Glucocorticoid Cascade Hypothesis]]
@@ -1082,41 +1082,41 @@ extraction_summary:
 - [[Goal Orientation Theory]]
 - [[Goal Setting]]
 - [[Goal Setting Theory]]
-- [[Growth Mindset]]
-- [[Habit Formation]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Habit-Formation|Habit Formation]]
 - [[Harold Jarche]]
 - [[Henry Roediger]]
 - [[Herbert Simon]]
-- [[Illusion of Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Illusions of Competence]]
-- [[Implicit Theories of Intelligence]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Implicit Theories of Intelligence and Growth Mindset]]
 - [[Inner Speech]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory|Interest Development Theory]]
 - [[Internalization]]
 - [[Interoception]]
 - [[Interoceptive Metacognition]]
-- [[Intrinsic Cognitive Load]]
+- [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]]
 - [[Jacquelynne Eccles]]
 - [[Jeffrey Karpicke]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Dunlosky]]
 - [[John Flavell]]
 - [[Julian Rotter]]
 - [[Julius Kuhl]]
-- [[Learning Analytics]]
+- [[Learning-Analytics|Learning Analytics]]
 - [[Lev Vygotsky]]
 - [[Locke & Latham Goal Setting Theory]]
 - [[Louis Narens]]
 - [[MCP Integration with Obsidian]]
 - [[MSLQ]]
 - [[Martin Seligman]]
-- [[Mastery Goals]]
+- [[Mastery-Goals|Mastery Goals]]
 - [[Metacognition]]
 - [[Metacognitive Accuracy]]
 - [[Metacognitive Calibration and Monitoring Accuracy]]
 - [[Metacognitive Prompts and Scaffolding Design]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacognitive and Affective Processing System]]
 - [[Monique Boekaerts]]
 - [[Motivated Strategies for Learning Questionnaire]]
@@ -1129,39 +1129,39 @@ extraction_summary:
 - [[Nelson-Narens Framework]]
 - [[Neurobiological]]
 - [[Neuroscience of Metacognitive Control]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[PKM System Design]]
 - [[Paul Pintrich]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Paul-Elder Framework]]
-- [[Performance Phase]]
-- [[Personal Knowledge Management]]
+- [[Performance-Phase|Performance Phase]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Phases and Areas Framework]]
 - [[Phil Winne]]
 - [[Philip Winne]]
 - [[Pomodoro Technique]]
-- [[Pragmatist Epistemology]]
+- [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Procrastination as Self-Regulatory Failure]]
 - [[Psychological Tools]]
 - [[Reading Metacognition]]
 - [[Reciprocal Determinism]]
 - [[Reciprocal Teaching]]
-- [[Reflective Thinking]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[Relational Motivation Theory]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Ryan]]
 - [[Robert Bjork]]
 - [[Roger Azevedo]]
 - [[Sanna Järvelä]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and SRL — Autonomy, Competence, and Relatedness as Motivational Substrates]]
 - [[Self-Efficacy]]
 - [[Self-Efficacy Calibration Methods]]
 - [[Self-Evaluation]]
 - [[Self-Monitoring]]
 - [[Self-Reflection]]
-- [[Self-Reflection Phase]]
-- [[Self-Regulated Learning]]
+- [[Self-Reflection-Phase|Self-Reflection Phase]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sleep]]
 - [[Social Cognitive Theory]]
 - [[Social Foundations of Thought and Action]]
@@ -1171,12 +1171,12 @@ extraction_summary:
 - [[Sociocultural Theory]]
 - [[Socratic Questioning]]
 - [[Somatic Markers]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Spaced Retrieval Practice]]
 - [[State Orientation]]
 - [[Stoic]]
 - [[Temporal Motivation Theory]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]
 - [[The Principles of Psychology]]
 - [[Thomas Nelson]]
@@ -1193,7 +1193,7 @@ extraction_summary:
 - [[Zimmerman]]
 - [[Zimmerman Cyclical Model]]
 - [[Zimmerman's Cyclical SRL Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[educational-psychology-moc]]
 - [[metacognition]]
 - [[self-efficacy]]
@@ -1207,22 +1207,22 @@ extraction_summary:
 | 2 | [[Metacognition]] | metacognitive research | — | Report - 1: Introduction to Self-Regu... | 39 |
 | 3 | [[Motivational Psychology]] | — | — | Report - 1: Introduction to Self-Regu... | 39 |
 | 4 | [[Epistemic Agency]] | — | — | Report - 1: Introduction to Self-Regu... | 41 |
-| 5 | [[Personal Knowledge Management]] | — | — | Report - 1: Introduction to Self-Regu... | 41 |
+| 5 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Report - 1: Introduction to Self-Regu... | 41 |
 | 6 | [[Albert Bandura]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 52 |
 | 7 | [[Social Cognitive Theory]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 52 |
 | 8 | [[Reciprocal Determinism]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 52 |
-| 9 | [[Pragmatist Epistemology]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
-| 10 | [[John Dewey]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
-| 11 | [[Reflective Thinking]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
+| 9 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
+| 10 | [[John-Dewey|John Dewey]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
+| 11 | [[Reflective-Thinking|Reflective Thinking]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
 | 12 | [[Stoic]] | — | — | 🏛️ Phase 1: Overture & Foundation — W... | 55 |
 | 13 | [[William James]] | — | — | 📜 Phase 2: Historical Foundations — W... | 64 |
 | 14 | [[The Principles of Psychology]] | — | — | 📜 Phase 2: Historical Foundations — W... | 64 |
-| 15 | [[Habit Formation]] | — | — | 📜 Phase 2: Historical Foundations — W... | 64 |
+| 15 | [[Habit-Formation|Habit Formation]] | — | — | 📜 Phase 2: Historical Foundations — W... | 64 |
 | 16 | [[Lev Vygotsky]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 17 | [[Sociocultural Theory]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 18 | [[Psychological Tools]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 19 | [[Inner Speech]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
-| 20 | [[Zone of Proximal Development]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
+| 20 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 📜 Phase 2: Historical Foundations — W... | 66 |
 | 21 | [[John Flavell]] | — | — | 📜 Phase 2: Historical Foundations — W... | 68 |
 | 22 | [[Metacognition]] | — | — | 📜 Phase 2: Historical Foundations — W... | 68 |
 | 23 | [[Nelson-Narens Framework]] | — | — | 📜 Phase 2: Historical Foundations — W... | 68 |
@@ -1242,18 +1242,18 @@ extraction_summary:
 | 37 | [[Elliot Ames]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 82 |
 | 38 | [[Nelson-Narens Framework]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 85 |
 | 39 | [[Bernard Weiner]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
-| 40 | [[Attribution Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
-| 41 | [[Spaced Repetition]] | spaced retrieval | — | 🧠 Phase 3: Theoretical Architecture —... | 95 |
+| 40 | [[Attribution-Theory|Attribution Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
+| 41 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | spaced retrieval | — | 🧠 Phase 3: Theoretical Architecture —... | 95 |
 | 42 | [[John Dunlosky]] | — | — | The Cognitive Strategy Layer | 103 |
 | 43 | [[Distributed Practice]] | distributed (spaced) practice | — | The Cognitive Strategy Layer | 103 |
-| 44 | [[Retrieval Practice]] | practice testing (retrieval practice) | — | The Cognitive Strategy Layer | 103 |
-| 45 | [[Testing Effect]] | — | — | The Cognitive Strategy Layer | 105 |
+| 44 | [[Retrieval-Practice|Retrieval Practice]] | practice testing (retrieval practice) | — | The Cognitive Strategy Layer | 103 |
+| 45 | [[Testing-Effect|Testing Effect]] | — | — | The Cognitive Strategy Layer | 105 |
 | 46 | [[Henry Roediger]] | — | — | The Cognitive Strategy Layer | 105 |
 | 47 | [[Jeffrey Karpicke]] | — | — | The Cognitive Strategy Layer | 105 |
 | 48 | [[Robert Bjork]] | — | — | The Cognitive Strategy Layer | 105 |
 | 49 | [[Illusions of Competence]] | — | — | The Cognitive Strategy Layer | 105 |
 | 50 | [[Robert Bjork]] | — | — | The Cognitive Strategy Layer | 110 |
-| 51 | [[Desirable Difficulties]] | — | — | The Cognitive Strategy Layer | 110 |
+| 51 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Cognitive Strategy Layer | 110 |
 | 52 | [[Julius Kuhl]] | — | — | The Motivational-Volitional Layer | 114 |
 | 53 | [[Action Control Theory]] | — | — | The Motivational-Volitional Layer | 114 |
 | 54 | [[Volition]] | volitional strategies | — | The Motivational-Volitional Layer | 114 |
@@ -1272,41 +1272,41 @@ extraction_summary:
 | 67 | [[Zimmerman]] | — | — | For Educational Design | 142 |
 | 68 | [[Paul-Elder Critical Thinking Framework]] | — | — | For Educational Design | 142 |
 | 69 | [[Robert Bjork]] | — | — | For Educational Design | 144 |
-| 70 | [[Desirable Difficulties]] | — | — | For Educational Design | 144 |
-| 71 | [[Spaced Repetition]] | — | — | For Personal Knowledge Management | 149 |
-| 72 | [[Retrieval Practice]] | — | — | For Personal Knowledge Management | 149 |
-| 73 | [[Elaborative Interrogation]] | — | — | For Personal Knowledge Management | 149 |
+| 70 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | For Educational Design | 144 |
+| 71 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | For Personal Knowledge Management | 149 |
+| 72 | [[Retrieval-Practice|Retrieval Practice]] | — | — | For Personal Knowledge Management | 149 |
+| 73 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | For Personal Knowledge Management | 149 |
 | 74 | [[Zettelkasten]] | — | — | For Personal Knowledge Management | 149 |
 | 75 | [[Metacognition]] | — | — | For Personal Knowledge Management | 151 |
 | 76 | [[Nelson-Narens Framework]] | — | — | For Personal Knowledge Management | 151 |
 | 77 | [[Flavell's Metacognitive Model]] | — | — | For Personal Knowledge Management | 151 |
-| 78 | [[Dual Process Theory]] | — | — | For Personal Knowledge Management | 151 |
-| 79 | [[Habit Formation]] | — | — | For Personal Knowledge Management | 151 |
-| 80 | [[Cognitive Load Theory]] | — | — | For Personal Knowledge Management | 151 |
-| 81 | [[Desirable Difficulties]] | — | — | For Personal Knowledge Management | 151 |
-| 82 | [[Retrieval Practice]] | — | — | For Personal Knowledge Management | 151 |
-| 83 | [[Spaced Repetition]] | — | — | For Personal Knowledge Management | 151 |
-| 84 | [[Elaborative Interrogation]] | — | — | For Personal Knowledge Management | 151 |
+| 78 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | For Personal Knowledge Management | 151 |
+| 79 | [[Habit-Formation|Habit Formation]] | — | — | For Personal Knowledge Management | 151 |
+| 80 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | For Personal Knowledge Management | 151 |
+| 81 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | For Personal Knowledge Management | 151 |
+| 82 | [[Retrieval-Practice|Retrieval Practice]] | — | — | For Personal Knowledge Management | 151 |
+| 83 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | For Personal Knowledge Management | 151 |
+| 84 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | For Personal Knowledge Management | 151 |
 | 85 | [[Paul-Elder Framework]] | — | — | For Personal Knowledge Management | 151 |
-| 86 | [[Reflective Thinking]] | — | — | For Personal Knowledge Management | 151 |
+| 86 | [[Reflective-Thinking|Reflective Thinking]] | — | — | For Personal Knowledge Management | 151 |
 | 87 | [[Building a Second Brain]] | — | — | For Personal Knowledge Management | 153 |
 | 88 | [[BASB]] | — | — | For Personal Knowledge Management | 153 |
-| 89 | [[Learning Analytics]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
-| 90 | [[Artificial Intelligence]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
+| 89 | [[Learning-Analytics|Learning Analytics]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
+| 90 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
 | 91 | [[Sanna Järvelä]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
 | 92 | [[Roger Azevedo]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
 | 93 | [[Phil Winne]] | — | — | Technology-Enhanced SRL and Learning ... | 161 |
-| 94 | [[Desirable Difficulties]] | — | — | Technology-Enhanced SRL and Learning ... | 164 |
+| 94 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Technology-Enhanced SRL and Learning ... | 164 |
 | 95 | [[Neurobiological]] | — | — | Technology-Enhanced SRL and Learning ... | 166 |
 | 96 | [[Sleep]] | — | — | Technology-Enhanced SRL and Learning ... | 166 |
-| 97 | [[Allostatic Load]] | — | — | Technology-Enhanced SRL and Learning ... | 166 |
+| 97 | [[Allostatic-Load|Allostatic Load]] | — | — | Technology-Enhanced SRL and Learning ... | 166 |
 | 98 | [[Glucocorticoid Cascade Hypothesis]] | — | — | Technology-Enhanced SRL and Learning ... | 166 |
 | 99 | [[Monique Boekaerts]] | — | — | Cross-Cultural and Sociocultural Exte... | 170 |
 | 100 | [[Dual Processing Model of SRL]] | — | — | Cross-Cultural and Sociocultural Exte... | 170 |
 | 101 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
-| 102 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
-| 103 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
-| 104 | [[Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
+| 102 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
+| 103 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
+| 104 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
 | 105 | [[William James]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
 | 106 | [[Interoceptive Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
 | 107 | [[Somatic Markers]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 180 |
@@ -1317,44 +1317,44 @@ extraction_summary:
 | 112 | [[Self-Determination Theory and SRL — Autonomy, Competence, and Relatedness as Motivational Substrates]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 191 |
 | 113 | [[Edward Deci]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 191 |
 | 114 | [[Richard Ryan]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 191 |
-| 115 | [[Self-Determination Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 191 |
+| 115 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 191 |
 | 116 | [[Collective Regulation of Learning (CoRL) — Social Dimensions of SRL]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 194 |
 | 117 | [[Harold Jarche]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 194 |
 | 118 | [[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 197 |
-| 119 | [[Dunning-Kruger Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 197 |
-| 120 | [[Feeling of Knowing]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 197 |
+| 119 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 197 |
+| 120 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 197 |
 | 121 | [[AI-Augmented Metacognition — LLMs as External Metacognitive Partners]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 200 |
 | 122 | [[Claude Code]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 200 |
 | 123 | [[MCP Integration with Obsidian]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 200 |
 | 124 | [[Metacognition]] | — | — | Report - 2: Key Components of Self-Re... | 320 |
-| 125 | [[Habit Formation]] | — | — | Report - 2: Key Components of Self-Re... | 321 |
-| 126 | [[Dual Process Theory]] | — | — | Report - 2: Key Components of Self-Re... | 322 |
-| 127 | [[Cognitive Load Theory]] | — | — | Report - 2: Key Components of Self-Re... | 323 |
+| 125 | [[Habit-Formation|Habit Formation]] | — | — | Report - 2: Key Components of Self-Re... | 321 |
+| 126 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Report - 2: Key Components of Self-Re... | 322 |
+| 127 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Report - 2: Key Components of Self-Re... | 323 |
 | 128 | [[Spaced Retrieval Practice]] | — | — | Report - 2: Key Components of Self-Re... | 324 |
-| 129 | [[Desirable Difficulties]] | — | — | Report - 2: Key Components of Self-Re... | 325 |
+| 129 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Report - 2: Key Components of Self-Re... | 325 |
 | 130 | [[Goal Setting Theory]] | — | — | Report - 2: Key Components of Self-Re... | 326 |
-| 131 | [[Self-Regulated Learning]] | — | — | 🎼 Phase 1: Overture & Foundation | 334 |
+| 131 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎼 Phase 1: Overture & Foundation | 334 |
 | 132 | [[Social Cognitive Theory]] | — | — | 🎼 Phase 1: Overture & Foundation | 334 |
 | 133 | [[Metacognition]] | — | — | 🎼 Phase 1: Overture & Foundation | 334 |
 | 134 | [[Goal Setting]] | — | — | 🎼 Phase 1: Overture & Foundation | 336 |
 | 135 | [[Self-Monitoring]] | — | — | 🎼 Phase 1: Overture & Foundation | 336 |
 | 136 | [[Self-Evaluation]] | — | — | 🎼 Phase 1: Overture & Foundation | 336 |
 | 137 | [[Self-Reflection]] | — | — | 🎼 Phase 1: Overture & Foundation | 336 |
-| 138 | [[Self-Regulated Learning]] | — | — | 🎼 Phase 1: Overture & Foundation | 344 |
+| 138 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎼 Phase 1: Overture & Foundation | 344 |
 | 139 | [[Metacognition]] | — | — | 🎼 Phase 1: Overture & Foundation | 344 |
 | 140 | [[Agency Theory]] | — | — | 🎼 Phase 1: Overture & Foundation | 344 |
 | 141 | [[Constructivist Epistemology]] | — | — | 🎼 Phase 1: Overture & Foundation | 344 |
-| 142 | [[Self-Regulated Learning]] | — | — | 📜 Phase 2: Historical Foundations | 350 |
+| 142 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📜 Phase 2: Historical Foundations | 350 |
 | 143 | [[George Miller]] | — | — | 📜 Phase 2: Historical Foundations | 352 |
 | 144 | [[Ulric Neisser]] | — | — | 📜 Phase 2: Historical Foundations | 352 |
 | 145 | [[Herbert Simon]] | — | — | 📜 Phase 2: Historical Foundations | 352 |
 | 146 | [[Albert Bandura]] | — | — | 📜 Phase 2: Historical Foundations | 354 |
 | 147 | [[Social Cognitive Theory]] | — | — | 📜 Phase 2: Historical Foundations | 354 |
 | 148 | [[Self-Efficacy]] | — | — | 📜 Phase 2: Historical Foundations | 354 |
-| 149 | [[Barry Zimmerman]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
-| 150 | [[Forethought Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
-| 151 | [[Performance Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
-| 152 | [[Self-Reflection Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
+| 149 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
+| 150 | [[Forethought-Phase|Forethought Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
+| 151 | [[Performance-Phase|Performance Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
+| 152 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | 📜 Phase 2: Historical Foundations | 359 |
 | 153 | [[Paul Pintrich]] | — | — | 📜 Phase 2: Historical Foundations | 361 |
 | 154 | [[John Flavell]] | — | — | 📜 Phase 2: Historical Foundations | 363 |
 | 155 | [[Nelson-Narens Framework]] | — | — | 📜 Phase 2: Historical Foundations | 363 |
@@ -1362,22 +1362,22 @@ extraction_summary:
 | 157 | [[Nelson-Narens Framework]] | — | — | 📜 Phase 2: Historical Foundations | 363 |
 | 158 | [[Monique Boekaerts]] | — | — | 📜 Phase 2: Historical Foundations | 365 |
 | 159 | [[Winne & Hadwin COPES Model]] | — | — | 📜 Phase 2: Historical Foundations | 367 |
-| 160 | [[Self-Regulated Learning]] | — | — | 🧠 Phase 3: Theoretical Architecture | 374 |
-| 161 | [[Barry Zimmerman]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
-| 162 | [[Self-Regulated Learning]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
-| 163 | [[Forethought Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
-| 164 | [[Performance Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
-| 165 | [[Self-Reflection Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
-| 166 | [[Forethought Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 381 |
-| 167 | [[Performance Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 384 |
+| 160 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🧠 Phase 3: Theoretical Architecture | 374 |
+| 161 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
+| 162 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
+| 163 | [[Forethought-Phase|Forethought Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
+| 164 | [[Performance-Phase|Performance Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
+| 165 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 378 |
+| 166 | [[Forethought-Phase|Forethought Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 381 |
+| 167 | [[Performance-Phase|Performance Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 384 |
 | 168 | [[Nelson-Narens Framework]] | — | — | The Zimmerman Cyclical Model: Three P... | 384 |
-| 169 | [[Self-Reflection Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 387 |
+| 169 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | The Zimmerman Cyclical Model: Three P... | 387 |
 | 170 | [[Paul Pintrich]] | — | — | The Pintrich Multi-Dimensional Framework | 391 |
 | 171 | [[Goal Orientation Theory]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 172 | [[Carol Dweck]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 173 | [[Elliot & Dweck]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
 | 174 | [[Andrew Elliot]] | — | — | Goal Orientation Theory and Its Integ... | 404 |
-| 175 | [[Mastery Goals]] | — | — | Goal Orientation Theory and Its Integ... | 407 |
+| 175 | [[Mastery-Goals|Mastery Goals]] | — | — | Goal Orientation Theory and Its Integ... | 407 |
 | 176 | [[Zimmerman Cyclical Model]] | — | — | Goal Orientation Theory and Its Integ... | 407 |
 | 177 | [[Goal Setting]] | — | — | Component One: [[Goal Setting]] | 413 |
 | 178 | [[Goal Setting]] | — | — | Component One: [[Goal Setting]] | 415 |
@@ -1392,15 +1392,15 @@ extraction_summary:
 | 187 | [[Nelson & Narens]] | — | — | Component Two: [[Self-Monitoring]] | 431 |
 | 188 | [[Nelson-Narens Framework]] | — | — | Component Two: [[Self-Monitoring]] | 431 |
 | 189 | [[Self-Monitoring]] | — | — | Component Two: [[Self-Monitoring]] | 433 |
-| 190 | [[Dunning-Kruger Effect]] | — | — | Component Two: [[Self-Monitoring]] | 433 |
-| 191 | [[Illusion of Knowing]] | — | — | Component Two: [[Self-Monitoring]] | 433 |
-| 192 | [[Retrieval Practice]] | — | — | Component Two: [[Self-Monitoring]] | 435 |
+| 190 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Component Two: [[Self-Monitoring]] | 433 |
+| 191 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | Component Two: [[Self-Monitoring]] | 433 |
+| 192 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Component Two: [[Self-Monitoring]] | 435 |
 | 193 | [[Spaced Retrieval Practice]] | — | — | Component Two: [[Self-Monitoring]] | 435 |
-| 194 | [[Desirable Difficulties]] | — | — | Component Two: [[Self-Monitoring]] | 435 |
-| 195 | [[Performance Phase]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
+| 194 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Component Two: [[Self-Monitoring]] | 435 |
+| 195 | [[Performance-Phase|Performance Phase]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
 | 196 | [[Zimmerman Cyclical Model]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
-| 197 | [[Cognitive Load Theory]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
-| 198 | [[Intrinsic Cognitive Load]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
+| 197 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
+| 198 | [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]] | — | — | Component Two: [[Self-Monitoring]] | 437 |
 | 199 | [[Self-Monitoring]] | — | — | Component Two: [[Self-Monitoring]] | 440 |
 | 200 | [[Self-Evaluation]] | — | — | Component Three: [[Self-Evaluation]] | 442 |
 | 201 | [[Self-Evaluation]] | — | — | Component Three: [[Self-Evaluation]] | 444 |
@@ -1409,35 +1409,35 @@ extraction_summary:
 | 204 | [[Self-Evaluation]] | — | — | Component Three: [[Self-Evaluation]] | 447 |
 | 205 | [[Causal Attribution]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
 | 206 | [[Bernard Weiner]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
-| 207 | [[Self-Reflection Phase]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
-| 208 | [[Implicit Theories of Intelligence]] | — | — | Component Three: [[Self-Evaluation]] | 452 |
+| 207 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | Component Three: [[Self-Evaluation]] | 449 |
+| 208 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | Component Three: [[Self-Evaluation]] | 452 |
 | 209 | [[Self-Evaluation]] | — | — | Component Three: [[Self-Evaluation]] | 454 |
 | 210 | [[Self-Reflection]] | — | — | Component Four: [[Self-Reflection]] | 456 |
 | 211 | [[Self-Reflection]] | — | — | Component Four: [[Self-Reflection]] | 458 |
 | 212 | [[Self-Reflection]] | — | — | Component Four: [[Self-Reflection]] | 463 |
 | 213 | [[Self-Reflection]] | — | — | Component Four: [[Self-Reflection]] | 465 |
-| 214 | [[Donald Schön]] | — | — | Component Four: [[Self-Reflection]] | 465 |
-| 215 | [[Self-Regulated Learning]] | — | — | 📊 Phase 5: Evidence Base | 471 |
+| 214 | [[Donald-Schön|Donald Schön]] | — | — | Component Four: [[Self-Reflection]] | 465 |
+| 215 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📊 Phase 5: Evidence Base | 471 |
 | 216 | [[Self-Efficacy]] | — | — | 📊 Phase 5: Evidence Base | 477 |
-| 217 | [[Allostatic Load]] | — | — | 📊 Phase 5: Evidence Base | 483 |
+| 217 | [[Allostatic-Load|Allostatic Load]] | — | — | 📊 Phase 5: Evidence Base | 483 |
 | 218 | [[Metacognition]] | — | — | 🌍 Phase 6: Implications & Applications | 493 |
 | 219 | [[Nelson-Narens Framework]] | — | — | 🌍 Phase 6: Implications & Applications | 493 |
-| 220 | [[Habit Formation]] | — | — | 🌍 Phase 6: Implications & Applications | 494 |
-| 221 | [[Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 494 |
-| 222 | [[Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 495 |
-| 223 | [[Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 496 |
+| 220 | [[Habit-Formation|Habit Formation]] | — | — | 🌍 Phase 6: Implications & Applications | 494 |
+| 221 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 494 |
+| 222 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 495 |
+| 223 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🌍 Phase 6: Implications & Applications | 496 |
 | 224 | [[Spaced Retrieval Practice]] | — | — | 🌍 Phase 6: Implications & Applications | 497 |
-| 225 | [[Desirable Difficulties]] | — | — | 🌍 Phase 6: Implications & Applications | 497 |
+| 225 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🌍 Phase 6: Implications & Applications | 497 |
 | 226 | [[Interoceptive Metacognition]] | — | — | 🌍 Phase 6: Implications & Applications | 498 |
-| 227 | [[Self-Regulated Learning]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
-| 228 | [[Forethought Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
-| 229 | [[Performance Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
-| 230 | [[Self-Reflection Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
-| 231 | [[Self-Regulated Learning]] | — | — | 🔮 Phase 7: Frontier Research | 508 |
+| 227 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
+| 228 | [[Forethought-Phase|Forethought Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
+| 229 | [[Performance-Phase|Performance Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
+| 230 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | 🌍 Phase 6: Implications & Applications | 500 |
+| 231 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔮 Phase 7: Frontier Research | 508 |
 | 232 | [[Glucocorticoid Cascade Hypothesis]] | — | — | 🔮 Phase 7: Frontier Research | 513 |
-| 233 | [[Adaptive Learning Systems]] | — | — | 🔮 Phase 7: Frontier Research | 515 |
-| 234 | [[Self-Regulated Learning]] | — | — | 🔮 Phase 7: Frontier Research | 519 |
-| 235 | [[Self-Regulated Learning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 526 |
+| 233 | [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]] | — | — | 🔮 Phase 7: Frontier Research | 515 |
+| 234 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔮 Phase 7: Frontier Research | 519 |
+| 235 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 526 |
 | 236 | [[Goal Setting]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 526 |
 | 237 | [[Self-Monitoring]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 526 |
 | 238 | [[Self-Evaluation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 526 |
@@ -1446,48 +1446,48 @@ extraction_summary:
 | 241 | [[Self-Monitoring]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
 | 242 | [[Nelson-Narens Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
 | 243 | [[Flavell's Metacognitive Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
-| 244 | [[Self-Reflection Phase]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
-| 245 | [[Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
-| 246 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
-| 247 | [[Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
+| 244 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
+| 245 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
+| 246 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
+| 247 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
 | 248 | [[Spaced Retrieval Practice]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
-| 249 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
+| 249 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
 | 250 | [[Paul-Elder Critical Thinking Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 532 |
 | 251 | [[Metacognitive Calibration and Monitoring Accuracy]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 538 |
 | 252 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 538 |
 | 253 | [[Spaced Retrieval Practice]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 538 |
 | 254 | [[Volitional Control and Motivational Self-Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 255 | [[Volitional Control]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
-| 256 | [[Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
+| 256 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 257 | [[Emotion Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
-| 258 | [[Allostatic Load]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
+| 258 | [[Allostatic-Load|Allostatic Load]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 541 |
 | 259 | [[Donald Schön and Reflective Practice]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 544 |
 | 260 | [[AI-Augmented Metacognition and Adaptive PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 547 |
 | 261 | [[Implicit Theories of Intelligence and Growth Mindset]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 550 |
 | 262 | [[Goal Hierarchy Architecture in PKM]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 553 |
-| 263 | [[Self-Reflection Phase]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 556 |
+| 263 | [[Self-Reflection-Phase|Self-Reflection Phase]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 556 |
 | 264 | [[Zimmerman Cyclical Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion | 556 |
-| 265 | [[Self-Regulated Learning]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 265 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Report - 3: The Role of Metacognition... | 651 |
 | 266 | [[Flavell's Metacognitive Model]] | Flavell's foundational taxonomy | — | Report - 3: The Role of Metacognition... | 651 |
-| 267 | [[Barry Zimmerman]] | Zimmerman's cyclical model | — | Report - 3: The Role of Metacognition... | 651 |
+| 267 | [[Barry-Zimmerman|Barry Zimmerman]] | Zimmerman's cyclical model | — | Report - 3: The Role of Metacognition... | 651 |
 | 268 | [[Paul Pintrich]] | Pintrich's phases-and-areas framework | — | Report - 3: The Role of Metacognition... | 651 |
 | 269 | [[Philip Winne]] | Winne and Hadwin's COPES architecture | — | Report - 3: The Role of Metacognition... | 651 |
 | 270 | [[Nelson-Narens Framework]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 271 | [[Dual Process Theory]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 272 | [[Cognitive Load Theory]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 273 | [[Desirable Difficulties]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 274 | [[Habit Formation]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 275 | [[Personal Knowledge Management]] | — | — | Report - 3: The Role of Metacognition... | 651 |
-| 276 | [[Self-Regulated Learning]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 660 |
+| 271 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 272 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 273 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 274 | [[Habit-Formation|Habit Formation]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 275 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Report - 3: The Role of Metacognition... | 651 |
+| 276 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 660 |
 | 277 | [[metacognition]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 660 |
 | 278 | [[John Flavell]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 665 |
 | 279 | [[Cyclical Model of Self-Regulation]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 672 |
 | 280 | [[Phases and Areas Framework]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 672 |
 | 281 | [[COPES Model]] | — | — | 🎼 Phase 1: Introduction & Context — T... | 672 |
-| 282 | [[John Dewey]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 680 |
+| 282 | [[John-Dewey|John Dewey]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 680 |
 | 283 | [[Lev Vygotsky]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
-| 284 | [[Zone of Proximal Development]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
-| 285 | [[Metacognitive Regulation]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
+| 284 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
+| 285 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Precursors: Dewey, Vygotsky, and the ... | 682 |
 | 286 | [[John Flavell]] | — | — | Flavell and the Formal Architecture o... | 686 |
 | 287 | [[Thomas Nelson]] | — | — | The Nelson-Narens Framework and the C... | 695 |
 | 288 | [[Louis Narens]] | — | — | The Nelson-Narens Framework and the C... | 695 |
@@ -1495,35 +1495,35 @@ extraction_summary:
 | 290 | [[Albert Bandura]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
 | 291 | [[self-efficacy]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
 | 292 | [[self-regulation]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
-| 293 | [[Barry Zimmerman]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
+| 293 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Bandura, Social Cognitive Theory, and... | 704 |
 | 294 | [[Paul Pintrich]] | — | — | Pintrich's Phases and Areas Framework | 729 |
 | 295 | [[Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Phases and Areas Framework | 729 |
-| 296 | [[Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge as the Declar... | 766 |
+| 296 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge as the Declar... | 766 |
 | 297 | [[Discrepancy Reduction Model]] | — | — | Metacognitive Monitoring: The Foretho... | 770 |
-| 298 | [[Cognitive Load Theory]] | — | — | Metacognitive Monitoring: The Perform... | 776 |
+| 298 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Metacognitive Monitoring: The Perform... | 776 |
 | 299 | [[Robert Bjork]] | — | — | Metacognitive Monitoring: The Perform... | 781 |
 | 300 | [[John Dunlosky]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
 | 301 | [[Robert Bjork]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
-| 302 | [[Desirable Difficulties]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
+| 302 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Monitoring Accuracy and the Calibrati... | 815 |
 | 303 | [[Robert Bjork]] | — | — | Monitoring Accuracy and the Calibrati... | 820 |
 | 304 | [[Self-Efficacy]] | — | — | Metacognition, Self-Efficacy, and the... | 838 |
 | 305 | [[Reciprocal Teaching]] | — | — | Reciprocal Teaching and Collaborative... | 860 |
 | 306 | [[Reading Metacognition]] | — | — | Reciprocal Teaching and Collaborative... | 860 |
-| 307 | [[Personal Knowledge Management]] | — | — | Personal Knowledge Management: Metaco... | 864 |
+| 307 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Personal Knowledge Management: Metaco... | 864 |
 | 308 | [[Nelson-Narens Framework]] | — | — | Personal Knowledge Management: Metaco... | 873 |
-| 309 | [[Cognitive Load Theory]] | — | — | Personal Knowledge Management: Metaco... | 873 |
-| 310 | [[Desirable Difficulties]] | — | — | Personal Knowledge Management: Metaco... | 873 |
-| 311 | [[Habit Formation]] | — | — | Personal Knowledge Management: Metaco... | 873 |
+| 309 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Personal Knowledge Management: Metaco... | 873 |
+| 310 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Personal Knowledge Management: Metaco... | 873 |
+| 311 | [[Habit-Formation|Habit Formation]] | — | — | Personal Knowledge Management: Metaco... | 873 |
 | 312 | [[Paul-Elder Critical Thinking Framework]] | — | — | Personal Knowledge Management: Metaco... | 873 |
-| 313 | [[Dual Process Theory]] | — | — | Personal Knowledge Management: Metaco... | 873 |
+| 313 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Personal Knowledge Management: Metaco... | 873 |
 | 314 | [[Allyson Hadwin]] | — | — | Collaborative Self-Regulation and Soc... | 897 |
 | 315 | [[Socially Shared Regulation]] | — | — | Collaborative Self-Regulation and Soc... | 897 |
 | 316 | [[Flavell's Metacognitive Model]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
-| 317 | [[Barry Zimmerman]] | Zimmerman's Cyclical Model | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
+| 317 | [[Barry-Zimmerman|Barry Zimmerman]] | Zimmerman's Cyclical Model | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 318 | [[Paul Pintrich]] | Pintrich's Phases and Areas Framework | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 319 | [[Nelson-Narens Framework]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
-| 320 | [[Desirable Difficulties]] | Bjork's Desirable Difficulties | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
-| 321 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
+| 320 | [[Desirable-Difficulties|Desirable Difficulties]] | Bjork's Desirable Difficulties | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
+| 321 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 322 | [[Self-Efficacy]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 323 | [[Socially Shared Regulation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
 | 324 | [[Reading Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 913 |
@@ -1536,22 +1536,22 @@ extraction_summary:
 | 331 | [[Motivated Strategies for Learning Questionnaire (MSLQ)]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 934 |
 | 332 | [[educational-psychology-moc]] | — | — | Report - 4: Motivation and Self-Regul... | 1033 |
 | 333 | [[Metacognition]] | — | — | Report - 4: Motivation and Self-Regul... | 1035 |
-| 334 | [[Dual Process Theory]] | — | — | Report - 4: Motivation and Self-Regul... | 1036 |
-| 335 | [[Habit Formation]] | — | — | Report - 4: Motivation and Self-Regul... | 1037 |
-| 336 | [[Cognitive Load Theory]] | — | — | Report - 4: Motivation and Self-Regul... | 1038 |
-| 337 | [[Desirable Difficulties]] | — | — | Report - 4: Motivation and Self-Regul... | 1039 |
+| 334 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Report - 4: Motivation and Self-Regul... | 1036 |
+| 335 | [[Habit-Formation|Habit Formation]] | — | — | Report - 4: Motivation and Self-Regul... | 1037 |
+| 336 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Report - 4: Motivation and Self-Regul... | 1038 |
+| 337 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Report - 4: Motivation and Self-Regul... | 1039 |
 | 338 | [[Motivation]] | motivational processes | — | 🎯 Motivation and Self-Regulated Learning | 1058 |
-| 339 | [[Self-Regulated Learning]] | self-regulated learning (SRL) | — | 🎯 Motivation and Self-Regulated Learning | 1058 |
-| 340 | [[Self-Determination Theory]] | Self-Determination Theory (SDT) | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
+| 339 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning (SRL) | — | 🎯 Motivation and Self-Regulated Learning | 1058 |
+| 340 | [[Self-Determination-Theory|Self-Determination Theory]] | Self-Determination Theory (SDT) | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
 | 341 | [[Zimmerman's Cyclical SRL Model]] | Zimmerman's (2000, 2002) cyclical phase model | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
 | 342 | [[Self-Efficacy]] | self-efficacy | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
-| 343 | [[Achievement Goal Theory]] | Achievement Goal Theory | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
+| 343 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | Achievement Goal Theory | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
 | 344 | [[Expectancy-Value Theory]] | Expectancy-Value Theory | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
-| 345 | [[Attribution Theory]] | Attribution Theory | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
+| 345 | [[Attribution-Theory|Attribution Theory]] | Attribution Theory | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
 | 346 | [[PKM System Design]] | PKM system design | — | 🎯 Motivation and Self-Regulated Learning | 1060 |
-| 347 | [[Self-Regulated Learning]] | self-regulated learning | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1069 |
-| 348 | [[Cognitive Load Theory]] | Cognitive Load Theory | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
-| 349 | [[Habit Formation]] | habit formation | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
+| 347 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | self-regulated learning | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1069 |
+| 348 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | Cognitive Load Theory | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
+| 349 | [[Habit-Formation|Habit Formation]] | habit formation | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
 | 350 | [[Metacognition]] | metacognitive | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
 | 351 | [[Nelson-Narens Framework]] | Nelson-Narens (1990) monitoring-control framework | — | 🎼 Phase 1: Overture & Foundation — Wh... | 1077 |
 | 352 | [[B.F. Skinner]] | Skinner's | — | 📜 Phase 2: Historical Foundations — F... | 1083 |
@@ -1562,52 +1562,52 @@ extraction_summary:
 | 357 | [[Albert Bandura]] | Bandura's (1977, 1986) | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
 | 358 | [[Self-Efficacy]] | self-efficacy | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
 | 359 | [[Triadic Reciprocal Determinism]] | triadic reciprocal determinism | — | 📜 Phase 2: Historical Foundations — F... | 1090 |
-| 360 | [[Self-Determination Theory]] | Self-Determination Theory (SDT) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
+| 360 | [[Self-Determination-Theory|Self-Determination Theory]] | Self-Determination Theory (SDT) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 361 | [[Edward Deci]] | Edward L. Deci | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 362 | [[Richard Ryan]] | Richard M. Ryan | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 363 | [[Carol Dweck]] | Dweck's (1986) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
-| 364 | [[Implicit Theories of Intelligence]] | implicit theories of intelligence | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
-| 365 | [[Achievement Goal Theory]] | achievement goal theory | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
+| 364 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | implicit theories of intelligence | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
+| 365 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | achievement goal theory | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 366 | [[Andrew Elliot]] | Elliot (1997, 1999) | — | 📜 Phase 2: Historical Foundations — F... | 1092 |
 | 367 | [[Internalization]] | internalization | — | Self-Determination Theory: The Motiva... | 1103 |
-| 368 | [[Cognitive Evaluation Theory]] | Cognitive Evaluation Theory (CET) | — | Self-Determination Theory: The Motiva... | 1103 |
-| 369 | [[Organismic Integration Theory]] | Organismic Integration Theory (OIT) | — | Self-Determination Theory: The Motiva... | 1103 |
-| 370 | [[Causality Orientations Theory]] | Causality Orientations Theory (COT) | — | Self-Determination Theory: The Motiva... | 1103 |
+| 368 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | Cognitive Evaluation Theory (CET) | — | Self-Determination Theory: The Motiva... | 1103 |
+| 369 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | Organismic Integration Theory (OIT) | — | Self-Determination Theory: The Motiva... | 1103 |
+| 370 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | Causality Orientations Theory (COT) | — | Self-Determination Theory: The Motiva... | 1103 |
 | 371 | [[Basic Psychological Needs Theory]] | Basic Psychological Needs Theory (BPNT) | — | Self-Determination Theory: The Motiva... | 1103 |
 | 372 | [[Goal Contents Theory]] | Goal Contents Theory (GCT) | — | Self-Determination Theory: The Motiva... | 1103 |
 | 373 | [[Relational Motivation Theory]] | Relational Motivation Theory (RMT) | — | Self-Determination Theory: The Motiva... | 1103 |
-| 374 | [[Growth Mindset]] | growth mindset | — | Achievement Goal Theory: The Goal Ori... | 1128 |
-| 375 | [[Fixed Mindset]] | fixed mindset | — | Achievement Goal Theory: The Goal Ori... | 1128 |
+| 374 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | growth mindset | — | Achievement Goal Theory: The Goal Ori... | 1128 |
+| 375 | [[Fixed-Mindset|Fixed Mindset]] | fixed mindset | — | Achievement Goal Theory: The Goal Ori... | 1128 |
 | 376 | [[Jacquelynne Eccles]] | Eccles and colleagues' (1983, 2002) | — | Expectancy-Value Theory: The Motivati... | 1135 |
 | 377 | [[Self-Efficacy]] | Bandura's self-efficacy | — | Expectancy-Value Theory: The Motivati... | 1135 |
-| 378 | [[Cognitive Load]] | cognitive load | — | Expectancy-Value Theory: The Motivati... | 1137 |
+| 378 | [[Cognitive-Load|Cognitive Load]] | cognitive load | — | Expectancy-Value Theory: The Motivati... | 1137 |
 | 379 | [[Action Control]] | action control | — | Zimmerman's Cyclical Phase Model: The... | 1157 |
 | 380 | [[State Orientation]] | state orientation | — | Zimmerman's Cyclical Phase Model: The... | 1157 |
-| 381 | [[Habit Formation]] | habit formation | — | Volitional Control: Bridging Motivati... | 1175 |
+| 381 | [[Habit-Formation|Habit Formation]] | habit formation | — | Volitional Control: Bridging Motivati... | 1175 |
 | 382 | [[MSLQ]] | Motivated Strategies for Learning Questionnaire (MSLQ) | — | Achievement Goals, Processing Depth, ... | 1197 |
 | 383 | [[Zettelkasten]] | — | — | PKM Architecture Through a Motivation... | 1214 |
 | 384 | [[Spaced Retrieval Practice]] | Spaced retrieval practice | — | PKM Architecture Through a Motivation... | 1216 |
-| 385 | [[Illusion of Knowing]] | illusion of knowing | — | PKM Architecture Through a Motivation... | 1216 |
+| 385 | [[Illusion-of-Knowing|Illusion of Knowing]] | illusion of knowing | — | PKM Architecture Through a Motivation... | 1216 |
 | 386 | [[Goal Setting]] | goal-setting | — | Implications for the Forethought Phas... | 1225 |
 | 387 | [[Metacognition]] | — | — | Implications for the Forethought Phas... | 1232 |
 | 388 | [[Nelson-Narens Framework]] | Nelson-Narens (1990) | — | Implications for the Forethought Phas... | 1232 |
-| 389 | [[Dual Process Theory]] | — | — | Implications for the Forethought Phas... | 1234 |
-| 390 | [[Habit Formation]] | — | — | Implications for the Forethought Phas... | 1236 |
-| 391 | [[Cognitive Load Theory]] | — | — | Implications for the Forethought Phas... | 1238 |
-| 392 | [[Desirable Difficulties]] | — | — | Implications for the Forethought Phas... | 1240 |
-| 393 | [[Allostatic Load]] | allostatic load | — | The Neuroscience of Motivational Control | 1267 |
+| 389 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Implications for the Forethought Phas... | 1234 |
+| 390 | [[Habit-Formation|Habit Formation]] | — | — | Implications for the Forethought Phas... | 1236 |
+| 391 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Implications for the Forethought Phas... | 1238 |
+| 392 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Implications for the Forethought Phas... | 1240 |
+| 393 | [[Allostatic-Load|Allostatic Load]] | allostatic load | — | The Neuroscience of Motivational Control | 1267 |
 | 394 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1285 |
 | 395 | [[Nelson-Narens Framework]] | Nelson-Narens monitoring-control framework | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1285 |
-| 396 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1287 |
-| 397 | [[Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1289 |
-| 398 | [[Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1291 |
-| 399 | [[Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1293 |
+| 396 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1287 |
+| 397 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1289 |
+| 398 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1291 |
+| 399 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1293 |
 | 400 | [[Socratic Questioning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1295 |
 | 401 | [[Temporal Motivation Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1301 |
 | 402 | [[Motivational Interviewing in Educational Contexts]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1304 |
 | 403 | [[Emotion Regulation and SRL]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1307 |
 | 404 | [[Self-Efficacy Calibration Methods]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1310 |
-| 405 | [[Interest Development Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1313 |
+| 405 | [[Interest-Development-Theory|Interest Development Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1313 |
 | 406 | [[Procrastination as Self-Regulatory Failure]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 1316 |
 
 ---
@@ -1747,22 +1747,22 @@ $$
 
 - [[AI-Augmented Metacognition and Adaptive PKM]]
 - [[AI-Augmented Metacognition — LLMs as External Metacognitive Partners]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Action Control]]
 - [[Action Control Theory]]
-- [[Adaptive Learning Systems]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
 - [[Agency Theory]]
 - [[Albert Bandura]]
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Allyson Hadwin]]
 - [[Andrew Elliot]]
 - [[Appraisal]]
-- [[Artificial Intelligence]]
-- [[Attribution Theory]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attributional Style]]
 - [[B.F. Skinner]]
 - [[BASB]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Basic Psychological Needs Theory]]
 - [[Bernard Weiner]]
 - [[Boekaerts' Dual Processing Model — Well-Being Regulation vs. Growth Regulation]]
@@ -1771,26 +1771,26 @@ $$
 - [[Calibration and the Illusion of Knowing]]
 - [[Carol Dweck]]
 - [[Causal Attribution]]
-- [[Causality Orientations Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Claude Code]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collective Regulation of Learning (CoRL) — Social Dimensions of SRL]]
 - [[Constructivist Epistemology]]
 - [[Cyclical Model of Self-Regulation]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Discrepancy Reduction Model]]
 - [[Distributed Practice]]
-- [[Donald Schön]]
+- [[Donald-Schön|Donald Schön]]
 - [[Donald Schön and Reflective Practice]]
 - [[Donald Schön's Reflective Practice]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Processing Model of SRL]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Deci]]
 - [[Efklides]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Elliot & Dweck]]
 - [[Elliot Ames]]
 - [[Emotion Regulation]]
@@ -1798,10 +1798,10 @@ $$
 - [[Emotional Regulation]]
 - [[Epistemic Agency]]
 - [[Expectancy-Value Theory]]
-- [[Feeling of Knowing]]
-- [[Fixed Mindset]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
+- [[Fixed-Mindset|Fixed Mindset]]
 - [[Flavell's Metacognitive Model]]
-- [[Forethought Phase]]
+- [[Forethought-Phase|Forethought Phase]]
 - [[Four-Phase Model of SRL]]
 - [[George Miller]]
 - [[Glucocorticoid Cascade Hypothesis]]
@@ -1810,41 +1810,41 @@ $$
 - [[Goal Orientation Theory]]
 - [[Goal Setting]]
 - [[Goal Setting Theory]]
-- [[Growth Mindset]]
-- [[Habit Formation]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Habit-Formation|Habit Formation]]
 - [[Harold Jarche]]
 - [[Henry Roediger]]
 - [[Herbert Simon]]
-- [[Illusion of Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Illusions of Competence]]
-- [[Implicit Theories of Intelligence]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
 - [[Implicit Theories of Intelligence and Growth Mindset]]
 - [[Inner Speech]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory|Interest Development Theory]]
 - [[Internalization]]
 - [[Interoception]]
 - [[Interoceptive Metacognition]]
-- [[Intrinsic Cognitive Load]]
+- [[Intrinsic-Cognitive-Load|Intrinsic Cognitive Load]]
 - [[Jacquelynne Eccles]]
 - [[Jeffrey Karpicke]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Dunlosky]]
 - [[John Flavell]]
 - [[Julian Rotter]]
 - [[Julius Kuhl]]
-- [[Learning Analytics]]
+- [[Learning-Analytics|Learning Analytics]]
 - [[Lev Vygotsky]]
 - [[Locke & Latham Goal Setting Theory]]
 - [[Louis Narens]]
 - [[MCP Integration with Obsidian]]
 - [[MSLQ]]
 - [[Martin Seligman]]
-- [[Mastery Goals]]
+- [[Mastery-Goals|Mastery Goals]]
 - [[Metacognition]]
 - [[Metacognitive Accuracy]]
 - [[Metacognitive Calibration and Monitoring Accuracy]]
 - [[Metacognitive Prompts and Scaffolding Design]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacognitive and Affective Processing System]]
 - [[Monique Boekaerts]]
 - [[Motivated Strategies for Learning Questionnaire]]
@@ -1857,39 +1857,39 @@ $$
 - [[Nelson-Narens Framework]]
 - [[Neurobiological]]
 - [[Neuroscience of Metacognitive Control]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[PKM System Design]]
 - [[Paul Pintrich]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Paul-Elder Framework]]
-- [[Performance Phase]]
-- [[Personal Knowledge Management]]
+- [[Performance-Phase|Performance Phase]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Phases and Areas Framework]]
 - [[Phil Winne]]
 - [[Philip Winne]]
 - [[Pomodoro Technique]]
-- [[Pragmatist Epistemology]]
+- [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Procrastination as Self-Regulatory Failure]]
 - [[Psychological Tools]]
 - [[Reading Metacognition]]
 - [[Reciprocal Determinism]]
 - [[Reciprocal Teaching]]
-- [[Reflective Thinking]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[Relational Motivation Theory]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Ryan]]
 - [[Robert Bjork]]
 - [[Roger Azevedo]]
 - [[Sanna Järvelä]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and SRL — Autonomy, Competence, and Relatedness as Motivational Substrates]]
 - [[Self-Efficacy]]
 - [[Self-Efficacy Calibration Methods]]
 - [[Self-Evaluation]]
 - [[Self-Monitoring]]
 - [[Self-Reflection]]
-- [[Self-Reflection Phase]]
-- [[Self-Regulated Learning]]
+- [[Self-Reflection-Phase|Self-Reflection Phase]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sleep]]
 - [[Social Cognitive Theory]]
 - [[Social Foundations of Thought and Action]]
@@ -1899,12 +1899,12 @@ $$
 - [[Sociocultural Theory]]
 - [[Socratic Questioning]]
 - [[Somatic Markers]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Spaced Retrieval Practice]]
 - [[State Orientation]]
 - [[Stoic]]
 - [[Temporal Motivation Theory]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[The Metacognitive Accuracy Problem — Overconfidence, Dunning-Kruger, and Calibration Interventions]]
 - [[The Principles of Psychology]]
 - [[Thomas Nelson]]
@@ -1921,7 +1921,7 @@ $$
 - [[Zimmerman]]
 - [[Zimmerman Cyclical Model]]
 - [[Zimmerman's Cyclical SRL Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[educational-psychology-moc]]
 - [[metacognition]]
 - [[self-efficacy]]

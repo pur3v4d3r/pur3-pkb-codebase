@@ -230,7 +230,7 @@ extraction_summary:
 - [[2025-11-16]]
 - [[Attention Management]]
 - [[Calendar Blocking]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Daily Notes]]
 - [[Dashboard Design]]
 - [[Data Analysis]]
@@ -270,7 +270,7 @@ extraction_summary:
 | 14 | [[Project Name]] | — | — | 1. Custom Inline Fields | 845 |
 | 15 | [[GTD Workflow in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 965 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 968 |
-| 17 | [[Cognitive Offloading]] | — | — | 🔗 Related Topics for PKB Expansion | 968 |
+| 17 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | 🔗 Related Topics for PKB Expansion | 968 |
 | 18 | [[QuickAdd Macro Development]] | — | — | 🔗 Related Topics for PKB Expansion | 970 |
 | 19 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 973 |
 | 20 | [[Obsidian API]] | — | — | 🔗 Related Topics for PKB Expansion | 973 |
@@ -917,7 +917,7 @@ dv.taskList(unscheduled.limit(5), false);
 - [[2025-11-16]]
 - [[Attention Management]]
 - [[Calendar Blocking]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Daily Notes]]
 - [[Dashboard Design]]
 - [[Data Analysis]]

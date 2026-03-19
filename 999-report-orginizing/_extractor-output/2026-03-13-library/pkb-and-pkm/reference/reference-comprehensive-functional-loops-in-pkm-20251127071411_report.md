@@ -179,7 +179,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[Self-Regulated Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive Science]], [[Educational Psychology]], and [[Knowledge Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive Architecture]].
+> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive-Science|Cognitive Science]], [[Educational-Psychology|Educational Psychology]], and [[Knowledge-Management|Knowledge Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive-Architecture|Cognitive Architecture]].
 
 #### 5. [HOW-TO-USE-THIS] Untitled *(Line 165)*
 
@@ -190,7 +190,7 @@ extraction_summary:
 #### 6. [DEFINITION] Untitled *(Line 186)*
 
 > [!definition] Untitled
-> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
+> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval-Practice|Retrieval Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
 > - **Core Mechanism**:: Spacing effects occur when information is repeatedly learned over spaced intervals, resulting in stronger encoding into long-term memory through enhanced consolidation processes
 
 #### 7. [KEY-CLAIM] Untitled *(Line 207)*
@@ -207,18 +207,18 @@ extraction_summary:
 > **Layer 1: Capture-to-Consolidation Pipeline**
 > 1. **Immediate Capture** (Working Memory → Inbox)
 >    - Externalize thoughts immediately to prevent forgetting
->    - Reduces [[Cognitive Load]] by offloading to external system
+>    - Reduces [[Cognitive-Load|Cognitive Load]] by offloading to external system
 >    - Creates first encoding opportunity
 > 
 > 2. **Initial Processing** (24-48 hours post-capture)
 >    - First retrieval attempt strengthens initial encoding
->    - Convert raw captures into [[Atomic Notes]]
+>    - Convert raw captures into [[Atomic-Notes|Atomic Notes]]
 >    - Establishes foundational [[Schema]]
 > 
 > 3. **First Review** (3-7 days post-processing)
 >    - Second retrieval at desirable difficulty level
 >    - Add connections to related notes (link formation)
->    - Consolidation into [[Long-Term Memory]] begins
+>    - Consolidation into [[Long-Term-Memory|Long-Term Memory]] begins
 > 
 > 4. **Progressive Intervals** (2 weeks, 1 month, 3 months, 6 months)
 >    - Each retrieval further consolidates
@@ -249,7 +249,7 @@ extraction_summary:
 #### 10. [DEFINITION] Untitled *(Line 260)*
 
 > [!definition] Untitled
-> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[Self-Regulated Learning]] patterns
+> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] patterns
 > - **Core Mechanism**:: Zimmerman's cyclical model describes self-regulation as occurring through three interrelated phases—forethought, performance, and self-reflection—that operate recursively with feedback from prior efforts affecting subsequent planning
 
 #### 11. [METHODOLOGY-AND-SOURCES] Untitled *(Line 278)*
@@ -287,7 +287,7 @@ extraction_summary:
 #### 13. [DEFINITION] Untitled *(Line 339)*
 
 > [!definition] Untitled
-> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic Motivation]], and [[Flow State]] that increase engagement through positive feedback
+> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation|Intrinsic Motivation]], and [[Flow State]] that increase engagement through positive feedback
 > - **Core Mechanism**:: Positive feedback loops involve setting learning goals that provide satisfaction, which drives higher goal-setting, termed as "rage to master" in gifted learners
 
 #### 14. [ANALOGY] Untitled *(Line 369)*
@@ -429,7 +429,7 @@ extraction_summary:
 > 
 > The true power of functional loops emerges not from any single loop, but from their interaction. Each loop category influences others:
 > 
-> - [[Habit Formation]] loops reduce friction → Enables more [[Retrieval Practice]] loops
+> - [[Habit-Formation|Habit Formation]] loops reduce friction → Enables more [[Retrieval-Practice|Retrieval Practice]] loops
 > - [[Metacognitive]] loops improve strategy → Strengthens [[Motivational]] loops
 > - [[System Quality]] loops enhance usability → Activates [[Network Effect]] loops
 > - [[Cognitive Memory]] loops consolidate knowledge → Deepens [[Self-Efficacy]] loops
@@ -526,43 +526,43 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Active Recall]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Basal Ganglia]]
 - [[Chunking]]
-- [[Cognitive Architecture]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cognitive Memory]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Control]]
 - [[Cue]]
 - [[Dataview]]
 - [[Deliberate Practice]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed Practice]]
 - [[Dopamine]]
 - [[Ebbinghaus Forgetting Curve]]
-- [[Educational Psychology]]
-- [[Elaborative Rehearsal]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emergent Properties]]
 - [[Evaluation]]
 - [[Execution]]
 - [[Extraneous Cognitive Load]]
 - [[Feedback Loop]]
 - [[Flow State]]
-- [[Generation Effect]]
-- [[Habit Formation]]
+- [[Generation-Effect|Generation Effect]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking for PKB Workflow Design]]
 - [[Interleaving]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Knowledge Graph]]
-- [[Knowledge Management]]
-- [[Long-Term Memory]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Potentiation]]
 - [[Memory Consolidation]]
-- [[Mental Model]]
-- [[Mental Models]]
+- [[Mental-Model|Mental Model]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Metacognitive Awareness]]
@@ -576,25 +576,25 @@ extraction_summary:
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
 - [[Prefrontal Cortex]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Reflection]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Reward]]
 - [[Routine]]
 - [[Schema]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Self-Efficacy]]
 - [[Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
-- [[Self-Regulated Learning]]
-- [[Spacing Effect]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Synaptic Plasticity]]
 - [[System Quality]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[The Spacing Effect: Practical Implementation in Obsidian]]
-- [[Transfer of Learning]]
-- [[Working Memory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Linking Strategies for Emergence]]
 - [[wiki-links]]
@@ -605,62 +605,62 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[PKB Feedback Mechanisms]] | — | — | PKB Feedback Mechanisms | 46 |
 | 2 | [[Feedback Loop]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 3 | [[Self-Regulated Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 4 | [[Retrieval Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 5 | [[Spacing Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 6 | [[Schema Theory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 3 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 4 | [[Retrieval-Practice|Retrieval Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 5 | [[Spacing-Effect|Spacing Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 6 | [[Schema-Theory|Schema Theory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 7 | [[Self-Efficacy]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 8 | [[Metacognition]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 9 | [[Knowledge Graph]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 10 | [[Habit Formation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 10 | [[Habit-Formation|Habit Formation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 11 | [[Neural Plasticity]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 12 | [[Desirable Difficulties]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 13 | [[Transfer of Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 14 | [[Intrinsic Motivation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 15 | [[Cognitive Load Theory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 16 | [[Working Memory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 17 | [[Long-Term Memory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 12 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 13 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 14 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 16 | [[Working-Memory|Working Memory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 17 | [[Long-Term-Memory|Long-Term Memory]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 18 | [[Zettelkasten]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
-| 19 | [[Progressive Summarization]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
+| 19 | [[Progressive-Summarization|Progressive Summarization]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 20 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 21 | [[Active Recall]] | — | — | PHASE 2: STRUCTURAL PLANNING | 140 |
 | 22 | [[Ebbinghaus Forgetting Curve]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 23 | [[Testing Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 24 | [[Elaborative Rehearsal]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 23 | [[Testing-Effect|Testing Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 24 | [[Elaborative-Rehearsal|Elaborative Rehearsal]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 25 | [[Chunking]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 26 | [[Mental Models]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 26 | [[Mental-Models|Mental Models]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 27 | [[Flow State]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 28 | [[Deliberate Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 29 | [[Distributed Practice]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 30 | [[Interleaving]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
-| 31 | [[Generation Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
+| 31 | [[Generation-Effect|Generation Effect]] | — | — | PHASE 2: STRUCTURAL PLANNING | 142 |
 | 32 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
-| 33 | [[Self-Regulated Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
-| 34 | [[Cognitive Science]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
-| 35 | [[Educational Psychology]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
-| 36 | [[Knowledge Management]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
+| 33 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
+| 34 | [[Cognitive-Science|Cognitive Science]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
+| 35 | [[Educational-Psychology|Educational Psychology]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
+| 36 | [[Knowledge-Management|Knowledge Management]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
 | 37 | [[PKB]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
-| 38 | [[Cognitive Architecture]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
+| 38 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | PHASE 2: STRUCTURAL PLANNING | 163 |
 | 39 | [[wiki-links]] | — | — | PHASE 2: STRUCTURAL PLANNING | 167 |
 | 40 | [[Memory Consolidation]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
-| 41 | [[Retrieval Practice]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
+| 41 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 42 | [[Neural Plasticity]] | — | — | 🧠 Cognitive Memory & Retrieval Loops | 187 |
 | 43 | [[Synaptic Plasticity]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
 | 44 | [[Long-Term Potentiation]] | — | — | Foundational Concepts: The Retrieval-... | 194 |
 | 45 | [[PKB]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
-| 46 | [[Mental Model]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
+| 46 | [[Mental-Model|Mental Model]] | — | — | Foundational Concepts: The Retrieval-... | 196 |
 | 47 | [[Active Recall]] | — | — | Technical Specifications: Spacing Eff... | 209 |
-| 48 | [[Cognitive Load]] | — | — | Implementation: The Spacing-Retrieval... | 219 |
-| 49 | [[Atomic Notes]] | — | — | Implementation: The Spacing-Retrieval... | 224 |
+| 48 | [[Cognitive-Load|Cognitive Load]] | — | — | Implementation: The Spacing-Retrieval... | 219 |
+| 49 | [[Atomic-Notes|Atomic Notes]] | — | — | Implementation: The Spacing-Retrieval... | 224 |
 | 50 | [[Schema]] | — | — | Implementation: The Spacing-Retrieval... | 225 |
-| 51 | [[Long-Term Memory]] | — | — | Implementation: The Spacing-Retrieval... | 230 |
+| 51 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Implementation: The Spacing-Retrieval... | 230 |
 | 52 | [[Dataview]] | — | — | Implementation: The Spacing-Retrieval... | 238 |
 | 53 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Implementation: The Spacing-Retrieval... | 239 |
 | 54 | [[Monitoring]] | — | — | 🎯 Metacognitive Self-Regulation Loops | 261 |
 | 55 | [[Control]] | — | — | 🎯 Metacognitive Self-Regulation Loops | 261 |
 | 56 | [[Evaluation]] | — | — | 🎯 Metacognitive Self-Regulation Loops | 261 |
-| 57 | [[Self-Regulated Learning]] | — | — | 🎯 Metacognitive Self-Regulation Loops | 261 |
-| 58 | [[Self-Regulated Learning]] | — | — | Foundational Concepts: The SRL Feedba... | 266 |
+| 57 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Metacognitive Self-Regulation Loops | 261 |
+| 58 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Foundational Concepts: The SRL Feedba... | 266 |
 | 59 | [[Planning]] | — | — | Foundational Concepts: The SRL Feedba... | 266 |
 | 60 | [[Execution]] | — | — | Foundational Concepts: The SRL Feedba... | 266 |
 | 61 | [[Reflection]] | — | — | Foundational Concepts: The SRL Feedba... | 266 |
@@ -669,29 +669,29 @@ extraction_summary:
 | 64 | [[Self-Efficacy]] | — | — | Foundational Concepts: The SRL Feedba... | 274 |
 | 65 | [[PKB]] | — | — | The Metacognitive Awareness Loop in P... | 308 |
 | 66 | [[Metacognitive Awareness]] | — | — | The Metacognitive Awareness Loop in P... | 308 |
-| 67 | [[Cognitive Architecture]] | — | — | Meta-Insight | 333 |
+| 67 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | Meta-Insight | 333 |
 | 68 | [[Self-Knowledge]] | — | — | Meta-Insight | 333 |
 | 69 | [[Self-Efficacy]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
-| 70 | [[Intrinsic Motivation]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
+| 70 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 71 | [[Flow State]] | — | — | ⚡ Motivational & Engagement Loops | 340 |
 | 72 | [[Self-Efficacy Theory]] | — | — | Foundational Concepts: The Success-Mo... | 347 |
 | 73 | [[Self-Efficacy]] | — | — | Foundational Concepts: The Success-Mo... | 360 |
-| 74 | [[Intrinsic Motivation]] | — | — | Foundational Concepts: The Success-Mo... | 366 |
+| 74 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Foundational Concepts: The Success-Mo... | 366 |
 | 75 | [[PKB]] | — | — | Foundational Concepts: The Quality-Us... | 402 |
 | 76 | [[Cue]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 77 | [[Routine]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 78 | [[Reward]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
 | 79 | [[Basal Ganglia]] | — | — | 🔄 Habit Formation & Automaticity Loops | 488 |
-| 80 | [[Habit Formation]] | — | — | Foundational Concepts: The Neurologic... | 493 |
+| 80 | [[Habit-Formation|Habit Formation]] | — | — | Foundational Concepts: The Neurologic... | 493 |
 | 81 | [[Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 502 |
-| 82 | [[Cognitive Load]] | — | — | Foundational Concepts: The Neurologic... | 504 |
+| 82 | [[Cognitive-Load|Cognitive Load]] | — | — | Foundational Concepts: The Neurologic... | 504 |
 | 83 | [[Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 508 |
 | 84 | [[Basal Ganglia]] | — | — | Foundational Concepts: The Neurologic... | 514 |
 | 85 | [[Prefrontal Cortex]] | — | — | Foundational Concepts: The Neurologic... | 515 |
 | 86 | [[Metcalfe's Law]] | — | — | Foundational Concepts: The Metcalfe's... | 604 |
 | 87 | [[Emergent Properties]] | — | — | The "Critical Mass" Threshold | 637 |
-| 88 | [[Habit Formation]] | — | — | 🎯 Synthesis & Mastery Integration | 687 |
-| 89 | [[Retrieval Practice]] | — | — | 🎯 Synthesis & Mastery Integration | 687 |
+| 88 | [[Habit-Formation|Habit Formation]] | — | — | 🎯 Synthesis & Mastery Integration | 687 |
+| 89 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🎯 Synthesis & Mastery Integration | 687 |
 | 90 | [[Metacognitive]] | — | — | 🎯 Synthesis & Mastery Integration | 688 |
 | 91 | [[Motivational]] | — | — | 🎯 Synthesis & Mastery Integration | 688 |
 | 92 | [[System Quality]] | — | — | 🎯 Synthesis & Mastery Integration | 689 |
@@ -704,7 +704,7 @@ extraction_summary:
 | 99 | [[Basal Ganglia]] | — | — | Comparative Analysis: Functional Loop... | 720 |
 | 100 | [[Cognitive Load Theory Applied to PKB Design]] | — | — | 🔗 Related Topics for PKB Expansion | 814 |
 | 101 | [[Extraneous Cognitive Load]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
-| 102 | [[Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
+| 102 | [[Working-Memory|Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 815 |
 | 103 | [[Zettelkasten Linking Strategies for Emergence]] | — | — | 🔗 Related Topics for PKB Expansion | 819 |
 | 104 | [[Habit Stacking for PKB Workflow Design]] | — | — | 🔗 Related Topics for PKB Expansion | 824 |
 | 105 | [[The Spacing Effect: Practical Implementation in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 829 |
@@ -859,43 +859,43 @@ More serendipitous discoveries possible
 - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Active Recall]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Basal Ganglia]]
 - [[Chunking]]
-- [[Cognitive Architecture]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cognitive Memory]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Control]]
 - [[Cue]]
 - [[Dataview]]
 - [[Deliberate Practice]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Distributed Practice]]
 - [[Dopamine]]
 - [[Ebbinghaus Forgetting Curve]]
-- [[Educational Psychology]]
-- [[Elaborative Rehearsal]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Rehearsal|Elaborative Rehearsal]]
 - [[Emergent Properties]]
 - [[Evaluation]]
 - [[Execution]]
 - [[Extraneous Cognitive Load]]
 - [[Feedback Loop]]
 - [[Flow State]]
-- [[Generation Effect]]
-- [[Habit Formation]]
+- [[Generation-Effect|Generation Effect]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking for PKB Workflow Design]]
 - [[Interleaving]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Knowledge Graph]]
-- [[Knowledge Management]]
-- [[Long-Term Memory]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Potentiation]]
 - [[Memory Consolidation]]
-- [[Mental Model]]
-- [[Mental Models]]
+- [[Mental-Model|Mental Model]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Metacognitive Awareness]]
@@ -909,25 +909,25 @@ More serendipitous discoveries possible
 - [[PKB Feedback Mechanisms]]
 - [[Planning]]
 - [[Prefrontal Cortex]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Reflection]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Reward]]
 - [[Routine]]
 - [[Schema]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Self-Efficacy]]
 - [[Self-Efficacy Theory]]
 - [[Self-Knowledge]]
 - [[Self-Monitoring]]
-- [[Self-Regulated Learning]]
-- [[Spacing Effect]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Synaptic Plasticity]]
 - [[System Quality]]
-- [[Testing Effect]]
+- [[Testing-Effect|Testing Effect]]
 - [[The Spacing Effect: Practical Implementation in Obsidian]]
-- [[Transfer of Learning]]
-- [[Working Memory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Linking Strategies for Emergence]]
 - [[wiki-links]]

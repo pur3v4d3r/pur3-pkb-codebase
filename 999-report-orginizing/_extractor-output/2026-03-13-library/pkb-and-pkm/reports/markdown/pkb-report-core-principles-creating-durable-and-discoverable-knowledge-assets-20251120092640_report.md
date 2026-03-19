@@ -163,8 +163,8 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > Sketch a mind-map linking the "Content-Context-Metadata" triad to these concepts:
 > - `[[Zettelkasten]]`
-> - `[[Cognitive Load Theory]]`
-> - `[[Information Architecture]]`
+> - `[[Cognitive-Load-Theory|Cognitive Load Theory]]`
+> - `[[Information-Architecture|Information Architecture]]`
 > - `[[Library Science]]`
 
 #### 8. [COUNTER-ARGUMENT] Untitled *(Line 185)*
@@ -183,8 +183,8 @@ extraction_summary:
 ### Unique Targets
 
 - [[Author B]]
-- [[Cognitive Load Theory]]
-- [[Information Architecture]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Information-Architecture|Information Architecture]]
 - [[Library Science]]
 - [[Related Concept A]]
 - [[Zettelkasten]]
@@ -198,8 +198,8 @@ extraction_summary:
 | 2 | [[Related Concept A]] | — | — | 4.3 Metadata Management: The YAML Fro... | 136 |
 | 3 | [[Author B]] | — | — | 4.3 Metadata Management: The YAML Fro... | 136 |
 | 4 | [[Zettelkasten]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 170 |
-| 5 | [[Cognitive Load Theory]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 171 |
-| 6 | [[Information Architecture]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 172 |
+| 5 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 171 |
+| 6 | [[Information-Architecture|Information Architecture]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 172 |
 | 7 | [[Library Science]] | — | — | 6️⃣ Broader Implications – “So What” 🌍 | 173 |
 
 ---
@@ -228,8 +228,8 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Author B]]
-- [[Cognitive Load Theory]]
-- [[Information Architecture]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Information-Architecture|Information Architecture]]
 - [[Library Science]]
 - [[Related Concept A]]
 - [[Zettelkasten]]

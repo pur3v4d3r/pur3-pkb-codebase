@@ -331,7 +331,7 @@ extraction_summary:
 - [[Cognitive Andragogy]]
 - [[Complex Adaptive Systems in Education]]
 - [[Constructivist Epistemology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
 - [[Divergent Thinking]]
 - [[Epistemic Homeostasis]]
@@ -356,12 +356,12 @@ extraction_summary:
 | 2 | [[Higher-Order Cognition]] | — | — | 1. 🎯 The Core Concept: A Foundational... | 54 |
 | 3 | [[Malcolm Knowles]] | — | — | 1.1. Baseline Definition | 60 |
 | 4 | [[Bloom’s Taxonomy]] | — | — | 1.1. Baseline Definition | 60 |
-| 5 | [[Critical Thinking]] | — | — | 1.1. Baseline Definition | 62 |
+| 5 | [[Critical-Thinking|Critical Thinking]] | — | — | 1.1. Baseline Definition | 62 |
 | 6 | [[Divergent Thinking]] | — | — | 1.2. Foundational Principles | 71 |
 | 7 | [[Metacognition]] | — | — | 1.2. Foundational Principles | 73 |
 | 8 | [[Neuroplasticity]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 82 |
 | 9 | [[Crystallized Intelligence]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 88 |
-| 10 | [[Critical Thinking]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 90 |
+| 10 | [[Critical-Thinking|Critical Thinking]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 90 |
 | 11 | [[Hebbian Learning]] | — | — | 2.1. A New Lens: Neuroscience's Persp... | 92 |
 | 12 | [[Divergent Thinking]] | — | — | 2.2. Emergent Insights & Connections | 103 |
 | 13 | [[Synaptic Homeostasis]] | — | — | 2.2. Emergent Insights & Connections | 106 |
@@ -469,7 +469,7 @@ $$
 - [[Cognitive Andragogy]]
 - [[Complex Adaptive Systems in Education]]
 - [[Constructivist Epistemology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
 - [[Divergent Thinking]]
 - [[Epistemic Homeostasis]]

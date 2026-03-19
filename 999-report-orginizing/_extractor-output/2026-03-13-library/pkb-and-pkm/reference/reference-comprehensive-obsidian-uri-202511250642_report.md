@@ -221,11 +221,11 @@ extraction_summary:
 > - [[quickadd]]
 > - [[Templater]]
 > - [[dataview]]
-> - [[Cognitive Load Theory]]
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 > - [[Active Recall]]
 > - [[Metacognition]]
-> - [[Self-Regulated Learning]]
+> - [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 > - [[Automation]]
 > - [[Deep Linking]]
 > - [[Cross-Application Integration]]
@@ -264,7 +264,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.
+> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working-Memory|Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.
 
 #### 5. [HOW-TO-USE-THIS] Untitled *(Line 136)*
 
@@ -337,7 +337,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > **Cognitive Significance**
-> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.
+> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working-Memory|Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.
 
 #### 16. [DEFINITION] Untitled *(Line 347)*
 
@@ -416,7 +416,7 @@ extraction_summary:
 > [!analogy] Untitled
 > **The Cognitive Friction Problem**
 > 
-> Imagine your [[Working Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:
+> Imagine your [[Working-Memory|Working Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:
 > 
 > 1. Clear mental space to remember the capture intention
 > 2. Context-switch to Obsidian (losing current train of thought)
@@ -439,7 +439,7 @@ extraction_summary:
 > 2. **Performance Phase** (during session): Hotkeys enable rapid atomic note capture
 > 3. **Reflection Phase** (session end): Scheduled URI opens reflection template
 > 
-> This externalizes the [[Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
+> This externalizes the [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
 
 #### 25. [USE-CASES-AND-EXAMPLES] Untitled *(Line 643)*
 
@@ -516,7 +516,7 @@ extraction_summary:
 - [[AutoHotkey Scripting for PKB Automation]]
 - [[Automation]]
 - [[Behavioral Psychology]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cross-Application Integration]]
 - [[Deep Linking]]
@@ -530,14 +530,14 @@ extraction_summary:
 - [[PowerShell]]
 - [[Quick Capture]]
 - [[QuickAdd Macro Architecture]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Shell Commands]]
 - [[Templater]]
 - [[URI Scheme]]
 - [[Uniform Resource Identifier]]
 - [[Windows Task Scheduler for Knowledge Work Automation]]
 - [[Workflow Optimization]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[X-Callback-URL]]
 - [[YAML Frontmatter]]
 - [[Zettelkasten]]
@@ -557,28 +557,28 @@ extraction_summary:
 | 6 | [[quickadd]] | — | — | 📊 Note Metadata Dashboard | 83 |
 | 7 | [[Templater]] | — | — | 📊 Note Metadata Dashboard | 84 |
 | 8 | [[dataview]] | — | — | 📊 Note Metadata Dashboard | 85 |
-| 9 | [[Cognitive Load Theory]] | — | — | 📊 Note Metadata Dashboard | 86 |
+| 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📊 Note Metadata Dashboard | 86 |
 | 10 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 📊 Note Metadata Dashboard | 87 |
 | 11 | [[Active Recall]] | — | — | 📊 Note Metadata Dashboard | 88 |
 | 12 | [[Metacognition]] | — | — | 📊 Note Metadata Dashboard | 89 |
-| 13 | [[Self-Regulated Learning]] | — | — | 📊 Note Metadata Dashboard | 90 |
+| 13 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📊 Note Metadata Dashboard | 90 |
 | 14 | [[Automation]] | — | — | 📊 Note Metadata Dashboard | 91 |
 | 15 | [[Deep Linking]] | — | — | 📊 Note Metadata Dashboard | 92 |
 | 16 | [[Cross-Application Integration]] | — | — | 📊 Note Metadata Dashboard | 93 |
 | 17 | [[Workflow Optimization]] | — | — | 📊 Note Metadata Dashboard | 94 |
 | 18 | [[Obsidian URI]] | — | — | 📊 Note Metadata Dashboard | 134 |
 | 19 | [[URI Scheme]] | — | — | 📊 Note Metadata Dashboard | 134 |
-| 20 | [[Working Memory]] | — | — | 📊 Note Metadata Dashboard | 134 |
+| 20 | [[Working-Memory|Working Memory]] | — | — | 📊 Note Metadata Dashboard | 134 |
 | 21 | [[PowerShell]] | — | — | 📊 Note Metadata Dashboard | 138 |
 | 22 | [[Advanced URI]] | — | — | 📊 Note Metadata Dashboard | 138 |
 | 23 | [[URI Scheme]] | — | — | 1.1 What is Obsidian URI? | 160 |
 | 24 | [[Uniform Resource Identifier]] | — | — | 1.1 What is Obsidian URI? | 161 |
-| 25 | [[Cognitive Load Theory]] | — | — | Why URIs Matter for Knowledge Work | 190 |
-| 26 | [[Working Memory]] | — | — | Why URIs Matter for Knowledge Work | 192 |
+| 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Why URIs Matter for Knowledge Work | 190 |
+| 26 | [[Working-Memory|Working Memory]] | — | — | Why URIs Matter for Knowledge Work | 192 |
 | 27 | [[Quick Capture]] | — | — | Practical Examples | 293 |
 | 28 | [[Keyboard Maestro]] | — | — | Practical Examples | 296 |
 | 29 | [[AutoHotkey]] | — | — | Practical Examples | 296 |
-| 30 | [[Working Memory]] | — | — | Basic Syntax | 341 |
+| 30 | [[Working-Memory|Working Memory]] | — | — | Basic Syntax | 341 |
 | 31 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Basic Syntax | 341 |
 | 32 | [[Hook]] | — | — | 2.5 The `hook-get-address` Action | 349 |
 | 33 | [[X-Callback-URL]] | — | — | Basic Syntax | 357 |
@@ -591,9 +591,9 @@ extraction_summary:
 | 40 | [[Actions URI]] | — | — | 🔗 4. Actions URI Plugin - X-Callback ... | 460 |
 | 41 | [[X-Callback-URL]] | — | — | 🔗 4. Actions URI Plugin - X-Callback ... | 461 |
 | 42 | [[Extraneous Cognitive Load]] | — | — | 🧠 6. Cognitive Science Applications | 563 |
-| 43 | [[Working Memory]] | — | — | 6.1 Aligning with Working Memory Cons... | 570 |
+| 43 | [[Working-Memory|Working Memory]] | — | — | 6.1 Aligning with Working Memory Cons... | 570 |
 | 44 | [[Behavioral Psychology]] | — | — | 6.2 Leveraging Environmental Triggers | 584 |
-| 45 | [[Self-Regulated Learning]] | — | — | 6.4 Metacognitive Scaffolding | 617 |
+| 45 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 6.4 Metacognitive Scaffolding | 617 |
 | 46 | [[Executive Function]] | — | — | 6.5 Reducing Decision Fatigue | 621 |
 | 47 | [[quickadd]] | — | — | 7.1 QuickAdd Integration | 636 |
 | 48 | [[Shell Commands]] | — | — | 7.5 Shell Commands Plugin | 679 |
@@ -942,7 +942,7 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[AutoHotkey Scripting for PKB Automation]]
 - [[Automation]]
 - [[Behavioral Psychology]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to PKB Design]]
 - [[Cross-Application Integration]]
 - [[Deep Linking]]
@@ -956,14 +956,14 @@ Start-Process "obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals
 - [[PowerShell]]
 - [[Quick Capture]]
 - [[QuickAdd Macro Architecture]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Shell Commands]]
 - [[Templater]]
 - [[URI Scheme]]
 - [[Uniform Resource Identifier]]
 - [[Windows Task Scheduler for Knowledge Work Automation]]
 - [[Workflow Optimization]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[X-Callback-URL]]
 - [[YAML Frontmatter]]
 - [[Zettelkasten]]

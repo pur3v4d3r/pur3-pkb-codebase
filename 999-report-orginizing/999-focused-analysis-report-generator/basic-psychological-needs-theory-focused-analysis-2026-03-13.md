@@ -111,21 +111,21 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic and Extrinsic Motivation]]"
 
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Organismic Integration Theory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[Autonomy Support in Education]]"
 
 broader:
   - "[[Motivation Theory]]"
-  - "[[Educational Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Positive Psychology]]"
 
 narrower:
@@ -134,7 +134,7 @@ narrower:
   - "[[Relatedness in Learning Environments]]"
 
 see-also:
-  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Self-Efficacy Theory — Bandura]]"
   - "[[Expectancy-Value Theory]]"
 
@@ -144,7 +144,7 @@ contrasts-with:
   - "[[Incentive-Based Motivation Models]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Learning Environment Design]]"
   - "[[Performance Management]]"
 
@@ -152,8 +152,8 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination Theory]]"
-  - "[[Organismic Meta-Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Organismic-Meta-Theory|Organismic Meta-Theory]]"
 
 enables:
   - "[[Autonomy-Supportive Instructional Design]]"
@@ -234,7 +234,7 @@ generation-date: 2026-03-13
 
 Here is a seemingly sensible proposition: if a person's need for relatedness is richly satisfied — if they are deeply embedded in warm, caring relationships — this abundance might buffer the costs of having their autonomy need thwarted. The logic runs like a kind of psychological arithmetic: a surplus in one account offsets a deficit in another. Supportive relationships soften the sting of controlled environments. High competence compensates for social isolation. And so on.
 
-[[Basic Psychological Needs Theory]] (BPNT), as articulated by [[Edward Deci]] and [[Richard Ryan]] within the broader architecture of [[Self-Determination Theory]] (SDT), rejects this arithmetic. The theory holds that [[autonomy]], [[competence]], and [[relatedness]] are not merely important contributors to well-being that can be traded against each other. They are *all necessary conditions* for full psychological functioning. If this is right, the practical and theoretical implications are substantial. It means that designing learning environments to maximize one or two needs while leaving a third chronically undersupplied will produce predictable and irreducible costs — costs that cannot be engineered away by doubling down on the satisfied needs.
+[[Basic Psychological Needs Theory]] (BPNT), as articulated by [[Edward Deci]] and [[Richard Ryan]] within the broader architecture of [[Self-Determination-Theory|Self-Determination Theory]] (SDT), rejects this arithmetic. The theory holds that [[autonomy]], [[competence]], and [[relatedness]] are not merely important contributors to well-being that can be traded against each other. They are *all necessary conditions* for full psychological functioning. If this is right, the practical and theoretical implications are substantial. It means that designing learning environments to maximize one or two needs while leaving a third chronically undersupplied will produce predictable and irreducible costs — costs that cannot be engineered away by doubling down on the satisfied needs.
 
 This report examines that central claim — the *conjunctive system thesis* — with analytical rigor. The question is not whether the three needs matter; the evidence for their individual importance is extensive and largely convergent. The question is about their *architecture*: Do they operate as a system in which all must be simultaneously satisfied for well-being to fully emerge? Or do they operate more flexibly, with compensation and substitution possible across the triad?
 
@@ -242,7 +242,7 @@ The answer to this question has a second, tightly related dimension: the asymmet
 
 **This report examines**: How the three basic psychological needs function as a conjunctive system, what the evidence for the satisfaction-frustration asymmetry reveals, and what these two structural properties together tell us about the deep architecture of human motivational life.
 
-**Scope**: This report assumes foundational knowledge of [[Self-Determination Theory]]. For comprehensive background on SDT's full theoretical architecture — including [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], and [[Causality Orientations Theory]] — see the SDT Foundational Report. Here, we focus on BPNT as a distinct mini-theory, with particular analytic depth on the conjunctive-vs-compensatory debate and the satisfaction-frustration asymmetry.
+**Scope**: This report assumes foundational knowledge of [[Self-Determination-Theory|Self-Determination Theory]]. For comprehensive background on SDT's full theoretical architecture — including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and [[Causality-Orientations-Theory|Causality Orientations Theory]] — see the SDT Foundational Report. Here, we focus on BPNT as a distinct mini-theory, with particular analytic depth on the conjunctive-vs-compensatory debate and the satisfaction-frustration asymmetry.
 
 **Why this analysis matters**: Instructional designers and educators routinely make implicit assumptions about need architecture. A common assumption is that rich competence support (well-scaffolded challenge, clear feedback) can compensate for low autonomy support (directive, controlling pedagogy). Another is that social classroom warmth (relatedness) offsets cognitively thin instruction (competence). If BPNT's conjunctive thesis is correct, these compensatory designs are not merely suboptimal — they produce well-being and motivational costs that are structurally unavoidable.
 
@@ -257,7 +257,7 @@ The answer to this question has a second, tightly related dimension: the asymmet
 
 ### 2.1 Situating BPNT Within SDT
 
-[[Self-Determination Theory]] is not a single theory but a macro-framework comprising six interrelated mini-theories, each addressing a distinct aspect of motivational and personality functioning. [[Basic Psychological Needs Theory]] is the mini-theory most directly concerned with *what humans fundamentally require from their environments* in order to function at their psychological best.
+[[Self-Determination-Theory|Self-Determination Theory]] is not a single theory but a macro-framework comprising six interrelated mini-theories, each addressing a distinct aspect of motivational and personality functioning. [[Basic Psychological Needs Theory]] is the mini-theory most directly concerned with *what humans fundamentally require from their environments* in order to function at their psychological best.
 
 > [!definition] **Basic Psychological Need (Deci & Ryan, 2000)**
 > A psychological need is *basic* in BPNT's technical sense if and only if it satisfies three criteria: (1) it is *universal* — present across all humans regardless of culture, age, or individual difference; (2) it is *organismic* — it emerges from the nature of the human organism rather than being socially constructed or culturally instilled; and (3) its *satisfaction predicts enhanced well-being and functioning* while its frustration predicts diminished well-being and functioning, not merely less of the former but qualitatively distinct negative states. A "need" in this framework is not a desire, preference, or culturally valued goal. It is a biological and psychological requirement, analogous to nutritional requirements — departure from satisfaction produces characteristic deficits.
@@ -524,11 +524,11 @@ Most motivational theories are built primarily around positive cases: what promo
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
 >
-> - **[[Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
 >
-> - **[[Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
 >
 > - **[[Autonomy Support in Education]]** — The most direct application node for this analysis. Reeve's ASOS framework and the teaching behaviors that distinguish autonomy-supportive from controlling instruction are the practical implementation of BPNT's autonomy need satisfaction recommendations. This report's distinctions — autonomy ≠ independence, need frustration ≠ need absence, conjunctive need architecture — provide the theoretical grounding for *why* specific autonomy-supportive behaviors matter.
 >

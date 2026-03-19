@@ -372,9 +372,9 @@ extraction_summary:
 > [!topic-idea] [[Retrieval Practice and the Testing Effect]]
 > A full treatment of the empirical science behind retrieval practice — the most robustly supported learning strategy in cognitive psychology. Would cover the mechanisms of the testing effect (retrieval practice strengthens memory traces and enhances metacognitive calibration simultaneously), the conditions under which it is most and least effective, practical protocols for implementing it across different content types, and its integration with spaced repetition systems. Priority: High — the testing effect is perhaps the single most actionable finding from the metacognitive research program.
 
-#### 42. [TOPIC-IDEA] [[Spaced Repetition Systems]] *(Line 592)*
+#### 42. [TOPIC-IDEA] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] *(Line 592)*
 
-> [!topic-idea] [[Spaced Repetition Systems]]
+> [!topic-idea] [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 > An exploration of how the spacing effect — one of the most replicable findings in memory research — can be systematically implemented through scheduling algorithms. Would cover the history from Ebbinghaus through modern SRS applications, the theory of the spacing effect, practical implementation using tools like Anki or SuperMemo, and the specific metacognitive skills required to maintain an SRS effectively over time. Priority: High — SRS represents the most powerful practical application of metacognitive learning science currently available.
 
 #### 43. [TOPIC-IDEA] [[The Science of Deliberate Practice]] *(Line 595)*
@@ -416,52 +416,52 @@ extraction_summary:
 - [[Ann Brown]]
 - [[Ann L. Brown]]
 - [[Annemarie Palincsar]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bernard Weiner]]
 - [[Calibration]]
 - [[Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
 - [[David Dunning]]
-- [[Dunning-Kruger Effect]]
-- [[Ease of Learning (EOL)]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
 - [[Extended Thinking Architecture Implementation Guide]]
-- [[Feeling of Knowing (FOK)]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]]
 - [[Flavell]]
-- [[Formative assessment]]
+- [[Formative-Assessment|Formative assessment]]
 - [[Foundational Report Generator v1.0]]
 - [[Jean Piaget]]
 - [[John Flavell]]
-- [[Judgment of Learning (JOL)]]
+- [[Judgment-of-Learning|Judgment of Learning (JOL)]]
 - [[Justin Kruger]]
 - [[Lev Vygotsky]]
 - [[Lifelong learning]]
 - [[Metacognition]]
 - [[Metacognitive Experiences]]
 - [[Metacognitive Interventions in Education]]
-- [[Metacognitive Knowledge]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive Monitoring in MetaICL]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Personal Learning Architecture Design]]
 - [[Prompt Engineering Specialist Agent v4.0]]
-- [[Reflective practice]]
+- [[Reflective-Practice|Reflective practice]]
 - [[Retrieval Practice and the Testing Effect]]
 - [[Robert Bjork]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[The Science of Deliberate Practice]]
 - [[Vygotsky and Socio-Cultural Learning Theory]]
 - [[William James]]
-- [[adaptive learning systems]]
-- [[attribution theory]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
+- [[Attribution-Theory|attribution theory]]
 - [[clinical reasoning]]
 - [[conditional metacognitive knowledge]]
 - [[declarative metacognitive knowledge]]
 - [[deliberate practice]]
-- [[desirable difficulties]]
-- [[fixed mindset]]
+- [[Desirable-Difficulties|desirable difficulties]]
+- [[Fixed-Mindset|fixed mindset]]
 - [[fluency]]
-- [[growth mindset]]
-- [[implicit theories of intelligence]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
 - [[interleaving]]
 - [[labor-in-vain effect]]
 - [[lifelong learning]]
@@ -471,9 +471,9 @@ extraction_summary:
 - [[procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
-- [[self-regulated learning]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 - [[spaced practice]]
 - [[study time allocation]]
 - [[variation practice]]
@@ -486,9 +486,9 @@ extraction_summary:
 | 2 | [[John Flavell]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 3 | [[Lifelong learning]] | — | — | Phase I: Orientation & Context Setting | 275 |
 | 4 | [[Flavell]] | — | — | Defining the Territory: What Metacogn... | 294 |
-| 5 | [[Metacognitive Knowledge]] | — | — | Defining the Territory: What Metacogn... | 294 |
+| 5 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | Defining the Territory: What Metacogn... | 294 |
 | 6 | [[Metacognitive Experiences]] | — | — | Defining the Territory: What Metacogn... | 294 |
-| 7 | [[Metacognitive Regulation]] | — | — | Defining the Territory: What Metacogn... | 294 |
+| 7 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Defining the Territory: What Metacogn... | 294 |
 | 8 | [[declarative metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
 | 9 | [[procedural metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
 | 10 | [[conditional metacognitive knowledge]] | — | — | Defining the Territory: What Metacogn... | 299 |
@@ -496,42 +496,42 @@ extraction_summary:
 | 12 | [[Jean Piaget]] | — | — | The Intellectual Genealogy | 305 |
 | 13 | [[Lev Vygotsky]] | — | — | The Intellectual Genealogy | 305 |
 | 14 | [[Ann L. Brown]] | — | — | The Intellectual Genealogy | 307 |
-| 15 | [[Barry Zimmerman]] | — | — | The Self-Regulated Learning Framework | 323 |
-| 16 | [[self-regulated learning]] | — | — | The Self-Regulated Learning Framework | 323 |
+| 15 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | The Self-Regulated Learning Framework | 323 |
+| 16 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | The Self-Regulated Learning Framework | 323 |
 | 17 | [[Calibration]] | — | — | Calibration: The Accuracy Problem | 336 |
 | 18 | [[Robert Bjork]] | — | — | Calibration: The Accuracy Problem | 338 |
 | 19 | [[fluency]] | — | — | Calibration: The Accuracy Problem | 338 |
-| 20 | [[retrieval practice]] | — | — | Calibration: The Accuracy Problem | 338 |
-| 21 | [[Dunning-Kruger Effect]] | — | — | Calibration: The Accuracy Problem | 343 |
+| 20 | [[Retrieval-Practice|retrieval practice]] | — | — | Calibration: The Accuracy Problem | 338 |
+| 21 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 22 | [[David Dunning]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 23 | [[Justin Kruger]] | — | — | Calibration: The Accuracy Problem | 343 |
 | 24 | [[Carol Dweck]] | — | — | Growth Mindset and Its Relationship t... | 347 |
-| 25 | [[implicit theories of intelligence]] | — | — | Growth Mindset and Its Relationship t... | 347 |
-| 26 | [[fixed mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
-| 27 | [[growth mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
+| 25 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] | — | — | Growth Mindset and Its Relationship t... | 347 |
+| 26 | [[Fixed-Mindset|fixed mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
+| 27 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Growth Mindset and Its Relationship t... | 347 |
 | 28 | [[Robert Bjork]] | — | — | Desirable Difficulties and the Scienc... | 356 |
-| 29 | [[desirable difficulties]] | — | — | Desirable Difficulties and the Scienc... | 356 |
+| 29 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Desirable Difficulties and the Scienc... | 356 |
 | 30 | [[spaced practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 31 | [[interleaving]] | — | — | Desirable Difficulties and the Scienc... | 358 |
-| 32 | [[retrieval practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
+| 32 | [[Retrieval-Practice|retrieval practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 33 | [[variation practice]] | — | — | Desirable Difficulties and the Scienc... | 358 |
 | 34 | [[metacognitive judgments]] | — | — | The Monitoring System: How the Mind W... | 374 |
-| 35 | [[Judgment of Learning (JOL)]] | — | — | The Monitoring System: How the Mind W... | 376 |
-| 36 | [[Feeling of Knowing (FOK)]] | — | — | The Monitoring System: How the Mind W... | 378 |
-| 37 | [[Ease of Learning (EOL)]] | — | — | The Monitoring System: How the Mind W... | 380 |
+| 35 | [[Judgment-of-Learning|Judgment of Learning (JOL)]] | — | — | The Monitoring System: How the Mind W... | 376 |
+| 36 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]] | — | — | The Monitoring System: How the Mind W... | 378 |
+| 37 | [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]] | — | — | The Monitoring System: How the Mind W... | 380 |
 | 38 | [[study time allocation]] | — | — | The Feedback Architecture of Learning | 391 |
 | 39 | [[labor-in-vain effect]] | — | — | The Feedback Architecture of Learning | 391 |
 | 40 | [[self-control]] | — | — | The Feedback Architecture of Learning | 391 |
 | 41 | [[Carol Dweck]] | — | — | The Feedback Architecture of Learning | 393 |
 | 42 | [[Bernard Weiner]] | — | — | The Feedback Architecture of Learning | 393 |
-| 43 | [[attribution theory]] | — | — | The Feedback Architecture of Learning | 393 |
+| 43 | [[Attribution-Theory|attribution theory]] | — | — | The Feedback Architecture of Learning | 393 |
 | 44 | [[Ann Brown]] | — | — | Metacognitive Development Across the ... | 402 |
 | 45 | [[prefrontal cortex]] | — | — | Metacognitive Development Across the ... | 404 |
 | 46 | [[reciprocal teaching]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 47 | [[Ann Brown]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
 | 48 | [[Annemarie Palincsar]] | — | — | Cultivating Metacognitive Practice: W... | 424 |
-| 49 | [[Reflective practice]] | — | — | Cultivating Metacognitive Practice: W... | 426 |
-| 50 | [[Formative assessment]] | — | — | Cultivating Metacognitive Practice: W... | 428 |
+| 49 | [[Reflective-Practice|Reflective practice]] | — | — | Cultivating Metacognitive Practice: W... | 426 |
+| 50 | [[Formative-Assessment|Formative assessment]] | — | — | Cultivating Metacognitive Practice: W... | 428 |
 | 51 | [[medical education]] | — | — | Metacognition in Professional and Org... | 443 |
 | 52 | [[clinical reasoning]] | — | — | Metacognition in Professional and Org... | 443 |
 | 53 | [[deliberate practice]] | — | — | Metacognition in Professional and Org... | 445 |
@@ -539,12 +539,12 @@ extraction_summary:
 | 55 | [[pseudoexpertise]] | — | — | Metacognition in Professional and Org... | 448 |
 | 56 | [[Metacognition]] | — | — | The Deeper Pattern: Metacognition as ... | 474 |
 | 57 | [[lifelong learning]] | — | — | The Deeper Pattern: Metacognition as ... | 474 |
-| 58 | [[adaptive learning systems]] | — | — | Unresolved Questions for Future Inquiry | 492 |
+| 58 | [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]] | — | — | Unresolved Questions for Future Inquiry | 492 |
 | 59 | [[Extended Thinking Architecture Implementation Guide]] | — | — | Unresolved Questions for Future Inquiry | 499 |
 | 60 | [[Metacognitive Monitoring in MetaICL]] | — | — | Unresolved Questions for Future Inquiry | 501 |
 | 61 | [[Prompt Engineering Specialist Agent v4.0]] | — | — | Unresolved Questions for Future Inquiry | 503 |
 | 62 | [[Retrieval Practice and the Testing Effect]] | — | — | D. Expansion Topics | 589 |
-| 63 | [[Spaced Repetition Systems]] | — | — | D. Expansion Topics | 592 |
+| 63 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | D. Expansion Topics | 592 |
 | 64 | [[The Science of Deliberate Practice]] | — | — | D. Expansion Topics | 595 |
 | 65 | [[Cognitive Biases and Their Impact on Self-Assessment]] | — | — | D. Expansion Topics | 598 |
 | 66 | [[Metacognitive Interventions in Education]] | — | — | D. Expansion Topics | 601 |
@@ -566,52 +566,52 @@ extraction_summary:
 - [[Ann Brown]]
 - [[Ann L. Brown]]
 - [[Annemarie Palincsar]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bernard Weiner]]
 - [[Calibration]]
 - [[Carol Dweck]]
 - [[Claude Sonnet 4.6]]
 - [[Cognitive Biases and Their Impact on Self-Assessment]]
 - [[David Dunning]]
-- [[Dunning-Kruger Effect]]
-- [[Ease of Learning (EOL)]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]
 - [[Extended Thinking Architecture Implementation Guide]]
-- [[Feeling of Knowing (FOK)]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]]
 - [[Flavell]]
-- [[Formative assessment]]
+- [[Formative-Assessment|Formative assessment]]
 - [[Foundational Report Generator v1.0]]
 - [[Jean Piaget]]
 - [[John Flavell]]
-- [[Judgment of Learning (JOL)]]
+- [[Judgment-of-Learning|Judgment of Learning (JOL)]]
 - [[Justin Kruger]]
 - [[Lev Vygotsky]]
 - [[Lifelong learning]]
 - [[Metacognition]]
 - [[Metacognitive Experiences]]
 - [[Metacognitive Interventions in Education]]
-- [[Metacognitive Knowledge]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
 - [[Metacognitive Monitoring in MetaICL]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Personal Learning Architecture Design]]
 - [[Prompt Engineering Specialist Agent v4.0]]
-- [[Reflective practice]]
+- [[Reflective-Practice|Reflective practice]]
 - [[Retrieval Practice and the Testing Effect]]
 - [[Robert Bjork]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[The Science of Deliberate Practice]]
 - [[Vygotsky and Socio-Cultural Learning Theory]]
 - [[William James]]
-- [[adaptive learning systems]]
-- [[attribution theory]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]]
+- [[Attribution-Theory|attribution theory]]
 - [[clinical reasoning]]
 - [[conditional metacognitive knowledge]]
 - [[declarative metacognitive knowledge]]
 - [[deliberate practice]]
-- [[desirable difficulties]]
-- [[fixed mindset]]
+- [[Desirable-Difficulties|desirable difficulties]]
+- [[Fixed-Mindset|fixed mindset]]
 - [[fluency]]
-- [[growth mindset]]
-- [[implicit theories of intelligence]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]]
 - [[interleaving]]
 - [[labor-in-vain effect]]
 - [[lifelong learning]]
@@ -621,9 +621,9 @@ extraction_summary:
 - [[procedural metacognitive knowledge]]
 - [[pseudoexpertise]]
 - [[reciprocal teaching]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[self-control]]
-- [[self-regulated learning]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 - [[spaced practice]]
 - [[study time allocation]]
 - [[variation practice]]
@@ -633,24 +633,24 @@ extraction_summary:
 #### Prerequisites
 
 - [[Memory Systems and Encoding]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Executive Function]]
 
 #### Related
 
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Deliberate Practice]]
-- [[Growth Mindset]]
-- [[Spaced Repetition]]
-- [[Retrieval Practice]]
-- [[Formative Assessment]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Formative-Assessment|Formative Assessment]]
 - [[Cognitive Biases in Learning]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 #### Broader
 
-- [[Cognitive Psychology]]
-- [[Educational Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Lifespan Developmental Psychology]]
 
 #### Narrower
@@ -662,16 +662,16 @@ extraction_summary:
 
 #### See Also
 
-- [[Critical Thinking]]
-- [[Epistemic Humility]]
-- [[Transfer of Learning]]
+- [[Critical-Thinking|Critical Thinking]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Expertise Development]]
 
 #### Contrasts With
 
 - [[Rote Learning]]
 - [[Passive Learning]]
-- [[Fixed Mindset]]
+- [[Fixed-Mindset|Fixed Mindset]]
 
 #### Applied In
 
@@ -679,13 +679,13 @@ extraction_summary:
 - [[Medical Education]]
 - [[K-12 Education]]
 - [[Workplace Learning]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 
 #### Builds On
 
 - [[Memory Systems and Encoding]]
 - [[Attention and Cognitive Control]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Enables
 

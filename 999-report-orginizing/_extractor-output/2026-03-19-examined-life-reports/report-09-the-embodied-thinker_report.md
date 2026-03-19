@@ -146,7 +146,7 @@ extraction_summary:
 #### 3. [QUESTION] 🔍 Central Question *(Line 199)*
 
 > [!question] 🔍 Central Question
-> What do [[Embodied Cognition]], [[Interoceptive Inference]], the [[Somatic Marker Hypothesis]], [[Allostatic Load]] research, and Stoic [[Propatheiai]] each contribute to a unified theory of the thinking body?
+> What do [[Embodied-Cognition|Embodied Cognition]], [[Interoceptive-Inference|Interoceptive Inference]], the [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]], [[Allostatic-Load|Allostatic Load]] research, and Stoic [[Propatheiai]] each contribute to a unified theory of the thinking body?
 
 #### 4. [DEFINITION] 📖 Embodied vs. Extended vs. Enactive Cognition *(Line 208)*
 
@@ -226,7 +226,7 @@ extraction_summary:
 #### 19. [DEFINITION] 📖 Physiological Metacognition — Formal Definition *(Line 337)*
 
 > [!definition] 📖 Physiological Metacognition — Formal Definition
-> **Physiological metacognition** is the capacity to monitor and regulate one's bodily states as a form of cognitive self-management — extending the metacognitive self-regulation described in [[Metacognitive Monitoring]] frameworks into the physiological domain. A practitioner with developed physiological metacognition can: (1) detect changes in their interoceptive state that signal changes in cognitive capacity; (2) identify the physiological sources of cognitive degradation (sleep deficit, elevated cortisol, metabolic disruption) with sufficient accuracy to address them; (3) distinguish between somatic markers that carry genuine epistemic information and allostatic noise that contaminates evaluative processing; and (4) manage their extended cognitive ecology — sleep, movement, stress regulation, and environmental design — with the same intentionality that Tier 1 brought to managing their epistemic processes.
+> **Physiological metacognition** is the capacity to monitor and regulate one's bodily states as a form of cognitive self-management — extending the metacognitive self-regulation described in [[Metacognitive-Monitoring|Metacognitive Monitoring]] frameworks into the physiological domain. A practitioner with developed physiological metacognition can: (1) detect changes in their interoceptive state that signal changes in cognitive capacity; (2) identify the physiological sources of cognitive degradation (sleep deficit, elevated cortisol, metabolic disruption) with sufficient accuracy to address them; (3) distinguish between somatic markers that carry genuine epistemic information and allostatic noise that contaminates evaluative processing; and (4) manage their extended cognitive ecology — sleep, movement, stress regulation, and environmental design — with the same intentionality that Tier 1 brought to managing their epistemic processes.
 
 #### 20. [ASK-YOURSELF-THIS] ❓ Examining Your Epistemic Physiology *(Line 362)*
 
@@ -387,74 +387,74 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Andy Clark]]
 - [[Anil Seth]]
 - [[Anterior Insular Cortex]]
 - [[Antonio Damasio]]
 - [[Apatheia]]
-- [[Aporic Receptivity]]
-- [[Belief Revision]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Belief-Revision|Belief Revision]]
 - [[Bruce McEwen]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[David Chalmers]]
 - [[Eleanor Rosch]]
-- [[Embodied Cognition]]
+- [[Embodied-Cognition|Embodied Cognition]]
 - [[Emotional Intelligence]]
 - [[Evan Thompson]]
 - [[Executive Function]]
 - [[Fallibilism]]
 - [[Francisco Varela]]
-- [[Free Energy Principle]]
+- [[Free-Energy-Principle|Free Energy Principle]]
 - [[Hippocampus]]
 - [[Homeostasis]]
-- [[Intellectual Integrity]]
-- [[Intellectual Virtue]]
-- [[Interoceptive Inference]]
-- [[Intrinsic Motivation]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Virtue|Intellectual Virtue]]
+- [[Interoceptive-Inference|Interoceptive Inference]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Iowa Gambling Task]]
 - [[Joseph Eyer]]
 - [[Karl Friston]]
 - [[Lawrence Shapiro]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Self-Regulation]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Peter Sterling]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Propatheiai]]
 - [[Report 01]]
 - [[Report 04]]
 - [[Report 06]]
 - [[Schema]]
-- [[Somatic Marker Hypothesis]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Stoic Prohairesis]]
 - [[Stoic Prosoche]]
-- [[System 2]]
+- [[System-2|System 2]]
 - [[The Predictive Mind]]
-- [[Ventromedial Prefrontal Cortex]]
-- [[Working Memory]]
+- [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Aporic Receptivity]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
+| 1 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
 | 2 | [[Fallibilism]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
-| 3 | [[Intrinsic Motivation]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
+| 3 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
 | 4 | [[Stoic Prohairesis]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
-| 5 | [[Intellectual Virtue]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
+| 5 | [[Intellectual-Virtue|Intellectual Virtue]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
 | 6 | [[Metacognitive Self-Regulation]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 180 |
-| 7 | [[Allostatic Load]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
-| 8 | [[Working Memory]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
+| 7 | [[Allostatic-Load|Allostatic Load]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
+| 8 | [[Working-Memory|Working Memory]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
 | 9 | [[Executive Function]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
-| 10 | [[Metacognitive Monitoring]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
-| 11 | [[Belief Revision]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
-| 12 | [[Physiological Metacognition]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 190 |
+| 10 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
+| 11 | [[Belief-Revision|Belief Revision]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 186 |
+| 12 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 190 |
 | 13 | [[Report 06]] | — | — | ⚙️ Phase I — The Premise: The Disembo... | 190 |
-| 14 | [[Embodied Cognition]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
-| 15 | [[Interoceptive Inference]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
-| 16 | [[Somatic Marker Hypothesis]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
-| 17 | [[Allostatic Load]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
+| 14 | [[Embodied-Cognition|Embodied Cognition]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
+| 15 | [[Interoceptive-Inference|Interoceptive Inference]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
+| 16 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
+| 17 | [[Allostatic-Load|Allostatic Load]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
 | 18 | [[Propatheiai]] | — | — | 📚 Phase II — The Exposition: Five Fra... | 200 |
 | 19 | [[Francisco Varela]] | — | — | 🧠 Embodied and Extended Cognition — T... | 204 |
 | 20 | [[Evan Thompson]] | — | — | 🧠 Embodied and Extended Cognition — T... | 204 |
@@ -464,12 +464,12 @@ extraction_summary:
 | 24 | [[Lawrence Shapiro]] | — | — | 🧠 Embodied and Extended Cognition — T... | 211 |
 | 25 | [[Anil Seth]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
 | 26 | [[Karl Friston]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
-| 27 | [[Free Energy Principle]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
+| 27 | [[Free-Energy-Principle|Free Energy Principle]] | — | — | 🌊 Interoceptive Inference — The Brain... | 218 |
 | 28 | [[Anterior Insular Cortex]] | — | — | 🌊 Interoceptive Inference — The Brain... | 220 |
 | 29 | [[The Predictive Mind]] | — | — | 🌊 Interoceptive Inference — The Brain... | 228 |
 | 30 | [[Antonio Damasio]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
-| 31 | [[Somatic Marker Hypothesis]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
-| 32 | [[Ventromedial Prefrontal Cortex]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
+| 31 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
+| 32 | [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 232 |
 | 33 | [[Iowa Gambling Task]] | — | — | 🎯 The Somatic Marker Hypothesis — The... | 237 |
 | 34 | [[Peter Sterling]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
 | 35 | [[Joseph Eyer]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 241 |
@@ -479,21 +479,21 @@ extraction_summary:
 | 39 | [[Schema]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 246 |
 | 40 | [[Report 04]] | — | — | ⚖️ Allostasis and Allostatic Load — T... | 246 |
 | 41 | [[Apatheia]] | — | — | 🏛️ Stoic Propatheiai — Ancient Recogn... | 259 |
-| 42 | [[System 2]] | — | — | 🔥 Resolving the Central Conceptual Te... | 297 |
-| 43 | [[Working Memory]] | — | — | 🏗️ Allostatic Load as the Physiologic... | 308 |
+| 42 | [[System-2|System 2]] | — | — | 🔥 Resolving the Central Conceptual Te... | 297 |
+| 43 | [[Working-Memory|Working Memory]] | — | — | 🏗️ Allostatic Load as the Physiologic... | 308 |
 | 44 | [[Executive Function]] | — | — | 🏗️ Allostatic Load as the Physiologic... | 308 |
-| 45 | [[Metacognitive Monitoring]] | — | — | 🏗️ Allostatic Load as the Physiologic... | 308 |
+| 45 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🏗️ Allostatic Load as the Physiologic... | 308 |
 | 46 | [[Report 01]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 319 |
-| 47 | [[Physiological Metacognition]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 319 |
+| 47 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 319 |
 | 48 | [[Report 04]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 321 |
-| 49 | [[Cognitive Load Theory]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 321 |
+| 49 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 321 |
 | 50 | [[Report 06]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 323 |
 | 51 | [[Stoic Prosoche]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 323 |
-| 52 | [[Metacognitive Monitoring]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 323 |
-| 53 | [[Metacognitive Monitoring]] | — | — | 🌿 The Emergent Concept — Physiologica... | 338 |
-| 54 | [[Working Memory]] | — | — | 💼 The Worked Example — The Degraded R... | 352 |
-| 55 | [[Motivated Reasoning]] | — | — | 💼 The Worked Example — The Degraded R... | 354 |
-| 56 | [[Intellectual Integrity]] | — | — | 💼 The Worked Example — The Degraded R... | 354 |
+| 52 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🔄 Retroactive Enrichment of Tier 1 | 323 |
+| 53 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🌿 The Emergent Concept — Physiologica... | 338 |
+| 54 | [[Working-Memory|Working Memory]] | — | — | 💼 The Worked Example — The Degraded R... | 352 |
+| 55 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 💼 The Worked Example — The Degraded R... | 354 |
+| 56 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 💼 The Worked Example — The Degraded R... | 354 |
 | 57 | [[Emotional Intelligence]] | — | — | 🔮 Broader Implications for the Series | 404 |
 
 ---
@@ -513,74 +513,74 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Andy Clark]]
 - [[Anil Seth]]
 - [[Anterior Insular Cortex]]
 - [[Antonio Damasio]]
 - [[Apatheia]]
-- [[Aporic Receptivity]]
-- [[Belief Revision]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Belief-Revision|Belief Revision]]
 - [[Bruce McEwen]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[David Chalmers]]
 - [[Eleanor Rosch]]
-- [[Embodied Cognition]]
+- [[Embodied-Cognition|Embodied Cognition]]
 - [[Emotional Intelligence]]
 - [[Evan Thompson]]
 - [[Executive Function]]
 - [[Fallibilism]]
 - [[Francisco Varela]]
-- [[Free Energy Principle]]
+- [[Free-Energy-Principle|Free Energy Principle]]
 - [[Hippocampus]]
 - [[Homeostasis]]
-- [[Intellectual Integrity]]
-- [[Intellectual Virtue]]
-- [[Interoceptive Inference]]
-- [[Intrinsic Motivation]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Virtue|Intellectual Virtue]]
+- [[Interoceptive-Inference|Interoceptive Inference]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Iowa Gambling Task]]
 - [[Joseph Eyer]]
 - [[Karl Friston]]
 - [[Lawrence Shapiro]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Self-Regulation]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Peter Sterling]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Propatheiai]]
 - [[Report 01]]
 - [[Report 04]]
 - [[Report 06]]
 - [[Schema]]
-- [[Somatic Marker Hypothesis]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Stoic Prohairesis]]
 - [[Stoic Prosoche]]
-- [[System 2]]
+- [[System-2|System 2]]
 - [[The Predictive Mind]]
-- [[Ventromedial Prefrontal Cortex]]
-- [[Working Memory]]
+- [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
+- [[Working-Memory|Working Memory]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Metacognitive Self-Regulation]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Dewey's Reflective Thinking]]
 - [[Stoic Virtue Ethics]]
 
 #### Related
 
-- [[Predictive Processing]]
-- [[Active Inference]]
+- [[Predictive-Processing|Predictive Processing]]
+- [[Active-Inference|Active Inference]]
 - [[Emotional Intelligence]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Stress and Cognition]]
 
 #### Broader
 
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Cognitive Neuroscience]]
 - [[Phenomenology]]
 - [[Psychophysiology]]

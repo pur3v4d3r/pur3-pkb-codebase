@@ -156,9 +156,9 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> This comprehensive exploration synthesizes three foundational domains—[[reflective practice]], [[behavioral psychology]], and [[Learning Theory]]—into a cohesive framework for continuous self-development. We examine how deliberate reflection transforms experience into wisdom, how behavioral science reveals the architecture of sustainable change, and how learning theory illuminates the cognitive processes underlying skill acquisition and knowledge construction. The framework proposed here is neither prescriptive nor simplistic; it acknowledges the profound complexity of human development while offering practical, evidence-based pathways forward.
+> This comprehensive exploration synthesizes three foundational domains—[[Reflective-Practice|reflective practice]], [[behavioral psychology]], and [[Learning Theory]]—into a cohesive framework for continuous self-development. We examine how deliberate reflection transforms experience into wisdom, how behavioral science reveals the architecture of sustainable change, and how learning theory illuminates the cognitive processes underlying skill acquisition and knowledge construction. The framework proposed here is neither prescriptive nor simplistic; it acknowledges the profound complexity of human development while offering practical, evidence-based pathways forward.
 > 
-> At its core, this synthesis addresses a fundamental paradox: while human beings possess extraordinary capacity for growth and adaptation, most struggle to translate aspiration into sustained transformation. Through examining the iterative cycles of [[Kolb's Experiential Learning]], the motivational dynamics of [[Self-Determination Theory]], the strategic automaticity of [[implementation intentions]], and the social construction of knowledge articulated by [[Vygotsky]], we construct a meta-framework that honors both the systematic nature of development and the deeply personal nature of growth. This framework is designed for the professional who seeks not merely competence, but mastery; not merely change, but transformation.
+> At its core, this synthesis addresses a fundamental paradox: while human beings possess extraordinary capacity for growth and adaptation, most struggle to translate aspiration into sustained transformation. Through examining the iterative cycles of [[Kolb's Experiential Learning]], the motivational dynamics of [[Self-Determination-Theory|Self-Determination Theory]], the strategic automaticity of [[Implementation-Intentions|implementation intentions]], and the social construction of knowledge articulated by [[Vygotsky]], we construct a meta-framework that honors both the systematic nature of development and the deeply personal nature of growth. This framework is designed for the professional who seeks not merely competence, but mastery; not merely change, but transformation.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 43)*
 
@@ -182,7 +182,7 @@ extraction_summary:
 > - *How did the* **historical development** *of reflective practice* **shape** *our current understanding?*
 >     - The evolution from Dewey's general concept of reflective thought to Schön's situated professional artistry reveals an increasing appreciation for the context-dependent, embodied nature of expertise. Early views treated reflection as primarily cognitive and individual; later frameworks recognized its social, emotional, and action-oriented dimensions. This progression mirrors broader shifts in educational and psychological theory from behaviorism to cognitivism to sociocultural perspectives.
 > - *Are there any* **abandoned theories** *that are as interesting as the current ones?*
->     - [[Chris Argyris]]'s distinction between [[single-loop learning]] (correcting errors within existing frameworks) and [[double-loop learning]] (questioning and revising the frameworks themselves) deserves renewed attention. While influential in organizational learning, it is less commonly integrated into personal development frameworks. Yet the capacity to question our own assumptions—to engage in double-loop learning—may be the most critical skill for navigating complexity and avoiding self-deception.
+>     - [[Chris Argyris]]'s distinction between [[Single-Loop-Learning|single-loop learning]] (correcting errors within existing frameworks) and [[Double-Loop-Learning|double-loop learning]] (questioning and revising the frameworks themselves) deserves renewed attention. While influential in organizational learning, it is less commonly integrated into personal development frameworks. Yet the capacity to question our own assumptions—to engage in double-loop learning—may be the most critical skill for navigating complexity and avoiding self-deception.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 121)*
 
@@ -397,7 +397,7 @@ extraction_summary:
 >     - The most surprising insight is that external rewards can actually *reduce* motivation for activities we find inherently interesting. This seems backwards—shouldn't rewarding something make us want to do it more? But Self-Determination Theory shows that when you pay people for activities they already enjoy, it can shift their mindset from "I do this because I love it" to "I do this because I'm paid." The payment crowds out the intrinsic satisfaction. It's counter-intuitive because our entire society is built on the assumption that carrots and sticks are the fundamental drivers of behavior. This research suggests that approach works for things people don't care about, but actually backfires for things they do care about. The practical implication is profound: to sustain development, we need to connect it to our core values and identity (intrinsic motivation), not rely on external pressures.
 > 
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - This article strongly connects with [[growth mindset]] research (Carol Dweck) and challenges [[fixed mindset]] assumptions about talent and ability.
+>     - This article strongly connects with [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] research (Carol Dweck) and challenges [[Fixed-Mindset|fixed mindset]] assumptions about talent and ability.
 > 
 >       - Dweck's work on growth mindset argues that believing abilities can be developed (rather than being fixed traits) predicts greater achievement. Our framework extends this by showing *how* development actually works—the specific processes and conditions that enable growth. Where Dweck focuses on beliefs about ability, our framework provides the architecture for actualizing development. The two are complementary: growth mindset provides the psychological stance ("I can develop"), while our integrated framework provides the roadmap and toolkit ("here's how development happens").
 > 
@@ -420,13 +420,13 @@ extraction_summary:
 > - Identify **three key terms** or **concepts** from this article.
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
 > 
-> 1. [[Zone of Proximal Development]]
+> 1. [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 >     - The gap between what a learner can accomplish independently and what they can accomplish with guidance from a more knowledgeable other. This concept, developed by Vygotsky, defines the optimal space for development—challenges that are neither too easy (already mastered) nor too hard (beyond reach even with help). Effective development experiences target the ZPD, providing appropriate scaffolding that enables learners to accomplish more than they could alone while gradually building independent capability. The ZPD is dynamic, shifting as competence grows, which means development systems must continuously adjust challenge levels.
 > 
-> 1. [[Implementation Intentions]]
+> 1. [[Implementation-Intentions|Implementation Intentions]]
 >     - Concrete if-then plans that specify when, where, and how a goal-directed behavior will be enacted ("If situation X occurs, then I will do Y"). Implementation intentions create strategic automaticity by pre-committing to a response in a specified situation, thereby offloading decision-making from the moment of action to an earlier planning phase. Research shows implementation intentions produce medium-to-large effects (d=.65) on goal achievement by enhancing cue detection and automating responses. They are particularly effective for overcoming common self-regulation failures like forgetting to act, missing opportunities, or struggling to initiate action.
 > 
-> 1. [[Self-Determination Theory]]
+> 1. [[Self-Determination-Theory|Self-Determination Theory]]
 >     - A comprehensive theory of human motivation proposing that well-being and optimal functioning depend on satisfaction of three basic psychological needs: autonomy (experiencing volition and self-endorsement), competence (experiencing effectiveness and growth), and relatedness (experiencing connection and belonging). SDT distinguishes between different types of motivation along a continuum of autonomy, from controlled (external and introjected) to autonomous (identified, integrated, and intrinsic). The theory proposes that contexts supporting the three basic needs foster internalization—the transformation of external regulations into personally valued commitments—which is essential for sustainable behavior change and development.
 
 #### 37. [THOUGHTS] Untitled *(Line 603)*
@@ -565,7 +565,7 @@ extraction_summary:
 - [[After-Action Reviews]]
 - [[Anterior Cingulate Cortex]]
 - [[Assimilation-(Constructivist-Learning)]]
-- [[Autonomous motivation]]
+- [[Autonomous-Motivation|Autonomous motivation]]
 - [[Autonomy]]
 - [[B.F. Skinner]]
 - [[BDNF (Brain-Derived Neurotrophic Factor)]]
@@ -577,31 +577,31 @@ extraction_summary:
 - [[Communities of Practice and Professional Identity Development]]
 - [[Competence]]
 - [[Context-dependent memory]]
-- [[Controlled motivation]]
+- [[Controlled-Motivation|Controlled motivation]]
 - [[Cultural Differences in Motivation and Learning Styles]]
-- [[David Kolb]]
+- [[David-Kolb|David Kolb]]
 - [[Deliberate Practice and the 10,000 Hour Rule]]
 - [[Deliberate practice]]
 - [[Digital Tools for Personal Knowledge Management]]
-- [[Donald Schön]]
+- [[Donald-Schön|Donald Schön]]
 - [[Edward Deci]]
 - [[Experiential Learning Theory]]
 - [[Extrinsic motivation]]
 - [[Gibbs' (1988) Reflective Cycle studies]]
 - [[Gollwitzer and Sheeran's (2006) meta-analysis]]
 - [[Growth Mindset vs Fixed Mindset Research]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking and Atomic Habits Framework]]
 - [[Hubert Dreyfus]]
-- [[Implementation Intentions]]
-- [[Implementation intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Implementation-Intentions|Implementation intentions]]
 - [[Internalization]]
-- [[Intrinsic motivation]]
+- [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Jean Piaget]]
 - [[K. Anders Ericsson]]
 - [[Kolb]]
 - [[Kolb's Experiential Learning]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Kurt Lewin]]
 - [[Learning Organizations]]
 - [[Learning Theory]]
@@ -620,15 +620,15 @@ extraction_summary:
 - [[Sara Lazar]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Schön's (1983) observational studies]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sian Beilock]]
 - [[Studies of apprenticeship and mentoring relationships]]
 - [[Video review]]
 - [[Vygotsky]]
 - [[Vygotsky-inspired research on the Zone of Proximal Development]]
 - [[Wendy Wood]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[basal ganglia]]
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
@@ -637,26 +637,26 @@ extraction_summary:
 - [[continuous improvement]]
 - [[default mode network]]
 - [[deliberate practice]]
-- [[double-loop learning]]
+- [[Double-Loop-Learning|double-loop learning]]
 - [[fading]]
-- [[fixed mindset]]
-- [[growth mindset]]
+- [[Fixed-Mindset|fixed mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[habit formation apps]]
-- [[habit loop]]
+- [[Habit-Loop|habit loop]]
 - [[hidden curriculum]]
-- [[implementation intentions]]
+- [[Implementation-Intentions|implementation intentions]]
 - [[insula]]
 - [[intention-behavior gap]]
 - [[journaling]]
-- [[legitimate peripheral participation]]
+- [[Legitimate-Peripheral-Participation|legitimate peripheral participation]]
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
 - [[prefrontal cortex]]
 - [[reflection-in-action]]
 - [[reflection-on-action]]
-- [[reflective practice]]
-- [[single-loop learning]]
-- [[situated learning]]
+- [[Reflective-Practice|reflective practice]]
+- [[Single-Loop-Learning|single-loop learning]]
+- [[Situated-Learning|situated learning]]
 - [[sociocultural theory]]
 - [[striatum]]
 
@@ -664,36 +664,36 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[reflective practice]] | — | — | Document Start | 37 |
+| 1 | [[Reflective-Practice|reflective practice]] | — | — | Document Start | 37 |
 | 2 | [[behavioral psychology]] | — | — | Document Start | 37 |
 | 3 | [[Learning Theory]] | — | — | Document Start | 37 |
 | 4 | [[Kolb's Experiential Learning]] | — | — | Document Start | 39 |
-| 5 | [[Self-Determination Theory]] | — | — | Document Start | 39 |
-| 6 | [[implementation intentions]] | — | — | Document Start | 39 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 39 |
+| 6 | [[Implementation-Intentions|implementation intentions]] | — | — | Document Start | 39 |
 | 7 | [[Vygotsky]] | — | — | Document Start | 39 |
 | 8 | [[intention-behavior gap]] | — | — | 1.0 📜 INTRODUCTION | 53 |
-| 9 | [[Donald Schön]] | — | — | 1.0 📜 INTRODUCTION | 61 |
+| 9 | [[Donald-Schön|Donald Schön]] | — | — | 1.0 📜 INTRODUCTION | 61 |
 | 10 | [[reflection-in-action]] | — | — | 1.0 📜 INTRODUCTION | 61 |
-| 11 | [[reflective practice]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
+| 11 | [[Reflective-Practice|reflective practice]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 12 | [[Pragmatism]] | — | — | THE PRAGMATIST ROOTS: DEWEY AND REFLE... | 71 |
 | 13 | [[Kurt Lewin]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 79 |
-| 14 | [[David Kolb]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
+| 14 | [[David-Kolb|David Kolb]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
 | 15 | [[Experiential Learning Theory]] | — | — | EXPERIENTIAL LEARNING: FROM LEWIN TO ... | 81 |
-| 16 | [[Donald Schön]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 85 |
+| 16 | [[Donald-Schön|Donald Schön]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 85 |
 | 17 | [[reflection-on-action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
 | 18 | [[reflection-in-action]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 87 |
 | 19 | [[Chris Argyris]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
-| 20 | [[single-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
-| 21 | [[double-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
+| 20 | [[Single-Loop-Learning|single-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
+| 21 | [[Double-Loop-Learning|double-loop learning]] | — | — | SCHÖN AND THE REFLECTIVE PRACTITIONER | 93 |
 | 22 | [[B.F. Skinner]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 97 |
 | 23 | [[operant conditioning]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 97 |
 | 24 | [[Edward Deci]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 25 | [[Richard Ryan]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
-| 26 | [[Self-Determination Theory]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
+| 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 27 | [[Autonomy]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 28 | [[Competence]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
 | 29 | [[Relatedness]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 99 |
-| 30 | [[Intrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
+| 30 | [[Intrinsic-Motivation|Intrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
 | 31 | [[Extrinsic motivation]] | — | — | THE BEHAVIORAL TRADITION: FROM SKINNE... | 101 |
 | 32 | [[Jean Piaget]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
 | 33 | [[constructivism]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
@@ -701,50 +701,50 @@ extraction_summary:
 | 35 | [[Accommodation-(Constructivist-Learning)]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 107 |
 | 36 | [[Lev Vygotsky]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 109 |
 | 37 | [[sociocultural theory]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 109 |
-| 38 | [[Zone of Proximal Development]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 111 |
+| 38 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | CONSTRUCTIVISM AND SOCIAL LEARNING | 111 |
 | 39 | [[Metacognition]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 125 |
 | 40 | [[default mode network]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 127 |
 | 41 | [[medial prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 127 |
-| 42 | [[Self-Determination Theory]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 142 |
+| 42 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 142 |
 | 43 | [[Autonomy]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 144 |
 | 44 | [[Competence]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 146 |
 | 45 | [[Relatedness]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 148 |
 | 46 | [[BJ Fogg]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 158 |
 | 47 | [[Behavior Model]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 158 |
 | 48 | [[Peter Gollwitzer]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
-| 49 | [[implementation intentions]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
+| 49 | [[Implementation-Intentions|implementation intentions]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 172 |
 | 50 | [[Vygotsky]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 198 |
-| 51 | [[Zone of Proximal Development]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 200 |
+| 51 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 200 |
 | 52 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 202 |
 | 53 | [[Kolb]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
 | 54 | [[continuous improvement]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
 | 55 | [[deliberate practice]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 210 |
 | 56 | [[K. Anders Ericsson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 212 |
-| 57 | [[Kolb's Experiential Learning Cycle]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 222 |
+| 57 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 222 |
 | 58 | [[Deliberate practice]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 227 |
 | 59 | [[After-Action Reviews]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 233 |
 | 60 | [[journaling]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 234 |
 | 61 | [[Video review]] | — | — | 4.1 THE CYCLE OF EXPERIENTIAL LEARNING | 235 |
-| 62 | [[Habit Formation]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 267 |
+| 62 | [[Habit-Formation|Habit Formation]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 267 |
 | 63 | [[Charles Duhigg]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
-| 64 | [[habit loop]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
+| 64 | [[Habit-Loop|habit loop]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
 | 65 | [[basal ganglia]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 269 |
 | 66 | [[prefrontal cortex]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 274 |
 | 67 | [[Context-dependent memory]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
 | 68 | [[Wendy Wood]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 277 |
-| 69 | [[Implementation intentions]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 288 |
-| 70 | [[Self-Determination Theory]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 292 |
-| 71 | [[Controlled motivation]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 304 |
-| 72 | [[Autonomous motivation]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 304 |
+| 69 | [[Implementation-Intentions|Implementation intentions]] | — | — | 4.2 THE ARCHITECTURE OF HABIT FORMATION | 288 |
+| 70 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 292 |
+| 71 | [[Controlled-Motivation|Controlled motivation]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 304 |
+| 72 | [[Autonomous-Motivation|Autonomous motivation]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 304 |
 | 73 | [[Internalization]] | — | — | 4.3 THE MOTIVATION SPECTRUM AND INTER... | 306 |
 | 74 | [[Vygotsky]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 316 |
-| 75 | [[legitimate peripheral participation]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 318 |
-| 76 | [[situated learning]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 320 |
+| 75 | [[Legitimate-Peripheral-Participation|legitimate peripheral participation]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 318 |
+| 76 | [[Situated-Learning|situated learning]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 320 |
 | 77 | [[hidden curriculum]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 320 |
 | 78 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 322 |
 | 79 | [[fading]] | — | — | 4.4 THE SOCIAL CONSTRUCTION OF KNOWLEDGE | 330 |
 | 80 | [[Metacognition]] | — | — | 4.5 METACOGNITION AND SELF-REGULATED ... | 337 |
-| 81 | [[Self-Regulated Learning]] | — | — | 4.5 METACOGNITION AND SELF-REGULATED ... | 339 |
+| 81 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4.5 METACOGNITION AND SELF-REGULATED ... | 339 |
 | 82 | [[Gibbs' (1988) Reflective Cycle studies]] | — | — | 5.1 EMPIRICAL SUPPORT FOR REFLECTIVE ... | 363 |
 | 83 | [[Schön's (1983) observational studies]] | — | — | 5.1 EMPIRICAL SUPPORT FOR REFLECTIVE ... | 366 |
 | 84 | [[Meta-analyses of medical education]] | — | — | 5.1 EMPIRICAL SUPPORT FOR REFLECTIVE ... | 369 |
@@ -768,11 +768,11 @@ extraction_summary:
 | 102 | [[computational narrative analysis]] | — | — | 7.2 DIGITAL TECHNOLOGIES AND SELF-DEV... | 509 |
 | 103 | [[Hubert Dreyfus]] | — | — | 7.4 INTEGRATION OF EMBODIED AND SITUA... | 529 |
 | 104 | [[Sian Beilock]] | — | — | 7.4 INTEGRATION OF EMBODIED AND SITUA... | 531 |
-| 105 | [[growth mindset]] | — | — | 9.0 🧠 KEY QUESTIONS | 576 |
-| 106 | [[fixed mindset]] | — | — | 9.0 🧠 KEY QUESTIONS | 576 |
-| 107 | [[Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 594 |
-| 108 | [[Implementation Intentions]] | — | — | 9.0 🧠 KEY QUESTIONS | 597 |
-| 109 | [[Self-Determination Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 600 |
+| 105 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | 9.0 🧠 KEY QUESTIONS | 576 |
+| 106 | [[Fixed-Mindset|fixed mindset]] | — | — | 9.0 🧠 KEY QUESTIONS | 576 |
+| 107 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 594 |
+| 108 | [[Implementation-Intentions|Implementation Intentions]] | — | — | 9.0 🧠 KEY QUESTIONS | 597 |
+| 109 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 9.0 🧠 KEY QUESTIONS | 600 |
 | 110 | [[Deliberate Practice and the 10,000 Hour Rule]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 727 |
 | 111 | [[Organizational Learning and Knowledge Management Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 728 |
 | 112 | [[Neuroscience of Mindfulness and Meditation]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 729 |
@@ -914,7 +914,7 @@ graph TD
 - [[After-Action Reviews]]
 - [[Anterior Cingulate Cortex]]
 - [[Assimilation-(Constructivist-Learning)]]
-- [[Autonomous motivation]]
+- [[Autonomous-Motivation|Autonomous motivation]]
 - [[Autonomy]]
 - [[B.F. Skinner]]
 - [[BDNF (Brain-Derived Neurotrophic Factor)]]
@@ -926,31 +926,31 @@ graph TD
 - [[Communities of Practice and Professional Identity Development]]
 - [[Competence]]
 - [[Context-dependent memory]]
-- [[Controlled motivation]]
+- [[Controlled-Motivation|Controlled motivation]]
 - [[Cultural Differences in Motivation and Learning Styles]]
-- [[David Kolb]]
+- [[David-Kolb|David Kolb]]
 - [[Deliberate Practice and the 10,000 Hour Rule]]
 - [[Deliberate practice]]
 - [[Digital Tools for Personal Knowledge Management]]
-- [[Donald Schön]]
+- [[Donald-Schön|Donald Schön]]
 - [[Edward Deci]]
 - [[Experiential Learning Theory]]
 - [[Extrinsic motivation]]
 - [[Gibbs' (1988) Reflective Cycle studies]]
 - [[Gollwitzer and Sheeran's (2006) meta-analysis]]
 - [[Growth Mindset vs Fixed Mindset Research]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Stacking and Atomic Habits Framework]]
 - [[Hubert Dreyfus]]
-- [[Implementation Intentions]]
-- [[Implementation intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Implementation-Intentions|Implementation intentions]]
 - [[Internalization]]
-- [[Intrinsic motivation]]
+- [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Jean Piaget]]
 - [[K. Anders Ericsson]]
 - [[Kolb]]
 - [[Kolb's Experiential Learning]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Kurt Lewin]]
 - [[Learning Organizations]]
 - [[Learning Theory]]
@@ -969,15 +969,15 @@ graph TD
 - [[Sara Lazar]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Schön's (1983) observational studies]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sian Beilock]]
 - [[Studies of apprenticeship and mentoring relationships]]
 - [[Video review]]
 - [[Vygotsky]]
 - [[Vygotsky-inspired research on the Zone of Proximal Development]]
 - [[Wendy Wood]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[basal ganglia]]
 - [[behavior tracking devices]]
 - [[behavioral psychology]]
@@ -986,26 +986,26 @@ graph TD
 - [[continuous improvement]]
 - [[default mode network]]
 - [[deliberate practice]]
-- [[double-loop learning]]
+- [[Double-Loop-Learning|double-loop learning]]
 - [[fading]]
-- [[fixed mindset]]
-- [[growth mindset]]
+- [[Fixed-Mindset|fixed mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[habit formation apps]]
-- [[habit loop]]
+- [[Habit-Loop|habit loop]]
 - [[hidden curriculum]]
-- [[implementation intentions]]
+- [[Implementation-Intentions|implementation intentions]]
 - [[insula]]
 - [[intention-behavior gap]]
 - [[journaling]]
-- [[legitimate peripheral participation]]
+- [[Legitimate-Peripheral-Participation|legitimate peripheral participation]]
 - [[medial prefrontal cortex]]
 - [[operant conditioning]]
 - [[prefrontal cortex]]
 - [[reflection-in-action]]
 - [[reflection-on-action]]
-- [[reflective practice]]
-- [[single-loop learning]]
-- [[situated learning]]
+- [[Reflective-Practice|reflective practice]]
+- [[Single-Loop-Learning|single-loop learning]]
+- [[Situated-Learning|situated learning]]
 - [[sociocultural theory]]
 - [[striatum]]
 

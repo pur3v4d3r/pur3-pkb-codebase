@@ -320,7 +320,7 @@ extraction_summary:
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
 > 1.  `[[Andragogy vs. Pedagogy]]`
-> 1.  `[[Constructivism (Learning Theory)]]`
+> 1.  `[[Constructivism|Constructivism (Learning Theory)]]`
 > 1.  `[[Networked vs. Hierarchical PKM Architecture]]`
 
 #### 26. [QUESTION] Untitled *(Line 402)*
@@ -352,9 +352,9 @@ extraction_summary:
 
 - [[Andragogy vs. Pedagogy]]
 - [[Book Project Ideas]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Consciousness]]
-- [[Constructivism (Learning Theory)]]
+- [[Constructivism|Constructivism (Learning Theory)]]
 - [[Free Will]]
 - [[Generative AI]]
 - [[Management Theory]]
@@ -385,7 +385,7 @@ extraction_summary:
 | 6 | [[Physics MOC]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 236 |
 | 7 | [[Philosophy MOC]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 236 |
 | 8 | [[Book Project Ideas]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 236 |
-| 9 | [[Cognitive Bias]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 237 |
+| 9 | [[Cognitive-Bias|Cognitive Bias]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 237 |
 | 10 | [[Marketing]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 237 |
 | 11 | [[Free Will]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
 | 12 | [[Quantum Mechanics]] | — | — | 4.2 THE ANDRAGOGICAL/CONSTRUCTIVIST A... | 242 |
@@ -402,7 +402,7 @@ extraction_summary:
 | 23 | [[Project A]] | — | — | MANIFESTATION 2: ENHANCED KNOWLEDGE R... | 301 |
 | 24 | [[Generative AI]] | — | — | THE USER AS ARCHITECT, NOT LIBRARIAN | 322 |
 | 25 | [[Andragogy vs. Pedagogy]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 398 |
-| 26 | [[Constructivism (Learning Theory)]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 399 |
+| 26 | [[Constructivism|Constructivism (Learning Theory)]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 399 |
 | 27 | [[Networked vs. Hierarchical PKM Architecture]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 400 |
 
 ---
@@ -469,9 +469,9 @@ graph TD
 
 - [[Andragogy vs. Pedagogy]]
 - [[Book Project Ideas]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Consciousness]]
-- [[Constructivism (Learning Theory)]]
+- [[Constructivism|Constructivism (Learning Theory)]]
 - [[Free Will]]
 - [[Generative AI]]
 - [[Management Theory]]

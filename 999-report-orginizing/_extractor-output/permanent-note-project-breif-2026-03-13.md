@@ -62,7 +62,7 @@ Overall, I want to ensure that the process of turning the vast amount of resourc
 These are the notes that the generated reports link to wqhile reviewing/reading an actual report, so THEY MUST be semantic in their naming convention, and they must be named in a way that reflects the content and theme of the note. This may involve using a consistent naming convention that includes relevant keywords, themes, or topics from the report, as well as ensuring that the names are clear, concise, and easily understandable within the context of my PKM system.
 
 - Coresponding Wiki-link
-`[[Cognitive Load Theory]]`
+`[[Cognitive-Load-Theory|Cognitive Load Theory]]`
 
 - Name of Permanent Note
 `Cognitive Load Theory` or `cognitive load theory`
@@ -635,22 +635,22 @@ related:
   - "[[Metacognition]]"
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
-  - "[[Epistemic Vigilance]]"
-  - "[[Dual Process Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Argument Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
   - "[[Scientific Reasoning]]"
-  - "[[Transfer of Learning]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Confirmation Bias]]"
-  - "[[Availability Heuristic]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -667,9 +667,9 @@ see-also:
   - "[[Working Memory and Executive Function]]"
   - "[[Expertise Development]]"
   - "[[Reflective Judgment Model]]"
-  - "[[Intellectual Humility]]"
+  - "[[Intellectual-Humility|Intellectual Humility]]"
   - "[[Bayesian Reasoning]]"
-  - "[[Argument Mapping]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
   - "[[Socratic Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"

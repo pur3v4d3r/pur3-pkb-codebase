@@ -520,7 +520,7 @@ extraction_summary:
 #### 29. [RELATED-TOPICS-TO-CONSIDER] Untitled *(Line 361)*
 
 > [!related-topics-to-consider] Untitled
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]*}}
 
 #### 30. [THE-PURPOSE] Untitled *(Line 371)*
 
@@ -849,7 +849,7 @@ extraction_summary:
 #### 79. [RELATED-TOPICS-TO-CONSIDER] Untitled *(Line 685)*
 
 > [!related-topics-to-consider] Untitled
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]*}}
 
 #### 80. [THE-PURPOSE] Untitled *(Line 696)*
 
@@ -1716,7 +1716,7 @@ extraction_summary:
 - [[Cognitive-Biases]]
 - [[Complex Concept]]
 - [[Concept Name]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Decision-Making]]
 - [[Decision-Making-Frameworks]]
 - [[Deconstruction]]
@@ -1778,7 +1778,7 @@ extraction_summary:
 | 5 | [[Term 3 goes here]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 349 |
 | 6 | [[Logical Fallacies]] | — | — | 6.0 📚 Reference/Appendix | 362 |
 | 7 | [[First-Principles-Thinking]] | — | — | 6.0 📚 Reference/Appendix | 362 |
-| 8 | [[Confirmation Bias]] | — | — | 6.0 📚 Reference/Appendix | 362 |
+| 8 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 6.0 📚 Reference/Appendix | 362 |
 | 9 | [[Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 422 |
 | 10 | [[Complex Concept]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 430 |
 | 11 | [[Concept Name]] | — | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 433 |
@@ -1792,7 +1792,7 @@ extraction_summary:
 | 19 | [[Term 3 goes here]] | — | — | 5.0 🧠 Key Questions (Metacognition) | 673 |
 | 20 | [[Logical Fallacies]] | — | — | 6.0 📚 Reference/Appendix | 686 |
 | 21 | [[First-Principles-Thinking]] | — | — | 6.0 📚 Reference/Appendix | 686 |
-| 22 | [[Confirmation Bias]] | — | — | 6.0 📚 Reference/Appendix | 686 |
+| 22 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 6.0 📚 Reference/Appendix | 686 |
 | 23 | [[wiki-link]] | — | — | 5.0 🌅 ACT V: The New World (The Resol... | 811 |
 | 24 | [[Protagonist/Concept 1 goes here]] | — | — | 6.0 🧠 The Moral of the Story (Metacog... | 831 |
 | 25 | [[Obstacle/Concept 2 goes here]] | — | — | 6.0 🧠 The Moral of the Story (Metacog... | 833 |
@@ -2443,7 +2443,7 @@ Generate a batch of 4 new components for me. Look for gaps in any category (Pers
 - [[Cognitive-Biases]]
 - [[Complex Concept]]
 - [[Concept Name]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Decision-Making]]
 - [[Decision-Making-Frameworks]]
 - [[Deconstruction]]

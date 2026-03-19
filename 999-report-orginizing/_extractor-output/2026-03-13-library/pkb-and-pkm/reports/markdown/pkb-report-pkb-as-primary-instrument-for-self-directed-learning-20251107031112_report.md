@@ -161,7 +161,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Key "Flows" (The Rates of Change):**
->   	  - The stocks of the PKB are not static; they are continuously modified by a set of *flows*. The **inflows** that grow the system include **[[Capture|Note Creation]]** (the act of writing new notes), **[[Linking]]** (the act of creating new connections), and **[[Learning|Input]]** (the consumption of books, articles, and experiences). The **outflows** that modify or reduce certain stocks include **[[Pruning|Deletion]]** (removing outdated or irrelevant notes), **[[Consolidation|Merging]]** (combining redundant ideas), and most critically, **[[Retrieval|Extraction]]** (the use of notes for writing, projects, or decision-making, which doesn't delete them but represents their "exit" from latent potential into actualized value). There are also **modulating flows** that don't add or remove but *transform*: **[[review]]** (the periodic re-engagement with existing notes), **[[Progressive Summarization|Distillation]]** (the process of compressing notes to their essence), and **[[synthesis|Integration]]** (the act of combining multiple notes into higher-order insights). These flows, particularly the transformational ones, are where the system's true power lies.
+>   	  - The stocks of the PKB are not static; they are continuously modified by a set of *flows*. The **inflows** that grow the system include **[[Capture|Note Creation]]** (the act of writing new notes), **[[Linking]]** (the act of creating new connections), and **[[Learning|Input]]** (the consumption of books, articles, and experiences). The **outflows** that modify or reduce certain stocks include **[[Pruning|Deletion]]** (removing outdated or irrelevant notes), **[[Consolidation|Merging]]** (combining redundant ideas), and most critically, **[[Retrieval|Extraction]]** (the use of notes for writing, projects, or decision-making, which doesn't delete them but represents their "exit" from latent potential into actualized value). There are also **modulating flows** that don't add or remove but *transform*: **[[review]]** (the periodic re-engagement with existing notes), **[[Progressive Summarization|Distillation]]** (the process of compressing notes to their essence), and **[[Integration|Integration]]** (the act of combining multiple notes into higher-order insights). These flows, particularly the transformational ones, are where the system's true power lies.
 
 #### 9. [DEFINITION] Untitled *(Line 65)*
 
@@ -189,7 +189,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > - **Emergent Behavior 1: Serendipitous Insight Generation**
->   	  - The most celebrated emergent property of a mature PKB is what practitioners call **[[Serendipity|serendipitous insight]]**—the spontaneous recognition of patterns or connections that were not deliberately sought. You search for a note on [[Compound Interest]] for a finance project, and in the process, you stumble upon an old note about [[Habit Formation]]. Suddenly, you see the connection: habits compound like financial interest—small daily behaviors, repeated consistently, yield exponential results over time. This insight was not "contained" in either note individually; it *emerged* from the juxtaposition enabled by the system's structure. This emergent behavior arises from the interaction between the **Insight Compounding Loop** (which creates a dense network of connections) and the **Retrieval Practice Loop** (which surfaces notes during search). The denser the network, and the more frequently you traverse it, the higher the probability of serendipitous encounters.
+>   	  - The most celebrated emergent property of a mature PKB is what practitioners call **[[Serendipity|serendipitous insight]]**—the spontaneous recognition of patterns or connections that were not deliberately sought. You search for a note on [[Compound Interest]] for a finance project, and in the process, you stumble upon an old note about [[Habit-Formation|Habit Formation]]. Suddenly, you see the connection: habits compound like financial interest—small daily behaviors, repeated consistently, yield exponential results over time. This insight was not "contained" in either note individually; it *emerged* from the juxtaposition enabled by the system's structure. This emergent behavior arises from the interaction between the **Insight Compounding Loop** (which creates a dense network of connections) and the **Retrieval Practice Loop** (which surfaces notes during search). The denser the network, and the more frequently you traverse it, the higher the probability of serendipitous encounters.
 
 #### 14. [INSIGHT] Untitled *(Line 125)*
 
@@ -218,7 +218,7 @@ extraction_summary:
 
 > [!helpful-tip] Untitled
 > - **A High-Leverage Intervention: Shift from Capture to Review**
->   	  - The single most powerful leverage point in the PKB system is *not* increasing the rate of note creation (which most beginners obsess over), but rather increasing the *frequency and quality* of **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|review]]**. In Meadows' hierarchy, this is a leverage point at the "structure of information flows" level. Here's why: the **Insight Compounding Loop** and the **Retrieval Practice Loop** both depend on *revisiting* existing notes. Every review session is an opportunity to create new connections, to update old notes with new understanding, and to strengthen memory traces. Yet most PKB practitioners under-invest in review because it feels less productive than capture—it doesn't add to the "count" of notes. This is the trap of focusing on stocks (the number of notes) rather than flows (the transformation of notes through review). By shifting your PKB practice from a "capture-heavy" model to a "review-heavy" model, you activate the reinforcing loops without triggering the balancing loop of cognitive overload. Practical implementations include: scheduling weekly **[[Review Sessions]]**, using **[[Spaced Repetition Systems|SRS]]** tools for key concepts, and adopting the **[[Progressive Summarization]]** technique to distill notes over multiple passes.
+>   	  - The single most powerful leverage point in the PKB system is *not* increasing the rate of note creation (which most beginners obsess over), but rather increasing the *frequency and quality* of **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition|review]]**. In Meadows' hierarchy, this is a leverage point at the "structure of information flows" level. Here's why: the **Insight Compounding Loop** and the **Retrieval Practice Loop** both depend on *revisiting* existing notes. Every review session is an opportunity to create new connections, to update old notes with new understanding, and to strengthen memory traces. Yet most PKB practitioners under-invest in review because it feels less productive than capture—it doesn't add to the "count" of notes. This is the trap of focusing on stocks (the number of notes) rather than flows (the transformation of notes through review). By shifting your PKB practice from a "capture-heavy" model to a "review-heavy" model, you activate the reinforcing loops without triggering the balancing loop of cognitive overload. Practical implementations include: scheduling weekly **[[Review Sessions]]**, using **[[Spaced-Repetition-Systems|SRS]]** tools for key concepts, and adopting the **[[Progressive-Summarization|Progressive Summarization]]** technique to distill notes over multiple passes.
 
 #### 19. [COUNTER-ARGUMENT] Untitled *(Line 148)*
 
@@ -288,11 +288,11 @@ extraction_summary:
 > - **[[Leverage Points]]** — Donella Meadows' hierarchy of intervention points in complex systems, from weak (parameters) to powerful (paradigms).
 > - **[[Stocks and Flows]]** — The fundamental building blocks of system dynamics: accumulated quantities and the rates at which they change.
 > - **[[Zettelkasten Method]]** — Niklas Luhmann's note-taking system based on atomic notes, unique identifiers, and dense cross-referencing.
-> - **[[Progressive Summarization]]** — Tiago Forte's technique for iteratively distilling notes through multiple passes of highlighting and compression.
+> - **[[Progressive-Summarization|Progressive Summarization]]** — Tiago Forte's technique for iteratively distilling notes through multiple passes of highlighting and compression.
 > - **[[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]** — The learning technique that leverages the psychological spacing effect to optimize long-term memory retention.
-> - **[[Atomic Notes]]** — The practice of capturing single, complete ideas in individual notes to maximize modularity and recombination.
-> - **[[Mental Models]]** — The cognitive frameworks and schemas that structure how we understand and interact with the world.
-> - **[[Cognitive Load Theory]]** — The psychological theory describing the limits of working memory and strategies for managing information processing demands.
+> - **[[Atomic-Notes|Atomic Notes]]** — The practice of capturing single, complete ideas in individual notes to maximize modularity and recombination.
+> - **[[Mental-Models|Mental Models]]** — The cognitive frameworks and schemas that structure how we understand and interact with the world.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The psychological theory describing the limits of working memory and strategies for managing information processing demands.
 
 ---
 
@@ -310,45 +310,45 @@ extraction_summary:
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/tags]]
 - [[Archiving]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Capture]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Regulation Loop]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]
 - [[Connections]]
 - [[Consolidation]]
 - [[Donella Meadows]]
 - [[Emergence]]
 - [[Emergent Properties]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Evernote]]
 - [[Feedback Loops]]
-- [[Habit Formation]]
-- [[Hub Notes]]
+- [[Habit-Formation|Habit Formation]]
+- [[Hub-Notes|Hub Notes]]
 - [[Insight Compounding Loop]]
 - [[Learning]]
 - [[Leverage Points]]
 - [[Linking]]
 - [[Memory]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Niklas Luhmann]]
 - [[Note Creation]]
 - [[Notion]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Pruning]]
 - [[Retrieval]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Review Sessions]]
 - [[Roam Research]]
 - [[Search Algorithms]]
 - [[Second Brain]]
 - [[Serendipitous Insight Generation]]
 - [[Serendipity]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stocks and Flows]]
 - [[Systems Thinking]]
 - [[Sönke Ahrens]]
@@ -364,27 +364,27 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | the Personal Knowledge Base (PKB) | — | Document Start | 31 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | the Personal Knowledge Base (PKB) | — | Document Start | 31 |
 | 2 | [[Emergent Properties]] | emergence | — | Document Start | 31 |
-| 3 | [[Personal Knowledge Base]] | PKB | — | Document Start | 36 |
-| 4 | [[Atomic Notes]] | Notes | — | Document Start | 36 |
+| 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | PKB | — | Document Start | 36 |
+| 4 | [[Atomic-Notes|Atomic Notes]] | Notes | — | Document Start | 36 |
 | 5 | [[Connections]] | — | — | Document Start | 36 |
-| 6 | [[Mental Models]] | Understanding | — | Document Start | 36 |
+| 6 | [[Mental-Models|Mental Models]] | Understanding | — | Document Start | 36 |
 | 7 | [[Note Creation]] | — | — | Document Start | 36 |
 | 8 | [[Linking]] | — | — | Document Start | 36 |
 | 9 | [[review]] | — | — | Document Start | 36 |
 | 10 | [[Retrieval]] | — | — | Document Start | 36 |
 | 11 | [[synthesis]] | — | — | Document Start | 36 |
-| 12 | [[Progressive Summarization]] | distillation | — | Document Start | 36 |
+| 12 | [[Progressive-Summarization|Progressive Summarization]] | distillation | — | Document Start | 36 |
 | 13 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | periodic review | — | Document Start | 36 |
 | 14 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 15 | [[Notion]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 16 | [[Roam Research]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
 | 17 | [[PARA Method]] | CODE | — | 1.0 🗺️ THE MAP: Defining the System | 49 |
-| 18 | [[Atomic Notes]] | Notes | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
+| 18 | [[Atomic-Notes|Atomic Notes]] | Notes | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 19 | [[Zettelkasten Method]] | Zettelkasten | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 20 | [[Connections]] | Links | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
-| 21 | [[Mental Models]] | Understanding | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
+| 21 | [[Mental-Models|Mental Models]] | Understanding | — | 1.0 🗺️ THE MAP: Defining the System | 53 |
 | 22 | [[Capture]] | Note Creation | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 23 | [[Linking]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 24 | [[Learning]] | Input | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
@@ -392,34 +392,34 @@ extraction_summary:
 | 26 | [[Consolidation]] | Merging | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 27 | [[Retrieval]] | Extraction | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 28 | [[review]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
-| 29 | [[Progressive Summarization]] | Distillation | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
+| 29 | [[Progressive-Summarization|Progressive Summarization]] | Distillation | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 30 | [[synthesis]] | Integration | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 31 | [[Insight Compounding Loop]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
-| 32 | [[Cognitive Load Theory]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
+| 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 33 | [[Teaching]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 34 | [[Memory]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 35 | [[User Interface Design]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 74 |
 | 36 | [[Zettelkasten Method]] | Zettelkasten | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 76 |
-| 37 | [[Retrieval Practice]] | retrieval | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 80 |
+| 37 | [[Retrieval-Practice|Retrieval Practice]] | retrieval | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 80 |
 | 38 | [[Niklas Luhmann]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 86 |
 | 39 | [[Zettelkasten]] | — | — | 2.1 📈 Reinforcing Loops (The "Knowled... | 86 |
-| 40 | [[Cognitive Load]] | — | — | 2.2 📉 Balancing Loops (The "Constrain... | 101 |
-| 41 | [[Hub Notes]] | Structure Notes | — | 2.2 📉 Balancing Loops (The "Constrain... | 103 |
+| 40 | [[Cognitive-Load|Cognitive Load]] | — | — | 2.2 📉 Balancing Loops (The "Constrain... | 101 |
+| 41 | [[Hub-Notes|Hub Notes]] | Structure Notes | — | 2.2 📉 Balancing Loops (The "Constrain... | 103 |
 | 42 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/tags]] | — | — | 2.2 📉 Balancing Loops (The "Constrain... | 103 |
 | 43 | [[Search Algorithms]] | smart search | — | 2.2 📉 Balancing Loops (The "Constrain... | 103 |
 | 44 | [[Pruning]] | deletion | — | 2.2 📉 Balancing Loops (The "Constrain... | 113 |
 | 45 | [[Archiving]] | archiving | — | 2.2 📉 Balancing Loops (The "Constrain... | 113 |
 | 46 | [[Serendipity]] | serendipitous insight | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
 | 47 | [[Compound Interest]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
-| 48 | [[Habit Formation]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
+| 48 | [[Habit-Formation|Habit Formation]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 123 |
 | 49 | [[Tiago Forte]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 127 |
 | 50 | [[Sönke Ahrens]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 127 |
-| 51 | [[Epistemology]] | personalized epistemology | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
+| 51 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | personalized epistemology | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
 | 52 | [[Donella Meadows]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 142 |
 | 53 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | review | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
 | 54 | [[Review Sessions]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
-| 55 | [[Spaced Repetition Systems]] | SRS | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
-| 56 | [[Progressive Summarization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
+| 55 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | SRS | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
+| 56 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 146 |
 | 57 | [[Evernote]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 58 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
 | 59 | [[Notion]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 150 |
@@ -434,11 +434,11 @@ extraction_summary:
 | 68 | [[Leverage Points]] | — | — | 7.0 📚 Reference/Appendix | 211 |
 | 69 | [[Stocks and Flows]] | — | — | 7.0 📚 Reference/Appendix | 212 |
 | 70 | [[Zettelkasten Method]] | — | — | 7.0 📚 Reference/Appendix | 213 |
-| 71 | [[Progressive Summarization]] | — | — | 7.0 📚 Reference/Appendix | 214 |
+| 71 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 7.0 📚 Reference/Appendix | 214 |
 | 72 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 7.0 📚 Reference/Appendix | 215 |
-| 73 | [[Atomic Notes]] | — | — | 7.0 📚 Reference/Appendix | 216 |
-| 74 | [[Mental Models]] | — | — | 7.0 📚 Reference/Appendix | 217 |
-| 75 | [[Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 218 |
+| 73 | [[Atomic-Notes|Atomic Notes]] | — | — | 7.0 📚 Reference/Appendix | 216 |
+| 74 | [[Mental-Models|Mental Models]] | — | — | 7.0 📚 Reference/Appendix | 217 |
+| 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 218 |
 | 76 | [[Systems Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 224 |
 | 77 | [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 225 |
 | 78 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | 🔗 Related Topics for PKB Expansion | 226 |
@@ -530,45 +530,45 @@ Let me break down what I need to do:
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/tags]]
 - [[Archiving]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Capture]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Regulation Loop]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]
 - [[Connections]]
 - [[Consolidation]]
 - [[Donella Meadows]]
 - [[Emergence]]
 - [[Emergent Properties]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Evernote]]
 - [[Feedback Loops]]
-- [[Habit Formation]]
-- [[Hub Notes]]
+- [[Habit-Formation|Habit Formation]]
+- [[Hub-Notes|Hub Notes]]
 - [[Insight Compounding Loop]]
 - [[Learning]]
 - [[Leverage Points]]
 - [[Linking]]
 - [[Memory]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Niklas Luhmann]]
 - [[Note Creation]]
 - [[Notion]]
 - [[PARA Method]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Pruning]]
 - [[Retrieval]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Review Sessions]]
 - [[Roam Research]]
 - [[Search Algorithms]]
 - [[Second Brain]]
 - [[Serendipitous Insight Generation]]
 - [[Serendipity]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stocks and Flows]]
 - [[Systems Thinking]]
 - [[Sönke Ahrens]]

@@ -124,49 +124,49 @@ extraction_summary:
 > [!abstract] Untitled
 > **📖 Scholarly Synopsis**
 > 
-> This comprehensive examination explores [[Working Memory]] as the critical architectural constraint undergirding [[Cognitive Load Theory]], synthesizing research across cognitive psychology, neuroscience, evolutionary biology, and knowledge systems design. The analysis reveals working memory not merely as a passive storage buffer but as an active, capacity-limited workspace whose severe constraints—rooted in both evolutionary imperatives and neurobiological architecture—fundamentally shape how humans acquire, process, and retain biologically secondary knowledge. Through detailed exploration of the Miller-Cowan debate, schema formation mechanisms, attention allocation dynamics, and the working memory-long-term memory interface, this report establishes why external knowledge systems must function as cognitive prosthetics that honor, rather than overwhelm, the profound limitations of human information processing architecture.
+> This comprehensive examination explores [[Working-Memory|Working Memory]] as the critical architectural constraint undergirding [[Cognitive-Load-Theory|Cognitive Load Theory]], synthesizing research across cognitive psychology, neuroscience, evolutionary biology, and knowledge systems design. The analysis reveals working memory not merely as a passive storage buffer but as an active, capacity-limited workspace whose severe constraints—rooted in both evolutionary imperatives and neurobiological architecture—fundamentally shape how humans acquire, process, and retain biologically secondary knowledge. Through detailed exploration of the Miller-Cowan debate, schema formation mechanisms, attention allocation dynamics, and the working memory-long-term memory interface, this report establishes why external knowledge systems must function as cognitive prosthetics that honor, rather than overwhelm, the profound limitations of human information processing architecture.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 42)*
 
 > [!the-purpose] Untitled
 > **Why Working Memory Matters: The Bottleneck That Defines Human Learning**
 > 
-> Understanding working memory's architecture is not an academic curiosity but an existential imperative for anyone designing learning systems. Every piece of novel information that enters human consciousness must first pass through working memory's extraordinarily narrow gate. This cognitive bottleneck—capable of holding only a handful of discrete information units simultaneously—represents perhaps the single most important constraint shaping human cognition, learning, and knowledge acquisition. When [[Cognitive Load Theory]] emerged in the 1980s through [[John Sweller]]'s pioneering work, it was fundamentally an acknowledgment that instructional design had been proceeding as though this bottleneck did not exist, resulting in systematically ineffective learning experiences that overwhelmed learners' severely limited information processing capacity.
+> Understanding working memory's architecture is not an academic curiosity but an existential imperative for anyone designing learning systems. Every piece of novel information that enters human consciousness must first pass through working memory's extraordinarily narrow gate. This cognitive bottleneck—capable of holding only a handful of discrete information units simultaneously—represents perhaps the single most important constraint shaping human cognition, learning, and knowledge acquisition. When [[Cognitive-Load-Theory|Cognitive Load Theory]] emerged in the 1980s through [[John Sweller]]'s pioneering work, it was fundamentally an acknowledgment that instructional design had been proceeding as though this bottleneck did not exist, resulting in systematically ineffective learning experiences that overwhelmed learners' severely limited information processing capacity.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 55)*
 
 > [!key-claim] Untitled
 > **The Resolution of Capacity Limits: Why Both Numbers Are Correct**
 > 
-> The seeming contradiction between [[George Miller]]'s famous "magical number seven plus or minus two" and [[Nelson Cowan]]'s more restrictive estimate of approximately four chunks represents not competing theories but rather measurements of different aspects of the same system. Miller's 1956 estimate captured the effective capacity of working memory when learners can freely employ [[Chunking]] strategies and draw upon [[Long-Term Memory]] to group individual elements into larger meaningful units. Cowan's estimate, derived from more constrained experimental paradigms that minimize opportunities for chunking and long-term memory involvement, reveals the true core capacity of the [[Focus of Attention]]—the innermost component of working memory that holds information in its most activated, immediately accessible state.
+> The seeming contradiction between [[George Miller]]'s famous "magical number seven plus or minus two" and [[Nelson Cowan]]'s more restrictive estimate of approximately four chunks represents not competing theories but rather measurements of different aspects of the same system. Miller's 1956 estimate captured the effective capacity of working memory when learners can freely employ [[Chunking]] strategies and draw upon [[Long-Term-Memory|Long-Term Memory]] to group individual elements into larger meaningful units. Cowan's estimate, derived from more constrained experimental paradigms that minimize opportunities for chunking and long-term memory involvement, reveals the true core capacity of the [[Focus of Attention]]—the innermost component of working memory that holds information in its most activated, immediately accessible state.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 72)*
 
 > [!core-principle] Untitled
 > **Schemas as the Bridge Between Capacity and Capability**
 > 
-> The mechanism by which working memory's severe limitations are transcended in expertise development is through the construction and automation of [[Schemas|schemas]]—organized knowledge structures in [[Long-Term Memory]] that can be retrieved and applied as single units in working memory, despite encompassing vast amounts of lower-level information. A chess master's working memory is not larger than a novice's; rather, through years of deliberate practice, the master has constructed thousands of chess-specific schemas that allow entire board configurations to be perceived as single meaningful units. The goal of all learning, from this perspective, is the construction of an ever-more-elaborate library of automated schemas that transform effortful, capacity-consuming processes into fluent, automatic operations that impose minimal load on working memory.
+> The mechanism by which working memory's severe limitations are transcended in expertise development is through the construction and automation of [[Schemas|schemas]]—organized knowledge structures in [[Long-Term-Memory|Long-Term Memory]] that can be retrieved and applied as single units in working memory, despite encompassing vast amounts of lower-level information. A chess master's working memory is not larger than a novice's; rather, through years of deliberate practice, the master has constructed thousands of chess-specific schemas that allow entire board configurations to be perceived as single meaningful units. The goal of all learning, from this perspective, is the construction of an ever-more-elaborate library of automated schemas that transform effortful, capacity-consuming processes into fluent, automatic operations that impose minimal load on working memory.
 
 #### 6. [INSIGHT] Untitled *(Line 89)*
 
 > [!insight] Untitled
 > **Attention as the Currency of Cognitive Processing**
 > 
-> Within the severely constrained workspace of working memory, [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] functions as the mechanism by which limited processing resources are allocated among competing demands. The [[Central Executive]]—the component of [[Baddeley's working memory model]] responsible for controlling attention allocation, inhibiting irrelevant information, shifting between tasks, and updating working memory contents—represents the "master controller" whose efficiency largely determines individual differences in working memory capacity and, consequently, in fluid intelligence and academic achievement. Critically, attention allocation is not infinitely flexible; when concurrent tasks compete for overlapping neural populations in the [[prefrontal cortex]], interference occurs, processing quality degrades, and effective working memory capacity shrinks further.
+> Within the severely constrained workspace of working memory, [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] functions as the mechanism by which limited processing resources are allocated among competing demands. The [[Central-Executive|Central Executive]]—the component of [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] responsible for controlling attention allocation, inhibiting irrelevant information, shifting between tasks, and updating working memory contents—represents the "master controller" whose efficiency largely determines individual differences in working memory capacity and, consequently, in fluid intelligence and academic achievement. Critically, attention allocation is not infinitely flexible; when concurrent tasks compete for overlapping neural populations in the [[prefrontal cortex]], interference occurs, processing quality degrades, and effective working memory capacity shrinks further.
 
 #### 7. [THE-PHILOSOPHY] Untitled *(Line 104)*
 
 > [!the-philosophy] Untitled
 > **Honoring Human Cognitive Architecture Through Instructional Design**
 > 
-> [[Cognitive Load Theory]], as articulated by John Sweller and extensively developed over four decades of research, rests on a deceptively simple premise: if we accept that working memory is severely limited in both capacity and duration, and that all new learning must pass through this bottleneck before being encoded into long-term memory, then instructional design becomes fundamentally an exercise in cognitive resource management. The theory distinguishes among three types of [[cognitive load]]: [[Intrinsic Load]] (determined by the inherent complexity of the material and the learner's expertise), [[Extraneous Load]] (imposed by suboptimal instructional design), and [[Germane Load]] (devoted to schema construction and automation). Effective instruction minimizes extraneous load, appropriately manages intrinsic load, and optimizes germane load to promote the construction of knowledge structures that will, once automated, transcend working memory limitations.
+> [[Cognitive-Load-Theory|Cognitive Load Theory]], as articulated by John Sweller and extensively developed over four decades of research, rests on a deceptively simple premise: if we accept that working memory is severely limited in both capacity and duration, and that all new learning must pass through this bottleneck before being encoded into long-term memory, then instructional design becomes fundamentally an exercise in cognitive resource management. The theory distinguishes among three types of [[Cognitive-Load|cognitive load]]: [[Intrinsic-Load|Intrinsic Load]] (determined by the inherent complexity of the material and the learner's expertise), [[Extraneous-Load|Extraneous Load]] (imposed by suboptimal instructional design), and [[Germane-Load|Germane Load]] (devoted to schema construction and automation). Effective instruction minimizes extraneous load, appropriately manages intrinsic load, and optimizes germane load to promote the construction of knowledge structures that will, once automated, transcend working memory limitations.
 
 #### 8. [CONNECTION-IDEAS] Untitled *(Line 119)*
 
 > [!connection-ideas] Untitled
 > **From Internal Constraints to External Architecture: The Imperative of Cognitive Offloading**
 > 
-> The profound mismatch between working memory's severe limitations and the complexity of knowledge work in contemporary domains creates an existential imperative for [[external cognitive artifacts]]—physical and digital tools that offload cognitive processing demands from limited internal resources to the external environment. The concept of [[distributed cognition]], pioneered by [[Edwin Hutchins]], fundamentally challenges the assumption that cognition occurs exclusively "in the head," instead conceptualizing cognitive systems as distributed across individuals, artifacts, and environmental structures. A well-designed [[Personal Knowledge Base]] functions not merely as an external storage repository but as an integral component of an extended cognitive system in which external structures actively support working memory operations, reduce cognitive load, provide scaffolds for complex reasoning, and enable forms of knowledge work that would be impossible using internal cognitive resources alone.
+> The profound mismatch between working memory's severe limitations and the complexity of knowledge work in contemporary domains creates an existential imperative for [[external cognitive artifacts]]—physical and digital tools that offload cognitive processing demands from limited internal resources to the external environment. The concept of [[Distributed-Cognition|distributed cognition]], pioneered by [[Edwin Hutchins]], fundamentally challenges the assumption that cognition occurs exclusively "in the head," instead conceptualizing cognitive systems as distributed across individuals, artifacts, and environmental structures. A well-designed [[Personal-Knowledge-Base|Personal Knowledge Base]] functions not merely as an external storage repository but as an integral component of an extended cognitive system in which external structures actively support working memory operations, reduce cognitive load, provide scaffolds for complex reasoning, and enable forms of knowledge work that would be impossible using internal cognitive resources alone.
 
 #### 9. [THOUGHT-EXPERIMENT] Untitled *(Line 136)*
 
@@ -242,73 +242,73 @@ extraction_summary:
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Automation]]
 - [[Baddeley and Hitch]]
-- [[Baddeley's working memory model]]
+- [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]]
 - [[Biologically Primary Knowledge]]
 - [[CLT Foundational Architecture]]
-- [[Central Executive]]
+- [[Central-Executive|Central Executive]]
 - [[Chunking]]
-- [[Cognitive Apprenticeship]]
+- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive Bottlenecks in Learning]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive artifacts]]
 - [[D1 receptors]]
 - [[David Geary]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Edwin Hutchins]]
-- [[Element Interactivity]]
-- [[Expertise Reversal Effect]]
-- [[Extraneous Load]]
+- [[Element-Interactivity|Element Interactivity]]
+- [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
+- [[Extraneous-Load|Extraneous Load]]
 - [[Extraneous cognitive load]]
 - [[Focus of Attention]]
 - [[GABA]]
 - [[Geary]]
 - [[George A. Miller]]
 - [[George Miller]]
-- [[Germane Load]]
-- [[Germane cognitive load]]
-- [[Intrinsic Load]]
-- [[Intrinsic cognitive load]]
+- [[Germane-Load|Germane Load]]
+- [[Germane-Cognitive-Load|Germane cognitive load]]
+- [[Intrinsic-Load|Intrinsic Load]]
+- [[Intrinsic-Cognitive-Load|Intrinsic cognitive load]]
 - [[John Sweller]]
 - [[K. Anders Ericsson]]
 - [[Kolmogorov complexity]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Working Memory]]
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
 - [[Nelson Cowan]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Retrieval Structures]]
 - [[Schemas]]
 - [[Sweller]]
-- [[Transactive Memory Systems]]
+- [[Transactive-Memory-Systems|Transactive Memory Systems]]
 - [[WM-LTM Interface]]
 - [[Walter Kintsch]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Capacity Limits]]
 - [[Zettelkasten]]
-- [[cognitive load]]
-- [[distributed cognition]]
+- [[Cognitive-Load|cognitive load]]
+- [[Distributed-Cognition|distributed cognition]]
 - [[dopamine]]
 - [[dorsolateral prefrontal cortex]]
 - [[dual-task interference]]
-- [[element interactivity]]
-- [[episodic buffer]]
+- [[Element-Interactivity|element interactivity]]
+- [[Episodic-Buffer|episodic buffer]]
 - [[external cognitive artifacts]]
 - [[goal-free problems]]
 - [[information store principle]]
 - [[means-ends analysis]]
-- [[modality effect]]
-- [[phonological loop]]
+- [[Modality-Effect|modality effect]]
+- [[Phonological-Loop|phonological loop]]
 - [[prefrontal cortex]]
 - [[randomness as genesis principle]]
 - [[redundancy]]
-- [[redundancy effect]]
+- [[Redundancy-Effect|redundancy effect]]
 - [[sequencing]]
-- [[split-attention effect]]
+- [[Split-Attention-Effect|split-attention effect]]
 - [[temp-review-2025-12-16]]
 - [[transient information effect]]
-- [[visuospatial sketchpad]]
+- [[Visuospatial-Sketchpad|visuospatial sketchpad]]
 - [[worked examples]]
 
 ### All Occurrences
@@ -320,22 +320,22 @@ extraction_summary:
 | 3 | [[Memory Systems and Learning]] | — | — | Document Start | 33 |
 | 4 | [[Cognitive Bottlenecks in Learning]] | — | — | Document Start | 33 |
 | 5 | [[WM-LTM Interface]] | — | — | Document Start | 33 |
-| 6 | [[Working Memory]] | — | — | Document Start | 38 |
-| 7 | [[Cognitive Load Theory]] | — | — | Document Start | 38 |
-| 8 | [[Cognitive Load Theory]] | — | — | 🧠 The Architectural Foundation: Worki... | 45 |
+| 6 | [[Working-Memory|Working Memory]] | — | — | Document Start | 38 |
+| 7 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Document Start | 38 |
+| 8 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 The Architectural Foundation: Worki... | 45 |
 | 9 | [[John Sweller]] | — | — | 🧠 The Architectural Foundation: Worki... | 45 |
-| 10 | [[Working Memory]] | — | — | 🧠 The Architectural Foundation: Worki... | 47 |
-| 11 | [[Long-Term Memory]] | — | — | 🧠 The Architectural Foundation: Worki... | 47 |
+| 10 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architectural Foundation: Worki... | 47 |
+| 11 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🧠 The Architectural Foundation: Worki... | 47 |
 | 12 | [[temp-review-2025-12-16]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
 | 13 | [[Biologically Primary Knowledge]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
 | 14 | [[David Geary]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
-| 15 | [[Cognitive Load Theory]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
+| 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 The Architectural Foundation: Worki... | 49 |
 | 16 | [[prefrontal cortex]] | — | — | 🧠 The Architectural Foundation: Worki... | 51 |
 | 17 | [[dorsolateral prefrontal cortex]] | — | — | 🧠 The Architectural Foundation: Worki... | 51 |
 | 18 | [[George Miller]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 19 | [[Nelson Cowan]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 20 | [[Chunking]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
-| 21 | [[Long-Term Memory]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
+| 21 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 22 | [[Focus of Attention]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 58 |
 | 23 | [[George A. Miller]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 60 |
 | 24 | [[Chunking]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 62 |
@@ -343,7 +343,7 @@ extraction_summary:
 | 26 | [[Focus of Attention]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 66 |
 | 27 | [[Kolmogorov complexity]] | — | — | 📊 The Capacity Debate: Miller's Seven... | 68 |
 | 28 | [[Schemas]] | schemas | — | 🔄 The Working Memory-Long-Term Memory... | 75 |
-| 29 | [[Long-Term Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 75 |
+| 29 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 75 |
 | 30 | [[Schemas]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 79 |
 | 31 | [[Automation]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 83 |
 | 32 | [[Long-Term Working Memory]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
@@ -351,43 +351,43 @@ extraction_summary:
 | 34 | [[Walter Kintsch]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 35 | [[Retrieval Structures]] | — | — | 🔄 The Working Memory-Long-Term Memory... | 85 |
 | 36 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
-| 37 | [[Central Executive]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
-| 38 | [[Baddeley's working memory model]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
+| 37 | [[Central-Executive|Central Executive]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
+| 38 | [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
 | 39 | [[prefrontal cortex]] | — | — | ⚡ Attention Allocation and Cognitive ... | 92 |
 | 40 | [[Baddeley and Hitch]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
-| 41 | [[phonological loop]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
-| 42 | [[visuospatial sketchpad]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
-| 43 | [[episodic buffer]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
+| 41 | [[Phonological-Loop|phonological loop]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
+| 42 | [[Visuospatial-Sketchpad|visuospatial sketchpad]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
+| 43 | [[Episodic-Buffer|episodic buffer]] | — | — | ⚡ Attention Allocation and Cognitive ... | 94 |
 | 44 | [[dual-task interference]] | — | — | ⚡ Attention Allocation and Cognitive ... | 96 |
 | 45 | [[GABA]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
 | 46 | [[dopamine]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
 | 47 | [[D1 receptors]] | — | — | ⚡ Attention Allocation and Cognitive ... | 100 |
-| 48 | [[Cognitive Load Theory]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
-| 49 | [[cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
-| 50 | [[Intrinsic Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
-| 51 | [[Extraneous Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
-| 52 | [[Germane Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
+| 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
+| 49 | [[Cognitive-Load|cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
+| 50 | [[Intrinsic-Load|Intrinsic Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
+| 51 | [[Extraneous-Load|Extraneous Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
+| 52 | [[Germane-Load|Germane Load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 107 |
 | 53 | [[means-ends analysis]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 109 |
 | 54 | [[worked examples]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 109 |
 | 55 | [[goal-free problems]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 109 |
-| 56 | [[Intrinsic cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 111 |
-| 57 | [[element interactivity]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 111 |
+| 56 | [[Intrinsic-Cognitive-Load|Intrinsic cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 111 |
+| 57 | [[Element-Interactivity|element interactivity]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 111 |
 | 58 | [[sequencing]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 111 |
 | 59 | [[Extraneous cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
-| 60 | [[split-attention effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
-| 61 | [[redundancy effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
-| 62 | [[modality effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
+| 60 | [[Split-Attention-Effect|split-attention effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
+| 61 | [[Redundancy-Effect|redundancy effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
+| 62 | [[Modality-Effect|modality effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
 | 63 | [[transient information effect]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 113 |
-| 64 | [[Germane cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 115 |
+| 64 | [[Germane-Cognitive-Load|Germane cognitive load]] | — | — | 🎯 Cognitive Load Theory: Designing fo... | 115 |
 | 65 | [[external cognitive artifacts]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
-| 66 | [[distributed cognition]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
+| 66 | [[Distributed-Cognition|distributed cognition]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
 | 67 | [[Edwin Hutchins]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
-| 68 | [[Personal Knowledge Base]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
-| 69 | [[distributed cognition]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 124 |
+| 68 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 122 |
+| 69 | [[Distributed-Cognition|distributed cognition]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 124 |
 | 70 | [[Cognitive artifacts]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 128 |
 | 71 | [[redundancy]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 130 |
 | 72 | [[Zettelkasten]] | — | — | 🏗️ External Knowledge Systems as Cogn... | 132 |
-| 73 | [[Cognitive Load Theory]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 141 |
+| 73 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 141 |
 | 74 | [[Geary]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 141 |
 | 75 | [[Sweller]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 141 |
 | 76 | [[Biologically Primary Knowledge]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 141 |
@@ -397,13 +397,13 @@ extraction_summary:
 | 80 | [[worked examples]] | — | — | 🔬 Evolutionary and Adaptive Significa... | 147 |
 | 81 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 💡 Synthesis: Working Memory as the Ly... | 158 |
 | 82 | [[Zettelkasten]] | — | — | 💡 Synthesis: Working Memory as the Ly... | 158 |
-| 83 | [[Expertise Reversal Effect]] | — | — | 🔗 Related Topics for PKB Expansion | 175 |
-| 84 | [[Cognitive Apprenticeship]] | — | — | 🔗 Related Topics for PKB Expansion | 177 |
+| 83 | [[Expertise-Reversal-Effect|Expertise Reversal Effect]] | — | — | 🔗 Related Topics for PKB Expansion | 175 |
+| 84 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | 🔗 Related Topics for PKB Expansion | 177 |
 | 85 | [[Metacognitive Regulation of Cognitive Load]] | — | — | 🔗 Related Topics for PKB Expansion | 179 |
-| 86 | [[Desirable Difficulties]] | — | — | 🔗 Related Topics for PKB Expansion | 181 |
-| 87 | [[Element Interactivity]] | — | — | 🔗 Related Topics for PKB Expansion | 183 |
+| 86 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🔗 Related Topics for PKB Expansion | 181 |
+| 87 | [[Element-Interactivity|Element Interactivity]] | — | — | 🔗 Related Topics for PKB Expansion | 183 |
 | 88 | [[Long-Term Working Memory Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 185 |
-| 89 | [[Transactive Memory Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 187 |
+| 89 | [[Transactive-Memory-Systems|Transactive Memory Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 187 |
 
 ---
 
@@ -486,73 +486,73 @@ Search Strategy:
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Automation]]
 - [[Baddeley and Hitch]]
-- [[Baddeley's working memory model]]
+- [[Baddeley's-Working-Memory-Model|Baddeley's working memory model]]
 - [[Biologically Primary Knowledge]]
 - [[CLT Foundational Architecture]]
-- [[Central Executive]]
+- [[Central-Executive|Central Executive]]
 - [[Chunking]]
-- [[Cognitive Apprenticeship]]
+- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
 - [[Cognitive Bottlenecks in Learning]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive artifacts]]
 - [[D1 receptors]]
 - [[David Geary]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Edwin Hutchins]]
-- [[Element Interactivity]]
-- [[Expertise Reversal Effect]]
-- [[Extraneous Load]]
+- [[Element-Interactivity|Element Interactivity]]
+- [[Expertise-Reversal-Effect|Expertise Reversal Effect]]
+- [[Extraneous-Load|Extraneous Load]]
 - [[Extraneous cognitive load]]
 - [[Focus of Attention]]
 - [[GABA]]
 - [[Geary]]
 - [[George A. Miller]]
 - [[George Miller]]
-- [[Germane Load]]
-- [[Germane cognitive load]]
-- [[Intrinsic Load]]
-- [[Intrinsic cognitive load]]
+- [[Germane-Load|Germane Load]]
+- [[Germane-Cognitive-Load|Germane cognitive load]]
+- [[Intrinsic-Load|Intrinsic Load]]
+- [[Intrinsic-Cognitive-Load|Intrinsic cognitive load]]
 - [[John Sweller]]
 - [[K. Anders Ericsson]]
 - [[Kolmogorov complexity]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Long-Term Working Memory]]
 - [[Long-Term Working Memory Theory]]
 - [[Memory Systems and Learning]]
 - [[Metacognitive Regulation of Cognitive Load]]
 - [[Nelson Cowan]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Retrieval Structures]]
 - [[Schemas]]
 - [[Sweller]]
-- [[Transactive Memory Systems]]
+- [[Transactive-Memory-Systems|Transactive Memory Systems]]
 - [[WM-LTM Interface]]
 - [[Walter Kintsch]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Capacity Limits]]
 - [[Zettelkasten]]
-- [[cognitive load]]
-- [[distributed cognition]]
+- [[Cognitive-Load|cognitive load]]
+- [[Distributed-Cognition|distributed cognition]]
 - [[dopamine]]
 - [[dorsolateral prefrontal cortex]]
 - [[dual-task interference]]
-- [[element interactivity]]
-- [[episodic buffer]]
+- [[Element-Interactivity|element interactivity]]
+- [[Episodic-Buffer|episodic buffer]]
 - [[external cognitive artifacts]]
 - [[goal-free problems]]
 - [[information store principle]]
 - [[means-ends analysis]]
-- [[modality effect]]
-- [[phonological loop]]
+- [[Modality-Effect|modality effect]]
+- [[Phonological-Loop|phonological loop]]
 - [[prefrontal cortex]]
 - [[randomness as genesis principle]]
 - [[redundancy]]
-- [[redundancy effect]]
+- [[Redundancy-Effect|redundancy effect]]
 - [[sequencing]]
-- [[split-attention effect]]
+- [[Split-Attention-Effect|split-attention effect]]
 - [[temp-review-2025-12-16]]
 - [[transient information effect]]
-- [[visuospatial sketchpad]]
+- [[Visuospatial-Sketchpad|visuospatial sketchpad]]
 - [[worked examples]]
 
 ---

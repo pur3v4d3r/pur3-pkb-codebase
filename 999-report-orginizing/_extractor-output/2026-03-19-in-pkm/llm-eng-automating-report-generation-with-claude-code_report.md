@@ -132,7 +132,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 5)*
 
 > [!abstract] Untitled
-> This exposition provides a comprehensive, encyclopedic treatment of automating report generation using [[Claude Code]] — Anthropic's agentic coding assistant launched in May 2025. The investigation spans Claude Code's architectural foundations as an autonomous terminal-based agent, through the mechanisms that make report automation viable: [[Headless Mode]], the [[Model Context Protocol (MCP)]], [[Hooks Architecture]], [[Sub-Agent Parallelism]], and [[CI/CD Integration]]. The evidence base draws on official Anthropic documentation, production deployment patterns, and empirically validated workflow architectures. The exposition situates Claude Code's report automation capabilities within the broader landscape of [[Agentic Workflow Design Patterns]] documented in your knowledge vault, identifying convergences between the [[ReAct Loop]], [[Linear Agent Pipeline]], and [[Multi-Agent Collaboration]] patterns as they manifest specifically in reporting contexts. By its conclusion, a practitioner should possess complete conceptual and operational understanding of how to design, implement, and deploy automated report generation systems using Claude Code across diverse organizational contexts — from software engineering teams producing code quality summaries to business analysts generating competitive intelligence digests.
+> This exposition provides a comprehensive, encyclopedic treatment of automating report generation using [[Claude Code]] — Anthropic's agentic coding assistant launched in May 2025. The investigation spans Claude Code's architectural foundations as an autonomous terminal-based agent, through the mechanisms that make report automation viable: [[Headless Mode]], the [[Model-Context-Protocol|Model Context Protocol (MCP)]], [[Hooks Architecture]], [[Sub-Agent Parallelism]], and [[CI/CD Integration]]. The evidence base draws on official Anthropic documentation, production deployment patterns, and empirically validated workflow architectures. The exposition situates Claude Code's report automation capabilities within the broader landscape of [[Agentic Workflow Design Patterns]] documented in your knowledge vault, identifying convergences between the [[ReAct Loop]], [[Linear Agent Pipeline]], and [[Multi-Agent Collaboration]] patterns as they manifest specifically in reporting contexts. By its conclusion, a practitioner should possess complete conceptual and operational understanding of how to design, implement, and deploy automated report generation systems using Claude Code across diverse organizational contexts — from software engineering teams producing code quality summaries to business analysts generating competitive intelligence digests.
 
 #### 2. [THE-PHILOSOPHY] Untitled *(Line 12)*
 
@@ -335,10 +335,10 @@ extraction_summary:
 - [[Hooks Architecture]]
 - [[Institutional Memory]]
 - [[Iterative Content Refinement Recipe]]
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Linear Agent Pipeline]]
 - [[MCP Server Design Patterns for Analytics Data Sources]]
-- [[Model Context Protocol (MCP)]]
+- [[Model-Context-Protocol|Model Context Protocol (MCP)]]
 - [[Multi-Agent Collaboration]]
 - [[Multi-Agent Report Architecture: Parallel Data Collection and Synthesis Patterns]]
 - [[Perception-Action Loop]]
@@ -357,7 +357,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Claude Code]] | — | — | Document Start | 6 |
 | 2 | [[Headless Mode]] | — | — | Document Start | 6 |
-| 3 | [[Model Context Protocol (MCP)]] | — | — | Document Start | 6 |
+| 3 | [[Model-Context-Protocol|Model Context Protocol (MCP)]] | — | — | Document Start | 6 |
 | 4 | [[Hooks Architecture]] | — | — | Document Start | 6 |
 | 5 | [[Sub-Agent Parallelism]] | — | — | Document Start | 6 |
 | 6 | [[CI/CD Integration]] | — | — | Document Start | 6 |
@@ -365,12 +365,12 @@ extraction_summary:
 | 8 | [[ReAct Loop]] | — | — | Document Start | 6 |
 | 9 | [[Linear Agent Pipeline]] | — | — | Document Start | 6 |
 | 10 | [[Multi-Agent Collaboration]] | — | — | Document Start | 6 |
-| 11 | [[Knowledge Management]] | — | — | 🎼 Phase 1: Introduction & Context | 22 |
+| 11 | [[Knowledge-Management|Knowledge Management]] | — | — | 🎼 Phase 1: Introduction & Context | 22 |
 | 12 | [[ReAct Framework]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
 | 13 | [[Agentic Coding]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
 | 14 | [[Constitutional AI]] | — | — | 📜 Phase 2: Historical Foundations | 29 |
 | 15 | [[Reasoning-Action Loop]] | — | — | 📜 Phase 2: Historical Foundations | 31 |
-| 16 | [[Model Context Protocol (MCP)]] | — | — | 📜 Phase 2: Historical Foundations | 37 |
+| 16 | [[Model-Context-Protocol|Model Context Protocol (MCP)]] | — | — | 📜 Phase 2: Historical Foundations | 37 |
 | 17 | [[Business Intelligence (BI)]] | — | — | 📜 Phase 2: Historical Foundations | 42 |
 | 18 | [[Data Pipeline]] | — | — | 📜 Phase 2: Historical Foundations | 42 |
 | 19 | [[Perception-Action Loop]] | — | — | The Four Architectural Layers | 53 |
@@ -500,10 +500,10 @@ Export to /reports/weekly/$(date +%Y-W%V).html
 - [[Hooks Architecture]]
 - [[Institutional Memory]]
 - [[Iterative Content Refinement Recipe]]
-- [[Knowledge Management]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Linear Agent Pipeline]]
 - [[MCP Server Design Patterns for Analytics Data Sources]]
-- [[Model Context Protocol (MCP)]]
+- [[Model-Context-Protocol|Model Context Protocol (MCP)]]
 - [[Multi-Agent Collaboration]]
 - [[Multi-Agent Report Architecture: Parallel Data Collection and Synthesis Patterns]]
 - [[Perception-Action Loop]]

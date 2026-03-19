@@ -290,12 +290,12 @@ extraction_summary:
 - [[Character Development]]
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
-- [[Cognitive Reappraisal]]
-- [[Cognitive Science]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Courage]]
 - [[Crates of Thebes]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[Epicureanism]]
@@ -306,25 +306,25 @@ extraction_summary:
 - [[History of Psychology]]
 - [[Justice]]
 - [[Letters from a Stoic]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Logos]]
 - [[Marcus Aurelius]]
 - [[Meditations]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Moral Psychology]]
 - [[Negative Visualization]]
 - [[Panaetius of Rhodes]]
-- [[Personal Knowledge Management]]
-- [[Philosophy of Mind]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Philosophy of Well-Being]]
 - [[Polemo]]
 - [[Posidonius]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Prohairesis]]
 - [[Prosochē]]
-- [[Self-Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Seneca]]
 - [[Seneca the Younger]]
 - [[Skepticism]]
@@ -351,9 +351,9 @@ extraction_summary:
 | 6 | [[Zeno of Citium]] | — | — | Claude Thinking: | 106 |
 | 7 | [[Cognitive-Behavioral Therapy]] | — | — | Claude Thinking: | 107 |
 | 8 | [[Metacognition]] | — | — | Claude Thinking: | 107 |
-| 9 | [[Self-Directed Learning]] | — | — | Claude Thinking: | 107 |
-| 10 | [[Premeditatio Malorum]] | — | — | Claude Thinking: | 108 |
-| 11 | [[Dichotomy of Control]] | — | — | Claude Thinking: | 108 |
+| 9 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Claude Thinking: | 107 |
+| 10 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Claude Thinking: | 108 |
+| 11 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 108 |
 | 12 | [[Negative Visualization]] | — | — | Claude Thinking: | 108 |
 | 13 | [[Eudaimonia]] | — | — | Claude Thinking: | 109 |
 | 14 | [[Virtue Ethics]] | — | — | Claude Thinking: | 109 |
@@ -362,12 +362,12 @@ extraction_summary:
 | 17 | [[Meditations]] | — | — | Claude Thinking: | 110 |
 | 18 | [[Enchiridion]] | — | — | Claude Thinking: | 110 |
 | 19 | [[Letters from a Stoic]] | — | — | Claude Thinking: | 110 |
-| 20 | [[Philosophy of Mind]] | — | — | Claude Thinking: | 111 |
+| 20 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Claude Thinking: | 111 |
 | 21 | [[Ancient Greek Philosophy]] | — | — | Claude Thinking: | 111 |
 | 22 | [[Hellenistic Philosophy]] | — | — | Claude Thinking: | 111 |
-| 23 | [[Personal Knowledge Management]] | — | — | Claude Thinking: | 112 |
-| 24 | [[Cognitive Reappraisal]] | — | — | Claude Thinking: | 112 |
-| 25 | [[Mental Models]] | — | — | Claude Thinking: | 112 |
+| 23 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Claude Thinking: | 112 |
+| 24 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 112 |
+| 25 | [[Mental-Models|Mental Models]] | — | — | Claude Thinking: | 112 |
 | 26 | [[Stoicism]] | — | — | Claude Thinking: | 141 |
 | 27 | [[Eudaimonia]] | flourishing | — | Claude Thinking: | 141 |
 | 28 | [[Ancient Athens]] | Athens | — | Claude Thinking: | 141 |
@@ -399,29 +399,29 @@ extraction_summary:
 | 54 | [[2025-11-25]] | — | — | 🧠 Stoic Logic: The Technology of Clea... | 181 |
 | 55 | [[Eudaimonia]] | happiness | — | 🎯 Stoic Ethics: The Art of Living Exc... | 195 |
 | 56 | [[Wisdom]] | — | — | The Four Cardinal Virtues | 201 |
-| 57 | [[Dichotomy of Control]] | — | — | The Four Cardinal Virtues | 201 |
+| 57 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Four Cardinal Virtues | 201 |
 | 58 | [[Courage]] | — | — | The Four Cardinal Virtues | 203 |
 | 59 | [[Justice]] | — | — | The Four Cardinal Virtues | 205 |
 | 60 | [[Temperance]] | — | — | The Four Cardinal Virtues | 207 |
 | 61 | [[Apatheia]] | — | — | The Stoic Theory of Emotion | 221 |
 | 62 | [[Ataraxia]] | — | — | The Stoic Theory of Emotion | 221 |
-| 63 | [[Dichotomy of Control]] | — | — | 🔑 The Dichotomy of Control: The Maste... | 225 |
+| 63 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 🔑 The Dichotomy of Control: The Maste... | 225 |
 | 64 | [[Prohairesis]] | — | — | 🔑 The Dichotomy of Control: The Maste... | 228 |
 | 65 | [[2025-12-02]] | — | — | 🔑 The Dichotomy of Control: The Maste... | 232 |
 | 66 | [[Prosochē]] | — | — | Prosochē: Mindful Attention to the Pr... | 247 |
-| 67 | [[Premeditatio Malorum]] | — | — | Premeditatio Malorum: The Premeditati... | 273 |
+| 67 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Premeditatio Malorum: The Premeditati... | 273 |
 | 68 | [[View from Above]] | — | — | The View from Above: Cosmic Perspective | 311 |
 | 69 | [[Cognitive-Behavioral Therapy]] | — | — | 🧬 The Connection Between Ancient Stoi... | 333 |
 | 70 | [[Albert Ellis]] | — | — | The Birth of Cognitive Therapy from S... | 337 |
 | 71 | [[Aaron Beck]] | — | — | The Birth of Cognitive Therapy from S... | 347 |
 | 72 | [[Antifragility]] | antifragile | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
-| 73 | [[Self-Directed Learning]] | self-directed learner | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
-| 74 | [[Dichotomy of Control]] | — | — | Phase 1: Foundational Understanding (... | 386 |
-| 75 | [[Premeditatio Malorum]] | — | — | Phase 1: Foundational Understanding (... | 386 |
+| 73 | [[Self-Directed-Learning|Self-Directed Learning]] | self-directed learner | — | 🌱 Implementing Stoicism in Your Life:... | 378 |
+| 74 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Phase 1: Foundational Understanding (... | 386 |
+| 75 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 76 | [[Prosochē]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 77 | [[Virtue Ethics]] | — | — | Phase 1: Foundational Understanding (... | 386 |
 | 78 | [[Eudaimonia]] | — | — | Phase 1: Foundational Understanding (... | 386 |
-| 79 | [[Locus of Control]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
+| 79 | [[Locus-of-Control|Locus of Control]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 80 | [[Systems Thinking]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 81 | [[Metacognition]] | — | — | Phase 4: Integration and Expansion (M... | 418 |
 | 82 | [[Cognitive-Behavioral Therapy]] | — | — | 🔗 Related Topics for PKB Expansion | 439 |
@@ -431,14 +431,14 @@ extraction_summary:
 | 86 | [[Character Development]] | — | — | 🔗 Related Topics for PKB Expansion | 447 |
 | 87 | [[Philosophy of Well-Being]] | — | — | 🔗 Related Topics for PKB Expansion | 447 |
 | 88 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 449 |
-| 89 | [[Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
+| 89 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
 | 90 | [[Expert Performance]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
-| 91 | [[Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
+| 91 | [[Cognitive-Science|Cognitive Science]] | — | — | 🔗 Related Topics for PKB Expansion | 452 |
 | 92 | [[Hellenistic Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 454 |
 | 93 | [[Ancient Greek Philosophy]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
 | 94 | [[Epicureanism]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
 | 95 | [[Skepticism]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
-| 96 | [[Philosophy of Mind]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
+| 96 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
 | 97 | [[History of Psychology]] | — | — | 🔗 Related Topics for PKB Expansion | 457 |
 
 ---
@@ -503,12 +503,12 @@ extraction_summary:
 - [[Character Development]]
 - [[Chrysippus of Soli]]
 - [[Cleanthes of Assos]]
-- [[Cognitive Reappraisal]]
-- [[Cognitive Science]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Courage]]
 - [[Crates of Thebes]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Enchiridion]]
 - [[Epictetus]]
 - [[Epicureanism]]
@@ -519,25 +519,25 @@ extraction_summary:
 - [[History of Psychology]]
 - [[Justice]]
 - [[Letters from a Stoic]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Logos]]
 - [[Marcus Aurelius]]
 - [[Meditations]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Metacognition]]
 - [[Moral Psychology]]
 - [[Negative Visualization]]
 - [[Panaetius of Rhodes]]
-- [[Personal Knowledge Management]]
-- [[Philosophy of Mind]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Philosophy of Well-Being]]
 - [[Polemo]]
 - [[Posidonius]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Prohairesis]]
 - [[Prosochē]]
-- [[Self-Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Seneca]]
 - [[Seneca the Younger]]
 - [[Skepticism]]

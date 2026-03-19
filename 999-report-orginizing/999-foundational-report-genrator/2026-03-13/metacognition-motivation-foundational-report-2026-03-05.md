@@ -119,16 +119,16 @@ prerequisites:
   - "[[Basic Motivation Theory]]"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[Growth Mindset Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Attribution Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Goal Orientation Theory]]"
 
 broader:
-  - "[[Educational Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 narrower:
   - "[[Metacognitive Feelings and Affect]]"
@@ -145,9 +145,9 @@ contrasts-with:
   - "[[Pure Cognitive Models of Learning]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Coaching and Mentorship]]"
-  - "[[Learning Experience Design]]"
+  - "[[Learning-Experience-Design|Learning Experience Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -242,9 +242,9 @@ This is the central puzzle animating this report. [[Metacognition]] — the capa
 
 ### Why This Intersection Matters
 
-Understanding the relationship between [[Metacognition]] and [[Intrinsic Motivation]] is not merely an academic exercise. It has direct implications for how we design learning environments, support struggling learners, structure feedback, and cultivate habits of mind that persist beyond any particular educational context. When metacognitive engagement is driven by genuine curiosity, autonomy, and the intrinsic satisfaction of understanding — rather than by fear of failure or the expectation of reward — the evidence suggests that both the depth and the durability of learning are substantially enhanced.
+Understanding the relationship between [[Metacognition]] and [[Intrinsic-Motivation|Intrinsic Motivation]] is not merely an academic exercise. It has direct implications for how we design learning environments, support struggling learners, structure feedback, and cultivate habits of mind that persist beyond any particular educational context. When metacognitive engagement is driven by genuine curiosity, autonomy, and the intrinsic satisfaction of understanding — rather than by fear of failure or the expectation of reward — the evidence suggests that both the depth and the durability of learning are substantially enhanced.
 
-This report addresses three interrelated questions: How do metacognitive processes influence motivation and engagement in learning? How does motivational orientation (particularly the distinction between intrinsic and extrinsic motivation) shape the quality and depth of metacognitive engagement? And what practical conditions foster a metacognitive mindset that supports intrinsic motivation? In answering these questions, the report draws on [[Self-Determination Theory]], [[Self-Regulated Learning]] models, the [[Cognitive-Motivational Model]] of Borkowski and colleagues, [[Growth Mindset Theory]], and related frameworks.
+This report addresses three interrelated questions: How do metacognitive processes influence motivation and engagement in learning? How does motivational orientation (particularly the distinction between intrinsic and extrinsic motivation) shape the quality and depth of metacognitive engagement? And what practical conditions foster a metacognitive mindset that supports intrinsic motivation? In answering these questions, the report draws on [[Self-Determination-Theory|Self-Determination Theory]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] models, the [[Cognitive-Motivational Model]] of Borkowski and colleagues, [[Growth Mindset Theory]], and related frameworks.
 
 ### Scope and Roadmap
 
@@ -266,20 +266,20 @@ The popular characterization of metacognition as simply "thinking about thinking
 
 [[Ann Brown]]'s contribution complemented Flavell's by emphasizing the regulatory executive functions that operate over and above the content of knowledge — she was particularly interested in what she called "self-management of learning," or the executive control capacities that allow learners to govern their own cognitive processes in real time.
 
-A third component, less prominent in early theorizing but increasingly recognized, is [[Metacognitive Experiences]] — the online phenomenological states that accompany cognitive activity. These include the [[Feeling of Knowing]] (FOK: a sense that one could recognize an answer even when unable to retrieve it), [[Ease of Learning]] (EOL: a prospective judgment about how easy a to-be-learned item will be), and [[Judgment of Learning]] (JOL: a retrospective confidence rating about how well something has been encoded). Anastasia [[Efklides]] has been particularly influential in theorizing how these metacognitive feelings carry affective content and therefore form a critical bridge between pure cognition and motivation.
+A third component, less prominent in early theorizing but increasingly recognized, is [[Metacognitive Experiences]] — the online phenomenological states that accompany cognitive activity. These include the [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] (FOK: a sense that one could recognize an answer even when unable to retrieve it), [[Ease-of-Learning-—-EOL|Ease of Learning]] (EOL: a prospective judgment about how easy a to-be-learned item will be), and [[Judgment-of-Learning|Judgment of Learning]] (JOL: a retrospective confidence rating about how well something has been encoded). Anastasia [[Efklides]] has been particularly influential in theorizing how these metacognitive feelings carry affective content and therefore form a critical bridge between pure cognition and motivation.
 
 > [!definition] **Metacognitive Feelings (Efklides, 2006, 2011)**
 > Phenomenological, affective states that arise during cognitive processing and carry implicit information about the quality and progress of that processing. Unlike metacognitive knowledge (explicit, declarative) or regulation (deliberate, procedural), metacognitive feelings are automatic, immediate, and valenced — they feel positive or negative. A feeling of non-comprehension (a subjective sense of confusion when reading a dense passage) carries both cognitive information ("I am not understanding this") and motivational signal ("what do I do now?").
 
 ### Defining Motivation: Structure, Orientation, and Quality
 
-Motivation is among the most extensively studied constructs in psychology, and the conceptual landscape is correspondingly rich and sometimes confusing. For the purposes of this report, it is essential to distinguish between motivational *quantity* (how much energy a person invests) and motivational *quality* (the nature and origin of the goal being pursued). This distinction, central to [[Self-Determination Theory]], has profound implications for how motivation interacts with metacognitive engagement.
+Motivation is among the most extensively studied constructs in psychology, and the conceptual landscape is correspondingly rich and sometimes confusing. For the purposes of this report, it is essential to distinguish between motivational *quantity* (how much energy a person invests) and motivational *quality* (the nature and origin of the goal being pursued). This distinction, central to [[Self-Determination-Theory|Self-Determination Theory]], has profound implications for how motivation interacts with metacognitive engagement.
 
 > [!definition] **Intrinsic Motivation (Deci & Ryan, 1985)**
 > The disposition to engage in an activity for its own sake — because the activity is inherently interesting, enjoyable, or satisfying. Intrinsically motivated behavior is autonomous in the fullest sense: it does not require external incentives, threats, or justifications. The regulation of the behavior is fully *internal* to the self. A learner who reads a history book out of genuine fascination with how historical events unfolded is intrinsically motivated; one who reads the same book because it is required for an exam they fear failing is not.
 
 > [!definition] **Extrinsic Motivation (Deci & Ryan, 1985)**
-> Engagement with an activity as a means to a separable outcome — reward, praise, grade, the avoidance of punishment or shame. Critically, [[Self-Determination Theory]] does not treat extrinsic motivation as monolithic. It posits a continuum of *internalization*: from pure external regulation (behavior controlled entirely by external forces) through introjection (behavior driven by internal pressures like shame or pride) to identification (behavior driven by personally endorsed values) and finally to integration (behavior fully assimilated with the self's values). The more internalized the extrinsic motive, the more autonomous (and motivationally healthy) the behavior.
+> Engagement with an activity as a means to a separable outcome — reward, praise, grade, the avoidance of punishment or shame. Critically, [[Self-Determination-Theory|Self-Determination Theory]] does not treat extrinsic motivation as monolithic. It posits a continuum of *internalization*: from pure external regulation (behavior controlled entirely by external forces) through introjection (behavior driven by internal pressures like shame or pride) to identification (behavior driven by personally endorsed values) and finally to integration (behavior fully assimilated with the self's values). The more internalized the extrinsic motive, the more autonomous (and motivationally healthy) the behavior.
 
 > [!definition] **Self-Efficacy (Bandura, 1977, 1997)**
 > A person's belief in their own capacity to execute behaviors required to produce specific outcomes. Self-efficacy is domain-specific (one can have high self-efficacy in mathematics and low self-efficacy in creative writing), prospective (it concerns future performance), and distinct from self-esteem (which is a global affective evaluation of the self). Self-efficacy beliefs are among the strongest individual predictors of academic achievement and are tightly coupled to metacognitive processes in ways explored in Phase IV.
@@ -304,7 +304,7 @@ Second, the distinction between *awareness of motivation* (which is itself a met
 
 ### Self-Determination Theory: The Motivational Architecture
 
-[[Self-Determination Theory]] (SDT), developed by [[Edward Deci]] and [[Richard Ryan]] over more than four decades, provides the most comprehensive and empirically grounded framework for understanding the motivational dimension of the metacognition-motivation relationship. Its core propositions are worth stating precisely, because they are frequently simplified into misleading slogans.
+[[Self-Determination-Theory|Self-Determination Theory]] (SDT), developed by [[Edward Deci]] and [[Richard Ryan]] over more than four decades, provides the most comprehensive and empirically grounded framework for understanding the motivational dimension of the metacognition-motivation relationship. Its core propositions are worth stating precisely, because they are frequently simplified into misleading slogans.
 
 SDT's foundational claim is that human beings have three basic *psychological needs* that, when satisfied, promote psychological well-being, autonomous motivation, and deep engagement: the need for **autonomy** (to be the perceived origin of one's own behavior), **competence** (to feel effective and capable in one's interactions with the environment), and **relatedness** (to feel meaningfully connected to others). These are not preferences or values that vary across individuals — they are, SDT argues, universal psychological nutrients. Environments that support all three needs consistently produce more intrinsically motivated, deeply engaged, and psychologically healthy learners. Environments that thwart these needs — through controlling rewards, threats, surveillance, and externally imposed standards — undermine intrinsic motivation even when the individual was initially interested in the activity.
 
@@ -315,7 +315,7 @@ The implications for metacognition are significant. Metacognitive monitoring and
 
 ### Self-Regulated Learning: The Structural Model
 
-[[Self-Regulated Learning]] (SRL) provides the structural model through which metacognition and motivation interact most visibly. [[Barry Zimmerman]]'s cyclical model, refined extensively through the 1990s and 2000s, describes learning as a three-phase cycle: the **forethought phase** (goal-setting, strategic planning, motivational beliefs including self-efficacy and task interest), the **performance phase** (task execution, self-monitoring, strategy deployment), and the **self-reflection phase** (self-evaluation, causal attribution, affective response, adaptation).
+[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) provides the structural model through which metacognition and motivation interact most visibly. [[Barry-Zimmerman|Barry Zimmerman]]'s cyclical model, refined extensively through the 1990s and 2000s, describes learning as a three-phase cycle: the **forethought phase** (goal-setting, strategic planning, motivational beliefs including self-efficacy and task interest), the **performance phase** (task execution, self-monitoring, strategy deployment), and the **self-reflection phase** (self-evaluation, causal attribution, affective response, adaptation).
 
 > [!key-claim] **SRL as Integration Point**
 > The SRL cycle is not a purely cognitive model — every phase contains a motivational component. In the forethought phase, the learner's motivational beliefs (self-efficacy, goal orientation, intrinsic interest) shape the *quality* of goal-setting and strategic planning. In the performance phase, metacognitive monitoring occurs in the context of ongoing motivational experience (interest, boredom, frustration, curiosity). In the self-reflection phase, the learner's attribution of success or failure — to ability, effort, strategy, or context — determines whether the next cycle begins with higher or lower self-efficacy and motivation. The model is bidirectionally integrated: motivation shapes metacognitive quality; metacognitive outcomes shape subsequent motivation.
@@ -351,7 +351,7 @@ The growth mindset connects to metacognition in two important ways. First, a gro
 
 The influence of metacognition on motivation operates through several distinct but interacting mechanisms, each with a different temporal signature and practical implication.
 
-The first and most immediate mechanism is through **calibration and self-efficacy feedback**. Metacognitive monitoring — the ongoing assessment of one's own understanding and performance — generates continuous information about how well learning is proceeding. When this monitoring is *accurate* (well-calibrated), it allows the learner to make adaptive decisions: to persist when progress is genuine, to switch strategies when comprehension breaks down, and to seek help or additional resources when a gap exceeds what current effort can bridge. Accurate monitoring sustains motivation by keeping effort-investment appropriately matched to task demands. When monitoring is *inaccurate* — when learners are confidently wrong about their own understanding, a phenomenon known as the [[Dunning-Kruger Effect]] in its popular form — motivation can become miscalibrated: learners stop investing effort in areas where they actually have gaps, because they do not know those gaps exist.
+The first and most immediate mechanism is through **calibration and self-efficacy feedback**. Metacognitive monitoring — the ongoing assessment of one's own understanding and performance — generates continuous information about how well learning is proceeding. When this monitoring is *accurate* (well-calibrated), it allows the learner to make adaptive decisions: to persist when progress is genuine, to switch strategies when comprehension breaks down, and to seek help or additional resources when a gap exceeds what current effort can bridge. Accurate monitoring sustains motivation by keeping effort-investment appropriately matched to task demands. When monitoring is *inaccurate* — when learners are confidently wrong about their own understanding, a phenomenon known as the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] in its popular form — motivation can become miscalibrated: learners stop investing effort in areas where they actually have gaps, because they do not know those gaps exist.
 
 > [!example] **Calibration in Practice**
 > A medical student learning pharmacology who accurately monitors her understanding of drug interaction mechanisms will notice when reading her notes produces only the *feeling* of fluency rather than genuine recall. She will test herself, discover gaps, and re-engage with the material more deeply. A student with poor monitoring calibration will experience the same feeling of fluency, conclude she understands, and move on — only to encounter the gap in an exam. The first student's metacognitive accuracy sustains appropriate effort; the second student's metacognitive inaccuracy produces premature disengagement.
@@ -367,7 +367,7 @@ The third mechanism is through **strategic self-knowledge and autonomous agency*
 
 The reverse pathway — from motivation to metacognition — is equally powerful and perhaps even more practically relevant for educational design.
 
-Intrinsic motivation, and more broadly autonomous motivation (including well-internalized extrinsic motivation), predicts deeper, more effortful, and more adaptive [[Metacognitive Regulation]]. The evidence for this relationship is substantial: studies by Pintrich and De Groot (1990), by Vansteenkiste et al. (2004), and by numerous subsequent researchers converge on the finding that autonomously motivated learners engage in more elaborative encoding, more frequent comprehension checking, more persistent strategy revision, and more reflective self-evaluation. The mechanism is attentional and volitional: when a learner genuinely wants to understand a topic, she is more likely to notice when she does not, and to treat that noticing as a call to action rather than a call to disengage.
+Intrinsic motivation, and more broadly autonomous motivation (including well-internalized extrinsic motivation), predicts deeper, more effortful, and more adaptive [[Metacognitive-Regulation|Metacognitive Regulation]]. The evidence for this relationship is substantial: studies by Pintrich and De Groot (1990), by Vansteenkiste et al. (2004), and by numerous subsequent researchers converge on the finding that autonomously motivated learners engage in more elaborative encoding, more frequent comprehension checking, more persistent strategy revision, and more reflective self-evaluation. The mechanism is attentional and volitional: when a learner genuinely wants to understand a topic, she is more likely to notice when she does not, and to treat that noticing as a call to action rather than a call to disengage.
 
 > [!ask-yourself-this] **Noticing Your Own Patterns**
 > Think of a topic you are genuinely curious about — something you explore voluntarily, without external requirement. Notice how you engage with confusion when it arises in that domain: do you stop? Seek clarification? Adjust your approach? Now compare that to how you respond to confusion in a domain where your engagement is primarily driven by external obligation. The difference in metacognitive behavior likely reflects the difference in motivational quality — not in your metacognitive *capacity*, but in the conditions under which it becomes activated.
@@ -455,15 +455,15 @@ Understanding the metacognition-motivation relationship at this depth confers se
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
 >
-> - **[[Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
 >
 > - **[[Growth Mindset Theory]]** — The Dweck framework connects to this report at the intersection of implicit beliefs, attribution style, and metacognitive willingness. A dedicated growth mindset report would examine the replication literature more thoroughly and provide more nuanced guidance on when and how mindset interventions are likely to be effective.
 >
-> - **[[Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
 >
-> - **[[Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
+> - **[[Attribution-Theory|Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
 >
 > - **[[Extended Thinking Architecture]]** — From a PKB perspective, extended thinking in LLM contexts is itself a form of metacognitive scaffolding — explicitly structuring second-order cognitive monitoring during generation. The principles developed here about when and why metacognitive monitoring is effortfully deployed connect directly to the architectural choices in extended thinking system prompts.
 >

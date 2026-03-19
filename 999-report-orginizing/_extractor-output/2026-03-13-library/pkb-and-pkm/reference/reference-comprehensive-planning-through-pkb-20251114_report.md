@@ -297,7 +297,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Self Directed Learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
+> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Self-Directed-Learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
 
 #### 3. [HOW-TO-USE-THIS] Untitled *(Line 34)*
 
@@ -327,7 +327,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > **The Cognitive Load Relationship**
-> Planning reduces [[Working Memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
+> Planning reduces [[Working-Memory|Working Memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
 
 #### 8. [METHODOLOGY-AND-SOURCES] Untitled *(Line 110)*
 
@@ -345,7 +345,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **GTD's Cognitive Liberation**
-> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed Cognition]] or [[Extended Mind]] theory.
+> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed-Cognition|Distributed Cognition]] or [[Extended Mind]] theory.
 
 #### 11. [USE-CASES-AND-EXAMPLES] Untitled *(Line 166)*
 
@@ -355,7 +355,7 @@ extraction_summary:
 > **Traditional GTD**: "Write quarterly report" → "Draft outline for Q3 metrics" (@computer, 30min)
 > 
 > **Knowledge Work GTD**: "Master retrieval practice techniques" → 
-> - Project: [[Retrieval Practice]] mastery
+> - Project: [[Retrieval-Practice|Retrieval Practice]] mastery
 > - Next Actions: 
 >   - "Read Chapter 3 of 'Make It Stick'" (@reading-chair, 45min, med-energy)
 >   - "Create 10 flashcards on spacing effects" (@computer, 20min, low-energy)
@@ -413,7 +413,7 @@ extraction_summary:
 > **Integration Blocks** (30-60 minutes)
 > - [[Weekly Review]] processes
 > - Cross-linking notes
-> - [[Progressive Summarization]]
+> - [[Progressive-Summarization|Progressive Summarization]]
 > - Knowledge consolidation
 
 #### 17. [DEFINITION] Untitled *(Line 285)*
@@ -479,7 +479,7 @@ extraction_summary:
 > **Theme**: "Year of Systematic Learning"
 > 
 > **Strategic Domains**:
-> 1. [[Cognitive Psychology]]: Build research-level understanding
+> 1. [[Cognitive-Psychology|Cognitive Psychology]]: Build research-level understanding
 > 2. [[Statistical Analysis]]: Progress from novice to intermediate practitioner  
 > 3. [[Technical Writing]]: Develop publication-quality skills
 > 
@@ -711,14 +711,14 @@ extraction_summary:
 - [[2025-W46]]
 - [[Bayesian-Inference-Course]]
 - [[Calendar Plugin]]
-- [[Cognitive Load]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
 - [[Daily Notes]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Day Planner]]
 - [[Deliberate Practice]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Extended Mind]]
 - [[GTD]]
 - [[Goal Setting]]
@@ -730,16 +730,16 @@ extraction_summary:
 - [[PKB]]
 - [[Periodic Notes]]
 - [[Possible Selves]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization in PKB Systems]]
 - [[Project Management]]
 - [[Q2-2024-Statistical-Fluency]]
 - [[Relationship Cultivation]]
-- [[Retrieval Practice]]
-- [[Self Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Self-Directed-Learning|Self Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning Theory]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Statistical Analysis]]
 - [[Statistical-Competency]]
 - [[Statistical-Problem-Practice]]
@@ -755,7 +755,7 @@ extraction_summary:
 - [[Time Management vs. Attention Management]]
 - [[Weekly Review]]
 - [[Weekly Reviews]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[dataview]]
 - [[wiki-links]]
@@ -765,32 +765,32 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Document Start | 32 |
-| 2 | [[Self Directed Learning]] | Self-Directed Learning | — | Document Start | 32 |
+| 2 | [[Self-Directed-Learning|Self Directed Learning]] | Self-Directed Learning | — | Document Start | 32 |
 | 3 | [[PKB]] | — | — | Document Start | 32 |
 | 4 | [[wiki-links]] | — | — | Document Start | 36 |
 | 5 | [[Goal Setting]] | — | — | The Three-Phase Cycle of Self-Regulat... | 73 |
 | 6 | [[Task Analysis]] | — | — | The Three-Phase Cycle of Self-Regulat... | 74 |
 | 7 | [[Strategic Planning]] | — | — | The Three-Phase Cycle of Self-Regulat... | 75 |
 | 8 | [[Motivational Beliefs]] | — | — | The Three-Phase Cycle of Self-Regulat... | 76 |
-| 9 | [[Working Memory]] | — | — | Planning and Working Memory | 96 |
+| 9 | [[Working-Memory|Working Memory]] | — | — | Planning and Working Memory | 96 |
 | 10 | [[GTD]] | — | — | Planning and Working Memory | 96 |
 | 11 | [[Zettelkasten]] | — | — | The Dual Nature of Planning | 106 |
 | 12 | [[Deliberate Practice]] | — | — | The Dual Nature of Planning | 107 |
-| 13 | [[Distributed Cognition]] | — | — | The Five-Phase GTD Workflow | 162 |
+| 13 | [[Distributed-Cognition|Distributed Cognition]] | — | — | The Five-Phase GTD Workflow | 162 |
 | 14 | [[Extended Mind]] | — | — | The Five-Phase GTD Workflow | 162 |
-| 15 | [[Retrieval Practice]] | — | — | GTD for Knowledge Work: Adaptations | 172 |
+| 15 | [[Retrieval-Practice|Retrieval Practice]] | — | — | GTD for Knowledge Work: Adaptations | 172 |
 | 16 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Time Blocking: Temporal Allocation | 222 |
 | 17 | [[Deliberate Practice]] | — | — | Types of Time Blocks | 260 |
 | 18 | [[Creative Synthesis]] | — | — | Types of Time Blocks | 261 |
 | 19 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Types of Time Blocks | 274 |
 | 20 | [[Weekly Review]] | — | — | Types of Time Blocks | 278 |
-| 21 | [[Progressive Summarization]] | — | — | Types of Time Blocks | 280 |
+| 21 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Types of Time Blocks | 280 |
 | 22 | [[Deliberate Practice]] | — | — | The Four Quadrants | 311 |
 | 23 | [[System Building]] | — | — | The Four Quadrants | 311 |
 | 24 | [[Relationship Cultivation]] | — | — | The Four Quadrants | 311 |
 | 25 | [[Strategic Planning]] | — | — | The Four Quadrants | 311 |
 | 26 | [[Possible Selves]] | — | — | Yearly Planning: Strategic Vision | 426 |
-| 27 | [[Cognitive Psychology]] | — | — | Yearly Planning: Strategic Vision | 443 |
+| 27 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | Yearly Planning: Strategic Vision | 443 |
 | 28 | [[Statistical Analysis]] | — | — | Yearly Planning: Strategic Vision | 444 |
 | 29 | [[Technical Writing]] | — | — | Yearly Planning: Strategic Vision | 445 |
 | 30 | [[Obsidian Templates]] | — | — | Monthly Planning: Project Milestones | 480 |
@@ -835,25 +835,25 @@ extraction_summary:
 | 69 | [[Time Management vs. Attention Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1948 |
 | 70 | [[Progressive Summarization in PKB Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 1953 |
 | 71 | [[Habit Formation and Planning Systems Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 1958 |
-| 72 | [[Self-Regulated Learning]] | — | — | Structural Planning | 1996 |
+| 72 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Structural Planning | 1996 |
 | 73 | [[Metacognition]] | — | — | Structural Planning | 1997 |
-| 74 | [[Working Memory]] | — | — | Structural Planning | 1998 |
+| 74 | [[Working-Memory|Working Memory]] | — | — | Structural Planning | 1998 |
 | 75 | [[Goal Setting]] | — | — | Structural Planning | 1999 |
 | 76 | [[Zettelkasten]] | — | — | Structural Planning | 2000 |
 | 77 | [[Daily Notes]] | — | — | Structural Planning | 2001 |
 | 78 | [[Weekly Reviews]] | — | — | Structural Planning | 2002 |
 | 79 | [[Project Management]] | — | — | Structural Planning | 2003 |
 | 80 | [[Task Management]] | — | — | Structural Planning | 2004 |
-| 81 | [[Cognitive Load]] | — | — | Structural Planning | 2005 |
+| 81 | [[Cognitive-Load|Cognitive Load]] | — | — | Structural Planning | 2005 |
 | 82 | [[Deliberate Practice]] | — | — | Structural Planning | 2006 |
 | 83 | [[Time Blocking]] | — | — | Structural Planning | 2007 |
 | 84 | [[GTD]] | — | — | Structural Planning | 2008 |
 | 85 | [[PARA Method]] | — | — | Structural Planning | 2009 |
-| 86 | [[Progressive Summarization]] | — | — | Structural Planning | 2010 |
-| 87 | [[Spaced Repetition]] | — | — | Structural Planning | 2011 |
-| 88 | [[Retrieval Practice]] | — | — | Structural Planning | 2012 |
+| 86 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Structural Planning | 2010 |
+| 87 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Structural Planning | 2011 |
+| 88 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Structural Planning | 2012 |
 | 89 | [[Obsidian Templates]] | — | — | Structural Planning | 2013 |
-| 90 | [[Dataview Plugin]] | — | — | Structural Planning | 2014 |
+| 90 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Structural Planning | 2014 |
 | 91 | [[Tasks Plugin]] | — | — | Structural Planning | 2015 |
 | 92 | [[Calendar Plugin]] | — | — | Structural Planning | 2016 |
 | 93 | [[Periodic Notes]] | — | — | Structural Planning | 2017 |
@@ -1918,14 +1918,14 @@ graph TD
 - [[2025-W46]]
 - [[Bayesian-Inference-Course]]
 - [[Calendar Plugin]]
-- [[Cognitive Load]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Creative Synthesis]]
 - [[Daily Notes]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Day Planner]]
 - [[Deliberate Practice]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Extended Mind]]
 - [[GTD]]
 - [[Goal Setting]]
@@ -1937,16 +1937,16 @@ graph TD
 - [[PKB]]
 - [[Periodic Notes]]
 - [[Possible Selves]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Progressive Summarization in PKB Systems]]
 - [[Project Management]]
 - [[Q2-2024-Statistical-Fluency]]
 - [[Relationship Cultivation]]
-- [[Retrieval Practice]]
-- [[Self Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Self-Directed-Learning|Self Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning Theory]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Statistical Analysis]]
 - [[Statistical-Competency]]
 - [[Statistical-Problem-Practice]]
@@ -1962,7 +1962,7 @@ graph TD
 - [[Time Management vs. Attention Management]]
 - [[Weekly Review]]
 - [[Weekly Reviews]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[dataview]]
 - [[wiki-links]]

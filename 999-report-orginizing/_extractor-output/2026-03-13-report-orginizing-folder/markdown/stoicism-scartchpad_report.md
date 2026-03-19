@@ -161,17 +161,17 @@ extraction_summary:
 > [!connections-and-links] 🕸️ Framework Integration Map
 > **Stoic Journaling** interfaces with:
 > 
-> → [[Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
+> → [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]: Functions as the self-reflection phase enabling metacognitive monitoring and strategy adjustment across learning cycles.
 > 
-> → [[Self-Determination Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
+> → [[Self-Determination-Theory|Self-Determination Theory]]: Supports autonomous motivation by facilitating values clarification, competence documentation, and autonomy through self-directed examination.
 > 
-> → [[Cognitive Load Theory]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
+> → [[Cognitive-Load-Theory|Cognitive Load Theory]]: Reduces extraneous load through externalization while managing germane load through structured reflection.
 > 
 > → [[Neuroplasticity]]: Provides mechanism for practice-dependent neural changes supporting enhanced executive function and emotional regulation.
 > 
 > → [[Memory Consolidation]]: Optimizes sleep-dependent consolidation through pre-sleep cognitive organization and content prioritization.
 > 
-> → [[Habit Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
+> → [[Habit-Formation|Habit Formation]]: Establishes meta-habit of systematic reflection that monitors and reinforces object-level behavioral patterns.
 
 #### 5. [KEY-CLAIM] 💡 Central Argument: The Triple Function of Reflective Writing *(Line 250)*
 
@@ -220,29 +220,29 @@ extraction_summary:
 > [!definition] Untitled
 > **The Dichotomy of Control: A Precise Formulation**
 > 
-> [[Epictetus]] articulates the [[Dichotomy of Control|dichotomy of control]] with remarkable precision at the opening of his *Enchiridion*: "Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and, in a word, whatever is not of our own doing." This formulation identifies a narrower sphere of control than most people intuitively assume. We control our *judgments, intentions, values, and responses*—the elements comprising what the Stoics termed *prohairesis* or moral character. We do not control *outcomes, other people's actions, external circumstances, or even many aspects of our own bodies and minds* (including automatic emotional reactions). The practice involves relentlessly redirecting attention and effort toward the former while cultivating acceptance of the latter.
+> [[Epictetus]] articulates the [[Dichotomy-of-Control|dichotomy of control]] with remarkable precision at the opening of his *Enchiridion*: "Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and, in a word, whatever is not of our own doing." This formulation identifies a narrower sphere of control than most people intuitively assume. We control our *judgments, intentions, values, and responses*—the elements comprising what the Stoics termed *prohairesis* or moral character. We do not control *outcomes, other people's actions, external circumstances, or even many aspects of our own bodies and minds* (including automatic emotional reactions). The practice involves relentlessly redirecting attention and effort toward the former while cultivating acceptance of the latter.
 
 #### 11. [METHODOLOGY-AND-SOURCES] Untitled *(Line 306)*
 
 > [!methodology-and-sources] Untitled
 > **The Three Forms of Premeditatio Malorum**
 > 
-> The Stoics practiced *[[Premeditatio Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
-> - The mechanism of *[[Premeditatio Malorum|premeditatio malorum]]* differs fundamentally from pathological [[Worry|worry]] or catastrophizing. While worry represents uncontrolled, repetitive, abstract rumination that increases [[Anxiety|anxiety]] and depletes [[Cognitive Resources|cognitive resources]], *[[Premeditatio Malorum|premeditatio malorum]]* involves deliberate, time-limited, concrete visualization paired with problem-solving and acceptance. The Stoic practitioner asks not merely "What terrible things might happen?" but rather "If this occurred, how would I cope? What resources would I draw upon? What would matter most?"
+> The Stoics practiced *[[Premeditatio-Malorum|premeditatio malorum]]* at three distinct scales, each targeting different aspects of psychological preparedness. *Daily negative visualization* involves contemplating minor inconveniences and setbacks that might occur during the day—traffic delays, technical malfunctions, social awkwardness, schedule disruptions. This practice, recommended by [[Marcus Aurelius]] as a morning ritual, calibrates expectations downward and reduces the emotional impact of common frustrations. *Periodic adversity contemplation* engages with more substantial potential misfortunes—serious illness, job loss, relationship dissolution, financial setbacks. [[Seneca the Younger|Seneca]] recommended this practice at regular intervals, advising practitioners to imaginatively "rehearse exile, torture, war, shipwreck" to develop emotional fortitude. *Loss visualization* represents the most emotionally demanding form, involving contemplation of the death of loved ones or one's own mortality. This practice, while psychologically challenging, serves the dual function of building resilience while enhancing gratitude and presence in relationships.
+> - The mechanism of *[[Premeditatio-Malorum|premeditatio malorum]]* differs fundamentally from pathological [[Worry|worry]] or catastrophizing. While worry represents uncontrolled, repetitive, abstract rumination that increases [[Anxiety|anxiety]] and depletes [[Cognitive Resources|cognitive resources]], *[[Premeditatio-Malorum|premeditatio malorum]]* involves deliberate, time-limited, concrete visualization paired with problem-solving and acceptance. The Stoic practitioner asks not merely "What terrible things might happen?" but rather "If this occurred, how would I cope? What resources would I draw upon? What would matter most?"
 
 #### 12. [IMPORTANT] Untitled *(Line 311)*
 
 > [!important] Untitled
 > **Distinguishing Premeditatio Malorum from Rumination**
 > 
-> The critical distinction between therapeutic *[[Premeditatio Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
+> The critical distinction between therapeutic *[[Premeditatio-Malorum|premeditatio malorum]]* and pathological [[Rumination|rumination]] lies in several key features. [[Premeditatio Malorum|Negative visualization]] is *time-bounded* (typically ten to thirty minutes of dedicated practice) rather than chronic and intrusive. It is *deliberate and voluntary* rather than uncontrolled. It includes *concrete problem-solving* and *acceptance-oriented cognition* rather than abstract worry. It concludes with *gratitude for present circumstances* rather than spiraling into catastrophic thinking. Research confirms these distinctions matter profoundly for outcomes. While repetitive negative thinking predicts increased [[Depression|depression]] and [[Anxiety|anxiety]], structured negative visualization paired with cognitive reappraisal enhances [[Resilience|resilience]] and [[Emotional Regulation|emotional regulation]] capacity.
 
 #### 13. [METHODOLOGY-AND-SOURCES] Untitled *(Line 316)*
 
 > [!methodology-and-sources] Untitled
 > **The Structure of Stoic Evening Examination**
 > 
-> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
+> [[Seneca the Younger|Seneca]] and [[Epictetus]] recommended a specific structure for evening reflection that modern psychology recognizes as optimally designed for learning and behavior change. The practice begins with neutral observation: "What did I do today? What did I say? How did I respond to challenges?" This phase activates [[Episodic-Memory|episodic memory]] without triggering defensive reactions. The second phase involves evaluative assessment: "Where did I act in accordance with [[Virtue|virtue]]? Where did I fall short of my principles? What automatic reactions arose that I would prefer to change?" This assessment engages [[Executive Function|executive function]] and [[Self-Regulation-Theory|self-regulatory]] systems in the [[Prefrontal Cortex|prefrontal cortex]]. The final phase focuses on future orientation: "How will I respond differently tomorrow? What specific situation will test my practice? What [[Stoic Principle|Stoic principle]] will I call to mind?" This prospective planning creates what psychologists term *[[Implementation-Intentions|implementation intentions]]* — specific if-then plans that dramatically increase the likelihood of executing desired behaviors.
 
 #### 14. [THE-PHILOSOPHY] 🌟 **Living According to Nature: The Foundation of Stoic Ethics *(Line 321)*
 
@@ -377,17 +377,17 @@ extraction_summary:
 - [[Ancient Philosophy]]
 - [[Anxiety]]
 - [[Apatheia]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Character Cultivation]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortion]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
 - [[Cognitive Neuroscience]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Resources]]
 - [[Cognitive Responses]]
 - [[Constructivism]]
@@ -395,20 +395,20 @@ extraction_summary:
 - [[Courage]]
 - [[Defensive Avoidance]]
 - [[Depression]]
-- [[Dichotomy of Control]]
-- [[Discipline of Assent]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Episodic Memory]]
+- [[Episodic-Memory|Episodic Memory]]
 - [[Eudaimonia]]
 - [[Executive Function]]
 - [[External Achievement]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
 - [[Implementation Friction]]
 - [[Implementation Intention]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Impressions]]
 - [[Judgments]]
 - [[Justice]]
@@ -429,15 +429,15 @@ extraction_summary:
 - [[Practical Philosophy]]
 - [[Pragmatism]]
 - [[Prefrontal Cortex]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Progress Principle]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Resilience]]
 - [[Rumination]]
 - [[Self-Compassion]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Seneca the Younger]]
@@ -449,7 +449,7 @@ extraction_summary:
 - [[Virtue]]
 - [[Virtue Ethics]]
 - [[Wisdom]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Worry]]
 - [[practical-philosophy-moc]]
 
@@ -476,40 +476,40 @@ extraction_summary:
 | 17 | [[practical-philosophy-moc]] | — | — | Philosophy/Practical Philosophy | 148 |
 | 18 | [[Ancient Philosophy]] | — | — | Philosophy/Practical Philosophy | 149 |
 | 19 | [[Emotional Dysregulation]] | — | — | Cognitive-Science | 153 |
-| 20 | [[Cognitive Bias]] | — | — | Cognitive-Science | 154 |
-| 21 | [[Cognitive Offloading]] | — | — | Cognitive-Science | 155 |
+| 20 | [[Cognitive-Bias|Cognitive Bias]] | — | — | Cognitive-Science | 154 |
+| 21 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Cognitive-Science | 155 |
 | 22 | [[Prohairesis]] | — | — | Key-Terms/Key-words | 163 |
 | 23 | [[Judgments]] | — | — | Key-Terms/Key-words | 164 |
-| 24 | [[Assent]] | — | — | Key-Terms/Key-words | 165 |
+| 24 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | Key-Terms/Key-words | 165 |
 | 25 | [[Impressions]] | — | — | Key-Terms/Key-words | 166 |
 | 26 | [[Spiritual Exercises]] | — | — | Key-Terms/Key-words | 168 |
 | 27 | [[Prosoche]] | — | — | Key-Terms/Key-words | 169 |
 | 28 | [[View from Above]] | — | — | Key-Terms/Key-words | 170 |
-| 29 | [[Premeditatio Malorum]] | — | — | Key-Terms/Key-words | 171 |
+| 29 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Key-Terms/Key-words | 171 |
 | 30 | [[Negative Visualization]] | — | — | Key-Terms/Key-words | 172 |
 | 31 | [[Memento Mori]] | — | — | Key-Terms/Key-words | 173 |
 | 32 | [[Amor Fati]] | — | — | Key-Terms/Key-words | 174 |
-| 33 | [[Discipline of Assent]] | — | — | Key-Terms/Key-words | 175 |
+| 33 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | Key-Terms/Key-words | 175 |
 | 34 | [[Ataraxia]] | — | — | Key-Terms/Key-words | 177 |
-| 35 | [[Dichotomy of Control]] | — | — | Key-Terms/Key-words | 183 |
-| 36 | [[Cognitive Load Theory]] | — | — | Note on Writing | 202 |
-| 37 | [[Working Memory]] | — | — | Note on Writing | 202 |
+| 35 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Key-Terms/Key-words | 183 |
+| 36 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Note on Writing | 202 |
+| 37 | [[Working-Memory|Working Memory]] | — | — | Note on Writing | 202 |
 | 38 | [[Metacognition]] | metacognitive | — | Note on Writing | 202 |
 | 39 | [[2025-11-30]] | — | — | Strategy for behavior change | 207 |
-| 40 | [[Self-Regulated Learning]] | — | — | Stoicism Journaling | 225 |
-| 41 | [[Self-Determination Theory]] | — | — | Stoicism Journaling | 227 |
-| 42 | [[Cognitive Load Theory]] | — | — | Stoicism Journaling | 229 |
+| 40 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Stoicism Journaling | 225 |
+| 41 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Stoicism Journaling | 227 |
+| 42 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Stoicism Journaling | 229 |
 | 43 | [[Neuroplasticity]] | — | — | Stoicism Journaling | 231 |
 | 44 | [[Memory Consolidation]] | — | — | Stoicism Journaling | 233 |
-| 45 | [[Habit Formation]] | — | — | Stoicism Journaling | 235 |
+| 45 | [[Habit-Formation|Habit Formation]] | — | — | Stoicism Journaling | 235 |
 | 46 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 260 |
 | 47 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 261 |
-| 48 | [[Cognitive Reappraisal]] | cognitive reappraisal | — | Metacognitive Development through Jou... | 261 |
+| 48 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | cognitive reappraisal | — | Metacognitive Development through Jou... | 261 |
 | 49 | [[Stoicism]] | Stoic | — | Metacognitive Development through Jou... | 261 |
 | 50 | [[Cognitive Neuroscience]] | cognitive neuroscience | — | Metacognitive Development through Jou... | 261 |
-| 51 | [[Cognitive Offloading]] | cognitive offloading | — | Metacognitive Development through Jou... | 263 |
+| 51 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | cognitive offloading | — | Metacognitive Development through Jou... | 263 |
 | 52 | [[Progress Principle]] | progress principle | — | Metacognitive Development through Jou... | 269 |
-| 53 | [[Habit Formation]] | habit automatization | — | Metacognitive Development through Jou... | 274 |
+| 53 | [[Habit-Formation|Habit Formation]] | habit automatization | — | Metacognitive Development through Jou... | 274 |
 | 54 | [[Cognitive Distortion]] | cognitive distortions | — | Metacognitive Development through Jou... | 282 |
 | 55 | [[Emotional Dysregulation]] | dysregulation | — | Metacognitive Development through Jou... | 282 |
 | 56 | [[Implementation Intention]] | implementation intention | — | Metacognitive Development through Jou... | 286 |
@@ -522,31 +522,31 @@ extraction_summary:
 | 63 | [[2025-11-25]] | — | — | Metacognitive Development through Jou... | 297 |
 | 64 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 300 |
 | 65 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 304 |
-| 66 | [[Dichotomy of Control]] | dichotomy of control | — | Metacognitive Development through Jou... | 304 |
-| 67 | [[Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 309 |
+| 66 | [[Dichotomy-of-Control|Dichotomy of Control]] | dichotomy of control | — | Metacognitive Development through Jou... | 304 |
+| 67 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 309 |
 | 68 | [[Marcus Aurelius]] | — | — | Metacognitive Development through Jou... | 309 |
 | 69 | [[Seneca the Younger]] | Seneca | — | Metacognitive Development through Jou... | 309 |
-| 70 | [[Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 310 |
+| 70 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 310 |
 | 71 | [[Worry]] | worry | — | Metacognitive Development through Jou... | 310 |
 | 72 | [[Anxiety]] | anxiety | — | Metacognitive Development through Jou... | 310 |
 | 73 | [[Cognitive Resources]] | cognitive resources | — | Metacognitive Development through Jou... | 310 |
-| 74 | [[Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 310 |
-| 75 | [[Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 314 |
+| 74 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 310 |
+| 75 | [[Premeditatio-Malorum|Premeditatio Malorum]] | premeditatio malorum | — | Metacognitive Development through Jou... | 314 |
 | 76 | [[Rumination]] | rumination | — | Metacognitive Development through Jou... | 314 |
-| 77 | [[Premeditatio Malorum]] | Negative visualization | — | Metacognitive Development through Jou... | 314 |
+| 77 | [[Premeditatio-Malorum|Premeditatio Malorum]] | Negative visualization | — | Metacognitive Development through Jou... | 314 |
 | 78 | [[Depression]] | depression | — | Metacognitive Development through Jou... | 314 |
 | 79 | [[Anxiety]] | anxiety | — | Metacognitive Development through Jou... | 314 |
 | 80 | [[Resilience]] | resilience | — | Metacognitive Development through Jou... | 314 |
 | 81 | [[Emotional Regulation]] | emotional regulation | — | Metacognitive Development through Jou... | 314 |
 | 82 | [[Seneca the Younger]] | Seneca | — | Metacognitive Development through Jou... | 319 |
 | 83 | [[Epictetus]] | — | — | Metacognitive Development through Jou... | 319 |
-| 84 | [[Episodic Memory]] | episodic memory | — | Metacognitive Development through Jou... | 319 |
+| 84 | [[Episodic-Memory|Episodic Memory]] | episodic memory | — | Metacognitive Development through Jou... | 319 |
 | 85 | [[Virtue]] | virtue | — | Metacognitive Development through Jou... | 319 |
 | 86 | [[Executive Function]] | executive function | — | Metacognitive Development through Jou... | 319 |
 | 87 | [[Self-Regulation-Theory]] | self-regulatory | — | Metacognitive Development through Jou... | 319 |
 | 88 | [[Prefrontal Cortex]] | prefrontal cortex | — | Metacognitive Development through Jou... | 319 |
 | 89 | [[Stoic Principle]] | Stoic principle | — | Metacognitive Development through Jou... | 319 |
-| 90 | [[Implementation Intentions]] | implementation intentions | — | Metacognitive Development through Jou... | 319 |
+| 90 | [[Implementation-Intentions|Implementation Intentions]] | implementation intentions | — | Metacognitive Development through Jou... | 319 |
 | 91 | [[00-inbox/03-research/03-research-library/-stoicism/reference-comprehensive-stoicism-journal-20251130195735]] | — | — | Notes from [[00-inbox/03-research/03-... | 342 |
 | 92 | [[Metacognitive Journaling]] | — | — | Notes from [[00-inbox/03-research/03-... | 349 |
 | 93 | [[Implementation Friction]] | — | — | Notes from [[00-inbox/03-research/03-... | 349 |
@@ -555,23 +555,23 @@ extraction_summary:
 | 96 | [[Character Cultivation]] | — | — | Notes from [[00-inbox/03-research/03-... | 356 |
 | 97 | [[Self-Compassion]] | — | — | Notes from [[00-inbox/03-research/03-... | 360 |
 | 98 | [[Defensive Avoidance]] | — | — | Notes from [[00-inbox/03-research/03-... | 360 |
-| 99 | [[Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 370 |
+| 99 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 370 |
 | 100 | [[Cognitive Primacy]] | — | — | The Three-Pillar Architecture | 371 |
 | 101 | [[Virtue Ethics]] | — | — | The Three-Pillar Architecture | 372 |
 | 102 | [[Cosmopolitanism]] | — | — | The Three-Pillar Architecture | 373 |
 | 103 | [[Memento Mori]] | — | — | The Three-Pillar Architecture | 374 |
 | 104 | [[Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 376 |
-| 105 | [[Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 377 |
+| 105 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 377 |
 | 106 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 378 |
 | 107 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 379 |
 | 108 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 380 |
 | 109 | [[Judgments]] | — | — | The Three-Pillar Architecture | 388 |
-| 110 | [[Assent]] | — | — | The Three-Pillar Architecture | 388 |
+| 110 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The Three-Pillar Architecture | 388 |
 | 111 | [[Impressions]] | — | — | The Three-Pillar Architecture | 388 |
 | 112 | [[Cognitive Responses]] | — | — | The Three-Pillar Architecture | 389 |
 | 113 | [[Prosoche]] | — | — | The Three-Pillar Architecture | 397 |
 | 114 | [[View from Above]] | — | — | The Three-Pillar Architecture | 398 |
-| 115 | [[Premeditatio Malorum]] | — | — | The Three-Pillar Architecture | 399 |
+| 115 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | The Three-Pillar Architecture | 399 |
 | 116 | [[Negative Visualization]] | — | — | The Three-Pillar Architecture | 400 |
 | 117 | [[Memento Mori]] | — | — | The Three-Pillar Architecture | 401 |
 | 118 | [[Amor Fati]] | — | — | The Three-Pillar Architecture | 402 |
@@ -581,7 +581,7 @@ extraction_summary:
 | 122 | [[Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
 | 123 | [[Hippocampal]] | — | — | The Pythagorean Memory Technique | 461 |
 | 124 | [[Amygdalar]] | — | — | The Pythagorean Memory Technique | 462 |
-| 125 | [[Discipline of Assent]] | — | — | The Discipline of Assent | 464 |
+| 125 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | The Discipline of Assent | 464 |
 | 126 | [[Implementation Intention]] | implementation intentions | — | Structural Design Principles for Effe... | 531 |
 | 127 | [[Rumination]] | maladaptive rumination | — | Common Implementation Challenges and ... | 572 |
 
@@ -653,17 +653,17 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Ancient Philosophy]]
 - [[Anxiety]]
 - [[Apatheia]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Ataraxia]]
 - [[Character Cultivation]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Cognitive Distortion]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Narrowing]]
 - [[Cognitive Neuroscience]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Resources]]
 - [[Cognitive Responses]]
 - [[Constructivism]]
@@ -671,20 +671,20 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Courage]]
 - [[Defensive Avoidance]]
 - [[Depression]]
-- [[Dichotomy of Control]]
-- [[Discipline of Assent]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Emotional Dysregulation]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Episodic Memory]]
+- [[Episodic-Memory|Episodic Memory]]
 - [[Eudaimonia]]
 - [[Executive Function]]
 - [[External Achievement]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hippocampal]]
 - [[Implementation Friction]]
 - [[Implementation Intention]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Impressions]]
 - [[Judgments]]
 - [[Justice]]
@@ -705,15 +705,15 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Practical Philosophy]]
 - [[Pragmatism]]
 - [[Prefrontal Cortex]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Progress Principle]]
 - [[Prohairesis]]
 - [[Prosoche]]
 - [[Resilience]]
 - [[Rumination]]
 - [[Self-Compassion]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Seneca the Younger]]
@@ -725,7 +725,7 @@ How do I take this philosophy, and apply it to my current reality, to initiate s
 - [[Virtue]]
 - [[Virtue Ethics]]
 - [[Wisdom]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Worry]]
 - [[practical-philosophy-moc]]
 

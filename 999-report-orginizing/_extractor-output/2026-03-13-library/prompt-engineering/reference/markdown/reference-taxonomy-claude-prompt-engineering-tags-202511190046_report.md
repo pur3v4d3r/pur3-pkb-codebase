@@ -388,7 +388,7 @@ extraction_summary:
 - [[Basic Prompt Anatomy]]
 - [[Building Prompt Libraries]]
 - [[Chain-of-Thought Deep Dive]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude Model Family]]
 - [[Code Generation Template]]
 - [[Code Review System]]
@@ -449,7 +449,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Zero-Shot Prompting]] | — | — | Fundamental Techniques | 964 |
 | 2 | [[Few-Shot Learning]] | — | — | Fundamental Techniques | 965 |
-| 3 | [[Chain-of-Thought Prompting]] | — | — | Fundamental Techniques | 966 |
+| 3 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Fundamental Techniques | 966 |
 | 4 | [[Role-Based Prompting]] | — | — | Fundamental Techniques | 967 |
 | 5 | [[ReAct Framework]] | — | — | Reasoning & Agent Systems | 978 |
 | 6 | [[Tree of Thoughts]] | — | — | Reasoning & Agent Systems | 979 |
@@ -1331,7 +1331,7 @@ aliases:
 ### Fundamental Techniques
 - [[Zero-Shot Prompting]]
 - [[Few-Shot Learning]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Role-Based Prompting]]
 
 ### Advanced Techniques
@@ -1779,7 +1779,7 @@ I need to create:
 - [[Basic Prompt Anatomy]]
 - [[Building Prompt Libraries]]
 - [[Chain-of-Thought Deep Dive]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Claude Model Family]]
 - [[Code Generation Template]]
 - [[Code Review System]]

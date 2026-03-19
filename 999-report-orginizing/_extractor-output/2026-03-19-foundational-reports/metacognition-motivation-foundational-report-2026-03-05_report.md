@@ -171,7 +171,7 @@ extraction_summary:
 #### 6. [DEFINITION] Extrinsic Motivation (Deci & Ryan, 1985) *(Line 281)*
 
 > [!definition] Extrinsic Motivation (Deci & Ryan, 1985)
-> Engagement with an activity as a means to a separable outcome — reward, praise, grade, the avoidance of punishment or shame. Critically, [[Self-Determination Theory]] does not treat extrinsic motivation as monolithic. It posits a continuum of *internalization*: from pure external regulation (behavior controlled entirely by external forces) through introjection (behavior driven by internal pressures like shame or pride) to identification (behavior driven by personally endorsed values) and finally to integration (behavior fully assimilated with the self's values). The more internalized the extrinsic motive, the more autonomous (and motivationally healthy) the behavior.
+> Engagement with an activity as a means to a separable outcome — reward, praise, grade, the avoidance of punishment or shame. Critically, [[Self-Determination-Theory|Self-Determination Theory]] does not treat extrinsic motivation as monolithic. It posits a continuum of *internalization*: from pure external regulation (behavior controlled entirely by external forces) through introjection (behavior driven by internal pressures like shame or pride) to identification (behavior driven by personally endorsed values) and finally to integration (behavior fully assimilated with the self's values). The more internalized the extrinsic motive, the more autonomous (and motivationally healthy) the behavior.
 
 #### 7. [DEFINITION] Self-Efficacy (Bandura, 1977, 1997) *(Line 284)*
 
@@ -291,15 +291,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — SRL is the structural envelope within which metacognition and motivation interact most systematically. This report provides the motivational and metacognitive mechanisms that explain *why* the SRL cycle functions as it does; SRL provides the temporal and procedural structure for applying those mechanisms in practice.
 > 
-> - **[[Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT is the primary motivational framework deployed in this report. A dedicated SDT note would provide deeper treatment of mini-theories (Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory) and their empirical bases, which this report summarizes but does not fully develop.
 > 
 > - **[[Growth Mindset Theory]]** — The Dweck framework connects to this report at the intersection of implicit beliefs, attribution style, and metacognitive willingness. A dedicated growth mindset report would examine the replication literature more thoroughly and provide more nuanced guidance on when and how mindset interventions are likely to be effective.
 > 
-> - **[[Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — CLT provides a complementary lens on the cognitive-resource dimension of metacognitive regulation, explaining when monitoring itself becomes burdensome and how instructional design can reduce extraneous load to free cognitive resources for metacognitive processing.
 > 
-> - **[[Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
+> - **[[Attribution-Theory|Attribution Theory]]** — Weiner's attributional framework underlies the critical mechanism connecting metacognitive feedback to motivational consequences. The dimension of controllability vs. uncontrollability is particularly relevant to the vicious/virtuous cycle dynamics analyzed in Phase IV.
 > 
 > - **[[Extended Thinking Architecture]]** — From a PKB perspective, extended thinking in LLM contexts is itself a form of metacognitive scaffolding — explicitly structuring second-order cognitive monitoring during generation. The principles developed here about when and why metacognitive monitoring is effortfully deployed connect directly to the architectural choices in extended thinking system prompts.
 > 
@@ -447,36 +447,36 @@ extraction_summary:
 ### Unique Targets
 
 - [[Ann Brown]]
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory and Learning Resilience]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Carol Dweck]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Motivational Model]]
 - [[Designing Autonomy-Supportive Learning Environments]]
-- [[Dunning-Kruger Effect]]
-- [[Ease of Learning]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Edward Deci]]
 - [[Efklides]]
 - [[Extended Thinking Architecture]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Flow Theory and Optimal Learning Experiences]]
 - [[Goal Orientation Theory in Educational Contexts]]
 - [[Growth Mindset Theory]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John Borkowski]]
 - [[John Flavell]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning|Judgment of Learning]]
 - [[Metacognition]]
 - [[Metacognitive Experiences]]
 - [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Paul Pintrich]]
 - [[Pintrich]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory and Academic Achievement]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Zimmerman]]
 
 ### All Occurrences
@@ -485,38 +485,38 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | Phase I: Orientation & Context Setting | 238 |
 | 2 | [[Metacognition]] | — | — | Why This Intersection Matters | 245 |
-| 3 | [[Intrinsic Motivation]] | — | — | Why This Intersection Matters | 245 |
-| 4 | [[Self-Determination Theory]] | — | — | Why This Intersection Matters | 247 |
-| 5 | [[Self-Regulated Learning]] | — | — | Why This Intersection Matters | 247 |
+| 3 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Why This Intersection Matters | 245 |
+| 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Why This Intersection Matters | 247 |
+| 5 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Why This Intersection Matters | 247 |
 | 6 | [[Cognitive-Motivational Model]] | — | — | Why This Intersection Matters | 247 |
 | 7 | [[Growth Mindset Theory]] | — | — | Why This Intersection Matters | 247 |
 | 8 | [[John Flavell]] | — | — | Defining Metacognition: Beyond "Think... | 259 |
 | 9 | [[Ann Brown]] | — | — | Defining Metacognition: Beyond "Think... | 267 |
 | 10 | [[Metacognitive Experiences]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
-| 11 | [[Feeling of Knowing]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
-| 12 | [[Ease of Learning]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
-| 13 | [[Judgment of Learning]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
+| 11 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
+| 12 | [[Ease-of-Learning-—-EOL|Ease of Learning]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
+| 13 | [[Judgment-of-Learning|Judgment of Learning]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
 | 14 | [[Efklides]] | — | — | Defining Metacognition: Beyond "Think... | 269 |
-| 15 | [[Self-Determination Theory]] | — | — | Defining Motivation: Structure, Orien... | 276 |
-| 16 | [[Self-Determination Theory]] | — | — | Defining Motivation: Structure, Orien... | 282 |
-| 17 | [[Self-Determination Theory]] | — | — | Self-Determination Theory: The Motiva... | 307 |
+| 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Defining Motivation: Structure, Orien... | 276 |
+| 16 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Defining Motivation: Structure, Orien... | 282 |
+| 17 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: The Motiva... | 307 |
 | 18 | [[Edward Deci]] | — | — | Self-Determination Theory: The Motiva... | 307 |
 | 19 | [[Richard Ryan]] | — | — | Self-Determination Theory: The Motiva... | 307 |
-| 20 | [[Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Structur... | 318 |
-| 21 | [[Barry Zimmerman]] | — | — | Self-Regulated Learning: The Structur... | 318 |
+| 20 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Structur... | 318 |
+| 21 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Self-Regulated Learning: The Structur... | 318 |
 | 22 | [[Paul Pintrich]] | — | — | Self-Regulated Learning: The Structur... | 323 |
 | 23 | [[John Borkowski]] | — | — | The Cognitive-Motivational Model | 327 |
 | 24 | [[Carol Dweck]] | — | — | Growth Mindset: Implicit Theories and... | 334 |
 | 25 | [[Growth Mindset Theory]] | — | — | Growth Mindset: Implicit Theories and... | 334 |
-| 26 | [[Dunning-Kruger Effect]] | — | — | How Metacognitive Processes Influence... | 354 |
-| 27 | [[Metacognitive Regulation]] | — | — | How Motivational Orientation Shapes M... | 370 |
+| 26 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | How Metacognitive Processes Influence... | 354 |
+| 27 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | How Motivational Orientation Shapes M... | 370 |
 | 28 | [[Pintrich]] | — | — | How Motivational Orientation Shapes M... | 375 |
 | 29 | [[Zimmerman]] | — | — | The Feedback Loop: A Dynamic Systems ... | 384 |
-| 30 | [[Self-Regulated Learning]] | — | — | The "So What?" — Capabilities This Kn... | 458 |
-| 31 | [[Self-Determination Theory]] | — | — | The "So What?" — Capabilities This Kn... | 460 |
+| 30 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The "So What?" — Capabilities This Kn... | 458 |
+| 31 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The "So What?" — Capabilities This Kn... | 460 |
 | 32 | [[Growth Mindset Theory]] | — | — | The "So What?" — Capabilities This Kn... | 462 |
-| 33 | [[Cognitive Load Theory]] | — | — | The "So What?" — Capabilities This Kn... | 464 |
-| 34 | [[Attribution Theory]] | — | — | The "So What?" — Capabilities This Kn... | 466 |
+| 33 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The "So What?" — Capabilities This Kn... | 464 |
+| 34 | [[Attribution-Theory|Attribution Theory]] | — | — | The "So What?" — Capabilities This Kn... | 466 |
 | 35 | [[Extended Thinking Architecture]] | — | — | The "So What?" — Capabilities This Kn... | 468 |
 | 36 | [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]] | — | — | D. Expansion Topics | 551 |
 | 37 | [[Designing Autonomy-Supportive Learning Environments]] | — | — | D. Expansion Topics | 554 |
@@ -535,36 +535,36 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Ann Brown]]
-- [[Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Attribution Theory and Learning Resilience]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Carol Dweck]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Motivational Model]]
 - [[Designing Autonomy-Supportive Learning Environments]]
-- [[Dunning-Kruger Effect]]
-- [[Ease of Learning]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ease-of-Learning-—-EOL|Ease of Learning]]
 - [[Edward Deci]]
 - [[Efklides]]
 - [[Extended Thinking Architecture]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Flow Theory and Optimal Learning Experiences]]
 - [[Goal Orientation Theory in Educational Contexts]]
 - [[Growth Mindset Theory]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[John Borkowski]]
 - [[John Flavell]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning|Judgment of Learning]]
 - [[Metacognition]]
 - [[Metacognitive Experiences]]
 - [[Metacognitive Feelings: Affect, Fluency, and Learning Judgments]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Paul Pintrich]]
 - [[Pintrich]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory and Academic Achievement]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Zimmerman]]
 
 ### Frontmatter Relationships
@@ -577,17 +577,17 @@ extraction_summary:
 
 #### Related
 
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Growth Mindset Theory]]
-- [[Self-Determination Theory]]
-- [[Cognitive Load Theory]]
-- [[Attribution Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
 - [[Goal Orientation Theory]]
 
 #### Broader
 
-- [[Educational Psychology]]
-- [[Cognitive Science]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Cognitive-Science|Cognitive Science]]
 
 #### Narrower
 
@@ -608,9 +608,9 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Coaching and Mentorship]]
-- [[Learning Experience Design]]
+- [[Learning-Experience-Design|Learning Experience Design]]
 
 #### Builds On
 

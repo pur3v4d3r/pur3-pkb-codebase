@@ -42,25 +42,25 @@ source: "claude-sonnet-4.5"
 model_version: "claude-sonnet-4-20250514"
 
 related_concepts:
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Metacognition]]"
   - "[[Executive Function]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Paul-Elder Framework]]"
   - "[[Bloom's Taxonomy]]"
-  - "[[Epistemology]]"
+  - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
   - "[[Information Literacy]]"
-  - "[[Knowledge Management]]"
+  - "[[Knowledge-Management|Knowledge Management]]"
   - "[[Learning Theory]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
   
 prerequisites:
   - "[[Cognitive Science Fundamentals]]"
   - "[[Basic Psychology]]"
   
 builds_on:
-  - "[[Philosophy of Mind]]"
+  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Educational Theory]]"
   
 part_of_series: "[[Critical Thinking Mastery Series]]"
@@ -123,7 +123,7 @@ The challenge of defining critical thinking stems from its inherent complexity a
 >
 > The philosophical tradition established critical thinking as fundamentally concerned with **justified belief** - not merely thinking *about* things, but thinking *well* about things according to standards of rationality. [[Socrates]]' method of elenchus (systematic questioning) demonstrates CT as the discipline of examining one's own reasoning for internal contradictions and hidden assumptions. This philosophical heritage contributes the normative framework: what distinguishes *critical* from merely *active* thinking is adherence to standards of good reasoning.
 
-From this philosophical foundation emerged the modern conception of CT as disciplined inquiry guided by explicit standards. The [[Socratic Method]] demonstrates three core principles still fundamental to contemporary CT: (1) **epistemic humility** - recognition that our current beliefs may be mistaken; (2) **systematic examination** - methodical analysis rather than casual observation; and (3) **logical rigor** - adherence to principles of valid inference. These principles establish CT not as value-neutral information processing, but as *normative* practice oriented toward truth and justified belief.
+From this philosophical foundation emerged the modern conception of CT as disciplined inquiry guided by explicit standards. The [[Socratic-Method|Socratic Method]] demonstrates three core principles still fundamental to contemporary CT: (1) **epistemic humility** - recognition that our current beliefs may be mistaken; (2) **systematic examination** - methodical analysis rather than casual observation; and (3) **logical rigor** - adherence to principles of valid inference. These principles establish CT not as value-neutral information processing, but as *normative* practice oriented toward truth and justified belief.
 
 The cognitive psychological perspective reframes this philosophical ideal as concrete cognitive operations instantiated in human information processing architecture:
 
@@ -210,7 +210,7 @@ The conceptual precision of critical thinking requires clear boundaries with rel
 
 [**CT-Intelligence-Distinction**:: While general intelligence (g-factor) represents domain-general cognitive capacity measured by processing speed, working memory capacity, and abstract reasoning ability, critical thinking adds normative dimension and disposition components - someone may possess high IQ yet consistently fail to think critically due to lack of truth-seeking motivation or failure to apply intellectual standards.]**
 
-[[Keith Stanovich]]'s research demonstrates this dissociation: rational thinking dispositions (actively open-minded thinking, need for cognition, resistance to cognitive biases) predict real-world decision quality better than IQ alone. Studies show intelligent individuals fall prey to [[Myside Bias]], [[Anchoring Effects]], and [[Confirmation Bias]] at rates comparable to lower-IQ individuals - intelligence enables sophisticated rationalization of biased thinking as easily as it enables sound reasoning.
+[[Keith Stanovich]]'s research demonstrates this dissociation: rational thinking dispositions (actively open-minded thinking, need for cognition, resistance to cognitive biases) predict real-world decision quality better than IQ alone. Studies show intelligent individuals fall prey to [[Myside-Bias|Myside Bias]], [[Anchoring Effects]], and [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] at rates comparable to lower-IQ individuals - intelligence enables sophisticated rationalization of biased thinking as easily as it enables sound reasoning.
 
 The key distinction: intelligence is capacity; critical thinking is disciplined application of capacity guided by epistemic values. High intelligence enables *more complex* thinking, not necessarily *better* thinking by CT standards.
 
@@ -231,7 +231,7 @@ Critical thinking requires all three, but emphasizes strategic knowledge - the m
 
 ### The Epistemological Dimension: CT as Justified Belief Formation
 
-The philosophical foundation of CT surfaces most clearly in its epistemological commitments. Critical thinking operationalizes core questions from [[Epistemology]] - the study of knowledge:
+The philosophical foundation of CT surfaces most clearly in its epistemological commitments. Critical thinking operationalizes core questions from [[Epistemic-Autonomy-—-Epistemology|Epistemology]] - the study of knowledge:
 
 > [!key-claim] Epistemic Foundation
 > **[CT-Epistemological-Grounding**:: Critical thinking translates abstract epistemological questions into concrete cognitive practices: "What can I know?" becomes "What evidence supports this claim?"; "How can I justify beliefs?" becomes "What reasoning validates this conclusion?"; "What distinguishes knowledge from opinion?" becomes "What standards separate justified from unjustified assertions?"]**
@@ -271,7 +271,7 @@ For critical thinking, working memory represents the critical bottleneck where r
 
 [**Working-Memory-CT-Constraint**:: Working memory's limited capacity (~4 information elements per [[Cowan]]) creates fundamental constraint on critical thinking complexity - multiple premises must be held simultaneously for logical evaluation, evidence integrated across sources, and alternative hypotheses compared, yet WM limits force tradeoffs between breadth and depth of analysis.]**
 
-[[Alan Baddeley]]'s multicomponent working memory model identifies three subsystems essential for CT:
+[[Alan-Baddeley|Alan Baddeley]]'s multicomponent working memory model identifies three subsystems essential for CT:
 
 > [!methodology-and-sources] Baddeley's Working Memory Components
 > **Phonological Loop**: Maintains verbal information through rehearsal (e.g., remembering argument premises while evaluating conclusion)
@@ -293,13 +293,13 @@ Evaluating this requires simultaneously:
 - Generating counterarguments
 - Maintaining metacognitive awareness of reasoning quality
 
-[[Cognitive Load Theory]] (Sweller) explains how this WM limitation impacts learning and reasoning. Three load types affect CT:
+[[Cognitive-Load-Theory|Cognitive Load Theory]] (Sweller) explains how this WM limitation impacts learning and reasoning. Three load types affect CT:
 
 [**Cognitive-Load-Types**:: (1) **Intrinsic load** - inherent complexity of material (high for multi-step arguments); (2) **Extraneous load** - imposed by poor presentation (poorly structured arguments increase load unnecessarily); (3) **Germane load** - productive effort building understanding (analyzing logical structure). Effective CT requires minimizing extraneous load and allocating WM resources to germane processing.]**
 
 This explains why CT benefits from:
 - **Externalization**: Writing premises explicitly reduces WM load
-- **Chunking**: Recognizing argument patterns (e.g., [[Modus Ponens]]) allows treating complex structures as single units
+- **Chunking**: Recognizing argument patterns (e.g., [[Modus-Ponens|Modus Ponens]]) allows treating complex structures as single units
 - **Automatization**: Practiced CT operations (spotting fallacies) require less WM capacity
 - **Expertise**: Domain knowledge provides schemas chunking information efficiently
 
@@ -313,7 +313,7 @@ This explains why CT benefits from:
 
 [**Inhibitory-Control-CT**:: The capacity to suppress prepotent (automatic, dominant) responses in favor of more appropriate alternatives - essential for CT because initial intuitions, emotional reactions, and confirmatory biases must be inhibited to engage in systematic analysis contradicting gut feelings or preferred conclusions.]**
 
-Research by [[Daniel Kahneman]] on [[Dual Process Theory]] demonstrates why inhibition matters. [[System 1]] thinking (fast, automatic, intuitive) generates rapid judgments based on heuristics and associations. [[System 2]] thinking (slow, deliberate, analytical) performs the effortful reasoning characteristic of CT. However, System 1 outputs enter consciousness first and feel subjectively compelling - creating strong tendency to stop thinking and accept initial intuition.
+Research by [[Daniel Kahneman]] on [[Dual-Process-Theory|Dual Process Theory]] demonstrates why inhibition matters. [[System-1|System 1]] thinking (fast, automatic, intuitive) generates rapid judgments based on heuristics and associations. [[System-2|System 2]] thinking (slow, deliberate, analytical) performs the effortful reasoning characteristic of CT. However, System 1 outputs enter consciousness first and feel subjectively compelling - creating strong tendency to stop thinking and accept initial intuition.
 
 > [!example] Inhibition in CT
 > The classic [[Bat-and-Ball Problem]]: "A bat and ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?"
@@ -336,7 +336,7 @@ Beyond maintaining information, executive function must dynamically update worki
 - Updating confidence estimates as evidence accumulates
 - Shifting to new hypotheses when current hypotheses prove inadequate
 
-[**Mental-Model-Revision**:: Updating requires flexibility to abandon entrenched mental models - explaining why CT demands intellectual humility and openness to evidence. [[Confirmation Bias]] represents failure of WM updating: tendency to seek information confirming existing beliefs while discounting contradicting evidence - essentially, resistance to updating mental models.]**
+[**Mental-Model-Revision**:: Updating requires flexibility to abandon entrenched mental models - explaining why CT demands intellectual humility and openness to evidence. [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] represents failure of WM updating: tendency to seek information confirming existing beliefs while discounting contradicting evidence - essentially, resistance to updating mental models.]**
 
 **3. Cognitive Flexibility (Set Shifting)**
 
@@ -369,7 +369,7 @@ Research on [[Wisconsin Card Sorting Task]] demonstrates individual differences 
 
 [**Epistemic-Cognition-CT**:: Specialized form of metacognition focused on knowledge evaluation - including calibration (aligning confidence with accuracy), source monitoring (tracking information origins), and uncertainty representation (distinguishing known, unknown, and unknowable). Critical thinking requires accurate epistemic cognition to avoid overconfidence, acknowledge knowledge gaps, and seek information appropriately.]**
 
-Research by [[Kruger and Dunning]] demonstrated metacognitive deficits have cascade effects: incompetent individuals lack metacognitive capacity to recognize their incompetence, leading to inflated self-assessments and resistance to feedback. The [[Dunning-Kruger Effect]] shows why CT education must develop metacognitive alongside analytical skills - without metacognition, students cannot recognize when they're thinking poorly.
+Research by [[Kruger and Dunning]] demonstrated metacognitive deficits have cascade effects: incompetent individuals lack metacognitive capacity to recognize their incompetence, leading to inflated self-assessments and resistance to feedback. The [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] shows why CT education must develop metacognitive alongside analytical skills - without metacognition, students cannot recognize when they're thinking poorly.
 
 ### Neural Substrates of Critical Thinking
 
@@ -652,7 +652,7 @@ Sub-skills include:
 - Identifying conclusions (what's being claimed?)
 - Identifying premises (what evidence/reasons support conclusion?)
 - Mapping argument structure (how do premises relate to conclusion?)
-- Recognizing argument patterns ([[Modus Ponens]], [[Modus Tollens]], analogical reasoning)
+- Recognizing argument patterns ([[Modus-Ponens|Modus Ponens]], [[Modus-Tollens|Modus Tollens]], analogical reasoning)
 - Detecting hidden assumptions (what unstated beliefs must be true for argument to work?)
 
 **2. Evaluating Information Reliability**
@@ -832,7 +832,7 @@ Research by [[Entwistle]] demonstrated students' learning approaches correlate w
 
 ### Knowledge Construction in Personal Knowledge Management
 
-[**CT-PKM-Integration**:: In [[Personal Knowledge Management]] systems, critical thinking transforms information encountered (articles, books, videos, conversations) into personal knowledge through systematic evaluation, synthesis, and connection-building. PKM without CT produces cluttered collections; PKM with CT produces organized, interconnected, actionable knowledge networks.]**
+[**CT-PKM-Integration**:: In [[Personal-Knowledge-Management|Personal Knowledge Management]] systems, critical thinking transforms information encountered (articles, books, videos, conversations) into personal knowledge through systematic evaluation, synthesis, and connection-building. PKM without CT produces cluttered collections; PKM with CT produces organized, interconnected, actionable knowledge networks.]**
 
 The PKM workflow embodies information-to-knowledge transformation:
 
@@ -869,7 +869,7 @@ The requirement to express ideas in one's own words forces deep processing - can
 
 ### Epistemic Cognition and Knowledge Quality
 
-[**Epistemic-Cognition-Knowledge**:: Critical thinking requires sophisticated [[Epistemic Cognition]] - beliefs about nature of knowledge and knowing. Individuals with naive epistemologies (knowledge is simple, certain, handed down by authorities) show poorer CT than those with sophisticated epistemologies (knowledge is complex, provisional, constructed through reasoning). Epistemic sophistication both enables and results from CT practice.]**
+[**Epistemic-Cognition-Knowledge**:: Critical thinking requires sophisticated [[Epistemic-Cognition|Epistemic Cognition]] - beliefs about nature of knowledge and knowing. Individuals with naive epistemologies (knowledge is simple, certain, handed down by authorities) show poorer CT than those with sophisticated epistemologies (knowledge is complex, provisional, constructed through reasoning). Epistemic sophistication both enables and results from CT practice.]**
 
 Research by [[Kuhn and Weinstock]] identified four epistemic levels affecting CT:
 
@@ -1091,9 +1091,9 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Connection**: This report establishes theoretical foundations and frameworks; pedagogical note would examine how CT develops across lifespan and effective instructional approaches for fostering CT at different educational levels.
 
-**Depth Potential**: Would cover developmental progression (childhood through adulthood), instructional models ([[Socratic Method]], [[Problem-Based Learning]], [[Argument-Based Inquiry]]), assessment approaches, curriculum design principles, evidence-based teaching strategies, and common pedagogical pitfalls.
+**Depth Potential**: Would cover developmental progression (childhood through adulthood), instructional models ([[Socratic-Method|Socratic Method]], [[Problem-Based Learning]], [[Argument-Based Inquiry]]), assessment approaches, curriculum design principles, evidence-based teaching strategies, and common pedagogical pitfalls.
 
-**Knowledge Graph Role**: Bridges theoretical foundations (current note) with practical implementation in educational settings - connects to [[Instructional Design]], [[Cognitive Development]], [[Assessment Design]].
+**Knowledge Graph Role**: Bridges theoretical foundations (current note) with practical implementation in educational settings - connects to [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]], [[Cognitive Development]], [[Assessment-Design|Assessment Design]].
 
 **Priority**: **High** - Essential for practitioners implementing CT education; natural extension from theoretical understanding to practical application.
 
@@ -1103,9 +1103,9 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Connection**: This report identifies CT as involving inhibition of automatic biases; comprehensive treatment of specific biases, their cognitive mechanisms, debiasing strategies, and relationship to CT failures would provide crucial practical knowledge.
 
-**Depth Potential**: Would systematically catalog major biases ([[Confirmation Bias]], [[Anchoring]], [[Availability Heuristic]], [[Dunning-Kruger]], [[Myside Bias]]), explain underlying cognitive mechanisms, demonstrate real-world impacts, and detail debiasing interventions - bridging cognitive psychology with practical CT improvement.
+**Depth Potential**: Would systematically catalog major biases ([[Confirmation-Bias-Myside-Bias|Confirmation Bias]], [[Anchoring]], [[Availability-Heuristic|Availability Heuristic]], [[Dunning-Kruger]], [[Myside-Bias|Myside Bias]]), explain underlying cognitive mechanisms, demonstrate real-world impacts, and detail debiasing interventions - bridging cognitive psychology with practical CT improvement.
 
-**Knowledge Graph Role**: Connects CT theory to [[Judgment and Decision Making]], [[Behavioral Economics]], [[Cognitive Psychology]]; provides concrete targets for CT practice.
+**Knowledge Graph Role**: Connects CT theory to [[Judgment and Decision Making]], [[Behavioral Economics]], [[Cognitive-Psychology|Cognitive Psychology]]; provides concrete targets for CT practice.
 
 **Priority**: **High** - Biases represent primary obstacles to effective CT; understanding bias-CT relationship crucial for developing better thinking.
 
@@ -1115,9 +1115,9 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Connection**: This report identifies argument analysis as core CT competency; detailed treatment would provide comprehensive fallacy taxonomy, argument mapping techniques, and systematic analysis procedures.
 
-**Depth Potential**: Would cover formal logic basics, informal fallacies catalog with examples, argument mapping techniques ([[Toulmin Model]], [[Walton's Argumentation Schemes]]), evidence evaluation frameworks, and computational argument analysis tools.
+**Depth Potential**: Would cover formal logic basics, informal fallacies catalog with examples, argument mapping techniques ([[Toulmin-Model|Toulmin Model]], [[Walton's Argumentation Schemes]]), evidence evaluation frameworks, and computational argument analysis tools.
 
-**Knowledge Graph Role**: Bridges CT foundations with [[Logic]], [[Rhetoric]], [[Argumentation Theory]]; provides practical toolkit for CT application.
+**Knowledge Graph Role**: Bridges CT foundations with [[Logic]], [[Rhetoric]], [[Argumentation-Theory|Argumentation Theory]]; provides practical toolkit for CT application.
 
 **Priority**: **High** - Argument analysis represents most concrete CT skill; comprehensive fallacy knowledge essential for CT practice.
 
@@ -1127,9 +1127,9 @@ Managerial CT often occurs under constraints (time pressure, incomplete informat
 
 **Connection**: This report identifies metacognition as distinguishing feature of expert CT; dedicated treatment would examine metacognitive processes, development, training, and relationship to learning effectiveness.
 
-**Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
+**Depth Potential**: Would cover metacognitive monitoring and control, calibration research, metacognitive instruction strategies, [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] models, epistemic cognition development, and assessment of metacognitive skills.
 
-**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[Cognitive Development]], [[Educational Psychology]].
+**Knowledge Graph Role**: Extends CT cognitive architecture focus to specialized treatment of metacognition; connects to [[Learning Strategies]], [[Cognitive Development]], [[Educational-Psychology|Educational Psychology]].
 
 **Priority**: **High** - Metacognition central to CT excellence; understanding metacognitive mechanisms crucial for CT development.
 

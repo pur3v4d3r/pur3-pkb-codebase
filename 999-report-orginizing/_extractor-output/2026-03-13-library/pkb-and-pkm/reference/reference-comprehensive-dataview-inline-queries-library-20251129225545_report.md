@@ -262,7 +262,7 @@ extraction_summary:
 
 > [!abstract] Untitled
 > **Executive Overview**
-> This note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
+> This note is an exhaustive taxonomy of [[Dataview-Plugin|Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
 
 #### 10. [HOW-TO-USE-THIS] Untitled *(Line 299)*
 
@@ -328,7 +328,7 @@ extraction_summary:
 #### 21. [EXAMPLE] Untitled *(Line 468)*
 
 > [!example] Untitled
-> **Use Case**: [[MOC]] (Maps of Content) health monitoring. High outlink counts suggest hub notes, while low backlink counts identify orphaned concepts needing integration.
+> **Use Case**: [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) health monitoring. High outlink counts suggest hub notes, while low backlink counts identify orphaned concepts needing integration.
 
 #### 22. [HELPFUL-TIP] Untitled *(Line 494)*
 
@@ -455,7 +455,7 @@ extraction_summary:
 > [!the-philosophy] Untitled
 > **The Philosophy of Inline Queries**
 > 
-> Inline queries transform your [[Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
+> Inline queries transform your [[Personal-Knowledge-Base|Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed-Cognition|Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
 
 #### 47. [ANALOGY] Untitled *(Line 976)*
 
@@ -498,9 +498,9 @@ extraction_summary:
 - [[Dataview Functions]]
 - [[Dataview Functions Reference]]
 - [[Dataview Inline Query Taxonomy]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language (DQL) Block Queries]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Essay Part 1]]
 - [[Essay Part 2]]
 - [[File Properties]]
@@ -511,7 +511,7 @@ extraction_summary:
 - [[Inline Queries]]
 - [[Knowledge Graph]]
 - [[Linked Note]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meeting Note]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKBs]]
@@ -520,7 +520,7 @@ extraction_summary:
 - [[Note Templates]]
 - [[Obsidian]]
 - [[Parent Note]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project]]
 - [[Project A]]
 - [[Project Alpha]]
@@ -543,24 +543,24 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dataview Inline Query Taxonomy]] | — | — | Dataview Inline Query Taxonomy | 41 |
-| 2 | [[Dataview Plugin]] | — | — | Claude Thinking: | 254 |
+| 2 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking: | 254 |
 | 3 | [[Obsidian]] | — | — | Claude Thinking: | 255 |
 | 4 | [[Inline Queries]] | — | — | Claude Thinking: | 256 |
 | 5 | [[Dataview Expressions]] | — | — | Claude Thinking: | 257 |
 | 6 | [[Metadata]] | — | — | Claude Thinking: | 258 |
 | 7 | [[Frontmatter]] | — | — | Claude Thinking: | 259 |
 | 8 | [[Zettelkasten]] | — | — | Claude Thinking: | 260 |
-| 9 | [[Personal Knowledge Base]] | — | — | Claude Thinking: | 261 |
+| 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Claude Thinking: | 261 |
 | 10 | [[Templater Plugin]] | — | — | Claude Thinking: | 262 |
 | 11 | [[File Properties]] | — | — | Claude Thinking: | 263 |
 | 12 | [[Wiki-Links]] | — | — | Claude Thinking: | 264 |
 | 13 | [[Backlinks]] | — | — | Claude Thinking: | 265 |
 | 14 | [[Knowledge Graph]] | — | — | Claude Thinking: | 266 |
 | 15 | [[Note Templates]] | — | — | Claude Thinking: | 267 |
-| 16 | [[MOC]] | — | — | Claude Thinking: | 268 |
+| 16 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Claude Thinking: | 268 |
 | 17 | [[Temporal Analysis]] | — | — | Claude Thinking: | 269 |
 | 18 | [[Folder Structure]] | — | — | Claude Thinking: | 270 |
-| 19 | [[Dataview Plugin]] | — | — | Claude Thinking: | 297 |
+| 19 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking: | 297 |
 | 20 | [[Obsidian]] | — | — | Claude Thinking: | 297 |
 | 21 | [[Note Templates]] | — | — | Claude Thinking: | 297 |
 | 22 | [[Wiki-Links]] | — | — | Claude Thinking: | 301 |
@@ -573,7 +573,7 @@ extraction_summary:
 | 29 | [[Dashboard Design]] | — | — | 📆 Relative Date Expressions | 370 |
 | 30 | [[Knowledge Graph]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
 | 31 | [[Backlinks]] | — | — | 3. 🔗 Link & Relationship Queries | 457 |
-| 32 | [[MOC]] | — | — | 🔗 Link Counting | 469 |
+| 32 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Link Counting | 469 |
 | 33 | [[Zettelkasten]] | — | — | 🔍 Specific Link Access | 495 |
 | 34 | [[YAML Frontmatter]] | — | — | ✅ Field Existence Checks | 520 |
 | 35 | [[Inline Fields]] | — | — | ✅ Field Existence Checks | 520 |
@@ -607,12 +607,12 @@ extraction_summary:
 | 63 | [[Categories/]] | — | — | 🌉 Relational Lookups | 749 |
 | 64 | [[Dataview Functions]] | — | — | 10. ✍️ Text Manipulation & Formatting | 799 |
 | 65 | [[Dataview Functions]] | — | — | 11. 📈 Aggregation & Collection Queries | 850 |
-| 66 | [[Personal Knowledge Base]] | — | — | 🎯 Synthesis & Mastery | 955 |
-| 67 | [[Distributed Cognition]] | — | — | 🎯 Synthesis & Mastery | 955 |
+| 66 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 Synthesis & Mastery | 955 |
+| 67 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 🎯 Synthesis & Mastery | 955 |
 | 68 | [[Note]] | — | — | 🧠 Cognitive Models | 963 |
 | 69 | [[Templater Plugin]] | — | — | 🔄 Best Practices Framework | 988 |
 | 70 | [[YAML Frontmatter]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 995 |
-| 71 | [[MOC]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 997 |
+| 71 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🛠️ Common Patterns & Anti-Patterns | 997 |
 | 72 | [[Dataview Functions Reference]] | — | — | 🔗 Related Topics for PKB Expansion | 1033 |
 | 73 | [[Dataview Query Language (DQL) Block Queries]] | — | — | 🔗 Related Topics for PKB Expansion | 1038 |
 | 74 | [[Template-Driven Note Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1043 |
@@ -1251,9 +1251,9 @@ LIMIT 15
 - [[Dataview Functions]]
 - [[Dataview Functions Reference]]
 - [[Dataview Inline Query Taxonomy]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language (DQL) Block Queries]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Essay Part 1]]
 - [[Essay Part 2]]
 - [[File Properties]]
@@ -1264,7 +1264,7 @@ LIMIT 15
 - [[Inline Queries]]
 - [[Knowledge Graph]]
 - [[Linked Note]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meeting Note]]
 - [[Metadata]]
 - [[Metadata Schema Design for PKBs]]
@@ -1273,7 +1273,7 @@ LIMIT 15
 - [[Note Templates]]
 - [[Obsidian]]
 - [[Parent Note]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project]]
 - [[Project A]]
 - [[Project Alpha]]

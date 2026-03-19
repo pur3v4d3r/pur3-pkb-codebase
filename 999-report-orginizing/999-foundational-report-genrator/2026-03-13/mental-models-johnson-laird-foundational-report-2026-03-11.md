@@ -129,23 +129,23 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Reasoning Types in Education]]"
-  - "[[Deductive Reasoning]]"
-  - "[[Schema Theory]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
+  - "[[Schema-Theory|Schema Theory]]"
 
 related:
-  - "[[Analogical Reasoning]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
   - "[[Causal Reasoning]]"
   - "[[Counterfactual Reasoning]]"
   - "[[Situation Models]]"
   - "[[Text Comprehension]]"
   - "[[Spatial Cognition]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Dual Process Theory]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
   - "[[Knowledge Representation]]"
 
 narrower:
@@ -157,44 +157,44 @@ narrower:
 see-also:
   - "[[Metacognition & Lifelong Learning]]"
   - "[[Critical Thinking in Education]]"
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
   - "[[Fallibilism]]"
 
 contrasts-with:
   - "[[Mental Logic Theory]]"
-  - "[[Propositional Representation]]"
+  - "[[Propositional-Representation|Propositional Representation]]"
   - "[[Formal Rule Theories of Reasoning]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Science Education]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Multimedia Learning]]"
-  - "[[Conceptual Change Theory]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Schema Theory]]"
-  - "[[Deductive Reasoning]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Architecture]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Architecture|Cognitive Architecture]]"
 
 enables:
-  - "[[Conceptual Change Theory]]"
-  - "[[Analogical Reasoning]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
   - "[[Multimedia Learning]]"
   - "[[Situation Models in Text Comprehension]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Systems Thinking]]"
 
 expansion-topics:
   - topic: "[[Situation Models in Text Comprehension]]"
     description: "Deep treatment of Kintsch's Construction-Integration model and Zwaan's Event Indexing Model; how readers construct and update multidimensional situation models tracking space, time, causality, and protagonist goals"
     priority: "high"
-  - topic: "[[Conceptual Change Theory]]"
+  - topic: "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
     description: "Vosniadou's framework-theory approach and the role of mental models in naive scientific understanding; mechanisms by which instruction triggers model revision"
     priority: "high"
   - topic: "[[Multimedia Learning]]"
@@ -206,10 +206,10 @@ expansion-topics:
   - topic: "[[Spatial Mental Models]]"
     description: "Hegarty and Tversky's work on spatial reasoning and diagrammatic inference; how mental models support navigation, mechanical reasoning, and the integration of spatial information from text"
     priority: "medium"
-  - topic: "[[Analogical Reasoning]]"
+  - topic: "[[Analogical-Reasoning|Analogical Reasoning]]"
     description: "Gentner's structure-mapping theory and its convergence with mental models; how analogical mapping creates new models from familiar source domains"
     priority: "medium"
-  - topic: "[[Mental Simulation]]"
+  - topic: "[[Mental-Simulation|Mental Simulation]]"
     description: "The relationship between mental models and embodied simulation; Barsalou's perceptual symbol systems as a mechanistic account of how models are run"
     priority: "medium"
 
@@ -286,9 +286,9 @@ This is also logically valid — yet a substantial proportion of reasoners will 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to articulate what you currently believe about how people reason. When you evaluate whether an argument is valid, what do you think is happening cognitively? Do you apply rules? Do you "see" something? Do you run through possible scenarios? Note your starting assumptions — the theory ahead may confirm, refine, or significantly revise them.
 
-**Scope of This Report.** This report provides a comprehensive foundational treatment of [[Mental Models Theory]] (hereafter MMT) as developed by [[Johnson-Laird]] and collaborators, together with its major extensions and applications in educational science. Phase II establishes the conceptual foundations and historical genealogy. Phase III maps the theoretical landscape, including debates with competing frameworks. Phase IV reveals the operational mechanisms through which model-based reasoning functions. Phase V surveys applications in instruction, science education, and literacy, alongside an honest accounting of limitations. Phase VI synthesises the whole and positions MMT within the broader [[PKB]] knowledge graph. This report does not attempt comprehensive coverage of every derivative application; deeper treatments of [[Situation Models in Text Comprehension]], [[Conceptual Change Theory]], and [[Multimedia Learning]] are flagged as high-priority expansion topics.
+**Scope of This Report.** This report provides a comprehensive foundational treatment of [[Mental Models Theory]] (hereafter MMT) as developed by [[Johnson-Laird]] and collaborators, together with its major extensions and applications in educational science. Phase II establishes the conceptual foundations and historical genealogy. Phase III maps the theoretical landscape, including debates with competing frameworks. Phase IV reveals the operational mechanisms through which model-based reasoning functions. Phase V surveys applications in instruction, science education, and literacy, alongside an honest accounting of limitations. Phase VI synthesises the whole and positions MMT within the broader [[PKB]] knowledge graph. This report does not attempt comprehensive coverage of every derivative application; deeper treatments of [[Situation Models in Text Comprehension]], [[Conceptual-Change-Theory|Conceptual Change Theory]], and [[Multimedia Learning]] are flagged as high-priority expansion topics.
 
-**Why This Topic Matters.** The stakes of understanding mental representation extend far beyond theoretical curiosity. If learners construct mental models when they read, listen to explanations, or solve problems, then the quality of those models — their accuracy, completeness, and flexibility — determines the quality of the learning. An instructor who understands what mental models are, how they are built, and under what conditions they remain shallow, erroneous, or rigid is equipped to design instruction that actually transforms understanding rather than merely transmitting information. [[Schema Theory]] told us that prior knowledge structures interpretation; MMT tells us how reasoning and understanding unfold dynamically within those structures.
+**Why This Topic Matters.** The stakes of understanding mental representation extend far beyond theoretical curiosity. If learners construct mental models when they read, listen to explanations, or solve problems, then the quality of those models — their accuracy, completeness, and flexibility — determines the quality of the learning. An instructor who understands what mental models are, how they are built, and under what conditions they remain shallow, erroneous, or rigid is equipped to design instruction that actually transforms understanding rather than merely transmitting information. [[Schema-Theory|Schema Theory]] told us that prior knowledge structures interpretation; MMT tells us how reasoning and understanding unfold dynamically within those structures.
 
 ---
 
@@ -296,7 +296,7 @@ This is also logically valid — yet a substantial proportion of reasoners will 
 
 ### The Central Claim and Its Intellectual Genealogy
 
-The word "model" in everyday usage refers to a reduced but structurally faithful representation of something larger — a scale model of an aircraft captures spatial relationships without reproducing every material property. [[Johnson-Laird]]'s appropriation of the term for cognitive science carries precisely this analogical implication: a [[Mental Models|mental model]] is an internal representation that preserves relevant structural relationships of the situation it represents, and that can be mentally inspected and manipulated to yield inferences without any need for formal derivation.
+The word "model" in everyday usage refers to a reduced but structurally faithful representation of something larger — a scale model of an aircraft captures spatial relationships without reproducing every material property. [[Johnson-Laird]]'s appropriation of the term for cognitive science carries precisely this analogical implication: a [[Mental-Model|mental model]] is an internal representation that preserves relevant structural relationships of the situation it represents, and that can be mentally inspected and manipulated to yield inferences without any need for formal derivation.
 
 > [!definition] **Mental Model (Johnson-Laird, 1983)**
 > An internal cognitive representation that is analogically structured to the state of affairs it represents. Unlike a propositional representation (which encodes meaning in language-like predicate-argument format) or a mental image (which encodes perceptual surface features), a mental model preserves the *relational structure* of a situation — the arrangement of entities and the relations holding among them. Mental models are the primary medium of human reasoning, comprehension, and imagination. They are NOT digital symbol strings following syntactic rules; they are more akin to working diagrams or physical simulations run in the mind.
@@ -318,7 +318,7 @@ A critical move in Johnson-Laird's framework is the tripartite distinction among
 > [!definition] **Mental Model (as representational format)**
 > An analogical representation that encodes relational structure without necessarily encoding perceptual surface features. A mental model of "The fork is to the left of the spoon" encodes the left-of relation between two entities — it can be inspected like a diagram rather than parsed like a sentence — yet it may carry no specific image-like qualities of what the fork or spoon look like. Models are *abstract* enough to capture relational content across superficially different situations, but *analogical* enough to support direct inspection and manipulation.
 
-The key diagnostic distinction is this: [[Propositional Representation|propositional representations]] must be processed through inference rules to yield conclusions; [[Mental Models|mental models]] can be inspected directly. When you verify "Is there a circle to the left of a square?" you do not apply rules — you look at your model and check. This inspectability is what gives mental models their computational power and their characteristic vulnerability: models can be incomplete (failing to represent what is false, a point developed below), and when problems require multiple models to be held simultaneously, working memory constraints produce predictable errors.
+The key diagnostic distinction is this: [[Propositional Representation|propositional representations]] must be processed through inference rules to yield conclusions; [[Mental-Models|mental models]] can be inspected directly. When you verify "Is there a circle to the left of a square?" you do not apply rules — you look at your model and check. This inspectability is what gives mental models their computational power and their characteristic vulnerability: models can be incomplete (failing to represent what is false, a point developed below), and when problems require multiple models to be held simultaneously, working memory constraints produce predictable errors.
 
 ### The Principle of Truth
 
@@ -350,14 +350,14 @@ The empirical battleground is instructive. Johnson-Laird's research programme do
 
 ### Dual-Process Connections and Complications
 
-[[Dual Process Theory]] (System 1 / System 2; [[Daniel Kahneman]]; [[Keith Stanovich]] and [[Richard West]]) creates an interesting point of contact and tension with MMT. In the dual-process framework, fast, heuristic System 1 processes can produce responses that conflict with slower, deliberative System 2 reasoning. [[Jonathan Evans]] proposed a "heuristic-analytic" version in which people first rapidly identify relevant information via heuristics and then apply analytic processes — which, Evans argued, are best characterised as model-based.
+[[Dual-Process-Theory|Dual Process Theory]] (System 1 / System 2; [[Daniel Kahneman]]; [[Keith Stanovich]] and [[Richard West]]) creates an interesting point of contact and tension with MMT. In the dual-process framework, fast, heuristic System 1 processes can produce responses that conflict with slower, deliberative System 2 reasoning. [[Jonathan Evans]] proposed a "heuristic-analytic" version in which people first rapidly identify relevant information via heuristics and then apply analytic processes — which, Evans argued, are best characterised as model-based.
 
 > [!insight] **Mental Models as a Type 2 Process — With Complications**
-> If mental model construction is the mechanism underlying careful, reflective reasoning, one might expect it to be a paradigmatic System 2 / Type 2 process: slow, effortful, demanding attentional resources. This is broadly consistent with the evidence: model-building tasks consume working memory, and performance degrades under cognitive load. However, the relationship is not simple. Highly practised reasoners may build models rapidly and with little apparent effort. Moreover, the initial model construction — the first model of a situation — may be relatively automatic, while the *revision* and *counterexample search* steps are clearly effortful. This suggests that model-based reasoning spans the System 1/System 2 boundary in ways that complicate simple categorisation. See [[Dual Process Theory]] for a fuller treatment of these complications.
+> If mental model construction is the mechanism underlying careful, reflective reasoning, one might expect it to be a paradigmatic System 2 / Type 2 process: slow, effortful, demanding attentional resources. This is broadly consistent with the evidence: model-building tasks consume working memory, and performance degrades under cognitive load. However, the relationship is not simple. Highly practised reasoners may build models rapidly and with little apparent effort. Moreover, the initial model construction — the first model of a situation — may be relatively automatic, while the *revision* and *counterexample search* steps are clearly effortful. This suggests that model-based reasoning spans the System 1/System 2 boundary in ways that complicate simple categorisation. See [[Dual-Process-Theory|Dual Process Theory]] for a fuller treatment of these complications.
 
 ### Situation Models and the Discourse Extension
 
-The most influential extension of MMT beyond syllogistic reasoning came from the domain of text comprehension. [[Walter Kintsch]]'s Construction-Integration model (1988) proposed that text comprehension produces multiple levels of representation: a verbatim surface representation, a propositional text-base encoding the explicit content, and a [[Situation Models|situation model]] representing the state of affairs described. The situation model is, in effect, a mental model of the described world — and it is the situation model, not the text-base, that supports inference, problem-solving, and memory over longer time spans.
+The most influential extension of MMT beyond syllogistic reasoning came from the domain of text comprehension. [[Walter Kintsch]]'s Construction-Integration model (1988) proposed that text comprehension produces multiple levels of representation: a verbatim surface representation, a propositional text-base encoding the explicit content, and a [[Situation-Model|situation model]] representing the state of affairs described. The situation model is, in effect, a mental model of the described world — and it is the situation model, not the text-base, that supports inference, problem-solving, and memory over longer time spans.
 
 > [!definition] **Situation Model (Kintsch, 1988; van Dijk & Kintsch, 1983)**
 > A dynamic, multidimensional mental representation constructed by a reader or listener to represent the events, actions, persons, and states described in a discourse. Situation models encode information along at least five dimensions: temporal, spatial, causal, intentional (protagonist goals), and entity-tracking. They are updated continuously as new information arrives and can be used to simulate described scenarios. Situation models are distinguished from the *text-base* (the propositional representation of what the text literally says) by their reference to the world, not the text.
@@ -369,10 +369,10 @@ The most influential extension of MMT beyond syllogistic reasoning came from the
 
 ### Mental Models in Science Education
 
-A third major strand of MMT-influenced research concerns [[Conceptual Change Theory]] and how students understand complex physical systems. [[Stella Vosniadou]] proposed that children and novice learners hold "framework theories" — implicit, coherent belief systems about domains like physics, astronomy, and biology — and that within these frameworks they construct domain-specific mental models. When students are asked to explain, for example, why seasons occur or how electrical circuits work, they produce responses that are internally consistent but systematically incorrect in ways that reflect their underlying mental models rather than random error.
+A third major strand of MMT-influenced research concerns [[Conceptual-Change-Theory|Conceptual Change Theory]] and how students understand complex physical systems. [[Stella Vosniadou]] proposed that children and novice learners hold "framework theories" — implicit, coherent belief systems about domains like physics, astronomy, and biology — and that within these frameworks they construct domain-specific mental models. When students are asked to explain, for example, why seasons occur or how electrical circuits work, they produce responses that are internally consistent but systematically incorrect in ways that reflect their underlying mental models rather than random error.
 
 > [!insight] **The Pedagogical Significance of Mental Model Coherence**
-> One of the most consequential insights from this literature is that students' misconceptions are not simply gaps in knowledge — they are *coherent representations* that make sense within the student's existing model. A student who believes that the Earth is flat-bottomed with the sky as a dome is not randomly wrong; they are working from a model that integrates perceptual experience with partial exposure to scientific claims. This coherence means that simply presenting correct information is insufficient — the instructional task is to induce *model revision*, not merely model addition. See [[Conceptual Change Theory]] for expanded treatment.
+> One of the most consequential insights from this literature is that students' misconceptions are not simply gaps in knowledge — they are *coherent representations* that make sense within the student's existing model. A student who believes that the Earth is flat-bottomed with the sky as a dome is not randomly wrong; they are working from a model that integrates perceptual experience with partial exposure to scientific claims. This coherence means that simply presenting correct information is insufficient — the instructional task is to induce *model revision*, not merely model addition. See [[Conceptual-Change-Theory|Conceptual Change Theory]] for expanded treatment.
 
 [[Nancy Nersessian]] developed a related concept of "model-based reasoning in science" to describe how scientists themselves construct, manipulate, and revise mental models during discovery — using thought experiments, analogical reasoning, and imagistic simulation as key cognitive tools. This analysis connects MMT to the [[history and philosophy of science]], situating model-based reasoning not as a cognitive limitation but as a fundamental epistemic tool.
 
@@ -411,7 +411,7 @@ The computational heart of MMT is an explicit account of how a reasoner moves fr
 
 ### Fleshing Out and the Role of Background Knowledge
 
-The initial minimal model must often be "fleshed out" with background knowledge to support inference in everyday contexts. When someone reads "The surgeon washed her hands before the operation", the relevant mental model is not merely a propositional encoding of the literal content — it is populated with background knowledge about hospital environments, the purpose of hand-washing, the relationship between surgeons and patients. This population of the model from [[long-term memory]] is largely automatic and is what makes comprehension feel seamless.
+The initial minimal model must often be "fleshed out" with background knowledge to support inference in everyday contexts. When someone reads "The surgeon washed her hands before the operation", the relevant mental model is not merely a propositional encoding of the literal content — it is populated with background knowledge about hospital environments, the purpose of hand-washing, the relationship between surgeons and patients. This population of the model from [[Long-Term-Memory|long-term memory]] is largely automatic and is what makes comprehension feel seamless.
 
 > [!insight] **Models vs. Schemata — A Critical Distinction**
 > At first glance, "fleshing out a model with background knowledge" sounds identical to [[Schema Theory|schema activation]]. The distinction matters: a schema is a pre-stored, relatively rigid knowledge structure that slots incoming information into fixed roles (agent, action, object). A mental model, by contrast, is constructed anew for each situation and can represent novel arrangements that no prior schema captures. Schema activation fills in defaults; model construction creates a unique representational token for a specific situation. Both processes operate, but their outputs are different. Mental models are less constrained and more flexible than schema slots, though this flexibility has a cost in working memory resources.
@@ -420,7 +420,7 @@ The initial minimal model must often be "fleshed out" with background knowledge 
 
 A particularly rich domain for mental models research is [[Spatial Cognition|spatial reasoning]]. When people read descriptions of spatial arrays — "The spoon is to the left of the fork; the knife is to the right of the spoon" — they construct spatial mental models that encode the relative positions of objects. These models can be inspected to verify spatial relations not explicitly stated (e.g., "Is the knife to the right of the fork?") without performing any linguistic computation.
 
-[[Mary Hegarty]] and colleagues demonstrated that spatial mental models underlie mechanical reasoning as well: when reasoning about pulley systems or gears, people do not derive conclusions from verbal descriptions of mechanical principles; they run mental simulations of the mechanism, animating a model of how components interact. This [[Mental Simulation|mental simulation]] approach extends to causal reasoning more generally: to predict what happens when a gear turns, you mentally run the model forward.
+[[Mary Hegarty]] and colleagues demonstrated that spatial mental models underlie mechanical reasoning as well: when reasoning about pulley systems or gears, people do not derive conclusions from verbal descriptions of mechanical principles; they run mental simulations of the mechanism, animating a model of how components interact. This [[Mental-Simulation|mental simulation]] approach extends to causal reasoning more generally: to predict what happens when a gear turns, you mentally run the model forward.
 
 > [!example] **Spatial Models in Everyday Reasoning**
 > Navigation provides a striking everyday illustration. When following verbal directions, people construct a spatial mental model — a cognitive map — that can be inspected from different viewpoints. Research by [[Roger Shepard]] and [[Lynn Cooper]] on mental rotation demonstrated that people manipulate spatial representations in ways that mirror physical rotation: reaction time to verify whether two figures are the same increases linearly with the angular distance between them, as though the person is actually rotating an internal representation. This metric is consistent with a model-based account and inconsistent with purely propositional processing.
@@ -443,21 +443,21 @@ A particularly rich domain for mental models research is [[Spatial Cognition|spa
 
 ### Instruction and the Goal of Model Building
 
-If understanding is constituted by the possession of an accurate, well-articulated [[Mental Models|mental model]], then the goal of instruction is not merely information transfer but *model construction and revision*. This reframing has concrete practical implications.
+If understanding is constituted by the possession of an accurate, well-articulated [[Mental-Model|mental model]], then the goal of instruction is not merely information transfer but *model construction and revision*. This reframing has concrete practical implications.
 
 First, instruction that merely presents facts or definitions, without providing the student with materials to construct a model, is likely to produce [[Propositional Representation|propositional knowledge]] — a learner who can recite "the heart pumps blood through the circulatory system" but cannot reason about what happens when a valve is damaged, because they have no model of how the system works as a system. Genuine understanding, on the MMT account, requires that the learner be able to construct and mentally run the relevant model.
 
 > [!best-practice] **Instruction for Model Building**
 > Effective instruction should (1) provide concrete representations — diagrams, simulations, worked examples — that give learners the raw material from which to construct models; (2) ask questions that require model inspection rather than proposition retrieval ("What would happen if...?"); (3) create conditions that trigger counterexample search — present students with anomalies or contradictions that cannot be resolved by the current model and that therefore motivate model revision; (4) make the model itself visible and discussable, through concept mapping, think-alouds, or representational drawing.
 
-[[Richard Mayer]]'s [[Multimedia Learning|Multimedia Learning Theory]] operationalises the model-building view in instructional design. Mayer's cognitive theory proposes that learners construct three types of representation from multimedia instruction: a pictorial model from visual input, a verbal model from narration, and an integrated [[Mental Models|mental model]] formed by connecting the two. The well-supported "multimedia principle" (learning is better with words and pictures than words alone) and "coherence principle" (less extraneous material leads to better learning) both follow from the assumption that the instructional system must support model construction without overloading the working memory channels through which construction proceeds.
+[[Richard Mayer]]'s [[Multimedia Learning|Multimedia Learning Theory]] operationalises the model-building view in instructional design. Mayer's cognitive theory proposes that learners construct three types of representation from multimedia instruction: a pictorial model from visual input, a verbal model from narration, and an integrated [[Mental-Model|mental model]] formed by connecting the two. The well-supported "multimedia principle" (learning is better with words and pictures than words alone) and "coherence principle" (less extraneous material leads to better learning) both follow from the assumption that the instructional system must support model construction without overloading the working memory channels through which construction proceeds.
 
 ### Science Education and the Problem of Persistent Misconceptions
 
 The science education application of MMT — through [[Stella Vosniadou]]'s framework-theory approach — has generated one of the most practically consequential research programmes in educational psychology. Students arrive in classrooms with pre-existing mental models of physical phenomena: models of heat and temperature, of force and motion, of the shape of the Earth, of how living things grow and die. These models are coherent from the student's perspective, but they often conflict with scientific understanding in ways that create characteristic error patterns.
 
 > [!warning] **The Misconception Problem: Why Telling Does Not Work**
-> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual Change Theory|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
+> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual-Change|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
 
 > [!example] **The Seasons Misconception**
 > One of the most studied science education cases. A large majority of students — including students who have received formal instruction — believe that summer is warmer because the Earth is closer to the Sun during summer. The mental model underlying this belief is coherent: closer = warmer, which is true for other sources of heat. The correct explanation (axial tilt causes more direct solar radiation and longer days) requires a more complex spatial model — one involving three-dimensional geometry and the dynamics of incoming solar radiation. Instruction that simply asserts "it's the tilt, not the distance" without supporting the student in constructing and running the correct spatial model rarely achieves lasting conceptual change.
@@ -465,7 +465,7 @@ The science education application of MMT — through [[Stella Vosniadou]]'s fram
 ### Limitations and Boundary Conditions
 
 > [!important] **Working Memory: The Central Constraint**
-> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[Working Memory]] and [[Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
+> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[Working-Memory|Working Memory]] and [[Cognitive-Load-Theory|Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
 
 > [!important] **WEIRD Sample Bias**
 > The majority of studies supporting MMT were conducted with university students in Western Europe and North America — populations that differ from the global norm in education level, familiarity with formal reasoning tasks, and cultural conventions around logical argument. Whether the specific patterns of model construction and error replicate across diverse populations and educational backgrounds remains insufficiently studied. The cross-cultural robustness of the situation model literature is somewhat stronger, but remains incomplete.
@@ -495,7 +495,7 @@ This pattern connects to a broader arc in cognitive science: the shift from pure
 
 The capability that MMT confers on the educated reader is substantial. It provides a vocabulary for distinguishing types of understanding — propositional knowledge versus model-based understanding — and it explains why the former is insufficient for transfer, problem-solving, or genuine application. It explains why experts differ from novices not merely in how much they know but in the quality and flexibility of their models. It explains why certain instructional formats (worked examples with conceptual explanation, simulations, prediction tasks, anomaly confrontation) are more effective than others (lecture without representation, definition-recall tasks). And it explains a family of familiar cognitive phenomena — the difficulty of complex logic, the persistence of scientific misconceptions, the power of diagrams and animations in learning — within a single coherent theoretical framework.
 
-Perhaps most importantly for a [[PKB]] oriented toward learning sciences, MMT provides the conceptual bridge between [[Schema Theory]] (what prior knowledge structures you bring) and the dynamic process of comprehension and reasoning (how you use those structures to build new representations). It is the theory that explains how knowledge becomes *operative* — not merely stored, but actively deployed in understanding and inference.
+Perhaps most importantly for a [[PKB]] oriented toward learning sciences, MMT provides the conceptual bridge between [[Schema-Theory|Schema Theory]] (what prior knowledge structures you bring) and the dynamic process of comprehension and reasoning (how you use those structures to build new representations). It is the theory that explains how knowledge becomes *operative* — not merely stored, but actively deployed in understanding and inference.
 
 ### Open Questions
 
@@ -506,9 +506,9 @@ The most important unresolved questions in the MMT research programme include: (
 >
 > This report on [[Mental Models Theory]] connects to existing knowledge in the PKB in the following ways:
 >
-> - **[[Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
+> - **[[Schema-Theory|Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[Schema-Theory|Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
 >
-> - **[[Reasoning Types in Education]]** (and constituent nodes **[[Deductive Reasoning]]**, **[[Inductive Reasoning]]**, **[[Abductive Reasoning]]**) — MMT is primarily a theory of deductive inference, but its implications extend across reasoning types. Inductive reasoning can be understood as generalising across multiple mental models; abductive reasoning as constructing the model that best explains observed facts. The multi-reasoning-type cluster in the PKB gains important mechanistic depth from MMT: knowing *how* reasoners build models illuminates *why* different reasoning types have different characteristic error patterns.
+> - **[[Reasoning Types in Education]]** (and constituent nodes **[[Deductive-Reasoning|Deductive Reasoning]]**, **[[Inductive-Reasoning|Inductive Reasoning]]**, **[[Abductive-Reasoning|Abductive Reasoning]]**) — MMT is primarily a theory of deductive inference, but its implications extend across reasoning types. Inductive reasoning can be understood as generalising across multiple mental models; abductive reasoning as constructing the model that best explains observed facts. The multi-reasoning-type cluster in the PKB gains important mechanistic depth from MMT: knowing *how* reasoners build models illuminates *why* different reasoning types have different characteristic error patterns.
 >
 > - **[[Metacognition & Lifelong Learning]]**, **[[Metacognition & Critical Thinking]]**, **[[Metacognition & Motivation]]** — The counterexample search stage of the MMT inference cycle is structurally identical to what metacognitive theories call monitoring and evaluation: checking whether one's first response is adequate. MMT provides a cognitive-level mechanism for the metacognitive processes that the metacognition cluster describes at a higher level of abstraction. Explicitly teaching students to pursue Stage 3 (counterexample search) may be a concrete operationalisation of teaching metacognitive checking skills.
 >
@@ -608,7 +608,7 @@ The most important unresolved questions in the MMT research programme include: (
 > [!topic-idea] [[Situation Models in Text Comprehension]]
 > A dedicated foundational report on this topic would provide comprehensive treatment of [[Walter Kintsch]]'s Construction-Integration model, [[Rolf Zwaan]]'s Event Indexing Model, and the multidimensional nature of situation model updating during reading. It would cover empirical methods (reading-time paradigms, recognition probes, inference verification) and connect to educational applications in reading comprehension instruction, particularly the distinction between strategies targeting text-base representation (summarising, rereading) and strategies targeting situation model quality (elaborative questioning, prediction tasks). Priority: **High** — foundational for understanding literate cognition.
 
-> [!topic-idea] [[Conceptual Change Theory]]
+> [!topic-idea] [[Conceptual-Change-Theory|Conceptual Change Theory]]
 > A foundational report on [[Stella Vosniadou]]'s framework-theory approach and its successors (including Chi's "knowledge-in-pieces" alternative). The report would cover mechanisms of conceptual change (accretion, restructuring, revision), empirical documentation of misconceptions across science domains, instructional interventions that succeed and fail, and the relationship between conceptual change and motivation (why students resist model revision even when presented with disconfirming evidence). Priority: **High** — essential for science educators and instructional designers.
 
 > [!topic-idea] [[Multimedia Learning]]
@@ -620,8 +620,8 @@ The most important unresolved questions in the MMT research programme include: (
 > [!topic-idea] [[Spatial Mental Models]]
 > A foundational report covering mental rotation (Shepard & Cooper), spatial reasoning from text and diagrams (Hegarty), and the role of spatial ability in model-based reasoning across domains. It would address gender and individual differences in spatial reasoning, interventions that improve spatial model quality, and implications for STEM instruction where spatial model construction is critical (organic chemistry, anatomy, physics). Priority: **Medium**.
 
-> [!topic-idea] [[Analogical Reasoning]]
-> A foundational treatment of [[Dedre Gentner]]'s structure-mapping theory and its convergence with the mental models framework: analogical reasoning as the mapping of relational structure from a source domain to a target domain — in effect, using a familiar model as a scaffold for constructing a new model of an unfamiliar situation. The report would cover empirical work on analogy comprehension and production, the role of analogy in scientific discovery (Nersessian), and instructional applications of analogy in conceptual explanation. Priority: **Medium**.
+> [!topic-idea] [[Analogical-Reasoning|Analogical Reasoning]]
+> A foundational treatment of [[Dedre-Gentner|Dedre Gentner]]'s structure-mapping theory and its convergence with the mental models framework: analogical reasoning as the mapping of relational structure from a source domain to a target domain — in effect, using a familiar model as a scaffold for constructing a new model of an unfamiliar situation. The report would cover empirical work on analogy comprehension and production, the role of analogy in scientific discovery (Nersessian), and instructional applications of analogy in conceptual explanation. Priority: **Medium**.
 
-> [!topic-idea] [[Mental Simulation]]
+> [!topic-idea] [[Mental-Simulation|Mental Simulation]]
 > A foundational report addressing the relationship between mental models and embodied simulation, drawing on [[Lawrence Barsalou]]'s Perceptual Symbol Systems as a mechanistic account of how models are "run". The report would cover the broader embodied cognition literature, grounding effects in language comprehension, and action-oriented views of representation — examining whether mental model theory and embodied simulation theories are rival accounts or complementary descriptions at different levels of analysis. Priority: **Medium**.

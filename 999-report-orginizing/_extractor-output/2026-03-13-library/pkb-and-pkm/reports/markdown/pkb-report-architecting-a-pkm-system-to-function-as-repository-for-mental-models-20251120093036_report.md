@@ -246,7 +246,7 @@ extraction_summary:
 > 
 > **Why this is critical:**
 > 
->   - **For Integration:** A top-down folder system (e.g., `Models > Psychology > Biases > ...`) is rigid and *prevents* cross-disciplinary links. An emergent MOC, however, is just another note. A note for `[[Confirmation Bias]]` can simultaneously live in the `[[MOC - Cognitive Biases]]` *and* the `[[MOC - Investing Checklist]]`. It's fluid.
+>   - **For Integration:** A top-down folder system (e.g., `Models > Psychology > Biases > ...`) is rigid and *prevents* cross-disciplinary links. An emergent MOC, however, is just another note. A note for `[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]` can simultaneously live in the `[[MOC - Cognitive Biases]]` *and* the `[[MOC - Investing Checklist]]`. It's fluid.
 >   - **For Refinement:** This approach allows your system's structure to *evolve* with your understanding. You can't predict what connections you'll find. An emergent structure *adapts* to your insights; a rigid one *resists* them.
 
 #### 14. [DEFINITION] Untitled *(Line 170)*
@@ -332,7 +332,7 @@ extraction_summary:
 > Our foundry solves this by building a *process-driven structure*.
 > 
 > 1.  We **"cast"** `[[Atomic Model Notes]]` using a template that bakes in *Application* (via checklists) and *Refinement* (via failure modes).
-> 1.  We **"integrate"** these models into a latticework using bi-directional links and emergent `[[Maps of Content]]`.
+> 1.  We **"integrate"** these models into a latticework using bi-directional links and emergent `[[Maps-of-Content-—-MOCs|Maps of Content]]`.
 > 1.  We **"apply"** them in the real world using `[[Decision Journals]]`.
 > 1.  We **"refine"** them by creating a cybernetic feedback loop, using the *outcomes* from our journals to *update* the atomic models themselves.
 > 
@@ -384,9 +384,9 @@ extraction_summary:
 
 - [[Atomic Model Note]]
 - [[Atomic Model Notes]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Book - Thinking, Fast and Slow]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Critical Mass]]
 - [[Decision - Choosing a New Career Path]]
 - [[Decision - Why Project X Failed]]
@@ -403,7 +403,7 @@ extraction_summary:
 - [[MOC - Decision Making]]
 - [[MOC - Investing Checklist]]
 - [[MOC - Leverage]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Model Name]]
 - [[Natural Selection]]
 - [[New Example for Existing Model]]
@@ -429,7 +429,7 @@ extraction_summary:
 | 3 | [[Critical Mass]] | — | — | 2.2 Munger's Latticework: The Philoso... | 86 |
 | 4 | [[Natural Selection]] | — | — | 2.2 Munger's Latticework: The Philoso... | 86 |
 | 5 | [[Opportunity Cost]] | — | — | 2.2 Munger's Latticework: The Philoso... | 86 |
-| 6 | [[Confirmation Bias]] | — | — | 2.2 Munger's Latticework: The Philoso... | 86 |
+| 6 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 2.2 Munger's Latticework: The Philoso... | 86 |
 | 7 | [[Inversion]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 126 |
 | 8 | [[Occam's Razor]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 126 |
 | 9 | [[Inversion]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 130 |
@@ -440,7 +440,7 @@ extraction_summary:
 | 14 | [[Project: 'New Website']] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 137 |
 | 15 | [[Inversion]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 137 |
 | 16 | [[Second-Order Thinking]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 142 |
-| 17 | [[Confirmation Bias]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 167 |
+| 17 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 167 |
 | 18 | [[MOC - Cognitive Biases]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 167 |
 | 19 | [[MOC - Investing Checklist]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 167 |
 | 20 | [[MOC - Decision Making]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 172 |
@@ -460,12 +460,12 @@ extraction_summary:
 | 34 | [[Related Model 2]] | — | — | 🔗 Connections (Integration) | 234 |
 | 35 | [[Decision - Why Project X Failed]] | — | — | 🔗 Connections (Integration) | 236 |
 | 36 | [[Book - Thinking, Fast and Slow]] | — | — | 🔗 Connections (Integration) | 237 |
-| 37 | [[Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
-| 38 | [[Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
+| 37 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
+| 38 | [[Availability-Heuristic|Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
 | 39 | [[Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
 | 40 | [[MOC - Cognitive Biases]] | — | — | A. Integration: The Map of Content (MOC) | 248 |
-| 41 | [[Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 251 |
-| 42 | [[Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 252 |
+| 41 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | A. Integration: The Map of Content (MOC) | 251 |
+| 42 | [[Availability-Heuristic|Availability Heuristic]] | — | — | A. Integration: The Map of Content (MOC) | 252 |
 | 43 | [[Sunk Cost Fallacy]] | — | — | A. Integration: The Map of Content (MOC) | 254 |
 | 44 | [[Decision - Choosing a New Career Path]] | — | — | B. Application: The Decision Journal ... | 263 |
 | 45 | [[Inversion]] | — | — | B. Application: The Decision Journal ... | 267 |
@@ -483,7 +483,7 @@ extraction_summary:
 | 57 | [[Hickam's Dictum]] | — | — | 7.0 ❔Frontier Research & Unanswered Q... | 355 |
 | 58 | [[MOC - Leverage]] | — | — | 7.0 ❔Frontier Research & Unanswered Q... | 356 |
 | 59 | [[Atomic Model Notes]] | — | — | 8.0 🦕Conclusion | 375 |
-| 60 | [[Maps of Content]] | — | — | 8.0 🦕Conclusion | 376 |
+| 60 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 8.0 🦕Conclusion | 376 |
 | 61 | [[Decision Journals]] | — | — | 8.0 🦕Conclusion | 377 |
 | 62 | [[Systems Thinking]] | — | — | 9.0🧠Key Questions for Active Reading ... | 391 |
 | 63 | [[PKM Foundry]] | — | — | 9.0🧠Key Questions for Active Reading ... | 401 |
@@ -567,9 +567,9 @@ aliases: [Alternative name for model]
 
 - [[Atomic Model Note]]
 - [[Atomic Model Notes]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Book - Thinking, Fast and Slow]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Critical Mass]]
 - [[Decision - Choosing a New Career Path]]
 - [[Decision - Why Project X Failed]]
@@ -586,7 +586,7 @@ aliases: [Alternative name for model]
 - [[MOC - Decision Making]]
 - [[MOC - Investing Checklist]]
 - [[MOC - Leverage]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Model Name]]
 - [[Natural Selection]]
 - [[New Example for Existing Model]]

@@ -372,9 +372,9 @@ extraction_summary:
 > 
 > This first-principles analysis of Johnson-Laird's mental models connects to the following nodes:
 > 
-> - **[[Dual Process Theory]]** — The dissolution of the rule/model dichotomy in Phase II opens direct connection to dual-process frameworks. System 1 (heuristic, fast, associative) and System 2 (analytic, slow, deliberative) may each employ *both* rule-like and model-like operations at different granularities; the level of analysis matters. The pragmatic construction insight from Phase IV aligns with recent dual-process accounts where System 2 intervenes to construct alternative representations when System 1 constructions are flagged as insufficient.
+> - **[[Dual-Process-Theory|Dual Process Theory]]** — The dissolution of the rule/model dichotomy in Phase II opens direct connection to dual-process frameworks. System 1 (heuristic, fast, associative) and System 2 (analytic, slow, deliberative) may each employ *both* rule-like and model-like operations at different granularities; the level of analysis matters. The pragmatic construction insight from Phase IV aligns with recent dual-process accounts where System 2 intervenes to construct alternative representations when System 1 constructions are flagged as insufficient.
 > 
-> - **[[Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
+> - **[[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]** — Axiom 2 (representational construction) is the point of deepest overlap with schema theory. Both traditions hold that representation is active, elaborative, and prior-knowledge-dependent. The distinction is that schema theory specifies the schematic structure of prior knowledge; mental models theory specifies the model-like structure of the current-situation representation. Integrating these accounts yields the insight that schemas provide the *building blocks* for mental model construction — a synthesis that neither theory fully articulates on its own.
 > 
 > - **[[Situation Models (van Dijk & Kintsch)]]** — The situation model framework in discourse comprehension is Johnson-Laird's closest intellectual neighbor, and arguably the most successful application of the mental models construct. Situation models have generated an extensive empirical literature (foregrounding effects, spatial and temporal situation dimensions) with cleaner operationalization than the reasoning literature. Insights from that literature — particularly that comprehenders construct multi-dimensional representations that are updated dynamically — should feed back into the reasoning literature more than they currently do.
 > 
@@ -543,12 +543,12 @@ extraction_summary:
 
 - [[Bounded Rationality]]
 - [[Critical Thinking Pedagogy]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[First Principles Report Generator v1.0]]
 - [[Foundational Report]]
 - [[Oaksford & Chater Probabilistic Approach]]
 - [[Reasoning Biases and Heuristics]]
-- [[Schema Theory (Bartlett, Rumelhart)]]
+- [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]
 - [[Situation Models (van Dijk & Kintsch)]]
 - [[Socratic Dialogue Report]]
 
@@ -558,8 +558,8 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Foundational Report]] | — | — | Relationship to Other Report Types | 389 |
 | 2 | [[Socratic Dialogue Report]] | — | — | Relationship to Other Report Types | 391 |
-| 3 | [[Dual Process Theory]] | — | — | Relationship to Other Report Types | 398 |
-| 4 | [[Schema Theory (Bartlett, Rumelhart)]] | — | — | Relationship to Other Report Types | 400 |
+| 3 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Relationship to Other Report Types | 398 |
+| 4 | [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]] | — | — | Relationship to Other Report Types | 400 |
 | 5 | [[Situation Models (van Dijk & Kintsch)]] | — | — | Relationship to Other Report Types | 402 |
 | 6 | [[Oaksford & Chater Probabilistic Approach]] | — | — | Relationship to Other Report Types | 404 |
 | 7 | [[Reasoning Biases and Heuristics]] | — | — | The Invitation to Reconstruct Further | 413 |
@@ -578,12 +578,12 @@ extraction_summary:
 
 - [[Bounded Rationality]]
 - [[Critical Thinking Pedagogy]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[First Principles Report Generator v1.0]]
 - [[Foundational Report]]
 - [[Oaksford & Chater Probabilistic Approach]]
 - [[Reasoning Biases and Heuristics]]
-- [[Schema Theory (Bartlett, Rumelhart)]]
+- [[Schema-Theory|Schema Theory (Bartlett, Rumelhart)]]
 - [[Situation Models (van Dijk & Kintsch)]]
 - [[Socratic Dialogue Report]]
 
@@ -599,14 +599,14 @@ extraction_summary:
 
 - [[Mental Models Theory]]
 - [[Johnson-Laird]]
-- [[Dual Process Theory]]
-- [[Propositional Representation]]
-- [[Analogical Reasoning]]
-- [[Schema Theory]]
-- [[Deductive Reasoning]]
-- [[Cognitive Architecture]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Propositional-Representation|Propositional Representation]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Model Semantics]]
-- [[Mental Simulation]]
+- [[Mental-Simulation|Mental Simulation]]
 
 #### Link Related
 

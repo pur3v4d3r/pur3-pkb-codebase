@@ -244,7 +244,7 @@ extraction_summary:
 #### 16. [CONNECTION-IDEAS] Untitled *(Line 269)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Cognitive Science]]. Specifically, the idea of a Personal Knowledge Base as an "exobrain" is a practical application of **[[Extended Cognition (EC)]]**. The EC thesis, championed by philosophers Andy Clark and David Chalmers, argues that the "mind" is not "brain-bound." [^5] Our cognitive tools—a notepad, a calculator, or a Personal Knowledge Base—are not just *aids* to thought; they are *literal parts* of our cognitive process. When you "follow a trail" of links in your Obsidian vault, your *mind* is "thinking" using a loop that runs from your biological brain, through your fingers on the keyboard, onto the screen (the externalized "memory" and "processor"), and back through your eyes to your brain. This methodology is, in essence, a "how-to" guide for *building* a more powerful, extended mind.
+> The principles discussed here strongly connect to the field of [[Cognitive-Science|Cognitive Science]]. Specifically, the idea of a Personal Knowledge Base as an "exobrain" is a practical application of **[[Extended Cognition (EC)]]**. The EC thesis, championed by philosophers Andy Clark and David Chalmers, argues that the "mind" is not "brain-bound." [^5] Our cognitive tools—a notepad, a calculator, or a Personal Knowledge Base—are not just *aids* to thought; they are *literal parts* of our cognitive process. When you "follow a trail" of links in your Obsidian vault, your *mind* is "thinking" using a loop that runs from your biological brain, through your fingers on the keyboard, onto the screen (the externalized "memory" and "processor"), and back through your eyes to your brain. This methodology is, in essence, a "how-to" guide for *building* a more powerful, extended mind.
 
 #### 17. [COUNTER-ARGUMENT] Untitled *(Line 275)*
 
@@ -332,7 +332,7 @@ extraction_summary:
 
 - [[Article - The PKB Research Lifecycle]]
 - [[Atomic Note (Evergreen Note)]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Composition]]
 - [[Compositional Storytelling]]
 - [[Emergent Synthesis]]
@@ -367,7 +367,7 @@ extraction_summary:
 | 15 | [[The Philosophy of the Tripod]] | — | — | 4.3 🕸️ PHASE 3: CONNECTION & EMERGENT... | 226 |
 | 16 | [[Pre-visualization]] | — | — | 4.3 🕸️ PHASE 3: CONNECTION & EMERGENT... | 226 |
 | 17 | [[Article - The PKB Research Lifecycle]] | — | — | 4.4 📤 PHASE 4: CREATION & OUTPUT GENE... | 235 |
-| 18 | [[Cognitive Science]] | — | — | 6.0 🌍 BROADER IMPLICATIONS AND SIGNIF... | 271 |
+| 18 | [[Cognitive-Science|Cognitive Science]] | — | — | 6.0 🌍 BROADER IMPLICATIONS AND SIGNIF... | 271 |
 | 19 | [[Extended Cognition (EC)]] | — | — | 6.0 🌍 BROADER IMPLICATIONS AND SIGNIF... | 271 |
 | 20 | [[Zettelkasten]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 343 |
 | 21 | [[Emergent Synthesis]] | — | — | 9.0 🧠 KEY QUESTIONS FOR ACTIVE READIN... | 344 |
@@ -428,7 +428,7 @@ graph TD
 
 - [[Article - The PKB Research Lifecycle]]
 - [[Atomic Note (Evergreen Note)]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Composition]]
 - [[Compositional Storytelling]]
 - [[Emergent Synthesis]]

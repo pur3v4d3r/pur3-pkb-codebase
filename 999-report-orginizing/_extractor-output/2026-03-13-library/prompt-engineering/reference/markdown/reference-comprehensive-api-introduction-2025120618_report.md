@@ -944,7 +944,7 @@ extraction_summary:
 - [[Gemini 2.5 Flash]]
 - [[Gemini 2.5 Pro]]
 - [[Gemini API]]
-- [[Generation Effect]]
+- [[Generation-Effect|Generation Effect]]
 - [[Google AI API]]
 - [[Google Gemini]]
 - [[Google GenerativeAI]]
@@ -1009,7 +1009,7 @@ extraction_summary:
 - [[Request Headers]]
 - [[Requests Library]]
 - [[Response Formatting]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation Architectures for Obsidian Vaults]]
 - [[Retry Logic]]
 - [[Richard Feynman]]
@@ -1018,7 +1018,7 @@ extraction_summary:
 - [[Semantic Kernel]]
 - [[Semantic Search]]
 - [[Sliding Window]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Speculative Decoding]]
 - [[Stop Sequences]]
 - [[Streaming Responses]]
@@ -1214,7 +1214,7 @@ extraction_summary:
 | 160 | [[Cursor]] | — | — | Windows Development Environment Setup | 629 |
 | 161 | [[Message-Based Format]] | — | — | Request Structure & Message Roles | 639 |
 | 162 | [[wiki-links]] | — | — | Request Structure & Message Roles | 645 |
-| 163 | [[Spaced Repetition]] | — | — | Request Structure & Message Roles | 653 |
+| 163 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Request Structure & Message Roles | 653 |
 | 164 | [[Multi-turn Conversations]] | — | — | Request Structure & Message Roles | 665 |
 | 165 | [[Few-shot Learning]] | — | — | Request Structure & Message Roles | 665 |
 | 166 | [[Prompt Caching]] | — | — | Request Structure & Message Roles | 670 |
@@ -1229,7 +1229,7 @@ extraction_summary:
 | 175 | [[LangGraph]] | — | — | Core Framework Comparison | 779 |
 | 176 | [[LangGraph]] | — | — | Core Framework Comparison | 783 |
 | 177 | [[LlamaIndex]] | — | — | Simple chain | 805 |
-| 178 | [[Retrieval-Augmented Generation]] | — | — | Simple chain | 807 |
+| 178 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Simple chain | 807 |
 | 179 | [[Guidance]] | — | — | Query | 828 |
 | 180 | [[LMQL]] | — | — | Query | 828 |
 | 181 | [[Constrained Sampling]] | — | — | Query | 830 |
@@ -1260,13 +1260,13 @@ extraction_summary:
 | 206 | [[Paul-Elder Critical Thinking Framework]] | — | — | Reasoning Framework | 1190 |
 | 207 | [[Feynman Technique]] | — | — | Foundational Concepts | 1234 |
 | 208 | [[Richard Feynman]] | — | — | Foundational Concepts | 1234 |
-| 209 | [[Generation Effect]] | — | — | Foundational Concepts | 1234 |
+| 209 | [[Generation-Effect|Generation Effect]] | — | — | Foundational Concepts | 1234 |
 | 210 | [[Prompt Caching]] | — | — | Inject examples before user query | 1253 |
 | 211 | [[wiki-linked]] | — | — | Step 3: Cross-References | 1272 |
 | 212 | [[Chain-of-Thought]] | — | — | Step 5: Synthesis Strategy | 1285 |
 | 213 | [[Temperature]] | — | — | Temperature & Sampling Parameters | 1289 |
 | 214 | [[Top-p Sampling]] | — | — | Temperature & Sampling Parameters | 1289 |
-| 215 | [[Spaced Repetition]] | — | — | Wiki-Links | 1324 |
+| 215 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Wiki-Links | 1324 |
 | 216 | [[Note Title]] | — | Section | Wiki-Links | 1325 |
 | 217 | [[Actual Title]] | Display Text | — | Wiki-Links | 1326 |
 | 218 | [[Tool Use]] | — | — | 6️⃣ Agentic Workflow Orchestration | 1362 |
@@ -1550,7 +1550,7 @@ messages = [
     },
     {
         "role": "assistant",
-        "content": "I'll create a detailed reference note covering [[Spaced Repetition]] algorithms..."
+        "content": "I'll create a detailed reference note covering [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] algorithms..."
     },
     {
         "role": "user",
@@ -1940,7 +1940,7 @@ FEW_SHOT_EXAMPLES = [
 
 ## Foundational Concepts
 
-The [[Feynman Technique]] emerged from physicist [[Richard Feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[Generation Effect]]—the finding that actively producing information strengthens memory more than passive review...
+The [[Feynman Technique]] emerged from physicist [[Richard Feynman]]'s approach to mastering complex subjects through teaching. The method exploits the [[Generation-Effect|Generation Effect]]—the finding that actively producing information strengthens memory more than passive review...
 
 [Full exemplar note continues with proper structure, wiki-links, callouts, depth]"""
     }
@@ -2007,7 +2007,7 @@ OBSIDIAN_FORMAT_INSTRUCTIONS = """
 Format output for Obsidian markdown:
 
 ### Wiki-Links
-- Concept references: [[Spaced Repetition]]
+- Concept references: [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - Section links: [[Note Title#Section]]
 - Alias syntax: [[Actual Title|Display Text]]
 
@@ -2722,7 +2722,7 @@ for (let letter of sortedLetters) {
 - [[Gemini 2.5 Flash]]
 - [[Gemini 2.5 Pro]]
 - [[Gemini API]]
-- [[Generation Effect]]
+- [[Generation-Effect|Generation Effect]]
 - [[Google AI API]]
 - [[Google Gemini]]
 - [[Google GenerativeAI]]
@@ -2787,7 +2787,7 @@ for (let letter of sortedLetters) {
 - [[Request Headers]]
 - [[Requests Library]]
 - [[Response Formatting]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation Architectures for Obsidian Vaults]]
 - [[Retry Logic]]
 - [[Richard Feynman]]
@@ -2796,7 +2796,7 @@ for (let letter of sortedLetters) {
 - [[Semantic Kernel]]
 - [[Semantic Search]]
 - [[Sliding Window]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Speculative Decoding]]
 - [[Stop Sequences]]
 - [[Streaming Responses]]

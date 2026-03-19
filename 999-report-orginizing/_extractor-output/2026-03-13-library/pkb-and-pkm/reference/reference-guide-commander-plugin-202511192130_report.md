@@ -156,7 +156,7 @@ extraction_summary:
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 61)*
 
 > [!core-principle] Untitled
-> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.
+> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base|Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive-Load|Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.
 
 #### 4. [USE-CASES-AND-EXAMPLES] Untitled *(Line 68)*
 
@@ -209,7 +209,7 @@ extraction_summary:
 >   - `Vault Statistics` (word count, note count)
 >   - `Open Plugin Management`
 > - **Quick Access Portals**:
->   - `Open [[MOC]] Hub`
+>   - `Open [[Maps-of-Content-—-MOCs|MOC]] Hub`
 >   - `Open Inbox/Capture Note`
 >   - `Navigate to Dashboard`
 
@@ -494,7 +494,7 @@ extraction_summary:
 #### 27. [HOW-TO-USE-THIS] Untitled *(Line 475)*
 
 > [!how-to-use-this] Untitled
-> Follow this step-by-step process to implement Commander in your [[Personal Knowledge Base]].
+> Follow this step-by-step process to implement Commander in your [[Personal-Knowledge-Base|Personal Knowledge Base]].
 
 #### 28. [HELPFUL-TIP] Untitled *(Line 487)*
 
@@ -579,7 +579,7 @@ extraction_summary:
 - [[Automation]]
 - [[Capture]]
 - [[Capture Workflows]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Command Palette]]
 - [[Command Palette Optimization]]
 - [[Context Switching]]
@@ -596,12 +596,12 @@ extraction_summary:
 - [[Hotkeys]]
 - [[Interface Design]]
 - [[Literature Notes]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Mobile PKB Workflows]]
 - [[Mobile Workflow]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Ecosystem]]
 - [[Quick Switcher]]
 - [[QuickAdd]]
@@ -637,14 +637,14 @@ extraction_summary:
 | 4 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | ⚙️ Commander Plugin for Obsidian | 37 |
 | 5 | [[Mobile Workflow]] | — | — | Key Capabilities | 53 |
 | 6 | [[Desktop Workflow]] | — | — | Key Capabilities | 53 |
-| 7 | [[Personal Knowledge Base]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
+| 7 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 8 | [[Context Switching]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
-| 9 | [[Cognitive Load]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
+| 9 | [[Cognitive-Load|Cognitive Load]] | — | — | 🗺️ Interface Elements & Use Cases | 62 |
 | 10 | [[dataview]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 80 |
 | 11 | [[Templater]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 81 |
 | 12 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | 1️⃣ Left Ribbon (Primary Navigation Hub) | 82 |
 | 13 | [[canvas]] | — | — | 2️⃣ Right Ribbon (Contextual Tools) | 104 |
-| 14 | [[MOC]] | — | — | 3️⃣ Title Bar (Global Actions) | 129 |
+| 14 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 3️⃣ Title Bar (Global Actions) | 129 |
 | 15 | [[Zettelkasten]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 154 |
 | 16 | [[Command Palette]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 164 |
 | 17 | [[Zettelkasten]] | — | — | 4️⃣ Page Header (Note-Specific Actions) | 166 |
@@ -665,10 +665,10 @@ extraction_summary:
 | 32 | [[API Documentation]] | — | — | 🔬 Setup #5: Technical Documentation &... | 371 |
 | 33 | [[workspace]] | — | — | Technique #1: Workspace-Specific Comm... | 409 |
 | 34 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Technique #1: Workspace-Specific Comm... | 418 |
-| 35 | [[Cognitive Load]] | — | — | Technique #2: Progressive Disclosure ... | 433 |
+| 35 | [[Cognitive-Load|Cognitive Load]] | — | — | Technique #2: Progressive Disclosure ... | 433 |
 | 36 | [[hotkeys]] | — | — | Technique #4: Integration with Hotkey... | 461 |
 | 37 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Technique #4: Integration with Hotkey... | 469 |
-| 38 | [[Personal Knowledge Base]] | — | — | 🔧 Installation & Configuration Workflow | 476 |
+| 38 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔧 Installation & Configuration Workflow | 476 |
 | 39 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | — | — | Essential Plugin Pairings | 559 |
 | 40 | [[Templater]] | — | — | Essential Plugin Pairings | 560 |
 | 41 | [[dataview]] | — | — | Essential Plugin Pairings | 561 |
@@ -681,7 +681,7 @@ extraction_summary:
 | 48 | [[Command Palette]] | — | — | Recommended Adoption Path | 615 |
 | 49 | [[Command Palette Optimization]] | — | — | 🧭 Further Exploration | 643 |
 | 50 | [[Workflow Optimization]] | — | — | 🧭 Further Exploration | 646 |
-| 51 | [[Cognitive Load]] | — | — | 🧭 Further Exploration | 646 |
+| 51 | [[Cognitive-Load|Cognitive Load]] | — | — | 🧭 Further Exploration | 646 |
 | 52 | [[Workspace Architecture in Obsidian]] | — | — | 🧭 Further Exploration | 648 |
 | 53 | [[Context Switching]] | — | — | 🧭 Further Exploration | 651 |
 | 54 | [[Attention Management]] | — | — | 🧭 Further Exploration | 651 |
@@ -713,8 +713,8 @@ extraction_summary:
 | 80 | [[Templater]] | — | — | 🧭 Further Exploration | 699 |
 | 81 | [[QuickAdd]] | — | — | 🧭 Further Exploration | 699 |
 | 82 | [[Zettelkasten]] | — | — | 🧭 Further Exploration | 699 |
-| 83 | [[MOC]] | — | — | 🧭 Further Exploration | 699 |
-| 84 | [[Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 699 |
+| 83 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🧭 Further Exploration | 699 |
+| 84 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 699 |
 | 85 | [[User Interface Customization]] | — | — | 🧭 Further Exploration | 699 |
 | 86 | [[Workflow Optimization]] | — | — | 🧭 Further Exploration | 699 |
 | 87 | [[Context Switching]] | — | — | 🧭 Further Exploration | 699 |
@@ -759,7 +759,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
+[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[Maps-of-Content-—-MOCs|MOC]], [[Personal-Knowledge-Management|Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
 # ... (20 more lines truncated)
 ```
 
@@ -795,7 +795,7 @@ Information Architecture:
 - [[Automation]]
 - [[Capture]]
 - [[Capture Workflows]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Command Palette]]
 - [[Command Palette Optimization]]
 - [[Context Switching]]
@@ -812,12 +812,12 @@ Information Architecture:
 - [[Hotkeys]]
 - [[Interface Design]]
 - [[Literature Notes]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Mobile PKB Workflows]]
 - [[Mobile Workflow]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Plugin Ecosystem]]
 - [[Quick Switcher]]
 - [[QuickAdd]]

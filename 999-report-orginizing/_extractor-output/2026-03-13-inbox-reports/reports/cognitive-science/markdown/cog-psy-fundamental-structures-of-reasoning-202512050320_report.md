@@ -290,7 +290,7 @@ extraction_summary:
 > - Callouts: definitions, examples, key questions, warnings about common failures
 > - Visual: Mermaid diagram of element relationships
 > **WIKI-LINK OPPORTUNITIES:**
-> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]
+> [[Critical-Thinking|Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question-at-Issue|Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point-of-View|Point of View]], [[Intellectual-Standards|Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]
 > Let me search for authoritative information on the Paul-Elder Elements of Thought.
 > Now I have excellent foundational information. Let me search for more specific details about how the Elements interrelate and practical application examples.Excellent. Now I have comprehensive information about the Elements of Thought. Let me compile this into a detailed, encyclopedic report following all the specified formatting and content requirements. I have sufficient information about:
 > 1. The 8 Elements of Thought
@@ -317,7 +317,7 @@ extraction_summary:
 > 
 > **1. Elements of Thought (Reasoning Structures)**: The eight fundamental components present in all thinking—the "parts" or "anatomy" of reasoning that this document examines in depth.
 > 
-> **2. [[Intellectual Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
+> **2. [[Intellectual-Standards|Intellectual Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
 > 
 > **3. [[Intellectual Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.
 
@@ -580,13 +580,13 @@ extraction_summary:
 > [!connections-and-links] PKB Integration and Cross-References
 > The Elements of Thought connect to numerous other areas within a comprehensive personal knowledge base:
 > 
-> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
+> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual-Standards|Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
 > 
 > **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
 > 
-> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
+> **Epistemology**: The Information and Inference elements connect to [[Epistemic-Autonomy-—-Epistemology|Epistemology]], [[Justified-True-Belief|Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
-> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
+> **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring|Metacognitive Monitoring]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], and [[Reflective-Practice|Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
 > **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 
@@ -594,11 +594,11 @@ extraction_summary:
 > 
 > **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
-> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
+> **Cognitive Psychology**: The Elements align with findings in [[Cognitive-Psychology|Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 
 > **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).
 > 
-> **Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—"What is your purpose?" "What evidence supports that?" "What assumptions does that presuppose?" "What implications follow?"
+> **Socratic Questioning**: The Elements provide the structure for [[Socratic-Method|Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—"What is your purpose?" "What evidence supports that?" "What assumptions does that presuppose?" "What implications follow?"
 
 #### 35. [KEY-CLAIM] From Unconscious Incompetence to Conscious Mastery *(Line 981)*
 
@@ -655,12 +655,12 @@ extraction_summary:
 - [[Argumentation]]
 - [[Assumptions]]
 - [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Concepts]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Decision Making]]
 - [[Dialectical Reasoning]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethical Reasoning]]
 - [[Evidence-Based Argumentation]]
 - [[Experimental Design]]
@@ -672,30 +672,30 @@ extraction_summary:
 - [[Inference]]
 - [[Informal Fallacies]]
 - [[Information]]
-- [[Intellectual Standards]]
+- [[Intellectual-Standards|Intellectual Standards]]
 - [[Intellectual Standards - Universal Criteria for Reasoning Quality]]
 - [[Intellectual Traits]]
 - [[Intellectual Traits - Virtues of the Critical Thinker]]
 - [[Judgment Under Uncertainty]]
-- [[Justified True Belief]]
+- [[Justified-True-Belief|Justified True Belief]]
 - [[Literature Review Methodology]]
 - [[Logic]]
 - [[MOC - Paul-Elder Framework]]
 - [[Metacognition]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Moral Philosophy]]
 - [[Paul-Elder Framework]]
-- [[Point of View]]
+- [[Point-of-View|Point of View]]
 - [[Premise-Conclusion Structure]]
 - [[Probing Questions]]
 - [[Purpose in Reasoning]]
-- [[Question at Issue]]
+- [[Question-at-Issue|Question at Issue]]
 - [[Reasoning]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Scientific Method]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Skepticism]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning]]
 - [[Socratic Questioning - Disciplined Interrogation of Thinking]]
 - [[Sources of Knowledge]]
@@ -710,17 +710,17 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[The Elements of Thought: Fundamental Structures of Reasoning]] | — | — | Document Start | 39 |
-| 2 | [[Critical Thinking]] | — | — | The Elements of Thought: Fundamental ... | 166 |
+| 2 | [[Critical-Thinking|Critical Thinking]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 3 | [[Paul-Elder Framework]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 4 | [[Purpose in Reasoning]] | — | — | The Elements of Thought: Fundamental ... | 166 |
-| 5 | [[Question at Issue]] | — | — | The Elements of Thought: Fundamental ... | 166 |
+| 5 | [[Question-at-Issue|Question at Issue]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 6 | [[Information]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 7 | [[Inference]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 8 | [[Concepts]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 9 | [[Assumptions]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 10 | [[Implications]] | — | — | The Elements of Thought: Fundamental ... | 166 |
-| 11 | [[Point of View]] | — | — | The Elements of Thought: Fundamental ... | 166 |
-| 12 | [[Intellectual Standards]] | — | — | The Elements of Thought: Fundamental ... | 166 |
+| 11 | [[Point-of-View|Point of View]] | — | — | The Elements of Thought: Fundamental ... | 166 |
+| 12 | [[Intellectual-Standards|Intellectual Standards]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 13 | [[Reasoning]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 14 | [[Logic]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 15 | [[Argumentation]] | — | — | The Elements of Thought: Fundamental ... | 166 |
@@ -729,25 +729,25 @@ extraction_summary:
 | 18 | [[Socratic Questioning]] | — | — | The Elements of Thought: Fundamental ... | 166 |
 | 19 | [[Paul-Elder Framework]] | — | — | 🧠 The Elements of Thought: Fundamenta... | 184 |
 | 20 | [[Paul-Elder Framework]] | — | — | Integration Within the Paul-Elder Fra... | 245 |
-| 21 | [[Critical Thinking]] | — | — | Integration Within the Paul-Elder Fra... | 245 |
-| 22 | [[Intellectual Standards]] | — | — | Integration Within the Paul-Elder Fra... | 252 |
+| 21 | [[Critical-Thinking|Critical Thinking]] | — | — | Integration Within the Paul-Elder Fra... | 245 |
+| 22 | [[Intellectual-Standards|Intellectual Standards]] | — | — | Integration Within the Paul-Elder Fra... | 252 |
 | 23 | [[Intellectual Traits]] | — | — | Integration Within the Paul-Elder Fra... | 254 |
-| 24 | [[Intellectual Standards]] | — | — | How Elements Relate to Intellectual S... | 895 |
+| 24 | [[Intellectual-Standards|Intellectual Standards]] | — | — | How Elements Relate to Intellectual S... | 895 |
 | 25 | [[Intellectual Traits]] | — | — | How Elements Develop Intellectual Traits | 921 |
 | 26 | [[Paul-Elder Framework]] | — | — | 📚 Connections and Links | 949 |
-| 27 | [[Intellectual Standards]] | — | — | 📚 Connections and Links | 949 |
+| 27 | [[Intellectual-Standards|Intellectual Standards]] | — | — | 📚 Connections and Links | 949 |
 | 28 | [[Intellectual Traits]] | — | — | 📚 Connections and Links | 949 |
 | 29 | [[Argument Analysis]] | — | — | 📚 Connections and Links | 951 |
 | 30 | [[Premise-Conclusion Structure]] | — | — | 📚 Connections and Links | 951 |
 | 31 | [[Validity and Soundness]] | — | — | 📚 Connections and Links | 951 |
 | 32 | [[Informal Fallacies]] | — | — | 📚 Connections and Links | 951 |
-| 33 | [[Epistemology]] | — | — | 📚 Connections and Links | 953 |
-| 34 | [[Justified True Belief]] | — | — | 📚 Connections and Links | 953 |
+| 33 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | 📚 Connections and Links | 953 |
+| 34 | [[Justified-True-Belief|Justified True Belief]] | — | — | 📚 Connections and Links | 953 |
 | 35 | [[Sources of Knowledge]] | — | — | 📚 Connections and Links | 953 |
 | 36 | [[Skepticism]] | — | — | 📚 Connections and Links | 953 |
-| 37 | [[Metacognitive Monitoring]] | — | — | 📚 Connections and Links | 955 |
-| 38 | [[Self-Regulated Learning]] | — | — | 📚 Connections and Links | 955 |
-| 39 | [[Reflective Practice]] | — | — | 📚 Connections and Links | 955 |
+| 37 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 📚 Connections and Links | 955 |
+| 38 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📚 Connections and Links | 955 |
+| 39 | [[Reflective-Practice|Reflective Practice]] | — | — | 📚 Connections and Links | 955 |
 | 40 | [[Scientific Method]] | — | — | 📚 Connections and Links | 957 |
 | 41 | [[Hypothesis Testing]] | — | — | 📚 Connections and Links | 957 |
 | 42 | [[Experimental Design]] | — | — | 📚 Connections and Links | 957 |
@@ -758,7 +758,7 @@ extraction_summary:
 | 47 | [[Hermeneutics]] | — | — | 📚 Connections and Links | 961 |
 | 48 | [[Textual Analysis]] | — | — | 📚 Connections and Links | 961 |
 | 49 | [[Historical Interpretation]] | — | — | 📚 Connections and Links | 961 |
-| 50 | [[Cognitive Psychology]] | — | — | 📚 Connections and Links | 963 |
+| 50 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 📚 Connections and Links | 963 |
 | 51 | [[Heuristics and Biases]] | — | — | 📚 Connections and Links | 963 |
 | 52 | [[Decision Making]] | — | — | 📚 Connections and Links | 963 |
 | 53 | [[Judgment Under Uncertainty]] | — | — | 📚 Connections and Links | 963 |
@@ -766,7 +766,7 @@ extraction_summary:
 | 55 | [[Thesis Development]] | — | — | 📚 Connections and Links | 965 |
 | 56 | [[Evidence-Based Argumentation]] | — | — | 📚 Connections and Links | 965 |
 | 57 | [[Literature Review Methodology]] | — | — | 📚 Connections and Links | 965 |
-| 58 | [[Socratic Method]] | — | — | 📚 Connections and Links | 967 |
+| 58 | [[Socratic-Method|Socratic Method]] | — | — | 📚 Connections and Links | 967 |
 | 59 | [[Probing Questions]] | — | — | 📚 Connections and Links | 967 |
 | 60 | [[Dialectical Reasoning]] | — | — | 📚 Connections and Links | 967 |
 | 61 | [[Intellectual Standards - Universal Criteria for Reasoning Quality]] | — | — | 🔗 Related Topics for PKB Expansion | 1041 |
@@ -1478,12 +1478,12 @@ graph LR
 - [[Argumentation]]
 - [[Assumptions]]
 - [[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Concepts]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Decision Making]]
 - [[Dialectical Reasoning]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethical Reasoning]]
 - [[Evidence-Based Argumentation]]
 - [[Experimental Design]]
@@ -1495,30 +1495,30 @@ graph LR
 - [[Inference]]
 - [[Informal Fallacies]]
 - [[Information]]
-- [[Intellectual Standards]]
+- [[Intellectual-Standards|Intellectual Standards]]
 - [[Intellectual Standards - Universal Criteria for Reasoning Quality]]
 - [[Intellectual Traits]]
 - [[Intellectual Traits - Virtues of the Critical Thinker]]
 - [[Judgment Under Uncertainty]]
-- [[Justified True Belief]]
+- [[Justified-True-Belief|Justified True Belief]]
 - [[Literature Review Methodology]]
 - [[Logic]]
 - [[MOC - Paul-Elder Framework]]
 - [[Metacognition]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Moral Philosophy]]
 - [[Paul-Elder Framework]]
-- [[Point of View]]
+- [[Point-of-View|Point of View]]
 - [[Premise-Conclusion Structure]]
 - [[Probing Questions]]
 - [[Purpose in Reasoning]]
-- [[Question at Issue]]
+- [[Question-at-Issue|Question at Issue]]
 - [[Reasoning]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Scientific Method]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Skepticism]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Socratic Questioning]]
 - [[Socratic Questioning - Disciplined Interrogation of Thinking]]
 - [[Sources of Knowledge]]

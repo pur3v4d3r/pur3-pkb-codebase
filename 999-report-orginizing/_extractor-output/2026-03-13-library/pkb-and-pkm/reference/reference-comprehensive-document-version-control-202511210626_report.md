@@ -268,7 +268,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Central Principle: Logs as Cognitive Offloading**
-> Work logs reduce [[Cognitive Load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
+> Work logs reduce [[Cognitive-Load|Cognitive Load]] by externalizing memory about what you've done and why. This frees working memory for actual problem-solving rather than retrospective reconstruction.
 
 #### 6. [ANALOGY] Untitled *(Line 103)*
 
@@ -617,14 +617,14 @@ extraction_summary:
 - [[Building a Second Brain: Implementation Handbook]]
 - [[Change Management]]
 - [[Clockify]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Concurrency Patterns]]
 - [[Concurrency Patterns for Token Management]]
 - [[Conventional Commits]]
 - [[Dataview]]
 - [[Dendron]]
 - [[Documentation Systems]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emacs]]
 - [[File Naming Conventions]]
 - [[Foam]]
@@ -647,7 +647,7 @@ extraction_summary:
 - [[Obsidian Git]]
 - [[Obsidian Tasks Plugin]]
 - [[PARA Method]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Planning Fallacy]]
 - [[Progress Principle]]
 - [[Project Management]]
@@ -655,7 +655,7 @@ extraction_summary:
 - [[Project Name]]
 - [[Project Notes]]
 - [[Race Condition]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Related Concept]]
 - [[RescueTime]]
 - [[Revision History]]
@@ -690,12 +690,12 @@ extraction_summary:
 | 1 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Logging: for Work, Change, Document V... | 45 |
 | 2 | [[wiki-links]] | — | — | Logging: for Work, Change, Document V... | 49 |
 | 3 | [[Zettelkasten]] | — | — | What Work Logs Capture | 84 |
-| 4 | [[Cognitive Load]] | — | — | What Work Logs Capture | 88 |
+| 4 | [[Cognitive-Load|Cognitive Load]] | — | — | What Work Logs Capture | 88 |
 | 5 | [[Version Control]] | — | — | Why Work Logs Matter for Knowledge Wo... | 95 |
 | 6 | [[time management]] | — | — | Why Work Logs Matter for Knowledge Wo... | 98 |
 | 7 | [[Obsidian Daily Notes]] | — | — | Types of Work Logs: Taxonomy | 118 |
 | 8 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Types of Work Logs: Taxonomy | 121 |
-| 9 | [[Educational Psychology]] | — | — | Cognitive Benefits: The Psychology of... | 127 |
+| 9 | [[Educational-Psychology|Educational Psychology]] | — | — | Cognitive Benefits: The Psychology of... | 127 |
 | 10 | [[Progress Principle]] | — | — | Cognitive Benefits: The Psychology of... | 130 |
 | 11 | [[Metacognition]] | — | — | Cognitive Benefits: The Psychology of... | 133 |
 | 12 | [[Attention Residue]] | — | — | Cognitive Benefits: The Psychology of... | 136 |
@@ -715,7 +715,7 @@ extraction_summary:
 | 26 | [[Obsidian Tasks Plugin]] | — | — | ⚠️ Database Migration Planning | 258 |
 | 27 | [[Dataview]] | — | — | Week 1: Foundation & Research (2025-1... | 276 |
 | 28 | [[Templater]] | — | — | Week 1: Foundation & Research (2025-1... | 276 |
-| 29 | [[Reflective Practice]] | — | — | Week 2: Metadata Cleanup (2025-11-11 ... | 315 |
+| 29 | [[Reflective-Practice|Reflective Practice]] | — | — | Week 2: Metadata Cleanup (2025-11-11 ... | 315 |
 | 30 | [[OAuth Implementation Guide]] | — | — | 2025-11-21 Daily Note | 362 |
 | 31 | [[Concurrency Patterns]] | — | — | 2025-11-21 Daily Note | 363 |
 | 32 | [[obsidian]] | — | — | ⚙️ III. Practical Implementation Systems | 434 |
@@ -774,7 +774,7 @@ extraction_summary:
 | 85 | [[Git for Knowledge Workers: Beyond Code]] | — | — | 🔗 Related Topics for PKB Expansion | 1839 |
 | 86 | [[Temporal Analysis in Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1844 |
 | 87 | [[Building a Second Brain: Implementation Handbook]] | — | — | 🔗 Related Topics for PKB Expansion | 1849 |
-| 88 | [[Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1904 |
+| 88 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1904 |
 | 89 | [[Time Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1905 |
 | 90 | [[Project Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1906 |
 | 91 | [[Git]] | — | — | 🔗 Related Topics for PKB Expansion | 1907 |
@@ -1670,7 +1670,7 @@ Information Architecture:
 
 ```plaintext
 Wiki-Link Opportunities Identified:
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Time Management]]
 - [[Project Management]]
 - [[Git]]
@@ -1871,14 +1871,14 @@ Callout Strategy:
 - [[Building a Second Brain: Implementation Handbook]]
 - [[Change Management]]
 - [[Clockify]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Concurrency Patterns]]
 - [[Concurrency Patterns for Token Management]]
 - [[Conventional Commits]]
 - [[Dataview]]
 - [[Dendron]]
 - [[Documentation Systems]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emacs]]
 - [[File Naming Conventions]]
 - [[Foam]]
@@ -1901,7 +1901,7 @@ Callout Strategy:
 - [[Obsidian Git]]
 - [[Obsidian Tasks Plugin]]
 - [[PARA Method]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Planning Fallacy]]
 - [[Progress Principle]]
 - [[Project Management]]
@@ -1909,7 +1909,7 @@ Callout Strategy:
 - [[Project Name]]
 - [[Project Notes]]
 - [[Race Condition]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Related Concept]]
 - [[RescueTime]]
 - [[Revision History]]

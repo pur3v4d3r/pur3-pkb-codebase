@@ -130,39 +130,39 @@ prerequisites:
 
 related:
   - "[[Deductive Reasoning in Education]]"
-  - "[[Abductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
   - "[[Scientific Method]]"
   - "[[Metacognition and Lifelong Learning]]"
   - "[[Metacognition and Critical Thinking]]"
-  - "[[Transfer of Learning]]"
-  - "[[Inquiry-Based Learning]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
 
 broader:
   - "[[Reasoning and Argumentation]]"
-  - "[[Epistemology]]"
-  - "[[Cognitive Science]]"
+  - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 narrower:
-  - "[[Analogical Reasoning]]"
-  - "[[Causal Induction]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
+  - "[[Causal-Induction|Causal Induction]]"
   - "[[Statistical Reasoning]]"
-  - "[[Enumerative Induction]]"
+  - "[[Enumerative-Induction|Enumerative Induction]]"
 
 see-also:
   - "[[Bayesian Reasoning]]"
-  - "[[Confirmation Bias]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
   - "[[Problem-Based Learning]]"
   - "[[Discovery Learning]]"
 
 contrasts-with:
-  - "[[Deductive Reasoning]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
   - "[[Direct Instruction Models]]"
 
 applied-in:
   - "[[STEM Education]]"
   - "[[Scientific Inquiry in Schools]]"
   - "[[Data Literacy Education]]"
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -172,13 +172,13 @@ builds-on:
   - "[[Metacognition and Lifelong Learning]]"
 
 enables:
-  - "[[Transfer of Learning]]"
-  - "[[Epistemic Calibration]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Epistemic-Calibration|Epistemic Calibration]]"
   - "[[Scientific Reasoning in Education]]"
   - "[[Deliberate Practice Frameworks]]"
 
 expansion-topics:
-  - topic: "[[Transfer of Learning]]"
+  - topic: "[[Transfer-of-Learning|Transfer of Learning]]"
     description: "Inductive reasoning is a primary vehicle through which learners transfer knowledge across domains — understanding the conditions for transfer illuminates when inductive generalizations hold."
     priority: high
   - topic: "[[Bayesian Reasoning and Probabilistic Thinking in Education]]"
@@ -257,7 +257,7 @@ generation-date: "2026-03-06"
 
 Every child who has ever burned their fingers on a hot stove and subsequently treated all stoves with caution has, in that moment, performed an act of inductive reasoning. A single painful observation becomes a generalization: *hot things burn; stoves are hot; approach stoves with care.* No formal syllogism was required, no deductive chain from axioms to conclusion. The knowledge arrived through the oldest and most pervasive mode of human learning — reasoning from experience to general principle, from particular instance to broader pattern.
 
-This fundamental cognitive act underlies much of what we call learning. When a student notices that three consecutive multiplication problems with negative numbers produced positive results and hypothesizes that "two negatives make a positive," they are reasoning inductively. When a historian observes that economic instability preceded multiple revolutions and formulates a tentative causal hypothesis, they are reasoning inductively. When a biologist catalogues hundreds of organisms to propose an evolutionary relationship, they are reasoning inductively. [[Inductive reasoning]] is not merely a tool of formal inquiry; it is a cornerstone of the cognitive architecture through which humans make sense of an uncertain and pattern-rich world.
+This fundamental cognitive act underlies much of what we call learning. When a student notices that three consecutive multiplication problems with negative numbers produced positive results and hypothesizes that "two negatives make a positive," they are reasoning inductively. When a historian observes that economic instability preceded multiple revolutions and formulates a tentative causal hypothesis, they are reasoning inductively. When a biologist catalogues hundreds of organisms to propose an evolutionary relationship, they are reasoning inductively. [[Inductive-Reasoning|Inductive reasoning]] is not merely a tool of formal inquiry; it is a cornerstone of the cognitive architecture through which humans make sense of an uncertain and pattern-rich world.
 
 Yet despite its ubiquity and importance, inductive reasoning occupies a strangely contested position in both philosophy and pedagogy. In philosophy, [[David Hume]] demonstrated more than two centuries ago that no accumulation of particular observations can ever logically guarantee the truth of a general conclusion — a devastating insight that [[Karl Popper]] later called "the problem of induction" and that remains, in its pure form, philosophically unresolved. In education, the question of how explicitly and how early to teach inductive reasoning skills is actively debated, with competing claims about whether discovery-based, inductive pedagogies outperform direct instruction across different learner populations and domains.
 
@@ -318,11 +318,11 @@ Inductive reasoning is not a single, monolithic cognitive operation. Several dis
 
 *Enumerative induction* is the simplest and most familiar form: observing multiple instances of a pattern and generalizing to all cases. "Every crow I have ever seen is black; therefore, all crows are black." This is the form Hume dissected and it is the form most vulnerable to the single counterexample.
 
-*[[Analogical reasoning]]* proceeds from the similarity between cases: if situation A has certain features and produces outcome X, and situation B shares those features, then B is likely to produce X as well. Analogical induction underlies much expert reasoning, pedagogical explanation (the teacher who says "this is like..."), and hypothesis generation in science.
+*[[Analogical-Reasoning|Analogical reasoning]]* proceeds from the similarity between cases: if situation A has certain features and produces outcome X, and situation B shares those features, then B is likely to produce X as well. Analogical induction underlies much expert reasoning, pedagogical explanation (the teacher who says "this is like..."), and hypothesis generation in science.
 
 *Statistical induction* moves from sample properties to population properties and is the formal domain of inferential statistics. It incorporates explicit probability estimates and accounts for sampling variation, making it a more rigorous form of enumerative induction.
 
-*[[Causal induction]]* is the inference that one type of event or condition regularly produces another — what philosophers call a causal relationship. This form is particularly central in science and in everyday reasoning about why things happen. Research by [[Alison Gopnik]] and colleagues has shown that even infants and toddlers engage in remarkably sophisticated causal induction, updating their causal beliefs in Bayesian-consistent ways.
+*[[Causal-Induction|Causal induction]]* is the inference that one type of event or condition regularly produces another — what philosophers call a causal relationship. This form is particularly central in science and in everyday reasoning about why things happen. Research by [[Alison Gopnik]] and colleagues has shown that even infants and toddlers engage in remarkably sophisticated causal induction, updating their causal beliefs in Bayesian-consistent ways.
 
 > [!reflection] **Deepening Your Understanding**
 > 1. Recall a belief you hold with high confidence that you arrived at through inductive reasoning. How many observations formed the basis of that belief? Have you actively sought disconfirming evidence, or primarily noticed confirming instances?
@@ -335,7 +335,7 @@ Inductive reasoning is not a single, monolithic cognitive operation. Several dis
 
 ### Bayesian Inference: The Normative Model
 
-The most formally developed account of inductive reasoning in contemporary cognitive science is [[Bayesian Inference]]. The Bayesian framework treats reasoning as a process of belief updating: a reasoner begins with prior probability estimates about hypotheses and revises them in light of new evidence according to Bayes' theorem. The posterior probability of a hypothesis is a function of both the prior probability and the likelihood that the evidence would appear given the hypothesis.
+The most formally developed account of inductive reasoning in contemporary cognitive science is [[Bayesian-Inference|Bayesian Inference]]. The Bayesian framework treats reasoning as a process of belief updating: a reasoner begins with prior probability estimates about hypotheses and revises them in light of new evidence according to Bayes' theorem. The posterior probability of a hypothesis is a function of both the prior probability and the likelihood that the evidence would appear given the hypothesis.
 
 > [!key-claim] **The Bayesian Account of Induction**
 > On the Bayesian view, the problem of induction is dissolved rather than solved: we never achieve certainty through inductive inference, but we can rationally increase or decrease the probability we assign to hypotheses in proportion to the evidence. Strong inductive arguments are those that significantly raise the posterior probability of their conclusions; weak arguments move probability only slightly. Inductive reasoning is rational not when it guarantees truth but when it updates beliefs in proportion to evidence.
@@ -360,14 +360,14 @@ Vygotsky's contribution complemented Piaget's by emphasizing the social and ling
 
 [[Jerome Bruner]]'s work in the 1960s provided one of the most influential educational articulations of inductive learning. In *The Process of Education* (1960) and *Toward a Theory of Instruction* (1966), Bruner argued that learners learn best when they are encouraged to discover principles themselves rather than having those principles presented directly. Bruner called this the *spiral curriculum*: students revisit fundamental ideas at increasing levels of abstraction, moving from concrete instances through pictorial representations to formal symbolic expression. This architectural principle is intrinsically inductive — students encounter specific cases and are guided toward their own generalizations.
 
-Bruner's [[Discovery Learning]] framework was later refined and extended into [[Inquiry-Based Learning]] (IBL), which has become one of the most researched pedagogical approaches in science and mathematics education. IBL explicitly positions students as inductive inquirers: they pose questions, design observations or experiments, collect data, identify patterns, and construct generalizations — often with teacher guidance calibrated to student readiness.
+Bruner's [[Discovery Learning]] framework was later refined and extended into [[Inquiry-Based-Learning|Inquiry-Based Learning]] (IBL), which has become one of the most researched pedagogical approaches in science and mathematics education. IBL explicitly positions students as inductive inquirers: they pose questions, design observations or experiments, collect data, identify patterns, and construct generalizations — often with teacher guidance calibrated to student readiness.
 
 > [!insight] **The Bruner-Ausubel Debate**
-> Bruner's discovery learning was famously challenged by David Ausubel, who argued that reception learning — in which well-organized, meaningful content is presented directly to learners — is cognitively more efficient than inductive discovery, especially for complex or abstract content. This debate prefigures the ongoing controversy between [[Inquiry-Based Learning]] and direct instruction models and is not fully resolved. The evidence suggests that the optimal balance depends heavily on learner prior knowledge, domain characteristics, and the quality of scaffolding provided.
+> Bruner's discovery learning was famously challenged by David Ausubel, who argued that reception learning — in which well-organized, meaningful content is presented directly to learners — is cognitively more efficient than inductive discovery, especially for complex or abstract content. This debate prefigures the ongoing controversy between [[Inquiry-Based-Learning|Inquiry-Based Learning]] and direct instruction models and is not fully resolved. The evidence suggests that the optimal balance depends heavily on learner prior knowledge, domain characteristics, and the quality of scaffolding provided.
 
 ### Dual-Process Theory and Inductive Heuristics
 
-A third influential theoretical perspective on inductive reasoning comes from [[Dual-Process Theory]], associated most prominently with Daniel Kahneman's distinction between System 1 (fast, automatic, heuristic) and System 2 (slow, deliberate, analytic) processing. Much of everyday inductive reasoning operates through System 1: fast pattern-matching and generalization that has been shaped by experience into rapid, largely unconscious inference. This fast induction is cognitively efficient and often accurate, but it is also the source of characteristic errors — the availability heuristic, representativeness heuristic, and confirmation bias all reflect the automatic application of inductive-style pattern matching to situations where more deliberate probabilistic reasoning would be warranted.
+A third influential theoretical perspective on inductive reasoning comes from [[Dual-Process-Theory|Dual-Process Theory]], associated most prominently with Daniel Kahneman's distinction between System 1 (fast, automatic, heuristic) and System 2 (slow, deliberate, analytic) processing. Much of everyday inductive reasoning operates through System 1: fast pattern-matching and generalization that has been shaped by experience into rapid, largely unconscious inference. This fast induction is cognitively efficient and often accurate, but it is also the source of characteristic errors — the availability heuristic, representativeness heuristic, and confirmation bias all reflect the automatic application of inductive-style pattern matching to situations where more deliberate probabilistic reasoning would be warranted.
 
 The implication for education is significant: teaching inductive reasoning is not simply a matter of teaching a skill, but of helping learners recognize when their fast, heuristic inductive processes are leading them astray and when to engage slower, more deliberate analysis. This is intrinsically a [[Metacognition|metacognitive]] task — a matter of monitoring and regulating one's own reasoning processes.
 
@@ -396,7 +396,7 @@ Critically, the quality of hypothesis generation matters enormously for inductiv
 > [!key-insight] **Theory-Evidence Coordination**
 > One of the most important and under-developed inductive reasoning skills is the ability to distinguish between a hypothesis and the evidence bearing on it, and to evaluate evidence independently of one's current theoretical commitments. This capacity — called *theory-evidence coordination* by Deanna Kuhn — develops slowly through adolescence and is not fully mature even in many adults. Its development is a legitimate educational goal that requires explicit cultivation.
 
-**Analogical mapping.** Analogical reasoning — identifying structural similarities between cases and using them to transfer knowledge — is among the most powerful and educationally significant forms of inductive inference. Research by [[Dedre Gentner]] on [[Structure-Mapping Theory]] shows that productive analogical induction depends on aligning relational structures, not merely surface features. A student who recognizes that electrical circuits are like water flow systems benefits cognitively not because wires and pipes look alike but because the structural relationships (potential difference ↔ pressure, current ↔ flow rate, resistance ↔ constriction) align in ways that allow knowledge about one domain to constrain predictions in the other.
+**Analogical mapping.** Analogical reasoning — identifying structural similarities between cases and using them to transfer knowledge — is among the most powerful and educationally significant forms of inductive inference. Research by [[Dedre-Gentner|Dedre Gentner]] on [[Structure-Mapping-Theory|Structure-Mapping Theory]] shows that productive analogical induction depends on aligning relational structures, not merely surface features. A student who recognizes that electrical circuits are like water flow systems benefits cognitively not because wires and pipes look alike but because the structural relationships (potential difference ↔ pressure, current ↔ flow rate, resistance ↔ constriction) align in ways that allow knowledge about one domain to constrain predictions in the other.
 
 > [!ask-yourself-this] **Monitoring Your Own Inductive Reasoning**
 > Think of the last time you encountered a new concept, technique, or problem in your field. Did you reason by analogy — mapping it onto something you already understood? What was the source domain, and which structural features did you actually map? Were any of those mappings misleading? This exercise in tracing your own analogical reasoning is a powerful form of metacognitive practice.
@@ -408,7 +408,7 @@ The pedagogical implication is important: varied, carefully chosen examples are 
 > [!thought-experiment] **The Example Set Problem**
 > Suppose you are teaching the concept of "prime number" inductively. You present the examples: 2, 3, 5, 7, 11, 13. A student notices that all these numbers are odd (with the exception of 2, which they might not notice or might dismiss as an anomaly). They form the generalization "prime numbers are odd." Now present 2 as an example. The student's generalization faces a counterexample. This is productive cognitive conflict — but only if the student has developed enough inductive sophistication to treat the counterexample as evidence against their hypothesis rather than as an anomalous exception to dismiss. What does this suggest about the sequencing of examples and the kinds of metacognitive support learners need?
 
-**Consolidation and abstraction.** Over time, with repeated experience and reflection, inductive generalizations become progressively more abstract and robust. The learner moves from "I've noticed these three things tend to go together" to "X causes Y under conditions Z" — from a fragile, instance-tied impression to a stable, generalizable principle. This consolidation process is supported by [[Sleep and Memory Consolidation|sleep-dependent memory consolidation]], by [[Retrieval Practice|repeated retrieval]], and by what [[Robert Bjork]] called [[Desirable Difficulties]] — the slightly harder, spacing-based retrieval conditions that force active reconstruction and thereby strengthen the abstract representation at the expense of the surface-level episodic memory.
+**Consolidation and abstraction.** Over time, with repeated experience and reflection, inductive generalizations become progressively more abstract and robust. The learner moves from "I've noticed these three things tend to go together" to "X causes Y under conditions Z" — from a fragile, instance-tied impression to a stable, generalizable principle. This consolidation process is supported by [[Sleep and Memory Consolidation|sleep-dependent memory consolidation]], by [[Retrieval Practice|repeated retrieval]], and by what [[Robert Bjork]] called [[Desirable-Difficulties|Desirable Difficulties]] — the slightly harder, spacing-based retrieval conditions that force active reconstruction and thereby strengthen the abstract representation at the expense of the surface-level episodic memory.
 
 > [!reflection] **Understanding the Machinery**
 > 1. Which mechanism described in this section — statistical learning, hypothesis testing, analogical mapping, generalization, consolidation — do you think is most educationally neglected? What would teaching that targets it explicitly look like?
@@ -423,7 +423,7 @@ The pedagogical implication is important: varied, carefully chosen examples are 
 
 The theory and mechanisms of inductive reasoning translate into concrete instructional practices across multiple educational domains.
 
-In **science education**, the connection to inductive reasoning is most direct and most extensively studied. [[Inquiry-Based Learning]] in science positions students as investigators who observe, hypothesize, test, and generalize — a full inductive cycle. Meta-analyses by Minner and colleagues (2010) and Furtak and colleagues (2012) found meaningful positive effects of inquiry-based science instruction on student conceptual understanding and reasoning, with the strongest effects appearing when students are supported through all phases of the inquiry cycle rather than simply exposed to open-ended investigation. The critical finding is that the inductive process must be scaffolded: students who are left to discover without guidance often fail to coordinate theory and evidence productively, and may actually entrench misconceptions rather than overcome them.
+In **science education**, the connection to inductive reasoning is most direct and most extensively studied. [[Inquiry-Based-Learning|Inquiry-Based Learning]] in science positions students as investigators who observe, hypothesize, test, and generalize — a full inductive cycle. Meta-analyses by Minner and colleagues (2010) and Furtak and colleagues (2012) found meaningful positive effects of inquiry-based science instruction on student conceptual understanding and reasoning, with the strongest effects appearing when students are supported through all phases of the inquiry cycle rather than simply exposed to open-ended investigation. The critical finding is that the inductive process must be scaffolded: students who are left to discover without guidance often fail to coordinate theory and evidence productively, and may actually entrench misconceptions rather than overcome them.
 
 > [!best-practice] **Structured Inquiry Over Unguided Discovery**
 > The research evidence consistently supports *structured* or *guided* inquiry over fully open-ended discovery for most learners and most content. In structured inquiry, the teacher specifies the question and often the materials, while students design or conduct the investigation and develop their own explanations. In guided inquiry, students participate in selecting the question. Fully open inquiry — where students generate question, design, and conclusion independently — produces the best learning only for learners who already possess strong domain knowledge and inquiry skills. For novices, minimal guidance during problem-solving is not effective and not efficient.
@@ -441,7 +441,7 @@ In **data literacy and statistics education**, the explicit cultivation of stati
 
 Drawing across the research literature, several instructional design principles emerge as well-supported for cultivating inductive reasoning:
 
-**Vary the example set intentionally.** The examples that learners encounter constitute their evidence base for inductive inference. Well-designed instructional example sets include relevant variation (cases that differ on non-essential features) and boundary cases (cases near the edges of the concept) to support accurate generalizations and appropriate abstraction. Research by Bransford and colleagues on [[Transfer-Appropriate Processing]] confirms that variability in examples during learning supports broader transfer.
+**Vary the example set intentionally.** The examples that learners encounter constitute their evidence base for inductive inference. Well-designed instructional example sets include relevant variation (cases that differ on non-essential features) and boundary cases (cases near the edges of the concept) to support accurate generalizations and appropriate abstraction. Research by Bransford and colleagues on [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] confirms that variability in examples during learning supports broader transfer.
 
 **Make the inductive process explicit.** Many students reason inductively without realizing they are doing so, and many instructors intend to cultivate inductive skills without making the reasoning process visible. Explicit instruction in the *structure* of inductive inference — "we are looking for a pattern in these cases; what do they have in common? how confident should we be? what would change our mind?" — accelerates metacognitive development and helps students become more deliberate and self-regulating as inductive reasoners.
 
@@ -463,7 +463,7 @@ An intellectually honest treatment of inductive reasoning in education requires 
 **Transfer is not guaranteed.** Perhaps the most sobering finding in the learning sciences is that inductive generalizations formed in one context do not automatically transfer to other contexts. Students who have mastered pattern recognition in one domain do not automatically apply those patterns in novel domains, and students who have learned to reason inductively in science do not automatically apply inductive discipline in history or mathematics. The conditions that support transfer — interleaved practice, varied contexts, explicit connection-making — are reasonably well understood, but they are demanding to implement and frequently neglected.
 
 > [!warning] **The Illusion of Understanding Through Discovery**
-> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+> Research on the [[Fluency-Illusion|Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
 
 **The cultural dimension is understudied.** [[Richard Nisbett]] and colleagues have documented systematic cultural variation in reasoning styles, with East Asian reasoners showing greater tendency toward holistic, context-sensitive thinking and Western reasoners showing greater tendency toward analytic, rule-based reasoning — differences that may reflect different modes of inductive generalization. Educational research on inductive reasoning has been conducted primarily in Western, WEIRD (Western, Educated, Industrialized, Rich, Democratic) contexts, and its applicability across diverse cultural contexts is not adequately established.
 
@@ -499,7 +499,7 @@ For learners themselves, understanding that their own knowledge is inductively c
 >
 > - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework for critical thinking and Schön's reflection-in/on-action both presuppose inductive competence: the ability to reason from specific observations and experiences to generalizable principles. Theory-evidence coordination — identified in this report as a central challenge in inductive learning — is a specific critical thinking skill addressed in the reflective judgment work of King and Kitchener. The two reports together constitute a more complete account of mature epistemic cognition than either achieves alone.
 >
-> - **[[Transfer of Learning]]** — Transfer is the ultimate test of inductive learning: a generalization that cannot be applied beyond its original context is, from a learning science perspective, incomplete. The conditions identified in this report as supporting inductive learning — varied examples, explicit principle articulation, counterexample encounters — are closely aligned with the conditions identified in the transfer literature as supporting near and far transfer. A report on transfer would deepen the treatment of these conditions considerably.
+> - **[[Transfer-of-Learning|Transfer of Learning]]** — Transfer is the ultimate test of inductive learning: a generalization that cannot be applied beyond its original context is, from a learning science perspective, incomplete. The conditions identified in this report as supporting inductive learning — varied examples, explicit principle articulation, counterexample encounters — are closely aligned with the conditions identified in the transfer literature as supporting near and far transfer. A report on transfer would deepen the treatment of these conditions considerably.
 >
 > The pattern across these connections reveals that inductive reasoning is not a standalone cognitive skill but a process that is scaffolded by metacognition, evaluated through critical thinking, and validated by transfer. These four concepts form a tight cluster — a conceptual web — in which each illuminates the others. Building fluency in this cluster is a higher-order educational goal that transcends any single course, discipline, or age range.
 
@@ -588,7 +588,7 @@ For learners themselves, understanding that their own knowledge is inductively c
 
 > [!further-exploration] **Deepening Your Practice**
 
-> > [!topic-idea] [[Transfer of Learning]]
+> > [!topic-idea] [[Transfer-of-Learning|Transfer of Learning]]
 > > Inductive generalization and transfer are two faces of the same coin: generalization is the formation of a potentially transferable principle; transfer is that principle's successful application in a new context. A dedicated report on transfer would investigate the classic near/far transfer distinction, the conditions that support or inhibit transfer (interleaving, varied practice, explicit principle articulation, contextual variation), and the theoretical accounts — identical elements theory, preparation for future learning, analogy-based transfer — that explain when and why transfer occurs. The connection to inductive reasoning is direct: poorly formed inductive generalizations transfer poorly, and transfer failures are often diagnostically informative about the quality of the underlying inductive learning.
 
 > > [!topic-idea] [[Bayesian Reasoning and Probabilistic Thinking in Education]]

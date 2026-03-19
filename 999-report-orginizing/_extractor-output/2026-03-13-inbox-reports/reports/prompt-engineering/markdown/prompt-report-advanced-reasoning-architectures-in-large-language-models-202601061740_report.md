@@ -202,9 +202,9 @@ extraction_summary:
 - [[Bereiter and Scardamalia's (1987)]]
 - [[Chain of Verification]]
 - [[Chain-of-Thought]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chi et al. (1981)]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory-Applications-to-LLM-Prompting]]
 - [[Comparative-Analysis-of-Vector-Databases-for-RAG]]
 - [[Condorcet's Jury Theorem]]
@@ -238,10 +238,10 @@ extraction_summary:
 | 1 | [[**Advanced Reasoning Architectures in Large Language Models: A Comprehensive Analysis of Claude's Extended Thinking Framework and Prompt-Engineered Reasoning Methodologies**]] | — | — | Foundational Understanding | 101 |
 | 2 | [[Kahneman's Dual Process Theory]] | — | — | The Cognitive Architecture of Modern ... | 129 |
 | 3 | [[Chi et al. (1981)]] | — | — | The Cognitive Architecture of Modern ... | 135 |
-| 4 | [[Cognitive Load Theory]] | — | — | Theoretical Underpinnings from Cognit... | 141 |
+| 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Theoretical Underpinnings from Cognit... | 141 |
 | 5 | [[Cowan's Capacity Estimates]] | — | — | Theoretical Underpinnings from Cognit... | 141 |
 | 6 | [[Bereiter and Scardamalia's (1987)]] | — | — | The Role of Thinking Tags in Reasonin... | 167 |
-| 7 | [[Chain-of-Thought Prompting]] | — | — | Empirical Evidence for Extended Think... | 171 |
+| 7 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Empirical Evidence for Extended Think... | 171 |
 | 8 | [[GSM8K]] | — | — | Empirical Evidence for Extended Think... | 171 |
 | 9 | [[Tree of Thoughts]] | — | — | Empirical Evidence for Extended Think... | 173 |
 | 10 | [[Game of 24]] | — | — | Empirical Evidence for Extended Think... | 173 |
@@ -1077,9 +1077,9 @@ description includes Review
 - [[Bereiter and Scardamalia's (1987)]]
 - [[Chain of Verification]]
 - [[Chain-of-Thought]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chi et al. (1981)]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Load-Theory-Applications-to-LLM-Prompting]]
 - [[Comparative-Analysis-of-Vector-Databases-for-RAG]]
 - [[Condorcet's Jury Theorem]]

@@ -547,9 +547,9 @@ extraction_summary:
 
 > [!related-topics-to-consider] Untitled
 > **Prerequisite Knowledge**
-> - `[[Personal Knowledge Management]]` — The broader practice in which naming conventions exist
+> - `[[Personal-Knowledge-Management|Personal Knowledge Management]]` — The broader practice in which naming conventions exist
 > - `[[Zettelkasten Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
-> - `[[Information Architecture]]` — The discipline of organizing information for findability and usability
+> - `[[Information-Architecture|Information Architecture]]` — The discipline of organizing information for findability and usability
 > 
 > **Directly Related Topics**
 > - `[[Folder Structure Strategies]]` — How folder organization interacts with naming conventions
@@ -611,21 +611,21 @@ extraction_summary:
 - [[Git and Version Control for PKB]]
 - [[Graph View Optimization]]
 - [[ISO 8601 Date Format]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Johnny Decimal System]]
 - [[Linking Strategies]]
 - [[Linking Your Thinking]]
 - [[Linking Your Thinking (LYT)]]
-- [[MOCs]]
+- [[Maps-of-Content-—-MOCs|MOCs]]
 - [[Metadata and Frontmatter]]
 - [[Metadata and Frontmatter Strategies]]
 - [[Obsidian Workflow Optimization]]
 - [[Overview]]
 - [[PARA Method]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophy/Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoicism]]
 - [[Stoicism Overview]]
 - [[Tagging Systems]]
@@ -651,11 +651,11 @@ extraction_summary:
 | 5 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 🗃️ Zettelkasten Approaches | 111 |
 | 6 | [[para method]] | — | — | 📦 PARA Method Naming | 137 |
 | 7 | [[linking your thinking]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
-| 8 | [[MOCs]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
+| 8 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 🔗 LYT (Linking Your Thinking) Framework | 162 |
 | 9 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 🖥️ Obsidian-Specific Considerations | 255 |
 | 10 | [[Wiki-Links]] | — | — | 🔗 Wiki-Link Best Practices | 284 |
 | 11 | [[Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 286 |
-| 12 | [[Stoic Philosophy]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
+| 12 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 13 | [[Stoicism Overview]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 14 | [[Ancient Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 295 |
 | 15 | [[Philosophy/Stoicism]] | — | — | 🔗 Wiki-Link Best Practices | 297 |
@@ -664,9 +664,9 @@ extraction_summary:
 | 18 | [[Overview]] | — | — | 🚨 Anti-Patterns & Pitfalls | 571 |
 | 19 | [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
 | 20 | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] | — | — | <% tp.date.now("MMMM Do, YYYY") %> | 667 |
-| 21 | [[Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 742 |
+| 21 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧭 Further Exploration | 742 |
 | 22 | [[Zettelkasten Method]] | — | — | 🧭 Further Exploration | 743 |
-| 23 | [[Information Architecture]] | — | — | 🧭 Further Exploration | 744 |
+| 23 | [[Information-Architecture|Information Architecture]] | — | — | 🧭 Further Exploration | 744 |
 | 24 | [[Folder Structure Strategies]] | — | — | 🧭 Further Exploration | 747 |
 | 25 | [[Tagging Systems]] | — | — | 🧭 Further Exploration | 748 |
 | 26 | [[Metadata and Frontmatter]] | — | — | 🧭 Further Exploration | 749 |
@@ -683,9 +683,9 @@ extraction_summary:
 | 37 | [[Unicode and Emoji in Filenames]] | — | — | 🧭 Further Exploration | 767 |
 | 38 | [[Regular Expressions for Filename Parsing]] | — | — | 🧭 Further Exploration | 768 |
 | 39 | [[Git and Version Control for PKB]] | — | — | 🧭 Further Exploration | 769 |
-| 40 | [[Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 782 |
+| 40 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 782 |
 | 41 | [[Zettelkasten Method]] | — | — | 🔗 Related Topics for PKB Expansion | 783 |
-| 42 | [[Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 784 |
+| 42 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 784 |
 | 43 | [[PARA Method]] | — | — | 🔗 Related Topics for PKB Expansion | 785 |
 | 44 | [[Linking Your Thinking]] | — | — | 🔗 Related Topics for PKB Expansion | 786 |
 | 45 | [[Obsidian Workflow Optimization]] | — | — | 🔗 Related Topics for PKB Expansion | 787 |
@@ -976,21 +976,21 @@ for root, dirs, files in os.walk(vault_path):
 - [[Git and Version Control for PKB]]
 - [[Graph View Optimization]]
 - [[ISO 8601 Date Format]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Johnny Decimal System]]
 - [[Linking Strategies]]
 - [[Linking Your Thinking]]
 - [[Linking Your Thinking (LYT)]]
-- [[MOCs]]
+- [[Maps-of-Content-—-MOCs|MOCs]]
 - [[Metadata and Frontmatter]]
 - [[Metadata and Frontmatter Strategies]]
 - [[Obsidian Workflow Optimization]]
 - [[Overview]]
 - [[PARA Method]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophy/Stoicism]]
 - [[Regular Expressions for Filename Parsing]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoicism]]
 - [[Stoicism Overview]]
 - [[Tagging Systems]]

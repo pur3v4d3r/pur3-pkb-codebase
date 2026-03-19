@@ -132,19 +132,19 @@ extraction_summary:
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 48)*
 
 > [!core-principle] Untitled
-> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.
+> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working-Memory|Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical-Thinking|Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.
 
 #### 4. [ATOMIC-CONCEPT] Untitled *(Line 57)*
 
 > [!atomic-concept] Untitled
 > **The Associative Phase**
-> This transitional phase represents the "tuning" of the skill. Here, errors are detected and corrected more distinctively. The declarative verbalization drops away, and the learner begins to associate specific environmental cues with required actions. In the context of [[Critical Thinking]], this is where a learner stops reciting the definition of a "Strawman Fallacy" and begins to instinctively recognize the pattern of the fallacy in a rhetorical argument.
+> This transitional phase represents the "tuning" of the skill. Here, errors are detected and corrected more distinctively. The declarative verbalization drops away, and the learner begins to associate specific environmental cues with required actions. In the context of [[Critical-Thinking|Critical Thinking]], this is where a learner stops reciting the definition of a "Strawman Fallacy" and begins to instinctively recognize the pattern of the fallacy in a rhetorical argument.
 
 #### 5. [KEY-CLAIM] Untitled *(Line 67)*
 
 > [!key-claim] Untitled
 > **The Experience Paradox**
-> In [[Andragogy]], the learner’s prior experience is a double-edged sword. It provides a rich resource for mental scaffolding (anchoring new concepts to old ones), but it also houses deep-seated **cognitive biases** and ossified schemas. Therefore, acquiring expert-level [[Critical Thinking]] often requires **Unlearning**—the deliberate dismantling of previous misconceptions before new architecture can be built.
+> In [[Andragogy]], the learner’s prior experience is a double-edged sword. It provides a rich resource for mental scaffolding (anchoring new concepts to old ones), but it also houses deep-seated **cognitive biases** and ossified schemas. Therefore, acquiring expert-level [[Critical-Thinking|Critical Thinking]] often requires **Unlearning**—the deliberate dismantling of previous misconceptions before new architecture can be built.
 
 #### 6. [EVIDENCE] Untitled *(Line 79)*
 
@@ -179,10 +179,10 @@ extraction_summary:
 > > [!topic-idea] [[Interleaving vs. Blocking]]
 > > Explore how mixing different types of problems improves inductive learning and transfer, contrary to the intuition of blocked practice.
 > 
-> > [!topic-idea] [[Double-Loop Learning]]
+> > [!topic-idea] [[Double-Loop-Learning|Double-Loop Learning]]
 > > Investigate Argyris’s concept of not just solving the problem (single-loop) but questioning the underlying variables and policies that created the problem (double-loop).
 > 
-> > [!topic-idea] [[Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > > A deeper dive into how intrinsic, extraneous, and germane load affects the design of instructional materials for adults.
 
 #### 12. [SUMMARY] Untitled *(Line 131)*
@@ -229,13 +229,13 @@ extraction_summary:
 
 - [[Advanced Andragogy]]
 - [[Andragogy]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Mastery]]
-- [[Cognitive Psychology]]
-- [[Critical Thinking]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate Practice]]
 - [[Divergent Thinking]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
 - [[Evolutionary Psychology]]
 - [[Expertise Development]]
@@ -246,7 +246,7 @@ extraction_summary:
 - [[Neuroplasticity]]
 - [[Novice to Expert Continuum]]
 - [[Systems Thinking]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
@@ -256,32 +256,32 @@ extraction_summary:
 | 2 | [[Cognitive Mastery]] | — | — | Expertise Development | 30 |
 | 3 | [[Advanced Andragogy]] | — | — | Expertise Development | 30 |
 | 4 | [[Novice to Expert Continuum]] | — | — | Expertise Development | 30 |
-| 5 | [[Cognitive Psychology]] | — | — | 1\. Define Core Parameters | 38 |
+| 5 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 1\. Define Core Parameters | 38 |
 | 6 | [[Andragogy]] | — | — | 1\. Define Core Parameters | 38 |
 | 7 | [[Deliberate Practice]] | — | — | 1\. Define Core Parameters | 38 |
 | 8 | [[Metacognition]] | — | — | 1\. Define Core Parameters | 38 |
 | 9 | [[Neuroplasticity]] | — | — | 1\. Define Core Parameters | 38 |
 | 10 | [[Dreyfus Model]] | — | — | 1\. Define Core Parameters | 38 |
-| 11 | [[Critical Thinking]] | — | — | 1\. Define Core Parameters | 38 |
+| 11 | [[Critical-Thinking|Critical Thinking]] | — | — | 1\. Define Core Parameters | 38 |
 | 12 | [[Divergent Thinking]] | — | — | 1\. Define Core Parameters | 38 |
 | 13 | [[Neuroplasticity]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 46 |
-| 14 | [[Working Memory]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
-| 15 | [[Critical Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
+| 14 | [[Working-Memory|Working Memory]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
+| 15 | [[Critical-Thinking|Critical Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
 | 16 | [[Divergent Thinking]] | — | — | 2\. Phase 1: Overture (The "Why & What") | 49 |
-| 17 | [[Critical Thinking]] | — | — | The Architecture of Acquisition: From... | 59 |
-| 18 | [[Working Memory]] | — | — | The Architecture of Acquisition: From... | 61 |
+| 17 | [[Critical-Thinking|Critical Thinking]] | — | — | The Architecture of Acquisition: From... | 59 |
+| 18 | [[Working-Memory|Working Memory]] | — | — | The Architecture of Acquisition: From... | 61 |
 | 19 | [[Andragogy]] | — | — | Andragogy: The Adult Brain in Learnin... | 69 |
-| 20 | [[Critical Thinking]] | — | — | Andragogy: The Adult Brain in Learnin... | 69 |
+| 20 | [[Critical-Thinking|Critical Thinking]] | — | — | Andragogy: The Adult Brain in Learnin... | 69 |
 | 21 | [[K. Anders Ericsson]] | — | — | The Engine of Mastery: Deliberate Pra... | 75 |
-| 22 | [[Critical Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 77 |
+| 22 | [[Critical-Thinking|Critical Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 77 |
 | 23 | [[Divergent Thinking]] | — | — | The Engine of Mastery: Deliberate Pra... | 82 |
 | 24 | [[Metacognition]] | — | — | Cognitive-Metacognitive Shifts: The E... | 86 |
 | 25 | [[Evolutionary Psychology]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
 | 26 | [[Systems Thinking]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
 | 27 | [[Game Theory]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 116 |
 | 28 | [[Interleaving vs. Blocking]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 120 |
-| 29 | [[Double-Loop Learning]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 123 |
-| 30 | [[Cognitive Load Theory]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 126 |
+| 29 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 123 |
+| 30 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 4\. Phase 3: PKB Integration (New Ave... | 126 |
 
 ---
 
@@ -353,13 +353,13 @@ $$
 
 - [[Advanced Andragogy]]
 - [[Andragogy]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Mastery]]
-- [[Cognitive Psychology]]
-- [[Critical Thinking]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Deliberate Practice]]
 - [[Divergent Thinking]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Dreyfus Model]]
 - [[Evolutionary Psychology]]
 - [[Expertise Development]]
@@ -370,7 +370,7 @@ $$
 - [[Neuroplasticity]]
 - [[Novice to Expert Continuum]]
 - [[Systems Thinking]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ---
 

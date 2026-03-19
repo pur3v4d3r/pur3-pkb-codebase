@@ -148,13 +148,13 @@ extraction_summary:
 
 > [!further-exploration] Untitled
 > Recommended continued study:
-> - **[[Dual-Process Theory]]** and **[[System 1 vs System 2 Thinking]]**: Understanding the cognitive architecture that underlies many self-development challenges (automatic vs deliberate processing)
-> - **[[Implementation Intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
+> - **[[Dual-Process-Theory|Dual-Process Theory]]** and **[[System 1 vs System 2 Thinking]]**: Understanding the cognitive architecture that underlies many self-development challenges (automatic vs deliberate processing)
+> - **[[Implementation-Intentions|Implementation Intentions]]** and **[[WOOP Model]]**: Bridging the intention-action gap through evidence-based planning strategies
 > - **[[Cognitive Behavioral Therapy (CBT)]]** cognitive restructuring techniques: Practical methods for challenging and modifying maladaptive thought patterns
-> - **[[Growth Mindset Theory]]** and **[[Implicit Theories of Intelligence]]**: How beliefs about changeability influence learning and persistence
+> - **[[Growth Mindset Theory]]** and **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]**: How beliefs about changeability influence learning and persistence
 > - **[[Deliberate Practice]]** frameworks: The specific training methodologies that accelerate skill acquisition and expertise development
 > - **[[Atomic Habits]]** and **[[Behavioral Design]]**: The environmental and architectural approach to sustainable behavior change
-> - **[[Epistemic Humility]]** and **[[Intellectual Virtues]]**: Character-based approaches to improved thinking and learning
+> - **[[Epistemic-Humility|Epistemic Humility]]** and **[[Intellectual-Virtues|Intellectual Virtues]]**: Character-based approaches to improved thinking and learning
 
 ---
 
@@ -170,12 +170,12 @@ extraction_summary:
 - [[Behavioral Design]]
 - [[Cognitive Behavioral Therapy (CBT)]]
 - [[Deliberate Practice]]
-- [[Dual-Process Theory]]
-- [[Epistemic Humility]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Epistemic-Humility|Epistemic Humility]]
 - [[Growth Mindset Theory]]
-- [[Implementation Intentions]]
-- [[Implicit Theories of Intelligence]]
-- [[Intellectual Virtues]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[System 1 vs System 2 Thinking]]
 - [[WOOP Model]]
 
@@ -183,18 +183,18 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Dual-Process Theory]] | — | — | Further Exploration | 109 |
+| 1 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Further Exploration | 109 |
 | 2 | [[System 1 vs System 2 Thinking]] | — | — | Further Exploration | 109 |
-| 3 | [[Implementation Intentions]] | — | — | Further Exploration | 110 |
+| 3 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Further Exploration | 110 |
 | 4 | [[WOOP Model]] | — | — | Further Exploration | 110 |
 | 5 | [[Cognitive Behavioral Therapy (CBT)]] | — | — | Further Exploration | 111 |
 | 6 | [[Growth Mindset Theory]] | — | — | Further Exploration | 112 |
-| 7 | [[Implicit Theories of Intelligence]] | — | — | Further Exploration | 112 |
+| 7 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]] | — | — | Further Exploration | 112 |
 | 8 | [[Deliberate Practice]] | — | — | Further Exploration | 113 |
 | 9 | [[Atomic Habits]] | — | — | Further Exploration | 114 |
 | 10 | [[Behavioral Design]] | — | — | Further Exploration | 114 |
-| 11 | [[Epistemic Humility]] | — | — | Further Exploration | 115 |
-| 12 | [[Intellectual Virtues]] | — | — | Further Exploration | 115 |
+| 11 | [[Epistemic-Humility|Epistemic Humility]] | — | — | Further Exploration | 115 |
+| 12 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | Further Exploration | 115 |
 
 ---
 
@@ -209,12 +209,12 @@ extraction_summary:
 - [[Behavioral Design]]
 - [[Cognitive Behavioral Therapy (CBT)]]
 - [[Deliberate Practice]]
-- [[Dual-Process Theory]]
-- [[Epistemic Humility]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Epistemic-Humility|Epistemic Humility]]
 - [[Growth Mindset Theory]]
-- [[Implementation Intentions]]
-- [[Implicit Theories of Intelligence]]
-- [[Intellectual Virtues]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Implicit Theories of Intelligence]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[System 1 vs System 2 Thinking]]
 - [[WOOP Model]]
 

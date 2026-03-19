@@ -148,12 +148,12 @@ extraction_summary:
 #### 4. [DEFINITION] 📖 Type 1 Processing (System 1) *(Line 206)*
 
 > [!definition] 📖 Type 1 Processing (System 1)
-> The autonomous, rapid, parallel cognitive processes that operate without deliberate attention, do not compete for [[Working Memory]] resources, and produce responses automatically in the presence of familiar triggering conditions. Type 1 processing is the defining feature of all learned automaticity — from reading to face recognition to expert intuition — and it executes below the threshold of deliberate awareness. Its defining property, in Evans and Stanovich's precise formulation, is *autonomy*: it cannot be withheld by the thinker and does not require the thinker's conscious initiation.
+> The autonomous, rapid, parallel cognitive processes that operate without deliberate attention, do not compete for [[Working-Memory|Working Memory]] resources, and produce responses automatically in the presence of familiar triggering conditions. Type 1 processing is the defining feature of all learned automaticity — from reading to face recognition to expert intuition — and it executes below the threshold of deliberate awareness. Its defining property, in Evans and Stanovich's precise formulation, is *autonomy*: it cannot be withheld by the thinker and does not require the thinker's conscious initiation.
 
 #### 5. [DEFINITION] 📖 Type 2 Processing (System 2) *(Line 209)*
 
 > [!definition] 📖 Type 2 Processing (System 2)
-> The controlled, slow, serial cognitive processes that require [[Working Memory]] resources, compete with other cognitive demands for cognitive capacity, and involve what Stanovich calls *[[Cognitive Decoupling|cognitive decoupling]]* — the capacity to hold representations of potential states of affairs in mind while keeping them separated from one's current representations of the actual state of affairs. Type 2 is the machinery of hypothetical thinking: the capacity to reason about what might be, or what was, without confusing those simulations with what is. Its defining property is this decoupling requirement, which is why sustained Type 2 engagement is metabolically and cognitively expensive.
+> The controlled, slow, serial cognitive processes that require [[Working-Memory|Working Memory]] resources, compete with other cognitive demands for cognitive capacity, and involve what Stanovich calls *[[Cognitive-Decoupling|cognitive decoupling]]* — the capacity to hold representations of potential states of affairs in mind while keeping them separated from one's current representations of the actual state of affairs. Type 2 is the machinery of hypothetical thinking: the capacity to reason about what might be, or what was, without confusing those simulations with what is. Its defining property is this decoupling requirement, which is why sustained Type 2 engagement is metabolically and cognitively expensive.
 
 #### 6. [METHODOLOGY-AND-SOURCES] 🔬 The Neural Substrate of Override *(Line 216)*
 
@@ -206,17 +206,17 @@ extraction_summary:
 #### 16. [CONNECTION-IDEAS] 🔗 Connection to Reports 03 and 05 *(Line 312)*
 
 > [!connection-ideas] 🔗 Connection to Reports 03 and 05
-> This resolution connects directly to Report 03's account of [[Cognitive Vitality]] — the self-sustaining motivational state where thinking well becomes its own reward. The Stoic tradition supplies the motivational architecture for sustained prosoche: it is not maintained by effort alone but by the philosophical conviction that attention is the precondition for eudaimonia. And it connects to Report 05's intellectual virtues, which are themselves dispositional corrections to specific bias categories — intellectual humility as the habituated antidote to overconfidence bias, intellectual courage as the antidote to motivated reasoning, and so on. The virtues are the specific content of what prosoche is attentive to; metacognitive governance is the general regulatory process that the virtues actualize.
+> This resolution connects directly to Report 03's account of [[Cognitive-Vitality|Cognitive Vitality]] — the self-sustaining motivational state where thinking well becomes its own reward. The Stoic tradition supplies the motivational architecture for sustained prosoche: it is not maintained by effort alone but by the philosophical conviction that attention is the precondition for eudaimonia. And it connects to Report 05's intellectual virtues, which are themselves dispositional corrections to specific bias categories — intellectual humility as the habituated antidote to overconfidence bias, intellectual courage as the antidote to motivated reasoning, and so on. The virtues are the specific content of what prosoche is attentive to; metacognitive governance is the general regulatory process that the virtues actualize.
 
 #### 17. [CONNECTION-IDEAS] 🔗 Report 01 introduced Aporic Receptivity *(Line 319)*
 
 > [!connection-ideas] 🔗 Report 01 introduced Aporic Receptivity
-> Report 01 introduced [[Aporic Receptivity]] — the cultivated willingness to dwell productively in confusion as a prerequisite for genuine inquiry. Through the lens of Report 06, aporic receptivity gains an architectural companion. It is not only about activating inquiry but about governing the System 1 impressions that resist it. The deepest obstacle to aporic receptivity is not intellectual laziness but something more fundamental: the automatic generation, by Type 1 processing, of impressions of certainty and clarity. When we experience a situation as fully understood, the feeling of cognitive fluency — itself a Type 1 product — suppresses the conditions for aporia. Prosoche-trained metacognitive governance creates the gap in which the feeling of understanding can be examined rather than automatically accepted, enabling the genuine aporia that Report 01 identifies as inquiry's trigger.
+> Report 01 introduced [[Aporic-Receptivity|Aporic Receptivity]] — the cultivated willingness to dwell productively in confusion as a prerequisite for genuine inquiry. Through the lens of Report 06, aporic receptivity gains an architectural companion. It is not only about activating inquiry but about governing the System 1 impressions that resist it. The deepest obstacle to aporic receptivity is not intellectual laziness but something more fundamental: the automatic generation, by Type 1 processing, of impressions of certainty and clarity. When we experience a situation as fully understood, the feeling of cognitive fluency — itself a Type 1 product — suppresses the conditions for aporia. Prosoche-trained metacognitive governance creates the gap in which the feeling of understanding can be examined rather than automatically accepted, enabling the genuine aporia that Report 01 identifies as inquiry's trigger.
 
 #### 18. [CONNECTION-IDEAS] 🔗 Report 05 Intellectual Virtues *(Line 322)*
 
 > [!connection-ideas] 🔗 Report 05 Intellectual Virtues
-> Report 05 introduced [[Intellectual Virtues]] as the antidotes to specific cognitive biases. Through the lens of Report 06, each intellectual virtue is now more precisely understood as what prosoche looks like when directed at a specific domain of automatic impression. [[Intellectual Humility]] is prosoche applied to the impressions of one's own certainty and competence — it is the governed gap between the automatic feeling of confidence and the deliberate evaluation of whether that confidence is warranted. [[Intellectual Courage]] is prosoche applied to the impressions of social threat and discomfort that accompany potential belief revision — it is the governed gap between the automatic desire to preserve reputation or comfort and the deliberate commitment to following evidence. Each virtue is not just a cognitive corrective deployed after bias has occurred, but a dispositional expression of metacognitive governance applied to a particular class of automatic impression.
+> Report 05 introduced [[Intellectual-Virtues|Intellectual Virtues]] as the antidotes to specific cognitive biases. Through the lens of Report 06, each intellectual virtue is now more precisely understood as what prosoche looks like when directed at a specific domain of automatic impression. [[Intellectual-Humility|Intellectual Humility]] is prosoche applied to the impressions of one's own certainty and competence — it is the governed gap between the automatic feeling of confidence and the deliberate evaluation of whether that confidence is warranted. [[Intellectual-Courage|Intellectual Courage]] is prosoche applied to the impressions of social threat and discomfort that accompany potential belief revision — it is the governed gap between the automatic desire to preserve reputation or comfort and the deliberate commitment to following evidence. Each virtue is not just a cognitive corrective deployed after bias has occurred, but a dispositional expression of metacognitive governance applied to a particular class of automatic impression.
 
 #### 19. [SUMMARY] 📝 Phase III Summary *(Line 325)*
 
@@ -265,9 +265,9 @@ extraction_summary:
 #### 28. [PRINCIPLE-POINT] 🏛️ Emergent Insight: The Governed Attentional Gap *(Line 379)*
 
 > [!principle-point] 🏛️ Emergent Insight: The Governed Attentional Gap
-> The synthesis of [[Dual Process Theory]], [[Stoic Prosoche|prosoche]], [[Metacognitive Self-Regulation]], and debiasing science generates a concept not present in any of these frameworks individually: the **[[Governed Attentional Gap]]** — the cultivated cognitive dwelling in the moment between automatic impression and deliberate assent, which functions as the primary regulatory site of the examined life.
+> The synthesis of [[Dual-Process-Theory|Dual Process Theory]], [[Prosoche|prosoche]], [[Metacognitive Self-Regulation]], and debiasing science generates a concept not present in any of these frameworks individually: the **[[Governed Attentional Gap]]** — the cultivated cognitive dwelling in the moment between automatic impression and deliberate assent, which functions as the primary regulatory site of the examined life.
 > 
-> This is not simply "pausing before reacting" (the self-help formulation), nor is it [[Cognitive Decoupling]] (the technical process), nor is it prosoche (the philosophical practice), nor is it metacognitive monitoring (the scientific description). It is the synthesis of all four: a practiced, dispositionally grounded capacity to inhabit — not merely cross — the space between Type 1 impression and Type 2 evaluation. The Stoics called this space the domain of *prohairesis* (προαίρεσις) — the realm of what is properly ours, where rational agency operates. Cognitive science calls it the Type 2 override window. The governed attentional gap is what this space *becomes* when it has been cultivated as a cognitive dwelling rather than a fleeting emergency activation.
+> This is not simply "pausing before reacting" (the self-help formulation), nor is it [[Cognitive-Decoupling|Cognitive Decoupling]] (the technical process), nor is it prosoche (the philosophical practice), nor is it metacognitive monitoring (the scientific description). It is the synthesis of all four: a practiced, dispositionally grounded capacity to inhabit — not merely cross — the space between Type 1 impression and Type 2 evaluation. The Stoics called this space the domain of *prohairesis* (προαίρεσις) — the realm of what is properly ours, where rational agency operates. Cognitive science calls it the Type 2 override window. The governed attentional gap is what this space *becomes* when it has been cultivated as a cognitive dwelling rather than a fleeting emergency activation.
 
 #### 29. [CONNECTION-IDEAS] 🔗 Forward Connections to Later Reports *(Line 388)*
 
@@ -418,19 +418,19 @@ extraction_summary:
 - [[Acceptance and Commitment Therapy]]
 - [[Amos Tversky]]
 - [[Anchoring and Adjustment]]
-- [[Aporic Receptivity]]
-- [[Availability Heuristic]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Chrysippus]]
 - [[Cognitive Behavioral Therapy]]
 - [[Cognitive Biases]]
-- [[Cognitive Decoupling]]
+- [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Cognitive Forcing Functions in Clinical Reasoning]]
 - [[Cognitive Reflection Test and Rationality Quotient]]
-- [[Cognitive Vitality]]
-- [[Confirmation Bias]]
+- [[Cognitive-Vitality|Cognitive Vitality]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Daniel Kahneman]]
-- [[Dichotomy of Control]]
-- [[Dual Process Theory]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epictetus]]
 - [[Examined Life]]
 - [[Fallibilist Epistemology]]
@@ -440,17 +440,17 @@ extraction_summary:
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
 - [[Impression Management]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[John Flavell]]
 - [[Jonathan Evans]]
-- [[Kataleptic Impression]]
+- [[Kataleptic-Impression|Kataleptic Impression]]
 - [[Keith Stanovich]]
 - [[Marcus Aurelius]]
 - [[Metacognitive Self-Regulation]]
 - [[Mindware and Cognitive Miserliness]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Nature Human Behaviour]]
 - [[Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
@@ -459,8 +459,8 @@ extraction_summary:
 - [[Stanovich]]
 - [[Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
-- [[System 1]]
-- [[Working Memory]]
+- [[System-1|System 1]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
@@ -471,8 +471,8 @@ extraction_summary:
 | 3 | [[Keith Stanovich]] | Stanovich | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
 | 4 | [[Stanovich]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 185 |
 | 5 | [[Examined Life]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
-| 6 | [[System 1]] | System 1 processing | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
-| 7 | [[Intellectual Virtues]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
+| 6 | [[System-1|System 1]] | System 1 processing | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
+| 7 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
 | 8 | [[Fallibilist Epistemology]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 187 |
 | 9 | [[Epictetus]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
 | 10 | [[Marcus Aurelius]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
@@ -482,41 +482,41 @@ extraction_summary:
 | 14 | [[Metacognitive Self-Regulation]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
 | 15 | [[Ghassani Swaryandini]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
 | 16 | [[Nature Human Behaviour]] | — | — | 🎯 Phase I: The Premise — The Regulato... | 189 |
-| 17 | [[Dual Process Theory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
+| 17 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
 | 18 | [[Jonathan Evans]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
 | 19 | [[Keith Stanovich]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
 | 20 | [[Daniel Kahneman]] | — | — | 🧠 The Architecture of Automatic Thoug... | 204 |
-| 21 | [[Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 207 |
-| 22 | [[Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 210 |
-| 23 | [[Cognitive Decoupling]] | cognitive decoupling | — | 🧠 The Architecture of Automatic Thoug... | 210 |
+| 21 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 207 |
+| 22 | [[Working-Memory|Working Memory]] | — | — | 🧠 The Architecture of Automatic Thoug... | 210 |
+| 23 | [[Cognitive-Decoupling|Cognitive Decoupling]] | cognitive decoupling | — | 🧠 The Architecture of Automatic Thoug... | 210 |
 | 24 | [[Cognitive Biases]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 25 | [[Representativeness Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 26 | [[Availability Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 26 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 27 | [[Anchoring and Adjustment]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 28 | [[Confirmation Bias]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
-| 29 | [[Motivated Reasoning]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 28 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
+| 29 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 30 | [[Amos Tversky]] | Tversky | — | 🧠 The Architecture of Automatic Thoug... | 214 |
 | 31 | [[Prosoche]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 225 |
 | 32 | [[Pierre Hadot]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 225 |
 | 33 | [[Chrysippus]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
-| 34 | [[Dichotomy of Control]] | locus of freedom | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
+| 34 | [[Dichotomy-of-Control|Dichotomy of Control]] | locus of freedom | — | 📜 The Stoic Discovery: Prosoche as Pr... | 230 |
 | 35 | [[Hypomnemata]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 234 |
 | 36 | [[Impression Management]] | — | — | 📜 The Stoic Discovery: Prosoche as Pr... | 236 |
 | 37 | [[John Flavell]] | John H. Flavell's | — | 🔬 The Scientific Framework: Metacogni... | 243 |
 | 38 | [[Gregory Schraw]] | — | — | 🔬 The Scientific Framework: Metacogni... | 245 |
 | 39 | [[Nature Human Behaviour]] | — | — | 🎓 The Debiasing Science: What Interve... | 256 |
-| 40 | [[Kataleptic Impression]] | kataleptic impression | — | 🔁 The Structural Homology: Prosoche I... | 284 |
-| 41 | [[Cognitive Vitality]] | — | — | ⚡ The Conceptual Tension: Why Do Debi... | 313 |
-| 42 | [[Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment: What This R... | 320 |
-| 43 | [[Intellectual Virtues]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
-| 44 | [[Intellectual Humility]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
-| 45 | [[Intellectual Courage]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
-| 46 | [[Dual Process Theory]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
+| 40 | [[Kataleptic-Impression|Kataleptic Impression]] | kataleptic impression | — | 🔁 The Structural Homology: Prosoche I... | 284 |
+| 41 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | ⚡ The Conceptual Tension: Why Do Debi... | 313 |
+| 42 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment: What This R... | 320 |
+| 43 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
+| 44 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
+| 45 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 🔄 Retroactive Enrichment: What This R... | 323 |
+| 46 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
 | 47 | [[Stoic Prosoche]] | prosoche | — | ✨ The Emergent Insight: The Governed ... | 380 |
 | 48 | [[Metacognitive Self-Regulation]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
 | 49 | [[Governed Attentional Gap]] | — | — | ✨ The Emergent Insight: The Governed ... | 380 |
-| 50 | [[Cognitive Decoupling]] | — | — | ✨ The Emergent Insight: The Governed ... | 382 |
-| 51 | [[Cognitive Decoupling]] | — | — | ⚠️ Honest Limitations | 410 |
+| 50 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | ✨ The Emergent Insight: The Governed ... | 382 |
+| 51 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | ⚠️ Honest Limitations | 410 |
 | 52 | [[Mindware and Cognitive Miserliness]] | — | — | 🗺️ Expansion Topics for PKB Development | 475 |
 | 53 | [[Stoic Spiritual Exercises and Their Modern Descendants]] | — | — | 🗺️ Expansion Topics for PKB Development | 479 |
 | 54 | [[Cognitive Behavioral Therapy]] | — | — | 🗺️ Expansion Topics for PKB Development | 480 |
@@ -546,19 +546,19 @@ extraction_summary:
 - [[Acceptance and Commitment Therapy]]
 - [[Amos Tversky]]
 - [[Anchoring and Adjustment]]
-- [[Aporic Receptivity]]
-- [[Availability Heuristic]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Chrysippus]]
 - [[Cognitive Behavioral Therapy]]
 - [[Cognitive Biases]]
-- [[Cognitive Decoupling]]
+- [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Cognitive Forcing Functions in Clinical Reasoning]]
 - [[Cognitive Reflection Test and Rationality Quotient]]
-- [[Cognitive Vitality]]
-- [[Confirmation Bias]]
+- [[Cognitive-Vitality|Cognitive Vitality]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Daniel Kahneman]]
-- [[Dichotomy of Control]]
-- [[Dual Process Theory]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Epictetus]]
 - [[Examined Life]]
 - [[Fallibilist Epistemology]]
@@ -568,17 +568,17 @@ extraction_summary:
 - [[Hypomnemata]]
 - [[Implementation Intentions and Bias Correction]]
 - [[Impression Management]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[John Flavell]]
 - [[Jonathan Evans]]
-- [[Kataleptic Impression]]
+- [[Kataleptic-Impression|Kataleptic Impression]]
 - [[Keith Stanovich]]
 - [[Marcus Aurelius]]
 - [[Metacognitive Self-Regulation]]
 - [[Mindware and Cognitive Miserliness]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Nature Human Behaviour]]
 - [[Pierre Hadot]]
 - [[Precision Weighting in Predictive Processing]]
@@ -587,31 +587,31 @@ extraction_summary:
 - [[Stanovich]]
 - [[Stoic Prosoche]]
 - [[Stoic Spiritual Exercises and Their Modern Descendants]]
-- [[System 1]]
-- [[Working Memory]]
+- [[System-1|System 1]]
+- [[Working-Memory|Working Memory]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Metacognition]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Cognitive Biases]]
 
 #### Related
 
 - [[Metacognitive Awareness Inventory]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Cognitive Forcing Functions]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Working Memory and Executive Function]]
 - [[Mindfulness and Attention Regulation]]
 
 #### Broader
 
-- [[Cognitive Psychology]]
-- [[Philosophy of Mind]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Applied Epistemology]]
 - [[Rationality Studies]]
 

@@ -59,20 +59,20 @@ generated_via_workflow: "[[Comprehensive Academic Reference Workflow]]"
 # KNOWLEDGE GRAPH INTEGRATION
 related_concepts:
   - "[[Attention]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory|Working Memory]]"
   - "[[Skill Acquisition]]"
   - "[[Expertise]]"
   - "[[Cognitive Control]]"
-  - "[[Procedural Memory]]"
+  - "[[Procedural-Memory|Procedural Memory]]"
   - "[[Instance Theory]]"
   - "[[Power Law of Practice]]"
-  - "[[Dual-Process Theory]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
   - "[[Neural Plasticity]]"
 
 prerequisites:
   - "[[Cognitive Psychology Foundations]]"
   - "[[Information Processing Theory]]"
-  - "[[Memory Systems]]"
+  - "[[Memory-Systems|Memory Systems]]"
   - "[[Attention Theory]]"
 
 builds_on:
@@ -117,7 +117,7 @@ link_related:
 
 [**Automaticity**:: The capacity to execute cognitive or motor processes with minimal attentional demands, reduced conscious awareness, and increased efficiency - achieved through extensive practice that transforms controlled, effortful processing into rapid, parallel, and seemingly effortless performance.]
 
-The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
+The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[Cognitive-Psychology|cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.
 
 ### Logan's Instance Theory: Memory-Based Automaticity
 
@@ -195,7 +195,7 @@ The transition from controlled to automatic processing manifests not merely as a
 
 [**Prefrontal-Cortex-Control-Functions**:: The dorsolateral prefrontal cortex (dlPFC), anterior cingulate cortex (ACC), and lateral prefrontal regions collectively support controlled processing through mechanisms including working memory maintenance, goal representation, response inhibition, conflict monitoring, and task-set maintenance - functions that become less necessary as task performance automatizes.]
 
-Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.
+Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[Working-Memory|working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.
 
 As practice progresses and performance automatizes, this prefrontal engagement systematically decreases. Poldrack et al. (2005) tracked neural changes across 14 days of practice on a sequence learning task. Initial performance activated an extensive prefrontal-parietal network including bilateral dlPFC, ACC, and inferior frontal gyrus. By the final session, prefrontal activation had decreased by 40-60% while task-relevant posterior regions (motor cortex, supplementary motor area) showed stable or increased activation. ^established Critically, this neural reorganization correlated with the behavioral power law - regions showing power law decreases in activation predicted power law improvements in response time (r = 0.78).
 
@@ -257,7 +257,7 @@ The systems-level reorganization during consolidation parallels the shift from c
 
 [**Automatic-Process-Characteristics**:: The defining features of automatized cognitive operations including speed (rapid execution), parallelism (simultaneous processing of multiple items), effortlessness (minimal attentional resource consumption), unavoidability (difficulty suppressing once triggered), and reduced awareness (limited conscious access to processing operations) - contrasting sharply with controlled processes that are slow, serial, effortful, controllable, and consciously accessible.]
 
-The conceptual distinction between automatic and controlled processing forms a foundational framework in [[cognitive psychology]], originating with Shiffrin and Schneider's (1977) influential two-process theory and refined through decades of empirical investigation. While the dichotomy has been challenged and nuanced, understanding the characteristic features of each processing mode remains essential for analyzing skill acquisition and expertise development.
+The conceptual distinction between automatic and controlled processing forms a foundational framework in [[Cognitive-Psychology|cognitive psychology]], originating with Shiffrin and Schneider's (1977) influential two-process theory and refined through decades of empirical investigation. While the dichotomy has been challenged and nuanced, understanding the characteristic features of each processing mode remains essential for analyzing skill acquisition and expertise development.
 
 ### Shiffrin and Schneider's Two-Process Theory
 

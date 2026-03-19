@@ -223,7 +223,7 @@ extraction_summary:
 > [!definition] Untitled
 > **Critical Dependencies**
 > 
-> 1. **[[Dataview Plugin]]** (community plugin) - REQUIRED
+> 1. **[[Dataview-Plugin|Dataview Plugin]]** (community plugin) - REQUIRED
 >    - Day Planner uses Dataview's query engine to discover tasks across your vault
 >    - Without Dataview, the plugin will not function
 > 
@@ -1115,7 +1115,7 @@ extraction_summary:
 - [[Command Palette]]
 - [[Community Plugin]]
 - [[Daily Notes]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]
 - [[Full Calendar]]
@@ -1167,7 +1167,7 @@ extraction_summary:
 | 1 | [[Community Plugin]] | — | — | 📘 What is Day Planner? | 35 |
 | 2 | [[obsidian]] | — | — | 📘 What is Day Planner? | 35 |
 | 3 | [[parkinson's law]] | — | — | 📘 What is Day Planner? | 41 |
-| 4 | [[Dataview Plugin]] | — | — | Required Dependencies | 68 |
+| 4 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Required Dependencies | 68 |
 | 5 | [[Daily Notes]] | — | — | Required Dependencies | 72 |
 | 6 | [[Periodic Notes]] | — | — | Required Dependencies | 72 |
 | 7 | [[Project Apollo]] | — | — | Work Block | 242 |
@@ -1822,7 +1822,7 @@ Based on my research, I've gathered comprehensive information about the Day Plan
 - [[Command Palette]]
 - [[Community Plugin]]
 - [[Daily Notes]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Do Not Disturb]]
 - [[Follow-Up Task]]
 - [[Full Calendar]]

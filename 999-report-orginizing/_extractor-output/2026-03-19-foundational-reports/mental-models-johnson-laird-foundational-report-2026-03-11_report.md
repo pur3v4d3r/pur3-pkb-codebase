@@ -194,7 +194,7 @@ extraction_summary:
 #### 10. [INSIGHT] Mental Models as a Type 2 Process — With Complications *(Line 355)*
 
 > [!insight] Mental Models as a Type 2 Process — With Complications
-> If mental model construction is the mechanism underlying careful, reflective reasoning, one might expect it to be a paradigmatic System 2 / Type 2 process: slow, effortful, demanding attentional resources. This is broadly consistent with the evidence: model-building tasks consume working memory, and performance degrades under cognitive load. However, the relationship is not simple. Highly practised reasoners may build models rapidly and with little apparent effort. Moreover, the initial model construction — the first model of a situation — may be relatively automatic, while the *revision* and *counterexample search* steps are clearly effortful. This suggests that model-based reasoning spans the System 1/System 2 boundary in ways that complicate simple categorisation. See [[Dual Process Theory]] for a fuller treatment of these complications.
+> If mental model construction is the mechanism underlying careful, reflective reasoning, one might expect it to be a paradigmatic System 2 / Type 2 process: slow, effortful, demanding attentional resources. This is broadly consistent with the evidence: model-building tasks consume working memory, and performance degrades under cognitive load. However, the relationship is not simple. Highly practised reasoners may build models rapidly and with little apparent effort. Moreover, the initial model construction — the first model of a situation — may be relatively automatic, while the *revision* and *counterexample search* steps are clearly effortful. This suggests that model-based reasoning spans the System 1/System 2 boundary in ways that complicate simple categorisation. See [[Dual-Process-Theory|Dual Process Theory]] for a fuller treatment of these complications.
 
 #### 11. [DEFINITION] Situation Model (Kintsch, 1988; van Dijk & Kintsch, 1983) *(Line 362)*
 
@@ -209,7 +209,7 @@ extraction_summary:
 #### 13. [INSIGHT] The Pedagogical Significance of Mental Model Coherence *(Line 374)*
 
 > [!insight] The Pedagogical Significance of Mental Model Coherence
-> One of the most consequential insights from this literature is that students' misconceptions are not simply gaps in knowledge — they are *coherent representations* that make sense within the student's existing model. A student who believes that the Earth is flat-bottomed with the sky as a dome is not randomly wrong; they are working from a model that integrates perceptual experience with partial exposure to scientific claims. This coherence means that simply presenting correct information is insufficient — the instructional task is to induce *model revision*, not merely model addition. See [[Conceptual Change Theory]] for expanded treatment.
+> One of the most consequential insights from this literature is that students' misconceptions are not simply gaps in knowledge — they are *coherent representations* that make sense within the student's existing model. A student who believes that the Earth is flat-bottomed with the sky as a dome is not randomly wrong; they are working from a model that integrates perceptual experience with partial exposure to scientific claims. This coherence means that simply presenting correct information is insufficient — the instructional task is to induce *model revision*, not merely model addition. See [[Conceptual-Change-Theory|Conceptual Change Theory]] for expanded treatment.
 
 #### 14. [REFLECTION] Engaging the Landscape *(Line 379)*
 
@@ -266,7 +266,7 @@ extraction_summary:
 #### 22. [WARNING] The Misconception Problem: Why Telling Does Not Work *(Line 459)*
 
 > [!warning] The Misconception Problem: Why Telling Does Not Work
-> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual Change Theory|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
+> Simply presenting correct scientific information to a student whose model conflicts with it does not typically produce model revision. Instead, students frequently assimilate the new information to their existing model, distorting it to fit. A student who believes the Earth is flat may, when told it is spherical, construct a "synthetic model" of a sphere that is flat on the bottom — integrating the new fact without genuinely revising the model. Effective science instruction must create conditions of "cognitive conflict" — situations in which the student's existing model generates a clearly wrong prediction — before presenting the correct model. This process, called [[Conceptual-Change|conceptual change]], is structurally analogous to the counterexample search stage of deductive reasoning.
 
 #### 23. [EXAMPLE] The Seasons Misconception *(Line 462)*
 
@@ -276,7 +276,7 @@ extraction_summary:
 #### 24. [IMPORTANT] Working Memory: The Central Constraint *(Line 467)*
 
 > [!important] Working Memory: The Central Constraint
-> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[Working Memory]] and [[Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
+> MMT's most fundamental prediction — that difficulty scales with the number of models required — depends on working memory as the mechanism of limitation. But working memory is itself a complex, multidimensional system (see [[Working-Memory|Working Memory]] and [[Cognitive-Load-Theory|Cognitive Load Theory]]). The prediction that "three-model problems are harder than one-model problems" is robustly confirmed, but the *precise* relationship between model number and cognitive load is difficult to specify, because researchers cannot count models independently of the difficulty data they are trying to explain. This circularity is a genuine methodological vulnerability.
 
 #### 25. [IMPORTANT] WEIRD Sample Bias *(Line 470)*
 
@@ -307,9 +307,9 @@ extraction_summary:
 > 
 > This report on [[Mental Models Theory]] connects to existing knowledge in the PKB in the following ways:
 > 
-> - **[[Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
+> - **[[Schema-Theory|Schema Theory]]** — The relationship between schema and model is foundational and complex. Schemata provide the stored knowledge that populates mental models with default content; mental models are the dynamically constructed representations built for specific situations. Where [[Schema-Theory|Schema Theory]] explains the influence of prior knowledge on interpretation, MMT explains how that knowledge is deployed in active reasoning. Neither theory is complete without the other, and together they constitute a comprehensive account of knowledge-driven cognition.
 > 
-> - **[[Reasoning Types in Education]]** (and constituent nodes **[[Deductive Reasoning]]**, **[[Inductive Reasoning]]**, **[[Abductive Reasoning]]**) — MMT is primarily a theory of deductive inference, but its implications extend across reasoning types. Inductive reasoning can be understood as generalising across multiple mental models; abductive reasoning as constructing the model that best explains observed facts. The multi-reasoning-type cluster in the PKB gains important mechanistic depth from MMT: knowing *how* reasoners build models illuminates *why* different reasoning types have different characteristic error patterns.
+> - **[[Reasoning Types in Education]]** (and constituent nodes **[[Deductive-Reasoning|Deductive Reasoning]]**, **[[Inductive-Reasoning|Inductive Reasoning]]**, **[[Abductive-Reasoning|Abductive Reasoning]]**) — MMT is primarily a theory of deductive inference, but its implications extend across reasoning types. Inductive reasoning can be understood as generalising across multiple mental models; abductive reasoning as constructing the model that best explains observed facts. The multi-reasoning-type cluster in the PKB gains important mechanistic depth from MMT: knowing *how* reasoners build models illuminates *why* different reasoning types have different characteristic error patterns.
 > 
 > - **[[Metacognition & Lifelong Learning]]**, **[[Metacognition & Critical Thinking]]**, **[[Metacognition & Motivation]]** — The counterexample search stage of the MMT inference cycle is structurally identical to what metacognitive theories call monitoring and evaluation: checking whether one's first response is adequate. MMT provides a cognitive-level mechanism for the metacognitive processes that the metacognition cluster describes at a higher level of abstraction. Explicitly teaching students to pursue Stage 3 (counterexample search) may be a concrete operationalisation of teaching metacognitive checking skills.
 > 
@@ -437,9 +437,9 @@ extraction_summary:
 > [!topic-idea] [[Situation Models in Text Comprehension]]
 > A dedicated foundational report on this topic would provide comprehensive treatment of [[Walter Kintsch]]'s Construction-Integration model, [[Rolf Zwaan]]'s Event Indexing Model, and the multidimensional nature of situation model updating during reading. It would cover empirical methods (reading-time paradigms, recognition probes, inference verification) and connect to educational applications in reading comprehension instruction, particularly the distinction between strategies targeting text-base representation (summarising, rereading) and strategies targeting situation model quality (elaborative questioning, prediction tasks). Priority: **High** — foundational for understanding literate cognition.
 
-#### 53. [TOPIC-IDEA] [[Conceptual Change Theory]] *(Line 611)*
+#### 53. [TOPIC-IDEA] [[Conceptual-Change-Theory|Conceptual Change Theory]] *(Line 611)*
 
-> [!topic-idea] [[Conceptual Change Theory]]
+> [!topic-idea] [[Conceptual-Change-Theory|Conceptual Change Theory]]
 > A foundational report on [[Stella Vosniadou]]'s framework-theory approach and its successors (including Chi's "knowledge-in-pieces" alternative). The report would cover mechanisms of conceptual change (accretion, restructuring, revision), empirical documentation of misconceptions across science domains, instructional interventions that succeed and fail, and the relationship between conceptual change and motivation (why students resist model revision even when presented with disconfirming evidence). Priority: **High** — essential for science educators and instructional designers.
 
 #### 54. [TOPIC-IDEA] [[Multimedia Learning]] *(Line 614)*
@@ -457,14 +457,14 @@ extraction_summary:
 > [!topic-idea] [[Spatial Mental Models]]
 > A foundational report covering mental rotation (Shepard & Cooper), spatial reasoning from text and diagrams (Hegarty), and the role of spatial ability in model-based reasoning across domains. It would address gender and individual differences in spatial reasoning, interventions that improve spatial model quality, and implications for STEM instruction where spatial model construction is critical (organic chemistry, anatomy, physics). Priority: **Medium**.
 
-#### 57. [TOPIC-IDEA] [[Analogical Reasoning]] *(Line 623)*
+#### 57. [TOPIC-IDEA] [[Analogical-Reasoning|Analogical Reasoning]] *(Line 623)*
 
-> [!topic-idea] [[Analogical Reasoning]]
-> A foundational treatment of [[Dedre Gentner]]'s structure-mapping theory and its convergence with the mental models framework: analogical reasoning as the mapping of relational structure from a source domain to a target domain — in effect, using a familiar model as a scaffold for constructing a new model of an unfamiliar situation. The report would cover empirical work on analogy comprehension and production, the role of analogy in scientific discovery (Nersessian), and instructional applications of analogy in conceptual explanation. Priority: **Medium**.
+> [!topic-idea] [[Analogical-Reasoning|Analogical Reasoning]]
+> A foundational treatment of [[Dedre-Gentner|Dedre Gentner]]'s structure-mapping theory and its convergence with the mental models framework: analogical reasoning as the mapping of relational structure from a source domain to a target domain — in effect, using a familiar model as a scaffold for constructing a new model of an unfamiliar situation. The report would cover empirical work on analogy comprehension and production, the role of analogy in scientific discovery (Nersessian), and instructional applications of analogy in conceptual explanation. Priority: **Medium**.
 
-#### 58. [TOPIC-IDEA] [[Mental Simulation]] *(Line 626)*
+#### 58. [TOPIC-IDEA] [[Mental-Simulation|Mental Simulation]] *(Line 626)*
 
-> [!topic-idea] [[Mental Simulation]]
+> [!topic-idea] [[Mental-Simulation|Mental Simulation]]
 > A foundational report addressing the relationship between mental models and embodied simulation, drawing on [[Lawrence Barsalou]]'s Perceptual Symbol Systems as a mechanistic account of how models are "run". The report would cover the broader embodied cognition literature, grounding effects in language comprehension, and action-oriented views of representation — examining whether mental model theory and embodied simulation theories are rival accounts or complementary descriptions at different levels of analysis. Priority: **Medium**.
 
 ---
@@ -477,23 +477,23 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Abductive Reasoning]]
-- [[Analogical Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Barsalou]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Theory of Mind]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Counterfactual Reasoning]]
 - [[Critical Thinking in Education]]
 - [[Daniel Kahneman]]
-- [[Dedre Gentner]]
-- [[Deductive Reasoning]]
-- [[Dual Process Theory]]
+- [[Dedre-Gentner|Dedre Gentner]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Fallibilism]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Formal Rule Theories of Reasoning]]
 - [[Frederic Bartlett]]
-- [[Inductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Johnson-Laird]]
 - [[Jonathan Evans]]
 - [[Keith Stanovich]]
@@ -504,9 +504,9 @@ extraction_summary:
 - [[Martin Braine]]
 - [[Mary Hegarty]]
 - [[Mental Logic Theory]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Mental Models Theory]]
-- [[Mental Simulation]]
+- [[Mental-Simulation|Mental Simulation]]
 - [[Metacognition & Critical Thinking]]
 - [[Metacognition & Lifelong Learning]]
 - [[Metacognition & Motivation]]
@@ -515,23 +515,23 @@ extraction_summary:
 - [[PKB]]
 - [[Perceptual Symbol Systems]]
 - [[Philip Johnson-Laird]]
-- [[Propositional Representation]]
+- [[Propositional-Representation|Propositional Representation]]
 - [[Reasoning Types in Education]]
 - [[Richard Mayer]]
 - [[Richard West]]
 - [[Roger Shepard]]
 - [[Rolf Zwaan]]
 - [[Ruth Byrne]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Situation Models]]
 - [[Situation Models in Text Comprehension]]
 - [[Spatial Cognition]]
 - [[Spatial Mental Models]]
 - [[Stella Vosniadou]]
 - [[Walter Kintsch]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[history and philosophy of science]]
-- [[long-term memory]]
+- [[Long-Term-Memory|long-term memory]]
 - [[possible worlds semantics]]
 
 ### All Occurrences
@@ -544,67 +544,67 @@ extraction_summary:
 | 4 | [[Johnson-Laird]] | — | — | Phase I: Orientation & Context Setting | 289 |
 | 5 | [[PKB]] | — | — | Phase I: Orientation & Context Setting | 289 |
 | 6 | [[Situation Models in Text Comprehension]] | — | — | Phase I: Orientation & Context Setting | 289 |
-| 7 | [[Conceptual Change Theory]] | — | — | Phase I: Orientation & Context Setting | 289 |
+| 7 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Phase I: Orientation & Context Setting | 289 |
 | 8 | [[Multimedia Learning]] | — | — | Phase I: Orientation & Context Setting | 289 |
-| 9 | [[Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 291 |
+| 9 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 291 |
 | 10 | [[Johnson-Laird]] | — | — | The Central Claim and Its Intellectua... | 299 |
-| 11 | [[Mental Models]] | mental model | — | The Central Claim and Its Intellectua... | 299 |
+| 11 | [[Mental-Models|Mental Models]] | mental model | — | The Central Claim and Its Intellectua... | 299 |
 | 12 | [[Kenneth Craik]] | — | — | The Central Claim and Its Intellectua... | 304 |
 | 13 | [[Frederic Bartlett]] | — | — | The Central Claim and Its Intellectua... | 304 |
-| 14 | [[Schema Theory]] | schemata | — | The Central Claim and Its Intellectua... | 304 |
+| 14 | [[Schema-Theory|Schema Theory]] | schemata | — | The Central Claim and Its Intellectua... | 304 |
 | 15 | [[possible worlds semantics]] | — | — | The Central Claim and Its Intellectua... | 304 |
 | 16 | [[Formal Rule Theories of Reasoning]] | — | — | Three Types of Mental Representation | 313 |
-| 17 | [[Propositional Representation]] | propositional representations | — | Three Types of Mental Representation | 321 |
-| 18 | [[Mental Models]] | mental models | — | Three Types of Mental Representation | 321 |
+| 17 | [[Propositional-Representation|Propositional Representation]] | propositional representations | — | Three Types of Mental Representation | 321 |
+| 18 | [[Mental-Models|Mental Models]] | mental models | — | Three Types of Mental Representation | 321 |
 | 19 | [[Mental Models Theory]] | — | — | The Debate with Mental Logic | 341 |
 | 20 | [[Mental Logic Theory]] | — | — | The Debate with Mental Logic | 341 |
 | 21 | [[Lance Rips]] | — | — | The Debate with Mental Logic | 341 |
 | 22 | [[Martin Braine]] | — | — | The Debate with Mental Logic | 341 |
-| 23 | [[Dual Process Theory]] | — | — | Dual-Process Connections and Complica... | 353 |
+| 23 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 24 | [[Daniel Kahneman]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 25 | [[Keith Stanovich]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 26 | [[Richard West]] | — | — | Dual-Process Connections and Complica... | 353 |
 | 27 | [[Jonathan Evans]] | — | — | Dual-Process Connections and Complica... | 353 |
-| 28 | [[Dual Process Theory]] | — | — | Dual-Process Connections and Complica... | 356 |
+| 28 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual-Process Connections and Complica... | 356 |
 | 29 | [[Walter Kintsch]] | — | — | Situation Models and the Discourse Ex... | 360 |
 | 30 | [[Situation Models]] | situation model | — | Situation Models and the Discourse Ex... | 360 |
 | 31 | [[Rolf Zwaan]] | — | — | Situation Models and the Discourse Ex... | 365 |
-| 32 | [[Conceptual Change Theory]] | — | — | Mental Models in Science Education | 372 |
+| 32 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Mental Models in Science Education | 372 |
 | 33 | [[Stella Vosniadou]] | — | — | Mental Models in Science Education | 372 |
-| 34 | [[Conceptual Change Theory]] | — | — | Mental Models in Science Education | 375 |
+| 34 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Mental Models in Science Education | 375 |
 | 35 | [[Nancy Nersessian]] | — | — | Mental Models in Science Education | 377 |
 | 36 | [[history and philosophy of science]] | — | — | Mental Models in Science Education | 377 |
-| 37 | [[long-term memory]] | — | — | Fleshing Out and the Role of Backgrou... | 414 |
-| 38 | [[Schema Theory]] | schema activation | — | Fleshing Out and the Role of Backgrou... | 417 |
+| 37 | [[Long-Term-Memory|long-term memory]] | — | — | Fleshing Out and the Role of Backgrou... | 414 |
+| 38 | [[Schema-Theory|Schema Theory]] | schema activation | — | Fleshing Out and the Role of Backgrou... | 417 |
 | 39 | [[Spatial Cognition]] | spatial reasoning | — | Spatial Mental Models | 421 |
 | 40 | [[Mary Hegarty]] | — | — | Spatial Mental Models | 423 |
-| 41 | [[Mental Simulation]] | mental simulation | — | Spatial Mental Models | 423 |
+| 41 | [[Mental-Simulation|Mental Simulation]] | mental simulation | — | Spatial Mental Models | 423 |
 | 42 | [[Roger Shepard]] | — | — | Spatial Mental Models | 426 |
 | 43 | [[Lynn Cooper]] | — | — | Spatial Mental Models | 426 |
 | 44 | [[Ruth Byrne]] | — | — | Counterfactual Reasoning | 430 |
 | 45 | [[Counterfactual Reasoning]] | counterfactual reasoning | — | Counterfactual Reasoning | 430 |
-| 46 | [[Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 446 |
-| 47 | [[Propositional Representation]] | propositional knowledge | — | Instruction and the Goal of Model Bui... | 448 |
+| 46 | [[Mental-Models|Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 446 |
+| 47 | [[Propositional-Representation|Propositional Representation]] | propositional knowledge | — | Instruction and the Goal of Model Bui... | 448 |
 | 48 | [[Richard Mayer]] | — | — | Instruction and the Goal of Model Bui... | 453 |
 | 49 | [[Multimedia Learning]] | Multimedia Learning Theory | — | Instruction and the Goal of Model Bui... | 453 |
-| 50 | [[Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 453 |
+| 50 | [[Mental-Models|Mental Models]] | mental model | — | Instruction and the Goal of Model Bui... | 453 |
 | 51 | [[Stella Vosniadou]] | — | — | Science Education and the Problem of ... | 457 |
-| 52 | [[Conceptual Change Theory]] | conceptual change | — | Science Education and the Problem of ... | 460 |
-| 53 | [[Working Memory]] | — | — | Limitations and Boundary Conditions | 468 |
-| 54 | [[Cognitive Load Theory]] | — | — | Limitations and Boundary Conditions | 468 |
+| 52 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | conceptual change | — | Science Education and the Problem of ... | 460 |
+| 53 | [[Working-Memory|Working Memory]] | — | — | Limitations and Boundary Conditions | 468 |
+| 54 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Limitations and Boundary Conditions | 468 |
 | 55 | [[Mental Models Theory]] | — | — | The Deep Pattern | 490 |
 | 56 | [[Computational Theory of Mind]] | — | — | The Deep Pattern | 492 |
 | 57 | [[PKB]] | — | — | The "So What?" | 498 |
-| 58 | [[Schema Theory]] | — | — | The "So What?" | 498 |
+| 58 | [[Schema-Theory|Schema Theory]] | — | — | The "So What?" | 498 |
 | 59 | [[Barsalou]] | — | — | Open Questions | 502 |
 | 60 | [[Perceptual Symbol Systems]] | — | — | Open Questions | 502 |
 | 61 | [[Mental Models Theory]] | — | — | Open Questions | 507 |
-| 62 | [[Schema Theory]] | — | — | Open Questions | 509 |
-| 63 | [[Schema Theory]] | — | — | Open Questions | 509 |
+| 62 | [[Schema-Theory|Schema Theory]] | — | — | Open Questions | 509 |
+| 63 | [[Schema-Theory|Schema Theory]] | — | — | Open Questions | 509 |
 | 64 | [[Reasoning Types in Education]] | — | — | Open Questions | 511 |
-| 65 | [[Deductive Reasoning]] | — | — | Open Questions | 511 |
-| 66 | [[Inductive Reasoning]] | — | — | Open Questions | 511 |
-| 67 | [[Abductive Reasoning]] | — | — | Open Questions | 511 |
+| 65 | [[Deductive-Reasoning|Deductive Reasoning]] | — | — | Open Questions | 511 |
+| 66 | [[Inductive-Reasoning|Inductive Reasoning]] | — | — | Open Questions | 511 |
+| 67 | [[Abductive-Reasoning|Abductive Reasoning]] | — | — | Open Questions | 511 |
 | 68 | [[Metacognition & Lifelong Learning]] | — | — | Open Questions | 513 |
 | 69 | [[Metacognition & Critical Thinking]] | — | — | Open Questions | 513 |
 | 70 | [[Metacognition & Motivation]] | — | — | Open Questions | 513 |
@@ -621,16 +621,16 @@ extraction_summary:
 | 81 | [[Situation Models in Text Comprehension]] | — | — | D. Expansion Topics | 608 |
 | 82 | [[Walter Kintsch]] | — | — | D. Expansion Topics | 609 |
 | 83 | [[Rolf Zwaan]] | — | — | D. Expansion Topics | 609 |
-| 84 | [[Conceptual Change Theory]] | — | — | D. Expansion Topics | 611 |
+| 84 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | D. Expansion Topics | 611 |
 | 85 | [[Stella Vosniadou]] | — | — | D. Expansion Topics | 612 |
 | 86 | [[Multimedia Learning]] | — | — | D. Expansion Topics | 614 |
 | 87 | [[Richard Mayer]] | — | — | D. Expansion Topics | 615 |
 | 88 | [[Counterfactual Reasoning]] | — | — | D. Expansion Topics | 617 |
 | 89 | [[Ruth Byrne]] | — | — | D. Expansion Topics | 618 |
 | 90 | [[Spatial Mental Models]] | — | — | D. Expansion Topics | 620 |
-| 91 | [[Analogical Reasoning]] | — | — | D. Expansion Topics | 623 |
-| 92 | [[Dedre Gentner]] | — | — | D. Expansion Topics | 624 |
-| 93 | [[Mental Simulation]] | — | — | D. Expansion Topics | 626 |
+| 91 | [[Analogical-Reasoning|Analogical Reasoning]] | — | — | D. Expansion Topics | 623 |
+| 92 | [[Dedre-Gentner|Dedre Gentner]] | — | — | D. Expansion Topics | 624 |
+| 93 | [[Mental-Simulation|Mental Simulation]] | — | — | D. Expansion Topics | 626 |
 | 94 | [[Lawrence Barsalou]] | — | — | D. Expansion Topics | 627 |
 
 ---
@@ -642,23 +642,23 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Abductive Reasoning]]
-- [[Analogical Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Barsalou]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Computational Theory of Mind]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Counterfactual Reasoning]]
 - [[Critical Thinking in Education]]
 - [[Daniel Kahneman]]
-- [[Dedre Gentner]]
-- [[Deductive Reasoning]]
-- [[Dual Process Theory]]
+- [[Dedre-Gentner|Dedre Gentner]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Fallibilism]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Formal Rule Theories of Reasoning]]
 - [[Frederic Bartlett]]
-- [[Inductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Johnson-Laird]]
 - [[Jonathan Evans]]
 - [[Keith Stanovich]]
@@ -669,9 +669,9 @@ extraction_summary:
 - [[Martin Braine]]
 - [[Mary Hegarty]]
 - [[Mental Logic Theory]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Mental Models Theory]]
-- [[Mental Simulation]]
+- [[Mental-Simulation|Mental Simulation]]
 - [[Metacognition & Critical Thinking]]
 - [[Metacognition & Lifelong Learning]]
 - [[Metacognition & Motivation]]
@@ -680,23 +680,23 @@ extraction_summary:
 - [[PKB]]
 - [[Perceptual Symbol Systems]]
 - [[Philip Johnson-Laird]]
-- [[Propositional Representation]]
+- [[Propositional-Representation|Propositional Representation]]
 - [[Reasoning Types in Education]]
 - [[Richard Mayer]]
 - [[Richard West]]
 - [[Roger Shepard]]
 - [[Rolf Zwaan]]
 - [[Ruth Byrne]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Situation Models]]
 - [[Situation Models in Text Comprehension]]
 - [[Spatial Cognition]]
 - [[Spatial Mental Models]]
 - [[Stella Vosniadou]]
 - [[Walter Kintsch]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[history and philosophy of science]]
-- [[long-term memory]]
+- [[Long-Term-Memory|long-term memory]]
 - [[possible worlds semantics]]
 
 ### Frontmatter Relationships
@@ -704,25 +704,25 @@ extraction_summary:
 #### Prerequisites
 
 - [[Reasoning Types in Education]]
-- [[Deductive Reasoning]]
-- [[Schema Theory]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Related
 
-- [[Analogical Reasoning]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Causal Reasoning]]
 - [[Counterfactual Reasoning]]
 - [[Situation Models]]
 - [[Text Comprehension]]
 - [[Spatial Cognition]]
-- [[Working Memory]]
-- [[Cognitive Load Theory]]
-- [[Dual Process Theory]]
+- [[Working-Memory|Working Memory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 
 #### Broader
 
-- [[Cognitive Psychology]]
-- [[Philosophy of Mind]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Knowledge Representation]]
 
 #### Narrower
@@ -736,38 +736,38 @@ extraction_summary:
 
 - [[Metacognition & Lifelong Learning]]
 - [[Critical Thinking in Education]]
-- [[Inductive Reasoning]]
-- [[Abductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Fallibilism]]
 
 #### Contrasts With
 
 - [[Mental Logic Theory]]
-- [[Propositional Representation]]
+- [[Propositional-Representation|Propositional Representation]]
 - [[Formal Rule Theories of Reasoning]]
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Science Education]]
 - [[Intelligent Tutoring Systems]]
 - [[Multimedia Learning]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 
 #### Builds On
 
-- [[Schema Theory]]
-- [[Deductive Reasoning]]
-- [[Working Memory]]
-- [[Cognitive Architecture]]
+- [[Schema-Theory|Schema Theory]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Working-Memory|Working Memory]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
 
 #### Enables
 
-- [[Conceptual Change Theory]]
-- [[Analogical Reasoning]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 - [[Multimedia Learning]]
 - [[Situation Models in Text Comprehension]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Systems Thinking]]
 
 ---

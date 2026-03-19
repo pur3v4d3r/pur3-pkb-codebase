@@ -362,11 +362,11 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — BPNT is one of six mini-theories within SDT's macro-framework. Where the SDT report maps the full theoretical architecture including [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic-Integration-Theory|Organismic Integration Theory]], and the [[Motivation Continuum]], this focused analysis drills into the need-structure question that SDT's broader treatment necessarily glosses. The most direct connection is to the internalization continuum in OIT: the mechanism by which extrinsic motivation is progressively internalized into autonomous self-regulation requires all three need-satisfying conditions as enabling prerequisites — a connection the synthesis in Phase VI makes explicit.
 > 
-> - **[[Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's central analysis of the knowing-doing gap — why learners who understand regulatory strategies often fail to enact them — finds a motivational-structural explanation in BPNT. SRL cycle execution (goal-setting, monitoring, adaptation) requires volitional engagement that is only possible when the autonomy need is satisfied. The monitoring-control decoupling identified as the key SRL bottleneck may be partly explicable as a need-frustration effect: autonomy-frustrated learners may retain monitoring capability but lose the volitional capacity to act on what monitoring reveals. This is a cross-report analytical connection worth pursuing as a dedicated analysis.
 > 
-> - **[[Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The CLT report's analysis of intrinsic and extraneous load has an underexplored BPNT intersection. High intrinsic load environments (complex, challenging content) may simultaneously frustrate the competence need when support is insufficient, creating avoidance-oriented motivational states that further reduce available working memory capacity. This creates a potential feedback loop: cognitive overload → competence need frustration → defensive disengagement → reduced processing capacity → further cognitive overload. CLT's recommendations for managing load (worked examples, segmentation, modality effects) may work partly through need-satisfaction mechanisms — an integration not explored in either the CLT or BPNT literatures separately.
 > 
 > - **[[Autonomy Support in Education]]** — The most direct application node for this analysis. Reeve's ASOS framework and the teaching behaviors that distinguish autonomy-supportive from controlling instruction are the practical implementation of BPNT's autonomy need satisfaction recommendations. This report's distinctions — autonomy ≠ independence, need frustration ≠ need absence, conjunctive need architecture — provide the theoretical grounding for *why* specific autonomy-supportive behaviors matter.
 > 
@@ -542,9 +542,9 @@ extraction_summary:
 - [[Autonomy Support — Mechanisms and Measurement]]
 - [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
 - [[Basic Psychological Needs Theory]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
 - [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
 - [[Edward Deci]]
@@ -554,10 +554,10 @@ extraction_summary:
 - [[Maarten Vansteenkiste]]
 - [[Motivation Continuum]]
 - [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[autonomy]]
 - [[competence]]
 - [[relatedness]]
@@ -571,17 +571,17 @@ extraction_summary:
 | 2 | [[Basic Psychological Needs Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 3 | [[Edward Deci]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 4 | [[Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 237 |
-| 5 | [[Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 6 | [[autonomy]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 7 | [[competence]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 8 | [[relatedness]] | — | — | The Arithmetic That Doesn't Work | 237 |
 | 9 | [[Maarten Vansteenkiste]] | — | — | The Arithmetic That Doesn't Work | 241 |
 | 10 | [[Richard Ryan]] | — | — | The Arithmetic That Doesn't Work | 241 |
-| 11 | [[Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
-| 12 | [[Cognitive Evaluation Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
-| 13 | [[Organismic Integration Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
-| 14 | [[Causality Orientations Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
-| 15 | [[Self-Determination Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
+| 11 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
+| 12 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
+| 13 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
+| 14 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | The Arithmetic That Doesn't Work | 245 |
+| 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
 | 16 | [[Basic Psychological Needs Theory]] | — | — | 2.1 Situating BPNT Within SDT | 260 |
 | 17 | [[autonomy]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
 | 18 | [[competence]] | — | — | 2.1 Situating BPNT Within SDT | 265 |
@@ -592,12 +592,12 @@ extraction_summary:
 | 23 | [[relatedness]] | — | — | 2.2 The Three Needs Defined with Prec... | 280 |
 | 24 | [[Flow Theory]] | — | — | 3.2 Evidence for Individual Need Impo... | 327 |
 | 25 | [[Attachment Theory]] | — | — | 4.2 The Relatedness-Autonomy Interact... | 385 |
-| 26 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
-| 27 | [[Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
-| 28 | [[Organismic Integration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
+| 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
+| 27 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
+| 28 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
 | 29 | [[Motivation Continuum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 527 |
-| 30 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 529 |
-| 31 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
+| 30 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 529 |
+| 31 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 531 |
 | 32 | [[Autonomy Support in Education]] | — | — | Phase VII: PKB Connections & Cross-Re... | 533 |
 | 33 | [[Autonomy Support — Mechanisms and Measurement]] | — | — | D. Expansion Topics | 624 |
 | 34 | [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]] | — | — | D. Expansion Topics | 627 |
@@ -620,9 +620,9 @@ extraction_summary:
 - [[Autonomy Support — Mechanisms and Measurement]]
 - [[BPNT and Self-Regulated Learning — The Motivational Preconditions for Regulatory Execution]]
 - [[Basic Psychological Needs Theory]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load and Need Satisfaction — The Resource Competition Hypothesis]]
 - [[Cultural Universality of Basic Psychological Needs — A Critical Examination]]
 - [[Edward Deci]]
@@ -632,10 +632,10 @@ extraction_summary:
 - [[Maarten Vansteenkiste]]
 - [[Motivation Continuum]]
 - [[Need Frustration and the Dark Side of Motivation — A Focused Analysis]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[autonomy]]
 - [[competence]]
 - [[relatedness]]
@@ -645,21 +645,21 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic and Extrinsic Motivation]]
 
 #### Related
 
-- [[Self-Determination Theory]]
-- [[Cognitive Evaluation Theory]]
-- [[Organismic Integration Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Autonomy Support in Education]]
 
 #### Broader
 
 - [[Motivation Theory]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Positive Psychology]]
 
 #### Narrower
@@ -670,7 +670,7 @@ extraction_summary:
 
 #### See Also
 
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Self-Efficacy Theory — Bandura]]
 - [[Expectancy-Value Theory]]
 
@@ -682,14 +682,14 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Learning Environment Design]]
 - [[Performance Management]]
 
 #### Builds On
 
-- [[Self-Determination Theory]]
-- [[Organismic Meta-Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Organismic-Meta-Theory|Organismic Meta-Theory]]
 
 #### Enables
 

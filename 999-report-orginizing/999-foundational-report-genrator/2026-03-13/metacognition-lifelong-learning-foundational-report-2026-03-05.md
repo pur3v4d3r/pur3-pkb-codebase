@@ -130,22 +130,22 @@ key-distinctions:
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[Memory Systems and Encoding]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Executive Function]]"
 
 related:
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[Deliberate Practice]]"
-  - "[[Growth Mindset]]"
-  - "[[Spaced Repetition]]"
-  - "[[Retrieval Practice]]"
-  - "[[Formative Assessment]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
+  - "[[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]"
+  - "[[Retrieval-Practice|Retrieval Practice]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
   - "[[Cognitive Biases in Learning]]"
-  - "[[Zone of Proximal Development]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Lifespan Developmental Psychology]]"
 
 narrower:
@@ -155,22 +155,22 @@ narrower:
   - "[[Metacognition in Older Adults]]"
 
 see-also:
-  - "[[Critical Thinking]]"
-  - "[[Epistemic Humility]]"
-  - "[[Transfer of Learning]]"
+  - "[[Critical-Thinking|Critical Thinking]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Expertise Development]]"
 
 contrasts-with:
   - "[[Rote Learning]]"
   - "[[Passive Learning]]"
-  - "[[Fixed Mindset]]"
+  - "[[Fixed-Mindset|Fixed Mindset]]"
 
 applied-in:
   - "[[Professional Development]]"
   - "[[Medical Education]]"
   - "[[K-12 Education]]"
   - "[[Workplace Learning]]"
-  - "[[Personal Knowledge Management]]"
+  - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -178,7 +178,7 @@ applied-in:
 builds-on:
   - "[[Memory Systems and Encoding]]"
   - "[[Attention and Cognitive Control]]"
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
 
 enables:
   - "[[Expert-Level Skill Acquisition]]"
@@ -189,7 +189,7 @@ expansion-topics:
   - topic: "[[Retrieval Practice and the Testing Effect]]"
     description: "Empirical evidence showing that actively retrieving information (rather than re-reading) produces dramatically superior long-term retention; directly actionable metacognitive tool"
     priority: high
-  - topic: "[[Spaced Repetition Systems]]"
+  - topic: "[[Spaced-Repetition-Systems|Spaced Repetition Systems]]"
     description: "Systematic application of the spacing effect through scheduling algorithms; one of the highest-leverage metacognitive learning tools available"
     priority: high
   - topic: "[[Metacognition in Professional Domains]]"
@@ -291,7 +291,7 @@ The term carries a literal precision that repays attention. *Meta* — from the 
 
 The distinction between cognition and metacognition is not always crisp, but it is conceptually important. Reading a sentence is cognition. Noticing that you did not understand the sentence is metacognition. Deciding to slow down, re-read, and look up an unfamiliar word is metacognitive regulation. The hierarchy matters: metacognition operates at a different level of abstraction from the cognitive processes it monitors and controls.
 
-[[Flavell]]'s original framework, introduced in a landmark 1979 paper in *American Psychologist*, distinguished three interlocking components. **[[Metacognitive Knowledge]]** refers to what a person believes about cognition — both cognition in general and their own cognitive characteristics in particular. This knowledge is further divided into knowledge about persons (understanding that different people have different cognitive strengths and limitations), knowledge about tasks (understanding how task features affect difficulty), and knowledge about strategies (understanding which learning approaches are effective for which purposes). **[[Metacognitive Experiences]]** are the conscious, affective experiences that accompany cognitive activity — the "tip-of-the-tongue" feeling, the sense of knowing, the feeling of confusion or fluency. **[[Metacognitive Regulation]]** encompasses the monitoring and control processes that guide cognitive activity: planning before undertaking a task, checking understanding during it, and evaluating performance afterward.
+[[Flavell]]'s original framework, introduced in a landmark 1979 paper in *American Psychologist*, distinguished three interlocking components. **[[Metacognitive-Knowledge|Metacognitive Knowledge]]** refers to what a person believes about cognition — both cognition in general and their own cognitive characteristics in particular. This knowledge is further divided into knowledge about persons (understanding that different people have different cognitive strengths and limitations), knowledge about tasks (understanding how task features affect difficulty), and knowledge about strategies (understanding which learning approaches are effective for which purposes). **[[Metacognitive Experiences]]** are the conscious, affective experiences that accompany cognitive activity — the "tip-of-the-tongue" feeling, the sense of knowing, the feeling of confusion or fluency. **[[Metacognitive-Regulation|Metacognitive Regulation]]** encompasses the monitoring and control processes that guide cognitive activity: planning before undertaking a task, checking understanding during it, and evaluating performance afterward.
 
 > [!key-claim] **The Core Claim of Metacognitive Research**
 > Metacognitive knowledge and regulation are not fixed personality traits but learnable, developable capacities that causally influence learning outcomes. Individuals with more accurate, sophisticated metacognition learn more efficiently, adapt more readily to novel challenges, and show greater transfer of knowledge across contexts. This claim has been supported across hundreds of empirical studies spanning diverse age groups, domains, and cultures.
@@ -320,7 +320,7 @@ Within the modern scientific tradition, the intellectual lineage of metacognitio
 
 ### The Self-Regulated Learning Framework
 
-No theoretical framework has been more influential in applying metacognitive theory to practical learning than [[Barry Zimmerman]]'s model of [[self-regulated learning]] (SRL). Zimmerman argued that effective learners are not passive recipients of instruction but active agents who systematically govern their own cognitive, motivational, and behavioral processes during learning. His cyclical model, developed across the 1980s and refined through the 2000s, organizes self-regulated learning into three recurring phases.
+No theoretical framework has been more influential in applying metacognitive theory to practical learning than [[Barry-Zimmerman|Barry Zimmerman]]'s model of [[Self-Regulated-Learning-—-SRL|self-regulated learning]] (SRL). Zimmerman argued that effective learners are not passive recipients of instruction but active agents who systematically govern their own cognitive, motivational, and behavioral processes during learning. His cyclical model, developed across the 1980s and refined through the 2000s, organizes self-regulated learning into three recurring phases.
 
 The **Forethought Phase** precedes actual learning and encompasses two clusters of processes: task analysis and motivational beliefs. Task analysis involves goal setting — establishing specific, hierarchically organized learning goals — and strategic planning, in which the learner selects and sequences strategies based on their knowledge of themselves, the task, and available strategies. Motivational beliefs include the learner's self-efficacy (their confidence in their ability to perform the task), their intrinsic interest, and their causal attributions about what determines learning success. These motivational factors are not peripheral to metacognition; they determine whether metacognitive knowledge is deployed at all.
 
@@ -335,16 +335,16 @@ The **Self-Reflection Phase** follows the performance phase and involves self-ju
 
 One of the most practically consequential findings in metacognitive research concerns the systematic inaccuracy of self-assessment. [[Calibration]] — the alignment between one's confidence in one's knowledge and one's actual knowledge — is frequently poor, and the direction of the error is predictable: most people are overconfident about what they know and how well they have learned it.
 
-[[Robert Bjork]] and colleagues have illuminated the mechanism through research on what he calls *metacognitive illusions* — conditions under which the feeling of knowing is generated by factors irrelevant to actual learning. The most potent illusion is **[[fluency]]**: when material feels easy to process (because it has been recently read, is familiar, or is clearly presented), learners interpret that fluency as evidence of understanding and long-term retention. In reality, processing fluency is largely a measure of short-term accessibility, not durable learning. A student who re-reads their notes before an exam produces a fluency signal that feels like mastery; the [[retrieval practice]] approach of closing the notes and testing oneself feels harder, generates more errors, and feels less productive — yet produces dramatically superior retention.
+[[Robert Bjork]] and colleagues have illuminated the mechanism through research on what he calls *metacognitive illusions* — conditions under which the feeling of knowing is generated by factors irrelevant to actual learning. The most potent illusion is **[[fluency]]**: when material feels easy to process (because it has been recently read, is familiar, or is clearly presented), learners interpret that fluency as evidence of understanding and long-term retention. In reality, processing fluency is largely a measure of short-term accessibility, not durable learning. A student who re-reads their notes before an exam produces a fluency signal that feels like mastery; the [[Retrieval-Practice|retrieval practice]] approach of closing the notes and testing oneself feels harder, generates more errors, and feels less productive — yet produces dramatically superior retention.
 
 > [!evidence] **The Testing Effect: Calibration's Most Powerful Corrective**
 > Roediger and Karpicke (2006) conducted a landmark experiment comparing three study conditions: repeated study (SSSS), one study period followed by three retrieval practice sessions (STTT), and alternating study and test (STST). One week later, the retrieval practice condition (STTT) produced 50% superior retention compared to repeated study. Beyond the memory benefit, retrieval practice also improves metacognitive calibration: the errors produced during self-testing provide accurate diagnostic information about what has not been learned, countering the fluency illusion.
 
-The **[[Dunning-Kruger Effect]]**, identified by [[David Dunning]] and [[Justin Kruger]] in their influential 1999 studies, demonstrated a related calibration failure: individuals with limited competence in a domain systematically overestimate their performance, while highly competent individuals sometimes slightly underestimate theirs. The mechanism is metacognitive: competence in a domain includes knowing what good performance looks like; without that knowledge, one lacks the referent for accurate self-assessment. The implication is counterintuitive — developing competence initially produces the unsettling experience of realizing how much one does not know, a phenomenon sometimes called the "valley of despair" in learning trajectories.
+The **[[Dunning-Kruger-Effect|Dunning-Kruger Effect]]**, identified by [[David Dunning]] and [[Justin Kruger]] in their influential 1999 studies, demonstrated a related calibration failure: individuals with limited competence in a domain systematically overestimate their performance, while highly competent individuals sometimes slightly underestimate theirs. The mechanism is metacognitive: competence in a domain includes knowing what good performance looks like; without that knowledge, one lacks the referent for accurate self-assessment. The implication is counterintuitive — developing competence initially produces the unsettling experience of realizing how much one does not know, a phenomenon sometimes called the "valley of despair" in learning trajectories.
 
 ### Growth Mindset and Its Relationship to Metacognition
 
-[[Carol Dweck]]'s research on [[implicit theories of intelligence]] introduced a distinction with direct metacognitive consequences. Learners who hold a **[[fixed mindset]]** — the belief that intelligence and ability are stable, innate traits — interpret learning difficulties as evidence of insufficient ability and tend to withdraw from challenging tasks that threaten self-image. Learners who hold a **[[growth mindset]]** — the belief that intelligence and ability are malleable through effort — interpret difficulties as signals to escalate effort and change strategies, treating challenges as opportunities for development.
+[[Carol Dweck]]'s research on [[Growth-Mindset-Implicit-Theories-of-Intelligence|implicit theories of intelligence]] introduced a distinction with direct metacognitive consequences. Learners who hold a **[[Fixed-Mindset|fixed mindset]]** — the belief that intelligence and ability are stable, innate traits — interpret learning difficulties as evidence of insufficient ability and tend to withdraw from challenging tasks that threaten self-image. Learners who hold a **[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]** — the belief that intelligence and ability are malleable through effort — interpret difficulties as signals to escalate effort and change strategies, treating challenges as opportunities for development.
 
 The relationship between mindset and metacognition is bidirectional. Fixed-mindset learners are less likely to deploy metacognitive monitoring during difficulty, because difficulty itself is aversive and to be avoided; growth-mindset learners use difficulty as a metacognitive signal to increase monitoring and adjust strategies. Conversely, accurate metacognitive monitoring tends to produce evidence that ability grows with strategic effort, which reinforces growth mindset beliefs. Interventions that cultivate one often strengthen the other.
 
@@ -353,9 +353,9 @@ The relationship between mindset and metacognition is bidirectional. Fixed-minds
 
 ### Desirable Difficulties and the Science of Effortful Learning
 
-[[Robert Bjork]]'s concept of **[[desirable difficulties]]** represents one of the most important — and most practically counterintuitive — contributions of metacognitive research to learning science. Bjork observed that many conditions that enhance long-term learning and transfer actually impair performance during practice, while many conditions that produce smooth, fluent practice actually impair long-term retention. The discrepancy between the *appearance* of learning (what metacognitive monitoring typically tracks) and *actual* learning (what retention and transfer tests measure) is where metacognitive miscalibration does its most damage.
+[[Robert Bjork]]'s concept of **[[Desirable-Difficulties|desirable difficulties]]** represents one of the most important — and most practically counterintuitive — contributions of metacognitive research to learning science. Bjork observed that many conditions that enhance long-term learning and transfer actually impair performance during practice, while many conditions that produce smooth, fluent practice actually impair long-term retention. The discrepancy between the *appearance* of learning (what metacognitive monitoring typically tracks) and *actual* learning (what retention and transfer tests measure) is where metacognitive miscalibration does its most damage.
 
-Desirable difficulties include [[spaced practice]] (distributing study sessions over time, rather than massing them together in a single session), [[interleaving]] (mixing different topics or problem types within a study session, rather than completing all problems of one type before moving to the next), [[retrieval practice]] (testing oneself rather than re-studying), and [[variation practice]] (varying the conditions of practice). Each of these conditions makes practice feel harder and produces more errors during training — which metacognitive monitoring typically reads as negative feedback. Yet each produces superior long-term learning outcomes compared to the smoother alternatives.
+Desirable difficulties include [[spaced practice]] (distributing study sessions over time, rather than massing them together in a single session), [[interleaving]] (mixing different topics or problem types within a study session, rather than completing all problems of one type before moving to the next), [[Retrieval-Practice|retrieval practice]] (testing oneself rather than re-studying), and [[variation practice]] (varying the conditions of practice). Each of these conditions makes practice feel harder and produces more errors during training — which metacognitive monitoring typically reads as negative feedback. Yet each produces superior long-term learning outcomes compared to the smoother alternatives.
 
 > [!ask-yourself-this] **A Diagnostic Question**
 > Think about your typical approach to studying, practicing a skill, or preparing for a professional task. How much of that approach feels smooth and efficient? How much feels uncomfortable and error-prone? If the answer is "mostly smooth," you may be experiencing the fluency illusion — optimizing for the experience of learning rather than for learning itself.
@@ -373,11 +373,11 @@ Desirable difficulties include [[spaced practice]] (distributing study sessions 
 
 At the operational level, metacognitive monitoring works through a set of distinct cognitive signals — what researchers call [[metacognitive judgments]] — that arise during learning and provide information about the state of one's knowledge. Understanding these signals is prerequisite to using them well.
 
-The **[[Judgment of Learning (JOL)]]** is the assessment, made during or after study, of how well one has learned particular material and how likely one is to remember it later. JOLs are the bread-and-butter metacognitive monitoring event: after reading a fact, seeing a flashcard, or completing a problem, learners form some estimate of how durably they have encoded it. Research consistently shows that JOLs are more accurate when made after a delay (delayed JOLs, measured minutes or hours after study rather than immediately after) and after retrieval practice (generating an answer before making the judgment), because both conditions force actual retrieval rather than relying on current fluency as a proxy for memory.
+The **[[Judgment-of-Learning|Judgment of Learning (JOL)]]** is the assessment, made during or after study, of how well one has learned particular material and how likely one is to remember it later. JOLs are the bread-and-butter metacognitive monitoring event: after reading a fact, seeing a flashcard, or completing a problem, learners form some estimate of how durably they have encoded it. Research consistently shows that JOLs are more accurate when made after a delay (delayed JOLs, measured minutes or hours after study rather than immediately after) and after retrieval practice (generating an answer before making the judgment), because both conditions force actual retrieval rather than relying on current fluency as a proxy for memory.
 
-The **[[Feeling of Knowing (FOK)]]** is the sense that one knows something even though one cannot currently retrieve it — the metacognitive basis of the "tip-of-the-tongue" phenomenon. FOK influences study allocation: learners tend to invest more study time in material for which they have a high FOK, on the assumption that additional exposure will unlock the blocked memory. The mechanism is not always reliable; FOK can be triggered by superficial familiarity rather than deep encoding.
+The **[[Feeling-of-Knowing-—-FOK|Feeling of Knowing (FOK)]]** is the sense that one knows something even though one cannot currently retrieve it — the metacognitive basis of the "tip-of-the-tongue" phenomenon. FOK influences study allocation: learners tend to invest more study time in material for which they have a high FOK, on the assumption that additional exposure will unlock the blocked memory. The mechanism is not always reliable; FOK can be triggered by superficial familiarity rather than deep encoding.
 
-The **[[Ease of Learning (EOL)]]** judgment, made in advance of study, predicts how difficult particular material will be to learn. EOL judgments inform the allocation of study time and the selection of strategies before engagement begins — making them a form of prospective metacognitive planning rather than online monitoring.
+The **[[Ease-of-Learning-—-EOL|Ease of Learning (EOL)]]** judgment, made in advance of study, predicts how difficult particular material will be to learn. EOL judgments inform the allocation of study time and the selection of strategies before engagement begins — making them a form of prospective metacognitive planning rather than online monitoring.
 
 > [!key-insight] **The Monitoring-Control Distinction**
 > Monitoring and control are often conflated in everyday discussion of metacognition, but they are distinct processes with distinct failure modes. Monitoring is the assessment process — generating information about the state of one's knowledge. Control is the regulatory process — using that information to make decisions about how to allocate cognitive resources. A learner can have excellent monitoring (accurately perceiving what they do and do not know) but poor control (failing to act on that information by reallocating study time). Conversely, a learner can have energetic control behavior that is misdirected because monitoring signals are inaccurate. Both components must function for effective self-regulation.
@@ -390,7 +390,7 @@ Metacognitive regulation in practice operates through a feedback architecture in
 
 **Control responsiveness** — the willingness and capacity to act on monitoring signals — is the second determinant. Research on [[study time allocation]] shows that learners under time pressure tend to display the **[[labor-in-vain effect]]**: they allocate study time to material they already know (because it is easier to process) rather than to material they have not yet learned. This is a control failure driven by motivational factors: engaging with unknown material is effortful and aversive, while re-studying known material produces fluency signals that feel rewarding. Overriding this tendency requires what Zimmerman's model calls **[[self-control]]** — the volitional capacity to execute the effortful strategy in the face of competing motivational forces.
 
-**Attribution quality** — the explanatory framework the learner uses to interpret learning outcomes — is the third structural determinant of regulatory effectiveness. When a learner fails to recall something, the attribution they make (to insufficient effort, to a poor strategy, to insufficient sleep, to inherent difficulty of the material) determines the control response. Effort attributions produce strategy adjustment; ability attributions tend to produce withdrawal. Research by [[Carol Dweck]] and [[Bernard Weiner]] on [[attribution theory]] has documented the downstream cognitive and motivational consequences of habitual attribution patterns across years of learning.
+**Attribution quality** — the explanatory framework the learner uses to interpret learning outcomes — is the third structural determinant of regulatory effectiveness. When a learner fails to recall something, the attribution they make (to insufficient effort, to a poor strategy, to insufficient sleep, to inherent difficulty of the material) determines the control response. Effort attributions produce strategy adjustment; ability attributions tend to produce withdrawal. Research by [[Carol Dweck]] and [[Bernard Weiner]] on [[Attribution-Theory|attribution theory]] has documented the downstream cognitive and motivational consequences of habitual attribution patterns across years of learning.
 
 > [!example] **The Medical Student Case**
 > Consider a medical student preparing for clinical exams. When she reads a chapter, she finds it comprehensible and notes her JOL as high. She moves to the next chapter. When later tested, she fails to recall the mechanism of action of several drugs. The monitoring failure — mistaking reading comprehension for memory consolidation — led to a control failure (moving on before encoding was established). A metacognitively sophisticated version of the same student would close the textbook after reading each section and attempt to retrieve the key concepts from memory (retrieval practice), use her FOK to identify gaps, and allocate additional study time specifically to the concepts she cannot retrieve. The same time investment produces dramatically different outcomes — not because of ability differences, but because of differences in metacognitive strategy deployment.
@@ -423,9 +423,9 @@ The question of how to develop metacognitive competence has attracted substantia
 
 **Explicit instruction** in metacognitive strategies — making the strategies visible and naming them — is more effective than simply exposing learners to tasks that implicitly demand metacognition. Research on [[reciprocal teaching]] (a reading comprehension intervention developed by [[Ann Brown]] and [[Annemarie Palincsar]]) demonstrates that explicit modeling of strategies like questioning, summarizing, clarifying, and predicting, followed by guided practice and gradual transfer of responsibility to the learner, produces substantial and durable gains in comprehension. The metacognitive strategies must be taught as strategies — as tools the learner actively deploys — not as habits that passively accumulate.
 
-**[[Reflective practice]]** — the systematic habit of examining one's cognitive process after a learning episode — accelerates metacognitive development. Donald Schön's framework for professional development emphasized the distinction between *reflection-in-action* (monitoring during performance) and *reflection-on-action* (deliberate retrospective analysis). Learners who maintain a learning journal, regularly conducting a structured after-action review of what they attempted, what worked, what failed, and what they would do differently, develop metacognitive knowledge at an accelerated rate compared to those who move immediately from task to task without reflective interlude.
+**[[Reflective-Practice|Reflective practice]]** — the systematic habit of examining one's cognitive process after a learning episode — accelerates metacognitive development. Donald Schön's framework for professional development emphasized the distinction between *reflection-in-action* (monitoring during performance) and *reflection-on-action* (deliberate retrospective analysis). Learners who maintain a learning journal, regularly conducting a structured after-action review of what they attempted, what worked, what failed, and what they would do differently, develop metacognitive knowledge at an accelerated rate compared to those who move immediately from task to task without reflective interlude.
 
-**[[Formative assessment]]** — low-stakes, frequent testing designed to provide feedback rather than determine grades — is one of the highest-leverage pedagogical tools for metacognitive development. When learners are regularly asked to predict their performance before a test, perform the test, and then compare their prediction to actual outcomes, they receive direct calibration feedback. Over time, this cycle of prediction and comparison produces more accurate metacognitive monitoring. The mechanism is the same as retrieval practice: the act of generating an assessment forces explicit engagement with the monitoring process rather than allowing the fluency illusion to operate unchecked.
+**[[Formative-Assessment|Formative assessment]]** — low-stakes, frequent testing designed to provide feedback rather than determine grades — is one of the highest-leverage pedagogical tools for metacognitive development. When learners are regularly asked to predict their performance before a test, perform the test, and then compare their prediction to actual outcomes, they receive direct calibration feedback. Over time, this cycle of prediction and comparison produces more accurate metacognitive monitoring. The mechanism is the same as retrieval practice: the act of generating an assessment forces explicit engagement with the monitoring process rather than allowing the fluency illusion to operate unchecked.
 
 > [!best-practice] **The Retrieval-Predict-Compare Cycle**
 > A practical, evidence-based metacognitive protocol for any learning task:
@@ -489,7 +489,7 @@ Third, it provides **an orientation toward difficulty**. Perhaps the most practi
 
 ### Unresolved Questions for Future Inquiry
 
-The field of metacognitive research continues to grapple with several genuinely open questions. How much metacognitive knowledge can be generalized across radically different domains, and what determines transfer? What neural mechanisms underlie the monitoring-control architecture, and how do they develop? Can technology — through [[adaptive learning systems]] that externalize metacognitive monitoring — compensate for individual differences in metacognitive skill, or does such external scaffolding prevent the development of internal metacognitive capacity? How do social and cultural factors shape metacognitive norms and practices across different learning communities? These questions define the frontier of a research program that, despite decades of productive investigation, remains vitally open.
+The field of metacognitive research continues to grapple with several genuinely open questions. How much metacognitive knowledge can be generalized across radically different domains, and what determines transfer? What neural mechanisms underlie the monitoring-control architecture, and how do they develop? Can technology — through [[Adaptive-Learning-Systems-—-Educational-Technology|adaptive learning systems]] that externalize metacognitive monitoring — compensate for individual differences in metacognitive skill, or does such external scaffolding prevent the development of internal metacognitive capacity? How do social and cultural factors shape metacognitive norms and practices across different learning communities? These questions define the frontier of a research program that, despite decades of productive investigation, remains vitally open.
 
 > [!connections-and-links]
 > **Internal PKB Connections:**
@@ -589,7 +589,7 @@ The field of metacognitive research continues to grapple with several genuinely 
 > [!topic-idea] [[Retrieval Practice and the Testing Effect]]
 > A full treatment of the empirical science behind retrieval practice — the most robustly supported learning strategy in cognitive psychology. Would cover the mechanisms of the testing effect (retrieval practice strengthens memory traces and enhances metacognitive calibration simultaneously), the conditions under which it is most and least effective, practical protocols for implementing it across different content types, and its integration with spaced repetition systems. Priority: High — the testing effect is perhaps the single most actionable finding from the metacognitive research program.
 
-> [!topic-idea] [[Spaced Repetition Systems]]
+> [!topic-idea] [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 > An exploration of how the spacing effect — one of the most replicable findings in memory research — can be systematically implemented through scheduling algorithms. Would cover the history from Ebbinghaus through modern SRS applications, the theory of the spacing effect, practical implementation using tools like Anki or SuperMemo, and the specific metacognitive skills required to maintain an SRS effectively over time. Priority: High — SRS represents the most powerful practical application of metacognitive learning science currently available.
 
 > [!topic-idea] [[The Science of Deliberate Practice]]

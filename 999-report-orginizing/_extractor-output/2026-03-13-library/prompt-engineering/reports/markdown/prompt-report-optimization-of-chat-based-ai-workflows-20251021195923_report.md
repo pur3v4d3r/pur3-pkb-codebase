@@ -155,7 +155,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This article provides an in-depth investigation into the systematic optimization of chat-based Large Language Model (LLM) workflows. We will deconstruct the industry's significant shift from "prompt engineering"—the art of crafting a single, perfect query—to the more robust discipline of "context engineering". This evolution is driven by the need to overcome the inherent "amnesia" of LLMs, which are fundamentally constrained by a finite "context window".
 > 
-> The central thesis is that interface-specific features like **Custom Instructions** and **Contextual Memory** represent two distinct but complementary pillars of this new paradigm. We will analyze Custom Instructions as a form of **static, persistent context**: a user-defined "prime directive" that is injected into every interaction to ensure consistent persona, tone, and formatting. In contrast, we will explore Contextual Memory as a form of **dynamic, persistent context**: an adaptive mechanism, likely powered by [[Retrieval-Augmented Generation (RAG)]], that selectively retrieves and injects relevant facts from past conversations, enabling true long-term personalization and task continuity.
+> The central thesis is that interface-specific features like **Custom Instructions** and **Contextual Memory** represent two distinct but complementary pillars of this new paradigm. We will analyze Custom Instructions as a form of **static, persistent context**: a user-defined "prime directive" that is injected into every interaction to ensure consistent persona, tone, and formatting. In contrast, we will explore Contextual Memory as a form of **dynamic, persistent context**: an adaptive mechanism, likely powered by [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]], that selectively retrieves and injects relevant facts from past conversations, enabling true long-term personalization and task continuity.
 > 
 > We will examine the underlying mechanisms of these features, from simple prompt prepending to sophisticated vector database retrieval. Drawing on recent research in [[Human-Computer Interaction (HCI)]], we will also analyze the observational evidence of their efficacy, including user "mental models" and the profound privacy and control challenges they introduce. Ultimately, this analysis frames these features not as minor conveniences, but as the foundational tools for transforming LLMs from stateless "oracles" into stateful, personalized collaborators.
 
@@ -291,7 +291,7 @@ extraction_summary:
 > 
 >   - **[[Human-Computer Interaction (HCI)]]:** We are moving from "direct manipulation" (GUIs) to "delegated-action" (agentic interfaces). Instead of *doing* a task, we are *describing* the task and our *preferences* about its execution.
 >   - **[[Cognitive Augmentation]]:** The AI, now equipped with a persistent memory of our goals and knowledge, becomes a true "Exocortex" or "Digital Amanuensis"—an extension of our own mind, capable of tracking complex projects and retrieving "our" information on demand.
->   - **[[Personal Knowledge Management (PKB)]]:** An AI with memory can function as an active, conversational partner within a Personal Knowledge Base system like Obsidian. It can "read" your notes (via RAG) and "remember" your "Custom Instructions" (your intellectual goals), proactively suggesting connections or drafting content in your specific style.
+>   - **[[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]:** An AI with memory can function as an active, conversational partner within a Personal Knowledge Base system like Obsidian. It can "read" your notes (via RAG) and "remember" your "Custom Instructions" (your intellectual goals), proactively suggesting connections or drafting content in your specific style.
 
 #### 17. [COUNTER-ARGUMENT] Untitled *(Line 318)*
 
@@ -330,7 +330,7 @@ extraction_summary:
 > The tools of this new discipline are **Custom Instructions** and **Contextual Memory**. They are not mere "features" but two distinct and essential mechanisms for creating a "stateful" AI collaborator.
 > 
 > 1.  **Custom Instructions** act as a **static, persistent "prime directive"**, injecting our roles, preferences, and formatting rules into every new conversation.
-> 1.  **Contextual Memory** functions as a **dynamic, persistent "notebook"**, using [[Retrieval-Augmented Generation (RAG)]] to find and inject relevant facts from our past, granting the AI a true, long-term memory.
+> 1.  **Contextual Memory** functions as a **dynamic, persistent "notebook"**, using [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] to find and inject relevant facts from our past, granting the AI a true, long-term memory.
 > 
 > Together, these tools transform the LLM from a generic "oracle" into a *personalized assistant*—one that remembers our projects, understands our style, and adapts to our workflows. But this new capability is not without peril. It brings us face-to-face with profound challenges of privacy, trust, and control. The "black box" memory system, which we do not understand and cannot manage, is a significant barrier to the very "collaborative" future it promises.
 > 
@@ -359,7 +359,7 @@ extraction_summary:
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 
 > 1.  `[[Context Engineering]]`
-> 1.  `[[Retrieval-Augmented Generation (RAG)]]`
+> 1.  `[[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]`
 > 1.  `[[Stateless vs. Stateful AI]]`
 
 #### 24. [QUESTION] Untitled *(Line 393)*
@@ -389,28 +389,28 @@ extraction_summary:
 - [[Human-Computer Interaction (HCI)]]
 - [[Large Language Models]]
 - [[Large Language Models (LLMs)]]
-- [[Personal Knowledge Management (PKB)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]
 - [[Personalization and Customization of LLM Responses]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 - [[Stateless vs. Stateful AI]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Retrieval-Augmented Generation (RAG)]] | — | — | Document Start | 48 |
+| 1 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | Document Start | 48 |
 | 2 | [[Human-Computer Interaction (HCI)]] | — | — | Document Start | 50 |
 | 3 | [[Large Language Models (LLMs)]] | — | — | 1.0 📜Introduction | 60 |
 | 4 | [[Large Language Models]] | — | — | 3.1 ⚛️Foundational Principles: The "Why" | 126 |
-| 5 | [[Retrieval-Augmented Generation (RAG)]] | — | — | 4.3 Mechanism 3: Contextual Memory (D... | 247 |
+| 5 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 4.3 Mechanism 3: Contextual Memory (D... | 247 |
 | 6 | [[Personalization and Customization of LLM Responses]] | — | — | 6\. 🌍Broader Implications and Signifi... | 312 |
 | 7 | [[Human-Computer Interaction (HCI)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 314 |
 | 8 | [[Cognitive Augmentation]] | — | — | 6\. 🌍Broader Implications and Signifi... | 315 |
-| 9 | [[Personal Knowledge Management (PKB)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 316 |
+| 9 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]] | — | — | 6\. 🌍Broader Implications and Signifi... | 316 |
 | 10 | [[Large Language Models]] | — | — | 8. 🦕Conclusion | 358 |
-| 11 | [[Retrieval-Augmented Generation (RAG)]] | — | — | 8. 🦕Conclusion | 363 |
+| 11 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 8. 🦕Conclusion | 363 |
 | 12 | [[Context Engineering]] | — | — | 9. 🧠Key Questions for Active Reading ... | 389 |
-| 13 | [[Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 390 |
+| 13 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 390 |
 | 14 | [[Stateless vs. Stateful AI]] | — | — | 9. 🧠Key Questions for Active Reading ... | 391 |
 | 15 | [[Human-Computer Interaction]] | — | — | 9. 🧠Key Questions for Active Reading ... | 397 |
 
@@ -484,9 +484,9 @@ extraction_summary:
 - [[Human-Computer Interaction (HCI)]]
 - [[Large Language Models]]
 - [[Large Language Models (LLMs)]]
-- [[Personal Knowledge Management (PKB)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKB)]]
 - [[Personalization and Customization of LLM Responses]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 - [[Stateless vs. Stateful AI]]
 
 ---

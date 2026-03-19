@@ -143,7 +143,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 33)*
 
 > [!abstract] Untitled
-> The challenge of accurate personal growth measurement represents one of the most perplexing problems in human development because it requires using a flawed cognitive system to evaluate itself. The [[Dunning-Kruger Effect]] and related [[Metacognitive Bias|metacognitive biases]] create systematic distortions in how individuals perceive their own competence, with low performers dramatically overestimating their abilities (by up to $45$ percentage points in experimental studies) while high performers often underestimate theirs. This paper deconstructs the cognitive mechanisms that make naive self-evaluation fail: the dual-burden phenomenon where incompetence robs individuals of the metacognitive insight needed to recognize incompetence, the statistical artifacts of [[Regression Toward the Mean|regression toward the mean]], and the confluence of [[Confirmation Bias|confirmation bias]] with [[Illusory Superiority|illusory superiority]]. We then construct a comprehensive solution framework grounded in the principle that accurate self-measurement requires **external calibration anchors**—objective reference points independent of the biased cognitive system. This framework integrates five essential components: structured [[Behavioral Evidence Collection|behavioral evidence collection]] that transforms subjective impressions into verifiable data patterns, [[Peer Feedback Integration|peer feedback systems]] designed with specific bias-mitigation protocols, [[Objective Performance Metrics|objective performance metrics]] that provide ground-truth calibration, [[Metacognitive Calibration|metacognitive calibration techniques]] that train better self-monitoring, and [[Structured Reflection|structured reflection protocols]] that systematically counteract cognitive distortions. The result is an implementable system that delivers accurate competence measurements by building redundancy into the assessment process—when five independent measurement streams converge on the same conclusion, you can trust that signal over the noise of internal bias.
+> The challenge of accurate personal growth measurement represents one of the most perplexing problems in human development because it requires using a flawed cognitive system to evaluate itself. The [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] and related [[Metacognitive Bias|metacognitive biases]] create systematic distortions in how individuals perceive their own competence, with low performers dramatically overestimating their abilities (by up to $45$ percentage points in experimental studies) while high performers often underestimate theirs. This paper deconstructs the cognitive mechanisms that make naive self-evaluation fail: the dual-burden phenomenon where incompetence robs individuals of the metacognitive insight needed to recognize incompetence, the statistical artifacts of [[Regression Toward the Mean|regression toward the mean]], and the confluence of [[Confirmation-Bias-Myside-Bias|confirmation bias]] with [[Illusory-Superiority|illusory superiority]]. We then construct a comprehensive solution framework grounded in the principle that accurate self-measurement requires **external calibration anchors**—objective reference points independent of the biased cognitive system. This framework integrates five essential components: structured [[Behavioral Evidence Collection|behavioral evidence collection]] that transforms subjective impressions into verifiable data patterns, [[Peer Feedback Integration|peer feedback systems]] designed with specific bias-mitigation protocols, [[Objective Performance Metrics|objective performance metrics]] that provide ground-truth calibration, [[Metacognitive Calibration|metacognitive calibration techniques]] that train better self-monitoring, and [[Structured Reflection|structured reflection protocols]] that systematically counteract cognitive distortions. The result is an implementable system that delivers accurate competence measurements by building redundancy into the assessment process—when five independent measurement streams converge on the same conclusion, you can trust that signal over the noise of internal bias.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 38)*
 
@@ -164,7 +164,7 @@ extraction_summary:
 
 > [!plan] Untitled
 > **Our Learning Quest:**
-> To construct a solution to biased self-assessment, we must accomplish three foundational learning objectives. First, we must understand the **specific cognitive mechanisms** that create the Dunning-Kruger effect and related biases—not just that they exist, but *how* they operate at the information-processing level. This means investigating the [[Dual-Burden Account|dual-burden account]] of incompetence, the role of [[Statistical Artifacts|statistical artifacts]], and the interaction between [[Metacognitive Monitoring|metacognitive monitoring]] and actual task performance. Second, we must master the principles of **external calibration**—how to use objective reference points to correct for internal bias, drawing from the literature on [[Calibration Accuracy|calibration accuracy]] in probability judgments and [[Signal Detection Theory]]. Third, we must learn the practical implementation techniques for building **redundant measurement systems** that cross-validate different data sources, ensuring that our conclusions about personal growth are based on triangulated evidence rather than single-point measurements contaminated by bias.
+> To construct a solution to biased self-assessment, we must accomplish three foundational learning objectives. First, we must understand the **specific cognitive mechanisms** that create the Dunning-Kruger effect and related biases—not just that they exist, but *how* they operate at the information-processing level. This means investigating the [[Dual-Burden Account|dual-burden account]] of incompetence, the role of [[Statistical Artifacts|statistical artifacts]], and the interaction between [[Metacognitive-Monitoring|metacognitive monitoring]] and actual task performance. Second, we must master the principles of **external calibration**—how to use objective reference points to correct for internal bias, drawing from the literature on [[Calibration Accuracy|calibration accuracy]] in probability judgments and [[Signal Detection Theory]]. Third, we must learn the practical implementation techniques for building **redundant measurement systems** that cross-validate different data sources, ensuring that our conclusions about personal growth are based on triangulated evidence rather than single-point measurements contaminated by bias.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 59)*
 
@@ -181,7 +181,7 @@ extraction_summary:
 #### 9. [ANALOGY] Untitled *(Line 71)*
 
 > [!analogy] Untitled
-> - **To understand** [[Metacognitive Calibration|metacognitive calibration]], **imagine** you're a weather forecaster making probability predictions. If you say there's a $70\%$ chance of rain, and it rains $70\%$ of the time you make that prediction across many instances, you're perfectly calibrated—your subjective confidence matches objective reality. But if it rains $90\%$ of the time when you predict $70\%$, you're systematically underconfident (underestimating the probability). The same principle applies to self-assessment: when you estimate you've answered $80\%$ of questions correctly, are you actually correct $80\%$ of the time? The difference between your confidence and your actual performance is your **calibration error**, and minimizing this error is the ultimate goal of accurate self-assessment.
+> - **To understand** [[Metacognitive-Calibration|metacognitive calibration]], **imagine** you're a weather forecaster making probability predictions. If you say there's a $70\%$ chance of rain, and it rains $70\%$ of the time you make that prediction across many instances, you're perfectly calibrated—your subjective confidence matches objective reality. But if it rains $90\%$ of the time when you predict $70\%$, you're systematically underconfident (underestimating the probability). The same principle applies to self-assessment: when you estimate you've answered $80\%$ of questions correctly, are you actually correct $80\%$ of the time? The difference between your confidence and your actual performance is your **calibration error**, and minimizing this error is the ultimate goal of accurate self-assessment.
 
 #### 10. [PRINCIPLE-POINT] Untitled *(Line 74)*
 
@@ -312,7 +312,7 @@ extraction_summary:
 > - *The workflow used here* **can also be applied to the field of:**
 >     - [[Scientific Methodology|Research Methodology and Reproducibility]]
 > - **The reason:**
->     - Individual scientists and research labs face metacognitive biases in assessing the strength of their own evidence: [[Confirmation Bias|confirmation bias]] leads researchers to overweight supporting evidence and underweight contradictory findings, while the [[File Drawer Problem|file drawer problem]] (unpublished negative results) creates false confidence in established theories. The measurement system's principles map to research methodology: behavioral evidence becomes detailed experimental logs, objective metrics become replication studies and effect sizes, peer feedback becomes peer review and independent replication, calibration training becomes statistical education focused on avoiding p-hacking and HARKing (hypothesizing after results are known), and structured reflection becomes preregistration and adversarial collaboration. Modern meta-science is essentially applying the external calibration principle to scientific research itself.
+>     - Individual scientists and research labs face metacognitive biases in assessing the strength of their own evidence: [[Confirmation-Bias-Myside-Bias|confirmation bias]] leads researchers to overweight supporting evidence and underweight contradictory findings, while the [[File Drawer Problem|file drawer problem]] (unpublished negative results) creates false confidence in established theories. The measurement system's principles map to research methodology: behavioral evidence becomes detailed experimental logs, objective metrics become replication studies and effect sizes, peer feedback becomes peer review and independent replication, calibration training becomes statistical education focused on avoiding p-hacking and HARKing (hypothesizing after results are known), and structured reflection becomes preregistration and adversarial collaboration. Modern meta-science is essentially applying the external calibration principle to scientific research itself.
 
 #### 33. [ASK-YOURSELF-THIS] Untitled *(Line 227)*
 
@@ -387,19 +387,19 @@ extraction_summary:
 - [[Calibration Curves]]
 - [[Calibration Theory]]
 - [[Central Tendency Bias]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Competence]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Convergent Validity]]
 - [[Decision Quality]]
 - [[Dual-Burden Account]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[External Calibration]]
 - [[File Drawer Problem]]
 - [[Goodhart's Law]]
 - [[Halo Effect]]
 - [[Idiosyncratic Rater Effects]]
-- [[Illusory Superiority]]
+- [[Illusory-Superiority|Illusory Superiority]]
 - [[Item Response Theory]]
 - [[Learning Assessment]]
 - [[Learning Sciences]]
@@ -407,9 +407,9 @@ extraction_summary:
 - [[Meta-d′]]
 - [[Metacognition]]
 - [[Metacognitive Bias]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Sensitivity]]
 - [[Objective Performance Metrics]]
 - [[Organizational Learning]]
@@ -436,25 +436,25 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self-Assessment]] | self-assessment | — | Document Start | 29 |
-| 2 | [[Dunning-Kruger Effect]] | — | — | Document Start | 34 |
+| 2 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Document Start | 34 |
 | 3 | [[Metacognitive Bias]] | metacognitive biases | — | Document Start | 34 |
 | 4 | [[Regression Toward the Mean]] | regression toward the mean | — | Document Start | 34 |
-| 5 | [[Confirmation Bias]] | confirmation bias | — | Document Start | 34 |
-| 6 | [[Illusory Superiority]] | illusory superiority | — | Document Start | 34 |
+| 5 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | confirmation bias | — | Document Start | 34 |
+| 6 | [[Illusory-Superiority|Illusory Superiority]] | illusory superiority | — | Document Start | 34 |
 | 7 | [[Behavioral Evidence Collection]] | behavioral evidence collection | — | Document Start | 34 |
 | 8 | [[Peer Feedback Integration]] | peer feedback systems | — | Document Start | 34 |
 | 9 | [[Objective Performance Metrics]] | objective performance metrics | — | Document Start | 34 |
-| 10 | [[Metacognitive Calibration]] | metacognitive calibration techniques | — | Document Start | 34 |
+| 10 | [[Metacognitive-Calibration|Metacognitive Calibration]] | metacognitive calibration techniques | — | Document Start | 34 |
 | 11 | [[Structured Reflection]] | structured reflection protocols | — | Document Start | 34 |
 | 12 | [[Metacognition]] | metacognition | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 41 |
 | 13 | [[as]] | Cognitive biases | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 47 |
 | 14 | [[Metacognitive Sensitivity]] | metacognitive sensitivity | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 49 |
 | 15 | [[Dual-Burden Account]] | dual-burden account | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
 | 16 | [[Statistical Artifacts]] | statistical artifacts | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
-| 17 | [[Metacognitive Monitoring]] | metacognitive monitoring | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
+| 17 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | metacognitive monitoring | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
 | 18 | [[Calibration Accuracy]] | calibration accuracy | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
 | 19 | [[Signal Detection Theory]] | — | — | 1.0 🔬 DIAGNOSTICS: Deconstructing the... | 53 |
-| 20 | [[Dunning-Kruger Effect]] | The Dunning-Kruger Effect | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 60 |
+| 20 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | The Dunning-Kruger Effect | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 60 |
 | 21 | [[Metacognition]] | Metacognition | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 64 |
 | 22 | [[Metacognitive Sensitivity]] | metacognitive sensitivity | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 65 |
 | 23 | [[Metacognitive Bias]] | metacognitive bias | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 65 |
@@ -462,7 +462,7 @@ extraction_summary:
 | 25 | [[Regression Toward the Mean]] | regression toward the mean | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 67 |
 | 26 | [[Better-Than-Average Effect]] | better-than-average effect | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 67 |
 | 27 | [[Item Response Theory]] | item response theory | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 69 |
-| 28 | [[Metacognitive Calibration]] | metacognitive calibration | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 72 |
+| 28 | [[Metacognitive-Calibration|Metacognitive Calibration]] | metacognitive calibration | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 72 |
 | 29 | [[Calibration Theory]] | Calibration Theory | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 75 |
 | 30 | [[Signal Detection Theory]] | signal detection theory | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 76 |
 | 31 | [[Metacognitive Sensitivity]] | Metacognitive Sensitivity vs. Metacognitive Bias | — | 2.0 🛠️ TOOLKIT ACQUISITION: Targeted ... | 79 |
@@ -487,7 +487,7 @@ extraction_summary:
 | 50 | [[Metacognitive Calibration Training]] | Metacognitive calibration training | — | 3.4 ⚙️ Phase Four: Metacognitive Cali... | 155 |
 | 51 | [[Organizational Learning]] | Organizational Performance Assessment | — | 5.0 🌐 GENERALIZATION: Transferring th... | 211 |
 | 52 | [[Scientific Methodology]] | Research Methodology and Reproducibility | — | 5.0 🌐 GENERALIZATION: Transferring th... | 217 |
-| 53 | [[Confirmation Bias]] | confirmation bias | — | 5.0 🌐 GENERALIZATION: Transferring th... | 219 |
+| 53 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | confirmation bias | — | 5.0 🌐 GENERALIZATION: Transferring th... | 219 |
 | 54 | [[File Drawer Problem]] | file drawer problem | — | 5.0 🌐 GENERALIZATION: Transferring th... | 219 |
 | 55 | [[Learning Assessment]] | educational assessment | — | 5.0 🌐 GENERALIZATION: Transferring th... | 221 |
 | 56 | [[Decision Quality]] | decision-making evaluation | — | 5.0 🌐 GENERALIZATION: Transferring th... | 221 |
@@ -501,18 +501,18 @@ extraction_summary:
 | 64 | [[Calibration Curves]] | Calibration Curves and Probability Assessment | — | 7.0 📚 Reference/Appendix | 268 |
 | 65 | [[Peer Assessment Methods]] | Peer Assessment and 360-Degree Feedback Systems | — | 7.0 📚 Reference/Appendix | 269 |
 | 66 | [[Learning Sciences]] | Learning Sciences and Educational Psychology | — | 7.0 📚 Reference/Appendix | 270 |
-| 67 | [[Dunning-Kruger Effect]] | — | — | 7.0 📚 Reference/Appendix | 306 |
+| 67 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 7.0 📚 Reference/Appendix | 306 |
 | 68 | [[Metacognition]] | — | — | 7.0 📚 Reference/Appendix | 307 |
 | 69 | [[Calibration]] | — | — | 7.0 📚 Reference/Appendix | 308 |
 | 70 | [[Self-Assessment]] | — | — | 7.0 📚 Reference/Appendix | 309 |
-| 71 | [[Confirmation Bias]] | — | — | 7.0 📚 Reference/Appendix | 310 |
+| 71 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 7.0 📚 Reference/Appendix | 310 |
 | 72 | [[Objective Performance Metrics]] | — | — | 7.0 📚 Reference/Appendix | 311 |
 | 73 | [[Peer Feedback]] | — | — | 7.0 📚 Reference/Appendix | 312 |
 | 74 | [[Behavioral Evidence]] | — | — | 7.0 📚 Reference/Appendix | 313 |
 | 75 | [[Structured Reflection]] | — | — | 7.0 📚 Reference/Appendix | 314 |
 | 76 | [[Competence]] | — | — | 7.0 📚 Reference/Appendix | 315 |
 | 77 | [[Self-Awareness]] | — | — | 7.0 📚 Reference/Appendix | 316 |
-| 78 | [[Cognitive Bias]] | — | — | 7.0 📚 Reference/Appendix | 317 |
+| 78 | [[Cognitive-Bias|Cognitive Bias]] | — | — | 7.0 📚 Reference/Appendix | 317 |
 | 79 | [[wiki-links]] | — | — | 7.0 📚 Reference/Appendix | 331 |
 
 ---
@@ -674,19 +674,19 @@ This fits perfectly into the prescribed format:
 - [[Calibration Curves]]
 - [[Calibration Theory]]
 - [[Central Tendency Bias]]
-- [[Cognitive Bias]]
+- [[Cognitive-Bias|Cognitive Bias]]
 - [[Competence]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Convergent Validity]]
 - [[Decision Quality]]
 - [[Dual-Burden Account]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[External Calibration]]
 - [[File Drawer Problem]]
 - [[Goodhart's Law]]
 - [[Halo Effect]]
 - [[Idiosyncratic Rater Effects]]
-- [[Illusory Superiority]]
+- [[Illusory-Superiority|Illusory Superiority]]
 - [[Item Response Theory]]
 - [[Learning Assessment]]
 - [[Learning Sciences]]
@@ -694,9 +694,9 @@ This fits perfectly into the prescribed format:
 - [[Meta-d′]]
 - [[Metacognition]]
 - [[Metacognitive Bias]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration Training]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Sensitivity]]
 - [[Objective Performance Metrics]]
 - [[Organizational Learning]]

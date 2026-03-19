@@ -270,9 +270,9 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > The principles discussed here strongly connect to several other fields:
-> - **[[Instructional Design]]**: In education, this field is about designing effective learning experiences. Meta-prompting is, in essence, instructional design *for an artificial mind*.
+> - **[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]**: In education, this field is about designing effective learning experiences. Meta-prompting is, in essence, instructional design *for an artificial mind*.
 > - **[[Software Engineering]]**: The use of modularity, orchestration, and structured templates (like YAML or JSON) directly mirrors modern software design patterns. We are, in effect, "programming" with natural language.
-> - **[[Cognitive Science]]**: Advanced prompting techniques like Chain-of-Thought and Tree-of-Thoughts are "cognitively inspired," explicitly attempting to mimic human problem-decomposition and reasoning strategies.
+> - **[[Cognitive-Science|Cognitive Science]]**: Advanced prompting techniques like Chain-of-Thought and Tree-of-Thoughts are "cognitively inspired," explicitly attempting to mimic human problem-decomposition and reasoning strategies.
 
 #### 20. [COUNTER-ARGUMENT] Untitled *(Line 258)*
 
@@ -377,9 +377,9 @@ extraction_summary:
 ### Unique Targets
 
 - [[Chain-of-Thought (CoT)]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[In-Context Learning (ICL)]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Meta-Prompting]]
 - [[Software Engineering]]
 
@@ -387,9 +387,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Instructional Design]] | — | — | 6. 🌍 Broader Implications and Signifi... | 250 |
+| 1 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | 6. 🌍 Broader Implications and Signifi... | 250 |
 | 2 | [[Software Engineering]] | — | — | 6. 🌍 Broader Implications and Signifi... | 251 |
-| 3 | [[Cognitive Science]] | — | — | 6. 🌍 Broader Implications and Signifi... | 252 |
+| 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 6. 🌍 Broader Implications and Signifi... | 252 |
 | 4 | [[Meta-Prompting]] | — | — | 9. 🧠 Key Questions for Active Reading... | 330 |
 | 5 | [[In-Context Learning (ICL)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 331 |
 | 6 | [[Chain-of-Thought (CoT)]] | — | — | 9. 🧠 Key Questions for Active Reading... | 332 |
@@ -435,9 +435,9 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Chain-of-Thought (CoT)]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[In-Context Learning (ICL)]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Meta-Prompting]]
 - [[Software Engineering]]
 

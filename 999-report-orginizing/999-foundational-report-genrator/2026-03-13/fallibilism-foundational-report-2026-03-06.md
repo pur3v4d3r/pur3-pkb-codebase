@@ -137,16 +137,16 @@ prerequisites:
   - "[[Epistemic Justification]]"
 
 related:
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking|Critical Thinking]]"
   - "[[Philosophy of Science]]"
   - "[[Pragmatism]]"
-  - "[[Virtue Epistemology]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
   - "[[Reliabilism]]"
   - "[[Contextualism — Epistemological]]"
-  - "[[Epistemic Humility]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
 
 broader:
-  - "[[Epistemology]]"
+  - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
   - "[[Theory of Knowledge]]"
 
 narrower:
@@ -156,7 +156,7 @@ narrower:
 
 see-also:
   - "[[Bayesian Epistemology]]"
-  - "[[Social Epistemology]]"
+  - "[[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]"
   - "[[Epistemic Injustice]]"
   - "[[Metacognition and Lifelong Learning]]"
 
@@ -176,13 +176,13 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Justified True Belief]]"
+  - "[[Justified-True-Belief|Justified True Belief]]"
   - "[[The Gettier Problem]]"
   - "[[Descartes — Meditations]]"
 
 enables:
   - "[[Philosophy of Science — Advanced]]"
-  - "[[Epistemic Calibration]]"
+  - "[[Epistemic-Calibration|Epistemic Calibration]]"
   - "[[Intellectual Virtues in Practice]]"
   - "[[Critical Pedagogy]]"
 
@@ -268,7 +268,7 @@ The medical establishment rejected his findings. He died in an asylum in 1865, t
 
 That disposition has a name in philosophy: [[fallibilism]].
 
-This report provides a comprehensive foundational treatment of fallibilism — what it is, where it came from, how it works, what it demands of us intellectually, and why it matters far beyond the confines of academic philosophy. The topic sits at the intersection of [[epistemology]] (the theory of knowledge), [[philosophy of science]], [[critical thinking]], and [[pedagogy]], and its practical implications reach into every domain where human beings form beliefs, make decisions, and attempt to understand the world.
+This report provides a comprehensive foundational treatment of fallibilism — what it is, where it came from, how it works, what it demands of us intellectually, and why it matters far beyond the confines of academic philosophy. The topic sits at the intersection of [[Epistemic-Autonomy-—-Epistemology|epistemology]] (the theory of knowledge), [[philosophy of science]], [[Critical-Thinking|critical thinking]], and [[pedagogy]], and its practical implications reach into every domain where human beings form beliefs, make decisions, and attempt to understand the world.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to identify a belief you currently hold with high confidence — something you feel certain about. It could be a scientific fact, a moral conviction, a professional judgment, or an everyday empirical claim. As you read, consider whether that belief could, in principle, be mistaken. What evidence would it take to revise it? Do you find the prospect of revision threatening or liberating? Noticing your starting intuitions about certainty will make the intellectual movement of this report more vivid.
@@ -304,14 +304,14 @@ Perhaps no distinction is more important for understanding fallibilism than the 
 Equally important is the distinction between fallibilism and [[epistemic relativism]]. The relativist holds that truth or justification is relative to a person, culture, or framework — that there is no framework-independent standard by which to evaluate claims. Fallibilism makes no such concession. The fallibilist holds that there is a single world, that our claims are answerable to it, that evidence is genuinely evidence, and that inquiry can make genuine progress. The difference is that fallibilism acknowledges progress as asymptotic — we get closer to truth — without claiming we achieve final certainty.
 
 > [!definition] **Epistemic Humility**
-> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[Epistemic humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
+> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[Epistemic-Humility|Epistemic humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
 
 > [!definition] **Epistemic Calibration**
-> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
+> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[Cognitive-Psychology|cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
 
 ### Historical Development
 
-The intellectual roots of fallibilism run deep in the Western philosophical tradition, although the explicit term and precise thesis are comparatively recent. [[Socrates]], as portrayed in Plato's early dialogues, embodies a proto-fallibilist sensibility: his famous claim to know only that he knows nothing is not simple self-deprecation but a methodological orientation that treats every accepted belief as an occasion for critical examination. The [[Socratic method]] — elenchus — is precisely a practice of seeking out the conditions under which a belief might be false, the edge cases and counter-examples that reveal its limitations.
+The intellectual roots of fallibilism run deep in the Western philosophical tradition, although the explicit term and precise thesis are comparatively recent. [[Socrates]], as portrayed in Plato's early dialogues, embodies a proto-fallibilist sensibility: his famous claim to know only that he knows nothing is not simple self-deprecation but a methodological orientation that treats every accepted belief as an occasion for critical examination. The [[Socratic-Method|Socratic method]] — elenchus — is precisely a practice of seeking out the conditions under which a belief might be false, the edge cases and counter-examples that reveal its limitations.
 
 The [[Pyrrhonian sceptics]] of the ancient world pushed further, arguing that for every argument on any side of a question, an equally compelling counter-argument could be constructed, and that the appropriate response was suspension of judgment (*epoché*). This is more radical than fallibilism — the Pyrrhonists counsel abandonment of belief rather than provisional belief-holding — but the Pyrrhonian tradition did bequeath to Western epistemology a lasting sensitivity to the fragility of epistemic foundations.
 
@@ -350,7 +350,7 @@ Falsificationism is not merely a methodological recommendation — it is an expr
 
 [[W.V.O. Quine]]'s epistemology offers a powerful complement to both Peirce and Popper. In his landmark essay "Two Dogmas of Empiricism" (1951), Quine attacked the idea that individual statements face the tribunal of experience independently of one another. Instead, he argued, our beliefs form an interconnected "web": statements near the "periphery" are most directly tied to observation, while statements near the "centre" — logical truths, mathematical theorems, high-level theoretical principles — are more insulated from direct empirical challenge.
 
-When experience produces a "recalcitrant observation" — something that conflicts with our current expectations — we must revise our web of belief somewhere, but the revision could happen at many different points. We could give up the specific prediction that was falsified, the theoretical principle that generated it, a background assumption we hadn't noticed we were making, or even (in extremis) a piece of logic. No statement is immune from revision in principle; even the laws of logic could be revised under sufficient pressure, though they are so deeply embedded in the web that we would revise almost anything else first. This is [[epistemic holism]]: the unit of empirical significance is not the individual statement but the whole web of belief.
+When experience produces a "recalcitrant observation" — something that conflicts with our current expectations — we must revise our web of belief somewhere, but the revision could happen at many different points. We could give up the specific prediction that was falsified, the theoretical principle that generated it, a background assumption we hadn't noticed we were making, or even (in extremis) a piece of logic. No statement is immune from revision in principle; even the laws of logic could be revised under sufficient pressure, though they are so deeply embedded in the web that we would revise almost anything else first. This is [[Epistemic-Holism|epistemic holism]]: the unit of empirical significance is not the individual statement but the whole web of belief.
 
 > [!insight] **Holism's Implication for Fallibilism**
 > Quine's holism extends fallibilism in a radical direction: not only our factual beliefs but our theoretical commitments, methodological assumptions, and even certain logical principles are in principle revisable. This does not mean all beliefs are equally shaky. The web has a centre and a periphery, and beliefs near the centre are more deeply embedded and therefore more difficult (though not impossible) to revise without cascading effects. But it does mean that intellectual humility cannot be selective — confined to our factual beliefs while treating our theoretical frameworks as sacrosanct. Even our most fundamental ways of organising experience are, in the last analysis, tools we have fashioned and can, in the last analysis, refashion.
@@ -363,7 +363,7 @@ Contextualism does not abandon the fallibilist core — the idea that knowledge 
 
 ### Virtue Epistemology's Contribution
 
-[[Virtue epistemology]], developed by [[Ernest Sosa]], [[Linda Zagzebski]], and others, reframes epistemic evaluation: rather than asking primarily about belief-forming processes or logical relations between evidence and conclusion, it asks about the *character* of the knowing agent. Genuine knowledge is knowledge achieved through the exercise of intellectual virtues — stable dispositions like intellectual humility, open-mindedness, intellectual courage, thoroughness, and a love of truth.
+[[Virtue-Epistemology|Virtue epistemology]], developed by [[Ernest Sosa]], [[Linda Zagzebski]], and others, reframes epistemic evaluation: rather than asking primarily about belief-forming processes or logical relations between evidence and conclusion, it asks about the *character* of the knowing agent. Genuine knowledge is knowledge achieved through the exercise of intellectual virtues — stable dispositions like intellectual humility, open-mindedness, intellectual courage, thoroughness, and a love of truth.
 
 This framework integrates naturally with fallibilism. If our beliefs could always be mistaken, then the appropriate epistemic response is not merely to note this abstractly but to cultivate the dispositions that enable effective response to error: the humility to consider that one might be wrong, the open-mindedness to genuinely consider competing evidence, the intellectual courage to revise beliefs even when doing so is costly, and the conscientiousness to seek out disconfirming evidence rather than only confirmatory evidence. The virtuous epistemic agent is not one who never errs but one who has the character traits needed to minimise error and recover from it gracefully.
 
@@ -380,7 +380,7 @@ This framework integrates naturally with fallibilism. If our beliefs could alway
 
 Understanding fallibilism is not just a matter of accepting the abstract thesis that beliefs could be wrong. The deeper insight concerns the *mechanisms* through which fallibilism becomes a productive intellectual orientation rather than a cause for paralysis or relativism. These mechanisms operate at the level of individual reasoning, at the level of scientific methodology, and at the level of social epistemology.
 
-**The Defeater Mechanism.** In the philosophy of [[epistemic justification]], the concept of a *defeater* specifies how fallibilist revision actually works. A [[defeater]] is any piece of evidence or consideration that weakens or overrides a previously held justification. Defeaters come in two forms. A *rebutting defeater* provides direct evidence against the belief itself — finding a black swan is a rebutting defeater for "all swans are white." An *undercutting defeater* does not contradict the belief directly but undermines the reliability or relevance of the original justification — discovering that the source of a testimony is unreliable is an undercutting defeater for beliefs acquired through that testimony. Fallibilism is the claim that all justified beliefs are, in principle, vulnerable to either type of defeater.
+**The Defeater Mechanism.** In the philosophy of [[epistemic justification]], the concept of a *defeater* specifies how fallibilist revision actually works. A [[Defeat-Defeater|defeater]] is any piece of evidence or consideration that weakens or overrides a previously held justification. Defeaters come in two forms. A *rebutting defeater* provides direct evidence against the belief itself — finding a black swan is a rebutting defeater for "all swans are white." An *undercutting defeater* does not contradict the belief directly but undermines the reliability or relevance of the original justification — discovering that the source of a testimony is unreliable is an undercutting defeater for beliefs acquired through that testimony. Fallibilism is the claim that all justified beliefs are, in principle, vulnerable to either type of defeater.
 
 The defeater framework makes fallibilism actionable: it gives us a vocabulary for identifying exactly when and why belief revision is epistemically warranted. Revision is not arbitrary or merely a matter of changing one's mind — it is triggered by the acquisition of genuine defeaters, and the strength of the defeated justification matters. Weakly held beliefs yield easily to moderately strong defeaters; strongly held beliefs require commensurately powerful defeaters before revision is rational.
 
@@ -394,7 +394,7 @@ What makes inquiry self-correcting rather than merely revisionary is the combina
 > [!example] **Self-Correction in Practice: The Case of H. pylori**
 > For most of the twentieth century, the medical consensus held that stomach ulcers were caused by stress and excess acid. The gastric environment was considered too acidic to support bacterial life. In 1982, Australian physicians [[Barry Marshall]] and [[Robin Warren]] observed that most ulcer patients were infected with a spiral bacterium, *Helicobacter pylori*. Their claim was dismissed and their submitted papers rejected. Marshall famously drank a culture of H. pylori, developing gastritis, then treated himself with antibiotics. Over the following decade, increasingly rigorous evidence accumulated, the consensus shifted, and in 2005 Marshall and Warren received the Nobel Prize in Physiology or Medicine. The episode illustrates both the fallibility of scientific consensus and the self-correcting power of inquiry when conducted with appropriate method and courage.
 
-**The Role of Disconfirmatory Evidence.** One of the most important — and psychologically demanding — operational implications of fallibilism is the imperative to seek *disconfirmatory evidence*. Cognitive psychology has extensively documented [[confirmation bias]]: the systematic tendency to seek, notice, and weight evidence that confirms existing beliefs while ignoring, dismissing, or underweighting evidence that disconfirms them. Confirmation bias is the primary mechanism by which fallibilism is violated in practice — not through explicit philosophical commitment to infallibilism, but through a deep-seated motivational asymmetry in how we process evidence.
+**The Role of Disconfirmatory Evidence.** One of the most important — and psychologically demanding — operational implications of fallibilism is the imperative to seek *disconfirmatory evidence*. Cognitive psychology has extensively documented [[Confirmation-Bias-Myside-Bias|confirmation bias]]: the systematic tendency to seek, notice, and weight evidence that confirms existing beliefs while ignoring, dismissing, or underweighting evidence that disconfirms them. Confirmation bias is the primary mechanism by which fallibilism is violated in practice — not through explicit philosophical commitment to infallibilism, but through a deep-seated motivational asymmetry in how we process evidence.
 
 The fallibilist corrective is not just the intellectual acknowledgment that disconfirming evidence might exist, but an active, deliberate practice of seeking it out. Scientists design experiments to give disconfirming evidence a genuine chance; historians seek sources that challenge their narratives; lawyers practising [[adversarial epistemology]] treat the opponent's case as potentially strong. This practice is institutionalised in mature epistemic communities precisely because individual inquiry, left to its natural tendencies, gravitates toward confirmation rather than challenge.
 
@@ -425,9 +425,9 @@ A fallibilist philosophy of science recognises that our best current scientific 
 
 ### Fallibilism in Education
 
-Educational philosophy informed by fallibilism takes [[epistemic humility]] and [[intellectual openness]] as central goals, not merely cognitive skills or factual knowledge. The task of education, on this view, is not simply to fill students' minds with correct information — though this matters — but to cultivate the dispositions that enable ongoing learning and self-correction throughout life.
+Educational philosophy informed by fallibilism takes [[Epistemic-Humility|epistemic humility]] and [[intellectual openness]] as central goals, not merely cognitive skills or factual knowledge. The task of education, on this view, is not simply to fill students' minds with correct information — though this matters — but to cultivate the dispositions that enable ongoing learning and self-correction throughout life.
 
-[[Carol Dweck]]'s research on [[growth mindset]] offers psychological grounding for a fallibilist approach to education, though she does not frame it in explicitly epistemological terms. Students who hold a growth mindset — who believe that intelligence and competence develop through effort and learning from mistakes — perform better academically and exhibit greater resilience in the face of difficulty than students with a fixed mindset, who interpret errors as evidence of immutable limitations. Translated into fallibilist terms: students who understand that being wrong is epistemically productive (because errors are data that guide revision and improvement) are better learners than students who regard being wrong as a verdict on their worth or capacity.
+[[Carol Dweck]]'s research on [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] offers psychological grounding for a fallibilist approach to education, though she does not frame it in explicitly epistemological terms. Students who hold a growth mindset — who believe that intelligence and competence develop through effort and learning from mistakes — perform better academically and exhibit greater resilience in the face of difficulty than students with a fixed mindset, who interpret errors as evidence of immutable limitations. Translated into fallibilist terms: students who understand that being wrong is epistemically productive (because errors are data that guide revision and improvement) are better learners than students who regard being wrong as a verdict on their worth or capacity.
 
 > [!best-practice] **Pedagogical Strategies for Fallibilist Education**
 > Several evidence-informed strategies cultivate fallibilist dispositions in students. *Explicitly modelling intellectual revision* — teachers visibly updating their own positions in response to student challenges — teaches that revision is a sign of intellectual strength, not weakness. *Arguing for positions one does not hold* (the classical *in utramque partem* exercise from rhetoric) develops the capacity to imaginatively inhabit alternative perspectives. *Asking students to identify conditions under which their own conclusions could be wrong* transforms the act of forming a belief into an occasion for epistemic self-examination. *Structured academic controversy* — having students research and present opposing sides of genuine disputes — develops appreciation for the genuine complexity of contested questions.
@@ -485,13 +485,13 @@ The public health disasters attributable to overconfident consensus — the resi
 >
 > - **[[Deliberate Practice]]** (anticipated node) — Ericsson's deliberate practice framework requires that the practitioner receive genuine feedback and revise their technique accordingly. This is only productive if the practitioner holds their current technique fallibilistically — as improvable rather than optimal. The psychological conditions for effective deliberate practice are precisely the dispositional conditions fallibilism identifies: openness to correction, tolerance of error as information, and the absence of ego-investment in any particular performance.
 >
-> - **[[Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
+> - **[[Epistemic-Calibration|Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
 >
 > The pattern across these connections reveals a coherent intellectual thread: fallibilism is the philosophical foundation from which a cluster of related topics — metacognition, critical thinking, deliberate practice, calibration — all draw their justification. To understand fallibilism deeply is to understand why these other practices matter and how they cohere.
 
 ### Unresolved Questions
 
-The landscape of fallibilism leaves several genuinely open questions. The scope of fallibilism — whether it applies to mathematics, logic, and formal disciplines — remains philosophically contested and represents one of the most important ongoing debates in contemporary epistemology. The relationship between fallibilism and [[social epistemology]] — how fallibilist principles should govern communities of inquirers who face persistent disagreement, motivated reasoning, and structural inequalities in whose testimony is trusted — is an active area of philosophical and empirical research. And the practical psychology of fallibilism — how individuals can genuinely cultivate fallibilist dispositions rather than merely professing them — sits at the intersection of philosophy, cognitive psychology, and education, awaiting more robust empirical investigation.
+The landscape of fallibilism leaves several genuinely open questions. The scope of fallibilism — whether it applies to mathematics, logic, and formal disciplines — remains philosophically contested and represents one of the most important ongoing debates in contemporary epistemology. The relationship between fallibilism and [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]] — how fallibilist principles should govern communities of inquirers who face persistent disagreement, motivated reasoning, and structural inequalities in whose testimony is trusted — is an active area of philosophical and empirical research. And the practical psychology of fallibilism — how individuals can genuinely cultivate fallibilist dispositions rather than merely professing them — sits at the intersection of philosophy, cognitive psychology, and education, awaiting more robust empirical investigation.
 
 > [!reflection] **Integration and Forward Momentum**
 > 1. What is the single most important insight you've taken from this report? How does it change or deepen your prior understanding of how you know what you know?

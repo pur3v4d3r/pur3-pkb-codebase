@@ -4,9 +4,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 title: "Organismic Integration Theory: How Extrinsic Becomes Own — A Focused Analysis of the Internalization Continuum"
 aliases:
-  - "[[OIT]]"
-  - "[[Organismic Integration Theory]]"
-  - "[[Internalization Continuum]]"
+  - "[[Organismic-Integration-Theory|OIT]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Internalization-Continuum|Internalization Continuum]]"
   - "[[Regulatory Style Spectrum]]"
 type: permanent-note
 status: evergreen
@@ -124,26 +124,26 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Basic Psychological Needs Theory]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
 
 foundational-report: "[[Self-Determination Theory — Foundational Report]]"
 
 related:
-  - "[[Self-Regulated Learning]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Basic Psychological Needs Theory]]"
-  - "[[Autonomy Support]]"
+  - "[[Autonomy-Support|Autonomy Support]]"
   - "[[Identity Development Theory]]"
-  - "[[Growth Mindset]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Expectancy-Value Theory]]"
 
 broader:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Motivational Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
 
 narrower:
   - "[[Introjection in Learning Contexts]]"
@@ -152,17 +152,17 @@ narrower:
 
 see-also:
   - "[[Vygotsky Zone of Proximal Development]]"
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
   - "[[Psychological Safety]]"
   - "[[Gamification]]"
 
 contrasts-with:
   - "[[Behaviorist Reinforcement Theory]]"
   - "[[Expectancy-Value Theory]]"
-  - "[[Achievement Goal Theory]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Coaching and Mentoring]]"
   - "[[Health Behavior Change]]"
   - "[[Organizational Management]]"
@@ -171,7 +171,7 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Intrinsic Motivation Research (Deci 1971)]]"
   - "[[Basic Psychological Needs Theory]]"
 
@@ -254,9 +254,9 @@ generation-date: "2026-03-13"
 
 Here is a disorienting thought: the majority of what you consider deeply, personally important — your work ethic, your commitment to honesty, your sense that education matters — very likely began as someone else's demand. A parent said clean your room. A teacher said study hard. A culture said education is the path to success. These were external pressures. And yet somewhere between that first imposition and now, many of them became *yours*. You don't comply with honesty to avoid punishment; you act honestly because that's who you are. You don't study to please a teacher; you pursue knowledge because you find it meaningful.
 
-How does that transformation happen? This is the central question of [[Organismic Integration Theory]] (OIT), and it is, on reflection, one of the more remarkable phenomena in human psychology. The full account of [[Self-Determination Theory]] addresses a range of motivational constructs, but OIT focuses with unusual precision on a specific and practically crucial process: the internalization and integration of externally-sourced regulation. Where [[Cognitive Evaluation Theory]] (SDT's companion sub-theory) addresses the conditions that sustain or undermine [[intrinsic motivation]], OIT addresses what happens to the vast domain of human behavior that never begins intrinsically — that starts with external pressure and may or may not become more self-determined over time.
+How does that transformation happen? This is the central question of [[Organismic-Integration-Theory|Organismic Integration Theory]] (OIT), and it is, on reflection, one of the more remarkable phenomena in human psychology. The full account of [[Self-Determination-Theory|Self-Determination Theory]] addresses a range of motivational constructs, but OIT focuses with unusual precision on a specific and practically crucial process: the internalization and integration of externally-sourced regulation. Where [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] (SDT's companion sub-theory) addresses the conditions that sustain or undermine [[Intrinsic-Motivation|intrinsic motivation]], OIT addresses what happens to the vast domain of human behavior that never begins intrinsically — that starts with external pressure and may or may not become more self-determined over time.
 
-This report examines that process with analytical depth. It does not provide a comprehensive overview of SDT — for that, see the Foundational Report on [[Self-Determination Theory]]. Instead, it takes a focused borehole through OIT specifically, examining its theoretical architecture, its empirical foundations, the mechanisms that actually drive internalization, and the non-obvious tensions embedded in its framework that complicate its application.
+This report examines that process with analytical depth. It does not provide a comprehensive overview of SDT — for that, see the Foundational Report on [[Self-Determination-Theory|Self-Determination Theory]]. Instead, it takes a focused borehole through OIT specifically, examining its theoretical architecture, its empirical foundations, the mechanisms that actually drive internalization, and the non-obvious tensions embedded in its framework that complicate its application.
 
 ### The Central Question
 
@@ -302,7 +302,7 @@ The continuum, moving from least to most self-determined, contains six positions
 **Intrinsic motivation** sits at the autonomous pole but technically outside the OIT continuum, which addresses only extrinsic behaviors. It is included here because it represents the reference point for autonomous motivation and because the distinction between integrated regulation and intrinsic motivation is frequently blurred in practical and educational discourse.
 
 > [!key-claim] **The Relative Autonomy Index**
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index|Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 ### Internalization vs. Integration: The Critical Distinction
 
@@ -356,7 +356,7 @@ The foundational work comes from a series of studies in educational contexts beg
 
 A crucial evidentiary question for OIT is whether regulatory quality explains outcomes *beyond* motivation quantity. If highly motivated individuals tend to also be more autonomously motivated, then autonomous motivation's apparent benefits might simply reflect the fact that more-motivated people learn better — a quantity effect rather than a quality effect.
 
-Analyses controlling for motivation quantity generally support OIT's quality hypothesis. Studies examining [[Relative Autonomy Index]] scores while controlling for overall motivation frequency find independent effects of regulatory style on outcomes. However, this evidence is not perfectly clean — the correlation between autonomous motivation and high motivation quantity is substantial, and statistical controls can only partially disentangle them. The clearest evidence comes from experimental manipulations rather than correlational surveys.
+Analyses controlling for motivation quantity generally support OIT's quality hypothesis. Studies examining [[Relative-Autonomy-Index|Relative Autonomy Index]] scores while controlling for overall motivation frequency find independent effects of regulatory style on outcomes. However, this evidence is not perfectly clean — the correlation between autonomous motivation and high motivation quantity is substantial, and statistical controls can only partially disentangle them. The clearest evidence comes from experimental manipulations rather than correlational surveys.
 
 > [!what-the-evidence-suggests] **Autonomous Motivation Predicts Quality, Not Just Quantity, of Learning**
 > The weight of evidence across educational, health, and organizational domains supports OIT's quality-over-quantity claim. Studies that measure both conceptual understanding and surface-level performance consistently find that autonomous motivation predicts the former more strongly than the latter, while controlled motivation sometimes predicts surface performance adequately but fails to predict depth of understanding, retention, and transfer. This pattern — which holds even when controlling for time-on-task — suggests that regulatory style affects *how* people engage, not merely *whether* they engage.
@@ -413,7 +413,7 @@ The conditional nature of need satisfaction means that internalization is domain
 
 ### What Autonomy Support Actually Does
 
-The concept of [[autonomy support]] is OIT's answer to the question of what environments should do to support internalization. It is frequently misunderstood as meaning "permissiveness" or "letting students do what they want." The actual construct is more precise and more demanding.
+The concept of [[Autonomy-Support|autonomy support]] is OIT's answer to the question of what environments should do to support internalization. It is frequently misunderstood as meaning "permissiveness" or "letting students do what they want." The actual construct is more precise and more demanding.
 
 > [!definition] **Autonomy Support**
 > Environmental provision of conditions that support a person's self-determined functioning — specifically: (1) providing meaningful rationales for required activities; (2) acknowledging the person's feelings and perspective, including negative ones; (3) offering choice where choice is genuine; (4) minimizing external pressure, surveillance, and contingent regard. Autonomy support is compatible with high expectations and firm limits; it is not permissiveness. The hallmark is that the person experiences the locus of causality as internal even when the behavior is initially required.
@@ -427,7 +427,7 @@ The concept of [[autonomy support]] is OIT's answer to the question of what envi
 
 One underappreciated mechanism in OIT is what might be called perceived volitional necessity — the person's perception of whether an activity is genuinely voluntary or genuinely required. Research on [[perceived choice]] suggests that even when an activity is objectively required, the perception of choice has significant effects on regulatory quality. Conversely, even when choice is available, an environment that communicates that only one choice is acceptable effectively eliminates choice.
 
-This mechanism explains why certain common educational practices undermine internalization even when they are well-intentioned. External rewards given for activities students already find interesting undermine intrinsic motivation (the classic [[Cognitive Evaluation Theory]] effect). But more relevant to OIT: presenting all requirements as equally non-negotiable when some are genuinely more flexible than others — or presenting rules without rationale — communicates that the student's perspective and volitional experience are irrelevant. This frustrates autonomy need even when no overt control is exercised.
+This mechanism explains why certain common educational practices undermine internalization even when they are well-intentioned. External rewards given for activities students already find interesting undermine intrinsic motivation (the classic [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] effect). But more relevant to OIT: presenting all requirements as equally non-negotiable when some are genuinely more flexible than others — or presenting rules without rationale — communicates that the student's perspective and volitional experience are irrelevant. This frustrates autonomy need even when no overt control is exercised.
 
 > [!analytical-insight] **Rationale Quality and Internalization Depth**
 > Providing a rationale for required behavior is a key autonomy-supportive practice in OIT. But the research distinguishes between rationale *provision* and rationale *quality*. [[Koestner et al. (1984)]] found that rationales acknowledging the person's perspective and the value of the behavior (vs. rules stated as constraints) produced higher internalization. [[Assor, Kaplan, & Roth (2002)]] found that the *relevance* of the rationale to the student's own goals and interests was the critical moderator — a rationale connecting required content to students' own future goals produced identified regulation, while a generic "this is important" rationale did not. This suggests that autonomy-supportive rationale provision is not a communication technique but a genuine cognitive process requiring the teacher or coach to understand the learner's own goals well enough to make an honest, individualized connection.
@@ -446,7 +446,7 @@ The regulatory continuum is often presented as directional — the implication b
 
 Given introjection's anomalous costs, understanding how learners get stuck in it becomes critical for practitioners. The research points to two primary pathways into persistent introjection: conditional regard and performance-contingent self-worth.
 
-[[Conditional regard]] — approval given when performance meets standards and withdrawn when it does not — is highly effective at producing compliance and represents a form of social pressure that feels like care. The child or student perceives (correctly) that maintaining the relationship requires performance, and they internalize this contingency. The result is reliable behavioral compliance with significant psychological costs: anxiety during tasks, brief positive affect after success, significant shame and self-criticism after failure, and an inability to disengage from performance contexts because self-worth is at stake. This pattern is well-documented across parenting, coaching, and teaching contexts.
+[[Conditional-Regard|Conditional regard]] — approval given when performance meets standards and withdrawn when it does not — is highly effective at producing compliance and represents a form of social pressure that feels like care. The child or student perceives (correctly) that maintaining the relationship requires performance, and they internalize this contingency. The result is reliable behavioral compliance with significant psychological costs: anxiety during tasks, brief positive affect after success, significant shame and self-criticism after failure, and an inability to disengage from performance contexts because self-worth is at stake. This pattern is well-documented across parenting, coaching, and teaching contexts.
 
 > [!analytical-insight] **Introjection's Unique Resistance to Correction**
 > External regulation is, in a sense, easier to address than introjection: remove the external contingency and you remove the control. Introjection is more resistant because the contingency is now internal. A person regulated by introjection cannot be "freed" by removing the external evaluator — the evaluator has been internalized. This is why simply increasing a learner's autonomy (removing surveillance, providing choice) does not automatically move them from introjected to identified regulation. The introjected evaluator continues operating. What does help, according to the research, is a combination of: sustained experience of unconditional positive regard from significant others; explicit work on the relationship between self-worth and performance; and the gradual extension of rationales that connect required behaviors to genuine personal values rather than to approval contingencies. This is a slower and more relational process than autonomy support for externally-regulated individuals.
@@ -562,15 +562,15 @@ Practitioners who internalize (appropriately!) this framework can ask different 
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
 >
-> - **[[Self-Regulated Learning]]** — OIT and [[Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — OIT and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
 >
-> - **[[Cognitive Load Theory]]** — The connection between OIT and [[Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection between OIT and [[Cognitive-Load-Theory|Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
 >
 > - **[[Psychological Safety]]** — [[Amy Edmondson's]] work on psychological safety describes the conditions under which people feel safe to take interpersonal risks — to speak up, admit mistakes, try new things. The overlap with OIT's autonomy-supportive environment is substantial: psychologically safe environments tend also to be autonomy-supportive, and the mechanisms are related (reducing threat, supporting the experience of agency). A focused connection note would examine whether psychological safety is a necessary condition for internalization progress, particularly for learners in introjected regulation whose self-worth is at stake in performance contexts.
 >
-> - **[[Growth Mindset]]** — [[Dweck's]] growth mindset framework describes beliefs about the malleability of intelligence and abilities. The connection to OIT runs through the concept of contingent self-worth: individuals in introjected regulation frequently operate with performance-as-self-worth equations that are structurally identical to the fixed-mindset position. Growth mindset interventions that successfully decouple performance from self-worth may, by OIT's account, be reducing introjection — freeing the person to engage at an identified or integrated level because failure no longer threatens the self.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — [[Dweck's]] growth mindset framework describes beliefs about the malleability of intelligence and abilities. The connection to OIT runs through the concept of contingent self-worth: individuals in introjected regulation frequently operate with performance-as-self-worth equations that are structurally identical to the fixed-mindset position. Growth mindset interventions that successfully decouple performance from self-worth may, by OIT's account, be reducing introjection — freeing the person to engage at an identified or integrated level because failure no longer threatens the self.
 >
 > **Cross-Report Links:**
 >

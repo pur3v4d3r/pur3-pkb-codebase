@@ -387,7 +387,7 @@ extraction_summary:
 - [[Attention Mechanisms]]
 - [[Attribute Substitution]]
 - [[Autonomous Mind]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
 - [[Basic Propositional Logic]]
 - [[Belief Justification]]
@@ -403,7 +403,7 @@ extraction_summary:
 - [[Cognitive Bias Fundamentals]]
 - [[Cognitive Closure]]
 - [[Cognitive Complexity]]
-- [[Cognitive Decoupling]]
+- [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Cognitive Ease]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Cognitive Load Externalization]]
@@ -413,8 +413,8 @@ extraction_summary:
 - [[Cognitive Resources]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Strategy Instruction]]
-- [[Comprehension Monitoring]]
-- [[Confirmation Bias]]
+- [[Comprehension-Monitoring|Comprehension Monitoring]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider-the-Opposite Strategy]]
 - [[Constructivism in Learning]]
 - [[Constructivist Epistemology]]
@@ -422,18 +422,18 @@ extraction_summary:
 - [[Deductive vs Inductive Reasoning]]
 - [[Default Interventionist Model]]
 - [[Defeasible Reasoning]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Devil's Advocate Technique]]
 - [[Dialectical Reasoning]]
 - [[Dialectical Structures]]
 - [[Domain-General vs Domain-Specific Reasoning]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Process Theory and Cognitive Architecture]]
-- [[Dunning-Kruger Effect]]
-- [[Ecological Rationality]]
-- [[Elaborative Interrogation]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ecological-Rationality|Ecological Rationality]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Assumptions]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Justification]]
 - [[Epistemic Uncertainty Tolerance]]
 - [[Epistemic Vigilance and Epistemic Humility]]
@@ -443,33 +443,33 @@ extraction_summary:
 - [[Evidentiary Reasoning]]
 - [[Evolutionary Psychology Principles]]
 - [[Expert-Novice Differences]]
-- [[Fast-and-Frugal Heuristics]]
-- [[Feeling of Knowing]]
+- [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Heuristics and Biases Program]]
 - [[Hidden Assumptions]]
-- [[Hindsight Bias]]
-- [[Ill-Structured Problems]]
+- [[Hindsight-Bias|Hindsight Bias]]
+- [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
 - [[Informal Logic]]
 - [[Information Processing Theory]]
 - [[Integrative Thinking]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility Training]]
 - [[Intellectual Virtue Ethics]]
 - [[Interleaved Practice]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
 - [[Mental Effort]]
 - [[Metacognition and Self-Regulated Learning]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Control]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Monitoring]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Control|Metacognitive Control]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacomprehension]]
 - [[Metamemory]]
 - [[Modal Qualifiers]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
@@ -490,14 +490,14 @@ extraction_summary:
 - [[Reflective Judgment Model]]
 - [[Reflective Judgment and Epistemic Cognition Development]]
 - [[Reflective Mind]]
-- [[Reflective Practice]]
-- [[Reflective Thinking]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[Representativeness Heuristic]]
-- [[Retrieval Practice]]
-- [[Schema Theory]]
-- [[Self-Explanation Effect]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Self-Regulated Learning Cycle]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Source Credibility Assessment]]
 - [[Statistical Thinking Basics]]
 - [[Statistical Training Effects]]
@@ -508,12 +508,12 @@ extraction_summary:
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Warrant and Backing]]
-- [[Warranted Assertibility]]
+- [[Warranted-Assertibility|Warranted Assertibility]]
 - [[Ways of Knowing]]
 - [[Working Memory Basics]]
-- [[Working Memory Capacity]]
+- [[Working-Memory-Capacity|Working Memory Capacity]]
 - [[Working Memory Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
@@ -521,20 +521,20 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Epistemic Vigilance and Epistemic Humility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 80 |
 | 2 | [[Epistemic Virtue Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 87 |
-| 3 | [[Dunning-Kruger Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 88 |
-| 4 | [[Metacognitive Calibration]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 89 |
-| 5 | [[Intellectual Humility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 90 |
+| 3 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 88 |
+| 4 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 89 |
+| 5 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 90 |
 | 6 | [[Testimonial Knowledge]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 91 |
 | 7 | [[Cognitive Immunology Hypothesis]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 92 |
 | 8 | [[Belief Revision Mechanisms]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 93 |
-| 9 | [[Socratic Ignorance]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 94 |
+| 9 | [[Socratic-Ignorance|Socratic Ignorance]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 94 |
 | 10 | [[Argumentative Theory of Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 95 |
 | 11 | [[Overconfidence Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 96 |
 | 12 | [[Calibrated Probability Judgment]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 97 |
 | 13 | [[Open-Mindedness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 98 |
 | 14 | [[Intellectual Virtue Ethics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 99 |
 | 15 | [[Source Credibility Assessment]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 100 |
-| 16 | [[Warranted Assertibility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 101 |
+| 16 | [[Warranted-Assertibility|Warranted Assertibility]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 101 |
 | 17 | [[Basic Epistemology]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
 | 18 | [[Cognitive Bias Fundamentals]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
 | 19 | [[Evolutionary Psychology Principles]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 105 |
@@ -544,14 +544,14 @@ extraction_summary:
 | 23 | [[Heuristics and Biases Program]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 125 |
 | 24 | [[Cognitive Ease]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 126 |
 | 25 | [[Cognitive Reflection]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 127 |
-| 26 | [[Working Memory Capacity]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 128 |
+| 26 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 128 |
 | 27 | [[Cognitive Miserliness]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 129 |
 | 28 | [[Type 1 vs Type 2 Processing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 130 |
 | 29 | [[Attribute Substitution]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 131 |
 | 30 | [[Mental Effort]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 132 |
 | 31 | [[Default Interventionist Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 133 |
 | 32 | [[Parallel Competitive Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 134 |
-| 33 | [[Cognitive Decoupling]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 135 |
+| 33 | [[Cognitive-Decoupling|Cognitive Decoupling]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 135 |
 | 34 | [[Rationality Debate]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 136 |
 | 35 | [[Bounded Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 137 |
 | 36 | [[Cognitive Closure]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 138 |
@@ -584,46 +584,46 @@ extraction_summary:
 | 63 | [[Deductive vs Inductive Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 184 |
 | 64 | [[Argument Terminology]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 184 |
 | 65 | [[Metacognition and Self-Regulated Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 194 |
-| 66 | [[Metacognitive Knowledge]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 202 |
-| 67 | [[Metacognitive Regulation]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 203 |
-| 68 | [[Metacognitive Monitoring]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 204 |
-| 69 | [[Metacognitive Control]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 205 |
+| 66 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 202 |
+| 67 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 203 |
+| 68 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 204 |
+| 69 | [[Metacognitive-Control|Metacognitive Control]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 205 |
 | 70 | [[Self-Regulated Learning Cycle]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 206 |
 | 71 | [[Metamemory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 207 |
 | 72 | [[Metacomprehension]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 208 |
 | 73 | [[Calibration of Confidence]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 209 |
-| 74 | [[Feeling of Knowing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 210 |
-| 75 | [[Judgment of Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 211 |
-| 76 | [[Comprehension Monitoring]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 212 |
+| 74 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 210 |
+| 75 | [[Judgment-of-Learning|Judgment of Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 211 |
+| 76 | [[Comprehension-Monitoring|Comprehension Monitoring]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 212 |
 | 77 | [[Strategic Learning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 213 |
-| 78 | [[Reflective Practice]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 214 |
+| 78 | [[Reflective-Practice|Reflective Practice]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 214 |
 | 79 | [[Cognitive Strategy Instruction]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 215 |
-| 80 | [[Zone of Proximal Development]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 216 |
-| 81 | [[Desirable Difficulties]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 217 |
-| 82 | [[Retrieval Practice]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 218 |
+| 80 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 216 |
+| 81 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 217 |
+| 82 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 218 |
 | 83 | [[Interleaved Practice]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 219 |
-| 84 | [[Elaborative Interrogation]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 220 |
-| 85 | [[Self-Explanation Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 221 |
-| 86 | [[Dunning-Kruger Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 222 |
+| 84 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 220 |
+| 85 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 221 |
+| 86 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 222 |
 | 87 | [[Expert-Novice Differences]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 223 |
 | 88 | [[Working Memory Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
-| 89 | [[Schema Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
+| 89 | [[Schema-Theory|Schema Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
 | 90 | [[Information Processing Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 227 |
 | 91 | [[Cognitive Bias Debiasing and Mitigation Strategies]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 237 |
-| 92 | [[Confirmation Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 245 |
+| 92 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 245 |
 | 93 | [[Anchoring Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 246 |
-| 94 | [[Availability Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 247 |
+| 94 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 247 |
 | 95 | [[Representativeness Heuristic]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 248 |
-| 96 | [[Hindsight Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 249 |
+| 96 | [[Hindsight-Bias|Hindsight Bias]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 249 |
 | 97 | [[Consider-the-Opposite Strategy]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 250 |
 | 98 | [[Premortem Technique]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 251 |
 | 99 | [[Outside View (Reference Class Forecasting)]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 252 |
 | 100 | [[Nudge Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 253 |
 | 101 | [[Choice Architecture]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 254 |
-| 102 | [[Ecological Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 255 |
-| 103 | [[Fast-and-Frugal Heuristics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 256 |
+| 102 | [[Ecological-Rationality|Ecological Rationality]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 255 |
+| 103 | [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 256 |
 | 104 | [[Bias Blind Spot]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 257 |
-| 105 | [[Motivated Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 258 |
+| 105 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 258 |
 | 106 | [[Affective Forecasting]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 259 |
 | 107 | [[Cognitive Reflection Test]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 260 |
 | 108 | [[Statistical Training Effects]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 261 |
@@ -631,18 +631,18 @@ extraction_summary:
 | 110 | [[Devil's Advocate Technique]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 263 |
 | 111 | [[Red Team Analysis]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 264 |
 | 112 | [[Intellectual Humility Training]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 265 |
-| 113 | [[Dual Process Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
+| 113 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
 | 114 | [[Rationality Concepts]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
 | 115 | [[Statistical Thinking Basics]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 269 |
 | 116 | [[Reflective Judgment and Epistemic Cognition Development]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 279 |
 | 117 | [[Reflective Judgment Model]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 287 |
-| 118 | [[Ill-Structured Problems]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 288 |
+| 118 | [[Ill-Structured-Problems|Ill-Structured Problems]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 288 |
 | 119 | [[Epistemic Assumptions]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 289 |
 | 120 | [[Pre-Reflective Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 290 |
 | 121 | [[Quasi-Reflective Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 291 |
-| 122 | [[Reflective Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 292 |
+| 122 | [[Reflective-Thinking|Reflective Thinking]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 292 |
 | 123 | [[Perry's Scheme of Intellectual Development]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 293 |
-| 124 | [[Epistemic Cognition]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 294 |
+| 124 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 294 |
 | 125 | [[Epistemological Sophistication]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 295 |
 | 126 | [[Belief Justification]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 296 |
 | 127 | [[Evidentiary Reasoning]] | — | — | 🎯 Critical Thinking & Metacognitive M... | 297 |
@@ -716,20 +716,20 @@ extraction_summary:
 Epistemic vigilance represents the cognitive machinery that evolved to help humans navigate testimony and information in social environments, while epistemic humility addresses the philosophical and practical challenge of knowing what we don't know. This topic bridges evolutionary psychology (Sperber & Mercier's work), virtue epistemology, and practical critical thinking methodology. It connects directly to your Stoicism practice (especially Socratic "I know that I know nothing"), the Paul-Elder intellectual standards (intellectual humility), and provides metacognitive frameworks for self-questioning. The tension between healthy skepticism and productive trust creates rich analytical territory.
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[Epistemic Virtue Theory]]
-- [[Dunning-Kruger Effect]]
-- [[Metacognitive Calibration]]
-- [[Intellectual Humility]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Testimonial Knowledge]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Belief Revision Mechanisms]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Argumentative Theory of Reasoning]]
 - [[Overconfidence Bias]]
 - [[Calibrated Probability Judgment]]
 - [[Open-Mindedness]]
 - [[Intellectual Virtue Ethics]]
 - [[Source Credibility Assessment]]
-- [[Warranted Assertibility]]
+- [[Warranted-Assertibility|Warranted Assertibility]]
 **Analogical Potential**:
 Epistemic vigilance as an "intellectual immune system"—just as your body must distinguish helpful bacteria from pathogens without attacking everything, your mind must calibrate trust in information sources without becoming either gullible or pathologically skeptical.
 **Prerequisite Knowledge**:
@@ -756,14 +756,14 @@ This is perhaps the most influential framework in modern cognitive science for u
 - [[Heuristics and Biases Program]]
 - [[Cognitive Ease]]
 - [[Cognitive Reflection]]
-- [[Working Memory Capacity]]
+- [[Working-Memory-Capacity|Working Memory Capacity]]
 - [[Cognitive Miserliness]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Attribute Substitution]]
 - [[Mental Effort]]
 - [[Default Interventionist Model]]
 - [[Parallel Competitive Model]]
-- [[Cognitive Decoupling]]
+- [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Rationality Debate]]
 - [[Bounded Rationality]]
 - [[Cognitive Closure]]
@@ -823,27 +823,27 @@ Argument mapping as "X-ray vision for reasoning"—just as medical imaging revea
 **Why This Topic is Foundationally Rich**:
 Metacognition—"thinking about thinking"—represents the highest-order cognitive skill and is the foundation for all critical thinking frameworks you're studying. Flavell's pioneering work in the 1970s, Schraw & Moshman's taxonomy, Zimmerman's self-regulated learning models, and Dunlosky's research on effective learning strategies create a rich scholarly ecosystem. This topic is the *meta-framework* underlying Paul-Elder (monitoring one's use of elements/standards), Bloom's highest levels (evaluate, create), and Facione's self-regulation dimension. It directly addresses your goal of "systematically questioning yourself" by providing cognitive and metacognitive monitoring strategies. The empirical research spans decades with clear practical applications.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Regulation]]
-- [[Metacognitive Monitoring]]
-- [[Metacognitive Control]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Metacognitive-Control|Metacognitive Control]]
 - [[Self-Regulated Learning Cycle]]
 - [[Metamemory]]
 - [[Metacomprehension]]
 - [[Calibration of Confidence]]
-- [[Feeling of Knowing]]
-- [[Judgment of Learning]]
-- [[Comprehension Monitoring]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
+- [[Judgment-of-Learning|Judgment of Learning]]
+- [[Comprehension-Monitoring|Comprehension Monitoring]]
 - [[Strategic Learning]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Cognitive Strategy Instruction]]
-- [[Zone of Proximal Development]]
-- [[Desirable Difficulties]]
-- [[Retrieval Practice]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Interleaved Practice]]
-- [[Elaborative Interrogation]]
-- [[Self-Explanation Effect]]
-- [[Dunning-Kruger Effect]] (metacognitive failure)
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] (metacognitive failure)
 - [[Expert-Novice Differences]]
 # ... (8 more lines truncated)
 ```
@@ -859,20 +859,20 @@ Metacognition—"thinking about thinking"—represents the highest-order cogniti
 **Why This Topic is Foundationally Rich**:
 While cognitive biases are widely discussed, the *science of debiasing* represents a sophisticated research program addressing whether and how biases can be corrected. This topic encompasses the "bias bias" (Gigerenzer's criticism that not all heuristics are errors), the debate over whether biases are "bugs or features" (ecological rationality perspective), individual-level interventions (consider-the-opposite, taking outside view), and institutional design (nudges, choice architecture). It connects to all your frameworks: Paul-Elder emphasizes intellectual traits that counter bias, ACER evaluates argument quality against bias, Facione includes disposition toward truth-seeking, and Stoicism cultivates emotional regulation that reduces affective bias. The scholarly controversy is robust and ongoing.
 **Key Conceptual Anchors** (Potential Wiki-Links):
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Anchoring Bias]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Representativeness Heuristic]]
-- [[Hindsight Bias]]
+- [[Hindsight-Bias|Hindsight Bias]]
 - [[Consider-the-Opposite Strategy]]
 - [[Premortem Technique]]
 - [[Outside View (Reference Class Forecasting)]]
 - [[Nudge Theory]]
 - [[Choice Architecture]]
-- [[Ecological Rationality]]
-- [[Fast-and-Frugal Heuristics]]
+- [[Ecological-Rationality|Ecological Rationality]]
+- [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
 - [[Bias Blind Spot]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Affective Forecasting]]
 - [[Cognitive Reflection Test]]
 - [[Statistical Training Effects]]
@@ -896,13 +896,13 @@ While cognitive biases are widely discussed, the *science of debiasing* represen
 King & Kitchener's Reflective Judgment Model (RJM) represents one of the most empirically validated developmental frameworks for understanding how adults reason about complex, uncertain problems. It traces a seven-stage progression from pre-reflective (knowledge is certain and obtained directly) through quasi-reflective (knowledge is uncertain but this causes epistemic paralysis) to reflective thinking (knowledge is constructed through evidence and argument evaluation). This directly addresses your systematic self-questioning goal by providing a developmental roadmap. It connects to Perry's scheme, Kuhn's argumentative reasoning work, Baxter Magolda's epistemological reflection model, and integrates with your interest in Stoic epistemic practices (Epictetus on distinguishing what's "up to us" vs. externals mirrors epistemic judgment). The longitudinal research spans decades with clear implications for critical thinking pedagogy.
 **Key Conceptual Anchors** (Potential Wiki-Links):
 - [[Reflective Judgment Model]]
-- [[Ill-Structured Problems]]
+- [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Epistemic Assumptions]]
 - [[Pre-Reflective Thinking]]
 - [[Quasi-Reflective Thinking]]
-- [[Reflective Thinking]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[Perry's Scheme of Intellectual Development]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemological Sophistication]]
 - [[Belief Justification]]
 - [[Evidentiary Reasoning]]
@@ -1196,7 +1196,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Attention Mechanisms]]
 - [[Attribute Substitution]]
 - [[Autonomous Mind]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
 - [[Basic Propositional Logic]]
 - [[Belief Justification]]
@@ -1212,7 +1212,7 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Cognitive Bias Fundamentals]]
 - [[Cognitive Closure]]
 - [[Cognitive Complexity]]
-- [[Cognitive Decoupling]]
+- [[Cognitive-Decoupling|Cognitive Decoupling]]
 - [[Cognitive Ease]]
 - [[Cognitive Immunology Hypothesis]]
 - [[Cognitive Load Externalization]]
@@ -1222,8 +1222,8 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Cognitive Resources]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Strategy Instruction]]
-- [[Comprehension Monitoring]]
-- [[Confirmation Bias]]
+- [[Comprehension-Monitoring|Comprehension Monitoring]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Consider-the-Opposite Strategy]]
 - [[Constructivism in Learning]]
 - [[Constructivist Epistemology]]
@@ -1231,18 +1231,18 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Deductive vs Inductive Reasoning]]
 - [[Default Interventionist Model]]
 - [[Defeasible Reasoning]]
-- [[Desirable Difficulties]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
 - [[Devil's Advocate Technique]]
 - [[Dialectical Reasoning]]
 - [[Dialectical Structures]]
 - [[Domain-General vs Domain-Specific Reasoning]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dual Process Theory and Cognitive Architecture]]
-- [[Dunning-Kruger Effect]]
-- [[Ecological Rationality]]
-- [[Elaborative Interrogation]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Ecological-Rationality|Ecological Rationality]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Assumptions]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Justification]]
 - [[Epistemic Uncertainty Tolerance]]
 - [[Epistemic Vigilance and Epistemic Humility]]
@@ -1252,33 +1252,33 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Evidentiary Reasoning]]
 - [[Evolutionary Psychology Principles]]
 - [[Expert-Novice Differences]]
-- [[Fast-and-Frugal Heuristics]]
-- [[Feeling of Knowing]]
+- [[Fast-and-Frugal-Heuristics|Fast-and-Frugal Heuristics]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Heuristics and Biases Program]]
 - [[Hidden Assumptions]]
-- [[Hindsight Bias]]
-- [[Ill-Structured Problems]]
+- [[Hindsight-Bias|Hindsight Bias]]
+- [[Ill-Structured-Problems|Ill-Structured Problems]]
 - [[Inference Indicators]]
 - [[Informal Logic]]
 - [[Information Processing Theory]]
 - [[Integrative Thinking]]
-- [[Intellectual Humility]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Intellectual Humility Training]]
 - [[Intellectual Virtue Ethics]]
 - [[Interleaved Practice]]
-- [[Judgment of Learning]]
+- [[Judgment-of-Learning|Judgment of Learning]]
 - [[Logical Fallacies]]
 - [[Mental Effort]]
 - [[Metacognition and Self-Regulated Learning]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Control]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Monitoring]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Control|Metacognitive Control]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metacomprehension]]
 - [[Metamemory]]
 - [[Modal Qualifiers]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Nudge Theory]]
 - [[Open-Mindedness]]
 - [[Outside View (Reference Class Forecasting)]]
@@ -1299,14 +1299,14 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Reflective Judgment Model]]
 - [[Reflective Judgment and Epistemic Cognition Development]]
 - [[Reflective Mind]]
-- [[Reflective Practice]]
-- [[Reflective Thinking]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[Representativeness Heuristic]]
-- [[Retrieval Practice]]
-- [[Schema Theory]]
-- [[Self-Explanation Effect]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Self-Regulated Learning Cycle]]
-- [[Socratic Ignorance]]
+- [[Socratic-Ignorance|Socratic Ignorance]]
 - [[Source Credibility Assessment]]
 - [[Statistical Thinking Basics]]
 - [[Statistical Training Effects]]
@@ -1317,12 +1317,12 @@ A Case-Study based Exploration of Critical Thinking in Strategic Decision Making
 - [[Toulmin's Argument Model]]
 - [[Type 1 vs Type 2 Processing]]
 - [[Warrant and Backing]]
-- [[Warranted Assertibility]]
+- [[Warranted-Assertibility|Warranted Assertibility]]
 - [[Ways of Knowing]]
 - [[Working Memory Basics]]
-- [[Working Memory Capacity]]
+- [[Working-Memory-Capacity|Working Memory Capacity]]
 - [[Working Memory Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ---
 

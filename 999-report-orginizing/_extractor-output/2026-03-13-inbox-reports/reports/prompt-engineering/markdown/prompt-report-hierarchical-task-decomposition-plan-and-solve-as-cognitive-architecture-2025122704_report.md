@@ -402,7 +402,7 @@ extraction_summary:
 - [[Chain of Thought]]
 - [[Chase and Simon (1973)]]
 - [[Classical Planning]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Architectures-for-Agent-Systems]]
 - [[Combinatorial-Containment]]
 - [[Contingent Planning]]
@@ -439,7 +439,7 @@ extraction_summary:
 - [[Schema-Formation-Through-Decomposition]]
 - [[Search-Space-Reduction]]
 - [[Self-Ask]]
-- [[TGP]]
+- [[Text-Generator-Plugin|TGP]]
 - [[Temporal-and-Resource-Constrained-Planning]]
 - [[Tree of Thoughts]]
 - [[Tree of Thoughts (ToT)]]
@@ -447,7 +447,7 @@ extraction_summary:
 - [[Wang et al. (2023)]]
 - [[Working-Memory-as-Architectural-Constraint]]
 - [[classical planning theory]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ### All Occurrences
 
@@ -460,13 +460,13 @@ extraction_summary:
 | 5 | [[Agentic Reasoning]] | — | — | Foundational Understanding | 114 |
 | 6 | [[General Problem Solver]] | — | — | Foundational Understanding | 115 |
 | 7 | [[Means-Ends Analysis]] | — | — | Foundational Understanding | 115 |
-| 8 | [[Cognitive Load Theory]] | — | — | Foundational Understanding | 115 |
+| 8 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Foundational Understanding | 115 |
 | 9 | [[STRIPS]] | — | — | Foundational Understanding | 116 |
 | 10 | [[HTN]] | — | — | Foundational Understanding | 116 |
 | 11 | [[Classical Planning]] | — | — | Foundational Understanding | 116 |
 | 12 | [[Allen Newell]] | — | — | The Human Problem-Solving Heritage | 142 |
 | 13 | [[Herbert Simon]] | — | — | The Human Problem-Solving Heritage | 142 |
-| 14 | [[working memory]] | — | — | The Human Problem-Solving Heritage | 153 |
+| 14 | [[Working-Memory|working memory]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 15 | [[Cowan's Capacity Limit]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 16 | [[Miller's 7±2]] | — | — | The Human Problem-Solving Heritage | 153 |
 | 17 | [[Chase and Simon (1973)]] | — | — | The Human Problem-Solving Heritage | 165 |
@@ -490,7 +490,7 @@ extraction_summary:
 | 35 | [[Search-Space-Reduction]] | — | — | Hierarchical Task Networks (HTN) | 470 |
 | 36 | [[Reusability]] | — | — | Hierarchical Task Networks (HTN) | 471 |
 | 37 | [[PDDL 2.1]] | — | — | Modern Extensions: Temporal, Probabil... | 524 |
-| 38 | [[TGP]] | — | — | Modern Extensions: Temporal, Probabil... | 524 |
+| 38 | [[Text-Generator-Plugin|TGP]] | — | — | Modern Extensions: Temporal, Probabil... | 524 |
 | 39 | [[MDP]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 40 | [[POMDP]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
 | 41 | [[Contingent Planning]] | — | — | Modern Extensions: Temporal, Probabil... | 529 |
@@ -2392,7 +2392,7 @@ graph TD
 - [[Chain of Thought]]
 - [[Chase and Simon (1973)]]
 - [[Classical Planning]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive-Architectures-for-Agent-Systems]]
 - [[Combinatorial-Containment]]
 - [[Contingent Planning]]
@@ -2429,7 +2429,7 @@ graph TD
 - [[Schema-Formation-Through-Decomposition]]
 - [[Search-Space-Reduction]]
 - [[Self-Ask]]
-- [[TGP]]
+- [[Text-Generator-Plugin|TGP]]
 - [[Temporal-and-Resource-Constrained-Planning]]
 - [[Tree of Thoughts]]
 - [[Tree of Thoughts (ToT)]]
@@ -2437,7 +2437,7 @@ graph TD
 - [[Wang et al. (2023)]]
 - [[Working-Memory-as-Architectural-Constraint]]
 - [[classical planning theory]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ---
 

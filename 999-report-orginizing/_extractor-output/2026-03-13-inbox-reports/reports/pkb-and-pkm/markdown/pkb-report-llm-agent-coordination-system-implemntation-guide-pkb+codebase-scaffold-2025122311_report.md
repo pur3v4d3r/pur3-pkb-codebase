@@ -366,7 +366,7 @@ extraction_summary:
 - [[Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
 - [[Claude Code]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to AI Coordination]]
 - [[Gemini Code Assist]]
 - [[Knowledge Graph Dynamics in Multi-Agent Systems]]
@@ -400,7 +400,7 @@ extraction_summary:
 | 15 | [[Agent Capability Development Framework]] | — | — | 1. **[[Agent Capability Development F... | 1287 |
 | 16 | [[Session Memory Optimization Patterns]] | — | — | 2. **[[Session Memory Optimization Pa... | 1294 |
 | 17 | [[Cognitive Load Theory Applied to AI Coordination]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1303 |
-| 18 | [[Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1308 |
+| 18 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory Applied ... | 1308 |
 | 19 | [[Knowledge Graph Dynamics in Multi-Agent Systems]] | — | — | 4. **[[Knowledge Graph Dynamics in Mu... | 1310 |
 | 20 | [[Agentic Prompt Engineering Workflows]] | — | — | 5. **[[Agentic Prompt Engineering Wor... | 1319 |
 | 21 | [[SPES]] | — | — | 5. **[[Agentic Prompt Engineering Wor... | 1324 |
@@ -1292,7 +1292,7 @@ graph TD
 - [[Agent Coordination Patterns]]
 - [[Agentic Prompt Engineering Workflows]]
 - [[Claude Code]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory Applied to AI Coordination]]
 - [[Gemini Code Assist]]
 - [[Knowledge Graph Dynamics in Multi-Agent Systems]]

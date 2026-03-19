@@ -163,14 +163,14 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 38)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores **[[Metacognition]]** as the fundamental integrating mechanism that unifies [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Self-Regulated Learning]], [[Constructivism|constructivist learning theory]], [[Critical Thinking]], and behavioral self-management. Drawing from five decades of empirical research spanning developmental psychology, cognitive science, and educational theory, this analysis demonstrates how metacognitive processes—defined as the awareness, monitoring, and regulation of one's own cognitive operations—serve as the psychological architecture enabling adult learners to construct knowledge actively, think critically about epistemic claims, and exercise volitional control over behavioral change. The synthesis reveals metacognition not merely as a cognitive skill among others but as the *organizing principle* through which disparate psychological capacities become integrated into coherent systems of self-directed development.
+> This comprehensive examination explores **[[Metacognition]]** as the fundamental integrating mechanism that unifies [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Constructivism|constructivist learning theory]], [[Critical-Thinking|Critical Thinking]], and behavioral self-management. Drawing from five decades of empirical research spanning developmental psychology, cognitive science, and educational theory, this analysis demonstrates how metacognitive processes—defined as the awareness, monitoring, and regulation of one's own cognitive operations—serve as the psychological architecture enabling adult learners to construct knowledge actively, think critically about epistemic claims, and exercise volitional control over behavioral change. The synthesis reveals metacognition not merely as a cognitive skill among others but as the *organizing principle* through which disparate psychological capacities become integrated into coherent systems of self-directed development.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
 > **Understanding why metacognition functions as the integrative nexus**
 > 
-> The central thesis of this analysis is that metacognition represents more than an isolated cognitive capacity—it constitutes the *psychological architecture* through which human beings transcend purely reactive cognition and achieve self-directed development. This architectural function manifests across multiple developmental domains: in [[Constructivism]], metacognition enables learners to monitor their schema construction processes; in [[Critical Thinking]], it provides the self-regulatory mechanisms enabling reflective judgment; in [[Self-Regulated Learning]], it operationalizes the planning-monitoring-evaluation cycle that distinguishes strategic from passive learners.
+> The central thesis of this analysis is that metacognition represents more than an isolated cognitive capacity—it constitutes the *psychological architecture* through which human beings transcend purely reactive cognition and achieve self-directed development. This architectural function manifests across multiple developmental domains: in [[Constructivism]], metacognition enables learners to monitor their schema construction processes; in [[Critical-Thinking|Critical Thinking]], it provides the self-regulatory mechanisms enabling reflective judgment; in [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], it operationalizes the planning-monitoring-evaluation cycle that distinguishes strategic from passive learners.
 
 #### 4. [KEY-CLAIM] Untitled *(Line 50)*
 
@@ -189,7 +189,7 @@ extraction_summary:
 > [!atomic-concept] Untitled
 > **The Birth of Metacognition as Scientific Construct**
 > 
-> The formal emergence of metacognition as a research domain occurred in 1976 when developmental psychologist [[John Flavell]] coined the term in his seminal work on memory monitoring. Flavell's innovation was not merely terminological—he provided the first systematic theoretical framework for understanding how individuals monitor and regulate their own cognitive processes. His foundational model distinguished between **[[Metacognitive Knowledge]]** (what one knows about cognition) and **[[Metacognitive Regulation]]** (how one controls cognitive processes), a distinction that continues to organize the field today.
+> The formal emergence of metacognition as a research domain occurred in 1976 when developmental psychologist [[John Flavell]] coined the term in his seminal work on memory monitoring. Flavell's innovation was not merely terminological—he provided the first systematic theoretical framework for understanding how individuals monitor and regulate their own cognitive processes. His foundational model distinguished between **[[Metacognitive-Knowledge|Metacognitive Knowledge]]** (what one knows about cognition) and **[[Metacognitive-Regulation|Metacognitive Regulation]]** (how one controls cognitive processes), a distinction that continues to organize the field today.
 
 #### 7. [CORE-PRINCIPLE] Untitled *(Line 99)*
 
@@ -203,7 +203,7 @@ extraction_summary:
 > [!atomic-concept] Untitled
 > **The Planning-Monitoring-Evaluation Cycle**
 > 
-> While metacognitive knowledge provides declarative foundations, **[[Metacognitive Regulation]]** encompasses the active processes through which individuals plan, monitor, and evaluate their cognitive activities. This regulatory dimension transforms passive knowledge into active control, enabling goal-directed cognition.
+> While metacognitive knowledge provides declarative foundations, **[[Metacognitive-Regulation|Metacognitive Regulation]]** encompasses the active processes through which individuals plan, monitor, and evaluate their cognitive activities. This regulatory dimension transforms passive knowledge into active control, enabling goal-directed cognition.
 
 #### 9. [CONNECTIONS-AND-LINKS] Untitled *(Line 131)*
 
@@ -224,21 +224,21 @@ extraction_summary:
 > [!core-principle] Untitled
 > **The Social Genesis of Metacognitive Capacity**
 > 
-> [[Lev Vygotsky]]'s sociocultural theory provides perhaps the most explicit account of how metacognitive capabilities develop through social interaction. His concept of the **[[Zone of Proximal Development]]** (ZPD)—the distance between independent performance and performance achievable with guidance—fundamentally describes metacognitive scaffolding becoming internalized as metacognitive capability.
+> [[Lev Vygotsky]]'s sociocultural theory provides perhaps the most explicit account of how metacognitive capabilities develop through social interaction. His concept of the **[[Zone-of-Proximal-Development|Zone of Proximal Development]]** (ZPD)—the distance between independent performance and performance achievable with guidance—fundamentally describes metacognitive scaffolding becoming internalized as metacognitive capability.
 
 #### 12. [CONNECTIONS-AND-LINKS] Untitled *(Line 170)*
 
 > [!connections-and-links] Untitled
 > **Connecting to Cognitive Architecture**
 > 
-> The integration of constructivism with metacognition must account for cognitive architecture constraints, particularly [[Working Memory]] limitations. [[John Sweller]]'s **[[Cognitive Load Theory]]** (CLT) reveals that constructivist learning processes consume working memory resources, creating potential conflicts between domain learning and metacognitive monitoring.
+> The integration of constructivism with metacognition must account for cognitive architecture constraints, particularly [[Working-Memory|Working Memory]] limitations. [[John Sweller]]'s **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (CLT) reveals that constructivist learning processes consume working memory resources, creating potential conflicts between domain learning and metacognitive monitoring.
 
 #### 13. [KEY-CLAIM] Untitled *(Line 186)*
 
 > [!key-claim] Untitled
 > **Metacognition provides the psychological infrastructure for critical thinking**
 > 
-> While [[Critical Thinking]] frameworks specify *what* skilled thinking looks like—the standards, dispositions, and cognitive operations characterizing effective reasoning—they rarely explain *how* thinkers achieve these standards psychologically. Metacognition answers this question: critical thinking emerges when metacognitive awareness and regulation are deployed specifically toward evaluating reasoning quality, assessing evidence, identifying assumptions, and detecting fallacies.
+> While [[Critical-Thinking|Critical Thinking]] frameworks specify *what* skilled thinking looks like—the standards, dispositions, and cognitive operations characterizing effective reasoning—they rarely explain *how* thinkers achieve these standards psychologically. Metacognition answers this question: critical thinking emerges when metacognitive awareness and regulation are deployed specifically toward evaluating reasoning quality, assessing evidence, identifying assumptions, and detecting fallacies.
 
 #### 14. [ATOMIC-CONCEPT] Untitled *(Line 211)*
 
@@ -252,7 +252,7 @@ extraction_summary:
 > [!evidence] Untitled
 > **The accuracy of metacognitive judgments directly predicts critical thinking quality**
 > 
-> Research on **[[Metacognitive Calibration]]**—the correspondence between subjective confidence and objective performance—reveals its crucial role in critical thinking. Well-calibrated thinkers accurately assess their understanding, enabling them to seek information when knowledge proves insufficient and proceed confidently when understanding is solid. Miscalibrated thinkers either overestimate competence (leading to unjustified certainty) or underestimate it (leading to excessive doubt and paralysis).
+> Research on **[[Metacognitive-Calibration|Metacognitive Calibration]]**—the correspondence between subjective confidence and objective performance—reveals its crucial role in critical thinking. Well-calibrated thinkers accurately assess their understanding, enabling them to seek information when knowledge proves insufficient and proceed confidently when understanding is solid. Miscalibrated thinkers either overestimate competence (leading to unjustified certainty) or underestimate it (leading to excessive doubt and paralysis).
 
 #### 16. [CORE-PRINCIPLE] Untitled *(Line 235)*
 
@@ -266,14 +266,14 @@ extraction_summary:
 > [!key-claim] Untitled
 > **Self-regulated learning is applied metacognition in the service of goal achievement**
 > 
-> [[Self-Regulated Learning]] (SRL) represents perhaps the most explicit integration of metacognition with broader motivational and behavioral components. While metacognition encompasses awareness and control of cognitive processes, self-regulated learning extends these principles to encompass the entire learning episode—including motivation management, emotion regulation, environmental structuring, and behavior control.
+> [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) represents perhaps the most explicit integration of metacognition with broader motivational and behavioral components. While metacognition encompasses awareness and control of cognitive processes, self-regulated learning extends these principles to encompass the entire learning episode—including motivation management, emotion regulation, environmental structuring, and behavior control.
 
 #### 18. [CORE-PRINCIPLE] Untitled *(Line 253)*
 
 > [!core-principle] Untitled
 > **The triadic structure of self-regulation**
 > 
-> [[Barry Zimmerman]]'s social-cognitive model of self-regulated learning (2000, 2002) provides the most influential framework integrating metacognition with self-regulation. The model posits three cyclical phases: **forethought** (planning and goal-setting before learning), **performance** (monitoring and control during learning), and **self-reflection** (evaluation and reaction after learning). This cycle explicitly operationalizes metacognitive processes while expanding them to encompass motivational and behavioral dimensions.
+> [[Barry-Zimmerman|Barry Zimmerman]]'s social-cognitive model of self-regulated learning (2000, 2002) provides the most influential framework integrating metacognition with self-regulation. The model posits three cyclical phases: **forethought** (planning and goal-setting before learning), **performance** (monitoring and control during learning), and **self-reflection** (evaluation and reaction after learning). This cycle explicitly operationalizes metacognitive processes while expanding them to encompass motivational and behavioral dimensions.
 
 #### 19. [ATOMIC-CONCEPT] Untitled *(Line 266)*
 
@@ -416,25 +416,25 @@ extraction_summary:
 - [[Annemarie Palincsar]]
 - [[Aristotle]]
 - [[Assimilation]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Automation]]
 - [[B.F. Skinner]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bloom's Taxonomy]]
 - [[Charlotte Dignath]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Metacognitive Resource Management]]
 - [[Constructivism]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Diane Halpern]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition and External Metacognitive Scaffolds]]
-- [[Donald Schön]]
-- [[Dunning Kruger Effect]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön|Donald Schön]]
+- [[Dunning-Kruger-Effect|Dunning Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Tolman]]
 - [[Enlightenment]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Equilibration]]
 - [[Executive Functions]]
 - [[Facione]]
@@ -443,14 +443,14 @@ extraction_summary:
 - [[Flavell]]
 - [[George Miller]]
 - [[Gerhard Büttner]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hakwan Lau]]
 - [[Harvard Project Zero]]
 - [[Immanuel Kant]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Internalization]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[John Locke]]
 - [[John Sweller]]
@@ -460,19 +460,19 @@ extraction_summary:
 - [[Louis Narens]]
 - [[Meriel Goos]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and the Dunning-Kruger Effect]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metamemory]]
 - [[Michelene Chi]]
 - [[Motivated Strategies for Learning Questionnaire]]
-- [[Myside Bias]]
+- [[Myside-Bias|Myside Bias]]
 - [[Nelson Cowan]]
 - [[Paul Pintrich]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Personal Knowledge Bases]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter Facione]]
 - [[Philip Winne]]
 - [[Philippe Panadero]]
@@ -488,8 +488,8 @@ extraction_summary:
 - [[Scaffolding]]
 - [[Schemas]]
 - [[Schemas in Long-Term Memory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen Fleming]]
@@ -500,10 +500,10 @@ extraction_summary:
 - [[Vygotsky's Sociocultural Theory]]
 - [[William James]]
 - [[William Perry]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zimmerman's Self-Regulation Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[obsidian]]
 
 ### All Occurrences
@@ -512,17 +512,17 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 2 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
-| 3 | [[Self-Regulated Learning]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
+| 3 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 4 | [[Constructivism]] | constructivist learning theory | — | 🧠 Metacognition as Central Integratin... | 39 |
-| 5 | [[Critical Thinking]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
+| 5 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 Metacognition as Central Integratin... | 39 |
 | 6 | [[Constructivism]] | — | — | 🌟 Introduction: The Psychological Arc... | 46 |
-| 7 | [[Critical Thinking]] | — | — | 🌟 Introduction: The Psychological Arc... | 46 |
-| 8 | [[Self-Regulated Learning]] | — | — | 🌟 Introduction: The Psychological Arc... | 46 |
+| 7 | [[Critical-Thinking|Critical Thinking]] | — | — | 🌟 Introduction: The Psychological Arc... | 46 |
+| 8 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🌟 Introduction: The Psychological Arc... | 46 |
 | 9 | [[Piaget's Cognitive Development Theory]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 10 | [[Vygotsky's Sociocultural Theory]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 11 | [[Paul-Elder Critical Thinking Framework]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 12 | [[Facione's Delphi Report]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
-| 13 | [[Self-Determination Theory]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
+| 13 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 14 | [[Zimmerman's Self-Regulation Model]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 15 | [[Personal Knowledge Bases]] | — | — | 🌟 Introduction: The Psychological Arc... | 48 |
 | 16 | [[Plato]] | — | — | The Philosophical Prehistory | 64 |
@@ -532,19 +532,19 @@ extraction_summary:
 | 20 | [[Enlightenment]] | — | — | The Philosophical Prehistory | 66 |
 | 21 | [[Immanuel Kant]] | — | — | The Philosophical Prehistory | 66 |
 | 22 | [[William James]] | — | — | Early Psychological Groundwork | 70 |
-| 23 | [[John Dewey]] | — | — | Early Psychological Groundwork | 70 |
+| 23 | [[John-Dewey|John Dewey]] | — | — | Early Psychological Groundwork | 70 |
 | 24 | [[Edward Tolman]] | — | — | Early Psychological Groundwork | 72 |
 | 25 | [[B.F. Skinner]] | — | — | Early Psychological Groundwork | 72 |
 | 26 | [[John Flavell]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
-| 27 | [[Metacognitive Knowledge]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
-| 28 | [[Metacognitive Regulation]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
+| 27 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
+| 28 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | The Cognitive Revolution and Flavell'... | 79 |
 | 29 | [[Ann Brown]] | — | — | Ann Brown and the Expansion of Metaco... | 87 |
 | 30 | [[Thomas Nelson]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
 | 31 | [[Louis Narens]] | — | — | The Nelson and Narens Metacognitive F... | 93 |
 | 32 | [[Metamemory]] | — | — | The Nelson and Narens Metacognitive F... | 95 |
-| 33 | [[Metacognitive Knowledge]] | — | — | Metacognitive Knowledge: The Declarat... | 106 |
-| 34 | [[Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge: The Declarat... | 108 |
-| 35 | [[Metacognitive Regulation]] | — | — | Metacognitive Regulation: The Procedu... | 119 |
+| 33 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | Metacognitive Knowledge: The Declarat... | 106 |
+| 34 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Metacognitive Knowledge: The Declarat... | 108 |
+| 35 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | Metacognitive Regulation: The Procedu... | 119 |
 | 36 | [[Reflection]] | reflective practice | — | Metacognitive Regulation: The Procedu... | 125 |
 | 37 | [[Metacognition]] | — | — | 🔄 Metacognition and Constructivism: T... | 145 |
 | 38 | [[Constructivism]] | — | — | 🔄 Metacognition and Constructivism: T... | 145 |
@@ -555,37 +555,37 @@ extraction_summary:
 | 43 | [[Equilibration]] | — | — | Piagetian Constructivism and Metacogn... | 151 |
 | 44 | [[Reflected Abstraction]] | — | — | Piagetian Constructivism and Metacogn... | 153 |
 | 45 | [[Lev Vygotsky]] | — | — | Vygotskian Social Constructivism and ... | 160 |
-| 46 | [[Zone of Proximal Development]] | — | — | Vygotskian Social Constructivism and ... | 160 |
+| 46 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Vygotskian Social Constructivism and ... | 160 |
 | 47 | [[Internalization]] | internalize | — | Vygotskian Social Constructivism and ... | 162 |
 | 48 | [[Private Speech]] | — | — | Vygotskian Social Constructivism and ... | 164 |
 | 49 | [[Scaffolding]] | — | — | Vygotskian Social Constructivism and ... | 166 |
 | 50 | [[Meriel Goos]] | — | — | Vygotskian Social Constructivism and ... | 166 |
-| 51 | [[Working Memory]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
+| 51 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
 | 52 | [[John Sweller]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
-| 53 | [[Cognitive Load Theory]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
+| 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load and Metacognitive Reso... | 173 |
 | 54 | [[George Miller]] | — | — | Cognitive Load and Metacognitive Reso... | 175 |
 | 55 | [[Nelson Cowan]] | — | — | Cognitive Load and Metacognitive Reso... | 175 |
 | 56 | [[Schemas in Long-Term Memory]] | — | — | Cognitive Load and Metacognitive Reso... | 177 |
 | 57 | [[Automation]] | — | — | Cognitive Load and Metacognitive Reso... | 177 |
-| 58 | [[Critical Thinking]] | — | — | 🤔 Metacognition and Critical Thinking... | 189 |
+| 58 | [[Critical-Thinking|Critical Thinking]] | — | — | 🤔 Metacognition and Critical Thinking... | 189 |
 | 59 | [[Peter Facione]] | — | — | The Facione Delphi Consensus and Meta... | 193 |
 | 60 | [[Facione]] | — | — | The Facione Delphi Consensus and Meta... | 207 |
 | 61 | [[Richard Paul]] | — | — | The Paul-Elder Framework and Metacogn... | 214 |
 | 62 | [[Linda Elder]] | — | — | The Paul-Elder Framework and Metacogn... | 214 |
-| 63 | [[Metacognitive Calibration]] | — | — | Metacognitive Calibration and Epistem... | 227 |
-| 64 | [[Dunning Kruger Effect]] | Dunning-Kruger Effect | — | Metacognitive Calibration and Epistem... | 229 |
-| 65 | [[Epistemic Cognition]] | — | — | Metacognitive Calibration and Epistem... | 231 |
+| 63 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Metacognitive Calibration and Epistem... | 227 |
+| 64 | [[Dunning-Kruger-Effect|Dunning Kruger Effect]] | Dunning-Kruger Effect | — | Metacognitive Calibration and Epistem... | 229 |
+| 65 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | Metacognitive Calibration and Epistem... | 231 |
 | 66 | [[William Perry]] | — | — | Metacognitive Calibration and Epistem... | 231 |
-| 67 | [[Myside Bias]] | — | — | The Reflexive Nature of Critical Thin... | 242 |
-| 68 | [[Self-Regulated Learning]] | — | — | 🎯 Metacognition and Self-Regulated Le... | 249 |
-| 69 | [[Barry Zimmerman]] | — | — | Zimmerman's Cyclical Phase Model | 256 |
+| 67 | [[Myside-Bias|Myside Bias]] | — | — | The Reflexive Nature of Critical Thin... | 242 |
+| 68 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Metacognition and Self-Regulated Le... | 249 |
+| 69 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Zimmerman's Cyclical Phase Model | 256 |
 | 70 | [[Adaptive Expertise]] | — | — | The Cyclical Nature of Self-Regulation | 273 |
 | 71 | [[Paul Pintrich]] | — | — | Pintrich's Integration of Motivation ... | 280 |
 | 72 | [[Motivated Strategies for Learning Questionnaire]] | — | — | Pintrich's Integration of Motivation ... | 282 |
 | 73 | [[Philip Winne]] | — | — | Winne and Hadwin's Information Proces... | 288 |
 | 74 | [[Allyson Hadwin]] | — | — | Winne and Hadwin's Information Proces... | 288 |
-| 75 | [[Implementation Intentions]] | — | — | From Self-Regulated Learning to Self-... | 299 |
-| 76 | [[Habit Formation]] | — | — | From Self-Regulated Learning to Self-... | 301 |
+| 75 | [[Implementation-Intentions|Implementation Intentions]] | — | — | From Self-Regulated Learning to Self-... | 299 |
+| 76 | [[Habit-Formation|Habit Formation]] | — | — | From Self-Regulated Learning to Self-... | 301 |
 | 77 | [[Active Learning]] | — | — | The Common Metacognitive Core | 314 |
 | 78 | [[obsidian]] | — | — | Practical Implications for Learning S... | 327 |
 | 79 | [[Charlotte Dignath]] | — | — | Meta-Analytic Evidence | 353 |
@@ -605,33 +605,33 @@ extraction_summary:
 | 93 | [[obsidian]] | — | — | Personal Knowledge Management Applica... | 395 |
 | 94 | [[Roam Research]] | — | — | Personal Knowledge Management Applica... | 395 |
 | 95 | [[Zettelkasten]] | — | — | Personal Knowledge Management Applica... | 395 |
-| 96 | [[Atomic Notes]] | — | — | Personal Knowledge Management Applica... | 397 |
+| 96 | [[Atomic-Notes|Atomic Notes]] | — | — | Personal Knowledge Management Applica... | 397 |
 | 97 | [[Tiago Forte]] | — | — | Personal Knowledge Management Applica... | 399 |
 | 98 | [[Zettelkasten]] | — | — | Personal Knowledge Management Applica... | 401 |
 | 99 | [[K. Anders Ericsson]] | — | — | Professional Development and Expert P... | 405 |
-| 100 | [[Donald Schön]] | — | — | Professional Development and Expert P... | 407 |
+| 100 | [[Donald-Schön|Donald Schön]] | — | — | Professional Development and Expert P... | 407 |
 | 101 | [[Hakwan Lau]] | — | — | Computational Modeling of Metacognition | 420 |
 | 102 | [[Socially Shared Metacognition]] | — | — | Social and Collaborative Metacognition | 432 |
 | 103 | [[Vygotsky]] | — | — | Social and Collaborative Metacognition | 434 |
 | 104 | [[Flavell]] | — | — | 💡 Synthesis and Conclusion | 461 |
-| 105 | [[Epistemic Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 474 |
+| 105 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | 🔗 Related Topics for PKB Expansion | 474 |
 | 106 | [[Cognitive Load Theory and Metacognitive Resource Management]] | — | — | 🔗 Related Topics for PKB Expansion | 479 |
 | 107 | [[Metacognitive Calibration and the Dunning-Kruger Effect]] | — | — | 🔗 Related Topics for PKB Expansion | 484 |
 | 108 | [[Distributed Cognition and External Metacognitive Scaffolds]] | — | — | 🔗 Related Topics for PKB Expansion | 489 |
 | 109 | [[Metacognition]] | — | — | 📚 References & Resources | 565 |
 | 110 | [[Constructivism]] | — | — | 📚 References & Resources | 565 |
-| 111 | [[Critical Thinking]] | — | — | 📚 References & Resources | 565 |
-| 112 | [[Self-Regulated Learning]] | — | — | 📚 References & Resources | 565 |
-| 113 | [[Working Memory]] | — | — | 📚 References & Resources | 565 |
-| 114 | [[Cognitive Load Theory]] | — | — | 📚 References & Resources | 565 |
+| 111 | [[Critical-Thinking|Critical Thinking]] | — | — | 📚 References & Resources | 565 |
+| 112 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 📚 References & Resources | 565 |
+| 113 | [[Working-Memory|Working Memory]] | — | — | 📚 References & Resources | 565 |
+| 114 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 References & Resources | 565 |
 | 115 | [[Andragogy]] | — | — | 📚 References & Resources | 565 |
 | 116 | [[Zettelkasten]] | — | — | 📚 References & Resources | 565 |
-| 117 | [[Personal Knowledge Management]] | — | — | 📚 References & Resources | 565 |
+| 117 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📚 References & Resources | 565 |
 | 118 | [[Executive Functions]] | — | — | 📚 References & Resources | 565 |
-| 119 | [[Epistemic Cognition]] | — | — | 📚 References & Resources | 565 |
+| 119 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | 📚 References & Resources | 565 |
 | 120 | [[Bloom's Taxonomy]] | — | — | 📚 References & Resources | 565 |
-| 121 | [[Zone of Proximal Development]] | — | — | 📚 References & Resources | 565 |
-| 122 | [[Distributed Cognition]] | — | — | 📚 References & Resources | 565 |
+| 121 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 📚 References & Resources | 565 |
+| 122 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 📚 References & Resources | 565 |
 
 ---
 
@@ -721,25 +721,25 @@ This requires the full academic report scaffold:
 - [[Annemarie Palincsar]]
 - [[Aristotle]]
 - [[Assimilation]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Automation]]
 - [[B.F. Skinner]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bloom's Taxonomy]]
 - [[Charlotte Dignath]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and Metacognitive Resource Management]]
 - [[Constructivism]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Diane Halpern]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition and External Metacognitive Scaffolds]]
-- [[Donald Schön]]
-- [[Dunning Kruger Effect]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön|Donald Schön]]
+- [[Dunning-Kruger-Effect|Dunning Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Tolman]]
 - [[Enlightenment]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Equilibration]]
 - [[Executive Functions]]
 - [[Facione]]
@@ -748,14 +748,14 @@ This requires the full academic report scaffold:
 - [[Flavell]]
 - [[George Miller]]
 - [[Gerhard Büttner]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hakwan Lau]]
 - [[Harvard Project Zero]]
 - [[Immanuel Kant]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Internalization]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Flavell]]
 - [[John Locke]]
 - [[John Sweller]]
@@ -765,19 +765,19 @@ This requires the full academic report scaffold:
 - [[Louis Narens]]
 - [[Meriel Goos]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Metacognitive Calibration and the Dunning-Kruger Effect]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metamemory]]
 - [[Michelene Chi]]
 - [[Motivated Strategies for Learning Questionnaire]]
-- [[Myside Bias]]
+- [[Myside-Bias|Myside Bias]]
 - [[Nelson Cowan]]
 - [[Paul Pintrich]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Personal Knowledge Bases]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Peter Facione]]
 - [[Philip Winne]]
 - [[Philippe Panadero]]
@@ -793,8 +793,8 @@ This requires the full academic report scaffold:
 - [[Scaffolding]]
 - [[Schemas]]
 - [[Schemas in Long-Term Memory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socially Shared Metacognition]]
 - [[St. Augustine]]
 - [[Stephen Fleming]]
@@ -805,10 +805,10 @@ This requires the full academic report scaffold:
 - [[Vygotsky's Sociocultural Theory]]
 - [[William James]]
 - [[William Perry]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zimmerman's Self-Regulation Model]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[obsidian]]
 
 ---

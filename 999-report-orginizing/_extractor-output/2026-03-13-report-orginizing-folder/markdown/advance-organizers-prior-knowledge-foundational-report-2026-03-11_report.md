@@ -148,7 +148,7 @@ extraction_summary:
 #### 2. [DEFINITION] Prior Knowledge *(Line 278)*
 
 > [!definition] Prior Knowledge
-> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic Memory|episodic memories]], and [[Mental Model|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
+> The totality of information, concepts, experiences, beliefs, and cognitive structures a learner brings to a new learning situation. Prior knowledge is not a simple inventory of facts but an organized architecture — a network of [[Schema|schemas]], [[Procedural Knowledge|procedures]], [[Episodic Memory|episodic memories]], and [[Mental-Models|mental models]] — that actively shapes how new information is perceived, interpreted, encoded, and retrieved. Crucially, prior knowledge can be relevant or irrelevant, accurate or inaccurate, elaborated or sparse, and these qualities dramatically affect whether activation helps or hinders learning.
 
 #### 3. [KEY-CLAIM] Prior Knowledge as Asymmetric Resource *(Line 285)*
 
@@ -190,7 +190,7 @@ extraction_summary:
 #### 10. [KEY-CLAIM] Schema-Driven Processing *(Line 336)*
 
 > [!key-claim] Schema-Driven Processing
-> According to schema theory, comprehension is not simply a matter of decoding text or instruction but of using existing schemas to generate predictions, interpret ambiguous information, and construct a coherent representation. A learner with a well-developed [[Prior Knowledge|prior knowledge]] schema for a domain does not need to process every piece of new information from scratch — the schema carries most of the interpretive work, making new information assimilable with relatively low cognitive effort. This is why domain experts learn new domain material faster and retain it better than novices, even controlling for working memory capacity.
+> According to schema theory, comprehension is not simply a matter of decoding text or instruction but of using existing schemas to generate predictions, interpret ambiguous information, and construct a coherent representation. A learner with a well-developed [[Prior-Knowledge|prior knowledge]] schema for a domain does not need to process every piece of new information from scratch — the schema carries most of the interpretive work, making new information assimilable with relatively low cognitive effort. This is why domain experts learn new domain material faster and retain it better than novices, even controlling for working memory capacity.
 
 #### 11. [EVIDENCE] Key Empirical Finding: Transfer vs. Retention *(Line 345)*
 
@@ -205,7 +205,7 @@ extraction_summary:
 #### 13. [COUNTER-ARGUMENT] The Inaccurate Prior Knowledge Problem *(Line 353)*
 
 > [!counter-argument] The Inaccurate Prior Knowledge Problem
-> One of the most important and underappreciated findings in this literature is that activating prior knowledge can be actively harmful when that knowledge is inaccurate. When learners hold misconceptions about a domain, activating those misconceptions through an advance organizer — whether comparative or expository — causes new, correct information to be assimilated into a distorted schema, producing confident but wrong representations that are more resistant to correction than no prior knowledge at all. This problem is addressed in the [[Conceptual Change Theory]] literature and constitutes a significant limitation on naive applications of the "activate prior knowledge" heuristic.
+> One of the most important and underappreciated findings in this literature is that activating prior knowledge can be actively harmful when that knowledge is inaccurate. When learners hold misconceptions about a domain, activating those misconceptions through an advance organizer — whether comparative or expository — causes new, correct information to be assimilated into a distorted schema, producing confident but wrong representations that are more resistant to correction than no prior knowledge at all. This problem is addressed in the [[Conceptual-Change-Theory|Conceptual Change Theory]] literature and constitutes a significant limitation on naive applications of the "activate prior knowledge" heuristic.
 
 #### 14. [REFLECTION] Engaging the Landscape *(Line 356)*
 
@@ -242,7 +242,7 @@ extraction_summary:
 #### 20. [WARNING] The Activation Paradox *(Line 390)*
 
 > [!warning] The Activation Paradox
-> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual Change Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
+> When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory|Conceptual Change Theory]], which should be treated as a necessary companion to any serious application of the advance organizer framework. Practitioners who apply prior knowledge activation strategies without first diagnosing the accuracy of existing knowledge are working with a dangerously incomplete toolkit.
 
 #### 21. [THOUGHT-EXPERIMENT] The Expert Paradox *(Line 393)*
 
@@ -301,7 +301,7 @@ extraction_summary:
 > [!best-practice] Prompt Pattern 3: PKB-Linked Schema Activation
 > For reports generated within a PKB context where the reader has documented prior knowledge (in the form of existing report nodes), the prompt can include direct links to activate specific existing nodes:
 > 
-> *"This report builds on [[Schema Theory]] and connects to [[Cognitive Load Theory]]. In Phase I, include a 2–3 sentence connection that explicitly links the new topic to these existing nodes, framing the new report as an elaboration or application rather than a fresh start. Use the specific terminology and frameworks established in those nodes."*
+> *"This report builds on [[Schema-Theory|Schema Theory]] and connects to [[Cognitive-Load-Theory|Cognitive Load Theory]]. In Phase I, include a 2–3 sentence connection that explicitly links the new topic to these existing nodes, framing the new report as an elaboration or application rather than a fresh start. Use the specific terminology and frameworks established in those nodes."*
 > 
 > This pattern is especially powerful in a knowledge-graph context because it leverages the existing PKB architecture as a source of precisely the kind of anchoring ideas that Ausubel argued were necessary for meaningful learning.
 
@@ -317,7 +317,7 @@ extraction_summary:
 #### 31. [OBSERVATION] The PKB as Cumulative Prior Knowledge Architecture *(Line 467)*
 
 > [!observation] The PKB as Cumulative Prior Knowledge Architecture
-> The PKB you are building through these Foundational Reports is itself a form of advance organizer infrastructure. Each report, by creating an evergreen node linked to adjacent concepts via wiki-links and explicit connections, is extending the associative network of prior knowledge that future reports can draw upon. When a new report on [[Conceptual Change Theory]] is generated, the existing nodes on [[Schema Theory]], [[Growth Mindset]], and [[Advance Organizers]] become the anchoring structures — the subsumers — into which new material can be meaningfully assimilated. The PKB's cumulative architecture is, in Ausubel's terms, a deliberately engineered cognitive field designed to make all subsequent learning more meaningful.
+> The PKB you are building through these Foundational Reports is itself a form of advance organizer infrastructure. Each report, by creating an evergreen node linked to adjacent concepts via wiki-links and explicit connections, is extending the associative network of prior knowledge that future reports can draw upon. When a new report on [[Conceptual-Change-Theory|Conceptual Change Theory]] is generated, the existing nodes on [[Schema-Theory|Schema Theory]], [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]], and [[Advance Organizers]] become the anchoring structures — the subsumers — into which new material can be meaningfully assimilated. The PKB's cumulative architecture is, in Ausubel's terms, a deliberately engineered cognitive field designed to make all subsequent learning more meaningful.
 
 #### 32. [IMPORTANT] Effect Size Modesty *(Line 472)*
 
@@ -346,19 +346,19 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> This report on [[Advance Organizers]] and [[Prior Knowledge Activation]] connects to existing and anticipated nodes in the PKB through several substantive pathways:
+> This report on [[Advance Organizers]] and [[Prior-Knowledge-Activation|Prior Knowledge Activation]] connects to existing and anticipated nodes in the PKB through several substantive pathways:
 > 
-> - **[[Schema Theory]]** — The foundational prerequisite for this report. Schema theory provides the cognitive architecture within which advance organizers operate: activating relevant schemas is precisely what a comparative organizer does, and building new superordinate schemas is what expository organizers attempt. These two nodes are in a directly hierarchical relationship: schema theory is the mechanism-level account; advance organizers are a specific instructional operationalization of that mechanism. Reading these nodes in sequence (schema theory first, then this report) provides the most complete picture.
+> - **[[Schema-Theory|Schema Theory]]** — The foundational prerequisite for this report. Schema theory provides the cognitive architecture within which advance organizers operate: activating relevant schemas is precisely what a comparative organizer does, and building new superordinate schemas is what expository organizers attempt. These two nodes are in a directly hierarchical relationship: schema theory is the mechanism-level account; advance organizers are a specific instructional operationalization of that mechanism. Reading these nodes in sequence (schema theory first, then this report) provides the most complete picture.
 > 
-> - **[[Cognitive Load Theory]]** — Flagged as high-priority across multiple PKB nodes, CLT provides the most powerful mechanistic bridge between advance organizers and learning outcomes. The organizer's function of reducing intrinsic cognitive load (by chunking new material into existing schemas) and potentially increasing germane load (by encouraging elaborative integration) is exactly the kind of claim CLT is designed to evaluate. When the CLT node is generated, the advance organizer research will serve as one of its most important empirical application domains.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Flagged as high-priority across multiple PKB nodes, CLT provides the most powerful mechanistic bridge between advance organizers and learning outcomes. The organizer's function of reducing intrinsic cognitive load (by chunking new material into existing schemas) and potentially increasing germane load (by encouraging elaborative integration) is exactly the kind of claim CLT is designed to evaluate. When the CLT node is generated, the advance organizer research will serve as one of its most important empirical application domains.
 > 
 > - **[[Metacognition & Lifelong Learning]]** — Prior knowledge activation is most reliably implemented by learners who have developed metacognitive awareness of their own knowledge states — who know what they know, notice when they don't understand, and strategically seek to activate relevant prior knowledge. The "Before You Begin" reflective prompts in Foundational Reports are metacognitive scaffolding that invites this awareness. These two nodes support each other: metacognition enables prior knowledge activation; activation strategies, when practiced deliberately, develop metacognitive skill.
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — There is a reciprocal relationship between effective feedback and prior knowledge activation: feedback about errors in understanding is most useful when learners have the prior knowledge to interpret and integrate it; and prior knowledge, when active, shapes how feedback is received (and whether it produces assimilation or accommodation). The connections between these nodes become most visible in the context of the misconception problem — feedback designed to produce conceptual change requires careful attention to the same dynamics of schema activation and resistance that advance organizer research identifies.
 > 
-> - **[[Growth Mindset]]** — Students who hold a growth mindset (intelligence as developable rather than fixed) are more likely to engage in effortful prior knowledge activation strategies, more likely to persist when new material does not immediately connect to existing schemas, and more likely to tolerate the discomfort of schema revision when prior knowledge turns out to be inaccurate. The motivational and epistemic dimensions of learning are not separable from the cognitive architecture dimensions — which is what makes the PKB's integration of these adjacent nodes intellectually valuable.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Students who hold a growth mindset (intelligence as developable rather than fixed) are more likely to engage in effortful prior knowledge activation strategies, more likely to persist when new material does not immediately connect to existing schemas, and more likely to tolerate the discomfort of schema revision when prior knowledge turns out to be inaccurate. The motivational and epistemic dimensions of learning are not separable from the cognitive architecture dimensions — which is what makes the PKB's integration of these adjacent nodes intellectually valuable.
 > 
-> The pattern of connections across these nodes reveals an important architectural truth about the PKB cluster being built here: [[Schema Theory]], [[Cognitive Load Theory]], [[Metacognition]], [[Feedback Design]], and [[Advance Organizers]] are not parallel independent topics — they are different perspectives on the same underlying phenomenon, which is the structural integration of new knowledge with existing knowledge. A comprehensive understanding requires all of these nodes, and their explicit linking in the PKB creates more value than any single node provides alone.
+> The pattern of connections across these nodes reveals an important architectural truth about the PKB cluster being built here: [[Schema-Theory|Schema Theory]], [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Metacognition]], [[Feedback-Design|Feedback Design]], and [[Advance Organizers]] are not parallel independent topics — they are different perspectives on the same underlying phenomenon, which is the structural integration of new knowledge with existing knowledge. A comprehensive understanding requires all of these nodes, and their explicit linking in the PKB creates more value than any single node provides alone.
 
 #### 37. [REFLECTION] Integration and Forward Momentum *(Line 523)*
 
@@ -400,12 +400,12 @@ extraction_summary:
 #### 44. [DEFINITION] Expository Organizer *(Line 552)*
 
 > [!definition] Expository Organizer
-> A type of advance organizer used when learners lack relevant prior knowledge. Provides new, superordinate conceptual scaffolding at a higher level of abstraction than the material to follow, giving the learner a framework into which new specific material can be organized. Compare: [[Comparative Organizer]].
+> A type of advance organizer used when learners lack relevant prior knowledge. Provides new, superordinate conceptual scaffolding at a higher level of abstraction than the material to follow, giving the learner a framework into which new specific material can be organized. Compare: [[Comparative-Organizer|Comparative Organizer]].
 
 #### 45. [DEFINITION] Comparative Organizer *(Line 555)*
 
 > [!definition] Comparative Organizer
-> A type of advance organizer used when learners have relevant prior knowledge. Draws explicit parallels between existing knowledge structures and new material, facilitating transfer while clearly delineating the boundaries of the comparison. Compare: [[Expository Organizer]].
+> A type of advance organizer used when learners have relevant prior knowledge. Draws explicit parallels between existing knowledge structures and new material, facilitating transfer while clearly delineating the boundaries of the comparison. Compare: [[Expository-Organizer|Expository Organizer]].
 
 #### 46. [DEFINITION] Obliterative Subsumption *(Line 558)*
 
@@ -469,13 +469,13 @@ extraction_summary:
 #### 57. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 601)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Conceptual Change Theory]]
+> > [!topic-idea] [[Conceptual-Change-Theory|Conceptual Change Theory]]
 > > When prior knowledge is not merely absent but actively wrong, advance organizers and standard activation strategies can backfire — amplifying misconceptions rather than correcting them. Conceptual change theory addresses how learners revise deeply held but incorrect beliefs, identifying the conditions under which new information is powerful enough to reorganize existing schemas rather than being assimilated into them. A Foundational Report on this topic would cover Posner, Strike, Hewson & Gertzog's original framework, the refutation text literature, and recent work on knowledge-in-pieces approaches. **Priority: High** — directly completes the most important limitation identified in this report.
 > 
-> > [!topic-idea] [[Transfer of Learning]]
+> > [!topic-idea] [[Transfer-of-Learning|Transfer of Learning]]
 > > Advance organizers were specifically found by Mayer to benefit transfer more than retention — which means understanding transfer is necessary for understanding the organizer's deepest contribution. A Foundational Report on transfer would cover Thorndike's identical elements theory, Gick & Holyoak's analogical transfer research, Bransford & Schwartz's preparation for future learning framework, and the conditions that make transfer near vs. far, near vs. spontaneous. **Priority: High** — flagged from multiple PKB nodes; central to the applied value of learning science.
 > 
-> > [!topic-idea] [[Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > > Flagged as high-priority across Schema Theory, Metacognition, and this report. CLT provides the most mechanistically precise account of why advance organizers and prior knowledge activation produce their benefits — by reducing intrinsic load and enabling germane load to be allocated to schema construction. A full Foundational Report on CLT would cover Sweller's three load types, the expertise reversal effect (which directly explains why organizers don't help experts), and the worked examples effect. **Priority: High** — essential for the PKB's mechanistic layer.
 > 
 > > [!topic-idea] [[Retrieval Practice & Testing Effect]]
@@ -487,7 +487,7 @@ extraction_summary:
 > > [!topic-idea] [[Prompt Engineering for Educational AI]]
 > > The practical extension of this report's Phase V into a full design framework. How should AI-assisted learning systems (tutors, report generators, knowledge tools) incorporate prior knowledge activation principles? What prompt architectures produce genuine schema activation rather than generic orientation? How do PKB-linked knowledge graphs change the prompt engineering calculus? **Priority: Medium** — directly applicable to the PKB project and an area of active practical relevance.
 > 
-> > [!topic-idea] [[Self-Regulated Learning]]
+> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 > > Prior knowledge activation, when executed by learners themselves rather than instructors, is a metacognitive and self-regulatory behavior — knowing what you know, deliberately accessing it, and strategically connecting it to new material. A Foundational Report on SRL (flagged as high-priority from the Feedback Design report) would ground the activation strategies in the broader framework of learner agency and cognitive self-management. **Priority: High** — already flagged; this report adds further motivation.
 
 ---
@@ -507,50 +507,50 @@ extraction_summary:
 - [[Assimilation Theory]]
 - [[Ausubel]]
 - [[Bridging Analogies]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
-- [[Comparative Organizer]]
-- [[Conceptual Change Theory]]
-- [[David Ausubel]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Comparative-Organizer|Comparative Organizer]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
+- [[David-Ausubel|David Ausubel]]
 - [[Dochy, Segers & Buehl (1999)]]
 - [[Donna Ogle]]
-- [[Elaborative Interrogation]]
-- [[Episodic Memory]]
-- [[Expository Organizer]]
-- [[Feedback Design]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Episodic-Memory|Episodic Memory]]
+- [[Expository-Organizer|Expository Organizer]]
+- [[Feedback-Design|Feedback Design]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Foundational Report Generator v1.0]]
 - [[Frances Lawton]]
 - [[Frederic Bartlett]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Jean Piaget]]
 - [[John Bransford]]
 - [[KWL Strategy]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Luiten, Ames & Ackerson (1980)]]
 - [[Mayer (1979)]]
-- [[Mental Model]]
+- [[Mental-Model|Mental Model]]
 - [[Metacognition]]
 - [[Metacognition & Lifelong Learning]]
 - [[Patricia Alexander]]
 - [[Piaget]]
 - [[Pre-questioning]]
-- [[Prior Knowledge]]
-- [[Prior Knowledge Activation]]
+- [[Prior-Knowledge|Prior Knowledge]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Procedural Knowledge]]
 - [[Prompt Engineering for Educational AI]]
 - [[Retrieval Practice & Testing Effect]]
 - [[Richard Anderson]]
 - [[Richard Mayer]]
 - [[Schema]]
-- [[Schema Theory]]
-- [[Self-Regulated Learning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Stone (1983)]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample Bias]]
 - [[Woloshyn, Pressley & Schneider (1992)]]
-- [[Working Memory]]
-- [[Working Memory Capacity]]
+- [[Working-Memory|Working Memory]]
+- [[Working-Memory-Capacity|Working Memory Capacity]]
 - [[claude-sonnet-4-6]]
 
 ### All Occurrences
@@ -558,34 +558,34 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Advance Organizers]] | — | — | Phase I: Orientation & Context Setting | 259 |
-| 2 | [[Prior Knowledge Activation]] | — | — | Phase I: Orientation & Context Setting | 259 |
-| 3 | [[David Ausubel]] | — | — | Phase I: Orientation & Context Setting | 259 |
+| 2 | [[Prior-Knowledge-Activation|Prior Knowledge Activation]] | — | — | Phase I: Orientation & Context Setting | 259 |
+| 3 | [[David-Ausubel|David Ausubel]] | — | — | Phase I: Orientation & Context Setting | 259 |
 | 4 | [[Schema]] | schemas | — | Phase I: Orientation & Context Setting | 261 |
 | 5 | [[Advance Organizers]] | — | — | Phase I: Orientation & Context Setting | 263 |
-| 6 | [[Elaborative Interrogation]] | — | — | Phase I: Orientation & Context Setting | 263 |
+| 6 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Phase I: Orientation & Context Setting | 263 |
 | 7 | [[KWL Strategy]] | — | — | Phase I: Orientation & Context Setting | 263 |
 | 8 | [[Bridging Analogies]] | — | — | Phase I: Orientation & Context Setting | 263 |
 | 9 | [[Pre-questioning]] | — | — | Phase I: Orientation & Context Setting | 263 |
-| 10 | [[Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 263 |
-| 11 | [[Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 263 |
-| 12 | [[Transfer of Learning]] | — | — | Phase I: Orientation & Context Setting | 263 |
-| 13 | [[Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 265 |
+| 10 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 263 |
+| 11 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 263 |
+| 12 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Phase I: Orientation & Context Setting | 263 |
+| 13 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 265 |
 | 14 | [[Schema]] | schemas | — | What Prior Knowledge Is — and Why It ... | 279 |
 | 15 | [[Procedural Knowledge]] | procedures | — | What Prior Knowledge Is — and Why It ... | 279 |
-| 16 | [[Episodic Memory]] | episodic memories | — | What Prior Knowledge Is — and Why It ... | 279 |
-| 17 | [[Mental Model]] | mental models | — | What Prior Knowledge Is — and Why It ... | 279 |
-| 18 | [[Long-Term Memory]] | — | — | What Prior Knowledge Is — and Why It ... | 281 |
+| 16 | [[Episodic-Memory|Episodic Memory]] | episodic memories | — | What Prior Knowledge Is — and Why It ... | 279 |
+| 17 | [[Mental-Model|Mental Model]] | mental models | — | What Prior Knowledge Is — and Why It ... | 279 |
+| 18 | [[Long-Term-Memory|Long-Term Memory]] | — | — | What Prior Knowledge Is — and Why It ... | 281 |
 | 19 | [[Dochy, Segers & Buehl (1999)]] | — | — | What Prior Knowledge Is — and Why It ... | 283 |
 | 20 | [[Patricia Alexander]] | — | — | What Prior Knowledge Is — and Why It ... | 286 |
 | 21 | [[Ausubel]] | — | — | Defining Advance Organizers | 295 |
-| 22 | [[David Ausubel]] | — | — | Ausubel's Assimilation Theory | 323 |
+| 22 | [[David-Ausubel|David Ausubel]] | — | — | Ausubel's Assimilation Theory | 323 |
 | 23 | [[Assimilation Theory]] | — | — | Ausubel's Assimilation Theory | 323 |
-| 24 | [[Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 332 |
+| 24 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 25 | [[Frederic Bartlett]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 26 | [[Jean Piaget]] | — | — | Schema Theory and the Constructivist ... | 332 |
 | 27 | [[Richard Anderson]] | — | — | Schema Theory and the Constructivist ... | 332 |
-| 28 | [[Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 334 |
-| 29 | [[Prior Knowledge]] | prior knowledge | — | Schema Theory and the Constructivist ... | 337 |
+| 28 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and the Constructivist ... | 334 |
+| 29 | [[Prior-Knowledge|Prior Knowledge]] | prior knowledge | — | Schema Theory and the Constructivist ... | 337 |
 | 30 | [[John Bransford]] | — | — | Schema Theory and the Constructivist ... | 339 |
 | 31 | [[Ann Brown]] | — | — | Schema Theory and the Constructivist ... | 339 |
 | 32 | [[Luiten, Ames & Ackerson (1980)]] | — | — | The Empirical Debate: Do Advance Orga... | 343 |
@@ -594,48 +594,48 @@ extraction_summary:
 | 35 | [[Richard Mayer]] | — | — | The Empirical Debate: Do Advance Orga... | 349 |
 | 36 | [[Frances Lawton]] | — | — | The Empirical Debate: Do Advance Orga... | 349 |
 | 37 | [[Alexander, Kulikowich & Schulze (1994)]] | — | — | The Empirical Debate: Do Advance Orga... | 351 |
-| 38 | [[Conceptual Change Theory]] | — | — | The Empirical Debate: Do Advance Orga... | 354 |
-| 39 | [[Working Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
-| 40 | [[Long-Term Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
-| 41 | [[Cognitive Load]] | — | — | The Cognitive Architecture of Organiz... | 367 |
+| 38 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | The Empirical Debate: Do Advance Orga... | 354 |
+| 39 | [[Working-Memory|Working Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
+| 40 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Cognitive Architecture of Organiz... | 367 |
+| 41 | [[Cognitive-Load|Cognitive Load]] | — | — | The Cognitive Architecture of Organiz... | 367 |
 | 42 | [[Piaget]] | — | — | What Happens When Prior Knowledge Act... | 388 |
-| 43 | [[Conceptual Change Theory]] | — | — | What Happens When Prior Knowledge Act... | 391 |
+| 43 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | What Happens When Prior Knowledge Act... | 391 |
 | 44 | [[KWL Strategy]] | — | — | Advance Organizer Design: A Practitio... | 416 |
 | 45 | [[Donna Ogle]] | — | — | Advance Organizer Design: A Practitio... | 416 |
-| 46 | [[Elaborative Interrogation]] | — | — | Beyond Classic Organizers: Activation... | 420 |
+| 46 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Beyond Classic Organizers: Activation... | 420 |
 | 47 | [[Pre-questioning]] | — | — | Beyond Classic Organizers: Activation... | 420 |
 | 48 | [[Bridging Analogies]] | — | — | Beyond Classic Organizers: Activation... | 420 |
 | 49 | [[Woloshyn, Pressley & Schneider (1992)]] | — | — | Beyond Classic Organizers: Activation... | 423 |
-| 50 | [[Schema Theory]] | — | — | Application: Prompting AI Systems to ... | 456 |
-| 51 | [[Cognitive Load Theory]] | — | — | Application: Prompting AI Systems to ... | 456 |
-| 52 | [[Conceptual Change Theory]] | — | — | Application: Prompting AI Systems to ... | 468 |
-| 53 | [[Schema Theory]] | — | — | Application: Prompting AI Systems to ... | 468 |
-| 54 | [[Growth Mindset]] | — | — | Application: Prompting AI Systems to ... | 468 |
+| 50 | [[Schema-Theory|Schema Theory]] | — | — | Application: Prompting AI Systems to ... | 456 |
+| 51 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Application: Prompting AI Systems to ... | 456 |
+| 52 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Application: Prompting AI Systems to ... | 468 |
+| 53 | [[Schema-Theory|Schema Theory]] | — | — | Application: Prompting AI Systems to ... | 468 |
+| 54 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Application: Prompting AI Systems to ... | 468 |
 | 55 | [[Advance Organizers]] | — | — | Application: Prompting AI Systems to ... | 468 |
 | 56 | [[WEIRD-Sample Bias]] | — | — | Limitations and Boundary Conditions | 479 |
 | 57 | [[Pre-questioning]] | — | — | The Coherent Picture | 494 |
-| 58 | [[Working Memory Capacity]] | — | — | Unresolved Questions | 504 |
+| 58 | [[Working-Memory-Capacity|Working Memory Capacity]] | — | — | Unresolved Questions | 504 |
 | 59 | [[Advance Organizers]] | — | — | Unresolved Questions | 509 |
-| 60 | [[Prior Knowledge Activation]] | — | — | Unresolved Questions | 509 |
-| 61 | [[Schema Theory]] | — | — | Unresolved Questions | 511 |
-| 62 | [[Cognitive Load Theory]] | — | — | Unresolved Questions | 513 |
+| 60 | [[Prior-Knowledge-Activation|Prior Knowledge Activation]] | — | — | Unresolved Questions | 509 |
+| 61 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 511 |
+| 62 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 513 |
 | 63 | [[Metacognition & Lifelong Learning]] | — | — | Unresolved Questions | 515 |
 | 64 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 517 |
-| 65 | [[Growth Mindset]] | — | — | Unresolved Questions | 519 |
-| 66 | [[Schema Theory]] | — | — | Unresolved Questions | 521 |
-| 67 | [[Cognitive Load Theory]] | — | — | Unresolved Questions | 521 |
+| 65 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Unresolved Questions | 519 |
+| 66 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 521 |
+| 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 521 |
 | 68 | [[Metacognition]] | — | — | Unresolved Questions | 521 |
-| 69 | [[Feedback Design]] | — | — | Unresolved Questions | 521 |
+| 69 | [[Feedback-Design|Feedback Design]] | — | — | Unresolved Questions | 521 |
 | 70 | [[Advance Organizers]] | — | — | Unresolved Questions | 521 |
-| 71 | [[Comparative Organizer]] | — | — | A. Lexicon of Key Terms | 553 |
-| 72 | [[Expository Organizer]] | — | — | A. Lexicon of Key Terms | 556 |
-| 73 | [[Conceptual Change Theory]] | — | — | D. Expansion Topics | 603 |
-| 74 | [[Transfer of Learning]] | — | — | D. Expansion Topics | 606 |
-| 75 | [[Cognitive Load Theory]] | — | — | D. Expansion Topics | 609 |
+| 71 | [[Comparative-Organizer|Comparative Organizer]] | — | — | A. Lexicon of Key Terms | 553 |
+| 72 | [[Expository-Organizer|Expository Organizer]] | — | — | A. Lexicon of Key Terms | 556 |
+| 73 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | D. Expansion Topics | 603 |
+| 74 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | D. Expansion Topics | 606 |
+| 75 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 609 |
 | 76 | [[Retrieval Practice & Testing Effect]] | — | — | D. Expansion Topics | 612 |
 | 77 | [[Analogical Reasoning in Instruction]] | — | — | D. Expansion Topics | 615 |
 | 78 | [[Prompt Engineering for Educational AI]] | — | — | D. Expansion Topics | 618 |
-| 79 | [[Self-Regulated Learning]] | — | — | D. Expansion Topics | 621 |
+| 79 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | D. Expansion Topics | 621 |
 | 80 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 626 |
 | 81 | [[claude-sonnet-4-6]] | — | — | D. Expansion Topics | 626 |
 
@@ -655,78 +655,78 @@ extraction_summary:
 - [[Assimilation Theory]]
 - [[Ausubel]]
 - [[Bridging Analogies]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
-- [[Comparative Organizer]]
-- [[Conceptual Change Theory]]
-- [[David Ausubel]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Comparative-Organizer|Comparative Organizer]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
+- [[David-Ausubel|David Ausubel]]
 - [[Dochy, Segers & Buehl (1999)]]
 - [[Donna Ogle]]
-- [[Elaborative Interrogation]]
-- [[Episodic Memory]]
-- [[Expository Organizer]]
-- [[Feedback Design]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Episodic-Memory|Episodic Memory]]
+- [[Expository-Organizer|Expository Organizer]]
+- [[Feedback-Design|Feedback Design]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Foundational Report Generator v1.0]]
 - [[Frances Lawton]]
 - [[Frederic Bartlett]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Jean Piaget]]
 - [[John Bransford]]
 - [[KWL Strategy]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Luiten, Ames & Ackerson (1980)]]
 - [[Mayer (1979)]]
-- [[Mental Model]]
+- [[Mental-Model|Mental Model]]
 - [[Metacognition]]
 - [[Metacognition & Lifelong Learning]]
 - [[Patricia Alexander]]
 - [[Piaget]]
 - [[Pre-questioning]]
-- [[Prior Knowledge]]
-- [[Prior Knowledge Activation]]
+- [[Prior-Knowledge|Prior Knowledge]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
 - [[Procedural Knowledge]]
 - [[Prompt Engineering for Educational AI]]
 - [[Retrieval Practice & Testing Effect]]
 - [[Richard Anderson]]
 - [[Richard Mayer]]
 - [[Schema]]
-- [[Schema Theory]]
-- [[Self-Regulated Learning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Stone (1983)]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[WEIRD-Sample Bias]]
 - [[Woloshyn, Pressley & Schneider (1992)]]
-- [[Working Memory]]
-- [[Working Memory Capacity]]
+- [[Working-Memory|Working Memory]]
+- [[Working-Memory-Capacity|Working Memory Capacity]]
 - [[claude-sonnet-4-6]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Schema Theory]]
-- [[Cognitive Architecture (Working Memory & Long-Term Memory)]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]
 
 #### Related
 
-- [[Schema Theory]]
-- [[Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Metacognition & Lifelong Learning]]
-- [[Self-Regulated Learning]]
-- [[Transfer of Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 
 #### Broader
 
-- [[Instructional Design]]
-- [[Cognitive Psychology]]
-- [[Educational Psychology]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[KWL Strategy]]
 - [[Bridging Analogies]]
 - [[Concept Mapping as Organizer]]
@@ -734,9 +734,9 @@ extraction_summary:
 #### See Also
 
 - [[Worked Examples Effect]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Spaced Practice]]
-- [[Analogical Reasoning]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 
 #### Contrasts With
 
@@ -754,15 +754,15 @@ extraction_summary:
 
 #### Builds On
 
-- [[Schema Theory]]
-- [[Cognitive Architecture (Working Memory & Long-Term Memory)]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Architecture|Cognitive Architecture (Working Memory & Long-Term Memory)]]
 - [[Meaningful Learning Theory]]
 
 #### Enables
 
-- [[Transfer of Learning]]
-- [[Conceptual Change Theory]]
-- [[Self-Regulated Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Inquiry-Based Learning Design & Evidence]]
 - [[Prompt Engineering for Educational AI]]
 

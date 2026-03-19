@@ -167,7 +167,7 @@ extraction_summary:
 > - *How did the* **historical development** *of this idea* **shape** *our current understanding?*
 >     - Beck's cognitive model represented a paradigm shift in clinical psychology. Prior to this work, the dominant explanatory frameworks for depression were either psychoanalytic (emphasizing unconscious conflicts and early childhood experiences) or biological (emphasizing neurotransmitter imbalances). Beck's model offered a third way: it acknowledged the psychological nature of depression while providing a specific, testable mechanism—biased information processing—that could be targeted through structured therapeutic interventions. This cognitive revolution had profound implications. It suggested that psychological suffering was not necessarily the result of deep-seated unconscious conflicts requiring years of analysis to uncover, nor was it purely a brain chemistry problem requiring lifelong medication. Instead, it proposed that much psychological distress resulted from learned patterns of thinking that could, in principle, be unlearned and replaced with more adaptive patterns. This was tremendously empowering for both clinicians and patients, as it placed the locus of change within reach of conscious, systematic effort.
 > - *Are there any* **abandoned theories** *that are as interesting as the current one?*
->     - One fascinating alternative theory that has received less attention in recent decades is Martin Seligman's [[learned helplessness]] model of depression, developed in the 1970s. Seligman's theory, based on experiments with dogs exposed to inescapable shock, proposed that depression resulted from learning that one's actions have no effect on outcomes—a profound sense of lack of control. While this model generated tremendous research interest and led to the development of the [[explanatory style]] concept (the characteristic way individuals explain negative events to themselves), it was eventually integrated with Beck's cognitive model rather than displacing it. The synthesis of these approaches—recognizing both cognitive distortions and attributional style as important factors—reflects the field's movement toward integrative, multi-factor models of psychopathology.
+>     - One fascinating alternative theory that has received less attention in recent decades is Martin Seligman's [[Learned-Helplessness|learned helplessness]] model of depression, developed in the 1970s. Seligman's theory, based on experiments with dogs exposed to inescapable shock, proposed that depression resulted from learning that one's actions have no effect on outcomes—a profound sense of lack of control. While this model generated tremendous research interest and led to the development of the [[explanatory style]] concept (the characteristic way individuals explain negative events to themselves), it was eventually integrated with Beck's cognitive model rather than displacing it. The synthesis of these approaches—recognizing both cognitive distortions and attributional style as important factors—reflects the field's movement toward integrative, multi-factor models of psychopathology.
 
 #### 7. [QUOTE] Untitled *(Line 102)*
 
@@ -185,7 +185,7 @@ extraction_summary:
 > **Core Principle 1: Cognitive Mediation**
 > The first and most fundamental principle is that of [[cognitive mediation]]: *Our emotional and behavioral responses to events are not determined directly by the events themselves, but rather by how we interpret, evaluate, and assign meaning to those events.* This principle, though seemingly simple, has profound implications. It means that the same event—let's say, giving a presentation that receives mixed feedback—can produce entirely different emotional responses in different individuals (or even in the same individual at different times) depending on how it is interpreted. Person A, interpreting the mixed feedback as "some people appreciated my ideas while others had different perspectives," may feel satisfied with the learning experience. Person B, interpreting the same feedback through a lens of "I embarrassed myself and everyone thinks I'm incompetent," may experience shame, anxiety, and a desire to avoid future presentations.
 > 
-> This principle of cognitive mediation is not merely theoretical. Experimental studies have repeatedly demonstrated that manipulating interpretations of events changes emotional responses, even when the events themselves remain constant. For instance, research on [[Cognitive Reappraisal]]—the deliberate reinterpretation of emotional situations—has shown that people instructed to view an anxiety-provoking situation in a different light (e.g., viewing an upcoming exam as an opportunity to demonstrate knowledge rather than a threat to self-worth) experience reduced physiological stress responses and report less anxiety.[^13]
+> This principle of cognitive mediation is not merely theoretical. Experimental studies have repeatedly demonstrated that manipulating interpretations of events changes emotional responses, even when the events themselves remain constant. For instance, research on [[Cognitive-Reappraisal|Cognitive Reappraisal]]—the deliberate reinterpretation of emotional situations—has shown that people instructed to view an anxiety-provoking situation in a different light (e.g., viewing an upcoming exam as an opportunity to demonstrate knowledge rather than a threat to self-worth) experience reduced physiological stress responses and report less anxiety.[^13]
 > 
 > The practical implication of this principle is both liberating and challenging. It is liberating because it means that if we can change how we interpret events, we can change how we feel about them—emotional experience is not hopelessly determined by circumstances. It is challenging because it means that simply knowing this principle intellectually is not enough; changing interpretations requires conscious effort, practice, and often the support of structured interventions like CBT.
 
@@ -203,7 +203,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > **Core Principle 2: Automaticity and the Dual-Process Model**
-> The second foundational principle concerns the [[automaticity]] of negative thoughts and relates to what cognitive scientists call [[Dual-Process Theory]]. According to this framework, human cognition operates through two distinct systems: System 1 (automatic, fast, intuitive, effortless) and System 2 (controlled, slow, analytical, effortful). Automatic negative thoughts are products of System 1 processing—they occur rapidly, without conscious deliberation, and feel immediately true. This is why telling someone who is depressed to "just think positive" is ineffective; their negative thoughts are not products of conscious, deliberate System 2 reasoning that can simply be overridden by decision.
+> The second foundational principle concerns the [[automaticity]] of negative thoughts and relates to what cognitive scientists call [[Dual-Process-Theory|Dual-Process Theory]]. According to this framework, human cognition operates through two distinct systems: System 1 (automatic, fast, intuitive, effortless) and System 2 (controlled, slow, analytical, effortful). Automatic negative thoughts are products of System 1 processing—they occur rapidly, without conscious deliberation, and feel immediately true. This is why telling someone who is depressed to "just think positive" is ineffective; their negative thoughts are not products of conscious, deliberate System 2 reasoning that can simply be overridden by decision.
 > 
 > The automaticity of these thoughts makes them particularly powerful and difficult to combat. Because they occur so quickly and beneath conscious awareness, individuals often act on them without recognizing that an interpretation has even taken place. The thought "I'm going to mess this up" feels not like an interpretation but like a fact about the world. This perceived veracity of automatic thoughts is what makes them so influential on behavior and emotion.[^15]
 > 
@@ -225,7 +225,7 @@ extraction_summary:
 > 
 > **Biased Interpretation**: Ambiguous information is interpreted in ways consistent with existing schemas. A neutral facial expression from a colleague is interpreted as disapproval or disinterest by someone with negative self-schemas, whereas someone with positive self-schemas might interpret the same expression as thoughtful attention or neutral observation.
 > 
-> **Selective Memory**: People tend to recall past experiences that confirm their schemas more easily than experiences that contradict them. This is a form of [[Confirmation Bias]]—the tendency to search for, interpret, and recall information in ways that confirm one's preexisting beliefs. A person with a "failure" schema might vividly recall past mistakes while forgetting or minimizing past successes.
+> **Selective Memory**: People tend to recall past experiences that confirm their schemas more easily than experiences that contradict them. This is a form of [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]—the tendency to search for, interpret, and recall information in ways that confirm one's preexisting beliefs. A person with a "failure" schema might vividly recall past mistakes while forgetting or minimizing past successes.
 > 
 > **Discounting of Schema-Inconsistent Information**: Perhaps most insidiously, when faced with information that contradicts a negative schema, individuals often find ways to discount it. Compliments are dismissed ("They're just being nice"), successes are attributed to luck or external factors rather than ability ("I just got lucky on that exam"), and positive feedback is reinterpreted to fit the negative schema ("They probably feel sorry for me").[^16]
 > 
@@ -422,16 +422,16 @@ extraction_summary:
 - [[Automaticity]]
 - [[Cognition Checklist]]
 - [[Cognitive Distortions]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Theory]]
 - [[Cognitive Triad]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Compassion-Focused Therapy]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Default Mode Network]]
 - [[Developmental Psychopathology]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Lifespan Development Theory]]
 - [[Major Depressive Disorder]]
 - [[Metacognition]]
@@ -460,7 +460,7 @@ extraction_summary:
 - [[functional connectivity]]
 - [[functional magnetic resonance imaging]]
 - [[inferior parietal lobule]]
-- [[learned helplessness]]
+- [[Learned-Helplessness|learned helplessness]]
 - [[medial prefrontal cortex]]
 - [[mood induction procedures]]
 - [[neuroticism]]
@@ -499,7 +499,7 @@ extraction_summary:
 | 18 | [[Rumination]] | — | — | 1.0 📜 INTRODUCTION | 63 |
 | 19 | [[cognitive restructuring]] | — | — | 1.0 📜 INTRODUCTION | 63 |
 | 20 | [[quote-the-greatest-discovery-of-my-generation-is-that-human-beings-20251030223012]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 71 |
-| 21 | [[learned helplessness]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
+| 21 | [[Learned-Helplessness|learned helplessness]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
 | 22 | [[explanatory style]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 79 |
 | 23 | [[Cognitive Triad]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 81 |
 | 24 | [[cognitive schemas]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
@@ -509,12 +509,12 @@ extraction_summary:
 | 28 | [[Cognitive-Behavioral Therapy]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 108 |
 | 29 | [[quote-the-greatest-weapon-against-stress-is-our-ability-to-choose-one-thought-over-another-20251030232208]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 114 |
 | 30 | [[cognitive mediation]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
-| 31 | [[Cognitive Reappraisal]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 122 |
+| 31 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 122 |
 | 32 | [[automaticity]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 134 |
-| 33 | [[Dual-Process Theory]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 134 |
+| 33 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 134 |
 | 34 | [[Automaticity]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 141 |
 | 35 | [[cognitive schemas]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 146 |
-| 36 | [[Confirmation Bias]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 152 |
+| 36 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 152 |
 | 37 | [[Automatic negative thoughts]] | — | — | 4.1 THE GENESIS OF AUTOMATIC THOUGHTS | 164 |
 | 38 | [[core beliefs]] | — | — | 4.1 THE GENESIS OF AUTOMATIC THOUGHTS | 164 |
 | 39 | [[automatic thoughts]] | — | — | 4.1 THE GENESIS OF AUTOMATIC THOUGHTS | 174 |
@@ -674,16 +674,16 @@ I'll conduct comprehensive research on negative self-talk, its psychological fou
 - [[Automaticity]]
 - [[Cognition Checklist]]
 - [[Cognitive Distortions]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Restructuring]]
 - [[Cognitive Theory]]
 - [[Cognitive Triad]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Compassion-Focused Therapy]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Default Mode Network]]
 - [[Developmental Psychopathology]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Lifespan Development Theory]]
 - [[Major Depressive Disorder]]
 - [[Metacognition]]
@@ -712,7 +712,7 @@ I'll conduct comprehensive research on negative self-talk, its psychological fou
 - [[functional connectivity]]
 - [[functional magnetic resonance imaging]]
 - [[inferior parietal lobule]]
-- [[learned helplessness]]
+- [[Learned-Helplessness|learned helplessness]]
 - [[medial prefrontal cortex]]
 - [[mood induction procedures]]
 - [[neuroticism]]

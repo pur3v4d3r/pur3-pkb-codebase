@@ -153,12 +153,12 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 133)*
 
 > [!abstract] Untitled
-> [[Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
+> [[Basic Psychological Needs Theory]] represents one of the most empirically validated frameworks for understanding human motivation, optimal functioning, and sustained engagement across all life domains. As a cornerstone mini-theory within [[Self-Determination-Theory|Self-Determination Theory]], BPNT proposes that three universal psychological nutrients—[[Autonomy]], [[Competence]], and [[Relatedness]]—function as essential requirements for psychological growth, well-being, and high-performance functioning. When these needs are satisfied, individuals demonstrate enhanced [[Intrinsic-Motivation|Intrinsic Motivation]], superior cognitive performance, greater psychological resilience, and sustainable engagement in complex cognitive tasks. Conversely, need frustration precipitates vulnerability to psychopathology, decreased performance quality, and impaired self-regulatory capacity. This comprehensive analysis explores how BPNT provides the foundational motivational architecture that enables effective [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and sustained high performance in demanding knowledge work contexts, integrating neurobiological evidence with practical applications for cognitive system design.
 
 #### 4. [DEFINITION] Untitled *(Line 138)*
 
 > [!definition] Untitled
-> **Basic Psychological Needs Theory (BPNT)** is a mini-theory within [[Self-Determination Theory]] that formally defines *basic psychological needs* as universal, innate psychological nutrients that are essential for psychological growth, integrity, and optimal functioning across all human beings, regardless of culture, gender, or developmental stage. The theory posits that **autonomy** (experiencing psychological freedom and volitional functioning), **competence** (feeling effective and capable in one's environment), and **relatedness** (experiencing genuine connection and care with others) constitute the complete set of fundamental psychological requirements. These needs are not mere preferences or culturally constructed desires but rather evolved specifications of the necessary conditions for psychological health—their satisfaction predicts well-being and thriving, while their frustration constitutes a vulnerability factor for psychopathology and maladaptive functioning.
+> **Basic Psychological Needs Theory (BPNT)** is a mini-theory within [[Self-Determination-Theory|Self-Determination Theory]] that formally defines *basic psychological needs* as universal, innate psychological nutrients that are essential for psychological growth, integrity, and optimal functioning across all human beings, regardless of culture, gender, or developmental stage. The theory posits that **autonomy** (experiencing psychological freedom and volitional functioning), **competence** (feeling effective and capable in one's environment), and **relatedness** (experiencing genuine connection and care with others) constitute the complete set of fundamental psychological requirements. These needs are not mere preferences or culturally constructed desires but rather evolved specifications of the necessary conditions for psychological health—their satisfaction predicts well-being and thriving, while their frustration constitutes a vulnerability factor for psychopathology and maladaptive functioning.
 
 #### 5. [THE-PHILOSOPHY] Untitled *(Line 143)*
 
@@ -190,7 +190,7 @@ extraction_summary:
 #### 10. [EXAMPLE] Untitled *(Line 192)*
 
 > [!example] Untitled
-> In the context of [[Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
+> In the context of [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], competence satisfaction manifests when learners successfully apply [[Metacognitive Strategies]] to overcome learning challenges, when they observe measurable progress in skill development, or when they successfully transfer knowledge to novel problem contexts. The subjective experience of "I can do this" or "I'm getting better" reflects competence need satisfaction and directly fuels continued engagement with demanding learning tasks.
 
 #### 11. [PRINCIPLE-POINT] Untitled *(Line 201)*
 
@@ -242,13 +242,13 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Integration with Existing Cognitive Frameworks**
 > 
-> Basic Psychological Needs Theory demonstrates profound connections to multiple frameworks within Pur3v4d3r's developing knowledge base. The relationship to [[Self-Determination Theory]] as the parent macro-theory provides the broader context for understanding how BPNT fits within a comprehensive account of human motivation. The integration with [[Self-Regulated Learning]] illuminates how motivational quality determines self-regulatory capacity—autonomous motivation supported by need satisfaction enables the sustained metacognitive effort required for effective self-regulation.
+> Basic Psychological Needs Theory demonstrates profound connections to multiple frameworks within Pur3v4d3r's developing knowledge base. The relationship to [[Self-Determination-Theory|Self-Determination Theory]] as the parent macro-theory provides the broader context for understanding how BPNT fits within a comprehensive account of human motivation. The integration with [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] illuminates how motivational quality determines self-regulatory capacity—autonomous motivation supported by need satisfaction enables the sustained metacognitive effort required for effective self-regulation.
 > 
 > The connection to [[Neuroplasticity]] proves particularly significant, as chronic need satisfaction appears to produce structural brain changes in motivational circuitry, while need frustration may impair neural development in these same regions. This suggests that creating need-supportive learning environments doesn't merely optimize current functioning but actually shapes the biological substrate supporting future motivation and self-regulation.
 > 
-> The relationship to [[Stoicism]] and psychological resilience frameworks reveals how philosophical practices can function as need-preserving technologies under adversity. [[Cognitive Reappraisal]] strategies central to Stoic practice help maintain autonomy satisfaction by reframing uncontrollable externals, thereby preventing catastrophic need frustration during inevitable difficulties.
+> The relationship to [[Stoicism]] and psychological resilience frameworks reveals how philosophical practices can function as need-preserving technologies under adversity. [[Cognitive-Reappraisal|Cognitive Reappraisal]] strategies central to Stoic practice help maintain autonomy satisfaction by reframing uncontrollable externals, thereby preventing catastrophic need frustration during inevitable difficulties.
 > 
-> Finally, the connection to [[Personal Knowledge Management]] systems and [[Zettelkasten]] methodology demonstrates how theoretical principles translate into practical system design. A cognitively aligned PKB should embody need-supportive architecture—providing autonomy through emergent organization, supporting competence through progressive elaboration, and fostering relatedness through contribution to meaningful knowledge communities.
+> Finally, the connection to [[Personal-Knowledge-Management|Personal Knowledge Management]] systems and [[Zettelkasten]] methodology demonstrates how theoretical principles translate into practical system design. A cognitively aligned PKB should embody need-supportive architecture—providing autonomy through emergent organization, supporting competence through progressive elaboration, and fostering relatedness through contribution to meaningful knowledge communities.
 
 #### 19. [SUMMARY] Untitled *(Line 315)*
 
@@ -304,40 +304,40 @@ extraction_summary:
 - [[Autonomy]]
 - [[Basic Psychological Needs Theory]]
 - [[Behaviorist]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Reappraisal]]
-- [[Communities of Practice]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
+- [[Communities-of-Practice|Communities of Practice]]
 - [[Competence]]
-- [[Dichotomy of Control]]
-- [[Distributed Cognition]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Edward Deci]]
 - [[Eudaimonia]]
 - [[Extrinsic Motivation]]
 - [[Flow State]]
 - [[Flow Theory]]
 - [[Goal-Setting Theory]]
-- [[Integrated Regulation]]
+- [[Integrated-Regulation|Integrated Regulation]]
 - [[Interleaving]]
 - [[Internalization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
 - [[Metacognitive Strategies]]
 - [[Mindfulness and Need Satisfaction]]
 - [[Neuroplasticity]]
-- [[Organismic Integration Theory]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
-- [[Premeditatio Malorum]]
-- [[Progressive Summarization]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Relatedness]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Ryan]]
 - [[Robert White]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Spacing Effect]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Stoicism]]
 - [[View from Above]]
 - [[Zettelkasten]]
@@ -348,65 +348,65 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Analysis of Basic Psychological Needs Theory as the Foundational Architecture for Self-Regulated Learning and High-Performance Knowledge Work]] | — | — | Analysis of Basic Psychological Needs... | 44 |
 | 2 | [[Basic Psychological Needs Theory]] | — | — | Claude Thinking: | 110 |
-| 3 | [[Self-Determination Theory]] | — | — | Claude Thinking: | 110 |
-| 4 | [[Self-Regulated Learning]] | — | — | Claude Thinking: | 110 |
+| 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Claude Thinking: | 110 |
+| 4 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Claude Thinking: | 110 |
 | 5 | [[Autonomy]] | — | — | Claude Thinking: | 110 |
 | 6 | [[Competence]] | — | — | Claude Thinking: | 110 |
 | 7 | [[Relatedness]] | — | — | Claude Thinking: | 110 |
-| 8 | [[Intrinsic Motivation]] | — | — | Claude Thinking: | 110 |
+| 8 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking: | 110 |
 | 9 | [[Extrinsic Motivation]] | — | — | Claude Thinking: | 110 |
 | 10 | [[Internalization]] | — | — | Claude Thinking: | 110 |
-| 11 | [[Integrated Regulation]] | — | — | Claude Thinking: | 110 |
+| 11 | [[Integrated-Regulation|Integrated Regulation]] | — | — | Claude Thinking: | 110 |
 | 12 | [[Neuroplasticity]] | — | — | Claude Thinking: | 110 |
-| 13 | [[Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
+| 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 110 |
 | 14 | [[Flow State]] | — | — | Claude Thinking: | 110 |
 | 15 | [[Metacognition]] | — | — | Claude Thinking: | 110 |
 | 16 | [[Goal-Setting Theory]] | — | — | Claude Thinking: | 110 |
 | 17 | [[Basic Psychological Needs Theory]] | — | — | 🎯 Abstract | 134 |
-| 18 | [[Self-Determination Theory]] | — | — | 🎯 Abstract | 134 |
+| 18 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🎯 Abstract | 134 |
 | 19 | [[Autonomy]] | — | — | 🎯 Abstract | 134 |
 | 20 | [[Competence]] | — | — | 🎯 Abstract | 134 |
 | 21 | [[Relatedness]] | — | — | 🎯 Abstract | 134 |
-| 22 | [[Intrinsic Motivation]] | — | — | 🎯 Abstract | 134 |
-| 23 | [[Self-Regulated Learning]] | — | — | 🎯 Abstract | 134 |
-| 24 | [[Self-Determination Theory]] | — | — | 📖 Definition of Basic Psychological N... | 139 |
+| 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🎯 Abstract | 134 |
+| 23 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎯 Abstract | 134 |
+| 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📖 Definition of Basic Psychological N... | 139 |
 | 25 | [[Edward Deci]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
 | 26 | [[Richard Ryan]] | — | — | 🏛️ The Philosophical Foundation & Cor... | 146 |
-| 27 | [[Intrinsic Motivation]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
+| 27 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 28 | [[Behaviorist]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
-| 29 | [[Self-Determination Theory]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
+| 29 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Historical Development & Theoretica... | 154 |
 | 30 | [[Robert White]] | — | — | Competence: The Experience of Effectance | 188 |
-| 31 | [[Cognitive Evaluation Theory]] | — | — | Competence: The Experience of Effectance | 188 |
-| 32 | [[Self-Regulated Learning]] | — | — | Competence: The Experience of Effectance | 193 |
+| 31 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Competence: The Experience of Effectance | 188 |
+| 32 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Competence: The Experience of Effectance | 193 |
 | 33 | [[Metacognitive Strategies]] | — | — | Competence: The Experience of Effectance | 193 |
-| 34 | [[Cognitive Load Theory]] | — | — | Competence: The Experience of Effectance | 197 |
-| 35 | [[Communities of Practice]] | — | — | Relatedness: The Experience of Genuin... | 213 |
-| 36 | [[Self-Regulated Learning]] | — | — | 🔗 Integration with Self-Regulated Lea... | 217 |
-| 37 | [[Personal Knowledge Base]] | — | — | Practical Implications for Knowledge ... | 247 |
+| 34 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Competence: The Experience of Effectance | 197 |
+| 35 | [[Communities-of-Practice|Communities of Practice]] | — | — | Relatedness: The Experience of Genuin... | 213 |
+| 36 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Integration with Self-Regulated Lea... | 217 |
+| 37 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Practical Implications for Knowledge ... | 247 |
 | 38 | [[Zettelkasten]] | — | — | Practical Implications for Knowledge ... | 249 |
-| 39 | [[Distributed Cognition]] | — | — | Practical Implications for Knowledge ... | 253 |
+| 39 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Practical Implications for Knowledge ... | 253 |
 | 40 | [[Neuroplasticity]] | — | — | 🧠 Neurobiological Foundations: How Ne... | 259 |
-| 41 | [[Self-Regulated Learning]] | — | — | 🎓 Application to High-Performance Kno... | 285 |
+| 41 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🎓 Application to High-Performance Kno... | 285 |
 | 42 | [[Flow Theory]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
-| 43 | [[Spacing Effect]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
+| 43 | [[Spacing-Effect|Spacing Effect]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
 | 44 | [[Interleaving]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
-| 45 | [[Retrieval Practice]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
-| 46 | [[Progressive Summarization]] | — | — | 🎓 Application to High-Performance Kno... | 291 |
+| 45 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 🎓 Application to High-Performance Kno... | 289 |
+| 46 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🎓 Application to High-Performance Kno... | 291 |
 | 47 | [[Stoicism]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
 | 48 | [[Eudaimonia]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
-| 49 | [[Dichotomy of Control]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
-| 50 | [[Premeditatio Malorum]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
+| 49 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
+| 50 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
 | 51 | [[View from Above]] | — | — | 🎓 Application to High-Performance Kno... | 298 |
-| 52 | [[Self-Determination Theory]] | — | — | 🔗 Connections and Links | 305 |
-| 53 | [[Self-Regulated Learning]] | — | — | 🔗 Connections and Links | 305 |
+| 52 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔗 Connections and Links | 305 |
+| 53 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 🔗 Connections and Links | 305 |
 | 54 | [[Neuroplasticity]] | — | — | 🔗 Connections and Links | 307 |
 | 55 | [[Stoicism]] | — | — | 🔗 Connections and Links | 309 |
-| 56 | [[Cognitive Reappraisal]] | — | — | 🔗 Connections and Links | 309 |
-| 57 | [[Personal Knowledge Management]] | — | — | 🔗 Connections and Links | 311 |
+| 56 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | 🔗 Connections and Links | 309 |
+| 57 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Connections and Links | 311 |
 | 58 | [[Zettelkasten]] | — | — | 🔗 Connections and Links | 311 |
-| 59 | [[Cognitive Evaluation Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 331 |
-| 60 | [[Organismic Integration Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 336 |
-| 61 | [[Causality Orientations Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 341 |
+| 59 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 331 |
+| 60 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 336 |
+| 61 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 341 |
 | 62 | [[Mindfulness and Need Satisfaction]] | — | — | 🔗 Related Topics for PKB Expansion | 346 |
 
 ---
@@ -439,40 +439,40 @@ extraction_summary:
 - [[Autonomy]]
 - [[Basic Psychological Needs Theory]]
 - [[Behaviorist]]
-- [[Causality Orientations Theory]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Reappraisal]]
-- [[Communities of Practice]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
+- [[Communities-of-Practice|Communities of Practice]]
 - [[Competence]]
-- [[Dichotomy of Control]]
-- [[Distributed Cognition]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Edward Deci]]
 - [[Eudaimonia]]
 - [[Extrinsic Motivation]]
 - [[Flow State]]
 - [[Flow Theory]]
 - [[Goal-Setting Theory]]
-- [[Integrated Regulation]]
+- [[Integrated-Regulation|Integrated Regulation]]
 - [[Interleaving]]
 - [[Internalization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Metacognition]]
 - [[Metacognitive Strategies]]
 - [[Mindfulness and Need Satisfaction]]
 - [[Neuroplasticity]]
-- [[Organismic Integration Theory]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
-- [[Premeditatio Malorum]]
-- [[Progressive Summarization]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Relatedness]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Ryan]]
 - [[Robert White]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Spacing Effect]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Stoicism]]
 - [[View from Above]]
 - [[Zettelkasten]]

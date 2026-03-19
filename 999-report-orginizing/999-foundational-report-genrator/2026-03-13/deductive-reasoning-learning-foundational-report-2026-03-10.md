@@ -130,19 +130,19 @@ prerequisites:
   - "[[Basic Epistemology]]"
 
 related:
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
   - "[[Critical Thinking in Education]]"
   - "[[Metacognition & Lifelong Learning]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Fallibilism]]"
 
 broader:
   - "[[Reasoning and Rationality]]"
   - "[[Philosophy of Logic]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
 
 narrower:
   - "[[Syllogistic Reasoning]]"
@@ -151,15 +151,15 @@ narrower:
   - "[[Propositional Calculus in Education]]"
 
 see-also:
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Confirmation Bias & Epistemic Calibration]]"
-  - "[[Growth Mindset]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Metacognition & Critical Thinking]]"
 
 contrasts-with:
   - "[[Probabilistic Reasoning]]"
   - "[[Heuristic Reasoning]]"
-  - "[[Analogical Reasoning]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
 
 applied-in:
   - "[[Mathematics Education]]"
@@ -172,16 +172,16 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Inductive Reasoning]]"
-  - "[[Abductive Reasoning]]"
-  - "[[Schema Theory]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Abductive-Reasoning|Abductive Reasoning]]"
+  - "[[Schema-Theory|Schema Theory]]"
   - "[[Critical Thinking in Education]]"
 
 enables:
   - "[[Mathematical Proof and Formal Verification]]"
-  - "[[Argumentation Theory]]"
+  - "[[Argumentation-Theory|Argumentation Theory]]"
   - "[[Epistemology of Science]]"
-  - "[[Conceptual Change Theory]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
 
 expansion-topics:
   - topic: "[[Transfer of Learning and Deductive Skill]]"
@@ -259,7 +259,7 @@ generation-date: "2026-03-10"
 
 ## Phase I: Orientation & Context Setting
 
-Consider the opening move of Euclid's *Elements*, written around 300 BCE. From five spare postulates — including the famous fifth, about parallel lines — Euclid derived an entire geometry of the physical world. Every subsequent theorem was guaranteed to be true if the postulates were true, because each step followed from the last with logical necessity. There was no guessing, no extrapolation from examples, no hedged probability. Either the conclusion followed from the premises, or the argument was invalid. This is the power and the promise of [[deductive reasoning]]: it is the one form of human inference that, when executed correctly, transmits truth with certainty.
+Consider the opening move of Euclid's *Elements*, written around 300 BCE. From five spare postulates — including the famous fifth, about parallel lines — Euclid derived an entire geometry of the physical world. Every subsequent theorem was guaranteed to be true if the postulates were true, because each step followed from the last with logical necessity. There was no guessing, no extrapolation from examples, no hedged probability. Either the conclusion followed from the premises, or the argument was invalid. This is the power and the promise of [[Deductive-Reasoning|deductive reasoning]]: it is the one form of human inference that, when executed correctly, transmits truth with certainty.
 
 That guarantee has made deductive reasoning the gold standard of intellectual rigor across two and a half millennia of Western thought — from Aristotle's syllogistics to the predicate calculus of [[Gottlob Frege]], from Euclid's proofs to the formal verification of software systems. It has shaped the architecture of mathematics, the adversarial logic of courtrooms, the hypothetico-deductive method of empirical science, and the argumentative structure of philosophical dialogue. To understand deductive reasoning is to understand the backbone of structured inquiry.
 
@@ -267,7 +267,7 @@ Yet there is a deep and disquieting irony at the center of this story. Despite t
 
 This tension — between deduction's theoretical centrality and human deductive incompetence — is not merely an academic curiosity. It has profound implications for education. If deductive skill is neither automatic nor universal, it must be taught. And if it must be taught, educators need a rich understanding of what deductive reasoning actually is, how it operates cognitively, why it fails, and how instructional environments can cultivate it.
 
-This report addresses all of these questions. It establishes the conceptual foundations of deductive reasoning — carefully distinguishing it from [[inductive reasoning]] and [[abductive reasoning]], and tracing its intellectual genealogy from [[Aristotle]] to modern cognitive science. It maps the major theoretical frameworks that explain how humans actually perform deductive tasks, including [[Dual-Process Theory]], [[Mental Models Theory]], and schema-based accounts. It reveals the cognitive mechanisms that govern deductive success and failure, including the role of [[working memory]], [[belief bias]], and content effects. And it examines the pedagogical implications — how deductive skill can be cultivated in mathematics education, science education, and disciplinary reasoning more broadly.
+This report addresses all of these questions. It establishes the conceptual foundations of deductive reasoning — carefully distinguishing it from [[Inductive-Reasoning|inductive reasoning]] and [[Abductive-Reasoning|abductive reasoning]], and tracing its intellectual genealogy from [[Aristotle]] to modern cognitive science. It maps the major theoretical frameworks that explain how humans actually perform deductive tasks, including [[Dual-Process-Theory|Dual-Process Theory]], [[Mental Models Theory]], and schema-based accounts. It reveals the cognitive mechanisms that govern deductive success and failure, including the role of [[Working-Memory|working memory]], [[Belief-Bias|belief bias]], and content effects. And it examines the pedagogical implications — how deductive skill can be cultivated in mathematics education, science education, and disciplinary reasoning more broadly.
 
 The report is structured for readers who bring intelligence and curiosity to the topic but no assumed expertise in formal logic or cognitive psychology. Technical vocabulary is introduced precisely before being deployed, and illustrative examples anchor abstract principles throughout.
 
@@ -293,7 +293,7 @@ The core criterion for evaluating a deductive argument is **validity**, not trut
 
 ### The Canonical Forms: Syllogisms and Conditional Arguments
 
-The oldest formal treatment of deductive reasoning comes from [[Aristotle]]'s *Organon* (approximately 350 BCE). Aristotle identified the [[categorical syllogism]] — a deductive argument with two premises and a conclusion, each expressing a relationship between categories or classes of things. The most celebrated valid syllogistic form is:
+The oldest formal treatment of deductive reasoning comes from [[Aristotle]]'s *Organon* (approximately 350 BCE). Aristotle identified the [[Categorical-Syllogism|categorical syllogism]] — a deductive argument with two premises and a conclusion, each expressing a relationship between categories or classes of things. The most celebrated valid syllogistic form is:
 
 *All men are mortal. Socrates is a man. Therefore, Socrates is mortal.*
 
@@ -318,9 +318,9 @@ The fact that large numbers of educated adults accept these invalid forms as val
 
 The intellectual history of deductive logic follows a roughly continuous arc from Aristotle through to contemporary cognitive science and formal computer science. [[Aristotle]]'s syllogistic dominated for nearly two millennia — it was the central subject of medieval *disputatio*, the logical skeleton of scholastic theology, and a required component of European university education through the nineteenth century. The Aristotelian tradition treated deductive reasoning as the paradigm of scientific knowledge: certain, universal, and demonstrative.
 
-The tradition was transformed in the seventeenth century by [[Gottfried Wilhelm Leibniz]], who envisioned a *calculus ratiocinator* — a symbolic calculus for reasoning — and by the nineteenth-century algebraists of logic, especially [[George Boole]] and [[Augustus de Morgan]], who translated logic into algebraic form. But the pivotal revolution came with [[Gottlob Frege]]'s *Begriffsschrift* (1879), which introduced quantificational logic — the logic of "all" and "some" with complex relational structures — and provided the formal foundation for modern [[predicate calculus]]. Frege's logic, extended and refined by [[Bertrand Russell]] and [[Alfred North Whitehead]] in *Principia Mathematica* (1910–13), established the framework within which all subsequent formal systems have been developed.
+The tradition was transformed in the seventeenth century by [[Gottfried Wilhelm Leibniz]], who envisioned a *calculus ratiocinator* — a symbolic calculus for reasoning — and by the nineteenth-century algebraists of logic, especially [[George Boole]] and [[Augustus de Morgan]], who translated logic into algebraic form. But the pivotal revolution came with [[Gottlob Frege]]'s *Begriffsschrift* (1879), which introduced quantificational logic — the logic of "all" and "some" with complex relational structures — and provided the formal foundation for modern [[predicate calculus]]. Frege's logic, extended and refined by [[Bertrand Russell]] and [[Alfred-North-Whitehead|Alfred North Whitehead]] in *Principia Mathematica* (1910–13), established the framework within which all subsequent formal systems have been developed.
 
-The twentieth century added a new dimension: empirical inquiry into how human beings actually reason. The cognitive turn in psychology — marked by works like George Miller's "The Magical Number Seven" (1956) and the birth of [[cognitive science]] — made deductive reasoning a psychological phenomenon to be studied, not merely a normative ideal to be taught. The research tradition inaugurated by [[Peter Wason]] in the 1960s revealed a striking gap between the logical norms and human performance, generating decades of productive debate about the nature of human rationality.
+The twentieth century added a new dimension: empirical inquiry into how human beings actually reason. The cognitive turn in psychology — marked by works like George Miller's "The Magical Number Seven" (1956) and the birth of [[Cognitive-Science|cognitive science]] — made deductive reasoning a psychological phenomenon to be studied, not merely a normative ideal to be taught. The research tradition inaugurated by [[Peter Wason]] in the 1960s revealed a striking gap between the logical norms and human performance, generating decades of productive debate about the nature of human rationality.
 
 > [!key-claim]
 > The intellectual history of deduction reveals a fundamental tension that persists into the present: deductive reasoning is simultaneously the most rigorous form of inference available to humans and among the most cognitively demanding. Understanding this tension — and not simply celebrating deduction's formal power — is the starting point for any educationally useful theory of deductive skill development.
@@ -347,7 +347,7 @@ The theory predicts that difficulty in deductive reasoning is a function of the 
 > [!key-claim]
 > On the Mental Models account, deductive reasoning is not the application of formal rules but the construction, inspection, and manipulation of semantic representations. Validity is established not by formal proof but by asking: "Is there any model of the premises in which the conclusion is false?" If no such model can be found, the reasoner accepts the conclusion as valid — though they may miss possible models, producing systematic errors.
 
-The content effects documented in the [[Wason Selection Task]] and elsewhere receive a natural explanation on the mental models account: familiar, thematically rich content facilitates the construction of accurate mental models by leveraging [[long-term memory]] structures. Abstract content forces reasoners to construct models from scratch, stretching [[working memory]] and increasing error.
+The content effects documented in the [[Wason Selection Task]] and elsewhere receive a natural explanation on the mental models account: familiar, thematically rich content facilitates the construction of accurate mental models by leveraging [[Long-Term-Memory|long-term memory]] structures. Abstract content forces reasoners to construct models from scratch, stretching [[Working-Memory|working memory]] and increasing error.
 
 ### Formal Rule Theory
 
@@ -360,12 +360,12 @@ Formal rule theory can explain the ease of modus ponens and the difficulty of mu
 
 ### Dual-Process Theory
 
-A third framework, broadly influential across the psychology of reasoning, is [[Dual-Process Theory]], associated especially with [[Jonathan Evans]], [[Keith Stanovich]], and [[Daniel Kahneman]]. The framework distinguishes two types of cognitive processing: System 1 (fast, automatic, associative, intuitive, low-effort) and System 2 (slow, deliberate, rule-governed, effortful). Formal deductive reasoning, on this account, is a System 2 achievement — it requires suppressing System 1's rapid, heuristic responses in favour of careful, stepwise analysis.
+A third framework, broadly influential across the psychology of reasoning, is [[Dual-Process-Theory|Dual-Process Theory]], associated especially with [[Jonathan Evans]], [[Keith Stanovich]], and [[Daniel Kahneman]]. The framework distinguishes two types of cognitive processing: System 1 (fast, automatic, associative, intuitive, low-effort) and System 2 (slow, deliberate, rule-governed, effortful). Formal deductive reasoning, on this account, is a System 2 achievement — it requires suppressing System 1's rapid, heuristic responses in favour of careful, stepwise analysis.
 
 > [!definition] **System 1 / System 2 (Evans & Stanovich)**
 > System 1 processes are fast, automatic, and largely unconscious — they produce rapid intuitive responses by pattern-matching current input to stored associations. System 2 processes are slow, effortful, and consciously controlled — they enable sequential, rule-governed reasoning including formal deductive inference. In deductive tasks, System 1 often generates plausible but logically invalid responses based on belief or semantic content; valid deductive reasoning typically requires System 2 to override these responses.
 
-The dual-process framework explains [[belief bias]] — one of the most robust findings in the psychology of deduction — in a particularly satisfying way. Belief bias occurs when conclusions that are congruent with prior beliefs are accepted as valid even when the argument is invalid, and conclusions incongruent with beliefs are rejected even when the argument is valid. System 1 automatically evaluates the believability of conclusions and generates an accept/reject response; System 2, if engaged, evaluates logical validity — but when System 2 engagement is limited by cognitive load or motivational factors, System 1 dominates, and belief bias results.
+The dual-process framework explains [[Belief-Bias|belief bias]] — one of the most robust findings in the psychology of deduction — in a particularly satisfying way. Belief bias occurs when conclusions that are congruent with prior beliefs are accepted as valid even when the argument is invalid, and conclusions incongruent with beliefs are rejected even when the argument is valid. System 1 automatically evaluates the believability of conclusions and generates an accept/reject response; System 2, if engaged, evaluates logical validity — but when System 2 engagement is limited by cognitive load or motivational factors, System 1 dominates, and belief bias results.
 
 > [!evidence]
 > Evans, Barston, and Pollard's (1983) foundational belief bias studies presented participants with syllogisms that crossed logical validity (valid/invalid) with conclusion believability (believable/unbelievable). The results showed a clear interaction: validity affected acceptance rates, but so did believability, and the effect of believability was strongest for invalid arguments. The pattern has been replicated extensively across cultures and populations.
@@ -392,16 +392,16 @@ To understand how deductive reasoning operates in the mind, it is useful to trac
 Now present the same student with: "Some A's are B's. All B's are C's. What follows?" The problem is harder not because the logical structure has changed dramatically but because the model must represent the partial overlap between A's and B's, then trace the complete inclusion of B's in C's, and finally determine what follows about A's and C's. The valid conclusion — "Some A's are C's" — requires examining all possible configurations of the sets. Many students will mistakenly conclude "All A's are C's" (a common error of scope) or "No particular conclusion follows" (a failure of model completion).
 
 > [!thought-experiment] **The Multiple-Model Problem**
-> Imagine you are told: "None of the economists are historians. Some of the historians are philosophers." How many distinct states of affairs are consistent with these premises? You need to consider at least two: one in which some philosophers are economists, and one in which no philosophers are economists. A valid conclusion must hold across *all* possible models. If you only consider one model, you will likely draw an invalid conclusion. This is the central challenge of multi-model syllogisms — it is not a failure of logical understanding but a failure of mental bookkeeping under [[working memory]] load.
+> Imagine you are told: "None of the economists are historians. Some of the historians are philosophers." How many distinct states of affairs are consistent with these premises? You need to consider at least two: one in which some philosophers are economists, and one in which no philosophers are economists. A valid conclusion must hold across *all* possible models. If you only consider one model, you will likely draw an invalid conclusion. This is the central challenge of multi-model syllogisms — it is not a failure of logical understanding but a failure of mental bookkeeping under [[Working-Memory|working memory]] load.
 
 ### The Role of Working Memory
 
-The connection between deductive performance and [[working memory]] capacity is one of the most consistently documented findings in the cognitive science of reasoning. Working memory — the system responsible for temporarily holding and manipulating information during active cognitive processing — is the bottleneck for deductive inference. Each mental model constructed from the premises occupies working memory resources; additional models demand additional resources; and when capacity is exceeded, models are lost, leading to invalid conclusions.
+The connection between deductive performance and [[Working-Memory|working memory]] capacity is one of the most consistently documented findings in the cognitive science of reasoning. Working memory — the system responsible for temporarily holding and manipulating information during active cognitive processing — is the bottleneck for deductive inference. Each mental model constructed from the premises occupies working memory resources; additional models demand additional resources; and when capacity is exceeded, models are lost, leading to invalid conclusions.
 
-This working memory dependence has three important implications for education. First, it explains why deductive reasoning is developmentally late-emerging: the [[prefrontal cortex]] regions subserving working memory and executive control continue developing well into adolescence and early adulthood, meaning young children are intrinsically limited in their deductive capacity. Second, it implies that reducing extraneous [[cognitive load]] in deductive tasks — by using familiar content, providing external representations, or pre-teaching component concepts — can substantially improve performance. Third, it suggests that deliberate practice at deductive tasks may enhance performance partly by automating component sub-processes, freeing working memory for the harder integrative steps.
+This working memory dependence has three important implications for education. First, it explains why deductive reasoning is developmentally late-emerging: the [[prefrontal cortex]] regions subserving working memory and executive control continue developing well into adolescence and early adulthood, meaning young children are intrinsically limited in their deductive capacity. Second, it implies that reducing extraneous [[Cognitive-Load|cognitive load]] in deductive tasks — by using familiar content, providing external representations, or pre-teaching component concepts — can substantially improve performance. Third, it suggests that deliberate practice at deductive tasks may enhance performance partly by automating component sub-processes, freeing working memory for the harder integrative steps.
 
 > [!key-insight]
-> The [[Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
+> The [[Cognitive-Load-Theory|Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
 
 ### Belief Bias: When Prior Knowledge Corrupts Deduction
 
@@ -421,7 +421,7 @@ Beyond belief bias, the content of a deductive problem exerts powerful effects o
 
 [[Jean Piaget]]'s stage theory proposed that formal operational reasoning — the capacity to reason about abstract hypotheticals and logical relationships — emerges in adolescence (roughly 11–15 years). Subsequent research has both confirmed and complicated this picture. Preschool children demonstrate rudimentary modus ponens in narrative contexts; middle-school students handle simple categorical syllogisms competently; but the ability to handle multi-model syllogisms, to suppress belief bias reliably, and to execute modus tollens in abstract form continues developing through late adolescence and is never fully mastered by many adults.
 
-Individual differences in deductive performance are substantial and correlate with measures of [[working memory capacity]], [[fluid intelligence]] (Gf), and what Stanovich calls "[[actively open-minded thinking]]" — a disposition to seek evidence that might disconfirm one's current beliefs. This dispositional dimension is educationally important: it suggests that cultivating the right epistemic attitudes, not merely teaching formal rules, is central to deductive skill development.
+Individual differences in deductive performance are substantial and correlate with measures of [[Working-Memory-Capacity|working memory capacity]], [[fluid intelligence]] (Gf), and what Stanovich calls "[[Actively-Open-Minded-Thinking|actively open-minded thinking]]" — a disposition to seek evidence that might disconfirm one's current beliefs. This dispositional dimension is educationally important: it suggests that cultivating the right epistemic attitudes, not merely teaching formal rules, is central to deductive skill development.
 
 > [!reflection] **Understanding the Machinery**
 > 1. The connection between deductive performance and working memory implies that even with perfect understanding of logical rules, deductive skill is constrained by a resource that varies across individuals and developmental stages. What instructional implications follow from this? Should we prioritise teaching rules, building schemas, or managing cognitive load?
@@ -446,9 +446,9 @@ Research consistently shows that students struggle with proof for reasons that c
 
 ### Deductive Reasoning in Science Education
 
-The [[hypothetico-deductive method]] is the logical core of empirical science: a scientist formulates a hypothesis (H), deduces what observable results should follow if H is true (O), performs the experiment, and interprets the presence or absence of O accordingly. The deductive component — deriving observational predictions from theoretical hypotheses — is a form of modus ponens; the falsifying inference when predictions fail — "not-O, therefore not-H" — is a form of modus tollens.
+The [[Hypothetico-Deductive-Method|hypothetico-deductive method]] is the logical core of empirical science: a scientist formulates a hypothesis (H), deduces what observable results should follow if H is true (O), performs the experiment, and interprets the presence or absence of O accordingly. The deductive component — deriving observational predictions from theoretical hypotheses — is a form of modus ponens; the falsifying inference when predictions fail — "not-O, therefore not-H" — is a form of modus tollens.
 
-Understanding this structure is essential for science literacy. Students who lack a firm grasp of [[modus tollens]] cannot fully appreciate why a single disconfirming observation has the theoretical power to refute a universal hypothesis, while confirming observations can only lend probabilistic support. This is the logical basis of [[Karl Popper]]'s [[falsificationism]], and its mastery distinguishes students who understand the epistemological structure of science from those who merely know scientific facts.
+Understanding this structure is essential for science literacy. Students who lack a firm grasp of [[Modus-Tollens|modus tollens]] cannot fully appreciate why a single disconfirming observation has the theoretical power to refute a universal hypothesis, while confirming observations can only lend probabilistic support. This is the logical basis of [[Karl Popper]]'s [[falsificationism]], and its mastery distinguishes students who understand the epistemological structure of science from those who merely know scientific facts.
 
 > [!example] **Inquiry-Based Learning as Deductive Scaffolding**
 > Structured inquiry activities that require students to form explicit predictions before observing results scaffold the hypothetico-deductive method in a pedagogically accessible way. Explicitly asking students to state: "If my hypothesis is true, then I expect to observe X" — and then comparing observation to prediction — builds the conditional reasoning structure that underpins scientific inference. Activities that require students to explain *why* a disconfirming result refutes the hypothesis (rather than merely confirming that the experiment "didn't work") directly train modus tollens in a meaningful context.
@@ -499,24 +499,24 @@ This structural fluency is precisely what [[metacognition]] makes possible. [[Me
 
 Mastery of deductive reasoning provides the learner with a form of intellectual leverage that no other reasoning mode supplies: the ability to derive certain conclusions from accepted premises. This leverage is irreplaceable in any domain that requires demonstrative proof — mathematics above all, but also formal argumentation, algorithm correctness in computer science, and the derivation of testable predictions in empirical science. A learner who understands deduction understands why mathematical theorems are not merely generally true but *necessarily* true given the axioms; why a single counter-example refutes a universal claim; why argument evaluation must be separated from conclusion evaluation; and why the strength of an argument is not established by the authority of its author.
 
-More broadly, the disposition to seek deductive relationships — to ask "what must follow from what I already know?" — is a cognitive habit that enriches inquiry across all domains. It is the habit that Euclid institutionalised, that Newton deployed in *Principia Mathematica*, and that lawyers, logicians, programmers, and philosophers exercise daily. It is not sufficient for reasoning well in a complex, probabilistic world — [[inductive reasoning]] and [[abductive reasoning]] address what deduction cannot — but it is indispensable as one component of a complete repertoire.
+More broadly, the disposition to seek deductive relationships — to ask "what must follow from what I already know?" — is a cognitive habit that enriches inquiry across all domains. It is the habit that Euclid institutionalised, that Newton deployed in *Principia Mathematica*, and that lawyers, logicians, programmers, and philosophers exercise daily. It is not sufficient for reasoning well in a complex, probabilistic world — [[Inductive-Reasoning|inductive reasoning]] and [[Abductive-Reasoning|abductive reasoning]] address what deduction cannot — but it is indispensable as one component of a complete repertoire.
 
 ### Unresolved Questions
 
-Three significant open questions remain for both the science and pedagogy of deductive reasoning. The first is the transfer problem: under what conditions, if any, does deductive training in one domain produce measurable improvements in other domains? The second is the dual-process question: can System 2 deductive capacities be durably strengthened through instruction, or are they fundamentally limited by relatively fixed parameters like [[working memory]] capacity and fluid intelligence? The third is the metacognitive integration question: how does explicit metacognitive instruction interact with domain-specific deductive training to produce transferable skills?
+Three significant open questions remain for both the science and pedagogy of deductive reasoning. The first is the transfer problem: under what conditions, if any, does deductive training in one domain produce measurable improvements in other domains? The second is the dual-process question: can System 2 deductive capacities be durably strengthened through instruction, or are they fundamentally limited by relatively fixed parameters like [[Working-Memory|working memory]] capacity and fluid intelligence? The third is the metacognitive integration question: how does explicit metacognitive instruction interact with domain-specific deductive training to produce transferable skills?
 
 > [!connections-and-links]
 > **Internal PKB Connections**
 >
-> This report on [[Deductive Reasoning]] connects to existing knowledge in the PKB in the following ways:
+> This report on [[Deductive-Reasoning|Deductive Reasoning]] connects to existing knowledge in the PKB in the following ways:
 >
-> - **[[Inductive Reasoning]]** — The contrast between deduction and induction is not merely definitional but reveals a deep epistemological complementarity. Deduction is certainty-preserving but content-conservative — it extracts what is already implicit in the premises. Induction is content-amplifying but certainty-reducing — it goes beyond what the evidence strictly guarantees. The most sophisticated epistemic practice requires knowing when each mode is appropriate, which demands both a deductive and an inductive repertoire. The two reports together map the full terrain of non-abductive inference.
+> - **[[Inductive-Reasoning|Inductive Reasoning]]** — The contrast between deduction and induction is not merely definitional but reveals a deep epistemological complementarity. Deduction is certainty-preserving but content-conservative — it extracts what is already implicit in the premises. Induction is content-amplifying but certainty-reducing — it goes beyond what the evidence strictly guarantees. The most sophisticated epistemic practice requires knowing when each mode is appropriate, which demands both a deductive and an inductive repertoire. The two reports together map the full terrain of non-abductive inference.
 >
-> - **[[Abductive Reasoning]]** — Abductive reasoning (inference to the best explanation) is what drives hypothesis formation; deductive reasoning is what drives hypothesis testing. Together they constitute the core logical machinery of empirical inquiry. Understanding how they differ — and how they cooperate in scientific reasoning — is essential for science education and for any account of integrated reasoning competence.
+> - **[[Abductive-Reasoning|Abductive Reasoning]]** — Abductive reasoning (inference to the best explanation) is what drives hypothesis formation; deductive reasoning is what drives hypothesis testing. Together they constitute the core logical machinery of empirical inquiry. Understanding how they differ — and how they cooperate in scientific reasoning — is essential for science education and for any account of integrated reasoning competence.
 >
 > - **[[Metacognition & Critical Thinking]]** — The dual-process account of deductive failure places metacognitive skill at the center of deductive competence. Belief bias — the most practically significant deductive error — is overcome by metacognitive monitoring of one's own reasoning process: detecting the System 1 "feels true" signal and overriding it with System 2 evaluation. The metacognition reports in the PKB provide the mechanisms that explain *how* deductive competence is sustained under conditions of motivated reasoning and belief challenge.
 >
-> - **[[Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
+> - **[[Schema-Theory|Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
 >
 > - **[[Critical Thinking in Education]]** — Deductive reasoning is one of the core competencies subsumed under the broader concept of critical thinking, but it is frequently conflated with critical thinking in general. The current report provides the precise technical specification of what deductive skill involves; the Critical Thinking in Education report provides the broader pedagogical framework within which deductive instruction should be situated.
 >
@@ -621,4 +621,4 @@ Three significant open questions remain for both the science and pedagogy of ded
 
 ---
 
-*Generated by [[Foundational Report Generator v1.0]] · [[Deductive Reasoning]] · March 10, 2026*
+*Generated by [[Foundational Report Generator v1.0]] · [[Deductive-Reasoning|Deductive Reasoning]] · March 10, 2026*

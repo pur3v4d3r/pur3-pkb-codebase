@@ -374,12 +374,12 @@ extraction_summary:
 - [[C. Thi Nguyen]]
 - [[Cass Sunstein]]
 - [[Collective Intelligence Design Patterns]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Dan Sperber]]
 - [[Daniel Kahneman]]
 - [[Deliberative Democracy as Epistemic Practice]]
 - [[Dialogical Courage]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
 - [[Edwin Hutchins]]
 - [[Epistemic Injustice]]
@@ -387,10 +387,10 @@ extraction_summary:
 - [[Gregory Vlastos]]
 - [[Groupthink]]
 - [[Hermeneutical Humility]]
-- [[Hermeneutical Injustice]]
+- [[Hermeneutical-Injustice|Hermeneutical Injustice]]
 - [[Hugo Mercier]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Irving Janis]]
 - [[James Surowiecki]]
 - [[Keith Stanovich]]
@@ -399,10 +399,10 @@ extraction_summary:
 - [[Report 14]]
 - [[Report 15]]
 - [[Social Epistemic Virtue]]
-- [[Social Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socratic Elenchus]]
-- [[Socratic Method]]
-- [[Testimonial Injustice]]
+- [[Socratic-Method|Socratic Method]]
+- [[Testimonial-Injustice|Testimonial Injustice]]
 - [[Testimonial Sensitivity]]
 - [[The Epistemology of Scientific Consensus]]
 
@@ -411,7 +411,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Edwin Hutchins]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
-| 2 | [[Distributed Cognition]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
+| 2 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 3 | [[Hugo Mercier]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 4 | [[Dan Sperber]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
 | 5 | [[Argumentative Theory of Reasoning]] | — | — | Phase I 🧭 The Premise: The Individual... | 188 |
@@ -423,29 +423,29 @@ extraction_summary:
 | 11 | [[Keith Stanovich]] | — | — | The Argumentative Theory of Reasoning | 204 |
 | 12 | [[Hugo Mercier]] | — | — | The Argumentative Theory of Reasoning | 206 |
 | 13 | [[Dan Sperber]] | — | — | The Argumentative Theory of Reasoning | 206 |
-| 14 | [[Confirmation Bias]] | — | — | The Argumentative Theory of Reasoning | 211 |
+| 14 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | The Argumentative Theory of Reasoning | 211 |
 | 15 | [[Edwin Hutchins]] | — | — | Distributed Cognition | 217 |
-| 16 | [[Distributed Cognition]] | — | — | Distributed Cognition | 217 |
+| 16 | [[Distributed-Cognition|Distributed Cognition]] | — | — | Distributed Cognition | 217 |
 | 17 | [[Miranda Fricker]] | — | — | Epistemic Injustice | 230 |
-| 18 | [[Social Epistemology]] | — | — | Social Epistemology and the Condition... | 244 |
+| 18 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Social Epistemology and the Condition... | 244 |
 | 19 | [[James Surowiecki]] | — | — | Social Epistemology and the Condition... | 244 |
 | 20 | [[Irving Janis]] | — | — | Social Epistemology and the Condition... | 244 |
 | 21 | [[Groupthink]] | — | — | Social Epistemology and the Condition... | 244 |
 | 22 | [[Cass Sunstein]] | — | — | Social Epistemology and the Condition... | 247 |
 | 23 | [[Alvin Goldman]] | — | — | Social Epistemology and the Condition... | 249 |
 | 24 | [[C. Thi Nguyen]] | — | — | Social Epistemology and the Condition... | 251 |
-| 25 | [[Socratic Method]] | — | — | The Master Homology: Socratic Dialect... | 265 |
+| 25 | [[Socratic-Method|Socratic Method]] | — | — | The Master Homology: Socratic Dialect... | 265 |
 | 26 | [[Argumentative Theory of Reasoning]] | — | — | The Master Homology: Socratic Dialect... | 265 |
 | 27 | [[Gregory Vlastos]] | — | — | The Master Homology: Socratic Dialect... | 267 |
 | 28 | [[Socratic Elenchus]] | — | — | The Master Homology: Socratic Dialect... | 267 |
-| 29 | [[Intellectual Humility]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
-| 30 | [[Intellectual Empathy]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
+| 29 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
+| 30 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | Fricker and the Epistemic-Ethical Int... | 300 |
 | 31 | [[Social Epistemic Virtue]] | — | — | The Emergent Insight: Social Epistemi... | 307 |
 | 32 | [[Testimonial Sensitivity]] | — | — | The Emergent Insight: Social Epistemi... | 312 |
 | 33 | [[Hermeneutical Humility]] | — | — | The Emergent Insight: Social Epistemi... | 314 |
 | 34 | [[Dialogical Courage]] | — | — | The Emergent Insight: Social Epistemi... | 316 |
-| 35 | [[Testimonial Injustice]] | — | — | Worked Example: The Advisory Committee | 338 |
-| 36 | [[Hermeneutical Injustice]] | — | — | Worked Example: The Advisory Committee | 340 |
+| 35 | [[Testimonial-Injustice|Testimonial Injustice]] | — | — | Worked Example: The Advisory Committee | 338 |
+| 36 | [[Hermeneutical-Injustice|Hermeneutical Injustice]] | — | — | Worked Example: The Advisory Committee | 340 |
 | 37 | [[Testimonial Sensitivity]] | — | — | Worked Example: The Advisory Committee | 344 |
 | 38 | [[Hermeneutical Humility]] | — | — | Worked Example: The Advisory Committee | 346 |
 | 39 | [[Dialogical Courage]] | — | — | Worked Example: The Advisory Committee | 348 |
@@ -512,12 +512,12 @@ extraction_summary:
 - [[C. Thi Nguyen]]
 - [[Cass Sunstein]]
 - [[Collective Intelligence Design Patterns]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Dan Sperber]]
 - [[Daniel Kahneman]]
 - [[Deliberative Democracy as Epistemic Practice]]
 - [[Dialogical Courage]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Echo Chambers and Epistemic Bubbles — A Diagnostic Toolkit]]
 - [[Edwin Hutchins]]
 - [[Epistemic Injustice]]
@@ -525,10 +525,10 @@ extraction_summary:
 - [[Gregory Vlastos]]
 - [[Groupthink]]
 - [[Hermeneutical Humility]]
-- [[Hermeneutical Injustice]]
+- [[Hermeneutical-Injustice|Hermeneutical Injustice]]
 - [[Hugo Mercier]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Irving Janis]]
 - [[James Surowiecki]]
 - [[Keith Stanovich]]
@@ -537,10 +537,10 @@ extraction_summary:
 - [[Report 14]]
 - [[Report 15]]
 - [[Social Epistemic Virtue]]
-- [[Social Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Socratic Elenchus]]
-- [[Socratic Method]]
-- [[Testimonial Injustice]]
+- [[Socratic-Method|Socratic Method]]
+- [[Testimonial-Injustice|Testimonial Injustice]]
 - [[Testimonial Sensitivity]]
 - [[The Epistemology of Scientific Consensus]]
 

@@ -251,7 +251,7 @@ extraction_summary:
 - [[Citation Management in Obsidian]]
 - [[Classification Fundamentals]]
 - [[Clustering and Community Detection]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collaborative Research and Shared Knowledge Bases]]
 - [[Compression and Abstraction in Learning]]
 - [[Concept Handling vs Idea Dumping]]
@@ -327,7 +327,7 @@ extraction_summary:
 - [[Research Timeline and Milestone Design]]
 - [[Research Validity and Reliability]]
 - [[Search Strategy Development]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Testing and Retrieval Practice]]
 - [[Semantic Distance and Conceptual Proximity]]
 - [[Source Evaluation and Critical Appraisal]]
@@ -380,7 +380,7 @@ extraction_summary:
 | 20 | [[Highlighting and Annotation Strategies]] | — | — | **Topic**: [[Research Project Archite... | 199 |
 | 21 | [[Atomic Note Distillation Process]] | — | — | **Topic**: [[Research Project Archite... | 200 |
 | 22 | [[Bidirectional Linking as Formalization]] | — | — | **Topic**: [[Research Project Archite... | 201 |
-| 23 | [[Cognitive Load Theory]] | — | — | **Topic**: [[Research Project Archite... | 205 |
+| 23 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | **Topic**: [[Research Project Archite... | 205 |
 | 24 | [[Note-Taking vs Note-Making Distinction]] | — | — | **Topic**: [[Research Project Archite... | 205 |
 | 25 | [[Information vs Knowledge Distinction]] | — | — | **Topic**: [[Research Project Archite... | 205 |
 | 26 | [[Zettelkasten Research Workflow and Dialectical Note Development]] | — | — | **Topic**: [[Research Project Archite... | 215 |
@@ -439,7 +439,7 @@ extraction_summary:
 | 79 | [[Dataview Statistics for PKB Health]] | — | — | **Topic**: [[Research Project Archite... | 325 |
 | 80 | [[The Collector's Fallacy]] | — | — | **Topic**: [[Research Project Archite... | 326 |
 | 81 | [[Metacognition Basics]] | — | — | **Topic**: [[Research Project Archite... | 330 |
-| 82 | [[Self-Regulated Learning]] | — | — | **Topic**: [[Research Project Archite... | 330 |
+| 82 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | **Topic**: [[Research Project Archite... | 330 |
 | 83 | [[Assessment Literacy]] | — | — | **Topic**: [[Research Project Archite... | 330 |
 | 84 | [[Literature Review Methodology and Source Integration for PKB Research]] | — | — | **Topic**: [[Research Project Archite... | 339 |
 | 85 | [[Systematic Review Protocols]] | — | — | **Topic**: [[Research Project Archite... | 346 |
@@ -650,7 +650,7 @@ Tiago Forte's progressive summarization method has deep roots in cognitive psych
 **Analogical Potential**:
 Progressive summarization is like mining for gold: first pass removes obvious debris (dirt), second pass identifies ore-bearing rock (highlighting), third pass extracts precious metal (bolding key insights), final pass refines into pure gold (atomic notes) - each iteration increases density while reducing volume.
 **Prerequisite Knowledge**:
-[[Cognitive Load Theory]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
+[[Cognitive-Load-Theory|Cognitive Load Theory]], [[Note-Taking vs Note-Making Distinction]], [[Information vs Knowledge Distinction]]
 **Research Starting Points**:
 - Search: "progressive summarization Forte" + "incremental formalization knowledge work" + "depth of processing Craik Lockhart"
 - Key texts: Forte, *Building a Second Brain*; Craik & Lockhart, "Levels of Processing" (1972)
@@ -775,7 +775,7 @@ This topic draws from metacognition research (Flavell's metacognitive monitoring
 **Analogical Potential**:
 Metacognitive monitoring in research is like having both a speedometer (am I making progress?) and a diagnostic dashboard (is the engine healthy?) - you need real-time feedback on your research velocity but also deep indicators of whether you're building genuine understanding or just accumulating information exhaust.
 **Prerequisite Knowledge**:
-[[Metacognition Basics]], [[Self-Regulated Learning]], [[Assessment Literacy]]
+[[Metacognition Basics]], [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]], [[Assessment Literacy]]
 **Research Starting Points**:
 - Search: "metacognitive monitoring research" + "knowledge assessment metrics" + "personal analytics knowledge work"
 - Key texts: Dunlosky & Metcalfe, *Metacognition*; Flavell's work on metacognitive monitoring
@@ -806,7 +806,7 @@ Metacognitive monitoring in research is like having both a speedometer (am I mak
 - [[Citation Management in Obsidian]]
 - [[Classification Fundamentals]]
 - [[Clustering and Community Detection]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Collaborative Research and Shared Knowledge Bases]]
 - [[Compression and Abstraction in Learning]]
 - [[Concept Handling vs Idea Dumping]]
@@ -882,7 +882,7 @@ Metacognitive monitoring in research is like having both a speedometer (am I mak
 - [[Research Timeline and Milestone Design]]
 - [[Research Validity and Reliability]]
 - [[Search Strategy Development]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Testing and Retrieval Practice]]
 - [[Semantic Distance and Conceptual Proximity]]
 - [[Source Evaluation and Critical Appraisal]]

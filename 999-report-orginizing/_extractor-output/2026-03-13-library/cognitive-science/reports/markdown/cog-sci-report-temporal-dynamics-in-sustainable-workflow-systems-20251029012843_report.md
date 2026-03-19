@@ -194,7 +194,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **First Principle 5:** [[The Finite Nature of Attentional and Metabolic Resources]]
->   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
+>   - Human attention and metabolic energy represent genuinely finite resources that deplete with use and require time to replenish. [[Cognitive-Load-Theory|Cognitive Load Theory]] demonstrates that working memory has severe capacity limitations (approximately 7±2 information chunks) and that sustained attention on demanding tasks progressively depletes a metabolically expensive resource that cognitive scientists model as [[ego depletion]] or [[decision fatigue]]. Research by [[Roy Baumeister]] and colleagues established that self-control, willpower, and focused attention draw upon a shared limited resource, with depletion in one domain impairing performance in others. While some aspects of ego depletion theory remain controversial, the broader finding of resource depletion with sustained cognitive work is robust and replicated. At the physiological level, intense cognitive work increases brain glucose metabolism, generates reactive oxygen species, and depletes neurotransmitter pools. These metabolic costs necessitate recovery periods during which damaged cellular structures are repaired, waste products are cleared, energy stores are replenished, and baseline function is restored. Similarly, [[deliberate practice]]—the form of highly focused, effortful training that drives skill acquisition—cannot be sustained for more than 3-5 hours per day even in elite performers, with beginners limited to 15-20 minutes of maximum concentration before requiring rest. [[Anders Ericsson]]'s research with expert musicians revealed that world-class violinists practiced deliberate practice for approximately 4 hours daily on average, typically structured as two 90-minute sessions separated by rest. Attempts to exceed these natural limits result not in proportionally greater improvement but rather in diminishing returns, increased error rates, degraded quality of practice, and elevated injury or burnout risk. The fundamental constraint is biological: the systems that enable focused attention and skilled performance have inherent metabolic costs and recovery requirements that cannot be overcome through motivation or discipline alone.
 
 #### 13. [SUMMARY] Untitled *(Line 92)*
 
@@ -360,7 +360,7 @@ extraction_summary:
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
 - [[Circadian Photoentrainment]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Creativity Through Unstructured Brainstorming]]
 - [[Decision Quality Through Extended Analysis]]
 - [[Executive Function]]
@@ -478,7 +478,7 @@ extraction_summary:
 | 38 | [[Yerkes-Dodson Law]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
 | 39 | [[fitness-fatigue model]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 86 |
 | 40 | [[The Finite Nature of Attentional and Metabolic Resources]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 89 |
-| 41 | [[Cognitive Load Theory]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
+| 41 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 42 | [[ego depletion]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 43 | [[decision fatigue]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
 | 44 | [[Roy Baumeister]] | — | — | 2.0 ⚛️ THE ATOMS: IDENTIFYING THE FIR... | 90 |
@@ -640,7 +640,7 @@ I'll conduct comprehensive research on temporal dynamics in workflow systems bef
 - [[Basic Rest-Activity Cycle]]
 - [[Block Periodization vs. Linear Periodization]]
 - [[Circadian Photoentrainment]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Creativity Through Unstructured Brainstorming]]
 - [[Decision Quality Through Extended Analysis]]
 - [[Executive Function]]

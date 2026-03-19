@@ -136,12 +136,12 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 48)*
 
 > [!the-purpose] Untitled
-> **Inline queries bring dynamic, computed information directly into your prose.** Unlike traditional [[Dataview Plugin]] code blocks that create separate query results sections, inline queries embed live data seamlessly within sentences and paragraphs, making your notes reactive to your vault's changing state.
+> **Inline queries bring dynamic, computed information directly into your prose.** Unlike traditional [[Dataview-Plugin|Dataview Plugin]] code blocks that create separate query results sections, inline queries embed live data seamlessly within sentences and paragraphs, making your notes reactive to your vault's changing state.
 
 #### 2. [DEFINITION] Untitled *(Line 55)*
 
 > [!definition] Untitled
-> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[Personal Knowledge Base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
+> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[Personal-Knowledge-Base|Personal Knowledge Base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
 
 #### 3. [ANALOGY] Untitled *(Line 58)*
 
@@ -260,7 +260,7 @@ extraction_summary:
 #### 15. [CONNECTIONS-AND-LINKS] Untitled *(Line 202)*
 
 > [!connections-and-links] Untitled
-> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[MOC]] (Maps of Content) architectures and [[Dashboard Design]].
+> This pattern enables **bi-directional information flow**. A change to `[[Project Alpha]]`'s frontmatter instantly updates all notes that query it. This is foundational for [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content) architectures and [[Dashboard Design]].
 
 #### 16. [EXAMPLE] Untitled *(Line 209)*
 
@@ -396,7 +396,7 @@ extraction_summary:
 #### 27. [WHAT-THIS-DOES] Untitled *(Line 340)*
 
 > [!what-this-does] Untitled
-> This dashboard becomes a **living nerve center** for your [[Personal Knowledge Base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
+> This dashboard becomes a **living nerve center** for your [[Personal-Knowledge-Base|Personal Knowledge Base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
 
 #### 28. [EXAMPLE] Untitled *(Line 349)*
 
@@ -556,19 +556,19 @@ extraction_summary:
 - [[Daily Notes]]
 - [[Dashboard Design]]
 - [[Dataview Functions]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS]]
 - [[DataviewJS — JavaScript API]]
 - [[Inline Fields]]
 - [[JavaScript Dataview]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]
 - [[Note Name]]
 - [[Obsidian Metadata]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Alpha]]
 - [[Projects]]
 - [[Regular Expressions]]
@@ -586,9 +586,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Dataview Plugin]] | — | — | ⚡ Dataview Inline Queries — Implement... | 49 |
+| 1 | [[Dataview-Plugin|Dataview Plugin]] | — | — | ⚡ Dataview Inline Queries — Implement... | 49 |
 | 2 | [[Dataview Query Language]] | — | — | 🎯 Core Concept | 56 |
-| 3 | [[Personal Knowledge Base]] | — | — | 🎯 Core Concept | 56 |
+| 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 Core Concept | 56 |
 | 4 | [[YAML Frontmatter]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 5 | [[Inline Fields]] | — | — | 1️⃣ **Direct Field Access** (Current ... | 95 |
 | 6 | [[Note Name]] | — | — | 2️⃣ **Link Field Access** (Other Pages) | 99 |
@@ -602,13 +602,13 @@ extraction_summary:
 | 14 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 197 |
 | 15 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 199 |
 | 16 | [[Project Alpha]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
-| 17 | [[MOC]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
+| 17 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 18 | [[Dashboard Design]] | — | — | 🔗 Relational Metadata (Cross-Note Ref... | 203 |
 | 19 | [[Task Management]] | — | — | 📋 Task & Progress Tracking | 219 |
 | 20 | [[Template Integration]] | — | — | 🧩 Template Integration | 294 |
 | 21 | [[Templater]] | — | — | 🧩 Template Integration | 294 |
 | 22 | [[Daily Notes]] | — | — | 🧩 Template Integration | 312 |
-| 23 | [[Personal Knowledge Base]] | — | — | 🖥️ Dashboard Construction | 341 |
+| 23 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🖥️ Dashboard Construction | 341 |
 | 24 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | 🔍 Note Review Systems | 350 |
 | 25 | [[quickadd]] | — | — | 📝 Writing Progress Tracking | 373 |
 | 26 | [[Zettelkasten]] | — | — | 🔬 Research Organization | 380 |
@@ -621,14 +621,14 @@ extraction_summary:
 | 33 | [[Template Integration]] | — | — | 🎯 Best Practices Summary | 492 |
 | 34 | [[Dashboard Design]] | — | — | 🎯 Best Practices Summary | 492 |
 | 35 | [[Dataview Query Language (DQL)]] | — | — | 🔗 Related Topics for PKB Expansion | 498 |
-| 36 | [[Personal Knowledge Base]] | — | — | 🔗 Related Topics for PKB Expansion | 501 |
+| 36 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🔗 Related Topics for PKB Expansion | 501 |
 | 37 | [[DataviewJS — JavaScript API]] | — | — | 🔗 Related Topics for PKB Expansion | 503 |
 | 38 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 506 |
 | 39 | [[YAML Frontmatter Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 508 |
-| 40 | [[MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 511 |
+| 40 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 511 |
 | 41 | [[Templater Plugin Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 513 |
 | 42 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 516 |
-| 43 | [[Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 570 |
+| 43 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 570 |
 | 44 | [[Dataview Query Language]] | — | — | 🔗 Related Topics for PKB Expansion | 571 |
 | 45 | [[Obsidian Metadata]] | — | — | 🔗 Related Topics for PKB Expansion | 572 |
 | 46 | [[YAML Frontmatter]] | — | — | 🔗 Related Topics for PKB Expansion | 573 |
@@ -636,12 +636,12 @@ extraction_summary:
 | 48 | [[Dataview Functions]] | — | — | 🔗 Related Topics for PKB Expansion | 575 |
 | 49 | [[JavaScript Dataview]] | — | — | 🔗 Related Topics for PKB Expansion | 576 |
 | 50 | [[Template Integration]] | — | — | 🔗 Related Topics for PKB Expansion | 577 |
-| 51 | [[MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 578 |
+| 51 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 578 |
 | 52 | [[Dashboard Design]] | — | — | 🔗 Related Topics for PKB Expansion | 579 |
 | 53 | [[Task Management]] | — | — | 🔗 Related Topics for PKB Expansion | 580 |
 | 54 | [[Daily Notes]] | — | — | 🔗 Related Topics for PKB Expansion | 581 |
 | 55 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 582 |
-| 56 | [[Progressive Summarization]] | — | — | 🔗 Related Topics for PKB Expansion | 583 |
+| 56 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 🔗 Related Topics for PKB Expansion | 583 |
 | 57 | [[Regular Expressions]] | — | — | 🔗 Related Topics for PKB Expansion | 584 |
 
 ---
@@ -914,7 +914,7 @@ This request is for a reference note about Dataview inline queries - a specific 
 
 ```plaintext
 **Wiki-Link Opportunities Identified:**
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
 - [[YAML Frontmatter]]
@@ -922,12 +922,12 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
-- [[MOC]] (Maps of Content)
+- [[Maps-of-Content-—-MOCs|MOC]] (Maps of Content)
 - [[Dashboard Design]]
 - [[Task Management]]
 - [[Daily Notes]]
 - [[Zettelkasten]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Regular Expressions]]
 
 **Callout Strategy:**
@@ -974,19 +974,19 @@ This request is for a reference note about Dataview inline queries - a specific 
 - [[Daily Notes]]
 - [[Dashboard Design]]
 - [[Dataview Functions]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS]]
 - [[DataviewJS — JavaScript API]]
 - [[Inline Fields]]
 - [[JavaScript Dataview]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Note]]
 - [[Note Name]]
 - [[Obsidian Metadata]]
-- [[Personal Knowledge Base]]
-- [[Progressive Summarization]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Alpha]]
 - [[Projects]]
 - [[Regular Expressions]]

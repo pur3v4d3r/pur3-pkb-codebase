@@ -132,26 +132,26 @@ related:
   - "[[Critical Thinking Frameworks]]"
   - "[[Problem-Solving in Education]]"
   - "[[Metacognition and Self-Regulated Learning]]"
-  - "[[Dual Process Theory]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[Scientific Method]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemic-Cognition|Epistemic Cognition]]"
   - "[[Socratic Method in Teaching]]"
 
 broader:
-  - "[[Cognitive Science]]"
-  - "[[Educational Psychology]]"
-  - "[[Philosophy of Mind]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]"
 
 narrower:
   - "[[Syllogistic Reasoning]]"
   - "[[Statistical Induction]]"
   - "[[Hypothesis Generation]]"
-  - "[[Analogical Reasoning]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
 
 see-also:
   - "[[Argument Analysis]]"
   - "[[Bloom's Taxonomy]]"
-  - "[[Inquiry-Based Learning]]"
+  - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
   - "[[Socratic Seminars]]"
 
 contrasts-with:
@@ -254,7 +254,7 @@ generation-date: "2026-03-05"
 
 Consider this scenario: a student walks into an exam on cellular biology and encounters a question about a novel organism she has never studied. She has no memorized answer to retrieve. What she possesses instead is something more powerful — the capacity to reason. She knows that all living cells require energy, she recalls that mitochondria produce ATP in familiar organisms, and she hypothesizes that this unfamiliar organism likely uses a similar mechanism. In the space of seconds, she has moved from ignorance to a defensible answer through the orchestrated use of general principles, observed patterns, and educated guesses.
 
-That movement — from available knowledge to new conclusions — is reasoning. And the way reasoning works differs profoundly depending on the direction of travel: from general to specific, from specific to general, or from incomplete evidence to the best available explanation. These three trajectories correspond to the three canonical forms of inference in the Western philosophical tradition: [[Deductive Reasoning|deduction]], [[Inductive Reasoning|induction]], and [[Abductive Reasoning|abduction]]. Together they constitute the intellectual machinery through which learning happens, problems get solved, and knowledge advances.
+That movement — from available knowledge to new conclusions — is reasoning. And the way reasoning works differs profoundly depending on the direction of travel: from general to specific, from specific to general, or from incomplete evidence to the best available explanation. These three trajectories correspond to the three canonical forms of inference in the Western philosophical tradition: [[Deductive Reasoning|deduction]], [[Inductive Reasoning|induction]], and [[Abduction|abduction]]. Together they constitute the intellectual machinery through which learning happens, problems get solved, and knowledge advances.
 
 This report establishes the conceptual and empirical bedrock of these three reasoning types, maps the theoretical landscape that surrounds them, traces the mechanisms by which they function in learning contexts, and examines what educators and curriculum designers can do to deliberately cultivate each. It is addressed to anyone who teaches, designs learning experiences, studies cognition, or simply wants to understand better how human minds construct knowledge from experience and inference.
 
@@ -295,13 +295,13 @@ The third type — abductive reasoning — was named and theorized by the Americ
 > Abductive reasoning is a form of inference that moves from an observation — often surprising or puzzling — to the hypothesis that would best explain it, if true. It is sometimes called *inference to the best explanation*. The paradigmatic form is: "I observe footprints in the snow; a human passing by would explain these footprints; therefore, a human probably passed by." Abduction does not guarantee its conclusions, and it requires an evaluative judgment about which explanation is "best." It is the reasoning mode most closely associated with creativity, diagnosis, scientific hypothesis formation, and detective work. The term was coined by [[Charles Sanders Peirce|Peirce]], who distinguished it sharply from both deduction and induction.
 
 > [!definition] **Critical Thinking**
-> Critical thinking is the disciplined, reflective evaluation of beliefs and arguments based on evidence, logic, and intellectual standards. It involves both the capacity to reason well (using deductive, inductive, and abductive modes appropriately) and the disposition to do so — including intellectual humility, open-mindedness, and willingness to revise beliefs in light of new evidence. [[Critical Thinking]] is not a single reasoning type but a meta-competence that orchestrates all three types in service of justified belief formation.
+> Critical thinking is the disciplined, reflective evaluation of beliefs and arguments based on evidence, logic, and intellectual standards. It involves both the capacity to reason well (using deductive, inductive, and abductive modes appropriately) and the disposition to do so — including intellectual humility, open-mindedness, and willingness to revise beliefs in light of new evidence. [[Critical-Thinking|Critical Thinking]] is not a single reasoning type but a meta-competence that orchestrates all three types in service of justified belief formation.
 
 > [!definition] **Metacognition**
 > Metacognition, theorized most influentially by [[John Flavell]] (1979), refers to cognition about cognition — the capacity to think about, monitor, and regulate one's own thinking processes. In the context of reasoning, metacognition enables learners to notice when they are using deductive versus inductive versus abductive inference, to evaluate whether the chosen mode is appropriate for the task, and to correct errors in their reasoning process. Metacognitive capacity is strongly predictive of learning outcomes across domains.
 
 > [!definition] **Transfer of Learning**
-> Transfer of learning refers to the application of knowledge or skills acquired in one context to a new and different context. It is particularly relevant to reasoning because one of the central debates in [[Educational Psychology]] concerns whether reasoning skills transfer: can training in deductive reasoning in a logic class improve reasoning in history or science? The evidence, as we will see, is more qualified than optimists once hoped.
+> Transfer of learning refers to the application of knowledge or skills acquired in one context to a new and different context. It is particularly relevant to reasoning because one of the central debates in [[Educational-Psychology|Educational Psychology]] concerns whether reasoning skills transfer: can training in deductive reasoning in a logic class improve reasoning in history or science? The evidence, as we will see, is more qualified than optimists once hoped.
 
 ### Foundational Distinctions
 
@@ -327,7 +327,7 @@ The most systematic theoretical account of the three reasoning types as a unifie
 
 ### The Cognitive Science Perspective: Dual Process Theory
 
-[[Dual Process Theory]], developed across the work of [[Keith Stanovich]], [[Richard West]], [[Daniel Kahneman]], and others, proposes that human cognition involves two qualitatively different systems. **System 1** is fast, automatic, intuitive, and largely unconscious — the cognitive substrate of what we call "gut feelings" and quick pattern recognition. **System 2** is slow, deliberate, effortful, and rule-governed — the system engaged when we carefully work through a logic problem or evaluate a statistical argument.
+[[Dual-Process-Theory|Dual Process Theory]], developed across the work of [[Keith Stanovich]], [[Richard West]], [[Daniel Kahneman]], and others, proposes that human cognition involves two qualitatively different systems. **System 1** is fast, automatic, intuitive, and largely unconscious — the cognitive substrate of what we call "gut feelings" and quick pattern recognition. **System 2** is slow, deliberate, effortful, and rule-governed — the system engaged when we carefully work through a logic problem or evaluate a statistical argument.
 
 This framework maps imperfectly but usefully onto the reasoning typology: deductive reasoning, in its full formal rigor, is paradigmatically a System 2 activity; the rapid pattern recognition that underlies everyday induction is often System 1; and abductive inference, depending on its sophistication, involves a complex interplay between both systems — an initial intuitive leap (System 1) refined through deliberate evaluation (System 2).
 
@@ -345,7 +345,7 @@ This framework maps imperfectly but usefully onto the reasoning typology: deduct
 
 ### The Epistemological Debate: Is Reasoning Teachable and Transferable?
 
-One of the most consequential debates in [[Educational Psychology]] concerns whether reasoning skills generalize. If deductive logic trained in a philosophy class transfers to historical analysis, or if scientific inductive reasoning trained in biology applies to social science, then investing in explicit reasoning instruction has system-wide payoff. If it does not transfer, then reasoning must be taught within each domain, substantially increasing the instructional burden.
+One of the most consequential debates in [[Educational-Psychology|Educational Psychology]] concerns whether reasoning skills generalize. If deductive logic trained in a philosophy class transfers to historical analysis, or if scientific inductive reasoning trained in biology applies to social science, then investing in explicit reasoning instruction has system-wide payoff. If it does not transfer, then reasoning must be taught within each domain, substantially increasing the instructional burden.
 
 The evidence is sobering but not nihilistic. [[Richard Nisbett]] and colleagues demonstrated in a landmark series of studies that training in statistical reasoning does transfer across domains — at least when the training is sufficiently explicit about the underlying principles and when learners are prompted to recognize the structural similarity between training and transfer contexts. The conditions for transfer — explicit principle instruction, varied practice contexts, and metacognitive reflection — are demanding but achievable.
 
@@ -410,7 +410,7 @@ The role of background knowledge in abduction is decisive and irreducible: a lea
 Instructional practices that emphasize deductive reasoning typically involve a "direct instruction" or "rule-then-example" sequence: the teacher presents a general principle or rule, then students practice applying it to specific cases. This approach is efficient when the goal is mastery of an established body of knowledge, and it is well-suited to domains like mathematics, formal grammar, and classical logic where the deductive structure of the subject matter is explicit.
 
 > [!best-practice] **Deductive Instruction: When and How**
-> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive-Load-Theory|Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
 
 However, a curriculum that is exclusively deductive risks producing learners who can apply known rules but are helpless when the rules run out — when they face genuinely novel problems where no established principle applies directly. The deductive mode, taken in isolation, is ultimately a tool for applying inherited knowledge, not for generating new knowledge.
 
@@ -418,13 +418,13 @@ However, a curriculum that is exclusively deductive risks producing learners who
 
 Inquiry-based and discovery-learning approaches — from [[Inquiry-Based Learning|IBL]] in science education to [[Project-Based Learning|PBL]] in interdisciplinary contexts — make inductive reasoning central. Students are given phenomena, data sets, or cases and asked to derive patterns and principles themselves, rather than receiving rules from above and applying them downward.
 
-The research support for inquiry-based approaches is substantial but nuanced. [[John Hattie]]'s meta-analysis of educational interventions (*Visible Learning*, 2009) found that inductive approaches like problem-based learning show moderate effect sizes when implemented with adequate scaffolding, but can produce worse outcomes than direct instruction when scaffolding is absent — a finding consistent with [[Cognitive Load Theory]], which predicts that unsupported discovery overloads the limited working memory of novices.
+The research support for inquiry-based approaches is substantial but nuanced. [[John Hattie]]'s meta-analysis of educational interventions (*Visible Learning*, 2009) found that inductive approaches like problem-based learning show moderate effect sizes when implemented with adequate scaffolding, but can produce worse outcomes than direct instruction when scaffolding is absent — a finding consistent with [[Cognitive-Load-Theory|Cognitive Load Theory]], which predicts that unsupported discovery overloads the limited working memory of novices.
 
 > [!best-practice] **Scaffolded Inductive Learning**
 > The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
 
 > [!warning] **Confirmation Bias in Student-Driven Induction**
-> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
+> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
 ### Abductive Reasoning as a Curricular Competency
 
@@ -445,7 +445,7 @@ The key instructional move for developing abductive reasoning is making the hypo
 
 ### Limitations of Current Understanding
 
-The three-type taxonomy, for all its utility, carries real limitations that honest treatment requires acknowledging. First, it is a philosophical framework that predates modern cognitive science, and the mapping from philosophical categories to cognitive mechanisms is imperfect and contested. Second, the taxonomy excludes important reasoning forms — [[Analogical Reasoning|analogical reasoning]], [[Causal Reasoning|causal reasoning]], [[Counterfactual Reasoning|counterfactual reasoning]], and [[Probabilistic Reasoning|probabilistic reasoning]] — that do not map cleanly onto the deduction-induction-abduction triad. Third, virtually all empirical research on reasoning has been conducted in [[WEIRD]] populations (Western, Educated, Industrialized, Rich, and Democratic), and cultural variation in reasoning styles is substantial enough to warrant caution about universal claims.
+The three-type taxonomy, for all its utility, carries real limitations that honest treatment requires acknowledging. First, it is a philosophical framework that predates modern cognitive science, and the mapping from philosophical categories to cognitive mechanisms is imperfect and contested. Second, the taxonomy excludes important reasoning forms — [[Analogical-Reasoning|analogical reasoning]], [[Causal Reasoning|causal reasoning]], [[Counterfactual Reasoning|counterfactual reasoning]], and [[Probabilistic Reasoning|probabilistic reasoning]] — that do not map cleanly onto the deduction-induction-abduction triad. Third, virtually all empirical research on reasoning has been conducted in [[WEIRD]] populations (Western, Educated, Industrialized, Rich, and Democratic), and cultural variation in reasoning styles is substantial enough to warrant caution about universal claims.
 
 > [!reflection] **From Understanding to Action**
 > 1. If you were designing a unit in your subject area that deliberately engaged all three reasoning modes, what would it look like at each stage? Which mode would you introduce first, and why?
@@ -482,9 +482,9 @@ Several genuinely open questions remain at the intersection of reasoning theory 
 >
 > - **[[Metacognition and Self-Regulated Learning]]** — The capacity to choose and monitor reasoning modes is itself a metacognitive skill. The connection runs deep: training metacognition is largely training learners to be aware of their own inferential moves, to recognize when they are generalizing (inductively), deducing, or hypothesizing (abductively). This report provides the object-level content; the metacognition node provides the regulatory framework that orchestrates it.
 >
-> - **[[Dual Process Theory]]** — System 1 and System 2 processing map imperfectly but usefully onto the three reasoning modes. The deduction-induction-abduction triad operates at the level of inference type; the dual-process distinction operates at the level of cognitive effort and automaticity. Understanding both frameworks together illuminates why good reasoning is effortful and why learners default to heuristic shortcuts even when deliberate inference is required.
+> - **[[Dual-Process-Theory|Dual Process Theory]]** — System 1 and System 2 processing map imperfectly but usefully onto the three reasoning modes. The deduction-induction-abduction triad operates at the level of inference type; the dual-process distinction operates at the level of cognitive effort and automaticity. Understanding both frameworks together illuminates why good reasoning is effortful and why learners default to heuristic shortcuts even when deliberate inference is required.
 >
-> - **[[Inquiry-Based Learning]]** — IBL pedagogies are, in essence, pedagogies of inductive and abductive reasoning. This report provides the theoretical foundation for understanding why IBL works when it works (it engages the generative and discovery-oriented modes of inference) and why it sometimes fails (unscaffolded induction overloads working memory; unsupported abduction produces poorly-calibrated hypotheses). The two nodes together constitute a complete account of discovery-based pedagogy.
+> - **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL pedagogies are, in essence, pedagogies of inductive and abductive reasoning. This report provides the theoretical foundation for understanding why IBL works when it works (it engages the generative and discovery-oriented modes of inference) and why it sometimes fails (unscaffolded induction overloads working memory; unsupported abduction produces poorly-calibrated hypotheses). The two nodes together constitute a complete account of discovery-based pedagogy.
 >
 > - **[[Critical Thinking Frameworks]]** — Critical thinking, as a meta-competency, presupposes fluency in the three reasoning modes. The critical-thinking literature is largely the literature of reasoning well — evaluating argument validity (deductive), assessing evidence quality (inductive), and evaluating explanatory hypotheses (abductive). This report establishes the component skills; the critical thinking node integrates them into a normative framework.
 >

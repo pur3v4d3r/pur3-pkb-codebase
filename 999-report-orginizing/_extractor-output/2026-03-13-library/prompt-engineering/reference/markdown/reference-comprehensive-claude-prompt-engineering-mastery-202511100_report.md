@@ -503,7 +503,7 @@ extraction_summary:
 - [[Byte-Pair Encoding and Tokenization Strategies]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought Reasoning - Mechanisms and Applications]]
-- [[Chain-of-Thought prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought prompting]]
 - [[Claude AI Reference]]
 - [[Claude LLM]]
 - [[Claude Prompt Engineering]]
@@ -530,7 +530,7 @@ extraction_summary:
 - [[Prompt Versioning and Management Systems]]
 - [[Prompting Methodology]]
 - [[Reinforcement Learning from Human Feedback]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation with Claude]]
 - [[Structured Thinking]]
 - [[System Prompts vs User Prompts - Architectural Differences]]
@@ -592,7 +592,7 @@ extraction_summary:
 | 39 | [[attention mechanism]] | — | — | Why XML Works for Claude | 939 |
 | 40 | [[byte-pair encoding]] | — | — | Why XML Works for Claude | 941 |
 | 41 | [[Prompting Methodology]] | — | — | ⚙️ Working Methodologies: Systematic ... | 1230 |
-| 42 | [[Chain-of-Thought prompting]] | — | — | The Chain-of-Thought Prompting Pattern | 1395 |
+| 42 | [[Chain-of-Thought-Prompting|Chain-of-Thought prompting]] | — | — | The Chain-of-Thought Prompting Pattern | 1395 |
 | 43 | [[Advanced Prompting Techniques]] | — | — | 🎓 Advanced Techniques: Pattern Library | 1664 |
 | 44 | [[Constitutional AI]] | — | — | 🎯 Synthesis: Mastery Framework | 2569 |
 | 45 | [[Prompt Engineering]] | — | — | 📊 Metadata & Attribution | 3175 |
@@ -618,7 +618,7 @@ extraction_summary:
 | 65 | [[Advanced XML Architectures for Complex Workflows]] | — | — | 🔗 Related Topics for PKB Expansion | 3284 |
 | 66 | [[Chain-of-Thought]] | — | — | Claude Thinking | 3361 |
 | 67 | [[Few-Shot Learning]] | — | — | Claude Thinking | 3361 |
-| 68 | [[Retrieval-Augmented Generation]] | — | — | Claude Thinking | 3361 |
+| 68 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Claude Thinking | 3361 |
 
 ---
 
@@ -2886,7 +2886,7 @@ graph TD
 - [[Byte-Pair Encoding and Tokenization Strategies]]
 - [[Chain-of-Thought]]
 - [[Chain-of-Thought Reasoning - Mechanisms and Applications]]
-- [[Chain-of-Thought prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought prompting]]
 - [[Claude AI Reference]]
 - [[Claude LLM]]
 - [[Claude Prompt Engineering]]
@@ -2913,7 +2913,7 @@ graph TD
 - [[Prompt Versioning and Management Systems]]
 - [[Prompting Methodology]]
 - [[Reinforcement Learning from Human Feedback]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Retrieval-Augmented Generation with Claude]]
 - [[Structured Thinking]]
 - [[System Prompts vs User Prompts - Architectural Differences]]

@@ -156,7 +156,7 @@ extraction_summary:
 > [!abstract] Untitled
 > This article presents a comprehensive theoretical and empirical investigation into how formal pedagogical and andragogical theories can inform the architectural design of [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] (PKM) systems. We examine the profound congruence between [[Constructivist Learning Theory]]—particularly the work of Jean Piaget, Lev Vygotsky, and Jerome Bruner—and the structural principles underlying effective PKM systems such as the [[zettelkasten method]]. We demonstrate that PKM systems, when properly designed, function as externalized manifestations of constructivist epistemology, wherein knowledge is not passively received but actively constructed through the learner's engagement with information, the creation of personal meaning, and the deliberate linking of concepts across a network of notes.
 > 
-> Furthermore, we explore how Malcolm Knowles' theory of [[Andragogy]]—which posits that adult learners are fundamentally self-directed, experience-rich, problem-centered, and internally motivated—provides a theoretical foundation for understanding why PKM systems are particularly effective for lifelong learners. We analyze how Vygotsky's concept of the [[Zone of Proximal Development]] and the related practice of [[Scaffolding-(Constructivist-Learning)]] can be applied to progressive knowledge building within PKM architectures, where simpler atomic notes serve as foundational scaffolds for increasingly complex conceptual structures. Finally, we investigate the critical role of [[Metacognition]] and [[Self-Regulated Learning]] in PKM practice, demonstrating that effective knowledge management requires high levels of metacognitive awareness, strategic planning, continuous self-monitoring, and adaptive regulation of learning processes. Through this multi-theoretical lens, we establish that PKM systems represent not merely organizational tools, but sophisticated cognitive environments that, when aligned with sound learning theory, can dramatically optimize knowledge synthesis, retention, and creative application.
+> Furthermore, we explore how Malcolm Knowles' theory of [[Andragogy]]—which posits that adult learners are fundamentally self-directed, experience-rich, problem-centered, and internally motivated—provides a theoretical foundation for understanding why PKM systems are particularly effective for lifelong learners. We analyze how Vygotsky's concept of the [[Zone-of-Proximal-Development|Zone of Proximal Development]] and the related practice of [[Scaffolding-(Constructivist-Learning)]] can be applied to progressive knowledge building within PKM architectures, where simpler atomic notes serve as foundational scaffolds for increasingly complex conceptual structures. Finally, we investigate the critical role of [[Metacognition]] and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] in PKM practice, demonstrating that effective knowledge management requires high levels of metacognitive awareness, strategic planning, continuous self-monitoring, and adaptive regulation of learning processes. Through this multi-theoretical lens, we establish that PKM systems represent not merely organizational tools, but sophisticated cognitive environments that, when aligned with sound learning theory, can dramatically optimize knowledge synthesis, retention, and creative application.
 
 #### 4. [THE-PURPOSE] Untitled *(Line 56)*
 
@@ -237,7 +237,7 @@ extraction_summary:
 > [!principle-point] Untitled
 > - **Core Principle 4: Knowledge Construction is Socially Mediated**
 >     - While Piaget emphasized individual cognitive development, Vygotsky's social constructivism reminds us that knowledge is not constructed in isolation.[^12] Even the most private act of reading and note-taking is socially mediated—you are engaging with an author's ideas, which themselves were developed through dialogue with other scholars, which were built upon centuries of intellectual tradition. The "conversation partner" metaphor that Luhmann used to describe his Zettelkasten captures this social dimension beautifully. Your knowledge base becomes a kind of internalized intellectual community where different ideas (represented by different notes) interact, debate, and synthesize. Moreover, many PKM practitioners share notes publicly, contribute to communal knowledge bases, or use their PKM to prepare for actual conversations—presenting at conferences, writing articles, teaching classes.
->     - The architectural implication is that effective PKM systems should not be hermetically sealed vaults. They should support *permeability*—the ability to bring in external knowledge through reading and conversation, and to externalize personal knowledge through writing and sharing. Features like bibliography notes (tracking sources), people notes (tracking thinkers and conversational partners), and easy export mechanisms (converting notes to publishable articles) all acknowledge the social dimension of knowledge construction. This principle also suggests that PKM systems benefit from what John Seely Brown and Paul Duguid called "[[Communities of Practice]]"—groups of practitioners who share methods, exchange notes, and collectively develop best practices. The vibrant online communities around tools like Obsidian, Roam Research, and traditional Zettelkasten exemplify this social dimension.
+>     - The architectural implication is that effective PKM systems should not be hermetically sealed vaults. They should support *permeability*—the ability to bring in external knowledge through reading and conversation, and to externalize personal knowledge through writing and sharing. Features like bibliography notes (tracking sources), people notes (tracking thinkers and conversational partners), and easy export mechanisms (converting notes to publishable articles) all acknowledge the social dimension of knowledge construction. This principle also suggests that PKM systems benefit from what John Seely Brown and Paul Duguid called "[[Communities-of-Practice|Communities of Practice]]"—groups of practitioners who share methods, exchange notes, and collectively develop best practices. The vibrant online communities around tools like Obsidian, Roam Research, and traditional Zettelkasten exemplify this social dimension.
 
 #### 17. [ANALOGY] Untitled *(Line 156)*
 
@@ -351,7 +351,7 @@ extraction_summary:
 >     - The most counterintuitive insight is probably the idea that making note-taking *harder* and more effortful actually makes it *more effective* for learning. Our intuition says that efficiency is good—we should take notes as quickly as possible, perhaps by typing verbatim or highlighting text. But research shows the opposite: the cognitive effort required to paraphrase, summarize, and connect information produces deeper learning than effortless capture. This violates our expectation that learning should feel smooth and easy. The technical term is "desirable difficulties"—introducing productive friction that forces deeper processing. In PKM terms, this means a system that makes you actively transform information (write in your own words, create links, synthesize ideas) is actually *better* than a system that lets you passively collect information, even though the former feels slower and more difficult. This challenges the "move fast and collect everything" mentality that dominates much of digital culture, suggesting instead that "move deliberately and process deeply" is the path to genuine learning.
 > 
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - This article connected with my existing understanding of [[Cognitive Load Theory]], which explores how working memory limitations constrain learning. If I already understand that working memory can only hold about seven items simultaneously, then the article's emphasis on externalizing thought through note-taking makes perfect sense—notes become an external working memory extension, allowing manipulation of far more information than could be held in consciousness alone. The article also connected with my knowledge of [[Network Science]] and graph theory. If I understand how networks exhibit emergent properties (like small-world connectivity and scale-free distributions), then the idea that a network of notes produces unexpected connections and creative insights follows naturally from network mathematics. However, the article challenged my assumption that note-taking is primarily about *storing* information for later retrieval. I had thought of notes mainly as external memory—a searchable archive. The article forcefully argues that the *process* of note-making is more important than the *product* (the notes themselves), because the cognitive work of creating notes is what produces learning. This shifted my frame from "PKM as database" to "PKM as thinking tool."
+>     - This article connected with my existing understanding of [[Cognitive-Load-Theory|Cognitive Load Theory]], which explores how working memory limitations constrain learning. If I already understand that working memory can only hold about seven items simultaneously, then the article's emphasis on externalizing thought through note-taking makes perfect sense—notes become an external working memory extension, allowing manipulation of far more information than could be held in consciousness alone. The article also connected with my knowledge of [[Network Science]] and graph theory. If I understand how networks exhibit emergent properties (like small-world connectivity and scale-free distributions), then the idea that a network of notes produces unexpected connections and creative insights follows naturally from network mathematics. However, the article challenged my assumption that note-taking is primarily about *storing* information for later retrieval. I had thought of notes mainly as external memory—a searchable archive. The article forcefully argues that the *process* of note-making is more important than the *product* (the notes themselves), because the cognitive work of creating notes is what produces learning. This shifted my frame from "PKM as database" to "PKM as thinking tool."
 
 #### 33. [QUOTE] Untitled *(Line 314)*
 
@@ -371,7 +371,7 @@ extraction_summary:
 > 1. [[Constructivist Learning Theory]]
 >     - Constructivism is the epistemological position that knowledge is not transmitted intact from teacher to learner, but is actively constructed by each learner through interpretation, integration with prior knowledge, and personal sense-making. In education, this implies that effective teaching doesn't just deliver information but creates environments where learners can engage in cognitive construction work. In PKM, this means systems should require active transformation of information (paraphrasing, linking, synthesizing) rather than passive storage. Key thinkers include Jean Piaget (cognitive constructivism emphasizing individual mental schemas), Lev Vygotsky (social constructivism emphasizing cultural context and social interaction), and Jerome Bruner (discovery learning and scaffolding). The opposite of constructivism would be transmission or behaviorist models where learning is simply information transfer or stimulus-response conditioning.
 > 
-> 1. [[Zone of Proximal Development]]
+> 1. [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 >     - Vygotsky's concept defining the gap between what a learner can accomplish independently (actual developmental level) and what they can accomplish with guidance from a more knowledgeable other (potential developmental level). The ZPD represents the optimal learning zone—tasks challenging enough to require support but not so difficult as to be frustrating. In PKM, this maps to how atomic notes (simple, manageable concepts) serve as cognitive scaffolds for building more complex understanding. As you master foundational concepts, your personal ZPD expands, enabling you to tackle increasingly sophisticated ideas. Good PKM architecture maintains both simple and complex notes, preserving the scaffolding structure that supported your development. This differs from rote learning in fixed hierarchies where simpler knowledge is discarded once "mastered."
 > 
 > 1. [[Metacognition]]
@@ -453,12 +453,12 @@ extraction_summary:
 
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Andragogy]]
-- [[Cognitive Load Theory]]
-- [[Communities of Practice]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Communities-of-Practice|Communities of Practice]]
 - [[Conceptual Metaphor Theory]]
 - [[Constructivist Learning Theory]]
 - [[Distributed Cognition Theory]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]
 - [[Kiewra et al. (1991)]]
 - [[Knowledge Graph Theory]]
@@ -467,10 +467,10 @@ extraction_summary:
 - [[Mueller & Oppenheimer (2014)]]
 - [[Network Science]]
 - [[Scaffolding-(Constructivist-Learning)]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition Systems]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Van Dijk & Kintsch (1983)]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[zettelkasten method]]
 
 ### All Occurrences
@@ -481,26 +481,26 @@ extraction_summary:
 | 2 | [[Constructivist Learning Theory]] | — | — | Document Start | 50 |
 | 3 | [[zettelkasten method]] | — | — | Document Start | 50 |
 | 4 | [[Andragogy]] | — | — | Document Start | 52 |
-| 5 | [[Zone of Proximal Development]] | — | — | Document Start | 52 |
+| 5 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Document Start | 52 |
 | 6 | [[Scaffolding-(Constructivist-Learning)]] | — | — | Document Start | 52 |
 | 7 | [[Metacognition]] | — | — | Document Start | 52 |
-| 8 | [[Self-Regulated Learning]] | — | — | Document Start | 52 |
-| 9 | [[Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 74 |
-| 10 | [[Communities of Practice]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE C... | 137 |
+| 8 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Document Start | 52 |
+| 9 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 74 |
+| 10 | [[Communities-of-Practice|Communities of Practice]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE C... | 137 |
 | 11 | [[Mueller & Oppenheimer (2014)]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: EMPIRIC... | 217 |
 | 12 | [[Kiewra et al. (1991)]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: EMPIRIC... | 219 |
 | 13 | [[Luhmann's productivity]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: EMPIRIC... | 221 |
 | 14 | [[Van Dijk & Kintsch (1983)]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: EMPIRIC... | 223 |
 | 15 | [[Heutagogy]] | — | — | 6.1 LIFELONG LEARNING AND ANDRAGOGICA... | 249 |
-| 16 | [[Cognitive Load Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 312 |
+| 16 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 312 |
 | 17 | [[Network Science]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 312 |
 | 18 | [[Constructivist Learning Theory]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 324 |
-| 19 | [[Zone of Proximal Development]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 327 |
+| 19 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 327 |
 | 20 | [[Metacognition]] | — | — | 8.0 🧠 KEY QUESTIONS FOR REFLECTION AN... | 330 |
 | 21 | [[Distributed Cognition Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 394 |
 | 22 | [[Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 395 |
-| 23 | [[Spaced Repetition Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 396 |
-| 24 | [[Double-Loop Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 397 |
+| 23 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 396 |
+| 24 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 397 |
 | 25 | [[Conceptual Metaphor Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 398 |
 
 ---
@@ -624,12 +624,12 @@ I'll structure the article following the provided template, incorporating rich e
 
 - [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Andragogy]]
-- [[Cognitive Load Theory]]
-- [[Communities of Practice]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Communities-of-Practice|Communities of Practice]]
 - [[Conceptual Metaphor Theory]]
 - [[Constructivist Learning Theory]]
 - [[Distributed Cognition Theory]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[Heutagogy]]
 - [[Kiewra et al. (1991)]]
 - [[Knowledge Graph Theory]]
@@ -638,10 +638,10 @@ I'll structure the article following the provided template, incorporating rich e
 - [[Mueller & Oppenheimer (2014)]]
 - [[Network Science]]
 - [[Scaffolding-(Constructivist-Learning)]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition Systems]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Van Dijk & Kintsch (1983)]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[zettelkasten method]]
 
 ---

@@ -124,7 +124,7 @@ A particularly powerful aspect of Claude's architecture is [**Interleaved-Thinki
 
 ### 3.1 Chain of Thought (CoT): The Foundation
 
-[[Chain of Thought Prompting]] emerged from the observation that [**Reasoning-Path-Dependency**:: LLM output quality for complex tasks strongly depends on whether intermediate reasoning steps are explicitly articulated versus implicitly computed, with explicit articulation enabling error detection and recovery.] The original CoT paper ([[Wei et al. 2022]]) demonstrated dramatic performance improvements on arithmetic, commonsense reasoning, and symbolic manipulation tasks.
+[[Chain-of-Thought-Prompting|Chain of Thought Prompting]] emerged from the observation that [**Reasoning-Path-Dependency**:: LLM output quality for complex tasks strongly depends on whether intermediate reasoning steps are explicitly articulated versus implicitly computed, with explicit articulation enabling error detection and recovery.] The original CoT paper ([[Wei et al. 2022]]) demonstrated dramatic performance improvements on arithmetic, commonsense reasoning, and symbolic manipulation tasks.
 
 **Classical CoT Implementation**:
 ```markdown

@@ -279,7 +279,7 @@ extraction_summary:
 >    - Best practices
 > **Wiki-Link Opportunities:**
 > - [[Tasks Plugin]]
-> - [[Dataview Plugin]]
+> - [[Dataview-Plugin|Dataview Plugin]]
 > - [[Obsidian]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[Task Management]]
@@ -314,12 +314,12 @@ extraction_summary:
 #### 9. [THE-PURPOSE] Untitled *(Line 252)*
 
 > [!the-purpose] Untitled
-> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
+> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview-Plugin|Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
 
 #### 10. [CORE-PRINCIPLE] Untitled *(Line 259)*
 
 > [!core-principle] Untitled
-> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
+> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview-Plugin|Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
 
 #### 11. [HELPFUL-TIP] Untitled *(Line 267)*
 
@@ -926,7 +926,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Context-Based Productivity]]
 - [[Dashboard Design]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
 - [[Day Planner]]
@@ -954,7 +954,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Tracking Tasks with Tasks Plugin and Dataview]] | — | — | Tracking Tasks with Tasks Plugin and ... | 40 |
 | 2 | [[Tasks Plugin]] | — | — | Review System | 212 |
-| 3 | [[Dataview Plugin]] | — | — | Review System | 213 |
+| 3 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Review System | 213 |
 | 4 | [[Obsidian]] | — | — | Review System | 214 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Review System | 215 |
 | 6 | [[Task Management]] | — | — | Review System | 216 |
@@ -973,10 +973,10 @@ extraction_summary:
 | 19 | [[Context-Based Productivity]] | — | — | Review System | 229 |
 | 20 | [[Obsidian]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
 | 21 | [[Tasks Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
-| 22 | [[Dataview Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
+| 22 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
 | 23 | [[Task Management]] | — | — | 📋 Tracking Tasks with Tasks Plugin an... | 253 |
 | 24 | [[Tasks Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
-| 25 | [[Dataview Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
+| 25 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
 | 26 | [[Project Management in Obsidian]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 260 |
 | 27 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🎯 Why Combine Tasks Plugin with Datav... | 265 |
 | 28 | [[Tasks Plugin]] | — | — | Basic Task Syntax | 317 |
@@ -1597,7 +1597,7 @@ WHERE due < date(today)
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Context-Based Productivity]]
 - [[Dashboard Design]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Strategies]]
 - [[Date Management]]
 - [[Day Planner]]

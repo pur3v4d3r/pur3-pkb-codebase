@@ -347,7 +347,7 @@ extraction_summary:
 > - [[Metadata]]
 > - [[Workflow Design]]
 > - [[Visual Semantics]]
-> - [[Information Architecture]]
+> - [[Information-Architecture|Information Architecture]]
 > Callout Strategy:
 > - [!definition] for checkbox type definitions
 > - [!example] for syntax demonstrations
@@ -539,7 +539,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > **Principle 2: Visual Consistency**
-> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[Procedural Memory]] and reduces cognitive processing time.
+> Maintain consistent color semantics (e.g., red=important, blue=in-progress, gray=cancelled) across your entire [[PKB]]. This builds [[Procedural-Memory|Procedural Memory]] and reduces cognitive processing time.
 
 #### 25. [KEY-CLAIM] Untitled *(Line 1261)*
 
@@ -622,7 +622,7 @@ extraction_summary:
 - [[Custom Statuses]]
 - [[Dataview]]
 - [[Dataview & Tasks Plugin Query Mastery]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Developer Tools]]
 - [[Dungeons & Dragons]]
 - [[Edit Mode]]
@@ -634,7 +634,7 @@ extraction_summary:
 - [[HTML]]
 - [[Heroicons]]
 - [[ITS Theme]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Kanban Plugin]]
 - [[Knowledge Work]]
 - [[Live Preview]]
@@ -647,17 +647,17 @@ extraction_summary:
 - [[Obsidian Plugins]]
 - [[Obsidian Themes]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Plain-Text Portability]]
 - [[Primary Theme]]
-- [[Procedural Memory]]
+- [[Procedural-Memory|Procedural Memory]]
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reading View]]
 - [[Reference Note]]
 - [[SVG]]
 - [[Sanctum Theme]]
-- [[Semantic Network]]
+- [[Semantic-Network|Semantic Network]]
 - [[Software Development]]
 - [[Source Mode]]
 - [[Style Settings Plugin]]
@@ -691,7 +691,7 @@ extraction_summary:
 | 10 | [[Metadata]] | — | — | Tags & Classification | 198 |
 | 11 | [[Workflow Design]] | — | — | Tags & Classification | 199 |
 | 12 | [[Visual Semantics]] | — | — | Tags & Classification | 200 |
-| 13 | [[Information Architecture]] | — | — | Tags & Classification | 201 |
+| 13 | [[Information-Architecture|Information Architecture]] | — | — | Tags & Classification | 201 |
 | 14 | [[Obsidian]] | — | — | Tags & Classification | 229 |
 | 15 | [[Markdown]] | — | — | Tags & Classification | 229 |
 | 16 | [[CSS Snippets]] | — | — | Tags & Classification | 229 |
@@ -705,7 +705,7 @@ extraction_summary:
 | 24 | [[Markdown]] | — | — | The Evolution from Standard Markdown | 255 |
 | 25 | [[Knowledge Work]] | — | — | The Evolution from Standard Markdown | 255 |
 | 26 | [[Project Management]] | — | — | The Evolution from Standard Markdown | 255 |
-| 27 | [[Personal Knowledge Base]] | — | — | The Evolution from Standard Markdown | 255 |
+| 27 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Evolution from Standard Markdown | 255 |
 | 28 | [[Obsidian]] | — | — | The Evolution from Standard Markdown | 255 |
 | 29 | [[Markdown]] | — | — | The Evolution from Standard Markdown | 255 |
 | 30 | [[Minimal Theme]] | — | — | The Evolution from Standard Markdown | 257 |
@@ -781,7 +781,7 @@ extraction_summary:
 | 100 | [[ITS Theme]] | — | — | Tasks Plugin | 572 |
 | 101 | [[Obsidian]] | — | — | Query: Cancelled Tasks This Month | 599 |
 | 102 | [[Tasks Plugin]] | — | — | Query: Cancelled Tasks This Month | 599 |
-| 103 | [[Dataview Plugin]] | — | — | Dataview Integration | 603 |
+| 103 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Dataview Integration | 603 |
 | 104 | [[Dataview]] | — | — | Dataview Integration | 615 |
 | 105 | [[Dataview]] | — | — | Dataview Integration | 624 |
 | 106 | [[Dataview]] | — | — | Dataview Integration | 624 |
@@ -831,14 +831,14 @@ extraction_summary:
 | 150 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Cognitive Models for Alternative Chec... | 1234 |
 | 151 | [[Markdown]] | — | — | Cognitive Models for Alternative Chec... | 1242 |
 | 152 | [[PKB]] | — | — | Design Principles for Checkbox Systems | 1259 |
-| 153 | [[Procedural Memory]] | — | — | Design Principles for Checkbox Systems | 1259 |
+| 153 | [[Procedural-Memory|Procedural Memory]] | — | — | Design Principles for Checkbox Systems | 1259 |
 | 154 | [[Templater]] | — | — | General Tasks | 1295 |
 | 155 | [[QuickAdd]] | — | — | General Tasks | 1295 |
 | 156 | [[Tasks Plugin]] | — | — | Important Decisions | 1319 |
 | 157 | [[Reference Note]] | — | — | Common Pitfalls & Solutions | 1369 |
 | 158 | [[Task Status Plugin]] | — | — | Common Pitfalls & Solutions | 1381 |
 | 159 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Integration with Broader PKM Philosophy | 1415 |
-| 160 | [[Semantic Network]] | — | — | Integration with Broader PKM Philosophy | 1421 |
+| 160 | [[Semantic-Network|Semantic Network]] | — | — | Integration with Broader PKM Philosophy | 1421 |
 | 161 | [[Task Management Systems Comparison]] | — | — | 🔗 Related Topics for PKB Expansion | 1478 |
 | 162 | [[CSS Snippet Development for Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 1483 |
 | 163 | [[Visual Semantics in Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1488 |
@@ -1768,7 +1768,7 @@ stateDiagram-v2
 - [[Custom Statuses]]
 - [[Dataview]]
 - [[Dataview & Tasks Plugin Query Mastery]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Developer Tools]]
 - [[Dungeons & Dragons]]
 - [[Edit Mode]]
@@ -1780,7 +1780,7 @@ stateDiagram-v2
 - [[HTML]]
 - [[Heroicons]]
 - [[ITS Theme]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Kanban Plugin]]
 - [[Knowledge Work]]
 - [[Live Preview]]
@@ -1793,17 +1793,17 @@ stateDiagram-v2
 - [[Obsidian Plugins]]
 - [[Obsidian Themes]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Plain-Text Portability]]
 - [[Primary Theme]]
-- [[Procedural Memory]]
+- [[Procedural-Memory|Procedural Memory]]
 - [[Project Management]]
 - [[QuickAdd]]
 - [[Reading View]]
 - [[Reference Note]]
 - [[SVG]]
 - [[Sanctum Theme]]
-- [[Semantic Network]]
+- [[Semantic-Network|Semantic Network]]
 - [[Software Development]]
 - [[Source Mode]]
 - [[Style Settings Plugin]]

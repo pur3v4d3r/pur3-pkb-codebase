@@ -564,8 +564,8 @@ extraction_summary:
 
 - [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
 - [[Avi Assor]]
-- [[Cognitive Evaluation Theory]]
-- [[Conditional regard]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Conditional-Regard|Conditional regard]]
 - [[Csikszentmihalyi]]
 - [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]]
 - [[Edward Deci]]
@@ -573,17 +573,17 @@ extraction_summary:
 - [[Gamification in Learning]]
 - [[Growth Mindset and Incremental Intelligence Theory]]
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
-- [[Intrinsic motivation]]
+- [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Metacognition and Self-Regulated Learning]]
 - [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 - [[Need deprivation]]
-- [[Need thwarting]]
-- [[Organismic Integration Theory]]
+- [[Need-Thwarting|Need thwarting]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety in Learning Environments]]
 - [[Richard Ryan]]
 - [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]]
 - [[SDT and Formative Assessment: Feedback as Informational or Controlling]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Overview]]
 - [[autonomy]]
 - [[competence]]
@@ -594,21 +594,21 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 2 | [[Edward Deci]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 4 | [[autonomy]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 5 | [[competence]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 6 | [[relatedness]] | — | — | Phase I: Orientation & Analytical Focus | 251 |
 | 7 | [[Self-Determination Theory — Foundational Overview]] | — | — | Phase I: Orientation & Analytical Focus | 255 |
-| 8 | [[Intrinsic motivation]] | — | — | Intrinsic Motivation and the Problem ... | 271 |
-| 9 | [[Organismic Integration Theory]] | — | — | The Regulatory Spectrum: From Amotiva... | 292 |
+| 8 | [[Intrinsic-Motivation|Intrinsic motivation]] | — | — | Intrinsic Motivation and the Problem ... | 271 |
+| 9 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Regulatory Spectrum: From Amotiva... | 292 |
 | 10 | [[Need deprivation]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
-| 11 | [[Need thwarting]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
-| 12 | [[Cognitive Evaluation Theory]] | — | — | The Evidence Landscape: Breadth, Dept... | 358 |
+| 11 | [[Need-Thwarting|Need thwarting]] | — | — | The Evidence Landscape: Breadth, Dept... | 348 |
+| 12 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Evidence Landscape: Breadth, Dept... | 358 |
 | 13 | [[Csikszentmihalyi]] | — | — | The Mechanism of Competence: Optimal ... | 399 |
 | 14 | [[flow]] | — | — | The Mechanism of Competence: Optimal ... | 399 |
-| 15 | [[Conditional regard]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
+| 15 | [[Conditional-Regard|Conditional regard]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
 | 16 | [[Avi Assor]] | — | — | The Mechanism of Relatedness: Social ... | 416 |
 | 17 | [[Growth Mindset and Incremental Intelligence Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 539 |
 | 18 | [[Metacognition and Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 541 |
@@ -635,8 +635,8 @@ extraction_summary:
 
 - [[Autonomy Support in Digital and AI-Mediated Learning Environments]]
 - [[Avi Assor]]
-- [[Cognitive Evaluation Theory]]
-- [[Conditional regard]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Conditional-Regard|Conditional regard]]
 - [[Csikszentmihalyi]]
 - [[Cultural Universality vs. Cultural Moderation in SDT: A Critical Analysis]]
 - [[Edward Deci]]
@@ -644,17 +644,17 @@ extraction_summary:
 - [[Gamification in Learning]]
 - [[Growth Mindset and Incremental Intelligence Theory]]
 - [[Internalization and Academic Identity: Why Some Students Never Reach Integrated Regulation]]
-- [[Intrinsic motivation]]
+- [[Intrinsic-Motivation|Intrinsic motivation]]
 - [[Metacognition and Self-Regulated Learning]]
 - [[Need Thwarting Mechanisms and Ill-Being — A Focused Analysis]]
 - [[Need deprivation]]
-- [[Need thwarting]]
-- [[Organismic Integration Theory]]
+- [[Need-Thwarting|Need thwarting]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety in Learning Environments]]
 - [[Richard Ryan]]
 - [[SDT Meets Achievement Goal Theory: Convergences, Divergences, and Integration Possibilities]]
 - [[SDT and Formative Assessment: Feedback as Informational or Controlling]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Overview]]
 - [[autonomy]]
 - [[competence]]
@@ -673,7 +673,7 @@ extraction_summary:
 - [[Growth Mindset and Incremental Intelligence Theory]]
 - [[Metacognition and Self-Regulated Learning]]
 - [[Engagement Frameworks in Education]]
-- [[Cognitive Evaluation Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Goal Orientation Theory]]
 - [[Psychological Safety in Learning Environments]]
 - [[Resilience and Academic Persistence]]
@@ -682,7 +682,7 @@ extraction_summary:
 #### Broader
 
 - [[Motivational Psychology]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Learning Science]]
 
 #### Narrower
@@ -696,7 +696,7 @@ extraction_summary:
 - [[Self-Efficacy Theory (Bandura)]]
 - [[Flow Theory (Csikszentmihalyi)]]
 - [[Maslow's Hierarchy of Needs]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
 #### Contrasts With
 
@@ -705,7 +705,7 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Teacher Professional Development]]
 - [[Gamification in Learning]]
 - [[Student Wellbeing Frameworks]]

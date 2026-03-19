@@ -1042,7 +1042,7 @@ extraction_summary:
 - [[Concept B]]
 - [[Concept X]]
 - [[Deep Dive Report Prompt]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
 - [[FARG v1.0]]
@@ -1229,7 +1229,7 @@ extraction_summary:
 | 101 | [[Prompt Engineering Specialist Agent v5.1]] | — | — | ═════════════════════════════════════... | 2349 |
 | 102 | [[Topic X]] | — | — | What "Focused Analysis" Means | 2475 |
 | 103 | [[Prediction-Based Learning]] | — | — | Modality 1: Predictive Engagement | 2673 |
-| 104 | [[Elaborative Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 2696 |
+| 104 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Modality 2: Conceptual Checkpoints | 2696 |
 | 105 | [[Calibration Training]] | — | — | Modality 3: Calibration Exercises | 2709 |
 | 106 | [[Metacognitive Awareness]] | — | — | Modality 3: Calibration Exercises | 2709 |
 | 107 | [[Concept A]] | — | — | The Return-and-Deepen Pattern | 2843 |
@@ -2107,7 +2107,7 @@ After outputting the artifact, provide a brief (3-5 sentence) summary in the cha
 - [[Concept B]]
 - [[Concept X]]
 - [[Deep Dive Report Prompt]]
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
 - [[FARG v1.0]]

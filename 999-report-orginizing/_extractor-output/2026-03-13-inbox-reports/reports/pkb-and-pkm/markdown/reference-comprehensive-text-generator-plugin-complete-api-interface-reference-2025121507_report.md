@@ -302,7 +302,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Executive Summary *(Line 356)*
 
 > [!abstract] Executive Summary
-> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template Engineering]], [[Smart Connections]] integration, and replicating [[Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
+> **Text Generator Plugin** transforms [[Obsidian]] into a fully-featured [[API]] user interface for [[Large Language Models]], eliminating the need to leave your vault for AI-assisted work. This comprehensive reference covers everything from basic generation to advanced [[Template Engineering]], [[Smart-Connections|Smart Connections]] integration, and replicating [[Claude Projects]] workflows entirely within your [[PKB]]. Master this plugin to achieve seamless AI-augmented knowledge work without context-switching between applications.
 
 #### 4. [HOW-TO-USE-THIS] Navigation Guide *(Line 359)*
 
@@ -404,7 +404,7 @@ extraction_summary:
 #### 20. [EXAMPLE] Semantic Context Injection *(Line 959)*
 
 > [!example] Semantic Context Injection
-> **What This Does:** Queries [[Smart Connections]] for relevant notes and includes them as context
+> **What This Does:** Queries [[Smart-Connections|Smart Connections]] for relevant notes and includes them as context
 
 #### 21. [EXAMPLE] Research Synthesis Pipeline *(Line 1011)*
 
@@ -603,8 +603,8 @@ extraction_summary:
 - [[Claude API]]
 - [[Claude Projects]]
 - [[Claude.ai]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
@@ -621,18 +621,18 @@ extraction_summary:
 - [[OpenAI]]
 - [[PKB]]
 - [[PKB Automation]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt Engineering]]
 - [[Prompt Engineering Fundamentals]]
 - [[Reference Note]]
 - [[Semantic Search]]
 - [[Semantic Search Architecture for PKB]]
-- [[Smart Connections]]
+- [[Smart-Connections|Smart Connections]]
 - [[Template Engineering]]
 - [[Template System]]
 - [[Templater]]
 - [[Templater Plugin Advanced Patterns]]
-- [[Text Generator Plugin]]
+- [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]
 - [[YAML Frontmatter]]
@@ -647,7 +647,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Text Generator Plugin: Complete API Interface Reference]] | — | — | Document Start | 39 |
-| 2 | [[Smart Connections]] | — | — | Text Generator Plugin: Complete API I... | 344 |
+| 2 | [[Smart-Connections|Smart Connections]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 3 | [[Templater]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 4 | [[Dataview]] | — | — | Text Generator Plugin: Complete API I... | 344 |
 | 5 | [[Claude API]] | — | — | Text Generator Plugin: Complete API I... | 344 |
@@ -657,7 +657,7 @@ extraction_summary:
 | 9 | [[API]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 10 | [[Large Language Models]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 11 | [[Template Engineering]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
-| 12 | [[Smart Connections]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
+| 12 | [[Smart-Connections|Smart Connections]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 13 | [[Claude Projects]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 14 | [[PKB]] | — | — | 📚 Text Generator Plugin: Complete API... | 357 |
 | 15 | [[Obsidian]] | — | — | What is Text Generator Plugin? | 385 |
@@ -671,13 +671,13 @@ extraction_summary:
 | 23 | [[PKB]] | — | — | What is Text Generator Plugin? | 387 |
 | 24 | [[ChatGPT]] | — | — | What is Text Generator Plugin? | 387 |
 | 25 | [[Claude.ai]] | — | — | What is Text Generator Plugin? | 387 |
-| 26 | [[Cognitive Load]] | — | — | What is Text Generator Plugin? | 387 |
+| 26 | [[Cognitive-Load|Cognitive Load]] | — | — | What is Text Generator Plugin? | 387 |
 | 27 | [[API]] | — | — | Why Use Text Generator as Your Primar... | 391 |
 | 28 | [[Knowledge Graph]] | — | — | Why Use Text Generator as Your Primar... | 394 |
 | 29 | [[API]] | — | — | Why Use Text Generator as Your Primar... | 397 |
 | 30 | [[Template System]] | — | — | Why Use Text Generator as Your Primar... | 400 |
 | 31 | [[Prompt Engineering]] | — | — | Why Use Text Generator as Your Primar... | 400 |
-| 32 | [[Smart Connections]] | — | — | Why Use Text Generator as Your Primar... | 403 |
+| 32 | [[Smart-Connections|Smart Connections]] | — | — | Why Use Text Generator as Your Primar... | 403 |
 | 33 | [[Semantic Search]] | — | — | Why Use Text Generator as Your Primar... | 403 |
 | 34 | [[Templater]] | — | — | Why Use Text Generator as Your Primar... | 403 |
 | 35 | [[Dataview]] | — | — | Why Use Text Generator as Your Primar... | 403 |
@@ -698,12 +698,12 @@ extraction_summary:
 | 50 | [[YAML Frontmatter]] | — | — | Template File Specifications | 530 |
 | 51 | [[Handlebars]] | — | — | Context Variable Reference | 567 |
 | 52 | [[Handlebars]] | — | — | Handlebars Template Syntax | 726 |
-| 53 | [[Personal Knowledge Management]] | — | — | Advanced Template Patterns | 798 |
+| 53 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Advanced Template Patterns | 798 |
 | 54 | [[like this]] | — | — | Advanced Template Patterns | 808 |
 | 55 | [[Zettelkasten]] | — | — | Advanced Template Patterns | 813 |
 | 56 | [[wiki-links]] | — | — | Advanced Template Patterns | 829 |
 | 57 | [[wiki-link]] | — | — | Advanced Template Patterns | 842 |
-| 58 | [[Smart Connections]] | — | — | Dynamic Context Assembly | 960 |
+| 58 | [[Smart-Connections|Smart Connections]] | — | — | Dynamic Context Assembly | 960 |
 | 59 | [[wiki-links]] | — | — | Dynamic Context Assembly | 1000 |
 | 60 | [[wiki-links]] | — | — | Multi-Step Generation Workflows | 1025 |
 | 61 | [[wiki-links]] | — | — | Multi-Step Generation Workflows | 1045 |
@@ -723,13 +723,13 @@ extraction_summary:
 | 75 | [[Templater Plugin Advanced Patterns]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1845 |
 | 76 | [[Obsidian Basics]] | — | — | 2. **[[Templater Plugin Advanced Patt... | 1850 |
 | 77 | [[Cognitive Load Theory and PKB Design]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1856 |
-| 78 | [[Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1861 |
+| 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3. **[[Cognitive Load Theory and PKB ... | 1861 |
 | 79 | [[API Cost Optimization Strategies]] | — | — | 4. **[[API Cost Optimization Strategi... | 1863 |
 | 80 | [[Building Custom AI Agents in Obsidian]] | — | — | 5. **[[Building Custom AI Agents in O... | 1874 |
-| 81 | [[Text Generator Plugin]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
-| 82 | [[Smart Connections]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
+| 81 | [[Text-Generator-Plugin|Text Generator Plugin]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
+| 82 | [[Smart-Connections|Smart Connections]] | — | — | 5. **[[Building Custom AI Agents in O... | 1879 |
 | 83 | [[Semantic Search Architecture for PKB]] | — | — | 6. **[[Semantic Search Architecture f... | 1881 |
-| 84 | [[Smart Connections]] | — | — | 6. **[[Semantic Search Architecture f... | 1886 |
+| 84 | [[Smart-Connections|Smart Connections]] | — | — | 6. **[[Semantic Search Architecture f... | 1886 |
 | 85 | [[Obsidian Basics]] | — | — | 🔄 Version History | 1912 |
 | 86 | [[API Concepts]] | — | — | 🔄 Version History | 1913 |
 
@@ -1058,7 +1058,7 @@ promptTemplate: |
   What questions remain unanswered?
   
   ## Connections
-  What does this connect to in [[Personal Knowledge Management]]?
+  What does this connect to in [[Personal-Knowledge-Management|Personal Knowledge Management]]?
   
   Format your response using the headers above.
 model: claude-3-5-sonnet-20241022
@@ -2020,8 +2020,8 @@ $$
 - [[Claude API]]
 - [[Claude Projects]]
 - [[Claude.ai]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory and PKB Design]]
 - [[Dataview]]
 - [[Google]]
@@ -2038,18 +2038,18 @@ $$
 - [[OpenAI]]
 - [[PKB]]
 - [[PKB Automation]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt Engineering]]
 - [[Prompt Engineering Fundamentals]]
 - [[Reference Note]]
 - [[Semantic Search]]
 - [[Semantic Search Architecture for PKB]]
-- [[Smart Connections]]
+- [[Smart-Connections|Smart Connections]]
 - [[Template Engineering]]
 - [[Template System]]
 - [[Templater]]
 - [[Templater Plugin Advanced Patterns]]
-- [[Text Generator Plugin]]
+- [[Text-Generator-Plugin|Text Generator Plugin]]
 - [[Text Generator Plugin: Complete API Interface Reference]]
 - [[Tokens]]
 - [[YAML Frontmatter]]

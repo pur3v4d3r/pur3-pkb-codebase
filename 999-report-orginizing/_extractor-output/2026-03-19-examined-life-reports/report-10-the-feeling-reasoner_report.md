@@ -173,7 +173,7 @@ extraction_summary:
 #### 8. [CONNECTION-IDEAS] 🔗 TCE Connects to Report 09's Interoceptive Inference *(Line 310)*
 
 > [!connection-ideas] 🔗 TCE Connects to Report 09's Interoceptive Inference
-> Barrett's account of core affect as interoceptive prediction connects directly to [[Anil Seth]]'s account of interoceptive inference from Report 09. Both are drawing on the same [[Predictive Processing]] framework: the brain generates predictions about the body's internal state, and these predictions — when they are emotionally categorized — constitute emotional experience. This means that the emotional and physiological dimensions of cognition are not two separate systems but two levels of description of the same predictive process. Physiological metacognition (Report 09) and emotional metacognition (Report 10) are thus complementary practices targeting different aspects of the same underlying system.
+> Barrett's account of core affect as interoceptive prediction connects directly to [[Anil Seth]]'s account of interoceptive inference from Report 09. Both are drawing on the same [[Predictive-Processing|Predictive Processing]] framework: the brain generates predictions about the body's internal state, and these predictions — when they are emotionally categorized — constitute emotional experience. This means that the emotional and physiological dimensions of cognition are not two separate systems but two levels of description of the same predictive process. Physiological metacognition (Report 09) and emotional metacognition (Report 10) are thus complementary practices targeting different aspects of the same underlying system.
 
 #### 9. [DEFINITION] 🔖 Appraisal Theory *(Line 319)*
 
@@ -438,14 +438,14 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Affect-as-Information Theory]]
+- [[Affect-as-Information-Theory|Affect-as-Information Theory]]
 - [[Affect-as-Information in Decision Making]]
 - [[Affective Prediction Errors]]
-- [[Affective Realism]]
+- [[Affective-Realism|Affective Realism]]
 - [[Anil Seth]]
 - [[Antonio Damasio]]
 - [[Appraisal Accuracy]]
-- [[Appraisal Theory]]
+- [[Appraisal-Theory|Appraisal Theory]]
 - [[Barrett and Wormwood]]
 - [[Chrysippus]]
 - [[Cicero]]
@@ -453,75 +453,75 @@ extraction_summary:
 - [[Component Process Model]]
 - [[Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion Concepts]]
 - [[Emotion Differentiation]]
 - [[Emotion Regulation]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
 - [[Emotional Intelligence]]
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
 - [[Gerald Clore]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
 - [[Klaus Scherer]]
 - [[Lisa Feldman Barrett]]
 - [[Margaret Graver]]
 - [[Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
 - [[O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Richard Lazarus]]
 - [[Schwarz and Clore]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Siemer, Mauss, and Gross]]
 - [[Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]
 - [[System 1 Governance]]
-- [[Theory of Constructed Emotion]]
+- [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]]
 - [[Tversky]]
-- [[Ventromedial Prefrontal Cortex]]
+- [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | 1.1 The Problem With Two Roles | 257 |
-| 2 | [[Motivated Reasoning]] | — | — | 1.1 The Problem With Two Roles | 257 |
-| 3 | [[Dual Process Theory]] | — | — | 1.1 The Problem With Two Roles | 259 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 1.1 The Problem With Two Roles | 257 |
+| 2 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 1.1 The Problem With Two Roles | 257 |
+| 3 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 1.1 The Problem With Two Roles | 259 |
 | 4 | [[Antonio Damasio]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 5 | [[Ventromedial Prefrontal Cortex]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 5 | [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 6 | [[Somatic Markers]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 7 | [[Norbert Schwarz]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
 | 8 | [[Gerald Clore]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 9 | [[Affect-as-Information Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
-| 10 | [[Theory of Constructed Emotion]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
-| 11 | [[Appraisal Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
+| 9 | [[Affect-as-Information-Theory|Affect-as-Information Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 270 |
+| 10 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
+| 11 | [[Appraisal-Theory|Appraisal Theory]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 12 | [[Pathē]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
 | 13 | [[Eupatheia]] | — | — | 1.2 The Third Function: Emotion as Ep... | 272 |
-| 14 | [[Emotional Granularity]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
+| 14 | [[Emotional-Granularity|Emotional Granularity]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
 | 15 | [[Appraisal Accuracy]] | — | — | 1.3 Why This Matters for the Examined... | 283 |
 | 16 | [[Lisa Feldman Barrett]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
-| 17 | [[Theory of Constructed Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
+| 17 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
 | 18 | [[Classical View of Emotion]] | — | — | 2.1 The Theory of Constructed Emotion... | 297 |
 | 19 | [[Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 299 |
 | 20 | [[Emotion Concepts]] | — | — | 2.1 The Theory of Constructed Emotion... | 306 |
-| 21 | [[Affective Realism]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
+| 21 | [[Affective-Realism|Affective Realism]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
 | 22 | [[Barrett and Wormwood]] | — | — | 2.1 The Theory of Constructed Emotion... | 308 |
 | 23 | [[Anil Seth]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
-| 24 | [[Predictive Processing]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
-| 25 | [[Appraisal Theory]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
+| 24 | [[Predictive-Processing|Predictive Processing]] | — | — | 2.1 The Theory of Constructed Emotion... | 311 |
+| 25 | [[Appraisal-Theory|Appraisal Theory]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 26 | [[Richard Lazarus]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 27 | [[Klaus Scherer]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
 | 28 | [[Component Process Model]] | — | — | 2.2 Appraisal Theory: Emotions as Eva... | 315 |
@@ -533,26 +533,26 @@ extraction_summary:
 | 34 | [[Pathē]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 333 |
 | 35 | [[Margaret Graver]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
 | 36 | [[Martha Nussbaum]] | — | — | 2.3 The Stoic Theory of Passions: Pat... | 340 |
-| 37 | [[Emotional Granularity]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
+| 37 | [[Emotional-Granularity|Emotional Granularity]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
 | 38 | [[Emotion Differentiation]] | — | — | 2.4 Emotional Granularity: The Episte... | 347 |
 | 39 | [[O'Toole, Bovard-Abbo, and Weightman]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 40 | [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
 | 41 | [[Emotion Regulation]] | — | — | 2.4 Emotional Granularity: The Episte... | 349 |
-| 42 | [[Affect-as-Information Theory]] | — | — | 3.1 The Master Tension: Information v... | 370 |
+| 42 | [[Affect-as-Information-Theory|Affect-as-Information Theory]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 43 | [[Kahneman]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 44 | [[Tversky]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 45 | [[Stanovich]] | — | — | 3.1 The Master Tension: Information v... | 370 |
 | 46 | [[System 1 Governance]] | — | — | 3.1 The Master Tension: Information v... | 379 |
-| 47 | [[Theory of Constructed Emotion]] | — | — | 3.2 The Structural Homology: Stoic Co... | 383 |
+| 47 | [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]] | — | — | 3.2 The Structural Homology: Stoic Co... | 383 |
 | 48 | [[Propatheiai]] | — | — | 3.2 The Structural Homology: Stoic Co... | 385 |
 | 49 | [[Prosoche]] | — | — | 3.3 Resolving the Stoic Misreading | 405 |
 | 50 | [[Damasio]] | — | — | 3.4 The Limits of Deliberate Reasonin... | 409 |
 | 51 | [[Schwarz and Clore]] | — | — | 4.2 The Epistemic Limits of Emotional... | 455 |
 | 52 | [[Emotional Intelligence]] | — | — | 4.3 Developmental Implications | 472 |
 | 53 | [[Martha Nussbaum]] | — | — | 5.1 The Emergent Insight: Emotional G... | 495 |
-| 54 | [[Self-Determination Theory]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 501 |
-| 55 | [[Intellectual Courage]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
-| 56 | [[Intellectual Humility]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
+| 54 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 501 |
+| 55 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
+| 56 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 503 |
 | 57 | [[Affective Prediction Errors]] | — | — | 5.2 Bidirectional Enrichment: How Rep... | 510 |
 | 58 | [[Lisa Feldman Barrett]] | — | — | 6.1 Key Terms and Definitions | 535 |
 | 59 | [[Antonio Damasio]] | — | — | 6.1 Key Terms and Definitions | 559 |
@@ -589,14 +589,14 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Affect-as-Information Theory]]
+- [[Affect-as-Information-Theory|Affect-as-Information Theory]]
 - [[Affect-as-Information in Decision Making]]
 - [[Affective Prediction Errors]]
-- [[Affective Realism]]
+- [[Affective-Realism|Affective Realism]]
 - [[Anil Seth]]
 - [[Antonio Damasio]]
 - [[Appraisal Accuracy]]
-- [[Appraisal Theory]]
+- [[Appraisal-Theory|Appraisal Theory]]
 - [[Barrett and Wormwood]]
 - [[Chrysippus]]
 - [[Cicero]]
@@ -604,69 +604,69 @@ extraction_summary:
 - [[Component Process Model]]
 - [[Constructed Emotion Theory — Deep Dive]]
 - [[Damasio]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Emotion Concepts]]
 - [[Emotion Differentiation]]
 - [[Emotion Regulation]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Emotional Granularity Training Protocols]]
 - [[Emotional Intelligence]]
 - [[Erbas, Ceulemans, Lee Pe, Koval, and Kuppens]]
 - [[Eupatheia]]
 - [[Galen]]
 - [[Gerald Clore]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Kahneman]]
 - [[Klaus Scherer]]
 - [[Lisa Feldman Barrett]]
 - [[Margaret Graver]]
 - [[Martha Nussbaum]]
 - [[Moral Emotions and Ethical Perception]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Norbert Schwarz]]
 - [[Nussbaum's Upheavals of Thought — Key Arguments]]
 - [[O'Toole, Bovard-Abbo, and Weightman]]
 - [[Pathē]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Richard Lazarus]]
 - [[Schwarz and Clore]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seneca]]
 - [[Siemer, Mauss, and Gross]]
 - [[Somatic Markers]]
 - [[Stanovich]]
 - [[Stoic Therapy of the Passions — Complete System]]
 - [[System 1 Governance]]
-- [[Theory of Constructed Emotion]]
+- [[Theory-of-Constructed-Emotion|Theory of Constructed Emotion]]
 - [[Tversky]]
-- [[Ventromedial Prefrontal Cortex]]
+- [[Ventromedial-Prefrontal-Cortex|Ventromedial Prefrontal Cortex]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Interoception and Interoceptive Inference]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Stoic Philosophy — Epictetus]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Related
 
 - [[Emotional Intelligence]]
 - [[Affective Neuroscience]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Mindfulness and Affect Regulation]]
 
 #### Broader
 
-- [[Philosophy of Mind]]
-- [[Cognitive Science]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Virtue Ethics]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 
 ---
 

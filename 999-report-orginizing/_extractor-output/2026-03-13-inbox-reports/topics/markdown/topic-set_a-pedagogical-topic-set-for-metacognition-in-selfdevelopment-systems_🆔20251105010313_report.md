@@ -105,14 +105,14 @@ extraction_summary:
 #### 2. [TOPIC-IDEA] Untitled *(Line 38)*
 
 > [!topic-idea] Untitled
-> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems
+> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive-Monitoring|Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems
 > 
 > **Scope & Angle:** This topic provides a comprehensive exposition of the dual-process model of metacognition (monitoring and control) and how these processes can be systematically applied to create a self-development framework. It covers the theoretical foundations from Flavell, Nelson & Narens, and modern neurocognitive research, then maps these concepts onto practical self-improvement methodologies. The focus is on understanding the complete taxonomy of metacognitive strategies and their specific applications in behavior change.
 
 #### 3. [TOPIC-IDEA] Untitled *(Line 52)*
 
 > [!topic-idea] Untitled
-> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
+> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth
 > 
 > **Scope & Angle:** This topic addresses the concrete problem of how individuals can accurately assess their own competencies and progress when cognitive biases (particularly the Dunning-Kruger effect) systematically distort self-perception. It explores practical solutions including external calibration methods, structured reflection protocols, and objective measurement systems. The focus is on creating a reliable feedback system that overcomes the inherent limitations of self-assessment.
 
@@ -180,14 +180,14 @@ extraction_summary:
 
 - [[30-Day Metacognitive Experiment]]
 - [[Cambridge Brain Sciences Project]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ecological Momentary Assessment Methods]]
 - [[Executive Control]]
 - [[Implementation Intentions and If-Then Planning]]
 - [[Interoception and Embodied Cognition]]
 - [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]]
 - [[Metacognitive Feedback Loop Architecture]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Personal Change]]
 - [[Self-Awareness]]
 - [[Self-Improvement]]
@@ -198,9 +198,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Metacognitive Monitoring]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
+| 1 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
 | 2 | [[Executive Control]] | — | — | A Pedagogical Topic Set for Metacogni... | 40 |
-| 3 | [[Dunning-Kruger Effect]] | — | — | A Pedagogical Topic Set for Metacogni... | 53 |
+| 3 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | A Pedagogical Topic Set for Metacogni... | 53 |
 | 4 | [[Self-Awareness]] | — | — | A Pedagogical Topic Set for Metacogni... | 66 |
 | 5 | [[Self-Improvement]] | — | — | A Pedagogical Topic Set for Metacogni... | 66 |
 | 6 | [[30-Day Metacognitive Experiment]] | — | — | A Pedagogical Topic Set for Metacogni... | 79 |
@@ -283,14 +283,14 @@ For each pedagogical scaffold, I need to find the perfect angle:
 
 - [[30-Day Metacognitive Experiment]]
 - [[Cambridge Brain Sciences Project]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Ecological Momentary Assessment Methods]]
 - [[Executive Control]]
 - [[Implementation Intentions and If-Then Planning]]
 - [[Interoception and Embodied Cognition]]
 - [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]]
 - [[Metacognitive Feedback Loop Architecture]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Personal Change]]
 - [[Self-Awareness]]
 - [[Self-Improvement]]

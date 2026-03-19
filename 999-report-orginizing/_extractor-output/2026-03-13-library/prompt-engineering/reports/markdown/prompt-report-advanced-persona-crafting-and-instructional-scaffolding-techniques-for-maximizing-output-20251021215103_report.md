@@ -198,7 +198,7 @@ extraction_summary:
 - [[Instructional Scaffolding]]
 - [[Persona Engineering]]
 - [[Persona_Prompts]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Injection, Agent Hijacking, and Constitutional Defenses]]
 - [[ReAct]]
 - [[Reflexion]]
@@ -228,7 +228,7 @@ extraction_summary:
 | 15 | [[DSPy]] | — | — | 2) Research — What the Literature Tea... | 55 |
 | 16 | [[Toolformer]] | — | — | 2) Research — What the Literature Tea... | 57 |
 | 17 | [[Science Communication]] | science communicator | — | Role | 139 |
-| 18 | [[Personal Knowledge Base]] | PKB | — | Role | 140 |
+| 18 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | PKB | — | Role | 140 |
 | 19 | [[Wiki-Links]] | — | — | Constraints | 148 |
 | 20 | [[Wiki-Links]] | — | — | 8) Implementation Notes for Obsidian ... | 285 |
 | 21 | [[Evaluation Rubrics for LLM Outputs]] | — | — | 🔗 Related Topics for PKB Expansion | 300 |
@@ -413,7 +413,7 @@ sequenceDiagram
 - [[Instructional Scaffolding]]
 - [[Persona Engineering]]
 - [[Persona_Prompts]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prompt Injection, Agent Hijacking, and Constitutional Defenses]]
 - [[ReAct]]
 - [[Reflexion]]

@@ -740,7 +740,7 @@ extraction_summary:
 - [[Knowledge Graph]]
 - [[LIST Query]]
 - [[Link Queries]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Map of Content]]
 - [[Metadata Schema Design]]
 - [[Metadata Schema Design Patterns for PKM]]
@@ -750,7 +750,7 @@ extraction_summary:
 - [[Page Name]]
 - [[Parent Page]]
 - [[Person Name]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
 - [[Regular Expressions]]
 - [[Related Note]]
@@ -788,7 +788,7 @@ extraction_summary:
 | 12 | [[dql]] | — | — | Foundational Understanding | 84 |
 | 13 | [[Inline Queries]] | — | — | Foundational Understanding | 84 |
 | 14 | [[DataviewJS]] | — | — | Foundational Understanding | 84 |
-| 15 | [[MOC]] | — | — | Plugin Capabilities & Limitations | 93 |
+| 15 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Plugin Capabilities & Limitations | 93 |
 | 16 | [[PKM]] | — | — | Plugin Capabilities & Limitations | 104 |
 | 17 | [[TASK Query]] | — | — | Use Case Categories | 110 |
 | 18 | [[TABLE Query]] | — | — | Use Case Categories | 111 |
@@ -848,8 +848,8 @@ extraction_summary:
 | 72 | [[JavaScript]] | — | — | 🔗 Related Topics for PKB Expansion | 2092 |
 | 73 | [[SQL]] | — | — | 🔗 Related Topics for PKB Expansion | 2093 |
 | 74 | [[Knowledge Graph]] | — | — | 🔗 Related Topics for PKB Expansion | 2094 |
-| 75 | [[MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 2095 |
-| 76 | [[Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2096 |
+| 75 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | 🔗 Related Topics for PKB Expansion | 2095 |
+| 76 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 2096 |
 | 77 | [[Zettelkasten]] | — | — | 🔗 Related Topics for PKB Expansion | 2097 |
 
 ---
@@ -2241,7 +2241,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Knowledge Graph]]
 - [[LIST Query]]
 - [[Link Queries]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Map of Content]]
 - [[Metadata Schema Design]]
 - [[Metadata Schema Design Patterns for PKM]]
@@ -2251,7 +2251,7 @@ I'll create a comprehensive Reference Note on the Dataview plugin for Obsidian. 
 - [[Page Name]]
 - [[Parent Page]]
 - [[Person Name]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Project]]
 - [[Regular Expressions]]
 - [[Related Note]]

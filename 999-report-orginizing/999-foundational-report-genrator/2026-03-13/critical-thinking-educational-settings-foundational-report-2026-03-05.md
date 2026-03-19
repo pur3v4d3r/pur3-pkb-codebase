@@ -126,23 +126,23 @@ prerequisites:
 
 related:
   - "[[Metacognition in Learning]]"
-  - "[[Inquiry-Based Learning]]"
-  - "[[Socratic Method]]"
+  - "[[Inquiry-Based-Learning|Inquiry-Based Learning]]"
+  - "[[Socratic-Method|Socratic Method]]"
   - "[[Problem-Based Learning]]"
   - "[[Bloom's Taxonomy]]"
 
 broader:
-  - "[[Educational Psychology]]"
-  - "[[Epistemology]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Epistemic-Autonomy-—-Epistemology|Epistemology]]"
 
 narrower:
-  - "[[Argument Mapping]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
   - "[[Socratic Seminars]]"
   - "[[Case-Based Reasoning in Education]]"
 
 see-also:
   - "[[Higher-Order Thinking Skills (HOTS)]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Academic Argumentation]]"
 
 contrasts-with:
@@ -242,9 +242,9 @@ generation-date: "2026-03-05"
 
 In the autumn of 1961, a Harvard undergraduate enrolled in a course taught by philosopher [[Robert Ennis]]. The course was unremarkable by most measures — except for a single observation Ennis made that would shape decades of educational research: students who could cite dates, formulae, and passages with impressive accuracy often collapsed entirely when asked to *evaluate* a source, *detect* a fallacy, or *construct* an argument for a position they personally disagreed with. They had knowledge. What they lacked was the capacity to *do something disciplined* with it.
 
-This gap — between information held and judgment exercised — is the animating problem of [[critical thinking]] in education. It is not a new problem. Socrates identified it in fifth-century Athens. John Dewey named it in the progressive education movement of the early twentieth century. And yet, despite more than a century of pedagogical reform efforts, it remains stubbornly persistent. Contemporary students in nearly every national context arrive at university able to memorize and reproduce, but far less reliably able to analyse, evaluate, and reason with independence and rigour.
+This gap — between information held and judgment exercised — is the animating problem of [[Critical-Thinking|critical thinking]] in education. It is not a new problem. Socrates identified it in fifth-century Athens. John Dewey named it in the progressive education movement of the early twentieth century. And yet, despite more than a century of pedagogical reform efforts, it remains stubbornly persistent. Contemporary students in nearly every national context arrive at university able to memorize and reproduce, but far less reliably able to analyse, evaluate, and reason with independence and rigour.
 
-Why does this matter now, more acutely than ever? The answer lies in the informational environment students inhabit. The proliferation of digital media, algorithmically curated content, and the weaponization of [[misinformation]] have transformed the cognitive demands of citizenship. A student who cannot evaluate the credibility of a source, detect a logical fallacy, or identify the hidden assumptions in a persuasive argument is not merely academically disadvantaged — they are epistemically vulnerable in a democratic society. [[Critical thinking]] has always been educationally important. In the current information landscape, it has become a survival skill.
+Why does this matter now, more acutely than ever? The answer lies in the informational environment students inhabit. The proliferation of digital media, algorithmically curated content, and the weaponization of [[misinformation]] have transformed the cognitive demands of citizenship. A student who cannot evaluate the credibility of a source, detect a logical fallacy, or identify the hidden assumptions in a persuasive argument is not merely academically disadvantaged — they are epistemically vulnerable in a democratic society. [[Critical-Thinking|Critical thinking]] has always been educationally important. In the current information landscape, it has become a survival skill.
 
 This report provides a comprehensive foundational treatment of critical thinking in educational settings. It is structured for readers who are new to the formal academic literature on this topic but who bring general intellectual sophistication. The report does not assume prior knowledge of cognitive science, philosophy, or educational theory, though it engages all three. The goal is to establish the conceptual bedrock — definitions, historical development, major frameworks, and pedagogical mechanisms — that makes further exploration of this topic coherent and cumulative.
 
@@ -279,7 +279,7 @@ Critical thinking is one of those concepts that suffers from the peculiar curse 
 > [!definition] **Metacognition**
 > Metacognition, in the context of critical thinking, refers to the capacity to think about one's own thinking — to monitor, evaluate, and regulate one's cognitive processes. A critical thinker is not merely someone who reasons well; they are someone who is aware of *how* they reason, who can detect when their own reasoning is going wrong, and who can deliberately adjust. Metacognition is, in this sense, the executive capacity that makes sustained critical thinking possible. The term was formally introduced by John Flavell in 1976 and has since become a cornerstone of learning science.
 
-These definitions converge on a central insight: [[critical thinking]] is not a single skill but a *constellation* of interrelated cognitive dispositions and competencies, held together by a commitment to intellectual self-regulation. This is why critical thinking cannot be reduced to "being sceptical" or "asking questions" — both of which are necessary but entirely insufficient.
+These definitions converge on a central insight: [[Critical-Thinking|critical thinking]] is not a single skill but a *constellation* of interrelated cognitive dispositions and competencies, held together by a commitment to intellectual self-regulation. This is why critical thinking cannot be reduced to "being sceptical" or "asking questions" — both of which are necessary but entirely insufficient.
 
 ### The Distinction Between Skill and Disposition
 
@@ -292,9 +292,9 @@ One of the most important distinctions in the critical thinking literature — a
 
 The intellectual genealogy of critical thinking in education is long and philosophically rich. Understanding it prevents the common error of treating CT as a recent educational fad rather than as the culmination of a multi-millennium tradition.
 
-The [[Socratic Method]] is the oldest formalised practice of critical thinking in an educational context. Socrates, as portrayed in Plato's dialogues, did not lecture or transmit knowledge in the conventional sense. Instead, he posed questions — typically to an interlocutor who believed themselves to be knowledgeable — and through sustained questioning, revealed the internal contradictions and unjustified assumptions underlying their beliefs. The Socratic insight was radical: knowledge cannot be poured into a student; it must be drawn out through the painful process of recognising one's own ignorance and reconstructing understanding on firmer ground.
+The [[Socratic-Method|Socratic Method]] is the oldest formalised practice of critical thinking in an educational context. Socrates, as portrayed in Plato's dialogues, did not lecture or transmit knowledge in the conventional sense. Instead, he posed questions — typically to an interlocutor who believed themselves to be knowledgeable — and through sustained questioning, revealed the internal contradictions and unjustified assumptions underlying their beliefs. The Socratic insight was radical: knowledge cannot be poured into a student; it must be drawn out through the painful process of recognising one's own ignorance and reconstructing understanding on firmer ground.
 
-In the early twentieth century, the American philosopher and educational reformer [[John Dewey]] gave critical thinking its first systematic modern treatment. Dewey's concept of "reflective thinking," developed primarily in *How We Think* (1910, revised 1933), identified five phases of productive thought: encountering a felt difficulty, defining the problem, generating hypotheses, evaluating the consequences of each hypothesis, and testing the surviving hypothesis empirically. For Dewey, reflective thought was not a luxury of intellectual life — it was the mechanism through which human beings solved genuine problems and grew in understanding. His insistence that education should cultivate this capacity rather than produce passive recipients of received knowledge laid the theoretical groundwork for all subsequent CT pedagogy.
+In the early twentieth century, the American philosopher and educational reformer [[John-Dewey|John Dewey]] gave critical thinking its first systematic modern treatment. Dewey's concept of "reflective thinking," developed primarily in *How We Think* (1910, revised 1933), identified five phases of productive thought: encountering a felt difficulty, defining the problem, generating hypotheses, evaluating the consequences of each hypothesis, and testing the surviving hypothesis empirically. For Dewey, reflective thought was not a luxury of intellectual life — it was the mechanism through which human beings solved genuine problems and grew in understanding. His insistence that education should cultivate this capacity rather than produce passive recipients of received knowledge laid the theoretical groundwork for all subsequent CT pedagogy.
 
 The mid-twentieth century saw the field become more formal and taxonomically ambitious. [[Benjamin Bloom]]'s *Taxonomy of Educational Objectives* (1956), revised by Anderson and Krathwohl in 2001, provided educators with a hierarchical model of cognitive demand: from remembering and understanding at the lower end, through applying and analysing in the middle, to evaluating and creating at the apex. This taxonomy made critical thinking *visible* in curriculum design by establishing that higher-order cognitive skills could be named, targeted, and assessed — a practical contribution of enormous consequence for classroom practice.
 
@@ -356,7 +356,7 @@ The third debate concerns the relationship between **CT and democratic citizensh
 
 Understanding critical thinking at the level of theoretical frameworks is necessary but insufficient. To effectively develop CT in students, educators need to understand the cognitive mechanisms that underlie it — the actual mental processes that constitute analysis, evaluation, and inference in practice.
 
-**Working Memory and Cognitive Load** form the neurological substrate within which CT operates. [[Working memory]] is the cognitive system that temporarily holds and manipulates information during active thinking. Critical thinking is inherently demanding of working memory: to evaluate an argument, a thinker must simultaneously hold the conclusion, the supporting premises, the logical relationship between them, relevant background knowledge, and alternative interpretations. Research by [[John Sweller]] on [[cognitive load theory]] reveals why novice learners struggle with CT tasks — their working memory is consumed by the basic comprehension demands of the content, leaving insufficient cognitive resources for the analytical overlay that CT requires. This has direct pedagogical implications: CT instruction must attend to the learner's existing knowledge base, because CT cannot be layered onto content ignorance.
+**Working Memory and Cognitive Load** form the neurological substrate within which CT operates. [[Working-Memory|Working memory]] is the cognitive system that temporarily holds and manipulates information during active thinking. Critical thinking is inherently demanding of working memory: to evaluate an argument, a thinker must simultaneously hold the conclusion, the supporting premises, the logical relationship between them, relevant background knowledge, and alternative interpretations. Research by [[John Sweller]] on [[Cognitive-Load-Theory|cognitive load theory]] reveals why novice learners struggle with CT tasks — their working memory is consumed by the basic comprehension demands of the content, leaving insufficient cognitive resources for the analytical overlay that CT requires. This has direct pedagogical implications: CT instruction must attend to the learner's existing knowledge base, because CT cannot be layered onto content ignorance.
 
 > [!key-insight] **The Knowledge-CT Dependency**
 > A counterintuitive but empirically robust finding is that critical thinking is deeply dependent on domain knowledge. [[Daniel Willingham]]'s work on reading comprehension and thinking demonstrates that critical evaluation of a claim about climate science requires substantially more background scientific knowledge than most students (or adults) possess. This does not mean that CT should be deferred until students have acquired comprehensive domain knowledge — but it does mean that CT instruction divorced from content learning is likely to produce students who can apply CT procedures to trivial examples but fail to deploy them when it matters.
@@ -476,9 +476,9 @@ And it enables intellectual humility about the limits of current knowledge — r
 >
 > **[[Bloom's Taxonomy]]** — Bloom's Revised Taxonomy provides the most widely used practical scaffold for operationalising CT in curriculum design. Understanding CT's theoretical depth enriches understanding of why "Analyse, Evaluate, Create" represent genuine cognitive advances rather than arbitrary additions to a list — they correspond to qualitatively distinct cognitive processes described in this report.
 >
-> **[[Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
+> **[[Inquiry-Based-Learning|Inquiry-Based Learning]]** — IBL is, in part, the pedagogical implementation of Dewey's reflective thinking model. Understanding CT theory explains *why* IBL works when it works (it provides authentic problems, knowledge scaffolding, and practised reasoning in context) and why it fails when it fails (absence of explicit CT instruction, insufficient knowledge base, no metacognitive prompting).
 >
-> **[[Socratic Method]]** — The Socratic Method is the oldest and most theoretically grounded implementation of CT pedagogy. This report's treatment of CT mechanisms explains the cognitive basis of the Socratic approach — it is, at core, an externally regulated metacognitive process that surfaces implicit assumptions and forces explicit evaluation of reasoning.
+> **[[Socratic-Method|Socratic Method]]** — The Socratic Method is the oldest and most theoretically grounded implementation of CT pedagogy. This report's treatment of CT mechanisms explains the cognitive basis of the Socratic approach — it is, at core, an externally regulated metacognitive process that surfaces implicit assumptions and forces explicit evaluation of reasoning.
 >
 > The pattern these connections reveal is significant: critical thinking is not an isolated educational objective but the *integrative capacity* that makes higher-order engagement across all knowledge domains possible. Every sophisticated educational practice connects back to CT at its core.
 

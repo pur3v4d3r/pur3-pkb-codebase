@@ -125,38 +125,38 @@ extraction_summary:
 ### Unique Targets
 
 - [[Argumentative Theory of Reasoning]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
 - [[Bayesian Reasoning]]
 - [[Calibrated Probability Judgment and Forecasting Accuracy]]
 - [[Cognitive Bias Fundamentals]]
-- [[Cognitive Science]]
-- [[Confirmation Bias]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Conspiracy Thinking and Epistemic Pathology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Cultural Transmission]]
-- [[Dunning-Kruger Effect]]
-- [[Epistemology]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Evolutionary Psychology]]
 - [[Evolutionary Psychology Principles]]
 - [[Intellectual Humility Project]]
 - [[Justification]]
 - [[Metacognitive Monitoring and Confidence Calibration]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Open-Mindedness]]
 - [[Paul-Elder Framework]]
 - [[Pragmatics]]
 - [[Relevance Theory]]
 - [[Second-Order Beliefs]]
 - [[Social Psychology]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Source Monitoring]]
 - [[Stoic Epistemology]]
 - [[Testimonial Knowledge]]
 - [[The Argumentative Theory of Reasoning]]
 - [[Theory of Mind]]
 - [[Trust in Testimony and Social Epistemology]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Virtue Epistemology and Intellectual Character]]
 - [[Virtue Ethics]]
 
@@ -164,33 +164,33 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Epistemology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
-| 2 | [[Cognitive Science]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
+| 1 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
+| 2 | [[Cognitive-Science|Cognitive Science]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 3 | [[Virtue Ethics]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 4 | [[Social Psychology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 9 |
 | 5 | [[Basic Epistemology]] | — | — | Epistemic Vigilance and Epistemic Hum... | 10 |
 | 6 | [[Cognitive Bias Fundamentals]] | — | — | Epistemic Vigilance and Epistemic Hum... | 10 |
 | 7 | [[Evolutionary Psychology Principles]] | — | — | Epistemic Vigilance and Epistemic Hum... | 10 |
 | 8 | [[Argumentative Theory of Reasoning]] | — | — | Overview | 19 |
-| 9 | [[Virtue Epistemology]] | — | — | Overview | 21 |
+| 9 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | Overview | 21 |
 | 10 | [[Testimonial Knowledge]] | — | — | Foundational Architecture | 30 |
 | 11 | [[Cultural Transmission]] | — | — | Foundational Architecture | 32 |
 | 12 | [[Theory of Mind]] | — | — | Foundational Architecture | 42 |
 | 13 | [[Source Monitoring]] | — | — | Foundational Architecture | 42 |
 | 14 | [[Pragmatics]] | — | — | Enrichment: Evidence, Mechanisms, and... | 63 |
 | 15 | [[Relevance Theory]] | — | — | Enrichment: Evidence, Mechanisms, and... | 63 |
-| 16 | [[Confirmation Bias]] | — | — | Enrichment: Evidence, Mechanisms, and... | 75 |
-| 17 | [[Motivated Reasoning]] | — | — | Enrichment: Evidence, Mechanisms, and... | 77 |
-| 18 | [[Critical Thinking]] | — | — | Enrichment: Evidence, Mechanisms, and... | 79 |
+| 16 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Enrichment: Evidence, Mechanisms, and... | 75 |
+| 17 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | Enrichment: Evidence, Mechanisms, and... | 77 |
+| 18 | [[Critical-Thinking|Critical Thinking]] | — | — | Enrichment: Evidence, Mechanisms, and... | 79 |
 | 19 | [[Theory of Mind]] | — | — | Integration: Connections, Application... | 87 |
 | 20 | [[Bayesian Reasoning]] | — | — | Integration: Connections, Application... | 87 |
 | 21 | [[Evolutionary Psychology]] | — | — | Integration: Connections, Application... | 87 |
-| 22 | [[Availability Heuristic]] | — | — | Integration: Connections, Application... | 112 |
-| 23 | [[Dunning-Kruger Effect]] | — | — | Foundational Architecture | 129 |
+| 22 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Integration: Connections, Application... | 112 |
+| 23 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | Foundational Architecture | 129 |
 | 24 | [[Second-Order Beliefs]] | — | — | Foundational Architecture | 133 |
 | 25 | [[Justification]] | — | — | Foundational Architecture | 133 |
 | 26 | [[Open-Mindedness]] | — | — | Foundational Architecture | 135 |
-| 27 | [[Virtue Epistemology]] | — | — | Foundational Architecture | 143 |
+| 27 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | Foundational Architecture | 143 |
 | 28 | [[Intellectual Humility Project]] | — | — | Foundational Architecture | 145 |
 | 29 | [[Calibrated Probability Judgment and Forecasting Accuracy]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 297 |
 | 30 | [[The Argumentative Theory of Reasoning]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 302 |
@@ -199,11 +199,11 @@ extraction_summary:
 | 33 | [[Metacognitive Monitoring and Confidence Calibration]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 317 |
 | 34 | [[Trust in Testimony and Social Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 322 |
 | 35 | [[Argumentative Theory of Reasoning]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 330 |
-| 36 | [[Virtue Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 330 |
-| 37 | [[Socratic Method]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
+| 36 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 330 |
+| 37 | [[Socratic-Method|Socratic Method]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 | 38 | [[Stoic Epistemology]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 | 39 | [[Paul-Elder Framework]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
-| 40 | [[Dunning-Kruger Effect]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
+| 40 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔗 Recommended Next Topics for PKB Exp... | 331 |
 
 ---
 
@@ -228,38 +228,38 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Argumentative Theory of Reasoning]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Basic Epistemology]]
 - [[Bayesian Reasoning]]
 - [[Calibrated Probability Judgment and Forecasting Accuracy]]
 - [[Cognitive Bias Fundamentals]]
-- [[Cognitive Science]]
-- [[Confirmation Bias]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Conspiracy Thinking and Epistemic Pathology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Cultural Transmission]]
-- [[Dunning-Kruger Effect]]
-- [[Epistemology]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Evolutionary Psychology]]
 - [[Evolutionary Psychology Principles]]
 - [[Intellectual Humility Project]]
 - [[Justification]]
 - [[Metacognitive Monitoring and Confidence Calibration]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Open-Mindedness]]
 - [[Paul-Elder Framework]]
 - [[Pragmatics]]
 - [[Relevance Theory]]
 - [[Second-Order Beliefs]]
 - [[Social Psychology]]
-- [[Socratic Method]]
+- [[Socratic-Method|Socratic Method]]
 - [[Source Monitoring]]
 - [[Stoic Epistemology]]
 - [[Testimonial Knowledge]]
 - [[The Argumentative Theory of Reasoning]]
 - [[Theory of Mind]]
 - [[Trust in Testimony and Social Epistemology]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Virtue Epistemology and Intellectual Character]]
 - [[Virtue Ethics]]
 

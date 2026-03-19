@@ -302,17 +302,17 @@ extraction_summary:
 #### 5. [DEFINITION] Cognitive Debt (Formal Definition) *(Line 401)*
 
 > [!definition] Cognitive Debt (Formal Definition)
-> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[cognitive biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification theory]], [[confirmation bias]], and [[anchoring effects]], which become self-reinforcing through repeated activation.
+> <span style='color: #27FF00;'>**Cognitive debt** is the compounding deficit in psychological and developmental well-being arising from the persistent enactment of cognitive schemas, [[heuristics]], and [[cognitive biases]] that favor short-term, cognitively efficient responses over long-term, analytically optimal behaviors</span>. This debt manifests across two primary dimensions: an **internal dimension** (cognitive dissonance, reduced metacognitive awareness, diminished sense of agency) and an **external dimension** (suboptimal decisions, missed opportunities, relationship conflicts, career stagnation). The acquisition of cognitive debt is driven by systematic mechanisms including [[system-justification theory]], [[Confirmation-Bias-Myside-Bias|confirmation bias]], and [[anchoring effects]], which become self-reinforcing through repeated activation.
 
 #### 6. [KEY-CLAIM] Biases as Adaptive Trade-offs *(Line 419)*
 
 > [!key-claim] Biases as Adaptive Trade-offs
-> <span style='color: #FFC700;'>**Cognitive biases represent evolutionary adaptations optimized for ancestral environments**</span>, not modern decision contexts. They enabled rapid, energy-efficient decisions under primordial conditions—detecting predators, forming coalitions, securing resources—but these same mechanisms systematically misfire in contemporary settings characterized by abstract information, long time horizons, and complex interdependencies. The [[availability heuristic]] served our ancestors well when recent predator sightings indicated genuine elevated risk; today it causes us to overweight vivid media coverage while underweighting statistical base rates, producing distorted risk assessments.
+> <span style='color: #FFC700;'>**Cognitive biases represent evolutionary adaptations optimized for ancestral environments**</span>, not modern decision contexts. They enabled rapid, energy-efficient decisions under primordial conditions—detecting predators, forming coalitions, securing resources—but these same mechanisms systematically misfire in contemporary settings characterized by abstract information, long time horizons, and complex interdependencies. The [[Availability-Heuristic|availability heuristic]] served our ancestors well when recent predator sightings indicated genuine elevated risk; today it causes us to overweight vivid media coverage while underweighting statistical base rates, producing distorted risk assessments.
 
 #### 7. [ANALOGY] Compound Interest in Action *(Line 444)*
 
 > [!analogy] Compound Interest in Action
-> Consider an individual who develops [[confirmation bias]] regarding their career capabilities at age 25. If left unexamined, this bias shapes: (1) <span style='color: #9E6CD3;'>which feedback they attend to</span> (selectively remembering praise, dismissing criticism), (2) <span style='color: #9E6CD3;'>which opportunities they pursue</span> (gravitating toward familiar domains, avoiding stretching assignments), (3) <span style='color: #9E6CD3;'>how they interpret setbacks</span> (external attribution for failures, internal attribution for successes). Each domain represents an "interest payment"—additional cognitive distortion built atop the original bias. By age 35, the accumulated debt manifests as an entrenched self-concept divorced from objective capabilities, requiring massive cognitive restructuring to repay.
+> Consider an individual who develops [[Confirmation-Bias-Myside-Bias|confirmation bias]] regarding their career capabilities at age 25. If left unexamined, this bias shapes: (1) <span style='color: #9E6CD3;'>which feedback they attend to</span> (selectively remembering praise, dismissing criticism), (2) <span style='color: #9E6CD3;'>which opportunities they pursue</span> (gravitating toward familiar domains, avoiding stretching assignments), (3) <span style='color: #9E6CD3;'>how they interpret setbacks</span> (external attribution for failures, internal attribution for successes). Each domain represents an "interest payment"—additional cognitive distortion built atop the original bias. By age 35, the accumulated debt manifests as an entrenched self-concept divorced from objective capabilities, requiring massive cognitive restructuring to repay.
 
 #### 8. [EVIDENCE] CogBIAS Longitudinal Findings (Booth et al., 2020) *(Line 466)*
 
@@ -352,7 +352,7 @@ extraction_summary:
 #### 15. [EXAMPLE] Career Trajectory Divergence *(Line 584)*
 
 > [!example] Career Trajectory Divergence
-> Consider two individuals, Alice and Bob, with identical starting capabilities and opportunities at age 25. Alice has developed [[metacognitive awareness]] and actively combats her biases; Bob has accumulated cognitive debt through unexamined biases. Over the next 20 years: Bob's [[overconfidence bias]] causes him to accept three job offers that exceed his actual competency level, each ending in termination or forced resignation after 18-24 months. His [[sunk cost fallacy]] keeps him in each position 6 months longer than warranted, accumulating reputation damage. His [[confirmation bias]] prevents him from accurately diagnosing why these failures occurred, so he repeats the pattern. By age 45, Bob's career trajectory has diverged dramatically from his potential—not because of lack of ability but because <span style='background-color: #FF00DC40; color: #FF00DC;'>accumulated cognitive debt produced 15-20 major decisions that systematically deviated from optimal by 10-30% each</span>.
+> Consider two individuals, Alice and Bob, with identical starting capabilities and opportunities at age 25. Alice has developed [[metacognitive awareness]] and actively combats her biases; Bob has accumulated cognitive debt through unexamined biases. Over the next 20 years: Bob's [[overconfidence bias]] causes him to accept three job offers that exceed his actual competency level, each ending in termination or forced resignation after 18-24 months. His [[sunk cost fallacy]] keeps him in each position 6 months longer than warranted, accumulating reputation damage. His [[Confirmation-Bias-Myside-Bias|confirmation bias]] prevents him from accurately diagnosing why these failures occurred, so he repeats the pattern. By age 45, Bob's career trajectory has diverged dramatically from his potential—not because of lack of ability but because <span style='background-color: #FF00DC40; color: #FF00DC;'>accumulated cognitive debt produced 15-20 major decisions that systematically deviated from optimal by 10-30% each</span>.
 
 #### 16. [KEY-CLAIM] The Opportunity Cost Snowball *(Line 596)*
 
@@ -367,7 +367,7 @@ extraction_summary:
 #### 18. [HELPFUL-TIP] Developmental Windows for Bias Mitigation *(Line 637)*
 
 > [!helpful-tip] Developmental Windows for Bias Mitigation
-> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[cognitive restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[growth mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
+> The CogBIAS longitudinal research identified adolescence as a **critical window** where negative interpretive biases either crystallize into trait-level characteristics or remain amenable to correction. <span style='color: #27FF00;'>Interventions targeting ages 12-16 can prevent bias generalization from domain-specific (academic, social) to trait-level (self-referential)</span>. Key strategies include: (1) <span style='color: #72FFF1;'>[[cognitive restructuring]]</span> training to challenge automatic negative interpretations, (2) <span style='color: #72FFF1;'>[[metacognitive awareness]]</span> development to recognize when biases activate, (3) <span style='color: #72FFF1;'>[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]</span> cultivation to prevent fixed self-concepts that integrate biases, (4) <span style='color: #72FFF1;'>environmental design</span> that reduces bias-confirming feedback.
 
 #### 19. [COUNTER-ARGUMENT] The Bias Mitigation Paradox *(Line 652)*
 
@@ -377,7 +377,7 @@ extraction_summary:
 #### 20. [METHODOLOGY-AND-SOURCES] Consider-the-Opposite Strategy *(Line 663)*
 
 > [!methodology-and-sources] Consider-the-Opposite Strategy
-> One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[confirmation bias]], [[anchoring effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position argue?"</span> (3) <span style='color: #72FFF1;'>"If I'm wrong, what am I missing?"</span> This engages [[system 2]] analytic processing and temporarily suspends bias-driven [[system 1]] responding.
+> One empirically-supported debiasing technique is <span style='color: #27FF00;'>**"consider the opposite"**</span>—deliberately generating alternative interpretations, explanations, or predictions contrary to one's initial intuition. Research shows this reduces [[Confirmation-Bias-Myside-Bias|confirmation bias]], [[anchoring effects]], and [[overconfidence]]. Implementation protocol: Before finalizing important decisions, explicitly ask: (1) <span style='color: #72FFF1;'>"What evidence would disconfirm my current belief?"</span> (2) <span style='color: #72FFF1;'>"What would someone holding the opposite position argue?"</span> (3) <span style='color: #72FFF1;'>"If I'm wrong, what am I missing?"</span> This engages [[System-2|system 2]] analytic processing and temporarily suspends bias-driven [[System-1|system 1]] responding.
 
 #### 21. [HOW-TO] Cognitive Debt Repayment Framework *(Line 674)*
 
@@ -395,12 +395,12 @@ extraction_summary:
 #### 22. [KEY-CLAIM] Nudges, Decision Architecture, and Bias-Resistant Systems *(Line 699)*
 
 > [!key-claim] Nudges, Decision Architecture, and Bias-Resistant Systems
-> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[loss aversion]] and [[sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[confirmation bias]] through forced consideration of disconfirming evidence.
+> Rather than trying to "debias" human minds, [[nudge theory]] and [[choice architecture]] modify decision environments to counteract predictable biases. Examples: (1) <span style='color: #72FFF1;'>Default options</span> combat [[status quo bias]] and [[present bias]] by aligning defaults with long-term interests (automatic retirement savings enrollment), (2) <span style='color: #72FFF1;'>Deliberate friction</span> for impulsive decisions reduces [[loss aversion]] and [[sunk cost fallacy]] effects (mandatory waiting periods for major purchases), (3) <span style='color: #72FFF1;'>Structured decision protocols</span> force [[System-2|system 2]] engagement (pre-mortems, decision journals, commitment devices), (4) <span style='color: #72FFF1;'>Transparency requirements</span> reduce [[Confirmation-Bias-Myside-Bias|confirmation bias]] through forced consideration of disconfirming evidence.
 
 #### 23. [KEY-CLAIM] Biases as Autonomy Thieves *(Line 728)*
 
 > [!key-claim] Biases as Autonomy Thieves
-> [[Confirmation bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk cost fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status quo bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of these biases creates <span style='background-color: #FF00DC40; color: #FF00DC;'>**pseudo-autonomy**: the subjective experience of choice without actual self-determination</span>. Cognitive debt repayment then becomes a prerequisite for authentic autonomy—not coincidentally, therapy often helps clients recognize how unconscious patterns constrain their choices.
+> [[Confirmation-Bias-Myside-Bias|Confirmation bias]] constrains autonomy by narrowing the perceived option set—individuals only seriously consider choices consistent with existing beliefs, experiencing this constrained search as "preference" rather than recognizing the bias-driven restriction. [[Sunk cost fallacy]] forces continuation of past choices due to prior investment rather than current values. [[Status quo bias]] defaults to existing arrangements regardless of whether they serve current needs. The accumulation of these biases creates <span style='background-color: #FF00DC40; color: #FF00DC;'>**pseudo-autonomy**: the subjective experience of choice without actual self-determination</span>. Cognitive debt repayment then becomes a prerequisite for authentic autonomy—not coincidentally, therapy often helps clients recognize how unconscious patterns constrain their choices.
 
 #### 24. [COMPARISON] Fixed vs. Growth Mindset Impact on Cognitive Debt *(Line 740)*
 
@@ -420,7 +420,7 @@ extraction_summary:
 #### 25. [DEFINITION] Metacognitive Capacity *(Line 767)*
 
 > [!definition] Metacognitive Capacity
-> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[metacognitive knowledge]] (understanding of cognitive processes), (2) [[metacognitive monitoring]] (awareness of current cognitive states), and (3) [[metacognitive control]] (ability to regulate cognitive processes based on monitoring)</span>
+> <span style='color: #27FF00;'>The cognitive resources available for monitoring, evaluating, and regulating one's own thinking processes, including: (1) [[Metacognitive-Knowledge|metacognitive knowledge]] (understanding of cognitive processes), (2) [[Metacognitive-Monitoring|metacognitive monitoring]] (awareness of current cognitive states), and (3) [[Metacognitive-Control|metacognitive control]] (ability to regulate cognitive processes based on monitoring)</span>
 
 #### 26. [QUESTION] Research Gap: Formal Debt Models *(Line 790)*
 
@@ -430,22 +430,22 @@ extraction_summary:
 #### 27. [METHODOLOGY-AND-SOURCES] Proposed Longitudinal Neuroimaging Study *(Line 802)*
 
 > [!methodology-and-sources] Proposed Longitudinal Neuroimaging Study
-> Track individuals over 5-10 year periods using functional MRI and diffusion tensor imaging to examine: (1) <span style='color: #72FFF1;'>Default mode network connectivity</span> as proxy for self-referential processing biases, (2) <span style='color: #72FFF1;'>Prefrontal-limbic connectivity</span> reflecting emotion regulation and [[system 2]] override capacity, (3) <span style='color: #72FFF1;'>Hippocampal-prefrontal interactions</span> during memory retrieval (selective memory bias signature), (4) <span style='color: #72FFF1;'>Anterior cingulate activation</span> during cognitive control tasks (metacognitive capacity proxy). Correlate neural changes with behavioral measures of bias-driven decisions to establish structural biomarkers of cognitive debt burden.
+> Track individuals over 5-10 year periods using functional MRI and diffusion tensor imaging to examine: (1) <span style='color: #72FFF1;'>Default mode network connectivity</span> as proxy for self-referential processing biases, (2) <span style='color: #72FFF1;'>Prefrontal-limbic connectivity</span> reflecting emotion regulation and [[System-2|system 2]] override capacity, (3) <span style='color: #72FFF1;'>Hippocampal-prefrontal interactions</span> during memory retrieval (selective memory bias signature), (4) <span style='color: #72FFF1;'>Anterior cingulate activation</span> during cognitive control tasks (metacognitive capacity proxy). Correlate neural changes with behavioral measures of bias-driven decisions to establish structural biomarkers of cognitive debt burden.
 
 #### 28. [KEY-CLAIM] Candidate Protective and Vulnerability Factors *(Line 812)*
 
 > [!key-claim] Candidate Protective and Vulnerability Factors
 > **Protective Factors** (slower debt accumulation):
 > - <span style='color: #27FF00;'>High [[trait conscientiousness]]</span>—systematic thinking, planning, delayed gratification
-> - <span style='color: #27FF00;'>[[Growth mindset]]</span>—belief malleability preventing identity-level integration
-> - <span style='color: #27FF00;'>Strong [[metacognitive capacity]]</span>—intrinsic monitoring and regulation
+> - <span style='color: #27FF00;'>[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]]</span>—belief malleability preventing identity-level integration
+> - <span style='color: #27FF00;'>Strong [[Metacognitive-Capacity|metacognitive capacity]]</span>—intrinsic monitoring and regulation
 > - <span style='color: #27FF00;'>Diverse social networks</span>—exposure to belief-challenging perspectives
 > - <span style='color: #27FF00;'>Structured decision environments</span>—workplace/family cultures supporting analytical processing
 > 
 > **Vulnerability Factors** (faster debt accumulation):
 > - <span style='color: #FF00DC;'>High [[need for cognitive closure]]</span>—discomfort with ambiguity driving premature belief crystallization
-> - <span style='color: #FF00DC;'>[[Fixed mindset]]</span>—ability beliefs accelerating identity-level integration
-> - <span style='color: #FF00DC;'>Low [[intellectual humility]]</span>—overconfidence in existing beliefs
+> - <span style='color: #FF00DC;'>[[Fixed-Mindset|Fixed mindset]]</span>—ability beliefs accelerating identity-level integration
+> - <span style='color: #FF00DC;'>Low [[Intellectual-Humility|intellectual humility]]</span>—overconfidence in existing beliefs
 > - <span style='color: #FF00DC;'>Homogeneous information environments</span>—echo chambers providing continuous confirmation
 > - <span style='color: #FF00DC;'>Chronic stress</span>—depleting cognitive resources needed for bias regulation
 
@@ -486,7 +486,7 @@ extraction_summary:
 ### Unique Targets
 
 - [[Adolescence]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian brain]]
 - [[Carol Dweck]]
 - [[Clinical Psychology]]
@@ -497,21 +497,21 @@ extraction_summary:
 - [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]]
 - [[Computational Modeling]]
 - [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]]
-- [[Confirmation bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Decision-Making]]
-- [[Dunning-Kruger effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Dynamical Systems Theory]]
 - [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]
 - [[Evolutionary Psychology]]
-- [[Fixed mindset]]
+- [[Fixed-Mindset|Fixed mindset]]
 - [[Game Theory]]
-- [[Growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]]
 - [[Heuristics and Biases Research]]
 - [[Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
 - [[Loss aversion]]
 - [[Metacognition]]
-- [[Metacognitive Capacity]]
+- [[Metacognitive-Capacity|Metacognitive Capacity]]
 - [[Metacognitive Capacity Development: Training Protocols]]
 - [[Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
@@ -521,7 +521,7 @@ extraction_summary:
 - [[Psychopathology]]
 - [[Red team exercises]]
 - [[Selective exposure]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Status quo bias]]
 - [[Sunk cost fallacy]]
 - [[Systems Thinking]]
@@ -529,41 +529,41 @@ extraction_summary:
 - [[anchoring effects]]
 - [[anthropology]]
 - [[autonomy]]
-- [[availability heuristic]]
+- [[Availability-Heuristic|availability heuristic]]
 - [[behavioral economics]]
 - [[belief schema]]
 - [[choice architecture]]
 - [[clinical psychology]]
-- [[cognitive bias]]
+- [[Cognitive-Bias|cognitive bias]]
 - [[cognitive biases]]
-- [[cognitive debt]]
+- [[Cognitive-Debt|cognitive debt]]
 - [[cognitive dissonance]]
 - [[cognitive neuroscience]]
 - [[cognitive restructuring]]
-- [[cognitive science]]
+- [[Cognitive-Science|cognitive science]]
 - [[cognitive-behavioral therapy]]
 - [[competence]]
 - [[compound interest]]
 - [[computational neuroscience]]
 - [[computational psychiatry]]
-- [[confirmation bias]]
-- [[debiasing]]
+- [[Confirmation-Bias-Myside-Bias|confirmation bias]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]]
 - [[developmental psychology]]
 - [[disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
 - [[expertise development]]
-- [[fixed mindset]]
+- [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
-- [[growth mindset]]
-- [[habit formation]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
+- [[Habit-Formation|habit formation]]
 - [[heuristics]]
 - [[human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
 - [[identity formation]]
 - [[impostor syndrome]]
-- [[instructional design]]
-- [[intellectual humility]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
+- [[Intellectual-Humility|intellectual humility]]
 - [[interpretation bias]]
 - [[learning theory]]
 - [[loss aversion]]
@@ -571,10 +571,10 @@ extraction_summary:
 - [[memory bias]]
 - [[metacognition]]
 - [[metacognitive awareness]]
-- [[metacognitive capacity]]
-- [[metacognitive control]]
-- [[metacognitive knowledge]]
-- [[metacognitive monitoring]]
+- [[Metacognitive-Capacity|metacognitive capacity]]
+- [[Metacognitive-Control|metacognitive control]]
+- [[Metacognitive-Knowledge|metacognitive knowledge]]
+- [[Metacognitive-Monitoring|metacognitive monitoring]]
 - [[metacognitive skill development]]
 - [[mindset interventions]]
 - [[narrative identity]]
@@ -594,15 +594,15 @@ extraction_summary:
 - [[schema therapy]]
 - [[selective exposure]]
 - [[self-concept]]
-- [[self-determination theory]]
-- [[self-regulated learning]]
+- [[Self-Determination-Theory|self-determination theory]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 - [[self-schema]]
 - [[self-verification theory]]
 - [[social psychology]]
 - [[status quo bias]]
 - [[sunk cost fallacy]]
-- [[system 1]]
-- [[system 2]]
+- [[System-1|system 1]]
+- [[System-2|system 2]]
 - [[system-justification theory]]
 - [[systems theory]]
 - [[technical debt]]
@@ -617,24 +617,24 @@ extraction_summary:
 | 2 | [[Cognitive Biases]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 3 | [[Decision-Making]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 4 | [[Personal Development]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
-| 5 | [[Self-Determination Theory]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 6 | [[Metacognition]] | — | — | Cognitive Debt: The Compounding Negat... | 380 |
 | 7 | [[cognitive biases]] | — | — | 🧠 Cognitive Debt: The Compounding Neg... | 387 |
-| 8 | [[cognitive debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
+| 8 | [[Cognitive-Debt|cognitive debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
 | 9 | [[technical debt]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
 | 10 | [[human cognition]] | — | — | The Debt Metaphor: From Technical to ... | 393 |
 | 11 | [[heuristics]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 12 | [[cognitive biases]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 13 | [[system-justification theory]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
-| 14 | [[confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
+| 14 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
 | 15 | [[anchoring effects]] | — | — | The Debt Metaphor: From Technical to ... | 402 |
-| 16 | [[confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
-| 17 | [[debiasing]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
+| 16 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
+| 17 | [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]] | — | — | The Debt Metaphor: From Technical to ... | 404 |
 | 18 | [[cognitive neuroscience]] | — | — | Neuroevolutionary Origins: Why Biases... | 412 |
-| 19 | [[availability heuristic]] | — | — | Neuroevolutionary Origins: Why Biases... | 420 |
+| 19 | [[Availability-Heuristic|availability heuristic]] | — | — | Neuroevolutionary Origins: Why Biases... | 420 |
 | 20 | [[compound interest]] | — | — | The Compound Interest Model: Exponent... | 429 |
-| 21 | [[confirmation bias]] | — | — | The Compound Interest Model: Exponent... | 445 |
-| 22 | [[metacognitive capacity]] | — | — | The Compound Interest Model: Exponent... | 447 |
+| 21 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | The Compound Interest Model: Exponent... | 445 |
+| 22 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | The Compound Interest Model: Exponent... | 447 |
 | 23 | [[Compound Interest]] | — | — | The Compound Interest Model: Exponent... | 452 |
 | 24 | [[Neural Plasticity]] | — | — | The Compound Interest Model: Exponent... | 453 |
 | 25 | [[Adolescence]] | — | — | Adolescent Vulnerability: Critical Wi... | 461 |
@@ -654,85 +654,85 @@ extraction_summary:
 | 39 | [[disposition effect]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 40 | [[sunk cost fallacy]] | — | — | Identity Integration: When Biases Bec... | 548 |
 | 41 | [[Identity Formation]] | — | — | Identity Integration: When Biases Bec... | 553 |
-| 42 | [[confirmation bias]] | — | — | Environmental Reinforcement: Echo Cha... | 558 |
+| 42 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Reinforcement: Echo Cha... | 558 |
 | 43 | [[selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 561 |
 | 44 | [[Selective exposure]] | — | — | Environmental Reinforcement: Echo Cha... | 568 |
 | 45 | [[metacognitive awareness]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
 | 46 | [[overconfidence bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
 | 47 | [[sunk cost fallacy]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
-| 48 | [[confirmation bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
+| 48 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Decision Quality Degradation: Cumulat... | 585 |
 | 49 | [[opportunity costs]] | — | — | Opportunity Cost Snowball: Missed Cha... | 594 |
 | 50 | [[Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
 | 51 | [[status quo bias]] | — | — | Opportunity Cost Snowball: Missed Cha... | 597 |
 | 52 | [[Loss aversion]] | — | — | Opportunity Cost Snowball: Missed Cha... | 603 |
-| 53 | [[system 2]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
-| 54 | [[metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
-| 55 | [[metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 624 |
+| 53 | [[System-2|system 2]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
+| 54 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 622 |
+| 55 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognitive Erosion: The Capacity t... | 624 |
 | 56 | [[cognitive restructuring]] | — | — | Primary Prevention: Early Interventio... | 638 |
 | 57 | [[metacognitive awareness]] | — | — | Primary Prevention: Early Interventio... | 638 |
-| 58 | [[growth mindset]] | — | — | Primary Prevention: Early Interventio... | 638 |
-| 59 | [[confirmation bias]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
+| 58 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Primary Prevention: Early Interventio... | 638 |
+| 59 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 60 | [[anchoring effects]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
 | 61 | [[overconfidence]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
-| 62 | [[system 2]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
-| 63 | [[system 1]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
-| 64 | [[metacognitive capacity]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 666 |
+| 62 | [[System-2|system 2]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
+| 63 | [[System-1|system 1]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 664 |
+| 64 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Secondary Prevention: Ongoing Bias Mo... | 666 |
 | 65 | [[cognitive dissonance]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
 | 66 | [[cognitive-behavioral therapy]] | — | — | Tertiary Prevention: Structured Debt ... | 672 |
 | 67 | [[cognitive restructuring]] | — | — | Tertiary Prevention: Structured Debt ... | 681 |
-| 68 | [[Metacognitive Capacity]] | — | — | Tertiary Prevention: Structured Debt ... | 693 |
+| 68 | [[Metacognitive-Capacity|Metacognitive Capacity]] | — | — | Tertiary Prevention: Structured Debt ... | 693 |
 | 69 | [[nudge theory]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 70 | [[choice architecture]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 71 | [[status quo bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 72 | [[present bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 73 | [[loss aversion]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 74 | [[sunk cost fallacy]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 75 | [[system 2]] | — | — | Environmental Engineering: System-Lev... | 700 |
-| 76 | [[confirmation bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 75 | [[System-2|system 2]] | — | — | Environmental Engineering: System-Lev... | 700 |
+| 76 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Engineering: System-Lev... | 700 |
 | 77 | [[Pre-mortem analysis]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 78 | [[overconfidence]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 79 | [[planning fallacy]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 80 | [[Red team exercises]] | — | — | Environmental Engineering: System-Lev... | 708 |
-| 81 | [[confirmation bias]] | — | — | Environmental Engineering: System-Lev... | 708 |
+| 81 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | Environmental Engineering: System-Lev... | 708 |
 | 82 | [[groupthink]] | — | — | Environmental Engineering: System-Lev... | 708 |
-| 83 | [[Self-Determination Theory]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
+| 83 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
 | 84 | [[autonomy]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
 | 85 | [[competence]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
 | 86 | [[relatedness]] | — | — | Self-Determination Theory: Cognitive ... | 721 |
-| 87 | [[Confirmation bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
+| 87 | [[Confirmation-Bias-Myside-Bias|Confirmation bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
 | 88 | [[Sunk cost fallacy]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
 | 89 | [[Status quo bias]] | — | — | Self-Determination Theory: Cognitive ... | 729 |
 | 90 | [[Overconfidence bias]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
-| 91 | [[Dunning-Kruger effect]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
+| 91 | [[Dunning-Kruger-Effect|Dunning-Kruger effect]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
 | 92 | [[impostor syndrome]] | — | — | Self-Determination Theory: Cognitive ... | 731 |
-| 93 | [[Self-Determination Theory]] | — | — | Self-Determination Theory: Cognitive ... | 734 |
+| 93 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: Cognitive ... | 734 |
 | 94 | [[Carol Dweck]] | — | — | Growth Mindset: Debt Prevention Throu... | 738 |
-| 95 | [[fixed mindset]] | — | — | Growth Mindset: Debt Prevention Throu... | 738 |
-| 96 | [[growth mindset]] | — | — | Growth Mindset: Debt Prevention Throu... | 738 |
+| 95 | [[Fixed-Mindset|fixed mindset]] | — | — | Growth Mindset: Debt Prevention Throu... | 738 |
+| 96 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Growth Mindset: Debt Prevention Throu... | 738 |
 | 97 | [[ego-defensive bias]] | — | — | Growth Mindset: Debt Prevention Throu... | 742 |
 | 98 | [[mindset interventions]] | — | — | Growth Mindset: Debt Prevention Throu... | 759 |
 | 99 | [[Metacognition]] | — | — | Metacognition as Debt Management Infr... | 765 |
-| 100 | [[metacognitive knowledge]] | — | — | Metacognition as Debt Management Infr... | 768 |
-| 101 | [[metacognitive monitoring]] | — | — | Metacognition as Debt Management Infr... | 768 |
-| 102 | [[metacognitive control]] | — | — | Metacognition as Debt Management Infr... | 768 |
-| 103 | [[metacognitive capacity]] | — | — | Metacognition as Debt Management Infr... | 775 |
+| 100 | [[Metacognitive-Knowledge|metacognitive knowledge]] | — | — | Metacognition as Debt Management Infr... | 768 |
+| 101 | [[Metacognitive-Monitoring|metacognitive monitoring]] | — | — | Metacognition as Debt Management Infr... | 768 |
+| 102 | [[Metacognitive-Control|metacognitive control]] | — | — | Metacognition as Debt Management Infr... | 768 |
+| 103 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Metacognition as Debt Management Infr... | 775 |
 | 104 | [[metacognitive skill development]] | — | — | Metacognition as Debt Management Infr... | 777 |
-| 105 | [[system 2]] | — | — | Neuroimaging: Tracking Debt in Neural... | 803 |
+| 105 | [[System-2|system 2]] | — | — | Neuroimaging: Tracking Debt in Neural... | 803 |
 | 106 | [[trait conscientiousness]] | — | — | Individual Difference Research: Vulne... | 814 |
-| 107 | [[Growth mindset]] | — | — | Individual Difference Research: Vulne... | 815 |
-| 108 | [[metacognitive capacity]] | — | — | Individual Difference Research: Vulne... | 816 |
+| 107 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]] | — | — | Individual Difference Research: Vulne... | 815 |
+| 108 | [[Metacognitive-Capacity|metacognitive capacity]] | — | — | Individual Difference Research: Vulne... | 816 |
 | 109 | [[need for cognitive closure]] | — | — | Individual Difference Research: Vulne... | 821 |
-| 110 | [[Fixed mindset]] | — | — | Individual Difference Research: Vulne... | 822 |
-| 111 | [[intellectual humility]] | — | — | Individual Difference Research: Vulne... | 823 |
+| 110 | [[Fixed-Mindset|Fixed mindset]] | — | — | Individual Difference Research: Vulne... | 822 |
+| 111 | [[Intellectual-Humility|intellectual humility]] | — | — | Individual Difference Research: Vulne... | 823 |
 | 112 | [[Metacognitive Capacity Development: Training Protocols]] | — | — | 1. **[[Metacognitive Capacity Develop... | 866 |
-| 113 | [[metacognitive knowledge]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
-| 114 | [[metacognitive monitoring]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
-| 115 | [[metacognitive control]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
+| 113 | [[Metacognitive-Knowledge|metacognitive knowledge]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
+| 114 | [[Metacognitive-Monitoring|metacognitive monitoring]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
+| 115 | [[Metacognitive-Control|metacognitive control]] | — | — | 1. **[[Metacognitive Capacity Develop... | 868 |
 | 116 | [[learning theory]] | — | — | 1. **[[Metacognitive Capacity Develop... | 869 |
-| 117 | [[self-regulated learning]] | — | — | 1. **[[Metacognitive Capacity Develop... | 869 |
-| 118 | [[instructional design]] | — | — | 1. **[[Metacognitive Capacity Develop... | 869 |
+| 117 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | 1. **[[Metacognitive Capacity Develop... | 869 |
+| 118 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]] | — | — | 1. **[[Metacognitive Capacity Develop... | 869 |
 | 119 | [[metacognition]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
-| 120 | [[cognitive bias]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
+| 120 | [[Cognitive-Bias|cognitive bias]] | — | — | 1. **[[Metacognitive Capacity Develop... | 871 |
 | 121 | [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]] | — | — | 2. **[[Environmental Architecture for... | 873 |
 | 122 | [[choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 874 |
 | 123 | [[nudge theory]] | — | — | 2. **[[Environmental Architecture for... | 874 |
@@ -740,7 +740,7 @@ extraction_summary:
 | 125 | [[behavioral economics]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 126 | [[choice architecture]] | — | — | 2. **[[Environmental Architecture for... | 878 |
 | 127 | [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]] | — | — | 3. **[[Compound Interest Dynamics in ... | 882 |
-| 128 | [[habit formation]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
+| 128 | [[Habit-Formation|habit formation]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 129 | [[trauma]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 130 | [[expertise development]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
 | 131 | [[relationship quality]] | — | — | 3. **[[Compound Interest Dynamics in ... | 883 |
@@ -754,12 +754,12 @@ extraction_summary:
 | 139 | [[self-schema]] | — | — | 4. **[[Identity-Level Integration of ... | 890 |
 | 140 | [[schema therapy]] | — | — | 4. **[[Identity-Level Integration of ... | 891 |
 | 141 | [[acceptance and commitment therapy]] | — | — | 4. **[[Identity-Level Integration of ... | 891 |
-| 142 | [[cognitive science]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
+| 142 | [[Cognitive-Science|cognitive science]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 143 | [[developmental psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 144 | [[social psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 145 | [[clinical psychology]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 146 | [[narrative identity]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
-| 147 | [[self-determination theory]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
+| 147 | [[Self-Determination-Theory|self-determination theory]] | — | — | 4. **[[Identity-Level Integration of ... | 892 |
 | 148 | [[identity formation]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
 | 149 | [[self-concept]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
 | 150 | [[cognitive biases]] | — | — | 4. **[[Identity-Level Integration of ... | 894 |
@@ -781,7 +781,7 @@ extraction_summary:
 | 166 | [[systems theory]] | — | — | 6. **[[Computational Psychiatry: Form... | 908 |
 | 167 | [[Computational Modeling]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 168 | [[Clinical Psychology]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
-| 169 | [[Bayesian Inference]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
+| 169 | [[Bayesian-Inference|Bayesian Inference]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 170 | [[Psychopathology]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 | 171 | [[Dynamical Systems Theory]] | — | — | 6. **[[Computational Psychiatry: Form... | 910 |
 
@@ -1191,7 +1191,7 @@ for (let letter of sortedLetters) {
 | 62 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Interventions targeting ages 12-16 can prevent ... | 638 |
 | 63 | `#72FFF1` | Custom (#72FFF1) | [[cognitive restructuring]] | 638 |
 | 64 | `#72FFF1` | Custom (#72FFF1) | [[metacognitive awareness]] | 638 |
-| 65 | `#72FFF1` | Custom (#72FFF1) | [[growth mindset]] | 638 |
+| 65 | `#72FFF1` | Custom (#72FFF1) | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | 638 |
 | 66 | `#72FFF1` | Custom (#72FFF1) | environmental design | 638 |
 | 67 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Bias mitigation efforts timed to coincide with ... | 640 |
 | 68 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | insufficient evidence that bias mitigation inte... | 646 |
@@ -1244,13 +1244,13 @@ for (let letter of sortedLetters) {
 | 115 | `#FFC700` | Primary (Imperial Gold) — Key concepts, definitions | **protective factors** | 810 |
 | 116 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | **vulnerability factors** | 810 |
 | 117 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | High [[trait conscientiousness]] | 814 |
-| 118 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | [[Growth mindset]] | 815 |
-| 119 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Strong [[metacognitive capacity]] | 816 |
+| 118 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]] | 815 |
+| 119 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Strong [[Metacognitive-Capacity|metacognitive capacity]] | 816 |
 | 120 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Diverse social networks | 817 |
 | 121 | `#27FF00` | Definition (Terminal Green) — Verified truths, principles | Structured decision environments | 818 |
 | 122 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | High [[need for cognitive closure]] | 821 |
-| 123 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | [[Fixed mindset]] | 822 |
-| 124 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | Low [[intellectual humility]] | 823 |
+| 123 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | [[Fixed-Mindset|Fixed mindset]] | 822 |
+| 124 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | Low [[Intellectual-Humility|intellectual humility]] | 823 |
 | 125 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | Homogeneous information environments | 824 |
 | 126 | `#FF00DC` | Critical (Neon Magenta) — Warnings, conflicts, errors | Chronic stress | 825 |
 | 127 | `#72FFF1` | Custom (#72FFF1) | Diagnostic framework identifying individuals at... | 827 |
@@ -1326,13 +1326,13 @@ for (let letter of sortedLetters) {
 - `%%confidence: confident%%` *(Line 687)*
 - `%%evidence: multiple-studies%%` *(Line 688)*
 - `%%applies-to: therapy%%` *(Line 689)*
-- `%%prereq-hard: [[Metacognitive Capacity]]%%` *(Line 693)*
+- `%%prereq-hard: [[Metacognitive-Capacity|Metacognitive Capacity]]%%` *(Line 693)*
 - `%%confidence: verified%%` *(Line 704)*
 - `%%evidence: multiple-studies%%` *(Line 705)*
 - `%%applies-to: organizational-design%%` *(Line 713)*
 - `%%mental-model: SDT%%` *(Line 725)*
 - `%%confidence: confident%%` *(Line 733)*
-- `%%prereq-soft: [[Self-Determination Theory]]%%` *(Line 734)*
+- `%%prereq-soft: [[Self-Determination-Theory|Self-Determination Theory]]%%` *(Line 734)*
 - `%%confidence: confident%%` *(Line 755)*
 - `%%evidence: multiple-studies%%` *(Line 756)*
 - `%%mental-model: growth-mindset%%` *(Line 757)*
@@ -1424,7 +1424,7 @@ $$
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Adolescence]]
-- [[Bayesian Inference]]
+- [[Bayesian-Inference|Bayesian Inference]]
 - [[Bayesian brain]]
 - [[Carol Dweck]]
 - [[Clinical Psychology]]
@@ -1435,21 +1435,21 @@ $$
 - [[Compound Interest Dynamics in Psychological Processes: Beyond Cognitive Debt]]
 - [[Computational Modeling]]
 - [[Computational Psychiatry: Formalizing Mental Health Through Cognitive Debt Models]]
-- [[Confirmation bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Decision-Making]]
-- [[Dunning-Kruger effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
 - [[Dynamical Systems Theory]]
 - [[Environmental Architecture for Bias Mitigation: Organizational and Digital Design]]
 - [[Evolutionary Psychology]]
-- [[Fixed mindset]]
+- [[Fixed-Mindset|Fixed mindset]]
 - [[Game Theory]]
-- [[Growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth mindset]]
 - [[Heuristics and Biases Research]]
 - [[Identity Formation]]
 - [[Identity-Level Integration of Beliefs: Self-Concept as Cognitive Structure]]
 - [[Loss aversion]]
 - [[Metacognition]]
-- [[Metacognitive Capacity]]
+- [[Metacognitive-Capacity|Metacognitive Capacity]]
 - [[Metacognitive Capacity Development: Training Protocols]]
 - [[Neural Plasticity]]
 - [[Neuroevolutionary Mismatch: Cognitive Adaptations in Modern Contexts]]
@@ -1459,7 +1459,7 @@ $$
 - [[Psychopathology]]
 - [[Red team exercises]]
 - [[Selective exposure]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Status quo bias]]
 - [[Sunk cost fallacy]]
 - [[Systems Thinking]]
@@ -1467,41 +1467,41 @@ $$
 - [[anchoring effects]]
 - [[anthropology]]
 - [[autonomy]]
-- [[availability heuristic]]
+- [[Availability-Heuristic|availability heuristic]]
 - [[behavioral economics]]
 - [[belief schema]]
 - [[choice architecture]]
 - [[clinical psychology]]
-- [[cognitive bias]]
+- [[Cognitive-Bias|cognitive bias]]
 - [[cognitive biases]]
-- [[cognitive debt]]
+- [[Cognitive-Debt|cognitive debt]]
 - [[cognitive dissonance]]
 - [[cognitive neuroscience]]
 - [[cognitive restructuring]]
-- [[cognitive science]]
+- [[Cognitive-Science|cognitive science]]
 - [[cognitive-behavioral therapy]]
 - [[competence]]
 - [[compound interest]]
 - [[computational neuroscience]]
 - [[computational psychiatry]]
-- [[confirmation bias]]
-- [[debiasing]]
+- [[Confirmation-Bias-Myside-Bias|confirmation bias]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|debiasing]]
 - [[developmental psychology]]
 - [[disposition effect]]
 - [[ego-defensive bias]]
 - [[evolutionary psychology]]
 - [[expertise development]]
-- [[fixed mindset]]
+- [[Fixed-Mindset|fixed mindset]]
 - [[groupthink]]
-- [[growth mindset]]
-- [[habit formation]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
+- [[Habit-Formation|habit formation]]
 - [[heuristics]]
 - [[human cognition]]
 - [[hypothalamic-pituitary-adrenal axis]]
 - [[identity formation]]
 - [[impostor syndrome]]
-- [[instructional design]]
-- [[intellectual humility]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|instructional design]]
+- [[Intellectual-Humility|intellectual humility]]
 - [[interpretation bias]]
 - [[learning theory]]
 - [[loss aversion]]
@@ -1509,10 +1509,10 @@ $$
 - [[memory bias]]
 - [[metacognition]]
 - [[metacognitive awareness]]
-- [[metacognitive capacity]]
-- [[metacognitive control]]
-- [[metacognitive knowledge]]
-- [[metacognitive monitoring]]
+- [[Metacognitive-Capacity|metacognitive capacity]]
+- [[Metacognitive-Control|metacognitive control]]
+- [[Metacognitive-Knowledge|metacognitive knowledge]]
+- [[Metacognitive-Monitoring|metacognitive monitoring]]
 - [[metacognitive skill development]]
 - [[mindset interventions]]
 - [[narrative identity]]
@@ -1532,15 +1532,15 @@ $$
 - [[schema therapy]]
 - [[selective exposure]]
 - [[self-concept]]
-- [[self-determination theory]]
-- [[self-regulated learning]]
+- [[Self-Determination-Theory|self-determination theory]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 - [[self-schema]]
 - [[self-verification theory]]
 - [[social psychology]]
 - [[status quo bias]]
 - [[sunk cost fallacy]]
-- [[system 1]]
-- [[system 2]]
+- [[System-1|system 1]]
+- [[System-2|system 2]]
 - [[system-justification theory]]
 - [[systems theory]]
 - [[technical debt]]

@@ -204,44 +204,44 @@ extraction_summary:
 - [[2025-11-25]]
 - [[Accommodation]]
 - [[Adaptive Learning]]
-- [[American Pragmatism]]
+- [[American-Pragmatism|American Pragmatism]]
 - [[Assimilation]]
 - [[Charles Sanders Peirce]]
-- [[Cognitive Architecture]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Experiential Learning]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Knowledge Construction]]
 - [[Lev Vygotsky]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognition as Self-Regulation in Knowledge Work]]
 - [[Mindfulness]]
 - [[Negative Visualization]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophical Psychology]]
 - [[Pragmatism]]
 - [[Psychological Resilience]]
 - [[Scaffolding]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and PKM Abandonment]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Seneca]]
-- [[Social Constructivism]]
+- [[Social-Constructivism|Social Constructivism]]
 - [[Stoicism]]
 - [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]]
 - [[William James]]
 - [[Working Memory Architecture and PKM Design]]
 - [[Zeno of Citium]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
@@ -255,40 +255,40 @@ extraction_summary:
 | 6 | [[Pragmatism]] | — | — | 🎯 The Synthesis Problem: Why These Th... | 55 |
 | 7 | [[Charles Sanders Peirce]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 8 | [[William James]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
-| 9 | [[John Dewey]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
+| 9 | [[John-Dewey|John Dewey]] | — | — | The Pragmatist Inheritance: Truth Thr... | 65 |
 | 10 | [[Stoicism]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 11 | [[Zeno of Citium]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 12 | [[Epictetus]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 13 | [[Marcus Aurelius]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
 | 14 | [[Seneca]] | — | — | The Stoic Foundation: Resilience Thro... | 75 |
-| 15 | [[Dichotomy of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
-| 16 | [[Locus of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
+| 15 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
+| 16 | [[Locus-of-Control|Locus of Control]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
 | 17 | [[Psychological Resilience]] | — | — | The Stoic Foundation: Resilience Thro... | 79 |
 | 18 | [[Cognitive Reframing]] | — | — | The Stoic Foundation: Resilience Thro... | 81 |
 | 19 | [[Cognitive-Behavioral Therapy]] | — | — | The Stoic Foundation: Resilience Thro... | 81 |
 | 20 | [[Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 21 | [[Jean Piaget]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 22 | [[Lev Vygotsky]] | — | — | The Constructivist Revolution: Knowle... | 87 |
-| 23 | [[John Dewey]] | — | — | The Constructivist Revolution: Knowle... | 87 |
+| 23 | [[John-Dewey|John Dewey]] | — | — | The Constructivist Revolution: Knowle... | 87 |
 | 24 | [[Cognitive Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 25 | [[Assimilation]] | — | — | The Constructivist Revolution: Knowle... | 89 |
 | 26 | [[Accommodation]] | — | — | The Constructivist Revolution: Knowle... | 89 |
-| 27 | [[Social Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 91 |
-| 28 | [[Zone of Proximal Development]] | — | — | The Constructivist Revolution: Knowle... | 91 |
+| 27 | [[Social-Constructivism|Social Constructivism]] | — | — | The Constructivist Revolution: Knowle... | 91 |
+| 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Constructivist Revolution: Knowle... | 91 |
 | 29 | [[Scaffolding]] | — | — | The Constructivist Revolution: Knowle... | 91 |
-| 30 | [[Dichotomy of Control]] | — | — | The Psychological Architecture: How S... | 111 |
-| 31 | [[Self-Directed Learning]] | — | — | The Psychological Architecture: How S... | 111 |
+| 30 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Psychological Architecture: How S... | 111 |
+| 31 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Psychological Architecture: How S... | 111 |
 | 32 | [[Negative Visualization]] | — | — | The Psychological Architecture: How S... | 111 |
 | 33 | [[2025-11-25]] | — | — | The Psychological Architecture: How S... | 111 |
 | 34 | [[Cognitive Reframing]] | — | — | The Psychological Architecture: How S... | 113 |
 | 35 | [[2025-11-25]] | — | — | The Psychological Architecture: How S... | 113 |
 | 36 | [[2025-11-25]] | — | — | The Psychological Architecture: How S... | 113 |
-| 37 | [[Zone of Proximal Development]] | — | — | The Learning Architecture: How Constr... | 122 |
+| 37 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Learning Architecture: How Constr... | 122 |
 | 38 | [[Metacognition]] | — | — | Metacognition as Central Integrating ... | 140 |
 | 39 | [[Experiential Learning]] | — | — | Experiential Learning as Validation G... | 150 |
 | 40 | [[Psychological Resilience]] | — | — | Adaptive System Design for Sustained ... | 160 |
 | 41 | [[Knowledge Construction]] | — | — | Adaptive System Design for Sustained ... | 160 |
-| 42 | [[Self-Determination Theory]] | — | — | Integration with Other Frameworks | 252 |
+| 42 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Integration with Other Frameworks | 252 |
 | 43 | [[Mindfulness]] | — | — | Integration with Other Frameworks | 252 |
 | 44 | [[Pragmatism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
 | 45 | [[Stoicism]] | — | — | 🎓 Conclusion: Toward Psychologically-... | 258 |
@@ -298,9 +298,9 @@ extraction_summary:
 | 49 | [[Self-Determination Theory and PKM Abandonment]] | — | — | 🔗 Related Topics for PKB Expansion | 294 |
 | 50 | [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 299 |
 | 51 | [[Pragmatism]] | — | — | 📚 References & Resources | 380 |
-| 52 | [[American Pragmatism]] | — | — | 📚 References & Resources | 381 |
+| 52 | [[American-Pragmatism|American Pragmatism]] | — | — | 📚 References & Resources | 381 |
 | 53 | [[William James]] | — | — | 📚 References & Resources | 382 |
-| 54 | [[John Dewey]] | — | — | 📚 References & Resources | 383 |
+| 54 | [[John-Dewey|John Dewey]] | — | — | 📚 References & Resources | 383 |
 | 55 | [[Charles Sanders Peirce]] | — | — | 📚 References & Resources | 384 |
 | 56 | [[Stoicism]] | — | — | 📚 References & Resources | 385 |
 | 57 | [[Marcus Aurelius]] | — | — | 📚 References & Resources | 386 |
@@ -312,16 +312,16 @@ extraction_summary:
 | 63 | [[Psychological Resilience]] | — | — | 📚 References & Resources | 392 |
 | 64 | [[Cognitive Flexibility]] | — | — | 📚 References & Resources | 393 |
 | 65 | [[Metacognition]] | — | — | 📚 References & Resources | 394 |
-| 66 | [[Self-Determination Theory]] | — | — | 📚 References & Resources | 395 |
+| 66 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📚 References & Resources | 395 |
 | 67 | [[Experiential Learning]] | — | — | 📚 References & Resources | 396 |
-| 68 | [[Zone of Proximal Development]] | — | — | 📚 References & Resources | 397 |
+| 68 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 📚 References & Resources | 397 |
 | 69 | [[Scaffolding]] | — | — | 📚 References & Resources | 398 |
 | 70 | [[Cognitive Reframing]] | — | — | 📚 References & Resources | 399 |
-| 71 | [[Dichotomy of Control]] | — | — | 📚 References & Resources | 400 |
+| 71 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 📚 References & Resources | 400 |
 | 72 | [[Adaptive Learning]] | — | — | 📚 References & Resources | 401 |
-| 73 | [[Self-Directed Learning]] | — | — | 📚 References & Resources | 402 |
-| 74 | [[Personal Knowledge Management]] | — | — | 📚 References & Resources | 403 |
-| 75 | [[Cognitive Architecture]] | — | — | 📚 References & Resources | 404 |
+| 73 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 📚 References & Resources | 402 |
+| 74 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📚 References & Resources | 403 |
+| 75 | [[Cognitive-Architecture|Cognitive Architecture]] | — | — | 📚 References & Resources | 404 |
 | 76 | [[Philosophical Psychology]] | — | — | 📚 References & Resources | 405 |
 
 ---
@@ -411,44 +411,44 @@ This will require a sophisticated structure:
 - [[2025-11-25]]
 - [[Accommodation]]
 - [[Adaptive Learning]]
-- [[American Pragmatism]]
+- [[American-Pragmatism|American Pragmatism]]
 - [[Assimilation]]
 - [[Charles Sanders Peirce]]
-- [[Cognitive Architecture]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Cognitive Constructivism]]
 - [[Cognitive Flexibility]]
 - [[Cognitive Reframing]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Constructivism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Experiential Learning]]
 - [[Jean Piaget]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[Knowledge Construction]]
 - [[Lev Vygotsky]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognition as Self-Regulation in Knowledge Work]]
 - [[Mindfulness]]
 - [[Negative Visualization]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Philosophical Psychology]]
 - [[Pragmatism]]
 - [[Psychological Resilience]]
 - [[Scaffolding]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory and PKM Abandonment]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Seneca]]
-- [[Social Constructivism]]
+- [[Social-Constructivism|Social Constructivism]]
 - [[Stoicism]]
 - [[Vygotsky's ZPD Applied to Self-Directed Learning Systems]]
 - [[William James]]
 - [[Working Memory Architecture and PKM Design]]
 - [[Zeno of Citium]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ---
 

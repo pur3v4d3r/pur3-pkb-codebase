@@ -173,7 +173,7 @@ extraction_summary:
 #### 8. [INSIGHT] Untitled *(Line 298)*
 
 > [!insight] Untitled
-> The concept of [[motivated reasoning]] is sometimes misread as claiming that people reason *badly*. More precisely, it claims that people often reason *well* — in the sense of deploying sophisticated argumentative capacities — but in service of a goal other than truth. This makes motivated reasoning simultaneously impressive and troubling: it exploits genuine cognitive ability in the service of rationalization.
+> The concept of [[Motivated-Reasoning|motivated reasoning]] is sometimes misread as claiming that people reason *badly*. More precisely, it claims that people often reason *well* — in the sense of deploying sophisticated argumentative capacities — but in service of a goal other than truth. This makes motivated reasoning simultaneously impressive and troubling: it exploits genuine cognitive ability in the service of rationalization.
 
 #### 9. [REFLECTION] Deepening Your Understanding *(Line 307)*
 
@@ -277,7 +277,7 @@ extraction_summary:
 > 
 > - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework and Schön's reflective practitioner model both apply directly to political reasoning. "Reflection-in-action" in political contexts corresponds to the real-time identification of motivated reasoning during political information processing. The critical thinking disposition of "fair-mindedness" maps closely onto the epistemic virtue literature on epistemic humility in political judgment.
 > 
-> - **[[Epistemic Calibration]]** — Tetlock's superforecaster research provides the most detailed empirical picture of what well-calibrated political judgment looks like and how it is developed. This node would extend the present report's treatment of accuracy-motivated versus directional-motivated reasoning into the specific cognitive and dispositional profiles of individuals who consistently do well at political prediction.
+> - **[[Epistemic-Calibration|Epistemic Calibration]]** — Tetlock's superforecaster research provides the most detailed empirical picture of what well-calibrated political judgment looks like and how it is developed. This node would extend the present report's treatment of accuracy-motivated versus directional-motivated reasoning into the specific cognitive and dispositional profiles of individuals who consistently do well at political prediction.
 > 
 > The pattern across these connections reveals a unifying theme: the development of well-functioning political cognition is not primarily a knowledge problem or a skill problem but an orientation problem — a question of what goals the cognitive system is directed toward, and what metacognitive monitoring supports those goals.
 
@@ -401,7 +401,7 @@ extraction_summary:
 > > [!topic-idea] [[Heuristics in Voting Behavior]]
 > > Lupia's "shortcuts" model, Popkin's "reasoning voter," the party-cue literature, and the retrospective voting research all form the empirical core of this report. The central theoretical question — whether heuristic voting approximates fully-informed voting and under what conditions — is both normatively significant for democratic theory and practically significant for electoral system design. Priority: **medium** — important extension of Phase IV's mechanism analysis.
 > 
-> > [!topic-idea] [[Epistemic Calibration]]
+> > [!topic-idea] [[Epistemic-Calibration|Epistemic Calibration]]
 > > Extending Tetlock's superforecaster research into a full treatment of what well-calibrated political judgment is, how it is developed, and how individual differences in calibration interact with political context. Would connect the performance psychology literature on deliberate practice with the political reasoning literature. Priority: **medium** — directly extends the knowledge base's existing treatment of metacognition.
 > 
 > > [!topic-idea] [[Cross-Cultural Variation in Political Reasoning]]
@@ -417,7 +417,7 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Affective Intelligence Theory]]
+- [[Affective-Intelligence-Theory|Affective Intelligence Theory]]
 - [[Affective Intelligence Theory — Full Treatment]]
 - [[Alexander Todorov]]
 - [[Arthur Lupia]]
@@ -425,7 +425,7 @@ extraction_summary:
 - [[Brendan Nyhan]]
 - [[Charles Taber]]
 - [[Christopher Achen]]
-- [[Confirmation bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
 - [[Dan Kahan]]
 - [[Dan Sperber]]
@@ -434,14 +434,14 @@ extraction_summary:
 - [[Deliberative Democracy and Epistemic Citizenship]]
 - [[Deliberative democratic]]
 - [[Drew Westen]]
-- [[Dual Process Theory]]
-- [[Epistemic Calibration]]
-- [[Epistemic humility]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+- [[Epistemic-Humility|Epistemic humility]]
 - [[George Marcus]]
 - [[Henri Tajfel]]
 - [[Heuristics in Voting Behavior]]
 - [[Hugo Mercier]]
-- [[Inoculation theory]]
+- [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
 - [[John Jost]]
 - [[John MacKuen]]
@@ -458,25 +458,25 @@ extraction_summary:
 - [[Partisan Identity and Motivated Reasoning]]
 - [[Philip Converse]]
 - [[Philip Tetlock]]
-- [[Political reasoning]]
+- [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
 - [[SIFT protocol]]
 - [[Samuel Popkin]]
 - [[Sander van der Linden]]
 - [[Social Identity Theory]]
 - [[Socratic questioning]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
 - [[Ziva Kunda]]
-- [[availability heuristic]]
+- [[Availability-Heuristic|availability heuristic]]
 - [[civic education]]
 - [[democratic self-governance]]
-- [[filter bubble]]
-- [[information cocoon]]
+- [[Filter-Bubble-Information-Cocoon|filter bubble]]
+- [[Filter-Bubble-Information-Cocoon|information cocoon]]
 - [[information cocoons]]
 - [[media literacy]]
-- [[motivated reasoning]]
-- [[partisan identity]]
+- [[Motivated-Reasoning|motivated reasoning]]
+- [[Partisan-Identity|partisan identity]]
 - [[partisan sorting]]
 - [[political heuristics]]
 - [[political polarization]]
@@ -487,18 +487,18 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Drew Westen]] | — | — | Phase I: Orientation & Context Setting | 252 |
-| 2 | [[Political reasoning]] | — | — | Phase I: Orientation & Context Setting | 254 |
+| 2 | [[Political-Reasoning|Political reasoning]] | — | — | Phase I: Orientation & Context Setting | 254 |
 | 3 | [[democratic self-governance]] | — | — | Phase I: Orientation & Context Setting | 258 |
 | 4 | [[information cocoons]] | — | — | Phase I: Orientation & Context Setting | 258 |
 | 5 | [[political polarization]] | — | — | Phase I: Orientation & Context Setting | 258 |
 | 6 | [[political heuristics]] | — | — | Phase I: Orientation & Context Setting | 260 |
 | 7 | [[Daniel Kahneman]] | — | — | Phase II: Conceptual Foundations | 283 |
-| 8 | [[System 1]] | — | — | Phase II: Conceptual Foundations | 283 |
-| 9 | [[System 2]] | — | — | Phase II: Conceptual Foundations | 283 |
+| 8 | [[System-1|System 1]] | — | — | Phase II: Conceptual Foundations | 283 |
+| 9 | [[System-2|System 2]] | — | — | Phase II: Conceptual Foundations | 283 |
 | 10 | [[Ziva Kunda]] | — | — | Phase II: Conceptual Foundations | 296 |
-| 11 | [[motivated reasoning]] | — | — | Phase II: Conceptual Foundations | 299 |
+| 11 | [[Motivated-Reasoning|motivated reasoning]] | — | — | Phase II: Conceptual Foundations | 299 |
 | 12 | [[Philip Converse]] | — | — | Phase II: Conceptual Foundations | 303 |
-| 13 | [[Dual Process Theory]] | — | — | Dual Process Frameworks in Political ... | 320 |
+| 13 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 14 | [[John Jost]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 15 | [[Christopher Achen]] | — | — | Dual Process Frameworks in Political ... | 320 |
 | 16 | [[Larry Bartels]] | — | — | Dual Process Frameworks in Political ... | 320 |
@@ -508,20 +508,20 @@ extraction_summary:
 | 20 | [[Charles Taber]] | — | — | Motivated Reasoning and the Online-Ta... | 329 |
 | 21 | [[Hugo Mercier]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
 | 22 | [[Dan Sperber]] | — | — | Motivated Reasoning and the Online-Ta... | 334 |
-| 23 | [[Affective Intelligence Theory]] | — | — | Affective Intelligence Theory | 338 |
+| 23 | [[Affective-Intelligence-Theory|Affective Intelligence Theory]] | — | — | Affective Intelligence Theory | 338 |
 | 24 | [[George Marcus]] | — | — | Affective Intelligence Theory | 338 |
 | 25 | [[Michael Neuman]] | — | — | Affective Intelligence Theory | 338 |
 | 26 | [[John MacKuen]] | — | — | Affective Intelligence Theory | 338 |
 | 27 | [[Kahneman and Tversky]] | — | — | Heuristics-and-Biases in Political Ju... | 350 |
-| 28 | [[availability heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 352 |
+| 28 | [[Availability-Heuristic|availability heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 352 |
 | 29 | [[representativeness heuristic]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
 | 30 | [[Alexander Todorov]] | — | — | Heuristics-and-Biases in Political Ju... | 354 |
-| 31 | [[Confirmation bias]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
-| 32 | [[information cocoon]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
-| 33 | [[filter bubble]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
-| 34 | [[Confirmation bias]] | — | — | The Confirmation Bias Mechanism | 374 |
+| 31 | [[Confirmation-Bias-Myside-Bias|Confirmation bias]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
+| 32 | [[Filter-Bubble-Information-Cocoon|information cocoon]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
+| 33 | [[Filter-Bubble-Information-Cocoon|filter bubble]] | — | — | Heuristics-and-Biases in Political Ju... | 356 |
+| 34 | [[Confirmation-Bias-Myside-Bias|Confirmation bias]] | — | — | The Confirmation Bias Mechanism | 374 |
 | 35 | [[Social Identity Theory]] | — | — | Partisan Identity as Cognitive Frame | 387 |
-| 36 | [[partisan identity]] | — | — | Partisan Identity as Cognitive Frame | 387 |
+| 36 | [[Partisan-Identity|partisan identity]] | — | — | Partisan Identity as Cognitive Frame | 387 |
 | 37 | [[Henri Tajfel]] | — | — | Partisan Identity as Cognitive Frame | 387 |
 | 38 | [[John Turner]] | — | — | Partisan Identity as Cognitive Frame | 387 |
 | 39 | [[Leonie Huddy]] | — | — | Partisan Identity as Cognitive Frame | 389 |
@@ -530,11 +530,11 @@ extraction_summary:
 | 42 | [[Samuel Popkin]] | — | — | Heuristics as Adaptive Shortcuts | 411 |
 | 43 | [[Retrospective voting]] | — | — | Heuristics as Adaptive Shortcuts | 413 |
 | 44 | [[civic education]] | — | — | Civic Education and Critical Thinking | 433 |
-| 45 | [[Epistemic humility]] | — | — | Civic Education and Critical Thinking | 435 |
+| 45 | [[Epistemic-Humility|Epistemic humility]] | — | — | Civic Education and Critical Thinking | 435 |
 | 46 | [[Philip Tetlock]] | — | — | Civic Education and Critical Thinking | 435 |
 | 47 | [[Socratic questioning]] | — | — | Civic Education and Critical Thinking | 438 |
 | 48 | [[media literacy]] | — | — | Media Literacy and Disinformation Res... | 442 |
-| 49 | [[Inoculation theory]] | — | — | Media Literacy and Disinformation Res... | 444 |
+| 49 | [[Inoculation-Theory|Inoculation theory]] | — | — | Media Literacy and Disinformation Res... | 444 |
 | 50 | [[Sander van der Linden]] | — | — | Media Literacy and Disinformation Res... | 444 |
 | 51 | [[SIFT protocol]] | — | — | Media Literacy and Disinformation Res... | 446 |
 | 52 | [[Mike Caulfield]] | — | — | Media Literacy and Disinformation Res... | 446 |
@@ -544,16 +544,16 @@ extraction_summary:
 | 56 | [[James Fishkin]] | — | — | Structural Conditions for Better Poli... | 455 |
 | 57 | [[Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 488 |
 | 58 | [[Deliberate Practice in Civic Reasoning]] | — | — | Phase VI: Synthesis & Integration | 490 |
-| 59 | [[Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 490 |
+| 59 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 490 |
 | 60 | [[Metacognition and Lifelong Learning]] | — | — | Phase VI: Synthesis & Integration | 495 |
 | 61 | [[Metacognition and Critical Thinking]] | — | — | Phase VI: Synthesis & Integration | 497 |
-| 62 | [[Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 499 |
+| 62 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | Phase VI: Synthesis & Integration | 499 |
 | 63 | [[Partisan Identity and Motivated Reasoning]] | — | — | C. Expansion Topics | 585 |
 | 64 | [[Affective Intelligence Theory — Full Treatment]] | — | — | C. Expansion Topics | 588 |
 | 65 | [[Media Literacy and Disinformation Resistance]] | — | — | C. Expansion Topics | 591 |
 | 66 | [[Deliberative Democracy and Epistemic Citizenship]] | — | — | C. Expansion Topics | 594 |
 | 67 | [[Heuristics in Voting Behavior]] | — | — | C. Expansion Topics | 597 |
-| 68 | [[Epistemic Calibration]] | — | — | C. Expansion Topics | 600 |
+| 68 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | C. Expansion Topics | 600 |
 | 69 | [[Cross-Cultural Variation in Political Reasoning]] | — | — | C. Expansion Topics | 603 |
 
 ---
@@ -565,7 +565,7 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Affective Intelligence Theory]]
+- [[Affective-Intelligence-Theory|Affective Intelligence Theory]]
 - [[Affective Intelligence Theory — Full Treatment]]
 - [[Alexander Todorov]]
 - [[Arthur Lupia]]
@@ -573,7 +573,7 @@ extraction_summary:
 - [[Brendan Nyhan]]
 - [[Charles Taber]]
 - [[Christopher Achen]]
-- [[Confirmation bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation bias]]
 - [[Cross-Cultural Variation in Political Reasoning]]
 - [[Dan Kahan]]
 - [[Dan Sperber]]
@@ -582,14 +582,14 @@ extraction_summary:
 - [[Deliberative Democracy and Epistemic Citizenship]]
 - [[Deliberative democratic]]
 - [[Drew Westen]]
-- [[Dual Process Theory]]
-- [[Epistemic Calibration]]
-- [[Epistemic humility]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+- [[Epistemic-Humility|Epistemic humility]]
 - [[George Marcus]]
 - [[Henri Tajfel]]
 - [[Heuristics in Voting Behavior]]
 - [[Hugo Mercier]]
-- [[Inoculation theory]]
+- [[Inoculation-Theory|Inoculation theory]]
 - [[James Fishkin]]
 - [[John Jost]]
 - [[John MacKuen]]
@@ -606,25 +606,25 @@ extraction_summary:
 - [[Partisan Identity and Motivated Reasoning]]
 - [[Philip Converse]]
 - [[Philip Tetlock]]
-- [[Political reasoning]]
+- [[Political-Reasoning|Political reasoning]]
 - [[Retrospective voting]]
 - [[SIFT protocol]]
 - [[Samuel Popkin]]
 - [[Sander van der Linden]]
 - [[Social Identity Theory]]
 - [[Socratic questioning]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
 - [[Ziva Kunda]]
-- [[availability heuristic]]
+- [[Availability-Heuristic|availability heuristic]]
 - [[civic education]]
 - [[democratic self-governance]]
-- [[filter bubble]]
-- [[information cocoon]]
+- [[Filter-Bubble-Information-Cocoon|filter bubble]]
+- [[Filter-Bubble-Information-Cocoon|information cocoon]]
 - [[information cocoons]]
 - [[media literacy]]
-- [[motivated reasoning]]
-- [[partisan identity]]
+- [[Motivated-Reasoning|motivated reasoning]]
+- [[Partisan-Identity|partisan identity]]
 - [[partisan sorting]]
 - [[political heuristics]]
 - [[political polarization]]
@@ -635,23 +635,23 @@ extraction_summary:
 #### Prerequisites
 
 - [[Cognitive Biases Overview]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Social Identity Theory]]
 
 #### Related
 
-- [[Confirmation Bias]]
-- [[Motivated Reasoning]]
-- [[Affective Intelligence Theory]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
+- [[Affective-Intelligence-Theory|Affective Intelligence Theory]]
 - [[Media Literacy]]
-- [[Critical Thinking]]
-- [[Epistemic Humility]]
-- [[Deliberative Democracy]]
+- [[Critical-Thinking|Critical Thinking]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Deliberative-Democracy|Deliberative Democracy]]
 
 #### Broader
 
 - [[Political Psychology]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Behavioral Economics]]
 
 #### Narrower
@@ -662,10 +662,10 @@ extraction_summary:
 
 #### See Also
 
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Metacognition and Critical Thinking]]
-- [[Epistemic Calibration]]
-- [[Argument Mapping]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+- [[Argument-Mapping|Argument Mapping]]
 
 #### Contrasts With
 
@@ -686,7 +686,7 @@ extraction_summary:
 
 #### Enables
 
-- [[Epistemic Calibration]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Deliberate Practice in Civic Reasoning]]
 - [[Instructional Design for Political Literacy]]
 

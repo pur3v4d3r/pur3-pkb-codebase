@@ -158,7 +158,7 @@ extraction_summary:
 #### 3. [DEFINITION] Goal Content (GCT Definition) *(Line 271)*
 
 > [!definition] Goal Content (GCT Definition)
-> Goal content refers to the *qualitative nature* of what a personal goal is *about* — the kind of outcome or state it aims toward. Goal Contents Theory specifically distinguishes between **intrinsic goal content** (outcomes that are considered directly satisfying and that tend to satisfy [[basic psychological needs]] as a matter of their inherent nature) and **extrinsic goal content** (outcomes that are primarily valued for the social approval, comparative advantage, or material rewards they bring, rather than for their direct satisfaction of psychological needs).
+> Goal content refers to the *qualitative nature* of what a personal goal is *about* — the kind of outcome or state it aims toward. Goal Contents Theory specifically distinguishes between **intrinsic goal content** (outcomes that are considered directly satisfying and that tend to satisfy [[Basic-Psychological-Needs|basic psychological needs]] as a matter of their inherent nature) and **extrinsic goal content** (outcomes that are primarily valued for the social approval, comparative advantage, or material rewards they bring, rather than for their direct satisfaction of psychological needs).
 
 #### 4. [ANALYTICAL-INSIGHT] The Two "Intrinsic" Vocabularies: A Source of Persistent Confusion *(Line 278)*
 
@@ -178,7 +178,7 @@ extraction_summary:
 #### 7. [KEY-CLAIM] The Relative Aspiration Hypothesis *(Line 291)*
 
 > [!key-claim] The Relative Aspiration Hypothesis
-> GCT does not claim that financial success, fame, or appearance are inherently damaging goals. Rather, the prediction concerns the *relative priority* a person places on intrinsic versus extrinsic goal content within their overall aspirational profile. A person who has high aspirations for both intrinsic and extrinsic goals may be less affected than one whose aspirational hierarchy is dominated by extrinsic content at the expense of intrinsic content. This is why the primary measurement instrument — the [[Aspiration Index]] — asks participants to rate the importance of goal domains *relative* to other domains, and analysts focus on the ratio or contrast between intrinsic and extrinsic endorsement.
+> GCT does not claim that financial success, fame, or appearance are inherently damaging goals. Rather, the prediction concerns the *relative priority* a person places on intrinsic versus extrinsic goal content within their overall aspirational profile. A person who has high aspirations for both intrinsic and extrinsic goals may be less affected than one whose aspirational hierarchy is dominated by extrinsic content at the expense of intrinsic content. This is why the primary measurement instrument — the [[Aspiration-Index|Aspiration Index]] — asks participants to rate the importance of goal domains *relative* to other domains, and analysts focus on the ratio or contrast between intrinsic and extrinsic endorsement.
 
 #### 8. [ASK-YOURSELF-THIS] Conceptual Checkpoint *(Line 300)*
 
@@ -276,7 +276,7 @@ extraction_summary:
 #### 25. [CROSS-DOMAIN-CONNECTION] Hedonic Adaptation → Goal Contents Theory: The Convergence Problem *(Line 419)*
 
 > [!cross-domain-connection] Hedonic Adaptation → Goal Contents Theory: The Convergence Problem
-> Positive psychology's research on [[hedonic adaptation]] — the documented tendency for people to return to their well-being baseline following even highly positive life events — provides a structural parallel to the attainment paradox in GCT. Both frameworks converge on the insight that achievement of desired outcomes often fails to produce lasting well-being gains. The standard explanation in the hedonic adaptation literature is that people habituate to new circumstances. GCT offers a more specific mechanistic account for *why* extrinsic goal attainment specifically fails: it does not satisfy the basic needs whose satisfaction constitutes genuine well-being, it merely activates a new comparison point for the same comparative metrics. The connection is not merely analogical — it suggests that extrinsic goals may be the primary vehicle through which the hedonic treadmill operates at the goal level, while intrinsic goals, by directing attention toward activities and relationships that intrinsically satisfy needs, are more resistant to hedonic adaptation because their satisfaction is process-based rather than outcome-based.
+> Positive psychology's research on [[Hedonic-Adaptation|hedonic adaptation]] — the documented tendency for people to return to their well-being baseline following even highly positive life events — provides a structural parallel to the attainment paradox in GCT. Both frameworks converge on the insight that achievement of desired outcomes often fails to produce lasting well-being gains. The standard explanation in the hedonic adaptation literature is that people habituate to new circumstances. GCT offers a more specific mechanistic account for *why* extrinsic goal attainment specifically fails: it does not satisfy the basic needs whose satisfaction constitutes genuine well-being, it merely activates a new comparison point for the same comparative metrics. The connection is not merely analogical — it suggests that extrinsic goals may be the primary vehicle through which the hedonic treadmill operates at the goal level, while intrinsic goals, by directing attention toward activities and relationships that intrinsically satisfy needs, are more resistant to hedonic adaptation because their satisfaction is process-based rather than outcome-based.
 
 #### 26. [ASK-YOURSELF-THIS] Calibration Check *(Line 422)*
 
@@ -365,22 +365,22 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — GCT is a direct sub-theory of SDT, and this analysis presupposes SDT's foundational architecture: the organismic meta-theory, the three-factor basic needs model, and the functional significance of needs satisfaction for well-being. The relationship is not just categorical (GCT is *part of* SDT) but analytical: every mechanism identified in Phase IV is ultimately grounded in SDT's basic needs theory. Where the SDT Foundational Report maps the complete theoretical landscape, this analysis provides the deep borehole into one specific stratum of that landscape. The two documents are designed to be read in conjunction.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — GCT is a direct sub-theory of SDT, and this analysis presupposes SDT's foundational architecture: the organismic meta-theory, the three-factor basic needs model, and the functional significance of needs satisfaction for well-being. The relationship is not just categorical (GCT is *part of* SDT) but analytical: every mechanism identified in Phase IV is ultimately grounded in SDT's basic needs theory. Where the SDT Foundational Report maps the complete theoretical landscape, this analysis provides the deep borehole into one specific stratum of that landscape. The two documents are designed to be read in conjunction.
 > 
-> - **[[Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The SRL report's treatment of goal orientation and self-regulation intersects with GCT in a productive way. Mastery orientation (in Dweck-Elliot terms) shares significant conceptual overlap with intrinsic goal content, while performance-avoidance orientation shares features with extrinsic goal processes. But the frameworks are not identical: GCT's focus on the *content* of what goals aim toward is distinct from SRL's focus on the *purpose* for which goals are pursued (mastery vs. performance, approach vs. avoidance). The interesting synthesis question is whether goal content and goal orientation represent genuinely independent dimensions of goal quality, or whether one is partly derivative of the other.
 > 
-> - **[[Cognitive Load Theory]]** — The connection here is less obvious but analytically rich. CLT's concerns are primarily with the cognitive architecture of learning; GCT's concerns are with the motivational ecology. However, the Vansteenkiste et al. framing experiments suggest a possible interaction: extrinsic goal framing may increase extraneous cognitive load by activating performance anxiety and self-monitoring processes that consume working memory capacity, while intrinsic goal framing may reduce extraneous load by orienting attention toward the task itself rather than toward evaluation outcomes. This interaction has not been systematically tested, but it represents a genuinely underexplored interface between the PKB's motivational and cognitive reports.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection here is less obvious but analytically rich. CLT's concerns are primarily with the cognitive architecture of learning; GCT's concerns are with the motivational ecology. However, the Vansteenkiste et al. framing experiments suggest a possible interaction: extrinsic goal framing may increase extraneous cognitive load by activating performance anxiety and self-monitoring processes that consume working memory capacity, while intrinsic goal framing may reduce extraneous load by orienting attention toward the task itself rather than toward evaluation outcomes. This interaction has not been systematically tested, but it represents a genuinely underexplored interface between the PKB's motivational and cognitive reports.
 > 
 > - **[[Expectancy-Value Theory]]** — EVT's construct of *task value* (intrinsic value, utility value, attainment value, cost) provides a partially overlapping but distinct framework for understanding why different goals carry different motivational weight. EVT's utility value is structurally similar to extrinsic goal content (the task is valuable because of what it instrumentally enables), while intrinsic value overlaps with intrinsic goal content. The key difference is that GCT treats the intrinsic-extrinsic distinction as rooted in basic needs theory, while EVT is largely agnostic about why task values have the effects they do. The PKB would benefit from a comparative analysis of how these two frameworks relate.
 > 
-> - **[[Growth Mindset]]** — Dweck's intelligence beliefs framework connects to GCT through a shared concern with the quality of achievement orientation. Fixed mindset, which orients persons toward performance goals (demonstrating ability), shares the extrinsic goal structure of attending to external validation and contingent competence. Growth mindset, which orients toward learning goals, shares the intrinsic goal structure of process engagement and mastery. The connection suggests that mindset interventions and goal content interventions may be operating on adjacent or overlapping psychological mechanisms.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — Dweck's intelligence beliefs framework connects to GCT through a shared concern with the quality of achievement orientation. Fixed mindset, which orients persons toward performance goals (demonstrating ability), shares the extrinsic goal structure of attending to external validation and contingent competence. Growth mindset, which orients toward learning goals, shares the intrinsic goal structure of process engagement and mastery. The connection suggests that mindset interventions and goal content interventions may be operating on adjacent or overlapping psychological mechanisms.
 > 
 > **Synthetic Observation**: Goal Contents Theory sits at an intersection of multiple major frameworks in the PKB — SDT (by identity), SRL (through goal orientation overlaps), CLT (through attentional load effects of goal framing), EVT (through task value taxonomy), and Growth Mindset (through performance vs. mastery goal parallels). This convergence from multiple independent research traditions on broadly similar content-process distinctions is itself analytically significant: it suggests that the intrinsic-extrinsic dimension of goal and task orientation is not a theoretical artifact of any single tradition but a robust feature of motivational psychology that multiple frameworks have independently discovered.
 
 #### 41. [DEFINITION] Goal Content Theory (Kasser & Ryan, 1993, 1996) *(Line 538)*
 
 > [!definition] Goal Content Theory (Kasser & Ryan, 1993, 1996)
-> A sub-theory of [[Self-Determination Theory]] proposing that personal goals differ in their qualitative content — what they aim toward — and that this qualitative dimension independently predicts psychological well-being. Distinguishes intrinsic goal content (personal growth, meaningful relationships, community contribution, physical health) from extrinsic goal content (financial success, fame, attractive appearance), with the hypothesis that intrinsic goal emphasis supports and extrinsic goal emphasis undermines the satisfaction of basic psychological needs.
+> A sub-theory of [[Self-Determination-Theory|Self-Determination Theory]] proposing that personal goals differ in their qualitative content — what they aim toward — and that this qualitative dimension independently predicts psychological well-being. Distinguishes intrinsic goal content (personal growth, meaningful relationships, community contribution, physical health) from extrinsic goal content (financial success, fame, attractive appearance), with the hypothesis that intrinsic goal emphasis supports and extrinsic goal emphasis undermines the satisfaction of basic psychological needs.
 
 #### 42. [DEFINITION] Intrinsic Goal Content *(Line 541)*
 
@@ -425,7 +425,7 @@ extraction_summary:
 #### 50. [DEFINITION] Basic Psychological Needs (SDT) *(Line 565)*
 
 > [!definition] Basic Psychological Needs (SDT)
-> In [[Self-Determination Theory]], three universal psychological needs whose satisfaction is constitutive of well-being: (1) **Autonomy** — the experience of one's behavior as self-determined and volitional; (2) **Competence** — the experience of effective interaction with the environment, mastery, and growth; (3) **Relatedness** — the experience of genuine connection with others and belonging. GCT proposes that intrinsic and extrinsic goal content differ systematically in how reliably their pursuit satisfies versus frustrates these needs.
+> In [[Self-Determination-Theory|Self-Determination Theory]], three universal psychological needs whose satisfaction is constitutive of well-being: (1) **Autonomy** — the experience of one's behavior as self-determined and volitional; (2) **Competence** — the experience of effective interaction with the environment, mastery, and growth; (3) **Relatedness** — the experience of genuine connection with others and belonging. GCT proposes that intrinsic and extrinsic goal content differ systematically in how reliably their pursuit satisfies versus frustrates these needs.
 
 #### 51. [DEFINITION] Hedonic Adaptation *(Line 568)*
 
@@ -540,33 +540,33 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aspiration Index]]
+- [[Aspiration-Index|Aspiration Index]]
 - [[Causality Orientations Theory — SDT Sub-Theory Analysis]]
-- [[Cognitive Load Theory]]
-- [[Contingent self-worth]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Contingent-Self-Worth|Contingent self-worth]]
 - [[Edward Deci]]
 - [[Expectancy-Value Theory]]
 - [[Expectancy-Value Theory — Focused Analysis]]
 - [[Goal Contents Theory]]
 - [[Goal Setting Theory]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Hedonic Adaptation and the Attainment Paradox — Cross-Theory Analysis]]
 - [[Intrinsic Goal Framing in Instructional Design — A Practical Guide]]
 - [[Kennon Sheldon]]
 - [[Maarten Vansteenkiste]]
 - [[Materialism, Consumer Culture, and Psychological Well-Being]]
 - [[Motivational Interviewing]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety and Basic Needs Environments in Educational Settings]]
 - [[Richard Ryan]]
-- [[Self-Concordance Model]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Concordance-Model|Self-Concordance Model]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Tim Kasser]]
 - [[autonomy]]
-- [[basic psychological needs]]
+- [[Basic-Psychological-Needs|basic psychological needs]]
 - [[competence]]
-- [[hedonic adaptation]]
+- [[Hedonic-Adaptation|hedonic adaptation]]
 - [[ill-being]]
 - [[psychological well-being]]
 - [[relatedness]]
@@ -579,39 +579,39 @@ extraction_summary:
 | 1 | [[Goal Contents Theory]] | — | — | Phase I: Orientation & Analytical Focus | 254 |
 | 2 | [[Tim Kasser]] | — | — | Phase I: Orientation & Analytical Focus | 254 |
 | 3 | [[Richard Ryan]] | — | — | Phase I: Orientation & Analytical Focus | 254 |
-| 4 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 254 |
-| 5 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
-| 6 | [[basic psychological needs]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
-| 7 | [[Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
-| 8 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
-| 9 | [[basic psychological needs]] | — | — | The Core Distinction: Content, Not So... | 272 |
-| 10 | [[Organismic Integration Theory]] | — | — | The Core Distinction: Content, Not So... | 274 |
+| 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 254 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
+| 6 | [[Basic-Psychological-Needs|basic psychological needs]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
+| 7 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
+| 8 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Analytical Focus | 256 |
+| 9 | [[Basic-Psychological-Needs|basic psychological needs]] | — | — | The Core Distinction: Content, Not So... | 272 |
+| 10 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Core Distinction: Content, Not So... | 274 |
 | 11 | [[autonomy]] | — | — | The Goal Content Taxonomy | 286 |
 | 12 | [[competence]] | — | — | The Goal Content Taxonomy | 286 |
 | 13 | [[relatedness]] | — | — | The Goal Content Taxonomy | 286 |
-| 14 | [[Aspiration Index]] | — | — | The Goal Content Taxonomy | 292 |
-| 15 | [[Aspiration Index]] | — | — | The Aspiration Index | 296 |
+| 14 | [[Aspiration-Index|Aspiration Index]] | — | — | The Goal Content Taxonomy | 292 |
+| 15 | [[Aspiration-Index|Aspiration Index]] | — | — | The Aspiration Index | 296 |
 | 16 | [[psychological well-being]] | — | — | Tier 1: The Correlational Foundation | 326 |
 | 17 | [[ill-being]] | — | — | Tier 1: The Correlational Foundation | 326 |
 | 18 | [[self-actualization]] | — | — | Tier 1: The Correlational Foundation | 326 |
 | 19 | [[Maarten Vansteenkiste]] | — | — | Tier 2: The Experimental Evidence fro... | 339 |
 | 20 | [[Edward Deci]] | — | — | Mechanism 1: Direct Needs Satisfactio... | 388 |
-| 21 | [[Contingent self-worth]] | — | — | Mechanism 2: Contingent Self-Worth an... | 397 |
+| 21 | [[Contingent-Self-Worth|Contingent self-worth]] | — | — | Mechanism 2: Contingent Self-Worth an... | 397 |
 | 22 | [[Kennon Sheldon]] | — | — | Mechanism 4: Goal Self-Concordance an... | 415 |
-| 23 | [[Self-Concordance Model]] | — | — | Mechanism 4: Goal Self-Concordance an... | 415 |
-| 24 | [[hedonic adaptation]] | — | — | Mechanism 4: Goal Self-Concordance an... | 420 |
+| 23 | [[Self-Concordance-Model|Self-Concordance Model]] | — | — | Mechanism 4: Goal Self-Concordance an... | 415 |
+| 24 | [[Hedonic-Adaptation|hedonic adaptation]] | — | — | Mechanism 4: Goal Self-Concordance an... | 420 |
 | 25 | [[Motivational Interviewing]] | — | — | Applications in Counseling and Coachi... | 456 |
 | 26 | [[Goal Setting Theory]] | — | — | Return and Deepen: Goal Content as Pr... | 503 |
-| 27 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 520 |
-| 28 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 522 |
-| 29 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 524 |
+| 27 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 520 |
+| 28 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 522 |
+| 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 524 |
 | 30 | [[Expectancy-Value Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 526 |
-| 31 | [[Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 528 |
-| 32 | [[Self-Determination Theory]] | — | — | A. Lexicon of Key Terms | 539 |
+| 31 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 528 |
+| 32 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | A. Lexicon of Key Terms | 539 |
 | 33 | [[autonomy]] | — | — | A. Lexicon of Key Terms | 542 |
 | 34 | [[competence]] | — | — | A. Lexicon of Key Terms | 542 |
 | 35 | [[relatedness]] | — | — | A. Lexicon of Key Terms | 542 |
-| 36 | [[Self-Determination Theory]] | — | — | A. Lexicon of Key Terms | 566 |
+| 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | A. Lexicon of Key Terms | 566 |
 | 37 | [[Intrinsic Goal Framing in Instructional Design — A Practical Guide]] | — | — | D. Expansion Topics | 619 |
 | 38 | [[Expectancy-Value Theory — Focused Analysis]] | — | — | D. Expansion Topics | 622 |
 | 39 | [[Materialism, Consumer Culture, and Psychological Well-Being]] | — | — | D. Expansion Topics | 625 |
@@ -628,33 +628,33 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aspiration Index]]
+- [[Aspiration-Index|Aspiration Index]]
 - [[Causality Orientations Theory — SDT Sub-Theory Analysis]]
-- [[Cognitive Load Theory]]
-- [[Contingent self-worth]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Contingent-Self-Worth|Contingent self-worth]]
 - [[Edward Deci]]
 - [[Expectancy-Value Theory]]
 - [[Expectancy-Value Theory — Focused Analysis]]
 - [[Goal Contents Theory]]
 - [[Goal Setting Theory]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Hedonic Adaptation and the Attainment Paradox — Cross-Theory Analysis]]
 - [[Intrinsic Goal Framing in Instructional Design — A Practical Guide]]
 - [[Kennon Sheldon]]
 - [[Maarten Vansteenkiste]]
 - [[Materialism, Consumer Culture, and Psychological Well-Being]]
 - [[Motivational Interviewing]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety and Basic Needs Environments in Educational Settings]]
 - [[Richard Ryan]]
-- [[Self-Concordance Model]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Concordance-Model|Self-Concordance Model]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Tim Kasser]]
 - [[autonomy]]
-- [[basic psychological needs]]
+- [[Basic-Psychological-Needs|basic psychological needs]]
 - [[competence]]
-- [[hedonic adaptation]]
+- [[Hedonic-Adaptation|hedonic adaptation]]
 - [[ill-being]]
 - [[psychological well-being]]
 - [[relatedness]]
@@ -664,36 +664,36 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 
 #### Related
 
-- [[Self-Regulated Learning]]
-- [[Cognitive Load Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Expectancy-Value Theory]]
-- [[Growth Mindset]]
-- [[Self-Concordance Model]]
-- [[Causality Orientations Theory]]
-- [[Hedonic Adaptation]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Self-Concordance-Model|Self-Concordance Model]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Hedonic-Adaptation|Hedonic Adaptation]]
 - [[Psychological Well-Being]]
 
 #### Broader
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Positive Psychology]]
 - [[Motivational Psychology]]
 
 #### Narrower
 
-- [[Aspiration Index]]
+- [[Aspiration-Index|Aspiration Index]]
 - [[Intrinsic Goal Taxonomy]]
 - [[Goal Framing in Education]]
 
 #### See Also
 
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Rokeach Value Theory]]
 - [[Terror Management Theory]]
 - [[Materialism Research]]
@@ -705,14 +705,14 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Educational Psychology Practice]]
 - [[Motivational Interviewing]]
 - [[Organizational Psychology]]
 
 #### Builds On
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
 - [[Organismic Valuing Process]]
 

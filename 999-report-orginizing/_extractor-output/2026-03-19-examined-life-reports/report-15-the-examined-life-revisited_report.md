@@ -198,19 +198,19 @@ extraction_summary:
 > [!summary] 🗝️ Phase V Summary
 > The capstone emergent insight is **Integrated Cognitive Personhood** — the claim that the examined life constitutes personhood in its fullest expression rather than augmenting an already-complete person. This claim is empirically supported by the Guamanga, Saiz & Rivas (2025) study's pathway from critical thinking to metacognition to well-being and empathy. The framework's limitations are genuine and deserve acknowledgment: the integrated-framework evidence gap, the resource intensity problem, the cultural universalism assumption, and the measurement problem. The most important open questions concern neural implementation, development under adversity, and what the examined life requires in an AI-saturated epistemic environment.
 
-#### 15. [DEFINITION] [[Integrated Cognitive Personhood]] *(Line 381)*
+#### 15. [DEFINITION] [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]] *(Line 381)*
 
-> [!definition] [[Integrated Cognitive Personhood]]
+> [!definition] [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]]
 > The emergent insight of Report 15: the claim that the examined life does not add cognitive capabilities to a pre-existing person but constitutes personhood in its fullest expression. When the fifteen dimensions of the Architecture of the Examined Life framework operate concurrently and fluidly — inquiry activation, fallibilist epistemology, autonomous motivation, constructive attentiveness, intellectual virtue, metacognitive governance, self-directed development, embodied awareness, emotional calibration, practical wisdom, social epistemic virtue, predictive flexibility, and narrative coherence — they describe not a person who thinks well but a person genuinely engaged with reality. This engagement is simultaneously the means to flourishing and its constitutive expression.
 
-#### 16. [DEFINITION] [[Aporic Receptivity]] *(Line 384)*
+#### 16. [DEFINITION] [[Aporic-Receptivity|Aporic Receptivity]] *(Line 384)*
 
-> [!definition] [[Aporic Receptivity]]
+> [!definition] [[Aporic-Receptivity|Aporic Receptivity]]
 > Introduced in Report 01 as the series' first emergent insight: the cultivated willingness to dwell productively in confusion — to remain genuinely open to the disruption that occurs when existing schemas cannot accommodate new evidence — rather than rushing to premature closure. Aporic Receptivity is the psychological precondition for genuine inquiry. It is distinguishable from mere tolerance of uncertainty (passive) and from the deliberate seeking of disconfirming evidence (active epistemic virtue). At Stage 5 of the developmental model, Aporic Receptivity is no longer a cultivated disposition but a natural expression of the practitioner's orientation toward the world.
 
-#### 17. [DEFINITION] [[Physiological Metacognition]] *(Line 387)*
+#### 17. [DEFINITION] [[Physiological-Metacognition|Physiological Metacognition]] *(Line 387)*
 
-> [!definition] [[Physiological Metacognition]]
+> [!definition] [[Physiological-Metacognition|Physiological Metacognition]]
 > Introduced in Report 09: the capacity to monitor and regulate one's bodily states as a form of cognitive self-management. Analogous to epistemic metacognition (monitoring one's thinking), Physiological Metacognition involves recognizing how current physiological states — fatigue, stress, hunger, autonomic arousal — are modulating cognitive performance, and making informed adjustments accordingly. At advanced stages, this monitoring becomes automatic and continuous rather than effortful and intermittent.
 
 #### 18. [DEFINITION] [[Prokoptōn]] *(Line 390)*
@@ -218,14 +218,14 @@ extraction_summary:
 > [!definition] [[Prokoptōn]]
 > The Stoic term for the person making progress — the one who is neither the unreflective ordinary person nor the achieved sage, but is genuinely oriented toward the ideal and actively developing toward it. The prokoptōn is the appropriate self-description at every stage of the developmental model: not "I have arrived" but "I am genuinely on the way." The concept captures an important philosophical point: the examined life is not a state to be achieved but an orientation to be maintained, and the orientation itself — the genuine commitment to honest engagement with reality — is the primary achievement.
 
-#### 19. [DEFINITION] [[Narrative Coherence as Cognitive Architecture]] *(Line 393)*
+#### 19. [DEFINITION] [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]] *(Line 393)*
 
-> [!definition] [[Narrative Coherence as Cognitive Architecture]]
+> [!definition] [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
 > From Report 14: the claim that the construction of a coherent life narrative is not a luxury of reflective personalities but a cognitive necessity. In predictive processing terms, the narrative self-model functions as the highest-level generative model — predicting not sensory data but the trajectory of one's life. When the narrative is coherent, this highest-level model provides appropriate contextual priors for all downstream processing; when it is incoherent (as in identity crises), the uncertainty propagates down the hierarchy, generating what clinicians describe as anxiety, dissociation, or existential distress.
 
-#### 20. [DEFINITION] [[Emotional Granularity as Epistemic Precision]] *(Line 396)*
+#### 20. [DEFINITION] [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]] *(Line 396)*
 
-> [!definition] [[Emotional Granularity as Epistemic Precision]]
+> [!definition] [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]]
 > From Report 10: the capacity to make fine-grained distinctions between emotional states — distinguishing, for example, anxiety from excitement, frustration from disappointment, moral indignation from personal offense — which is itself a form of cognitive precision that improves both reasoning and decision-making. Where coarse emotional categories generate coarse behavioral responses, fine-grained emotional distinctions enable calibrated, context-appropriate responses. Developing Emotional Granularity is not a merely psychological project but an epistemic one.
 
 #### 21. [CITE] Bauer, J.J., McAdams, D.P., & Pals, J.L. (2008). Narrative identity and eudaimonic well-being. *Journal of Happiness Studies*, 9(1), 81–104. https://doi.org/10.1007/s10902-006-9021-6 *(Line 401)*
@@ -301,24 +301,24 @@ extraction_summary:
 ### Unique Targets
 
 - [[AI and the Examined Life — Cognitive Sovereignty]]
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Amor Fati]]
 - [[Aporia]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constructed Emotion Theory]]
 - [[Constructivism]]
 - [[Cross-Cultural Examined Life — Comparative Philosophy]]
-- [[Debiasing]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
 - [[Dewey's Reflective Thinking]]
-- [[Distributed Cognition]]
-- [[Dreyfus Model of Skill Acquisition]]
-- [[Dual Process Theory]]
-- [[Embodied Cognition]]
-- [[Emotional Granularity]]
-- [[Emotional Granularity as Epistemic Precision]]
+- [[Distributed-Cognition|Distributed Cognition]]
+- [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Embodied-Cognition|Embodied Cognition]]
+- [[Emotional-Granularity|Emotional Granularity]]
+- [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]]
 - [[Epistemic Injustice]]
 - [[Eudaimonia]]
 - [[Evening Self-Examination — A Practice Manual for the Examined Life]]
@@ -326,15 +326,15 @@ extraction_summary:
 - [[Fallibilism]]
 - [[Flow]]
 - [[Gary Klein]]
-- [[Integrated Cognitive Personhood]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
+- [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoception]]
 - [[Lisa Feldman Barrett]]
 - [[Logotherapy]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Miranda Fricker]]
-- [[Narrative Coherence as Cognitive Architecture]]
+- [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
 - [[Narrative Identity]]
 - [[Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
@@ -342,31 +342,31 @@ extraction_summary:
 - [[Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's Constructivism]]
 - [[Pragmatism]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]
 - [[Rational Choice Theory]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Self-Cultivation — Confucian]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Social Epistemology]]
-- [[Socratic Method]]
-- [[Somatic Marker Hypothesis]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
+- [[Socratic-Method|Socratic Method]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Sophos]]
 - [[Stoic Prosoche]]
 - [[Stoic Virtue Ethics]]
-- [[System 1]]
-- [[System 2]]
-- [[Testimonial Injustice]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
+- [[Testimonial-Injustice|Testimonial Injustice]]
 - [[Tier 1 — Epistemic Architecture]]
 - [[Tier 2 — Practical Architecture]]
 - [[Tier 3 — Integrative Architecture]]
-- [[Virtue Epistemology]]
-- [[Zone of Proximal Development]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
@@ -375,27 +375,27 @@ extraction_summary:
 | 1 | [[Tier 1 — Epistemic Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 2 | [[Tier 2 — Practical Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 3 | [[Tier 3 — Integrative Architecture]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
-| 4 | [[Predictive Processing]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
+| 4 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 5 | [[Narrative Identity]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 6 | [[Eudaimonia]] | — | — | Phase I: The Premise 🎯 The Question T... | 184 |
 | 7 | [[Tier 1 — Epistemic Architecture]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 8 | [[Dewey's Reflective Thinking]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 9 | [[Socratic Method]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 10 | [[System 1]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 9 | [[Socratic-Method|Socratic Method]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 10 | [[System-1|System 1]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 11 | [[Fallibilism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 12 | [[Pragmatism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 13 | [[Constructivism]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 14 | [[Self-Determination Theory]] | — | — | The Three-Tier Architecture in Retros... | 202 |
+| 14 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Three-Tier Architecture in Retros... | 202 |
 | 15 | [[Prohairesis]] | — | — | The Three-Tier Architecture in Retros... | 202 |
-| 16 | [[Schema Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 17 | [[Zone of Proximal Development]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 18 | [[Virtue Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 16 | [[Schema-Theory|Schema Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 17 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 18 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 19 | [[Stoic Virtue Ethics]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 20 | [[Dual Process Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 20 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 21 | [[Stoic Prosoche]] | — | — | The Three-Tier Architecture in Retros... | 204 |
-| 22 | [[Self-Regulated Learning]] | — | — | The Three-Tier Architecture in Retros... | 204 |
+| 22 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Three-Tier Architecture in Retros... | 204 |
 | 23 | [[Tier 2 — Practical Architecture]] | — | — | The Three-Tier Architecture in Retros... | 206 |
-| 24 | [[Embodied Cognition]] | — | — | The Three-Tier Architecture in Retros... | 206 |
+| 24 | [[Embodied-Cognition|Embodied Cognition]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 25 | [[Interoception]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 26 | [[Lisa Feldman Barrett]] | — | — | The Three-Tier Architecture in Retros... | 206 |
 | 27 | [[Constructed Emotion Theory]] | — | — | The Three-Tier Architecture in Retros... | 206 |
@@ -403,73 +403,73 @@ extraction_summary:
 | 29 | [[Phronesis]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 30 | [[Gary Klein]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 31 | [[Naturalistic Decision Making]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 32 | [[Social Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 208 |
-| 33 | [[Distributed Cognition]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 32 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | The Three-Tier Architecture in Retros... | 208 |
+| 33 | [[Distributed-Cognition|Distributed Cognition]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 34 | [[Miranda Fricker]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 35 | [[Epistemic Injustice]] | — | — | The Three-Tier Architecture in Retros... | 208 |
 | 36 | [[Tier 3 — Integrative Architecture]] | — | — | The Three-Tier Architecture in Retros... | 210 |
-| 37 | [[Predictive Processing]] | — | — | The Three-Tier Architecture in Retros... | 210 |
+| 37 | [[Predictive-Processing|Predictive Processing]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 38 | [[Narrative Identity]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 39 | [[Logotherapy]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 40 | [[Eudaimonia]] | — | — | The Three-Tier Architecture in Retros... | 210 |
 | 41 | [[Dewey's Reflective Thinking]] | — | — | The Master Structural Homology: One T... | 226 |
 | 42 | [[Peirce's Fallibilism]] | — | — | The Master Structural Homology: One T... | 226 |
 | 43 | [[Piaget's Constructivism]] | — | — | The Master Structural Homology: One T... | 226 |
-| 44 | [[Metacognitive Monitoring]] | — | — | The Master Structural Homology: One T... | 226 |
-| 45 | [[Cognitive Load Theory]] | — | — | The Master Structural Homology: One T... | 226 |
+| 44 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Master Structural Homology: One T... | 226 |
+| 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Master Structural Homology: One T... | 226 |
 | 46 | [[Stoic Prosoche]] | — | — | The Master Structural Homology: One T... | 226 |
-| 47 | [[Somatic Marker Hypothesis]] | — | — | The Master Structural Homology: One T... | 226 |
-| 48 | [[Emotional Granularity]] | — | — | The Master Structural Homology: One T... | 226 |
+| 47 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | The Master Structural Homology: One T... | 226 |
+| 48 | [[Emotional-Granularity|Emotional Granularity]] | — | — | The Master Structural Homology: One T... | 226 |
 | 49 | [[Phronesis]] | — | — | The Master Structural Homology: One T... | 226 |
 | 50 | [[Narrative Identity]] | — | — | The Master Structural Homology: One T... | 226 |
 | 51 | [[Sophos]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
 | 52 | [[Phronimos]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
-| 53 | [[Dreyfus Model of Skill Acquisition]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
+| 53 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Central Conceptual Tension: Endpo... | 237 |
 | 54 | [[Prokoptōn]] | — | — | The Central Conceptual Tension: Endpo... | 241 |
 | 55 | [[Flow]] | — | — | The Central Conceptual Tension: Endpo... | 244 |
 | 56 | [[Dewey's Reflective Thinking]] | — | — | The Universalism Tension: Whose Exami... | 250 |
 | 57 | [[Self-Cultivation — Confucian]] | — | — | The Universalism Tension: Whose Exami... | 252 |
 | 58 | [[Rational Choice Theory]] | — | — | Worked Example One: The Epistemic Cha... | 266 |
-| 59 | [[Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
-| 60 | [[Metacognitive Monitoring]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
+| 59 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
+| 60 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
 | 61 | [[Fallibilism]] | — | — | Worked Example One: The Epistemic Cha... | 268 |
-| 62 | [[Aporic Receptivity]] | — | — | Worked Example One: The Epistemic Cha... | 270 |
-| 63 | [[Emotional Granularity]] | — | — | Worked Example One: The Epistemic Cha... | 270 |
-| 64 | [[Allostatic Load]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
-| 65 | [[System 2]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
-| 66 | [[Physiological Metacognition]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
-| 67 | [[Predictive Processing]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
-| 68 | [[Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
-| 69 | [[Metacognitive Monitoring]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
-| 70 | [[Aporic Receptivity]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
+| 62 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Worked Example One: The Epistemic Cha... | 270 |
+| 63 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Worked Example One: The Epistemic Cha... | 270 |
+| 64 | [[Allostatic-Load|Allostatic Load]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
+| 65 | [[System-2|System 2]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
+| 66 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | Worked Example One: The Epistemic Cha... | 272 |
+| 67 | [[Predictive-Processing|Predictive Processing]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
+| 68 | [[Intellectual-Humility|Intellectual Humility]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
+| 69 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
+| 70 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Worked Example One: The Epistemic Cha... | 274 |
 | 71 | [[Narrative Identity]] | — | — | Worked Example One: The Epistemic Cha... | 276 |
 | 72 | [[Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 284 |
-| 73 | [[Somatic Marker Hypothesis]] | — | — | Worked Example Two: The Practical Lif... | 286 |
-| 74 | [[Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
-| 75 | [[Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
+| 73 | [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]] | — | — | Worked Example Two: The Practical Lif... | 286 |
+| 74 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
+| 75 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Worked Example Two: The Practical Lif... | 286 |
 | 76 | [[Phronesis]] | — | — | Worked Example Two: The Practical Lif... | 288 |
 | 77 | [[Gary Klein]] | — | — | Worked Example Two: The Practical Lif... | 288 |
-| 78 | [[Self-Determination Theory]] | — | — | Worked Example Two: The Practical Lif... | 290 |
-| 79 | [[Social Epistemology]] | — | — | Worked Example Two: The Practical Lif... | 292 |
-| 80 | [[Testimonial Injustice]] | — | — | Worked Example Two: The Practical Lif... | 292 |
+| 78 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Worked Example Two: The Practical Lif... | 290 |
+| 79 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]] | — | — | Worked Example Two: The Practical Lif... | 292 |
+| 80 | [[Testimonial-Injustice|Testimonial Injustice]] | — | — | Worked Example Two: The Practical Lif... | 292 |
 | 81 | [[Narrative Identity]] | — | — | Worked Example Two: The Practical Lif... | 294 |
 | 82 | [[Amor Fati]] | — | — | Worked Example Two: The Practical Lif... | 294 |
 | 83 | [[Fallibilism]] | — | — | The Developmental Staging Model: From... | 305 |
 | 84 | [[Aporia]] | — | — | The Developmental Staging Model: From... | 307 |
-| 85 | [[Metacognitive Monitoring]] | — | — | The Developmental Staging Model: From... | 309 |
-| 86 | [[Intellectual Humility]] | — | — | The Developmental Staging Model: From... | 309 |
-| 87 | [[Cognitive Load]] | — | — | The Developmental Staging Model: From... | 311 |
-| 88 | [[Intellectual Courage]] | — | — | The Developmental Staging Model: From... | 311 |
-| 89 | [[Debiasing]] | — | — | The Developmental Staging Model: From... | 311 |
-| 90 | [[Self-Determination Theory]] | — | — | The Developmental Staging Model: From... | 321 |
+| 85 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Developmental Staging Model: From... | 309 |
+| 86 | [[Intellectual-Humility|Intellectual Humility]] | — | — | The Developmental Staging Model: From... | 309 |
+| 87 | [[Cognitive-Load|Cognitive Load]] | — | — | The Developmental Staging Model: From... | 311 |
+| 88 | [[Intellectual-Courage|Intellectual Courage]] | — | — | The Developmental Staging Model: From... | 311 |
+| 89 | [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]] | — | — | The Developmental Staging Model: From... | 311 |
+| 90 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Developmental Staging Model: From... | 321 |
 | 91 | [[Prohairesis]] | — | — | The Developmental Staging Model: From... | 325 |
-| 92 | [[Integrated Cognitive Personhood]] | — | — | The Emergent Insight: Integrated Cogn... | 341 |
-| 93 | [[Integrated Cognitive Personhood]] | — | — | 📖 Key Definitions | 381 |
-| 94 | [[Aporic Receptivity]] | — | — | 📖 Key Definitions | 384 |
-| 95 | [[Physiological Metacognition]] | — | — | 📖 Key Definitions | 387 |
+| 92 | [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]] | — | — | The Emergent Insight: Integrated Cogn... | 341 |
+| 93 | [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]] | — | — | 📖 Key Definitions | 381 |
+| 94 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 📖 Key Definitions | 384 |
+| 95 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | 📖 Key Definitions | 387 |
 | 96 | [[Prokoptōn]] | — | — | 📖 Key Definitions | 390 |
-| 97 | [[Narrative Coherence as Cognitive Architecture]] | — | — | 📖 Key Definitions | 393 |
-| 98 | [[Emotional Granularity as Epistemic Precision]] | — | — | 📖 Key Definitions | 396 |
+| 97 | [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]] | — | — | 📖 Key Definitions | 393 |
+| 98 | [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]] | — | — | 📖 Key Definitions | 396 |
 | 99 | [[Cross-Cultural Examined Life — Comparative Philosophy]] | — | — | 🔭 Expansion Topics for PKB Development | 429 |
 | 100 | [[Pedagogy of the Examined Life — Stage-Specific Curricula]] | — | — | 🔭 Expansion Topics for PKB Development | 432 |
 | 101 | [[AI and the Examined Life — Cognitive Sovereignty]] | — | — | 🔭 Expansion Topics for PKB Development | 435 |
@@ -507,24 +507,24 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[AI and the Examined Life — Cognitive Sovereignty]]
-- [[Allostatic Load]]
+- [[Allostatic-Load|Allostatic Load]]
 - [[Amor Fati]]
 - [[Aporia]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constructed Emotion Theory]]
 - [[Constructivism]]
 - [[Cross-Cultural Examined Life — Comparative Philosophy]]
-- [[Debiasing]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing]]
 - [[Dewey's Reflective Thinking]]
-- [[Distributed Cognition]]
-- [[Dreyfus Model of Skill Acquisition]]
-- [[Dual Process Theory]]
-- [[Embodied Cognition]]
-- [[Emotional Granularity]]
-- [[Emotional Granularity as Epistemic Precision]]
+- [[Distributed-Cognition|Distributed Cognition]]
+- [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Embodied-Cognition|Embodied Cognition]]
+- [[Emotional-Granularity|Emotional Granularity]]
+- [[Emotional-Granularity-as-Epistemic-Precision|Emotional Granularity as Epistemic Precision]]
 - [[Epistemic Injustice]]
 - [[Eudaimonia]]
 - [[Evening Self-Examination — A Practice Manual for the Examined Life]]
@@ -532,15 +532,15 @@ extraction_summary:
 - [[Fallibilism]]
 - [[Flow]]
 - [[Gary Klein]]
-- [[Integrated Cognitive Personhood]]
-- [[Intellectual Courage]]
-- [[Intellectual Humility]]
+- [[Integrated-Cognitive-Personhood|Integrated Cognitive Personhood]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Humility|Intellectual Humility]]
 - [[Interoception]]
 - [[Lisa Feldman Barrett]]
 - [[Logotherapy]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Miranda Fricker]]
-- [[Narrative Coherence as Cognitive Architecture]]
+- [[Narrative-Coherence-as-Cognitive-Architecture|Narrative Coherence as Cognitive Architecture]]
 - [[Narrative Identity]]
 - [[Naturalistic Decision Making]]
 - [[Neural Substrates of Integrated Wisdom — Neuroscience of Phronesis]]
@@ -548,31 +548,31 @@ extraction_summary:
 - [[Peirce's Fallibilism]]
 - [[Phronesis]]
 - [[Phronimos]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Piaget's Constructivism]]
 - [[Pragmatism]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Prohairesis]]
 - [[Prokoptōn]]
 - [[Rational Choice Theory]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Self-Cultivation — Confucian]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Social Epistemology]]
-- [[Socratic Method]]
-- [[Somatic Marker Hypothesis]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
+- [[Socratic-Method|Socratic Method]]
+- [[Somatic-Marker-Hypothesis|Somatic Marker Hypothesis]]
 - [[Sophos]]
 - [[Stoic Prosoche]]
 - [[Stoic Virtue Ethics]]
-- [[System 1]]
-- [[System 2]]
-- [[Testimonial Injustice]]
+- [[System-1|System 1]]
+- [[System-2|System 2]]
+- [[Testimonial-Injustice|Testimonial Injustice]]
 - [[Tier 1 — Epistemic Architecture]]
 - [[Tier 2 — Practical Architecture]]
 - [[Tier 3 — Integrative Architecture]]
-- [[Virtue Epistemology]]
-- [[Zone of Proximal Development]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 

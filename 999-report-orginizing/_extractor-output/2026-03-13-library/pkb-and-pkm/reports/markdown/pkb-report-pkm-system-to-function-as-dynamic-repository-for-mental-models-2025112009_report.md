@@ -218,16 +218,16 @@ extraction_summary:
 
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[Berkshire Hathaway]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Equilibrium]]
 - [[First Principles Thinking]]
 - [[Homeostasis]]
 - [[Information Architecture Patterns for Knowledge Work]]
 - [[Inversion]]
 - [[John Locke]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Nash Equilibrium]]
 - [[Notion]]
 - [[Opportunity Cost]]
@@ -244,7 +244,7 @@ extraction_summary:
 - [[Transactive Memory Systems in Organizations]]
 - [[Unintended Consequences]]
 - [[Warren Buffett]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
 - [[hiring decisions]]
@@ -256,20 +256,20 @@ extraction_summary:
 | 1 | [[Zettelkasten]] | — | — | 1.0 📜 Introduction | 71 |
 | 2 | [[First Principles Thinking]] | — | — | 1.0 📜 Introduction | 73 |
 | 3 | [[Inversion]] | — | — | 1.0 📜 Introduction | 73 |
-| 4 | [[Cognitive Load Theory]] | — | — | 1.0 📜 Introduction | 83 |
-| 5 | [[Working Memory]] | — | — | 1.0 📜 Introduction | 83 |
-| 6 | [[Long-Term Memory]] | — | — | 1.0 📜 Introduction | 83 |
+| 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 1.0 📜 Introduction | 83 |
+| 5 | [[Working-Memory|Working Memory]] | — | — | 1.0 📜 Introduction | 83 |
+| 6 | [[Long-Term-Memory|Long-Term Memory]] | — | — | 1.0 📜 Introduction | 83 |
 | 7 | [[Berkshire Hathaway]] | — | — | The Evolution of Mental Models as a C... | 97 |
 | 8 | [[Warren Buffett]] | — | — | The Evolution of Mental Models as a C... | 97 |
 | 9 | [[Zettelkasten Method]] | — | — | The Zettelkasten Tradition and Networ... | 110 |
 | 10 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 11 | [[Roam Research]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
 | 12 | [[Notion]] | — | — | The Zettelkasten Tradition and Networ... | 116 |
-| 13 | [[Cognitive Load Theory]] | — | — | Cognitive Load Theory and the Archite... | 120 |
+| 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and the Archite... | 120 |
 | 14 | [[John Locke]] | — | — | The Convergence: Mental Models, Netwo... | 151 |
 | 15 | [[Ralph Waldo Emerson]] | — | — | The Convergence: Mental Models, Netwo... | 151 |
 | 16 | [[Ramon Llull]] | — | — | The Convergence: Mental Models, Netwo... | 151 |
-| 17 | [[Confirmation Bias]] | — | — | Principle 1: Atomicity—The Single Res... | 165 |
+| 17 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Principle 1: Atomicity—The Single Res... | 165 |
 | 18 | [[Inversion]] | — | — | Principle 1: Atomicity—The Single Res... | 165 |
 | 19 | [[hiring decisions]] | — | — | Principle 1: Atomicity—The Single Res... | 167 |
 | 20 | [[Second-Order Thinking]] | — | — | Principle 2: Interconnection—Knowledg... | 181 |
@@ -413,16 +413,16 @@ Based on my research, I now have a deep understanding of the key concepts needed
 
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
 - [[Berkshire Hathaway]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Compound Interest]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Equilibrium]]
 - [[First Principles Thinking]]
 - [[Homeostasis]]
 - [[Information Architecture Patterns for Knowledge Work]]
 - [[Inversion]]
 - [[John Locke]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Nash Equilibrium]]
 - [[Notion]]
 - [[Opportunity Cost]]
@@ -439,7 +439,7 @@ Based on my research, I now have a deep understanding of the key concepts needed
 - [[Transactive Memory Systems in Organizations]]
 - [[Unintended Consequences]]
 - [[Warren Buffett]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method]]
 - [[hiring decisions]]

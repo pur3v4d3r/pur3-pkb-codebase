@@ -326,7 +326,7 @@ extraction_summary:
 #### 9. [ABSTRACT] Executive Overview *(Line 174)*
 
 > [!abstract] Executive Overview
-> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[Psychological Well-Being]].
+> **Stoic Daily Journaling** represents a systematic practice of written self-examination rooted in ancient Greco-Roman philosophy, designed to cultivate [[Virtue]], develop [[Metacognitive Awareness]], and achieve psychological resilience through structured reflection on one's thoughts, actions, and alignment with [[Stoic-Philosophy|Stoic Philosophy]]. This practice bridges 2,000 years of philosophical tradition with contemporary [[Cognitive-Science|Cognitive Science]], offering an evidence-based methodology for [[Behavioral Change]], [[Epistemic Refinement]], and sustained [[Psychological Well-Being]].
 
 #### 10. [HOW-TO-USE-THIS] Navigation Guide *(Line 177)*
 
@@ -348,7 +348,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > **Foundational Axiom**
-> The [[Dichotomy of Control]], described as "the foundation of Epictetus' Handbook," requires maintaining a clear distinction between what is up to us (our judgments, intentions, desires, aversions) and what is not (external events, others' actions, outcomes)—taking more responsibility for our own actions while accepting what merely happens to us.
+> The [[Dichotomy-of-Control|Dichotomy of Control]], described as "the foundation of Epictetus' Handbook," requires maintaining a clear distinction between what is up to us (our judgments, intentions, desires, aversions) and what is not (external events, others' actions, outcomes)—taking more responsibility for our own actions while accepting what merely happens to us.
 
 #### 14. [METHODOLOGY-AND-SOURCES] Untitled *(Line 263)*
 
@@ -652,7 +652,7 @@ extraction_summary:
 - [[Apatheia]]
 - [[Apathy]]
 - [[Art of Living]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Automatic Thoughts]]
 - [[Automaticity]]
 - [[Behavioral Change]]
@@ -669,12 +669,12 @@ extraction_summary:
 - [[Cognitive Distortions]]
 - [[Cognitive Habit]]
 - [[Cognitive Narrowing]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
 - [[Cognitive Responses]]
 - [[Cognitive Restructuring]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Compound Interest]]
@@ -686,10 +686,10 @@ extraction_summary:
 - [[Dataview]]
 - [[Default Mode Network]]
 - [[Defensive Avoidance]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Difficulties in Emotion Regulation Scale]]
 - [[Digital Stoic Practice Environment]]
-- [[Discipline of Assent]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Responses]]
@@ -712,7 +712,7 @@ extraction_summary:
 - [[Graph View]]
 - [[Gratitude]]
 - [[Greco-Roman Philosophy]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation|Hedonic Adaptation]]
 - [[Hippocampal]]
 - [[Hippocampal Consolidation]]
 - [[Implementation Friction]]
@@ -760,7 +760,7 @@ extraction_summary:
 - [[Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Prospective Self-Monitoring]]
@@ -789,7 +789,7 @@ extraction_summary:
 - [[Stoic Attitudes and Behaviors Scale]]
 - [[Stoic Daily Journaling]]
 - [[Stoic Daily Journaling: A systematic practice of written Self-Examination]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Sage]]
 - [[Stoic School]]
 - [[Stoicism]]
@@ -807,7 +807,7 @@ extraction_summary:
 - [[Virtue]]
 - [[Virtue Ethics]]
 - [[Wisdom]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Written Language]]
 - [[Zeno of Citium]]
 
@@ -818,8 +818,8 @@ extraction_summary:
 | 1 | [[Stoic Daily Journaling: A systematic practice of written Self-Examination]] | — | — | Stoic Daily Journaling: A systematic ... | 43 |
 | 2 | [[Virtue]] | — | — | Review Checklist: | 175 |
 | 3 | [[Metacognitive Awareness]] | — | — | Review Checklist: | 175 |
-| 4 | [[Stoic Philosophy]] | — | — | Review Checklist: | 175 |
-| 5 | [[Cognitive Science]] | — | — | Review Checklist: | 175 |
+| 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Review Checklist: | 175 |
+| 5 | [[Cognitive-Science|Cognitive Science]] | — | — | Review Checklist: | 175 |
 | 6 | [[Behavioral Change]] | — | — | Review Checklist: | 175 |
 | 7 | [[Epistemic Refinement]] | — | — | Review Checklist: | 175 |
 | 8 | [[Psychological Well-Being]] | — | — | Review Checklist: | 175 |
@@ -860,11 +860,11 @@ extraction_summary:
 | 43 | [[Virtue]] | — | — | The Three Pillars: Marcus, Seneca, Ep... | 219 |
 | 44 | [[Moral Development]] | — | — | The Pythagorean Origin | 223 |
 | 45 | [[Antonine Plague]] | — | — | The Modern Rediscovery | 227 |
-| 46 | [[Dichotomy of Control]] | — | — | The Dichotomy of Control | 237 |
+| 46 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Dichotomy of Control | 237 |
 | 47 | [[Cognitive Habit]] | — | — | The Dichotomy of Control | 239 |
 | 48 | [[External Events]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
 | 49 | [[Judgments]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
-| 50 | [[Assent]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
+| 50 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
 | 51 | [[Impressions]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
 | 52 | [[Cognitive Responses]] | — | — | Cognitive Primacy and Value-Neutral E... | 243 |
 | 53 | [[Wisdom]] | — | — | The Four Cardinal Virtues | 258 |
@@ -876,20 +876,20 @@ extraction_summary:
 | 59 | [[Pierre Hadot]] | — | — | Spiritual Exercises as Psychological ... | 269 |
 | 60 | [[Prosoche]] | — | — | Spiritual Exercises as Psychological ... | 272 |
 | 61 | [[View from Above]] | — | — | Spiritual Exercises as Psychological ... | 273 |
-| 62 | [[Premeditatio Malorum]] | — | — | Spiritual Exercises as Psychological ... | 274 |
+| 62 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Spiritual Exercises as Psychological ... | 274 |
 | 63 | [[Negative Visualization]] | — | — | Spiritual Exercises as Psychological ... | 275 |
 | 64 | [[Memento Mori]] | — | — | Spiritual Exercises as Psychological ... | 276 |
 | 65 | [[Amor Fati]] | — | — | Spiritual Exercises as Psychological ... | 277 |
 | 66 | [[Internal Experience]] | — | — | Self-Regulation Through Written Language | 281 |
 | 67 | [[Written Language]] | — | — | Self-Regulation Through Written Language | 281 |
-| 68 | [[Cognitive Offloading]] | — | — | Self-Regulation Through Written Language | 283 |
+| 68 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Self-Regulation Through Written Language | 283 |
 | 69 | [[Linguistic Crystallization]] | — | — | Self-Regulation Through Written Language | 284 |
 | 70 | [[Temporal Distance]] | — | — | Self-Regulation Through Written Language | 285 |
 | 71 | [[Perspective Shift]] | — | — | Self-Regulation Through Written Language | 286 |
 | 72 | [[Permanence]] | — | — | Self-Regulation Through Written Language | 287 |
 | 73 | [[Moral Hygiene]] | — | — | Self-Regulation Through Written Language | 291 |
 | 74 | [[Character Cultivation]] | — | — | Self-Regulation Through Written Language | 291 |
-| 75 | [[Cognitive Science]] | — | — | The Metacognitive Foundation | 299 |
+| 75 | [[Cognitive-Science|Cognitive Science]] | — | — | The Metacognitive Foundation | 299 |
 | 76 | [[Self-Regulated Learners]] | — | — | The Metacognitive Foundation | 299 |
 | 77 | [[Metacognitive Scaffold]] | — | — | The Metacognitive Foundation | 299 |
 | 78 | [[Metacognitive Awareness Inventory]] | — | — | The Metacognitive Foundation | 305 |
@@ -897,14 +897,14 @@ extraction_summary:
 | 80 | [[Cognitive-Behavioral Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 309 |
 | 81 | [[Cognitive Restructuring]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
 | 82 | [[Automatic Thoughts]] | — | — | The CBT Connection: Philosophical Ori... | 315 |
-| 83 | [[Assent]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
+| 83 | [[Stoic-Synkatathesis-—-Assent|Assent]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
 | 84 | [[Cognitive Disputation]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
 | 85 | [[Cognitive Distortions]] | — | — | The CBT Connection: Philosophical Ori... | 316 |
 | 86 | [[Thought Records]] | — | — | The CBT Connection: Philosophical Ori... | 317 |
-| 87 | [[Dichotomy of Control]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
+| 87 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
 | 88 | [[Sphere of Influence]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
 | 89 | [[Rumination]] | — | — | The CBT Connection: Philosophical Ori... | 318 |
-| 90 | [[Premeditatio Malorum]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
+| 90 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
 | 91 | [[Exposure Therapy]] | — | — | The CBT Connection: Philosophical Ori... | 319 |
 | 92 | [[Virtue]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
 | 93 | [[Values Clarification]] | — | — | The CBT Connection: Philosophical Ori... | 320 |
@@ -921,12 +921,12 @@ extraction_summary:
 | 104 | [[Anterior Cingulate Cortex]] | — | — | Neuroplasticity and Habit Formation | 347 |
 | 105 | [[Automaticity]] | — | — | Neuroplasticity and Habit Formation | 349 |
 | 106 | [[Second Nature]] | — | — | Neuroplasticity and Habit Formation | 349 |
-| 107 | [[Cognitive Offloading]] | — | — | Working Memory and Cognitive Load | 353 |
-| 108 | [[Working Memory]] | — | — | Working Memory and Cognitive Load | 353 |
+| 107 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Working Memory and Cognitive Load | 353 |
+| 108 | [[Working-Memory|Working Memory]] | — | — | Working Memory and Cognitive Load | 353 |
 | 109 | [[Moral Reasoning]] | — | — | Working Memory and Cognitive Load | 363 |
 | 110 | [[Behavioral Change]] | — | — | The Structured vs. Unstructured Disti... | 374 |
 | 111 | [[Gratitude]] | — | — | Marcus Aurelius's Personal System | 391 |
-| 112 | [[Hedonic Adaptation]] | — | — | Marcus Aurelius's Personal System | 394 |
+| 112 | [[Hedonic-Adaptation|Hedonic Adaptation]] | — | — | Marcus Aurelius's Personal System | 394 |
 | 113 | [[Equanimity]] | — | — | Marcus Aurelius's Personal System | 398 |
 | 114 | [[Cognitive Narrowing]] | — | — | Marcus Aurelius's Personal System | 416 |
 | 115 | [[Prospective Self-Monitoring]] | — | — | Seneca's Evening Forensic Examination | 435 |
@@ -938,7 +938,7 @@ extraction_summary:
 | 121 | [[Memory Consolidation]] | — | — | The Pythagorean Memory Technique | 461 |
 | 122 | [[Hippocampal]] | — | — | The Pythagorean Memory Technique | 461 |
 | 123 | [[Amygdalar]] | — | — | The Pythagorean Memory Technique | 461 |
-| 124 | [[Discipline of Assent]] | — | — | The Discipline of Assent | 465 |
+| 124 | [[Discipline-of-Assent|Discipline of Assent]] | — | — | The Discipline of Assent | 465 |
 | 125 | [[Epimelet eia]] | — | — | The Discipline of Assent | 473 |
 | 126 | [[Ruling Faculty]] | — | — | The Discipline of Assent | 473 |
 | 127 | [[Ryan Holiday]] | — | — | The Daily Stoic Framework | 481 |
@@ -981,7 +981,7 @@ extraction_summary:
 | 164 | [[${focusVirtue}]] | — | — | Templater Automation | 1244 |
 | 165 | [[QuickAdd]] | — | — | QuickAdd Macro for Rapid Entry | 1250 |
 | 166 | [[Anger]] | — | — | Linking Strategy for Knowledge Graph | 1265 |
-| 167 | [[Dichotomy of Control]] | — | — | Linking Strategy for Knowledge Graph | 1265 |
+| 167 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Linking Strategy for Knowledge Graph | 1265 |
 | 168 | [[Letter 47]] | — | — | Linking Strategy for Knowledge Graph | 1266 |
 | 169 | [[Graph View]] | — | — | Graph View as Metacognitive Tool | 1282 |
 | 170 | [[Meta Bind]] | — | — | Meta Bind for Dynamic Progress Tracking | 1293 |
@@ -1005,22 +1005,22 @@ extraction_summary:
 | 188 | [[Virtue]] | — | — | Data Obsession | 1883 |
 | 189 | [[Flourishing]] | — | — | Data Obsession | 1883 |
 | 190 | [[Socratic Questioning]] | — | — | Socratic Self-Dialogue | 1918 |
-| 191 | [[Premeditatio Malorum]] | — | — | Premeditated Catastrophe Analysis | 1950 |
+| 191 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | Premeditated Catastrophe Analysis | 1950 |
 | 192 | [[Negative Visualization]] | — | — | Hedonic Adaptation Journaling | 2073 |
 | 193 | [[Gratitude]] | — | — | Hedonic Adaptation Journaling | 2073 |
-| 194 | [[Hedonic Adaptation]] | — | — | Hedonic Adaptation Journaling | 2073 |
+| 194 | [[Hedonic-Adaptation|Hedonic Adaptation]] | — | — | Hedonic Adaptation Journaling | 2073 |
 | 195 | [[Stoic Sage]] | — | — | Character Archetyping | 2105 |
 | 196 | [[Justice]] | — | — | Philosophical Letter Writing | 2129 |
 | 197 | [[Moderation]] | — | — | Philosophical Letter Writing | 2129 |
 | 198 | [[Memento Mori]] | — | — | Philosophical Letter Writing | 2144 |
 | 199 | [[Metacognitive System]] | — | — | The Stoic Journaling as Metacognitive... | 2219 |
-| 200 | [[Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 2232 |
+| 200 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Three-Pillar Architecture | 2232 |
 | 201 | [[Cognitive Primacy]] | — | — | The Three-Pillar Architecture | 2233 |
 | 202 | [[Virtue Ethics]] | — | — | The Three-Pillar Architecture | 2234 |
 | 203 | [[Cosmopolitanism]] | — | — | The Three-Pillar Architecture | 2235 |
 | 204 | [[Memento Mori]] | — | — | The Three-Pillar Architecture | 2236 |
 | 205 | [[Metacognitive Awareness]] | — | — | The Three-Pillar Architecture | 2243 |
-| 206 | [[Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 2244 |
+| 206 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | The Three-Pillar Architecture | 2244 |
 | 207 | [[Structured Prompts]] | — | — | The Three-Pillar Architecture | 2245 |
 | 208 | [[Pattern Recognition]] | — | — | The Three-Pillar Architecture | 2246 |
 | 209 | [[Neuroplastic Change]] | — | — | The Three-Pillar Architecture | 2247 |
@@ -1030,7 +1030,7 @@ extraction_summary:
 | 213 | [[Virtue]] | — | — | The Ultimate Purpose | 2447 |
 | 214 | [[Eudaimonia]] | — | — | The Ultimate Purpose | 2448 |
 | 215 | [[Psychological Resilience]] | — | — | The Ultimate Purpose | 2449 |
-| 216 | [[Dichotomy of Control]] | — | — | The Ultimate Purpose | 2455 |
+| 216 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | The Ultimate Purpose | 2455 |
 | 217 | [[Virtue]] | — | — | The Ultimate Purpose | 2456 |
 | 218 | [[Cognitive]] | — | — | The Ultimate Purpose | 2457 |
 | 219 | [[Universal Reason]] | — | — | The Ultimate Purpose | 2458 |
@@ -1291,7 +1291,7 @@ tR += `Today's Virtue Focus: [[${focusVirtue}]]`;
 ### Code Block 13 — `markdown` *(Lines 1264-1267)*
 
 ```markdown
-Today I struggled with [[Anger]], forgetting the [[Dichotomy of Control]]. 
+Today I struggled with [[Anger]], forgetting the [[Dichotomy-of-Control|Dichotomy of Control]]. 
 Seneca's advice in [[Letter 47]] proved relevant.
 ```
 
@@ -1614,10 +1614,10 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 | Stoic Practice | Modern CBT Equivalent | Mechanism |
 | --- | --- | --- |
 | Separating judgments from events | [[Cognitive Restructuring]] | Identifying [[Automatic Thoughts]] |
-| Examining [[Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
+| Examining [[Stoic-Synkatathesis-—-Assent|Assent]] to impressions | [[Cognitive Disputation]] | Challenging [[Cognitive Distortions]] |
 | Evening review | [[Thought Records]] | Documenting triggers and responses |
-| [[Dichotomy of Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
-| [[Premeditatio Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
+| [[Dichotomy-of-Control|Dichotomy of Control]] | Focus on [[Sphere of Influence]] | Reducing [[Rumination]] on uncontrollables |
+| [[Premeditatio-Malorum|Premeditatio Malorum]] | [[Exposure Therapy]] | Systematic desensitization |
 | [[Virtue]] cultivation | [[Values Clarification]] | Aligning behavior with principles |
 
 ### Table 3 *(Line 856, 5 rows)*
@@ -1702,7 +1702,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Apatheia]]
 - [[Apathy]]
 - [[Art of Living]]
-- [[Assent]]
+- [[Stoic-Synkatathesis-—-Assent|Assent]]
 - [[Automatic Thoughts]]
 - [[Automaticity]]
 - [[Behavioral Change]]
@@ -1719,12 +1719,12 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Cognitive Distortions]]
 - [[Cognitive Habit]]
 - [[Cognitive Narrowing]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cognitive Primacy]]
 - [[Cognitive Prompts]]
 - [[Cognitive Responses]]
 - [[Cognitive Restructuring]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Committed Action]]
 - [[Compound Interest]]
@@ -1736,10 +1736,10 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Dataview]]
 - [[Default Mode Network]]
 - [[Defensive Avoidance]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Difficulties in Emotion Regulation Scale]]
 - [[Digital Stoic Practice Environment]]
-- [[Discipline of Assent]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Emotional Regulation]]
 - [[Emotional Regulation Questionnaire]]
 - [[Emotional Responses]]
@@ -1762,7 +1762,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Graph View]]
 - [[Gratitude]]
 - [[Greco-Roman Philosophy]]
-- [[Hedonic Adaptation]]
+- [[Hedonic-Adaptation|Hedonic Adaptation]]
 - [[Hippocampal]]
 - [[Hippocampal Consolidation]]
 - [[Implementation Friction]]
@@ -1810,7 +1810,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Pierre Hadot]]
 - [[Plain Text]]
 - [[Prefrontal Cortex]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Propatheiai]]
 - [[Prosoche]]
 - [[Prospective Self-Monitoring]]
@@ -1839,7 +1839,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Stoic Attitudes and Behaviors Scale]]
 - [[Stoic Daily Journaling]]
 - [[Stoic Daily Journaling: A systematic practice of written Self-Examination]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Sage]]
 - [[Stoic School]]
 - [[Stoicism]]
@@ -1857,7 +1857,7 @@ Year 3: 1000+ reflections → Wisdom embedded in being
 - [[Virtue]]
 - [[Virtue Ethics]]
 - [[Wisdom]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Written Language]]
 - [[Zeno of Citium]]
 

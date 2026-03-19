@@ -181,12 +181,12 @@ extraction_summary:
 #### 8. [ABSTRACT] Untitled *(Line 207)*
 
 > [!abstract] Untitled
-> The relationship between [[Critical Thinking]], [[General Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
+> The relationship between [[Critical-Thinking|Critical Thinking]], [[General Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
 
 #### 9. [DEFINITION] Untitled *(Line 214)*
 
 > [!definition] Untitled
-> **[[Critical Thinking]]** is the use of cognitive skills and intellectual dispositions that increase the probability of desirable outcomes through reflective, evidence-based judgment. It encompasses both the *ability* to employ specific reasoning strategies (skills) and the *inclination* to do so when appropriate (dispositions), along with the knowledge structures necessary for rational evaluation.
+> **[[Critical-Thinking|Critical Thinking]]** is the use of cognitive skills and intellectual dispositions that increase the probability of desirable outcomes through reflective, evidence-based judgment. It encompasses both the *ability* to employ specific reasoning strategies (skills) and the *inclination* to do so when appropriate (dispositions), along with the knowledge structures necessary for rational evaluation.
 
 #### 10. [DEFINITION] Untitled *(Line 217)*
 
@@ -287,22 +287,22 @@ extraction_summary:
 - [[Cognitive Flexibility]]
 - [[Comprehensive Assessment of Rational Thinking]]
 - [[Contaminated Mindware and Cognitive Immunology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
 - [[Domain Expertise]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dysrationalia]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Executive Function]]
 - [[Fluid Intelligence]]
 - [[General Intelligence]]
 - [[Metacognition]]
-- [[Myside Bias]]
+- [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]
 - [[Pre-Mortem Analysis]]
-- [[Reflective Thinking]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[The Development of Adaptive Expertise]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[What distinguishes critical thinking from general intelligence or domain expertise?]]
 
 ### All Occurrences
@@ -310,34 +310,34 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[What distinguishes critical thinking from general intelligence or domain expertise?]] | — | — | What distinguishes critical thinking ... | 40 |
-| 2 | [[Critical Thinking]] | — | — | Claude Thinking: | 188 |
+| 2 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 188 |
 | 3 | [[General Intelligence]] | — | — | Claude Thinking: | 188 |
 | 4 | [[Domain Expertise]] | — | — | Claude Thinking: | 188 |
 | 5 | [[Metacognition]] | — | — | Claude Thinking: | 188 |
 | 6 | [[Cognitive Biases]] | — | — | Claude Thinking: | 188 |
-| 7 | [[Dual Process Theory]] | — | — | Claude Thinking: | 188 |
+| 7 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Claude Thinking: | 188 |
 | 8 | [[Fluid Intelligence]] | — | — | Claude Thinking: | 188 |
 | 9 | [[Crystallized Intelligence]] | — | — | Claude Thinking: | 188 |
-| 10 | [[Epistemic Cognition]] | — | — | Claude Thinking: | 188 |
-| 11 | [[Reflective Thinking]] | — | — | Claude Thinking: | 188 |
+| 10 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | Claude Thinking: | 188 |
+| 11 | [[Reflective-Thinking|Reflective Thinking]] | — | — | Claude Thinking: | 188 |
 | 12 | [[Executive Function]] | — | — | Claude Thinking: | 188 |
-| 13 | [[Transfer of Learning]] | — | — | Claude Thinking: | 188 |
+| 13 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Claude Thinking: | 188 |
 | 14 | [[Cognitive Flexibility]] | — | — | Claude Thinking: | 188 |
-| 15 | [[Critical Thinking]] | — | — | Claude Thinking: | 208 |
+| 15 | [[Critical-Thinking|Critical Thinking]] | — | — | Claude Thinking: | 208 |
 | 16 | [[General Intelligence]] | — | — | Claude Thinking: | 208 |
 | 17 | [[Domain Expertise]] | — | — | Claude Thinking: | 208 |
-| 18 | [[Critical Thinking]] | — | — | 🧠 The Fundamental Architecture: Three... | 215 |
+| 18 | [[Critical-Thinking|Critical Thinking]] | — | — | 🧠 The Fundamental Architecture: Three... | 215 |
 | 19 | [[General Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 20 | [[Fluid Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 21 | [[Crystallized Intelligence]] | — | — | 🧠 The Fundamental Architecture: Three... | 218 |
 | 22 | [[Domain Expertise]] | — | — | 🧠 The Fundamental Architecture: Three... | 221 |
-| 23 | [[Dual Process Theory]] | — | — | ⚙️ The Cognitive Mechanisms: How They... | 230 |
+| 23 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | ⚙️ The Cognitive Mechanisms: How They... | 230 |
 | 24 | [[Active Open-Minded Thinking]] | — | — | ⚙️ The Cognitive Mechanisms: How They... | 241 |
 | 25 | [[Comprehensive Assessment of Rational Thinking]] | — | — | 📊 The Empirical Evidence: Measurement... | 258 |
 | 26 | [[Dysrationalia]] | — | — | 🔄 The Interactions: How the Three Con... | 312 |
-| 27 | [[Myside Bias]] | — | — | 🔄 The Interactions: How the Three Con... | 329 |
+| 27 | [[Myside-Bias|Myside Bias]] | — | — | 🔄 The Interactions: How the Three Con... | 329 |
 | 28 | [[Pre-Mortem Analysis]] | — | — | 🎓 Educational and Practical Implications | 355 |
-| 29 | [[Dual Process Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 384 |
+| 29 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 384 |
 | 30 | [[Myside Bias and Motivated Reasoning]] | — | — | 🔗 Related Topics for PKB Expansion | 389 |
 | 31 | [[The Development of Adaptive Expertise]] | — | — | 🔗 Related Topics for PKB Expansion | 394 |
 | 32 | [[Contaminated Mindware and Cognitive Immunology]] | — | — | 🔗 Related Topics for PKB Expansion | 399 |
@@ -473,22 +473,22 @@ LIMIT 15
 - [[Cognitive Flexibility]]
 - [[Comprehensive Assessment of Rational Thinking]]
 - [[Contaminated Mindware and Cognitive Immunology]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Crystallized Intelligence]]
 - [[Domain Expertise]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Dysrationalia]]
-- [[Epistemic Cognition]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Executive Function]]
 - [[Fluid Intelligence]]
 - [[General Intelligence]]
 - [[Metacognition]]
-- [[Myside Bias]]
+- [[Myside-Bias|Myside Bias]]
 - [[Myside Bias and Motivated Reasoning]]
 - [[Pre-Mortem Analysis]]
-- [[Reflective Thinking]]
+- [[Reflective-Thinking|Reflective Thinking]]
 - [[The Development of Adaptive Expertise]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[What distinguishes critical thinking from general intelligence or domain expertise?]]
 
 ---

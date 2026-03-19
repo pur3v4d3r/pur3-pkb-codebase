@@ -376,7 +376,7 @@ extraction_summary:
 - [[Anatta and the Stoic Rational Soul - A Contrast]]
 - [[Apatheia]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
 - [[Eudaimonia]]
@@ -432,7 +432,7 @@ extraction_summary:
 | 24 | [[Virtue Ethics]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
 | 25 | [[Eudaimonia]] | — | — | Divergence 4: Ethics and the Good Life | 439 |
 | 26 | [[Pierre Hadot]] | — | — | Part 6: The Integration Opportunity —... | 459 |
-| 27 | [[Dichotomy of Control]] | — | — | Part 6: The Integration Opportunity —... | 466 |
+| 27 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Integration Opportunity —... | 466 |
 | 28 | [[Eudaimonia]] | — | — | Part 6: The Integration Opportunity —... | 466 |
 | 29 | [[Alexander the Great]] | — | — | Part 7: Historical Connections — Did ... | 490 |
 | 30 | [[Pyrrho of Elis]] | — | — | Part 7: Historical Connections — Did ... | 492 |
@@ -482,7 +482,7 @@ extraction_summary:
 - [[Anatta and the Stoic Rational Soul - A Contrast]]
 - [[Apatheia]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Equanimity - Apatheia Upekkha and Modern Psychology]]
 - [[Eudaimonia]]
@@ -527,7 +527,7 @@ extraction_summary:
 - [[Buddhism]]
 - [[Sati]]
 - [[Prosoche]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Eudaimonia]]
 - [[Apatheia]]

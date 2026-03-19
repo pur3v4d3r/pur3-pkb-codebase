@@ -218,12 +218,12 @@ extraction_summary:
 #### 14. [THOUGHT-EXPERIMENT] The Multiple-Model Problem *(Line 394)*
 
 > [!thought-experiment] The Multiple-Model Problem
-> Imagine you are told: "None of the economists are historians. Some of the historians are philosophers." How many distinct states of affairs are consistent with these premises? You need to consider at least two: one in which some philosophers are economists, and one in which no philosophers are economists. A valid conclusion must hold across *all* possible models. If you only consider one model, you will likely draw an invalid conclusion. This is the central challenge of multi-model syllogisms — it is not a failure of logical understanding but a failure of mental bookkeeping under [[working memory]] load.
+> Imagine you are told: "None of the economists are historians. Some of the historians are philosophers." How many distinct states of affairs are consistent with these premises? You need to consider at least two: one in which some philosophers are economists, and one in which no philosophers are economists. A valid conclusion must hold across *all* possible models. If you only consider one model, you will likely draw an invalid conclusion. This is the central challenge of multi-model syllogisms — it is not a failure of logical understanding but a failure of mental bookkeeping under [[Working-Memory|working memory]] load.
 
 #### 15. [KEY-INSIGHT] Untitled *(Line 403)*
 
 > [!key-insight] Untitled
-> The [[Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
+> The [[Cognitive-Load-Theory|Cognitive Load Theory]] framework developed by John Sweller provides a complementary lens here: much of the difficulty in deductive learning tasks arises from intrinsic and extraneous cognitive load exceeding available capacity. Instructional designs that manage load — through worked examples, progressive complexity, and spatial representations — can make formally equivalent problems significantly more tractable.
 
 #### 16. [EXAMPLE] Belief Bias in Action *(Line 410)*
 
@@ -294,15 +294,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> This report on [[Deductive Reasoning]] connects to existing knowledge in the PKB in the following ways:
+> This report on [[Deductive-Reasoning|Deductive Reasoning]] connects to existing knowledge in the PKB in the following ways:
 > 
-> - **[[Inductive Reasoning]]** — The contrast between deduction and induction is not merely definitional but reveals a deep epistemological complementarity. Deduction is certainty-preserving but content-conservative — it extracts what is already implicit in the premises. Induction is content-amplifying but certainty-reducing — it goes beyond what the evidence strictly guarantees. The most sophisticated epistemic practice requires knowing when each mode is appropriate, which demands both a deductive and an inductive repertoire. The two reports together map the full terrain of non-abductive inference.
+> - **[[Inductive-Reasoning|Inductive Reasoning]]** — The contrast between deduction and induction is not merely definitional but reveals a deep epistemological complementarity. Deduction is certainty-preserving but content-conservative — it extracts what is already implicit in the premises. Induction is content-amplifying but certainty-reducing — it goes beyond what the evidence strictly guarantees. The most sophisticated epistemic practice requires knowing when each mode is appropriate, which demands both a deductive and an inductive repertoire. The two reports together map the full terrain of non-abductive inference.
 > 
-> - **[[Abductive Reasoning]]** — Abductive reasoning (inference to the best explanation) is what drives hypothesis formation; deductive reasoning is what drives hypothesis testing. Together they constitute the core logical machinery of empirical inquiry. Understanding how they differ — and how they cooperate in scientific reasoning — is essential for science education and for any account of integrated reasoning competence.
+> - **[[Abductive-Reasoning|Abductive Reasoning]]** — Abductive reasoning (inference to the best explanation) is what drives hypothesis formation; deductive reasoning is what drives hypothesis testing. Together they constitute the core logical machinery of empirical inquiry. Understanding how they differ — and how they cooperate in scientific reasoning — is essential for science education and for any account of integrated reasoning competence.
 > 
 > - **[[Metacognition & Critical Thinking]]** — The dual-process account of deductive failure places metacognitive skill at the center of deductive competence. Belief bias — the most practically significant deductive error — is overcome by metacognitive monitoring of one's own reasoning process: detecting the System 1 "feels true" signal and overriding it with System 2 evaluation. The metacognition reports in the PKB provide the mechanisms that explain *how* deductive competence is sustained under conditions of motivated reasoning and belief challenge.
 > 
-> - **[[Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
+> - **[[Schema-Theory|Schema Theory]]** — The pragmatic reasoning schema research constitutes one of the most important applications of schema theory to a specific cognitive domain. Cheng and Holyoak's permission schema research shows schemas not merely as knowledge structures but as reasoning engines — activating inference procedures that are locally valid and domain-adapted. The schema theory report provides the broader theoretical framework within which this application can be understood.
 > 
 > - **[[Critical Thinking in Education]]** — Deductive reasoning is one of the core competencies subsumed under the broader concept of critical thinking, but it is frequently conflated with critical thinking in general. The current report provides the precise technical specification of what deductive skill involves; the Critical Thinking in Education report provides the broader pedagogical framework within which deductive instruction should be situated.
 > 
@@ -442,19 +442,19 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Abductive Reasoning]]
-- [[Alfred North Whitehead]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Alfred-North-Whitehead|Alfred North Whitehead]]
 - [[Aristotle]]
 - [[Augustus de Morgan]]
 - [[Belief Bias and Epistemic Calibration]]
 - [[Bertrand Russell]]
 - [[Cheng & Holyoak]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Conditional Reasoning and the Wason Selection Task]]
 - [[Critical Thinking in Education]]
 - [[Daniel Kahneman]]
-- [[Deductive Reasoning]]
-- [[Dual-Process Theory]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dual-Process Theory and Metacognitive Intervention in Reasoning]]
 - [[Fallibilism]]
 - [[Formal Rule Theory]]
@@ -462,7 +462,7 @@ extraction_summary:
 - [[George Boole]]
 - [[Gottfried Wilhelm Leibniz]]
 - [[Gottlob Frege]]
-- [[Inductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Inquiry-Based Learning Design and Hypothetico-Deductive Reasoning]]
 - [[Jean Piaget]]
 - [[Jonathan Evans]]
@@ -480,46 +480,46 @@ extraction_summary:
 - [[Peter Wason]]
 - [[Philip Johnson-Laird]]
 - [[Ruth Byrne]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Transfer of Learning and Deductive Skill]]
 - [[Wason Selection Task]]
-- [[abductive reasoning]]
-- [[actively open-minded thinking]]
+- [[Abductive-Reasoning|abductive reasoning]]
+- [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
 - [[argumentation]]
-- [[belief bias]]
-- [[categorical syllogism]]
-- [[cognitive load]]
-- [[cognitive science]]
-- [[deductive reasoning]]
+- [[Belief-Bias|belief bias]]
+- [[Categorical-Syllogism|categorical syllogism]]
+- [[Cognitive-Load|cognitive load]]
+- [[Cognitive-Science|cognitive science]]
+- [[Deductive-Reasoning|deductive reasoning]]
 - [[falsificationism]]
 - [[fluid intelligence]]
-- [[hypothetico-deductive method]]
-- [[inductive reasoning]]
-- [[long-term memory]]
+- [[Hypothetico-Deductive-Method|hypothetico-deductive method]]
+- [[Inductive-Reasoning|inductive reasoning]]
+- [[Long-Term-Memory|long-term memory]]
 - [[mathematical proof]]
 - [[metacognition]]
-- [[modus tollens]]
+- [[Modus-Tollens|modus tollens]]
 - [[predicate calculus]]
 - [[prefrontal cortex]]
-- [[working memory]]
-- [[working memory capacity]]
+- [[Working-Memory|working memory]]
+- [[Working-Memory-Capacity|working memory capacity]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[deductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 262 |
+| 1 | [[Deductive-Reasoning|deductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 262 |
 | 2 | [[Gottlob Frege]] | — | — | Phase I: Orientation & Context Setting | 264 |
 | 3 | [[Peter Wason]] | — | — | Phase I: Orientation & Context Setting | 266 |
-| 4 | [[inductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 5 | [[abductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 4 | [[Inductive-Reasoning|inductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 5 | [[Abductive-Reasoning|abductive reasoning]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 6 | [[Aristotle]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 7 | [[Dual-Process Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 7 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 8 | [[Mental Models Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 9 | [[working memory]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 10 | [[belief bias]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 9 | [[Working-Memory|working memory]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 10 | [[Belief-Bias|belief bias]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 11 | [[Aristotle]] | — | — | The Canonical Forms: Syllogisms and C... | 296 |
-| 12 | [[categorical syllogism]] | — | — | The Canonical Forms: Syllogisms and C... | 296 |
+| 12 | [[Categorical-Syllogism|categorical syllogism]] | — | — | The Canonical Forms: Syllogisms and C... | 296 |
 | 13 | [[Aristotle]] | — | — | Historical and Intellectual Genealogy | 319 |
 | 14 | [[Gottfried Wilhelm Leibniz]] | — | — | Historical and Intellectual Genealogy | 321 |
 | 15 | [[George Boole]] | — | — | Historical and Intellectual Genealogy | 321 |
@@ -527,8 +527,8 @@ extraction_summary:
 | 17 | [[Gottlob Frege]] | — | — | Historical and Intellectual Genealogy | 321 |
 | 18 | [[predicate calculus]] | — | — | Historical and Intellectual Genealogy | 321 |
 | 19 | [[Bertrand Russell]] | — | — | Historical and Intellectual Genealogy | 321 |
-| 20 | [[Alfred North Whitehead]] | — | — | Historical and Intellectual Genealogy | 321 |
-| 21 | [[cognitive science]] | — | — | Historical and Intellectual Genealogy | 323 |
+| 20 | [[Alfred-North-Whitehead|Alfred North Whitehead]] | — | — | Historical and Intellectual Genealogy | 321 |
+| 21 | [[Cognitive-Science|cognitive science]] | — | — | Historical and Intellectual Genealogy | 323 |
 | 22 | [[Peter Wason]] | — | — | Historical and Intellectual Genealogy | 323 |
 | 23 | [[Wason Selection Task]] | — | — | The Central Puzzle: Why Do Intelligen... | 339 |
 | 24 | [[Peter Wason]] | — | — | The Central Puzzle: Why Do Intelligen... | 339 |
@@ -536,31 +536,31 @@ extraction_summary:
 | 26 | [[Mental Models Theory]] | — | — | Mental Models Theory | 343 |
 | 27 | [[Ruth Byrne]] | — | — | Mental Models Theory | 343 |
 | 28 | [[Wason Selection Task]] | — | — | Mental Models Theory | 350 |
-| 29 | [[long-term memory]] | — | — | Mental Models Theory | 350 |
-| 30 | [[working memory]] | — | — | Mental Models Theory | 350 |
+| 29 | [[Long-Term-Memory|long-term memory]] | — | — | Mental Models Theory | 350 |
+| 30 | [[Working-Memory|working memory]] | — | — | Mental Models Theory | 350 |
 | 31 | [[Formal Rule Theory]] | — | — | Formal Rule Theory | 354 |
 | 32 | [[Lance Rips]] | — | — | Formal Rule Theory | 354 |
 | 33 | [[Martin Braine]] | — | — | Formal Rule Theory | 354 |
-| 34 | [[Dual-Process Theory]] | — | — | Dual-Process Theory | 363 |
+| 34 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Dual-Process Theory | 363 |
 | 35 | [[Jonathan Evans]] | — | — | Dual-Process Theory | 363 |
 | 36 | [[Keith Stanovich]] | — | — | Dual-Process Theory | 363 |
 | 37 | [[Daniel Kahneman]] | — | — | Dual-Process Theory | 363 |
-| 38 | [[belief bias]] | — | — | Dual-Process Theory | 368 |
+| 38 | [[Belief-Bias|belief bias]] | — | — | Dual-Process Theory | 368 |
 | 39 | [[Patricia Cheng]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
 | 40 | [[Keith Holyoak]] | — | — | Schema Theory and Pragmatic Reasoning | 375 |
-| 41 | [[working memory]] | — | — | The Anatomy of a Deductive Inference | 395 |
-| 42 | [[working memory]] | — | — | The Role of Working Memory | 399 |
+| 41 | [[Working-Memory|working memory]] | — | — | The Anatomy of a Deductive Inference | 395 |
+| 42 | [[Working-Memory|working memory]] | — | — | The Role of Working Memory | 399 |
 | 43 | [[prefrontal cortex]] | — | — | The Role of Working Memory | 401 |
-| 44 | [[cognitive load]] | — | — | The Role of Working Memory | 401 |
-| 45 | [[Cognitive Load Theory]] | — | — | The Role of Working Memory | 404 |
+| 44 | [[Cognitive-Load|cognitive load]] | — | — | The Role of Working Memory | 401 |
+| 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Role of Working Memory | 404 |
 | 46 | [[Cheng & Holyoak]] | — | — | Content Effects and Facilitation | 415 |
 | 47 | [[Jean Piaget]] | — | — | Development of Deductive Skill Across... | 422 |
-| 48 | [[working memory capacity]] | — | — | Development of Deductive Skill Across... | 424 |
+| 48 | [[Working-Memory-Capacity|working memory capacity]] | — | — | Development of Deductive Skill Across... | 424 |
 | 49 | [[fluid intelligence]] | — | — | Development of Deductive Skill Across... | 424 |
-| 50 | [[actively open-minded thinking]] | — | — | Development of Deductive Skill Across... | 424 |
+| 50 | [[Actively-Open-Minded-Thinking|actively open-minded thinking]] | — | — | Development of Deductive Skill Across... | 424 |
 | 51 | [[mathematical proof]] | — | — | Deductive Reasoning in Mathematics Ed... | 437 |
-| 52 | [[hypothetico-deductive method]] | — | — | Deductive Reasoning in Science Education | 449 |
-| 53 | [[modus tollens]] | — | — | Deductive Reasoning in Science Education | 451 |
+| 52 | [[Hypothetico-Deductive-Method|hypothetico-deductive method]] | — | — | Deductive Reasoning in Science Education | 449 |
+| 53 | [[Modus-Tollens|modus tollens]] | — | — | Deductive Reasoning in Science Education | 451 |
 | 54 | [[Karl Popper]] | — | — | Deductive Reasoning in Science Education | 451 |
 | 55 | [[falsificationism]] | — | — | Deductive Reasoning in Science Education | 451 |
 | 56 | [[Legal reasoning]] | — | — | Deductive Reasoning in Legal and Argu... | 458 |
@@ -568,14 +568,14 @@ extraction_summary:
 | 58 | [[Luria]] | — | — | Limitations and Boundaries of Current... | 476 |
 | 59 | [[metacognition]] | — | — | The Deep Pattern: Structure, Content,... | 496 |
 | 60 | [[Metacognition & Critical Thinking]] | — | — | The Deep Pattern: Structure, Content,... | 496 |
-| 61 | [[inductive reasoning]] | — | — | The "So What?": What Deductive Reason... | 502 |
-| 62 | [[abductive reasoning]] | — | — | The "So What?": What Deductive Reason... | 502 |
-| 63 | [[working memory]] | — | — | Unresolved Questions | 506 |
-| 64 | [[Deductive Reasoning]] | — | — | Unresolved Questions | 511 |
-| 65 | [[Inductive Reasoning]] | — | — | Unresolved Questions | 513 |
-| 66 | [[Abductive Reasoning]] | — | — | Unresolved Questions | 515 |
+| 61 | [[Inductive-Reasoning|inductive reasoning]] | — | — | The "So What?": What Deductive Reason... | 502 |
+| 62 | [[Abductive-Reasoning|abductive reasoning]] | — | — | The "So What?": What Deductive Reason... | 502 |
+| 63 | [[Working-Memory|working memory]] | — | — | Unresolved Questions | 506 |
+| 64 | [[Deductive-Reasoning|Deductive Reasoning]] | — | — | Unresolved Questions | 511 |
+| 65 | [[Inductive-Reasoning|Inductive Reasoning]] | — | — | Unresolved Questions | 513 |
+| 66 | [[Abductive-Reasoning|Abductive Reasoning]] | — | — | Unresolved Questions | 515 |
 | 67 | [[Metacognition & Critical Thinking]] | — | — | Unresolved Questions | 517 |
-| 68 | [[Schema Theory]] | — | — | Unresolved Questions | 519 |
+| 68 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 519 |
 | 69 | [[Critical Thinking in Education]] | — | — | Unresolved Questions | 521 |
 | 70 | [[Fallibilism]] | — | — | Unresolved Questions | 523 |
 | 71 | [[Transfer of Learning and Deductive Skill]] | — | — | D. Expansion Topics | 604 |
@@ -585,7 +585,7 @@ extraction_summary:
 | 75 | [[Inquiry-Based Learning Design and Hypothetico-Deductive Reasoning]] | — | — | D. Expansion Topics | 616 |
 | 76 | [[Dual-Process Theory and Metacognitive Intervention in Reasoning]] | — | — | D. Expansion Topics | 619 |
 | 77 | [[Foundational Report Generator v1.0]] | — | — | D. Expansion Topics | 624 |
-| 78 | [[Deductive Reasoning]] | — | — | D. Expansion Topics | 624 |
+| 78 | [[Deductive-Reasoning|Deductive Reasoning]] | — | — | D. Expansion Topics | 624 |
 
 ---
 
@@ -596,19 +596,19 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Abductive Reasoning]]
-- [[Alfred North Whitehead]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Alfred-North-Whitehead|Alfred North Whitehead]]
 - [[Aristotle]]
 - [[Augustus de Morgan]]
 - [[Belief Bias and Epistemic Calibration]]
 - [[Bertrand Russell]]
 - [[Cheng & Holyoak]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Conditional Reasoning and the Wason Selection Task]]
 - [[Critical Thinking in Education]]
 - [[Daniel Kahneman]]
-- [[Deductive Reasoning]]
-- [[Dual-Process Theory]]
+- [[Deductive-Reasoning|Deductive Reasoning]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dual-Process Theory and Metacognitive Intervention in Reasoning]]
 - [[Fallibilism]]
 - [[Formal Rule Theory]]
@@ -616,7 +616,7 @@ extraction_summary:
 - [[George Boole]]
 - [[Gottfried Wilhelm Leibniz]]
 - [[Gottlob Frege]]
-- [[Inductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
 - [[Inquiry-Based Learning Design and Hypothetico-Deductive Reasoning]]
 - [[Jean Piaget]]
 - [[Jonathan Evans]]
@@ -634,29 +634,29 @@ extraction_summary:
 - [[Peter Wason]]
 - [[Philip Johnson-Laird]]
 - [[Ruth Byrne]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Transfer of Learning and Deductive Skill]]
 - [[Wason Selection Task]]
-- [[abductive reasoning]]
-- [[actively open-minded thinking]]
+- [[Abductive-Reasoning|abductive reasoning]]
+- [[Actively-Open-Minded-Thinking|actively open-minded thinking]]
 - [[argumentation]]
-- [[belief bias]]
-- [[categorical syllogism]]
-- [[cognitive load]]
-- [[cognitive science]]
-- [[deductive reasoning]]
+- [[Belief-Bias|belief bias]]
+- [[Categorical-Syllogism|categorical syllogism]]
+- [[Cognitive-Load|cognitive load]]
+- [[Cognitive-Science|cognitive science]]
+- [[Deductive-Reasoning|deductive reasoning]]
 - [[falsificationism]]
 - [[fluid intelligence]]
-- [[hypothetico-deductive method]]
-- [[inductive reasoning]]
-- [[long-term memory]]
+- [[Hypothetico-Deductive-Method|hypothetico-deductive method]]
+- [[Inductive-Reasoning|inductive reasoning]]
+- [[Long-Term-Memory|long-term memory]]
 - [[mathematical proof]]
 - [[metacognition]]
-- [[modus tollens]]
+- [[Modus-Tollens|modus tollens]]
 - [[predicate calculus]]
 - [[prefrontal cortex]]
-- [[working memory]]
-- [[working memory capacity]]
+- [[Working-Memory|working memory]]
+- [[Working-Memory-Capacity|working memory capacity]]
 
 ### Frontmatter Relationships
 
@@ -667,20 +667,20 @@ extraction_summary:
 
 #### Related
 
-- [[Inductive Reasoning]]
-- [[Abductive Reasoning]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
 - [[Critical Thinking in Education]]
 - [[Metacognition & Lifelong Learning]]
-- [[Dual-Process Theory]]
-- [[Schema Theory]]
-- [[Cognitive Load Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Fallibilism]]
 
 #### Broader
 
 - [[Reasoning and Rationality]]
 - [[Philosophy of Logic]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 
 #### Narrower
 
@@ -691,16 +691,16 @@ extraction_summary:
 
 #### See Also
 
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Confirmation Bias & Epistemic Calibration]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Metacognition & Critical Thinking]]
 
 #### Contrasts With
 
 - [[Probabilistic Reasoning]]
 - [[Heuristic Reasoning]]
-- [[Analogical Reasoning]]
+- [[Analogical-Reasoning|Analogical Reasoning]]
 
 #### Applied In
 
@@ -712,17 +712,17 @@ extraction_summary:
 
 #### Builds On
 
-- [[Inductive Reasoning]]
-- [[Abductive Reasoning]]
-- [[Schema Theory]]
+- [[Inductive-Reasoning|Inductive Reasoning]]
+- [[Abductive-Reasoning|Abductive Reasoning]]
+- [[Schema-Theory|Schema Theory]]
 - [[Critical Thinking in Education]]
 
 #### Enables
 
 - [[Mathematical Proof and Formal Verification]]
-- [[Argumentation Theory]]
+- [[Argumentation-Theory|Argumentation Theory]]
 - [[Epistemology of Science]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 
 ---
 

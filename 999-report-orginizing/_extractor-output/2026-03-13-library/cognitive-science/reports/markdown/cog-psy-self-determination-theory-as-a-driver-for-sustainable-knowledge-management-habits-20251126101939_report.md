@@ -141,7 +141,7 @@ extraction_summary:
 #### 3. [SUMMARY] Abstract *(Line 84)*
 
 > [!summary] Abstract
-> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
+> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic-Integration-Theory|Organismic Integration Theory]], [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.
 
 #### 4. [DEFINITION] Self-Determination Theory (SDT) *(Line 89)*
 
@@ -168,7 +168,7 @@ extraction_summary:
 #### 8. [CONNECTIONS] Internal Network *(Line 180)*
 
 > [!connections] Internal Network
-> * [[Cognitive Load Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
+> * [[Cognitive-Load-Theory|Cognitive Load Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
 > * [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).
 > * [[Metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.
 > * [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.
@@ -215,14 +215,14 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Epistemic Curiosity]]
 - [[Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]
-- [[Organismic Integration Theory]]
-- [[Personal Knowledge Management]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Robert Bjork]]
 - [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[Zeigarnik Effect]]
@@ -232,14 +232,14 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]] | — | — | Self Determination Theory as a Driver... | 43 |
-| 2 | [[Organismic Integration Theory]] | — | — | 📈 Review System | 85 |
-| 3 | [[Cognitive Evaluation Theory]] | — | — | 📈 Review System | 85 |
+| 2 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | 📈 Review System | 85 |
+| 3 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | 📈 Review System | 85 |
 | 4 | [[Luhmann’s Zettelkasten]] | — | — | 📈 Review System | 85 |
-| 5 | [[Personal Knowledge Management]] | — | — | The Philosophy of Nutritional Cognition | 100 |
+| 5 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | The Philosophy of Nutritional Cognition | 100 |
 | 6 | [[Epistemic Curiosity]] | — | — | 1. Autonomy: The Necessity of Volition | 123 |
 | 7 | [[Flow Theory]] | — | — | 2. Competence: The Architecture of Ma... | 131 |
 | 8 | [[Robert Bjork]] | — | — | 2. Competence: The Architecture of Ma... | 138 |
-| 9 | [[Cognitive Load Theory]] | — | — | Phase 3: Connective Tissue | 181 |
+| 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase 3: Connective Tissue | 181 |
 | 10 | [[Luhmann’s Zettelkasten]] | — | — | Phase 3: Connective Tissue | 182 |
 | 11 | [[Metacognition]] | — | — | Phase 3: Connective Tissue | 183 |
 | 12 | [[Zeigarnik Effect]] | — | — | Phase 3: Connective Tissue | 184 |
@@ -269,14 +269,14 @@ $$
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Epistemic Curiosity]]
 - [[Flow Theory]]
 - [[Luhmann’s Zettelkasten]]
 - [[Metacognition]]
-- [[Organismic Integration Theory]]
-- [[Personal Knowledge Management]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Robert Bjork]]
 - [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[Zeigarnik Effect]]

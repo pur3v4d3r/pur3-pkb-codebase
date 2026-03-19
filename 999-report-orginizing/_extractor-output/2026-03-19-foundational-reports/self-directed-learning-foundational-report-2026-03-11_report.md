@@ -184,7 +184,7 @@ extraction_summary:
 #### 10. [INSIGHT] SDL and Self-Regulated Learning: A Critical Distinction *(Line 349)*
 
 > [!insight] SDL and Self-Regulated Learning: A Critical Distinction
-> Garrison's three-component model sits at the intersection of the SDL tradition and the [[Self-Regulated Learning]] (SRL) literature developed by [[Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
+> Garrison's three-component model sits at the intersection of the SDL tradition and the [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) literature developed by [[Barry-Zimmerman|Barry Zimmerman]] and [[Paul Pintrich]]. Self-monitoring in Garrison's model is closely related to the metacognitive monitoring component of SRL, and motivation appears in both frameworks. However, there is a disciplinary and conceptual distinction worth preserving. SDL emerged from adult education, emphasises learner control over the *instructional context* (what is learned, when, how, and with what resources), and is primarily concerned with informal and self-organised learning. SRL emerged from cognitive psychology, emphasises learners' regulation of their *cognitive processes* within instructional contexts (how they process information, monitor understanding, and deploy strategies), and has been studied primarily in formal educational settings. SDL asks: who controls the learning process? SRL asks: how do learners regulate their cognitive activity during learning? Both questions are important; conflating the two obscures genuine differences in emphasis, mechanism, and application.
 
 #### 11. [ASK-YOURSELF-THIS] Anticipating Tensions *(Line 356)*
 
@@ -216,7 +216,7 @@ extraction_summary:
 #### 16. [EXAMPLE] Learning Projects as a Window into Natural SDL *(Line 397)*
 
 > [!example] Learning Projects as a Window into Natural SDL
-> Tough's original research on adult [[Learning Projects]] used a rigorous interview methodology that is worth understanding. Respondents were asked to describe any sustained, deliberate effort they had undertaken in the past year to gain knowledge or skill. To qualify as a learning project, the episode had to involve at least seven hours of deliberate effort. Respondents consistently underestimated their own learning until the interview process systematically probed for projects they had not initially thought of as "learning" — because they had occurred informally, outside educational institutions. Typical projects included learning to manage a health condition, mastering a new software tool, preparing to make a significant financial decision, and developing a hobby skill. What Tough found was not merely that adults learned outside institutions, but that this learning was *more* intentional, purposeful, and self-monitored than they themselves initially recognised — because their implicit model of learning was institutional.
+> Tough's original research on adult [[Learning-Projects|Learning Projects]] used a rigorous interview methodology that is worth understanding. Respondents were asked to describe any sustained, deliberate effort they had undertaken in the past year to gain knowledge or skill. To qualify as a learning project, the episode had to involve at least seven hours of deliberate effort. Respondents consistently underestimated their own learning until the interview process systematically probed for projects they had not initially thought of as "learning" — because they had occurred informally, outside educational institutions. Typical projects included learning to manage a health condition, mastering a new software tool, preparing to make a significant financial decision, and developing a hobby skill. What Tough found was not merely that adults learned outside institutions, but that this learning was *more* intentional, purposeful, and self-monitored than they themselves initially recognised — because their implicit model of learning was institutional.
 
 #### 17. [REFLECTION] Understanding the Machinery *(Line 400)*
 
@@ -267,17 +267,17 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> This report on [[Self-Directed Learning]] connects to existing knowledge in your PKB across multiple nodes and directions:
+> This report on [[Self-Directed-Learning|Self-Directed Learning]] connects to existing knowledge in your PKB across multiple nodes and directions:
 > 
 > - **[[Metacognition & Lifelong Learning]]** — SDL's self-monitoring component is an enactment of metacognitive processes in the context of learner-organised learning. This node provides the cognitive architecture — monitoring, evaluation, and regulation — that SDL's Garrison model treats as one of its three necessary components. Together, the two nodes map the relationship between *how* metacognition works and *when* it becomes the learner's own responsibility to activate.
 > 
-> - **[[Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The most important adjacent concept: SRL provides the fine-grained cognitive and strategic account of what learners do during learning episodes, while SDL provides the broader account of who controls the learning process. These two constructs are often conflated but are distinct; a full treatment of learner autonomy requires both. A dedicated SRL report (already flagged as high-priority) will complete the theoretical duplex.
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — SDL theory implies specific properties of effective feedback: it should be informational rather than evaluative, and it should support the learner's capacity for self-monitoring rather than substituting for it. The feedback design node operationalises these implications in concrete instructional terms.
 > 
-> - **[[Achievement Goal Theory]]** — Mastery goal orientation is a structural enabler of SDL: learners who pursue understanding rather than performance demonstration are more likely to engage in the self-monitoring, resource-seeking, and strategic revision that SDL requires. This connection runs in both directions — SDL environments can also foster mastery orientations by de-emphasising comparative evaluation.
+> - **[[Achievement-Goal-Theory|Achievement Goal Theory]]** — Mastery goal orientation is a structural enabler of SDL: learners who pursue understanding rather than performance demonstration are more likely to engage in the self-monitoring, resource-seeking, and strategic revision that SDL requires. This connection runs in both directions — SDL environments can also foster mastery orientations by de-emphasising comparative evaluation.
 > 
-> - **[[Growth Mindset]]** — SDL requires that learners believe their competence is developable through effort; a fixed mindset about one's learning ability is directly incompatible with taking initiative in diagnosing and addressing one's own learning gaps. The growth mindset node provides the motivational foundation that SDL's success depends upon.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — SDL requires that learners believe their competence is developable through effort; a fixed mindset about one's learning ability is directly incompatible with taking initiative in diagnosing and addressing one's own learning gaps. The growth mindset node provides the motivational foundation that SDL's success depends upon.
 > 
 > The pattern of these connections reveals something important: SDL is not an isolated instructional technology but the educational expression of a cluster of beliefs about learner agency, knowledge construction, and the purpose of education. The nodes that connect to it form a coherent intellectual neighbourhood organised around learner autonomy, intrinsic motivation, and the capacity for lifelong self-directed development.
 
@@ -400,7 +400,7 @@ extraction_summary:
 #### 48. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 565)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Self-Regulated Learning]]
+> > [!topic-idea] [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 > > A dedicated Foundational Report on Self-Regulated Learning would treat the rich empirical literature on how learners regulate their cognitive processes *within* learning episodes — complementing SDL's focus on who controls the broader learning process. Coverage would include Zimmerman's cyclical model of SRL (forethought, performance, self-reflection), Pintrich's framework distinguishing cognitive, metacognitive, motivational, and behavioural regulation, and the extensive empirical literature on strategy instruction, goal setting, and feedback. This is the highest-priority expansion topic in the learner autonomy cluster because it provides the cognitive microfoundation that SDL's macro-level account requires. **Priority: High**
 > 
 > > [!topic-idea] [[Heutagogy]]
@@ -415,7 +415,7 @@ extraction_summary:
 > > [!topic-idea] [[Transformative Learning]]
 > > Mezirow's framework for fundamental shifts in learners' frames of reference — their assumptions, beliefs, and interpretive habits — intersects with SDL in its emphasis on critical self-reflection and autonomous meaning-making. A transformative learning report would cover Mezirow's critical discourse model, the role of disorienting dilemmas as catalysts for transformation, the relationship between perspective transformation and SDL development, and critiques of transformative learning theory from feminist and postcolonial perspectives. The SDL-TL connection is particularly important for understanding how self-directed learning can lead not just to skill acquisition but to fundamental reorientation of how learners understand themselves and their world. **Priority: Medium**
 > 
-> > [!topic-idea] [[Learning Contracts]]
+> > [!topic-idea] [[Learning-Contracts|Learning Contracts]]
 > > A dedicated report on learning contracts would move from the theoretical overview provided here to practical depth: design principles for effective contracts, negotiation processes and power dynamics, assessment and evaluation frameworks, evidence on effectiveness across educational contexts, and adaptations for digital and distance learning environments. This is the primary pedagogical instrument for operationalising SDL and deserves standalone treatment for instructional designers and educators seeking to implement SDL-supportive practices. **Priority: Medium**
 > 
 > > [!topic-idea] [[Online Learning Design]]
@@ -431,24 +431,24 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Adult Education]]
 - [[Allen Tough]]
 - [[Andragogy]]
-- [[Argyris and Schön]]
-- [[Barry Zimmerman]]
+- [[Argyris-and-Schön|Argyris and Schön]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Chris Kenyon]]
 - [[D. Randy Garrison]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Heutagogy]]
-- [[Learning Contracts]]
-- [[Learning Projects]]
+- [[Learning-Contracts|Learning Contracts]]
+- [[Learning-Projects|Learning Projects]]
 - [[Lucy Guglielmino]]
 - [[Malcolm Knowles]]
 - [[Metacognition & Lifelong Learning]]
 - [[Metacognition & Motivation]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Online Learning Design]]
 - [[Paul Pintrich]]
 - [[Pedagogy]]
@@ -456,9 +456,9 @@ extraction_summary:
 - [[Philip Candy]]
 - [[Ralph Hiemstra]]
 - [[Roger Brockett]]
-- [[Self-Determination Theory]]
-- [[Self-Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Stephen Brookfield]]
 - [[Stewart Hase]]
 - [[Transformative Learning]]
@@ -467,16 +467,16 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Directed Learning]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 1 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 2 | [[Allen Tough]] | — | — | Phase I: Orientation & Context Setting | 272 |
-| 3 | [[Self-Directed Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
+| 3 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Phase I: Orientation & Context Setting | 274 |
 | 4 | [[Adult Education]] | — | — | Phase I: Orientation & Context Setting | 274 |
 | 5 | [[Online Learning Design]] | — | — | Phase I: Orientation & Context Setting | 274 |
-| 6 | [[Learning Contracts]] | — | — | Phase I: Orientation & Context Setting | 274 |
-| 7 | [[Self-Directed Learning]] | — | — | Scope and Reader Positioning | 281 |
-| 8 | [[Self-Regulated Learning]] | — | — | Scope and Reader Positioning | 283 |
+| 6 | [[Learning-Contracts|Learning Contracts]] | — | — | Phase I: Orientation & Context Setting | 274 |
+| 7 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Scope and Reader Positioning | 281 |
+| 8 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Scope and Reader Positioning | 283 |
 | 9 | [[Metacognition & Lifelong Learning]] | — | — | Scope and Reader Positioning | 283 |
-| 10 | [[Self-Directed Learning]] | — | — | The Problem of Definition | 291 |
+| 10 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Problem of Definition | 291 |
 | 11 | [[Adult Education]] | — | — | Historical and Intellectual Development | 306 |
 | 12 | [[Malcolm Knowles]] | — | — | Historical and Intellectual Development | 308 |
 | 13 | [[Andragogy]] | — | — | Historical and Intellectual Development | 308 |
@@ -489,40 +489,40 @@ extraction_summary:
 | 20 | [[Lucy Guglielmino]] | — | — | Major Theoretical Frameworks | 337 |
 | 21 | [[Roger Brockett]] | — | — | Major Theoretical Frameworks | 342 |
 | 22 | [[Ralph Hiemstra]] | — | — | Major Theoretical Frameworks | 342 |
-| 23 | [[Self-Directed Learning]] | — | — | Major Theoretical Frameworks | 342 |
+| 23 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Major Theoretical Frameworks | 342 |
 | 24 | [[D. Randy Garrison]] | — | — | Major Theoretical Frameworks | 347 |
-| 25 | [[Self-Determination Theory]] | — | — | Major Theoretical Frameworks | 347 |
-| 26 | [[Achievement Goal Theory]] | — | — | Major Theoretical Frameworks | 347 |
-| 27 | [[Self-Regulated Learning]] | — | — | Major Theoretical Frameworks | 350 |
-| 28 | [[Barry Zimmerman]] | — | — | Major Theoretical Frameworks | 350 |
+| 25 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Major Theoretical Frameworks | 347 |
+| 26 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Major Theoretical Frameworks | 347 |
+| 27 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Major Theoretical Frameworks | 350 |
+| 28 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Major Theoretical Frameworks | 350 |
 | 29 | [[Paul Pintrich]] | — | — | Major Theoretical Frameworks | 350 |
-| 30 | [[Argyris and Schön]] | — | — | Major Theoretical Frameworks | 352 |
+| 30 | [[Argyris-and-Schön|Argyris and Schön]] | — | — | Major Theoretical Frameworks | 352 |
 | 31 | [[Stephen Brookfield]] | — | — | Key Debates and Tensions | 366 |
-| 32 | [[Self-Determination Theory]] | — | — | How SDL Actually Operates | 384 |
-| 33 | [[Learning Projects]] | — | — | How SDL Actually Operates | 384 |
-| 34 | [[Achievement Goal Theory]] | — | — | How SDL Actually Operates | 386 |
-| 35 | [[Metacognitive Monitoring]] | — | — | How SDL Actually Operates | 388 |
+| 32 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | How SDL Actually Operates | 384 |
+| 33 | [[Learning-Projects|Learning Projects]] | — | — | How SDL Actually Operates | 384 |
+| 34 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | How SDL Actually Operates | 386 |
+| 35 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | How SDL Actually Operates | 388 |
 | 36 | [[Personal Learning Environments]] | — | — | How SDL Actually Operates | 395 |
-| 37 | [[Learning Projects]] | — | — | How SDL Actually Operates | 398 |
-| 38 | [[Self-Directed Learning]] | — | — | Where SDL Theory Operates in Practice | 414 |
-| 39 | [[Learning Contracts]] | learning contract | — | Where SDL Theory Operates in Practice | 416 |
-| 40 | [[Self-Directed Learning]] | — | — | The Deep Structure of Self-Directed L... | 450 |
+| 37 | [[Learning-Projects|Learning Projects]] | — | — | How SDL Actually Operates | 398 |
+| 38 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Where SDL Theory Operates in Practice | 414 |
+| 39 | [[Learning-Contracts|Learning Contracts]] | learning contract | — | Where SDL Theory Operates in Practice | 416 |
+| 40 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Deep Structure of Self-Directed L... | 450 |
 | 41 | [[Metacognition & Lifelong Learning]] | — | — | The Deep Structure of Self-Directed L... | 454 |
 | 42 | [[Metacognition & Motivation]] | — | — | The Deep Structure of Self-Directed L... | 456 |
-| 43 | [[Achievement Goal Theory]] | — | — | The Deep Structure of Self-Directed L... | 456 |
+| 43 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | The Deep Structure of Self-Directed L... | 456 |
 | 44 | [[Feedback Design for Autonomy and Mastery]] | — | — | The Deep Structure of Self-Directed L... | 456 |
-| 45 | [[Self-Directed Learning]] | — | — | The Deep Structure of Self-Directed L... | 461 |
+| 45 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Deep Structure of Self-Directed L... | 461 |
 | 46 | [[Metacognition & Lifelong Learning]] | — | — | The Deep Structure of Self-Directed L... | 463 |
-| 47 | [[Self-Regulated Learning]] | — | — | The Deep Structure of Self-Directed L... | 465 |
+| 47 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Deep Structure of Self-Directed L... | 465 |
 | 48 | [[Feedback Design for Autonomy and Mastery]] | — | — | The Deep Structure of Self-Directed L... | 467 |
-| 49 | [[Achievement Goal Theory]] | — | — | The Deep Structure of Self-Directed L... | 469 |
-| 50 | [[Growth Mindset]] | — | — | The Deep Structure of Self-Directed L... | 471 |
-| 51 | [[Self-Regulated Learning]] | — | — | D. Expansion Topics | 567 |
+| 49 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | The Deep Structure of Self-Directed L... | 469 |
+| 50 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | The Deep Structure of Self-Directed L... | 471 |
+| 51 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | D. Expansion Topics | 567 |
 | 52 | [[Heutagogy]] | — | — | D. Expansion Topics | 570 |
 | 53 | [[Personal Learning Environments]] | — | — | D. Expansion Topics | 573 |
 | 54 | [[Andragogy]] | — | — | D. Expansion Topics | 576 |
 | 55 | [[Transformative Learning]] | — | — | D. Expansion Topics | 579 |
-| 56 | [[Learning Contracts]] | — | — | D. Expansion Topics | 582 |
+| 56 | [[Learning-Contracts|Learning Contracts]] | — | — | D. Expansion Topics | 582 |
 | 57 | [[Online Learning Design]] | — | — | D. Expansion Topics | 585 |
 
 ---
@@ -534,24 +534,24 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Adult Education]]
 - [[Allen Tough]]
 - [[Andragogy]]
-- [[Argyris and Schön]]
-- [[Barry Zimmerman]]
+- [[Argyris-and-Schön|Argyris and Schön]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Chris Kenyon]]
 - [[D. Randy Garrison]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Heutagogy]]
-- [[Learning Contracts]]
-- [[Learning Projects]]
+- [[Learning-Contracts|Learning Contracts]]
+- [[Learning-Projects|Learning Projects]]
 - [[Lucy Guglielmino]]
 - [[Malcolm Knowles]]
 - [[Metacognition & Lifelong Learning]]
 - [[Metacognition & Motivation]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Online Learning Design]]
 - [[Paul Pintrich]]
 - [[Pedagogy]]
@@ -559,9 +559,9 @@ extraction_summary:
 - [[Philip Candy]]
 - [[Ralph Hiemstra]]
 - [[Roger Brockett]]
-- [[Self-Determination Theory]]
-- [[Self-Directed Learning]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Stephen Brookfield]]
 - [[Stewart Hase]]
 - [[Transformative Learning]]
@@ -571,30 +571,30 @@ extraction_summary:
 #### Prerequisites
 
 - [[Metacognition & Lifelong Learning]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Related
 
-- [[Self-Regulated Learning]]
-- [[Self-Determination Theory]]
-- [[Achievement Goal Theory]]
-- [[Growth Mindset]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Metacognition & Motivation]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[Inquiry-Based Learning Design & Evidence]]
 
 #### Broader
 
 - [[Adult Education]]
 - [[Learning Sciences]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
-- [[Learning Contracts]]
+- [[Learning-Contracts|Learning Contracts]]
 - [[Personal Learning Environments]]
-- [[Self-Directed Learning Readiness Scale]]
+- [[Self-Directed-Learning-Readiness-Scale|Self-Directed Learning Readiness Scale]]
 - [[Heutagogy]]
 
 #### See Also
@@ -612,7 +612,7 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Online Learning Design]]
 - [[Professional Development]]
 - [[Higher Education Pedagogy]]
@@ -620,12 +620,12 @@ extraction_summary:
 #### Builds On
 
 - [[Metacognition & Lifelong Learning]]
-- [[Schema Theory]]
-- [[Growth Mindset]]
+- [[Schema-Theory|Schema Theory]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 
 #### Enables
 
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Heutagogy]]
 - [[Personal Learning Environments]]
 - [[Inquiry-Based Learning Design & Evidence]]

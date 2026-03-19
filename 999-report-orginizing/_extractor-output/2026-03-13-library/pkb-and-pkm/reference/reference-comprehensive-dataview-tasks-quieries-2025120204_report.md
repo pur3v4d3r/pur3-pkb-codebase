@@ -196,17 +196,17 @@ extraction_summary:
 #### 8. [ABSTRACT] Executive Overview *(Line 223)*
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin|Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 #### 9. [DEFINITION] TASK Query Type Fundamentals *(Line 232)*
 
 > [!definition] TASK Query Type Fundamentals
-> The `TASK` query type is unique in [[Dataview Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.
+> The `TASK` query type is unique in [[Dataview-Plugin|Dataview Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.
 
 #### 10. [METHODOLOGY-AND-SOURCES] Task Metadata Architecture *(Line 257)*
 
 > [!methodology-and-sources] Task Metadata Architecture
-> Every task in your vault automatically inherits these implicit fields from [[Dataview Plugin]]:
+> Every task in your vault automatically inherits these implicit fields from [[Dataview-Plugin|Dataview Plugin]]:
 
 #### 11. [HELPFUL-TIP] Custom Inline Fields in Tasks *(Line 278)*
 
@@ -691,7 +691,7 @@ extraction_summary:
 #### 35. [CONNECTIONS-AND-LINKS] Tasks Plugin + Dataview Synergy *(Line 783)*
 
 > [!connections-and-links] Tasks Plugin + Dataview Synergy
-> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
+> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
 
 #### 36. [EXAMPLE] Automated Daily Note Task Summary *(Line 814)*
 
@@ -922,7 +922,7 @@ extraction_summary:
 - [[Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Techniques]]
 - [[Dataview Task Query Reference]]
 - [[DataviewJS]]
@@ -931,7 +931,7 @@ extraction_summary:
 - [[Functional Programming]]
 - [[GROUP BY]]
 - [[GTD Workflow]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Inline Fields]]
 - [[JavaScript]]
 - [[JavaScript Performance]]
@@ -959,7 +959,7 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dataview Task Query Reference]] | — | — | Dataview Task Query Reference | 40 |
-| 2 | [[Dataview Plugin]] | — | — | Claude Thinking | 185 |
+| 2 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 185 |
 | 3 | [[Task Management]] | — | — | Claude Thinking | 186 |
 | 4 | [[DQL]] | — | — | Claude Thinking | 187 |
 | 5 | [[DataviewJS]] | — | — | Claude Thinking | 188 |
@@ -975,7 +975,7 @@ extraction_summary:
 | 15 | [[GTD Workflow]] | — | — | Claude Thinking | 198 |
 | 16 | [[Dashboard Design]] | — | — | Claude Thinking | 199 |
 | 17 | [[Query Performance]] | — | — | Claude Thinking | 200 |
-| 18 | [[Dataview Plugin]] | — | — | Claude Thinking | 224 |
+| 18 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 224 |
 | 19 | [[Task Management]] | — | — | Claude Thinking | 224 |
 | 20 | [[Obsidian]] | — | — | Claude Thinking | 224 |
 | 21 | [[DQL]] | — | — | Claude Thinking | 224 |
@@ -983,8 +983,8 @@ extraction_summary:
 | 23 | [[Tasks Plugin]] | — | — | Claude Thinking | 224 |
 | 24 | [[Inline Fields]] | — | — | Claude Thinking | 224 |
 | 25 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Claude Thinking | 224 |
-| 26 | [[Dataview Plugin]] | — | — | 🎯Core Concepts | 233 |
-| 27 | [[Dataview Plugin]] | — | — | Task-Specific Implicit Fields | 258 |
+| 26 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🎯Core Concepts | 233 |
+| 27 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Task-Specific Implicit Fields | 258 |
 | 28 | [[Note]] | — | Section | Task-Specific Implicit Fields | 274 |
 | 29 | [[Note]] | — | ^task-id | Task-Specific Implicit Fields | 275 |
 | 30 | [[Inline Fields]] | — | — | Task-Specific Implicit Fields | 279 |
@@ -1007,10 +1007,10 @@ extraction_summary:
 | 47 | [[Dashboard Design]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 48 | [[Query Performance]] | — | — | Pattern 3: Task Metrics & Analytics | 717 |
 | 49 | [[Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
-| 50 | [[Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
+| 50 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 784 |
 | 51 | [[Q4 Planning]] | — | — | Tasks Plugin Compatibility | 803 |
 | 52 | [[Tasks Plugin]] | — | — | Tasks Plugin Compatibility | 807 |
-| 53 | [[Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 808 |
+| 53 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Tasks Plugin Compatibility | 808 |
 | 54 | [[Inline Fields]] | — | — | Tasks Plugin Compatibility | 809 |
 | 55 | [[Daily Notes]] | — | — | Daily Notes Integration | 849 |
 | 56 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] | — | — | Daily Notes Integration | 849 |
@@ -1032,7 +1032,7 @@ extraction_summary:
 | 72 | [[Functional Programming]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
 | 73 | [[Obsidian API]] | — | — | 🔗 Related Topics for PKB Expansion | 1046 |
 | 74 | [[Dashboard Design Principles for PKM]] | — | — | 🔗 Related Topics for PKB Expansion | 1048 |
-| 75 | [[Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
+| 75 | [[Information-Architecture|Information Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 76 | [[User Interface Design]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 77 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
 | 78 | [[Data Visualization]] | — | — | 🔗 Related Topics for PKB Expansion | 1051 |
@@ -1546,7 +1546,7 @@ LIMIT <number>
 ### Tasks Plugin Compatibility
 
 > [!connections-and-links] Tasks Plugin + Dataview Synergy
-> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
+> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin|Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
 
 **Tasks Plugin Syntax Quick Reference:**
 
@@ -1570,7 +1570,7 @@ LIMIT <number>
 ```plaintext
 **What this enables:**
 - [[Tasks Plugin]] provides UI and recurrence handling
-- [[Dataview Plugin]] provides querying and dashboard capabilities
+- [[Dataview-Plugin|Dataview Plugin]] provides querying and dashboard capabilities
 - [[Inline Fields]] add custom metadata dimensions
 - All three systems work together seamlessly
 
@@ -1878,7 +1878,7 @@ LIMIT <number>
 - [[Dashboard Design]]
 - [[Dashboard Design Principles for PKM]]
 - [[Data Visualization]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Optimization Techniques]]
 - [[Dataview Task Query Reference]]
 - [[DataviewJS]]
@@ -1887,7 +1887,7 @@ LIMIT <number>
 - [[Functional Programming]]
 - [[GROUP BY]]
 - [[GTD Workflow]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Inline Fields]]
 - [[JavaScript]]
 - [[JavaScript Performance]]

@@ -165,7 +165,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Overview *(Line 65)*
 
 > [!abstract] Overview
-> This reference note provides comprehensive coverage of modular task decomposition as a systematic methodology for engineering high-fidelity long-form document generation through sequential prompt architectures. The framework synthesizes principles from [[Cognitive Load Theory]], [[Systems Thinking]], and [[Modular Design]] to create a theoretically grounded and practically implementable approach for managing the inherent complexity of extended LLM-mediated content creation. The methodology addresses the fundamental tension between human cognitive constraints in prompt design and the architectural requirements for producing coherent, comprehensive, multi-thousand-word documents that maintain semantic consistency, structural integrity, and domain-appropriate depth across their entire scope.
+> This reference note provides comprehensive coverage of modular task decomposition as a systematic methodology for engineering high-fidelity long-form document generation through sequential prompt architectures. The framework synthesizes principles from [[Cognitive-Load-Theory|Cognitive Load Theory]], [[Systems Thinking]], and [[Modular Design]] to create a theoretically grounded and practically implementable approach for managing the inherent complexity of extended LLM-mediated content creation. The methodology addresses the fundamental tension between human cognitive constraints in prompt design and the architectural requirements for producing coherent, comprehensive, multi-thousand-word documents that maintain semantic consistency, structural integrity, and domain-appropriate depth across their entire scope.
 
 #### 3. [CORE-PRINCIPLE] The Decomposition Imperative *(Line 70)*
 
@@ -282,23 +282,23 @@ extraction_summary:
 #### 13. [CONNECTIONS-AND-LINKS] Integration with Existing Cognitive Frameworks *(Line 399)*
 
 > [!connections-and-links] Integration with Existing Cognitive Frameworks
-> **Integration with [[Cognitive Load Theory]]:**
-> The modular decomposition methodology represents a direct application of CLT principles to the challenge of prompt engineering. By partitioning complex tasks to manage [[Working Memory]] constraints, optimizing [[Intrinsic Load]] through appropriate complexity calibration, minimizing [[Extraneous Load]] through superior organization, and directing [[Germane Load]] toward productive schema construction, the framework instantiates load theory at the architectural level.
+> **Integration with [[Cognitive-Load-Theory|Cognitive Load Theory]]:**
+> The modular decomposition methodology represents a direct application of CLT principles to the challenge of prompt engineering. By partitioning complex tasks to manage [[Working-Memory|Working Memory]] constraints, optimizing [[Intrinsic-Load|Intrinsic Load]] through appropriate complexity calibration, minimizing [[Extraneous-Load|Extraneous Load]] through superior organization, and directing [[Germane-Load|Germane Load]] toward productive schema construction, the framework instantiates load theory at the architectural level.
 > 
 > **Intersection with [[Systems Thinking]]:**
 > The emphasis on modularity, explicit interfaces, dependency management, and hierarchical organization directly applies systems engineering principles to the domain of prompt architecture. Like [[Modular Architecture]] in software or [[Cellular Manufacturing]] in production systems, modular prompt engineering achieves improved quality through decomposition and standardization while maintaining flexibility through reconfiguration of standard components.
 > 
-> **Dependency on [[Schema Theory]]:**
+> **Dependency on [[Schema-Theory|Schema Theory]]:**
 > The effectiveness of template modules relies fundamentally on schema development. As prompt engineers internalize patterns through repeated application, these patterns become automated [[Schemas]] that reduce cognitive load and improve execution quality. The methodology thus exhibits a learning curve characteristic—initially high overhead as patterns are learned, then increasing efficiency as expertise develops.
 > 
 > **Application of [[Zettelkasten Methodology]]:**
 > The module-to-note pipeline creates natural alignment between modular generation and atomic note creation. Each module produces content ideally suited for extraction into focused, interconnected notes. The modular structure inherently supports the Zettelkasten principle of building knowledge networks through explicit linkage rather than hierarchical categorization.
 > 
-> **Connection to [[Instructional Design]] Frameworks:**
+> **Connection to [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] Frameworks:**
 > The phased generation pattern mirrors instructional design models like ADDIE (Analysis, Design, Development, Implementation, Evaluation) and Dick & Carey's systematic design model. The modular approach enables the application of evidence-based pedagogical principles ([[Scaffolding]], [[Progressive Elaboration]], [[Worked Examples]]) at the document generation level.
 > 
 > **Synthesis with [[Prompt Engineering]] Best Practices:**
-> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought Prompting]], [[Few-Shot Learning]], or [[Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
+> Modular decomposition represents an architectural layer above individual prompt optimization techniques like [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]], [[Few-Shot Learning]], or [[Constitutional AI]]. The framework provides structure for organizing these techniques into coherent systems. Chain-of-Thought can be applied within individual modules; Constitutional AI principles can govern module behavior specifications; Few-Shot examples can illustrate expected module outputs.
 > 
 > **Parallel to [[Project Management]] Methodologies:**
 > The approach exhibits structural parallels to [[Agile Development]] methodologies, particularly the emphasis on iterative refinement, adaptive planning, and modular component development. Similarly, [[Work Breakdown Structure]] concepts from traditional project management map onto functional decomposition in prompt engineering—both partition complex objectives into manageable work packages.
@@ -335,7 +335,7 @@ extraction_summary:
 > 
 > **Third Reflection: Your Knowledge Architecture Vision**
 > 
-> Finally, consider how modular document generation could integrate with your broader [[Personal Knowledge Management]] system. If each module produces content suitable for extraction into [[Atomic Notes]], and each comprehensive generation effort enriches your [[Knowledge Graph]] with new nodes and edges, does that change how you think about the value of document creation? <span style='color: #27FF00;'>Rather than viewing comprehensive writing as a one-time deliverable, could you reconceptualize it as knowledge base construction where the document is a useful byproduct but the permanent value lies in the atomic notes and conceptual connections that populate your long-term knowledge architecture?</span>
+> Finally, consider how modular document generation could integrate with your broader [[Personal-Knowledge-Management|Personal Knowledge Management]] system. If each module produces content suitable for extraction into [[Atomic-Notes|Atomic Notes]], and each comprehensive generation effort enriches your [[Knowledge Graph]] with new nodes and edges, does that change how you think about the value of document creation? <span style='color: #27FF00;'>Rather than viewing comprehensive writing as a one-time deliverable, could you reconceptualize it as knowledge base construction where the document is a useful byproduct but the permanent value lies in the atomic notes and conceptual connections that populate your long-term knowledge architecture?</span>
 > 
 > This perspective shift has profound implications. It means that time invested in comprehensive document generation through modular prompts isn't just creating a deliverable—it's systematically expanding and enriching your [[PKB]]. Each module you design becomes a reusable tool. Each generated section becomes raw material for multiple permanent notes. Each connection identified becomes an edge in your knowledge graph. The modular approach thus serves dual purposes: immediate task completion and long-term knowledge infrastructure development.
 > 
@@ -371,51 +371,51 @@ extraction_summary:
 - [[Actor-Network Theory]]
 - [[Adaptive Orchestration and Meta-Learning in Prompt Systems]]
 - [[Agile Development]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Cellular Manufacturing]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chain-of-Thought Prompting Techniques]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management in Digital Knowledge Work]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
 - [[Context Window Architectures and Memory Management]]
 - [[Ergonomics]]
-- [[Extraneous Load]]
+- [[Extraneous-Load|Extraneous Load]]
 - [[Few-Shot Learning]]
-- [[Germane Load]]
+- [[Germane-Load|Germane Load]]
 - [[Information Processing Theory]]
 - [[Information Theory]]
-- [[Instructional Design]]
-- [[Intrinsic Load]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
+- [[Intrinsic-Load|Intrinsic Load]]
 - [[Knowledge Graph]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Modular Architecture]]
 - [[Modular Design]]
 - [[Modular Task Decomposition in Sequential Prompt Engineering]]
 - [[Neuroscience]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Productivity Research]]
 - [[Progressive Elaboration]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Management]]
 - [[Prompt Engineering]]
 - [[Prompt Template Libraries and Design Patterns]]
 - [[Scaffolding]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schemas]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Software Architecture]]
 - [[Software Architecture Patterns for AI Systems]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Systems Architecture]]
 - [[Systems Thinking]]
 - [[Wiki-Links]]
 - [[Work Breakdown Structure]]
 - [[Worked Examples]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten Methodology]]
 
 ### All Occurrences
@@ -423,57 +423,57 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Prompt Engineering]] | — | — | Foundational Understanding | 60 |
-| 2 | [[Cognitive Load Theory]] | — | — | Foundational Understanding | 60 |
+| 2 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Foundational Understanding | 60 |
 | 3 | [[Systems Thinking]] | — | — | Foundational Understanding | 60 |
 | 4 | [[Zettelkasten Methodology]] | — | — | Foundational Understanding | 60 |
-| 5 | [[Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 60 |
-| 6 | [[Cognitive Load Theory]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
+| 5 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | Foundational Understanding | 60 |
+| 6 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
 | 7 | [[Systems Thinking]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
 | 8 | [[Modular Design]] | — | — | 🧩 Modular Task Decomposition in Seque... | 66 |
-| 9 | [[Working Memory]] | — | — | 🎯 Core Definition and Problem Space | 69 |
-| 10 | [[Cognitive Load Theory]] | — | — | Cognitive Architecture and Informatio... | 76 |
+| 9 | [[Working-Memory|Working Memory]] | — | — | 🎯 Core Definition and Problem Space | 69 |
+| 10 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Architecture and Informatio... | 76 |
 | 11 | [[Information Processing Theory]] | — | — | Cognitive Architecture and Informatio... | 76 |
-| 12 | [[Working Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
-| 13 | [[Long-Term Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
+| 12 | [[Working-Memory|Working Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
+| 13 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Cognitive Architecture and Informatio... | 76 |
 | 14 | [[Systems Thinking]] | — | — | Systems Thinking and Interface Design | 84 |
 | 15 | [[Modular Architecture]] | — | — | Systems Thinking and Interface Design | 84 |
-| 16 | [[Schema Theory]] | — | — | Schema Theory and Knowledge Architecture | 96 |
-| 17 | [[Cognitive Load]] | — | — | Schema Theory and Knowledge Architecture | 99 |
+| 16 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory and Knowledge Architecture | 96 |
+| 17 | [[Cognitive-Load|Cognitive Load]] | — | — | Schema Theory and Knowledge Architecture | 99 |
 | 18 | [[Zettelkasten Methodology]] | — | — | Alignment with Zettelkasten Principles | 377 |
-| 19 | [[Atomic Notes]] | — | — | Alignment with Zettelkasten Principles | 377 |
-| 20 | [[Progressive Summarization]] | — | — | Alignment with Zettelkasten Principles | 384 |
+| 19 | [[Atomic-Notes|Atomic Notes]] | — | — | Alignment with Zettelkasten Principles | 377 |
+| 20 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Alignment with Zettelkasten Principles | 384 |
 | 21 | [[Wiki-Links]] | — | — | Knowledge Graph Enrichment Through Mo... | 386 |
-| 22 | [[Personal Knowledge Base]] | — | — | Template Integration with PKB Archite... | 390 |
-| 23 | [[Cognitive Load Theory]] | — | — | Template Integration with PKB Archite... | 390 |
-| 24 | [[Self-Determination Theory]] | — | — | Template Integration with PKB Archite... | 390 |
+| 22 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Template Integration with PKB Archite... | 390 |
+| 23 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Template Integration with PKB Archite... | 390 |
+| 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Template Integration with PKB Archite... | 390 |
 | 25 | [[Actor-Network Theory]] | — | — | Template Integration with PKB Archite... | 390 |
-| 26 | [[Instructional Design]] | — | — | Scaffolding Complex Understanding Thr... | 395 |
-| 27 | [[Cognitive Load Theory]] | — | — | Scaffolding Complex Understanding Thr... | 395 |
-| 28 | [[Spaced Repetition]] | — | — | The Document as Spaced Repetition System | 397 |
-| 29 | [[Cognitive Load Theory]] | — | — | The Document as Spaced Repetition System | 401 |
-| 30 | [[Working Memory]] | — | — | The Document as Spaced Repetition System | 402 |
-| 31 | [[Intrinsic Load]] | — | — | The Document as Spaced Repetition System | 402 |
-| 32 | [[Extraneous Load]] | — | — | The Document as Spaced Repetition System | 402 |
-| 33 | [[Germane Load]] | — | — | The Document as Spaced Repetition System | 402 |
+| 26 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Scaffolding Complex Understanding Thr... | 395 |
+| 27 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Scaffolding Complex Understanding Thr... | 395 |
+| 28 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | The Document as Spaced Repetition System | 397 |
+| 29 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Document as Spaced Repetition System | 401 |
+| 30 | [[Working-Memory|Working Memory]] | — | — | The Document as Spaced Repetition System | 402 |
+| 31 | [[Intrinsic-Load|Intrinsic Load]] | — | — | The Document as Spaced Repetition System | 402 |
+| 32 | [[Extraneous-Load|Extraneous Load]] | — | — | The Document as Spaced Repetition System | 402 |
+| 33 | [[Germane-Load|Germane Load]] | — | — | The Document as Spaced Repetition System | 402 |
 | 34 | [[Systems Thinking]] | — | — | The Document as Spaced Repetition System | 404 |
 | 35 | [[Modular Architecture]] | — | — | The Document as Spaced Repetition System | 405 |
 | 36 | [[Cellular Manufacturing]] | — | — | The Document as Spaced Repetition System | 405 |
-| 37 | [[Schema Theory]] | — | — | The Document as Spaced Repetition System | 407 |
+| 37 | [[Schema-Theory|Schema Theory]] | — | — | The Document as Spaced Repetition System | 407 |
 | 38 | [[Schemas]] | — | — | The Document as Spaced Repetition System | 408 |
 | 39 | [[Zettelkasten Methodology]] | — | — | The Document as Spaced Repetition System | 410 |
-| 40 | [[Instructional Design]] | — | — | The Document as Spaced Repetition System | 413 |
+| 40 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | The Document as Spaced Repetition System | 413 |
 | 41 | [[Scaffolding]] | — | — | The Document as Spaced Repetition System | 414 |
 | 42 | [[Progressive Elaboration]] | — | — | The Document as Spaced Repetition System | 414 |
 | 43 | [[Worked Examples]] | — | — | The Document as Spaced Repetition System | 414 |
 | 44 | [[Prompt Engineering]] | — | — | The Document as Spaced Repetition System | 416 |
-| 45 | [[Chain-of-Thought Prompting]] | — | — | The Document as Spaced Repetition System | 417 |
+| 45 | [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]] | — | — | The Document as Spaced Repetition System | 417 |
 | 46 | [[Few-Shot Learning]] | — | — | The Document as Spaced Repetition System | 417 |
 | 47 | [[Constitutional AI]] | — | — | The Document as Spaced Repetition System | 417 |
 | 48 | [[Project Management]] | — | — | The Document as Spaced Repetition System | 419 |
 | 49 | [[Agile Development]] | — | — | The Document as Spaced Repetition System | 420 |
 | 50 | [[Work Breakdown Structure]] | — | — | The Document as Spaced Repetition System | 420 |
-| 51 | [[Personal Knowledge Management]] | — | — | The Document as Spaced Repetition System | 450 |
-| 52 | [[Atomic Notes]] | — | — | The Document as Spaced Repetition System | 450 |
+| 51 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | The Document as Spaced Repetition System | 450 |
+| 52 | [[Atomic-Notes|Atomic Notes]] | — | — | The Document as Spaced Repetition System | 450 |
 | 53 | [[Knowledge Graph]] | — | — | The Document as Spaced Repetition System | 450 |
 | 54 | [[PKB]] | — | — | The Document as Spaced Repetition System | 452 |
 | 55 | [[Chain-of-Thought Prompting Techniques]] | — | — | 1. **[[Chain-of-Thought Prompting Tec... | 459 |
@@ -485,7 +485,7 @@ extraction_summary:
 | 61 | [[Neuroscience]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
 | 62 | [[Ergonomics]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
 | 63 | [[Productivity Research]] | — | — | 4. **[[Cognitive Load Management in D... | 480 |
-| 64 | [[Cognitive Load Theory]] | — | — | 4. **[[Cognitive Load Management in D... | 481 |
+| 64 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 4. **[[Cognitive Load Management in D... | 481 |
 | 65 | [[Adaptive Orchestration and Meta-Learning in Prompt Systems]] | — | — | 5. **[[Adaptive Orchestration and Met... | 485 |
 | 66 | [[Context Window Architectures and Memory Management]] | — | — | 6. **[[Context Window Architectures a... | 491 |
 | 67 | [[Prompt Engineering]] | — | — | 6. **[[Context Window Architectures a... | 494 |
@@ -904,51 +904,51 @@ description includes Review
 - [[Actor-Network Theory]]
 - [[Adaptive Orchestration and Meta-Learning in Prompt Systems]]
 - [[Agile Development]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Cellular Manufacturing]]
-- [[Chain-of-Thought Prompting]]
+- [[Chain-of-Thought-Prompting|Chain-of-Thought Prompting]]
 - [[Chain-of-Thought Prompting Techniques]]
-- [[Cognitive Load]]
+- [[Cognitive-Load|Cognitive Load]]
 - [[Cognitive Load Management in Digital Knowledge Work]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
 - [[Context Window Architectures and Memory Management]]
 - [[Ergonomics]]
-- [[Extraneous Load]]
+- [[Extraneous-Load|Extraneous Load]]
 - [[Few-Shot Learning]]
-- [[Germane Load]]
+- [[Germane-Load|Germane Load]]
 - [[Information Processing Theory]]
 - [[Information Theory]]
-- [[Instructional Design]]
-- [[Intrinsic Load]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
+- [[Intrinsic-Load|Intrinsic Load]]
 - [[Knowledge Graph]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Modular Architecture]]
 - [[Modular Design]]
 - [[Modular Task Decomposition in Sequential Prompt Engineering]]
 - [[Neuroscience]]
 - [[PKB]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Productivity Research]]
 - [[Progressive Elaboration]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Management]]
 - [[Prompt Engineering]]
 - [[Prompt Template Libraries and Design Patterns]]
 - [[Scaffolding]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schemas]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Software Architecture]]
 - [[Software Architecture Patterns for AI Systems]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Systems Architecture]]
 - [[Systems Thinking]]
 - [[Wiki-Links]]
 - [[Work Breakdown Structure]]
 - [[Worked Examples]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zettelkasten Methodology]]
 
 ---

@@ -258,12 +258,12 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 177)*
 
 > [!abstract] Untitled
-> This comprehensive reference explores the methodological foundations of conducting systematic literature reviews within [[Personal Knowledge Base]] environments, examining how traditional academic review protocols adapt to linked note-taking architectures. The synthesis addresses the tension between rigorous scholarly methodology and the unique affordances of networked knowledge systems, where the goal extends beyond producing singular review documents to constructing living knowledge graphs that support continuous intellectual development. By integrating established frameworks like [[PRISMA Guidelines]], [[Zettelkasten Method]] principles, and modern tool ecosystems exemplified by the [[Zotero]]-[[Obsidian]] workflow, this reference establishes a comprehensive methodology for transforming source material into atomic, interconnected knowledge units while maintaining academic rigor, proper [[Citation Management]], and intellectual provenance.
+> This comprehensive reference explores the methodological foundations of conducting systematic literature reviews within [[Personal-Knowledge-Base|Personal Knowledge Base]] environments, examining how traditional academic review protocols adapt to linked note-taking architectures. The synthesis addresses the tension between rigorous scholarly methodology and the unique affordances of networked knowledge systems, where the goal extends beyond producing singular review documents to constructing living knowledge graphs that support continuous intellectual development. By integrating established frameworks like [[PRISMA Guidelines]], [[Zettelkasten Method]] principles, and modern tool ecosystems exemplified by the [[Zotero]]-[[Obsidian]] workflow, this reference establishes a comprehensive methodology for transforming source material into atomic, interconnected knowledge units while maintaining academic rigor, proper [[Citation Management]], and intellectual provenance.
 
 #### 4. [DEFINITION] Literature Review *(Line 182)*
 
 > [!definition] Literature Review
-> A systematic literature review represents a comprehensive approach to identifying, selecting, and analyzing relevant literature on specific research questions through structured protocols that minimize bias while maximizing the validity and reliability of findings. Within [[Personal Knowledge Management]] systems, this definition expands to encompass not merely the production of a review document but the *integration of sources into a living knowledge network* where individual insights become reusable nodes supporting multiple future investigations.
+> A systematic literature review represents a comprehensive approach to identifying, selecting, and analyzing relevant literature on specific research questions through structured protocols that minimize bias while maximizing the validity and reliability of findings. Within [[Personal-Knowledge-Management|Personal Knowledge Management]] systems, this definition expands to encompass not merely the production of a review document but the *integration of sources into a living knowledge network* where individual insights become reusable nodes supporting multiple future investigations.
 
 #### 5. [THE-PHILOSOPHY] Untitled *(Line 191)*
 
@@ -320,7 +320,7 @@ extraction_summary:
 - [[Algorithmic Filtering]]
 - [[Appraisal Tool Templates]]
 - [[Atomic Concept Notes]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Attrition Bias]]
 - [[Backlink Counts]]
 - [[Backlinks]]
@@ -367,7 +367,7 @@ extraction_summary:
 - [[Large Language Models]]
 - [[Literature Note]]
 - [[Literature Notes]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meta-Analysis]]
 - [[Meta-Ethnography]]
 - [[Metacognitive Artifacts]]
@@ -380,11 +380,11 @@ extraction_summary:
 - [[Pandoc]]
 - [[Performance Bias]]
 - [[Permanent Notes]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Preprint Archives]]
 - [[Progressive Disclosure Annotation Strategies]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Publication Bias Assessments]]
 - [[Quality Assessment Notes]]
 - [[Rapid Evidence Assessments]]
@@ -400,7 +400,7 @@ extraction_summary:
 - [[Search Strategy Development]]
 - [[Search Strings]]
 - [[Selection Bias]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Snowballing]]
 - [[Source Evaluation]]
 - [[Structured Note Templates]]
@@ -430,13 +430,13 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | 🎓 Abstract | 178 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎓 Abstract | 178 |
 | 2 | [[PRISMA Guidelines]] | — | — | 🎓 Abstract | 178 |
 | 3 | [[Zettelkasten Method]] | — | — | 🎓 Abstract | 178 |
 | 4 | [[Zotero]] | — | — | 🎓 Abstract | 178 |
 | 5 | [[Obsidian]] | — | — | 🎓 Abstract | 178 |
 | 6 | [[Citation Management]] | — | — | 🎓 Abstract | 178 |
-| 7 | [[Personal Knowledge Management]] | — | — | 📖 Defining Literature Review in PKB C... | 183 |
+| 7 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📖 Defining Literature Review in PKB C... | 183 |
 | 8 | [[Literature Notes]] | — | — | 📖 Defining Literature Review in PKB C... | 185 |
 | 9 | [[Permanent Notes]] | — | — | 📖 Defining Literature Review in PKB C... | 185 |
 | 10 | [[Bidirectional Linking]] | — | — | 📖 Defining Literature Review in PKB C... | 187 |
@@ -447,7 +447,7 @@ extraction_summary:
 | 15 | [[Search Strategy Development]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 16 | [[Inclusion and Exclusion Criteria]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 17 | [[Source Evaluation]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
-| 18 | [[Atomic Notes]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
+| 18 | [[Atomic-Notes|Atomic Notes]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 19 | [[Graph View]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 20 | [[Bidirectional Linking]] | — | — | 🏛️ The Philosophy of Literature Revie... | 200 |
 | 21 | [[Bibliographic Metadata]] | — | — | Traditional Systematic Reviews and Me... | 208 |
@@ -500,7 +500,7 @@ extraction_summary:
 | 68 | [[Inline Metadata]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
 | 69 | [[Dataview Queries]] | — | — | Phase Five: Data Extraction and Synth... | 260 |
 | 70 | [[Synthesis Matrix]] | — | — | Phase Five: Data Extraction and Synth... | 262 |
-| 71 | [[MOC]] | — | — | Phase Five: Data Extraction and Synth... | 262 |
+| 71 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Phase Five: Data Extraction and Synth... | 262 |
 | 72 | [[Dataview Tables]] | — | — | Phase Five: Data Extraction and Synth... | 262 |
 | 73 | [[Thematic Analysis]] | — | — | Phase Five: Data Extraction and Synth... | 264 |
 | 74 | [[Atomic Concept Notes]] | — | — | Phase Five: Data Extraction and Synth... | 264 |
@@ -527,7 +527,7 @@ extraction_summary:
 | 95 | [[Citation Plugin]] | — | — | Template Design for Literature Notes | 310 |
 | 96 | [[Dataview Queries]] | — | — | Template Design for Literature Notes | 310 |
 | 97 | [[Dataview]] | — | — | Advanced Integration: Dataview Querie... | 320 |
-| 98 | [[MOC]] | — | — | Constructing Multi-Dimensional Synthe... | 342 |
+| 98 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Constructing Multi-Dimensional Synthe... | 342 |
 | 99 | [[Backlinks]] | — | — | Constructing Multi-Dimensional Synthe... | 342 |
 | 100 | [[Thematic Analysis]] | — | — | Thematic Analysis and Code Development | 346 |
 | 101 | [[Atomic Concept Notes]] | — | — | Thematic Analysis and Code Development | 346 |
@@ -540,7 +540,7 @@ extraction_summary:
 | 108 | [[Graph View Analysis]] | — | — | Gap Analysis and Conceptual Framework... | 356 |
 | 109 | [[Backlink Counts]] | — | — | Gap Analysis and Conceptual Framework... | 356 |
 | 110 | [[Conceptual Framework Development]] | — | — | Gap Analysis and Conceptual Framework... | 358 |
-| 111 | [[MOC]] | — | — | Gap Analysis and Conceptual Framework... | 358 |
+| 111 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Gap Analysis and Conceptual Framework... | 358 |
 | 112 | [[Synthesis Note]] | — | — | Gap Analysis and Conceptual Framework... | 358 |
 | 113 | [[Pandoc]] | — | — | Multi-Layer Citation Architecture | 366 |
 | 114 | [[Citation]] | — | — | Multi-Layer Citation Architecture | 366 |
@@ -552,13 +552,13 @@ extraction_summary:
 | 120 | [[Tag Taxonomies]] | — | — | Source Typing and Evidence Quality Fl... | 372 |
 | 121 | [[Temporal Provenance]] | — | — | Temporal Provenance and Knowledge Evo... | 378 |
 | 122 | [[Dated Synthesis Notes]] | — | — | Temporal Provenance and Knowledge Evo... | 380 |
-| 123 | [[Progressive Summarization]] | — | — | Progressive Summarization and Layered... | 388 |
+| 123 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Progressive Summarization and Layered... | 388 |
 | 124 | [[Literature Notes]] | — | — | Progressive Summarization and Layered... | 388 |
 | 125 | [[Atomic Concept Notes]] | — | — | Progressive Summarization and Layered... | 388 |
 | 126 | [[Synthesis Notes]] | — | — | Progressive Summarization and Layered... | 388 |
 | 127 | [[Theory Notes]] | — | — | Progressive Summarization and Layered... | 388 |
 | 128 | [[Graph View]] | — | — | Emergence of Original Insights Throug... | 398 |
-| 129 | [[Self-Regulated Learning]] | — | — | Integration with Self-Regulated Learn... | 412 |
+| 129 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Integration with Self-Regulated Learn... | 412 |
 | 130 | [[Metacognitive Artifacts]] | — | — | Integration with Self-Regulated Learn... | 412 |
 | 131 | [[Open Science]] | — | — | Relationship to Open Science and Rese... | 418 |
 | 132 | [[Research Compendia]] | — | — | Relationship to Open Science and Rese... | 418 |
@@ -783,7 +783,7 @@ LIMIT 15
 - [[Algorithmic Filtering]]
 - [[Appraisal Tool Templates]]
 - [[Atomic Concept Notes]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Attrition Bias]]
 - [[Backlink Counts]]
 - [[Backlinks]]
@@ -830,7 +830,7 @@ LIMIT 15
 - [[Large Language Models]]
 - [[Literature Note]]
 - [[Literature Notes]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Meta-Analysis]]
 - [[Meta-Ethnography]]
 - [[Metacognitive Artifacts]]
@@ -843,11 +843,11 @@ LIMIT 15
 - [[Pandoc]]
 - [[Performance Bias]]
 - [[Permanent Notes]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Preprint Archives]]
 - [[Progressive Disclosure Annotation Strategies]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Publication Bias Assessments]]
 - [[Quality Assessment Notes]]
 - [[Rapid Evidence Assessments]]
@@ -863,7 +863,7 @@ LIMIT 15
 - [[Search Strategy Development]]
 - [[Search Strings]]
 - [[Selection Bias]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Snowballing]]
 - [[Source Evaluation]]
 - [[Structured Note Templates]]

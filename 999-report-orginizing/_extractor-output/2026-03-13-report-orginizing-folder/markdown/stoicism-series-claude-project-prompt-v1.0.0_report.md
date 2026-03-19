@@ -616,7 +616,7 @@ extraction_summary:
 - [[Complementary or contrasting topic]]
 - [[Concept Name]]
 - [[Cynicism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Emotional Regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]
@@ -696,7 +696,7 @@ extraction_summary:
 | 32 | [[Epictetus]] | — | — | Wiki-Linking Protocol | 330 |
 | 33 | [[Seneca]] | — | — | Wiki-Linking Protocol | 330 |
 | 34 | [[Chrysippus]] | — | — | Wiki-Linking Protocol | 330 |
-| 35 | [[Dichotomy of Control]] | — | — | Wiki-Linking Protocol | 331 |
+| 35 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Wiki-Linking Protocol | 331 |
 | 36 | [[Virtue Ethics]] | — | — | Wiki-Linking Protocol | 331 |
 | 37 | [[Logos]] | — | — | Wiki-Linking Protocol | 331 |
 | 38 | [[Prohairesis]] | — | — | Wiki-Linking Protocol | 331 |
@@ -724,7 +724,7 @@ extraction_summary:
 | 60 | [[Related Case or Figure 1]] | — | — | Related Cases for Comparison | 737 |
 | 61 | [[Related Case or Figure 2]] | — | — | Related Cases for Comparison | 738 |
 | 62 | [[Cognitive Behavioral Therapy]] | — | — | Part 4: The Psychology Behind the Phi... | 814 |
-| 63 | [[Dichotomy of Control]] | — | — | Cross-Report Consistency Requirements | 1064 |
+| 63 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Cross-Report Consistency Requirements | 1064 |
 | 64 | [[Logos]] | — | — | Cross-Report Consistency Requirements | 1065 |
 | 65 | [[Prohairesis]] | — | — | Cross-Report Consistency Requirements | 1066 |
 | 66 | [[Virtue]] | — | — | Cross-Report Consistency Requirements | 1067 |
@@ -733,7 +733,7 @@ extraction_summary:
 | 69 | [[Stoicism Series Overview]] | — | — | Cross-Report Consistency Requirements | 1079 |
 | 70 | [[Report N-1 Title]] | — | — | Cross-Report Consistency Requirements | 1081 |
 | 71 | [[Report N+1 Title]] | — | — | Cross-Report Consistency Requirements | 1082 |
-| 72 | [[Dichotomy of Control]] | — | — | Cross-Report Consistency Requirements | 1089 |
+| 72 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Cross-Report Consistency Requirements | 1089 |
 | 73 | [[Eudaimonia]] | — | — | Cross-Report Consistency Requirements | 1091 |
 
 ---
@@ -1118,7 +1118,7 @@ subdomains:
 - [[Complementary or contrasting topic]]
 - [[Concept Name]]
 - [[Cynicism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Emotional Regulation]]
 - [[Emotional Resilience]]
 - [[Epictetus]]

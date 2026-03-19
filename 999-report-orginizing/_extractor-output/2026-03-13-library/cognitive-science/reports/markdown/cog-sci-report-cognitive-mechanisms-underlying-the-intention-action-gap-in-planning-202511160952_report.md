@@ -139,7 +139,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 32)*
 
 > [!abstract] Untitled
-> The **intention-action gap** represents one of the most consequential failures in human cognition—the systematic disconnection between what individuals plan to do and what they actually execute. This chasm emerges not from lack of motivation or flawed decision-making but from fundamental constraints in how [[Working Memory]] manages delayed intentions, how [[Self-Control]] resources fluctuate under sustained demands, and how behavioral initiation requires explicit cueing mechanisms to bridge the threshold between mental intention and physical action. Understanding this gap requires examining three interrelated cognitive mechanisms: [[Prospective Memory]] failures that cause loss of intention awareness during delay periods, the controversial [[Ego Depletion]] phenomenon concerning self-regulatory resource dynamics, and [[Implementation Intentions]] as a strategic solution that automates action initiation. The stakes extend far beyond academic curiosity—prospective memory failures account for between twenty-six and thirty percent of critical errors in high-stakes professional environments including aviation and medicine, while successful implementation intention strategies can improve goal attainment rates by effect sizes ranging from medium to large ($d = 0.65$). For designers of [[Personal Knowledge Base]] systems, these mechanisms illuminate why traditional note-taking fails to drive behavior change: PKB architectures that ignore the psychological reality of the execution threshold create information repositories rather than genuine [[Cognitive Scaffolding]] that bridges the gap between knowledge acquisition and knowledge application in real-world contexts.
+> The **intention-action gap** represents one of the most consequential failures in human cognition—the systematic disconnection between what individuals plan to do and what they actually execute. This chasm emerges not from lack of motivation or flawed decision-making but from fundamental constraints in how [[Working-Memory|Working Memory]] manages delayed intentions, how [[Self-Control]] resources fluctuate under sustained demands, and how behavioral initiation requires explicit cueing mechanisms to bridge the threshold between mental intention and physical action. Understanding this gap requires examining three interrelated cognitive mechanisms: [[Prospective Memory]] failures that cause loss of intention awareness during delay periods, the controversial [[Ego Depletion]] phenomenon concerning self-regulatory resource dynamics, and [[Implementation-Intentions|Implementation Intentions]] as a strategic solution that automates action initiation. The stakes extend far beyond academic curiosity—prospective memory failures account for between twenty-six and thirty percent of critical errors in high-stakes professional environments including aviation and medicine, while successful implementation intention strategies can improve goal attainment rates by effect sizes ranging from medium to large ($d = 0.65$). For designers of [[Personal-Knowledge-Base|Personal Knowledge Base]] systems, these mechanisms illuminate why traditional note-taking fails to drive behavior change: PKB architectures that ignore the psychological reality of the execution threshold create information repositories rather than genuine [[Cognitive-Scaffolding|Cognitive Scaffolding]] that bridges the gap between knowledge acquisition and knowledge application in real-world contexts.
 
 #### 3. [DEFINITION] Untitled *(Line 38)*
 
@@ -174,7 +174,7 @@ extraction_summary:
 #### 9. [KEY-CLAIM] Untitled *(Line 132)*
 
 > [!key-claim] Untitled
-> The **ego depletion** hypothesis proposed that [[Self-Control]] operates like a muscle that becomes fatigued with use, creating a *resource depletion* effect wherein initial exercises of self-control impair subsequent self-control performance. This theory dominated self-regulation research for over two decades, accumulating more than six hundred supporting studies, before spectacularly collapsing under replication crisis scrutiny. Understanding both the theory and its failure illuminates the genuine mechanisms underlying execution threshold breakdowns while cautioning against oversimplified resource metaphors in [[Personal Knowledge Base]] design.
+> The **ego depletion** hypothesis proposed that [[Self-Control]] operates like a muscle that becomes fatigued with use, creating a *resource depletion* effect wherein initial exercises of self-control impair subsequent self-control performance. This theory dominated self-regulation research for over two decades, accumulating more than six hundred supporting studies, before spectacularly collapsing under replication crisis scrutiny. Understanding both the theory and its failure illuminates the genuine mechanisms underlying execution threshold breakdowns while cautioning against oversimplified resource metaphors in [[Personal-Knowledge-Base|Personal Knowledge Base]] design.
 
 #### 10. [COUNTER-ARGUMENT] Untitled *(Line 143)*
 
@@ -189,12 +189,12 @@ extraction_summary:
 #### 12. [INSIGHT] Untitled *(Line 165)*
 
 > [!insight] Untitled
-> The ego depletion collapse transforms how we understand execution threshold failures. Rather than viewing failed intention execution as caused by depleted self-regulatory resources, we must examine how motivational dynamics, goal competition, expectancy effects, and general cognitive fatigue interact with prospective memory demands to create execution failures. This reframing shifts design strategy: instead of trying to "conserve willpower," effective [[Personal Knowledge Base]] systems should reduce motivational friction, minimize goal competition, leverage positive expectancies, and accommodate natural fluctuations in cognitive capacity through flexible scaffolding.
+> The ego depletion collapse transforms how we understand execution threshold failures. Rather than viewing failed intention execution as caused by depleted self-regulatory resources, we must examine how motivational dynamics, goal competition, expectancy effects, and general cognitive fatigue interact with prospective memory demands to create execution failures. This reframing shifts design strategy: instead of trying to "conserve willpower," effective [[Personal-Knowledge-Base|Personal Knowledge Base]] systems should reduce motivational friction, minimize goal competition, leverage positive expectancies, and accommodate natural fluctuations in cognitive capacity through flexible scaffolding.
 
 #### 13. [KEY-CLAIM] Untitled *(Line 184)*
 
 > [!key-claim] Untitled
-> **[[Implementation Intentions]]**—simple if-then plans of the format "If situation X occurs, then I will perform behavior Y"—represent the most empirically validated strategy for bridging the intention-action gap. Unlike abstract goal intentions ("I intend to achieve X"), implementation intentions create direct links between environmental cues and behavioral responses, effectively delegating action initiation from effortful deliberation to automatic environmental triggering. Meta-analytic evidence across ninety-four independent studies demonstrates medium-to-large effects ($d = 0.65$) on goal attainment, with particular efficacy for overcoming prospective memory failures and reducing the executive control demands of action initiation.
+> **[[Implementation-Intentions|Implementation Intentions]]**—simple if-then plans of the format "If situation X occurs, then I will perform behavior Y"—represent the most empirically validated strategy for bridging the intention-action gap. Unlike abstract goal intentions ("I intend to achieve X"), implementation intentions create direct links between environmental cues and behavioral responses, effectively delegating action initiation from effortful deliberation to automatic environmental triggering. Meta-analytic evidence across ninety-four independent studies demonstrates medium-to-large effects ($d = 0.65$) on goal attainment, with particular efficacy for overcoming prospective memory failures and reducing the executive control demands of action initiation.
 
 #### 14. [EVIDENCE] Untitled *(Line 195)*
 
@@ -209,7 +209,7 @@ extraction_summary:
 #### 16. [CORE-PRINCIPLE] Untitled *(Line 223)*
 
 > [!core-principle] Untitled
-> **The Cue-Integrated Architecture Principle**: Effective [[Personal Knowledge Base]] systems must embed implementation intention structures directly into the user interface and workflow rather than relying on users to independently form and maintain such plans. This means creating salient, unambiguous situational cues at critical decision points, pre-specifying high-value behavioral responses to those cues through interface affordances, and reducing the cognitive gap between cue detection and behavior execution through streamlined workflows.
+> **The Cue-Integrated Architecture Principle**: Effective [[Personal-Knowledge-Base|Personal Knowledge Base]] systems must embed implementation intention structures directly into the user interface and workflow rather than relying on users to independently form and maintain such plans. This means creating salient, unambiguous situational cues at critical decision points, pre-specifying high-value behavioral responses to those cues through interface affordances, and reducing the cognitive gap between cue detection and behavior execution through streamlined workflows.
 
 #### 17. [KEY-CLAIM] Untitled *(Line 240)*
 
@@ -219,7 +219,7 @@ extraction_summary:
 #### 18. [CORE-PRINCIPLE] Untitled *(Line 259)*
 
 > [!core-principle] Untitled
-> **The Multi-Layer Scaffolding Principle**: Effective [[Personal Knowledge Base]] systems must provide simultaneous support across all three mechanistic layers—prospective memory cueing, self-regulatory cost reduction, and implementation specification—because addressing only one mechanism leaves the others as failure points. The architecture must *systematically reduce execution barriers* at each phase rather than assuming users will independently overcome these challenges through motivation or discipline.
+> **The Multi-Layer Scaffolding Principle**: Effective [[Personal-Knowledge-Base|Personal Knowledge Base]] systems must provide simultaneous support across all three mechanistic layers—prospective memory cueing, self-regulatory cost reduction, and implementation specification—because addressing only one mechanism leaves the others as failure points. The architecture must *systematically reduce execution barriers* at each phase rather than assuming users will independently overcome these challenges through motivation or discipline.
 
 #### 19. [CORE-PRINCIPLE] Untitled *(Line 278)*
 
@@ -229,7 +229,7 @@ extraction_summary:
 #### 20. [INSIGHT] Untitled *(Line 295)*
 
 > [!insight] Untitled
-> The intention-action gap may represent the single greatest threat to effective [[Self-Directed Learning]] and [[Knowledge Work]] in modern information environments. Unlike industrial work where environmental structures and social accountability create execution support, knowledge workers operate in environments that systematically undermine the cognitive mechanisms necessary for translating intentions into action. Chronic distraction fragments prospective memory, competing demands create continuous self-regulatory challenges, and isolation eliminates social cueing structures. [[Personal Knowledge Base]] systems that fail to address these execution realities become abandoned information graveyards—carefully constructed but rarely used, representing failed intentions rather than genuine cognitive prosthetics.
+> The intention-action gap may represent the single greatest threat to effective [[Self-Directed-Learning|Self-Directed Learning]] and [[Knowledge Work]] in modern information environments. Unlike industrial work where environmental structures and social accountability create execution support, knowledge workers operate in environments that systematically undermine the cognitive mechanisms necessary for translating intentions into action. Chronic distraction fragments prospective memory, competing demands create continuous self-regulatory challenges, and isolation eliminates social cueing structures. [[Personal-Knowledge-Base|Personal Knowledge Base]] systems that fail to address these execution realities become abandoned information graveyards—carefully constructed but rarely used, representing failed intentions rather than genuine cognitive prosthetics.
 
 #### 21. [CITE] Untitled *(Line 332)*
 
@@ -274,102 +274,102 @@ extraction_summary:
 - [[Automaticity]]
 - [[Baddeley's Model of Working Memory]]
 - [[Basal Ganglia]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Context Switching]]
 - [[Ego Depletion]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal Setting Theory]]
 - [[Goal-Directed Behavior]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]
-- [[Habit Loop]]
+- [[Habit-Loop|Habit Loop]]
 - [[Heutagogy]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Inattentional Blindness]]
 - [[Intention-Action Gap]]
-- [[Intrinsic Motivation]]
-- [[Judgment of Learning]]
-- [[Knowledge Management]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Judgment-of-Learning|Judgment of Learning]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Knowledge Work]]
-- [[Long Term Memory]]
+- [[Long-Term-Memory|Long Term Memory]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prospective Memory]]
 - [[Retrospective Memory]]
 - [[Self-Control]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Self-Regulation]]
 - [[Self-Regulation-Theory]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture and Cognitive Load in Knowledge Management]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Working Memory]] | — | — | Document Start | 33 |
+| 1 | [[Working-Memory|Working Memory]] | — | — | Document Start | 33 |
 | 2 | [[Self-Control]] | — | — | Document Start | 33 |
 | 3 | [[Prospective Memory]] | — | — | Document Start | 33 |
 | 4 | [[Ego Depletion]] | — | — | Document Start | 33 |
-| 5 | [[Implementation Intentions]] | — | — | Document Start | 33 |
-| 6 | [[Personal Knowledge Base]] | — | — | Document Start | 33 |
-| 7 | [[Cognitive Scaffolding]] | — | — | Document Start | 33 |
+| 5 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Document Start | 33 |
+| 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 33 |
+| 7 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Document Start | 33 |
 | 8 | [[Goal-Directed Behavior]] | — | — | What Is the Intention-Action Gap? | 41 |
-| 9 | [[Personal Knowledge Base]] | — | — | What Is the Intention-Action Gap? | 43 |
+| 9 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | What Is the Intention-Action Gap? | 43 |
 | 10 | [[Knowledge Work]] | — | — | What Is the Intention-Action Gap? | 45 |
-| 11 | [[Long Term Memory]] | Long-Term Memory | — | The Psychological Architecture of the... | 54 |
+| 11 | [[Long-Term-Memory|Long Term Memory]] | Long-Term Memory | — | The Psychological Architecture of the... | 54 |
 | 12 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | The Psychological Architecture of the... | 56 |
-| 13 | [[working memory]] | — | — | The Psychological Architecture of the... | 56 |
+| 13 | [[Working-Memory|working memory]] | — | — | The Psychological Architecture of the... | 56 |
 | 14 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | The Psychological Architecture of the... | 58 |
 | 15 | [[Self-Regulation-Theory]] | — | — | The Psychological Architecture of the... | 60 |
-| 16 | [[Habit Formation]] | — | — | The Psychological Architecture of the... | 60 |
+| 16 | [[Habit-Formation|Habit Formation]] | — | — | The Psychological Architecture of the... | 60 |
 | 17 | [[Prospective Memory]] | — | — | Understanding Prospective Memory as "... | 69 |
 | 18 | [[Retrospective Memory]] | — | — | Understanding Prospective Memory as "... | 69 |
 | 19 | [[Metacognition]] | — | — | Understanding Prospective Memory as "... | 73 |
 | 20 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | Understanding Prospective Memory as "... | 73 |
-| 21 | [[Personal Knowledge Base]] | — | — | The Dual-Component Architecture: Pros... | 80 |
-| 22 | [[Knowledge Management]] | — | — | The Dual-Component Architecture: Pros... | 90 |
-| 23 | [[Personal Knowledge Base]] | — | — | Empirical Reality: Prospective Memory... | 105 |
-| 24 | [[Personal Knowledge Base]] | — | — | Factors Contributing to Prospective M... | 112 |
-| 25 | [[Self-Directed Learning]] | — | — | Factors Contributing to Prospective M... | 120 |
-| 26 | [[Knowledge Management]] | — | — | Factors Contributing to Prospective M... | 122 |
-| 27 | [[Personal Knowledge Base]] | — | — | Factors Contributing to Prospective M... | 126 |
+| 21 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Dual-Component Architecture: Pros... | 80 |
+| 22 | [[Knowledge-Management|Knowledge Management]] | — | — | The Dual-Component Architecture: Pros... | 90 |
+| 23 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Empirical Reality: Prospective Memory... | 105 |
+| 24 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Factors Contributing to Prospective M... | 112 |
+| 25 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Factors Contributing to Prospective M... | 120 |
+| 26 | [[Knowledge-Management|Knowledge Management]] | — | — | Factors Contributing to Prospective M... | 122 |
+| 27 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Factors Contributing to Prospective M... | 126 |
 | 28 | [[Self-Control]] | — | — | The Strength Model and Its Spectacula... | 133 |
-| 29 | [[Personal Knowledge Base]] | — | — | The Strength Model and Its Spectacula... | 133 |
-| 30 | [[Personal Knowledge Base]] | — | — | What Survives: Genuine Self-Regulatio... | 159 |
-| 31 | [[Personal Knowledge Base]] | — | — | Implications for Understanding the In... | 166 |
-| 32 | [[Personal Knowledge Base]] | — | — | Implications for Understanding the In... | 178 |
-| 33 | [[Implementation Intentions]] | — | — | The If-Then Planning Revolution | 185 |
-| 34 | [[Personal Knowledge Base]] | — | — | When Implementation Intentions Fail: ... | 213 |
-| 35 | [[Personal Knowledge Base]] | — | — | When Implementation Intentions Fail: ... | 217 |
-| 36 | [[Personal Knowledge Base]] | — | — | Application to Personal Knowledge Bas... | 224 |
-| 37 | [[Cognitive Scaffolding]] | — | — | Application to Personal Knowledge Bas... | 234 |
-| 38 | [[Personal Knowledge Base]] | — | — | How the Three Mechanisms Interact at ... | 243 |
+| 29 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Strength Model and Its Spectacula... | 133 |
+| 30 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | What Survives: Genuine Self-Regulatio... | 159 |
+| 31 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Implications for Understanding the In... | 166 |
+| 32 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Implications for Understanding the In... | 178 |
+| 33 | [[Implementation-Intentions|Implementation Intentions]] | — | — | The If-Then Planning Revolution | 185 |
+| 34 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | When Implementation Intentions Fail: ... | 213 |
+| 35 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | When Implementation Intentions Fail: ... | 217 |
+| 36 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Application to Personal Knowledge Bas... | 224 |
+| 37 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Application to Personal Knowledge Bas... | 234 |
+| 38 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | How the Three Mechanisms Interact at ... | 243 |
 | 39 | [[Metacognition]] | — | — | How the Three Mechanisms Interact at ... | 247 |
-| 40 | [[Personal Knowledge Base]] | — | — | The PKB Design Implications of Integr... | 260 |
-| 41 | [[Habit Formation]] | — | — | The PKB Design Implications of Integr... | 270 |
-| 42 | [[Intrinsic Motivation]] | — | — | Design Principles Derived from Execut... | 289 |
+| 40 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The PKB Design Implications of Integr... | 260 |
+| 41 | [[Habit-Formation|Habit Formation]] | — | — | The PKB Design Implications of Integr... | 270 |
+| 42 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Design Principles Derived from Execut... | 289 |
 | 43 | [[Heutagogy]] | — | — | Design Principles Derived from Execut... | 291 |
-| 44 | [[Self-Directed Learning]] | — | — | The Knowledge Work Execution Crisis | 296 |
+| 44 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | The Knowledge Work Execution Crisis | 296 |
 | 45 | [[Knowledge Work]] | — | — | The Knowledge Work Execution Crisis | 296 |
-| 46 | [[Personal Knowledge Base]] | — | — | The Knowledge Work Execution Crisis | 296 |
-| 47 | [[Cognitive Scaffolding]] | — | — | The Knowledge Work Execution Crisis | 302 |
+| 46 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Knowledge Work Execution Crisis | 296 |
+| 47 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | The Knowledge Work Execution Crisis | 302 |
 | 48 | [[Working Memory Architecture and Cognitive Load in Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 308 |
-| 49 | [[Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
-| 50 | [[Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
+| 49 | [[Working-Memory|Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
+| 50 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 51 | [[Baddeley's Model of Working Memory]] | — | — | 🔗 Related Topics for PKB Expansion | 310 |
 | 52 | [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]] | — | — | 🔗 Related Topics for PKB Expansion | 313 |
 | 53 | [[Automaticity]] | — | — | 🔗 Related Topics for PKB Expansion | 314 |
-| 54 | [[Habit Loop]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
+| 54 | [[Habit-Loop|Habit Loop]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 55 | [[Basal Ganglia]] | — | — | 🔗 Related Topics for PKB Expansion | 315 |
 | 56 | [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 318 |
 | 57 | [[Metacognition]] | — | — | 🔗 Related Topics for PKB Expansion | 319 |
-| 58 | [[Judgment of Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
-| 59 | [[Feeling of Knowing]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
-| 60 | [[Self-Directed Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
+| 58 | [[Judgment-of-Learning|Judgment of Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
+| 59 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
+| 60 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 🔗 Related Topics for PKB Expansion | 320 |
 | 61 | [[Attention Allocation and Task-Switching Costs in Multi-Context Knowledge Work]] | — | — | 🔗 Related Topics for PKB Expansion | 323 |
 | 62 | [[Context Switching]] | — | — | 🔗 Related Topics for PKB Expansion | 324 |
 | 63 | [[03_notes/01_permanent-notes/01_cognitive-development/Attention]] | — | — | 🔗 Related Topics for PKB Expansion | 325 |
@@ -378,19 +378,19 @@ extraction_summary:
 | 66 | [[Intention-Action Gap]] | — | — | Structural Planning | 406 |
 | 67 | [[Prospective Memory]] | — | — | Structural Planning | 406 |
 | 68 | [[Ego Depletion]] | — | — | Structural Planning | 406 |
-| 69 | [[Implementation Intentions]] | — | — | Structural Planning | 406 |
-| 70 | [[Personal Knowledge Base]] | — | — | Structural Planning | 406 |
-| 71 | [[Cognitive Scaffolding]] | — | — | Structural Planning | 406 |
-| 72 | [[Self-Directed Learning]] | — | — | Structural Planning | 406 |
-| 73 | [[Working Memory]] | — | — | Structural Planning | 406 |
+| 69 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Structural Planning | 406 |
+| 70 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Structural Planning | 406 |
+| 71 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | Structural Planning | 406 |
+| 72 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | Structural Planning | 406 |
+| 73 | [[Working-Memory|Working Memory]] | — | — | Structural Planning | 406 |
 | 74 | [[Goal-Directed Behavior]] | — | — | Structural Planning | 406 |
 | 75 | [[Automaticity]] | — | — | Structural Planning | 406 |
 | 76 | [[Metacognition]] | — | — | Structural Planning | 406 |
 | 77 | [[Knowledge Work]] | — | — | Structural Planning | 406 |
-| 78 | [[Cognitive Load Theory]] | — | — | Structural Planning | 406 |
+| 78 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Structural Planning | 406 |
 | 79 | [[Self-Regulation]] | — | — | Structural Planning | 406 |
 | 80 | [[Goal Setting Theory]] | — | — | Structural Planning | 406 |
-| 81 | [[Habit Formation]] | — | — | Structural Planning | 406 |
+| 81 | [[Habit-Formation|Habit Formation]] | — | — | Structural Planning | 406 |
 
 ---
 
@@ -496,37 +496,37 @@ Let me start my research phase to gather current information on these topics.
 - [[Automaticity]]
 - [[Baddeley's Model of Working Memory]]
 - [[Basal Ganglia]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Context Switching]]
 - [[Ego Depletion]]
-- [[Feeling of Knowing]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
 - [[Goal Setting Theory]]
 - [[Goal-Directed Behavior]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Habit Formation Mechanisms and Their Application to Sustainable Knowledge Practices]]
-- [[Habit Loop]]
+- [[Habit-Loop|Habit Loop]]
 - [[Heutagogy]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Inattentional Blindness]]
 - [[Intention-Action Gap]]
-- [[Intrinsic Motivation]]
-- [[Judgment of Learning]]
-- [[Knowledge Management]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Judgment-of-Learning|Judgment of Learning]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Knowledge Work]]
-- [[Long Term Memory]]
+- [[Long-Term-Memory|Long Term Memory]]
 - [[Metacognition]]
 - [[Metacognitive Monitoring Accuracy and Its Role in Self-Regulated Learning]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Prospective Memory]]
 - [[Retrospective Memory]]
 - [[Self-Control]]
-- [[Self-Directed Learning]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
 - [[Self-Regulation]]
 - [[Self-Regulation-Theory]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Working Memory Architecture and Cognitive Load in Knowledge Management]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ---
 

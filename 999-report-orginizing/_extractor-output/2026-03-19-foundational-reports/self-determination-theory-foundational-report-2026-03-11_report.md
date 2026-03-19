@@ -228,7 +228,7 @@ extraction_summary:
 #### 13. [INSIGHT] Introjection and the Costs of Conditional Regard *(Line 375)*
 
 > [!insight] Introjection and the Costs of Conditional Regard
-> The concept of [[Introjected Regulation]] deserves special attention because it illuminates a phenomenon that is frequently mistaken for genuine motivation. A student who works obsessively to avoid shame, or who is driven by a terror of intellectual inadequacy, may appear highly motivated by conventional standards — they produce work, they persist. But SDT predicts, and considerable evidence confirms, that introjected regulation produces fragile, ego-contingent functioning: these individuals are more vulnerable to catastrophic responses to failure, more prone to self-criticism and depression, less likely to engage in deep rather than performance-oriented learning, and more likely to disengage when external evaluation is removed. The social condition that most reliably produces introjected regulation is [[Conditional Regard]] — the practice of giving warmth and approval contingent on performance, thereby tying the person's fundamental sense of relatedness to their outputs. This makes conditional regard one of the most motivationally harmful of all parenting and teaching practices, despite its frequent deployment.
+> The concept of [[Introjected-Regulation|Introjected Regulation]] deserves special attention because it illuminates a phenomenon that is frequently mistaken for genuine motivation. A student who works obsessively to avoid shame, or who is driven by a terror of intellectual inadequacy, may appear highly motivated by conventional standards — they produce work, they persist. But SDT predicts, and considerable evidence confirms, that introjected regulation produces fragile, ego-contingent functioning: these individuals are more vulnerable to catastrophic responses to failure, more prone to self-criticism and depression, less likely to engage in deep rather than performance-oriented learning, and more likely to disengage when external evaluation is removed. The social condition that most reliably produces introjected regulation is [[Conditional-Regard|Conditional Regard]] — the practice of giving warmth and approval contingent on performance, thereby tying the person's fundamental sense of relatedness to their outputs. This makes conditional regard one of the most motivationally harmful of all parenting and teaching practices, despite its frequent deployment.
 
 #### 14. [KEY-CLAIM] The Universality Thesis *(Line 382)*
 
@@ -312,7 +312,7 @@ extraction_summary:
 #### 29. [IMPORTANT] The Integrated vs. Intrinsic Distinction *(Line 521)*
 
 > [!important] The Integrated vs. Intrinsic Distinction
-> OIT proposes a distinction between [[Integrated Regulation]] and [[Intrinsic Motivation]] — the former occurring when an extrinsic goal has been fully assimilated into the self-concept, the latter when activity is pursued for its inherent satisfaction. In practice, this distinction is empirically elusive: psychometric studies consistently find that integrated regulation and intrinsic motivation items are highly correlated and often load on the same factor. Whether they are truly distinct forms of regulation with distinct functional consequences, or whether the distinction is theoretically meaningful but practically negligible, remains an open question in the SDT literature.
+> OIT proposes a distinction between [[Integrated-Regulation|Integrated Regulation]] and [[Intrinsic-Motivation|Intrinsic Motivation]] — the former occurring when an extrinsic goal has been fully assimilated into the self-concept, the latter when activity is pursued for its inherent satisfaction. In practice, this distinction is empirically elusive: psychometric studies consistently find that integrated regulation and intrinsic motivation items are highly correlated and often load on the same factor. Whether they are truly distinct forms of regulation with distinct functional consequences, or whether the distinction is theoretically meaningful but practically negligible, remains an open question in the SDT literature.
 
 #### 30. [IMPORTANT] The Cultural Autonomy Debate *(Line 524)*
 
@@ -331,15 +331,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> This report on [[Self-Determination Theory]] connects to existing knowledge in the PKB across multiple nodes, each relationship enriching both directions:
+> This report on [[Self-Determination-Theory|Self-Determination Theory]] connects to existing knowledge in the PKB across multiple nodes, each relationship enriching both directions:
 > 
-> - **[[Achievement Goal Theory]]** — SDT and AGT address overlapping phenomena through distinct but complementary lenses. AGT's mastery/performance goal distinction maps imperfectly but productively onto SDT's autonomous/controlled motivation distinction: mastery goals tend to predict more autonomous engagement, but the relationship is not deterministic. The key SDT contribution to this connection is the mechanism: AGT describes the goal orientation; SDT explains why mastery goals are motivationally superior (they are more autonomy-satisfying and less threatening to competence need). Together the frameworks generate richer predictions than either alone — particularly for the design of [[Motivational Climate Design]] environments that are both mastery-oriented and need-supportive.
+> - **[[Achievement-Goal-Theory|Achievement Goal Theory]]** — SDT and AGT address overlapping phenomena through distinct but complementary lenses. AGT's mastery/performance goal distinction maps imperfectly but productively onto SDT's autonomous/controlled motivation distinction: mastery goals tend to predict more autonomous engagement, but the relationship is not deterministic. The key SDT contribution to this connection is the mechanism: AGT describes the goal orientation; SDT explains why mastery goals are motivationally superior (they are more autonomy-satisfying and less threatening to competence need). Together the frameworks generate richer predictions than either alone — particularly for the design of [[Motivational Climate Design]] environments that are both mastery-oriented and need-supportive.
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — This node in the PKB already draws on SDT principles (the informational vs. controlling functional significance distinction maps directly onto CET's analysis of feedback). This report deepens and broadens that node by providing the full theoretical underpinning for the feedback design principles established there, and by locating those principles within the larger framework of need satisfaction. The [[Feedback Design for Autonomy and Mastery]] node can now be understood as a practical instantiation of CET and BPNT within a specific instructional context.
 > 
 > - **[[Metacognition & Motivation]]** — The relationship between SDT and metacognitive theory is under-explored but theoretically rich. Autonomous motivation is empirically associated with deeper, more metacognitively sophisticated learning strategies. The mechanism may be that autonomous motivation frees attentional and cognitive resources from self-protective monitoring (avoiding shame, managing evaluative anxiety) that controlled motivation consumes, making deeper processing and metacognitive reflection more accessible. Conversely, metacognitive competence may support identified regulation by enabling learners to articulate the personal relevance and value of learning activities.
 > 
-> - **[[Growth Mindset]]** — [[Carol Dweck]]'s growth mindset framework and SDT connect through their shared commitment to a theory of psychological flourishing, but their mechanisms differ in important ways. Growth mindset operates through beliefs about the malleability of intelligence; SDT operates through need satisfaction. The two frameworks make convergent predictions in many contexts (both predict that mastery-focused, low-pressure environments support better outcomes) but diverge in others: SDT predicts that a person with a growth mindset operating in a highly controlling environment will still show motivational costs, because the need for autonomy is thwarted regardless of intelligence beliefs. Integrating the frameworks may require specifying the conditions under which growth mindset and need satisfaction operate as independent predictors vs. mediators of each other.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — [[Carol Dweck]]'s growth mindset framework and SDT connect through their shared commitment to a theory of psychological flourishing, but their mechanisms differ in important ways. Growth mindset operates through beliefs about the malleability of intelligence; SDT operates through need satisfaction. The two frameworks make convergent predictions in many contexts (both predict that mastery-focused, low-pressure environments support better outcomes) but diverge in others: SDT predicts that a person with a growth mindset operating in a highly controlling environment will still show motivational costs, because the need for autonomy is thwarted regardless of intelligence beliefs. Integrating the frameworks may require specifying the conditions under which growth mindset and need satisfaction operate as independent predictors vs. mediators of each other.
 > 
 > The pattern of connections across these nodes reveals that SDT occupies a foundational mechanistic role within the motivational cluster of this PKB: it provides the "why" — the need-based mechanisms — that many adjacent frameworks describe at the level of pattern without fully explaining.
 
@@ -466,7 +466,7 @@ extraction_summary:
 #### 56. [TOPIC-IDEA] [[Motivational Climate Design]] *(Line 655)*
 
 > [!topic-idea] [[Motivational Climate Design]]
-> An integrative treatment synthesising SDT with [[Achievement Goal Theory]] to produce a comprehensive framework for designing motivationally optimal environments — educational, athletic, and organisational. Would cover the dimensions of need-supportive climate (structure, autonomy support, involvement/warmth), the TARGET framework from AGT, and the empirical evidence for climate-level interventions. Priority: **High** — this report would serve as the practical synthesis node connecting the motivational cluster of this PKB to instructional and organisational design.
+> An integrative treatment synthesising SDT with [[Achievement-Goal-Theory|Achievement Goal Theory]] to produce a comprehensive framework for designing motivationally optimal environments — educational, athletic, and organisational. Would cover the dimensions of need-supportive climate (structure, autonomy support, involvement/warmth), the TARGET framework from AGT, and the empirical evidence for climate-level interventions. Priority: **High** — this report would serve as the practical synthesis node connecting the motivational cluster of this PKB to instructional and organisational design.
 
 #### 57. [TOPIC-IDEA] [[Internalization and Values Development]] *(Line 658)*
 
@@ -499,41 +499,41 @@ extraction_summary:
 ### Unique Targets
 
 - [[Abraham Maslow]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Actor-Partner Interdependence Models]]
 - [[Assimilation]]
 - [[Assor et al.'s]]
 - [[Autonomy]]
-- [[Autonomy Support]]
+- [[Autonomy-Support|Autonomy Support]]
 - [[Autonomy-Supportive Teaching]]
 - [[Autonomy-Supportive Teaching: Evidence and Practice]]
 - [[Bart Soenens]]
-- [[Basic Psychological Needs]]
+- [[Basic-Psychological-Needs|Basic Psychological Needs]]
 - [[Basic Psychological Needs Scale]]
 - [[Basic Psychological Needs Theory]]
 - [[Carl Rogers]]
 - [[Carol Dweck]]
-- [[Causality Orientations Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Chirkov et al. (2003)]]
 - [[Christopher Niemiec]]
-- [[Cognitive Evaluation Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
-- [[Conditional Regard]]
+- [[Conditional-Regard|Conditional Regard]]
 - [[Cross-Cultural Validity of Basic Psychological Needs]]
 - [[Deci et al.'s 1999 meta-analysis]]
 - [[Edward L. Deci]]
 - [[Effectance Motivation]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[General Causality Orientations Scale]]
+- [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Geoffrey Williams]]
 - [[Goal Contents Theory]]
 - [[Goal Contents Theory and Materialist Values]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Health-Care Climate Questionnaire]]
-- [[Integrated Regulation]]
+- [[Integrated-Regulation|Integrated Regulation]]
 - [[Internalization and Values Development]]
-- [[Intrinsic Motivation]]
-- [[Introjected Regulation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Introjected-Regulation|Introjected Regulation]]
 - [[Jean Piaget]]
 - [[Johnmarshall Reeve]]
 - [[Kasser]]
@@ -547,10 +547,10 @@ extraction_summary:
 - [[Need Thwarting: Mechanisms and Consequences]]
 - [[Need-Supportive Coaching]]
 - [[Netta Weinstein]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Organismic Valuing Process]]
 - [[Origin]]
-- [[Overjustification Effect]]
+- [[Overjustification-Effect|Overjustification Effect]]
 - [[Patall et al.]]
 - [[Pawn]]
 - [[Pelletier et al.]]
@@ -558,14 +558,14 @@ extraction_summary:
 - [[Randomised Controlled Trials]]
 - [[Reeve (2009)]]
 - [[Relatedness]]
-- [[Relationship Motivation Theory]]
+- [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard M. Ryan]]
 - [[Richard Ryan]]
 - [[Richard deCharms]]
 - [[Robert W. White]]
 - [[Ryan]]
 - [[SDT in Healthcare: Patient Motivation and Adherence]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory]]
 - [[Sport Motivation Scale]]
 - [[Steven Heine]]
@@ -581,26 +581,26 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Edward L. Deci]] | — | — | Phase I: Orientation & Context Setting | 265 |
 | 2 | [[Richard M. Ryan]] | — | — | Phase I: Orientation & Context Setting | 267 |
-| 3 | [[Self-Determination Theory]] | — | — | Phase I: Orientation & Context Setting | 267 |
-| 4 | [[Basic Psychological Needs]] | — | — | Phase I: Orientation & Context Setting | 269 |
+| 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase I: Orientation & Context Setting | 267 |
+| 4 | [[Basic-Psychological-Needs|Basic Psychological Needs]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 5 | [[Autonomy]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 6 | [[Competence]] | — | — | Phase I: Orientation & Context Setting | 269 |
 | 7 | [[Relatedness]] | — | — | Phase I: Orientation & Context Setting | 269 |
-| 8 | [[Self-Determination Theory]] | — | — | Scope and Organisation of This Report | 276 |
-| 9 | [[Cognitive Evaluation Theory]] | — | — | Scope and Organisation of This Report | 276 |
-| 10 | [[Organismic Integration Theory]] | — | — | Scope and Organisation of This Report | 276 |
-| 11 | [[Causality Orientations Theory]] | — | — | Scope and Organisation of This Report | 276 |
+| 8 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Organisation of This Report | 276 |
+| 9 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Scope and Organisation of This Report | 276 |
+| 10 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Scope and Organisation of This Report | 276 |
+| 11 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | Scope and Organisation of This Report | 276 |
 | 12 | [[Basic Psychological Needs Theory]] | — | — | Scope and Organisation of This Report | 276 |
 | 13 | [[Goal Contents Theory]] | — | — | Scope and Organisation of This Report | 276 |
-| 14 | [[Relationship Motivation Theory]] | — | — | Scope and Organisation of This Report | 276 |
-| 15 | [[Achievement Goal Theory]] | — | — | Why This Theory Matters for the PKB | 282 |
+| 14 | [[Relationship-Motivation-Theory|Relationship Motivation Theory]] | — | — | Scope and Organisation of This Report | 276 |
+| 15 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Why This Theory Matters for the PKB | 282 |
 | 16 | [[Feedback Design for Autonomy and Mastery]] | — | — | Why This Theory Matters for the PKB | 282 |
 | 17 | [[Metacognition & Motivation]] | — | — | Why This Theory Matters for the PKB | 282 |
-| 18 | [[Growth Mindset]] | — | — | Why This Theory Matters for the PKB | 282 |
-| 19 | [[Self-Determination Theory]] | — | — | The Intellectual Genealogy of SDT | 290 |
+| 18 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Why This Theory Matters for the PKB | 282 |
+| 19 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Intellectual Genealogy of SDT | 290 |
 | 20 | [[Robert W. White]] | — | — | The Intellectual Genealogy of SDT | 292 |
 | 21 | [[Effectance Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
-| 22 | [[Intrinsic Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
+| 22 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Intellectual Genealogy of SDT | 292 |
 | 23 | [[Carl Rogers]] | — | — | The Intellectual Genealogy of SDT | 294 |
 | 24 | [[Abraham Maslow]] | — | — | The Intellectual Genealogy of SDT | 294 |
 | 25 | [[Organismic Valuing Process]] | — | — | The Intellectual Genealogy of SDT | 294 |
@@ -613,17 +613,17 @@ extraction_summary:
 | 32 | [[Pawn]] | — | — | The Intellectual Genealogy of SDT | 298 |
 | 33 | [[Self-Efficacy Theory]] | — | — | Core Definitions | 312 |
 | 34 | [[Maarten Vansteenkiste]] | — | — | Foundational Distinctions | 330 |
-| 35 | [[Self-Determination Theory]] | — | — | The Six Mini-Theories of SDT | 343 |
-| 36 | [[Cognitive Evaluation Theory]] | — | — | Cognitive Evaluation Theory (CET) | 347 |
-| 37 | [[Intrinsic Motivation]] | — | — | Cognitive Evaluation Theory (CET) | 347 |
-| 38 | [[Overjustification Effect]] | — | — | Cognitive Evaluation Theory (CET) | 352 |
+| 35 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Six Mini-Theories of SDT | 343 |
+| 36 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | Cognitive Evaluation Theory (CET) | 347 |
+| 37 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Cognitive Evaluation Theory (CET) | 347 |
+| 38 | [[Overjustification-Effect|Overjustification Effect]] | — | — | Cognitive Evaluation Theory (CET) | 352 |
 | 39 | [[Mark Lepper]] | — | — | Cognitive Evaluation Theory (CET) | 352 |
 | 40 | [[Verbal praise]] | — | — | Cognitive Evaluation Theory (CET) | 352 |
 | 41 | [[Deci et al.'s 1999 meta-analysis]] | — | — | Cognitive Evaluation Theory (CET) | 352 |
-| 42 | [[Organismic Integration Theory]] | — | — | Organismic Integration Theory (OIT) | 356 |
-| 43 | [[Autonomy Support]] | — | — | Organismic Integration Theory (OIT) | 373 |
-| 44 | [[Introjected Regulation]] | — | — | Organismic Integration Theory (OIT) | 376 |
-| 45 | [[Conditional Regard]] | — | — | Organismic Integration Theory (OIT) | 376 |
+| 42 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Organismic Integration Theory (OIT) | 356 |
+| 43 | [[Autonomy-Support|Autonomy Support]] | — | — | Organismic Integration Theory (OIT) | 373 |
+| 44 | [[Introjected-Regulation|Introjected Regulation]] | — | — | Organismic Integration Theory (OIT) | 376 |
+| 45 | [[Conditional-Regard|Conditional Regard]] | — | — | Organismic Integration Theory (OIT) | 376 |
 | 46 | [[Basic Psychological Needs Theory]] | — | — | Basic Psychological Needs Theory (BPNT) | 380 |
 | 47 | [[Autonomy]] | — | — | Basic Psychological Needs Theory (BPNT) | 380 |
 | 48 | [[Competence]] | — | — | Basic Psychological Needs Theory (BPNT) | 380 |
@@ -636,20 +636,20 @@ extraction_summary:
 | 55 | [[Tim Kasser]] | — | — | Goal Contents Theory (GCT) | 391 |
 | 56 | [[Richard Ryan]] | — | — | Goal Contents Theory (GCT) | 391 |
 | 57 | [[Kasser]] | — | — | Goal Contents Theory (GCT) | 396 |
-| 58 | [[Causality Orientations Theory]] | — | — | Causality Orientations Theory (COT) | 400 |
-| 59 | [[General Causality Orientations Scale]] | — | — | Causality Orientations Theory (COT) | 402 |
-| 60 | [[Relationship Motivation Theory]] | — | — | Relationship Motivation Theory (RMT) | 406 |
+| 58 | [[Causality-Orientations-Theory|Causality Orientations Theory]] | — | — | Causality Orientations Theory (COT) | 400 |
+| 59 | [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] | — | — | Causality Orientations Theory (COT) | 402 |
+| 60 | [[Relationship-Motivation-Theory|Relationship Motivation Theory]] | — | — | Relationship Motivation Theory (RMT) | 406 |
 | 61 | [[Actor-Partner Interdependence Models]] | — | — | Relationship Motivation Theory (RMT) | 408 |
 | 62 | [[Steven Heine]] | — | — | Key Debates and Intellectual Tensions | 415 |
 | 63 | [[Martin Covington]] | — | — | Key Debates and Intellectual Tensions | 417 |
-| 64 | [[Achievement Goal Theory]] | — | — | Key Debates and Intellectual Tensions | 417 |
+| 64 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Key Debates and Intellectual Tensions | 417 |
 | 65 | [[Netta Weinstein]] | — | — | How Need Satisfaction Works: The Nutr... | 435 |
 | 66 | [[Ryan]] | — | — | How Need Satisfaction Works: The Nutr... | 435 |
 | 67 | [[Ryan]] | — | — | The Internationalisation Mechanism in... | 444 |
-| 68 | [[Autonomy Support]] | — | — | Autonomy Support: The Key Social Cond... | 453 |
+| 68 | [[Autonomy-Support|Autonomy Support]] | — | — | Autonomy Support: The Key Social Cond... | 453 |
 | 69 | [[Reeve (2009)]] | — | — | Autonomy Support: The Key Social Cond... | 455 |
 | 70 | [[Assor et al.'s]] | — | — | Need Thwarting: Active Frustration an... | 468 |
-| 71 | [[Conditional Regard]] | — | — | Need Thwarting: Active Frustration an... | 468 |
+| 71 | [[Conditional-Regard|Conditional Regard]] | — | — | Need Thwarting: Active Frustration an... | 468 |
 | 72 | [[Autonomy-Supportive Teaching]] | — | — | SDT in Educational Contexts | 487 |
 | 73 | [[Johnmarshall Reeve]] | — | — | SDT in Educational Contexts | 489 |
 | 74 | [[Patall et al.]] | — | — | SDT in Educational Contexts | 489 |
@@ -664,23 +664,23 @@ extraction_summary:
 | 83 | [[Pelletier et al.]] | — | — | SDT in Sport and Physical Activity | 504 |
 | 84 | [[Christopher Niemiec]] | — | — | SDT in Organisations | 508 |
 | 85 | [[Marylène Gagné]] | — | — | SDT in Organisations | 508 |
-| 86 | [[Integrated Regulation]] | — | — | Limitations, Open Questions, and Hone... | 522 |
-| 87 | [[Intrinsic Motivation]] | — | — | Limitations, Open Questions, and Hone... | 522 |
+| 86 | [[Integrated-Regulation|Integrated Regulation]] | — | — | Limitations, Open Questions, and Hone... | 522 |
+| 87 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Limitations, Open Questions, and Hone... | 522 |
 | 88 | [[Chirkov et al. (2003)]] | — | — | Limitations, Open Questions, and Hone... | 525 |
-| 89 | [[Self-Determination Theory]] | — | — | The Coherence of the Whole | 538 |
-| 90 | [[Self-Determination Theory]] | — | — | Unresolved Questions | 551 |
-| 91 | [[Achievement Goal Theory]] | — | — | Unresolved Questions | 553 |
+| 89 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Coherence of the Whole | 538 |
+| 90 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Unresolved Questions | 551 |
+| 91 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Unresolved Questions | 553 |
 | 92 | [[Motivational Climate Design]] | — | — | Unresolved Questions | 553 |
 | 93 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 555 |
 | 94 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 555 |
 | 95 | [[Metacognition & Motivation]] | — | — | Unresolved Questions | 557 |
-| 96 | [[Growth Mindset]] | — | — | Unresolved Questions | 559 |
+| 96 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Unresolved Questions | 559 |
 | 97 | [[Carol Dweck]] | — | — | Unresolved Questions | 559 |
 | 98 | [[Richard deCharms]] | — | — | A. Lexicon of Key Terms | 599 |
 | 99 | [[Autonomy-Supportive Teaching: Evidence and Practice]] | — | — | D. Expansion Topics | 649 |
 | 100 | [[Need Thwarting: Mechanisms and Consequences]] | — | — | D. Expansion Topics | 652 |
 | 101 | [[Motivational Climate Design]] | — | — | D. Expansion Topics | 655 |
-| 102 | [[Achievement Goal Theory]] | — | — | D. Expansion Topics | 656 |
+| 102 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | D. Expansion Topics | 656 |
 | 103 | [[Internalization and Values Development]] | — | — | D. Expansion Topics | 658 |
 | 104 | [[SDT in Healthcare: Patient Motivation and Adherence]] | — | — | D. Expansion Topics | 661 |
 | 105 | [[Cross-Cultural Validity of Basic Psychological Needs]] | — | — | D. Expansion Topics | 664 |
@@ -696,41 +696,41 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Abraham Maslow]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Actor-Partner Interdependence Models]]
 - [[Assimilation]]
 - [[Assor et al.'s]]
 - [[Autonomy]]
-- [[Autonomy Support]]
+- [[Autonomy-Support|Autonomy Support]]
 - [[Autonomy-Supportive Teaching]]
 - [[Autonomy-Supportive Teaching: Evidence and Practice]]
 - [[Bart Soenens]]
-- [[Basic Psychological Needs]]
+- [[Basic-Psychological-Needs|Basic Psychological Needs]]
 - [[Basic Psychological Needs Scale]]
 - [[Basic Psychological Needs Theory]]
 - [[Carl Rogers]]
 - [[Carol Dweck]]
-- [[Causality Orientations Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
 - [[Chirkov et al. (2003)]]
 - [[Christopher Niemiec]]
-- [[Cognitive Evaluation Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Competence]]
-- [[Conditional Regard]]
+- [[Conditional-Regard|Conditional Regard]]
 - [[Cross-Cultural Validity of Basic Psychological Needs]]
 - [[Deci et al.'s 1999 meta-analysis]]
 - [[Edward L. Deci]]
 - [[Effectance Motivation]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[General Causality Orientations Scale]]
+- [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
 - [[Geoffrey Williams]]
 - [[Goal Contents Theory]]
 - [[Goal Contents Theory and Materialist Values]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Health-Care Climate Questionnaire]]
-- [[Integrated Regulation]]
+- [[Integrated-Regulation|Integrated Regulation]]
 - [[Internalization and Values Development]]
-- [[Intrinsic Motivation]]
-- [[Introjected Regulation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Introjected-Regulation|Introjected Regulation]]
 - [[Jean Piaget]]
 - [[Johnmarshall Reeve]]
 - [[Kasser]]
@@ -744,10 +744,10 @@ extraction_summary:
 - [[Need Thwarting: Mechanisms and Consequences]]
 - [[Need-Supportive Coaching]]
 - [[Netta Weinstein]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Organismic Valuing Process]]
 - [[Origin]]
-- [[Overjustification Effect]]
+- [[Overjustification-Effect|Overjustification Effect]]
 - [[Patall et al.]]
 - [[Pawn]]
 - [[Pelletier et al.]]
@@ -755,14 +755,14 @@ extraction_summary:
 - [[Randomised Controlled Trials]]
 - [[Reeve (2009)]]
 - [[Relatedness]]
-- [[Relationship Motivation Theory]]
+- [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 - [[Richard M. Ryan]]
 - [[Richard Ryan]]
 - [[Richard deCharms]]
 - [[Robert W. White]]
 - [[Ryan]]
 - [[SDT in Healthcare: Patient Motivation and Adherence]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy Theory]]
 - [[Sport Motivation Scale]]
 - [[Steven Heine]]
@@ -776,15 +776,15 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Basic Motivational Psychology]]
 
 #### Related
 
-- [[Achievement Goal Theory]]
-- [[Self-Regulated Learning]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Feedback Design for Autonomy and Mastery]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Metacognition & Motivation]]
 - [[Flow Theory]]
 - [[Self-Efficacy Theory]]
@@ -794,20 +794,20 @@ extraction_summary:
 
 - [[Motivational Psychology]]
 - [[Positive Psychology]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
-- [[Cognitive Evaluation Theory]]
-- [[Organismic Integration Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Basic Psychological Needs Theory]]
 - [[Goal Contents Theory]]
-- [[Causality Orientations Theory]]
-- [[Relationship Motivation Theory]]
+- [[Causality-Orientations-Theory|Causality Orientations Theory]]
+- [[Relationship-Motivation-Theory|Relationship Motivation Theory]]
 
 #### See Also
 
-- [[Overjustification Effect]]
+- [[Overjustification-Effect|Overjustification Effect]]
 - [[Autonomy Support in Teaching]]
 - [[Need-Supportive Teaching]]
 - [[Controlling Environments]]
@@ -820,22 +820,22 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Health Behavior Change]]
 - [[Sport Psychology]]
 - [[Organizational Psychology]]
 
 #### Builds On
 
-- [[Achievement Goal Theory]]
-- [[Growth Mindset]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Metacognition & Motivation]]
 
 #### Enables
 
 - [[Motivational Climate Design]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Autonomy-Supportive Instructional Design]]
 - [[Need-Supportive Coaching]]
 

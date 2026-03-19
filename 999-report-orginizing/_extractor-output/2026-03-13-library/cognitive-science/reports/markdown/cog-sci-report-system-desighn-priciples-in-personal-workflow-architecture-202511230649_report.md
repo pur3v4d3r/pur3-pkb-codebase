@@ -126,7 +126,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Abstract *(Line 43)*
 
 > [!abstract] Abstract
-> The optimization of personal productivity has historically been dominated by heuristic methodologies focused on task management. However, a more rigorous approach requires the application of `[[Systems Design]]` and `[[Cybernetics]]` to the architecture of personal workflows. This paper examines the theoretical lineage of workflow architecture, tracing its roots from Wiener’s feedback loops to Engelbart’s augmentation of human intellect. By analyzing foundational principles such as `[[Cognitive Load Theory]]`, `[[Information Entropy]]`, and the thermodynamics of systems, we establish a framework for evaluating workflow efficacy. The analysis demonstrates that systems prioritizing `[[Loose Coupling]]` and antifragility outperform rigid, tightly coupled structures. We conclude that the objective of personal workflow architecture is not merely efficiency, but the creation of an exocortical structure that creates `[[Homeostasis]]` amidst information chaos.
+> The optimization of personal productivity has historically been dominated by heuristic methodologies focused on task management. However, a more rigorous approach requires the application of `[[Systems Design]]` and `[[Cybernetics]]` to the architecture of personal workflows. This paper examines the theoretical lineage of workflow architecture, tracing its roots from Wiener’s feedback loops to Engelbart’s augmentation of human intellect. By analyzing foundational principles such as `[[Cognitive-Load-Theory|Cognitive Load Theory]]`, `[[Information Entropy]]`, and the thermodynamics of systems, we establish a framework for evaluating workflow efficacy. The analysis demonstrates that systems prioritizing `[[Loose Coupling]]` and antifragility outperform rigid, tightly coupled structures. We conclude that the objective of personal workflow architecture is not merely efficiency, but the creation of an exocortical structure that creates `[[Homeostasis]]` amidst information chaos.
 
 #### 3. [DEFINITION] Personal Workflow Architecture *(Line 50)*
 
@@ -193,7 +193,7 @@ extraction_summary:
 
 > [!connect] Connection Ideas
 > * [[Biomimicry in Engineering]] - Exploring how organic systems solve information distribution problems (e.g., mycelial networks).
->   * [[Complex Adaptive Systems]] - How individual agents (notes/tasks) self-organize into higher-order structures without central command.
+>   * [[Complex-Adaptive-Systems|Complex Adaptive Systems]] - How individual agents (notes/tasks) self-organize into higher-order structures without central command.
 >   * [[Urban Planning]] - Parallels between designing a city for traffic flow and designing a database for information flow (e.g., "desire paths").
 >   * [[Control Theory]] - The mathematical modeling of dynamic systems and how it applies to habit formation.
 
@@ -236,8 +236,8 @@ extraction_summary:
 - [[Antifragility]]
 - [[Biomimicry in Engineering]]
 - [[Cognitive Friction]]
-- [[Cognitive Load Theory]]
-- [[Complex Adaptive Systems]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Control Theory]]
 - [[Coupling]]
 - [[Cybernetics]]
@@ -248,7 +248,7 @@ extraction_summary:
 - [[Flow State]]
 - [[Friction]]
 - [[Homeostasis]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Entropy]]
 - [[Information Theory]]
 - [[Iterative Design]]
@@ -269,7 +269,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Systems Design]] | — | — | Systems Design Principles in Personal... | 44 |
 | 2 | [[Cybernetics]] | — | — | Systems Design Principles in Personal... | 44 |
-| 3 | [[Cognitive Load Theory]] | — | — | Systems Design Principles in Personal... | 44 |
+| 3 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Systems Design Principles in Personal... | 44 |
 | 4 | [[Information Entropy]] | — | — | Systems Design Principles in Personal... | 44 |
 | 5 | [[Loose Coupling]] | — | — | Systems Design Principles in Personal... | 44 |
 | 6 | [[Homeostasis]] | — | — | Systems Design Principles in Personal... | 44 |
@@ -282,9 +282,9 @@ extraction_summary:
 | 13 | [[Douglas Engelbart]] | — | — | 2\. Methodology and Lineage: From Cyb... | 65 |
 | 14 | [[Niklas Luhmann]] | — | — | 2\. Methodology and Lineage: From Cyb... | 65 |
 | 15 | [[Zettelkasten]] | — | — | 2\. Methodology and Lineage: From Cyb... | 65 |
-| 16 | [[Cognitive Load Theory]] | — | — | 3\. Foundational Principles: The Phys... | 74 |
+| 16 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 3\. Foundational Principles: The Phys... | 74 |
 | 17 | [[Entropy]] | — | — | 3\. Foundational Principles: The Phys... | 77 |
-| 18 | [[Information Architecture]] | — | — | 3\. Foundational Principles: The Phys... | 83 |
+| 18 | [[Information-Architecture|Information Architecture]] | — | — | 3\. Foundational Principles: The Phys... | 83 |
 | 19 | [[Friction]] | — | — | 4\. Mechanisms of Action: Engineering... | 90 |
 | 20 | [[Desirable Difficulty]] | — | — | 4\. Mechanisms of Action: Engineering... | 93 |
 | 21 | [[Coupling]] | — | — | 4\. Mechanisms of Action: Engineering... | 95 |
@@ -296,7 +296,7 @@ extraction_summary:
 | 27 | [[Mihaly Csikszentmihalyi]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
 | 28 | [[Flow State]] | — | — | 6\. Discussion: The Exocortex and Hom... | 116 |
 | 29 | [[Biomimicry in Engineering]] | — | — | 7\. Conclusion | 129 |
-| 30 | [[Complex Adaptive Systems]] | — | — | 7\. Conclusion | 130 |
+| 30 | [[Complex-Adaptive-Systems|Complex Adaptive Systems]] | — | — | 7\. Conclusion | 130 |
 | 31 | [[Urban Planning]] | — | — | 7\. Conclusion | 131 |
 | 32 | [[Control Theory]] | — | — | 7\. Conclusion | 132 |
 
@@ -418,8 +418,8 @@ $$
 - [[Antifragility]]
 - [[Biomimicry in Engineering]]
 - [[Cognitive Friction]]
-- [[Cognitive Load Theory]]
-- [[Complex Adaptive Systems]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Control Theory]]
 - [[Coupling]]
 - [[Cybernetics]]
@@ -430,7 +430,7 @@ $$
 - [[Flow State]]
 - [[Friction]]
 - [[Homeostasis]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Entropy]]
 - [[Information Theory]]
 - [[Iterative Design]]

@@ -6,7 +6,7 @@
 
 **Status**: 🌱 Budding  
 **Confidence**: ⭐⭐⭐⭐☆ Established  
-**Domain**: [[Epistemology]], [[Cognitive Science]], [[Virtue Ethics]], [[Social Psychology]]  
+**Domain**: [[Epistemic-Autonomy-—-Epistemology|Epistemology]], [[Cognitive-Science|Cognitive Science]], [[Virtue Ethics]], [[Social Psychology]]  
 **Prerequisites**: [[Basic Epistemology]], [[Cognitive Bias Fundamentals]], [[Evolutionary Psychology Principles]]  
 **Complexity**: ⭐⭐⭐⭐☆ Advanced
 
@@ -18,7 +18,7 @@ Epistemic vigilance and epistemic humility represent two essential but distinct 
 
 These two constructs emerge from different intellectual traditions—epistemic vigilance from evolutionary cognitive science and the study of [[Argumentative Theory of Reasoning]], epistemic humility from virtue epistemology and the philosophical analysis of intellectual character—yet they address complementary aspects of the fundamental epistemological challenge: *How should rational agents calibrate their confidence in beliefs when operating with imperfect information-gathering capacities in social environments containing both reliable and unreliable sources?*
 
-The tension between these mechanisms creates productive cognitive dynamics: epistemic vigilance without humility risks defensive dogmatism and conspiratorial thinking, while epistemic humility without vigilance produces gullibility and exploitability. Understanding how these systems interact, when they succeed, and why they systematically fail provides essential insights for improving individual rationality, designing trustworthy information ecosystems, and cultivating what [[Virtue Epistemology]] identifies as intellectual character excellence.
+The tension between these mechanisms creates productive cognitive dynamics: epistemic vigilance without humility risks defensive dogmatism and conspiratorial thinking, while epistemic humility without vigilance produces gullibility and exploitability. Understanding how these systems interact, when they succeed, and why they systematically fail provides essential insights for improving individual rationality, designing trustworthy information ecosystems, and cultivating what [[Virtue-Epistemology|Virtue Epistemology]] identifies as intellectual character excellence.
 
 ---
 
@@ -72,11 +72,11 @@ This taxonomy matters for epistemic vigilance because the appropriate response d
 
 Epistemic vigilance must be distinguished from several related but distinct cognitive phenomena:
 
-- **[[Confirmation Bias]]**: The tendency to seek, interpret, and remember information that confirms pre-existing beliefs. While epistemic vigilance includes content plausibility evaluation that can produce confirmatory patterns, confirmation bias represents a systematic distortion rather than an adaptive calibration mechanism.
+- **[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]**: The tendency to seek, interpret, and remember information that confirms pre-existing beliefs. While epistemic vigilance includes content plausibility evaluation that can produce confirmatory patterns, confirmation bias represents a systematic distortion rather than an adaptive calibration mechanism.
 
-- **[[Motivated Reasoning]]**: Goal-directed biasing of information processing to reach predetermined conclusions. Epistemic vigilance aims at accuracy; motivated reasoning aims at arriving at preferred conclusions regardless of evidence.
+- **[[Motivated-Reasoning|Motivated Reasoning]]**: Goal-directed biasing of information processing to reach predetermined conclusions. Epistemic vigilance aims at accuracy; motivated reasoning aims at arriving at preferred conclusions regardless of evidence.
 
-- **[[Critical Thinking]]**: The deliberate, systematic, reflective evaluation of arguments and evidence. While epistemic vigilance operates largely automatically, critical thinking involves conscious deployment of reasoning standards and analytical methods. Critical thinking can enhance epistemic vigilance but operates through different cognitive mechanisms.
+- **[[Critical-Thinking|Critical Thinking]]**: The deliberate, systematic, reflective evaluation of arguments and evidence. While epistemic vigilance operates largely automatically, critical thinking involves conscious deployment of reasoning standards and analytical methods. Critical thinking can enhance epistemic vigilance but operates through different cognitive mechanisms.
 
 - **General Skepticism**: A philosophical position of systematic doubt toward knowledge claims. Epistemic vigilance is calibrated and context-sensitive, increasing or decreasing based on source and content features; philosophical skepticism maintains consistent doubt regardless of evidential quality.
 
@@ -109,7 +109,7 @@ A practical implementation might involve:
 
 **Limitations and Boundary Conditions**: Epistemic vigilance faces several systematic limitations:
 
-**Computational intractability**: Thoroughly evaluating every incoming claim would require infinite cognitive resources. Humans necessarily rely on heuristics—mental shortcuts that work well on average but produce predictable errors. For instance, the [[Availability Heuristic]] can distort source reliability assessment: recent memorable examples of a source being correct (or incorrect) exert disproportionate influence compared to actual long-term accuracy rates.
+**Computational intractability**: Thoroughly evaluating every incoming claim would require infinite cognitive resources. Humans necessarily rely on heuristics—mental shortcuts that work well on average but produce predictable errors. For instance, the [[Availability-Heuristic|Availability Heuristic]] can distort source reliability assessment: recent memorable examples of a source being correct (or incorrect) exert disproportionate influence compared to actual long-term accuracy rates.
 
 **Adversarial dynamics**: When information sources know they're being evaluated via epistemic vigilance mechanisms, they adapt strategically. Sophisticated deceivers deploy **credibility-enhancing display** (CREDs)—costly signals of belief sincerity like apparent self-sacrifice or consistency of behavior—to circumvent vigilance. This creates an evolutionary arms race between deception sophistication and detection sensitivity.
 
@@ -126,7 +126,7 @@ A practical implementation might involve:
 [!definition] Core Definition: Epistemic Humility  
 **Epistemic humility** is the intellectual virtue, metacognitive capacity, and dispositional orientation characterized by appropriate attentiveness to and acknowledgment of the limitations of one's knowledge, the fallibility of one's beliefs, and one's intellectual dependence on others. Unlike false modesty or intellectual timidity, epistemic humility involves **calibrated confidence**—being neither overconfident nor underconfident, but accurately assessing the strength of evidence and reasoning supporting one's beliefs.
 
-The significance of epistemic humility emerges from pervasive human tendencies toward **overconfidence** and the [[Dunning-Kruger Effect]]—the phenomenon whereby individuals with limited competence in a domain systematically overestimate their knowledge and abilities. Research demonstrates that people are consistently overconfident in the accuracy of their beliefs, the completeness of their information, and the quality of their reasoning. Epistemic humility provides the corrective: a disposition toward questioning one's own certainty, seeking disconfirming evidence, and maintaining awareness of the complexity and contestability of most interesting questions.
+The significance of epistemic humility emerges from pervasive human tendencies toward **overconfidence** and the [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]—the phenomenon whereby individuals with limited competence in a domain systematically overestimate their knowledge and abilities. Research demonstrates that people are consistently overconfident in the accuracy of their beliefs, the completeness of their information, and the quality of their reasoning. Epistemic humility provides the corrective: a disposition toward questioning one's own certainty, seeking disconfirming evidence, and maintaining awareness of the complexity and contestability of most interesting questions.
 
 **Core Mechanisms**: Epistemic humility operates through several integrated psychological and philosophical dimensions:
 
@@ -140,7 +140,7 @@ The significance of epistemic humility emerges from pervasive human tendencies t
 
 **Historical and Philosophical Development**: The concept of epistemic humility has deep roots in multiple philosophical traditions. **Socratic epistemology**, as portrayed in Plato's dialogues, centers on the claim "I know that I know nothing"—not as absolute skepticism but as recognition that most people mistake opinion for knowledge. Socrates identified his wisdom precisely in this metacognitive awareness of ignorance, while his interlocutors exhibited the vice of unwarranted confidence.
 
-In [[Virtue Epistemology]], epistemic humility features prominently in contemporary accounts of intellectual virtues. Linda Zagzebski (1996) analyzes it as a component of intellectual excellence; Jason Baehr (2011) develops it as essential to good epistemic character; Dennis Whitcomb, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder (2017) provide the most systematic recent analysis, defining epistemic humility as involving: (a) owning one's limitations, (b) being appropriately attentive to those limitations, and (c) responding well to criticism and correction.
+In [[Virtue-Epistemology|Virtue Epistemology]], epistemic humility features prominently in contemporary accounts of intellectual virtues. Linda Zagzebski (1996) analyzes it as a component of intellectual excellence; Jason Baehr (2011) develops it as essential to good epistemic character; Dennis Whitcomb, Heather Battaly, Jason Baehr, and Daniel Howard-Snyder (2017) provide the most systematic recent analysis, defining epistemic humility as involving: (a) owning one's limitations, (b) being appropriately attentive to those limitations, and (c) responding well to criticism and correction.
 
 The [[Intellectual Humility Project]], funded by the John Templeton Foundation and led by Ian Church and Peter Samuelson, has generated extensive empirical research on epistemic humility since 2015, developing psychometric instruments to measure individual differences and exploring relationships between epistemic humility and outcomes including political polarization, academic achievement, and interpersonal relationships.
 
@@ -327,5 +327,5 @@ These questions represent not gaps to be quickly filled but enduring research pr
 ---
 
 **Status**: 🌱 Budding → 🌿 Developing  
-**Next Review**: After completing [[Argumentative Theory of Reasoning]] and [[Virtue Epistemology]] entries  
-**Cross-Reference Update Needed**: [[Socratic Method]], [[Stoic Epistemology]], [[Paul-Elder Framework]], [[Dunning-Kruger Effect]]
+**Next Review**: After completing [[Argumentative Theory of Reasoning]] and [[Virtue-Epistemology|Virtue Epistemology]] entries  
+**Cross-Reference Update Needed**: [[Socratic-Method|Socratic Method]], [[Stoic Epistemology]], [[Paul-Elder Framework]], [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]

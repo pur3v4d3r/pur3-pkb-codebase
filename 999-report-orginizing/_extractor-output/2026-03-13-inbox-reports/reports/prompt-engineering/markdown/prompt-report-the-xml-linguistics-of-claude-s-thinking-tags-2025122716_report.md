@@ -170,7 +170,7 @@ extraction_summary:
 > 
 > Structured prompts using descriptive XML tags can increase LLM accuracy, reduce ambiguity, and improve reasoning by providing clear semantic context. Research documents improvements of up to 40% in response quality when switching from unstructured to well-designed XML prompts.
 > 
-> The mechanism: Tags reduce the [[Working Memory]] burden on the model's attention mechanism by creating explicit boundaries. Rather than inferring where instructions end and examples begin, the model receives structural cues that clarify scope.
+> The mechanism: Tags reduce the [[Working-Memory|Working Memory]] burden on the model's attention mechanism by creating explicit boundaries. Rather than inferring where instructions end and examples begin, the model receives structural cues that clarify scope.
 
 #### 4. [METHODOLOGY-AND-SOURCES] Untitled *(Line 215)*
 
@@ -218,7 +218,7 @@ extraction_summary:
 > [!key-claim] Untitled
 > **Integration with Cognitive Load Theory**
 > 
-> [[Cognitive Load Theory]] distinguishes three load types: ^verified
+> [[Cognitive-Load-Theory|Cognitive Load Theory]] distinguishes three load types: ^verified
 > - **Intrinsic Load**: Complexity inherent to the task
 > - **Extraneous Load**: Imposed by poor presentation
 > - **Germane Load**: Productive effort toward learning/problem-solving
@@ -530,18 +530,18 @@ extraction_summary:
 - [[Chain of Thought]]
 - [[Chain of Verification]]
 - [[Chain of Verification Implementations]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in AI Interaction]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cross-Model Prompt Portability Strategies]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition in Human-AI Systems]]
 - [[Few-Shot Prompting]]
 - [[Formal Grammars for Prompt Engineering]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Structured Outputs]]
 - [[The XML Linguistics of Claude's Thinking Tags]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
@@ -549,16 +549,16 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[**The XML Linguistics of Claude's Thinking Tags
 **]] | — | — | Foundational Understanding | 101 |
-| 2 | [[Distributed Cognition]] | — | — | 1.1 The Foundational Mechanism: Tags ... | 152 |
-| 3 | [[Working Memory]] | — | — | 1.1 The Foundational Mechanism: Tags ... | 192 |
-| 4 | [[Cognitive Offloading]] | — | — | 1.3 Distributed Cognition: Offloading... | 229 |
-| 5 | [[Cognitive Load Theory]] | — | — | 1.4 Theoretical Grounding: Why Struct... | 297 |
+| 2 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 1.1 The Foundational Mechanism: Tags ... | 152 |
+| 3 | [[Working-Memory|Working Memory]] | — | — | 1.1 The Foundational Mechanism: Tags ... | 192 |
+| 4 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | 1.3 Distributed Cognition: Offloading... | 229 |
+| 5 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 1.4 Theoretical Grounding: Why Struct... | 297 |
 | 6 | [[Chain of Thought]] | — | — | **Function Class 2: Reasoning Phase M... | 358 |
 | 7 | [[Structured Outputs]] | — | — | **Function Class 5: Data Structuring** | 463 |
 | 8 | [[Chain of Thought]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 506 |
 | 9 | [[Chain of Verification]] | — | — | 2.2 Mapping Tags to Reasoning Operations | 511 |
 | 10 | [[Few-Shot Prompting]] | — | — | **Pattern 3: The Multi-Shot Example C... | 1175 |
-| 11 | [[Retrieval-Augmented Generation]] | — | — | 7.2 Future Directions | 1318 |
+| 11 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | 7.2 Future Directions | 1318 |
 | 12 | [[Advanced Prompt Engineering Architectures]] | — | — | 🔗 Related Topics for PKB Expansion | 1365 |
 | 13 | [[Cognitive Load Theory in AI Interaction]] | — | — | 🔗 Related Topics for PKB Expansion | 1371 |
 | 14 | [[Chain of Verification Implementations]] | — | — | 🔗 Related Topics for PKB Expansion | 1377 |
@@ -1568,18 +1568,18 @@ description includes Review
 - [[Chain of Thought]]
 - [[Chain of Verification]]
 - [[Chain of Verification Implementations]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in AI Interaction]]
-- [[Cognitive Offloading]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
 - [[Cross-Model Prompt Portability Strategies]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Distributed Cognition in Human-AI Systems]]
 - [[Few-Shot Prompting]]
 - [[Formal Grammars for Prompt Engineering]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Structured Outputs]]
 - [[The XML Linguistics of Claude's Thinking Tags]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ---
 

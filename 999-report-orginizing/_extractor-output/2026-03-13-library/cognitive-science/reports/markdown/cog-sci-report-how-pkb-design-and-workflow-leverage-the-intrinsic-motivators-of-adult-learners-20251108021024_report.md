@@ -141,7 +141,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 35)*
 
 > [!abstract] Untitled
-> This comprehensive psychological analysis examines the intricate relationship between [[Personal Knowledge Base]] (PKB) design, [[Adult Learning Theory]], and sustained system engagement. Drawing upon established frameworks in cognitive and motivational psychology—particularly [[Malcolm Knowles]]' [[Andragogy]], [[Edward Deci]] and [[Richard Ryan]]'s [[Self Determination Theory|Self-Determination Theory]] (SDT), and [[Mihaly Csikszentmihalyi]]'s [[Flow Theory]]—this report reveals how intentional system architecture can either amplify or undermine the intrinsic motivational structures that drive adult learners. The analysis demonstrates that [[Knowledge Attrition]] in PKB systems is not merely a technical problem of information organization, but rather a profound psychological phenomenon rooted in the misalignment between system design and the fundamental needs for [[Autonomy]], [[Competence]], and [[Relatedness]]. By synthesizing research from educational psychology, behavioral design, and knowledge management, this report provides a theoretical foundation for understanding why most PKB implementations fail to achieve sustained engagement, and more importantly, establishes evidence-based design principles that leverage intrinsic motivation to prevent system abandonment and knowledge decay.
+> This comprehensive psychological analysis examines the intricate relationship between [[Personal-Knowledge-Base|Personal Knowledge Base]] (PKB) design, [[Adult Learning Theory]], and sustained system engagement. Drawing upon established frameworks in cognitive and motivational psychology—particularly [[Malcolm Knowles]]' [[Andragogy]], [[Edward Deci]] and [[Richard Ryan]]'s [[Self-Determination-Theory|Self-Determination Theory]] (SDT), and [[Mihaly Csikszentmihalyi]]'s [[Flow Theory]]—this report reveals how intentional system architecture can either amplify or undermine the intrinsic motivational structures that drive adult learners. The analysis demonstrates that [[Knowledge Attrition]] in PKB systems is not merely a technical problem of information organization, but rather a profound psychological phenomenon rooted in the misalignment between system design and the fundamental needs for [[Autonomy]], [[Competence]], and [[Relatedness]]. By synthesizing research from educational psychology, behavioral design, and knowledge management, this report provides a theoretical foundation for understanding why most PKB implementations fail to achieve sustained engagement, and more importantly, establishes evidence-based design principles that leverage intrinsic motivation to prevent system abandonment and knowledge decay.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 40)*
 
@@ -306,7 +306,7 @@ extraction_summary:
 - [[Anki]]
 - [[Attention Economics and Knowledge Work]]
 - [[Autonomy]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in Educational Design]]
 - [[Competence]]
 - [[David Allen]]
@@ -327,14 +327,14 @@ extraction_summary:
 - [[PKB Psychology]]
 - [[PKB Workflow Psychology]]
 - [[Pedagogy]]
-- [[Personal Knowledge Base]]
-- [[Progressive Disclosure]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Progressive Enhancement]]
 - [[Relatedness]]
 - [[Richard Ryan]]
 - [[Roam Research]]
-- [[Self Determination Theory]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Spaced Repetition Systems and Long-term Memory]]
 - [[Sustained Learning Engagement]]
 - [[Zettelkasten]]
@@ -349,31 +349,31 @@ extraction_summary:
 | 3 | [[Knowledge System Design]] | — | — | Document Start | 33 |
 | 4 | [[Sustained Learning Engagement]] | — | — | Document Start | 33 |
 | 5 | [[PKB Workflow Psychology]] | — | — | Document Start | 33 |
-| 6 | [[Personal Knowledge Base]] | — | — | Document Start | 36 |
+| 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 36 |
 | 7 | [[Adult Learning Theory]] | — | — | Document Start | 36 |
 | 8 | [[Malcolm Knowles]] | — | — | Document Start | 36 |
 | 9 | [[Andragogy]] | — | — | Document Start | 36 |
 | 10 | [[Edward Deci]] | — | — | Document Start | 36 |
 | 11 | [[Richard Ryan]] | — | — | Document Start | 36 |
-| 12 | [[Self Determination Theory]] | Self-Determination Theory | — | Document Start | 36 |
+| 12 | [[Self-Determination-Theory|Self Determination Theory]] | Self-Determination Theory | — | Document Start | 36 |
 | 13 | [[Mihaly Csikszentmihalyi]] | — | — | Document Start | 36 |
 | 14 | [[Flow Theory]] | — | — | Document Start | 36 |
 | 15 | [[Knowledge Attrition]] | — | — | Document Start | 36 |
 | 16 | [[Autonomy]] | — | — | Document Start | 36 |
 | 17 | [[Competence]] | — | — | Document Start | 36 |
 | 18 | [[Relatedness]] | — | — | Document Start | 36 |
-| 19 | [[Personal Knowledge Base]] | — | — | 🎯 The Fundamental Paradox of Personal... | 43 |
+| 19 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 🎯 The Fundamental Paradox of Personal... | 43 |
 | 20 | [[Malcolm Knowles]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
 | 21 | [[Andragogy]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
 | 22 | [[Pedagogy]] | — | — | The Andragogical Revolution: Malcolm ... | 56 |
 | 23 | [[Zettelkasten]] | — | — | The Andragogical Revolution: Malcolm ... | 63 |
-| 24 | [[Self-Determination Theory]] | — | — | Self-Determination Theory: The Three ... | 81 |
+| 24 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 25 | [[Edward Deci]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 26 | [[Richard Ryan]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 27 | [[Autonomy]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 28 | [[Competence]] | — | — | Self-Determination Theory: The Three ... | 81 |
 | 29 | [[Relatedness]] | — | — | Self-Determination Theory: The Three ... | 81 |
-| 30 | [[Progressive Disclosure]] | — | — | Self-Determination Theory: The Three ... | 103 |
+| 30 | [[Progressive-Disclosure|Progressive Disclosure]] | — | — | Self-Determination Theory: The Three ... | 103 |
 | 31 | [[Mihaly Csikszentmihalyi]] | — | — | Flow Theory: The Psychology of Optima... | 121 |
 | 32 | [[Flow Theory]] | — | — | Flow Theory: The Psychology of Optima... | 121 |
 | 33 | [[Hermann Ebbinghaus]] | — | — | The Forgetting Curve and Its Implicat... | 147 |
@@ -381,7 +381,7 @@ extraction_summary:
 | 35 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Networked Thought]] | — | — | The Forgetting Curve and Its Implicat... | 154 |
 | 36 | [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | The Forgetting Curve and Its Implicat... | 156 |
 | 37 | [[Anki]] | — | — | The Forgetting Curve and Its Implicat... | 156 |
-| 38 | [[Cognitive Load Theory]] | — | — | Cognitive Load Theory and System Comp... | 167 |
+| 38 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory and System Comp... | 167 |
 | 39 | [[Graceful Degradation]] | — | — | Principle One: Honor Autonomy Through... | 194 |
 | 40 | [[Progressive Enhancement]] | — | — | Principle Seven: Embrace Progressive ... | 258 |
 | 41 | [[David Allen]] | — | — | The Capture-Develop-Review Cycle | 268 |
@@ -493,7 +493,7 @@ I'll conduct comprehensive research on the psychological foundations of PKB desi
 - [[Anki]]
 - [[Attention Economics and Knowledge Work]]
 - [[Autonomy]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in Educational Design]]
 - [[Competence]]
 - [[David Allen]]
@@ -514,14 +514,14 @@ I'll conduct comprehensive research on the psychological foundations of PKB desi
 - [[PKB Psychology]]
 - [[PKB Workflow Psychology]]
 - [[Pedagogy]]
-- [[Personal Knowledge Base]]
-- [[Progressive Disclosure]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Progressive Enhancement]]
 - [[Relatedness]]
 - [[Richard Ryan]]
 - [[Roam Research]]
-- [[Self Determination Theory]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Spaced Repetition Systems and Long-term Memory]]
 - [[Sustained Learning Engagement]]
 - [[Zettelkasten]]

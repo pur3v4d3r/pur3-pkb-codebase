@@ -286,7 +286,7 @@ extraction_summary:
 > - 🔑 **Need examples to guide** → Use [[CARE]]
 > - 🔑 **Audience-aware communication** → Use [[COSTAR]]
 > - 🔑 **Analytical + exploratory** → Use [[CRISPE]]
-> - 🔑 **Complex reasoning required** → Use [[CoT]], [[ToT]], or [[ReAct]]
+> - 🔑 **Complex reasoning required** → Use [[Causality-Orientations-Theory|CoT]], [[ToT]], or [[ReAct]]
 > - 🔑 **Need systematic refinement** → Use [[5C Framework]]
 
 #### 12. [DEFINITION] Untitled *(Line 213)*
@@ -594,9 +594,9 @@ extraction_summary:
 - [[COSTAR]]
 - [[CRISPE]]
 - [[Chain-of-Thought]]
-- [[CoT]]
+- [[Causality-Orientations-Theory|CoT]]
 - [[Cognitive Reasoning Frameworks]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Completeness]]
 - [[Consistency]]
 - [[Constitutional AI and Value Alignment in Prompts]]
@@ -605,17 +605,17 @@ extraction_summary:
 - [[Cost Optimization Strategies for Production LLMs]]
 - [[Cross-Lingual Prompt Engineering]]
 - [[Domain-Specific Framework Design Patterns]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Few-Shot Learning Best Practices]]
 - [[Framework Taxonomy]]
 - [[Generative Ai]]
 - [[Hallucination Mitigation Strategies]]
 - [[Human-Machine Communication]]
 - [[Hybrid Prompting]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Theory]]
 - [[Instruction Following]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[LLM]]
 - [[LLM Architecture and Its Impact on Prompting]]
 - [[LLM Interaction Methodologies]]
@@ -687,7 +687,7 @@ extraction_summary:
 | 16 | [[Generative Ai]] | — | — | The Genesis of Structured Prompting | 69 |
 | 17 | [[language models]] | — | — | The Genesis of Structured Prompting | 69 |
 | 18 | [[AI systems]] | — | — | The Genesis of Structured Prompting | 69 |
-| 19 | [[Cognitive Science]] | — | — | The Genesis of Structured Prompting | 71 |
+| 19 | [[Cognitive-Science|Cognitive Science]] | — | — | The Genesis of Structured Prompting | 71 |
 | 20 | [[Linguistics]] | — | — | The Genesis of Structured Prompting | 71 |
 | 21 | [[Information Theory]] | — | — | The Genesis of Structured Prompting | 71 |
 | 22 | [[Semantic Precision]] | — | — | The Genesis of Structured Prompting | 71 |
@@ -696,11 +696,11 @@ extraction_summary:
 | 25 | [[user interface design]] | — | — | The Genesis of Structured Prompting | 73 |
 | 26 | [[human-computer interaction]] | — | — | The Genesis of Structured Prompting | 73 |
 | 27 | [[Neural Networks]] | — | — | The Genesis of Structured Prompting | 77 |
-| 28 | [[Dual-Process Theory]] | — | — | Theoretical Models of Interaction | 95 |
-| 29 | [[Information Architecture]] | — | — | Theoretical Models of Interaction | 97 |
+| 28 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Theoretical Models of Interaction | 95 |
+| 29 | [[Information-Architecture|Information Architecture]] | — | — | Theoretical Models of Interaction | 97 |
 | 30 | [[Library Science]] | — | — | Theoretical Models of Interaction | 97 |
 | 31 | [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] | — | — | Theoretical Models of Interaction | 97 |
-| 32 | [[Instructional Design]] | — | — | Theoretical Models of Interaction | 99 |
+| 32 | [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]] | — | — | Theoretical Models of Interaction | 99 |
 | 33 | [[attention mechanisms]] | — | — | Theoretical Models of Interaction | 103 |
 | 34 | [[Tokenization]] | — | — | Theoretical Models of Interaction | 103 |
 | 35 | [[training objectives]] | — | — | Theoretical Models of Interaction | 103 |
@@ -716,7 +716,7 @@ extraction_summary:
 | 45 | [[APE]] | — | — | Classification by Complexity Level | 136 |
 | 46 | [[CARE]] | — | — | Classification by Complexity Level | 137 |
 | 47 | [[Chain-of-Thought]] | — | — | Classification by Complexity Level | 150 |
-| 48 | [[CoT]] | — | — | Classification by Complexity Level | 150 |
+| 48 | [[Causality-Orientations-Theory|CoT]] | — | — | Classification by Complexity Level | 150 |
 | 49 | [[Tree-of-Thoughts]] | — | — | Classification by Complexity Level | 151 |
 | 50 | [[ToT]] | — | — | Classification by Complexity Level | 151 |
 | 51 | [[ReAct]] | — | — | Classification by Complexity Level | 152 |
@@ -736,13 +736,13 @@ extraction_summary:
 | 65 | [[CARE]] | — | — | Comparative Framework Analysis | 203 |
 | 66 | [[COSTAR]] | — | — | Comparative Framework Analysis | 204 |
 | 67 | [[CRISPE]] | — | — | Comparative Framework Analysis | 205 |
-| 68 | [[CoT]] | — | — | Comparative Framework Analysis | 206 |
+| 68 | [[Causality-Orientations-Theory|CoT]] | — | — | Comparative Framework Analysis | 206 |
 | 69 | [[ToT]] | — | — | Comparative Framework Analysis | 206 |
 | 70 | [[ReAct]] | — | — | Comparative Framework Analysis | 206 |
 | 71 | [[5C Framework]] | — | — | Comparative Framework Analysis | 207 |
 | 72 | [[Cognitive Reasoning Frameworks]] | — | — | 3️⃣ 🧠 Cognitive Reasoning Frameworks | 214 |
 | 73 | [[Large Language Models]] | — | — | 3️⃣ 🧠 Cognitive Reasoning Frameworks | 215 |
-| 74 | [[CoT]] | — | — | Comparative Analysis of Reasoning Fra... | 386 |
+| 74 | [[Causality-Orientations-Theory|CoT]] | — | — | Comparative Analysis of Reasoning Fra... | 386 |
 | 75 | [[ToT]] | — | — | Comparative Analysis of Reasoning Fra... | 387 |
 | 76 | [[ReAct]] | — | — | Comparative Analysis of Reasoning Fra... | 388 |
 | 77 | [[Self-Consistency]] | — | — | Comparative Analysis of Reasoning Fra... | 389 |
@@ -781,7 +781,7 @@ extraction_summary:
 | 110 | [[RACE]] | — | — | Cognitive Models for Framework Selection | 1249 |
 | 111 | [[CARE]] | — | — | Cognitive Models for Framework Selection | 1249 |
 | 112 | [[APE]] | — | — | Cognitive Models for Framework Selection | 1249 |
-| 113 | [[CoT]] | — | — | Cognitive Models for Framework Selection | 1256 |
+| 113 | [[Causality-Orientations-Theory|CoT]] | — | — | Cognitive Models for Framework Selection | 1256 |
 | 114 | [[ToT]] | — | — | Cognitive Models for Framework Selection | 1256 |
 | 115 | [[ReAct]] | — | — | Cognitive Models for Framework Selection | 1256 |
 | 116 | [[progressive enhancement]] | — | — | Practical Integration Wisdom | 1337 |
@@ -965,7 +965,7 @@ I'll create a comprehensive reference document on Prompt Engineering Frameworks.
 
 | Framework | Reasoning Pattern | External Tools | Computational Cost | Best Use Case |
 | --- | --- | --- | --- | --- |
-| [[CoT]] | Linear, sequential | No | Low | Step-by-step logical problems |
+| [[Causality-Orientations-Theory|CoT]] | Linear, sequential | No | Low | Step-by-step logical problems |
 | [[ToT]] | Branching, tree-based | No | High | Multi-path exploration problems |
 | [[ReAct]] | Cyclic, tool-augmented | Yes | Medium-High | Factual tasks needing verification |
 | [[Self-Consistency]] | Parallel sampling | No | Very High | Critical accuracy requirements |
@@ -1056,9 +1056,9 @@ $$
 - [[COSTAR]]
 - [[CRISPE]]
 - [[Chain-of-Thought]]
-- [[CoT]]
+- [[Causality-Orientations-Theory|CoT]]
 - [[Cognitive Reasoning Frameworks]]
-- [[Cognitive Science]]
+- [[Cognitive-Science|Cognitive Science]]
 - [[Completeness]]
 - [[Consistency]]
 - [[Constitutional AI and Value Alignment in Prompts]]
@@ -1067,17 +1067,17 @@ $$
 - [[Cost Optimization Strategies for Production LLMs]]
 - [[Cross-Lingual Prompt Engineering]]
 - [[Domain-Specific Framework Design Patterns]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Few-Shot Learning Best Practices]]
 - [[Framework Taxonomy]]
 - [[Generative Ai]]
 - [[Hallucination Mitigation Strategies]]
 - [[Human-Machine Communication]]
 - [[Hybrid Prompting]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Theory]]
 - [[Instruction Following]]
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[LLM]]
 - [[LLM Architecture and Its Impact on Prompting]]
 - [[LLM Interaction Methodologies]]

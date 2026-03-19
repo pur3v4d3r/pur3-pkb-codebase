@@ -219,7 +219,7 @@ extraction_summary:
 #### 15. [ANALOGY] Untitled *(Line 134)*
 
 > [!analogy] Untitled
-> - **To understand** [[Metacognitive Monitoring]], **imagine** a master conductor observing an orchestra during rehearsal. The conductor doesn't play any instrument directly but constantly monitors each section's performance, detecting when the strings are slightly behind the beat, when the brass overpowers the woodwinds, or when a passage lacks emotional depth. Just as the conductor uses this monitoring to guide the orchestra through gestures and instructions, metacognitive monitoring provides the information needed to guide cognitive control, adjusting mental effort, switching strategies, or redirecting attention to optimize cognitive performance.
+> - **To understand** [[Metacognitive-Monitoring|Metacognitive Monitoring]], **imagine** a master conductor observing an orchestra during rehearsal. The conductor doesn't play any instrument directly but constantly monitors each section's performance, detecting when the strings are slightly behind the beat, when the brass overpowers the woodwinds, or when a passage lacks emotional depth. Just as the conductor uses this monitoring to guide the orchestra through gestures and instructions, metacognitive monitoring provides the information needed to guide cognitive control, adjusting mental effort, switching strategies, or redirecting attention to optimize cognitive performance.
 
 #### 16. [EXAMPLE] Untitled *(Line 143)*
 
@@ -339,11 +339,11 @@ extraction_summary:
 > [!links-to-related-notes] Untitled
 > - Identify **three key terms** or **concepts** from this article.
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
-> 1. [[Metacognitive Calibration]]
+> 1. [[Metacognitive-Calibration|Metacognitive Calibration]]
 >     - The accuracy with which individuals' subjective confidence judgments align with their objective performance. Well-calibrated individuals accurately predict when they will succeed or fail, while poor calibration leads to overconfidence or underconfidence. Calibration develops through experience and feedback, requiring both accurate self-monitoring and realistic self-knowledge about one's capabilities in different domains.
-> 2. [[Cognitive Scaffolding]]
+> 2. [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 >     - The temporary support structures—whether provided by teachers, peers, or mental strategies—that enable learners to accomplish tasks beyond their current independent capability. As metacognitive abilities develop, external scaffolding is gradually internalized, transforming into self-scaffolding strategies that learners can deploy autonomously to support their own learning.
-> 3. [[Epistemic Vigilance]]
+> 3. [[Epistemic-Vigilance|Epistemic Vigilance]]
 >     - The metacognitive capacity to monitor and evaluate the credibility, consistency, and source of information, protecting against misinformation and faulty reasoning. This involves both monitoring one's own reasoning for errors and biases and critically evaluating external information sources, representing a crucial metacognitive skill for navigating information-rich environments.
 
 #### 33. [THOUGHTS] Untitled *(Line 334)*
@@ -374,14 +374,14 @@ extraction_summary:
 ### Unique Targets
 
 - [[Cartesian separation]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Constructivist Learning Theory]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[John Flavell]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Neuroimaging studies using fMRI and PET]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[phronesis]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]
@@ -393,17 +393,17 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[John Flavell]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 62 |
 | 2 | [[phronesis]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 64 |
-| 3 | [[Zone of Proximal Development]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 70 |
+| 3 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONA... | 70 |
 | 4 | [[prefrontal cortex]] | — | — | 4.1 NEURAL SUBSTRATES OF METACOGNITIV... | 122 |
-| 5 | [[Metacognitive Monitoring]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 135 |
+| 5 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 135 |
 | 6 | [[tip-of-the-tongue]] | — | — | 4.2 COGNITIVE MECHANISMS OF METACOGNI... | 141 |
 | 7 | [[Neuroimaging studies using fMRI and PET]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE | 164 |
 | 8 | [[Constructivist Learning Theory]] | — | — | 6.0 🌍 BROADER IMPLICATIONS | 195 |
 | 9 | [[reflective abstraction]] | — | — | 6.1 METACOGNITION AS THE ENGINE OF CO... | 203 |
 | 10 | [[Cartesian separation]] | — | — | 9.0 🧠 KEY QUESTIONS | 313 |
-| 11 | [[Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 327 |
-| 12 | [[Cognitive Scaffolding]] | — | — | 9.0 🧠 KEY QUESTIONS | 329 |
-| 13 | [[Epistemic Vigilance]] | — | — | 9.0 🧠 KEY QUESTIONS | 331 |
+| 11 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 327 |
+| 12 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | 9.0 🧠 KEY QUESTIONS | 329 |
+| 13 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | 9.0 🧠 KEY QUESTIONS | 331 |
 
 ---
 
@@ -451,14 +451,14 @@ I'll conduct comprehensive research on metacognition and its role as an integrat
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Cartesian separation]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Constructivist Learning Theory]]
-- [[Epistemic Vigilance]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[John Flavell]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Neuroimaging studies using fMRI and PET]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[phronesis]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]

@@ -168,7 +168,7 @@ extraction_summary:
 #### 7. [INSIGHT] 💡 Piaget and Dewey Revisited *(Line 216)*
 
 > [!insight] 💡 Piaget and Dewey Revisited
-> The Piagetian state of disequilibrium — the disruption that triggers accommodation — is the same cognitive event that [[Dewey's Reflective Thinking|Dewey]] called "felt difficulty" and that Report 01 identified as the activation condition for reflective inquiry. Both theorists, separated by disciplinary tradition, are describing the same phenomenon: the condition under which the mind cannot proceed automatically and is therefore required to engage in genuine constructive work. This retrospective homology deepens Report 01's account of inquiry activation by giving it a constructivist mechanism: inquiry is not merely *activated* by disequilibrium, it *is* the process of accommodation.
+> The Piagetian state of disequilibrium — the disruption that triggers accommodation — is the same cognitive event that [[Dewey|Dewey]] called "felt difficulty" and that Report 01 identified as the activation condition for reflective inquiry. Both theorists, separated by disciplinary tradition, are describing the same phenomenon: the condition under which the mind cannot proceed automatically and is therefore required to engage in genuine constructive work. This retrospective homology deepens Report 01's account of inquiry activation by giving it a constructivist mechanism: inquiry is not merely *activated* by disequilibrium, it *is* the process of accommodation.
 
 #### 8. [DEFINITION] 📖 Identified Regulation vs. Integrated Regulation *(Line 229)*
 
@@ -422,12 +422,12 @@ extraction_summary:
 
 - [[Albert Bandura]]
 - [[Autonomy-Supportive Teaching and Learning Environments]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Constructivism]]
 - [[Deci and Ryan]]
 - [[Deliberate Practice and Expert Development]]
 - [[Dewey's Reflective Thinking]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Deci]]
 - [[Gregory Schraw]]
 - [[Growth Mindset and Implicit Theories of Intelligence]]
@@ -439,29 +439,29 @@ extraction_summary:
 - [[Metacognition Awareness Inventory]]
 - [[Metacognitive Strategy]]
 - [[Metacognitive strategies]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Paul Pintrich]]
 - [[Personal Knowledge Management Systems and Spaced Repetition]]
-- [[Recursive Self-Authorship]]
+- [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Richard Ryan]]
 - [[SDT Internalization Continuum]]
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 178 |
-| 2 | [[Self-Regulated Learning]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 3 | [[Barry Zimmerman]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 2 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 3 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 4 | [[Paul Pintrich]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 5 | [[Winne and Hadwin]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 6 | [[Constructivism]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
@@ -469,24 +469,24 @@ extraction_summary:
 | 8 | [[Lev Vygotsky]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 9 | [[Jerome Bruner]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 10 | [[SDT Internalization Continuum]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 11 | [[Organismic Integration Theory]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
+| 11 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 12 | [[Metacognitive Strategy]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 13 | [[Gregory Schraw]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
 | 14 | [[Lovett et al.]] | — | — | Phase I — The Premise 🧭: The Paradox ... | 185 |
-| 15 | [[Self-Regulated Learning]] | — | — | The Self-Regulated Learning Tradition... | 199 |
+| 15 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Self-Regulated Learning Tradition... | 199 |
 | 16 | [[Albert Bandura]] | — | — | The Self-Regulated Learning Tradition... | 199 |
 | 17 | [[John Flavell]] | — | — | The Self-Regulated Learning Tradition... | 199 |
-| 18 | [[Barry Zimmerman]] | — | — | The Self-Regulated Learning Tradition... | 201 |
+| 18 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | The Self-Regulated Learning Tradition... | 201 |
 | 19 | [[Paul Pintrich]] | — | — | The Self-Regulated Learning Tradition... | 206 |
 | 20 | [[Constructivism]] | — | — | Constructivism: How Is Knowledge Built? | 212 |
 | 21 | [[Jean Piaget]] | — | — | Constructivism: How Is Knowledge Built? | 214 |
-| 22 | [[Schema Theory]] | schemas | — | Constructivism: How Is Knowledge Built? | 214 |
+| 22 | [[Schema-Theory|Schema Theory]] | schemas | — | Constructivism: How Is Knowledge Built? | 214 |
 | 23 | [[Dewey's Reflective Thinking]] | Dewey | — | Constructivism: How Is Knowledge Built? | 217 |
 | 24 | [[Lev Vygotsky]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
-| 25 | [[Zone of Proximal Development]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
+| 25 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: How Is Knowledge Built? | 219 |
 | 26 | [[Jerome Bruner]] | — | — | Constructivism: How Is Knowledge Built? | 221 |
-| 27 | [[Self-Determination Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
-| 28 | [[Organismic Integration Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
+| 27 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
+| 28 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | SDT's Internalization Continuum: How ... | 225 |
 | 29 | [[Edward Deci]] | — | — | SDT's Internalization Continuum: How ... | 232 |
 | 30 | [[Richard Ryan]] | — | — | SDT's Internalization Continuum: How ... | 232 |
 | 31 | [[Gregory Schraw]] | — | — | Metacognitive Strategy Research: What... | 236 |
@@ -495,9 +495,9 @@ extraction_summary:
 | 34 | [[Deci and Ryan]] | — | — | The Master Structural Homology: Two D... | 255 |
 | 35 | [[Dewey's Reflective Thinking]] | Report 01's | — | The Master Structural Homology: Two D... | 262 |
 | 36 | [[Metacognitive strategies]] | — | — | Metacognitive Strategies as the Opera... | 284 |
-| 37 | [[Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 300 |
-| 38 | [[Dunning-Kruger Effect]] | competence problem | — | Worked Example: The Autodidact at the... | 313 |
-| 39 | [[Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 355 |
+| 37 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 300 |
+| 38 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | competence problem | — | Worked Example: The Autodidact at the... | 313 |
+| 39 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Emergent Insight: Recursive Self-... | 355 |
 | 40 | [[Deliberate Practice and Expert Development]] | — | — | Expansion Topics for PKB Development | 453 |
 | 41 | [[Growth Mindset and Implicit Theories of Intelligence]] | — | — | Expansion Topics for PKB Development | 456 |
 | 42 | [[Transfer of Learning and Near vs. Far Transfer]] | — | — | Expansion Topics for PKB Development | 459 |
@@ -527,12 +527,12 @@ extraction_summary:
 
 - [[Albert Bandura]]
 - [[Autonomy-Supportive Teaching and Learning Environments]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Constructivism]]
 - [[Deci and Ryan]]
 - [[Deliberate Practice and Expert Development]]
 - [[Dewey's Reflective Thinking]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edward Deci]]
 - [[Gregory Schraw]]
 - [[Growth Mindset and Implicit Theories of Intelligence]]
@@ -544,43 +544,43 @@ extraction_summary:
 - [[Metacognition Awareness Inventory]]
 - [[Metacognitive Strategy]]
 - [[Metacognitive strategies]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Paul Pintrich]]
 - [[Personal Knowledge Management Systems and Spaced Repetition]]
-- [[Recursive Self-Authorship]]
+- [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[Richard Ryan]]
 - [[SDT Internalization Continuum]]
 - [[Scaffolded Fading and Gradual Release of Responsibility]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Transfer of Learning and Near vs. Far Transfer]]
 - [[Winne and Hadwin]]
 - [[Zettelkasten]]
 - [[Zimmerman]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Constructivism]]
-- [[Self-Determination Theory]]
-- [[Metacognitive Monitoring]]
-- [[Zone of Proximal Development]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 #### Related
 
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Deliberate Practice]]
 - [[Lifelong Learning]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Expert Development]]
 
 #### Broader
 
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Developmental Epistemology]]
 - [[Philosophy of Education]]
 

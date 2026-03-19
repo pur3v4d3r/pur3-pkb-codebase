@@ -127,12 +127,12 @@ extraction_summary:
 #### 2. [THE-PURPOSE] Untitled *(Line 32)*
 
 > [!the-purpose] Untitled
-> This article analyzes **[[Kolb's Experiential Learning Cycle]]** within a **[[Personal Knowledge Base]]** not as a static pedagogical tool, but as a dynamic, self-reinforcing learning system. Our goal is to map the structural architecture that enables transformation from raw experience into actionable knowledge, understand the feedback mechanisms that either amplify or constrain learning, and identify the high-leverage interventions that can shift a PKB from a passive repository into an active learning engine.
+> This article analyzes **[[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]** within a **[[Personal-Knowledge-Base|Personal Knowledge Base]]** not as a static pedagogical tool, but as a dynamic, self-reinforcing learning system. Our goal is to map the structural architecture that enables transformation from raw experience into actionable knowledge, understand the feedback mechanisms that either amplify or constrain learning, and identify the high-leverage interventions that can shift a PKB from a passive repository into an active learning engine.
 
 #### 3. [ABSTRACT] Untitled *(Line 37)*
 
 > [!abstract] Untitled
-> The integration of **[[David Kolb]]**'s **[[Experiential Learning Cycle]]** (**[[ELC]]**) within a **[[Personal Knowledge Base]]** (**[[PKB]]**) creates a complex adaptive learning system with measurable stocks (accumulated experiences, reflections, abstractions, and experimental results), dynamic flows (rates of capture, reflection depth, conceptualization quality, and experimentation frequency), and powerful feedback mechanisms. The system exhibits at least three major reinforcing loops—**[[Insight Compounding]]**, **[[Retrieval Practice]]**, and **[[Conceptual Network Effects]]**—balanced by constraining mechanisms including **[[Cognitive Load Management]]** and **[[Quality Control Gates]]**. The emergent properties of this system include **[[Cognitive Offload]]**, **[[Serendipitous Connection Discovery]]**, and the development of a **[[Personalized Epistemology]]**. High-leverage interventions exist at the level of information architecture, reflection prompts, and the fundamental paradigm shift from "knowledge collection" to "knowledge connection."
+> The integration of **[[David-Kolb|David Kolb]]**'s **[[Experiential Learning Cycle]]** (**[[ELC]]**) within a **[[Personal-Knowledge-Base|Personal Knowledge Base]]** (**[[PKB]]**) creates a complex adaptive learning system with measurable stocks (accumulated experiences, reflections, abstractions, and experimental results), dynamic flows (rates of capture, reflection depth, conceptualization quality, and experimentation frequency), and powerful feedback mechanisms. The system exhibits at least three major reinforcing loops—**[[Insight Compounding]]**, **[[Retrieval-Practice|Retrieval Practice]]**, and **[[Conceptual Network Effects]]**—balanced by constraining mechanisms including **[[Cognitive Load Management]]** and **[[Quality Control Gates]]**. The emergent properties of this system include **[[Cognitive Offload]]**, **[[Serendipitous Connection Discovery]]**, and the development of a **[[Personalized Epistemology]]**. High-leverage interventions exist at the level of information architecture, reflection prompts, and the fundamental paradigm shift from "knowledge collection" to "knowledge connection."
 
 #### 4. [THE-PURPOSE] Untitled *(Line 42)*
 
@@ -149,7 +149,7 @@ extraction_summary:
 
 > [!definition] Untitled
 > - **System Boundary:**
->       - **Inside the System:** The complete **[[Learning Workflow]]** from the moment an experience occurs through its capture in the PKB, subsequent reflection activities, abstraction into conceptual frameworks, active experimentation with new behaviors, and the recursive feedback from those experiments back into the system. This includes the **[[Note-Taking Infrastructure]]** (tools like **[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|Text-Generator]]**), the **[[Methodological Frameworks]]** employed (**[[Zettelkasten]]**, **[[Atomic Notes]]**), the **[[Cognitive Processes]]** of the learner, and the **[[Information Architecture]]** that structures knowledge relationships.
+>       - **Inside the System:** The complete **[[Learning Workflow]]** from the moment an experience occurs through its capture in the PKB, subsequent reflection activities, abstraction into conceptual frameworks, active experimentation with new behaviors, and the recursive feedback from those experiments back into the system. This includes the **[[Note-Taking Infrastructure]]** (tools like **[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian|Text-Generator]]**), the **[[Methodological Frameworks]]** employed (**[[Zettelkasten]]**, **[[Atomic-Notes|Atomic Notes]]**), the **[[Cognitive Processes]]** of the learner, and the **[[Information-Architecture|Information Architecture]]** that structures knowledge relationships.
 >       - **Outside the System (Environment):** The raw, unprocessed external world where experiences originate. External learning resources (books, courses, conversations) that haven't yet been processed through the cycle. Other people's knowledge systems. The biological constraints of human cognition (working memory limits, circadian rhythms affecting cognitive performance). External validation mechanisms (professional outcomes, academic assessments) that may inform but don't directly constitute the learning system itself.
 
 #### 7. [PRINCIPLE-POINT] Untitled *(Line 54)*
@@ -157,10 +157,10 @@ extraction_summary:
 > [!principle-point] Untitled
 > - **Key "Stocks" (The Accumulations):**
 >   	  - **[[Stock of Concrete Experiences]]:** The accumulated reservoir of captured experiences—fleeting notes, journal entries, event descriptions, practice logs, and documented encounters. This stock represents the raw material of learning, the "grist for the mill." In a PKB, this might manifest as **[[Daily Notes]]**, **[[Project Logs]]**, or **[[Experience Captures]]**. The size of this stock at any moment represents how much raw experiential data has been preserved for processing.
->   	  - **[[Stock of Reflective Observations]]:** The accumulated body of reflections on experiences—analysis notes, pattern identifications, emotional responses documented, and comparative observations linking new experiences to previous ones. This stock grows as the learner engages in **[[Reflective Observation]]**, creating notes that examine "what happened" and "what it means." In practice, these are often **[[Literature Notes]]**, **[[Reflection Prompts]]**, or **[[Comparative Analysis Notes]]**.
+>   	  - **[[Stock of Reflective Observations]]:** The accumulated body of reflections on experiences—analysis notes, pattern identifications, emotional responses documented, and comparative observations linking new experiences to previous ones. This stock grows as the learner engages in **[[Reflective-Observation|Reflective Observation]]**, creating notes that examine "what happened" and "what it means." In practice, these are often **[[Literature Notes]]**, **[[Reflection Prompts]]**, or **[[Comparative Analysis Notes]]**.
 >   	  - **[[Stock of Abstract Conceptualizations]]:** The accumulated theoretical frameworks, principles, models, and generalized understandings derived from reflections. This represents the **[[Permanent Notes]]** or **[[Atomic Concept Notes]]** in a **[[Zettelkasten]]** system—the distilled wisdom that transcends individual experiences. This is where experiential learning transforms into **[[Portable Knowledge]]** that can be applied across contexts.
 >   	  - **[[Stock of Experimental Results]]:** The accumulated evidence from testing conceptual frameworks in practice—documented outcomes of behavior changes, project results, failed experiments, and validated approaches. This stock includes **[[Success Patterns]]**, **[[Failure Post-Mortems]]**, and **[[Practice Logs]]** that close the learning loop by providing concrete feedback on whether abstractions work in reality.
->   	  - **[[Stock of Structural Knowledge]]:** The accumulated network of connections, **[[MOCs]]** (**[[Maps of Content]]**), tags, and links that create the **[[Knowledge Graph]]**. This meta-stock represents the *organization* and *accessibility* of knowledge—how findable and combinable the other stocks are.
+>   	  - **[[Stock of Structural Knowledge]]:** The accumulated network of connections, **[[Maps-of-Content-—-MOCs|MOCs]]** (**[[Maps-of-Content-—-MOCs|Maps of Content]]**), tags, and links that create the **[[Knowledge Graph]]**. This meta-stock represents the *organization* and *accessibility* of knowledge—how findable and combinable the other stocks are.
 
 #### 8. [PRINCIPLE-POINT] Untitled *(Line 62)*
 
@@ -188,8 +188,8 @@ extraction_summary:
 
 > [!example] Untitled
 > - **Reinforcing Loop 1: [[The Insight Compounding Loop]]**
->   	  - **How it Works:** The more **[[Abstract Conceptualizations]]** you accumulate in your PKB (Stock: *Conceptual Knowledge*), the richer your **[[Cognitive Scaffolding]]** becomes for interpreting new experiences. When you encounter a new experience, you can now reflect on it through the lens of *multiple* existing frameworks (enhanced **[[Reflective Observation]]**), which generates *deeper* insights than if you had no conceptual base. These deeper insights create *higher-quality* abstractions, which further enrich your conceptual base. The loop: **More Concepts → Richer Reflection → Deeper Insights → More/Better Concepts**.
->   	  - **Its Behavior:** This loop drives exponential growth in learning efficiency. The learner who has spent two years building a conceptual framework in their PKB can extract 10x more insight from an hour-long lecture than a novice can, because they have more "hooks" to hang new information on. This explains the **[[Matthew Effect]]** in learning: "To those who have understanding, more will be given." However, this same loop can create problematic **[[Confirmation Bias]]** if not balanced by loops that challenge existing frameworks.
+>   	  - **How it Works:** The more **[[Abstract Conceptualizations]]** you accumulate in your PKB (Stock: *Conceptual Knowledge*), the richer your **[[Cognitive-Scaffolding|Cognitive Scaffolding]]** becomes for interpreting new experiences. When you encounter a new experience, you can now reflect on it through the lens of *multiple* existing frameworks (enhanced **[[Reflective-Observation|Reflective Observation]]**), which generates *deeper* insights than if you had no conceptual base. These deeper insights create *higher-quality* abstractions, which further enrich your conceptual base. The loop: **More Concepts → Richer Reflection → Deeper Insights → More/Better Concepts**.
+>   	  - **Its Behavior:** This loop drives exponential growth in learning efficiency. The learner who has spent two years building a conceptual framework in their PKB can extract 10x more insight from an hour-long lecture than a novice can, because they have more "hooks" to hang new information on. This explains the **[[Matthew-Effect|Matthew Effect]]** in learning: "To those who have understanding, more will be given." However, this same loop can create problematic **[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]** if not balanced by loops that challenge existing frameworks.
 >   	  - **Systems Insight:** This is why consistent, incremental investment in a PKB yields non-linear returns. Early efforts feel inefficient—you're creating concepts with few connections. But after crossing a **[[Critical Mass Threshold]]** (often around 200-500 well-connected permanent notes), the system begins to "think alongside you," generating emergent insights from unexpected juxtapositions.
 
 #### 12. [EXAMPLE] Untitled *(Line 90)*
@@ -198,7 +198,7 @@ extraction_summary:
 > - **Reinforcing Loop 2: [[The Retrieval Practice Loop]]**
 >   	  - **How it Works:** Every time you successfully retrieve knowledge from your PKB to solve a real problem (Active Experimentation succeeds), you reinforce the **[[Retrieval Pathways]]** that led you to that knowledge. The success creates a positive emotional tag (**[[Affective Reinforcement]]**), making you more likely to return to the PKB for future problems. Additionally, using knowledge in practice reveals **[[Knowledge Gaps]]** and **[[Application Contexts]]** you hadn't considered, which motivates new reflection and refinement. The loop: **Successful Retrieval → Problem-Solving Success → Increased PKB Trust → More Frequent Retrieval Attempts → Stronger Retrieval Pathways**.
 >   	  - **Its Behavior:** This loop transforms a PKB from a "graveyard of good intentions" into a living tool. Users who experience early wins (solving a real problem using their notes) develop a habit of consulting their PKB, which leads to more wins, reinforcing the behavior. Conversely, users who experience early *failure* to retrieve useful knowledge may abandon the system entirely, creating a vicious cycle of declining use.
->   	  - **Systems Insight:** This loop explains the importance of **[[Quick Wins]]** in PKB adoption. Deliberately engineering early successes—perhaps by documenting solutions to recurring problems you face—can kickstart this reinforcing cycle. It's also why **[[Searchability]]** and **[[Information Architecture]]** are leverage points: if you can't find knowledge when you need it, this loop never initiates.
+>   	  - **Systems Insight:** This loop explains the importance of **[[Quick Wins]]** in PKB adoption. Deliberately engineering early successes—perhaps by documenting solutions to recurring problems you face—can kickstart this reinforcing cycle. It's also why **[[Searchability]]** and **[[Information-Architecture|Information Architecture]]** are leverage points: if you can't find knowledge when you need it, this loop never initiates.
 
 #### 13. [EXAMPLE] Untitled *(Line 96)*
 
@@ -217,7 +217,7 @@ extraction_summary:
 #### 15. [ANALOGY] Untitled *(Line 108)*
 
 > [!analogy] Untitled
-> - **To understand** a balancing loop in learning, **imagine** your **[[Working Memory]]** as a juggler. The juggler can keep three balls in the air comfortably (your cognitive capacity). When someone tosses a fourth ball (new information), the juggler either has to (1) drop a ball currently in rotation, (2) refuse the new ball, or (3) pause to consolidate the current balls into a single unit (chunk them) before accepting the new one. Your cognitive system naturally regulates information intake to match processing capacity. When overwhelmed, you stop capturing new experiences; when under-stimulated, you seek new inputs. This homeostatic regulation prevents system collapse but can also prevent growth if the setpoint is too conservative.
+> - **To understand** a balancing loop in learning, **imagine** your **[[Working-Memory|Working Memory]]** as a juggler. The juggler can keep three balls in the air comfortably (your cognitive capacity). When someone tosses a fourth ball (new information), the juggler either has to (1) drop a ball currently in rotation, (2) refuse the new ball, or (3) pause to consolidate the current balls into a single unit (chunk them) before accepting the new one. Your cognitive system naturally regulates information intake to match processing capacity. When overwhelmed, you stop capturing new experiences; when under-stimulated, you seek new inputs. This homeostatic regulation prevents system collapse but can also prevent growth if the setpoint is too conservative.
 
 #### 16. [EXAMPLE] Untitled *(Line 111)*
 
@@ -231,9 +231,9 @@ extraction_summary:
 
 > [!example] Untitled
 > - **Balancing Loop 2: [[The Ego-Protection Loop]]**
->   	  - **How it Works:** When you engage in **[[Active Experimentation]]**—testing your conceptual frameworks in reality—you risk discovering that your understanding was wrong. Failed experiments create **[[Cognitive Dissonance]]** and threaten **[[Self-Concept]]** as a competent learner. This discomfort reduces willingness to experiment, which reduces the **[[Experimentation Frequency Rate]]**, which means fewer tests of your abstractions. The system balances around a "safe" level of experimentation that protects ego but slows learning: **More Failed Experiments → Increased Ego Threat → Reduced Experimentation Willingness → Fewer Failed Experiments (but also less learning)**.
+>   	  - **How it Works:** When you engage in **[[Active-Experimentation|Active Experimentation]]**—testing your conceptual frameworks in reality—you risk discovering that your understanding was wrong. Failed experiments create **[[Cognitive Dissonance]]** and threaten **[[Self-Concept]]** as a competent learner. This discomfort reduces willingness to experiment, which reduces the **[[Experimentation Frequency Rate]]**, which means fewer tests of your abstractions. The system balances around a "safe" level of experimentation that protects ego but slows learning: **More Failed Experiments → Increased Ego Threat → Reduced Experimentation Willingness → Fewer Failed Experiments (but also less learning)**.
 >   	  - **Its Behavior:** This loop maintains psychological comfort at the expense of accelerated learning. It's why many PKBs become repositories of *untested* theories—beautiful conceptual frameworks that have never faced the crucible of reality. The system remains in equilibrium, but it's the equilibrium of a closed system, not a learning system.
->   	  - **Systems Insight:** Changing this loop requires interventions at the paradigm level—reframing failure as **[[Valuable Negative Information]]** and building a **[[growth mindset]]** culture within your own practice. **[[Failure Logging]]** as an explicit practice in your PKB can transform this loop from a learning constraint into a learning accelerator.
+>   	  - **Systems Insight:** Changing this loop requires interventions at the paradigm level—reframing failure as **[[Valuable Negative Information]]** and building a **[[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]** culture within your own practice. **[[Failure Logging]]** as an explicit practice in your PKB can transform this loop from a learning constraint into a learning accelerator.
 
 #### 18. [EXAMPLE] Untitled *(Line 123)*
 
@@ -247,9 +247,9 @@ extraction_summary:
 
 > [!insight] Untitled
 > - **Emergent Behavior 1: [[Cognitive Offload and Extended Mind Thesis]]**
->   	  - The first emergent property is **[[Cognitive Offload]]**—the system begins to function as a genuine **[[Extended Cognition]]** system where thinking doesn't happen *in* your brain alone but in the interaction between your biological cognition and your external PKB. You stop needing to *remember* where you read that insight about systems thinking; you only need to remember that your PKB *knows* about systems thinking. **[[Working Memory]]** is freed from storage duties to focus on processing and synthesis.
+>   	  - The first emergent property is **[[Cognitive Offload]]**—the system begins to function as a genuine **[[Extended Cognition]]** system where thinking doesn't happen *in* your brain alone but in the interaction between your biological cognition and your external PKB. You stop needing to *remember* where you read that insight about systems thinking; you only need to remember that your PKB *knows* about systems thinking. **[[Working-Memory|Working Memory]]** is freed from storage duties to focus on processing and synthesis.
 >   	  - **This emerges from:** The interaction between the **[[Conceptual Network Effect Loop]]** (which creates a dense, retrievable knowledge structure) and the **[[Retrieval Practice Loop]]** (which builds trust that the information will be there when needed). Neither individual notes nor your biological memory alone can produce this effect—it requires the *system* of notes + links + retrieval practice.
->   	  - **Real-World Manifestation:** Experienced PKB users report a distinctive phenomenology: when facing a problem, they *feel* their PKB's presence, almost like consulting a wise collaborator. They think "my PKB has thoughts on this" rather than "I need to search my notes." The boundary between self and system blurs—a textbook example of **[[Extended Mind Theory]]** as proposed by philosophers Andy Clark and David Chalmers.
+>   	  - **Real-World Manifestation:** Experienced PKB users report a distinctive phenomenology: when facing a problem, they *feel* their PKB's presence, almost like consulting a wise collaborator. They think "my PKB has thoughts on this" rather than "I need to search my notes." The boundary between self and system blurs—a textbook example of **[[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]** as proposed by philosophers Andy Clark and David Chalmers.
 
 #### 20. [INSIGHT] Untitled *(Line 139)*
 
@@ -264,8 +264,8 @@ extraction_summary:
 > [!insight] Untitled
 > - **Emergent Behavior 3: [[Accelerated Pattern Recognition Across Domains]]**
 >   	  - The third emergent property is dramatically accelerated **[[Cross-Domain Pattern Recognition]]**. Users of mature PKBs report that they begin to see *structural similarities* between superficially different domains—recognizing that the dynamics of viral infection spread, social media virality, and financial market cascades all share the same underlying **[[Reinforcing Loop Structure]]**. This isn't just analogical thinking; it's **[[Structural Isomorphism Recognition]]** enabled by explicit mapping of domain-specific examples onto abstract frameworks.
->   	  - **This emerges from:** The practice of **[[Abstract Conceptualization]]** (Kolb's third stage) *combined with* systematic **[[Linking to Prior Concepts]]** in the PKB. Each time you encounter a new example of "reinforcing loop," you link it to your abstract "reinforcing loop" note, which accumulates backlinks from marketing, epidemiology, ecology, psychology, and economics. The note becomes a **[[Portal to Structural Patterns]]**—you can see all domains exhibiting that pattern simultaneously.
->   	  - **Cognitive Science Explanation:** This emergent behavior leverages **[[Schema Theory]]**—our cognitive system organizes knowledge into abstract schemas or patterns. A PKB that explicitly represents these schemas and their instantiations *externalizes* and *accelerates* schema formation. What might take a PhD student 5 years to develop intuitively (the ability to see deep patterns across literature) can be accelerated through deliberate PKB structure.
+>   	  - **This emerges from:** The practice of **[[Abstract-Conceptualization|Abstract Conceptualization]]** (Kolb's third stage) *combined with* systematic **[[Linking to Prior Concepts]]** in the PKB. Each time you encounter a new example of "reinforcing loop," you link it to your abstract "reinforcing loop" note, which accumulates backlinks from marketing, epidemiology, ecology, psychology, and economics. The note becomes a **[[Portal to Structural Patterns]]**—you can see all domains exhibiting that pattern simultaneously.
+>   	  - **Cognitive Science Explanation:** This emergent behavior leverages **[[Schema-Theory|Schema Theory]]**—our cognitive system organizes knowledge into abstract schemas or patterns. A PKB that explicitly represents these schemas and their instantiations *externalizes* and *accelerates* schema formation. What might take a PhD student 5 years to develop intuitively (the ability to see deep patterns across literature) can be accelerated through deliberate PKB structure.
 
 #### 22. [INSIGHT] Untitled *(Line 151)*
 
@@ -298,7 +298,7 @@ extraction_summary:
 
 > [!helpful-tip] Untitled
 > - **A High-Leverage Intervention: Installing "Active Experimentation Triggers"**
->   	  - Another high-leverage point is adding an **[[Information Flow]]** (Meadows' Leverage Point #6) that *requires* experimental follow-through. Most PKB systems have a break in the cycle after **[[Abstract Conceptualization]]**—concepts accumulate but never get tested. Installing a structural trigger that creates accountability for experimentation can restart the learning engine.
+>   	  - Another high-leverage point is adding an **[[Information Flow]]** (Meadows' Leverage Point #6) that *requires* experimental follow-through. Most PKB systems have a break in the cycle after **[[Abstract-Conceptualization|Abstract Conceptualization]]**—concepts accumulate but never get tested. Installing a structural trigger that creates accountability for experimentation can restart the learning engine.
 >   	  - **Implementation Example:** Create a **[[Concept Testing Queue]]** in your PKB—a dedicated note or tag category for "abstractions awaiting experimental validation." Every time you create a new permanent note asserting a principle or framework, you simultaneously create a linked "experiment design" note specifying: (1) What observable outcome would confirm this concept? (2) In what context will you test it? (3) By what date? Then, during weekly reviews, these experimental commitments are reviewed, and results are documented.
 >   	  - **Why This Works:** This intervention addresses the weakest flow in most learning systems—the **[[Experimentation Frequency Rate]]**. By making the experiment *visible* and *trackable*, you create a balancing loop that regulates the rate of abstraction creation (if your experiment queue grows too long, you're forced to slow conceptualization and focus on validation). This prevents the accumulation of beautiful but untested theories.
 
@@ -322,16 +322,16 @@ extraction_summary:
 
 > [!counter-argument] Untitled
 > - **An "Obvious" but Low-Leverage Solution: Increasing Review Frequency Without Changing Review Quality**
->   	  - Another common intervention is instituting **[[Daily Review Rituals]]** or **[[Spaced Repetition Systems]]** to "see your notes more often." While review is essential, the *frequency* of review (a parameter) is much less important than *what happens during review* (a system rule).
+>   	  - Another common intervention is instituting **[[Daily Review Rituals]]** or **[[Spaced-Repetition-Systems|Spaced Repetition Systems]]** to "see your notes more often." While review is essential, the *frequency* of review (a parameter) is much less important than *what happens during review* (a system rule).
 >   	  - **The Failure Mode:** If your review process consists of passively re-reading notes, frequency increases don't trigger the **[[Insight Compounding Loop]]**. You're just repeatedly exposing yourself to existing knowledge without forcing the integration and connection that drives conceptual network growth. You might memorize more (useful for facts), but you don't *understand* more deeply or generate novel insights.
->   	  - **The Better Intervention:** Rather than reviewing more often, intervene at the **[[Information Flow Rules]]** level: change the review process to *require* (1) identifying one new connection per note reviewed, (2) asking "what experiment could test this?", or (3) writing a brief synthesis connecting three reviewed notes. This transforms review from passive consolidation into active construction—it engages the **[[Abstract Conceptualization]]** stage of Kolb's cycle rather than just the **[[Reflective Observation]]** stage.
+>   	  - **The Better Intervention:** Rather than reviewing more often, intervene at the **[[Information Flow Rules]]** level: change the review process to *require* (1) identifying one new connection per note reviewed, (2) asking "what experiment could test this?", or (3) writing a brief synthesis connecting three reviewed notes. This transforms review from passive consolidation into active construction—it engages the **[[Abstract-Conceptualization|Abstract Conceptualization]]** stage of Kolb's cycle rather than just the **[[Reflective-Observation|Reflective Observation]]** stage.
 
 #### 30. [SUMMARY] Untitled *(Line 202)*
 
 > [!summary] Untitled
-> The **[[Experiential Learning System]]** within a **[[Personal Knowledge Base]]** is *not* determined primarily by the volume of information captured or the sophistication of the tools employed. Rather, system behavior emerges from the *structural relationships* between the four stages of Kolb's cycle and the *feedback loops* that either reinforce progression through the cycle or create barriers that trap knowledge at one stage. A thriving system exhibits three characteristics:
+> The **[[Experiential Learning System]]** within a **[[Personal-Knowledge-Base|Personal Knowledge Base]]** is *not* determined primarily by the volume of information captured or the sophistication of the tools employed. Rather, system behavior emerges from the *structural relationships* between the four stages of Kolb's cycle and the *feedback loops* that either reinforce progression through the cycle or create barriers that trap knowledge at one stage. A thriving system exhibits three characteristics:
 > 
-> First, **[[Complete Cycle Flow]]**—experiences reliably flow through reflection into abstraction into experimentation and back to new experiences. The weakest link in most systems is the **[[Experimentation Stage]]**, where concepts never get tested. Second, **[[Balanced Loop Dynamics]]**—reinforcing loops (**[[Insight Compounding]]**, **[[Retrieval Practice]]**, **[[Network Effects]]**) are strong enough to create accelerating returns, while balancing loops (**[[Cognitive Load Regulation]]**, **[[Quality Control Gates]]**) prevent system overwhelm without becoming growth-constraining bottlenecks. Third, **[[Emergent Property Activation]]**—the system has achieved sufficient density and quality of connections to exhibit genuine cognitive extension, serendipitous insight generation, and accelerated pattern recognition.
+> First, **[[Complete Cycle Flow]]**—experiences reliably flow through reflection into abstraction into experimentation and back to new experiences. The weakest link in most systems is the **[[Experimentation Stage]]**, where concepts never get tested. Second, **[[Balanced Loop Dynamics]]**—reinforcing loops (**[[Insight Compounding]]**, **[[Retrieval-Practice|Retrieval Practice]]**, **[[Network Effects]]**) are strong enough to create accelerating returns, while balancing loops (**[[Cognitive Load Regulation]]**, **[[Quality Control Gates]]**) prevent system overwhelm without becoming growth-constraining bottlenecks. Third, **[[Emergent Property Activation]]**—the system has achieved sufficient density and quality of connections to exhibit genuine cognitive extension, serendipitous insight generation, and accelerated pattern recognition.
 > 
 > Most failed PKB implementations can be diagnosed through systems analysis. The common failure modes are: **[[The Capture Trap]]** (experiences accumulate but never flow into reflection—balancing loop #1 dominates), **[[The Abstraction Graveyard]]** (concepts are created but never tested—experimentation flow is near zero), and **[[The Network Never Ignites]]** (notes exist in isolation, preventing emergent properties—reinforcing loop #3 never activates). Each failure mode has a structural cause rooted in flows, loops, and system rules, and therefore each has structural solutions that address leverage points rather than symptoms.
 
@@ -339,7 +339,7 @@ extraction_summary:
 
 > [!key-claim] Untitled
 > - *The* **single most important takeaway** *from this analysis is that:*
->   	  - A **[[Personal Knowledge Base]]** is not a *repository* to be filled but a *system* to be tuned. The value of a PKB doesn't come from what it *contains* (the stocks) but from what it *enables* (the flows and emergent behaviors). **[[Kolb's Experiential Learning Cycle]]** provides the architectural blueprint for designing flows that transform raw experience into genuine understanding, but the cycle will only function if you deliberately engineer the feedback loops, remove the structural barriers to complete-cycle progression, and intervene at high-leverage points (goals, information flows, system rules) rather than low-leverage points (tools, parameters, frequency adjustments). The central paradigm shift required is from "knowledge management" (a static, archival metaphor) to "knowledge cultivation" (a dynamic, systems-oriented metaphor)—you're not filing information for later retrieval, you're cultivating conditions for learning to compound. This shift in mental model, once internalized, restructures *everything* about how you interact with your PKB, which is why it represents the highest leverage point of all.
+>   	  - A **[[Personal-Knowledge-Base|Personal Knowledge Base]]** is not a *repository* to be filled but a *system* to be tuned. The value of a PKB doesn't come from what it *contains* (the stocks) but from what it *enables* (the flows and emergent behaviors). **[[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]** provides the architectural blueprint for designing flows that transform raw experience into genuine understanding, but the cycle will only function if you deliberately engineer the feedback loops, remove the structural barriers to complete-cycle progression, and intervene at high-leverage points (goals, information flows, system rules) rather than low-leverage points (tools, parameters, frequency adjustments). The central paradigm shift required is from "knowledge management" (a static, archival metaphor) to "knowledge cultivation" (a dynamic, systems-oriented metaphor)—you're not filing information for later retrieval, you're cultivating conditions for learning to compound. This shift in mental model, once internalized, restructures *everything* about how you interact with your PKB, which is why it represents the highest leverage point of all.
 
 #### 32. [ASK-YOURSELF-THIS] Untitled *(Line 217)*
 
@@ -384,16 +384,16 @@ extraction_summary:
 #### 35. [RELATED-TOPICS-TO-CONSIDER] Untitled *(Line 257)*
 
 > [!related-topics-to-consider] Untitled
-> - **[[Spaced Repetition Systems]]** - How algorithmic review schedules interact with the Retrieval Practice Loop to optimize long-term memory consolidation
-> - **[[Metacognitive Monitoring]]** - The practices and frameworks for developing awareness of your own learning processes and knowledge gaps
-> - **[[Double-Loop Learning]]** - Chris Argyris's framework for learning that questions underlying assumptions, not just tactics—a higher-order form of the Experiential Learning Cycle
+> - **[[Spaced-Repetition-Systems|Spaced Repetition Systems]]** - How algorithmic review schedules interact with the Retrieval Practice Loop to optimize long-term memory consolidation
+> - **[[Metacognitive-Monitoring|Metacognitive Monitoring]]** - The practices and frameworks for developing awareness of your own learning processes and knowledge gaps
+> - **[[Double-Loop-Learning|Double-Loop Learning]]** - Chris Argyris's framework for learning that questions underlying assumptions, not just tactics—a higher-order form of the Experiential Learning Cycle
 > - **[[System Dynamics Modeling]]** - Quantitative approaches to modeling the stocks and flows of learning systems using differential equations
 > - **[[Constructivism in Education]]** - The broader philosophical framework (Piaget, Vygotsky) that situates Kolb's theory within cognitive development theory
 > - **[[Antifragility in Learning Systems]]** - How to design PKB systems that benefit from stress and disorder rather than merely resisting them
 > - **[[Causal Loop Diagrams]]** - Visual mapping techniques for explicitly representing the feedback structures analyzed in this article
 > - **[[Community of Practice Theory]]** - How social learning systems extend the individual Kolb-PKB framework into collective knowledge creation
 > - **[[Information Foraging Theory]]** - Cognitive frameworks for understanding how learners navigate and extract value from information ecosystems
-> - **[[Cognitive Load Theory]]** - The scientific foundation for understanding the Cognitive Load Regulation Loop and designing interventions
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** - The scientific foundation for understanding the Cognitive Load Regulation Loop and designing interventions
 > - **[[Incremental Formalization]]** - Strategies for progressively refining informal notes into formal knowledge without the paralysis of perfectionism
 > - **[[Cross-Domain Pattern Recognition]]** - Techniques for deliberately cultivating the ability to see structural similarities across disciplines
 
@@ -409,16 +409,16 @@ extraction_summary:
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[Abstract Conceptualization]]
+- [[Abstract-Conceptualization|Abstract Conceptualization]]
 - [[Abstract Conceptualizations]]
 - [[Accelerated Pattern Recognition Across Domains]]
 - [[Action Bias]]
-- [[Active Experimentation]]
+- [[Active-Experimentation|Active Experimentation]]
 - [[Affective Reinforcement]]
 - [[Antifragility in Learning Systems]]
 - [[Application Contexts]]
 - [[Atomic Concept Notes]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Balanced Loop Dynamics]]
 - [[Balancing Feedback Loop]]
 - [[Batch Processing Rituals]]
@@ -433,11 +433,11 @@ extraction_summary:
 - [[Cognitive Load Management]]
 - [[Cognitive Load Regulation]]
 - [[Cognitive Load Regulation Loop]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Offload]]
 - [[Cognitive Offload and Extended Mind Thesis]]
 - [[Cognitive Processes]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Community of Practice Theory]]
 - [[Comparative Analysis Notes]]
 - [[Complete Cycle Flow]]
@@ -447,17 +447,17 @@ extraction_summary:
 - [[Conceptualization Quality Rate]]
 - [[Conceptualization Rate]]
 - [[Confidence Intervals]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Connection Dashboard]]
 - [[Constructivism in Education]]
 - [[Critical Mass Threshold]]
 - [[Cross-Domain Pattern Recognition]]
 - [[Daily Notes]]
 - [[Daily Review Rituals]]
-- [[David Kolb]]
+- [[David-Kolb|David Kolb]]
 - [[Diminishing Returns Threshold]]
 - [[Donella Meadows]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[ELC]]
 - [[Ego-Protection Balancing Loop]]
 - [[Emergent Property Activation]]
@@ -472,7 +472,7 @@ extraction_summary:
 - [[Experimentation Stage]]
 - [[Exploratory Breadth]]
 - [[Extended Cognition]]
-- [[Extended Mind Theory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
 - [[FOMO-Driven Hoarding Behavior]]
 - [[Failure Logging]]
 - [[Failure Logs]]
@@ -481,7 +481,7 @@ extraction_summary:
 - [[Goal State]]
 - [[Inbox for Anomalies]]
 - [[Incremental Formalization]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Flow]]
 - [[Information Flow Rules]]
 - [[Information Foraging Theory]]
@@ -492,7 +492,7 @@ extraction_summary:
 - [[Knowledge Graph]]
 - [[Knowledge Retrieval Rate]]
 - [[Kolb ELC-PKB Integration System]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Kolb-PKB Integration]]
 - [[Kurt Lewin]]
 - [[Learning Workflow]]
@@ -504,12 +504,12 @@ extraction_summary:
 - [[Linking to Prior Concepts]]
 - [[Literature Notes]]
 - [[Low Activation Energy Browsing]]
-- [[MOCs]]
-- [[Maps of Content]]
-- [[Matthew Effect]]
+- [[Maps-of-Content-—-MOCs|MOCs]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
+- [[Matthew-Effect|Matthew Effect]]
 - [[Meta-Knowledge]]
 - [[Metacognitive Awareness]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Methodological Frameworks]]
 - [[Navigation Infrastructure]]
 - [[Network Effect]]
@@ -521,7 +521,7 @@ extraction_summary:
 - [[PKB]]
 - [[Parameter Change]]
 - [[Permanent Notes]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personalized Epistemology]]
 - [[Personalized Epistemology Development]]
 - [[Portable Knowledge]]
@@ -540,15 +540,15 @@ extraction_summary:
 - [[Reflection Prompts]]
 - [[Reflection Skills]]
 - [[Reflection Triggers]]
-- [[Reflective Observation]]
+- [[Reflective-Observation|Reflective Observation]]
 - [[Reinforcing Feedback Loop]]
 - [[Reinforcing Loop Structure]]
 - [[Retrieval Pathways]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Retrieval Practice Loop]]
 - [[Rules of the System]]
 - [[Salience Filters]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Searchability]]
 - [[Self-Concept]]
 - [[Serendipitous Connection Discovery]]
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Serendipitous Insight Generation]]
 - [[Serendipitous Juxtaposition]]
 - [[Serendipity by Design]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stock of Abstract Conceptualizations]]
 - [[Stock of Concrete Experiences]]
 - [[Stock of Experimental Results]]
@@ -583,25 +583,25 @@ extraction_summary:
 - [[Valuable Negative Information]]
 - [[Version Control]]
 - [[Weekly Connection Ritual]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Writing Clarity]]
 - [[Zettelkasten]]
 - [[capture tools]]
-- [[growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Kolb's Experiential Learning Cycle]] | — | — | Document Start | 33 |
-| 2 | [[Personal Knowledge Base]] | — | — | Document Start | 33 |
-| 3 | [[David Kolb]] | — | — | Document Start | 38 |
+| 1 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Document Start | 33 |
+| 2 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 33 |
+| 3 | [[David-Kolb|David Kolb]] | — | — | Document Start | 38 |
 | 4 | [[Experiential Learning Cycle]] | — | — | Document Start | 38 |
 | 5 | [[ELC]] | — | — | Document Start | 38 |
-| 6 | [[Personal Knowledge Base]] | — | — | Document Start | 38 |
+| 6 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 38 |
 | 7 | [[PKB]] | — | — | Document Start | 38 |
 | 8 | [[Insight Compounding]] | — | — | Document Start | 38 |
-| 9 | [[Retrieval Practice]] | — | — | Document Start | 38 |
+| 9 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Document Start | 38 |
 | 10 | [[Conceptual Network Effects]] | — | — | Document Start | 38 |
 | 11 | [[Cognitive Load Management]] | — | — | Document Start | 38 |
 | 12 | [[Quality Control Gates]] | — | — | Document Start | 38 |
@@ -617,15 +617,15 @@ extraction_summary:
 | 22 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | Text-Generator | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 23 | [[Methodological Frameworks]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 24 | [[Zettelkasten]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
-| 25 | [[Atomic Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
+| 25 | [[Atomic-Notes|Atomic Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 26 | [[Cognitive Processes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
-| 27 | [[Information Architecture]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
+| 27 | [[Information-Architecture|Information Architecture]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 51 |
 | 28 | [[Stock of Concrete Experiences]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 56 |
 | 29 | [[Daily Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 56 |
 | 30 | [[Project Logs]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 56 |
 | 31 | [[Experience Captures]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 56 |
 | 32 | [[Stock of Reflective Observations]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
-| 33 | [[Reflective Observation]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
+| 33 | [[Reflective-Observation|Reflective Observation]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 34 | [[Literature Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 35 | [[Reflection Prompts]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
 | 36 | [[Comparative Analysis Notes]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 57 |
@@ -639,8 +639,8 @@ extraction_summary:
 | 44 | [[Failure Post-Mortems]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 59 |
 | 45 | [[Practice Logs]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 59 |
 | 46 | [[Stock of Structural Knowledge]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
-| 47 | [[MOCs]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
-| 48 | [[Maps of Content]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
+| 47 | [[Maps-of-Content-—-MOCs|MOCs]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
+| 48 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
 | 49 | [[Knowledge Graph]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 60 |
 | 50 | [[Experience Capture Rate]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 64 |
 | 51 | [[Capture Friction]] | — | — | 1.0 🗺️ THE MAP: Defining the System | 64 |
@@ -667,10 +667,10 @@ extraction_summary:
 | 72 | [[Reinforcing Feedback Loop]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 79 |
 | 73 | [[The Insight Compounding Loop]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 85 |
 | 74 | [[Abstract Conceptualizations]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 86 |
-| 75 | [[Cognitive Scaffolding]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 86 |
-| 76 | [[Reflective Observation]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 86 |
-| 77 | [[Matthew Effect]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 87 |
-| 78 | [[Confirmation Bias]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 87 |
+| 75 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 86 |
+| 76 | [[Reflective-Observation|Reflective Observation]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 86 |
+| 77 | [[Matthew-Effect|Matthew Effect]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 87 |
+| 78 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 87 |
 | 79 | [[Critical Mass Threshold]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 88 |
 | 80 | [[The Retrieval Practice Loop]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 91 |
 | 81 | [[Retrieval Pathways]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 92 |
@@ -679,7 +679,7 @@ extraction_summary:
 | 84 | [[Application Contexts]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 92 |
 | 85 | [[Quick Wins]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 94 |
 | 86 | [[Searchability]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 94 |
-| 87 | [[Information Architecture]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 94 |
+| 87 | [[Information-Architecture|Information Architecture]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 94 |
 | 88 | [[The Conceptual Network Effect Loop]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 97 |
 | 89 | [[Bidirectional Links]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 98 |
 | 90 | [[Serendipitous Juxtaposition]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 98 |
@@ -688,7 +688,7 @@ extraction_summary:
 | 93 | [[Diminishing Returns Threshold]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 100 |
 | 94 | [[Navigation Infrastructure]] | — | — | 2.1 📈 Reinforcing Loops (The "Snowbal... | 100 |
 | 95 | [[Balancing Feedback Loop]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 106 |
-| 96 | [[Working Memory]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 109 |
+| 96 | [[Working-Memory|Working Memory]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 109 |
 | 97 | [[The Cognitive Load Regulation Loop]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 112 |
 | 98 | [[Stock of Unprocessed Experiences]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 113 |
 | 99 | [[Processing Anxiety]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 113 |
@@ -696,12 +696,12 @@ extraction_summary:
 | 101 | [[Leverage Point]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 115 |
 | 102 | [[Batch Processing Rituals]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 115 |
 | 103 | [[The Ego-Protection Loop]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 118 |
-| 104 | [[Active Experimentation]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
+| 104 | [[Active-Experimentation|Active Experimentation]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 105 | [[Cognitive Dissonance]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 106 | [[Self-Concept]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 107 | [[Experimentation Frequency Rate]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 119 |
 | 108 | [[Valuable Negative Information]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 121 |
-| 109 | [[growth mindset]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 121 |
+| 109 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 121 |
 | 110 | [[Failure Logging]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 121 |
 | 111 | [[The Quality Control Gate Loop]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 124 |
 | 112 | [[Epistemological Standards]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 125 |
@@ -712,15 +712,15 @@ extraction_summary:
 | 117 | [[Progressive Elaboration]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 127 |
 | 118 | [[Version Control]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 127 |
 | 119 | [[Note Maturity Indicators]] | — | — | 2.2 📉 Balancing Loops (The "Thermosta... | 127 |
-| 120 | [[Kolb's Experiential Learning Cycle]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
-| 121 | [[Personal Knowledge Base]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
+| 120 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
+| 121 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 131 |
 | 122 | [[Cognitive Offload and Extended Mind Thesis]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 134 |
 | 123 | [[Cognitive Offload]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 135 |
 | 124 | [[Extended Cognition]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 135 |
-| 125 | [[Working Memory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 135 |
+| 125 | [[Working-Memory|Working Memory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 135 |
 | 126 | [[Conceptual Network Effect Loop]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 136 |
 | 127 | [[Retrieval Practice Loop]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 136 |
-| 128 | [[Extended Mind Theory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 137 |
+| 128 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 137 |
 | 129 | [[Serendipitous Insight Generation]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 140 |
 | 130 | [[Novel Insights]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 141 |
 | 131 | [[Serendipity by Design]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 141 |
@@ -732,10 +732,10 @@ extraction_summary:
 | 137 | [[Cross-Domain Pattern Recognition]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 147 |
 | 138 | [[Reinforcing Loop Structure]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 147 |
 | 139 | [[Structural Isomorphism Recognition]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 147 |
-| 140 | [[Abstract Conceptualization]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 148 |
+| 140 | [[Abstract-Conceptualization|Abstract Conceptualization]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 148 |
 | 141 | [[Linking to Prior Concepts]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 148 |
 | 142 | [[Portal to Structural Patterns]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 148 |
-| 143 | [[Schema Theory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 149 |
+| 143 | [[Schema-Theory|Schema Theory]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 149 |
 | 144 | [[Personalized Epistemology Development]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 152 |
 | 145 | [[Personalized Epistemology]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 153 |
 | 146 | [[Meta-Knowledge]] | — | — | 3.0 💡 THE GHOST: Emergent Properties | 153 |
@@ -755,7 +755,7 @@ extraction_summary:
 | 160 | [[Weekly Connection Ritual]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 172 |
 | 161 | [[Connection Dashboard]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 172 |
 | 162 | [[Information Flow]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 176 |
-| 163 | [[Abstract Conceptualization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 176 |
+| 163 | [[Abstract-Conceptualization|Abstract Conceptualization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 176 |
 | 164 | [[Concept Testing Queue]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 177 |
 | 165 | [[Experimentation Frequency Rate]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 178 |
 | 166 | [[Rules of the System]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 182 |
@@ -770,19 +770,19 @@ extraction_summary:
 | 175 | [[Stock of Unprocessed Experiences]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 189 |
 | 176 | [[Cognitive Load Regulation Loop]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 189 |
 | 177 | [[Daily Review Rituals]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 194 |
-| 178 | [[Spaced Repetition Systems]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 194 |
+| 178 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 194 |
 | 179 | [[Insight Compounding Loop]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 195 |
 | 180 | [[Information Flow Rules]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 196 |
-| 181 | [[Abstract Conceptualization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 196 |
-| 182 | [[Reflective Observation]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 196 |
+| 181 | [[Abstract-Conceptualization|Abstract Conceptualization]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 196 |
+| 182 | [[Reflective-Observation|Reflective Observation]] | — | — | 4.0 🎯 THE LEVER: Finding Leverage Points | 196 |
 | 183 | [[Kolb-PKB Integration]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 200 |
 | 184 | [[Experiential Learning System]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 203 |
-| 185 | [[Personal Knowledge Base]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 203 |
+| 185 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 203 |
 | 186 | [[Complete Cycle Flow]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 187 | [[Experimentation Stage]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 188 | [[Balanced Loop Dynamics]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 189 | [[Insight Compounding]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
-| 190 | [[Retrieval Practice]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
+| 190 | [[Retrieval-Practice|Retrieval Practice]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 191 | [[Network Effects]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 192 | [[Cognitive Load Regulation]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
 | 193 | [[Quality Control Gates]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 205 |
@@ -790,8 +790,8 @@ extraction_summary:
 | 195 | [[The Capture Trap]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 207 |
 | 196 | [[The Abstraction Graveyard]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 207 |
 | 197 | [[The Network Never Ignites]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 207 |
-| 198 | [[Personal Knowledge Base]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 211 |
-| 199 | [[Kolb's Experiential Learning Cycle]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 211 |
+| 198 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 211 |
+| 199 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | 5.0 🌐 THE SYNTHESIS: Seeing the Whole... | 211 |
 | 200 | [[Capture Trap]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 220 |
 | 201 | [[Ego-Protection Balancing Loop]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 223 |
 | 202 | [[Experimentation Frequency Rate]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 223 |
@@ -806,16 +806,16 @@ extraction_summary:
 | 211 | [[The Insight Compounding Loop]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 231 |
 | 212 | [[The Experimentation Frequency Rate]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 233 |
 | 213 | [[Complete Cycle Flow]] | — | — | 6.0 🧠 Key Questions (Metacognition) | 235 |
-| 214 | [[Spaced Repetition Systems]] | — | — | 7.0 📚 Reference/Appendix | 258 |
-| 215 | [[Metacognitive Monitoring]] | — | — | 7.0 📚 Reference/Appendix | 259 |
-| 216 | [[Double-Loop Learning]] | — | — | 7.0 📚 Reference/Appendix | 260 |
+| 214 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 7.0 📚 Reference/Appendix | 258 |
+| 215 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 7.0 📚 Reference/Appendix | 259 |
+| 216 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | 7.0 📚 Reference/Appendix | 260 |
 | 217 | [[System Dynamics Modeling]] | — | — | 7.0 📚 Reference/Appendix | 261 |
 | 218 | [[Constructivism in Education]] | — | — | 7.0 📚 Reference/Appendix | 262 |
 | 219 | [[Antifragility in Learning Systems]] | — | — | 7.0 📚 Reference/Appendix | 263 |
 | 220 | [[Causal Loop Diagrams]] | — | — | 7.0 📚 Reference/Appendix | 264 |
 | 221 | [[Community of Practice Theory]] | — | — | 7.0 📚 Reference/Appendix | 265 |
 | 222 | [[Information Foraging Theory]] | — | — | 7.0 📚 Reference/Appendix | 266 |
-| 223 | [[Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 267 |
+| 223 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 7.0 📚 Reference/Appendix | 267 |
 | 224 | [[Incremental Formalization]] | — | — | 7.0 📚 Reference/Appendix | 268 |
 | 225 | [[Cross-Domain Pattern Recognition]] | — | — | 7.0 📚 Reference/Appendix | 269 |
 
@@ -903,16 +903,16 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 
 - [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 - [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]
-- [[Abstract Conceptualization]]
+- [[Abstract-Conceptualization|Abstract Conceptualization]]
 - [[Abstract Conceptualizations]]
 - [[Accelerated Pattern Recognition Across Domains]]
 - [[Action Bias]]
-- [[Active Experimentation]]
+- [[Active-Experimentation|Active Experimentation]]
 - [[Affective Reinforcement]]
 - [[Antifragility in Learning Systems]]
 - [[Application Contexts]]
 - [[Atomic Concept Notes]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Balanced Loop Dynamics]]
 - [[Balancing Feedback Loop]]
 - [[Batch Processing Rituals]]
@@ -927,11 +927,11 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Cognitive Load Management]]
 - [[Cognitive Load Regulation]]
 - [[Cognitive Load Regulation Loop]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Offload]]
 - [[Cognitive Offload and Extended Mind Thesis]]
 - [[Cognitive Processes]]
-- [[Cognitive Scaffolding]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
 - [[Community of Practice Theory]]
 - [[Comparative Analysis Notes]]
 - [[Complete Cycle Flow]]
@@ -941,17 +941,17 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Conceptualization Quality Rate]]
 - [[Conceptualization Rate]]
 - [[Confidence Intervals]]
-- [[Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Connection Dashboard]]
 - [[Constructivism in Education]]
 - [[Critical Mass Threshold]]
 - [[Cross-Domain Pattern Recognition]]
 - [[Daily Notes]]
 - [[Daily Review Rituals]]
-- [[David Kolb]]
+- [[David-Kolb|David Kolb]]
 - [[Diminishing Returns Threshold]]
 - [[Donella Meadows]]
-- [[Double-Loop Learning]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
 - [[ELC]]
 - [[Ego-Protection Balancing Loop]]
 - [[Emergent Property Activation]]
@@ -966,7 +966,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Experimentation Stage]]
 - [[Exploratory Breadth]]
 - [[Extended Cognition]]
-- [[Extended Mind Theory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
 - [[FOMO-Driven Hoarding Behavior]]
 - [[Failure Logging]]
 - [[Failure Logs]]
@@ -975,7 +975,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Goal State]]
 - [[Inbox for Anomalies]]
 - [[Incremental Formalization]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Flow]]
 - [[Information Flow Rules]]
 - [[Information Foraging Theory]]
@@ -986,7 +986,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Knowledge Graph]]
 - [[Knowledge Retrieval Rate]]
 - [[Kolb ELC-PKB Integration System]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Kolb-PKB Integration]]
 - [[Kurt Lewin]]
 - [[Learning Workflow]]
@@ -998,12 +998,12 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Linking to Prior Concepts]]
 - [[Literature Notes]]
 - [[Low Activation Energy Browsing]]
-- [[MOCs]]
-- [[Maps of Content]]
-- [[Matthew Effect]]
+- [[Maps-of-Content-—-MOCs|MOCs]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
+- [[Matthew-Effect|Matthew Effect]]
 - [[Meta-Knowledge]]
 - [[Metacognitive Awareness]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Methodological Frameworks]]
 - [[Navigation Infrastructure]]
 - [[Network Effect]]
@@ -1015,7 +1015,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[PKB]]
 - [[Parameter Change]]
 - [[Permanent Notes]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personalized Epistemology]]
 - [[Personalized Epistemology Development]]
 - [[Portable Knowledge]]
@@ -1034,15 +1034,15 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Reflection Prompts]]
 - [[Reflection Skills]]
 - [[Reflection Triggers]]
-- [[Reflective Observation]]
+- [[Reflective-Observation|Reflective Observation]]
 - [[Reinforcing Feedback Loop]]
 - [[Reinforcing Loop Structure]]
 - [[Retrieval Pathways]]
-- [[Retrieval Practice]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Retrieval Practice Loop]]
 - [[Rules of the System]]
 - [[Salience Filters]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Searchability]]
 - [[Self-Concept]]
 - [[Serendipitous Connection Discovery]]
@@ -1050,7 +1050,7 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Serendipitous Insight Generation]]
 - [[Serendipitous Juxtaposition]]
 - [[Serendipity by Design]]
-- [[Spaced Repetition Systems]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Stock of Abstract Conceptualizations]]
 - [[Stock of Concrete Experiences]]
 - [[Stock of Experimental Results]]
@@ -1077,11 +1077,11 @@ Now I'll create the comprehensive systems thinking analysis applying all of this
 - [[Valuable Negative Information]]
 - [[Version Control]]
 - [[Weekly Connection Ritual]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Writing Clarity]]
 - [[Zettelkasten]]
 - [[capture tools]]
-- [[growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 
 ---
 

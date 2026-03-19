@@ -168,14 +168,14 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 225)*
 
 > [!abstract] Untitled
-> The **[[Stoic]] [[Dichotomy of Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive Load Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal Knowledge Base|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus of Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal Knowledge Base]] abandonment.
+> The **[[Stoic]] [[Dichotomy-of-Control|Dichotomy of Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive Load Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal-Knowledge-Management|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus-of-Control|Locus of Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal-Knowledge-Base|Personal Knowledge Base]] abandonment.
 
 #### 4. [THE-PHILOSOPHY] Untitled *(Line 234)*
 
 > [!the-philosophy] Untitled
 > **Core Stoic Epistemic Framework**
 > 
-> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working Memory]] resources on variables immune to volitional influence.
+> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory|Working Memory]] resources on variables immune to volitional influence.
 
 #### 5. [EVIDENCE] Untitled *(Line 249)*
 
@@ -184,7 +184,7 @@ extraction_summary:
 > 
 > Recent research demonstrates that internal locus of control is associated with higher self-control, and that self-control mediates at least part of the relationship between LoC and health outcomes. This finding is particularly relevant for PKB architecture: systems that cultivate accurate perceptions of control (distinguishing what can versus cannot be controlled) may simultaneously enhance self-regulatory capacity. Studies with college students show that internality is associated with lower prevalence of depression, while chance externality (believing outcomes are random) is associated with higher risk of both anxiety and depression. The mechanism appears straightforward: focusing attention on uncontrollable variables creates a sense of helplessness and prevents action on controllable domains.
 > 
-> Longitudinal research reveals that locus of control is not entirely stable—certain life events produce large, persistent changes in LoC lasting over four years. This malleability suggests that systematic practice with control-discernment (as in Stoic exercises) could genuinely shift one's [[Locus of Control]] profile. Cross-cultural research across 37 countries confirms a strong positive relationship between internal LoC and subjective well-being, though this relationship is moderated by cultural factors like individualism-collectivism.
+> Longitudinal research reveals that locus of control is not entirely stable—certain life events produce large, persistent changes in LoC lasting over four years. This malleability suggests that systematic practice with control-discernment (as in Stoic exercises) could genuinely shift one's [[Locus-of-Control|Locus of Control]] profile. Cross-cultural research across 37 countries confirms a strong positive relationship between internal LoC and subjective well-being, though this relationship is moderated by cultural factors like individualism-collectivism.
 
 #### 6. [KEY-CLAIM] Untitled *(Line 262)*
 
@@ -198,14 +198,14 @@ extraction_summary:
 > [!analogy] Untitled
 > **The Resource Allocation Analogy**
 > 
-> Consider [[Working Memory]] as analogous to a limited energy budget in a household. A family might have precisely enough energy to power essential systems (heating, refrigeration, lighting) but not enough for non-essential luxuries (hot tub, decorative lighting, etc.). In this scenario, there are two ways to ensure essential systems remain functional: (1) increase total energy capacity (difficult, expensive, slow), or (2) systematically prevent energy allocation to non-essential systems (straightforward, immediate, sustainable). The Dichotomy of Control takes the second approach with cognitive resources. It doesn't expand [[Working Memory]] capacity (which is largely fixed in adults), but it prevents the *waste* of that capacity on uncontrollable variables, ensuring sufficient resources remain available for controllable domains that actually benefit from cognitive effort.
+> Consider [[Working-Memory|Working Memory]] as analogous to a limited energy budget in a household. A family might have precisely enough energy to power essential systems (heating, refrigeration, lighting) but not enough for non-essential luxuries (hot tub, decorative lighting, etc.). In this scenario, there are two ways to ensure essential systems remain functional: (1) increase total energy capacity (difficult, expensive, slow), or (2) systematically prevent energy allocation to non-essential systems (straightforward, immediate, sustainable). The Dichotomy of Control takes the second approach with cognitive resources. It doesn't expand [[Working-Memory|Working Memory]] capacity (which is largely fixed in adults), but it prevents the *waste* of that capacity on uncontrollable variables, ensuring sufficient resources remain available for controllable domains that actually benefit from cognitive effort.
 
 #### 8. [CORE-PRINCIPLE] Untitled *(Line 292)*
 
 > [!core-principle] Untitled
 > **The Principle of Metacognitive Gating**
 > 
-> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John Sweller]] in [[Cognitive Load Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
+> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John Sweller]] in [[Cognitive-Load-Theory|Cognitive Load Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
 
 #### 9. [WARNING] Untitled *(Line 303)*
 
@@ -376,7 +376,7 @@ extraction_summary:
 > 
 > **Extraneous Load** (poor instructional design): Dramatically reduced by preventing processing of uncontrollable variables. Every moment spent ruminating about past note-taking decisions or worrying about future system inadequacy is extraneous load—processing that doesn't build schemas or develop skills. The Dichotomy systematically eliminates this entire category.
 > 
-> **Germane Load** (schema construction and automation): Actually *enhanced* because freed resources can be allocated to productive schema building. With rumination and anxiety eliminated, more [[Working Memory]] capacity becomes available for the effortful processing required to build robust knowledge structures.
+> **Germane Load** (schema construction and automation): Actually *enhanced* because freed resources can be allocated to productive schema building. With rumination and anxiety eliminated, more [[Working-Memory|Working Memory]] capacity becomes available for the effortful processing required to build robust knowledge structures.
 
 #### 18. [KEY-CLAIM] Untitled *(Line 508)*
 
@@ -552,9 +552,9 @@ extraction_summary:
 - [[Attentional Control Training for Knowledge Workers]]
 - [[Automaticity]]
 - [[Autonomy]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Reappraisal Techniques in PKB Architecture]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Company Culture Fit]]
@@ -564,33 +564,33 @@ extraction_summary:
 - [[Culture Research Methods]]
 - [[Dataview]]
 - [[Decision Frameworks]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Economic Cycles]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive Function]]
 - [[Forcing Functions]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
 - [[Industry Disruption Events]]
 - [[Information Theory]]
 - [[Interview Performance Optimization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
 - [[John Sweller]]
 - [[Julian Rotter]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Network Cultivation]]
 - [[Obsidian]]
 - [[Others' Hiring Decisions]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
 - [[Pragmatism]]
 - [[Preference Communication Strategy]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]
 - [[Prospective Memory]]
 - [[Rational Assessment]]
@@ -599,18 +599,18 @@ extraction_summary:
 - [[Rumination]]
 - [[Salary Negotiation Preparation]]
 - [[Schema]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Skill Alignment with Demand]]
 - [[Skill Development Strategy]]
 - [[Social Learning Theory]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stoic]]
 - [[Stoicism]]
 - [[Tiago Forte]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zeno of Citium]]
 - [[Zettelkasten]]
 
@@ -620,29 +620,29 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Analysis of How the Stoic Dichotomy of Control Can Be Systematically Encoded into Personal Knowledge Base Architecture as a Metacognitive Filter]] | — | — | Analysis of How the Stoic Dichotomy o... | 44 |
 | 2 | [[Stoicism]] | — | — | Claude Thinking: | 118 |
-| 3 | [[Dichotomy of Control]] | — | — | Claude Thinking: | 119 |
+| 3 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 119 |
 | 4 | [[Metacognition]] | — | — | Claude Thinking: | 120 |
-| 5 | [[Cognitive Load Theory]] | — | — | Claude Thinking: | 121 |
-| 6 | [[Working Memory]] | — | — | Claude Thinking: | 122 |
-| 7 | [[Locus of Control]] | — | — | Claude Thinking: | 123 |
+| 5 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Claude Thinking: | 121 |
+| 6 | [[Working-Memory|Working Memory]] | — | — | Claude Thinking: | 122 |
+| 7 | [[Locus-of-Control|Locus of Control]] | — | — | Claude Thinking: | 123 |
 | 8 | [[Self-Regulation-Theory]] | — | — | Claude Thinking: | 124 |
 | 9 | [[Rumination]] | — | — | Claude Thinking: | 125 |
 | 10 | [[Attention Allocation]] | — | — | Claude Thinking: | 126 |
-| 11 | [[Self-Determination Theory]] | — | — | Claude Thinking: | 127 |
+| 11 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Claude Thinking: | 127 |
 | 12 | [[Autonomy]] | — | — | Claude Thinking: | 128 |
-| 13 | [[Personal Knowledge Base]] | — | — | Claude Thinking: | 129 |
+| 13 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Claude Thinking: | 129 |
 | 14 | [[Obsidian]] | — | — | Claude Thinking: | 130 |
 | 15 | [[Zettelkasten]] | — | — | Claude Thinking: | 131 |
-| 16 | [[Implementation Intentions]] | — | — | Claude Thinking: | 132 |
+| 16 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Claude Thinking: | 132 |
 | 17 | [[Prospective Memory]] | — | — | Claude Thinking: | 133 |
-| 18 | [[Cognitive Reappraisal]] | — | — | Claude Thinking: | 134 |
+| 18 | [[Cognitive-Reappraisal|Cognitive Reappraisal]] | — | — | Claude Thinking: | 134 |
 | 19 | [[Emotional Regulation]] | — | — | Claude Thinking: | 135 |
 | 20 | [[Epictetus]] | — | — | Claude Thinking: | 136 |
 | 21 | [[Marcus Aurelius]] | — | — | Claude Thinking: | 137 |
 | 22 | [[Julian Rotter]] | — | — | Claude Thinking: | 138 |
 | 23 | [[Albert Bandura]] | — | — | Claude Thinking: | 139 |
 | 24 | [[Self-Efficacy]] | — | — | Claude Thinking: | 140 |
-| 25 | [[Intrinsic Motivation]] | — | — | Claude Thinking: | 141 |
+| 25 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | Claude Thinking: | 141 |
 | 26 | [[Forcing Functions]] | — | — | Claude Thinking: | 142 |
 | 27 | [[Decision Frameworks]] | — | — | Claude Thinking: | 143 |
 | 28 | [[Rational Assessment]] | — | — | Claude Thinking: | 144 |
@@ -650,64 +650,64 @@ extraction_summary:
 | 30 | [[Pragmatism]] | — | — | Claude Thinking: | 146 |
 | 31 | [[Constructivism]] | — | — | Claude Thinking: | 147 |
 | 32 | [[Stoic]] | — | — | Claude Thinking: | 226 |
-| 33 | [[Dichotomy of Control]] | — | — | Claude Thinking: | 226 |
+| 33 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Claude Thinking: | 226 |
 | 34 | [[Attention Allocation]] | attentional resources | — | Claude Thinking: | 226 |
-| 35 | [[Cognitive Load Theory]] | cognitive burden | — | Claude Thinking: | 226 |
-| 36 | [[Personal Knowledge Base]] | Personal Knowledge Management | — | Claude Thinking: | 226 |
+| 35 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | cognitive burden | — | Claude Thinking: | 226 |
+| 36 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | Personal Knowledge Management | — | Claude Thinking: | 226 |
 | 37 | [[Metacognition]] | metacognitive filter | — | Claude Thinking: | 226 |
 | 38 | [[Rumination]] | ruminative cycles | — | Claude Thinking: | 226 |
 | 39 | [[Forcing Functions]] | forcing functions | — | Claude Thinking: | 226 |
-| 40 | [[Locus of Control]] | — | — | Claude Thinking: | 226 |
+| 40 | [[Locus-of-Control|Locus of Control]] | — | — | Claude Thinking: | 226 |
 | 41 | [[Self-Regulation-Theory]] | self-regulatory systems | — | Claude Thinking: | 226 |
 | 42 | [[Attention Allocation]] | attention allocation | — | Claude Thinking: | 226 |
 | 43 | [[Obsidian]] | — | — | Claude Thinking: | 226 |
-| 44 | [[Personal Knowledge Base]] | — | — | Claude Thinking: | 226 |
-| 45 | [[Dichotomy of Control]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
+| 44 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Claude Thinking: | 226 |
+| 45 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 46 | [[Stoicism]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 47 | [[Zeno of Citium]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 48 | [[Epictetus]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 49 | [[Marcus Aurelius]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 50 | [[Seneca]] | — | — | 📜 Historical Foundations: The Stoic O... | 232 |
-| 51 | [[Cognitive Load]] | cognitive resources | — | 📜 Historical Foundations: The Stoic O... | 232 |
+| 51 | [[Cognitive-Load|Cognitive Load]] | cognitive resources | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 52 | [[Emotional Regulation]] | emotional responses | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 53 | [[Agency]] | psychological agency | — | 📜 Historical Foundations: The Stoic O... | 232 |
 | 54 | [[Albert Ellis]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 55 | [[Aaron Beck]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 56 | [[Cognitive-Behavioral Therapy]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
-| 57 | [[Working Memory]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
+| 57 | [[Working-Memory|Working Memory]] | — | — | 📜 Historical Foundations: The Stoic O... | 237 |
 | 58 | [[Metacognitive]] | — | — | 📜 Historical Foundations: The Stoic O... | 239 |
 | 59 | [[Julian Rotter]] | — | — | Locus of Control: Rotter's Empirical ... | 247 |
-| 60 | [[Locus of Control]] | — | — | Locus of Control: Rotter's Empirical ... | 247 |
+| 60 | [[Locus-of-Control|Locus of Control]] | — | — | Locus of Control: Rotter's Empirical ... | 247 |
 | 61 | [[Social Learning Theory]] | — | — | Locus of Control: Rotter's Empirical ... | 247 |
-| 62 | [[Locus of Control]] | — | — | Locus of Control: Rotter's Empirical ... | 254 |
+| 62 | [[Locus-of-Control|Locus of Control]] | — | — | Locus of Control: Rotter's Empirical ... | 254 |
 | 63 | [[Self-Regulation-Theory]] | — | — | Locus of Control: Rotter's Empirical ... | 256 |
 | 64 | [[Attention Allocation]] | — | — | Cognitive Control and Attention Alloc... | 260 |
-| 65 | [[Working Memory]] | working memory | — | Cognitive Control and Attention Alloc... | 260 |
+| 65 | [[Working-Memory|Working Memory]] | working memory | — | Cognitive Control and Attention Alloc... | 260 |
 | 66 | [[Executive Function]] | executive resources | — | Cognitive Control and Attention Alloc... | 260 |
-| 67 | [[Cognitive Load Theory]] | — | — | Cognitive Control and Attention Alloc... | 260 |
+| 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Control and Attention Alloc... | 260 |
 | 68 | [[Executive Function]] | — | — | Cognitive Control and Attention Alloc... | 267 |
 | 69 | [[Executive Function]] | — | — | Self-Regulation: Executive Function a... | 273 |
 | 70 | [[Self-Regulation-Theory]] | — | — | Self-Regulation: Executive Function a... | 273 |
-| 71 | [[Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
-| 72 | [[Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
+| 71 | [[Working-Memory|Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
+| 72 | [[Working-Memory|Working Memory]] | — | — | Self-Regulation: Executive Function a... | 278 |
 | 73 | [[Executive Function]] | — | — | Self-Regulation: Executive Function a... | 280 |
-| 74 | [[Cognitive Load]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
-| 75 | [[Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
+| 74 | [[Cognitive-Load|Cognitive Load]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
+| 75 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 76 | [[Information Theory]] | — | — | Cognitive Load Reduction Through Cate... | 290 |
 | 77 | [[Metacognitive]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 78 | [[John Sweller]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
-| 79 | [[Cognitive Load Theory]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
+| 79 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 80 | [[Automaticity]] | — | — | Cognitive Load Reduction Through Cate... | 295 |
 | 81 | [[Rumination]] | — | — | Cognitive Load Reduction Through Cate... | 297 |
-| 82 | [[Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 297 |
-| 83 | [[Personal Knowledge Base]] | — | — | Rumination Prevention Through Tempora... | 310 |
+| 82 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Reduction Through Cate... | 297 |
+| 83 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Rumination Prevention Through Tempora... | 310 |
 | 84 | [[Forcing Functions]] | — | — | Forcing Functions for Rational Assess... | 314 |
 | 85 | [[Metacognitive]] | — | — | Forcing Functions for Rational Assess... | 314 |
-| 86 | [[Implementation Intentions]] | — | — | Forcing Functions for Rational Assess... | 314 |
+| 86 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Forcing Functions for Rational Assess... | 314 |
 | 87 | [[Prospective Memory]] | — | — | Forcing Functions for Rational Assess... | 314 |
 | 88 | [[Schema]] | — | — | Forcing Functions for Rational Assess... | 327 |
-| 89 | [[Working Memory]] | — | — | Forcing Functions for Rational Assess... | 327 |
-| 90 | [[Cognitive Load Theory]] | — | — | Forcing Functions for Rational Assess... | 327 |
+| 89 | [[Working-Memory|Working Memory]] | — | — | Forcing Functions for Rational Assess... | 327 |
+| 90 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Forcing Functions for Rational Assess... | 327 |
 | 91 | [[Obsidian]] | — | — | Template-Based Forcing Functions | 335 |
 | 92 | [[Obsidian]] | — | — | Metadata-Driven Attention Allocation | 373 |
 | 93 | [[Dataview]] | — | — | Metadata-Driven Attention Allocation | 388 |
@@ -728,26 +728,26 @@ extraction_summary:
 | 108 | [[Industry Disruption Events]] | — | — | Link Structure and Graph-Based Contro... | 426 |
 | 109 | [[Others' Hiring Decisions]] | — | — | Link Structure and Graph-Based Contro... | 427 |
 | 110 | [[Company-Wide Policy Changes]] | — | — | Link Structure and Graph-Based Contro... | 428 |
-| 111 | [[Spaced Repetition]] | — | — | Spaced Repetition for Habit Formation | 439 |
+| 111 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Spaced Repetition for Habit Formation | 439 |
 | 112 | [[Metacognitive]] | — | — | Spaced Repetition for Habit Formation | 439 |
 | 113 | [[Tiago Forte]] | — | — | Progressive Summarization with Contro... | 457 |
-| 114 | [[Progressive Summarization]] | — | — | Progressive Summarization with Contro... | 457 |
-| 115 | [[Self-Determination Theory]] | — | — | Self-Determination Theory Alignment | 478 |
+| 114 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Progressive Summarization with Contro... | 457 |
+| 115 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory Alignment | 478 |
 | 116 | [[Autonomy]] | — | — | Self-Determination Theory Alignment | 478 |
 | 117 | [[Competence]] | — | — | Self-Determination Theory Alignment | 478 |
 | 118 | [[Relatedness]] | — | — | Self-Determination Theory Alignment | 478 |
 | 119 | [[Autonomy]] | — | — | Self-Determination Theory Alignment | 483 |
 | 120 | [[Competence]] | — | — | Self-Determination Theory Alignment | 485 |
 | 121 | [[Relatedness]] | — | — | Self-Determination Theory Alignment | 487 |
-| 122 | [[Cognitive Load Theory]] | — | — | Cognitive Load Theory Implementation | 491 |
-| 123 | [[Working Memory]] | — | — | Cognitive Load Theory Implementation | 500 |
+| 122 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory Implementation | 491 |
+| 123 | [[Working-Memory|Working Memory]] | — | — | Cognitive Load Theory Implementation | 500 |
 | 124 | [[Metacognitive]] | — | — | Metacognition as Integrating Architec... | 506 |
 | 125 | [[Metacognition]] | — | — | Metacognition as Integrating Architec... | 511 |
 | 126 | [[Pragmatism]] | pragmatist | — | Pragmatist Methodology Bridge | 523 |
 | 127 | [[Constructivism]] | constructivist | — | Pragmatist Methodology Bridge | 525 |
 | 128 | [[Andragogy]] | — | — | Pragmatist Methodology Bridge | 525 |
 | 129 | [[Relevant Goal Note]] | — | — | Design Principle 3: Action-Possibilit... | 584 |
-| 130 | [[Locus of Control]] | — | — | Neural Correlates of Stoic Practice | 614 |
+| 130 | [[Locus-of-Control|Locus of Control]] | — | — | Neural Correlates of Stoic Practice | 614 |
 | 131 | [[Rumination]] | — | — | Neural Correlates of Stoic Practice | 614 |
 | 132 | [[Cognitive Reappraisal Techniques in PKB Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 657 |
 | 133 | [[Implementation Intentions and Prospective Memory in Knowledge Systems]] | — | — | 🔗 Related Topics for PKB Expansion | 662 |
@@ -927,9 +927,9 @@ extraction_summary:
 - [[Attentional Control Training for Knowledge Workers]]
 - [[Automaticity]]
 - [[Autonomy]]
-- [[Cognitive Load]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Load|Cognitive Load]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Cognitive Reappraisal Techniques in PKB Architecture]]
 - [[Cognitive-Behavioral Therapy]]
 - [[Company Culture Fit]]
@@ -939,33 +939,33 @@ extraction_summary:
 - [[Culture Research Methods]]
 - [[Dataview]]
 - [[Decision Frameworks]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Economic Cycles]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
 - [[Executive Function]]
 - [[Forcing Functions]]
-- [[Implementation Intentions]]
+- [[Implementation-Intentions|Implementation Intentions]]
 - [[Implementation Intentions and Prospective Memory in Knowledge Systems]]
 - [[Industry Disruption Events]]
 - [[Information Theory]]
 - [[Interview Performance Optimization]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Job Market Conditions]]
 - [[John Sweller]]
 - [[Julian Rotter]]
-- [[Locus of Control]]
+- [[Locus-of-Control|Locus of Control]]
 - [[Marcus Aurelius]]
 - [[Metacognition]]
 - [[Metacognitive]]
 - [[Network Cultivation]]
 - [[Obsidian]]
 - [[Others' Hiring Decisions]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Portfolio Building]]
 - [[Pragmatism]]
 - [[Preference Communication Strategy]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Project Assignments]]
 - [[Prospective Memory]]
 - [[Rational Assessment]]
@@ -974,18 +974,18 @@ extraction_summary:
 - [[Rumination]]
 - [[Salary Negotiation Preparation]]
 - [[Schema]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
 - [[Self-Regulation-Theory]]
 - [[Seneca]]
 - [[Skill Alignment with Demand]]
 - [[Skill Development Strategy]]
 - [[Social Learning Theory]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
 - [[Stoic]]
 - [[Stoicism]]
 - [[Tiago Forte]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Zeno of Citium]]
 - [[Zettelkasten]]
 

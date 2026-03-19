@@ -140,11 +140,11 @@ extraction_summary:
 
 > [!further-exploration] Untitled
 > Recommended continued study:
-> - [[Dual-Process Theory]] (System 1 vs System 2 thinking) and its implications for when biases are most likely to operate undetected
+> - [[Dual-Process-Theory|Dual-Process Theory]] (System 1 vs System 2 thinking) and its implications for when biases are most likely to operate undetected
 > - [[Epistemic Learned Helplessness]] and how exposure to sophisticated but flawed reasoning can damage metacognitive confidence
-> - [[Motivated Reasoning]] and [[Identity-Protective Cognition]] as special cases where biases serve psychological functions that make them particularly resistant to correction
+> - [[Motivated-Reasoning|Motivated Reasoning]] and [[Identity-Protective Cognition]] as special cases where biases serve psychological functions that make them particularly resistant to correction
 > - [[Bayesian Updating]] and probabilistic thinking frameworks as formal alternatives to bias-prone intuitive reasoning
-> - [[Cognitive Load Theory]] and how working memory limitations create windows of vulnerability for biases and fallacies
+> - [[Cognitive-Load-Theory|Cognitive Load Theory]] and how working memory limitations create windows of vulnerability for biases and fallacies
 > - [[Adversarial Collaboration]] methodologies from scientific practice as models for personal bias-checking systems
 > - [[Prediction Markets]] and [[Forecasting Tournaments]] as empirical training grounds for calibration improvement.
 
@@ -160,13 +160,13 @@ extraction_summary:
 
 - [[Adversarial Collaboration]]
 - [[Bayesian Updating]]
-- [[Cognitive Load Theory]]
-- [[Dual-Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Epistemic Learned Helplessness]]
 - [[Forecasting Tournaments]]
 - [[Identity-Protective Cognition]]
 - [[Logical]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Prediction Markets]]
 
 ### All Occurrences
@@ -174,12 +174,12 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Logical]] | — | — | Document Start | 39 |
-| 2 | [[Dual-Process Theory]] | — | — | FURTHER EXPLORATION | 101 |
+| 2 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | FURTHER EXPLORATION | 101 |
 | 3 | [[Epistemic Learned Helplessness]] | — | — | FURTHER EXPLORATION | 102 |
-| 4 | [[Motivated Reasoning]] | — | — | FURTHER EXPLORATION | 103 |
+| 4 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | FURTHER EXPLORATION | 103 |
 | 5 | [[Identity-Protective Cognition]] | — | — | FURTHER EXPLORATION | 103 |
 | 6 | [[Bayesian Updating]] | — | — | FURTHER EXPLORATION | 104 |
-| 7 | [[Cognitive Load Theory]] | — | — | FURTHER EXPLORATION | 105 |
+| 7 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | FURTHER EXPLORATION | 105 |
 | 8 | [[Adversarial Collaboration]] | — | — | FURTHER EXPLORATION | 106 |
 | 9 | [[Prediction Markets]] | — | — | FURTHER EXPLORATION | 107 |
 | 10 | [[Forecasting Tournaments]] | — | — | FURTHER EXPLORATION | 107 |
@@ -251,13 +251,13 @@ Let me deconstruct this subject area:
 
 - [[Adversarial Collaboration]]
 - [[Bayesian Updating]]
-- [[Cognitive Load Theory]]
-- [[Dual-Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Epistemic Learned Helplessness]]
 - [[Forecasting Tournaments]]
 - [[Identity-Protective Cognition]]
 - [[Logical]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Prediction Markets]]
 
 ---

@@ -381,65 +381,65 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Aporic Receptivity]]
-- [[Cognitive Load Theory]]
-- [[Constructive Attentiveness]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Constructive-Attentiveness|Constructive Attentiveness]]
 - [[Constructivism]]
 - [[Dewey's Reflective Thinking]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Fallibilism]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Metacognitive Self-Regulation]]
 - [[Metacognitive Strategy]]
 - [[Mihaly Csikszentmihalyi]]
 - [[Phronesis]]
-- [[Pragmatic Maxim]]
+- [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Pragmatism]]
 - [[Prohairesis]]
-- [[Recursive Self-Authorship]]
+- [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[SDT]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Socratic Method]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Socratic-Method|Socratic Method]]
 - [[Stoic Prosoche]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Dewey's Reflective Thinking]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
-| 2 | [[Socratic Method]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
-| 3 | [[Aporic Receptivity]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
+| 2 | [[Socratic-Method|Socratic Method]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
+| 3 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | The Activation Layer: Inquiry as the ... | 185 |
 | 4 | [[Fallibilism]] | — | — | The Epistemological Layer: The Stance... | 189 |
 | 5 | [[Pragmatism]] | — | — | The Epistemological Layer: The Stance... | 189 |
 | 6 | [[Constructivism]] | — | — | The Epistemological Layer: The Stance... | 189 |
-| 7 | [[Self-Determination Theory]] | — | — | The Motivational Layer: The Engine of... | 193 |
+| 7 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Motivational Layer: The Engine of... | 193 |
 | 8 | [[Mihaly Csikszentmihalyi]] | — | — | The Motivational Layer: The Engine of... | 193 |
 | 9 | [[Prohairesis]] | — | — | The Motivational Layer: The Engine of... | 193 |
-| 10 | [[Zone of Proximal Development]] | — | — | The Construction Layer: The Mechanism... | 197 |
-| 11 | [[Schema Theory]] | — | — | The Construction Layer: The Mechanism... | 197 |
-| 12 | [[Pragmatic Maxim]] | — | — | The Construction Layer: The Mechanism... | 197 |
-| 13 | [[Cognitive Load Theory]] | — | — | The Construction Layer: The Mechanism... | 197 |
-| 14 | [[Constructive Attentiveness]] | — | — | The Construction Layer: The Mechanism... | 197 |
-| 15 | [[Intellectual Humility]] | — | — | The Character Layer: The Reliability ... | 201 |
-| 16 | [[Intellectual Courage]] | — | — | The Character Layer: The Reliability ... | 201 |
-| 17 | [[Intellectual Empathy]] | — | — | The Character Layer: The Reliability ... | 201 |
-| 18 | [[Intellectual Perseverance]] | — | — | The Character Layer: The Reliability ... | 201 |
-| 19 | [[Intellectual Integrity]] | — | — | The Character Layer: The Reliability ... | 201 |
-| 20 | [[Dual Process Theory]] | — | — | The Governance Layer: The Executive O... | 205 |
+| 10 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Construction Layer: The Mechanism... | 197 |
+| 11 | [[Schema-Theory|Schema Theory]] | — | — | The Construction Layer: The Mechanism... | 197 |
+| 12 | [[Pragmatic-Maxim|Pragmatic Maxim]] | — | — | The Construction Layer: The Mechanism... | 197 |
+| 13 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Construction Layer: The Mechanism... | 197 |
+| 14 | [[Constructive-Attentiveness|Constructive Attentiveness]] | — | — | The Construction Layer: The Mechanism... | 197 |
+| 15 | [[Intellectual-Humility|Intellectual Humility]] | — | — | The Character Layer: The Reliability ... | 201 |
+| 16 | [[Intellectual-Courage|Intellectual Courage]] | — | — | The Character Layer: The Reliability ... | 201 |
+| 17 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | The Character Layer: The Reliability ... | 201 |
+| 18 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | The Character Layer: The Reliability ... | 201 |
+| 19 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | The Character Layer: The Reliability ... | 201 |
+| 20 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Governance Layer: The Executive O... | 205 |
 | 21 | [[Stoic Prosoche]] | — | — | The Governance Layer: The Executive O... | 205 |
 | 22 | [[Metacognitive Self-Regulation]] | — | — | The Governance Layer: The Executive O... | 205 |
-| 23 | [[Self-Regulated Learning]] | — | — | The Development Layer: The System's S... | 209 |
+| 23 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Development Layer: The System's S... | 209 |
 | 24 | [[Constructivism]] | — | — | The Development Layer: The System's S... | 209 |
 | 25 | [[SDT]] | — | — | The Development Layer: The System's S... | 209 |
 | 26 | [[Metacognitive Strategy]] | — | — | The Development Layer: The System's S... | 209 |
-| 27 | [[Recursive Self-Authorship]] | — | — | The Development Layer: The System's S... | 209 |
+| 27 | [[Recursive-Self-Authorship|Recursive Self-Authorship]] | — | — | The Development Layer: The System's S... | 209 |
 | 28 | [[Phronesis]] | — | — | The Structural Limitations | 339 |
 
 ---
@@ -463,47 +463,47 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Aporic Receptivity]]
-- [[Cognitive Load Theory]]
-- [[Constructive Attentiveness]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Constructive-Attentiveness|Constructive Attentiveness]]
 - [[Constructivism]]
 - [[Dewey's Reflective Thinking]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Fallibilism]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Metacognitive Self-Regulation]]
 - [[Metacognitive Strategy]]
 - [[Mihaly Csikszentmihalyi]]
 - [[Phronesis]]
-- [[Pragmatic Maxim]]
+- [[Pragmatic-Maxim|Pragmatic Maxim]]
 - [[Pragmatism]]
 - [[Prohairesis]]
-- [[Recursive Self-Authorship]]
+- [[Recursive-Self-Authorship|Recursive Self-Authorship]]
 - [[SDT]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
-- [[Socratic Method]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Socratic-Method|Socratic Method]]
 - [[Stoic Prosoche]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
 - [[Reports 01–07 of The Architecture of the Examined Life]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Cognitive Mode of Being]]
 
 #### Related
 
-- [[Epistemic Character]]
-- [[Intellectual Virtues]]
-- [[Apt Epistemic Performance]]
+- [[Epistemic-Character|Epistemic Character]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
+- [[Apt-Epistemic-Performance|Apt Epistemic Performance]]
 - [[Examined Life]]
 
 ---

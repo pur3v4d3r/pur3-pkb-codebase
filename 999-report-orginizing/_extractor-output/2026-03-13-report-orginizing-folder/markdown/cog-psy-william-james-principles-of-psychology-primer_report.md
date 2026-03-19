@@ -118,7 +118,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Executive Summary *(Line 3)*
 
 > [!abstract] Executive Summary
-> This comprehensive primer prepares you for engaging with William James's twelve-hundred-page masterwork, *The Principles of Psychology* (1890)—widely considered the most important text in the history of modern psychology. The document provides historical context, maps the intellectual network that shaped James's thinking, explicates the four core theoretical pillars (stream of consciousness, emotion, habit, and will), and offers strategic guidance for navigating this dense but rewarding text. Particular attention is paid to connections with [[Pragmatism]], [[Functionalism]], and the foundations of modern [[Cognitive Science]].
+> This comprehensive primer prepares you for engaging with William James's twelve-hundred-page masterwork, *The Principles of Psychology* (1890)—widely considered the most important text in the history of modern psychology. The document provides historical context, maps the intellectual network that shaped James's thinking, explicates the four core theoretical pillars (stream of consciousness, emotion, habit, and will), and offers strategic guidance for navigating this dense but rewarding text. Particular attention is paid to connections with [[Pragmatism]], [[Functionalism]], and the foundations of modern [[Cognitive-Science|Cognitive Science]].
 
 #### 2. [KEY-CLAIM] Disciplinary Founding *(Line 18)*
 
@@ -143,7 +143,7 @@ extraction_summary:
 #### 6. [INSIGHT] Philosophical Debt *(Line 188)*
 
 > [!insight] Philosophical Debt
-> Perhaps most significantly, James established the legitimacy of first-person phenomenological data as scientifically respectable evidence. Before James, consciousness was either a metaphysical mystery (for idealists) or an epiphenomenal side-effect (for materialists). James demonstrated that careful phenomenological description, constrained by neuroscience and experiment, could generate testable psychological theories. This paved the way for [[Cognitive Science]]'s methodological pluralism: first-person reports, behavioral measurements, neural imaging, and computational modeling all contribute to understanding mind.
+> Perhaps most significantly, James established the legitimacy of first-person phenomenological data as scientifically respectable evidence. Before James, consciousness was either a metaphysical mystery (for idealists) or an epiphenomenal side-effect (for materialists). James demonstrated that careful phenomenological description, constrained by neuroscience and experiment, could generate testable psychological theories. This paved the way for [[Cognitive-Science|Cognitive Science]]'s methodological pluralism: first-person reports, behavioral measurements, neural imaging, and computational modeling all contribute to understanding mind.
 
 #### 7. [ASK-YOURSELF-THIS] Self-Study Questions *(Line 227)*
 
@@ -196,16 +196,16 @@ extraction_summary:
 - [[Charles Renouvier]]
 - [[Charles Sanders Peirce]]
 - [[Chicago School]]
-- [[Cognitive Science]]
-- [[Critical Thinking]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
 - [[David Hume]]
 - [[Donald Hebb]]
 - [[Edmund Husserl]]
 - [[Eduard von Hartmann]]
-- [[Educational Psychology]]
-- [[Edward Thorndike]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward Titchener]]
 - [[Erving Goffman]]
 - [[Evolutionary Psychology]]
@@ -217,7 +217,7 @@ extraction_summary:
 - [[George Herbert Mead]]
 - [[Gestalt Psychology]]
 - [[Gustav Fechner]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hebbian Learning]]
 - [[Helmholtz]]
 - [[Herbert Spencer]]
@@ -226,7 +226,7 @@ extraction_summary:
 - [[Hippolyte Taine]]
 - [[James Mill]]
 - [[James-Lange Theory]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
 - [[John Locke]]
 - [[John Stuart Mill]]
@@ -238,7 +238,7 @@ extraction_summary:
 - [[Maurice Merleau-Ponty]]
 - [[Metacognition]]
 - [[Metacognition and Self-Regulation]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metaphysical Club]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
@@ -259,7 +259,7 @@ extraction_summary:
 - [[Will to Believe]]
 - [[William James]]
 - [[William James - Habit and Education]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[https://plato.stanford.edu/entries/james/]]
 - [[https://plato.stanford.edu/entries/peirce/]]
 - [[https://plato.stanford.edu/entries/pragmatism/]]
@@ -270,7 +270,7 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Pragmatism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 2 | [[Functionalism]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
-| 3 | [[Cognitive Science]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
+| 3 | [[Cognitive-Science|Cognitive Science]] | — | — | 📚 Reading Primer: William James's *Th... | 4 |
 | 4 | [[Will]] | — | — | 🌟 Historical & Biographical Context | 12 |
 | 5 | [[Free Will]] | — | — | 🌟 Historical & Biographical Context | 12 |
 | 6 | [[Charles Renouvier]] | — | — | 🌟 Historical & Biographical Context | 14 |
@@ -297,7 +297,7 @@ extraction_summary:
 | 27 | [[G. Stanley Hall]] | — | — | 🎭 Intellectual Network & Philosophica... | 53 |
 | 28 | [[Paul Broca]] | — | — | 📖 Structural Architecture: The 28 Cha... | 67 |
 | 29 | [[Carl Wernicke]] | — | — | 📖 Structural Architecture: The 28 Cha... | 67 |
-| 30 | [[Habit Formation]] | — | — | 📖 Structural Architecture: The 28 Cha... | 69 |
+| 30 | [[Habit-Formation|Habit Formation]] | — | — | 📖 Structural Architecture: The 28 Cha... | 69 |
 | 31 | [[Synaptic Plasticity]] | — | — | 📖 Structural Architecture: The 28 Cha... | 69 |
 | 32 | [[George Herbert Mead]] | — | — | 📖 Structural Architecture: The 28 Cha... | 75 |
 | 33 | [[Erving Goffman]] | — | — | 📖 Structural Architecture: The 28 Cha... | 75 |
@@ -312,14 +312,14 @@ extraction_summary:
 | 42 | [[Philip Bard]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 43 | [[Antonio Damasio]] | — | — | 2. The James-Lange Theory of Emotion | 114 |
 | 44 | [[Donald Hebb]] | — | — | 3. The Architecture of Habit | 120 |
-| 45 | [[Habit Formation]] | — | — | 3. The Architecture of Habit | 126 |
+| 45 | [[Habit-Formation|Habit Formation]] | — | — | 3. The Architecture of Habit | 126 |
 | 46 | [[Neural Plasticity]] | — | — | 3. The Architecture of Habit | 126 |
 | 47 | [[Hebbian Learning]] | — | — | 3. The Architecture of Habit | 126 |
 | 48 | [[Wilhelm Wundt]] | — | — | 🧭 Methodological Stance & Philosophic... | 146 |
 | 49 | [[John Watson]] | — | — | 🧭 Methodological Stance & Philosophic... | 148 |
 | 50 | [[Functionalism]] | — | — | 🧭 Methodological Stance & Philosophic... | 150 |
 | 51 | [[Edward Titchener]] | — | — | 🧭 Methodological Stance & Philosophic... | 150 |
-| 52 | [[John Dewey]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
+| 52 | [[John-Dewey|John Dewey]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 53 | [[George Herbert Mead]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 54 | [[Chicago School]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
 | 55 | [[Evolutionary Psychology]] | — | — | 🧭 Methodological Stance & Philosophic... | 154 |
@@ -328,13 +328,13 @@ extraction_summary:
 | 58 | [[Maurice Merleau-Ponty]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
 | 59 | [[Martin Heidegger]] | — | — | 🌐 Contemporary Significance & Endurin... | 174 |
 | 60 | [[Ludwig Wittgenstein]] | — | — | 🌐 Contemporary Significance & Endurin... | 176 |
-| 61 | [[Edward Thorndike]] | — | — | 🌐 Contemporary Significance & Endurin... | 180 |
+| 61 | [[Edward-Thorndike|Edward Thorndike]] | — | — | 🌐 Contemporary Significance & Endurin... | 180 |
 | 62 | [[Mindfulness-Based Stress Reduction]] | — | — | 🌐 Contemporary Significance & Endurin... | 182 |
 | 63 | [[Biofeedback]] | — | — | 🌐 Contemporary Significance & Endurin... | 182 |
 | 64 | [[Mindfulness-Based Cognitive Therapy]] | — | — | 🌐 Contemporary Significance & Endurin... | 184 |
 | 65 | [[Attention Process Training]] | — | — | 🌐 Contemporary Significance & Endurin... | 184 |
 | 66 | [[Antonio Damasio]] | — | — | 🌐 Contemporary Significance & Endurin... | 186 |
-| 67 | [[Cognitive Science]] | — | — | 🌐 Contemporary Significance & Endurin... | 189 |
+| 67 | [[Cognitive-Science|Cognitive Science]] | — | — | 🌐 Contemporary Significance & Endurin... | 189 |
 | 68 | [[Herbert Spencer]] | — | — | 📋 Reading Strategy & Approach | 203 |
 | 69 | [[Gustav Fechner]] | — | — | 📋 Reading Strategy & Approach | 203 |
 | 70 | [[Eduard von Hartmann]] | — | — | 📋 Reading Strategy & Approach | 203 |
@@ -344,10 +344,10 @@ extraction_summary:
 | 74 | [[Charles Sanders Peirce]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 75 | [[Pragmatism]] | — | — | 📋 Reading Strategy & Approach | 238 |
 | 76 | [[Metacognition]] | — | — | 📋 Reading Strategy & Approach | 244 |
-| 77 | [[Educational Psychology]] | — | — | 📋 Reading Strategy & Approach | 244 |
-| 78 | [[Critical Thinking]] | — | — | 📋 Reading Strategy & Approach | 244 |
-| 79 | [[Metacognitive Regulation]] | — | — | 📋 Reading Strategy & Approach | 246 |
-| 80 | [[Working Memory]] | — | — | 📋 Reading Strategy & Approach | 248 |
+| 77 | [[Educational-Psychology|Educational Psychology]] | — | — | 📋 Reading Strategy & Approach | 244 |
+| 78 | [[Critical-Thinking|Critical Thinking]] | — | — | 📋 Reading Strategy & Approach | 244 |
+| 79 | [[Metacognitive-Regulation|Metacognitive Regulation]] | — | — | 📋 Reading Strategy & Approach | 246 |
+| 80 | [[Working-Memory|Working Memory]] | — | — | 📋 Reading Strategy & Approach | 248 |
 | 81 | [[Executive Function]] | — | — | 📋 Reading Strategy & Approach | 250 |
 | 82 | [[Social Psychology]] | — | — | 📋 Reading Strategy & Approach | 252 |
 | 83 | [[George Herbert Mead]] | — | — | 📋 Reading Strategy & Approach | 252 |
@@ -392,16 +392,16 @@ extraction_summary:
 - [[Charles Renouvier]]
 - [[Charles Sanders Peirce]]
 - [[Chicago School]]
-- [[Cognitive Science]]
-- [[Critical Thinking]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Deployment]]
 - [[Darwin]]
 - [[David Hume]]
 - [[Donald Hebb]]
 - [[Edmund Husserl]]
 - [[Eduard von Hartmann]]
-- [[Educational Psychology]]
-- [[Edward Thorndike]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Edward-Thorndike|Edward Thorndike]]
 - [[Edward Titchener]]
 - [[Erving Goffman]]
 - [[Evolutionary Psychology]]
@@ -413,7 +413,7 @@ extraction_summary:
 - [[George Herbert Mead]]
 - [[Gestalt Psychology]]
 - [[Gustav Fechner]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Hebbian Learning]]
 - [[Helmholtz]]
 - [[Herbert Spencer]]
@@ -422,7 +422,7 @@ extraction_summary:
 - [[Hippolyte Taine]]
 - [[James Mill]]
 - [[James-Lange Theory]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John Dewey - Reflective Thinking]]
 - [[John Locke]]
 - [[John Stuart Mill]]
@@ -434,7 +434,7 @@ extraction_summary:
 - [[Maurice Merleau-Ponty]]
 - [[Metacognition]]
 - [[Metacognition and Self-Regulation]]
-- [[Metacognitive Regulation]]
+- [[Metacognitive-Regulation|Metacognitive Regulation]]
 - [[Metaphysical Club]]
 - [[Mindfulness-Based Cognitive Therapy]]
 - [[Mindfulness-Based Stress Reduction]]
@@ -455,7 +455,7 @@ extraction_summary:
 - [[Will to Believe]]
 - [[William James]]
 - [[William James - Habit and Education]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[https://plato.stanford.edu/entries/james/]]
 - [[https://plato.stanford.edu/entries/peirce/]]
 - [[https://plato.stanford.edu/entries/pragmatism/]]

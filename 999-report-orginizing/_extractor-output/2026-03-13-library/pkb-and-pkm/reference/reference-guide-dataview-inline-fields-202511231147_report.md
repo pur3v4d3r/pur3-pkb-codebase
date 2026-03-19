@@ -152,7 +152,7 @@ extraction_summary:
 #### 1. [THE-PURPOSE] Untitled *(Line 42)*
 
 > [!the-purpose] Untitled
-> **Inline fields** are a core [[Dataview Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
+> **Inline fields** are a core [[Dataview-Plugin|Dataview Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
 
 #### 2. [DEFINITION] Untitled *(Line 47)*
 
@@ -392,7 +392,7 @@ extraction_summary:
 > - **Use lowercase with hyphens** for consistency: `project-status`, `due-date`, `team-lead`
 > - **Avoid spaces** unless you're comfortable with sanitized names
 > - **Be descriptive but concise**: `est-hours` rather than `estimated-hours-to-complete`
-> - **Establish naming patterns** across your [[Personal Knowledge Base]]
+> - **Establish naming patterns** across your [[Personal-Knowledge-Base|Personal Knowledge Base]]
 
 #### 28. [QUICK-REFERENCE] Untitled *(Line 506)*
 
@@ -580,7 +580,7 @@ extraction_summary:
 - [[Bob Rodriguez]]
 - [[Carol Kim]]
 - [[Current User]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS for Advanced Queries]]
@@ -602,7 +602,7 @@ extraction_summary:
 - [[Note C]]
 - [[Obsidian Automation]]
 - [[PKB System Design]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project Beta]]
 - [[Sarah Jones]]
 - [[Tech Writer]]
@@ -615,16 +615,16 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Dataview Plugin]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
+| 1 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
 | 2 | [[YAML Frontmatter]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
 | 3 | [[Dataview Query Language]] | — | — | 🏷️ Dataview Inline Fields: Complete R... | 43 |
 | 4 | [[Markdown]] | — | — | 📐 What Are Inline Fields? | 48 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 📐 What Are Inline Fields? | 56 |
-| 6 | [[Dataview Plugin]] | — | — | 🔧 Syntax Variations | 65 |
+| 6 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🔧 Syntax Variations | 65 |
 | 7 | [[John Smith]] | — | — | Project Alpha | 80 |
 | 8 | [[Acme Corp]] | — | — | Bracketed Inline Syntax | 116 |
 | 9 | [[Sarah Jones]] | — | — | Bracketed Inline Syntax | 117 |
-| 10 | [[Dataview Plugin]] | — | — | 📊 Supported Data Types | 151 |
+| 10 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 📊 Supported Data Types | 151 |
 | 11 | [[Note 1]] | — | — | 📊 Supported Data Types | 164 |
 | 12 | [[Note 2]] | — | — | 📊 Supported Data Types | 164 |
 | 13 | [[Alice Chen]] | — | — | Working With Different Types | 204 |
@@ -643,7 +643,7 @@ extraction_summary:
 | 26 | [[Acme Corp]] | — | — | Deliverables | 360 |
 | 27 | [[Dataview Query Language]] | — | — | ⚙️ Integration with Dataview Queries | 368 |
 | 28 | [[Current User]] | — | — | Filtering with Multiple Conditions | 451 |
-| 29 | [[Personal Knowledge Base]] | — | — | Naming Conventions | 497 |
+| 29 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Naming Conventions | 497 |
 | 30 | [[Alice]] | — | — | Naming Conventions | 503 |
 | 31 | [[Note A]] | — | — | Value Formatting Guidelines | 558 |
 | 32 | [[Note B]] | — | — | Value Formatting Guidelines | 558 |
@@ -655,7 +655,7 @@ extraction_summary:
 | 38 | [[Templater]] | — | — | 🎓 Learning Path & Resources | 774 |
 | 39 | [[YAML Frontmatter in Obsidian]] | — | — | 🔗 Related Topics for PKB Expansion | 787 |
 | 40 | [[Metadata Management]] | — | — | 🔗 Related Topics for PKB Expansion | 790 |
-| 41 | [[Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 790 |
+| 41 | [[Dataview-Plugin|Dataview Plugin]] | — | — | 🔗 Related Topics for PKB Expansion | 790 |
 | 42 | [[Dataview Query Language (DQL)]] | — | — | 🔗 Related Topics for PKB Expansion | 792 |
 | 43 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🔗 Related Topics for PKB Expansion | 795 |
 | 44 | [[DataviewJS for Advanced Queries]] | — | — | 🔗 Related Topics for PKB Expansion | 797 |
@@ -1308,7 +1308,7 @@ dv.list(Array.from(fields).sort());
 - [[Bob Rodriguez]]
 - [[Carol Kim]]
 - [[Current User]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language]]
 - [[Dataview Query Language (DQL)]]
 - [[DataviewJS for Advanced Queries]]
@@ -1330,7 +1330,7 @@ dv.list(Array.from(fields).sort());
 - [[Note C]]
 - [[Obsidian Automation]]
 - [[PKB System Design]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Project Beta]]
 - [[Sarah Jones]]
 - [[Tech Writer]]

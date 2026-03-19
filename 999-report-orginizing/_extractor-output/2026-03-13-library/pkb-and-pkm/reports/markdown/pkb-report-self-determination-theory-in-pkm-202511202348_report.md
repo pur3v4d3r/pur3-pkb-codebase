@@ -128,12 +128,12 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 44)*
 
 > [!abstract] Untitled
-> **Self-Determination Theory represents a foundational framework for understanding why Personal Knowledge Management systems so frequently fail despite their theoretical promise.** Developed by psychologists Edward Deci and Richard Ryan beginning in the 1970s and formally introduced in their 1985 work, [[Self-Determination Theory]] posits that human motivation exists on a continuum from fully external to fully internal regulation, and that **sustainable engagement requires the satisfaction of three innate psychological needs: autonomy, competence, and relatedness.** When applied to [[Personal Knowledge Management]] systems, SDT reveals that most PKB implementations fail not because of technical inadequacy but because they structurally frustrate these basic needs, transforming what should be an intrinsically motivated knowledge practice into a controlled obligation that triggers abandonment. This analysis examines the cognitive architecture underlying motivation for sustained knowledge work, exploring how system design choices either support or undermine the psychological conditions necessary for lifelong learning engagement.
+> **Self-Determination Theory represents a foundational framework for understanding why Personal Knowledge Management systems so frequently fail despite their theoretical promise.** Developed by psychologists Edward Deci and Richard Ryan beginning in the 1970s and formally introduced in their 1985 work, [[Self-Determination-Theory|Self-Determination Theory]] posits that human motivation exists on a continuum from fully external to fully internal regulation, and that **sustainable engagement requires the satisfaction of three innate psychological needs: autonomy, competence, and relatedness.** When applied to [[Personal-Knowledge-Management|Personal Knowledge Management]] systems, SDT reveals that most PKB implementations fail not because of technical inadequacy but because they structurally frustrate these basic needs, transforming what should be an intrinsically motivated knowledge practice into a controlled obligation that triggers abandonment. This analysis examines the cognitive architecture underlying motivation for sustained knowledge work, exploring how system design choices either support or undermine the psychological conditions necessary for lifelong learning engagement.
 
 #### 2. [DEFINITION] Untitled *(Line 49)*
 
 > [!definition] Untitled
-> **[[Self-Determination Theory]] (SDT)** is a macro-theory of human motivation and personality that distinguishes between autonomous (self-determined) and controlled motivations, proposing that psychological wellness and optimal functioning depend upon the satisfaction of three universal, innate psychological needs: autonomy, competence, and relatedness. Unlike theories focused solely on the *quantity* of motivation, SDT emphasizes that the *quality* of motivation—specifically, whether behavior is experienced as voluntary versus compelled—fundamentally determines both performance outcomes and psychological well-being.
+> **[[Self-Determination-Theory|Self-Determination Theory]] (SDT)** is a macro-theory of human motivation and personality that distinguishes between autonomous (self-determined) and controlled motivations, proposing that psychological wellness and optimal functioning depend upon the satisfaction of three universal, innate psychological needs: autonomy, competence, and relatedness. Unlike theories focused solely on the *quantity* of motivation, SDT emphasizes that the *quality* of motivation—specifically, whether behavior is experienced as voluntary versus compelled—fundamentally determines both performance outcomes and psychological well-being.
 
 #### 3. [CORE-PRINCIPLE] Untitled *(Line 56)*
 
@@ -219,17 +219,17 @@ extraction_summary:
 ### Unique Targets
 
 - [[Andragogy]]
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Autonomy]]
-- [[Autonomy Support]]
+- [[Autonomy-Support|Autonomy Support]]
 - [[Behavioral Psychology]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Scaffolding and Zone of Proximal Development]]
 - [[Collaborative Sense-Making]]
 - [[Community Connection Features]]
 - [[Competence]]
 - [[Constructivist Learning]]
-- [[Controlled Motivation]]
+- [[Controlled-Motivation|Controlled Motivation]]
 - [[Digital Garden]]
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
@@ -242,13 +242,13 @@ extraction_summary:
 - [[Goal Content Theory and Intrinsic Life Goals]]
 - [[Goal-Setting Theory]]
 - [[Graduated Challenge]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
 - [[Implementation Cost]]
 - [[Implementation Intentions and the Planning-Execution Gap]]
 - [[Internalized Shoulds]]
-- [[Intrinsic Motivation]]
-- [[Introjected Regulation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Introjected-Regulation|Introjected Regulation]]
 - [[Knowledge Attrition]]
 - [[Large Language Models]]
 - [[Learning in Public]]
@@ -262,17 +262,17 @@ extraction_summary:
 - [[Mindfulness]]
 - [[Motivation Science]]
 - [[Operant Conditioning]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal Knowledge Graph]]
-- [[Personal Knowledge Management]]
-- [[Progressive Disclosure]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Re-Engagement Compassion]]
 - [[Reduced Friction]]
 - [[Relatedness]]
 - [[Self-Compassion]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Shoulds and Oughts]]
 - [[Social Learning Theory]]
 - [[Social Proof Mechanisms]]
@@ -285,40 +285,40 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | Document Start | 45 |
-| 2 | [[Personal Knowledge Management]] | — | — | Document Start | 45 |
-| 3 | [[Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 50 |
-| 4 | [[Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 45 |
+| 2 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Document Start | 45 |
+| 3 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 50 |
+| 4 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 5 | [[Motivation Science]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 6 | [[Behavioral Psychology]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
 | 7 | [[Operant Conditioning]] | — | — | 🧬 Foundations: The Architecture of Hu... | 52 |
-| 8 | [[Intrinsic Motivation]] | — | — | 🧬 Foundations: The Architecture of Hu... | 54 |
-| 9 | [[Personal Knowledge Management]] | — | — | 🧬 Foundations: The Architecture of Hu... | 61 |
+| 8 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🧬 Foundations: The Architecture of Hu... | 54 |
+| 9 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🧬 Foundations: The Architecture of Hu... | 61 |
 | 10 | [[Autonomy]] | — | — | Autonomy: The Need for Volition and S... | 68 |
-| 11 | [[Introjected Regulation]] | — | — | Autonomy: The Need for Volition and S... | 72 |
+| 11 | [[Introjected-Regulation|Introjected Regulation]] | — | — | Autonomy: The Need for Volition and S... | 72 |
 | 12 | [[Shoulds and Oughts]] | — | — | Autonomy: The Need for Volition and S... | 72 |
-| 13 | [[Autonomy Support]] | — | — | Autonomy: The Need for Volition and S... | 74 |
+| 13 | [[Autonomy-Support|Autonomy Support]] | — | — | Autonomy: The Need for Volition and S... | 74 |
 | 14 | [[Competence]] | — | — | Competence: The Need for Effectance a... | 79 |
-| 15 | [[Cognitive Load Theory]] | — | — | Competence: The Need for Effectance a... | 85 |
+| 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Competence: The Need for Effectance a... | 85 |
 | 16 | [[Implementation Cost]] | — | — | Competence: The Need for Effectance a... | 87 |
 | 17 | [[Relatedness]] | — | — | Relatedness: The Need for Connection ... | 92 |
 | 18 | [[Digital Gardens]] | — | — | Relatedness: The Need for Connection ... | 96 |
-| 19 | [[Organismic Integration Theory]] | — | — | The Motivation Continuum and Internal... | 104 |
+| 19 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Motivation Continuum and Internal... | 104 |
 | 20 | [[Internalized Shoulds]] | — | — | The Motivation Continuum and Internal... | 106 |
 | 21 | [[Mindfulness]] | — | — | The Role of Mindfulness and Self-Regu... | 114 |
-| 22 | [[Controlled Motivation]] | — | — | The Role of Mindfulness and Self-Regu... | 116 |
+| 22 | [[Controlled-Motivation|Controlled Motivation]] | — | — | The Role of Mindfulness and Self-Regu... | 116 |
 | 23 | [[Metacognitive Kindness]] | — | — | The Role of Mindfulness and Self-Regu... | 118 |
 | 24 | [[Flow]] | — | — | Flow, Vitality, and Sustainable Engag... | 122 |
 | 25 | [[Flow Theory]] | — | — | Flow, Vitality, and Sustainable Engag... | 124 |
 | 26 | [[Eudaimonic Well-being]] | — | — | Flow, Vitality, and Sustainable Engag... | 126 |
 | 27 | [[Digital Learning Environments]] | — | — | Educational Technology and Digital Le... | 132 |
-| 28 | [[Self-Regulated Learning]] | — | — | Educational Technology and Digital Le... | 136 |
+| 28 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Educational Technology and Digital Le... | 136 |
 | 29 | [[Metacognitive]] | — | — | Educational Technology and Digital Le... | 136 |
 | 30 | [[Self-Efficacy]] | — | — | Knowledge Management in Organizations | 142 |
 | 31 | [[Technology Acceptance]] | — | — | Motivation and Technology Acceptance | 148 |
 | 32 | [[Self-Efficacy]] | — | — | Motivation and Technology Acceptance | 150 |
 | 33 | [[Structural Flexibility]] | — | — | Autonomy-Supportive Design | 159 |
-| 34 | [[Progressive Disclosure]] | — | — | Autonomy-Supportive Design | 159 |
+| 34 | [[Progressive-Disclosure|Progressive Disclosure]] | — | — | Autonomy-Supportive Design | 159 |
 | 35 | [[Forgiving Architecture]] | — | — | Autonomy-Supportive Design | 159 |
 | 36 | [[Meaning-Centered Language]] | — | — | Autonomy-Supportive Design | 159 |
 | 37 | [[Visible Impact Feedback]] | — | — | Competence-Supportive Design | 168 |
@@ -333,7 +333,7 @@ extraction_summary:
 | 46 | [[Digital Garden]] | — | — | Relatedness-Supportive Design | 179 |
 | 47 | [[Learning in Public]] | — | — | Relatedness-Supportive Design | 179 |
 | 48 | [[Re-Engagement Compassion]] | — | — | Addressing the Abandonment Pattern | 190 |
-| 49 | [[Artificial Intelligence]] | — | — | Digital Technology and Evolving Motiv... | 196 |
+| 49 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]] | — | — | Digital Technology and Evolving Motiv... | 196 |
 | 50 | [[Personal Knowledge Graph]] | — | — | Digital Technology and Evolving Motiv... | 196 |
 | 51 | [[Large Language Models]] | — | — | Digital Technology and Evolving Motiv... | 198 |
 | 52 | [[Andragogy]] | — | — | Lifespan Developmental Considerations | 208 |
@@ -343,14 +343,14 @@ extraction_summary:
 | 56 | [[Implementation Intentions and the Planning-Execution Gap]] | — | — | 🔗 Related Topics for PKB Expansion | 238 |
 | 57 | [[Goal Content Theory and Intrinsic Life Goals]] | — | — | 🔗 Related Topics for PKB Expansion | 243 |
 | 58 | [[Cognitive Scaffolding and Zone of Proximal Development]] | — | — | 🔗 Related Topics for PKB Expansion | 248 |
-| 59 | [[Self-Determination Theory]] | — | — | 📚 References & Resources | 310 |
-| 60 | [[Intrinsic Motivation]] | — | — | 📚 References & Resources | 311 |
+| 59 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📚 References & Resources | 310 |
+| 60 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 📚 References & Resources | 311 |
 | 61 | [[Extrinsic Motivation]] | — | — | 📚 References & Resources | 312 |
 | 62 | [[Autonomy]] | — | — | 📚 References & Resources | 313 |
 | 63 | [[Competence]] | — | — | 📚 References & Resources | 314 |
 | 64 | [[Relatedness]] | — | — | 📚 References & Resources | 315 |
-| 65 | [[Personal Knowledge Management]] | — | — | 📚 References & Resources | 316 |
-| 66 | [[Cognitive Load Theory]] | — | — | 📚 References & Resources | 317 |
+| 65 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📚 References & Resources | 316 |
+| 66 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 📚 References & Resources | 317 |
 | 67 | [[Flow Theory]] | — | — | 📚 References & Resources | 318 |
 | 68 | [[Andragogy]] | — | — | 📚 References & Resources | 319 |
 | 69 | [[Constructivist Learning]] | — | — | 📚 References & Resources | 320 |
@@ -362,7 +362,7 @@ extraction_summary:
 | 75 | [[Social Learning Theory]] | — | — | 📚 References & Resources | 326 |
 | 76 | [[Zettelkasten]] | — | — | 📚 References & Resources | 327 |
 | 77 | [[Knowledge Attrition]] | — | — | 📚 References & Resources | 328 |
-| 78 | [[Habit Formation]] | — | — | 📚 References & Resources | 329 |
+| 78 | [[Habit-Formation|Habit Formation]] | — | — | 📚 References & Resources | 329 |
 | 79 | [[Self-Efficacy]] | — | — | 📚 References & Resources | 330 |
 
 ---
@@ -415,8 +415,8 @@ Following the output_template structure:
 8. Conclusion & synthesis
 
 **Wiki-Link Opportunities:**
-- [[Self-Determination Theory]]
-- [[Intrinsic Motivation]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Extrinsic Motivation]]
 # ... (45 more lines truncated)
 ```
@@ -453,17 +453,17 @@ Following the output_template structure:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Andragogy]]
-- [[Artificial Intelligence]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Artificial Intelligence]]
 - [[Autonomy]]
-- [[Autonomy Support]]
+- [[Autonomy-Support|Autonomy Support]]
 - [[Behavioral Psychology]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Scaffolding and Zone of Proximal Development]]
 - [[Collaborative Sense-Making]]
 - [[Community Connection Features]]
 - [[Competence]]
 - [[Constructivist Learning]]
-- [[Controlled Motivation]]
+- [[Controlled-Motivation|Controlled Motivation]]
 - [[Digital Garden]]
 - [[Digital Gardens]]
 - [[Digital Learning Environments]]
@@ -476,13 +476,13 @@ Following the output_template structure:
 - [[Goal Content Theory and Intrinsic Life Goals]]
 - [[Goal-Setting Theory]]
 - [[Graduated Challenge]]
-- [[Habit Formation]]
+- [[Habit-Formation|Habit Formation]]
 - [[Heutagogy]]
 - [[Implementation Cost]]
 - [[Implementation Intentions and the Planning-Execution Gap]]
 - [[Internalized Shoulds]]
-- [[Intrinsic Motivation]]
-- [[Introjected Regulation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Introjected-Regulation|Introjected Regulation]]
 - [[Knowledge Attrition]]
 - [[Large Language Models]]
 - [[Learning in Public]]
@@ -496,17 +496,17 @@ Following the output_template structure:
 - [[Mindfulness]]
 - [[Motivation Science]]
 - [[Operant Conditioning]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Personal Knowledge Graph]]
-- [[Personal Knowledge Management]]
-- [[Progressive Disclosure]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Progressive-Disclosure|Progressive Disclosure]]
 - [[Re-Engagement Compassion]]
 - [[Reduced Friction]]
 - [[Relatedness]]
 - [[Self-Compassion]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Efficacy]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Shoulds and Oughts]]
 - [[Social Learning Theory]]
 - [[Social Proof Mechanisms]]

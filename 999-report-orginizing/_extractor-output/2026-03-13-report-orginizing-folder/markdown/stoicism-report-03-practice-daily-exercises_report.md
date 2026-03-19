@@ -156,7 +156,7 @@ extraction_summary:
 > → Next: [[Stoicism and Modern Psychology - Parallels and Insights]]
 > 
 > **Series Arc Position**: Foundation
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy of Control]] and the role of [[Virtue Ethics]] in Stoic life.
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy-of-Control|Dichotomy of Control]] and the role of [[Virtue Ethics]] in Stoic life.
 
 #### 3. [RESEARCH] Untitled *(Line 262)*
 
@@ -347,7 +347,7 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 7: Stoic Journaling**
 > 
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control|Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 > 
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 > 
@@ -387,7 +387,7 @@ extraction_summary:
 
 > [!warning] Untitled
 > **Obstacle 4: The Practice-Without-Philosophy Problem**
-> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy of Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
+> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy-of-Control|Dichotomy of Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
 > 
 > **The Stoic Response**: Regular reading in the primary texts — not just motivational excerpts but sustained engagement with Epictetus's *Discourses*, Seneca's *Letters*, and Marcus Aurelius's *Meditations* — keeps the philosophical framework alive and prevents the practices from devolving into mere behavioral techniques. Hadot's point is crucial: the practices are "spiritual exercises" precisely because they are embedded in a coherent philosophical understanding of what constitutes the good life. Strip out the philosophy and you have techniques; keep the philosophy and you have a way of life.
 
@@ -484,7 +484,7 @@ extraction_summary:
 - [[Cognitive Behavioral Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Daniel Gilbert]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Eudaimonia]]
@@ -510,7 +510,7 @@ extraction_summary:
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
 - [[Virtue Ethics]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum|premeditatio malorum]]
 - [[self-efficacy]]
 
 ### All Occurrences
@@ -526,13 +526,13 @@ extraction_summary:
 | 7 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Stoicism in Practice: Daily Exercises... | 245 |
 | 8 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
 | 9 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
-| 10 | [[Dichotomy of Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
+| 10 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
 | 11 | [[Virtue Ethics]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
 | 12 | [[Matthew Killingsworth]] | — | — | Part 1: The Problem This Domain Prese... | 263 |
 | 13 | [[Daniel Gilbert]] | — | — | Part 1: The Problem This Domain Prese... | 263 |
 | 14 | [[James Gross]] | — | — | Part 1: The Problem This Domain Prese... | 266 |
 | 15 | [[Pierre Hadot]] | — | — | Part 1: The Problem This Domain Prese... | 268 |
-| 16 | [[Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
+| 16 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
 | 17 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
 | 18 | [[Logos]] | — | — | Part 2: What the Stoics Said — The Ph... | 290 |
 | 19 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
@@ -547,17 +547,17 @@ extraction_summary:
 | 28 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 383 |
 | 29 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 30 | [[self-efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
-| 31 | [[premeditatio malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
+| 31 | [[Premeditatio-Malorum|premeditatio malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
 | 32 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 33 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 34 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 440 |
 | 35 | [[Prosoche]] | — | — | Part 6: The Practice Architecture — A... | 476 |
 | 36 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 491 |
-| 37 | [[Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 543 |
+| 37 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 543 |
 | 38 | [[Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 543 |
 | 39 | [[Pierre Hadot]] | — | — | Part 6: The Practice Architecture — A... | 549 |
 | 40 | [[Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 571 |
-| 41 | [[Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 581 |
+| 41 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 581 |
 | 42 | [[Prohairesis]] | — | — | Conclusion: Philosophy Becomes Posture | 621 |
 | 43 | [[Prosoche — Stoic Self-Attention]] | — | — | Expansion Topics for PKB | 689 |
 | 44 | [[Memento Mori — Ancient and Modern Perspectives]] | — | — | Expansion Topics for PKB | 691 |
@@ -608,7 +608,7 @@ extraction_summary:
 - [[Cognitive Behavioral Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Daniel Gilbert]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Eudaimonia]]
@@ -634,7 +634,7 @@ extraction_summary:
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
 - [[Virtue Ethics]]
-- [[premeditatio malorum]]
+- [[Premeditatio-Malorum|premeditatio malorum]]
 - [[self-efficacy]]
 
 ### Frontmatter Relationships
@@ -651,7 +651,7 @@ extraction_summary:
 - [[Marcus Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Virtue Ethics]]
 - [[Eudaimonia]]
@@ -669,7 +669,7 @@ extraction_summary:
 
 #### Narrower
 
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Memento Mori]]
 - [[Stoic Journaling]]
 - [[The View from Above]]

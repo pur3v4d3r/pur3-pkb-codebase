@@ -267,9 +267,9 @@ extraction_summary:
 > 
 > - **[[Extended Thinking Architecture]]** — The computational implementation of metacognitive scaffolding in AI systems mirrors, in fascinating ways, the psychological literature on human metacognition. The `<thinking>` tag architecture in Claude creates a structural analog to the meta-level/object-level distinction that is foundational in Flavell's model. Where human metacognition involves second-order awareness of one's cognitive processes, extended thinking creates a distinct processing context for reasoning *about* reasoning before generating outputs. The pedagogical principle of making thinking visible has a direct computational parallel in the architectural decision to externalize internal deliberation.
 > 
-> - **[[Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — The metacognitive regulation triad (plan-monitor-evaluate) is the cognitive-psychological core of self-regulated learning theory, which extends the analysis to include motivational and behavioral dimensions. Understanding metacognition in depth provides the conceptual foundation for understanding self-regulated learning as a broader construct.
 > 
-> - **[[Reflective Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
+> - **[[Reflective-Practice|Reflective Practice]]** — Schön's work is the bridge between cognitive-psychological metacognition theory and professional education practice. This connection is particularly important for understanding how metacognitive and critical thinking development can be embedded in professional education contexts — medicine, law, teaching, engineering — where the primary goal is not cognitive development per se but professional competence.
 > 
 > - **[[Bloom's Taxonomy]]** — The upper tiers of the revised Bloom's taxonomy (analyze, evaluate, create) map directly onto the cognitive operations that constitute critical thinking. Understanding metacognition enriches the interpretation of Bloom's upper tiers: genuine analysis and evaluation, in the sense Bloom intends, require metacognitive monitoring to be consistently high-quality.
 > 
@@ -411,10 +411,10 @@ extraction_summary:
 - [[Ann Brown]]
 - [[Bloom's Taxonomy]]
 - [[Critical Thinking Assessment and Measurement]]
-- [[Critical thinking]]
+- [[Critical-Thinking|Critical thinking]]
 - [[Delphi Report]]
-- [[Donald Schön]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön|Donald Schön]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edmund Husserl]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
@@ -422,7 +422,7 @@ extraction_summary:
 - [[Gregory Yates]]
 - [[Immanuel Kant]]
 - [[Intellectual Virtues and Disposition Theory]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John H. Flavell]]
 - [[John Hattie]]
 - [[John Mason]]
@@ -437,35 +437,35 @@ extraction_summary:
 - [[Peter Facione]]
 - [[Reflection-in-action]]
 - [[Reflective Judgment Model]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Transfer of Learning Across Domains]]
 - [[Vygotsky]]
 - [[William James]]
-- [[critical thinking]]
-- [[desirable difficulties]]
+- [[Critical-Thinking|critical thinking]]
+- [[Desirable-Difficulties|desirable difficulties]]
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
-- [[self-regulated learning]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[metacognition]] | — | — | Phase I: Orientation & Context Setting | 247 |
-| 2 | [[Critical thinking]] | — | — | Phase I: Orientation & Context Setting | 249 |
+| 2 | [[Critical-Thinking|Critical thinking]] | — | — | Phase I: Orientation & Context Setting | 249 |
 | 3 | [[John Hattie]] | — | — | Why This Matters | 262 |
 | 4 | [[metacognition]] | — | — | The Emergence of Metacognition as a F... | 274 |
 | 5 | [[John H. Flavell]] | — | — | The Emergence of Metacognition as a F... | 274 |
-| 6 | [[John Dewey]] | — | — | The Emergence of Metacognition as a F... | 274 |
+| 6 | [[John-Dewey|John Dewey]] | — | — | The Emergence of Metacognition as a F... | 274 |
 | 7 | [[metacognition]] | — | — | The Emergence of Metacognition as a F... | 276 |
 | 8 | [[Ann Brown]] | — | — | The Emergence of Metacognition as a F... | 281 |
-| 9 | [[Critical thinking]] | — | — | Critical Thinking: An Equally Complex... | 285 |
+| 9 | [[Critical-Thinking|Critical thinking]] | — | — | Critical Thinking: An Equally Complex... | 285 |
 | 10 | [[Socrates]] | — | — | Critical Thinking: An Equally Complex... | 285 |
 | 11 | [[Robert Ennis]] | — | — | Critical Thinking: An Equally Complex... | 287 |
 | 12 | [[Delphi Report]] | — | — | Critical Thinking: An Equally Complex... | 287 |
@@ -473,35 +473,35 @@ extraction_summary:
 | 14 | [[Immanuel Kant]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 15 | [[William James]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 16 | [[Edmund Husserl]] | — | — | The Intellectual Genealogy of Reflection | 301 |
-| 17 | [[John Dewey]] | — | — | The Intellectual Genealogy of Reflection | 301 |
+| 17 | [[John-Dewey|John Dewey]] | — | — | The Intellectual Genealogy of Reflection | 301 |
 | 18 | [[Flavell's Metacognitive Model]] | — | — | Flavell's Tripartite Model of Metacog... | 314 |
 | 19 | [[Paul-Elder Critical Thinking Framework]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 20 | [[Richard Paul]] | — | — | The Paul-Elder Framework for Critical... | 327 |
 | 21 | [[Linda Elder]] | — | — | The Paul-Elder Framework for Critical... | 327 |
-| 22 | [[Donald Schön]] | — | — | Schön's Reflective Practice | 336 |
+| 22 | [[Donald-Schön|Donald Schön]] | — | — | Schön's Reflective Practice | 336 |
 | 23 | [[John Mason]] | — | — | Schön's Reflective Practice | 341 |
 | 24 | [[Keith Stanovich]] | — | — | Schön's Reflective Practice | 341 |
 | 25 | [[dysrationalia]] | — | — | Schön's Reflective Practice | 341 |
 | 26 | [[Patricia King]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
 | 27 | [[Karen Kitchener]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
 | 28 | [[Reflective Judgment Model]] | — | — | Epistemic Cognition and Reflective Ju... | 345 |
-| 29 | [[Critical thinking]] | — | — | How Metacognition Enhances Critical R... | 362 |
+| 29 | [[Critical-Thinking|Critical thinking]] | — | — | How Metacognition Enhances Critical R... | 362 |
 | 30 | [[Vygotsky]] | — | — | How Metacognition Enhances Critical R... | 362 |
-| 31 | [[Dunning-Kruger Effect]] | — | — | How Metacognition Enhances Critical R... | 369 |
+| 31 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | How Metacognition Enhances Critical R... | 369 |
 | 32 | [[Keith Stanovich]] | — | — | How Metacognition Enhances Critical R... | 369 |
 | 33 | [[domain knowledge]] | — | — | The Role of Prior Knowledge and Domai... | 376 |
 | 34 | [[Reflection-in-action]] | — | — | Metacognitive Monitoring in Real Time | 383 |
 | 35 | [[John Hattie]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 36 | [[Gregory Yates]] | — | — | Designing Learning Experiences for Me... | 406 |
 | 37 | [[Paul-Elder framework]] | — | — | Designing Learning Experiences for Me... | 408 |
-| 38 | [[desirable difficulties]] | — | — | Designing Learning Experiences for Me... | 410 |
+| 38 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Designing Learning Experiences for Me... | 410 |
 | 39 | [[King and Kitchener]] | — | — | Designing Learning Experiences for Me... | 413 |
-| 40 | [[self-regulated learning]] | — | — | Designing Learning Experiences for Me... | 415 |
+| 40 | [[Self-Regulated-Learning-—-SRL|self-regulated learning]] | — | — | Designing Learning Experiences for Me... | 415 |
 | 41 | [[metacognition]] | — | — | The Unified Picture | 449 |
-| 42 | [[critical thinking]] | — | — | The Unified Picture | 449 |
+| 42 | [[Critical-Thinking|critical thinking]] | — | — | The Unified Picture | 449 |
 | 43 | [[Extended Thinking Architecture]] | — | — | Unresolved Questions | 467 |
-| 44 | [[Self-Regulated Learning]] | — | — | Unresolved Questions | 469 |
-| 45 | [[Reflective Practice]] | — | — | Unresolved Questions | 471 |
+| 44 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Unresolved Questions | 469 |
+| 45 | [[Reflective-Practice|Reflective Practice]] | — | — | Unresolved Questions | 471 |
 | 46 | [[Bloom's Taxonomy]] | — | — | Unresolved Questions | 473 |
 | 47 | [[Metacognitive Scaffolding Design Patterns]] | — | — | D. Expansion Topics | 559 |
 | 48 | [[Critical Thinking Assessment and Measurement]] | — | — | D. Expansion Topics | 562 |
@@ -522,10 +522,10 @@ extraction_summary:
 - [[Ann Brown]]
 - [[Bloom's Taxonomy]]
 - [[Critical Thinking Assessment and Measurement]]
-- [[Critical thinking]]
+- [[Critical-Thinking|Critical thinking]]
 - [[Delphi Report]]
-- [[Donald Schön]]
-- [[Dunning-Kruger Effect]]
+- [[Donald-Schön|Donald Schön]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Edmund Husserl]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Extended Thinking Architecture]]
@@ -533,7 +533,7 @@ extraction_summary:
 - [[Gregory Yates]]
 - [[Immanuel Kant]]
 - [[Intellectual Virtues and Disposition Theory]]
-- [[John Dewey]]
+- [[John-Dewey|John Dewey]]
 - [[John H. Flavell]]
 - [[John Hattie]]
 - [[John Mason]]
@@ -548,21 +548,21 @@ extraction_summary:
 - [[Peter Facione]]
 - [[Reflection-in-action]]
 - [[Reflective Judgment Model]]
-- [[Reflective Practice]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Richard Paul]]
 - [[Robert Ennis]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socrates]]
 - [[Socratic Questioning Techniques in Education]]
 - [[Transfer of Learning Across Domains]]
 - [[Vygotsky]]
 - [[William James]]
-- [[critical thinking]]
-- [[desirable difficulties]]
+- [[Critical-Thinking|critical thinking]]
+- [[Desirable-Difficulties|desirable difficulties]]
 - [[domain knowledge]]
 - [[dysrationalia]]
 - [[metacognition]]
-- [[self-regulated learning]]
+- [[Self-Regulated-Learning-—-SRL|self-regulated learning]]
 
 ### Frontmatter Relationships
 
@@ -575,30 +575,30 @@ extraction_summary:
 #### Related
 
 - [[Executive Function]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Bloom's Taxonomy]]
-- [[Reflective Practice]]
-- [[Socratic Method]]
-- [[Epistemic Cognition]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Socratic-Method|Socratic Method]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 
 #### Broader
 
-- [[Cognitive Psychology]]
-- [[Educational Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Critical Thinking Dispositions]]
-- [[Argumentation Theory]]
+- [[Argumentation-Theory|Argumentation Theory]]
 - [[Reflective Judgment Model]]
 
 #### See Also
 
-- [[Self-Regulated Learning]]
-- [[Growth Mindset]]
-- [[Intellectual Humility]]
-- [[Dunning-Kruger Effect]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 
 #### Contrasts With
 

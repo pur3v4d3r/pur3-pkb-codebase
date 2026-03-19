@@ -170,7 +170,7 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 47)*
 
 > [!abstract] Untitled
-> This document presents a comprehensive methodological analysis of the intersection between [[Malcolm Knowles]]' six core principles of [[Andragogy]]—the science and art of adult learning—and the design, structural architecture, and daily workflows of [[Personal Knowledge Base]] (Personal Knowledge Base) systems. We propose that Personal Knowledge Base systems, when properly understood and implemented, are not merely digital repositories for information storage, but rather are *integrated learning environments* that can either support or subvert the fundamental psychological and cognitive needs of adult learners.
+> This document presents a comprehensive methodological analysis of the intersection between [[Malcolm Knowles]]' six core principles of [[Andragogy]]—the science and art of adult learning—and the design, structural architecture, and daily workflows of [[Personal-Knowledge-Base|Personal Knowledge Base]] (Personal Knowledge Base) systems. We propose that Personal Knowledge Base systems, when properly understood and implemented, are not merely digital repositories for information storage, but rather are *integrated learning environments* that can either support or subvert the fundamental psychological and cognitive needs of adult learners.
 > 
 > Through a systematic examination of each andragogical principle—the learner's need to know, the role of experience, self-concept and autonomy, readiness to learn, problem-centered orientation, and intrinsic motivation—we demonstrate how specific design decisions in Personal Knowledge Base architecture directly influence learning agency, knowledge integration, and intellectual development. This analysis reveals that the most effective Personal Knowledge Base systems are those that consciously embed andragogical principles into their foundational structure, treating the user not as a passive archivist but as an active constructor of meaning.
 > 
@@ -222,7 +222,7 @@ extraction_summary:
 > 
 > An andragogically-informed Personal Knowledge Base makes the "why" explicit from the outset. This manifests in several ways:
 > 
-> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps of Content]] (MOCs) in systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
+> 1. **Goal-Oriented Architecture**: Rather than organizing notes by topic or date, organize them by *projects*, *questions*, or *problems* you're actively working on. Your Personal Knowledge Base structure should answer "What am I trying to accomplish?" before asking "Where does this information belong?" This is why [[Maps-of-Content-—-MOCs|Maps of Content]] (MOCs) in systems like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] are so powerful—they are explicitly purpose-driven organizing structures, not merely taxonomies.
 > 
 > 1. **Visible Connection to Outputs**: Every note should have a potential path to becoming something—an essay, a presentation, a solution to a problem, a decision you need to make. The [[Zettelkasten]] method implements this through the concept of "structure notes" or "hub notes" that explicitly connect atomic notes to larger projects or areas of inquiry. When capturing information, you should be able to answer: "How might this note contribute to something I'm building?"
 > 
@@ -233,7 +233,7 @@ extraction_summary:
 #### 11. [DEFINITION] Untitled *(Line 157)*
 
 > [!definition] Untitled
-> **[[Maps of Content]] (MOCs)**: Organizational notes that serve as hub pages connecting related atomic notes around a specific topic, project, or area of inquiry. Unlike traditional hierarchical folders, MOCs are dynamic, non-exclusive (notes can belong to multiple MOCs), and explicitly show relationships between ideas. They function as "thinking environments" that make the purpose and structure of knowledge visible.
+> **[[Maps-of-Content-—-MOCs|Maps of Content]] (MOCs)**: Organizational notes that serve as hub pages connecting related atomic notes around a specific topic, project, or area of inquiry. Unlike traditional hierarchical folders, MOCs are dynamic, non-exclusive (notes can belong to multiple MOCs), and explicitly show relationships between ideas. They function as "thinking environments" that make the purpose and structure of knowledge visible.
 
 #### 12. [PRINCIPLE-POINT] Untitled *(Line 162)*
 
@@ -497,10 +497,10 @@ extraction_summary:
 > 1. [[Andragogy]]
 >    - The science and art of facilitating adult learning, distinguished from pedagogy (child learning) by its emphasis on learner autonomy, experience-based learning, problem-centered orientation, and intrinsic motivation. Andragogy treats learners as self-directed agents constructing meaning rather than as dependent recipients of transmitted knowledge. The practical implication is that adult learning environments—including personal knowledge management systems—should be designed to honor and support these characteristics rather than imposing external structure and goals.
 > 
-> 1. [[Personal Knowledge Base]] (Personal Knowledge Base)
+> 1. [[Personal-Knowledge-Base|Personal Knowledge Base]] (Personal Knowledge Base)
 >    - An external system (digital or analog) for capturing, organizing, and leveraging knowledge in support of thinking, learning, and creating. Distinguished from mere information storage by its emphasis on subjective meaning-making, connection-building, and practical application. A well-designed Personal Knowledge Base consists of knowledge (interpreted, contextualized understanding) rather than raw information (decontextualized data), with explicit links representing relationships between ideas. It functions not just as a reference tool but as an active thinking environment that enhances cognitive capacity.
 > 
-> 1. [[Self-Directed Learning]]
+> 1. [[Self-Directed-Learning|Self-Directed Learning]]
 >    - A process in which learners take initiative and responsibility for their own learning, including identifying learning needs, formulating goals, locating resources, implementing strategies, and evaluating outcomes—all with minimal external direction. Self-directed learning is not simply learning alone, but rather learning in which the locus of control resides with the learner. In Personal Knowledge Base contexts, self-directed learning means the user decides what to capture, how to organize it, when to process it, and how to apply it, guided by their own questions, problems, and interests rather than by prescribed curricula or external mandates. This autonomy is not just procedural but cognitive—the learner is constructing their own understanding, not absorbing others' conclusions.
 
 #### 35. [THOUGHTS] Untitled *(Line 752)*
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
 - [[Knowledge Graph Theory]]
 - [[Malcolm Knowles]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
 - [[Metacognition and Learning Strategies]]
 - [[New Project]]
@@ -597,24 +597,24 @@ extraction_summary:
 - [[Open Question Y]]
 - [[PARA]]
 - [[Pedagogy]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Knowledge Bases]]
 - [[Problem-Based Learning]]
 - [[Progressive Elaboration in Learning]]
 - [[Project X]]
 - [[Roam Research]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schema Theory in Cognitive Psychology]]
-- [[Self-Determination Theory]]
-- [[Self-Directed Learning]]
-- [[Spaced Repetition Systems]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Systems Thinking]]
 - [[The PARA Method]]
 - [[Transclusion and Context Multiplicity]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Atomic Notes]]
 - [[cognitive enhancement]]
-- [[elaborative rehearsal]]
+- [[Elaborative-Rehearsal|elaborative rehearsal]]
 - [[emergent structure]]
 - [[extended cognition]]
 - [[flexibility to reorganize]]
@@ -631,24 +631,24 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Malcolm Knowles]] | — | — | Document Start | 48 |
 | 2 | [[Andragogy]] | — | — | Document Start | 48 |
-| 3 | [[Personal Knowledge Base]] | — | — | Document Start | 48 |
+| 3 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 48 |
 | 4 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 5 | [[03_notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 6 | [[Personal Knowledge Bases]] | — | — | 1.0 📜 INTRODUCTION | 57 |
 | 7 | [[Andragogy]] | — | — | 1.0 📜 INTRODUCTION | 67 |
-| 8 | [[Personal Knowledge Base]] | — | — | 1.0 📜 INTRODUCTION | 78 |
+| 8 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 1.0 📜 INTRODUCTION | 78 |
 | 9 | [[Pedagogy]] | — | — | THE BIRTH OF ANDRAGOGY AND THE RECOGN... | 92 |
 | 10 | [[Heutagogy]] | — | — | THE BIRTH OF ANDRAGOGY AND THE RECOGN... | 102 |
 | 11 | [[Zettelkasten]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 112 |
 | 12 | [[Zettelkasten]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 118 |
 | 13 | [[Niklas Luhmann]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 118 |
 | 14 | [[transclusion]] | — | — | THE EVOLUTION OF PERSONAL KNOWLEDGE M... | 120 |
-| 15 | [[Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
+| 15 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
 | 16 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 149 |
 | 17 | [[Zettelkasten]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 151 |
 | 18 | [[PARA]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 153 |
 | 19 | [[CODE]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 153 |
-| 20 | [[Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 158 |
+| 20 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 158 |
 | 21 | [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 171 |
 | 22 | [[Roam Research]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 171 |
 | 23 | [[progressive elaboration]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES: THE S... | 173 |
@@ -664,9 +664,9 @@ extraction_summary:
 | 33 | [[emergent structure]] | — | — | 4.4 🎨 THE STRUCTURAL ORGANIZATION: FL... | 383 |
 | 34 | [[Old Idea]] | — | — | 4.5 🔄 THE REVIEW AND REFLECTION CYCLE... | 441 |
 | 35 | [[New Project]] | — | — | 4.5 🔄 THE REVIEW AND REFLECTION CYCLE... | 441 |
-| 36 | [[Schema Theory]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 529 |
-| 37 | [[elaborative rehearsal]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 531 |
-| 38 | [[Self-Determination Theory]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 543 |
+| 36 | [[Schema-Theory|Schema Theory]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 529 |
+| 37 | [[Elaborative-Rehearsal|elaborative rehearsal]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 531 |
+| 38 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 5.0 🔬 OBSERVATIONAL EVIDENCE: RESEARC... | 543 |
 | 39 | [[Constructivist Epistemology]] | — | — | 6.1 💡 EPISTEMOLOGICAL IMPLICATIONS: K... | 567 |
 | 40 | [[cognitive enhancement]] | — | — | 6.4 🧠 COGNITIVE ENHANCEMENT AND HUMAN... | 610 |
 | 41 | [[extended cognition]] | — | — | 6.4 🧠 COGNITIVE ENHANCEMENT AND HUMAN... | 610 |
@@ -676,21 +676,21 @@ extraction_summary:
 | 45 | [[Systems Thinking]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 736 |
 | 46 | [[GTD]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 738 |
 | 47 | [[Andragogy]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 743 |
-| 48 | [[Personal Knowledge Base]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 746 |
-| 49 | [[Self-Directed Learning]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 749 |
+| 48 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 746 |
+| 49 | [[Self-Directed-Learning|Self-Directed Learning]] | — | — | 9.0 🧠 KEY QUESTIONS FOR DEEPENING UND... | 749 |
 | 50 | [[Metacognition and Learning Strategies]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 813 |
 | 51 | [[Constructivist Learning Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 814 |
 | 52 | [[Extended Cognition and Cognitive Enhancement]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 815 |
 | 53 | [[Zettelkasten Method and Atomic Notes]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 816 |
 | 54 | [[Knowledge Graph Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 817 |
-| 55 | [[Self-Determination Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 818 |
+| 55 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 818 |
 | 56 | [[Progressive Elaboration in Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 819 |
 | 57 | [[Problem-Based Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 820 |
 | 58 | [[Transclusion and Context Multiplicity]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 821 |
 | 59 | [[Digital Gardens and Learning in Public]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 822 |
 | 60 | [[Heutagogy and Self-Determined Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 823 |
 | 61 | [[Schema Theory in Cognitive Psychology]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 824 |
-| 62 | [[Spaced Repetition Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 825 |
+| 62 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 825 |
 | 63 | [[Maps of Content and Emergent Structure]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 826 |
 | 64 | [[The PARA Method]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 827 |
 | 65 | [[Intrinsic vs Extrinsic Motivation in Adult Learning]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 828 |
@@ -806,7 +806,7 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Intrinsic vs Extrinsic Motivation in Adult Learning]]
 - [[Knowledge Graph Theory]]
 - [[Malcolm Knowles]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Maps of Content and Emergent Structure]]
 - [[Metacognition and Learning Strategies]]
 - [[New Project]]
@@ -816,24 +816,24 @@ I'll create a comprehensive academic article exploring the integration of Knowle
 - [[Open Question Y]]
 - [[PARA]]
 - [[Pedagogy]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Knowledge Bases]]
 - [[Problem-Based Learning]]
 - [[Progressive Elaboration in Learning]]
 - [[Project X]]
 - [[Roam Research]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schema Theory in Cognitive Psychology]]
-- [[Self-Determination Theory]]
-- [[Self-Directed Learning]]
-- [[Spaced Repetition Systems]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Systems Thinking]]
 - [[The PARA Method]]
 - [[Transclusion and Context Multiplicity]]
 - [[Zettelkasten]]
 - [[Zettelkasten Method and Atomic Notes]]
 - [[cognitive enhancement]]
-- [[elaborative rehearsal]]
+- [[Elaborative-Rehearsal|elaborative rehearsal]]
 - [[emergent structure]]
 - [[extended cognition]]
 - [[flexibility to reorganize]]

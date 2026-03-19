@@ -272,7 +272,7 @@ extraction_summary:
 
 > [!how-to-use-this] Untitled
 > **Navigation Guide**
-> This reference is organized into 8 major sections covering foundational syntax, nesting architecture, Markdown integration, plugin compatibility, CSS customization, best practices, syntax patterns, and troubleshooting. Use callout folding (`+`/`-` indicators) to manage document length, and leverage [[Wiki Links]] to explore related concepts.
+> This reference is organized into 8 major sections covering foundational syntax, nesting architecture, Markdown integration, plugin compatibility, CSS customization, best practices, syntax patterns, and troubleshooting. Use callout folding (`+`/`-` indicators) to manage document length, and leverage [[wiki-links|Wiki Links]] to explore related concepts.
 
 #### 11. [DEFINITION] Untitled *(Line 306)*
 
@@ -1049,10 +1049,10 @@ extraction_summary:
 - [[Callout Syntax]]
 - [[Callout Techniques]]
 - [[Code Blocks]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language Reference]]
 - [[Frontmatter]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Architecture in Personal Knowledge Management]]
 - [[Inline Formatting]]
 - [[Internal Link]]
@@ -1072,7 +1072,7 @@ extraction_summary:
 - [[Related Note]]
 - [[Tasks Plugin]]
 - [[Templater Plugin]]
-- [[Wiki Links]]
+- [[wiki-links|Wiki Links]]
 - [[YAML]]
 
 ### All Occurrences
@@ -1083,24 +1083,24 @@ extraction_summary:
 | 2 | [[Obsidian]] | — | — | Claude Thinking | 225 |
 | 3 | [[Markdown]] | — | — | Claude Thinking | 226 |
 | 4 | [[Callout Syntax]] | — | — | Claude Thinking | 227 |
-| 5 | [[Dataview Plugin]] | — | — | Claude Thinking | 228 |
+| 5 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Claude Thinking | 228 |
 | 6 | [[Tasks Plugin]] | — | — | Claude Thinking | 229 |
 | 7 | [[Templater Plugin]] | — | — | Claude Thinking | 230 |
 | 8 | [[CSS Customization]] | — | — | Claude Thinking | 231 |
 | 9 | [[Nested Structures]] | — | — | Claude Thinking | 232 |
 | 10 | [[Code Blocks]] | — | — | Claude Thinking | 233 |
-| 11 | [[Wiki Links]] | — | — | Claude Thinking | 234 |
+| 11 | [[wiki-links|Wiki Links]] | — | — | Claude Thinking | 234 |
 | 12 | [[Frontmatter]] | — | — | Claude Thinking | 235 |
 | 13 | [[YAML]] | — | — | Claude Thinking | 236 |
 | 14 | [[Knowledge Graph]] | — | — | Claude Thinking | 237 |
 | 15 | [[Note-Taking Best Practices]] | — | — | Claude Thinking | 238 |
-| 16 | [[Information Architecture]] | — | — | Claude Thinking | 239 |
+| 16 | [[Information-Architecture|Information Architecture]] | — | — | Claude Thinking | 239 |
 | 17 | [[Callout Syntax]] | — | — | Claude Thinking | 285 |
 | 18 | [[Obsidian]] | — | — | Claude Thinking | 285 |
 | 19 | [[Markdown]] | — | — | Claude Thinking | 285 |
 | 20 | [[CSS]] | — | — | Claude Thinking | 285 |
 | 21 | [[Plugin Integration]] | — | — | Claude Thinking | 285 |
-| 22 | [[Wiki Links]] | — | — | Claude Thinking | 289 |
+| 22 | [[wiki-links|Wiki Links]] | — | — | Claude Thinking | 289 |
 | 23 | [[Blockquote]] | — | — | 1. ⚙️ Foundational Callout Syntax & C... | 307 |
 | 24 | [[Obsidian]] | — | — | 1. ⚙️ Foundational Callout Syntax & C... | 307 |
 | 25 | [[Inline Formatting]] | — | — | Text Formatting Within Callouts | 567 |
@@ -1109,7 +1109,7 @@ extraction_summary:
 | 28 | [[Markdown Tables]] | — | — | Tables in Callouts | 699 |
 | 29 | [[Related Note]] | — | — | Links and Embeds in Callouts | 723 |
 | 30 | [[Another Note]] | — | Specific Section | Links and Embeds in Callouts | 724 |
-| 31 | [[Dataview Plugin]] | — | — | Dataview Plugin Integration | 781 |
+| 31 | [[Dataview-Plugin|Dataview Plugin]] | — | — | Dataview Plugin Integration | 781 |
 | 32 | [[Note^callout-id]] | — | — | Callout Block References with Dataview | 863 |
 | 33 | [[Tasks Plugin]] | — | — | Tasks Plugin Integration | 869 |
 | 34 | [[Templater Plugin]] | — | — | Templater Plugin Integration | 903 |
@@ -2127,10 +2127,10 @@ graph TD
 - [[Callout Syntax]]
 - [[Callout Techniques]]
 - [[Code Blocks]]
-- [[Dataview Plugin]]
+- [[Dataview-Plugin|Dataview Plugin]]
 - [[Dataview Query Language Reference]]
 - [[Frontmatter]]
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 - [[Information Architecture in Personal Knowledge Management]]
 - [[Inline Formatting]]
 - [[Internal Link]]
@@ -2150,7 +2150,7 @@ graph TD
 - [[Related Note]]
 - [[Tasks Plugin]]
 - [[Templater Plugin]]
-- [[Wiki Links]]
+- [[wiki-links|Wiki Links]]
 - [[YAML]]
 
 ---

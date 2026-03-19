@@ -306,7 +306,7 @@ extraction_summary:
 > <span style='color: #27FF00;'>**Well-Executed Links:**</span>
 > - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
 > - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)
-> - Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`
+> - Related frameworks: `[[Working-Memory|Working Memory]]`, `[[Cognitive-Load-Theory|Cognitive Load Theory]]`, `[[Self-Determination-Theory|Self-Determination Theory]]`
 > - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`
 
 #### 10. [WARNING] Missed Wiki-Link Opportunities *(Line 447)*
@@ -448,7 +448,7 @@ extraction_summary:
 >    ```markdown
 >    ## 🔗 Integration with Cognitive Frameworks
 >    
->    ### [[Working Memory]]
+>    ### [[Working-Memory|Working Memory]]
 >    Kahneman's capacity model provided theoretical foundation…
 >    ```
 > 
@@ -531,7 +531,7 @@ extraction_summary:
 - [[Anne Treisman]]
 - [[Capacity Model]]
 - [[Chain-of-Density]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
 - [[Daniel Kahneman]]
 - [[Dichotic Listening Task]]
@@ -550,12 +550,12 @@ extraction_summary:
 - [[ReAct]]
 - [[Selective Attention]]
 - [[Self-Consistency]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Skeleton-of-Thought]]
 - [[Tree-of-Thoughts]]
 - [[Treisman Attenuation Model]]
 - [[Ventral Attention Network]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]
@@ -586,9 +586,9 @@ extraction_summary:
 | 13 | [[Dual-Task Performance]] | — | — | Dimension 3: Knowledge Graph Potentia... | 442 |
 | 14 | [[Donald Broadbent]] | — | — | Dimension 3: Knowledge Graph Potentia... | 443 |
 | 15 | [[Daniel Kahneman]] | — | — | Dimension 3: Knowledge Graph Potentia... | 443 |
-| 16 | [[Working Memory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
-| 17 | [[Cognitive Load Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
-| 18 | [[Self-Determination Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
+| 16 | [[Working-Memory|Working Memory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
+| 17 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
+| 18 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Dimension 3: Knowledge Graph Potentia... | 444 |
 | 19 | [[Dorsal Attention Network]] | — | — | Dimension 3: Knowledge Graph Potentia... | 445 |
 | 20 | [[Ventral Attention Network]] | — | — | Dimension 3: Knowledge Graph Potentia... | 445 |
 | 21 | [[cosmology-moc]] | — | — | Dimension 4: Format & PKB Compliance ... | 499 |
@@ -600,7 +600,7 @@ extraction_summary:
 | 27 | [[Iconic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
 | 28 | [[Echoic Memory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 578 |
 | 29 | [[Information Theory]] | — | — | 🟢 Tier 1: Quick Wins (< 5 minutes) | 579 |
-| 30 | [[Working Memory]] | — | — | 🔵 Tier 2: Structural Enhancements (5-... | 600 |
+| 30 | [[Working-Memory|Working Memory]] | — | — | 🔵 Tier 2: Structural Enhancements (5-... | 600 |
 | 31 | [[Self-Consistency]] | — | — | Prompt Engineering Recommendations | 618 |
 | 32 | [[Tree-of-Thoughts]] | — | — | Prompt Engineering Recommendations | 628 |
 | 33 | [[filter-model-broadbent]] | — | — | 🟠 Tier 4: Architectural Recommendatio... | 657 |
@@ -756,7 +756,7 @@ try {
 ```markdown
 >    ## 🔗 Integration with Cognitive Frameworks
 >    
->    ### [[Working Memory]]
+>    ### [[Working-Memory|Working Memory]]
 >    Kahneman's capacity model provided theoretical foundation…
 >
 ```
@@ -984,7 +984,7 @@ for (let letter of sortedLetters) {
 - [[Anne Treisman]]
 - [[Capacity Model]]
 - [[Chain-of-Density]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Constitutional AI]]
 - [[Daniel Kahneman]]
 - [[Dichotic Listening Task]]
@@ -1003,12 +1003,12 @@ for (let letter of sortedLetters) {
 - [[ReAct]]
 - [[Selective Attention]]
 - [[Self-Consistency]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Skeleton-of-Thought]]
 - [[Tree-of-Thoughts]]
 - [[Treisman Attenuation Model]]
 - [[Ventral Attention Network]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 - [[Yerkes-Dodson Law]]
 - [[allocation-policy]]
 - [[arousal-capacity-relationship]]

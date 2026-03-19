@@ -2746,9 +2746,9 @@ Claude Code provides three delegation mechanisms:
 > - Tool restriction embodies [[Principle of Least Privilege]]: agents get minimum permissions needed, reducing security risk
 >
 > **Cognitive Science**:
-> - Context isolation prevents [[Cognitive Load]] overload: each agent processes limited, relevant information
+> - Context isolation prevents [[Cognitive-Load|Cognitive Load]] overload: each agent processes limited, relevant information
 > - Specialization leverages [[Expertise Theory]]: deep knowledge in narrow domain > shallow knowledge across broad domain
-> - Explicit communication reduces [[Working Memory]] burden: written state > remembered state
+> - Explicit communication reduces [[Working-Memory|Working Memory]] burden: written state > remembered state
 
 > [!application-context]
 > **Where/When/How to Apply Multi-Agent Systems**

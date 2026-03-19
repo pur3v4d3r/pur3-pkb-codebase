@@ -261,7 +261,7 @@ extraction_summary:
 > 
 >   - **The Microcycle (The Week):** You *oscillate* intensity. You don't try to do 3 deep-work sprints every single day. You plan "Hard" days (stress) followed by "Medium" or "Light" days (recovery). This allows for the Stress-Recovery-Adaptation cycle *within* the week.
 >   - **The Mesocycle (The Month/Project):** A project should have a "Preparatory" phase (research, planning, skill acquisition), a "Competitive" phase (high-output, focused execution), and a "Transition" phase (delivery, debrief, and *active recovery*).
->   - **Active Recovery / "Deload" Week:** After a major project (a "Competitive Mesocycle"), you *must* schedule a "Transition" or "Deload" week. This is not a vacation (though that helps). It's a week of *low-intensity, high-value* work: planning the next cycle, organizing your [[Personal Knowledge Management (PKM)]] system, catching up on reading, and strategic "blue sky" thinking. This allows the system to fully recover and *adapt*, raising your baseline capacity for the *next* cycle.
+>   - **Active Recovery / "Deload" Week:** After a major project (a "Competitive Mesocycle"), you *must* schedule a "Transition" or "Deload" week. This is not a vacation (though that helps). It's a week of *low-intensity, high-value* work: planning the next cycle, organizing your [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] system, catching up on reading, and strategic "blue sky" thinking. This allows the system to fully recover and *adapt*, raising your baseline capacity for the *next* cycle.
 
 #### 17. [EVIDENCE] Untitled *(Line 256)*
 
@@ -296,7 +296,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > - *The principles discussed here* **strongly connect to the field of:**
->       - [[Personal Knowledge Management (PKM)]]
+>       - [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 >       - **The reason:**
 >           - A PKM system (like Zettelkasten or an Obsidian vault) is a physical manifestation of a long-term, sustainable *cognitive* workflow. It is the external "scaffolding" for the Skill Acquisition Trajectory. The daily "atom" of work (a focused sprint) produces a "fleeing note." The "recovery" phase helps connect it. The weekly "deload" (a macro-level recovery) is when you *process* these notes, turning them into "evergreen" knowledge. Your PKM *is* your long-term capacity builder.
 
@@ -393,7 +393,7 @@ extraction_summary:
 - [[Cognitive Periodization]]
 - [[Deliberate Practice]]
 - [[Longitudinal Expertise Studies]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Temporal Architecture]]
 - [[The 90/20 Ultradian Sprint]]
 
@@ -402,11 +402,11 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[The 90/20 Ultradian Sprint]] | — | — | 4.1 ⚛️ The Micro-Scale: Architecting ... | 187 |
-| 2 | [[Personal Knowledge Management (PKM)]] | — | — | 4.3 🏛️ The Macro-Scale: Architecting ... | 250 |
+| 2 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 4.3 🏛️ The Macro-Scale: Architecting ... | 250 |
 | 3 | [[Athletic Training Science]] | — | — | 5.0 🔬 Observational Evidence | 259 |
 | 4 | [[Cognitive Performance Research]] | — | — | 5.0 🔬 Observational Evidence | 261 |
 | 5 | [[Longitudinal Expertise Studies]] | — | — | 5.0 🔬 Observational Evidence | 263 |
-| 6 | [[Personal Knowledge Management (PKM)]] | — | — | 6.1 From Depletion to Generation | 291 |
+| 6 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.1 From Depletion to Generation | 291 |
 | 7 | [[Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
 | 8 | [[Deliberate Practice]] | — | — | 9.0 🧠 Key Questions | 366 |
 | 9 | [[Temporal Architecture]] | — | — | 9.0 🧠 Key Questions | 382 |
@@ -480,7 +480,7 @@ graph TD
 - [[Cognitive Periodization]]
 - [[Deliberate Practice]]
 - [[Longitudinal Expertise Studies]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Temporal Architecture]]
 - [[The 90/20 Ultradian Sprint]]
 

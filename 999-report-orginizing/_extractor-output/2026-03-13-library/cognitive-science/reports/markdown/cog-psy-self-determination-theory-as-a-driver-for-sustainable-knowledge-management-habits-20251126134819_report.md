@@ -147,12 +147,12 @@ extraction_summary:
 #### 3. [ABSTRACT] Untitled *(Line 137)*
 
 > [!abstract] Untitled
-> This comprehensive examination explores how [[Self-Determination Theory]] provides a robust psychological framework for designing [[Personal Knowledge Management]] systems that cultivate sustainable learning habits through the satisfaction of three innate psychological needs. The theory posits that human beings oscillate between proactive engagement and passive alienation largely as a function of social and environmental conditions, with the satisfaction of needs for autonomy, competence, and relatedness yielding enhanced self-motivation and mental health. When applied to knowledge management systems, these principles reveal how system design choices can either facilitate or forestall the natural processes of self-motivation that underpin lifelong learning. The intersection of [[Cognitive Neuroscience]], [[Motivational Psychology]], and [[information architecture]] demonstrates that PKM systems function not merely as information repositories but as cognitive scaffolds that—when properly designed—support the neurological mechanisms underlying intrinsic motivation, habit formation, and sustained intellectual growth.
+> This comprehensive examination explores how [[Self-Determination-Theory|Self-Determination Theory]] provides a robust psychological framework for designing [[Personal-Knowledge-Management|Personal Knowledge Management]] systems that cultivate sustainable learning habits through the satisfaction of three innate psychological needs. The theory posits that human beings oscillate between proactive engagement and passive alienation largely as a function of social and environmental conditions, with the satisfaction of needs for autonomy, competence, and relatedness yielding enhanced self-motivation and mental health. When applied to knowledge management systems, these principles reveal how system design choices can either facilitate or forestall the natural processes of self-motivation that underpin lifelong learning. The intersection of [[Cognitive Neuroscience]], [[Motivational Psychology]], and [[Information-Architecture|information architecture]] demonstrates that PKM systems function not merely as information repositories but as cognitive scaffolds that—when properly designed—support the neurological mechanisms underlying intrinsic motivation, habit formation, and sustained intellectual growth.
 
 #### 4. [DEFINITION] Untitled *(Line 142)*
 
 > [!definition] Untitled
-> **[[Self-Determination Theory]]** (SDT) constitutes an empirically-grounded macro-theory of human motivation, personality development, and psychological wellness that employs an organismic metatheory emphasizing humans' evolved inner resources for personality development and behavioral self-regulation.
+> **[[Self-Determination-Theory|Self-Determination Theory]]** (SDT) constitutes an empirically-grounded macro-theory of human motivation, personality development, and psychological wellness that employs an organismic metatheory emphasizing humans' evolved inner resources for personality development and behavioral self-regulation.
 
 #### 5. [CORE-PRINCIPLE] Untitled *(Line 149)*
 
@@ -174,7 +174,7 @@ extraction_summary:
 #### 8. [ANALOGY] Untitled *(Line 182)*
 
 > [!analogy] Untitled
-> Consider how different students might approach the same learning activity in a [[Personal Knowledge Management]] system. One student might engage only when monitored or graded (external regulation), creating a rigid, compliance-oriented practice. Another might study from guilt or self-imposed pressure to avoid feeling inadequate (introjected regulation), resulting in anxious, perfectionist tendencies. A third might recognize knowledge management's importance for career goals (identified regulation), producing consistent but somewhat effortful engagement. A fourth might find deep satisfaction in the process of connecting ideas and building understanding (intrinsic motivation), experiencing the activity as inherently rewarding. The *behavior* appears similar across these cases, but the quality of engagement, sustainability over time, and psychological outcomes differ dramatically.
+> Consider how different students might approach the same learning activity in a [[Personal-Knowledge-Management|Personal Knowledge Management]] system. One student might engage only when monitored or graded (external regulation), creating a rigid, compliance-oriented practice. Another might study from guilt or self-imposed pressure to avoid feeling inadequate (introjected regulation), resulting in anxious, perfectionist tendencies. A third might recognize knowledge management's importance for career goals (identified regulation), producing consistent but somewhat effortful engagement. A fourth might find deep satisfaction in the process of connecting ideas and building understanding (intrinsic motivation), experiencing the activity as inherently rewarding. The *behavior* appears similar across these cases, but the quality of engagement, sustainability over time, and psychological outcomes differ dramatically.
 
 #### 9. [EXAMPLE] Untitled *(Line 197)*
 
@@ -247,9 +247,9 @@ extraction_summary:
 - [[Flow State and Optimal Experience in Knowledge Work]]
 - [[Habit Formation and Behavioral Architecture]]
 - [[Motivational Psychology]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Relatedness]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[The Neuroscience of Memory Consolidation and Spaced Repetition]]
 - [[Zettelkasten]]
@@ -258,7 +258,7 @@ extraction_summary:
 - [[default mode network]]
 - [[digital gardens]]
 - [[hippocampus]]
-- [[information architecture]]
+- [[Information-Architecture|information architecture]]
 - [[knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
@@ -266,19 +266,19 @@ extraction_summary:
 - [[self-efficacy]]
 - [[striatum]]
 - [[ventral striatum]]
-- [[zone of proximal development]]
+- [[Zone-of-Proximal-Development|zone of proximal development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]] | — | — | Self-Determination Theory as a Driver... | 43 |
-| 2 | [[Self-Determination Theory]] | — | — | 📈 Review System | 138 |
-| 3 | [[Personal Knowledge Management]] | — | — | 📈 Review System | 138 |
+| 2 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 📈 Review System | 138 |
+| 3 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📈 Review System | 138 |
 | 4 | [[Cognitive Neuroscience]] | — | — | 📈 Review System | 138 |
 | 5 | [[Motivational Psychology]] | — | — | 📈 Review System | 138 |
-| 6 | [[information architecture]] | — | — | 📈 Review System | 138 |
-| 7 | [[Self-Determination Theory]] | — | — | 🧠 The Architecture of Self-Determinat... | 143 |
+| 6 | [[Information-Architecture|information architecture]] | — | — | 📈 Review System | 138 |
+| 7 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Architecture of Self-Determinat... | 143 |
 | 8 | [[behaviorism]] | — | — | 🧠 The Architecture of Self-Determinat... | 145 |
 | 9 | [[knowledge work]] | — | — | 🧠 The Architecture of Self-Determinat... | 147 |
 | 10 | [[Autonomy]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 158 |
@@ -289,9 +289,9 @@ extraction_summary:
 | 15 | [[ventral striatum]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 16 | [[nucleus accumbens]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 164 |
 | 17 | [[Relatedness]] | — | — | 🔬 The Three Pillars: Autonomy, Compet... | 166 |
-| 18 | [[Personal Knowledge Management]] | — | — | 📊 Motivation as Spectrum: From Amotiv... | 183 |
-| 19 | [[Personal Knowledge Management]] | — | — | 📊 Motivation as Spectrum: From Amotiv... | 187 |
-| 20 | [[Personal Knowledge Management]] | — | — | 🎯 Self-Determination Theory Meets Per... | 191 |
+| 18 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📊 Motivation as Spectrum: From Amotiv... | 183 |
+| 19 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📊 Motivation as Spectrum: From Amotiv... | 187 |
+| 20 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎯 Self-Determination Theory Meets Per... | 191 |
 | 21 | [[Zettelkasten]] | — | — | 🔑 Autonomy Support in System Design | 198 |
 | 22 | [[Zettelkasten method]] | — | — | 📈 Competence Building Through Progres... | 213 |
 | 23 | [[literature notes]] | — | — | 🤝 Relatedness and the Social Dimensio... | 221 |
@@ -300,7 +300,7 @@ extraction_summary:
 | 26 | [[hippocampus]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 253 |
 | 27 | [[default mode network]] | — | — | 🔗 Neural Networks Supporting Knowledg... | 255 |
 | 28 | [[digital gardens]] | — | — | 📚 Knowledge as Living System | 278 |
-| 29 | [[zone of proximal development]] | — | — | 🎓 Implications for Lifelong Learning ... | 290 |
+| 29 | [[Zone-of-Proximal-Development|zone of proximal development]] | — | — | 🎓 Implications for Lifelong Learning ... | 290 |
 | 30 | [[Flow State and Optimal Experience in Knowledge Work]] | — | — | 🔗 Related Topics for PKB Expansion | 298 |
 | 31 | [[Cognitive Load Theory and Working Memory Constraints]] | — | — | 🔗 Related Topics for PKB Expansion | 303 |
 | 32 | [[Habit Formation and Behavioral Architecture]] | — | — | 🔗 Related Topics for PKB Expansion | 308 |
@@ -377,9 +377,9 @@ extraction_summary:
 - [[Flow State and Optimal Experience in Knowledge Work]]
 - [[Habit Formation and Behavioral Architecture]]
 - [[Motivational Psychology]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Relatedness]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory as a Driver for Sustainable Knowledge Management Habits]]
 - [[The Neuroscience of Memory Consolidation and Spaced Repetition]]
 - [[Zettelkasten]]
@@ -388,7 +388,7 @@ extraction_summary:
 - [[default mode network]]
 - [[digital gardens]]
 - [[hippocampus]]
-- [[information architecture]]
+- [[Information-Architecture|information architecture]]
 - [[knowledge work]]
 - [[literature notes]]
 - [[nucleus accumbens]]
@@ -396,7 +396,7 @@ extraction_summary:
 - [[self-efficacy]]
 - [[striatum]]
 - [[ventral striatum]]
-- [[zone of proximal development]]
+- [[Zone-of-Proximal-Development|zone of proximal development]]
 
 ---
 

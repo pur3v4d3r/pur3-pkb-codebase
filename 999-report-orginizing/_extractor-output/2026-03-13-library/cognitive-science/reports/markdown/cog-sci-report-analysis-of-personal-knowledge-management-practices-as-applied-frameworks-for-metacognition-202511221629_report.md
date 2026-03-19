@@ -119,7 +119,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 32)*
 
 > [!abstract] Untitled
-> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
+> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic-Notes|Atomic Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
 
 #### 2. [THE-PURPOSE] Untitled *(Line 35)*
 
@@ -228,7 +228,7 @@ extraction_summary:
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Algorithmic Serendipity]]
 - [[Associative Learning]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Chunking]]
 - [[Concept A]]
 - [[Concept B]]
@@ -238,8 +238,8 @@ extraction_summary:
 - [[Externalized Cognition in Note-Taking]]
 - [[Feynman Technique]]
 - [[Graph Theory]]
-- [[Knowledge Management]]
-- [[Maps of Content (MOCs)]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Metacognition]]
 - [[Metacognitive PKM Frameworks]]
 - [[Rote Memorization]]
@@ -254,17 +254,17 @@ extraction_summary:
 | 1 | [[Metacognitive PKM Frameworks]] | — | — | Methodological Analysis of Personal K... | 28 |
 | 2 | [[Externalized Cognition in Note-Taking]] | — | — | Methodological Analysis of Personal K... | 28 |
 | 3 | [[Self-Regulated Learning via PKM]] | — | — | Methodological Analysis of Personal K... | 28 |
-| 4 | [[Atomic Notes]] | — | — | Phase 1: Overture & Foundation | 33 |
+| 4 | [[Atomic-Notes|Atomic Notes]] | — | — | Phase 1: Overture & Foundation | 33 |
 | 5 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | Phase 1: Overture & Foundation | 36 |
 | 6 | [[Metacognition]] | — | — | Phase 1: Overture & Foundation | 36 |
 | 7 | [[Extended Mind Thesis]] | — | — | Phase 1: Overture & Foundation | 40 |
-| 8 | [[Knowledge Management]] | — | — | The Theoretical Basis: From Storage t... | 50 |
+| 8 | [[Knowledge-Management|Knowledge Management]] | — | — | The Theoretical Basis: From Storage t... | 50 |
 | 9 | [[Constructivism]] | — | — | The Theoretical Basis: From Storage t... | 50 |
 | 10 | [[Concept A]] | — | — | Note-Linking as Associative Metacogni... | 58 |
 | 11 | [[Concept B]] | — | — | Note-Linking as Associative Metacogni... | 58 |
 | 12 | [[Rote Memorization]] | — | — | Note-Linking as Associative Metacogni... | 62 |
 | 13 | [[Associative Learning]] | — | — | Note-Linking as Associative Metacogni... | 62 |
-| 14 | [[Maps of Content (MOCs)]] | — | — | Structuring as Schema Construction | 69 |
+| 14 | [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]] | — | — | Structuring as Schema Construction | 69 |
 | 15 | [[Chunking]] | — | — | Structuring as Schema Construction | 75 |
 | 16 | [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] | — | — | Reviewing and Iterative Refinement | 83 |
 | 17 | [[zettelkasten method]] | — | — | Phase 3: PKB Integration | 98 |
@@ -312,7 +312,7 @@ $$
 - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 - [[Algorithmic Serendipity]]
 - [[Associative Learning]]
-- [[Atomic Notes]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Chunking]]
 - [[Concept A]]
 - [[Concept B]]
@@ -322,8 +322,8 @@ $$
 - [[Externalized Cognition in Note-Taking]]
 - [[Feynman Technique]]
 - [[Graph Theory]]
-- [[Knowledge Management]]
-- [[Maps of Content (MOCs)]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Maps-of-Content-—-MOCs|Maps of Content (MOCs)]]
 - [[Metacognition]]
 - [[Metacognitive PKM Frameworks]]
 - [[Rote Memorization]]

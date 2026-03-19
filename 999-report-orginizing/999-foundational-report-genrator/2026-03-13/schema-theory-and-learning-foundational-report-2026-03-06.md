@@ -129,16 +129,16 @@ prerequisites:
   - "[[Constructivism in Learning Theory]]"
 
 related:
-  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Metacognition and Lifelong Learning]]"
-  - "[[Transfer of Learning]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Prior Knowledge Activation in Instruction]]"
-  - "[[Conceptual Change Theory]]"
-  - "[[Situated Cognition]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
+  - "[[Situated-Cognition|Situated Cognition]]"
   - "[[Elaboration Theory of Instruction]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
 
 narrower:
@@ -148,7 +148,7 @@ narrower:
   - "[[Text Comprehension and Schema Activation]]"
 
 see-also:
-  - "[[Dual Coding Theory]]"
+  - "[[Dual-Coding-Theory|Dual Coding Theory]]"
   - "[[Spreading Activation Theory]]"
   - "[[Knowledge Graph Approaches to Cognition]]"
 
@@ -158,7 +158,7 @@ contrasts-with:
   - "[[Information Processing Model (Pure Stage Model)]]"
 
 applied-in:
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Reading Comprehension Pedagogy]]"
   - "[[Medical Education and Clinical Reasoning]]"
   - "[[Expert-Novice Research]]"
@@ -179,13 +179,13 @@ enables:
   - "[[Expert Reasoning and Adaptive Expertise]]"
 
 expansion-topics:
-  - topic: "[[Cognitive Load Theory]]"
+  - topic: "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
     description: "Schema theory's direct descendant in instructional science: how schema acquisition reduces intrinsic cognitive load, how worked examples support schema formation, and how automation of schemas frees working memory for higher-order reasoning."
     priority: high
-  - topic: "[[Conceptual Change Theory]]"
+  - topic: "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
     description: "What happens when learner schemas are not merely insufficient but actively wrong? Conceptual change theory addresses the conditions under which accommodation becomes radical restructuring — highly relevant for science and mathematics education."
     priority: high
-  - topic: "[[Transfer of Learning]]"
+  - topic: "[[Transfer-of-Learning|Transfer of Learning]]"
     description: "Schema theory provides the cognitive architecture for understanding transfer: schemas are the knowledge structures that generalize across contexts. A foundational report here would examine near and far transfer, the conditions that promote schema abstraction, and implications for curriculum design."
     priority: high
   - topic: "[[Prior Knowledge and Learning — Research Synthesis]]"
@@ -263,7 +263,7 @@ generation-date: "2026-03-06"
 
 Consider the following scenario. A student reads a passage about a famous battle — names, dates, troop movements — and recalls it well the next morning. Two weeks later, some facts have drifted, others have been silently replaced by plausible-sounding alternatives that the student never read. The names became slightly more familiar-sounding. The tactics aligned, somehow, with what the student already knew about military strategy. What happened? Why did memory apparently *improve* on the text? The answer, as [[Frederic Bartlett]] first argued in 1932, is that memory does not work like a recording device. It works like a storyteller, and schemas are the storyteller's narrative conventions.
 
-[[Schema theory]] is among the most influential conceptual frameworks in cognitive psychology and learning science. At its core, the theory proposes that long-term knowledge is organized not as isolated facts but as structured mental frameworks — schemas — that represent generalized knowledge about the world, about events, about people, about texts, and about how to act. These frameworks are simultaneously the containers in which new information arrives, the lenses through which it is interpreted, and the reconstructive templates through which it is later recalled. Understanding schemas means understanding something fundamental about why people learn, mislearn, forget, and remember the way they do.
+[[Schema-Theory|Schema theory]] is among the most influential conceptual frameworks in cognitive psychology and learning science. At its core, the theory proposes that long-term knowledge is organized not as isolated facts but as structured mental frameworks — schemas — that represent generalized knowledge about the world, about events, about people, about texts, and about how to act. These frameworks are simultaneously the containers in which new information arrives, the lenses through which it is interpreted, and the reconstructive templates through which it is later recalled. Understanding schemas means understanding something fundamental about why people learn, mislearn, forget, and remember the way they do.
 
 **Why this topic matters.** The practical stakes of schema theory are high. For educators, schema theory offers a principled explanation of the role of prior knowledge in learning — not merely as background information but as the cognitive architecture that new learning must attach to, reorganize, or displace. For instructional designers, it provides a framework for sequencing content, designing [[advance organizers]], and anticipating the ways in which learners' existing frameworks will shape what they take from instruction. For learners themselves, understanding schemas supports [[metacognitive awareness]] — the ability to recognize when one's existing frameworks are facilitating, distorting, or blocking comprehension.
 
@@ -326,21 +326,21 @@ Several distinctions are essential for precise thinking about schema theory.
 
 ### Rumelhart's Computational Schema Theory
 
-The most technically developed treatment of schemas as cognitive structures emerged from [[David Rumelhart]]'s work in cognitive science during the 1970s and 1980s. Writing within the [[information processing]] tradition and later in the context of [[parallel distributed processing]], Rumelhart proposed that schemas are the fundamental building blocks of human cognition — "the building blocks of cognition," in his own phrase.
+The most technically developed treatment of schemas as cognitive structures emerged from [[David-Rumelhart|David Rumelhart]]'s work in cognitive science during the 1970s and 1980s. Writing within the [[information processing]] tradition and later in the context of [[parallel distributed processing]], Rumelhart proposed that schemas are the fundamental building blocks of human cognition — "the building blocks of cognition," in his own phrase.
 
 > [!key-claim] **Schemas as Variable Structures**
 > For Rumelhart, schemas are data structures that contain *variables* — open slots that take specific values when the schema is instantiated in a particular context. The room schema, for example, has slots for walls, floor, ceiling, doors, and furniture; the values of these slots are set when the schema is applied to a particular room. Crucially, slots carry *default values* — the typical or most probable values in the absence of specific information. A default for the furniture slot in the room schema might be "chairs and table." This is why we infer chairs when we hear "kitchen" even if none were mentioned.
 
-Rumelhart's treatment has three particularly important properties. First, schemas are embedded within schemas in a hierarchy: the room schema is embedded in the house schema, which is embedded in the neighborhood schema. Comprehension involves simultaneous activation at multiple levels of this hierarchy, with top-level schemas constraining interpretation at lower levels and lower-level data confirming or disconfirming higher-level schemas. Second, schemas interact: the kitchen schema and the dining room schema share certain slots (food-related furniture) while differing in others, and activating one partially activates the other through [[spreading activation]]. Third, [[schema instantiation]] is the process of assigning specific values to schema variables — a process that is partly data-driven (by what the text or situation actually says) and partly inference-driven (by the defaults embedded in the schema).
+Rumelhart's treatment has three particularly important properties. First, schemas are embedded within schemas in a hierarchy: the room schema is embedded in the house schema, which is embedded in the neighborhood schema. Comprehension involves simultaneous activation at multiple levels of this hierarchy, with top-level schemas constraining interpretation at lower levels and lower-level data confirming or disconfirming higher-level schemas. Second, schemas interact: the kitchen schema and the dining room schema share certain slots (food-related furniture) while differing in others, and activating one partially activates the other through [[Spreading-Activation|spreading activation]]. Third, [[schema instantiation]] is the process of assigning specific values to schema variables — a process that is partly data-driven (by what the text or situation actually says) and partly inference-driven (by the defaults embedded in the schema).
 
 ### Ausubel's Assimilation Theory and Advance Organizers
 
-[[David Ausubel]]'s contribution to schema theory is primarily pedagogical. Where Piaget described how schemas develop and Rumelhart described their structure, Ausubel asked: how should instruction be designed to make use of what students already know? His central claim, stated famously in the opening of his 1968 textbook *Educational Psychology: A Cognitive View*, is that "the most important single factor influencing learning is what the learner already knows. Ascertain this and teach accordingly."
+[[David-Ausubel|David Ausubel]]'s contribution to schema theory is primarily pedagogical. Where Piaget described how schemas develop and Rumelhart described their structure, Ausubel asked: how should instruction be designed to make use of what students already know? His central claim, stated famously in the opening of his 1968 textbook *Educational Psychology: A Cognitive View*, is that "the most important single factor influencing learning is what the learner already knows. Ascertain this and teach accordingly."
 
 > [!key-claim] **Meaningful Learning as Anchoring**
 > Ausubel distinguished between *rote learning* — the memorization of arbitrary associations — and *meaningful learning* — the deliberate anchoring of new material to relevant existing knowledge structures in [[cognitive structure]]. Meaningful learning produces durable, transferable understanding precisely because the new material is connected to an organized network of prior knowledge. Rote learning produces brittle, inert knowledge: accessible only in the context in which it was learned, and rapidly forgotten without that context.
 
-The instructional tool Ausubel derived from this theory was the [[advance organizer]] — a brief piece of material presented before a lesson, at a higher level of abstraction and generality than the lesson content, designed to activate and provide conceptual scaffolding within the learner's existing cognitive structure. An advance organizer for a biology unit on cellular respiration, for example, might introduce the general idea of energy transformation in biological systems before the biochemical details are presented. The organizer gives students a schema "hook" onto which the incoming specifics can be attached.
+The instructional tool Ausubel derived from this theory was the [[Advance-Organizer|advance organizer]] — a brief piece of material presented before a lesson, at a higher level of abstraction and generality than the lesson content, designed to activate and provide conceptual scaffolding within the learner's existing cognitive structure. An advance organizer for a biology unit on cellular respiration, for example, might introduce the general idea of energy transformation in biological systems before the biochemical details are presented. The organizer gives students a schema "hook" onto which the incoming specifics can be attached.
 
 > [!insight] **Ausubel's Underappreciated Subtlety**
 > Advance organizers are frequently misunderstood as mere previews or outlines of upcoming content. Ausubel was emphatic that this is not what he meant. A preview operates at the same level of abstraction as the content itself. An advance organizer operates at a *higher* level of abstraction — it connects the new content to the learner's existing conceptual frameworks, not merely to other new content. This distinction matters: the organizer's function is to activate and strengthen the relevant schemas, providing ideational scaffolding in which the new material can be anchored.
@@ -405,7 +405,7 @@ This five-step reconstruction process explains a wide range of memory phenomena.
 
 ### Schema Change: From Learning to Conceptual Restructuring
 
-Learning, in schema-theoretic terms, occurs through one of three processes. **Accretion** is the most common: new facts are added to an existing schema without changing its structure — new slot values are filled, or new instances are logged. Accretion corresponds roughly to Piaget's assimilation. **Tuning** involves modest adjustment of schema structure — a slot is narrowed or broadened, default values are updated, or the conditions under which a schema is applied are refined. This corresponds to mild accommodation. **Restructuring** involves fundamental reorganization — existing schemas are reclassified, their relationships redrawn, or entirely new schemas are created to replace ones that have failed. This is radical accommodation, and it is the kind of learning that [[conceptual change theory]] addresses when it examines how students revise fundamentally mistaken prior conceptions in science.
+Learning, in schema-theoretic terms, occurs through one of three processes. **Accretion** is the most common: new facts are added to an existing schema without changing its structure — new slot values are filled, or new instances are logged. Accretion corresponds roughly to Piaget's assimilation. **Tuning** involves modest adjustment of schema structure — a slot is narrowed or broadened, default values are updated, or the conditions under which a schema is applied are refined. This corresponds to mild accommodation. **Restructuring** involves fundamental reorganization — existing schemas are reclassified, their relationships redrawn, or entirely new schemas are created to replace ones that have failed. This is radical accommodation, and it is the kind of learning that [[Conceptual-Change-Theory|conceptual change theory]] addresses when it examines how students revise fundamentally mistaken prior conceptions in science.
 
 > [!ask-yourself-this] **Testing Your Mechanistic Understanding**
 > Can you trace the distinction between accretion, tuning, and restructuring to a specific learning experience in a subject you know well? Think about when you first learned the subject versus when you developed genuine expertise. Which of the three processes dominated at each stage? What triggered the shifts from accretion to tuning, or from tuning to restructuring?
@@ -451,7 +451,7 @@ Schema theory's explanatory power is real but bounded. Several limitations deser
 > Schemas are not universal — they are constructed through individual and cultural experience. Bartlett's original cross-cultural data showed that schemas vary dramatically across cultural contexts. The large majority of schema research has been conducted with Western, university-educated participants, creating genuine questions about the generalizability of findings about default schema content, typical schema activation patterns, and the effects of schema mismatch. Instruction designed on the assumption that students share relevant schemas may disadvantage students whose cultural backgrounds have equipped them with different frameworks.
 
 > [!important] **Underspecification of Schema Formation Mechanisms**
-> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive load theory]] and research on [[spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
+> Schema theory is considerably stronger as an account of how schemas operate (activation, slot-filling, reconstruction) than as an account of how they form. The processes by which experience is abstracted into schematic knowledge — through what exposure conditions, at what grain size, with what sensitivity to individual versus prototypical instances — remain incompletely understood. [[Cognitive-Load-Theory|Cognitive load theory]] and research on [[spaced practice]] and [[interleaved practice]] have begun to address the conditions that support schema formation, but the field lacks a fully adequate theory of the formation process itself.
 
 **Common misconceptions.** Two misconceptions about schema theory deserve explicit correction. First, schema theory does not imply that all prior knowledge facilitates learning — as the interference literature abundantly shows, the quality and accuracy of prior schemas matter enormously. Second, schema theory is not an argument against direct instruction or explicit knowledge transfer; it is an argument that instruction must be designed with an understanding of the cognitive frameworks that learners bring, regardless of whether instruction is direct or discovery-based.
 
@@ -489,7 +489,7 @@ Several important questions remain open. How exactly are schemas formed from exp
 >
 > - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework's emphasis on questioning assumptions connects directly to schema theory's account of schema interference: critical thinking, in part, is the capacity to surface, examine, and test the schemas through which one is currently interpreting a situation. Schön's reflection-in-action and reflection-on-action are, schema-theoretically, processes of schema examination during and after deployment. The Reflective Judgment Model's developmental progression maps neatly onto the schema-theoretic account of how knowledge frameworks become increasingly differentiated, calibrated, and epistemically aware.
 >
-> - **[[Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (anticipated expansion) — Schema theory is the conceptual foundation of cognitive load theory: Sweller's account of intrinsic cognitive load rests on the claim that schemas, when formed, chunk information into single units that can be handled as one element in working memory — dramatically reducing the load of processing familiar material. The development of expertise, in CLT, is fundamentally the development of an extensive, well-organized repertoire of schemas. Reports on these two frameworks should be read as complementary: schema theory describes the structure; CLT describes the processing consequences.
 >
 > The pattern across these connections reveals that schema theory is less a self-contained framework than a conceptual foundation that recurs throughout the learning sciences: metacognition is the monitoring of one's schemas; critical thinking is the examination of one's schemas; cognitive load is reduced by the formation and automation of schemas; transfer is enabled by the abstraction of schemas across contexts. To understand schemas is to understand a central organizing theme of the entire field.
 
@@ -505,7 +505,7 @@ Several important questions remain open. How exactly are schemas formed from exp
 ### A. Lexicon of Key Terms
 
 > [!definition] **Schema**
-> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic Bartlett]] (1932) and elaborated by [[David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
+> A structured mental framework that organizes generalized knowledge about a class of entities, events, situations, or relationships. Schemas contain variables (slots) with default values, are embedded in hierarchies of related schemas, and function as active knowledge structures that guide perception, inference, and reconstructive recall. The term was given its contemporary technical meaning by [[Frederic Bartlett]] (1932) and elaborated by [[David-Rumelhart|David Rumelhart]] (1975, 1980). Boundary condition: a schema is not an isolated fact, a simple category label, or a verbatim memory record.
 
 > [!definition] **Assimilation (Piaget)**
 > The cognitive process of interpreting new information by incorporating it into an existing schema without altering the schema's fundamental structure. Assimilation is the dominant mode of processing schema-consistent information and enables efficient, fluent comprehension. It can produce distortion when new material is forced into an ill-fitting framework. Boundary: assimilation involves active *transformation* of incoming information to fit the schema, not passive storage.
@@ -570,11 +570,11 @@ Several important questions remain open. How exactly are schemas formed from exp
 > > [!topic-idea] [[Cognitive Load Theory and Instructional Design]]
 > > Schema theory's most directly practical descendant. Cognitive load theory (CLT) takes schema acquisition as its explanatory target and working memory limitations as its primary constraint. A foundational report here would cover intrinsic, extraneous, and germane cognitive load; the worked example effect; the completion problem effect; and the instructional design principles (split-attention, redundancy, expertise reversal) that CLT has generated. CLT is probably the single most evidence-grounded theory in instructional design and should be considered a high-priority expansion for any PKB focused on learning science.
 
-> > [!topic-idea] [[Conceptual Change Theory]]
+> > [!topic-idea] [[Conceptual-Change-Theory|Conceptual Change Theory]]
 > > What happens when learner schemas are not merely absent but actively wrong — and deeply resistant to revision? Conceptual change theory, associated with [[George Posner]], [[Susan Carey]], and [[Stella Vosniadou]], addresses this question head-on. A foundational report would cover the conditions for radical accommodation (intelligibility, plausibility, fruitfulness of the replacement concept), the theory of *framework theories* that organize resistant misconceptions, and the instructional interventions (refutational texts, anomaly exposure, metacognitive instruction) that support genuine conceptual restructuring. Essential for educators working in science, mathematics, or any domain with well-documented student misconceptions.
 
 > > [!topic-idea] [[Transfer of Learning — Mechanisms and Conditions]]
-> > Schemas are the cognitive structures that make transfer possible: generalized knowledge that applies across contexts. A foundational report on transfer would examine the classic near/far distinction, [[John Bransford]] and [[Daniel Schwartz]]'s reconceptualization of transfer as *preparation for future learning*, the conditions that support schema abstraction (variability of practice, interleaving, comparison across cases), and the implications for curriculum design. This is among the most educationally consequential topics in learning science, and schema theory provides its cognitive-structural foundation.
+> > Schemas are the cognitive structures that make transfer possible: generalized knowledge that applies across contexts. A foundational report on transfer would examine the classic near/far distinction, [[John Bransford]] and [[Daniel-Schwartz|Daniel Schwartz]]'s reconceptualization of transfer as *preparation for future learning*, the conditions that support schema abstraction (variability of practice, interleaving, comparison across cases), and the implications for curriculum design. This is among the most educationally consequential topics in learning science, and schema theory provides its cognitive-structural foundation.
 
 > > [!topic-idea] [[Prior Knowledge and Learning — Research Synthesis]]
 > > Schema theory predicts that prior knowledge is the most important determinant of learning, but the empirical relationship between prior knowledge and learning outcomes is more complex than Ausubel's optimistic claim suggests. A synthesis report would examine the quantity-quality distinction in prior knowledge, the conditions under which prior knowledge facilitates versus interferes with learning, the knowledge reversal effect (where more prior knowledge sometimes leads to worse outcomes under certain instructional conditions), and methodological challenges in measuring prior knowledge. This would provide an evidence-grounded update to the theoretical claims of this foundational report.

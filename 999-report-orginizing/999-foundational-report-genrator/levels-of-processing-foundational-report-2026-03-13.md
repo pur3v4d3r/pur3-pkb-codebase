@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════
 title: "Levels of Processing Theory (Craik & Lockhart)"
 aliases:
-  - "[[Levels of Processing]]"
+  - "[[Levels-of-Processing|Levels of Processing]]"
   - "[[LOP Theory]]"
   - "[[Depth of Processing]]"
   - "[[Craik-Lockhart Framework]]"
@@ -124,23 +124,23 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Working Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Long-Term-Memory|Long-Term Memory]]"
   - "[[Encoding and Retrieval Basics]]"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Encoding Specificity Principle]]"
-  - "[[Transfer of Learning]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
   - "[[Metacognition & Lifelong Learning]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Feedback Design for Autonomy and Mastery]]"
 
 broader:
-  - "[[Memory Systems]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Memory-Systems|Memory Systems]]"
+  - "[[Cognitive-Psychology|Cognitive Psychology]]"
   - "[[Learning Sciences]]"
 
 narrower:
@@ -150,10 +150,10 @@ narrower:
   - "[[Semantic Processing]]"
 
 see-also:
-  - "[[Retrieval Practice Effect]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Generation Effect]]"
-  - "[[Spaced Repetition]]"
+  - "[[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Generation-Effect|Generation Effect]]"
+  - "[[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]"
 
 contrasts-with:
   - "[[Atkinson-Shiffrin Multi-Store Model]]"
@@ -161,7 +161,7 @@ contrasts-with:
 
 applied-in:
   - "[[Study Strategy Design]]"
-  - "[[Instructional Design]]"
+  - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]"
   - "[[Curriculum Development]]"
   - "[[Formative Assessment Design]]"
 
@@ -169,22 +169,22 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Working Memory]]"
+  - "[[Working-Memory|Working Memory]]"
   - "[[Atkinson-Shiffrin Multi-Store Model]]"
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory|Schema Theory]]"
 
 enables:
-  - "[[Transfer-Appropriate Processing]]"
-  - "[[Encoding Specificity Principle]]"
+  - "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
+  - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
   - "[[Elaborative Interrogation as Study Strategy]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
   - "[[Desirable Difficulties in Learning]]"
 
 expansion-topics:
-  - topic: "[[Transfer-Appropriate Processing]]"
+  - topic: "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
     description: "The Morris, Bransford & Franks (1977) framework that reframes LOP's claims: retention depends on the match between encoding and retrieval operations, not depth per se. Essential for understanding why surface-level processing can sometimes outperform deep processing on rhyme-based retrieval tasks."
     priority: high
-  - topic: "[[Encoding Specificity Principle]]"
+  - topic: "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
     description: "Tulving & Thomson's (1973) principle that memory is best when retrieval conditions reinstate encoding conditions. Closely related to TAP; understanding both frameworks together provides a comprehensive picture of encoding-retrieval interactions."
     priority: high
   - topic: "[[Elaborative Interrogation as Study Strategy]]"
@@ -263,7 +263,7 @@ This scenario crystallizes the central claim of the **[[Levels of Processing The
 
 ### Scope and Reader Positioning
 
-This report covers the original 1972 framework, its principal empirical elaborations through the 1970s and 1980s, the major theoretical challenges (particularly [[Transfer-Appropriate Processing]]), the applications to educational and instructional design, and an honest accounting of the theory's limitations. It does not provide a comprehensive review of memory systems broadly, nor does it attempt a full treatment of [[Retrieval Practice]] or [[Spaced Repetition]] — though these topics are identified as natural expansions. Readers with foundational familiarity with [[Working Memory]] and [[Long-Term Memory]] will find the material immediately accessible; those without this background will benefit from the definitions provided in Phase II.
+This report covers the original 1972 framework, its principal empirical elaborations through the 1970s and 1980s, the major theoretical challenges (particularly [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]), the applications to educational and instructional design, and an honest accounting of the theory's limitations. It does not provide a comprehensive review of memory systems broadly, nor does it attempt a full treatment of [[Retrieval-Practice|Retrieval Practice]] or [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] — though these topics are identified as natural expansions. Readers with foundational familiarity with [[Working-Memory|Working Memory]] and [[Long-Term-Memory|Long-Term Memory]] will find the material immediately accessible; those without this background will benefit from the definitions provided in Phase II.
 
 ### Why This Matters
 
@@ -271,7 +271,7 @@ This report covers the original 1972 framework, its principal empirical elaborat
 
 ### Report Roadmap
 
-Phase II establishes the original theoretical framework and its key distinctions. Phase III maps the subsequent theoretical landscape, including the elaboration/distinctiveness amendments and the [[Transfer-Appropriate Processing]] challenge. Phase IV moves to the operational level — the mechanisms through which deep processing actually produces durable traces. Phase V addresses practical applications and their important limitations. Phase VI synthesizes across the knowledge base, connecting this report to adjacent nodes.
+Phase II establishes the original theoretical framework and its key distinctions. Phase III maps the subsequent theoretical landscape, including the elaboration/distinctiveness amendments and the [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] challenge. Phase IV moves to the operational level — the mechanisms through which deep processing actually produces durable traces. Phase V addresses practical applications and their important limitations. Phase VI synthesizes across the knowledge base, connecting this report to adjacent nodes.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to notice your own assumptions about memory. Do you believe that re-reading the same material repeatedly is an effective study strategy? What do you think happens differently in your brain when you merely recognize a word versus when you explain what it means? Articulating your starting assumptions will make the conceptual shifts in this report more visible.
@@ -314,7 +314,7 @@ This account, while influential, faced a fundamental empirical challenge. [[Crai
 
 ### Historical Development
 
-The intellectual roots of the [[Levels of Processing]] framework extend in multiple directions. The distinction between meaningful and rote processing has antecedents in Gestalt psychology and in [[Bartlett's reconstructive memory theory]] (1932), which emphasized that memory involves active meaning-making rather than passive recording. [[Jean Piaget's]] constructivist epistemology similarly emphasized that cognitive engagement with content transforms both the content and the learner. More proximately, the phenomenon of *incidental learning* — the observation that people sometimes remember information they were not trying to remember, provided they processed it meaningfully — had been documented for decades before Craik and Lockhart formalized the explanation.
+The intellectual roots of the [[Levels-of-Processing|Levels of Processing]] framework extend in multiple directions. The distinction between meaningful and rote processing has antecedents in Gestalt psychology and in [[Bartlett's reconstructive memory theory]] (1932), which emphasized that memory involves active meaning-making rather than passive recording. [[Jean Piaget's]] constructivist epistemology similarly emphasized that cognitive engagement with content transforms both the content and the learner. More proximately, the phenomenon of *incidental learning* — the observation that people sometimes remember information they were not trying to remember, provided they processed it meaningfully — had been documented for decades before Craik and Lockhart formalized the explanation.
 
 What the 1972 paper contributed was a coherent theoretical vocabulary and a productive experimental paradigm. By framing the problem as one of *levels* arranged on a continuum from shallow to deep, Craik and Lockhart gave researchers a tractable way to operationalize and study encoding quality. The orienting task methodology translated the abstract theoretical claim into a manipulable experimental variable. This combination of theoretical clarity and methodological tractability made LOP exceptionally generative as a research program, inspiring hundreds of empirical studies in the decade that followed.
 
@@ -347,14 +347,14 @@ However, a problem emerged quickly: if all semantic processing produced equivale
 
 ### Transfer-Appropriate Processing: A Fundamental Challenge
 
-The most significant theoretical challenge to the [[Levels of Processing]] framework came from [[Morris, Bransford, and Franks]] in 1977. Their experiment demonstrated a case in which *shallow* processing produced better retention than deep processing — an outright reversal of the LOP prediction. Participants processed words either semantically (does this word fit a sentence frame?) or phonemically (does this word rhyme with another?). When tested with a standard recognition test, semantic processors outperformed phonemic processors as expected. But when tested with a *rhyme recognition test* (participants were given a rhyming cue and asked whether a word with that sound had appeared earlier), phonemic processors outperformed semantic processors.
+The most significant theoretical challenge to the [[Levels-of-Processing|Levels of Processing]] framework came from [[Morris, Bransford, and Franks]] in 1977. Their experiment demonstrated a case in which *shallow* processing produced better retention than deep processing — an outright reversal of the LOP prediction. Participants processed words either semantically (does this word fit a sentence frame?) or phonemically (does this word rhyme with another?). When tested with a standard recognition test, semantic processors outperformed phonemic processors as expected. But when tested with a *rhyme recognition test* (participants were given a rhyming cue and asked whether a word with that sound had appeared earlier), phonemic processors outperformed semantic processors.
 
 This result was not merely an anomaly — it pointed toward a more fundamental principle. Memory performance does not depend solely on how deeply information is encoded; it depends on the *match* between encoding operations and retrieval operations. If the retrieval test taps phonemic features, phonemic encoding becomes relevant, and semantic encoding — however deep — fails to provide what the retrieval cue needs.
 
 > [!definition] **Transfer-Appropriate Processing (Morris, Bransford & Franks, 1977)**
 > The principle that memory performance is optimized when the type of cognitive processing performed at encoding *transfers appropriately* to (i.e., overlaps with) the type of cognitive processing required at retrieval. Rather than claiming that deep processing is universally superior, TAP claims that the best encoding for any given test is the encoding that most closely matches what the test requires. Shallow processing can outperform deep processing if the retrieval test demands shallow features.
 
-The relationship between [[Levels of Processing]] and [[Transfer-Appropriate Processing]] has been productively debated for decades. The two frameworks are not straightforwardly incompatible. One resolution, proposed by [[Roediger]] and others, is that semantic processing tends to produce better memory on *most* naturally occurring memory tests precisely because most tests in academic and real-world contexts require semantic retrieval. The conditions under which shallow encoding outperforms deep encoding — specifically designed rhyme tests, physical feature matching tasks — are relatively unusual. The practical advantage of deep processing is robust in ecologically typical conditions, even if the absolute claim of depth-superiority is incorrect.
+The relationship between [[Levels-of-Processing|Levels of Processing]] and [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] has been productively debated for decades. The two frameworks are not straightforwardly incompatible. One resolution, proposed by [[Roediger]] and others, is that semantic processing tends to produce better memory on *most* naturally occurring memory tests precisely because most tests in academic and real-world contexts require semantic retrieval. The conditions under which shallow encoding outperforms deep encoding — specifically designed rhyme tests, physical feature matching tasks — are relatively unusual. The practical advantage of deep processing is robust in ecologically typical conditions, even if the absolute claim of depth-superiority is incorrect.
 
 > [!counter-argument] **The TAP Challenge and Its Limits**
 > Transfer-appropriate processing demonstrates that depth is not the only determinant of retention, and that the match between encoding and retrieval conditions matters. However, this does not render LOP practically useless: in the vast majority of educational and real-world memory contexts, retrieval cues involve semantic features (meaning, context, categories), making semantic encoding the practically optimal default. TAP and LOP are best understood as complementary: LOP predicts the most useful encoding for typical conditions, TAP explains why there are exceptions and what those exceptions reveal about memory more generally.
@@ -366,23 +366,23 @@ A particularly striking extension of the LOP framework came from [[Rogers, Kuipe
 > [!key-claim] **The Self-Reference Effect**
 > Encoding information with reference to the self — asking whether a word or concept applies to one's own traits, experiences, or identity — produces superior memory compared to other-referential or impersonal semantic processing. The most widely accepted explanation is that the self-concept is a highly elaborated, well-organized, and affectively charged knowledge structure, meaning self-referential encoding automatically recruits an exceptionally rich associative network. Self-referential processing constitutes, in effect, the deepest available form of elaborative semantic encoding.
 
-The [[Self-Reference Effect]] has been replicated extensively and has been investigated using neuroimaging, which reveals differential activation in the medial prefrontal cortex during self-referential processing — a region associated with self-relevant cognition. Cross-cultural research has shown the effect holds across cultures, though the magnitude varies as a function of whether the cultural context favors individualistic or collectivistic conceptions of self, with collectivistic cultures sometimes showing an "other-reference effect" for significant in-group members.
+The [[Self-Reference-Effect|Self-Reference Effect]] has been replicated extensively and has been investigated using neuroimaging, which reveals differential activation in the medial prefrontal cortex during self-referential processing — a region associated with self-relevant cognition. Cross-cultural research has shown the effect holds across cultures, though the magnitude varies as a function of whether the cultural context favors individualistic or collectivistic conceptions of self, with collectivistic cultures sometimes showing an "other-reference effect" for significant in-group members.
 
 ### Encoding Specificity and the Broader Context
 
-[[Endel Tulving]] and [[Donald Thomson's]] [[Encoding Specificity Principle]] (1973) provides an important complement to both LOP and TAP. The principle states that a retrieval cue will be effective to the extent that the information that was encoded along with the target item is reinstated at retrieval. This is not simply a restatement of TAP — it specifically emphasizes the role of *contextual information* encoded alongside the target, including environmental context, affective state, and associated cognitive context.
+[[Endel Tulving]] and [[Donald Thomson's]] [[Encoding-Specificity-Principle|Encoding Specificity Principle]] (1973) provides an important complement to both LOP and TAP. The principle states that a retrieval cue will be effective to the extent that the information that was encoded along with the target item is reinstated at retrieval. This is not simply a restatement of TAP — it specifically emphasizes the role of *contextual information* encoded alongside the target, including environmental context, affective state, and associated cognitive context.
 
-Together, LOP, TAP, and the [[Encoding Specificity Principle]] form a family of related accounts that converge on a common insight: memory is a constructive, context-dependent process. The durability of a memory is not a fixed property of the trace at encoding; it is a function of the relationship between what was encoded and what the retrieval environment provides. LOP identifies encoding quality (depth) as a primary determinant of trace durability under neutral retrieval conditions. TAP qualifies this by showing that the relevant encoding quality depends on what retrieval will demand. The [[Encoding Specificity Principle]] adds that contextual cues encoded alongside the target also form part of the trace, enabling or hindering retrieval depending on their reinstatement.
+Together, LOP, TAP, and the [[Encoding-Specificity-Principle|Encoding Specificity Principle]] form a family of related accounts that converge on a common insight: memory is a constructive, context-dependent process. The durability of a memory is not a fixed property of the trace at encoding; it is a function of the relationship between what was encoded and what the retrieval environment provides. LOP identifies encoding quality (depth) as a primary determinant of trace durability under neutral retrieval conditions. TAP qualifies this by showing that the relevant encoding quality depends on what retrieval will demand. The [[Encoding-Specificity-Principle|Encoding Specificity Principle]] adds that contextual cues encoded alongside the target also form part of the trace, enabling or hindering retrieval depending on their reinstatement.
 
 > [!insight] **A Convergent Picture**
-> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
+> These three frameworks are often presented as competing, but they are better understood as capturing different facets of the same underlying phenomenon. Memory is neither a simple recording device (where depth is all that matters) nor a purely retrieval-dependent phenomenon (where encoding is irrelevant beyond its match to future tests). The practical upshot is that optimal encoding involves both depth and anticipatory awareness of how information will need to be retrieved — a metacognitive sophistication that connects LOP directly to [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] and [[Metacognition & Lifelong Learning]].
 
 > [!ask-yourself-this] **Mapping Your Position**
 > As you encounter the tension between LOP and TAP, notice whether you feel the pull toward one framework over the other. Students of educational psychology often gravitate toward LOP because of its clean pedagogical implications; researchers in cognitive psychology often favor TAP because of its greater theoretical precision. What would you lose by adopting only one framework? What does holding both in tension require of you intellectually?
 
 > [!reflection] **Engaging the Landscape**
 > 1. The Morris, Bransford & Franks (1977) experiment showed that phonemic encoding could outperform semantic encoding on a rhyme retrieval test. What does this imply about how students should think about preparing for different kinds of examination formats? Are there examinations that actually reward shallow processing?
-> 2. The [[Self-Reference Effect]] suggests that one reliable way to deepen encoding is to make material personally relevant. What are the practical and ethical implications of designing instruction around self-referential prompts? Are there domains where this strategy seems more or less appropriate?
+> 2. The [[Self-Reference-Effect|Self-Reference Effect]] suggests that one reliable way to deepen encoding is to make material personally relevant. What are the practical and ethical implications of designing instruction around self-referential prompts? Are there domains where this strategy seems more or less appropriate?
 > 3. If transfer-appropriate processing is correct, then the ideal study strategy depends on what kind of test a student will face. Does this imply that students should be told what type of test they will face in advance? What are the arguments for and against such transparency?
 
 ---
@@ -391,11 +391,11 @@ Together, LOP, TAP, and the [[Encoding Specificity Principle]] form a family of 
 
 ### What "Deep Processing" Actually Does in the Brain
 
-The original [[Levels of Processing]] framework was deliberately atheoretical about the neural mechanisms underlying depth effects — Craik and Lockhart explicitly described their framework as a conceptual tool rather than a neurological model. In the decades since, however, cognitive neuroscience has begun to fill in the mechanistic picture with some consistency.
+The original [[Levels-of-Processing|Levels of Processing]] framework was deliberately atheoretical about the neural mechanisms underlying depth effects — Craik and Lockhart explicitly described their framework as a conceptual tool rather than a neurological model. In the decades since, however, cognitive neuroscience has begun to fill in the mechanistic picture with some consistency.
 
 Neuroimaging studies (fMRI and PET) have reliably shown that semantic encoding tasks, relative to phonemic and structural tasks, produce greater activation in left inferior prefrontal regions, the hippocampus, and parahippocampal regions — areas implicated in relational and contextual memory binding. This differential activation at encoding predicts subsequent retrieval success, a phenomenon known as the *subsequent memory effect* or *Dm effect* (difference due to memory). Critically, the magnitude of hippocampal activation during semantic encoding is correlated with the robustness of long-term retention, providing a neural-level analog to the behavioral depth effect.
 
-The mechanistic story that emerges is consistent with the LOP claim: semantic processing recruits broader cortical networks, engages existing knowledge structures (consistent with [[Schema Theory]]), and creates more numerous and diverse associations — what cognitive neuroscientists call richer *relational binding*. This means the resulting memory trace has more retrieval routes. When the same item needs to be reconstructed later, it can be approached from any of many associated concepts, rather than depending on a single fragile cue.
+The mechanistic story that emerges is consistent with the LOP claim: semantic processing recruits broader cortical networks, engages existing knowledge structures (consistent with [[Schema-Theory|Schema Theory]]), and creates more numerous and diverse associations — what cognitive neuroscientists call richer *relational binding*. This means the resulting memory trace has more retrieval routes. When the same item needs to be reconstructed later, it can be approached from any of many associated concepts, rather than depending on a single fragile cue.
 
 > [!key-insight] **Depth as Associative Richness**
 > The most coherent mechanistic interpretation of the depth effect is that deep (semantic) processing recruits more of the existing knowledge network, creating a memory trace embedded in a dense web of associations. This associative richness serves retrieval in two ways: it multiplies the number of effective retrieval cues, and it enables partial reconstruction — if direct retrieval fails, associated facts can serve as scaffolding for reconstruction. Shallow processing, by contrast, produces a trace with few associations and a narrow retrieval pathway, making it highly vulnerable to forgetting.
@@ -404,14 +404,14 @@ The mechanistic story that emerges is consistent with the LOP claim: semantic pr
 
 Within the semantic level, the elaboration effect observed by [[Craik and Tulving]] (1975) can be understood through the lens of spreading activation and schema engagement. When a word is encountered in the context of a rich, complex sentence frame, comprehension requires activating more nodes in the semantic network — more contextual inferences must be made, more prior knowledge must be retrieved and integrated. This integration process creates bidirectional associative links: not only does the target word become associated with the sentence context, but the semantic network activated during comprehension becomes associated with the target word as a retrieval cue.
 
-This account aligns directly with [[Schema Theory]] as described by [[Rumelhart]] and [[Bartlett]]: meaningful encoding involves assimilation into existing knowledge structures (schemas), and the richer the schema activated during encoding, the more deeply embedded and retrievable the encoded information becomes. A word encoded in an elaborate sentence activates multiple schema slots — agent, action, patient, manner, context — each of which becomes a potential retrieval pathway.
+This account aligns directly with [[Schema-Theory|Schema Theory]] as described by [[Rumelhart]] and [[Bartlett]]: meaningful encoding involves assimilation into existing knowledge structures (schemas), and the richer the schema activated during encoding, the more deeply embedded and retrievable the encoded information becomes. A word encoded in an elaborate sentence activates multiple schema slots — agent, action, patient, manner, context — each of which becomes a potential retrieval pathway.
 
 > [!example] **Elaboration in Practice**
 > Consider encoding the word "PIANO" under two conditions. In the simple semantic condition, a participant answers: "Is this an instrument?" (Yes). In the elaborated semantic condition, the same participant answers: "Does this word fit the sentence: 'The concert pianist performed the haunting nocturne on the gleaming grand ___'?" (Yes). Both conditions require semantic processing. But the elaborate condition recruits concert settings, types of music, performers, and visual imagery of the instrument — a dense associative cluster. Each of these associated elements can later serve as a retrieval cue. The memory trace is not simply "stronger"; it is *more richly connected*.
 
 ### Incidental vs. Intentional Learning: The Depth Prediction
 
-One of the most striking and pedagogically significant findings associated with the [[Levels of Processing]] framework is that the *intention to remember* plays a surprisingly small role in determining retention outcomes compared to processing depth. In the classic orienting task paradigm, participants are given a *cover story* — they are led to believe the experiment is about perceptual judgment, language, or comprehension, and are not told they will later be tested for memory. Under these *incidental learning* conditions, semantic orienting reliably produces better retention than phonemic or structural orienting.
+One of the most striking and pedagogically significant findings associated with the [[Levels-of-Processing|Levels of Processing]] framework is that the *intention to remember* plays a surprisingly small role in determining retention outcomes compared to processing depth. In the classic orienting task paradigm, participants are given a *cover story* — they are led to believe the experiment is about perceptual judgment, language, or comprehension, and are not told they will later be tested for memory. Under these *incidental learning* conditions, semantic orienting reliably produces better retention than phonemic or structural orienting.
 
 Crucially, when a separate group of participants is told explicitly to memorize the same words — *intentional learning* — they do not consistently outperform incidental semantic learners. What matters is not the intent to remember, but what cognitive operations are performed during study. Intentional learners who spontaneously adopt semantic elaboration strategies do as well as or better than incidental semantic processors; intentional learners who simply rehearse words repeatedly without elaboration do no better than incidental shallow processors.
 
@@ -420,23 +420,23 @@ Crucially, when a separate group of participants is told explicitly to memorize 
 
 ### Orienting Tasks as a Window into Encoding
 
-The [[Orienting Task]] paradigm is worth examining as a mechanism in its own right, because it reveals something fundamental about how cognitive systems allocate processing resources. An orienting task "channels" attention toward specific features of a stimulus — its physical form, its sound, or its meaning — and the downstream trace reflects what was attended to. The depth effect is therefore, at one level, an attention allocation effect: deeper processing recruits more cognitive resources toward more meaningful features, and the resulting trace reflects this richer engagement.
+The [[Orienting-Task|Orienting Task]] paradigm is worth examining as a mechanism in its own right, because it reveals something fundamental about how cognitive systems allocate processing resources. An orienting task "channels" attention toward specific features of a stimulus — its physical form, its sound, or its meaning — and the downstream trace reflects what was attended to. The depth effect is therefore, at one level, an attention allocation effect: deeper processing recruits more cognitive resources toward more meaningful features, and the resulting trace reflects this richer engagement.
 
-This framing connects [[Levels of Processing]] to [[Cognitive Load Theory]] in an interesting way. Both frameworks attend to the *quality* of cognitive engagement with material. [[Cognitive Load Theory]] distinguishes between intrinsic load (inherent material complexity), extraneous load (poorly designed instructional elements), and germane load (cognitive effort devoted to schema formation). Semantic elaboration in the LOP sense corresponds closely to germane processing — the kind of effortful cognitive engagement that produces durable schema formation rather than superficial temporary processing.
+This framing connects [[Levels-of-Processing|Levels of Processing]] to [[Cognitive-Load-Theory|Cognitive Load Theory]] in an interesting way. Both frameworks attend to the *quality* of cognitive engagement with material. [[Cognitive-Load-Theory|Cognitive Load Theory]] distinguishes between intrinsic load (inherent material complexity), extraneous load (poorly designed instructional elements), and germane load (cognitive effort devoted to schema formation). Semantic elaboration in the LOP sense corresponds closely to germane processing — the kind of effortful cognitive engagement that produces durable schema formation rather than superficial temporary processing.
 
 > [!ask-yourself-this] **Testing Your Understanding**
 > Before reading on, can you explain in your own words why a student who re-reads a textbook chapter three times might remember less than a student who reads it once while writing questions in the margin? Try to trace the causal chain through LOP mechanisms: what different cognitive operations are being performed, how do they differ in depth, and what does this imply about the resulting memory traces?
 
 ### The Self-Reference Mechanism: Why Personal Relevance Works
 
-The [[Self-Reference Effect]] can be understood as an extreme case of elaborative encoding via a maximally rich and organized schema. The self-concept — the network of beliefs, memories, values, and traits that a person holds about themselves — is arguably the most densely organized and frequently accessed knowledge structure in long-term memory. When information is encoded with respect to this structure ("does this describe me?"), the new information becomes linked to an exceptionally rich associative network. Every personal memory, every self-evaluative belief, every habitual behavior associated with the relevant trait becomes a potential retrieval pathway for the newly encoded item.
+The [[Self-Reference-Effect|Self-Reference Effect]] can be understood as an extreme case of elaborative encoding via a maximally rich and organized schema. The self-concept — the network of beliefs, memories, values, and traits that a person holds about themselves — is arguably the most densely organized and frequently accessed knowledge structure in long-term memory. When information is encoded with respect to this structure ("does this describe me?"), the new information becomes linked to an exceptionally rich associative network. Every personal memory, every self-evaluative belief, every habitual behavior associated with the relevant trait becomes a potential retrieval pathway for the newly encoded item.
 
 Additionally, self-relevant information typically carries affective valence — it matters to us whether a trait applies to us or not — and affective arousal during encoding has independently been shown to enhance memory consolidation through norepinephrine-mediated modulation of the amygdala and hippocampus. The self-reference effect thus operates through at least two converging mechanisms: associative richness via the self-schema, and affective arousal enhancing consolidation.
 
 > [!reflection] **Understanding the Machinery**
 > 1. The orienting task paradigm reveals that where we direct attention during encoding shapes what we remember. What does this imply about the design of reading activities, note-taking strategies, and classroom discussions? Which common educational activities direct attention toward shallow features (dates, spelling, physical layout), and which direct it toward deeper features?
 > 2. The incidental/intentional learning finding is striking: the *intent* to remember adds relatively little to what *depth of processing* predicts. Does this finding make you skeptical of strategies like "I'll just read it again more carefully" or "I'll try harder to memorize"? What would you need to replace these strategies with?
-> 3. How does the [[Schema Theory]] account of elaboration connect to the way knowledge builds on prior knowledge? What does the LOP framework imply about what happens when a learner lacks the prior schemas that would enable semantic elaboration — for example, an absolute beginner in a completely unfamiliar domain?
+> 3. How does the [[Schema-Theory|Schema Theory]] account of elaboration connect to the way knowledge builds on prior knowledge? What does the LOP framework imply about what happens when a learner lacks the prior schemas that would enable semantic elaboration — for example, an absolute beginner in a completely unfamiliar domain?
 
 ---
 
@@ -444,9 +444,9 @@ Additionally, self-relevant information typically carries affective valence — 
 
 ### Educational Implications: Designing for Depth
 
-The [[Levels of Processing]] framework has generated a rich set of educational implications, some of which have been translated into specific, empirically evaluated study strategies. The overarching principle is straightforward: instructional activities should be designed to require semantic engagement with material rather than permitting or encouraging shallow processing. In practice, this means prioritizing activities that require students to explain, connect, evaluate, or apply content over activities that require only recognition, copying, or rote reproduction.
+The [[Levels-of-Processing|Levels of Processing]] framework has generated a rich set of educational implications, some of which have been translated into specific, empirically evaluated study strategies. The overarching principle is straightforward: instructional activities should be designed to require semantic engagement with material rather than permitting or encouraging shallow processing. In practice, this means prioritizing activities that require students to explain, connect, evaluate, or apply content over activities that require only recognition, copying, or rote reproduction.
 
-[[Elaborative Interrogation]] — the study strategy of generating *why* and *how* answers to factual claims — is the most direct educational descendant of the LOP framework. Rather than reading "birds migrate south in winter" and accepting the fact passively, the elaborative interrogation learner asks "Why do birds migrate south? What would happen if they didn't? How does this connect to what I know about thermoregulation?" Dunlosky, Rawson, Marsh, Nathan, and Willingham's comprehensive 2013 review of learning strategies rated elaborative interrogation as having high utility based on evidence of its effectiveness across diverse materials and learner populations. The mechanism is precisely the one LOP predicts: why-questioning recruits prior knowledge, creates associative connections, and embeds new facts in a semantically rich network.
+[[Elaborative-Interrogation|Elaborative Interrogation]] — the study strategy of generating *why* and *how* answers to factual claims — is the most direct educational descendant of the LOP framework. Rather than reading "birds migrate south in winter" and accepting the fact passively, the elaborative interrogation learner asks "Why do birds migrate south? What would happen if they didn't? How does this connect to what I know about thermoregulation?" Dunlosky, Rawson, Marsh, Nathan, and Willingham's comprehensive 2013 review of learning strategies rated elaborative interrogation as having high utility based on evidence of its effectiveness across diverse materials and learner populations. The mechanism is precisely the one LOP predicts: why-questioning recruits prior knowledge, creates associative connections, and embeds new facts in a semantically rich network.
 
 [[The Generation Effect]] — the observation that information generated by the learner is better remembered than information passively received — is another LOP-consistent phenomenon. When students complete fill-in-the-blank tasks, construct their own examples, or derive answers rather than read them, they engage in a form of semantic elaboration that the mere reading of the same material does not require. Teaching practices that involve student generation — Socratic questioning, prediction tasks, concept mapping, and elaborative writing — all capitalize on this effect.
 
@@ -454,35 +454,35 @@ The [[Levels of Processing]] framework has generated a rich set of educational i
 > Activities consistently associated with improved long-term retention include: generating explanations for why facts are true (elaborative interrogation); connecting new material to prior knowledge through concept mapping or analogies; self-explaining while reading (pausing to articulate what was just processed in one's own words); applying concepts to novel examples; and teaching or explaining material to another person. Each of these requires semantic processing and recruits prior knowledge in the construction of the new memory trace.
 
 > [!best-practice] **Self-Referential Anchoring**
-> Instructors can leverage the [[Self-Reference Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
+> Instructors can leverage the [[Self-Reference-Effect|Self-Reference Effect]] by explicitly prompting students to connect material to their own experiences, values, or goals: "Can you think of a time in your own life when this principle applied?" or "How does this concept relate to something you care about or have experienced?" These prompts are not mere engagement techniques — they are depth interventions that route encoding through the richest available associative structure.
 
 ### Applications in Assessment Design
 
-The [[Transfer-Appropriate Processing]] perspective, taken alongside LOP, has direct implications for assessment design. If students study by encoding material semantically but are then tested on surface features (e.g., "Was this term defined in Chapter 3 or Chapter 4?"), the encoding-retrieval match is poor. More profoundly, if students are repeatedly assessed using recognition formats (multiple-choice questions with identical wording to lecture), the assessment inadvertently trains students toward shallower encoding strategies, because recognition success can often be achieved without deep semantic processing.
+The [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] perspective, taken alongside LOP, has direct implications for assessment design. If students study by encoding material semantically but are then tested on surface features (e.g., "Was this term defined in Chapter 3 or Chapter 4?"), the encoding-retrieval match is poor. More profoundly, if students are repeatedly assessed using recognition formats (multiple-choice questions with identical wording to lecture), the assessment inadvertently trains students toward shallower encoding strategies, because recognition success can often be achieved without deep semantic processing.
 
 Assessment formats that require generation, application, comparison, or explanation — constructed-response, short-answer, essay, problem-solving — create retrieval demands that reward and reinforce deep processing strategies at study. This creates a virtuous cycle: students who are regularly tested with generation-requiring formats learn, often unconsciously, to encode material more deeply in anticipation of those test demands. [[Formative Assessment Design]] consistent with [[Feedback Design for Autonomy and Mastery]] should therefore prioritize retrieval practice formats that are transfer-appropriate to the kind of semantic understanding the course aims to develop.
 
 ### Limitations: The Circularity Problem
 
-The most serious and widely acknowledged limitation of the [[Levels of Processing]] framework is the problem of *circularity* in its operational definition of depth. How do we know that semantic processing is deeper than phonemic processing? Because semantic processing produces better retention. How do we know that better retention reflects deeper processing? Because deeper processing is defined as that which produces better retention. Without an independent operational criterion for depth — one that does not rely on retention outcomes — the framework is tautological: it cannot be falsified.
+The most serious and widely acknowledged limitation of the [[Levels-of-Processing|Levels of Processing]] framework is the problem of *circularity* in its operational definition of depth. How do we know that semantic processing is deeper than phonemic processing? Because semantic processing produces better retention. How do we know that better retention reflects deeper processing? Because deeper processing is defined as that which produces better retention. Without an independent operational criterion for depth — one that does not rely on retention outcomes — the framework is tautological: it cannot be falsified.
 
 > [!important] **The Circularity Limitation**
-> The [[Levels of Processing]] framework faces a fundamental logical problem: "depth" of processing is defined operationally by the retention it produces, but retention is used as evidence for depth. This circularity means the framework cannot, in its original form, generate falsifiable predictions about novel encoding conditions. A new kind of processing task might produce excellent retention, but this would simply be interpreted as evidence that it engaged deep processing — the framework is insulated from disconfirmation. Lockhart and Craik acknowledged this problem in their 1990 retrospective review and did not fully resolve it, though they noted that converging empirical evidence from multiple paradigms provided some degree of theoretical constraint.
+> The [[Levels-of-Processing|Levels of Processing]] framework faces a fundamental logical problem: "depth" of processing is defined operationally by the retention it produces, but retention is used as evidence for depth. This circularity means the framework cannot, in its original form, generate falsifiable predictions about novel encoding conditions. A new kind of processing task might produce excellent retention, but this would simply be interpreted as evidence that it engaged deep processing — the framework is insulated from disconfirmation. Lockhart and Craik acknowledged this problem in their 1990 retrospective review and did not fully resolve it, though they noted that converging empirical evidence from multiple paradigms provided some degree of theoretical constraint.
 
 Craik and others have attempted to address this by proposing independent criteria for depth — for example, the number of cognitive operations required, the degree of prior knowledge recruited, or the extent of semantic network activation measurable via neuroimaging. These proposals move toward a more principled account but do not fully resolve the original circularity, since the choice of which operations count as "deeper" still relies on prior intuitions that are themselves grounded in retention outcomes.
 
 ### Limitations: Transfer-Appropriate Processing and the Universality Claim
 
-As discussed in Phase III, the [[Transfer-Appropriate Processing]] challenge shows that the depth advantage is not universal — it is conditional on the retrieval environment. The practical importance of this limitation depends on context. In most educational settings, assessments require semantic retrieval, and so the LOP prediction that semantic encoding is advantageous holds. But in domains where retrieval demands are predominantly perceptual or procedural — learning a foreign language script, acquiring motor skills, learning musical notation by sight-reading — the encoding-retrieval match principle may be more relevant than the depth principle.
+As discussed in Phase III, the [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] challenge shows that the depth advantage is not universal — it is conditional on the retrieval environment. The practical importance of this limitation depends on context. In most educational settings, assessments require semantic retrieval, and so the LOP prediction that semantic encoding is advantageous holds. But in domains where retrieval demands are predominantly perceptual or procedural — learning a foreign language script, acquiring motor skills, learning musical notation by sight-reading — the encoding-retrieval match principle may be more relevant than the depth principle.
 
 > [!warning] **Overextending the Depth Heuristic**
 > The LOP framework can be misapplied when practitioners assume that semantic elaboration is always superior regardless of the retrieval context. For skills-based learning, where performance requires retrieval of procedural knowledge under specific perceptual conditions, practice under those same conditions (high encoding-retrieval match) may be more important than semantic elaboration about underlying principles. The depth heuristic is most reliable for declarative, conceptually organized knowledge in domains where retrieval is propositional and meaning-dependent.
 
 ### Limitations: Individual Differences and Domain Knowledge
 
-The original [[Levels of Processing]] framework treats depth as a property of the *type* of processing applied, but in practice, what constitutes "semantic" processing varies substantially across individuals and their knowledge states. For a novice learner encountering a chess position, the board configuration is essentially an arbitrary visual pattern — structural features dominate, and meaningful semantic processing is unavailable because the relevant schemas do not yet exist. For an expert, the same position activates rich tactical and strategic schemas, enabling deep semantic encoding automatically. The LOP prediction — that semantic processing produces better retention — holds in both cases, but the *accessibility* of semantic processing depends entirely on prior knowledge.
+The original [[Levels-of-Processing|Levels of Processing]] framework treats depth as a property of the *type* of processing applied, but in practice, what constitutes "semantic" processing varies substantially across individuals and their knowledge states. For a novice learner encountering a chess position, the board configuration is essentially an arbitrary visual pattern — structural features dominate, and meaningful semantic processing is unavailable because the relevant schemas do not yet exist. For an expert, the same position activates rich tactical and strategic schemas, enabling deep semantic encoding automatically. The LOP prediction — that semantic processing produces better retention — holds in both cases, but the *accessibility* of semantic processing depends entirely on prior knowledge.
 
-This has significant implications for instruction. LOP-consistent activities work best when students have sufficient prior knowledge to support elaborative encoding. When knowledge bases are thin, demanding semantic elaboration may produce shallow, confused encodings rather than deep, well-integrated ones. This connects LOP to [[Schema Theory]] and to the broader instructional principle that meaningful learning requires adequate prior scaffolding.
+This has significant implications for instruction. LOP-consistent activities work best when students have sufficient prior knowledge to support elaborative encoding. When knowledge bases are thin, demanding semantic elaboration may produce shallow, confused encodings rather than deep, well-integrated ones. This connects LOP to [[Schema-Theory|Schema Theory]] and to the broader instructional principle that meaningful learning requires adequate prior scaffolding.
 
 > [!reflection] **From Understanding to Action**
 > 1. Imagine redesigning a single course unit using LOP principles: what activities would you replace, and with what? What constraints (time, student preparation, assessment format) would complicate this redesign, and how would you navigate them?
@@ -501,7 +501,7 @@ The synthesis that emerges is a picture of memory as a *constructive, relational
 
 ### The "So What?"
 
-Understanding [[Levels of Processing]] gives the practitioner a principled basis for evaluating instructional activities that is far more nuanced than "students need more practice" or "students need to be more motivated." The LOP framework says: look at what cognitive operations your activities require. Do they require students to engage with the meaning of material — to explain, connect, apply, and generate? Or do they permit students to succeed through recognition and rote reproduction? Activities that require semantic engagement will produce more durable learning, but only if students have the prior knowledge to support that engagement. This principle connects directly to [[Feedback Design for Autonomy and Mastery]], where formative feedback should prompt elaboration rather than correction alone, and to [[Metacognition & Lifelong Learning]], where metacognitive awareness of one's own processing depth is a key component of effective self-regulation.
+Understanding [[Levels-of-Processing|Levels of Processing]] gives the practitioner a principled basis for evaluating instructional activities that is far more nuanced than "students need more practice" or "students need to be more motivated." The LOP framework says: look at what cognitive operations your activities require. Do they require students to engage with the meaning of material — to explain, connect, apply, and generate? Or do they permit students to succeed through recognition and rote reproduction? Activities that require semantic engagement will produce more durable learning, but only if students have the prior knowledge to support that engagement. This principle connects directly to [[Feedback Design for Autonomy and Mastery]], where formative feedback should prompt elaboration rather than correction alone, and to [[Metacognition & Lifelong Learning]], where metacognitive awareness of one's own processing depth is a key component of effective self-regulation.
 
 ### Unresolved Questions
 
@@ -512,13 +512,13 @@ Several questions remain genuinely open. The mechanistic account of "depth" — 
 >
 > This report on [[Levels of Processing Theory]] connects to existing knowledge in your PKB across several clusters:
 >
-> - **[[Schema Theory]]** — The LOP framework's depth-as-associative-richness account is a direct functional description of what schema activation accomplishes. Deep processing works, in part, *because* it activates existing schemas and assimilates new information into them. The Schema Theory report provides the structural account of *what* gets activated during deep encoding; LOP provides the motivational/instructional account of *how* to ensure that activation occurs. Together, these nodes form a paired explanation of meaningful learning.
+> - **[[Schema-Theory|Schema Theory]]** — The LOP framework's depth-as-associative-richness account is a direct functional description of what schema activation accomplishes. Deep processing works, in part, *because* it activates existing schemas and assimilates new information into them. The Schema Theory report provides the structural account of *what* gets activated during deep encoding; LOP provides the motivational/instructional account of *how* to ensure that activation occurs. Together, these nodes form a paired explanation of meaningful learning.
 >
 > - **[[Metacognition & Lifelong Learning]]** — The LOP framework's most profound educational implication is metacognitive: learners who are aware of their processing depth and can deliberately regulate it are far more effective than learners who process habitually and unreflectively. The connection is bidirectional: metacognitive monitoring enables intentional deployment of deep processing strategies, while understanding of LOP provides concrete content for metacognitive knowledge (knowing *that* semantic elaboration produces better retention, and *how* to produce it).
 >
 > - **[[Feedback Design for Autonomy and Mastery]]** — Formative feedback can function as a depth intervention. Feedback that merely signals correct/incorrect operates at a shallow processing level; feedback that requires learners to explain *why* an answer is correct or incorrect, or to generate an alternative solution, induces elaborative reprocessing of the relevant concept. The two nodes together answer the question: what should good feedback *require learners to do*, and why does that matter for durable learning?
 >
-> - **[[Self-Determination Theory]]** — The connection between motivation and processing depth is underexplored in the LOP literature but theoretically compelling. SDT's account of intrinsic motivation proposes that autonomously motivated learners are more likely to engage in deep, exploratory processing, while externally motivated learners (studying to avoid punishment or gain a grade) are more likely to adopt minimal-effort, shallow strategies. Connecting these frameworks opens the question of whether deep processing is partly *a product of* motivational quality, not merely a cognitive option learners can always choose.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — The connection between motivation and processing depth is underexplored in the LOP literature but theoretically compelling. SDT's account of intrinsic motivation proposes that autonomously motivated learners are more likely to engage in deep, exploratory processing, while externally motivated learners (studying to avoid punishment or gain a grade) are more likely to adopt minimal-effort, shallow strategies. Connecting these frameworks opens the question of whether deep processing is partly *a product of* motivational quality, not merely a cognitive option learners can always choose.
 >
 > - **[[Critical Thinking in Education]]** — Critical thinking, as analyzed in the Critical Thinking report, requires exactly the kinds of cognitive operations that LOP identifies as semantically deep: evaluation, inference, comparison, and integration. The LOP framework offers a mechanistic explanation for *why* critical thinking activities promote better learning: they are, by definition, semantically elaborative. The Critical Thinking node provides the normative framework (what thinking *should* look like); LOP provides the memory science explanation of *why* that kind of thinking produces learning.
 >
@@ -527,7 +527,7 @@ Several questions remain genuinely open. The mechanistic account of "depth" — 
 > [!reflection] **Integration and Forward Momentum**
 > 1. If you had to identify the single most important insight from this report for your own learning practice, what would it be? Not the most interesting finding, but the one you will actually use?
 > 2. In three sentences: the LOP framework says that memory durability depends on processing depth at encoding; depth is best understood as the degree to which semantic meaning and existing knowledge structures are engaged; and the practical implication is that activities requiring explanation, connection, and application produce better retention than activities requiring only recognition or repetition.
-> 3. What is the next question this report has made you curious about? The [[Transfer-Appropriate Processing]] node and the [[Elaborative Interrogation]] node are natural next steps — which pulls at you more strongly, and why?
+> 3. What is the next question this report has made you curious about? The [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] node and the [[Elaborative-Interrogation|Elaborative Interrogation]] node are natural next steps — which pulls at you more strongly, and why?
 
 ---
 
@@ -601,12 +601,12 @@ Several questions remain genuinely open. The mechanistic account of "depth" — 
 
 > [!further-exploration] **Deepening Your Practice**
 >
-> > [!topic-idea] [[Transfer-Appropriate Processing]]
-> > A full foundational report on TAP would cover the Morris, Bransford & Franks (1977) paradigm in depth, trace the theoretical development of the encoding-retrieval match principle, examine the relationship between TAP and the [[Encoding Specificity Principle]], and consider the practical implications for assessment design and study strategy guidance. The central question: if memory depends on encoding-retrieval match, how should students think about preparing for different types of tests? This node would complete the theoretical picture left partially open by the present report and is essential for a balanced treatment of encoding and retrieval in the PKB.
+> > [!topic-idea] [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+> > A full foundational report on TAP would cover the Morris, Bransford & Franks (1977) paradigm in depth, trace the theoretical development of the encoding-retrieval match principle, examine the relationship between TAP and the [[Encoding-Specificity-Principle|Encoding Specificity Principle]], and consider the practical implications for assessment design and study strategy guidance. The central question: if memory depends on encoding-retrieval match, how should students think about preparing for different types of tests? This node would complete the theoretical picture left partially open by the present report and is essential for a balanced treatment of encoding and retrieval in the PKB.
 > > **Priority: High**
 >
-> > [!topic-idea] [[Encoding Specificity Principle]]
-> > Tulving and Thomson's (1973) encoding specificity principle holds that memory depends critically on the reinstatement of encoding context at retrieval. A foundational report would cover the principle's theoretical derivation, the classic experiments (including the shocking finding that extra-list cues can sometimes be less effective than intra-list cues), and the relationship to both LOP and TAP. This report would serve as a bridge between encoding-focused and retrieval-focused accounts of memory, and would connect naturally to [[Retrieval Practice]], [[Spaced Repetition]], and [[Contextual Learning Environments]].
+> > [!topic-idea] [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
+> > Tulving and Thomson's (1973) encoding specificity principle holds that memory depends critically on the reinstatement of encoding context at retrieval. A foundational report would cover the principle's theoretical derivation, the classic experiments (including the shocking finding that extra-list cues can sometimes be less effective than intra-list cues), and the relationship to both LOP and TAP. This report would serve as a bridge between encoding-focused and retrieval-focused accounts of memory, and would connect naturally to [[Retrieval-Practice|Retrieval Practice]], [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]], and [[Contextual Learning Environments]].
 > > **Priority: High**
 >
 > > [!topic-idea] [[Elaborative Interrogation as Study Strategy]]

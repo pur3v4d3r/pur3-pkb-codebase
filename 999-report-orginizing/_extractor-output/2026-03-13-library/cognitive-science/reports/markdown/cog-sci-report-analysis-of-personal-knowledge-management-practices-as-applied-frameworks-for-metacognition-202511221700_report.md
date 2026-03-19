@@ -61,10 +61,10 @@ extraction_summary:
   - ## 1\. 🎯 The Core Concept: A Foundational Baseline
     - ### 1.1. Baseline Definition
     - ### 1.2. Foundational Principles
-  - ## 2\. 🌉 The First Bridge: Analysis via [[Cognitive Psychology]]
+  - ## 2\. 🌉 The First Bridge: Analysis via [[Cognitive-Psychology|Cognitive Psychology]]
     - ### 2.1. A New Lens: Cognitive Psychology's Perspective
     - ### 2.2. Emergent Insights & Connections
-  - ## 3\. 🌉 The Second Bridge: Analysis via [[Information Science]]
+  - ## 3\. 🌉 The Second Bridge: Analysis via [[Information-Science|Information Science]]
     - ### 3.1. A New Lens: Information Science's Perspective
     - ### 3.2. Emergent Insights & Connections
   - ## 4\. 🌉 The Third Bridge: Analysis via [[Educational Theory]]
@@ -136,7 +136,7 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 36)*
 
 > [!abstract] Untitled
-> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive Psychology]]**, **[[Information Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
+> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive-Psychology|Cognitive Psychology]]**, **[[Information-Science|Information Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 45)*
 
@@ -161,13 +161,13 @@ extraction_summary:
 #### 6. [THE-PURPOSE] Untitled *(Line 69)*
 
 > [!the-purpose] Untitled
-> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive Psychology]]**, specifically through the lens of **[[Metacognition]]**.
+> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive-Psychology|Cognitive Psychology]]**, specifically through the lens of **[[Metacognition]]**.
 
 #### 7. [QUESTION] Untitled *(Line 74)*
 
 > [!question] Untitled
 > **How does Cognitive Psychology conceptualize or interact with PKM?**
-> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[Self-Regulated Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
+> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
 
 #### 8. [EXAMPLE] Example: The Empty Link *(Line 80)*
 
@@ -188,7 +188,7 @@ extraction_summary:
 #### 10. [THE-PURPOSE] Untitled *(Line 100)*
 
 > [!the-purpose] Untitled
-> To further enrich the analysis by applying the distinct frameworks of **[[Information Science]]** and **[[Ontology]]**.
+> To further enrich the analysis by applying the distinct frameworks of **[[Information-Science|Information Science]]** and **[[Ontology]]**.
 
 #### 11. [QUESTION] Untitled *(Line 105)*
 
@@ -232,7 +232,7 @@ extraction_summary:
 > [!connection-ideas] Untitled
 > **Insights from the Information Science-Educational Theory Link**
 > 
->   * **The Vault as ZPD.** The Knowledge Vault functions as a permanent **[[Zone of Proximal Development]]**. It holds concepts that are slightly too complex for the user to hold in unaided working memory, allowing them to manipulate these complex ideas until they are internalized.
+>   * **The Vault as ZPD.** The Knowledge Vault functions as a permanent **[[Zone-of-Proximal-Development|Zone of Proximal Development]]**. It holds concepts that are slightly too complex for the user to hold in unaided working memory, allowing them to manipulate these complex ideas until they are internalized.
 >   * > [\!key-claim]
 >   * **Knowledge is Networked.** We move away from the idea of knowledge as "acquiring items" to knowledge as "traversing networks." The value of a PKM is defined by the density of its connections, not the volume of its contents.
 
@@ -245,7 +245,7 @@ extraction_summary:
 
 > [!insight] Untitled
 > **Synthesized Definition of PKM as Metacognition**
-> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[Self-Regulated Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
+> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
 
 #### 20. [ANALYSIS-COGNITIVE] Untitled *(Line 170)*
 
@@ -269,7 +269,7 @@ extraction_summary:
 > **New Connections for PKB Expansion**
 > 
 >   * [[The Generation Effect]]
->   * [[Distributed Cognition]]
+>   * [[Distributed-Cognition|Distributed Cognition]]
 >   * [[Graph Theory in Learning]]
 >   * [[Epistemic Scaffolding]]
 >   * [[Algorithm of Thought]]
@@ -321,12 +321,12 @@ extraction_summary:
 - [[Algorithm of Thought]]
 - [[Associative Indexing]]
 - [[Bidirectional Link]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Computing]]
 - [[Connectivism]]
 - [[Constructivism]]
 - [[Cybernetics]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Educational Theory]]
 - [[Elaborative Encoding]]
 - [[Emergent Complexity]]
@@ -338,20 +338,20 @@ extraction_summary:
 - [[Graph Theory in Learning]]
 - [[Illusion of Competence]]
 - [[Information Overload]]
-- [[Information Science]]
+- [[Information-Science|Information Science]]
 - [[Integrative Learning]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Metacognition]]
 - [[Network Science]]
 - [[Ontology]]
 - [[Productivity Science]]
 - [[Quantum Entanglement]]
 - [[Schema]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
 - [[The Generation Effect]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
@@ -359,29 +359,29 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 34 |
 | 2 | [[Metacognition]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 34 |
-| 3 | [[Cognitive Psychology]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
-| 4 | [[Information Science]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
+| 3 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
+| 4 | [[Information-Science|Information Science]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
 | 5 | [[Educational Theory]] | — | — | 🗺️ Interdisciplinary Synthesis Report... | 37 |
 | 6 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 1\. 🎯 The Core Concept: A Foundationa... | 46 |
 | 7 | [[Productivity Science]] | — | — | 1\. 🎯 The Core Concept: A Foundationa... | 46 |
 | 8 | [[Information Overload]] | — | — | 1.1. Baseline Definition | 52 |
-| 9 | [[Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 65 |
+| 9 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 65 |
 | 10 | [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
-| 11 | [[Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
+| 11 | [[Cognitive-Psychology|Cognitive Psychology]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
 | 12 | [[Metacognition]] | — | — | 2\. 🌉 The First Bridge: Analysis via ... | 70 |
 | 13 | [[Extended Cognition]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 76 |
-| 14 | [[Self-Regulated Learning]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 76 |
+| 14 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 76 |
 | 15 | [[Illusion of Competence]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 78 |
 | 16 | [[Bidirectional Link]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 78 |
 | 17 | [[Quantum Entanglement]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 81 |
 | 18 | [[Computing]] | — | — | 2.1. A New Lens: Cognitive Psychology... | 81 |
 | 19 | [[Schema]] | — | — | 2.2. Emergent Insights & Connections | 88 |
-| 20 | [[Information Science]] | — | — | 3\. 🌉 The Second Bridge: Analysis via... | 96 |
-| 21 | [[Information Science]] | — | — | 3\. 🌉 The Second Bridge: Analysis via... | 101 |
+| 20 | [[Information-Science|Information Science]] | — | — | 3\. 🌉 The Second Bridge: Analysis via... | 96 |
+| 21 | [[Information-Science|Information Science]] | — | — | 3\. 🌉 The Second Bridge: Analysis via... | 101 |
 | 22 | [[Ontology]] | — | — | 3\. 🌉 The Second Bridge: Analysis via... | 101 |
 | 23 | [[Associative Indexing]] | — | — | 3.1. A New Lens: Information Science'... | 107 |
 | 24 | [[Folksonomy]] | — | — | 3.1. A New Lens: Information Science'... | 107 |
-| 25 | [[Maps of Content]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
+| 25 | [[Maps-of-Content-—-MOCs|Maps of Content]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
 | 26 | [[Sense-Making]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
 | 27 | [[Cybernetics]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
 | 28 | [[Systems Theory]] | — | — | 3.1. A New Lens: Information Science'... | 109 |
@@ -396,11 +396,11 @@ extraction_summary:
 | 37 | [[Game Theory]] | — | — | 4.1. A New Lens: Educational Theory's... | 138 |
 | 38 | [[Evolutionary Biology]] | — | — | 4.1. A New Lens: Educational Theory's... | 138 |
 | 39 | [[Integrative Learning]] | — | — | 4.1. A New Lens: Educational Theory's... | 138 |
-| 40 | [[Zone of Proximal Development]] | — | — | 4.2. Emergent Insights & Connections | 149 |
+| 40 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 4.2. Emergent Insights & Connections | 149 |
 | 41 | [[Network Science]] | — | — | 5.1. A New, Multi-Dimensional Definition | 166 |
-| 42 | [[Self-Regulated Learning]] | — | — | 5.1. A New, Multi-Dimensional Definition | 166 |
+| 42 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 5.1. A New, Multi-Dimensional Definition | 166 |
 | 43 | [[The Generation Effect]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 189 |
-| 44 | [[Distributed Cognition]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 190 |
+| 44 | [[Distributed-Cognition|Distributed Cognition]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 190 |
 | 45 | [[Graph Theory in Learning]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 191 |
 | 46 | [[Epistemic Scaffolding]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 192 |
 | 47 | [[Algorithm of Thought]] | — | — | 6\. 🧭 Concluding Insights & New Traje... | 193 |
@@ -475,12 +475,12 @@ $$
 - [[Algorithm of Thought]]
 - [[Associative Indexing]]
 - [[Bidirectional Link]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
 - [[Computing]]
 - [[Connectivism]]
 - [[Constructivism]]
 - [[Cybernetics]]
-- [[Distributed Cognition]]
+- [[Distributed-Cognition|Distributed Cognition]]
 - [[Educational Theory]]
 - [[Elaborative Encoding]]
 - [[Emergent Complexity]]
@@ -492,20 +492,20 @@ $$
 - [[Graph Theory in Learning]]
 - [[Illusion of Competence]]
 - [[Information Overload]]
-- [[Information Science]]
+- [[Information-Science|Information Science]]
 - [[Integrative Learning]]
-- [[Maps of Content]]
+- [[Maps-of-Content-—-MOCs|Maps of Content]]
 - [[Metacognition]]
 - [[Network Science]]
 - [[Ontology]]
 - [[Productivity Science]]
 - [[Quantum Entanglement]]
 - [[Schema]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Sense-Making]]
 - [[Systems Theory]]
 - [[The Generation Effect]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ---
 

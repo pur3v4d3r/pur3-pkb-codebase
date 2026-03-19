@@ -438,14 +438,14 @@ extraction_summary:
 ### Unique Targets
 
 - [[Amor Fati]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
 - [[Charles Taylor]]
-- [[Cognitive Vitality]]
-- [[Constructive Attentiveness]]
-- [[Critical Thinking]]
+- [[Cognitive-Vitality|Cognitive Vitality]]
+- [[Constructive-Attentiveness|Constructive Attentiveness]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Dan McAdams]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Existential Frustration]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[Frank Martela]]
 - [[Ikigai]]
 - [[Ikigai and Cross-Cultural Meaning Frameworks]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Ipseity]]
 - [[Jerome Bruner]]
 - [[Laura King]]
@@ -476,9 +476,9 @@ extraction_summary:
 - [[Paul Ricoeur]]
 - [[Paul Ricoeur's Narrative Time and Mimesis]]
 - [[Phronesis]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Post-Traumatic Growth]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Presence of Meaning]]
 - [[Purpose Development Across the Lifespan]]
 - [[Redemptive Self]]
@@ -502,15 +502,15 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Aporic Receptivity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 1 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 2 | [[Fallibilist-Constructivist Epistemological Posture]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 3 | [[Cognitive Vitality]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 4 | [[Constructive Attentiveness]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 3 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 4 | [[Constructive-Attentiveness|Constructive Attentiveness]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 5 | [[Stoic Prosoche]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 6 | [[Phronesis]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 7 | [[Physiological Metacognition]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 8 | [[Emotional Granularity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
-| 9 | [[Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 7 | [[Physiological-Metacognition|Physiological Metacognition]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 8 | [[Emotional-Granularity|Emotional Granularity]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
+| 9 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 201 |
 | 10 | [[Socrates]] | — | — | Phase I — The Premise: The Unanswered... | 203 |
 | 11 | [[Narrative Identity]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 12 | [[Logotherapy]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
@@ -518,7 +518,7 @@ extraction_summary:
 | 14 | [[Meaning in Life]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 15 | [[Eudaimonia]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 16 | [[Charles Taylor]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
-| 17 | [[Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
+| 17 | [[Predictive-Processing|Predictive Processing]] | — | — | Phase I — The Premise: The Unanswered... | 205 |
 | 18 | [[Narrative Identity]] | — | — | Narrative Identity: The Story We Live By | 227 |
 | 19 | [[Dan McAdams]] | — | — | Narrative Identity: The Story We Live By | 227 |
 | 20 | [[McAdams, D.P.]] | McAdams | — | Narrative Identity: The Story We Live By | 227 |
@@ -542,7 +542,7 @@ extraction_summary:
 | 38 | [[Laura King]] | — | — | Meaning in Life Research: The Empiric... | 257 |
 | 39 | [[Frank Martela]] | — | — | Meaning in Life Research: The Empiric... | 261 |
 | 40 | [[Rivas, S.F.]] | Rivas | — | Meaning in Life Research: The Empiric... | 267 |
-| 41 | [[Critical Thinking]] | — | — | Meaning in Life Research: The Empiric... | 267 |
+| 41 | [[Critical-Thinking|Critical Thinking]] | — | — | Meaning in Life Research: The Empiric... | 267 |
 | 42 | [[Aristotle]] | — | — | Eudaimonia: The Ancient Philosophical... | 271 |
 | 43 | [[Eudaimonia]] | — | — | Eudaimonia: The Ancient Philosophical... | 271 |
 | 44 | [[Stoics]] | — | — | Eudaimonia: The Ancient Philosophical... | 275 |
@@ -566,11 +566,11 @@ extraction_summary:
 | 62 | [[Post-Traumatic Growth]] | — | — | Post-Traumatic Growth: The Empirical ... | 389 |
 | 63 | [[Seismic Event]] | — | — | Post-Traumatic Growth: The Empirical ... | 391 |
 | 64 | [[Fallibilist-Constructivist Epistemological Posture]] | — | — | Retroactive Enrichment: What Earlier ... | 419 |
-| 65 | [[Cognitive Vitality]] | — | — | Retroactive Enrichment: What Earlier ... | 421 |
-| 66 | [[Intellectual Virtues]] | — | — | Retroactive Enrichment: What Earlier ... | 423 |
+| 65 | [[Cognitive-Vitality|Cognitive Vitality]] | — | — | Retroactive Enrichment: What Earlier ... | 421 |
+| 66 | [[Intellectual-Virtues|Intellectual Virtues]] | — | — | Retroactive Enrichment: What Earlier ... | 423 |
 | 67 | [[Phronesis]] | — | — | Retroactive Enrichment: What Earlier ... | 425 |
 | 68 | [[Narrative Metacognition]] | — | — | The Full Emergent Insight Stated | 429 |
-| 69 | [[Predictive Processing]] | — | — | Honest Limitations | 445 |
+| 69 | [[Predictive-Processing|Predictive Processing]] | — | — | Honest Limitations | 445 |
 | 70 | [[Narrative Identity]] | — | — | Key Terms Lexicon | 460 |
 | 71 | [[Narrative Metacognition]] | — | — | Key Terms Lexicon | 463 |
 | 72 | [[Eudaimonia]] | — | — | Key Terms Lexicon | 466 |
@@ -624,14 +624,14 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Amor Fati]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Aristotle]]
 - [[Charles Taylor]]
-- [[Cognitive Vitality]]
-- [[Constructive Attentiveness]]
-- [[Critical Thinking]]
+- [[Cognitive-Vitality|Cognitive Vitality]]
+- [[Constructive-Attentiveness|Constructive Attentiveness]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Dan McAdams]]
-- [[Emotional Granularity]]
+- [[Emotional-Granularity|Emotional Granularity]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Existential Frustration]]
@@ -640,7 +640,7 @@ extraction_summary:
 - [[Frank Martela]]
 - [[Ikigai]]
 - [[Ikigai and Cross-Cultural Meaning Frameworks]]
-- [[Intellectual Virtues]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
 - [[Ipseity]]
 - [[Jerome Bruner]]
 - [[Laura King]]
@@ -662,9 +662,9 @@ extraction_summary:
 - [[Paul Ricoeur]]
 - [[Paul Ricoeur's Narrative Time and Mimesis]]
 - [[Phronesis]]
-- [[Physiological Metacognition]]
+- [[Physiological-Metacognition|Physiological Metacognition]]
 - [[Post-Traumatic Growth]]
-- [[Predictive Processing]]
+- [[Predictive-Processing|Predictive Processing]]
 - [[Presence of Meaning]]
 - [[Purpose Development Across the Lifespan]]
 - [[Redemptive Self]]
@@ -690,8 +690,8 @@ extraction_summary:
 
 - [[Narrative Identity]]
 - [[Eudaimonia]]
-- [[Predictive Processing]]
-- [[Self-Determination Theory]]
+- [[Predictive-Processing|Predictive Processing]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Virtue Ethics]]
 
 #### Related

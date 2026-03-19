@@ -137,9 +137,9 @@ extraction_summary:
 #### 1. [PRE-READ-QUESTIONS] Untitled *(Line 26)*
 
 > [!pre-read-questions] Untitled
-> - How does [[Metacognition]] serve as the architectural framework that unifies [[Constructivist Learning]], [[Critical Thinking]], and [[Self-Regulation-Theory]]?
+> - How does [[Metacognition]] serve as the architectural framework that unifies [[Constructivist Learning]], [[Critical-Thinking|Critical Thinking]], and [[Self-Regulation-Theory]]?
 > - What are the neuropsychological mechanisms in the [[prefrontal cortex]] that enable metacognitive monitoring and control, and how do these mechanisms develop across the lifespan?
-> - In what ways does the [[Zone of Proximal Development]] create the conditions for metacognitive skill acquisition through social interaction?
+> - In what ways does the [[Zone-of-Proximal-Development|Zone of Proximal Development]] create the conditions for metacognitive skill acquisition through social interaction?
 > - How do metacognitive strategies operationalize the transition from externally-guided learning to autonomous self-directed development?
 
 #### 2. [ABSTRACT] Untitled *(Line 34)*
@@ -147,14 +147,14 @@ extraction_summary:
 > [!abstract] Untitled
 > This comprehensive analysis examines metacognition—defined as thinking about thinking—as the central integrating mechanism that unifies and operationalizes three critical domains of personal development: constructivist learning theory, critical thinking frameworks, and self-behavioral management. Drawing upon foundational work by [[John Flavell]], [[Jean Piaget]], [[Lev Vygotsky]], and contemporary neuroscientific research, this article establishes that metacognition functions as a superordinate cognitive architecture that enables individuals to monitor, evaluate, and regulate their own cognitive processes.
 > 
-> The central thesis posits that metacognition is not merely an auxiliary cognitive function, but rather the essential mechanism through which learners actively construct knowledge ([[constructivism]]), evaluate the quality of their reasoning ([[Critical Thinking]]), and exert strategic control over their behavior ([[Self-Regulation-Theory]]). Through detailed examination of historical development, neuropsychological substrates (particularly the [[rostrolateral prefrontal cortex]]), and practical applications, this article demonstrates how metacognitive strategies transform passive reception of information into active, self-directed learning.
+> The central thesis posits that metacognition is not merely an auxiliary cognitive function, but rather the essential mechanism through which learners actively construct knowledge ([[constructivism]]), evaluate the quality of their reasoning ([[Critical-Thinking|Critical Thinking]]), and exert strategic control over their behavior ([[Self-Regulation-Theory]]). Through detailed examination of historical development, neuropsychological substrates (particularly the [[rostrolateral prefrontal cortex]]), and practical applications, this article demonstrates how metacognitive strategies transform passive reception of information into active, self-directed learning.
 > 
 > This synthesis reveals that personal development fundamentally depends upon metacognitive capacity—the ability to step outside one's immediate cognitive experience, observe one's own mental processes with critical awareness, and strategically deploy cognitive resources toward goal attainment. The implications extend across educational psychology, cognitive neuroscience, clinical interventions, and lifelong learning paradigms.
 
 #### 3. [THE-PURPOSE] Untitled *(Line 43)*
 
 > [!the-purpose] Untitled
-> This article provides a rigorous, multi-layered examination of [[Metacognition]] as the central organizing principle that integrates and operationalizes three fundamental domains of human psychological development: [[Constructivist Learning]], [[Critical Thinking]], and [[Self-Behavioral Management]]. The purpose is to establish metacognition not as a peripheral cognitive skill, but as the superordinate architecture that enables conscious, deliberate control over one's own cognitive life. By synthesizing historical theoretical frameworks with contemporary neuroscientific evidence, this analysis demonstrates how metacognitive processes serve as the essential bridge between passive cognitive activity and active, intentional self-development. This examination will establish the psychological mechanisms, neurological substrates, and practical applications that position metacognition as the cornerstone of autonomous, lifelong learning and adaptive self-regulation.
+> This article provides a rigorous, multi-layered examination of [[Metacognition]] as the central organizing principle that integrates and operationalizes three fundamental domains of human psychological development: [[Constructivist Learning]], [[Critical-Thinking|Critical Thinking]], and [[Self-Behavioral Management]]. The purpose is to establish metacognition not as a peripheral cognitive skill, but as the superordinate architecture that enables conscious, deliberate control over one's own cognitive life. By synthesizing historical theoretical frameworks with contemporary neuroscientific evidence, this analysis demonstrates how metacognitive processes serve as the essential bridge between passive cognitive activity and active, intentional self-development. This examination will establish the psychological mechanisms, neurological substrates, and practical applications that position metacognition as the cornerstone of autonomous, lifelong learning and adaptive self-regulation.
 
 #### 4. [QUOTE] Untitled *(Line 46)*
 
@@ -179,7 +179,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 1: The Monitoring-Control Duality**
->     - Metacognition operates through two complementary but distinct processes: [[Metacognitive Monitoring]] (the assessment of one's current cognitive state) and [[Metacognitive Control]] (the regulation of cognitive processes based on that assessment). This duality, first articulated by [[Thomas Nelson]] and [[Louis Narens]] (1990), establishes metacognition as a cybernetic system with feedback loops analogous to those found in engineering control systems.[^9] The monitoring process involves tracking one's cognitive performance in real-time—am I understanding this concept? Is my current strategy working? How confident am I in this answer? This information flows from the object-level (the cognitive task itself) to the meta-level (the metacognitive system). The control process then uses this monitoring information to adjust cognitive strategies, allocate attention, modify approaches, or terminate unsuccessful efforts. This bidirectional flow—monitoring flowing upward from object-level to meta-level, control flowing downward from meta-level to object-level—creates a dynamic self-regulating system. The sophistication of this monitoring-control loop determines the quality of self-directed learning: individuals with more accurate monitoring and more flexible control demonstrate superior learning outcomes, adaptive problem-solving, and intellectual development.
+>     - Metacognition operates through two complementary but distinct processes: [[Metacognitive-Monitoring|Metacognitive Monitoring]] (the assessment of one's current cognitive state) and [[Metacognitive-Control|Metacognitive Control]] (the regulation of cognitive processes based on that assessment). This duality, first articulated by [[Thomas Nelson]] and [[Louis Narens]] (1990), establishes metacognition as a cybernetic system with feedback loops analogous to those found in engineering control systems.[^9] The monitoring process involves tracking one's cognitive performance in real-time—am I understanding this concept? Is my current strategy working? How confident am I in this answer? This information flows from the object-level (the cognitive task itself) to the meta-level (the metacognitive system). The control process then uses this monitoring information to adjust cognitive strategies, allocate attention, modify approaches, or terminate unsuccessful efforts. This bidirectional flow—monitoring flowing upward from object-level to meta-level, control flowing downward from meta-level to object-level—creates a dynamic self-regulating system. The sophistication of this monitoring-control loop determines the quality of self-directed learning: individuals with more accurate monitoring and more flexible control demonstrate superior learning outcomes, adaptive problem-solving, and intellectual development.
 
 #### 8. [QUOTE] Untitled *(Line 95)*
 
@@ -195,7 +195,7 @@ extraction_summary:
 #### 10. [DEFINITION] Untitled *(Line 102)*
 
 > [!definition] Untitled
-> - **[[Metacognitive Calibration]]:**
+> - **[[Metacognitive-Calibration|Metacognitive Calibration]]:**
 >     - The degree of correspondence between one's subjective confidence in their cognitive performance and their actual, objective performance. Perfect calibration means confidence ratings precisely match actual accuracy. Miscalibration can manifest as [[overconfidence]] (inflated self-assessment) or [[underconfidence]] (deflated self-assessment), both of which impair learning efficiency by leading to suboptimal strategy selection and resource allocation.
 
 #### 11. [PRINCIPLE-POINT] Untitled *(Line 106)*
@@ -208,7 +208,7 @@ extraction_summary:
 
 > [!principle-point] Untitled
 > - **Core Principle 3: Declarative-Procedural-Conditional Knowledge Distinction**
->     - [[Metacognitive Knowledge]] comprises three interrelated but distinct forms of knowledge about cognition. **Declarative metacognitive knowledge** ("knowing that") includes factual knowledge about oneself as a learner, about cognitive tasks, and about strategies—for example, knowing that one learns visual material better than auditory material, or that unfamiliar concepts require more processing time than familiar ones. **Procedural metacognitive knowledge** ("knowing how") encompasses understanding of how to execute cognitive and metacognitive strategies—how to create effective memory mnemonics, how to monitor comprehension while reading, or how to evaluate the quality of an argument. **Conditional metacognitive knowledge** ("knowing when and why") involves understanding the circumstances under which particular strategies are appropriate and the rationale for their effectiveness.[^11] This tripartite structure explains why metacognitive competence requires more than simply knowing about cognitive strategies; one must also understand how to implement them and when their deployment is appropriate. Effective self-directed learners possess well-developed declarative, procedural, and conditional metacognitive knowledge, enabling them to flexibly select and adaptively deploy cognitive strategies based on task demands and contextual factors.[[2025-11-04]] [[2025-11-04]]
+>     - [[Metacognitive-Knowledge|Metacognitive Knowledge]] comprises three interrelated but distinct forms of knowledge about cognition. **Declarative metacognitive knowledge** ("knowing that") includes factual knowledge about oneself as a learner, about cognitive tasks, and about strategies—for example, knowing that one learns visual material better than auditory material, or that unfamiliar concepts require more processing time than familiar ones. **Procedural metacognitive knowledge** ("knowing how") encompasses understanding of how to execute cognitive and metacognitive strategies—how to create effective memory mnemonics, how to monitor comprehension while reading, or how to evaluate the quality of an argument. **Conditional metacognitive knowledge** ("knowing when and why") involves understanding the circumstances under which particular strategies are appropriate and the rationale for their effectiveness.[^11] This tripartite structure explains why metacognitive competence requires more than simply knowing about cognitive strategies; one must also understand how to implement them and when their deployment is appropriate. Effective self-directed learners possess well-developed declarative, procedural, and conditional metacognitive knowledge, enabling them to flexibly select and adaptively deploy cognitive strategies based on task demands and contextual factors.[[2025-11-04]] [[2025-11-04]]
 
 #### 13. [PRINCIPLE-POINT] Untitled *(Line 114)*
 
@@ -247,8 +247,8 @@ extraction_summary:
 > *The relationship between* **metacognition and academic achievement** *has been established through:*
 > - [[Veenman and colleagues' research]] (2006) demonstrating that metacognitive skillfulness accounts for approximately 17% of variance in learning performance beyond the contribution of intelligence,
 >     - **This showed:** Metacognitive ability represents a distinct competence, separable from general intelligence, that independently predicts learning outcomes. Two students of equivalent IQ may show vastly different academic trajectories based on their metacognitive sophistication—their ability to monitor their own understanding, select appropriate strategies, and regulate their learning behavior.
-> - Studies showing that [[Metacognitive Calibration]]—the accuracy of confidence judgments—predicts learning efficiency,
->     - **This showed:** Students with accurate metacognitive calibration allocate their study time more effectively, focusing effort on material they have not yet mastered while avoiding wasted time on already-learned content. Miscalibrated students—particularly those with [[Dunning-Kruger Effect]] patterns of overconfidence—persist with ineffective study strategies and terminate studying prematurely, resulting in poor learning outcomes despite equivalent study time investment.
+> - Studies showing that [[Metacognitive-Calibration|Metacognitive Calibration]]—the accuracy of confidence judgments—predicts learning efficiency,
+>     - **This showed:** Students with accurate metacognitive calibration allocate their study time more effectively, focusing effort on material they have not yet mastered while avoiding wasted time on already-learned content. Miscalibrated students—particularly those with [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] patterns of overconfidence—persist with ineffective study strategies and terminate studying prematurely, resulting in poor learning outcomes despite equivalent study time investment.
 
 #### 19. [KEY-CLAIM] Untitled *(Line 196)*
 
@@ -271,7 +271,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > - *The principles of constructivism* **strongly connect to the field of:**
->     - [[Educational technology]] and [[intelligent tutoring systems]]
+>     - [[Adaptive-Learning-Systems-—-Educational-Technology|Educational technology]] and [[intelligent tutoring systems]]
 >     - **The reason:**
 >         - Modern adaptive learning technologies attempt to operationalize constructivist principles by providing scaffolded support calibrated to each learner's ZPD. These systems must implement what might be called "computational metacognition"—monitoring student performance, assessing understanding, detecting misconceptions, and providing appropriately timed and calibrated instructional support. The success of such systems depends on whether they can replicate the metacognitive functions that expert human tutors provide. This connection reveals that metacognition is not merely an individual cognitive capacity but a fundamental principle of effective instruction—whether delivered by humans or machines—that bridges the gap between current understanding and learning objectives.
 
@@ -279,7 +279,7 @@ extraction_summary:
 
 > [!connection-ideas] Untitled
 > - *The development of critical thinking* **strongly connects to:**
->     - [[Epistemic Cognition]] and [[reflective judgment]]
+>     - [[Epistemic-Cognition|Epistemic Cognition]] and [[Reflective-Judgment|reflective judgment]]
 >     - **The reason:**
 >         - Epistemic cognition refers to individuals' understanding of the nature of knowledge and knowing—their beliefs about what constitutes truth, how knowledge is justified, and how competing claims should be evaluated. Mature epistemic cognition recognizes that knowledge is constructed, evidence-based, and subject to revision—a fundamentally metacognitive perspective. The development from naive epistemological beliefs ("knowledge is certain facts handed down by authorities") to sophisticated epistemic understanding ("knowledge is constructed through systematic inquiry and critical evaluation of evidence") requires metacognitive reflection on the nature of one's own beliefs and how they are justified. Critical thinking instruction that incorporates metacognitive components helps students develop not just better reasoning skills but better understanding of reasoning itself as a human enterprise subject to biases, limitations, and the need for systematic methodological safeguards.
 
@@ -360,7 +360,7 @@ extraction_summary:
 >     - The most surprising concept is that metacognitive ability is dissociable from first-order cognitive ability—you can be objectively good at a task but have poor awareness of your performance (or vice versa). The research showing that brain lesions can impair metacognitive accuracy while leaving task performance intact demonstrates that "knowing" and "knowing that you know" are computationally and neurally distinct operations. This is counter-intuitive because we subjectively experience our metacognitive judgments (confidence, feelings of knowing) as directly reflecting the quality of our first-order cognition. If I feel confident I answered correctly, it seems obvious that I *must* have a good answer. But the neuroscientific evidence reveals that confidence is computed by a separate neural system (rostrolateral prefrontal cortex) that processes information *about* the first-order decision, and this metacognitive system can be accurate or miscalibrated independent of the quality of the first-order cognitive process. This explains phenomena like the Dunning-Kruger effect, where individuals with poor domain knowledge have inflated confidence—their metacognitive system is providing inaccurate assessments of their inadequate first-order knowledge. The practical significance is profound: improving metacognition requires targeted intervention distinct from simply improving domain knowledge or cognitive skills.
 > 
 > - *What* **pre-existing knowledge** *did this article connect with or challenge*?
->     - This article connects with and significantly extends [[Constructivist Epistemology]] and [[Piaget's theory of cognitive development]] by revealing the specific psychological mechanism—metacognition—through which "construction of knowledge" actually proceeds. Previously, when learning about constructivism, I understood the general principle that learners actively build understanding rather than passively receive it, but the mechanism remained somewhat mysterious: *how* does this active construction happen? This article provides the answer: through metacognitive monitoring of one's current understanding and metacognitive control over cognitive strategies. The concept of [[assimilation and accommodation]] now has a metacognitive interpretation: assimilation occurs when metacognitive monitoring indicates that new information fits existing schemas, while accommodation occurs when monitoring reveals incompatibility, triggering schema modification. Similarly, the article enriched my understanding of the [[Zone of Proximal Development]] by explaining that the progression from externally-guided to independent performance involves the internalization of metacognitive regulatory processes—what Vygotsky described as the transformation from interpsychological to intrapsychological function is essentially the development of metacognitive self-scaffolding. The article also challenged my prior understanding of [[executive functions]], which I had conceived as relatively monolithic cognitive control processes. The hierarchical framework presented here—with executive functions providing first-tier cognitive control and metacognition providing second-tier regulation of those executive processes—revealed a more nuanced architecture and explained phenomena I had found puzzling, such as why individuals can have good basic executive functions (working memory, inhibition) but poor self-regulated learning (which requires metacognitive orchestration of those executive functions).
+>     - This article connects with and significantly extends [[Constructivist Epistemology]] and [[Piaget's theory of cognitive development]] by revealing the specific psychological mechanism—metacognition—through which "construction of knowledge" actually proceeds. Previously, when learning about constructivism, I understood the general principle that learners actively build understanding rather than passively receive it, but the mechanism remained somewhat mysterious: *how* does this active construction happen? This article provides the answer: through metacognitive monitoring of one's current understanding and metacognitive control over cognitive strategies. The concept of [[Assimilation-and-Accommodation|assimilation and accommodation]] now has a metacognitive interpretation: assimilation occurs when metacognitive monitoring indicates that new information fits existing schemas, while accommodation occurs when monitoring reveals incompatibility, triggering schema modification. Similarly, the article enriched my understanding of the [[Zone-of-Proximal-Development|Zone of Proximal Development]] by explaining that the progression from externally-guided to independent performance involves the internalization of metacognitive regulatory processes—what Vygotsky described as the transformation from interpsychological to intrapsychological function is essentially the development of metacognitive self-scaffolding. The article also challenged my prior understanding of [[executive functions]], which I had conceived as relatively monolithic cognitive control processes. The hierarchical framework presented here—with executive functions providing first-tier cognitive control and metacognition providing second-tier regulation of those executive processes—revealed a more nuanced architecture and explained phenomena I had found puzzling, such as why individuals can have good basic executive functions (working memory, inhibition) but poor self-regulated learning (which requires metacognitive orchestration of those executive functions).
 
 #### 33. [QUOTE] Untitled *(Line 351)*
 
@@ -378,9 +378,9 @@ extraction_summary:
 > [!links-to-related-notes] Untitled
 > - Identify **three key terms** or **concepts** from this article.
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
-> 1. [[Metacognitive Calibration]]
+> 1. [[Metacognitive-Calibration|Metacognitive Calibration]]
 >     - The accuracy with which an individual's subjective confidence judgments correspond to their objective performance. Perfect calibration means one's confidence ratings precisely predict accuracy—if I'm 70% confident in an answer, I should be correct 70% of the time across many such judgments. Miscalibration can manifest as systematic overconfidence (inflated self-assessment relative to actual performance) or underconfidence (deflated self-assessment). Calibration is measured by comparing confidence ratings against actual performance outcomes and computing the degree of correspondence. Well-calibrated individuals can accurately assess their own knowledge states, enabling efficient resource allocation (studying what they don't know while bypassing what they've mastered). Poor calibration leads to inefficient learning because study time is misallocated—overconfident individuals stop studying prematurely, while underconfident individuals waste time on already-mastered material. Importantly, calibration is a metacognitive skill distinct from first-order cognitive ability: one can be highly intelligent but poorly calibrated, or conversely, have modest cognitive abilities but excellent calibration. Educational interventions can improve calibration through practice with confidence-accuracy feedback, teaching students to use diagnostic cues indicating understanding level, and cultivating epistemic humility about the limits of one's knowledge.
-> 1. [[Zone of Proximal Development]]
+> 1. [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 >     - The conceptual space between what a learner can accomplish independently (the level of actual development) and what they can achieve with guidance from a more knowledgeable other (the level of potential development). Introduced by Lev Vygotsky, the ZPD represents the optimal target zone for instruction—tasks that are too easy waste developmental opportunity, while tasks beyond the ZPD cause frustration and failure. Learning occurs most efficiently when instruction provides scaffolding within the ZPD, offering just enough support to enable task completion while gradually transferring responsibility to the learner. The progression through the ZPD involves internalization of regulatory processes: external guidance from the MKO becomes inner speech enabling self-regulation, which eventually becomes automatic skill. This internalization is fundamentally a metacognitive transformation—the learner develops the capacity to self-monitor, self-instruct, and self-correct, internalizing the metacognitive functions previously provided externally. The ZPD concept has profound implications for education: effective teaching requires continuous assessment of each learner's current capabilities to calibrate instruction appropriately, recognition that development is driven by instruction operating within the ZPD rather than waiting for developmental readiness, and gradual fading of external support as the learner's metacognitive self-regulation capabilities strengthen. The ZPD framework emphasizes that learning is inherently social—cognitive capabilities that emerge initially through interaction with others eventually become internalized individual capabilities.
 > 1. [[Rostrolateral Prefrontal Cortex]]
 >     - A region at the most anterior (frontal) part of the lateral prefrontal cortex, located at the frontal pole (approximately Brodmann Area 10), that serves as a critical neural substrate for metacognitive judgments. The rlPFC is positioned at the apex of a prefrontal hierarchy, receiving inputs from dorsolateral and ventrolateral prefrontal regions involved in cognitive control and from posterior cortical regions representing perceptual and mnemonic information. This anatomical positioning enables the rlPFC to function as an integrative hub that transforms first-order cognitive representations into second-order metacognitive judgments. Functional neuroimaging studies consistently demonstrate that rlPFC activity correlates with metacognitive accuracy—the degree to which confidence judgments correspond to objective performance—across diverse domains including memory, perception, and decision-making. Importantly, individual differences in rlPFC gray matter volume predict individual differences in metacognitive sensitivity even controlling for first-order task performance, indicating that metacognitive capacity represents a distinct neurocognitive trait dissociable from general cognitive ability. Lesion studies show that damage to rlPFC impairs metacognitive accuracy while leaving first-order task performance relatively preserved, providing causal evidence for its role in metacognition. The rlPFC appears to implement domain-general metacognitive processes while domain-specific metacognitive content is represented in other prefrontal and posterior regions. Understanding the rlPFC's function illuminates both why metacognition varies across individuals (reflecting differences in rlPFC structure/function) and why it develops gradually (following protracted prefrontal maturation through adolescence). Potential interventions targeting rlPFC function—through cognitive training, neurofeedback, or brain stimulation—may offer novel approaches to enhancing metacognitive capacity.
@@ -413,7 +413,7 @@ extraction_summary:
 - [[Ann Brown]]
 - [[Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bayesian metacognition models]]
 - [[Calibration Training and Confidence Assessment]]
 - [[Carlos Saiz]]
@@ -422,15 +422,15 @@ extraction_summary:
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
 - [[Constructivist Learning]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[David Wood]]
 - [[Deanna Kuhn]]
 - [[Delay of gratification]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Metacognitive Illusions]]
 - [[EDUMETRIC project]]
-- [[Educational technology]]
-- [[Epistemic Cognition]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Educational technology]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Flavell's metamemory studies]]
 - [[Gail Ross]]
@@ -454,17 +454,17 @@ extraction_summary:
 - [[Merrilyn Goos]]
 - [[Meta-Level Cognition]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Control]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Control|Metacognitive Control]]
 - [[Metacognitive Experiences]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
 - [[Metacognitive therapy]]
 - [[Michael Tomasello]]
 - [[Michelene Chi]]
 - [[Mindfulness and Metacognitive Awareness]]
-- [[More Knowledgeable Other]]
+- [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object-Level Cognition]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Peter Facione]]
@@ -481,7 +481,7 @@ extraction_summary:
 - [[Saskia Bona]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Self-Behavioral Management]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning Theory]]
 - [[Self-Regulation-Theory]]
 - [[Sergio Rivas]]
@@ -492,9 +492,9 @@ extraction_summary:
 - [[Veenman and colleagues' research]]
 - [[William James]]
 - [[Zimmerman's cyclical model of self-regulated learning]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[anterior insular cortex]]
-- [[assimilation and accommodation]]
+- [[Assimilation-and-Accommodation|assimilation and accommodation]]
 - [[constructivism]]
 - [[controlling and regulating]]
 - [[dorsal anterior cingulate cortex]]
@@ -513,7 +513,7 @@ extraction_summary:
 - [[posterior cingulate cortex]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]
-- [[reflective judgment]]
+- [[Reflective-Judgment|reflective judgment]]
 - [[rostrolateral prefrontal cortex]]
 - [[self-control]]
 - [[self-explanation effects]]
@@ -530,20 +530,20 @@ extraction_summary:
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Metacognition]] | — | — | Document Start | 27 |
 | 2 | [[Constructivist Learning]] | — | — | Document Start | 27 |
-| 3 | [[Critical Thinking]] | — | — | Document Start | 27 |
+| 3 | [[Critical-Thinking|Critical Thinking]] | — | — | Document Start | 27 |
 | 4 | [[Self-Regulation-Theory]] | — | — | Document Start | 27 |
 | 5 | [[prefrontal cortex]] | — | — | Document Start | 28 |
-| 6 | [[Zone of Proximal Development]] | — | — | Document Start | 29 |
+| 6 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Document Start | 29 |
 | 7 | [[John Flavell]] | — | — | Document Start | 35 |
 | 8 | [[Jean Piaget]] | — | — | Document Start | 35 |
 | 9 | [[Lev Vygotsky]] | — | — | Document Start | 35 |
 | 10 | [[constructivism]] | — | — | Document Start | 37 |
-| 11 | [[Critical Thinking]] | — | — | Document Start | 37 |
+| 11 | [[Critical-Thinking|Critical Thinking]] | — | — | Document Start | 37 |
 | 12 | [[Self-Regulation-Theory]] | — | — | Document Start | 37 |
 | 13 | [[rostrolateral prefrontal cortex]] | — | — | Document Start | 37 |
 | 14 | [[Metacognition]] | — | — | 1.0 📜 INTRODUCTION | 44 |
 | 15 | [[Constructivist Learning]] | — | — | 1.0 📜 INTRODUCTION | 44 |
-| 16 | [[Critical Thinking]] | — | — | 1.0 📜 INTRODUCTION | 44 |
+| 16 | [[Critical-Thinking|Critical Thinking]] | — | — | 1.0 📜 INTRODUCTION | 44 |
 | 17 | [[Self-Behavioral Management]] | — | — | 1.0 📜 INTRODUCTION | 44 |
 | 18 | [[John Locke]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 57 |
 | 19 | [[Jean Piaget]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
@@ -551,13 +551,13 @@ extraction_summary:
 | 21 | [[Accommodation-(Constructivist-Learning)]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 22 | [[reflective abstraction]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 59 |
 | 23 | [[Lev Vygotsky]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
-| 24 | [[Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
+| 24 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 25 | [[inner speech]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 26 | [[Alexander Luria]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 27 | [[2025-11-04]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 61 |
 | 28 | [[John H. Flavell]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
 | 29 | [[metamemory]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 63 |
-| 30 | [[Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
+| 30 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 67 |
 | 31 | [[Metacognitive Experiences]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 73 |
 | 32 | [[Ann Brown]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
 | 33 | [[knowing about knowing]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 75 |
@@ -568,17 +568,17 @@ extraction_summary:
 | 38 | [[2025-11-04]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 77 |
 | 39 | [[introspectionist movement]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
 | 40 | [[William James]] | — | — | 2.0 🧭 HISTORICAL CONTEXT & FOUNDATION... | 83 |
-| 41 | [[Metacognitive Monitoring]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
-| 42 | [[Metacognitive Control]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
+| 41 | [[Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
+| 42 | [[Metacognitive-Control|Metacognitive Control]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 43 | [[Thomas Nelson]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
 | 44 | [[Louis Narens]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 93 |
-| 45 | [[Metacognitive Calibration]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 103 |
+| 45 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 103 |
 | 46 | [[overconfidence]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 104 |
 | 47 | [[underconfidence]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 104 |
 | 48 | [[Object-Level Cognition]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 108 |
 | 49 | [[Meta-Level Cognition]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 108 |
 | 50 | [[Michael Tomasello]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 108 |
-| 51 | [[Metacognitive Knowledge]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 112 |
+| 51 | [[Metacognitive-Knowledge|Metacognitive Knowledge]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 112 |
 | 52 | [[2025-11-04]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 112 |
 | 53 | [[2025-11-04]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 112 |
 | 54 | [[theory of mind]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 116 |
@@ -587,8 +587,8 @@ extraction_summary:
 | 57 | [[prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
 | 58 | [[medial prefrontal cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
 | 59 | [[posterior cingulate cortex]] | — | — | 3.1 ⚛️ FOUNDATIONAL PRINCIPLES | 120 |
-| 60 | [[Barry Zimmerman]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
-| 61 | [[Self-Regulated Learning]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
+| 60 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
+| 61 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 128 |
 | 62 | [[Metacognitive Planning]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 63 | [[Prospective Metacognition]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
 | 64 | [[Asher Koriat]] | — | — | 4.1 THE METACOGNITIVE CYCLE: PLANNING... | 130 |
@@ -615,32 +615,32 @@ extraction_summary:
 | 85 | [[Markman's comprehension monitoring research]] | — | — | 5.1 DEVELOPMENTAL EVIDENCE | 176 |
 | 86 | [[Philip Abrami]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 181 |
 | 87 | [[Veenman and colleagues' research]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 185 |
-| 88 | [[Metacognitive Calibration]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 187 |
-| 89 | [[Dunning-Kruger Effect]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 188 |
+| 88 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 187 |
+| 89 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 5.2 INDIVIDUAL DIFFERENCES AND ACADEM... | 188 |
 | 90 | [[Alexander Rounis]] | — | — | 5.3 NEUROSCIENTIFIC EVIDENCE | 192 |
 | 91 | [[Saskia Bona]] | — | — | 5.3 NEUROSCIENTIFIC EVIDENCE | 194 |
 | 92 | [[Joel Silvanto]] | — | — | 5.3 NEUROSCIENTIFIC EVIDENCE | 194 |
 | 93 | [[Constructivism]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 213 |
 | 94 | [[Assimilation-(Constructivist-Learning)]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 213 |
 | 95 | [[Accommodation-(Constructivist-Learning)]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 213 |
-| 96 | [[Zone of Proximal Development]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
-| 97 | [[More Knowledgeable Other]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
+| 96 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
+| 97 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 215 |
 | 98 | [[Scaffolding-(Constructivist-Learning)]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
 | 99 | [[Jerome Bruner]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
 | 100 | [[David Wood]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
 | 101 | [[Gail Ross]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 217 |
-| 102 | [[Educational technology]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 221 |
+| 102 | [[Adaptive-Learning-Systems-—-Educational-Technology|Educational technology]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 221 |
 | 103 | [[intelligent tutoring systems]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 221 |
 | 104 | [[socially-mediated metacognition]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
 | 105 | [[Merrilyn Goos]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
 | 106 | [[Peter Galbraith]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
 | 107 | [[Peter Renshaw]] | — | — | 6.1 METACOGNITION AS THE MECHANISM OF... | 225 |
-| 108 | [[Critical Thinking]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
+| 108 | [[Critical-Thinking|Critical Thinking]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
 | 109 | [[Paul-Elder Critical Thinking Framework]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 229 |
 | 110 | [[Sergio Rivas]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 233 |
 | 111 | [[Carlos Saiz]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 233 |
-| 112 | [[Epistemic Cognition]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
-| 113 | [[reflective judgment]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
+| 112 | [[Epistemic-Cognition|Epistemic Cognition]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
+| 113 | [[Reflective-Judgment|reflective judgment]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 237 |
 | 114 | [[Peter Facione]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 241 |
 | 115 | [[Karl Popper]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 243 |
 | 116 | [[Deanna Kuhn]] | — | — | 6.2 METACOGNITION AS THE ENGINE OF CR... | 247 |
@@ -661,11 +661,11 @@ extraction_summary:
 | 131 | [[Inge Molenaar]] | — | — | 7.3 METACOGNITION IN ARTIFICIAL INTEL... | 300 |
 | 132 | [[Constructivist Epistemology]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
 | 133 | [[Piaget's theory of cognitive development]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
-| 134 | [[assimilation and accommodation]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
-| 135 | [[Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
+| 134 | [[Assimilation-and-Accommodation|assimilation and accommodation]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
+| 135 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
 | 136 | [[executive functions]] | — | — | 9.0 🧠 KEY QUESTIONS | 349 |
-| 137 | [[Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 362 |
-| 138 | [[Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 364 |
+| 137 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | 9.0 🧠 KEY QUESTIONS | 362 |
+| 138 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | 9.0 🧠 KEY QUESTIONS | 364 |
 | 139 | [[Rostrolateral Prefrontal Cortex]] | — | — | 9.0 🧠 KEY QUESTIONS | 366 |
 | 140 | [[Self-Regulated Learning Theory]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 436 |
 | 141 | [[Theory of Mind Development]] | — | — | 🔗 RELATED TOPICS FOR PERSONAL KNOWLED... | 437 |
@@ -761,7 +761,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Ann Brown]]
 - [[Asher Koriat]]
 - [[Assimilation-(Constructivist-Learning)]]
-- [[Barry Zimmerman]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
 - [[Bayesian metacognition models]]
 - [[Calibration Training and Confidence Assessment]]
 - [[Carlos Saiz]]
@@ -770,15 +770,15 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Constructivism]]
 - [[Constructivist Epistemology]]
 - [[Constructivist Learning]]
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[David Wood]]
 - [[Deanna Kuhn]]
 - [[Delay of gratification]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Dunning-Kruger Effect and Metacognitive Illusions]]
 - [[EDUMETRIC project]]
-- [[Educational technology]]
-- [[Epistemic Cognition]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Educational technology]]
+- [[Epistemic-Cognition|Epistemic Cognition]]
 - [[Epistemic Cognition and Reflective Judgment]]
 - [[Flavell's metamemory studies]]
 - [[Gail Ross]]
@@ -802,17 +802,17 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Merrilyn Goos]]
 - [[Meta-Level Cognition]]
 - [[Metacognition]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive Control]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Control|Metacognitive Control]]
 - [[Metacognitive Experiences]]
-- [[Metacognitive Knowledge]]
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Knowledge|Metacognitive Knowledge]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Metacognitive Planning]]
 - [[Metacognitive therapy]]
 - [[Michael Tomasello]]
 - [[Michelene Chi]]
 - [[Mindfulness and Metacognitive Awareness]]
-- [[More Knowledgeable Other]]
+- [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object-Level Cognition]]
 - [[Paul-Elder Critical Thinking Framework]]
 - [[Peter Facione]]
@@ -829,7 +829,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Saskia Bona]]
 - [[Scaffolding-(Constructivist-Learning)]]
 - [[Self-Behavioral Management]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning Theory]]
 - [[Self-Regulation-Theory]]
 - [[Sergio Rivas]]
@@ -840,9 +840,9 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[Veenman and colleagues' research]]
 - [[William James]]
 - [[Zimmerman's cyclical model of self-regulated learning]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[anterior insular cortex]]
-- [[assimilation and accommodation]]
+- [[Assimilation-and-Accommodation|assimilation and accommodation]]
 - [[constructivism]]
 - [[controlling and regulating]]
 - [[dorsal anterior cingulate cortex]]
@@ -861,7 +861,7 @@ I'll create a comprehensive academic article on metacognition as the central int
 - [[posterior cingulate cortex]]
 - [[prefrontal cortex]]
 - [[reflective abstraction]]
-- [[reflective judgment]]
+- [[Reflective-Judgment|reflective judgment]]
 - [[rostrolateral prefrontal cortex]]
 - [[self-control]]
 - [[self-explanation effects]]

@@ -342,21 +342,21 @@ extraction_summary:
 - [[Automaticity Hypothesis]]
 - [[Bloom's Taxonomy]]
 - [[Circular Validation]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
-- [[Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Ability]]
 - [[Critical Thinking Frameworks]]
 - [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]]
 - [[Declarative Knowledge]]
 - [[Dreyfus Model in Clinical Problem-Solving]]
-- [[Dreyfus Model of Skill Acquisition]]
+- [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process Theories of Reasoning]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Einstellung Effect]]
 - [[Expert-Novice Differences]]
 - [[Expertise Development]]
-- [[Explicit Knowledge]]
+- [[Explicit-Knowledge|Explicit Knowledge]]
 - [[Facione's Domain-Specific Approach]]
 - [[Facione's Dual-Dimensional Model]]
 - [[Framework Mastery Paradox]]
@@ -369,15 +369,15 @@ extraction_summary:
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
 - [[Pedagogical Content Knowledge]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]
-- [[Tacit Knowledge]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Neuroscience of Intuition: How Expert Judgment Emerges]]
 - [[The Paradox of Explicit Knowledge in Expertise Development]]
 - [[Training Wheel Hypothesis]]
 - [[Transfer Problem]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ### All Occurrences
 
@@ -390,42 +390,42 @@ extraction_summary:
 | 5 | [[Facione's Dual-Dimensional Model]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 6 | [[Bloom's Taxonomy]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
 | 7 | [[Critical Thinking Ability]] | — | — | 🔍 The Framework Mastery Paradox: A So... | 194 |
-| 8 | [[Critical Thinking]] | — | — | I. 🎯 The Premise: Articulating the Se... | 200 |
+| 8 | [[Critical-Thinking|Critical Thinking]] | — | — | I. 🎯 The Premise: Articulating the Se... | 200 |
 | 9 | [[Paul-Elder's Elements of Thought]] | — | — | I. 🎯 The Premise: Articulating the Se... | 200 |
-| 10 | [[Explicit Knowledge]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
+| 10 | [[Explicit-Knowledge|Explicit Knowledge]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
 | 11 | [[Paul-Elder Framework]] | — | — | I. 🎯 The Premise: Articulating the Se... | 202 |
 | 12 | [[Metacognitive Theory]] | — | — | I. 🎯 The Premise: Articulating the Se... | 204 |
 | 13 | [[Training Wheel Hypothesis]] | — | — | I. 🎯 The Premise: Articulating the Se... | 206 |
 | 14 | [[Declarative Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
-| 15 | [[Cognitive Load Theory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
-| 16 | [[Working Memory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
+| 15 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
+| 16 | [[Working-Memory|Working Memory]] | — | — | What Constitutes "Mastery" of a Frame... | 219 |
 | 17 | [[Procedural Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 221 |
-| 18 | [[Dreyfus Model of Skill Acquisition]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
-| 19 | [[Tacit Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
+| 18 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
+| 19 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | What Constitutes "Mastery" of a Frame... | 223 |
 | 20 | [[Circular Validation]] | — | — | What is "Critical Thinking Ability" I... | 231 |
 | 21 | [[Transfer Problem]] | — | — | Does Framework Expertise Guarantee Be... | 246 |
-| 22 | [[Dreyfus Model of Skill Acquisition]] | — | — | Could Framework Dependency Create Cog... | 250 |
+| 22 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | Could Framework Dependency Create Cog... | 250 |
 | 23 | [[Dreyfus Model in Clinical Problem-Solving]] | — | — | Could Framework Dependency Create Cog... | 254 |
-| 24 | [[Working Memory]] | — | — | Is There Evidence of "Framework Inter... | 260 |
-| 25 | [[Cognitive Load Theory]] | — | — | Is There Evidence of "Framework Inter... | 270 |
-| 26 | [[Tacit Knowledge]] | — | — | Do Expert Critical Thinkers Actually ... | 274 |
-| 27 | [[Dual-Process Theory]] | — | — | Do Expert Critical Thinkers Actually ... | 276 |
+| 24 | [[Working-Memory|Working Memory]] | — | — | Is There Evidence of "Framework Inter... | 260 |
+| 25 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Is There Evidence of "Framework Inter... | 270 |
+| 26 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | Do Expert Critical Thinkers Actually ... | 274 |
+| 27 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Do Expert Critical Thinkers Actually ... | 276 |
 | 28 | [[Metacognition]] | — | — | The Metacognitive Overhead Paradox | 297 |
 | 29 | [[Automaticity Hypothesis]] | — | — | The Metacognitive Overhead Paradox | 303 |
 | 30 | [[Einstellung Effect]] | — | — | Can Systematic Thinking Become System... | 307 |
 | 31 | [[Facione's Domain-Specific Approach]] | — | — | Empirical Question: Do Framework-Trai... | 337 |
 | 32 | [[Michael Polanyi's]] | — | — | The Tacit Knowledge Problem: What Fra... | 343 |
-| 33 | [[Tacit Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 343 |
+| 33 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 343 |
 | 34 | [[Procedural-Declarative Distinction]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 35 | [[Declarative Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 36 | [[Procedural Knowledge]] | — | — | The Tacit Knowledge Problem: What Fra... | 347 |
 | 37 | [[Expert-Novice Differences]] | — | — | The Training Wheels Hypothesis | 368 |
 | 38 | [[Pedagogical Content Knowledge]] | — | — | The Shared Vocabulary Hypothesis | 378 |
 | 39 | [[Adaptive Expertise]] | — | — | The Meta-Framework Analysis Hypothesis | 388 |
-| 40 | [[Dreyfus Model of Skill Acquisition]] | — | — | The Integration Model: Toward Sophist... | 432 |
+| 40 | [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] | — | — | The Integration Model: Toward Sophist... | 432 |
 | 41 | [[Expertise Development]] | — | — | The Integration Model: Toward Sophist... | 432 |
-| 42 | [[Cognitive Science]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
-| 43 | [[Philosophy of Mind]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
+| 42 | [[Cognitive-Science|Cognitive Science]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
+| 43 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 455 |
 | 44 | [[Integration Hypothesis]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 461 |
 | 45 | [[Dual-Process Theories of Reasoning]] | — | — | VIII. 🧠 The Tacit-Explicit Integratio... | 463 |
 | 46 | [[The Paradox of Explicit Knowledge in Expertise Development]] | — | — | 🔗 Related Topics for PKB Expansion | 496 |
@@ -608,21 +608,21 @@ for (let letter of sortedLetters) {
 - [[Automaticity Hypothesis]]
 - [[Bloom's Taxonomy]]
 - [[Circular Validation]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Science]]
-- [[Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Critical Thinking Ability]]
 - [[Critical Thinking Frameworks]]
 - [[Cultural Epistemologies: Non-Western Approaches to Reasoning and Judgment]]
 - [[Declarative Knowledge]]
 - [[Dreyfus Model in Clinical Problem-Solving]]
-- [[Dreyfus Model of Skill Acquisition]]
+- [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 - [[Dual-Process Theories of Reasoning]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Einstellung Effect]]
 - [[Expert-Novice Differences]]
 - [[Expertise Development]]
-- [[Explicit Knowledge]]
+- [[Explicit-Knowledge|Explicit Knowledge]]
 - [[Facione's Domain-Specific Approach]]
 - [[Facione's Dual-Dimensional Model]]
 - [[Framework Mastery Paradox]]
@@ -635,15 +635,15 @@ for (let letter of sortedLetters) {
 - [[Paul-Elder Model]]
 - [[Paul-Elder's Elements of Thought]]
 - [[Pedagogical Content Knowledge]]
-- [[Philosophy of Mind]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Procedural Knowledge]]
 - [[Procedural-Declarative Distinction]]
-- [[Tacit Knowledge]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Neuroscience of Intuition: How Expert Judgment Emerges]]
 - [[The Paradox of Explicit Knowledge in Expertise Development]]
 - [[Training Wheel Hypothesis]]
 - [[Transfer Problem]]
-- [[Working Memory]]
+- [[Working-Memory|Working Memory]]
 
 ---
 

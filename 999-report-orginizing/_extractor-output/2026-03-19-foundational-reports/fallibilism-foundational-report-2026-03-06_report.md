@@ -169,12 +169,12 @@ extraction_summary:
 #### 6. [DEFINITION] Epistemic Humility *(Line 306)*
 
 > [!definition] Epistemic Humility
-> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[Epistemic humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
+> The intellectual virtue of recognising the limits of one's knowledge, the possibility of one's errors, and the genuine epistemic standing of others who disagree. [[Epistemic-Humility|Epistemic humility]] is the dispositional correlate of the theoretical claim of fallibilism: if our beliefs could be wrong, then intellectual integrity demands that we hold them with a degree of tentativeness proportioned to our evidence, remain open to correction, and acknowledge what we do not know. Epistemic humility is not the same as intellectual timidity or the performance of uncertainty for social purposes — it is a cognitive and motivational orientation grounded in an accurate appraisal of one's epistemic situation.
 
 #### 7. [DEFINITION] Epistemic Calibration *(Line 309)*
 
 > [!definition] Epistemic Calibration
-> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
+> The degree to which a person's confidence in their beliefs matches the actual probability of those beliefs being true. A well-calibrated agent who says "I'm 80% confident in this" is right approximately 80% of the time across such claims. Fallibilism implies the importance of calibration: if all beliefs are potentially mistaken, then overconfidence is a systematic epistemic failing. Research in [[Cognitive-Psychology|cognitive psychology]] consistently shows that humans tend toward overconfidence — we are typically more certain than our evidence warrants. Calibration is thus both a theoretical commitment of fallibilism and a practical goal of epistemic education.
 
 #### 8. [REFLECTION] Deepening Your Understanding *(Line 322)*
 
@@ -272,7 +272,7 @@ extraction_summary:
 > 
 > - **[[Deliberate Practice]]** (anticipated node) — Ericsson's deliberate practice framework requires that the practitioner receive genuine feedback and revise their technique accordingly. This is only productive if the practitioner holds their current technique fallibilistically — as improvable rather than optimal. The psychological conditions for effective deliberate practice are precisely the dispositional conditions fallibilism identifies: openness to correction, tolerance of error as information, and the absence of ego-investment in any particular performance.
 > 
-> - **[[Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
+> - **[[Epistemic-Calibration|Epistemic Calibration]]** (anticipated node) — Calibration is the quantitative, operational expression of fallibilism: how well does one's confidence match actual accuracy? The fallibilist thesis implies that calibration is a central epistemic goal, and research in [[Bayesian Epistemology]] and cognitive psychology provides the formal and empirical frameworks for understanding and improving it.
 > 
 > The pattern across these connections reveals a coherent intellectual thread: fallibilism is the philosophical foundation from which a cluster of related topics — metacognition, critical thinking, deliberate practice, calibration — all draw their justification. To understand fallibilism deeply is to understand why these other practices matter and how they cohere.
 
@@ -435,10 +435,10 @@ extraction_summary:
 - [[Deliberate Practice]]
 - [[Descartes]]
 - [[Duhem-Quine thesis]]
-- [[Epistemic Calibration]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
-- [[Epistemic humility]]
+- [[Epistemic-Humility|Epistemic humility]]
 - [[Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
@@ -455,51 +455,51 @@ extraction_summary:
 - [[Scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
-- [[Socratic method]]
+- [[Socratic-Method|Socratic method]]
 - [[Stewart Cohen]]
 - [[Teaching Fallibilism — Pedagogical Frameworks]]
 - [[Thomas Kuhn]]
-- [[Virtue epistemology]]
+- [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O. Quine]]
 - [[adversarial epistemology]]
-- [[cognitive psychology]]
-- [[confirmation bias]]
-- [[critical thinking]]
-- [[defeater]]
+- [[Cognitive-Psychology|cognitive psychology]]
+- [[Confirmation-Bias-Myside-Bias|confirmation bias]]
+- [[Critical-Thinking|critical thinking]]
+- [[Defeat-Defeater|defeater]]
 - [[demarcation problem]]
 - [[epistemic contextualism]]
-- [[epistemic holism]]
-- [[epistemic humility]]
+- [[Epistemic-Holism|epistemic holism]]
+- [[Epistemic-Humility|epistemic humility]]
 - [[epistemic justification]]
 - [[epistemic relativism]]
-- [[epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|epistemology]]
 - [[fallibilism]]
 - [[falsificationism]]
-- [[growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
 - [[pedagogy]]
 - [[philosophy of science]]
 - [[pragmatism]]
 - [[scepticism]]
-- [[social epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[fallibilism]] | — | — | Phase I: Orientation & Context Setting | 269 |
-| 2 | [[epistemology]] | — | — | Phase I: Orientation & Context Setting | 271 |
+| 2 | [[Epistemic-Autonomy-—-Epistemology|epistemology]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 3 | [[philosophy of science]] | — | — | Phase I: Orientation & Context Setting | 271 |
-| 4 | [[critical thinking]] | — | — | Phase I: Orientation & Context Setting | 271 |
+| 4 | [[Critical-Thinking|critical thinking]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 5 | [[pedagogy]] | — | — | Phase I: Orientation & Context Setting | 271 |
 | 6 | [[Descartes]] | — | — | The Core Claim and Its Precision | 290 |
 | 7 | [[scepticism]] | — | — | The Critical Distinctions | 302 |
 | 8 | [[Scepticism]] | — | — | The Critical Distinctions | 302 |
 | 9 | [[epistemic relativism]] | — | — | The Critical Distinctions | 304 |
-| 10 | [[Epistemic humility]] | — | — | The Critical Distinctions | 307 |
-| 11 | [[cognitive psychology]] | — | — | The Critical Distinctions | 310 |
+| 10 | [[Epistemic-Humility|Epistemic humility]] | — | — | The Critical Distinctions | 307 |
+| 11 | [[Cognitive-Psychology|cognitive psychology]] | — | — | The Critical Distinctions | 310 |
 | 12 | [[Socrates]] | — | — | Historical Development | 314 |
-| 13 | [[Socratic method]] | — | — | Historical Development | 314 |
+| 13 | [[Socratic-Method|Socratic method]] | — | — | Historical Development | 314 |
 | 14 | [[Pyrrhonian sceptics]] | — | — | Historical Development | 316 |
 | 15 | [[Charles Sanders Peirce]] | — | — | Historical Development | 318 |
 | 16 | [[pragmatism]] | — | — | Historical Development | 318 |
@@ -512,36 +512,36 @@ extraction_summary:
 | 23 | [[Duhem-Quine thesis]] | — | — | Popperian Falsificationism | 347 |
 | 24 | [[Thomas Kuhn]] | — | — | Popperian Falsificationism | 347 |
 | 25 | [[W.V.O. Quine]] | — | — | Quine's Web of Belief and Epistemic H... | 351 |
-| 26 | [[epistemic holism]] | — | — | Quine's Web of Belief and Epistemic H... | 353 |
+| 26 | [[Epistemic-Holism|epistemic holism]] | — | — | Quine's Web of Belief and Epistemic H... | 353 |
 | 27 | [[epistemic contextualism]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 28 | [[Stewart Cohen]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
 | 29 | [[David Lewis]] | — | — | Contextualism and Stakes-Sensitive Fa... | 360 |
-| 30 | [[Virtue epistemology]] | — | — | Virtue Epistemology's Contribution | 366 |
+| 30 | [[Virtue-Epistemology|Virtue epistemology]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 31 | [[Ernest Sosa]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 32 | [[Linda Zagzebski]] | — | — | Virtue Epistemology's Contribution | 366 |
 | 33 | [[epistemic justification]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
-| 34 | [[defeater]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
+| 34 | [[Defeat-Defeater|defeater]] | — | — | How Fallibilism Works: The Machinery ... | 383 |
 | 35 | [[Barry Marshall]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
 | 36 | [[Robin Warren]] | — | — | How Fallibilism Works: The Machinery ... | 395 |
-| 37 | [[confirmation bias]] | — | — | How Fallibilism Works: The Machinery ... | 397 |
+| 37 | [[Confirmation-Bias-Myside-Bias|confirmation bias]] | — | — | How Fallibilism Works: The Machinery ... | 397 |
 | 38 | [[adversarial epistemology]] | — | — | How Fallibilism Works: The Machinery ... | 399 |
 | 39 | [[Nicholas Rescher]] | — | — | How Fallibilism Works: The Machinery ... | 404 |
 | 40 | [[philosophy of science]] | — | — | Fallibilism in Science | 419 |
 | 41 | [[Karl Popper]] | — | — | Fallibilism in Science | 419 |
 | 42 | [[Thomas Kuhn]] | — | — | Fallibilism in Science | 419 |
-| 43 | [[epistemic humility]] | — | — | Fallibilism in Education | 428 |
+| 43 | [[Epistemic-Humility|epistemic humility]] | — | — | Fallibilism in Education | 428 |
 | 44 | [[intellectual openness]] | — | — | Fallibilism in Education | 428 |
 | 45 | [[Carol Dweck]] | — | — | Fallibilism in Education | 430 |
-| 46 | [[growth mindset]] | — | — | Fallibilism in Education | 430 |
+| 46 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]] | — | — | Fallibilism in Education | 430 |
 | 47 | [[Karl Popper]] | — | — | Fallibilism in Democratic and Politic... | 441 |
 | 48 | [[Fallibilism]] | — | — | The "So What?" | 480 |
 | 49 | [[Metacognition and Lifelong Learning]] | — | — | The "So What?" | 482 |
 | 50 | [[Metacognition and Critical Thinking]] | — | — | The "So What?" | 484 |
 | 51 | [[Paul-Elder Framework]] | — | — | The "So What?" | 484 |
 | 52 | [[Deliberate Practice]] | — | — | The "So What?" | 486 |
-| 53 | [[Epistemic Calibration]] | — | — | The "So What?" | 488 |
+| 53 | [[Epistemic-Calibration|Epistemic Calibration]] | — | — | The "So What?" | 488 |
 | 54 | [[Bayesian Epistemology]] | — | — | The "So What?" | 488 |
-| 55 | [[social epistemology]] | — | — | Unresolved Questions | 494 |
+| 55 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]] | — | — | Unresolved Questions | 494 |
 | 56 | [[Epistemic Calibration and Bayesian Updating]] | — | — | D. Expansion Topics | 578 |
 | 57 | [[Popper's Falsificationism — Deep Dive]] | — | — | D. Expansion Topics | 581 |
 | 58 | [[Intellectual Virtues and Epistemic Character]] | — | — | D. Expansion Topics | 584 |
@@ -567,10 +567,10 @@ extraction_summary:
 - [[Deliberate Practice]]
 - [[Descartes]]
 - [[Duhem-Quine thesis]]
-- [[Epistemic Calibration]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Epistemic Calibration and Bayesian Updating]]
 - [[Epistemic Injustice and Structural Fallibilism]]
-- [[Epistemic humility]]
+- [[Epistemic-Humility|Epistemic humility]]
 - [[Ernest Sosa]]
 - [[Fallibilism]]
 - [[Intellectual Virtues and Epistemic Character]]
@@ -587,33 +587,33 @@ extraction_summary:
 - [[Scepticism]]
 - [[Social Epistemology and Collective Fallibilism]]
 - [[Socrates]]
-- [[Socratic method]]
+- [[Socratic-Method|Socratic method]]
 - [[Stewart Cohen]]
 - [[Teaching Fallibilism — Pedagogical Frameworks]]
 - [[Thomas Kuhn]]
-- [[Virtue epistemology]]
+- [[Virtue-Epistemology|Virtue epistemology]]
 - [[W.V.O. Quine]]
 - [[adversarial epistemology]]
-- [[cognitive psychology]]
-- [[confirmation bias]]
-- [[critical thinking]]
-- [[defeater]]
+- [[Cognitive-Psychology|cognitive psychology]]
+- [[Confirmation-Bias-Myside-Bias|confirmation bias]]
+- [[Critical-Thinking|critical thinking]]
+- [[Defeat-Defeater|defeater]]
 - [[demarcation problem]]
 - [[epistemic contextualism]]
-- [[epistemic holism]]
-- [[epistemic humility]]
+- [[Epistemic-Holism|epistemic holism]]
+- [[Epistemic-Humility|epistemic humility]]
 - [[epistemic justification]]
 - [[epistemic relativism]]
-- [[epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|epistemology]]
 - [[fallibilism]]
 - [[falsificationism]]
-- [[growth mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|growth mindset]]
 - [[intellectual openness]]
 - [[pedagogy]]
 - [[philosophy of science]]
 - [[pragmatism]]
 - [[scepticism]]
-- [[social epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|social epistemology]]
 
 ### Frontmatter Relationships
 
@@ -625,17 +625,17 @@ extraction_summary:
 
 #### Related
 
-- [[Critical Thinking]]
+- [[Critical-Thinking|Critical Thinking]]
 - [[Philosophy of Science]]
 - [[Pragmatism]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Reliabilism]]
 - [[Contextualism — Epistemological]]
-- [[Epistemic Humility]]
+- [[Epistemic-Humility|Epistemic Humility]]
 
 #### Broader
 
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Theory of Knowledge]]
 
 #### Narrower
@@ -647,7 +647,7 @@ extraction_summary:
 #### See Also
 
 - [[Bayesian Epistemology]]
-- [[Social Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Social Epistemology]]
 - [[Epistemic Injustice]]
 - [[Metacognition and Lifelong Learning]]
 
@@ -667,14 +667,14 @@ extraction_summary:
 
 #### Builds On
 
-- [[Justified True Belief]]
+- [[Justified-True-Belief|Justified True Belief]]
 - [[The Gettier Problem]]
 - [[Descartes — Meditations]]
 
 #### Enables
 
 - [[Philosophy of Science — Advanced]]
-- [[Epistemic Calibration]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
 - [[Intellectual Virtues in Practice]]
 - [[Critical Pedagogy]]
 

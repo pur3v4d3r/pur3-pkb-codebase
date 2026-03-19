@@ -260,7 +260,7 @@ extraction_summary:
 #### 16. [CONNECTION-IDEAS] Untitled *(Line 232)*
 
 > [!connection-ideas] Untitled
-> The principles discussed here strongly connect to the field of [[Personal Knowledge Management (PKM)]]. Specifically, the idea of an AI's **Contextual Memory** is analogous to a human's **"Second Brain"** or **"Zettelkasten."**
+> The principles discussed here strongly connect to the field of [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]. Specifically, the idea of an AI's **Contextual Memory** is analogous to a human's **"Second Brain"** or **"Zettelkasten."**
 > 
 > * A human PKM (like an Obsidian vault) is a collection of "chunks" of knowledge (notes) that are "indexed" (linked) for later retrieval.
 > * An AI's RAG system is a *computational* version of this. It's a "vault" of knowledge "chunks" (vectors) that are "indexed" (in a database) for retrieval.
@@ -321,7 +321,7 @@ extraction_summary:
 > [!important] Untitled
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 1.  `[[In-Context Learning (ICL)]]`
-> 2.  `[[Retrieval-Augmented Generation (RAG)]]`
+> 2.  `[[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]`
 > 3.  `[[Prompt Injection]]`
 
 #### 24. [QUESTION] Untitled *(Line 326)*
@@ -375,17 +375,17 @@ extraction_summary:
 ### Unique Targets
 
 - [[In-Context Learning (ICL)]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Prompt Injection]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Management (PKM)]] | — | — | 6.1 The User as the Architect: From P... | 234 |
+| 1 | [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]] | — | — | 6.1 The User as the Architect: From P... | 234 |
 | 2 | [[In-Context Learning (ICL)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 322 |
-| 3 | [[Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 323 |
+| 3 | [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]] | — | — | 9. 🧠Key Questions for Active Reading ... | 323 |
 | 4 | [[Prompt Injection]] | — | — | 9. 🧠Key Questions for Active Reading ... | 324 |
 
 ---
@@ -424,9 +424,9 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[In-Context Learning (ICL)]]
-- [[Personal Knowledge Management (PKM)]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management (PKM)]]
 - [[Prompt Injection]]
-- [[Retrieval-Augmented Generation (RAG)]]
+- [[Retrieval-Augmented-Generation-RAG-—-Artificial-Intelligence-Information-Retriev|Retrieval-Augmented Generation (RAG)]]
 
 ---
 

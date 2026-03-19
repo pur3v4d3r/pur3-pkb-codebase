@@ -369,7 +369,7 @@ extraction_summary:
 
 - [[Chrysippus]]
 - [[Cognitive Behavioral Therapy]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Logos]]
@@ -415,10 +415,10 @@ extraction_summary:
 | 17 | [[Epictetus]] | — | — | 2. Justice (Dikaiosyne) | 319 |
 | 18 | [[Marcus Aurelius]] | — | — | 2. Justice (Dikaiosyne) | 319 |
 | 19 | [[Seneca]] | — | — | 4. Temperance (Sophrosyne) | 356 |
-| 20 | [[Dichotomy of Control]] | — | — | Part 4: The Unity of the Virtues and ... | 373 |
+| 20 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 4: The Unity of the Virtues and ... | 373 |
 | 21 | [[Epictetus]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 22 | [[Prohairesis]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
-| 23 | [[Dichotomy of Control]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
+| 23 | [[Dichotomy-of-Control|Dichotomy of Control]] | — | — | Part 5: Prohairesis — The Architectur... | 385 |
 | 24 | [[Cognitive Behavioral Therapy]] | — | — | Part 7: Stoicism and the Science of M... | 459 |
 | 25 | [[Marcus Aurelius]] | — | — | Case 1: Marcus Aurelius and the Unity... | 467 |
 | 26 | [[Epictetus]] | — | — | Case 2: Epictetus and the Radical Fre... | 480 |
@@ -474,7 +474,7 @@ extraction_summary:
 
 - [[Chrysippus]]
 - [[Cognitive Behavioral Therapy]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Logos]]
@@ -515,7 +515,7 @@ extraction_summary:
 - [[Virtue Ethics]]
 - [[Aristotle]]
 - [[Eudaimonia]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Prohairesis]]
 - [[Logos]]
 
@@ -539,7 +539,7 @@ extraction_summary:
 
 - [[Aristotelian Virtue Ethics]]
 - [[Cognitive Behavioral Therapy]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Positive Psychology]]
 - [[Mindfulness]]
 

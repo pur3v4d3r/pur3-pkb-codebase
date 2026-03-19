@@ -170,7 +170,7 @@ extraction_summary:
 #### 4. [KEY-CLAIM] The Relative Autonomy Index *(Line 304)*
 
 > [!key-claim] The Relative Autonomy Index
-> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative-Autonomy-Index|Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
 
 #### 5. [DEFINITION] Internalization *(Line 311)*
 
@@ -347,15 +347,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — OIT is a sub-theory of SDT and this report extends the foundational SDT treatment in a specific direction. Where the SDT Foundational Report maps the full theoretical landscape including all six mini-theories, this analysis drills into OIT's mechanism with a depth the foundational report cannot provide. The bidirectional connection is important: SDT's Basic Psychological Needs Theory provides OIT's mechanistic substrate (need satisfaction enables internalization), while OIT provides the granular account of what happens within the extrinsic motivation domain that BPNT's more general framework leaves underspecified.
 > 
-> - **[[Self-Regulated Learning]]** — OIT and [[Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — OIT and [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] (SRL) address adjacent but distinct phenomena with significant intersection. SRL describes the cognitive and metacognitive processes through which learners regulate their own learning; OIT describes the motivational substrate that makes those processes function optimally. Autonomously-motivated learners (identified/integrated) engage in qualitatively different self-regulatory processes than controlled-motivation learners — deeper processing strategies, more adaptive help-seeking, less defensive reactions to failure. The PKB connection runs in both directions: OIT explains *why* certain SRL processes are available only to autonomously-motivated learners, while SRL theory specifies the *cognitive mechanisms* through which autonomous motivation produces better learning outcomes. A future connection note between these two reports could develop the concept of "motivational-regulatory coherence" — the degree to which a learner's regulatory style and self-regulatory strategy are mutually supportive.
 > 
-> - **[[Cognitive Load Theory]]** — The connection between OIT and [[Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — The connection between OIT and [[Cognitive-Load-Theory|Cognitive Load Theory]] (CLT) is less obvious but analytically rich. CLT addresses the constraints of working memory and how instructional design can minimize extraneous cognitive load. OIT's framework suggests an additional dimension: controlled motivation may itself generate cognitive load — the monitoring of one's own performance for approval-contingent self-worth (introjection), or the vigilance around external surveillance (external regulation) — that competes with genuine learning. An autonomously-motivated learner may have more working memory capacity available for processing because they are not simultaneously monitoring the evaluative implications of their performance. This connection between motivational load and cognitive load is underexplored in both literatures and represents a genuinely novel integration opportunity.
 > 
 > - **[[Psychological Safety]]** — [[Amy Edmondson's]] work on psychological safety describes the conditions under which people feel safe to take interpersonal risks — to speak up, admit mistakes, try new things. The overlap with OIT's autonomy-supportive environment is substantial: psychologically safe environments tend also to be autonomy-supportive, and the mechanisms are related (reducing threat, supporting the experience of agency). A focused connection note would examine whether psychological safety is a necessary condition for internalization progress, particularly for learners in introjected regulation whose self-worth is at stake in performance contexts.
 > 
-> - **[[Growth Mindset]]** — [[Dweck's]] growth mindset framework describes beliefs about the malleability of intelligence and abilities. The connection to OIT runs through the concept of contingent self-worth: individuals in introjected regulation frequently operate with performance-as-self-worth equations that are structurally identical to the fixed-mindset position. Growth mindset interventions that successfully decouple performance from self-worth may, by OIT's account, be reducing introjection — freeing the person to engage at an identified or integrated level because failure no longer threatens the self.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — [[Dweck's]] growth mindset framework describes beliefs about the malleability of intelligence and abilities. The connection to OIT runs through the concept of contingent self-worth: individuals in introjected regulation frequently operate with performance-as-self-worth equations that are structurally identical to the fixed-mindset position. Growth mindset interventions that successfully decouple performance from self-worth may, by OIT's account, be reducing introjection — freeing the person to engage at an identified or integrated level because failure no longer threatens the self.
 > 
 > **Cross-Report Links:**
 > 
@@ -532,11 +532,11 @@ extraction_summary:
 - [[Bart Soenens]]
 - [[Basic Psychological Needs Theory]]
 - [[Claude Sonnet 4.6]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competence]]
 - [[Conditional Regard and the Introjection Trap]]
-- [[Conditional regard]]
+- [[Conditional-Regard|Conditional regard]]
 - [[Deci & Ryan]]
 - [[Deci, Connell, & Ryan (1989)]]
 - [[Dweck's]]
@@ -544,30 +544,30 @@ extraction_summary:
 - [[Focused Analysis Report Generator v1.0]]
 - [[Gamification Through an OIT Lens]]
 - [[Grolnick & Ryan (1989)]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Johnmarshall Reeve's]]
 - [[Koestner et al. (1984)]]
 - [[Maarten Vansteenkiste]]
 - [[Motivational Interviewing]]
 - [[Motivational Interviewing as Applied OIT]]
 - [[OIT Across Cultures — Universality and Variation]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety]]
 - [[Relatedness]]
-- [[Relative Autonomy Index]]
-- [[Self-Determination Theory]]
+- [[Relative-Autonomy-Index|Relative Autonomy Index]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Foundational Report]]
 - [[Soenens & Vansteenkiste (2011)]]
 - [[Vansteenkiste, Lens, & Deci (2006)]]
 - [[Vygotsky's Zone of Proximal Development]]
 - [[Williams et al. (2009)]]
 - [[Williams, Deci, and colleagues]]
-- [[autonomy support]]
+- [[Autonomy-Support|autonomy support]]
 - [[integration]]
 - [[internalization]]
-- [[intrinsic motivation]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
 - [[perceived choice]]
 - [[quality-over-quantity heuristic]]
 - [[relative autonomy]]
@@ -577,14 +577,14 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Organismic Integration Theory]] | — | — | The Paradox of Owned Values | 257 |
-| 2 | [[Self-Determination Theory]] | — | — | The Paradox of Owned Values | 257 |
-| 3 | [[Cognitive Evaluation Theory]] | — | — | The Paradox of Owned Values | 257 |
-| 4 | [[intrinsic motivation]] | — | — | The Paradox of Owned Values | 257 |
-| 5 | [[Self-Determination Theory]] | — | — | The Paradox of Owned Values | 259 |
+| 1 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | The Paradox of Owned Values | 257 |
+| 2 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Paradox of Owned Values | 257 |
+| 3 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Paradox of Owned Values | 257 |
+| 4 | [[Intrinsic-Motivation|intrinsic motivation]] | — | — | The Paradox of Owned Values | 257 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Paradox of Owned Values | 259 |
 | 6 | [[self-determination]] | — | — | The Regulatory Continuum | 282 |
 | 7 | [[relative autonomy]] | — | — | The Regulatory Continuum | 282 |
-| 8 | [[Relative Autonomy Index]] | — | — | The Regulatory Continuum | 305 |
+| 8 | [[Relative-Autonomy-Index|Relative Autonomy Index]] | — | — | The Regulatory Continuum | 305 |
 | 9 | [[internalization]] | — | — | Internalization vs. Integration: The ... | 309 |
 | 10 | [[integration]] | — | — | Internalization vs. Integration: The ... | 309 |
 | 11 | [[Bart Soenens]] | — | — | Internalization vs. Integration: The ... | 317 |
@@ -593,33 +593,33 @@ extraction_summary:
 | 14 | [[Deci, Connell, & Ryan (1989)]] | — | — | The Basic Empirical Claim | 350 |
 | 15 | [[Grolnick & Ryan (1989)]] | — | — | The Basic Empirical Claim | 350 |
 | 16 | [[Williams, Deci, and colleagues]] | — | — | The Basic Empirical Claim | 353 |
-| 17 | [[Relative Autonomy Index]] | — | — | The Quantity vs. Quality Question | 359 |
+| 17 | [[Relative-Autonomy-Index|Relative Autonomy Index]] | — | — | The Quantity vs. Quality Question | 359 |
 | 18 | [[Assor & Roth (2002)]] | — | — | The Introjection Anomaly | 371 |
 | 19 | [[Soenens & Vansteenkiste (2011)]] | — | — | Cross-Cultural Evidence and Universality | 382 |
 | 20 | [[Basic Psychological Needs Theory]] | — | — | The Need-Satisfaction Prerequisite | 401 |
 | 21 | [[Autonomy]] | — | — | The Need-Satisfaction Prerequisite | 403 |
 | 22 | [[Competence]] | — | — | The Need-Satisfaction Prerequisite | 404 |
 | 23 | [[Relatedness]] | — | — | The Need-Satisfaction Prerequisite | 405 |
-| 24 | [[autonomy support]] | — | — | What Autonomy Support Actually Does | 416 |
+| 24 | [[Autonomy-Support|autonomy support]] | — | — | What Autonomy Support Actually Does | 416 |
 | 25 | [[Johnmarshall Reeve's]] | — | — | What Autonomy Support Actually Does | 421 |
 | 26 | [[Vygotsky's Zone of Proximal Development]] | — | — | What Autonomy Support Actually Does | 424 |
 | 27 | [[perceived choice]] | — | — | The Role of Perceived Volitional Nece... | 428 |
-| 28 | [[Cognitive Evaluation Theory]] | — | — | The Role of Perceived Volitional Nece... | 430 |
+| 28 | [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] | — | — | The Role of Perceived Volitional Nece... | 430 |
 | 29 | [[Koestner et al. (1984)]] | — | — | The Role of Perceived Volitional Nece... | 433 |
 | 30 | [[Assor, Kaplan, & Roth (2002)]] | — | — | The Role of Perceived Volitional Nece... | 433 |
-| 31 | [[Conditional regard]] | — | — | The Introjection Trap in Learning Con... | 449 |
+| 31 | [[Conditional-Regard|Conditional regard]] | — | — | The Introjection Trap in Learning Con... | 449 |
 | 32 | [[quality-over-quantity heuristic]] | — | — | Direct Implications of the Analysis | 470 |
 | 33 | [[Vansteenkiste, Lens, & Deci (2006)]] | — | — | Applications in Instructional Design | 478 |
 | 34 | [[Motivational Interviewing]] | — | — | Health Behavior Applications | 491 |
 | 35 | [[Williams et al. (2009)]] | — | — | Health Behavior Applications | 493 |
-| 36 | [[Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 565 |
-| 37 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
-| 38 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
-| 39 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 569 |
-| 40 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 569 |
+| 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 565 |
+| 37 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
+| 38 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 567 |
+| 39 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 569 |
+| 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 569 |
 | 41 | [[Psychological Safety]] | — | — | Phase VII: PKB Connections & Cross-Re... | 571 |
 | 42 | [[Amy Edmondson's]] | — | — | Phase VII: PKB Connections & Cross-Re... | 571 |
-| 43 | [[Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
+| 43 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
 | 44 | [[Dweck's]] | — | — | Phase VII: PKB Connections & Cross-Re... | 573 |
 | 45 | [[Self-Determination Theory — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 577 |
 | 46 | [[Self-Regulated Learning — Foundational Report]] | — | — | Phase VII: PKB Connections & Cross-Re... | 579 |
@@ -649,11 +649,11 @@ extraction_summary:
 - [[Bart Soenens]]
 - [[Basic Psychological Needs Theory]]
 - [[Claude Sonnet 4.6]]
-- [[Cognitive Evaluation Theory]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Competence]]
 - [[Conditional Regard and the Introjection Trap]]
-- [[Conditional regard]]
+- [[Conditional-Regard|Conditional regard]]
 - [[Deci & Ryan]]
 - [[Deci, Connell, & Ryan (1989)]]
 - [[Dweck's]]
@@ -661,30 +661,30 @@ extraction_summary:
 - [[Focused Analysis Report Generator v1.0]]
 - [[Gamification Through an OIT Lens]]
 - [[Grolnick & Ryan (1989)]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Johnmarshall Reeve's]]
 - [[Koestner et al. (1984)]]
 - [[Maarten Vansteenkiste]]
 - [[Motivational Interviewing]]
 - [[Motivational Interviewing as Applied OIT]]
 - [[OIT Across Cultures — Universality and Variation]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[Psychological Safety]]
 - [[Relatedness]]
-- [[Relative Autonomy Index]]
-- [[Self-Determination Theory]]
+- [[Relative-Autonomy-Index|Relative Autonomy Index]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Determination Theory — Foundational Report]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulated Learning — Foundational Report]]
 - [[Soenens & Vansteenkiste (2011)]]
 - [[Vansteenkiste, Lens, & Deci (2006)]]
 - [[Vygotsky's Zone of Proximal Development]]
 - [[Williams et al. (2009)]]
 - [[Williams, Deci, and colleagues]]
-- [[autonomy support]]
+- [[Autonomy-Support|autonomy support]]
 - [[integration]]
 - [[internalization]]
-- [[intrinsic motivation]]
+- [[Intrinsic-Motivation|intrinsic motivation]]
 - [[perceived choice]]
 - [[quality-over-quantity heuristic]]
 - [[relative autonomy]]
@@ -694,26 +694,26 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 
 #### Related
 
-- [[Self-Regulated Learning]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Evaluation Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Basic Psychological Needs Theory]]
-- [[Autonomy Support]]
+- [[Autonomy-Support|Autonomy Support]]
 - [[Identity Development Theory]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Expectancy-Value Theory]]
 
 #### Broader
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Motivational Psychology]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 
 #### Narrower
 
@@ -724,7 +724,7 @@ extraction_summary:
 #### See Also
 
 - [[Vygotsky Zone of Proximal Development]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Psychological Safety]]
 - [[Gamification]]
 
@@ -732,18 +732,18 @@ extraction_summary:
 
 - [[Behaviorist Reinforcement Theory]]
 - [[Expectancy-Value Theory]]
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 
 #### Applied In
 
-- [[Instructional Design]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
 - [[Coaching and Mentoring]]
 - [[Health Behavior Change]]
 - [[Organizational Management]]
 
 #### Builds On
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic Motivation Research (Deci 1971)]]
 - [[Basic Psychological Needs Theory]]
 

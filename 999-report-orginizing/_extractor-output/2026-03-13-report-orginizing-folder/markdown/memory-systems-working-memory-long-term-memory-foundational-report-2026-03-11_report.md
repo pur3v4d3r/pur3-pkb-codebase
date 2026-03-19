@@ -159,7 +159,7 @@ extraction_summary:
 #### 4. [DEFINITION] Short-Term Memory (STM) *(Line 296)*
 
 > [!definition] Short-Term Memory (STM)
-> In the Atkinson-Shiffrin model, a limited-capacity (~7 ± 2 chunks), brief-duration (~15–30 seconds without rehearsal) store holding information that is currently active in consciousness. Information in STM is maintained through **rehearsal** (deliberate repetition) and is lost through either decay or displacement when the capacity limit is exceeded. Transfer to long-term memory was theorised to depend on rehearsal duration, though this relationship later proved more complex. STM was conceived as a passive holding buffer, a conception later replaced by the more dynamic [[Working Memory]] model.
+> In the Atkinson-Shiffrin model, a limited-capacity (~7 ± 2 chunks), brief-duration (~15–30 seconds without rehearsal) store holding information that is currently active in consciousness. Information in STM is maintained through **rehearsal** (deliberate repetition) and is lost through either decay or displacement when the capacity limit is exceeded. Transfer to long-term memory was theorised to depend on rehearsal duration, though this relationship later proved more complex. STM was conceived as a passive holding buffer, a conception later replaced by the more dynamic [[Working-Memory|Working Memory]] model.
 
 #### 5. [DEFINITION] Long-Term Memory (LTM) *(Line 299)*
 
@@ -169,7 +169,7 @@ extraction_summary:
 #### 6. [DEFINITION] Working Memory *(Line 310)*
 
 > [!definition] Working Memory
-> A limited-capacity cognitive system responsible for the temporary maintenance and active manipulation of information in the service of complex cognitive tasks — including reasoning, comprehension, learning, and problem-solving. Unlike the passive STM of the Atkinson-Shiffrin model, working memory is inherently active and involves both storage and processing. The original Baddeley-Hitch model posited three components: the [[Phonological Loop]], the [[Visuospatial Sketchpad]], and the [[Central Executive]]. A fourth component, the [[Episodic Buffer]], was added by Baddeley in 2000. Working memory capacity is now typically assessed through *complex span tasks* (e.g., reading span, operation span) rather than simple digit span, and capacity estimates cluster around 3–4 chunks, substantially lower than Miller's original 7 ± 2.
+> A limited-capacity cognitive system responsible for the temporary maintenance and active manipulation of information in the service of complex cognitive tasks — including reasoning, comprehension, learning, and problem-solving. Unlike the passive STM of the Atkinson-Shiffrin model, working memory is inherently active and involves both storage and processing. The original Baddeley-Hitch model posited three components: the [[Phonological-Loop|Phonological Loop]], the [[Visuospatial-Sketchpad|Visuospatial Sketchpad]], and the [[Central-Executive|Central Executive]]. A fourth component, the [[Episodic-Buffer|Episodic Buffer]], was added by Baddeley in 2000. Working memory capacity is now typically assessed through *complex span tasks* (e.g., reading span, operation span) rather than simple digit span, and capacity estimates cluster around 3–4 chunks, substantially lower than Miller's original 7 ± 2.
 
 #### 7. [DEFINITION] Phonological Loop *(Line 313)*
 
@@ -283,7 +283,7 @@ extraction_summary:
 #### 28. [KEY-CLAIM] The Testing Effect (Retrieval Practice Effect) *(Line 426)*
 
 > [!key-claim] The Testing Effect (Retrieval Practice Effect)
-> One of the most robustly replicated findings in memory research is that attempting to retrieve information from memory — as opposed to simply re-reading or re-studying it — produces dramatically better long-term retention. This [[Retrieval Practice Effect]] (also called the testing effect) is not merely a performance difference; retrieval practice appears to change the memory trace itself, making it more accessible on future occasions. The mechanism is not fully understood, but leading accounts emphasise that successful retrieval strengthens the retrieval route, that retrieval requires elaborative processing that deepens encoding, and that retrieval failure followed by feedback engages error-correction mechanisms that update the trace. The testing effect has been replicated in classroom settings, with various subject matters, across age groups, and under a wide range of conditions.
+> One of the most robustly replicated findings in memory research is that attempting to retrieve information from memory — as opposed to simply re-reading or re-studying it — produces dramatically better long-term retention. This [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] (also called the testing effect) is not merely a performance difference; retrieval practice appears to change the memory trace itself, making it more accessible on future occasions. The mechanism is not fully understood, but leading accounts emphasise that successful retrieval strengthens the retrieval route, that retrieval requires elaborative processing that deepens encoding, and that retrieval failure followed by feedback engages error-correction mechanisms that update the trace. The testing effect has been replicated in classroom settings, with various subject matters, across age groups, and under a wide range of conditions.
 
 #### 29. [ASK-YOURSELF-THIS] Reconstructive Memory in Action *(Line 431)*
 
@@ -366,15 +366,15 @@ extraction_summary:
 > 
 > This report on memory systems connects to existing and anticipated PKB nodes in the following ways:
 > 
-> - **[[Cognitive Load Theory]]** — This is the direct operationalisation of the working memory model for instructional design. Where the current report establishes the theoretical architecture of working memory, Cognitive Load Theory takes the capacity limits, the distinction between intrinsic and extraneous load, and the role of schemas as its foundational axioms. The two nodes together form the essential theoretical backbone for evidence-based instructional design. A reader who has internalised the current report is fully prepared to engage with Cognitive Load Theory at a mechanistic level, understanding exactly why each pedagogical recommendation follows from the underlying memory architecture.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — This is the direct operationalisation of the working memory model for instructional design. Where the current report establishes the theoretical architecture of working memory, Cognitive Load Theory takes the capacity limits, the distinction between intrinsic and extraneous load, and the role of schemas as its foundational axioms. The two nodes together form the essential theoretical backbone for evidence-based instructional design. A reader who has internalised the current report is fully prepared to engage with Cognitive Load Theory at a mechanistic level, understanding exactly why each pedagogical recommendation follows from the underlying memory architecture.
 > 
-> - **[[Schema Theory]]** — Bartlett's original account of schemas as active knowledge structures that shape encoding and retrieval connects directly to the discussion of chunking in working memory and the role of prior knowledge in modulating effective capacity. The current report establishes that long-term memory provides the chunks that working memory operates on; Schema Theory provides the account of how those chunks are organised, how they are activated during comprehension, and why prior knowledge both enables and can distort new learning. The two nodes are mutually illuminating: memory architecture explains how schemas function; schema theory explains what the relevant units of long-term memory are.
+> - **[[Schema-Theory|Schema Theory]]** — Bartlett's original account of schemas as active knowledge structures that shape encoding and retrieval connects directly to the discussion of chunking in working memory and the role of prior knowledge in modulating effective capacity. The current report establishes that long-term memory provides the chunks that working memory operates on; Schema Theory provides the account of how those chunks are organised, how they are activated during comprehension, and why prior knowledge both enables and can distort new learning. The two nodes are mutually illuminating: memory architecture explains how schemas function; schema theory explains what the relevant units of long-term memory are.
 > 
 > - **[[Metacognition and Lifelong Learning]]** — The reconstructive character of memory documented here has direct implications for metacognitive monitoring: people are systematically overconfident in the accuracy and completeness of their memories, because the smooth, fluent reconstruction process does not carry reliable error-detection signals. The testing effect connects to metacognitive monitoring because retrieval attempts surface what is and is not actually known, correcting the illusion of knowing that re-reading produces. The current report provides the mechanistic basis for understanding why several metacognitive strategies work: monitoring (testing oneself) produces accurate assessment because it engages actual retrieval; re-reading does not because it relies on recognition rather than recall.
 > 
 > - **[[Feedback Design for Autonomy and Mastery]]** — The consolidation literature and the testing effect together have direct implications for how and when feedback should be delivered. Feedback that arrives after an effortful retrieval attempt (particularly a partially failed one) engages error-correction mechanisms that update the memory trace more powerfully than pre-emptive feedback that prevents retrieval failure altogether. This connects the memory architecture described here to the practical question of optimal feedback timing and format.
 > 
-> - **[[Achievement Goal Theory]]** — The desirable difficulties principle (which holds that conditions that increase acquisition difficulty often improve long-term retention) has a motivational shadow: the effortful processing that produces the best memory outcomes is precisely the processing that learners are most likely to abandon when they adopt a performance goal orientation and interpret difficulty as evidence of inadequacy. Achievement goal theory's distinction between mastery and performance orientations maps onto a practical tension in applying memory science to educational contexts.
+> - **[[Achievement-Goal-Theory|Achievement Goal Theory]]** — The desirable difficulties principle (which holds that conditions that increase acquisition difficulty often improve long-term retention) has a motivational shadow: the effortful processing that produces the best memory outcomes is precisely the processing that learners are most likely to abandon when they adopt a performance goal orientation and interpret difficulty as evidence of inadequacy. Achievement goal theory's distinction between mastery and performance orientations maps onto a practical tension in applying memory science to educational contexts.
 > 
 > The pattern of these connections reveals that the memory architecture described in this report functions as a fulcrum node in the learning sciences PKB — the theoretical foundation that gives mechanistic grounding to Cognitive Load Theory, Schema Theory, and a range of practically-oriented findings about learning strategies. It cannot be understood properly without attention to motivation (which determines engagement quality and thus encoding depth) or without metacognition (which determines whether the learner accurately assesses the state of their own memory), and it in turn makes those adjacent topics more explanatorily tractable.
 
@@ -486,7 +486,7 @@ extraction_summary:
 #### 63. [FURTHER-EXPLORATION] Deepening Your Practice *(Line 615)*
 
 > [!further-exploration] Deepening Your Practice
-> > [!topic-idea] [[Cognitive Load Theory]]
+> > [!topic-idea] [[Cognitive-Load-Theory|Cognitive Load Theory]]
 > > **Priority: High.** This is the most direct application of the working memory model to instructional design and the single most important theoretical framework connecting memory science to pedagogy. A foundational report would cover Sweller's original formulation, the three-load taxonomy (intrinsic, extraneous, germane), the major instructional effects (worked example effect, split-attention effect, modality effect, redundancy effect, expertise reversal effect), and the most recent revisions to the model. Understanding Cognitive Load Theory at a mechanistic level requires the memory architecture established in the current report; it is the natural and necessary next node in the PKB for anyone working in learning science or instructional design.
 > 
 > > [!topic-idea] [[Retrieval Practice and the Testing Effect]]
@@ -517,27 +517,27 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Adele Diamond]]
 - [[Akira Miyake and colleagues]]
-- [[Alan Baddeley]]
+- [[Alan-Baddeley|Alan Baddeley]]
 - [[Amygdala]]
 - [[Basal Ganglia]]
-- [[Central Executive]]
-- [[Cognitive Load Theory]]
+- [[Central-Executive|Central Executive]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Daniel Willingham]]
-- [[David Rumelhart]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Donald Thomson]]
 - [[Ebbinghaus]]
 - [[Echoic Memory]]
 - [[Elizabeth Loftus]]
 - [[Emotional Memory]]
 - [[Endel Tulving]]
-- [[Episodic Buffer]]
+- [[Episodic-Buffer|Episodic Buffer]]
 - [[Everyday Memory]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Fergus Craik]]
-- [[Forgetting Curve]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting: Decay, Interference, and Retrieval Failure]]
 - [[Foundational Report Generator v1.0]]
 - [[Frederic Bartlett]]
@@ -551,7 +551,7 @@ extraction_summary:
 - [[Jorge Luis Borges]]
 - [[Larry Squire]]
 - [[Levels of Processing Theory]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Lynn Nadel]]
 - [[Metacognition and Lifelong Learning]]
 - [[Miyake and colleagues]]
@@ -560,22 +560,22 @@ extraction_summary:
 - [[Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman and Shallice]]
-- [[Phonological Loop]]
-- [[Retrieval Practice Effect]]
+- [[Phonological-Loop|Phonological Loop]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval Practice and the Testing Effect]]
 - [[Richard Atkinson]]
 - [[Richard Shiffrin]]
 - [[Robert Bjork]]
 - [[Robert Lockhart]]
 - [[Savings in Relearning]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
 - [[Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
 - [[Ulric Neisser]]
-- [[Visuospatial Sketchpad]]
-- [[Working Memory]]
+- [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
+- [[Working-Memory|Working Memory]]
 - [[g]]
 - [[von Restorff Effect]]
 
@@ -583,37 +583,37 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Working Memory]] | — | — | Phase I: Orientation & Context Setting | 266 |
-| 2 | [[Long-Term Memory]] | — | — | Phase I: Orientation & Context Setting | 266 |
+| 1 | [[Working-Memory|Working Memory]] | — | — | Phase I: Orientation & Context Setting | 266 |
+| 2 | [[Long-Term-Memory|Long-Term Memory]] | — | — | Phase I: Orientation & Context Setting | 266 |
 | 3 | [[Hermann Ebbinghaus]] | — | — | Phase I: Orientation & Context Setting | 268 |
-| 4 | [[Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 4 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 5 | [[Retrieval Practice and the Testing Effect]] | — | — | Phase I: Orientation & Context Setting | 270 |
-| 6 | [[Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
+| 6 | [[Schema-Theory|Schema Theory]] | — | — | Phase I: Orientation & Context Setting | 270 |
 | 7 | [[Hermann Ebbinghaus]] | — | — | The Intellectual Genealogy of Memory ... | 280 |
-| 8 | [[Forgetting Curve]] | — | — | The Intellectual Genealogy of Memory ... | 280 |
+| 8 | [[Forgetting-Curve|Forgetting Curve]] | — | — | The Intellectual Genealogy of Memory ... | 280 |
 | 9 | [[Savings in Relearning]] | — | — | The Intellectual Genealogy of Memory ... | 282 |
 | 10 | [[George Miller]] | — | — | The Intellectual Genealogy of Memory ... | 284 |
 | 11 | [[Richard Atkinson]] | — | — | The Multi-Store Model: The Foundation... | 291 |
 | 12 | [[Richard Shiffrin]] | — | — | The Multi-Store Model: The Foundation... | 291 |
 | 13 | [[Iconic Memory]] | — | — | The Multi-Store Model: The Foundation... | 294 |
 | 14 | [[Echoic Memory]] | — | — | The Multi-Store Model: The Foundation... | 294 |
-| 15 | [[Working Memory]] | — | — | The Multi-Store Model: The Foundation... | 297 |
-| 16 | [[Alan Baddeley]] | — | — | The Working Memory Revolution | 306 |
+| 15 | [[Working-Memory|Working Memory]] | — | — | The Multi-Store Model: The Foundation... | 297 |
+| 16 | [[Alan-Baddeley|Alan Baddeley]] | — | — | The Working Memory Revolution | 306 |
 | 17 | [[Graham Hitch]] | — | — | The Working Memory Revolution | 306 |
-| 18 | [[Phonological Loop]] | — | — | The Working Memory Revolution | 311 |
-| 19 | [[Visuospatial Sketchpad]] | — | — | The Working Memory Revolution | 311 |
-| 20 | [[Central Executive]] | — | — | The Working Memory Revolution | 311 |
-| 21 | [[Episodic Buffer]] | — | — | The Working Memory Revolution | 311 |
+| 18 | [[Phonological-Loop|Phonological Loop]] | — | — | The Working Memory Revolution | 311 |
+| 19 | [[Visuospatial-Sketchpad|Visuospatial Sketchpad]] | — | — | The Working Memory Revolution | 311 |
+| 20 | [[Central-Executive|Central Executive]] | — | — | The Working Memory Revolution | 311 |
+| 21 | [[Episodic-Buffer|Episodic Buffer]] | — | — | The Working Memory Revolution | 311 |
 | 22 | [[Norman and Shallice]] | — | — | The Working Memory Revolution | 320 |
 | 23 | [[Endel Tulving]] | — | — | The Long-Term Memory Taxonomy | 332 |
 | 24 | [[Hippocampus]] | — | — | The Long-Term Memory Taxonomy | 335 |
-| 25 | [[Central Executive]] | — | — | The Dominance and Limits of the Worki... | 357 |
+| 25 | [[Central-Executive|Central Executive]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 26 | [[Norman and Shallice]] | — | — | The Dominance and Limits of the Worki... | 357 |
 | 27 | [[Miyake and colleagues]] | — | — | The Dominance and Limits of the Worki... | 357 |
-| 28 | [[Long-Term Memory]] | — | — | The Dominance and Limits of the Worki... | 359 |
-| 29 | [[Schema Theory]] | — | — | The Dominance and Limits of the Worki... | 359 |
+| 28 | [[Long-Term-Memory|Long-Term Memory]] | — | — | The Dominance and Limits of the Worki... | 359 |
+| 29 | [[Schema-Theory|Schema Theory]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 30 | [[Frederic Bartlett]] | — | — | The Dominance and Limits of the Worki... | 359 |
-| 31 | [[David Rumelhart]] | — | — | The Dominance and Limits of the Worki... | 359 |
+| 31 | [[David-Rumelhart|David Rumelhart]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 32 | [[Jean Piaget]] | — | — | The Dominance and Limits of the Worki... | 359 |
 | 33 | [[Nelson Cowan]] | — | — | The Dominance and Limits of the Worki... | 362 |
 | 34 | [[Larry Squire]] | — | — | The Multiple Memory Systems Framework | 366 |
@@ -627,15 +627,15 @@ extraction_summary:
 | 42 | [[Robert Lockhart]] | — | — | Encoding: How Information Enters Memory | 403 |
 | 43 | [[Endel Tulving]] | — | — | Encoding: How Information Enters Memory | 406 |
 | 44 | [[Donald Thomson]] | — | — | Encoding: How Information Enters Memory | 406 |
-| 45 | [[Cognitive Load Theory]] | — | — | Encoding: How Information Enters Memory | 408 |
+| 45 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Encoding: How Information Enters Memory | 408 |
 | 46 | [[von Restorff Effect]] | — | — | Encoding: How Information Enters Memory | 411 |
 | 47 | [[Emotional Memory]] | — | — | Encoding: How Information Enters Memory | 411 |
-| 48 | [[Phonological Loop]] | — | — | Maintenance: How Working Memory Keeps... | 415 |
-| 49 | [[Retrieval Practice Effect]] | — | — | Retrieval: How Memories Are Accessed | 427 |
+| 48 | [[Phonological-Loop|Phonological Loop]] | — | — | Maintenance: How Working Memory Keeps... | 415 |
+| 49 | [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] | — | — | Retrieval: How Memories Are Accessed | 427 |
 | 50 | [[Tip-of-the-Tongue Phenomenon]] | — | — | Retrieval: How Memories Are Accessed | 429 |
 | 51 | [[Jorge Luis Borges]] | — | — | Forgetting: The Necessary Cost | 436 |
 | 52 | [[Ebbinghaus]] | — | — | Forgetting: The Necessary Cost | 440 |
-| 53 | [[Cognitive Load Theory]] | — | — | Working Memory Capacity and Learning | 453 |
+| 53 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Working Memory Capacity and Learning | 453 |
 | 54 | [[John Sweller]] | — | — | Working Memory Capacity and Learning | 453 |
 | 55 | [[Robert Bjork]] | — | — | Working Memory Capacity and Learning | 461 |
 | 56 | [[Elizabeth Loftus]] | — | — | Common Misconceptions | 469 |
@@ -646,12 +646,12 @@ extraction_summary:
 | 61 | [[Daniel Willingham]] | — | — | What Memory Science Reveals | 510 |
 | 62 | [[g]] | — | — | Unresolved Questions | 517 |
 | 63 | [[Multiple Trace Theory]] | — | — | Unresolved Questions | 517 |
-| 64 | [[Cognitive Load Theory]] | — | — | Unresolved Questions | 524 |
-| 65 | [[Schema Theory]] | — | — | Unresolved Questions | 526 |
+| 64 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 524 |
+| 65 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 526 |
 | 66 | [[Metacognition and Lifelong Learning]] | — | — | Unresolved Questions | 528 |
 | 67 | [[Feedback Design for Autonomy and Mastery]] | — | — | Unresolved Questions | 530 |
-| 68 | [[Achievement Goal Theory]] | — | — | Unresolved Questions | 532 |
-| 69 | [[Cognitive Load Theory]] | — | — | D. Expansion Topics | 617 |
+| 68 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Unresolved Questions | 532 |
+| 69 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | D. Expansion Topics | 617 |
 | 70 | [[Retrieval Practice and the Testing Effect]] | — | — | D. Expansion Topics | 620 |
 | 71 | [[Levels of Processing Theory]] | — | — | D. Expansion Topics | 623 |
 | 72 | [[Spacing Effect and Distributed Practice]] | — | — | D. Expansion Topics | 626 |
@@ -669,27 +669,27 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Adele Diamond]]
 - [[Akira Miyake and colleagues]]
-- [[Alan Baddeley]]
+- [[Alan-Baddeley|Alan Baddeley]]
 - [[Amygdala]]
 - [[Basal Ganglia]]
-- [[Central Executive]]
-- [[Cognitive Load Theory]]
+- [[Central-Executive|Central Executive]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Daniel Willingham]]
-- [[David Rumelhart]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Donald Thomson]]
 - [[Ebbinghaus]]
 - [[Echoic Memory]]
 - [[Elizabeth Loftus]]
 - [[Emotional Memory]]
 - [[Endel Tulving]]
-- [[Episodic Buffer]]
+- [[Episodic-Buffer|Episodic Buffer]]
 - [[Everyday Memory]]
 - [[Feedback Design for Autonomy and Mastery]]
 - [[Fergus Craik]]
-- [[Forgetting Curve]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting: Decay, Interference, and Retrieval Failure]]
 - [[Foundational Report Generator v1.0]]
 - [[Frederic Bartlett]]
@@ -703,7 +703,7 @@ extraction_summary:
 - [[Jorge Luis Borges]]
 - [[Larry Squire]]
 - [[Levels of Processing Theory]]
-- [[Long-Term Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
 - [[Lynn Nadel]]
 - [[Metacognition and Lifelong Learning]]
 - [[Miyake and colleagues]]
@@ -712,22 +712,22 @@ extraction_summary:
 - [[Nelson Cowan]]
 - [[Neuroscience of Memory: Hippocampus, Synaptic Plasticity, and LTP]]
 - [[Norman and Shallice]]
-- [[Phonological Loop]]
-- [[Retrieval Practice Effect]]
+- [[Phonological-Loop|Phonological Loop]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval Practice and the Testing Effect]]
 - [[Richard Atkinson]]
 - [[Richard Shiffrin]]
 - [[Robert Bjork]]
 - [[Robert Lockhart]]
 - [[Savings in Relearning]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Sleep and Memory Consolidation]]
 - [[Spacing Effect and Distributed Practice]]
 - [[Standard Model of Consolidation]]
 - [[Tip-of-the-Tongue Phenomenon]]
 - [[Ulric Neisser]]
-- [[Visuospatial Sketchpad]]
-- [[Working Memory]]
+- [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
+- [[Working-Memory|Working Memory]]
 - [[g]]
 - [[von Restorff Effect]]
 
@@ -740,8 +740,8 @@ extraction_summary:
 
 #### Related
 
-- [[Cognitive Load Theory]]
-- [[Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Retrieval Practice and the Testing Effect]]
 - [[Levels of Processing Theory]]
 - [[Metacognition and Lifelong Learning]]
@@ -749,16 +749,16 @@ extraction_summary:
 
 #### Broader
 
-- [[Cognitive Psychology]]
-- [[Cognitive Architecture]]
+- [[Cognitive-Psychology|Cognitive Psychology]]
+- [[Cognitive-Architecture|Cognitive Architecture]]
 - [[Learning Science]]
 
 #### Narrower
 
-- [[Phonological Loop]]
-- [[Visuospatial Sketchpad]]
-- [[Central Executive]]
-- [[Episodic Buffer]]
+- [[Phonological-Loop|Phonological Loop]]
+- [[Visuospatial-Sketchpad|Visuospatial Sketchpad]]
+- [[Central-Executive|Central Executive]]
+- [[Episodic-Buffer|Episodic Buffer]]
 - [[Hippocampal Memory Consolidation]]
 - [[Procedural Memory and Skill Acquisition]]
 
@@ -776,8 +776,8 @@ extraction_summary:
 
 #### Applied In
 
-- [[Instructional Design]]
-- [[Educational Technology]]
+- [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Instructional Design]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Educational Technology]]
 - [[Clinical Neuropsychology]]
 
 #### Builds On
@@ -787,9 +787,9 @@ extraction_summary:
 
 #### Enables
 
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Retrieval Practice and the Testing Effect]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Instructional Design Principles]]
 - [[Spacing Effect and Distributed Practice]]
 

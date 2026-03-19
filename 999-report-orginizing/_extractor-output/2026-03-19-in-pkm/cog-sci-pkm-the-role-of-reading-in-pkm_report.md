@@ -142,16 +142,16 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 38)*
 
 > [!abstract] Untitled
-> Reading constitutes the primary epistemic inlet through which the human mind acquires organized, propositional knowledge from external symbolic systems. In the domain of [[Personal Knowledge Management]] (PKM), reading is not merely a preliminary step before the "real" intellectual work begins; it *is* a fundamental cognitive event whose quality, depth, and systematic treatment determines the long-term structure and utility of an individual's knowledge base. This exposition examines reading as a cognitive architecture problem, tracing the neurological and psychological mechanisms through which textual information is transformed into durable schemata, and then mapping those mechanisms onto the design principles and methodological frameworks that constitute modern PKM practice.
+> Reading constitutes the primary epistemic inlet through which the human mind acquires organized, propositional knowledge from external symbolic systems. In the domain of [[Personal-Knowledge-Management|Personal Knowledge Management]] (PKM), reading is not merely a preliminary step before the "real" intellectual work begins; it *is* a fundamental cognitive event whose quality, depth, and systematic treatment determines the long-term structure and utility of an individual's knowledge base. This exposition examines reading as a cognitive architecture problem, tracing the neurological and psychological mechanisms through which textual information is transformed into durable schemata, and then mapping those mechanisms onto the design principles and methodological frameworks that constitute modern PKM practice.
 > 
-> The central thesis defended here is that effective PKM is, at its foundation, a discipline of *reading well* — meaning reading with deliberate attention to encoding, elaboration, connection, and retrieval. Without a theory of reading grounded in cognitive science, PKM systems risk becoming sophisticated filing cabinets: vast repositories of information that never crystallize into genuine, transferable knowledge. The frameworks examined here — from Frederic [[Bartlett]]'s foundational [[Schema Theory]] to [[Niklas Luhmann]]'s [[Zettelkasten]], from [[Ebbinghaus]]'s [[Forgetting Curve]] to [[Tiago Forte]]'s [[Progressive Summarization]] — converge on a single insight: the transformation of reading into lasting knowledge demands active cognitive engagement, strategic elaboration, and temporally distributed review.
+> The central thesis defended here is that effective PKM is, at its foundation, a discipline of *reading well* — meaning reading with deliberate attention to encoding, elaboration, connection, and retrieval. Without a theory of reading grounded in cognitive science, PKM systems risk becoming sophisticated filing cabinets: vast repositories of information that never crystallize into genuine, transferable knowledge. The frameworks examined here — from Frederic [[Bartlett]]'s foundational [[Schema-Theory|Schema Theory]] to [[Niklas Luhmann]]'s [[Zettelkasten]], from [[Ebbinghaus]]'s [[Forgetting-Curve|Forgetting Curve]] to [[Tiago Forte]]'s [[Progressive-Summarization|Progressive Summarization]] — converge on a single insight: the transformation of reading into lasting knowledge demands active cognitive engagement, strategic elaboration, and temporally distributed review.
 > 
 > This note proceeds through eight phases: contextual framing, historical intellectual lineage, core theoretical principles, cognitive mechanisms, the empirical evidence base, implications for PKM system design, current frontier research, and an integrated synthesis. Throughout, wiki-links anchor each concept to its broader intellectual network, building the connective tissue appropriate to a living knowledge vault.
 
 #### 2. [DEFINITION] Untitled *(Line 51)*
 
 > [!definition] Untitled
-> **Reading Comprehension** (in the cognitive science sense): The process by which a reader integrates the propositional content of a text with pre-existing knowledge structures ([[schemata]]) held in [[long-term memory]], while simultaneously managing the attentional and computational demands imposed on [[working memory]], in order to construct a coherent [[situation model]] — an internal representation of the state of affairs described by the text. Reading comprehension is *not* the text itself; it is the mental model the reader constructs *from* the text, shaped as much by prior knowledge as by the surface features of the written language.
+> **Reading Comprehension** (in the cognitive science sense): The process by which a reader integrates the propositional content of a text with pre-existing knowledge structures ([[schemata]]) held in [[Long-Term-Memory|long-term memory]], while simultaneously managing the attentional and computational demands imposed on [[Working-Memory|working memory]], in order to construct a coherent [[Situation-Model|situation model]] — an internal representation of the state of affairs described by the text. Reading comprehension is *not* the text itself; it is the mental model the reader constructs *from* the text, shaped as much by prior knowledge as by the surface features of the written language.
 
 #### 3. [THE-PHILOSOPHY] Untitled *(Line 56)*
 
@@ -186,12 +186,12 @@ extraction_summary:
 #### 9. [ATOMIC-CONCEPT] Untitled *(Line 106)*
 
 > [!atomic-concept] Untitled
-> **[[Cognitive Load Theory]]** (Sweller, 1988) addresses the fundamental computational constraint on learning: the limited capacity of [[working memory]] to process new information at any given moment. The theory distinguishes three types of cognitive load during reading: *intrinsic* load (the inherent complexity of the material), *extraneous* load (complexity imposed by poor text design or interface friction), and *germane* load (cognitive effort devoted to schema formation and elaboration — the productive kind). Effective reading for knowledge acquisition requires minimizing extraneous load while maintaining sufficient intrinsic challenge to drive germane processing.
+> **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (Sweller, 1988) addresses the fundamental computational constraint on learning: the limited capacity of [[Working-Memory|working memory]] to process new information at any given moment. The theory distinguishes three types of cognitive load during reading: *intrinsic* load (the inherent complexity of the material), *extraneous* load (complexity imposed by poor text design or interface friction), and *germane* load (cognitive effort devoted to schema formation and elaboration — the productive kind). Effective reading for knowledge acquisition requires minimizing extraneous load while maintaining sufficient intrinsic challenge to drive germane processing.
 
 #### 10. [ATOMIC-CONCEPT] Untitled *(Line 115)*
 
 > [!atomic-concept] Untitled
-> **[[Dual Process Theory]]** (Kahneman, 2011; Evans, 2008) distinguishes two modes of cognitive processing: System 1 (fast, automatic, pattern-matching) and System 2 (slow, deliberate, effortful). Fluent reading relies heavily on System 1 processes for word recognition and syntactic parsing — skilled readers decode orthographic patterns so automatically that the decoding process itself demands minimal conscious attention. This automaticity frees System 2 resources for the genuinely demanding work of comprehension: resolving ambiguity, constructing inferences, evaluating arguments, identifying connections to prior knowledge. The key implication for PKM reading practice is that System 2 engagement — the deliberate, metacognitively regulated processing that generates durable knowledge — is effortful and finite. It must be deliberately invoked and protected from depletion.
+> **[[Dual-Process-Theory|Dual Process Theory]]** (Kahneman, 2011; Evans, 2008) distinguishes two modes of cognitive processing: System 1 (fast, automatic, pattern-matching) and System 2 (slow, deliberate, effortful). Fluent reading relies heavily on System 1 processes for word recognition and syntactic parsing — skilled readers decode orthographic patterns so automatically that the decoding process itself demands minimal conscious attention. This automaticity frees System 2 resources for the genuinely demanding work of comprehension: resolving ambiguity, constructing inferences, evaluating arguments, identifying connections to prior knowledge. The key implication for PKM reading practice is that System 2 engagement — the deliberate, metacognitively regulated processing that generates durable knowledge — is effortful and finite. It must be deliberately invoked and protected from depletion.
 
 #### 11. [EXAMPLE] Untitled *(Line 130)*
 
@@ -231,17 +231,17 @@ extraction_summary:
 #### 18. [DEFINITION] Untitled *(Line 199)*
 
 > [!definition] Untitled
-> **[[Progressive Summarization]]** (Forte, 2017): A staged compression methodology for reading-derived notes that proceeds through five layers of increasing refinement: Layer 1 (saved passages and highlights from reading), Layer 2 (bolding of most important passages within saved material), Layer 3 (highlighting of most important bolded passages), Layer 4 (an executive summary in the reader's own words at the top of the note), and Layer 5 (a personal commentary or synthesis note integrating the reading with the reader's own perspective and other notes). Each layer is completed in a separate session, distributed across time, ensuring that only the most genuinely resonant material survives to the higher layers while preserving context for future reference.
+> **[[Progressive-Summarization|Progressive Summarization]]** (Forte, 2017): A staged compression methodology for reading-derived notes that proceeds through five layers of increasing refinement: Layer 1 (saved passages and highlights from reading), Layer 2 (bolding of most important passages within saved material), Layer 3 (highlighting of most important bolded passages), Layer 4 (an executive summary in the reader's own words at the top of the note), and Layer 5 (a personal commentary or synthesis note integrating the reading with the reader's own perspective and other notes). Each layer is completed in a separate session, distributed across time, ensuring that only the most genuinely resonant material survives to the higher layers while preserving context for future reference.
 
 #### 19. [CONNECTIONS-AND-LINKS] Untitled *(Line 212)*
 
 > [!connections-and-links] Untitled
-> **Cross-Domain Integration**: The reading-as-PKM framework connects to multiple strands already developed in this vault. The [[Dual Process Theory]] discussed in Phase 3 connects to the broader vault entry on [[Cognitive Bias and System 1 Errors]]. The [[Schema Theory]] framework connects to the entry on [[John Dewey's Reflective Thinking Theory]], where schema activation maps onto Dewey's concept of "prior experience" as the substrate of reflective judgment. The [[Zettelkasten]] method connects to the vault's treatment of [[Metacognition]], since maintaining a Zettelkasten is itself a metacognitive practice — monitoring one's own understanding and externalizing the results. [[Retrieval practice]] connects to the vault entry on [[Metacognitive Awareness Inventory]], where monitoring one's own retrieval success is a key regulatory dimension of metacognitive skillfulness.
+> **Cross-Domain Integration**: The reading-as-PKM framework connects to multiple strands already developed in this vault. The [[Dual-Process-Theory|Dual Process Theory]] discussed in Phase 3 connects to the broader vault entry on [[Cognitive Bias and System 1 Errors]]. The [[Schema-Theory|Schema Theory]] framework connects to the entry on [[John Dewey's Reflective Thinking Theory]], where schema activation maps onto Dewey's concept of "prior experience" as the substrate of reflective judgment. The [[Zettelkasten]] method connects to the vault's treatment of [[Metacognition]], since maintaining a Zettelkasten is itself a metacognitive practice — monitoring one's own understanding and externalizing the results. [[Retrieval-Practice|Retrieval practice]] connects to the vault entry on [[Metacognitive Awareness Inventory]], where monitoring one's own retrieval success is a key regulatory dimension of metacognitive skillfulness.
 
 #### 20. [INSIGHT] Untitled *(Line 225)*
 
 > [!insight] Untitled
-> The [[generation effect]] — the well-documented finding that information generated by the learner is remembered better than information received — suggests that the optimal role for AI in reading-based PKM is not to replace the reader's generative processing but to *scaffold* it: generating questions for the reader to answer, surfacing related notes for the reader to evaluate and link, and providing comparison material to check the reader's reconstruction against. AI as cognitive scaffold rather than cognitive substitute preserves the desirable difficulties that drive durable encoding.
+> The [[Generation-Effect|generation effect]] — the well-documented finding that information generated by the learner is remembered better than information received — suggests that the optimal role for AI in reading-based PKM is not to replace the reader's generative processing but to *scaffold* it: generating questions for the reader to answer, surfacing related notes for the reader to evaluate and link, and providing comparison material to check the reader's reconstruction against. AI as cognitive scaffold rather than cognitive substitute preserves the desirable difficulties that drive durable encoding.
 
 #### 21. [INSIGHT] Untitled *(Line 236)*
 
@@ -260,7 +260,7 @@ extraction_summary:
 #### 23. [CONNECTIONS-AND-LINKS] Untitled *(Line 254)*
 
 > [!connections-and-links] Untitled
-> **PKB Knowledge Graph Integration**: This note connects forward to [[Schema Theory]] (comprehensive treatment of Rumelhart's and Anderson's frameworks), [[Niklas Luhmann and the Zettelkasten]], [[Spaced Repetition Algorithms]], [[Cognitive Load Theory in Educational Design]], [[Tiago Forte and Building a Second Brain]], [[Active Reading Annotation Workflows]], [[Retrieval Practice and the Testing Effect]], [[Dual Process Theory]], [[Working Memory Architecture]], and [[Transfer of Learning]]. It connects backward to existing vault entries on [[Metacognition]], [[John Dewey's Reflective Thinking Theory]], [[William James and Habit Formation]], [[Dual Process Theory]], and [[Cognitive Bias and System 1 Errors]].
+> **PKB Knowledge Graph Integration**: This note connects forward to [[Schema-Theory|Schema Theory]] (comprehensive treatment of Rumelhart's and Anderson's frameworks), [[Niklas Luhmann and the Zettelkasten]], [[Spaced Repetition Algorithms]], [[Cognitive Load Theory in Educational Design]], [[Tiago Forte and Building a Second Brain]], [[Active Reading Annotation Workflows]], [[Retrieval Practice and the Testing Effect]], [[Dual-Process-Theory|Dual Process Theory]], [[Working Memory Architecture]], and [[Transfer-of-Learning|Transfer of Learning]]. It connects backward to existing vault entries on [[Metacognition]], [[John Dewey's Reflective Thinking Theory]], [[William James and Habit Formation]], [[Dual-Process-Theory|Dual Process Theory]], and [[Cognitive Bias and System 1 Errors]].
 
 #### 24. [FURTHER-EXPLORATION] Untitled *(Line 257)*
 
@@ -358,20 +358,20 @@ extraction_summary:
 - [[Building a Second Brain]]
 - [[CODE framework]]
 - [[Cognitive Bias and System 1 Errors]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in Educational Design]]
 - [[Computational Modeling]]
 - [[Computational Models of Learning]]
 - [[Consensus]]
-- [[David Rumelhart]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Desirable Difficulties in Learning]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Elicit]]
 - [[Erasmus]]
 - [[FSRS (Free Spaced Repetition Scheduler)]]
-- [[Forgetting Curve]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Francis Bacon]]
 - [[Frederic Bartlett]]
 - [[Hebbian plasticity]]
@@ -394,19 +394,19 @@ extraction_summary:
 - [[Obsidian]]
 - [[PARA method]]
 - [[Pedagogical Implications of Neural Plasticity]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Principle of Atomicity]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Readwise]]
 - [[Readwise Reader]]
 - [[Retrieval Practice and the Testing Effect]]
-- [[Retrieval practice]]
+- [[Retrieval-Practice|Retrieval practice]]
 - [[Richard Anderson]]
 - [[Roam Research]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Situation Model Theory and Reading Comprehension]]
 - [[Spaced Repetition Algorithms]]
-- [[Spacing Effect]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Spike-Timing Dependent Plasticity]]
 - [[Synaptic Strengthening Requires Temporal Correlation of Pre- and Post-Synaptic Activity]]
 - [[Sönke Ahrens]]
@@ -414,52 +414,52 @@ extraction_summary:
 - [[The Generation Effect and Learning Efficiency]]
 - [[Tiago Forte]]
 - [[Tiago Forte and Building a Second Brain]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[William James and Habit Formation]]
 - [[Working Memory Architecture]]
 - [[Zettelkasten]]
 - [[active reading]]
 - [[commonplace book]]
-- [[desirable difficulties]]
+- [[Desirable-Difficulties|desirable difficulties]]
 - [[durable memory traces]]
-- [[embodied cognition]]
-- [[generation effect]]
+- [[Embodied-Cognition|embodied cognition]]
+- [[Generation-Effect|generation effect]]
 - [[generative processing]]
 - [[interactive model]]
 - [[levels of processing framework]]
-- [[long-term memory]]
+- [[Long-Term-Memory|long-term memory]]
 - [[long-term potentiation]]
 - [[plasticity-learning nexus]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[schema]]
 - [[schema activation]]
 - [[schema enrichment]]
 - [[schema instantiation]]
 - [[schemata]]
-- [[situation model]]
-- [[spacing effect]]
-- [[testing effect]]
+- [[Situation-Model|situation model]]
+- [[Spacing-Effect|spacing effect]]
+- [[Testing-Effect|testing effect]]
 - [[transfer problem]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Management]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 39 |
+| 1 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 39 |
 | 2 | [[Bartlett]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
-| 3 | [[Schema Theory]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
+| 3 | [[Schema-Theory|Schema Theory]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
 | 4 | [[Niklas Luhmann]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
 | 5 | [[Zettelkasten]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
 | 6 | [[Ebbinghaus]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
-| 7 | [[Forgetting Curve]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
+| 7 | [[Forgetting-Curve|Forgetting Curve]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
 | 8 | [[Tiago Forte]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
-| 9 | [[Progressive Summarization]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
-| 10 | [[Personal Knowledge Management]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 49 |
+| 9 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📖 The Role of Reading in PKM: A Cogni... | 41 |
+| 10 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 49 |
 | 11 | [[schemata]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
-| 12 | [[long-term memory]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
-| 13 | [[working memory]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
-| 14 | [[situation model]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
+| 12 | [[Long-Term-Memory|long-term memory]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
+| 13 | [[Working-Memory|working memory]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
+| 14 | [[Situation-Model|situation model]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 52 |
 | 15 | [[durable memory traces]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 62 |
 | 16 | [[schema enrichment]] | — | — | 🎼 Phase 1: Overture & Foundation — Wh... | 62 |
 | 17 | [[commonplace book]] | — | — | 📜 Phase 2: Historical Foundations — T... | 68 |
@@ -470,48 +470,48 @@ extraction_summary:
 | 22 | [[Niklas Luhmann]] | — | — | 📜 Phase 2: Historical Foundations — T... | 73 |
 | 23 | [[Zettelkasten]] | — | — | 📜 Phase 2: Historical Foundations — T... | 73 |
 | 24 | [[Hermann Ebbinghaus]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
-| 25 | [[Forgetting Curve]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
-| 26 | [[Spacing Effect]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
+| 25 | [[Forgetting-Curve|Forgetting Curve]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
+| 26 | [[Spacing-Effect|Spacing Effect]] | — | — | 📜 Phase 2: Historical Foundations — T... | 75 |
 | 27 | [[Frederic Bartlett]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 28 | [[schema]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 29 | [[Richard Anderson]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
-| 30 | [[David Rumelhart]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
+| 30 | [[David-Rumelhart|David Rumelhart]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 31 | [[Interactive Model of Reading]] | — | — | 📜 Phase 2: Historical Foundations — T... | 80 |
 | 32 | [[Tiago Forte]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
 | 33 | [[CODE framework]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
-| 34 | [[Progressive Summarization]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
+| 34 | [[Progressive-Summarization|Progressive Summarization]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
 | 35 | [[Sönke Ahrens]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
 | 36 | [[Obsidian]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
 | 37 | [[Roam Research]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
 | 38 | [[Logseq]] | — | — | 📜 Phase 2: Historical Foundations — T... | 82 |
-| 39 | [[Schema Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
-| 40 | [[Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
-| 41 | [[Dual Process Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
+| 39 | [[Schema-Theory|Schema Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
+| 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
+| 41 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🧠 Phase 3: Theoretical Architecture —... | 88 |
 | 42 | [[schemata]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 43 | [[schema activation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
 | 44 | [[schema instantiation]] | — | — | Schema Theory: Prior Knowledge as the... | 93 |
-| 45 | [[Schema Theory]] | — | — | Schema Theory: Prior Knowledge as the... | 97 |
+| 45 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: Prior Knowledge as the... | 97 |
 | 46 | [[active reading]] | — | — | Schema Theory: Prior Knowledge as the... | 102 |
 | 47 | [[Hypothesis]] | — | — | Schema Theory: Prior Knowledge as the... | 102 |
-| 48 | [[Cognitive Load Theory]] | — | — | Cognitive Load Theory: Managing the A... | 107 |
-| 49 | [[working memory]] | — | — | Cognitive Load Theory: Managing the A... | 107 |
-| 50 | [[Progressive Summarization]] | — | — | Cognitive Load Theory: Managing the A... | 109 |
+| 48 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Cognitive Load Theory: Managing the A... | 107 |
+| 49 | [[Working-Memory|working memory]] | — | — | Cognitive Load Theory: Managing the A... | 107 |
+| 50 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Cognitive Load Theory: Managing the A... | 109 |
 | 51 | [[levels of processing framework]] | — | — | Cognitive Load Theory: Managing the A... | 111 |
-| 52 | [[Dual Process Theory]] | — | — | Dual Process Theory: System 1 Decodin... | 116 |
-| 53 | [[retrieval practice]] | — | — | Dual Process Theory: System 1 Decodin... | 118 |
-| 54 | [[desirable difficulties]] | — | — | Dual Process Theory: System 1 Decodin... | 118 |
+| 52 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | Dual Process Theory: System 1 Decodin... | 116 |
+| 53 | [[Retrieval-Practice|retrieval practice]] | — | — | Dual Process Theory: System 1 Decodin... | 118 |
+| 54 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Dual Process Theory: System 1 Decodin... | 118 |
 | 55 | [[interactive model]] | — | — | The Interactive Reading Process: Bott... | 128 |
 | 56 | [[Hebbian plasticity]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 57 | [[long-term potentiation]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 58 | [[NMDA receptor]] | — | — | The Interactive Reading Process: Bott... | 131 |
 | 59 | [[plasticity-learning nexus]] | — | — | The Interactive Reading Process: Bott... | 131 |
-| 60 | [[situation model]] | — | — | Situation Model Construction and the ... | 135 |
+| 60 | [[Situation-Model|situation model]] | — | — | Situation Model Construction and the ... | 135 |
 | 61 | [[Ebbinghaus]] | — | — | The Forgetting Curve and the Spacing ... | 154 |
-| 62 | [[spacing effect]] | — | — | The Forgetting Curve and the Spacing ... | 154 |
+| 62 | [[Spacing-Effect|spacing effect]] | — | — | The Forgetting Curve and the Spacing ... | 154 |
 | 63 | [[Readwise]] | — | — | The Forgetting Curve and the Spacing ... | 159 |
 | 64 | [[Anki]] | — | — | The Forgetting Curve and the Spacing ... | 159 |
-| 65 | [[testing effect]] | — | — | Retrieval Practice: The Testing Effect | 163 |
-| 66 | [[desirable difficulties]] | — | — | Retrieval Practice: The Testing Effect | 168 |
+| 65 | [[Testing-Effect|testing effect]] | — | — | Retrieval Practice: The Testing Effect | 163 |
+| 66 | [[Desirable-Difficulties|desirable difficulties]] | — | — | Retrieval Practice: The Testing Effect | 168 |
 | 67 | [[Zettelkasten]] | — | — | The Zettelkasten: Emergent Knowledge ... | 183 |
 | 68 | [[Principle of Atomicity]] | — | — | The Zettelkasten: Emergent Knowledge ... | 186 |
 | 69 | [[Obsidian]] | — | — | The Zettelkasten: Emergent Knowledge ... | 188 |
@@ -526,46 +526,46 @@ extraction_summary:
 | 78 | [[Building a Second Brain]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 79 | [[CODE framework]] | — | — | Building a Second Brain: The CODE Fra... | 195 |
 | 80 | [[PARA method]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
-| 81 | [[Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
-| 82 | [[Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 200 |
+| 81 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 197 |
+| 82 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Building a Second Brain: The CODE Fra... | 200 |
 | 83 | [[generative processing]] | — | — | Building a Second Brain: The CODE Fra... | 204 |
 | 84 | [[Map of Content]] | — | — | The Map of Content: Structural Naviga... | 208 |
 | 85 | [[Hebbian plasticity]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 86 | [[Neuroscience]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 87 | [[Learning Theory]] | — | — | The Map of Content: Structural Naviga... | 210 |
 | 88 | [[Computational Modeling]] | — | — | The Map of Content: Structural Naviga... | 210 |
-| 89 | [[Educational Psychology]] | — | — | The Map of Content: Structural Naviga... | 210 |
-| 90 | [[Dual Process Theory]] | — | — | The Map of Content: Structural Naviga... | 213 |
+| 89 | [[Educational-Psychology|Educational Psychology]] | — | — | The Map of Content: Structural Naviga... | 210 |
+| 90 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 91 | [[Cognitive Bias and System 1 Errors]] | — | — | The Map of Content: Structural Naviga... | 213 |
-| 92 | [[Schema Theory]] | — | — | The Map of Content: Structural Naviga... | 213 |
+| 92 | [[Schema-Theory|Schema Theory]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 93 | [[John Dewey's Reflective Thinking Theory]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 94 | [[Zettelkasten]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 95 | [[Metacognition]] | — | — | The Map of Content: Structural Naviga... | 213 |
-| 96 | [[Retrieval practice]] | — | — | The Map of Content: Structural Naviga... | 213 |
+| 96 | [[Retrieval-Practice|Retrieval practice]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 97 | [[Metacognitive Awareness Inventory]] | — | — | The Map of Content: Structural Naviga... | 213 |
 | 98 | [[Readwise Reader]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
 | 99 | [[Logseq]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
 | 100 | [[Elicit]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
 | 101 | [[Consensus]] | — | — | AI-Augmented Reading and the Next Gen... | 221 |
-| 102 | [[generation effect]] | — | — | AI-Augmented Reading and the Next Gen... | 223 |
-| 103 | [[generation effect]] | — | — | AI-Augmented Reading and the Next Gen... | 226 |
+| 102 | [[Generation-Effect|generation effect]] | — | — | AI-Augmented Reading and the Next Gen... | 223 |
+| 103 | [[Generation-Effect|generation effect]] | — | — | AI-Augmented Reading and the Next Gen... | 226 |
 | 104 | [[FSRS (Free Spaced Repetition Scheduler)]] | — | — | Adaptive Learning Systems and Persona... | 230 |
 | 105 | [[transfer problem]] | — | — | The Transfer Problem: Reading Across ... | 234 |
-| 106 | [[embodied cognition]] | — | — | Embodied and Multimodal Reading | 241 |
-| 107 | [[Schema Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
+| 106 | [[Embodied-Cognition|embodied cognition]] | — | — | Embodied and Multimodal Reading | 241 |
+| 107 | [[Schema-Theory|Schema Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 108 | [[Niklas Luhmann and the Zettelkasten]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 109 | [[Spaced Repetition Algorithms]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 110 | [[Cognitive Load Theory in Educational Design]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 111 | [[Tiago Forte and Building a Second Brain]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 112 | [[Active Reading Annotation Workflows]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 113 | [[Retrieval Practice and the Testing Effect]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
-| 114 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
+| 114 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 115 | [[Working Memory Architecture]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
-| 116 | [[Transfer of Learning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
+| 116 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 117 | [[Metacognition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 118 | [[John Dewey's Reflective Thinking Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 119 | [[William James and Habit Formation]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
-| 120 | [[Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
+| 120 | [[Dual-Process-Theory|Dual Process Theory]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 121 | [[Cognitive Bias and System 1 Errors]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 255 |
 | 122 | [[The Commonplace Book Tradition]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 260 |
 | 123 | [[The Generation Effect and Learning Efficiency]] | — | — | 🎯 Phase 8: Synthesis & Conclusion — T... | 262 |
@@ -601,20 +601,20 @@ extraction_summary:
 - [[Building a Second Brain]]
 - [[CODE framework]]
 - [[Cognitive Bias and System 1 Errors]]
-- [[Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Cognitive Load Theory in Educational Design]]
 - [[Computational Modeling]]
 - [[Computational Models of Learning]]
 - [[Consensus]]
-- [[David Rumelhart]]
+- [[David-Rumelhart|David Rumelhart]]
 - [[Desirable Difficulties in Learning]]
-- [[Dual Process Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Ebbinghaus]]
-- [[Educational Psychology]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Elicit]]
 - [[Erasmus]]
 - [[FSRS (Free Spaced Repetition Scheduler)]]
-- [[Forgetting Curve]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Francis Bacon]]
 - [[Frederic Bartlett]]
 - [[Hebbian plasticity]]
@@ -637,19 +637,19 @@ extraction_summary:
 - [[Obsidian]]
 - [[PARA method]]
 - [[Pedagogical Implications of Neural Plasticity]]
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Principle of Atomicity]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Readwise]]
 - [[Readwise Reader]]
 - [[Retrieval Practice and the Testing Effect]]
-- [[Retrieval practice]]
+- [[Retrieval-Practice|Retrieval practice]]
 - [[Richard Anderson]]
 - [[Roam Research]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 - [[Situation Model Theory and Reading Comprehension]]
 - [[Spaced Repetition Algorithms]]
-- [[Spacing Effect]]
+- [[Spacing-Effect|Spacing Effect]]
 - [[Spike-Timing Dependent Plasticity]]
 - [[Synaptic Strengthening Requires Temporal Correlation of Pre- and Post-Synaptic Activity]]
 - [[Sönke Ahrens]]
@@ -657,50 +657,50 @@ extraction_summary:
 - [[The Generation Effect and Learning Efficiency]]
 - [[Tiago Forte]]
 - [[Tiago Forte and Building a Second Brain]]
-- [[Transfer of Learning]]
+- [[Transfer-of-Learning|Transfer of Learning]]
 - [[William James and Habit Formation]]
 - [[Working Memory Architecture]]
 - [[Zettelkasten]]
 - [[active reading]]
 - [[commonplace book]]
-- [[desirable difficulties]]
+- [[Desirable-Difficulties|desirable difficulties]]
 - [[durable memory traces]]
-- [[embodied cognition]]
-- [[generation effect]]
+- [[Embodied-Cognition|embodied cognition]]
+- [[Generation-Effect|generation effect]]
 - [[generative processing]]
 - [[interactive model]]
 - [[levels of processing framework]]
-- [[long-term memory]]
+- [[Long-Term-Memory|long-term memory]]
 - [[long-term potentiation]]
 - [[plasticity-learning nexus]]
-- [[retrieval practice]]
+- [[Retrieval-Practice|retrieval practice]]
 - [[schema]]
 - [[schema activation]]
 - [[schema enrichment]]
 - [[schema instantiation]]
 - [[schemata]]
-- [[situation model]]
-- [[spacing effect]]
-- [[testing effect]]
+- [[Situation-Model|situation model]]
+- [[Spacing-Effect|spacing effect]]
+- [[Testing-Effect|testing effect]]
 - [[transfer problem]]
-- [[working memory]]
+- [[Working-Memory|working memory]]
 
 ### Frontmatter Relationships
 
 #### Related Concepts
 
-- [[Schema Theory]]
-- [[Cognitive Load Theory]]
-- [[Dual Process Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Dual-Process-Theory|Dual Process Theory]]
 - [[Zettelkasten Method]]
-- [[Progressive Summarization]]
-- [[Spaced Repetition]]
-- [[Retrieval Practice]]
+- [[Progressive-Summarization|Progressive Summarization]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Building a Second Brain]]
 - [[Metacognition]]
-- [[Working Memory]]
-- [[Long-Term Memory]]
-- [[Atomic Notes]]
+- [[Working-Memory|Working Memory]]
+- [[Long-Term-Memory|Long-Term Memory]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Knowledge Graph]]
 
 ---

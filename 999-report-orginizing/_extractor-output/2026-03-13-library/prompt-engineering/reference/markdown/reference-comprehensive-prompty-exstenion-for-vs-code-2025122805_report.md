@@ -623,7 +623,7 @@ extraction_summary:
 > - [[Systems Thinking]] → maps interdependencies between tools  
 > - [[Second-Order Effects]] → anticipates ripple effects of automation  
 > - [[Constraint Theory]] → identifies bottlenecks in scripting workflows  
-> - [[Mental Models]] → supports cross-domain transfer
+> - [[Mental-Models|Mental Models]] → supports cross-domain transfer
 
 #### 47. [SUMMARY] Untitled *(Line 1152)*
 
@@ -764,7 +764,7 @@ extraction_summary:
 - [[LiteLLM]]
 - [[LiteLLM Unified API Gateway]]
 - [[Markdown]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Mistral]]
 - [[Obsidian]]
 - [[Obsidian + VS Code Dual-Editor Workflow]]
@@ -893,7 +893,7 @@ extraction_summary:
 | 93 | [[Systems Thinking]] | — | — | Section 1: PKB Integration | 1145 |
 | 94 | [[Second-Order Effects]] | — | — | Section 1: PKB Integration | 1146 |
 | 95 | [[Constraint Theory]] | — | — | Section 1: PKB Integration | 1147 |
-| 96 | [[Mental Models]] | — | — | Section 1: PKB Integration | 1148 |
+| 96 | [[Mental-Models|Mental Models]] | — | — | Section 1: PKB Integration | 1148 |
 | 97 | [[PKM]] | — | — | Section 2: Synthesis & Reflection | 1164 |
 | 98 | [[Education]] | — | — | Section 2: Synthesis & Reflection | 1165 |
 | 99 | [[Technical]] | — | — | Section 2: Synthesis & Reflection | 1166 |
@@ -1476,7 +1476,7 @@ description includes Review
 - [[LiteLLM]]
 - [[LiteLLM Unified API Gateway]]
 - [[Markdown]]
-- [[Mental Models]]
+- [[Mental-Models|Mental Models]]
 - [[Mistral]]
 - [[Obsidian]]
 - [[Obsidian + VS Code Dual-Editor Workflow]]

@@ -122,12 +122,12 @@ extraction_summary:
 #### 2. [ABSTRACT] Untitled *(Line 29)*
 
 > [!abstract] Untitled
-> The three basic psychological needs identified by [[Self-Determination Theory]] are **autonomy**, **competence**, and **relatedness**. These needs represent fundamental psychological nutrients that, when satisfied, foster intrinsic motivation, psychological growth, integration, and flourishing. Conversely, when these needs are frustrated or thwarted, individuals experience controlled regulation, diminished motivation, psychological distress, and eventual disengagement from activities. Developed through decades of empirical research by [[Edward Deci]] and [[Richard Ryan]], these needs have been validated across cultures, contexts, and developmental stages, establishing them as universal requirements for optimal human functioning. Understanding these needs provides the foundation for designing external support systems—including [[Personal Knowledge Base]] architectures—that work with rather than against human psychological architecture.
+> The three basic psychological needs identified by [[Self-Determination-Theory|Self-Determination Theory]] are **autonomy**, **competence**, and **relatedness**. These needs represent fundamental psychological nutrients that, when satisfied, foster intrinsic motivation, psychological growth, integration, and flourishing. Conversely, when these needs are frustrated or thwarted, individuals experience controlled regulation, diminished motivation, psychological distress, and eventual disengagement from activities. Developed through decades of empirical research by [[Edward Deci]] and [[Richard Ryan]], these needs have been validated across cultures, contexts, and developmental stages, establishing them as universal requirements for optimal human functioning. Understanding these needs provides the foundation for designing external support systems—including [[Personal-Knowledge-Base|Personal Knowledge Base]] architectures—that work with rather than against human psychological architecture.
 
 #### 3. [DEFINITION] Untitled *(Line 34)*
 
 > [!definition] Untitled
-> **Basic Psychological Needs** are innate, universal requirements for psychological growth, integrity, and well-being that specify the necessary conditions for intrinsic motivation and healthy development. Within [[Self-Determination Theory]], three fundamental needs have been identified: **autonomy** (experiencing volition and self-direction), **competence** (experiencing effectiveness and mastery), and **relatedness** (experiencing meaningful connection with others). These needs are not learned desires or culturally conditioned values but rather evolved psychological nutrients that all humans require to thrive.
+> **Basic Psychological Needs** are innate, universal requirements for psychological growth, integrity, and well-being that specify the necessary conditions for intrinsic motivation and healthy development. Within [[Self-Determination-Theory|Self-Determination Theory]], three fundamental needs have been identified: **autonomy** (experiencing volition and self-direction), **competence** (experiencing effectiveness and mastery), and **relatedness** (experiencing meaningful connection with others). These needs are not learned desires or culturally conditioned values but rather evolved psychological nutrients that all humans require to thrive.
 
 #### 4. [CORE-PRINCIPLE] Untitled *(Line 41)*
 
@@ -187,7 +187,7 @@ extraction_summary:
 #### 15. [CONNECTION-IDEAS] Untitled *(Line 124)*
 
 > [!connection-ideas] Untitled
-> The research on basic psychological needs provides a comprehensive theoretical framework for understanding why most [[Personal Knowledge Base]] implementations fail despite their theoretical value. The failure pattern is fundamentally psychological rather than technical: PKB systems are typically abandoned not because they lack functionality but because they fail to satisfy the basic psychological needs required to sustain voluntary, long-term engagement. Understanding need satisfaction and frustration offers a principled foundation for designing PKB architectures as **psychological scaffolds** rather than mere information repositories.
+> The research on basic psychological needs provides a comprehensive theoretical framework for understanding why most [[Personal-Knowledge-Base|Personal Knowledge Base]] implementations fail despite their theoretical value. The failure pattern is fundamentally psychological rather than technical: PKB systems are typically abandoned not because they lack functionality but because they fail to satisfy the basic psychological needs required to sustain voluntary, long-term engagement. Understanding need satisfaction and frustration offers a principled foundation for designing PKB architectures as **psychological scaffolds** rather than mere information repositories.
 
 #### 16. [WARNING] Untitled *(Line 133)*
 
@@ -240,26 +240,26 @@ extraction_summary:
 - [[Flow Theory]]
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[PKB Architecture]]
 - [[PKB Architecture Design]]
 - [[PKB Architectures]]
 - [[PKB Reward Structures]]
 - [[PKB Systems]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Self-Determination Theory]] | — | — | Document Start | 30 |
+| 1 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Document Start | 30 |
 | 2 | [[Edward Deci]] | — | — | Document Start | 30 |
 | 3 | [[Richard Ryan]] | — | — | Document Start | 30 |
-| 4 | [[Personal Knowledge Base]] | — | — | Document Start | 30 |
-| 5 | [[Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 35 |
-| 6 | [[Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 37 |
+| 4 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Document Start | 30 |
+| 5 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 35 |
+| 6 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🧠 The Theoretical Foundation of Basic... | 37 |
 | 7 | [[PKB Architecture Design]] | — | — | 💪 Autonomy: The Need for Volition and... | 53 |
 | 8 | [[Flow Theory]] | flow experiences | — | 🎯 Competence: The Need for Effectiven... | 63 |
 | 9 | [[Basic Psychological Need Theory]] | — | — | 🔬 The Dual Processes: Need Satisfacti... | 89 |
@@ -267,10 +267,10 @@ extraction_summary:
 | 11 | [[PKB Systems]] | — | — | 🏢 Applications to Knowledge Work and ... | 115 |
 | 12 | [[PKB Architecture]] | PKB architectures | — | 🏢 Applications to Knowledge Work and ... | 115 |
 | 13 | [[PKB Reward Structures]] | — | — | 🏢 Applications to Knowledge Work and ... | 120 |
-| 14 | [[Personal Knowledge Base]] | — | — | 📚 Implications for Personal Knowledge... | 125 |
+| 14 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | 📚 Implications for Personal Knowledge... | 125 |
 | 15 | [[PKB Systems]] | — | — | 📚 Implications for Personal Knowledge... | 127 |
 | 16 | [[PKB Architectures]] | — | — | 📚 Implications for Personal Knowledge... | 131 |
-| 17 | [[Organismic Integration Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 140 |
+| 17 | [[Organismic-Integration-Theory|Organismic Integration Theory]] | — | — | 🔗 Related Topics for PKB Expansion | 140 |
 | 18 | [[Autonomy Support versus Controlling Environments]] | — | — | 🔗 Related Topics for PKB Expansion | 145 |
 | 19 | [[Knowledge Hiding and Knowledge Sharing Motivations]] | — | — | 🔗 Related Topics for PKB Expansion | 150 |
 | 20 | [[Need Crafting and Job Crafting]] | — | — | 🔗 Related Topics for PKB Expansion | 155 |
@@ -356,15 +356,15 @@ Search strategy:
 - [[Flow Theory]]
 - [[Knowledge Hiding and Knowledge Sharing Motivations]]
 - [[Need Crafting and Job Crafting]]
-- [[Organismic Integration Theory]]
+- [[Organismic-Integration-Theory|Organismic Integration Theory]]
 - [[PKB Architecture]]
 - [[PKB Architecture Design]]
 - [[PKB Architectures]]
 - [[PKB Reward Structures]]
 - [[PKB Systems]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Richard Ryan]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 
 ---
 

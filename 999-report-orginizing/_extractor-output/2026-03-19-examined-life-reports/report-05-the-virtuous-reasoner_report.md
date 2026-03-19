@@ -165,7 +165,7 @@ extraction_summary:
 #### 7. [DEFINITION] 📖 Intellectual Courage *(Line 270)*
 
 > [!definition] 📖 Intellectual Courage
-> **Intellectual courage** is the disposition to follow evidence and argument where they lead, even when doing so is uncomfortable, socially costly, or psychologically threatening — to entertain uncomfortable hypotheses, to maintain unpopular positions when evidence supports them, to expose one's beliefs to genuine disconfirmation, and to voice genuine disagreement when the epistemic situation demands it. Its opposite, [[Epistemic Cowardice]] (developed by Jonathan Ichikawa), is the disposition to form or withhold beliefs based on their comfort rather than their evidential support.
+> **Intellectual courage** is the disposition to follow evidence and argument where they lead, even when doing so is uncomfortable, socially costly, or psychologically threatening — to entertain uncomfortable hypotheses, to maintain unpopular positions when evidence supports them, to expose one's beliefs to genuine disconfirmation, and to voice genuine disagreement when the epistemic situation demands it. Its opposite, [[Epistemic-Cowardice|Epistemic Cowardice]] (developed by Jonathan Ichikawa), is the disposition to form or withhold beliefs based on their comfort rather than their evidential support.
 
 #### 8. [DEFINITION] 📖 Intellectual Empathy *(Line 273)*
 
@@ -180,7 +180,7 @@ extraction_summary:
 #### 10. [DEFINITION] 📖 Intellectual Integrity *(Line 279)*
 
 > [!definition] 📖 Intellectual Integrity
-> **Intellectual integrity** is the disposition to bring the same epistemic standards to bear on all beliefs and arguments — to not apply stricter scrutiny to conclusions one dislikes than to conclusions one favors, to acknowledge when one's reasoning has been influenced by non-epistemic factors, and to pursue truth even when it conflicts with self-interest, identity, or prior commitment. It is the cognitive virtue most directly opposed to [[Motivated Reasoning]] — the disposition to reason accurately rather than directionally.
+> **Intellectual integrity** is the disposition to bring the same epistemic standards to bear on all beliefs and arguments — to not apply stricter scrutiny to conclusions one dislikes than to conclusions one favors, to acknowledge when one's reasoning has been influenced by non-epistemic factors, and to pursue truth even when it conflicts with self-interest, identity, or prior commitment. It is the cognitive virtue most directly opposed to [[Motivated-Reasoning|Motivated Reasoning]] — the disposition to reason accurately rather than directionally.
 
 #### 11. [DEFINITION] 📖 Askēsis (Stoic Practice) *(Line 288)*
 
@@ -280,7 +280,7 @@ extraction_summary:
 #### 30. [CONNECTIONS-AND-LINKS] 🔗 Report 01 *(Line 461)*
 
 > [!connections-and-links] 🔗 Report 01
-> *Report 01's* account of [[Aporic Receptivity]] — the cultivated willingness to dwell productively in confusion — is now revealed as a specific expression of intellectual courage (the courage to remain in genuine not-knowing rather than retreating to false certainty) combined with intellectual perseverance (the capacity to sustain engagement with difficulty). Aporia, the Socratic experience of felt confusion that activates inquiry, requires intellectual courage to enter and intellectual perseverance to remain within. Without the virtue infrastructure, the natural response to aporia is not productive inquiry but defensive retrieval of prior beliefs — which is precisely the confirmation bias cluster.
+> *Report 01's* account of [[Aporic-Receptivity|Aporic Receptivity]] — the cultivated willingness to dwell productively in confusion — is now revealed as a specific expression of intellectual courage (the courage to remain in genuine not-knowing rather than retreating to false certainty) combined with intellectual perseverance (the capacity to sustain engagement with difficulty). Aporia, the Socratic experience of felt confusion that activates inquiry, requires intellectual courage to enter and intellectual perseverance to remain within. Without the virtue infrastructure, the natural response to aporia is not productive inquiry but defensive retrieval of prior beliefs — which is precisely the confirmation bias cluster.
 
 #### 31. [CONNECTIONS-AND-LINKS] 🔗 Report 02 *(Line 464)*
 
@@ -290,12 +290,12 @@ extraction_summary:
 #### 32. [CONNECTIONS-AND-LINKS] 🔗 Report 03 *(Line 467)*
 
 > [!connections-and-links] 🔗 Report 03
-> *Report 03's* account of the motivational infrastructure of the examined life — [[Intrinsic Motivation]], [[Self-Determination Theory]], [[Prohairesis]] — is retroactively enriched by the recognition that the intellectual virtues *constitute* the motivational architecture of the examined life. The "will to think well" is not a single motivational state but the integrated expression of the five intellectual virtues: the will to accurately assess one's limitations (humility), the will to follow evidence wherever it leads (courage), the will to genuinely engage with other perspectives (empathy), the will to sustain inquiry through difficulty (perseverance), and the will to apply uniform epistemic standards (integrity). The virtues are not an addition to the motivational architecture — they *are* the motivational architecture, specified at the level of cognitive character.
+> *Report 03's* account of the motivational infrastructure of the examined life — [[Intrinsic-Motivation|Intrinsic Motivation]], [[Self-Determination-Theory|Self-Determination Theory]], [[Prohairesis]] — is retroactively enriched by the recognition that the intellectual virtues *constitute* the motivational architecture of the examined life. The "will to think well" is not a single motivational state but the integrated expression of the five intellectual virtues: the will to accurately assess one's limitations (humility), the will to follow evidence wherever it leads (courage), the will to genuinely engage with other perspectives (empathy), the will to sustain inquiry through difficulty (perseverance), and the will to apply uniform epistemic standards (integrity). The virtues are not an addition to the motivational architecture — they *are* the motivational architecture, specified at the level of cognitive character.
 
 #### 33. [CONNECTIONS-AND-LINKS] 🔗 Report 04 *(Line 470)*
 
 > [!connections-and-links] 🔗 Report 04
-> *Report 04's* account of [[Cognitive Scaffolding]] — building understanding at the edge of current competence — is retroactively enriched by the recognition that the virtues are what allow genuine edge-of-competence work. Constructive attentiveness requires intellectual humility (to accurately locate the edge of one's knowledge), intellectual courage (to engage with material at the limit of understanding rather than retreating to comfortable territory), and intellectual perseverance (to sustain the effortful work of genuine extension). Without the virtue infrastructure, the learner does not operate at the edge of competence — they operate in the zone of performance and avoid the zone of genuine uncertainty.
+> *Report 04's* account of [[Cognitive-Scaffolding|Cognitive Scaffolding]] — building understanding at the edge of current competence — is retroactively enriched by the recognition that the virtues are what allow genuine edge-of-competence work. Constructive attentiveness requires intellectual humility (to accurately locate the edge of one's knowledge), intellectual courage (to engage with material at the limit of understanding rather than retreating to comfortable territory), and intellectual perseverance (to sustain the effortful work of genuine extension). Without the virtue infrastructure, the learner does not operate at the edge of competence — they operate in the zone of performance and avoid the zone of genuine uncertainty.
 
 #### 34. [PRINCIPLE-POINT] 🔑 A Note on Intellectual Integrity *(Line 485)*
 
@@ -439,24 +439,24 @@ extraction_summary:
 
 - [[Actor-Observer Bias]]
 - [[Amos Tversky]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Askēsis]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Backfire Effect]]
 - [[Behavioral Signatures]]
 - [[Cognitive Bias Research]]
 - [[Cognitive Miserliness]]
-- [[Cognitive Scaffolding]]
-- [[Confirmation Bias]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Daniel Kahneman]]
 - [[Debiasing Interventions]]
 - [[Debiasing Interventions: Meta-Analysis and Design]]
 - [[Disconfirmation Bias]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epictetus]]
-- [[Epistemic Cowardice]]
+- [[Epistemic-Cowardice|Epistemic Cowardice]]
 - [[Epistemic Injustice and Collective Virtue]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethnocentrism]]
 - [[Fallibilism]]
 - [[Fundamental Attribution Error]]
@@ -464,31 +464,31 @@ extraction_summary:
 - [[Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
 - [[Identity-Protective Cognition and Science Literacy]]
-- [[Illusion of Explanatory Depth]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Intellectual Virtue Development Interventions]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Jason Baehr]]
 - [[Linda Zagzebski]]
 - [[Marcus Aurelius]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Naive Realism]]
 - [[Overconfidence Bias]]
 - [[Perspective-Taking Failures]]
 - [[Prohairesis]]
 - [[Reliabilism]]
 - [[Satisficing]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Situationist Critique]]
 - [[Situationist Critique of Virtue Ethics]]
 - [[Stoic Askēsis as Cognitive Training Protocol]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Virtue Ethics]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Ziva Kunda]]
 - [[in-group favoritism in epistemic evaluation]]
 
@@ -500,8 +500,8 @@ extraction_summary:
 | 2 | [[Daniel Kahneman]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
 | 3 | [[Amos Tversky]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 229 |
 | 4 | [[Debiasing Interventions]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 231 |
-| 5 | [[Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 233 |
-| 6 | [[Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 5 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 233 |
+| 6 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 7 | [[Linda Zagzebski]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 8 | [[Jason Baehr]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 9 | [[Heather Battaly]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
@@ -509,11 +509,11 @@ extraction_summary:
 | 11 | [[Epictetus]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 12 | [[Marcus Aurelius]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 13 | [[Cognitive Bias Research]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 14 | [[Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
+| 14 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
 | 15 | [[Ziva Kunda]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 235 |
-| 16 | [[Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 240 |
-| 17 | [[Virtue Epistemology]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
-| 18 | [[Epistemology]] | traditional epistemology | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
+| 16 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 📋 Phase I — The Premise: What Cogniti... | 240 |
+| 17 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
+| 18 | [[Epistemic-Autonomy-—-Epistemology|Epistemology]] | traditional epistemology | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
 | 19 | [[Reliabilism]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 254 |
 | 20 | [[Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
 | 21 | [[Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 257 |
@@ -521,25 +521,25 @@ extraction_summary:
 | 23 | [[Linda Zagzebski]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 259 |
 | 24 | [[Jason Baehr]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 261 |
 | 25 | [[Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
-| 26 | [[Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
-| 27 | [[Intellectual Humility]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
-| 28 | [[Intellectual Courage]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
-| 29 | [[Intellectual Empathy]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
-| 30 | [[Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
-| 31 | [[Intellectual Integrity]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
-| 32 | [[Epistemic Cowardice]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 271 |
+| 26 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 263 |
+| 27 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
+| 28 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
+| 29 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
+| 30 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
+| 31 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 265 |
+| 32 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 271 |
 | 33 | [[Heather Battaly]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 277 |
-| 34 | [[Motivated Reasoning]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 280 |
-| 35 | [[Stoic Philosophy]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 284 |
+| 34 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🏛️ Virtue Epistemology: The Architect... | 280 |
+| 35 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 284 |
 | 36 | [[Epictetus]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
 | 37 | [[Marcus Aurelius]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
 | 38 | [[Askēsis]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 286 |
-| 39 | [[Virtue Epistemology]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 293 |
+| 39 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | ⚡ The Stoic Tradition: Virtue as Trai... | 293 |
 | 40 | [[Heuristics and Biases Program]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 300 |
 | 41 | [[Overconfidence Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
-| 42 | [[Dunning-Kruger Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
-| 43 | [[Illusion of Explanatory Depth]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
-| 44 | [[Confirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
+| 42 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
+| 43 | [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 304 |
+| 44 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 45 | [[Disconfirmation Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 46 | [[Backfire Effect]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 306 |
 | 47 | [[Fundamental Attribution Error]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
@@ -547,38 +547,38 @@ extraction_summary:
 | 49 | [[Perspective-Taking Failures]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 50 | [[Ethnocentrism]] | in-group favoritism in epistemic evaluation | — | 🔬 Cognitive Bias Research: Cataloguin... | 308 |
 | 51 | [[Satisficing]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
-| 52 | [[Availability Heuristic]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
+| 52 | [[Availability-Heuristic|Availability Heuristic]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
 | 53 | [[Cognitive Miserliness]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 310 |
 | 54 | [[Ziva Kunda]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
-| 55 | [[Motivated Reasoning]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
+| 55 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 56 | [[Actor-Observer Bias]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 57 | [[Identity-Protective Cognition]] | — | — | 🔬 Cognitive Bias Research: Cataloguin... | 312 |
 | 58 | [[Situationist Critique]] | — | — | ⚖️ Conceptual Tension: Character Trai... | 342 |
 | 59 | [[Behavioral Signatures]] | — | — | ⚖️ Conceptual Tension: Character Trai... | 350 |
 | 60 | [[Ziva Kunda]] | — | — | 🔍 Conceptual Tension: Virtue Ethics v... | 365 |
-| 61 | [[Dunning-Kruger Effect]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
-| 62 | [[Illusion of Explanatory Depth]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
-| 63 | [[Confirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
+| 61 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
+| 62 | [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]] | — | — | 🗺️ The Complete Correspondence Map | 384 |
+| 63 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 64 | [[Disconfirmation Bias]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 65 | [[Backfire Effect]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
-| 66 | [[Epistemic Cowardice]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
+| 66 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | 🗺️ The Complete Correspondence Map | 388 |
 | 67 | [[Naive Realism]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 68 | [[Fundamental Attribution Error]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 69 | [[in-group favoritism in epistemic evaluation]] | — | — | 🗺️ The Complete Correspondence Map | 392 |
 | 70 | [[Cognitive Miserliness]] | — | — | 🗺️ The Complete Correspondence Map | 396 |
-| 71 | [[Aporic Receptivity]] | — | — | 🗺️ The Complete Correspondence Map | 398 |
+| 71 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🗺️ The Complete Correspondence Map | 398 |
 | 72 | [[Identity-Protective Cognition]] | — | — | 🗺️ The Complete Correspondence Map | 400 |
-| 73 | [[Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 462 |
+| 73 | [[Aporic-Receptivity|Aporic Receptivity]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 462 |
 | 74 | [[Fallibilism]] | fallibilist epistemological posture | — | 🔄 Retroactive Enrichment of Previous ... | 465 |
-| 75 | [[Intrinsic Motivation]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 468 |
-| 76 | [[Self-Determination Theory]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 468 |
+| 75 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 468 |
+| 76 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 468 |
 | 77 | [[Prohairesis]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 468 |
-| 78 | [[Cognitive Scaffolding]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 471 |
-| 79 | [[Intellectual Humility]] | — | — | 📊 The Bias-Virtue Correspondence Table | 521 |
-| 80 | [[Intellectual Courage]] | — | — | 📊 The Bias-Virtue Correspondence Table | 522 |
-| 81 | [[Intellectual Empathy]] | — | — | 📊 The Bias-Virtue Correspondence Table | 523 |
-| 82 | [[Intellectual Perseverance]] | — | — | 📊 The Bias-Virtue Correspondence Table | 524 |
-| 83 | [[Intellectual Integrity]] | — | — | 📊 The Bias-Virtue Correspondence Table | 525 |
+| 78 | [[Cognitive-Scaffolding|Cognitive Scaffolding]] | — | — | 🔄 Retroactive Enrichment of Previous ... | 471 |
+| 79 | [[Intellectual-Humility|Intellectual Humility]] | — | — | 📊 The Bias-Virtue Correspondence Table | 521 |
+| 80 | [[Intellectual-Courage|Intellectual Courage]] | — | — | 📊 The Bias-Virtue Correspondence Table | 522 |
+| 81 | [[Intellectual-Empathy|Intellectual Empathy]] | — | — | 📊 The Bias-Virtue Correspondence Table | 523 |
+| 82 | [[Intellectual-Perseverance|Intellectual Perseverance]] | — | — | 📊 The Bias-Virtue Correspondence Table | 524 |
+| 83 | [[Intellectual-Integrity|Intellectual Integrity]] | — | — | 📊 The Bias-Virtue Correspondence Table | 525 |
 | 84 | [[Situationist Critique of Virtue Ethics]] | — | — | 🌱 PKB Expansion Topics | 531 |
 | 85 | [[Intellectual Virtue Development Interventions]] | — | — | 🌱 PKB Expansion Topics | 534 |
 | 86 | [[Epistemic Injustice and Collective Virtue]] | — | — | 🌱 PKB Expansion Topics | 537 |
@@ -602,11 +602,11 @@ extraction_summary:
 
 | **Cognitive Bias Category** | **Structural Failure** | **Intellectual Virtue** | **Training Practice** |
 | --- | --- | --- | --- |
-| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[Intellectual Humility]] | Calibration feedback-seeking; accurate self-assessment practice |
-| Confirmation Bias, Disconfirmation Bias, Backfire Effect | Avoidance of disconfirming evidence | [[Intellectual Courage]] | Steel-manning opposing views; deliberate exposure to disconfirmation |
-| Naive Realism, Fundamental Attribution Error, In-group Epistemic Favoritism | Failure to engage genuinely with other perspectives | [[Intellectual Empathy]] | Perspective-taking with genuine curiosity; charitable reconstruction |
-| Satisficing Errors, Availability Heuristic overreliance, Cognitive Miserliness | Premature closure of inquiry | [[Intellectual Perseverance]] | Sustained engagement with difficulty; productive dwelling in aporia |
-| Motivated Reasoning, Identity-Protective Cognition, Self-Serving Bias | Differential epistemic standards by conclusion-preference | [[Intellectual Integrity]] | Uniform-standards practice; motivated reasoning self-audit |
+| Overconfidence, Dunning-Kruger, Illusion of Explanatory Depth | Inaccurate self-assessment of epistemic limitations | [[Intellectual-Humility|Intellectual Humility]] | Calibration feedback-seeking; accurate self-assessment practice |
+| Confirmation Bias, Disconfirmation Bias, Backfire Effect | Avoidance of disconfirming evidence | [[Intellectual-Courage|Intellectual Courage]] | Steel-manning opposing views; deliberate exposure to disconfirmation |
+| Naive Realism, Fundamental Attribution Error, In-group Epistemic Favoritism | Failure to engage genuinely with other perspectives | [[Intellectual-Empathy|Intellectual Empathy]] | Perspective-taking with genuine curiosity; charitable reconstruction |
+| Satisficing Errors, Availability Heuristic overreliance, Cognitive Miserliness | Premature closure of inquiry | [[Intellectual-Perseverance|Intellectual Perseverance]] | Sustained engagement with difficulty; productive dwelling in aporia |
+| Motivated Reasoning, Identity-Protective Cognition, Self-Serving Bias | Differential epistemic standards by conclusion-preference | [[Intellectual-Integrity|Intellectual Integrity]] | Uniform-standards practice; motivated reasoning self-audit |
 
 ---
 
@@ -619,24 +619,24 @@ extraction_summary:
 
 - [[Actor-Observer Bias]]
 - [[Amos Tversky]]
-- [[Aporic Receptivity]]
+- [[Aporic-Receptivity|Aporic Receptivity]]
 - [[Askēsis]]
-- [[Availability Heuristic]]
+- [[Availability-Heuristic|Availability Heuristic]]
 - [[Backfire Effect]]
 - [[Behavioral Signatures]]
 - [[Cognitive Bias Research]]
 - [[Cognitive Miserliness]]
-- [[Cognitive Scaffolding]]
-- [[Confirmation Bias]]
+- [[Cognitive-Scaffolding|Cognitive Scaffolding]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Daniel Kahneman]]
 - [[Debiasing Interventions]]
 - [[Debiasing Interventions: Meta-Analysis and Design]]
 - [[Disconfirmation Bias]]
-- [[Dunning-Kruger Effect]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
 - [[Epictetus]]
-- [[Epistemic Cowardice]]
+- [[Epistemic-Cowardice|Epistemic Cowardice]]
 - [[Epistemic Injustice and Collective Virtue]]
-- [[Epistemology]]
+- [[Epistemic-Autonomy-—-Epistemology|Epistemology]]
 - [[Ethnocentrism]]
 - [[Fallibilism]]
 - [[Fundamental Attribution Error]]
@@ -644,31 +644,31 @@ extraction_summary:
 - [[Heuristics and Biases Program]]
 - [[Identity-Protective Cognition]]
 - [[Identity-Protective Cognition and Science Literacy]]
-- [[Illusion of Explanatory Depth]]
-- [[Intellectual Courage]]
-- [[Intellectual Empathy]]
-- [[Intellectual Humility]]
-- [[Intellectual Integrity]]
-- [[Intellectual Perseverance]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[Intellectual-Courage|Intellectual Courage]]
+- [[Intellectual-Empathy|Intellectual Empathy]]
+- [[Intellectual-Humility|Intellectual Humility]]
+- [[Intellectual-Integrity|Intellectual Integrity]]
+- [[Intellectual-Perseverance|Intellectual Perseverance]]
 - [[Intellectual Virtue Development Interventions]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
 - [[Jason Baehr]]
 - [[Linda Zagzebski]]
 - [[Marcus Aurelius]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Naive Realism]]
 - [[Overconfidence Bias]]
 - [[Perspective-Taking Failures]]
 - [[Prohairesis]]
 - [[Reliabilism]]
 - [[Satisficing]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Situationist Critique]]
 - [[Situationist Critique of Virtue Ethics]]
 - [[Stoic Askēsis as Cognitive Training Protocol]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Virtue Ethics]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 - [[Ziva Kunda]]
 - [[in-group favoritism in epistemic evaluation]]
 
@@ -676,27 +676,27 @@ extraction_summary:
 
 #### Prerequisites
 
-- [[Dual Process Theory]]
-- [[Metacognitive Monitoring]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Fallibilism]]
 - [[Cognitive Biases and Heuristics]]
 
 #### Related
 
-- [[Epistemic Humility]]
-- [[Stoic Philosophy]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Cognitive Debiasing]]
-- [[Motivated Reasoning]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Virtue Ethics]]
 - [[Epistemic Virtues]]
 - [[Open-Mindedness]]
-- [[Intellectual Courage]]
+- [[Intellectual-Courage|Intellectual Courage]]
 
 #### Broader
 
 - [[Applied Epistemology]]
-- [[Cognitive Science]]
-- [[Philosophy of Mind]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
 - [[Character Development]]
 
 ---
