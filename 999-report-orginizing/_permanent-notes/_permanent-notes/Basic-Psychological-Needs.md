@@ -1,18 +1,13 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Basic Psychological Needs"
+title: Basic Psychological Needs
 aliases:
-  - "Basic Psychological Needs"
-  - "BPN"
+  - Basic Psychological Needs
+  - BPN
+  - Basic Psychological Needs Theory
+  - BPNT
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -22,7 +17,6 @@ tags:
   - self-determination-theory
   - achievement-goal-theory
   - growth-mindset
-
 domain: learning-science
 subdomains:
   - educational-psychology
@@ -30,50 +24,30 @@ subdomains:
   - stoic-philosophy
   - learning-experience-design
   - cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "05-motivation-architecture-pkm-framework-2026-03-13"
-  - "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md"
-  - "sdt-focused-analysis-2026-03-06.md"
-  - "self-determination-theory-first-principles-report-2026-03-11.md"
-  - "self-determination-theory-foundational-report-2026-03-11.md"
-  - "basic-psychological-needs-theory-focused-analysis-2026-03-13.md"
-  - "goal-contents-theory-focused-analysis-2026-03-13.md"
-  - "relationship-motivation-theory-focused-analysis-2026-03-13.md"
+  - 05-motivation-architecture-pkm-framework-2026-03-13
+  - feedback-design-autonomy-mastery-foundational-report-2026-03-10.md
+  - sdt-focused-analysis-2026-03-06.md
+  - self-determination-theory-first-principles-report-2026-03-11.md
+  - self-determination-theory-foundational-report-2026-03-11.md
+  - basic-psychological-needs-theory-focused-analysis-2026-03-13.md
+  - goal-contents-theory-focused-analysis-2026-03-13.md
+  - relationship-motivation-theory-focused-analysis-2026-03-13.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Assessment-Design|Assessment Design]]"
@@ -86,33 +60,24 @@ see-also:
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
-  - "[[Growth-Mindset|Growth Mindset]]"
   - "[[Formative-Assessment|Formative Assessment]]"
   - "[[Black-&-Wiliam|Black & Wiliam]]"
   - "[[Attribution-Theory|Attribution Theory]]"
   - "[[Summative-Assessment|Summative Assessment]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
 builds-on:
   - "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
   - "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]"
-
 enables:
   - "[[08-reflective-practice-experiential-learning-pkm-framework]]"
   - "[[10-scaffolding-fading-pkm-framework]]"
   - "[[13-emotional-regulation-resilient-learning-pkm-framework]]"
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
-
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high

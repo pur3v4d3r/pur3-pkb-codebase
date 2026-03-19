@@ -1,17 +1,14 @@
 ---
-# ═══════════════════════════════════════════════════════════════════════════
-# CORE IDENTITY
-# ═══════════════════════════════════════════════════════════════════════════
-title: "Self-Determination Theory"
+title: Self-Determination Theory
 aliases:
-  - "Self-Determination Theory"
+  - Self-Determination Theory
+  - SDT
+  - sdt
+  - Self Determination Theory
+  - self determination theory
 type: permanent-note
 status: evergreen
 confidence: high
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CLASSIFICATION
-# ═══════════════════════════════════════════════════════════════════════════
 tags:
   - permanent-note
   - evergreen
@@ -21,7 +18,6 @@ tags:
   - self-determination-theory
   - achievement-goal-theory
   - growth-mindset
-
 domain: learning-science
 subdomains:
   - educational-psychology
@@ -29,46 +25,26 @@ subdomains:
   - stoic-philosophy
   - learning-experience-design
   - cognitive-psychology
-
-# ═══════════════════════════════════════════════════════════════════════════
-# TEMPORAL
-# ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
 updated: 2026-03-19
-
-# ═══════════════════════════════════════════════════════════════════════════
-# SOURCE TRACKING
-# ═══════════════════════════════════════════════════════════════════════════
 source-type: report-extraction
 source-reports:
-  - "05-motivation-architecture-pkm-framework-2026-03-13"
-  - "self-determination-theory-first-principles-report-2026-03-11.md"
-  - "self-determination-theory-foundational-report-2026-03-11.md"
-  - "report-03-the-motivated-mind.md"
+  - 05-motivation-architecture-pkm-framework-2026-03-13
+  - self-determination-theory-first-principles-report-2026-03-11.md
+  - self-determination-theory-foundational-report-2026-03-11.md
+  - report-03-the-motivated-mind.md
 evidence-quality: high
-extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# CONTENT CHARACTERISTICS
-# ═══════════════════════════════════════════════════════════════════════════
+extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
 depth-level: comprehensive
-
-# ═══════════════════════════════════════════════════════════════════════════
-# RELATIONSHIPS
-# ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
   - "[[]]"
-
 related:
   - "[[]]"
-
 broader:
   - "[[]]"
-
 narrower:
   - "[[]]"
-
 see-also:
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Assessment-Design|Assessment Design]]"
@@ -84,30 +60,20 @@ see-also:
   - "[[Relatedness|Relatedness]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
-  - "[[Organismic-Integration|Organismic Integration]]"
+  - "[[Organismic-Integration-Theory]]"
   - "[[Carl-Rogers|Carl Rogers]]"
-
-# ═══════════════════════════════════════════════════════════════════════════
-# LEARNING PATHWAYS
-# ═══════════════════════════════════════════════════════════════════════════
 builds-on:
   - "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
   - "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]"
-
 enables:
   - "[[08-reflective-practice-experiential-learning-pkm-framework]]"
   - "[[10-scaffolding-fading-pkm-framework]]"
   - "[[13-emotional-regulation-resilient-learning-pkm-framework]]"
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
-
 expansion-topics:
   - topic: "[[]]"
     description: ""
     priority: medium
-
-# ═══════════════════════════════════════════════════════════════════════════
-# PERSONAL KNOWLEDGE MANAGEMENT
-# ═══════════════════════════════════════════════════════════════════════════
 review-frequency: quarterly
 mastery-stage: seedling
 importance: high
@@ -212,7 +178,7 @@ importance: high
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
 - [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset Theory]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
@@ -226,14 +192,14 @@ importance: high
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
 - [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset Theory]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
 - [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset Theory]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
@@ -247,14 +213,14 @@ importance: high
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
 - [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset Theory]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
 - [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
 - [[Humanistic-Psychology|Humanistic Psychology]]
-- [[Growth-Mindset|Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth-Mindset Theory]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
 
 **Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
