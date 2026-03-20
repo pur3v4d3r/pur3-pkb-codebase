@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "report-13-the-predictive-mind"
+  - "report-13-the-predictive-mind.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[Generative-Model|Generative Model]]"
   - "[[Karl-Friston|Karl Friston]]"
   - "[[Free-Energy-Principle|Free Energy Principle]]"
+  - "[[Karl-Friston|Karl Friston]]"
+  - "[[Andy-Clark|Andy Clark]]"
+  - "[[Jakob-Hohwy|Jakob Hohwy]]"
+  - "[[Anil-Seth|Anil Seth]]"
+  - "[[Thomas-Metzinger|Thomas Metzinger]]"
+  - "[[Generative-Model|Generative Model]]"
+  - "[[Free-Energy-Principle|Free Energy Principle]]"
+  - "[[Precision-Weighting|Precision Weighting]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -111,7 +120,21 @@ importance: high
 > [!warning] **Key Distinction**
 > A legitimate concern about the PP synthesis is that the framework's mathematical generality makes it capable of accommodating almost any pattern of cognitive behavior through appropriate parameter selection. This flexibility is intellectually powerful but creates an unfalsifiability risk: if every cognitive practice can be described as some form of precision calibration, the description may be a useful organizing metaphor rather than a falsifiable mechanistic claim. This report treats PP as a…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-13-the-predictive-mind.md)*
+> Think of something you currently believe with high confidence — a belief about your own abilities, about how a relationship or situation is unfolding, or about a contested matter in your domain of expertise. Now ask: *What would I notice if I were wrong?* What prediction errors would arrive if your current model were mistaken? The difficulty of answering this question is a direct measure of how transparent your belief currently is — how thoroughly it presents itself as perception rather than hypothesis.
+
+> [!reflection] **Reflect** *(from report-13-the-predictive-mind.md)*
+> At which stage does your relationship to your own strongest beliefs most commonly operate? Are there domains — particular areas of your professional life, your relationships, your self-concept — where your precision weighting is chronically tighter than the evidence warrants? What would Stage 4 operation look like in those specific domains? What practices would most directly develop the precision flexibility they require?
+
+
 ## Connections & Context
 
 **Related concepts:**
 [[Karl-Friston|Karl Friston]] · [[Andy-Clark|Andy Clark]] · [[Jakob-Hohwy|Jakob Hohwy]] · [[Anil-Seth|Anil Seth]] · [[Thomas-Metzinger|Thomas Metzinger]] · [[Generative-Model|Generative Model]] · [[Karl-Friston|Karl Friston]] · [[Free-Energy-Principle|Free Energy Principle]] · [[Precision-Weighting|Precision Weighting]] · [[Anil-Seth|Anil Seth]] · [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] · [[Constructed-Emotion-Theory|Constructed Emotion Theory]] · [[Thomas-Metzinger|Thomas Metzinger]] · [[Phenomenal-Self-Model|Phenomenal Self-Model]]
+
+**Related concepts** *(from report-13-the-predictive-mind.md)*:
+[[Karl-Friston|Karl Friston]] * [[Andy-Clark|Andy Clark]] * [[Jakob-Hohwy|Jakob Hohwy]] * [[Anil-Seth|Anil Seth]] * [[Thomas-Metzinger|Thomas Metzinger]] * [[Generative-Model|Generative Model]] * [[Free-Energy-Principle|Free Energy Principle]] * [[Precision-Weighting|Precision Weighting]] * [[Lisa-Feldman-Barrett|Lisa Feldman Barrett]] * [[Constructed-Emotion-Theory|Constructed Emotion Theory]] * [[Phenomenal-Self-Model|Phenomenal Self-Model]] * [[John-Dewey|John Dewey]] * [[Socrates|Socrates]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Fallibilism|Fallibilism]]
+

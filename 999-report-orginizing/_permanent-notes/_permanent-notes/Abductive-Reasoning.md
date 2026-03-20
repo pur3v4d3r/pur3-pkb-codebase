@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,9 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "abductive-reasoning-foundational-report-2026-03-06"
+  - "abductive-reasoning-foundational-report-2026-03-06.md"
+  - "inductive-reasoning-foundational-report-2026-03-06.md"
+  - "types-of-reasoning-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +73,14 @@ see-also:
   - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
   - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
   - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
+  - "[[Deductive-Reasoning|Deductive Reasoning]]"
+  - "[[Inductive-Reasoning|Inductive Reasoning]]"
+  - "[[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]]"
+  - "[[Design-Thinking-Pedagogy|Design Thinking Pedagogy]]"
+  - "[[Charles-Sanders-Peirce|Charles Sanders Peirce]]"
+  - "[[Inference-to-the-Best-Explanation|Inference to the Best Explanation]]"
+  - "[[Peirce|Peirce]]"
+  - "[[Analogical-Reasoning|Analogical Reasoning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,6 +119,58 @@ importance: high
 > [!analytical-insight] Key Insight
 > Lipton argued that explanation is typically contrastive: we explain why *P* rather than *Q* (where *Q* is a foil — the alternative that didn't happen). The contrastive structure helps sharpen abductive inference by clarifying what a good explanation must account for. A hypothesis is good not merely if it explains the observed fact, but if it explains *why that fact rather than the obvious alternative*. This contrastive dimension has significant pedagogical implications: teaching students to ask…
 
+> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> The locus classicus for Peirce's mature formulation of abduction, containing the canonical statement of the abductive syllogism and the argument that all scientific ideas originate through abduction. Essential for any serious engagement with the philosophical foundations of the concept. Readers should also consult CP 2.623–2.625 for the early formulation of abduction in terms of the syllogistic components (Rule, Case, Result).
+
+> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> The most systematic philosophical treatment of IBE, distinguishing the "loveliest" from the "likeliest" explanation and providing responses to objections including the bad lot problem. Lipton's distinction between different explanatory virtues is directly applicable to educational assessment of student hypothesis quality. Chapter 4 on contrastive explanation is particularly valuable for instructional design.
+
+> [!evidence] Supporting Evidence *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> The work that introduced the theory-ladenness of observation into philosophy of science and reconnected it with Peirce's abduction. Hanson's account of how scientific discoveries are possible — how a scientist can "see" a new phenomenon in a gestalt shift — anticipates much of the cognitive science of scientific reasoning. Chapter 4, "Theories," contains the central argument.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> In a series of experiments, Nisbett and colleagues found that graduate students trained in statistics, economics, and psychology showed significantly greater use of statistical and methodological reasoning principles in everyday situations than students in chemistry and law — whose training emphasized deductive and rule-based reasoning respectively. The implication is that training in probabilistic (inductive) reasoning under the right conditions does generalize beyond its training domain.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+> [!analytical-insight] Key Insight *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Bacon's lasting contribution was not merely advocating observation over armchair theorizing, but articulating a *structured procedure* for inductive inference — one that used systematic variation and comparison to identify causal factors. This "method of differences" anticipates both Mill's canons and the logic of controlled experimentation.
+
+> [!analytical-insight] Key Insight *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> On the Bayesian view, the problem of induction is dissolved rather than solved: we never achieve certainty through inductive inference, but we can rationally increase or decrease the probability we assign to hypotheses in proportion to the evidence. Strong inductive arguments are those that significantly raise the posterior probability of their conclusions; weak arguments move probability only slightly. Inductive reasoning is rational not when it guarantees truth but when it updates beliefs in proportion to evidence.
+
+> [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Peirce held that scientific inquiry requires all three modes in sequence: abduction to generate hypotheses, deduction to derive their testable predictions, and induction to test those predictions against observation. No single mode suffices for genuine epistemic progress. This sequencing is now recognized as a sophisticated anticipation of the hypothetico-deductive method.
+
+> [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -119,6 +182,62 @@ importance: high
 > [!warning] **Key Distinction**
 > Inquiry-based learning that emphasizes abductive hypothesis generation can produce confusion and discouragement when students lack the background knowledge to generate any plausible hypotheses or when the abductive task is calibrated beyond their current competence. The "productive failure" literature emphasizes that failure must be productive — which requires careful design of problems, appropriate background preparation, and timely instructional support. Poorly designed open inquiry can…
 
+> [!example] **Application** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The research evidence consistently supports *structured* or *guided* inquiry over fully open-ended discovery for most learners and most content. In structured inquiry, the teacher specifies the question and often the materials, while students design or conduct the investigation and develop their own explanations. In guided inquiry, students participate in selecting the question. Fully open inquiry — where students generate question, design, and conclusion independently — produces the best learning only for learners who already possess strong domain knowledge and inquiry skills. For novices, minimal guidance during problem-solving is not effective and not efficient.
+
+> [!example] **Application** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The CER framework, widely used in science education, asks students to explicitly articulate: (1) a claim (their generalization or hypothesis), (2) the specific evidence that supports it, and (3) their reasoning about why the evidence supports the claim. This structure makes the inductive relationship between observation and conclusion explicit and evaluable — both for the student and the teacher. Research supports its use for improving both reasoning quality and writing quality in science contexts.
+
+> [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Deductive instruction is most effective when: (1) the general principle being taught is stable and well-established; (2) students have sufficient prior knowledge to understand the principle before seeing examples; (3) the goal is efficient mastery rather than discovery. Research by [[Kirschner, Sweller & Clark]] (2006) on [[Cognitive Load Theory]] supports direct instruction for novice learners precisely because it reduces the working memory demands of discovery while building the procedural knowledge needed for later problem-solving.
+
+> [!example] **Application** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The most evidence-supported approach combines inductive exploration with metacognitive scaffolding: students are given structured observation tasks, prompted to articulate the patterns they notice, and then explicitly connected to the formal principle their observations exemplify. This "guided discovery" retains the motivational and transfer benefits of inductive learning while preventing the cognitive overload of unguided discovery.
+
+> [!warning] **Key Distinction** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+
+> [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> Before reading further, pause and recall a time you formed a hypothesis — about why a machine wasn't working, why a student seemed disengaged, why a historical event unfolded as it did, or why an experiment produced an unexpected result. What moved you from noticing the surprising fact to proposing an explanation? Was it logical necessity? Statistical regularity? Or something more like an imaginative leap? Hold that experience in mind as you read — you will encounter its theoretical description within the next several thousand words.
+
+> [!reflection] **Reflect** *(from abductive-reasoning-foundational-report-2026-03-06.md)*
+> 1. The distinction between deduction, induction, and abduction is not merely a textbook taxonomy — it maps onto fundamentally different cognitive acts. Which of the three most resembles how you typically approach novel problems? What might this suggest about blind spots in your thinking?
+> 2. Peirce's claim that science advances through abduction is both celebrated and contested. Can you think of a scientific discovery that appears to have followed an abductive pattern — where a surprising observation prompted a creative hypothesis?
+> 3. The distinction between the context of discovery and the context of justification has been criticized for being too clean. Do you think the process of generating a hypothesis is ever entirely separate from the process of evaluating it?
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to surface your own understanding of inductive reasoning. Can you produce an example from your own learning or professional life where you reasoned from specific observations to a general conclusion? Were you confident in that conclusion? What made you more or less certain? And what conditions, you suspect, would have led you to revise it? Holding these intuitions in mind will make the theoretical treatment that follows considerably more alive.
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> 1. Recall a belief you hold with high confidence that you arrived at through inductive reasoning. How many observations formed the basis of that belief? Have you actively sought disconfirming evidence, or primarily noticed confirming instances?
+> 2. How does the distinction between inductive and deductive reasoning reframe your understanding of what it means to "know" something in your domain of expertise?
+> 3. Among the varieties of inductive reasoning — enumerative, analogical, statistical, causal — which do you rely on most in your professional practice? Which do your students or learners struggle with most?
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
+> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
+> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
+
+
+
+
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -129,3 +248,65 @@ importance: high
 
 **Related concepts:**
 [[Deductive-Reasoning|Deductive Reasoning]] · [[Inductive-Reasoning|Inductive Reasoning]] · [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] · [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Peirce]] · [[Analogical-Reasoning|Analogical Reasoning]] · [[Philosophy-of-Science|Philosophy of Science]] · [[Hans-Reichenbach|Hans Reichenbach]] · [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] · [[Gilbert-Harman|Gilbert Harman]]
+
+**Related concepts** *(from abductive-reasoning-foundational-report-2026-03-06.md, inductive-reasoning-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[Deductive-Reasoning|Deductive Reasoning]] * [[Inductive-Reasoning|Inductive Reasoning]] * [[Scientific-Reasoning-in-Education|Scientific Reasoning in Education]] * [[Design-Thinking-Pedagogy|Design Thinking Pedagogy]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Inference-to-the-Best-Explanation|Inference to the Best Explanation]] * [[Analogical-Reasoning|Analogical Reasoning]] * [[Philosophy-of-Science|Philosophy of Science]] * [[Hans-Reichenbach|Hans Reichenbach]] * [[Gilbert-Harman|Gilbert Harman]] * [[Peter-Lipton|Peter Lipton]] * [[Bas-van-Fraassen|Bas van Fraassen]] * [[Umberto-Eco|Umberto Eco]] * [[Lorenzo-Magnani|Lorenzo Magnani]] * [[Embodied-Cognition|Embodied Cognition]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from abductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Inquiry-Based-Learning-—-Empirical-Evidence-and-Design-Principles|Inquiry-Based Learning — Empirical Evidence and Design Principles]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
+
+
+
+

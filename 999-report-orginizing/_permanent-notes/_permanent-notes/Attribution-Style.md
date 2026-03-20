@@ -17,10 +17,11 @@ domain: other
 subdomains:
   - 
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - metacognition-motivation-foundational-report-2026-03-05
+  - "metacognition-motivation-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: intermediate
@@ -42,6 +43,14 @@ see-also:
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
+  - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
+  - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Ann-Brown|Ann Brown]]"
 builds-on:
   - "[[Metacognition-Foundational-Report|Metacognition Foundational Report]]"
   - "[[Motivation-Theory-Foundational-Report|Motivation Theory Foundational Report]]"
@@ -81,6 +90,14 @@ importance: high
 > [!analytical-insight] Key Insight
 > The SRL cycle is not a purely cognitive model — every phase contains a motivational component. In the forethought phase, the learner's motivational beliefs (self-efficacy, goal orientation, intrinsic interest) shape the *quality* of goal-setting and strategic planning. In the performance phase, metacognitive monitoring occurs in the context of ongoing motivational experience (interest, boredom, frustration, curiosity). In the self-reflection phase, the learner's attribution of success or…
 
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -91,6 +108,18 @@ importance: high
 
 > [!warning] **Key Distinction**
 > A pervasive error in educational interventions is treating metacognitive development as purely a skill-training problem — as though learners simply need to be taught the right strategies, after which they will use them. The research is clear that knowledge of metacognitive strategies is necessary but not sufficient: willingness and habit of deployment are equally important, and these are motivational variables. Interventions that teach metacognitive strategies without addressing the…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
 
 ## Connections & Context
 
@@ -104,3 +133,23 @@ importance: high
 
 **Related concepts:**
 [[Metacognition]] · [[Metacognition]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] · [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] · [[Growth-Mindset-Theory|Growth Mindset Theory]] · [[John-Flavell|John Flavell]] · [[Ann-Brown|Ann Brown]] · [[Metacognitive-Experiences|Metacognitive Experiences]] · [[Feeling-of-Knowing|Feeling of Knowing]] · [[Ease-of-Learning|Ease of Learning]] · [[Judgment-of-Learning|Judgment of Learning]] · [[Efklides]] · [[Self-Determination-Theory|Self-Determination Theory]]
+
+**Related concepts** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+[[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+

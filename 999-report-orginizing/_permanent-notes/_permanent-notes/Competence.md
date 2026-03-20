@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Integrated-Learning-System-Model]]"
   - "[[Integration-Metabolism]]"
   - "[[Learning-Metabolism]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[autonomy|autonomy]]"
+  - "[[relatedness|relatedness]]"
+  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
+  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
@@ -123,6 +131,18 @@ importance: medium
 > 
 > **Intrinsic motivation** — behaviour enacted for the inherent satisfaction of the activity itself; the most self-determined form of regulation.
 
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+
+
+
 
 
 
@@ -148,6 +168,26 @@ importance: medium
 > Several misconceptions pervade popular appropriations of SDT. First: **autonomy support is not permissiveness**. Providing structure, setting high standards, and maintaining accountability are fully compatible with autonomy-supportive practice; what matters is how these elements are implemented, not whether they exist. Second: **intrinsic motivation cannot always be created**. Many necessary activities are not inherently interesting, and attempting to make them interesting through gamification or entertainment can be less effective than facilitating genuine identified regulation through rationale provision. Third: **removing external rewards does not automatically restore intrinsic motivation** once it has been undermined — the underlying need conditions must be addressed. Fourth: **SDT does not predict that all rewards are harmful** — only tangible, expected, performance-contingent rewards for initially interesting activities reliably show the undermining effect.
 
 
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> Before reading further, bring to mind a learning or work context in which you felt genuinely motivated — not because of external rewards or obligations, but because the activity itself was engaging or meaningful to you. Now bring to mind a contrasting context where motivation felt effortful, fragmented, or performed for external reasons. What was different about those two environments? What did the first context provide that the second did not? Hold these contrasts in mind as you read; SDT offers a precise vocabulary for articulating exactly what you are remembering.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> 1. SDT's concept of autonomy has surprised many readers who initially equate it with independence or non-conformity. How does the distinction between autonomy and independence change your understanding of what a need-supportive social environment would look like?
+> 2. The distinction between need thwarting and the absence of need satisfaction has practical implications for intervention design. In a context you know well (classroom, clinic, workplace), what would constitute active need thwarting rather than merely the absence of need satisfaction?
+> 3. Looking at the six core definitions above, which concept do you anticipate will be most theoretically contentious or empirically difficult to measure? Why?
 
 
 
@@ -184,6 +224,42 @@ importance: medium
 - [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Conditional-regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
+
+
 
 
 

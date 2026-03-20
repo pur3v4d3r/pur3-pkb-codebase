@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Report 05: Motivation Architecture]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
   - "[[Report 06: The Science of Remembering]]"
+  - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Amos-Tversky|Amos Tversky]]"
+  - "[[Debiasing-Interventions|Debiasing Interventions]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Linda-Zagzebski|Linda Zagzebski]]"
+  - "[[Jason-Baehr|Jason Baehr]]"
+  - "[[Heather-Battaly|Heather Battaly]]"
   - "[[Heuristics-and-Biases-Program|Heuristics and Biases Program]]"
   - "[[Daniel-Kahneman|Daniel Kahneman]]"
   - "[[Amos-Tversky|Amos Tversky]]"
@@ -156,6 +164,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > **The Note as Interest Infrastructure**: What distinguishes interest-deepening notes from interest-arresting ones is not the quality of information captured but the quality of *connection* made. A literature note that faithfully records an author's argument without connecting it to the reader's existing knowledge, ongoing questions, or valued projects is — from an interest development perspective — a triggered situational interest that has been captured rather than developed. The same content…
 
+> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
+> The foundational text of responsibilist virtue epistemology, establishing the two-component structure (motivational + competence) of intellectual virtues and their relationship to moral virtues and epistemic goods. Essential for the conceptual architecture of this report.
+
+> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
+> Develops the account of intellectual virtues as contributing to the epistemic excellence of the *person* — not just reliable belief-forming outputs — and argues for a "personal worth" conception that has important implications for the bias-virtue correspondence.
+
+> [!evidence] Supporting Evidence *(from report-05-the-virtuous-reasoner.md)*
+> The most rigorous philosophical analysis of intellectual perseverance, identifying the three-component structure (appropriate response, epistemic motivation, epistemic goals) and distinguishing perseverance from its neighboring vices.
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -163,6 +183,12 @@ importance: high
 
 > [!example] **Application**
 > **The Monthly Interest Audit**: A simple monthly practice: review the past month's PKB activity and ask three questions: (1) What am I most curious about right now, and is my PKB capturing and developing that curiosity? (2) What am I recording out of habit or obligation rather than genuine interest? (3) What connection, if made, would most increase the interest-value of my current knowledge network? These questions do not require elaborate ritual — they can be addressed in a dedicated monthly…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-05-the-virtuous-reasoner.md)*
+> Think of a belief you hold strongly — about your own competence in some domain, about a political or social question, about a personal decision you have made. Now apply the bias-virtue correspondence: Which of the five biases is most likely distorting your epistemic relationship to evidence about this belief? Which corresponding virtue is most underdeveloped? What would it look like to engage with this belief from a position of fully deployed intellectual humility, courage, empathy, perseverance, and integrity simultaneously?
 
 ## Connections & Context
 
@@ -183,6 +209,26 @@ importance: high
 
 **Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
 - [[Fallibilism|Fallibilism]]
+
+**Related concepts** *(from report-05-the-virtuous-reasoner.md)*:
+[[Heuristics-and-Biases-Program|Heuristics and Biases Program]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Debiasing-Interventions|Debiasing Interventions]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Linda-Zagzebski|Linda Zagzebski]] * [[Jason-Baehr|Jason Baehr]] * [[Heather-Battaly|Heather Battaly]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Marcus-Aurelius|Marcus Aurelius]] * [[Cognitive-Bias-Research|Cognitive Bias Research]] * [[Motivated-Reasoning|Motivated Reasoning]] * [[Ziva-Kunda|Ziva Kunda]] * [[Reliabilism|Reliabilism]] * [[Intellectual-Perseverance|Intellectual Perseverance]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Aporic-Receptivity|Aporic Receptivity]]
+
+**Cross-report connections** *(from report-05-the-virtuous-reasoner.md)*:
+- [[Fallibilism|Fallibilism]]
+
+
+
+
+
 
 
 

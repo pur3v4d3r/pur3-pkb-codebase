@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[worked-example-effect|worked example effect]]"
+  - "[[working-memory|working memory]]"
+  - "[[schema-theory|schema theory]]"
+  - "[[cognitive-psychology|cognitive psychology]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[germane-cognitive-load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
@@ -183,6 +191,42 @@ importance: high
 > [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The SRL literature sometimes treats goal setting as a cognitive tool that can be trained without attending to the motivational context in which it is deployed. But goal setting is deeply motivationally situated. The same learner who spontaneously sets specific, challenging proximal goals in a domain they care about and feel moderately confident in will set vague, self-protective goals in a domain where their self-efficacy is low or their goal orientation is avoidance-based. Training learners to set SMART goals (specific, measurable, achievable, relevant, time-bound) without addressing the motivational substrate often produces learners who can articulate good goals but do not act on them — a surface compliance that leaves the forethought mechanism intact in form but broken in function.
 
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
+
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press. (Original works composed 1930–1934.) The foundational text for Zone of Proximal Development theory. DOI: N/A (historical text).
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. The paper that coined the term "scaffolding" in the pedagogical sense. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. The foundational paper introducing Cognitive Load Theory. https://doi.org/10.1207/s15516709cog1202_4
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The expertise reversal effect, taken seriously, requires that instructional design be calibrated to current learner knowledge state. But the studies that established the effect typically used well-controlled laboratory conditions where expertise was manipulated or measured with high precision. In real classrooms with heterogeneous learners, "expertise" is variable across students, domains, and even time of day. The tension here is between the theoretical clarity of the effect (under controlled conditions, it is robust) and the practical ambiguity of its application (in real instructional environments, when is a given learner "expert enough" that scaffolding becomes harmful?). This gap between laboratory robustness and field applicability is one of the most important unresolved issues in CLT's applied literature.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The theoretical tension is severe: germane load is defined as the load that produces schemas, and schema production is identified by better learning outcomes. This means the construct is identified by its consequences rather than by any independent characteristic that could be measured prior to observing the outcome. A researcher cannot designate an instructional condition as "high germane load" before running the study; they can only apply that label after seeing that learning improved. This renders the germane load construct unfalsifiable in the strong sense — any instructional manipulation that increases effort without improving learning can be explained by labeling the extra effort "extraneous," and any increase in effort that does improve learning gets labeled "germane." The framework can accommodate any finding without being challenged by any finding.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+
+> [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory behavior in questionnaires — overestimating monitoring frequency and strategy diversity. This creates criterion contamination: if the MSLQ measures something other than actual self-regulation behavior, then correlations between MSLQ scores and achievement may reflect a third variable (general academic conscientiousness, self-concept) rather than regulatory activity per se. The interventional evidence is more trustworthy, but the correlational base on which SRL's theoretical claims rest is softer than typically acknowledged.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -231,8 +275,44 @@ importance: high
 > [!warning] **Key Distinction** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The most common institutional response to SRL research is to create a standalone study skills course where general self-regulatory strategies are taught in isolation from specific content domains. The evidence suggests this approach has minimal sustained effects on academic performance, for the precise mechanistic reason analyzed in Phase IV: effective monitoring requires sufficient domain knowledge to recognize quality differences in one's own performance. A student taught to self-monitor their reading comprehension in a generic study skills context cannot transfer that monitoring skill to advanced organic chemistry if they lack the domain knowledge to know what good understanding of organic chemistry looks like. General self-regulatory training that is not embedded in domain learning is, to use the mechanical analogy, like calibrating a thermostat without knowing what temperature the room should be.
 
+> [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 
+
+
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> Before reading this analysis, take a moment to articulate your current position: Do you believe that instructional strategies that work well for novices will work equally well — or perhaps better — for experts who have mastered the foundational content? Commit to your answer and your reasoning. The expertise reversal effect will test this intuition directly, and whether your prediction holds or breaks, the comparison will sharpen your understanding of what CLT's most counterintuitive finding actually demonstrates.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends critically on understanding the distinction between intrinsic and extraneous load. Before proceeding, test yourself: If a physics instructor presents the same conceptual content (Newton's laws interacting with friction, momentum, and gravity) in a cluttered, split-attention format versus a clean, integrated diagram, which load type has changed between these two presentations, and which has remained constant? If you find yourself reaching for the exact definitions above rather than reasoning from understanding, revisit them with this scenario in mind — the ability to apply the distinction to a novel case signals genuine comprehension.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> Before reading further, take a moment to articulate what you currently believe about why some instructional approaches work better than others. What factors do you think determine whether a student successfully learns from a lesson? Do your current explanations appeal to motivation, intelligence, prior knowledge, or something about the structure of the content itself? Noting your starting assumptions will make CLT's particular explanatory lens — cognitive architecture — all the more visible as you encounter it.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
+> 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> Before reading on, commit to a position: When students are explicitly taught self-regulatory strategies (goal-setting, self-monitoring, strategy selection), what happens to their academic performance? Does explicit instruction in SRL reliably improve outcomes, sometimes improve outcomes, or have negligible average effects? Write down your prediction and your reasoning — we will return to it in Phase III, where the evidence may complicate your expectation in an instructive direction.
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends on the distinction between metacognitive knowledge and metacognitive experiences (Flavell). Before proceeding, articulate in your own words: why can a learner have excellent metacognitive knowledge but still fail to self-regulate effectively? What would have to be true about their metacognitive experiences for self-regulation to fail even when knowledge is present? If you find yourself paraphrasing the definitions above rather than reasoning from them, the distinction may not yet be fully integrated.
+
+> [!reflection] **Reflect** *(from report-04-cognitive-scaffolding.md)*
+> In the intellectual domains most central to your life, are you currently operating below, within, or above your ZPD? Do you tend to avoid discomfort by staying in the Zone of Actual Development (what you already know well), or do you tend to overcorrect by reaching beyond your ZPD into material that overwhelms your existing schemas? What would genuinely ZPD-appropriate challenge look like in the next significant learning project you undertake?
 
 
 
@@ -306,6 +386,77 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, cognitive-load-theory-foundational-report-2026-03-11.md, report-04-cognitive-scaffolding.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-interactivity|Element interactivity]] * [[cognitive-load|cognitive load]] * [[automation|automation]] * [[self-explanation|self-explanation]] * [[subjective-mental-effort-ratings|subjective mental effort ratings]] * [[expertise-reversal|expertise reversal]] * [[germane-load|germane load]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

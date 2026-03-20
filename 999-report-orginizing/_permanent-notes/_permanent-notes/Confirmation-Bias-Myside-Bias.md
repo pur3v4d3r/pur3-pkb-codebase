@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,6 +81,14 @@ see-also:
   - "[[Cognitive-Miser|Cognitive Miser]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
+  - "[[fallibilism|fallibilism]]"
+  - "[[epistemology|epistemology]]"
+  - "[[philosophy-of-science|philosophy of science]]"
+  - "[[critical-thinking|critical thinking]]"
+  - "[[pedagogy|pedagogy]]"
+  - "[[Descartes|Descartes]]"
+  - "[[scepticism|scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
   - "[[fallibilism|fallibilism]]"
   - "[[epistemology|epistemology]]"
   - "[[philosophy-of-science|philosophy of science]]"
@@ -168,6 +176,46 @@ importance: high
 > [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
 
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
+
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
+
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+> [!evidence] Supporting Evidence *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
+
+> [!evidence] Supporting Evidence *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -219,9 +267,55 @@ importance: high
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
+> [!warning] **Key Distinction** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from fallibilism-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to identify a belief you currently hold with high confidence — something you feel certain about. It could be a scientific fact, a moral conviction, a professional judgment, or an everyday empirical claim. As you read, consider whether that belief could, in principle, be mistaken. What evidence would it take to revise it? Do you find the prospect of revision threatening or liberating? Noticing your starting intuitions about certainty will make the intellectual movement of this report more vivid.
+
+> [!reflection] **Reflect** *(from fallibilism-foundational-report-2026-03-06.md)*
+> 1. Which historical figure's version of epistemic caution resonates most with you — Socrates's method of relentless questioning, Peirce's community-based self-correction, or Popper's falsificationism? What does your intuitive response reveal about your own epistemic values?
+> 2. The distinction between fallibilism and scepticism is philosophically sharp, but in practice many people conflate them. Why do you think this conflation is so common? What cognitive or rhetorical tendencies might drive it?
+> 3. If you hold a belief with high confidence, what specific evidence or argument would you need to encounter before you would revise it? Is that threshold well-calibrated, or does it feel too high or too low?
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to surface your own understanding of inductive reasoning. Can you produce an example from your own learning or professional life where you reasoned from specific observations to a general conclusion? Were you confident in that conclusion? What made you more or less certain? And what conditions, you suspect, would have led you to revise it? Holding these intuitions in mind will make the theoretical treatment that follows considerably more alive.
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> 1. Recall a belief you hold with high confidence that you arrived at through inductive reasoning. How many observations formed the basis of that belief? Have you actively sought disconfirming evidence, or primarily noticed confirming instances?
+> 2. How does the distinction between inductive and deductive reasoning reframe your understanding of what it means to "know" something in your domain of expertise?
+> 3. Among the varieties of inductive reasoning — enumerative, analogical, statistical, causal — which do you rely on most in your professional practice? Which do your students or learners struggle with most?
+
+> [!reflection] **Reflect** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to surface your own prior beliefs about political reasoning. Do you think most people reason about politics carefully or carelessly? Do you believe your own political judgments are generally well-founded? Where do you think the greatest dangers to democratic decision-making come from — ignorance, manipulation, or something structural? Noting your starting position now will make the conceptual moves in this report visible and personally meaningful.
+
+> [!reflection] **Reflect** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> 1. The System 1/System 2 distinction is now deeply familiar in popular discourse about thinking. Where do you see the limits of this framework for understanding political reasoning specifically? What does political cognition involve that the two-system model might miss?
+> 2. The transition from Converse's "voter ignorance" framing to the "motivated reasoning" framing represents a significant conceptual shift. What moral and political implications follow from each framing? Which do you find more accurate, and why?
+> 3. Think about a political belief you hold with confidence. Can you trace where it comes from? How much of that origin is accuracy-motivated versus directionally motivated?
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
+> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
+> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
 
 
 
@@ -295,6 +389,66 @@ importance: high
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Scientific-Method|Scientific Method]]
+
+**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md, inductive-reasoning-foundational-report-2026-03-06.md, political-reasoning-decision-making-foundational-report-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[Karl-Popper|Karl Popper]] * [[falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]] * [[epistemic-holism|epistemic holism]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
+
+
+
+
 
 
 

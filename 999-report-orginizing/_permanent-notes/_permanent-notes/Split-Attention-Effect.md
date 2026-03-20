@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,6 +77,14 @@ see-also:
   - "[[Coherence-Principle|Coherence Principle]]"
   - "[[Constructivism]]"
   - "[[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[worked-example-effect|worked example effect]]"
+  - "[[expertise-reversal-effect|expertise reversal effect]]"
+  - "[[working-memory|working memory]]"
+  - "[[schema-theory|schema theory]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[germane-cognitive-load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
@@ -163,6 +171,26 @@ importance: high
 > [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > The [[Modality-Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual-Coding-Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
 
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
+
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The expertise reversal effect, taken seriously, requires that instructional design be calibrated to current learner knowledge state. But the studies that established the effect typically used well-controlled laboratory conditions where expertise was manipulated or measured with high precision. In real classrooms with heterogeneous learners, "expertise" is variable across students, domains, and even time of day. The tension here is between the theoretical clarity of the effect (under controlled conditions, it is robust) and the practical ambiguity of its application (in real instructional environments, when is a given learner "expert enough" that scaffolding becomes harmful?). This gap between laboratory robustness and field applicability is one of the most important unresolved issues in CLT's applied literature.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The theoretical tension is severe: germane load is defined as the load that produces schemas, and schema production is identified by better learning outcomes. This means the construct is identified by its consequences rather than by any independent characteristic that could be measured prior to observing the outcome. A researcher cannot designate an instructional condition as "high germane load" before running the study; they can only apply that label after seeing that learning improved. This renders the germane load construct unfalsifiable in the strong sense — any instructional manipulation that increases effort without improving learning can be explained by labeling the extra effort "extraneous," and any increase in effort that does improve learning gets labeled "germane." The framework can accommodate any finding without being challenged by any finding.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+
+
+
+
+
+
 
 
 
@@ -197,8 +225,32 @@ importance: high
 > [!warning] **Key Distinction** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
 > [[Cognitive Load Theory]] has been most convincingly validated for near transfer — applying learned skills in contexts closely resembling the training context. Its account of far transfer — applying learned schemas in substantially different contexts — is far less developed. The schema theory framework suggests that more abstract, generalizable schemas should support far transfer, but CLT-based design principles do not clearly specify how to build such schemas. This is a significant limitation for educational contexts that prioritize flexible, transferable understanding over procedural competence. Researchers like [[Daniel-Schwartz]] have argued that "preparation for future learning" — creating schemas that make future learning efficient rather than enabling direct performance — is an important learning outcome that CLT's standard assessment methods miss entirely.
 
+> [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> Before reading this analysis, take a moment to articulate your current position: Do you believe that instructional strategies that work well for novices will work equally well — or perhaps better — for experts who have mastered the foundational content? Commit to your answer and your reasoning. The expertise reversal effect will test this intuition directly, and whether your prediction holds or breaks, the comparison will sharpen your understanding of what CLT's most counterintuitive finding actually demonstrates.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends critically on understanding the distinction between intrinsic and extraneous load. Before proceeding, test yourself: If a physics instructor presents the same conceptual content (Newton's laws interacting with friction, momentum, and gravity) in a cluttered, split-attention format versus a clean, integrated diagram, which load type has changed between these two presentations, and which has remained constant? If you find yourself reaching for the exact definitions above rather than reasoning from understanding, revisit them with this scenario in mind — the ability to apply the distinction to a novel case signals genuine comprehension.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> Before reading further, take a moment to articulate what you currently believe about why some instructional approaches work better than others. What factors do you think determine whether a student successfully learns from a lesson? Do your current explanations appeal to motivation, intelligence, prior knowledge, or something about the structure of the content itself? Noting your starting assumptions will make CLT's particular explanatory lens — cognitive architecture — all the more visible as you encounter it.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
+> 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
 
 
 
@@ -249,6 +301,52 @@ importance: high
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, cognitive-load-theory-foundational-report-2026-03-11.md)*:
+[[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-interactivity|Element interactivity]] * [[cognitive-load|cognitive load]] * [[automation|automation]] * [[self-explanation|self-explanation]] * [[subjective-mental-effort-ratings|subjective mental effort ratings]] * [[expertise-reversal|expertise reversal]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
+
+
+
+
 
 
 

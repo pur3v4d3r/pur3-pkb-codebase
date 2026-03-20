@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "critical-thinking-educational-settings-foundational-report-2026-03-05"
+  - "critical-thinking-educational-settings-foundational-report-2026-03-05.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[Socratic-Method|Socratic Method]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[critical-thinking|critical thinking]]"
+  - "[[misinformation|misinformation]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Working-memory|Working memory]]"
+  - "[[John-Sweller|John Sweller]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,6 +117,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > Paul and Elder's central insight is that poor critical thinking is not a unitary failure but a specific failure at a specific element measured against a specific standard. A student who produces a vague argument is failing on the standard of *clarity*. One who cites irrelevant evidence is failing on *relevance*. One who argues from only one point of view is failing on *breadth*. This diagnostic specificity is what makes the framework practically useful — it tells the educator *where* to…
 
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -119,6 +140,18 @@ importance: high
 > [!warning] **Key Distinction**
 > A pervasive misconception conflates critical thinking with critical attitude — the disposition to find fault, doubt, or challenge. True CT is not primarily negative. It involves the fair, disciplined evaluation of claims, which means giving credit to well-supported claims with the same rigour applied to the rejection of poorly supported ones. Students who learn that CT means scepticism toward authority without developing the tools for constructive, evidence-based reasoning have learned a…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to articulate what you currently believe about critical thinking in education. What do you think it means? Where did your assumptions come from — your own schooling, professional experience, popular discourse? What questions are you hoping this report will answer? Noting your starting point makes the learning journey visible and gives you something concrete to compare against when you reach Phase VI.
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> 1. Which of these definitions surprised you or challenged your prior understanding of critical thinking? What did you previously assume the term meant?
+> 2. How does the historical progression — from Socrates to Dewey to Bloom to the standards movement — illuminate current debates about what schools should prioritise?
+> 3. Why might the distinction between CT *skills* and CT *dispositions* be particularly consequential for how we design educational environments?
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -129,3 +162,21 @@ importance: high
 
 **Related concepts:**
 [[Robert-Ennis|Robert Ennis]] · [[critical-thinking|critical thinking]] · [[misinformation]] · [[Critical-thinking|Critical thinking]] · [[critical-thinking|critical thinking]] · [[Socratic-Method|Socratic Method]] · [[John-Dewey|John Dewey]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Working-memory|Working memory]] · [[John-Sweller|John Sweller]] · [[cognitive-load-theory|cognitive load theory]] · [[Daniel-Willingham|Daniel Willingham]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Metacognition]] · [[Ann-Brown|Ann Brown]]
+
+**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+[[Robert-Ennis|Robert Ennis]] * [[critical-thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[cognitive-load-theory|cognitive load theory]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+
+

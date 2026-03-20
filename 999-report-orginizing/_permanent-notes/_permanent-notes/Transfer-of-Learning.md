@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -88,6 +88,14 @@ see-also:
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]]"
   - "[[Daniel-Schwartz|Daniel Schwartz]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[critical-thinking|critical thinking]]"
+  - "[[misinformation|misinformation]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Working-memory|Working memory]]"
+  - "[[John-Sweller|John Sweller]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[critical-thinking|critical thinking]]"
   - "[[misinformation|misinformation]]"
@@ -170,6 +178,26 @@ importance: high
 > [!analytical-insight] Key Insight *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
 > Understanding is not a state but a capacity — specifically, the capacity for *functional integration*: the organisation of knowledge in a way that enables (1) productive inference across new cases; (2) accurate prediction of a domain's behaviour; (3) detection of anomaly or error — the knowledge reveals when things don't fit; (4) analogical extension — the ability to map the structure of the domain onto structurally similar domains; and (5) self-correction — the ability to recognise the limits and failures of one's own understanding. This is a *functional* rather than *propositional* conception of understanding.
 
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+
+
+
+
+
 
 
 
@@ -203,6 +231,36 @@ importance: high
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to articulate what you currently believe about critical thinking in education. What do you think it means? Where did your assumptions come from — your own schooling, professional experience, popular discourse? What questions are you hoping this report will answer? Noting your starting point makes the learning journey visible and gives you something concrete to compare against when you reach Phase VI.
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> 1. Which of these definitions surprised you or challenged your prior understanding of critical thinking? What did you previously assume the term meant?
+> 2. How does the historical progression — from Socrates to Dewey to Bloom to the standards movement — illuminate current debates about what schools should prioritise?
+> 3. Why might the distinction between CT *skills* and CT *dispositions* be particularly consequential for how we design educational environments?
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
+> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
+> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> The Questioner is about to pose what seems like a simple question: *What does it mean to truly understand something?* Before reading the Respondent's answer, formulate your own. You might reach for phrases like "being able to explain it," or "knowing why, not just what," or "being able to use it." Write something down — even a sentence. As the dialogue unfolds, you will encounter the same scrutiny applied to your answer. Let the Respondent speak for you.
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> At this point, the Respondent's position is fully articulated: understanding is the capacity for structural, mechanistic explanation that survives probing. Do you agree? Think about a subject you feel you genuinely understand. Could you pass the explanation-test? And now think about a subject where you feel uncertain — would the test accurately capture your degree of understanding, or does something feel off about using explanation as the measure? Hold that intuition. It will matter.
 
 
 
@@ -262,6 +320,56 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md, types-of-reasoning-foundational-report-2026-03-05.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+[[Robert-Ennis|Robert Ennis]] * [[critical-thinking|critical thinking]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+
+
+
+
+
+
 
 
 

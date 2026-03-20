@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "cognitive-load-theory-focused-analysis-2026-03-06"
+  - "cognitive-load-theory-focused-analysis-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[worked-example-effect|worked example effect]]"
   - "[[expertise-reversal-effect|expertise reversal effect]]"
   - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[worked-example-effect|worked example effect]]"
+  - "[[expertise-reversal-effect|expertise reversal effect]]"
+  - "[[working-memory|working memory]]"
+  - "[[schema-theory|schema theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -126,6 +135,14 @@ importance: high
 > [!analytical-insight] Key Insight
 > A consequence of the element interactivity mechanism that is rarely made explicit in CLT treatments is that intrinsic load is not actually fixed for a given piece of content — it is only fixed for a given learner at a given moment. The same material has different element interactivity for a novice and an expert. This means that the additive model (Total Load = Intrinsic + Extraneous + Germane) implicitly assumes a static learner while the theory's most interesting phenomena — the worked example…
 
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The expertise reversal effect, taken seriously, requires that instructional design be calibrated to current learner knowledge state. But the studies that established the effect typically used well-controlled laboratory conditions where expertise was manipulated or measured with high precision. In real classrooms with heterogeneous learners, "expertise" is variable across students, domains, and even time of day. The tension here is between the theoretical clarity of the effect (under controlled conditions, it is robust) and the practical ambiguity of its application (in real instructional environments, when is a given learner "expert enough" that scaffolding becomes harmful?). This gap between laboratory robustness and field applicability is one of the most important unresolved issues in CLT's applied literature.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The theoretical tension is severe: germane load is defined as the load that produces schemas, and schema production is identified by better learning outcomes. This means the construct is identified by its consequences rather than by any independent characteristic that could be measured prior to observing the outcome. A researcher cannot designate an instructional condition as "high germane load" before running the study; they can only apply that label after seeing that learning improved. This renders the germane load construct unfalsifiable in the strong sense — any instructional manipulation that increases effort without improving learning can be explained by labeling the extra effort "extraneous," and any increase in effort that does improve learning gets labeled "germane." The framework can accommodate any finding without being challenged by any finding.
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -137,6 +154,20 @@ importance: high
 > [!warning] **Key Distinction**
 > CLT is often misread as a simple prescription to minimize cognitive effort. This misreading leads to instructional designs that are cognitively undemanding across the board — short exposures, heavy scaffolding, minimal challenge — which, paradoxically, can impair learning by reducing the [[Schema-Construction]] effort that produces durable encoding. The correct prescription is more nuanced: reduce *extraneous* load (effort that does not produce schemas) while preserving or increasing the…
 
+> [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> Before reading this analysis, take a moment to articulate your current position: Do you believe that instructional strategies that work well for novices will work equally well — or perhaps better — for experts who have mastered the foundational content? Commit to your answer and your reasoning. The expertise reversal effect will test this intuition directly, and whether your prediction holds or breaks, the comparison will sharpen your understanding of what CLT's most counterintuitive finding actually demonstrates.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends critically on understanding the distinction between intrinsic and extraneous load. Before proceeding, test yourself: If a physics instructor presents the same conceptual content (Newton's laws interacting with friction, momentum, and gravity) in a cluttered, split-attention format versus a clean, integrated diagram, which load type has changed between these two presentations, and which has remained constant? If you find yourself reaching for the exact definitions above rather than reasoning from understanding, revisit them with this scenario in mind — the ability to apply the distinction to a novel case signals genuine comprehension.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -145,3 +176,17 @@ importance: high
 
 **Related concepts:**
 [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[germane-cognitive-load|germane cognitive load]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Educational-Psychology|Educational Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[worked-example-effect|worked example effect]] · [[expertise-reversal-effect|expertise reversal effect]] · [[germane-cognitive-load|germane cognitive load]] · [[working-memory|working memory]] · [[schema-theory|schema theory]] · [[cognitive-psychology|cognitive psychology]] · [[Educational-Psychology|Educational Psychology]] · [[Instructional-design|Instructional design]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[working-memory|working memory]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+[[Cognitive-Load-Theory|Cognitive Load Theory]] * [[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[working-memory|working memory]] * [[schema-theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[long-term-memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[chunk|chunk]] * [[schemas|schemas]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+
+

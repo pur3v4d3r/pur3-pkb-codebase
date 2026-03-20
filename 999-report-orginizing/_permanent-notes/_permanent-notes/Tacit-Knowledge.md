@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"
   - "[[Externalization-Exercises|Externalization Exercises]]"
+  - "[[understanding|understanding]]"
+  - "[[Richard-Feynman|Richard Feynman]]"
+  - "[[pedagogy|pedagogy]]"
+  - "[[Rote-memorization|Rote memorization]]"
+  - "[[classical-mechanics|classical mechanics]]"
+  - "[[Michael-Polanyi|Michael Polanyi]]"
+  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
+  - "[[Gilbert-Ryle|Gilbert Ryle]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
   - "[[pedagogy|pedagogy]]"
@@ -176,6 +184,16 @@ importance: high
 > [!warning] **Key Distinction**
 > The most dangerous misconception in PKM culture is the idea that a comprehensive, well-organized PKB is equivalent to comprehensive understanding. The evidence reviewed here makes clear that this is false: the most important dimension of advanced expertise — the tacit, embodied, situationally responsive knowing that actually drives expert performance — is precisely what a PKB cannot capture. A PKB user who equates their knowledge base with their knowledge risks the cognitive equivalent of the…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> The Questioner is about to pose what seems like a simple question: *What does it mean to truly understand something?* Before reading the Respondent's answer, formulate your own. You might reach for phrases like "being able to explain it," or "knowing why, not just what," or "being able to use it." Write something down — even a sentence. As the dialogue unfolds, you will encounter the same scrutiny applied to your answer. Let the Respondent speak for you.
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> At this point, the Respondent's position is fully articulated: understanding is the capacity for structural, mechanistic explanation that survives probing. Do you agree? Think about a subject you feel you genuinely understand. Could you pass the explanation-test? And now think about a subject where you feel uncertain — would the test accurately capture your degree of understanding, or does something feel off about using explanation as the measure? Hold that intuition. It will matter.
+
+
 ## Connections & Context
 
 **Related concepts:**
@@ -197,6 +215,26 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[illusion-of-explanatory-depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[metacognitive-calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+
+
 
 
 

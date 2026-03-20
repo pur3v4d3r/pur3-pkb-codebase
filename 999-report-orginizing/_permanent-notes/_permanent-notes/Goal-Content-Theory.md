@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "goal-contents-theory-focused-analysis-2026-03-13"
+  - "goal-contents-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[basic-psychological-needs|basic psychological needs]]"
   - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Goal-Contents-Theory|Goal Contents Theory]]"
+  - "[[Tim-Kasser|Tim Kasser]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[basic-psychological-needs|basic psychological needs]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -138,6 +147,16 @@ importance: high
 > [!warning] **Key Distinction**
 > A subtle but important pitfall for applying GCT in educational contexts is that attempts to promote intrinsic goal framing can themselves become controlling if they are delivered as prescriptions ("you *should* care about personal growth") rather than as invitations. Research on autonomy support consistently shows that conveying a rationale while acknowledging learners' perspectives and perspectives is more effective than mandating internal states. The goal is to create conditions where…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, consider this: Imagine two people with roughly equal resources, intelligence, and effort. One devotes the next five years primarily to building wealth and public recognition. The other devotes the same five years to deepening relationships, developing personal skills, and contributing to their community. Both achieve roughly what they set out to. Which person do you expect to feel more fulfilled five years from now — and why? Hold that prediction in mind. The evidence may complicate or confirm your intuition, but either way the comparison will sharpen your understanding of what's at stake in this analysis.
+
+> [!reflection] **Reflect** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*
+> Before engaging with the formal framework, capture your current understanding of what makes a goal "intrinsic" versus "extrinsic." Is the distinction about the *source* of motivation (internal vs. external pressure)? About whether goals involve *tangible rewards*? About something else entirely? Write this down. The distinction GCT draws is genuinely different from what most readers initially assume, and tracking that shift in understanding is valuable.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -152,3 +171,19 @@ importance: high
 
 **Related concepts:**
 [[Goal-Contents-Theory|Goal Contents Theory]] · [[Tim-Kasser|Tim Kasser]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Aspiration-Index|Aspiration Index]] · [[Aspiration-Index|Aspiration Index]]
+
+**Related concepts** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+[[Goal-Contents-Theory|Goal Contents Theory]] * [[Tim-Kasser|Tim Kasser]] * [[Richard-Ryan|Richard Ryan]] * [[basic-psychological-needs|basic psychological needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Aspiration-Index|Aspiration Index]] * [[psychological-well-being|psychological well-being]] * [[ill-being|ill-being]] * [[self-actualization|self-actualization]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Edward-Deci|Edward Deci]] * [[Contingent-self-worth|Contingent self-worth]] * [[Kennon-Sheldon|Kennon Sheldon]] * [[Self-Concordance-Model|Self-Concordance Model]] * [[hedonic-adaptation|hedonic adaptation]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[hedonic-adaptation|hedonic adaptation]]
+
+**Cross-report connections** *(from goal-contents-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Growth-Mindset|Growth Mindset]]
+
+
+

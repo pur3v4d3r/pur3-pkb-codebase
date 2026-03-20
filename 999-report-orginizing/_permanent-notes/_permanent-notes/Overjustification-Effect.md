@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Competence-Need|Competence Need]]"
+  - "[[CET|CET]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[SDT|SDT]]"
+  - "[[intrinsic-motivation|intrinsic motivation]]"
+  - "[[functional-significance|functional significance]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[self-determination|self-determination]]"
   - "[[CET|CET]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[SDT|SDT]]"
@@ -150,6 +158,10 @@ importance: high
 > [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > What the autonomy pathway mechanism reveals is that rewards do not merely add a new reason to perform an activity alongside the pre-existing intrinsic reason. They can transform the *experienced meaning* of the activity itself. Before the reward, drawing was an act of self-expression. After repeated reward administration, drawing is an act of earning. The activity's identity — what it *is* for the person — has changed. This is why the effect persists after rewards are removed: you cannot simply subtract the reward and expect to return to the previous motivational state, because the activity's meaning has been reorganised. This is a far more radical claim than merely saying "people become accustomed to rewards" — it is a claim about how reward structures reshape the self-world relationship.
 
+> [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
+
+
 
 
 
@@ -169,6 +181,16 @@ importance: high
 > [!warning] **Key Distinction** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > The activities most commonly targeted for gamification are those that educators and designers perceive as insufficiently engaging — and the addition of game mechanics is intended to supply the missing motivation. But CET predicts that if the activity was already somewhat intrinsically interesting (or had the potential to become so with appropriate autonomy-supportive framing), the addition of controlling reward structures will damage that potential. Gamification often imports the motivational dynamics of extrinsic contingency precisely where intrinsic motivation was most valuable to preserve. The question to ask before gamifying is not "will this increase engagement?" (it often will, in the short term) but "what kind of engagement, through what motivational mechanism, and at what cost to intrinsic interest?"
 
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, commit to a prediction: Suppose a child who genuinely loves drawing is given a gold-star certificate every time they complete a drawing. After several weeks, the certificates stop. Does the child draw *more*, *less*, or *about the same* as before the reward programme began? Write down your prediction and the intuition behind it. The answer — and the explanation — is the core of what this report analyses.
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> The argument from here forward depends on the distinction between the controlling aspect and the informational aspect of an event. Before proceeding, test yourself: can you explain, in your own words, why the *same* verbal praise ("great job!") could be primarily controlling for one student and primarily informational for another? What factors would determine which meaning is more salient? If you're reaching for the definitions above rather than understanding them, consider re-reading before proceeding.
 
 
 ## Connections & Context
@@ -197,6 +219,22 @@ importance: high
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
 - [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[intrinsic-motivation|intrinsic motivation]] * [[functional-significance|functional significance]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-locus-of-causality|perceived locus of causality]] * [[perceived-competence|perceived competence]] * [[speech-act-theory|speech act theory]] * [[autonomy-orientation|autonomy orientation]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[control-orientation|control orientation]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+
+
 
 
 

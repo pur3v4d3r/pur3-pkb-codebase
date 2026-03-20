@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -81,6 +81,14 @@ see-also:
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Competence-Need|Competence Need]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -222,6 +230,50 @@ importance: high
 > [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
 > What the autonomy pathway mechanism reveals is that rewards do not merely add a new reason to perform an activity alongside the pre-existing intrinsic reason. They can transform the *experienced meaning* of the activity itself. Before the reward, drawing was an act of self-expression. After repeated reward administration, drawing is an act of earning. The activity's identity — what it *is* for the person — has changed. This is why the effect persists after rewards are removed: you cannot simply subtract the reward and expect to return to the previous motivational state, because the activity's meaning has been reorganised. This is a far more radical claim than merely saying "people become accustomed to rewards" — it is a claim about how reward structures reshape the self-world relationship.
 
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+> [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -303,6 +355,64 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> Before reading further, recall a piece of feedback you received that genuinely changed how you approached a task or domain — and one that did not. What distinguished them? Was the difference in the content of the feedback, or in something about how it was framed, when it arrived, or how it positioned you in relation to the work? Hold these examples in mind as anchor points throughout the report.
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> 1. How does the SDT definition of autonomy — as self-endorsed action rather than independence — challenge common assumptions about what "student choice" accomplishes in instructional design? Can you imagine contexts where giving students more choice might actually undermine autonomy in the technical sense?
+> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on context? What determines the switch?
+> 3. Which of the foundational distinctions — summative/formative, feedback/feed-forward, person/work — seems most consequential for your own practice or the learning contexts you care about? Why?
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+
+> [!reflection] **Reflect** *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> Before the deconstruction begins, consider: what do you currently believe about why people are motivated? Do you believe there are universal human motivations that transcend culture? Do you think external rewards always undermine intrinsic interest, or only sometimes? Where did those beliefs come from — personal experience, your education, a specific course or book? The goal is not to abandon your priors but to make them visible, so you can track which ones survive the audit and which ones don't.
+
+> [!reflection] **Reflect** *(from self-determination-theory-first-principles-report-2026-03-11.md)*
+> 1. Which assumption's dissolution surprised you most? For many readers, the innateness claim (Assumption 2) is assumed so deeply that its dissolution feels disorienting — needs seem so obviously basic. Its dissolution points to the difference between "reliably predicts well-being" and "is a biological necessity."
+> 2. Which survived most intact? The empirical core — that something like autonomy, competence, and relatedness satisfaction consistently predicts flourishing outcomes — is robustly supported, even if its theoretical framing as innate and universal is not.
+> 3. What does the assumption map reveal? The assumptions cluster around two underlying commitments: a philosophical anthropology (humans are naturally growth-oriented organisms with innate needs) and an empirical research programme (need satisfaction predicts well-being). These two layers are conflated in the standard presentation but are separable — the empirical programme can survive the dissolution of the philosophical anthropology.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> Before reading further, bring to mind a learning or work context in which you felt genuinely motivated — not because of external rewards or obligations, but because the activity itself was engaging or meaningful to you. Now bring to mind a contrasting context where motivation felt effortful, fragmented, or performed for external reasons. What was different about those two environments? What did the first context provide that the second did not? Hold these contrasts in mind as you read; SDT offers a precise vocabulary for articulating exactly what you are remembering.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> 1. SDT's concept of autonomy has surprised many readers who initially equate it with independence or non-conformity. How does the distinction between autonomy and independence change your understanding of what a need-supportive social environment would look like?
+> 2. The distinction between need thwarting and the absence of need satisfaction has practical implications for intervention design. In a context you know well (classroom, clinic, workplace), what would constitute active need thwarting rather than merely the absence of need satisfaction?
+> 3. Looking at the six core definitions above, which concept do you anticipate will be most theoretically contentious or empirically difficult to measure? Why?
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, commit to a prediction: Suppose a child who genuinely loves drawing is given a gold-star certificate every time they complete a drawing. After several weeks, the certificates stop. Does the child draw *more*, *less*, or *about the same* as before the reward programme began? Write down your prediction and the intuition behind it. The answer — and the explanation — is the core of what this report analyses.
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> The argument from here forward depends on the distinction between the controlling aspect and the informational aspect of an event. Before proceeding, test yourself: can you explain, in your own words, why the *same* verbal praise ("great job!") could be primarily controlling for one student and primarily informational for another? What factors would determine which meaning is more salient? If you're reaching for the definitions above rather than understanding them, consider re-reading before proceeding.
 
 
 
@@ -488,6 +598,190 @@ importance: high
 - [[Humanistic-Psychology|Humanistic Psychology]]
 - [[Growth-Mindset|Growth Mindset]]
 - [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Related concepts** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md, feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, metacognition-motivation-foundational-report-2026-03-05.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-first-principles-report-2026-03-11.md, self-determination-theory-foundational-report-2026-03-11.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+**Cross-report connections** *(from self-determination-theory-first-principles-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Intrinsic-vs-Extrinsic-Motivation|Intrinsic vs Extrinsic Motivation]]
+- [[Humanistic-Psychology|Humanistic Psychology]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Philosophy-of-Agency|Philosophy of Agency]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

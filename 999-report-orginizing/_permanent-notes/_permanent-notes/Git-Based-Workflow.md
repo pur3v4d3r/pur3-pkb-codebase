@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "multi-agent-systems-with-claude-code"
+  - "multi-agent-systems-with-claude-code.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[Bounded-Contexts|Bounded Contexts]]"
   - "[[Message-Queues|Message Queues]]"
   - "[[MapReduce]]"
+  - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
+  - "[[Claude-Opus-4|Claude Opus 4]]"
+  - "[[Claude-Sonnet-4|Claude Sonnet 4]]"
+  - "[[Skills|Skills]]"
+  - "[[Microservices-Architecture|Microservices Architecture]]"
+  - "[[Bounded-Contexts|Bounded Contexts]]"
+  - "[[Message-Queues|Message Queues]]"
+  - "[[MapReduce|MapReduce]]"
   - "[[Event-Driven-Architecture|Event-Driven Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -150,3 +159,23 @@ importance: medium
 
 **Related concepts:**
 [[Claude-Opus-4|Claude Opus 4]] · [[Claude-Sonnet-4|Claude Sonnet 4]] · [[Skills]] · [[Microservices-Architecture|Microservices Architecture]] · [[Bounded-Contexts|Bounded Contexts]] · [[Message-Queues|Message Queues]] · [[MapReduce]] · [[Event-Driven-Architecture|Event-Driven Architecture]] · [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] · [[Conway's-Law|Conway's Law]] · [[Agile-Standups|Agile Standups]] · [[Principle-of-Least-Privilege|Principle of Least Privilege]] · [[Cognitive-Load|Cognitive Load]] · [[Expertise-Theory|Expertise Theory]] · [[Working-Memory|Working Memory]]
+
+**Related concepts** *(from multi-agent-systems-with-claude-code.md)*:
+[[Claude-Opus-4|Claude Opus 4]] * [[Claude-Sonnet-4|Claude Sonnet 4]] * [[Microservices-Architecture|Microservices Architecture]] * [[Bounded-Contexts|Bounded Contexts]] * [[Message-Queues|Message Queues]] * [[Event-Driven-Architecture|Event-Driven Architecture]] * [[Circuit-Breaker-Pattern|Circuit Breaker Pattern]] * [[Conway's-Law|Conway's Law]] * [[Agile-Standups|Agile Standups]] * [[Principle-of-Least-Privilege|Principle of Least Privilege]] * [[Cognitive-Load|Cognitive Load]] * [[Expertise-Theory|Expertise Theory]] * [[Working-Memory|Working Memory]] * [[Claude-Code-Basics|Claude Code Basics]] * [[CLAUDE.md-Files|CLAUDE.md Files]]
+
+**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
+- [[Claude-Code-Basics|Claude Code Basics]]
+- [[CLAUDE.md-Files|CLAUDE.md Files]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
+- [[YAML-Syntax|YAML Syntax]]
+- [[MCP-Servers|MCP Servers]]
+
+**Cross-report connections** *(from multi-agent-systems-with-claude-code.md)*:
+- [[Claude-Code-Basics|Claude Code Basics]]
+- [[CLAUDE.md-Files|CLAUDE.md Files]]
+- [[Prompt-Engineering-Fundamentals|Prompt Engineering Fundamentals]]
+- [[YAML-Syntax|YAML Syntax]]
+- [[MCP-Servers|MCP Servers]]
+
+
+

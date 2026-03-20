@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Aporia]]"
   - "[[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Reflective-Thinking|Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
   - "[[John-Dewey|John Dewey]]"
   - "[[Reflective-Thinking|Reflective Thinking]]"
   - "[[Socratic-Method|Socratic Method]]"
@@ -138,6 +146,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > **The Pipeline Reveals Why Assertion-Based PKBs Cannot Produce Understanding**: The Aporia-to-Schema Pipeline reveals the precise mechanism by which standard assertion-based PKB note-making fails to produce understanding. When a note begins with an assertion — "X is the case" — it bypasses Stage 2 entirely. There is no induced aporia, no felt difficulty, no disequilibrium. The new information is presented to the cognitive system as something to be assimilated into existing schemas, not as…
 
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
+
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.
+
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -175,6 +195,16 @@ importance: high
 > [!warning] **Key Distinction**
 > The inquiry-based approach described here is frequently misread as "a more elaborate way of taking notes" — adding question prompts and revision logs to what is essentially the same capture workflow. This misreads the architecture entirely. Inquiry-first PKB design is not a more elaborate capture workflow; it is a different cognitive activity. The note is not the destination; the inquiry is. The note is the record of an inquiry process that should occur primarily in the learner's mind — with…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
+> When did you last hold a belief with genuine confidence, then encounter evidence or argument that revealed it to be more fragile than you thought? What was your first response — genuine curiosity, discomfort, or defensiveness? That response pattern reveals a great deal about your current level of aporic receptivity.
+
+> [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
+> Think of a belief you currently hold with high confidence — about your profession, your relationships, your values, or the world. Have you recently subjected it to the kind of examination that could produce genuine aporia? What would it take for you to arrive at aporia about this belief? Is the answer "nothing could produce aporia" — and if so, does that tell you something about the belief's epistemic status?
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -188,4 +218,8 @@ importance: high
 
 **Related concepts** *(from report-01-the-inquiry-engine.md)*:
 [[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[habit|habit]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[elenchus|elenchus]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]]
+
+**Related concepts** *(from report-01-the-inquiry-engine.md)*:
+[[John-Dewey|John Dewey]] * [[Reflective-Thinking|Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Flavell|John Flavell]] * [[Metacognitive-Monitoring|Metacognitive Monitoring]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[How-We-Think|How We Think]] * [[Gregory-Vlastos|Gregory Vlastos]] * [[Thinking,-Fast-and-Slow|Thinking, Fast and Slow]] * [[Jonathan-Evans|Jonathan Evans]] * [[Keith-Stanovich|Keith Stanovich]] * [[Richard-West|Richard West]] * [[System-1|System 1]]
+
 

@@ -36,12 +36,14 @@ from config import (
     PRACTICE_CALLOUTS,
     WARNING_CALLOUTS,
     EXPANSION_CALLOUTS,
+    REFLECTION_CALLOUTS,
     MAX_EVIDENCE_PER_NOTE,
     MAX_INSIGHTS_PER_NOTE,
     MAX_CONNECTIONS_PER_NOTE,
     MAX_PRACTICES_PER_NOTE,
     MAX_WARNINGS_PER_NOTE,
     MAX_EXPANSION_TOPICS,
+    MAX_REFLECTIONS_PER_NOTE,
 )
 from report_parser import (
     NoteCandidate,
@@ -50,6 +52,7 @@ from report_parser import (
     extract_report_metadata,
     parse_definition_title,
     parse_synthesis_title,
+    parse_framework_profile_title,
 )
 
 
@@ -193,6 +196,9 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
             if body and len(expansion_topics) < MAX_EXPANSION_TOPICS:
                 expansion_topics.append(body)
 
+    # Collect reflection prompts
+    reflections = _collect_supporting(callouts, REFLECTION_CALLOUTS, MAX_REFLECTIONS_PER_NOTE)
+
     # Process note-generating callouts
     for callout in callouts:
         ctype = callout.get("type", "").lower()
@@ -212,6 +218,11 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
             concept_name = parse_synthesis_title(title, body)
             domain = metadata.primary_domain or "other"
             attribution = ""
+        elif ctype == "framework-profile":
+            concept_name, attribution = parse_framework_profile_title(title)
+            domain = metadata.primary_domain or "other"
+            if not attribution:
+                attribution = "Framework profile — this report series"
         else:
             concept_name = title or "Untitled"
             domain = metadata.primary_domain or "other"
@@ -267,6 +278,7 @@ def extract_candidates_from_json(json_path: Path) -> tuple[list[NoteCandidate], 
             warnings=warnings,
             expansion_topics=expansion_topics,
             wiki_links=wiki_links,
+            reflections=reflections,
         )
         candidates.append(candidate)
 

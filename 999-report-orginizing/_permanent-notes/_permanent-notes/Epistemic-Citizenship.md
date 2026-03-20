@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -85,6 +85,14 @@ see-also:
   - "[[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]"
   - "[[Illusion-of-Knowing|Illusion of Knowing]]"
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Drew-Westen|Drew Westen]]"
+  - "[[Political-reasoning|Political reasoning]]"
+  - "[[democratic-self-governance|democratic self-governance]]"
+  - "[[information-cocoons|information cocoons]]"
+  - "[[political-polarization|political polarization]]"
+  - "[[political-heuristics|political heuristics]]"
+  - "[[Daniel-Kahneman|Daniel Kahneman]]"
+  - "[[System-1|System 1]]"
   - "[[Drew-Westen|Drew Westen]]"
   - "[[Political-reasoning|Political reasoning]]"
   - "[[democratic-self-governance|democratic self-governance]]"
@@ -151,6 +159,14 @@ importance: high
 > [!analytical-insight] Key Insight *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
 > **The Sophistication Paradox**: Greater cognitive sophistication does not straightforwardly improve political reasoning quality. Highly educated partisans often do not converge on the same factual beliefs when presented with the same evidence — they diverge, using sophisticated arguments to defend their prior positions more effectively. This suggests that improving political reasoning requires more than information provision or critical thinking skill development in isolation.
 
+> [!evidence] Supporting Evidence *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 ("The Science of Availability") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.
+
+> [!evidence] Supporting Evidence *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.
+
+
+
 
 
 
@@ -168,6 +184,18 @@ importance: high
 > [!warning] **Key Distinction** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
 > A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.
 
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to surface your own prior beliefs about political reasoning. Do you think most people reason about politics carefully or carelessly? Do you believe your own political judgments are generally well-founded? Where do you think the greatest dangers to democratic decision-making come from — ignorance, manipulation, or something structural? Noting your starting position now will make the conceptual moves in this report visible and personally meaningful.
+
+> [!reflection] **Reflect** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*
+> 1. The System 1/System 2 distinction is now deeply familiar in popular discourse about thinking. Where do you see the limits of this framework for understanding political reasoning specifically? What does political cognition involve that the two-system model might miss?
+> 2. The transition from Converse's "voter ignorance" framing to the "motivated reasoning" framing represents a significant conceptual shift. What moral and political implications follow from each framing? Which do you find more accurate, and why?
+> 3. Think about a political belief you hold with confidence. Can you trace where it comes from? How much of that origin is accuracy-motivated versus directionally motivated?
 
 
 ## Connections & Context
@@ -194,6 +222,22 @@ importance: high
 - [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
 - [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
 - [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Related concepts** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+[[Drew-Westen|Drew Westen]] * [[Political-reasoning|Political reasoning]] * [[democratic-self-governance|democratic self-governance]] * [[information-cocoons|information cocoons]] * [[political-polarization|political polarization]] * [[political-heuristics|political heuristics]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[System-1|System 1]] * [[System-2|System 2]] * [[Ziva-Kunda|Ziva Kunda]] * [[motivated-reasoning|motivated reasoning]] * [[Philip-Converse|Philip Converse]] * [[Dual-Process-Theory|Dual Process Theory]] * [[John-Jost|John Jost]] * [[Christopher-Achen|Christopher Achen]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+**Cross-report connections** *(from political-reasoning-decision-making-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Epistemic-Calibration|Epistemic Calibration]]
+
+
+
 
 
 

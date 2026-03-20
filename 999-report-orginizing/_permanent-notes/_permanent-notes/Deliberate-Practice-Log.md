@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Legitimate-Peripheral-Participation]]"
   - "[[Procedural-Memory]]"
   - "[[Reflection-in-Action]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Lifelong-learning|Lifelong learning]]"
+  - "[[Flavell|Flavell]]"
+  - "[[Metacognitive-Knowledge|Metacognitive Knowledge]]"
+  - "[[Metacognitive-Experiences|Metacognitive Experiences]]"
+  - "[[Metacognitive-Regulation|Metacognitive Regulation]]"
+  - "[[declarative-metacognitive-knowledge|declarative metacognitive knowledge]]"
   - "[[Metacognition|Metacognition]]"
   - "[[John-Flavell|John Flavell]]"
   - "[[Lifelong-learning|Lifelong learning]]"
@@ -101,6 +109,14 @@ importance: medium
 > [!analytical-insight] Key Insight *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > Self-regulated learning is not a linear process but a recursive feedback loop. Each learning episode generates information — about strategy effectiveness, about personal strengths and limitations, about the characteristics of the task — that modifies the learner's metacognitive knowledge base and motivational beliefs for subsequent episodes. This means that the value of metacognitive practice compounds over time: each cycle of deliberate self-regulation produces not only direct learning outcomes but also refinements in the metacognitive apparatus itself.
 
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
+
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
+
+
+
 
 
 
@@ -120,6 +136,18 @@ importance: medium
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to surface your current beliefs about your own learning. Do you consider yourself a good learner? What strategies do you rely on most? When was the last time you deliberately changed how you study or practice because your current approach wasn't working? Your answers will reveal the baseline metacognitive awareness you bring to this report — and will give you concrete anchors for the material that follows.
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> 1. Which of Flavell's three components — metacognitive knowledge, metacognitive experiences, or metacognitive regulation — do you think you are strongest in? Which seems most underdeveloped? What evidence from your own learning history supports this self-assessment?
+> 2. How does the Vygotskian insight — that self-regulation originates in social interaction — change how you think about the role of teachers, mentors, and peers in developing metacognitive skill?
+> 3. Consider the distinction between declarative, procedural, and conditional metacognitive knowledge. Can you identify a learning strategy you know *about* but rarely use well? Is the gap declarative, procedural, or conditional?
+
+
 ## Connections & Context
 
 **Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
@@ -134,6 +162,22 @@ importance: medium
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
 - [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Related concepts** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+[[John-Flavell|John Flavell]] * [[Lifelong-learning|Lifelong learning]] * [[Metacognitive-Knowledge|Metacognitive Knowledge]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Metacognitive-Regulation|Metacognitive Regulation]] * [[declarative-metacognitive-knowledge|declarative metacognitive knowledge]] * [[procedural-metacognitive-knowledge|procedural metacognitive knowledge]] * [[conditional-metacognitive-knowledge|conditional metacognitive knowledge]] * [[William-James|William James]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Ann-L.-Brown|Ann L. Brown]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[self-regulated-learning|self-regulated learning]] * [[Calibration|Calibration]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+
+
 
 
 

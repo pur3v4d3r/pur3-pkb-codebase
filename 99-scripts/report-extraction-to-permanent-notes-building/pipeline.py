@@ -193,6 +193,8 @@ def stage_update(match_report: MatchReport, execute: bool, verbose: bool) -> Upd
                     changes.append(f"+{a.practices_added} practices")
                 if a.warnings_added:
                     changes.append(f"+{a.warnings_added} warnings")
+                if getattr(a, 'reflections_added', 0):
+                    changes.append(f"+{a.reflections_added} reflections")
                 if a.wiki_links_added:
                     changes.append(f"+{a.wiki_links_added} links")
                 if a.see_also_added:
@@ -225,7 +227,7 @@ def stage_create(match_report: MatchReport, execute: bool, verbose: bool) -> dic
     # Import v1 note builder
     from note_builder import build_permanent_note, get_output_filename
 
-    output_dir = OUTPUT_DIR
+    output_dir = PERMANENT_NOTES_DIR
     if not output_dir.exists() and execute:
         output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -319,6 +321,7 @@ def write_report(
                     "insights_added": a.insights_added,
                     "practices_added": a.practices_added,
                     "wiki_links_added": a.wiki_links_added,
+                    "reflections_added": getattr(a, 'reflections_added', 0),
                 }
                 for a in update_report.actions
                 if a.was_modified

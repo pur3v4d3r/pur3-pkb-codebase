@@ -48,6 +48,9 @@ EXTRACTION_BATCHES = [
     EXTRACTOR_OUTPUT_ROOT / "2026-03-19-llm-and-prompt-engineering",
     EXTRACTOR_OUTPUT_ROOT / "2026-03-19-reports-to-file",
     EXTRACTOR_OUTPUT_ROOT / "2026-03-19-examined-life-reports",
+    # New batches (2026-03-20) — dialectical & comparative synthesis reports
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-20-dialectical-reports",
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-20-comparative-synthesis-reports",
 ]
 
 # Original 30-report batch (already processed by v1 pipeline)
@@ -72,18 +75,22 @@ MAX_FUZZY_CANDIDATES = 5      # How many fuzzy suggestions to show in reports
 # Each callout of these types produces one permanent note per instance.
 # Add "key-claim" here if you also want key claims as standalone notes.
 
-NOTE_GENERATING_CALLOUTS = ["definition", "original-synthesis"]
+NOTE_GENERATING_CALLOUTS = ["definition", "original-synthesis", "framework-profile"]
 
 # ══════════════════════════════════════════════════════════════════════════════
 # SUPPORTING CALLOUT TYPES (enrich notes but don't generate them)
 # ══════════════════════════════════════════════════════════════════════════════
 
-EVIDENCE_CALLOUTS = ["evidence", "what-the-evidence-suggests"]
-INSIGHT_CALLOUTS = ["analytical-insight", "key-claim"]
+EVIDENCE_CALLOUTS = ["evidence", "what-the-evidence-suggests", "cite"]
+INSIGHT_CALLOUTS = [
+    "analytical-insight", "key-claim",
+    "assumption-challenge", "steel-man", "comparative-finding", "tension-identified",
+]
 CONNECTION_CALLOUTS = ["cross-domain-connection", "connections-and-links"]
 PRACTICE_CALLOUTS = ["best-practice"]
-EXPANSION_CALLOUTS = ["topic-idea"]
+EXPANSION_CALLOUTS = ["topic-idea", "further-exploration"]
 WARNING_CALLOUTS = ["warning"]
+REFLECTION_CALLOUTS = ["reflection", "ask-yourself-this"]
 
 # ══════════════════════════════════════════════════════════════════════════════
 # DOMAIN MAPPING
@@ -171,6 +178,7 @@ MAX_INSIGHTS_PER_NOTE = 2
 MAX_CONNECTIONS_PER_NOTE = 2
 MAX_PRACTICES_PER_NOTE = 2
 MAX_WARNINGS_PER_NOTE = 1
+MAX_REFLECTIONS_PER_NOTE = 2
 MAX_EXPANSION_TOPICS = 4
 MAX_WIKI_LINKS_DISPLAY = 15
 MAX_RELATED_LINKS = 10

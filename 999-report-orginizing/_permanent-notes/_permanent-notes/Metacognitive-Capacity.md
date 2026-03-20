@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535"
+  - "cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[Metacognition]]"
   - "[[cognitive-biases|cognitive biases]]"
   - "[[cognitive-debt|cognitive debt]]"
+  - "[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]]"
+  - "[[Cognitive-Biases|Cognitive Biases]]"
+  - "[[Decision-Making|Decision-Making]]"
+  - "[[Personal-Development|Personal Development]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[cognitive-debt|cognitive debt]]"
+  - "[[technical-debt|technical debt]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -125,3 +134,7 @@ importance: medium
 
 **Related concepts:**
 [[Cognitive-Debt-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-o|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] · [[Cognitive-Biases|Cognitive Biases]] · [[Decision-Making]] · [[Personal-Development|Personal Development]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Metacognition]] · [[cognitive-biases|cognitive biases]] · [[cognitive-debt|cognitive debt]] · [[technical-debt|technical debt]] · [[human-cognition|human cognition]] · [[heuristics]] · [[cognitive-biases|cognitive biases]] · [[system-justification-theory|system-justification theory]] · [[confirmation-bias|confirmation bias]] · [[anchoring-effects|anchoring effects]]
+
+**Related concepts** *(from cog-psy-compounding-negative-impact-of-unmitigated-cognitive-biases-202512150535.md)*:
+[[Cognitive-Debt:-The-Compounding-Negative-Impact-of-Unmitigated-Cognitive-Biases-on-Long-Term-Personal-Development|Cognitive Debt: The Compounding Negative Impact of Unmitigated Cognitive Biases on Long-Term Personal Development]] * [[Cognitive-Biases|Cognitive Biases]] * [[Personal-Development|Personal Development]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[cognitive-debt|cognitive debt]] * [[technical-debt|technical debt]] * [[human-cognition|human cognition]] * [[system-justification-theory|system-justification theory]] * [[confirmation-bias|confirmation bias]] * [[anchoring-effects|anchoring effects]] * [[debiasing|debiasing]] * [[cognitive-neuroscience|cognitive neuroscience]] * [[availability-heuristic|availability heuristic]] * [[compound-interest|compound interest]] * [[Neural-Plasticity|Neural Plasticity]]
+

@@ -33,7 +33,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,6 +41,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "cog-psy-foundational-critical-thinking"
+  - "cog-psy-foundational-critical-thinking.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -67,6 +68,14 @@ narrower:
 
 see-also:
   - "[[Socrates]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[Diane-Halpern|Diane Halpern]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]]"
+  - "[[Kuhn-and-Dean|Kuhn and Dean]]"
+  - "[[Scientific-Method|Scientific Method]]"
+  - "[[Socrates|Socrates]]"
   - "[[Socratic-Method|Socratic Method]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[Diane-Halpern|Diane Halpern]]"
@@ -138,3 +147,7 @@ importance: medium
 
 **Related concepts:**
 [[Socrates]] · [[Socratic-Method|Socratic Method]] · [[Robert-Ennis|Robert Ennis]] · [[Diane-Halpern|Diane Halpern]] · [[Benjamin-Bloom|Benjamin Bloom]] · [[Webb's-Depth-of-Knowledge|Webb's Depth of Knowledge]] · [[Kuhn-and-Dean|Kuhn and Dean]] · [[Scientific-Method|Scientific Method]] · [[Argument-Analysis|Argument Analysis]] · [[Paul-and-Elder|Paul and Elder]] · [[John-Flavell|John Flavell]] · [[Dunning-and-Kruger|Dunning and Kruger]] · [[McPeck]] · [[Ennis]] · [[Keith-Stanovich|Keith Stanovich]]
+
+**Related concepts** *(from cog-psy-foundational-critical-thinking.md)*:
+[[Socratic-Method|Socratic Method]] * [[Robert-Ennis|Robert Ennis]] * [[Diane-Halpern|Diane Halpern]] * [[Kuhn-and-Dean|Kuhn and Dean]] * [[Scientific-Method|Scientific Method]] * [[Argument-Analysis|Argument Analysis]] * [[Paul-and-Elder|Paul and Elder]] * [[John-Flavell|John Flavell]] * [[Dunning-and-Kruger|Dunning and Kruger]] * [[Keith-Stanovich|Keith Stanovich]] * [[Myside-Bias|Myside Bias]] * [[Anchoring-Effects|Anchoring Effects]] * [[Confirmation-Bias|Confirmation Bias]] * [[Glaser|Glaser]] * [[Newell-and-Simon|Newell and Simon]]
+

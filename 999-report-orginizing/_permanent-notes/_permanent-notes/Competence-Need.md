@@ -24,7 +24,7 @@ domain: educational-psychology
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -47,6 +47,14 @@ see-also:
   - "[[Capability]]"
   - "[[Capability-Notes]]"
   - "[[Cognitive-Evaluation-Theory]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
+  - "[[relatedness|relatedness]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
@@ -127,6 +135,10 @@ importance: high
 > [!analytical-insight] Key Insight *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
 > A person's position on the autonomous-controlled motivation continuum is not the same as their level of relationship satisfaction. High autonomous motivation and high controlled motivation can both co-occur with high satisfaction — what differs is the well-being cost. Two people can report equally high satisfaction with their respective relationships while one maintains the relationship with autonomous motivation and the other with controlled motivation; the evidence consistently shows that the controlled-motivation person pays a larger well-being cost for equivalent relational investment, and is more vulnerable to identity dissolution when the relationship is threatened or ends.
 
+> [!analytical-insight] Key Insight *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+
 
 
 
@@ -159,6 +171,24 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> Before engaging with the evidence, commit to a position: Do you believe the three psychological needs operate *conjunctively* (all necessary, no compensation) or *compensatorily* (tradeoffs and substitutions possible)? What evidence or intuition anchors your prediction? Record your position — whether the analysis confirms or surprises you, the comparison will deepen your engagement with the material.
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The argument this report makes depends on understanding the distinction between *autonomy* and *independence*. Before proceeding, articulate this distinction in your own words. A useful test: Can you describe a situation in which a person is highly independent but experiences low autonomy? And conversely, a situation in which a person operates under significant external structure but experiences high autonomy? If you find yourself struggling to construct these scenarios, revisit the definition above — the distinction is foundational.
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> Before proceeding, consider a close relationship in your own life — any type: romantic, friendship, professional mentorship, or family. On what basis do you maintain it? Try to articulate your motivation as precisely as possible. Is it something you would describe as freely chosen, an expression of who you are? Or does it involve some element of obligation, duty, fear of what would happen if you withdrew? Hold this reflection — the framework that follows will give you more precise conceptual tools to analyze what you have described, and the distinction between these motivational patterns has consequences you may not expect.
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> The analysis ahead depends on understanding why autonomous motivation and relationship satisfaction can be independent. Before proceeding, test yourself: Can you construct a scenario in which someone is both highly satisfied with their relationship AND maintains it primarily through controlled motivation? What features of the scenario make that combination psychologically coherent? If you find yourself reaching for a contrived or extreme example, the independence of these constructs may not yet be fully integrated. A real, everyday scenario will serve you better.
+
+
+
+
 ## Connections & Context
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
@@ -169,6 +199,18 @@ importance: high
 
 **Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
 - [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Autonomy-Support-in-Education|Autonomy Support in Education]] * [[Autonomy-Support-—-Mechanisms-and-Measurement|Autonomy Support — Mechanisms and Measurement]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+
+
 
 
 

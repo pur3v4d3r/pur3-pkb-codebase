@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,6 +78,14 @@ see-also:
   - "[[Educational-Philosophy|Educational Philosophy]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
+  - "[[metacognition|metacognition]]"
+  - "[[Critical-thinking|Critical thinking]]"
+  - "[[John-Hattie|John Hattie]]"
+  - "[[John-H.-Flavell|John H. Flavell]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Ann-Brown|Ann Brown]]"
+  - "[[Socrates|Socrates]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
   - "[[metacognition|metacognition]]"
   - "[[Critical-thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
@@ -177,6 +185,30 @@ importance: high
 > [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The SRL literature sometimes treats goal setting as a cognitive tool that can be trained without attending to the motivational context in which it is deployed. But goal setting is deeply motivationally situated. The same learner who spontaneously sets specific, challenging proximal goals in a domain they care about and feel moderately confident in will set vague, self-protective goals in a domain where their self-efficacy is low or their goal orientation is avoidance-based. Training learners to set SMART goals (specific, measurable, achievable, relevant, time-bound) without addressing the motivational substrate often produces learners who can articulate good goals but do not act on them — a surface compliance that leaves the forethought mechanism intact in form but broken in function.
 
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+> [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory behavior in questionnaires — overestimating monitoring frequency and strategy diversity. This creates criterion contamination: if the MSLQ measures something other than actual self-regulation behavior, then correlations between MSLQ scores and achievement may reflect a third variable (general academic conscientiousness, self-concept) rather than regulatory activity per se. The interventional evidence is more trustworthy, but the correlational base on which SRL's theoretical claims rest is softer than typically acknowledged.
+
+
+
+
+
+
+
 
 
 
@@ -234,6 +266,36 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to reflect: what do you currently believe the relationship between metacognition and critical thinking to be? Are they the same thing? Complementary? Distinct? Where does your understanding of each come from — coursework, practice, reading, intuition? Noticing your starting assumptions makes the conceptual journey ahead more visible and the refinements more meaningful.
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> 1. The distinction between metacognitive *knowledge* and metacognitive *regulation* — knowing about your cognitive tendencies versus actively managing them — is one of the field's most important dividing lines. Which do you find more developed in yourself? Can you think of a recent learning situation in which you had knowledge about your cognitive tendencies but failed to regulate them accordingly?
+> 2. The Delphi definition of the ideal critical thinker is notably dispositional — it describes character traits as much as cognitive skills. What does this suggest about how critical thinking should be cultivated? Is it a matter of teaching skills, or of forming character?
+> 3. How does tracing these ideas back to Dewey and Socrates change your sense of what is genuinely novel about contemporary metacognitive research, versus what is a reformulation of much older insights?
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> Before reading on, commit to a position: When students are explicitly taught self-regulatory strategies (goal-setting, self-monitoring, strategy selection), what happens to their academic performance? Does explicit instruction in SRL reliably improve outcomes, sometimes improve outcomes, or have negligible average effects? Write down your prediction and your reasoning — we will return to it in Phase III, where the evidence may complicate your expectation in an instructive direction.
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends on the distinction between metacognitive knowledge and metacognitive experiences (Flavell). Before proceeding, articulate in your own words: why can a learner have excellent metacognitive knowledge but still fail to self-regulate effectively? What would have to be true about their metacognitive experiences for self-regulation to fail even when knowledge is present? If you find yourself paraphrasing the definitions above rather than reasoning from them, the distinction may not yet be fully integrated.
+
+
+
+
+
+
 ## Connections & Context
 
 **Related concepts:**
@@ -281,6 +343,58 @@ importance: high
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[Critical-thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+
+
+
+
+
+
+
 
 
 

@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
   - "[[26-feedback-loops-pkm-framework]]"
   - "[[Academic-Anxiety|Academic Anxiety]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
+  - "[[relatedness|relatedness]]"
+  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
+  - "[[Intrinsic-motivation|Intrinsic motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Edward-Deci|Edward Deci]]"
   - "[[Richard-Ryan|Richard Ryan]]"
@@ -214,6 +222,30 @@ importance: high
 > [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
 > The standard presentation of OIT implies that internalization is a process one moves through — a journey from external to integrated. But the continuum is better understood as a spectrum of *current states* that are highly context-dependent. The same individual can operate at identified regulation for studying medicine because she chose to be a doctor, while operating at introjected regulation for studying anatomy because her father's approval is contingent on her surgical specialization. OIT's regulatory styles describe *within-person variability across activities*, not a fixed developmental level. This has profound practical implications: practitioners cannot treat a learner's "motivational profile" as a stable trait to be gradually improved — it must be assessed activity by activity.
 
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The foundational text of SDT, establishing the original framework and the first formal articulations of CET and OIT. Provides the historical and conceptual context for understanding why Deci's early reward experiments generated the theoretical programme that became SDT. Essential for anyone wishing to understand the theory's intellectual origins and the experimental evidence base that motivated its original formulation. More readable than the later review papers.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The most comprehensive single-article overview of the SDT framework as it stood at the millennium, introducing BPNT as a formal mini-theory and articulating the universality thesis for basic psychological needs. The target article format (with commentaries and responses) makes this particularly valuable for understanding the theoretical debates and alternative positions within the field at a critical moment in SDT's development.
+
+> [!evidence] Supporting Evidence *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> The definitive meta-analytic synthesis of 128 experimental studies on the undermining effect of rewards on intrinsic motivation. Confirms the nuanced CET prediction: tangible, expected, contingent rewards reliably undermine intrinsic motivation; unexpected rewards and verbal praise (when informational) generally do not. An essential empirical foundation for CET and a key reference for applications in education and organisational psychology.
+
+> [!evidence] Supporting Evidence *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
+
+> [!analytical-insight] Key Insight *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Cameron/Pierce (1994) and Deci/Koestner/Ryan (1999) analysed largely overlapping sets of studies and reached opposite conclusions. How? The disagreement is not primarily about the data — it is about *how to code the variables*. The two teams classified studies into contingency categories differently, defined "undermining" using different measurement criteria, and made different modelling choices about moderator variables. This reveals a methodological problem that is partly irresolvable: the functional significance construct is difficult to operationalise objectively. When an experiment labels a condition "expected reward," it is not obvious whether participants experienced this as primarily controlling or informational — and the researchers' coding decisions implicitly embed theoretical commitments. The dispute is not just empirical; it is partly about what counts as a fair test of the theory.
+
+> [!analytical-insight] Key Insight *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
+> OIT's claims about regulatory quality are empirically operationalized through the [[Relative Autonomy Index]] (RAI), which weights regulatory style scores to produce a single index of autonomous motivation. External and introjected regulations receive negative weights; identified and integrated regulations receive positive weights. The RAI captures the fundamental prediction: what matters motivationally is not how much motivation a person has, but how self-determined it is.
+
+
+
+
+
+
+
 
 
 
@@ -298,6 +330,50 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> Before reading further, bring to mind a learning or work context in which you felt genuinely motivated — not because of external rewards or obligations, but because the activity itself was engaging or meaningful to you. Now bring to mind a contrasting context where motivation felt effortful, fragmented, or performed for external reasons. What was different about those two environments? What did the first context provide that the second did not? Hold these contrasts in mind as you read; SDT offers a precise vocabulary for articulating exactly what you are remembering.
+
+> [!reflection] **Reflect** *(from self-determination-theory-foundational-report-2026-03-11.md)*
+> 1. SDT's concept of autonomy has surprised many readers who initially equate it with independence or non-conformity. How does the distinction between autonomy and independence change your understanding of what a need-supportive social environment would look like?
+> 2. The distinction between need thwarting and the absence of need satisfaction has practical implications for intervention design. In a context you know well (classroom, clinic, workplace), what would constitute active need thwarting rather than merely the absence of need satisfaction?
+> 3. Looking at the six core definitions above, which concept do you anticipate will be most theoretically contentious or empirically difficult to measure? Why?
+
+> [!reflection] **Reflect** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, take a moment to predict: If you assessed a group of learners on all three causality orientations (autonomy, control, impersonal) and then tracked them through an educational program over a year, which orientation would most strongly predict academic performance? Which would most strongly predict well-being and satisfaction? Would the two "most predictive" orientations be the same? Write down your predictions and your reasoning. The evidence in Phase III will either confirm or productively complicate your expectations.
+
+> [!reflection] **Reflect** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> The analysis ahead depends on the distinction between *control orientation* (which includes internally-imposed controls like guilt and ego-involvement) and *autonomy orientation* (which involves genuine interest and personal value). Before proceeding, articulate this distinction in your own words: Can you give an example of behavior that would look the same from the outside but differ depending on whether the person is operating from autonomy or control orientation? If you find yourself drawn to simply restating the definitions rather than generating an example, take a moment to think of a real situation — that friction is the concept resisting integration.
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, commit to a prediction: Suppose a child who genuinely loves drawing is given a gold-star certificate every time they complete a drawing. After several weeks, the certificates stop. Does the child draw *more*, *less*, or *about the same* as before the reward programme began? Write down your prediction and the intuition behind it. The answer — and the explanation — is the core of what this report analyses.
+
+> [!reflection] **Reflect** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*
+> The argument from here forward depends on the distinction between the controlling aspect and the informational aspect of an event. Before proceeding, test yourself: can you explain, in your own words, why the *same* verbal praise ("great job!") could be primarily controlling for one student and primarily informational for another? What factors would determine which meaning is more salient? If you're reaching for the definitions above rather than understanding them, consider re-reading before proceeding.
+
+> [!reflection] **Reflect** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
+> Before reading the framework section, take a moment to consider: On a spectrum from "fully externally controlled" to "fully intrinsically motivated," how many distinct positions do you think exist? Are these positions discrete stages, like rungs on a ladder, or something else? Commit to your answer and your reasoning — the theoretical architecture OIT proposes may challenge your intuition in a specific way.
+
+> [!reflection] **Reflect** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
+> Before proceeding, distinguish clearly in your own mind between *introjected* and *external* regulation. Both involve controlled motivation, but the psychological mechanism differs importantly. Can you articulate what specifically makes introjection a form of *internalization* even though the person hasn't made the value genuinely their own? This distinction becomes critical for understanding the evidence in Phase III.
+
+
+
+
+
+
+
+
+
+
 ## Connections & Context
 
 **Related concepts:**
@@ -360,6 +436,74 @@ importance: high
 - [[Motivational-Climate-Design|Motivational Climate Design]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from causality-orientations-theory-focused-analysis-2026-03-13.md, cognitive-evaluation-theory-focused-analysis-2026-03-13.md, organismic-integration-theory-focused-analysis-2026-03-13.md, sdt-focused-analysis-2026-03-06.md, self-determination-theory-foundational-report-2026-03-11.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Conditional-regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[speech-act-theory|speech act theory]]
+
+**Cross-report connections** *(from cognitive-evaluation-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Determination-Theory-—-Foundational-Report|Self-Determination Theory — Foundational Report]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from self-determination-theory-foundational-report-2026-03-11.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+- [[Motivational-Climate-Design|Motivational Climate Design]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
+
+
+
+
+
+
+
 
 
 

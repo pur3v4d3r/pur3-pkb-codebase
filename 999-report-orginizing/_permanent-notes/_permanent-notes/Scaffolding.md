@@ -22,7 +22,7 @@ subdomains:
   - self-regulated-learning
   - knowledge-management
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 10-scaffolding-and-fading-pkm-framework-2026-03-14
@@ -57,6 +57,14 @@ see-also:
   - "[[Illusion-of-Knowing|Illusion of Knowing]]"
   - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Report 01: Foundations of Knowledge Architecture]]"
+  - "[[Lev-Vygotsky|Lev Vygotsky]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Pragmatic-Maxim|Pragmatic Maxim]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Frederic-Bartlett|Frederic Bartlett]]"
+  - "[[Jean-Piaget|Jean Piaget]]"
+  - "[[David-Rumelhart|David Rumelhart]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
   - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
   - "[[John-Dewey|John Dewey]]"
@@ -115,6 +123,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > **The Scaffolding-Schema Competition Mechanism: Why Expert Scaffolding Generates Extraneous Load**: Here is the precise cognitive mechanism behind the expertise reversal effect that most explanations understate. When an expert encounters scaffolding — a template, a worked example, a structured prompt — they must perform two simultaneous processing operations: (1) process the scaffolding's content, and (2) reconcile the scaffolding's structure with their existing schemas. For a novice, operation…
 
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press. (Original works composed 1930–1934.) The foundational text for Zone of Proximal Development theory. DOI: N/A (historical text).
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. The paper that coined the term "scaffolding" in the pedagogical sense. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. The foundational paper introducing Cognitive Load Theory. https://doi.org/10.1207/s15516709cog1202_4
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -126,6 +146,12 @@ importance: high
 > **Stage 2 PKB Design: Graduated Fading with Domain-Specific Scaffolding**: **Note templates**: Begin reducing template prescription. Remove instructional text from templates, retaining only field labels. For domains of established competence, move to minimal templates that prompt with key questions rather than field labels. For novice domains, maintain full Stage 1 templates.
 > 
 > **Expertise metadata**: Introduce an `expertise-stage` field in note YAML metadata, with values drawn from a defined…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-04-cognitive-scaffolding.md)*
+> In the intellectual domains most central to your life, are you currently operating below, within, or above your ZPD? Do you tend to avoid discomfort by staying in the Zone of Actual Development (what you already know well), or do you tend to overcorrect by reaching beyond your ZPD into material that overwhelms your existing schemas? What would genuinely ZPD-appropriate challenge look like in the next significant learning project you undertake?
 
 ## Connections & Context
 
@@ -147,5 +173,16 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from report-04-cognitive-scaffolding.md)*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[John-Dewey|John Dewey]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Schema-Theory|Schema Theory]] * [[Frederic-Bartlett|Frederic Bartlett]] * [[Jean-Piaget|Jean Piaget]] * [[David-Rumelhart|David Rumelhart]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[John-Sweller|John Sweller]] * [[Fred-Paas|Fred Paas]] * [[Jeroen-van-Merriënboer|Jeroen van Merriënboer]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Epistemic-Architecture|Epistemic Architecture]] * [[Tier-1|Tier 1]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
 
 

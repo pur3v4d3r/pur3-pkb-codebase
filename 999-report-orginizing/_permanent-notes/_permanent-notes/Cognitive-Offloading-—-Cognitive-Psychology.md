@@ -36,7 +36,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,6 +78,14 @@ see-also:
   - "[[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]"
   - "[[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]"
   - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Classical-Cognitivism|Classical Cognitivism]]"
+  - "[[Andy-Clark|Andy Clark]]"
+  - "[[David-Chalmers|David Chalmers]]"
+  - "[[Extended-Mind-Theory|Extended Mind Theory]]"
+  - "[[4E-Cognition|4E Cognition]]"
+  - "[[Embodied-Cognition|Embodied Cognition]]"
+  - "[[Distributed-Cognition|Distributed Cognition]]"
+  - "[[Hilary-Putnam|Hilary Putnam]]"
   - "[[Classical-Cognitivism|Classical Cognitivism]]"
   - "[[Andy-Clark|Andy Clark]]"
   - "[[David-Chalmers|David Chalmers]]"
@@ -154,6 +162,14 @@ importance: medium
 > [!analytical-insight] Key Insight *(from extended-mind-theory-foundational-report-2026-03-11.md)*
 > Embedded cognition claims the mind exploits environmental structure; Extended Mind Theory claims the mind *incorporates* environmental structure. On the embedded view, removing the environment impairs cognitive performance but does not alter the boundary of the cognitive system. On the extended view, removing the environmental component is like removing part of the brain — it genuinely diminishes the system, not merely its resources. This distinction has real consequences for how we think about cognitive dependency, disability, and the design of learning environments.
 
+> [!evidence] Supporting Evidence *(from extended-mind-theory-foundational-report-2026-03-11.md)*
+> The foundational paper of Extended Mind Theory. Introduces the Parity Principle and the Otto-Inga thought experiment, argues for active externalism, and distinguishes the proposal from content externalism. Essential primary source; the brevity and accessibility of the original paper make it highly recommended reading. Most of the subsequent literature is either defending or critiquing the positions staked out here.
+
+> [!evidence] Supporting Evidence *(from extended-mind-theory-foundational-report-2026-03-11.md)*
+> Clark's most comprehensive development and defence of Extended Mind Theory, responding directly to Adams and Aizawa and other critics. Includes substantial discussion of embodied cognition, neural plasticity, and tool incorporation. Essential for understanding how the theory has developed since the original 1998 paper. Considerably more demanding than the original paper but richly rewarding.
+
+
+
 
 
 
@@ -171,6 +187,16 @@ importance: medium
 > [!warning] **Key Distinction** *(from extended-mind-theory-foundational-report-2026-03-11.md)*
 > Traditional "closed-book" assessments create artificial conditions in which learners must perform without the extended cognitive systems they habitually rely on. Extended mind theory suggests this may systematically underestimate learner competence — especially for individuals (like those with memory impairments, learning differences, or cognitive disabilities) whose extended cognitive systems are particularly important to their functioning. This is not an argument against all forms of closed-book assessment, but it is an argument for clarity about what such assessments are actually measuring.
 
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from extended-mind-theory-foundational-report-2026-03-11.md)*
+> Before reading further, articulate your current intuition: is there a meaningful difference between knowing something "in your head" and knowing where to find it reliably? If you always carry a notebook with the same information you might otherwise memorise, does anything cognitively important change? Note your intuition — the theory will put direct pressure on it.
+
+> [!reflection] **Reflect** *(from extended-mind-theory-foundational-report-2026-03-11.md)*
+> Pause and test your grip on the active/passive distinction. Imagine a bilingual speaker who thinks "that liquid is water" and whose Twin Earth counterpart thinks "that liquid is water" — but they are referring to different chemical substances. Their thought-contents differ, but both thoughts are happening inside both skulls. That is passive externalism. Now imagine your iPhone's calendar is so deeply integrated into your schedule-management that removing it would genuinely disrupt your capacity to plan. Clark and Chalmers claim the calendar is, in a functional sense, part of your cognitive system. That is active externalism. Do these feel like different claims to you?
 
 
 ## Connections & Context
@@ -212,6 +238,42 @@ importance: medium
 - [[Schema-Theory|Schema Theory]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Related concepts** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+[[Classical-Cognitivism|Classical Cognitivism]] * [[Andy-Clark|Andy Clark]] * [[David-Chalmers|David Chalmers]] * [[Extended-Mind-Theory|Extended Mind Theory]] * [[4E-Cognition|4E Cognition]] * [[Embodied-Cognition|Embodied Cognition]] * [[Distributed-Cognition|Distributed Cognition]] * [[Hilary-Putnam|Hilary Putnam]] * [[Tyler-Burge|Tyler Burge]] * [[Maurice-Merleau-Ponty|Maurice Merleau-Ponty]] * [[Lawrence-Barsalou|Lawrence Barsalou]] * [[Francisco-Varela|Francisco Varela]] * [[Evan-Thompson|Evan Thompson]] * [[Eleanor-Rosch|Eleanor Rosch]] * [[Edwin-Hutchins|Edwin Hutchins]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+**Cross-report connections** *(from extended-mind-theory-foundational-report-2026-03-11.md)*:
+- [[Extended-Mind-Theory|Extended Mind Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+
+
+
+
+
 
 
 

@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "organismic-integration-theory-focused-analysis-2026-03-13"
+  - "organismic-integration-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[self-determination]]"
   - "[[relative-autonomy|relative autonomy]]"
   - "[[Relative-Autonomy-Index|Relative Autonomy Index]]"
+  - "[[Organismic-Integration-Theory|Organismic Integration Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[intrinsic-motivation|intrinsic motivation]]"
+  - "[[self-determination|self-determination]]"
+  - "[[relative-autonomy|relative autonomy]]"
+  - "[[Relative-Autonomy-Index|Relative Autonomy Index]]"
+  - "[[internalization|internalization]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -128,6 +137,16 @@ importance: high
 > [!warning] **Key Distinction**
 > The evidence on reward contingency is consistent: rewards structured as contingent on *doing well* (vs. contingent on mere participation, or non-contingent) undermine autonomous motivation, particularly when the activity has or might develop intrinsic value. This is the CET mechanism, but it applies in OIT contexts: rewards that make performance the condition for positive regard push learners toward introjection rather than identification.
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
+> Before reading the framework section, take a moment to consider: On a spectrum from "fully externally controlled" to "fully intrinsically motivated," how many distinct positions do you think exist? Are these positions discrete stages, like rungs on a ladder, or something else? Commit to your answer and your reasoning — the theoretical architecture OIT proposes may challenge your intuition in a specific way.
+
+> [!reflection] **Reflect** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*
+> Before proceeding, distinguish clearly in your own mind between *introjected* and *external* regulation. Both involve controlled motivation, but the psychological mechanism differs importantly. Can you articulate what specifically makes introjection a form of *internalization* even though the person hasn't made the value genuinely their own? This distinction becomes critical for understanding the evidence in Phase III.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -147,3 +166,31 @@ importance: high
 
 **Related concepts:**
 [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[intrinsic-motivation|intrinsic motivation]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[self-determination]] · [[relative-autonomy|relative autonomy]] · [[Relative-Autonomy-Index|Relative Autonomy Index]] · [[internalization]] · [[integration]] · [[Bart-Soenens|Bart Soenens]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Deci-&-Ryan|Deci & Ryan]] · [[Deci,-Connell,-&-Ryan-1989|Deci, Connell, & Ryan (1989)]] · [[Grolnick-&-Ryan-1989|Grolnick & Ryan (1989)]]
+
+**Related concepts** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+[[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[intrinsic-motivation|intrinsic motivation]] * [[relative-autonomy|relative autonomy]] * [[Bart-Soenens|Bart Soenens]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Deci-&-Ryan|Deci & Ryan]] * [[Deci,-Connell,-&-Ryan-(1989)|Deci, Connell, & Ryan (1989)]] * [[Grolnick-&-Ryan-(1989)|Grolnick & Ryan (1989)]] * [[Soenens-&-Vansteenkiste-(2011)|Soenens & Vansteenkiste (2011)]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Autonomy|Autonomy]] * [[Competence|Competence]] * [[Relatedness|Relatedness]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Vygotsky's-Zone-of-Proximal-Development|Vygotsky's Zone of Proximal Development]]
+
+**Cross-report connections** *(from organismic-integration-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+
+
+
+

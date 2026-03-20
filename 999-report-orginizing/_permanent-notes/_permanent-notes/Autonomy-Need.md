@@ -12,7 +12,7 @@ tags:
   - educational-psychology
 domain: educational-psychology
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: stub-generation
 extraction-method: generate-stubs-v1 (auto-generated from wiki-link audit)
 referenced-by-count: 50
@@ -31,6 +31,14 @@ see-also:
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
+  - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
+  - "[[John-Flavell|John Flavell]]"
+  - "[[Ann-Brown|Ann Brown]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Cognitive-Motivational-Model|Cognitive-Motivational Model]]"
   - "[[Growth-Mindset-Theory|Growth Mindset Theory]]"
   - "[[John-Flavell|John Flavell]]"
@@ -112,6 +120,18 @@ importance: high
 > [!analytical-insight] Key Insight *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
 > A person's position on the autonomous-controlled motivation continuum is not the same as their level of relationship satisfaction. High autonomous motivation and high controlled motivation can both co-occur with high satisfaction — what differs is the well-being cost. Two people can report equally high satisfaction with their respective relationships while one maintains the relationship with autonomous motivation and the other with controlled motivation; the evidence consistently shows that the controlled-motivation person pays a larger well-being cost for equivalent relational investment, and is more vulnerable to identity dissolution when the relationship is threatened or ends.
 
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+> [!analytical-insight] Key Insight *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+
+
+
 
 
 
@@ -159,6 +179,34 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> Before engaging with the evidence, commit to a position: Do you believe the three psychological needs operate *conjunctively* (all necessary, no compensation) or *compensatorily* (tradeoffs and substitutions possible)? What evidence or intuition anchors your prediction? Record your position — whether the analysis confirms or surprises you, the comparison will deepen your engagement with the material.
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The argument this report makes depends on understanding the distinction between *autonomy* and *independence*. Before proceeding, articulate this distinction in your own words. A useful test: Can you describe a situation in which a person is highly independent but experiences low autonomy? And conversely, a situation in which a person operates under significant external structure but experiences high autonomy? If you find yourself struggling to construct these scenarios, revisit the definition above — the distinction is foundational.
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> Before proceeding, consider a close relationship in your own life — any type: romantic, friendship, professional mentorship, or family. On what basis do you maintain it? Try to articulate your motivation as precisely as possible. Is it something you would describe as freely chosen, an expression of who you are? Or does it involve some element of obligation, duty, fear of what would happen if you withdrew? Hold this reflection — the framework that follows will give you more precise conceptual tools to analyze what you have described, and the distinction between these motivational patterns has consequences you may not expect.
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> The analysis ahead depends on understanding why autonomous motivation and relationship satisfaction can be independent. Before proceeding, test yourself: Can you construct a scenario in which someone is both highly satisfied with their relationship AND maintains it primarily through controlled motivation? What features of the scenario make that combination psychologically coherent? If you find yourself reaching for a contrived or extreme example, the independence of these constructs may not yet be fully integrated. A real, everyday scenario will serve you better.
+
+
+
+
+
+
 ## Connections & Context
 
 **Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, metacognition-motivation-foundational-report-2026-03-05.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
@@ -183,6 +231,34 @@ importance: high
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md, metacognition-motivation-foundational-report-2026-03-05.md, relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Intrinsic-Motivation|Intrinsic Motivation]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Motivational-Model|Cognitive-Motivational Model]] * [[Growth-Mindset-Theory|Growth Mindset Theory]] * [[John-Flavell|John Flavell]] * [[Ann-Brown|Ann Brown]] * [[Metacognitive-Experiences|Metacognitive Experiences]] * [[Feeling-of-Knowing|Feeling of Knowing]] * [[Ease-of-Learning|Ease of Learning]] * [[Judgment-of-Learning|Judgment of Learning]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+
+
+
 
 
 

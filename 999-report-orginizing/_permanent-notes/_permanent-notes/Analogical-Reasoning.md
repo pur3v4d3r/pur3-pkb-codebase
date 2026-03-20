@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "inductive-reasoning-foundational-report-2026-03-06"
+  - "inductive-reasoning-foundational-report-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[David-Hume|David Hume]]"
   - "[[John-Stuart-Mill|John Stuart Mill]]"
   - "[[Karl-Popper|Karl Popper]]"
+  - "[[Inductive-reasoning|Inductive reasoning]]"
+  - "[[David-Hume|David Hume]]"
+  - "[[Karl-Popper|Karl Popper]]"
+  - "[[Aristotle|Aristotle]]"
+  - "[[Francis-Bacon|Francis Bacon]]"
+  - "[[John-Stuart-Mill|John Stuart Mill]]"
+  - "[[Causal-induction|Causal induction]]"
+  - "[[Alison-Gopnik|Alison Gopnik]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,6 +116,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > On the Bayesian view, the problem of induction is dissolved rather than solved: we never achieve certainty through inductive inference, but we can rationally increase or decrease the probability we assign to hypotheses in proportion to the evidence. Strong inductive arguments are those that significantly raise the posterior probability of their conclusions; weak arguments move probability only slightly. Inductive reasoning is rational not when it guarantees truth but when it updates beliefs in…
 
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The primary source for the philosophical problem of induction. Section IV, "Sceptical Doubts Concerning the Operations of the Understanding," presents Hume's argument with economy and force. Essential reading for any serious engagement with the epistemology of inductive reasoning. Supports the philosophical treatment in Phase II.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> The classical systematic treatment of inductive methods. Book III presents Mill's five canons (Agreement, Difference, Joint Method, Concomitant Variation, Residues), which formalize inductive inference into practical reasoning tools. Relevant to Phase II and the treatment of causal induction in Phase IV.
+
+> [!evidence] Supporting Evidence *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Popper's foundational statement of falsificationism. Directly relevant to the theoretical landscape treatment in Phase III. Provides the deductivist alternative to inductivist philosophy of science; essential for contextualizing the epistemological debates that frame educational treatments of the scientific method.
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -118,6 +139,22 @@ importance: high
 > [!warning] **Key Distinction**
 > Research on the [[Fluency-Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that…
 
+> [!warning] **Key Distinction** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Research on the [[Fluency Illusion]] and related phenomena warns that inductive discovery can produce a compelling *feeling* of understanding that exceeds actual comprehension. A student who has "figured out" a pattern may feel more certain about their understanding than a student who was told the pattern, even when their actual performance on novel transfer tasks is comparable or worse. Self-assessing the depth of inductively acquired knowledge is a genuine metacognitive challenge that learners need explicit support in developing.
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to surface your own understanding of inductive reasoning. Can you produce an example from your own learning or professional life where you reasoned from specific observations to a general conclusion? Were you confident in that conclusion? What made you more or less certain? And what conditions, you suspect, would have led you to revise it? Holding these intuitions in mind will make the theoretical treatment that follows considerably more alive.
+
+> [!reflection] **Reflect** *(from inductive-reasoning-foundational-report-2026-03-06.md)*
+> 1. Recall a belief you hold with high confidence that you arrived at through inductive reasoning. How many observations formed the basis of that belief? Have you actively sought disconfirming evidence, or primarily noticed confirming instances?
+> 2. How does the distinction between inductive and deductive reasoning reframe your understanding of what it means to "know" something in your domain of expertise?
+> 3. Among the varieties of inductive reasoning — enumerative, analogical, statistical, causal — which do you rely on most in your professional practice? Which do your students or learners struggle with most?
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -127,3 +164,19 @@ importance: high
 
 **Related concepts:**
 [[Inductive-reasoning|Inductive reasoning]] · [[David-Hume|David Hume]] · [[Karl-Popper|Karl Popper]] · [[Aristotle]] · [[Francis-Bacon|Francis Bacon]] · [[David-Hume|David Hume]] · [[John-Stuart-Mill|John Stuart Mill]] · [[Karl-Popper|Karl Popper]] · [[Analogical-reasoning|Analogical reasoning]] · [[Causal-induction|Causal induction]] · [[Alison-Gopnik|Alison Gopnik]] · [[Bayesian-Inference|Bayesian Inference]] · [[Joshua-Tenenbaum|Joshua Tenenbaum]] · [[Daniel-Kahneman|Daniel Kahneman]] · [[Amos-Tversky|Amos Tversky]]
+
+**Related concepts** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+[[Inductive-reasoning|Inductive reasoning]] * [[David-Hume|David Hume]] * [[Karl-Popper|Karl Popper]] * [[Francis-Bacon|Francis Bacon]] * [[John-Stuart-Mill|John Stuart Mill]] * [[Causal-induction|Causal induction]] * [[Alison-Gopnik|Alison Gopnik]] * [[Bayesian-Inference|Bayesian Inference]] * [[Joshua-Tenenbaum|Joshua Tenenbaum]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Amos-Tversky|Amos Tversky]] * [[Constructivism|Constructivism]] * [[Jean-Piaget|Jean Piaget]] * [[Lev-Vygotsky|Lev Vygotsky]] * [[Jerome-Bruner|Jerome Bruner]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from inductive-reasoning-foundational-report-2026-03-06.md)*:
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+
+

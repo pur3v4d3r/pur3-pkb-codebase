@@ -26,7 +26,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -34,6 +34,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "cog-psy-william-james"
+  - "cog-psy-william-james.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -64,6 +65,14 @@ see-also:
   - "[[philosophy]]"
   - "[[habit-formation|habit formation]]"
   - "[[consciousness]]"
+  - "[[Harvard-University|Harvard University]]"
+  - "[[American-pragmatism|American pragmatism]]"
+  - "[[evolutionary-theory|evolutionary theory]]"
+  - "[[William-James|William James]]"
+  - "[[psychology|psychology]]"
+  - "[[philosophy|philosophy]]"
+  - "[[habit-formation|habit formation]]"
+  - "[[consciousness|consciousness]]"
   - "[[Harvard-University|Harvard University]]"
   - "[[American-pragmatism|American pragmatism]]"
   - "[[evolutionary-theory|evolutionary theory]]"
@@ -115,10 +124,43 @@ importance: medium
 > [!analytical-insight] Key Insight
 > James asserted that "[Neurological] currents, once in [the brain], must find a way out. In getting out they leave their traces in the paths which they take. The only thing they can do, in short, is to deepen old paths or to make new ones; and the whole plasticity of the brain sums itself up in two words when we call it an organ in which currents pouring in from the sense-organs make with extreme facility paths which do not easily disappear." This claim anticipates contemporary understanding of…
 
+> [!evidence] Supporting Evidence *(from cog-psy-william-james.md)*
+> **Primary Sources:**
+> - [The Principles of Psychology (1890)](https://psychclassics.yorku.ca/James/Principles/) by William James - The foundational two-volume treatise establishing American psychology
+> - [Psychology: Briefer Course (1892)](https://psychclassics.yorku.ca/James/jimmy11.htm) by William James - Abridged version for educational use
+> - [Talks to Teachers on Psychology (1899)](https://education.stateuniversity.com/pages/2134/James-William-1842-1910.html) by William James - Educational applications of psychological principles
+> 
+> **Historical and Biographical:**
+> - [John Dewey (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/dewey/) - Comprehensive overview of Dewey's philosophy and James's influence
+> - [Pragmatism (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/pragmatism/) - Historical development and key figures
+> - [William James on Habit](https://fs.blog/william-james-on-habit/) by Farnam Street - Accessible introduction to core concepts
+> 
+> **Contemporary Analysis:**
+> - [The Principal Sources of William James' Idea of Habit](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00274/full) by Carlos A. Blanco (2014) - Scholarly analysis of intellectual influences
+> - [Brain Plasticity and Habit in William James: An Antecedent for Social Neuroscience](https://www.researchgate.net/publication/236838966_Brain_Plasticity_and_Habit_in_William_James_an_Antecedent_for_Social_Neuroscience) (2012) - Contemporary neuroscience connections
+> - [Neuronal Plasticity: Historical Roots and Evolution of Meaning](https://pubmed.ncbi.nlm.nih.gov/19002678/) - Historical development of plasticity concept
+> - [William James's Legacy: From a 'Stream of Consciousness' to an Ocean of Psychological Principles](https://www.researchgate.net/profile/Daniel-Kaplin/publication/349870355) - Contemporary relevance across psychology
+> 
+> **Educational Applications:**
+> - [Psychological Principles in Education: Reviewing William James' Impact on Teaching Practices](https://www.researchgate.net/publication/382545973) (2024) - Modern educational psychology connections
+> - [John Dewey's Pragmatism: Implications for Reflection in Service-Learning](https://files.eric.ed.gov/fulltext/EJ1116448.pdf) - Dewey's development of Jamesian principles
+> 
+> **Popular Expositions:**
+> - [William James on the Psychology of Habit](https://www.themarginalian.org/2012/09/25/william-james-on-habit/) by The Marginalian - Literary analysis and contemporary relevance
+> - [William James on Habit](https://edbatista.com/2011/07/william-james-on-habit.html) by Ed Batista - Applications to personal development
+> - [William James: Habits and the Power of the Mind](https://esoftskills.com/william-james-habits-and-the-power-of-the-mind/) - Modern psychological perspectives
+
+
 ## Practical Implications
 
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cog-psy-william-james.md)*
+> To what extent have your own educational experiences emphasized habit formation versus flexibility? Can you identify specific domains where automated skills enable higher-level performance, contrasted with areas where established habits may constrain creative problem-solving? How might educational practices better balance these competing demands?
 
 ## Connections & Context
 
@@ -137,3 +179,31 @@ importance: medium
 
 **Related concepts:**
 [[William-James|William James]] · [[psychology]] · [[philosophy]] · [[habit-formation|habit formation]] · [[consciousness]] · [[Harvard-University|Harvard University]] · [[American-pragmatism|American pragmatism]] · [[evolutionary-theory|evolutionary theory]] · [[neurology]] · [[phenomenology]] · [[plasticity]] · [[adaptation]] · [[neuroscience]] · [[John-Dewey|John Dewey]] · [[progressive-education|progressive education]]
+
+**Related concepts** *(from cog-psy-william-james.md)*:
+[[William-James|William James]] * [[habit-formation|habit formation]] * [[Harvard-University|Harvard University]] * [[American-pragmatism|American pragmatism]] * [[evolutionary-theory|evolutionary theory]] * [[John-Dewey|John Dewey]] * [[progressive-education|progressive education]] * [[automaticity|automaticity]] * [[conscious-attention|conscious attention]] * [[procedural-memory|procedural memory]] * [[working-memory|working memory]] * [[attention|attention]] * [[cognitive-control|cognitive control]] * [[synaptic-plasticity|synaptic plasticity]] * [[neurogenesis|neurogenesis]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[pragmatic-philosophy|pragmatic philosophy]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
+- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[pragmatic-philosophy|pragmatic philosophy]]
+
+**Cross-report connections** *(from cog-psy-william-james.md)*:
+- [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]
+- [[Metacognitive-Awareness|Metacognitive Awareness]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+
+
+
+
+

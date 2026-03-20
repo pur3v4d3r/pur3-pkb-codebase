@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "report-08-the-examined-life-in-practice"
+  - "report-08-the-examined-life-in-practice.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -69,6 +70,14 @@ see-also:
   - "[[Fallibilism]]"
   - "[[Pragmatism]]"
   - "[[Constructivism]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
+  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
+  - "[[Fallibilism|Fallibilism]]"
+  - "[[Pragmatism|Pragmatism]]"
+  - "[[Constructivism|Constructivism]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
   - "[[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]]"
 
@@ -108,7 +117,17 @@ importance: high
 > [!example] **Application**
 > *Describe how this concept applies in practice.*
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-08-the-examined-life-in-practice.md)*
+> Identify a belief you hold that is professionally or personally important and that has, at some point, been challenged by evidence you did not fully engage. Without judging yourself, trace through the integrated framework: Where did aporic receptivity fail? What role did the fallibilist posture — or its absence — play? Which intellectual virtues were most needed and least present? What did your metacognitive governance layer detect, and what did it miss? And what does this retrospective analysis reveal about your own epistemic character at that moment? Not as self-criticism but as the kind of recursive self-authoring insight that is itself a practice of the examined life.
+
 ## Connections & Context
 
 **Related concepts:**
 [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] · [[Prohairesis]] · [[Zone-of-Proximal-Development|Zone of Proximal Development]] · [[Schema-Theory|Schema Theory]] · [[Pragmatic-Maxim|Pragmatic Maxim]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructive-Attentiveness|Constructive Attentiveness]] · [[Intellectual-Humility|Intellectual Humility]]
+
+**Related concepts** *(from report-08-the-examined-life-in-practice.md)*:
+[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[Aporic-Receptivity|Aporic Receptivity]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Mihaly-Csikszentmihalyi|Mihaly Csikszentmihalyi]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Schema-Theory|Schema Theory]] * [[Pragmatic-Maxim|Pragmatic Maxim]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Constructive-Attentiveness|Constructive Attentiveness]] * [[Intellectual-Humility|Intellectual Humility]] * [[Intellectual-Courage|Intellectual Courage]] * [[Intellectual-Empathy|Intellectual Empathy]] * [[Intellectual-Perseverance|Intellectual Perseverance]] * [[Intellectual-Integrity|Intellectual Integrity]]
+

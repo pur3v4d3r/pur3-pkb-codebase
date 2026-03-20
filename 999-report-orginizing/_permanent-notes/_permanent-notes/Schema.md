@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
   - constructivism
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13
@@ -68,6 +68,14 @@ see-also:
   - "[[Schema-Formation|Schema Formation]]"
   - "[[Metacognition|Metacognition]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
+  - "[[Cognitive-Load|Cognitive Load]]"
+  - "[[Schema-Formation|Schema Formation]]"
+  - "[[Metacognition|Metacognition]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]]"
   - "[[Working-Memory|Working Memory]]"
 builds-on:
@@ -153,6 +161,46 @@ importance: high
 > [!analytical-insight] Key Insight *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
 > For Rumelhart, schemas are data structures that contain *variables* — open slots that take specific values when the schema is instantiated in a particular context. The room schema, for example, has slots for walls, floor, ceiling, doors, and furniture; the values of these slots are set when the schema is applied to a particular room. Crucially, slots carry *default values* — the typical or most probable values in the absence of specific information. A default for the furniture slot in the room schema might be "chairs and table." This is why we infer chairs when we hear "kitchen" even if none were mentioned.
 
+> [!evidence] Supporting Evidence *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The founding paper of Cognitive Load Theory, in which Sweller articulated the relationship between problem-solving strategies, working memory demands, and schema formation. Establishes the theoretical basis for the worked example effect and introduces the cognitive architecture framework that subsequent CLT research elaborates. Essential primary source for understanding CLT's origins.
+
+> [!evidence] Supporting Evidence *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The definitive mid-period theoretical statement of CLT, introducing the tripartite intrinsic/extraneous/germane load taxonomy and providing a comprehensive synthesis of instructional effects through 1998. This paper is the primary reference for the three-component model and the theoretical vocabulary of the field.
+
+> [!evidence] Supporting Evidence *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
+> The founding text of modern schema theory. Bartlett's cross-cultural recall experiments, using Native American folk narratives with English participants, established that memory is reconstructive, schema-driven, and culturally shaped. Essential reading for anyone studying memory, comprehension, or cultural cognition. This report draws on Bartlett's framework throughout.
+
+> [!evidence] Supporting Evidence *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
+> One of Piaget's central theoretical works, presenting the concepts of schema, assimilation, accommodation, and equilibration in the context of sensorimotor development. The conceptual architecture of Piaget's constructivism — which underlies all subsequent schema-theoretic accounts of learning — is fully established here.
+
+> [!evidence] Supporting Evidence *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
+> Rumelhart's most accessible statement of his schema theory, specifying schemas as variable-laden data structures with slots and defaults, embedded in hierarchies, interacting through spreading activation. The chapter that established the information-processing formalization of schemas. This report draws heavily on Rumelhart's analysis in Phases III and IV.
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press. (Original works composed 1930–1934.) The foundational text for Zone of Proximal Development theory. DOI: N/A (historical text).
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89–100. The paper that coined the term "scaffolding" in the pedagogical sense. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
+
+> [!evidence] Supporting Evidence *(from report-04-cognitive-scaffolding.md)*
+> Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. The foundational paper introducing Cognitive Load Theory. https://doi.org/10.1207/s15516709cog1202_4
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> The [[Modality Effect]] states that presenting information across two sensory modalities (typically auditory narration + visual diagram) typically produces better learning than presenting the same information in a single modality (e.g., written text + diagram). The effect is explained by the multi-component structure of working memory: auditory/verbal information is processed by the phonological loop while visual/spatial information is processed by the visuospatial sketchpad. Using both channels effectively doubles the working memory capacity available for processing the combined presentation. This account aligns with [[Alan Paivio]]'s [[Dual Coding Theory]] and forms the theoretical core of Mayer's [[Cognitive Theory of Multimedia Learning]].
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -208,6 +256,42 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> Before reading further, take two minutes to articulate what you currently believe about how new information gets learned. Do you think of learning as filling in gaps? As constructing connections? As strengthening pathways? What role, if any, do you think what someone already knows plays in how well they learn something new? There are no wrong answers here — the goal is to surface your existing mental model so you can notice where this report confirms, enriches, or complicates it.
+
+> [!reflection] **Reflect** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> 1. Ausubel's distinction between meaningful and rote learning implies that a student could correctly answer exam questions based on rote-memorized material while having acquired essentially no understanding in the deeper sense. Can you recall examples from your own educational history that fit this description? What does that suggest about what assessments typically measure?
+> 2. The definition of expository vs. comparative organizers rests on an accurate diagnosis of what prior knowledge a learner has. What are the practical challenges of making that diagnosis accurately in real instructional contexts?
+> 3. Where does the boundary lie between a *comparative advance organizer* and a good *analogy*? Is that a meaningful distinction or a terminological one?
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> Before reading further, take a moment to articulate what you currently believe about why some instructional approaches work better than others. What factors do you think determine whether a student successfully learns from a lesson? Do your current explanations appeal to motivation, intelligence, prior knowledge, or something about the structure of the content itself? Noting your starting assumptions will make CLT's particular explanatory lens — cognitive architecture — all the more visible as you encounter it.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*
+> 1. Think of a domain where you are a novice versus a domain where you have substantial expertise. How does your working memory experience differ between them when you encounter challenging content? Can you identify what CLT would call "element interactivity" in the novice domain?
+> 2. The distinction between intrinsic and extraneous load implies that some instructional difficulty is structural (inherent to the content) while other difficulty is artificial (a product of poor design). What examples from your own learning history might fall into each category?
+> 3. How does the schema concept connect to your existing understanding from the [[Schema Theory]] node? What does CLT add to schema theory's account that wasn't already there?
+
+> [!reflection] **Reflect** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to articulate what you currently believe about how knowledge is stored in the mind. Do you think of memory as something like a filing cabinet — discrete, faithful records retrieved on demand? Or as something more like a living web of associations? What happens in your mind when you encounter a concept you already "know"? Noting your starting assumptions now will make the shift that schema theory invites all the more visible.
+
+> [!reflection] **Reflect** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*
+> 1. Which of these definitions — schema, assimilation, or accommodation — challenged your prior understanding most directly? What had you previously assumed these terms meant?
+> 2. Can you identify a recent learning experience in which you were clearly assimilating new information into an existing schema? Were you aware of it at the time?
+> 3. Why might Piaget's insistence on *construction* (rather than reception) of knowledge be philosophically significant — not just for education, but for epistemology more broadly?
+
+> [!reflection] **Reflect** *(from report-04-cognitive-scaffolding.md)*
+> In the intellectual domains most central to your life, are you currently operating below, within, or above your ZPD? Do you tend to avoid discomfort by staying in the Zone of Actual Development (what you already know well), or do you tend to overcorrect by reaching beyond your ZPD into material that overwhelms your existing schemas? What would genuinely ZPD-appropriate challenge look like in the next significant learning project you undertake?
 
 
 
@@ -284,6 +368,77 @@ importance: high
 - [[Report-01|Report 01]]
 - [[Report-04|Report 04]]
 - [[Report-01|Report 01]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md, cognitive-load-theory-foundational-report-2026-03-11.md, report-02-the-fallible-knower.md, report-04-cognitive-scaffolding.md, schema-theory-and-learning-foundational-report-2026-03-06.md, topic-set-cognitive-science-pkb-achitecture-202511202330.md)*:
+[[Cognitive-Science|Cognitive Science]] * [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal-Knowledge-Management|03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] * [[Cognitive-Load|Cognitive Load]] * [[Schema-Formation|Schema Formation]] * [[Working-Memory-Architecture-in-Note-Design|Working Memory Architecture in Note Design]] * [[Machine-Learning---Core-Paradigms|Machine Learning - Core Paradigms]] * [[Machine-Learning---Mathematical-Foundations|Machine Learning - Mathematical Foundations]] * [[Machine-Learning---Practical-Implementation|Machine Learning - Practical Implementation]] * [[Desirable-Difficulties-and-Retrieval-Practice-Design|Desirable Difficulties and Retrieval Practice Design]] * [[Cognitive-Psychology|Cognitive Psychology]] * [[Retrieval-Practice|Retrieval Practice]] * [[Desirable-Difficulties|Desirable Difficulties]] * [[Bjork's-Desirable-Difficulties-Framework|Bjork's Desirable Difficulties Framework]] * [[Schema-Theory-and-MOC-Architecture|Schema Theory and MOC Architecture]] * [[Maps-of-Content|Maps of Content]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from cognitive-load-theory-foundational-report-2026-03-11.md)*:
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from schema-theory-and-learning-foundational-report-2026-03-06.md)*:
+- [[Schema-Theory-and-Learning|Schema Theory and Learning]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from report-04-cognitive-scaffolding.md)*:
+- [[Report-01|Report 01]]
+- [[Report-01|Report 01]]
+- [[Report-04|Report 04]]
+- [[Report-01|Report 01]]
+
+
+
+
+
+
+
+
+
+
 
 
 

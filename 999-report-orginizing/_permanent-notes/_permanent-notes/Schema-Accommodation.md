@@ -22,7 +22,7 @@ subdomains:
   - instructional-design
   - learning-experience-design
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 17-note-making-knowledge-construction-pkm-framework-2026-03-14
@@ -50,6 +50,14 @@ see-also:
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
   - "[[Lev-Vygotsky|Lev Vygotsky]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Paul-Pintrich|Paul Pintrich]]"
+  - "[[Winne-and-Hadwin|Winne and Hadwin]]"
+  - "[[Constructivism|Constructivism]]"
+  - "[[Jean-Piaget|Jean Piaget]]"
+  - "[[Jerome-Bruner|Jerome Bruner]]"
+  - "[[Lev-Vygotsky|Lev Vygotsky]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Barry-Zimmerman|Barry Zimmerman]]"
   - "[[Paul-Pintrich|Paul Pintrich]]"
   - "[[Winne-and-Hadwin|Winne and Hadwin]]"
@@ -113,6 +121,12 @@ importance: high
 > [!example] **Application**
 > **The Minimum Constructive Response Rule**: Design every capture workflow in your PKB to require a minimum constructive response — a brief note in your own words that either (a) explains why the captured material is relevant, (b) connects it to something already in your vault, or (c) poses a question it raises for your existing understanding. Even two sentences meeting this requirement will produce substantially greater encoding than a full-text capture with no processing. The value is not in…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-07-the-self-directed-learner.md)*
+> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of how *you* learn best that is based on evidence from your own learning history — or is it based on what you have been told, what seems intuitively appealing, or what protects your sense of yourself as a capable learner?
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -128,4 +142,8 @@ importance: high
 
 **Related concepts** *(from report-07-the-self-directed-learner.md)*:
 [[Lev-Vygotsky|Lev Vygotsky]] * [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+
+**Related concepts** *(from report-07-the-self-directed-learner.md)*:
+[[Lev-Vygotsky|Lev Vygotsky]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Barry-Zimmerman|Barry Zimmerman]] * [[Paul-Pintrich|Paul Pintrich]] * [[Winne-and-Hadwin|Winne and Hadwin]] * [[Jean-Piaget|Jean Piaget]] * [[Jerome-Bruner|Jerome Bruner]] * [[SDT-Internalization-Continuum|SDT Internalization Continuum]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Metacognitive-Strategy|Metacognitive Strategy]] * [[Gregory-Schraw|Gregory Schraw]] * [[Lovett-et-al.|Lovett et al.]] * [[Albert-Bandura|Albert Bandura]] * [[John-Flavell|John Flavell]] * [[Schema-Theory|Schema Theory]]
+
 

@@ -31,7 +31,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -39,6 +39,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "fallibilism-foundational-report-2026-03-06"
+  - "fallibilism-foundational-report-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -72,6 +73,14 @@ see-also:
   - "[[Descartes]]"
   - "[[scepticism]]"
   - "[[Scepticism]]"
+  - "[[fallibilism|fallibilism]]"
+  - "[[epistemology|epistemology]]"
+  - "[[philosophy-of-science|philosophy of science]]"
+  - "[[critical-thinking|critical thinking]]"
+  - "[[pedagogy|pedagogy]]"
+  - "[[Descartes|Descartes]]"
+  - "[[scepticism|scepticism]]"
+  - "[[epistemic-relativism|epistemic relativism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -119,6 +128,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > The scientific method does not require that any particular inquiry be infallible. What it requires is that the method itself have the property of correcting its own errors over time. Error-detection and error-correction are baked into inquiry through the mechanisms of hypothesis testing, peer review, replication, and the social accountability of the scientific community. Individual fallibility and collective progress are not merely compatible — the acknowledgment of individual fallibility is a…
 
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> The foundational pragmatist paper in which Peirce introduces the pragmatic maxim and develops the seeds of his fallibilism. Essential for understanding the connection between fallibilism and the theory of inquiry as a self-correcting process. Accessible online through multiple archives. Supports the treatment of Peircean fallibilism in Phases II and III.
+
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> Popper's foundational work articulating falsificationism, the problem of demarcation, and the anti-inductivist account of scientific knowledge. The central source for Phase III's treatment of Popperian fallibilism. Readers interested in the philosophy of science should begin here, supplementing with *Conjectures and Refutations* (1963) for a more accessible presentation.
+
+> [!evidence] Supporting Evidence *(from fallibilism-foundational-report-2026-03-06.md)*
+> The landmark paper attacking the analytic-synthetic distinction and the verification theory of meaning, introducing the web-of-belief metaphor and epistemic holism. Central to Phase III. Among the most cited papers in twentieth-century philosophy. Reprinted in *From a Logical Point of View* (1953).
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -129,6 +150,18 @@ importance: high
 
 > [!warning] **Key Distinction**
 > A common objection to fallibilism is that it seems to undermine itself: if all beliefs could be wrong, then the belief that "all beliefs could be wrong" could itself be wrong — which would mean some beliefs could not be wrong, contradicting fallibilism. This objection has some dialectical bite, but most fallibilists defuse it by noting that fallibilism is best understood as a *methodological* claim about the appropriate epistemic attitude rather than a first-order metaphysical claim about the…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from fallibilism-foundational-report-2026-03-06.md)*
+> Before reading further, take a moment to identify a belief you currently hold with high confidence — something you feel certain about. It could be a scientific fact, a moral conviction, a professional judgment, or an everyday empirical claim. As you read, consider whether that belief could, in principle, be mistaken. What evidence would it take to revise it? Do you find the prospect of revision threatening or liberating? Noticing your starting intuitions about certainty will make the intellectual movement of this report more vivid.
+
+> [!reflection] **Reflect** *(from fallibilism-foundational-report-2026-03-06.md)*
+> 1. Which historical figure's version of epistemic caution resonates most with you — Socrates's method of relentless questioning, Peirce's community-based self-correction, or Popper's falsificationism? What does your intuitive response reveal about your own epistemic values?
+> 2. The distinction between fallibilism and scepticism is philosophically sharp, but in practice many people conflate them. Why do you think this conflation is so common? What cognitive or rhetorical tendencies might drive it?
+> 3. If you hold a belief with high confidence, what specific evidence or argument would you need to encounter before you would revise it? Is that threshold well-calibrated, or does it feel too high or too low?
+
 
 ## Connections & Context
 
@@ -143,3 +176,23 @@ importance: high
 
 **Related concepts:**
 [[fallibilism]] · [[epistemology]] · [[philosophy-of-science|philosophy of science]] · [[critical-thinking|critical thinking]] · [[pedagogy]] · [[Descartes]] · [[scepticism]] · [[Scepticism]] · [[epistemic-relativism|epistemic relativism]] · [[Epistemic-humility|Epistemic humility]] · [[cognitive-psychology|cognitive psychology]] · [[Socrates]] · [[Socratic-method|Socratic method]] · [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] · [[Charles-Sanders-Peirce|Charles Sanders Peirce]]
+
+**Related concepts** *(from fallibilism-foundational-report-2026-03-06.md)*:
+[[philosophy-of-science|philosophy of science]] * [[critical-thinking|critical thinking]] * [[epistemic-relativism|epistemic relativism]] * [[Epistemic-humility|Epistemic humility]] * [[cognitive-psychology|cognitive psychology]] * [[Socratic-method|Socratic method]] * [[Pyrrhonian-sceptics|Pyrrhonian sceptics]] * [[Charles-Sanders-Peirce|Charles Sanders Peirce]] * [[pragmatism|pragmatism]] * [[Karl-Popper|Karl Popper]] * [[falsificationism|falsificationism]] * [[W.V.O.-Quine|W.V.O. Quine]] * [[demarcation-problem|demarcation problem]] * [[Duhem-Quine-thesis|Duhem-Quine thesis]] * [[Thomas-Kuhn|Thomas Kuhn]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+**Cross-report connections** *(from fallibilism-foundational-report-2026-03-06.md)*:
+- [[Fallibilism|Fallibilism]]
+- [[Metacognition-and-Lifelong-Learning|Metacognition and Lifelong Learning]]
+- [[Metacognition-and-Critical-Thinking|Metacognition and Critical Thinking]]
+- [[Paul-Elder-Framework|Paul-Elder Framework]]
+- [[Deliberate-Practice|Deliberate Practice]]
+
+
+

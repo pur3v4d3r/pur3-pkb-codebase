@@ -22,7 +22,7 @@ subdomains:
   - cognitive-psychology
   - educational-philosophy
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 26-feedback-loops-pkm-framework-2026-03-15
@@ -54,6 +54,14 @@ see-also:
   - "[[Online-Learning-Design|Online Learning Design]]"
   - "[[Learning-Contracts|Learning Contracts]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]"
+  - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
+  - "[[Malcolm-Knowles|Malcolm Knowles]]"
+  - "[[Self-Directed-Learning|Self-Directed Learning]]"
+  - "[[Allen-Tough|Allen Tough]]"
+  - "[[Adult-Education|Adult Education]]"
+  - "[[Online-Learning-Design|Online Learning Design]]"
+  - "[[Learning-Contracts|Learning Contracts]]"
+  - "[[Self-Regulated-Learning|Self-Regulated Learning]]"
   - "[[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]"
   - "[[Malcolm-Knowles|Malcolm Knowles]]"
 builds-on:
@@ -117,6 +125,14 @@ importance: high
 > [!analytical-insight] Key Insight *(from self-directed-learning-foundational-report-2026-03-11.md)*
 > Process and person are logically independent. SDL-structured environments do not automatically produce self-directed learners, and self-directed learners can learn effectively in non-SDL environments. This means that designing an SDL environment is not the same as developing learner autonomy, and measuring learner self-directedness is not the same as measuring SDL process engagement. Conflating the two produces interventions that fail and research that produces apparently contradictory findings.
 
+> [!evidence] Supporting Evidence *(from self-directed-learning-foundational-report-2026-03-11.md)*
+> The foundational text in the SDL field. Knowles articulates the concept of andragogy and develops its implications for SDL practice, including the learning contract methodology. Essential reading for understanding the historical roots of the field and the process model that remains the dominant reference framework. Readers should approach it with awareness that Knowles writes primarily from a practitioner perspective; the theoretical foundations are underdeveloped by contemporary standards, but the pedagogical vision is clear and still influential.
+
+> [!evidence] Supporting Evidence *(from self-directed-learning-foundational-report-2026-03-11.md)*
+> The empirical cornerstone of the SDL literature. Tough's large-scale interview study documenting the prevalence, intentionality, and self-planned character of naturally occurring adult learning established that SDL is descriptive as well as normative. Essential reading for Phase II and Phase IV; the methodology (the detailed interview protocol used to surface learning projects) is directly relevant to the design of SDL support tools.
+
+
+
 
 
 
@@ -141,6 +157,18 @@ importance: high
 > [!warning] **Key Distinction** *(from self-directed-learning-foundational-report-2026-03-11.md)*
 > The vast majority of SDL research — including the foundational studies on which the major theoretical frameworks rest — has been conducted with Western, Educated, Industrialized, Rich, and Democratic (WEIRD) samples. SDLRS validation studies have been conducted primarily with adult learners in North American continuing education settings; learning projects research drew on Canadian urban adults; online SDL research has focused heavily on university students in Western contexts. The generalisability of the frameworks and findings to learners in other cultural contexts, with different educational histories, in lower-resource environments, or with different relationships to institutional authority is uncertain and under-researched. This is a genuine limitation, not a caveat to be bracketed.
 
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from self-directed-learning-foundational-report-2026-03-11.md)*
+> Before reading further, pause to notice your own learning landscape. In the last year, what have you deliberately tried to learn outside of any formal assignment? How did you go about it? Who decided what you needed to know, how you would learn it, and whether you had succeeded? Tracing these questions in your own experience will give you a personal anchor for the theoretical analysis that follows. The richest engagement with SDL theory happens when the abstract maps onto something the reader has lived.
+
+> [!reflection] **Reflect** *(from self-directed-learning-foundational-report-2026-03-11.md)*
+> 1. The distinction between SDL-as-process and SDL-as-trait maps onto a broader distinction in psychology between states and traits. Why does this distinction matter for how we design learning environments? If SDL is a trait that varies across individuals, what are the implications for mandating SDL-structured learning experiences?
+> 2. Knowles developed andragogy primarily in the context of American adult education in the 1960s–70s. What social and cultural assumptions might be embedded in the model that would limit its applicability across cultural contexts or across different kinds of learning goals?
+> 3. Candy's contribution involves applying philosophical concepts of personal autonomy to the educational setting. What is gained — and what is risked — by grounding an educational theory in a normative philosophical concept like autonomy?
 
 
 ## Connections & Context
@@ -171,6 +199,26 @@ importance: high
 - [[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning|Self-Regulated Learning]]
 - [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Related concepts** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+[[Self-Directed-Learning|Self-Directed Learning]] * [[Allen-Tough|Allen Tough]] * [[Adult-Education|Adult Education]] * [[Online-Learning-Design|Online Learning Design]] * [[Learning-Contracts|Learning Contracts]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]] * [[Malcolm-Knowles|Malcolm Knowles]] * [[Philip-Candy|Philip Candy]] * [[Stewart-Hase|Stewart Hase]] * [[Chris-Kenyon|Chris Kenyon]] * [[Lucy-Guglielmino|Lucy Guglielmino]] * [[Roger-Brockett|Roger Brockett]] * [[Ralph-Hiemstra|Ralph Hiemstra]] * [[D.-Randy-Garrison|D. Randy Garrison]]
+
+**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+**Cross-report connections** *(from self-directed-learning-foundational-report-2026-03-11.md)*:
+- [[Self-Directed-Learning|Self-Directed Learning]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
+
+
+
 
 
 

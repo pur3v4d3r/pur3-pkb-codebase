@@ -121,6 +121,8 @@ KNOWN_CALLOUT_TYPES = {
     "best-practice",
     # Connective (taxonomy additions)
     "connections-and-links", "further-exploration", "topic-idea",
+    # Dialectical & Comparative report types (2026-03-20 addition)
+    "assumption-challenge", "steel-man", "framework-profile", "comparative-finding",
 }
 
 # ── Semantic Color Mapping ────────────────────────────────────────────────────

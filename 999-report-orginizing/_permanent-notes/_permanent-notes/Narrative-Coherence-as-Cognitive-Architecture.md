@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "report-15-the-examined-life-revisited"
+  - "report-15-the-examined-life-revisited.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[Eudaimonia]]"
   - "[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]"
   - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
+  - "[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]]"
+  - "[[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]]"
+  - "[[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]]"
+  - "[[Predictive-Processing|Predictive Processing]]"
+  - "[[Narrative-Identity|Narrative Identity]]"
+  - "[[Eudaimonia|Eudaimonia]]"
+  - "[[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]]"
+  - "[[Socratic-Method|Socratic Method]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -111,7 +120,17 @@ importance: high
 > [!warning] **Key Distinction**
 > The framework's Western philosophical inheritance creates a systematic bias toward individual, deliberative, linguistically mediated forms of self-examination. Alternative traditions — Confucian relational cultivation, Buddhist contemplative practice, Indigenous communal epistemologies — may describe functionally equivalent achievements through radically different practices. The framework describes *one* path to integrated cognitive personhood, not the only one.
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-15-the-examined-life-revisited.md)*
+> When you encounter a situation that generates persistent unease — professional, relational, existential — do you typically experience that unease as information to be decoded or as noise to be managed? What would it look like to treat the signal more seriously: to ask not "how do I feel better?" but "what is this telling me that I need to understand?"
+
 ## Connections & Context
 
 **Related concepts:**
 [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] · [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] · [[Predictive-Processing|Predictive Processing]] · [[Narrative-Identity|Narrative Identity]] · [[Eudaimonia]] · [[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] · [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] · [[Socratic-Method|Socratic Method]] · [[System-1|System 1]] · [[Fallibilism]] · [[Pragmatism]] · [[Constructivism]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Prohairesis]]
+
+**Related concepts** *(from report-15-the-examined-life-revisited.md)*:
+[[Tier-1-—-Epistemic-Architecture|Tier 1 — Epistemic Architecture]] * [[Tier-2-—-Practical-Architecture|Tier 2 — Practical Architecture]] * [[Tier-3-—-Integrative-Architecture|Tier 3 — Integrative Architecture]] * [[Predictive-Processing|Predictive Processing]] * [[Narrative-Identity|Narrative Identity]] * [[Dewey's-Reflective-Thinking|Dewey's Reflective Thinking]] * [[Socratic-Method|Socratic Method]] * [[System-1|System 1]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Schema-Theory|Schema Theory]] * [[Zone-of-Proximal-Development|Zone of Proximal Development]] * [[Virtue-Epistemology|Virtue Epistemology]] * [[Stoic-Virtue-Ethics|Stoic Virtue Ethics]] * [[Dual-Process-Theory|Dual Process Theory]] * [[Stoic-Prosoche|Stoic Prosoche]]
+

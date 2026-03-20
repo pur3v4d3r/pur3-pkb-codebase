@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -80,6 +80,14 @@ see-also:
   - "[[Educational-Philosophy|Educational Philosophy]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
+  - "[[metacognition|metacognition]]"
+  - "[[Critical-thinking|Critical thinking]]"
+  - "[[John-Hattie|John Hattie]]"
+  - "[[John-H.-Flavell|John H. Flavell]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Ann-Brown|Ann Brown]]"
+  - "[[Socrates|Socrates]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
   - "[[metacognition|metacognition]]"
   - "[[Critical-thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
@@ -164,6 +172,38 @@ importance: high
 > [!analytical-insight] Key Insight *(from metacognition-motivation-foundational-report-2026-03-05.md)*
 > The SRL cycle is not a purely cognitive model — every phase contains a motivational component. In the forethought phase, the learner's motivational beliefs (self-efficacy, goal orientation, intrinsic interest) shape the *quality* of goal-setting and strategic planning. In the performance phase, metacognitive monitoring occurs in the context of ongoing motivational experience (interest, boredom, frustration, curiosity). In the self-reflection phase, the learner's attribution of success or failure — to ability, effort, strategy, or context — determines whether the next cycle begins with higher or lower self-efficacy and motivation. The model is bidirectionally integrated: motivation shapes metacognitive quality; metacognitive outcomes shape subsequent motivation.
 
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
+> The foundational popular synthesis of dual process theory, distinguishing System 1 (fast, automatic, intuitive) from System 2 (slow, deliberate, effortful) processing and documenting the heuristics and biases that arise from ungoverned System 1 cognition. Essential background for this report's regulatory framework.
+
+> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
+> The authoritative theoretical statement of the default-interventionist version of dual process theory, establishing cognitive decoupling as the defining feature of Type 2 processing and autonomy as the defining feature of Type 1 processing. Provides the mechanistic architecture underlying this report's regulatory framework.
+
+> [!evidence] Supporting Evidence *(from report-06-taming-system-1.md)*
+> Stanovich's synthesis of the three requirements for effective Type 2 override of Type 1 responses: detecting that override is warranted, having the capacity to override, and possessing the mindware to execute the override effectively. Directly relevant to the analysis of why brief debiasing interventions produce modest effects.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -204,6 +244,40 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to reflect: what do you currently believe the relationship between metacognition and critical thinking to be? Are they the same thing? Complementary? Distinct? Where does your understanding of each come from — coursework, practice, reading, intuition? Noticing your starting assumptions makes the conceptual journey ahead more visible and the refinements more meaningful.
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> 1. The distinction between metacognitive *knowledge* and metacognitive *regulation* — knowing about your cognitive tendencies versus actively managing them — is one of the field's most important dividing lines. Which do you find more developed in yourself? Can you think of a recent learning situation in which you had knowledge about your cognitive tendencies but failed to regulate them accordingly?
+> 2. The Delphi definition of the ideal critical thinker is notably dispositional — it describes character traits as much as cognitive skills. What does this suggest about how critical thinking should be cultivated? Is it a matter of teaching skills, or of forming character?
+> 3. How does tracing these ideas back to Dewey and Socrates change your sense of what is genuinely novel about contemporary metacognitive research, versus what is a reformulation of much older insights?
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
+> [!reflection] **Reflect** *(from report-06-taming-system-1.md)*
+> In what domains of your own reasoning do you notice the strongest feelings of immediate certainty? These are precisely the domains where your Type 1 processing has the most well-worn patterns — and therefore where the distinction between genuine expertise and confident miscalibration is hardest to detect without practiced metacognitive attention. Where in your professional or personal life do you routinely accept the first impression? What would it look like to cultivate a brief, habitual governed gap in those specific domains?
+
+> [!reflection] **Reflect** *(from report-06-taming-system-1.md)*
+> Consider the last three significant decisions you made — professional, personal, or intellectual. For each decision, ask: how much of the cognitive work occurred before you had already formed an initial impression? At what point in your deliberation did you become aware of having a preferred conclusion? How reliably do you create a governed attentional gap between your initial impression and your final judgment? These questions, practiced regularly, constitute the beginnings of the prosoche described in this report.
+
+> [!reflection] **Reflect** *(from report-07-the-self-directed-learner.md)*
+> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of how *you* learn best that is based on evidence from your own learning history — or is it based on what you have been told, what seems intuitively appealing, or what protects your sense of yourself as a capable learner?
+
+
+
+
+
+
+
 ## Connections & Context
 
 **Related concepts:**
@@ -237,6 +311,40 @@ importance: high
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, report-02-the-fallible-knower.md, report-06-taming-system-1.md, report-07-the-self-directed-learner.md)*:
+[[Critical-thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+
+
+
+
 
 
 

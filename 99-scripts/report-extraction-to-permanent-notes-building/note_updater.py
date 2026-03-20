@@ -48,6 +48,7 @@ class UpdateAction:
     connections_added: int = 0
     practices_added: int = 0
     warnings_added: int = 0
+    reflections_added: int = 0
     wiki_links_added: int = 0
     see_also_added: int = 0
     timestamp_updated: bool = False
@@ -62,6 +63,7 @@ class UpdateAction:
             + self.connections_added
             + self.practices_added
             + self.warnings_added
+            + self.reflections_added
             + self.wiki_links_added
             + self.see_also_added
         )
@@ -459,6 +461,22 @@ class NoteUpdater:
                     )
                     existing_warnings.append(warning)
                     action.warnings_added += 1
+
+        # -- 7b. Add reflection callouts -----------------------------------
+        existing_reflections = _extract_existing_callouts(body, "reflection")
+        for c in candidates:
+            for reflection in getattr(c, 'reflections', []):
+                if not _is_duplicate_callout(reflection, existing_reflections):
+                    callout = _build_callout_block(
+                        "reflection",
+                        f"**Reflect** *(from {c.source_report})*",
+                        reflection,
+                    )
+                    body = _insert_before_section_end(
+                        body, "Reflection Prompts", callout
+                    )
+                    existing_reflections.append(reflection)
+                    action.reflections_added += 1
 
         # -- 8. Add new wiki-links to Connections section ------------------
         new_wl_for_body = []

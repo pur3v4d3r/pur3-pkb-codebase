@@ -23,9 +23,10 @@ from typing import Optional
 from config import (
     NOTE_GENERATING_CALLOUTS, EVIDENCE_CALLOUTS, INSIGHT_CALLOUTS,
     CONNECTION_CALLOUTS, PRACTICE_CALLOUTS, EXPANSION_CALLOUTS,
-    WARNING_CALLOUTS, DOMAIN_MAP, VALID_DOMAINS,
+    WARNING_CALLOUTS, REFLECTION_CALLOUTS, DOMAIN_MAP, VALID_DOMAINS,
     MAX_EVIDENCE_PER_NOTE, MAX_INSIGHTS_PER_NOTE, MAX_CONNECTIONS_PER_NOTE,
     MAX_PRACTICES_PER_NOTE, MAX_WARNINGS_PER_NOTE, MAX_EXPANSION_TOPICS,
+    MAX_REFLECTIONS_PER_NOTE,
 )
 
 
@@ -70,6 +71,7 @@ class NoteCandidate:
     warnings: list[str] = field(default_factory=list)
     expansion_topics: list[dict] = field(default_factory=list)
     wiki_links: list[str] = field(default_factory=list)
+    reflections: list[str] = field(default_factory=list)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -216,6 +218,53 @@ def parse_synthesis_title(raw_title: str, body: str = "") -> str:
     return title
 
 
+def parse_framework_profile_title(raw_title: str) -> tuple[str, str]:
+    """
+    Parse a framework-profile callout title into (concept_name, attribution).
+
+    Titles typically follow one of these formats:
+      "**Framework: Self-Determination Theory (Deci & Ryan, 1985–2017)**"
+      "Self-Determination Theory — Edward Deci & Richard Ryan (1985–2017)"
+      "Self-Determination Theory"
+
+    The em-dash (—) separates framework name from developer name.
+
+    Returns:
+      (concept_name, attribution_string)
+    """
+    title = raw_title.strip()
+    # Strip ** markers
+    title = re.sub(r'^\*\*\s*', '', title)
+    title = re.sub(r'\*\*\s*$', '', title)
+
+    # Strip "Framework: " prefix if present
+    title = re.sub(r'^Framework:\s*', '', title, flags=re.IGNORECASE)
+
+    # Extract year/attribution from trailing parenthetical
+    year_info = ""
+    paren_match = re.search(r'\(([^)]+)\)\s*$', title)
+    if paren_match:
+        year_info = paren_match.group(1).strip()
+        title = title[:paren_match.start()].strip()
+
+    # Split on em-dash to separate framework name from developer name
+    developer = ""
+    if " — " in title:
+        parts = title.split(" — ", 1)
+        title = parts[0].strip()
+        developer = parts[1].strip()
+
+    # Build attribution: "Developer (Years)" or just "Developer" or just "(Years)"
+    if developer and year_info:
+        attribution = f"{developer} ({year_info})"
+    elif developer:
+        attribution = developer
+    else:
+        attribution = year_info
+
+    return title, attribution
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 # CANDIDATE EXTRACTION
 # ══════════════════════════════════════════════════════════════════════════════
@@ -245,6 +294,7 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
     practice_items = []
     warning_items = []
     expansion_items = []
+    reflection_items = []
 
     for callout in callouts:
         ctype = callout.get("type", "")
@@ -276,6 +326,10 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
                     "topic": topic_link,
                     "description": body[:200].replace('\n', ' ') if body else "",
                 })
+
+        elif ctype in REFLECTION_CALLOUTS and body:
+            entry = f"**{title}**: {body}" if title else body
+            reflection_items.append(entry)
 
     # ── Extract note-generating callouts ──────────────────────────────────
     candidates = []
@@ -310,6 +364,16 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
             else:
                 domain = DOMAIN_MAP.get(pd, "other")
             attribution = "Novel synthesis — this report series"
+        elif ctype == "framework-profile":
+            concept_name, attribution = parse_framework_profile_title(title)
+            # Derive domain from report primary_domain
+            pd = metadata.primary_domain.lower()
+            if pd in VALID_DOMAINS:
+                domain = pd
+            else:
+                domain = DOMAIN_MAP.get(pd, "other")
+            if not attribution:
+                attribution = "Framework profile — this report series"
         else:
             continue
 
@@ -332,6 +396,7 @@ def extract_note_candidates(data: dict) -> list[NoteCandidate]:
             warnings=warning_items[:MAX_WARNINGS_PER_NOTE],
             expansion_topics=expansion_items[:MAX_EXPANSION_TOPICS],
             wiki_links=all_wiki_links,
+            reflections=reflection_items[:MAX_REFLECTIONS_PER_NOTE],
         )
         candidates.append(candidate)
 

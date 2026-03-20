@@ -366,6 +366,16 @@ def build_body(candidate: NoteCandidate) -> str:
                 lines.append(f'> {w_line}')
             lines.append('')
 
+    # ── Reflection Prompts ────────────────────────────────────────────────
+    if candidate.reflections:
+        lines.append('## Reflection Prompts')
+        lines.append('')
+        for reflection in candidate.reflections:
+            lines.append('> [!reflection] **Reflect**')
+            for r_line in _wrap_callout_body(reflection):
+                lines.append(f'> {r_line}')
+            lines.append('')
+
     # ── Connections & Context ─────────────────────────────────────────────
     lines.append('## Connections & Context')
     lines.append('')

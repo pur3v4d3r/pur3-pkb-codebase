@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "relationship-motivation-theory-focused-analysis-2026-03-13"
+  - "relationship-motivation-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[autonomy]]"
   - "[[competence]]"
   - "[[relatedness]]"
+  - "[[Relationship-Motivation-Theory|Relationship Motivation Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[basic-psychological-needs|basic psychological needs]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
+  - "[[relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -137,6 +146,16 @@ importance: high
 > [!warning] **Key Distinction**
 > A common pattern in educational relationships is what might be called the warmth trap: the teacher or mentor is highly warm, caring, and emotionally present, but their support is primarily *structuring* and *directive* rather than *autonomy-supportive*. They do a great deal for the learner, take charge of decisions, prevent challenges before they are encountered, and provide solutions before the learner has fully engaged with the problem. This pattern satisfies the relatedness need in one…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> Before proceeding, consider a close relationship in your own life — any type: romantic, friendship, professional mentorship, or family. On what basis do you maintain it? Try to articulate your motivation as precisely as possible. Is it something you would describe as freely chosen, an expression of who you are? Or does it involve some element of obligation, duty, fear of what would happen if you withdrew? Hold this reflection — the framework that follows will give you more precise conceptual tools to analyze what you have described, and the distinction between these motivational patterns has consequences you may not expect.
+
+> [!reflection] **Reflect** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*
+> The analysis ahead depends on understanding why autonomous motivation and relationship satisfaction can be independent. Before proceeding, test yourself: Can you construct a scenario in which someone is both highly satisfied with their relationship AND maintains it primarily through controlled motivation? What features of the scenario make that combination psychologically coherent? If you find yourself reaching for a contrived or extreme example, the independence of these constructs may not yet be fully integrated. A real, everyday scenario will serve you better.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -144,3 +163,11 @@ importance: high
 
 **Related concepts:**
 [[Relationship-Motivation-Theory|Relationship Motivation Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[basic-psychological-needs|basic psychological needs]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[perceived-partner-responsiveness|perceived partner responsiveness]]
+
+**Related concepts** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+[[Relationship-Motivation-Theory|Relationship Motivation Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[basic-psychological-needs|basic psychological needs]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[perceived-partner-responsiveness|perceived partner responsiveness]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Knee|Knee]] * [[Patrick|Patrick]] * [[Lonsbary|Lonsbary]] * [[Autonomy-support|Autonomy support]] * [[La-Guardia|La Guardia]] * [[Deci|Deci]] * [[Impett|Impett]]
+
+**Cross-report connections** *(from relationship-motivation-theory-focused-analysis-2026-03-13.md)*:
+- [[Iterated-Prisoner's-Dilemma|Iterated Prisoner's Dilemma]]
+
+

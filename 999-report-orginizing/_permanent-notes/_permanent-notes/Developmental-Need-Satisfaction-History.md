@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "causality-orientations-theory-focused-analysis-2026-03-13"
+  - "causality-orientations-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -63,6 +64,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
+  - "[[Autonomy-Orientation|Autonomy Orientation]]"
+  - "[[Control-Orientation|Control Orientation]]"
+  - "[[Impersonal-Orientation|Impersonal Orientation]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[General-Causality-Orientations-Scale|General Causality Orientations Scale]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
   - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
   - "[[Causality-Orientations-Theory|Causality Orientations Theory]]"
   - "[[Autonomy-Orientation|Autonomy Orientation]]"
@@ -124,6 +133,10 @@ importance: high
 > [!analytical-insight] Key Insight
 > Rotter's [[Locus of Control]] (LOC) construct asks: does the person attribute outcomes to their own behavior (internal LOC) or to external forces (external LOC)? COT asks a fundamentally different question: what motivational register governs the person's engagement with behavior? The distinction is sharpest for a specific case: a person can have an **internal LOC but a control orientation**. An individual who feels personally responsible for their outcomes but who is driven by shame, guilt,…
 
+> [!evidence] Supporting Evidence *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> The foundational text for both SDT and COT. Introduces the three causality orientations, presents the theoretical rationale for COT within the broader SDT framework, and provides initial validation of the GCOS instrument. This remains the primary theoretical reference for COT. Essential reading for understanding the intellectual context in which COT was developed and the specific theoretical commitments Deci and Ryan bring to individual differences.
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -134,6 +147,16 @@ importance: high
 
 > [!warning] **Key Distinction**
 > Standard assessment practices — grades, rankings, performance reviews, competitive evaluations — create motivational environments that are strongly oriented toward the control dimension: they make salient the evaluative, comparative, and external-standard features of performance. COT predicts that such environments will activate and reinforce control orientation in participants, potentially at the expense of autonomous motivation — even for learners who are autonomy-oriented in less evaluative…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> Before reading further, take a moment to predict: If you assessed a group of learners on all three causality orientations (autonomy, control, impersonal) and then tracked them through an educational program over a year, which orientation would most strongly predict academic performance? Which would most strongly predict well-being and satisfaction? Would the two "most predictive" orientations be the same? Write down your predictions and your reasoning. The evidence in Phase III will either confirm or productively complicate your expectations.
+
+> [!reflection] **Reflect** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*
+> The analysis ahead depends on the distinction between *control orientation* (which includes internally-imposed controls like guilt and ego-involvement) and *autonomy orientation* (which involves genuine interest and personal value). Before proceeding, articulate this distinction in your own words: Can you give an example of behavior that would look the same from the outside but differ depending on whether the person is operating from autonomy or control orientation? If you find yourself drawn to simply restating the definitions rather than generating an example, take a moment to think of a real situation — that friction is the concept resisting integration.
+
 
 ## Connections & Context
 
@@ -147,3 +170,15 @@ importance: high
 
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Autonomy-Orientation|Autonomy Orientation]] · [[Control-Orientation|Control Orientation]] · [[Impersonal-Orientation|Impersonal Orientation]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] · [[Locus-of-Control|Locus of Control]] · [[Amotivation]] · [[Learned-Helplessness|Learned Helplessness]] · [[General-Causality-Orientations-Scale|General Causality Orientations Scale]]
+
+**Related concepts** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[Autonomy-Orientation|Autonomy Orientation]] * [[Control-Orientation|Control Orientation]] * [[Impersonal-Orientation|Impersonal Orientation]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[General-Causality-Orientations-Scale|General Causality Orientations Scale]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]] * [[Learned-Helplessness|Learned Helplessness]] * [[Attentional-Deployment|Attentional Deployment]] * [[Selective-Attention|Selective Attention]] * [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+
+**Cross-report connections** *(from causality-orientations-theory-focused-analysis-2026-03-13.md)*:
+- [[Self-Determination-Theory-—-Focused-Analysis|Self-Determination Theory — Focused Analysis]]
+- [[Self-Regulated-Learning-—-Focused-Analysis|Self-Regulated Learning — Focused Analysis]]
+- [[Cognitive-Load-Theory-—-Focused-Analysis|Cognitive Load Theory — Focused Analysis]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Metacognition-and-Motivation|Metacognition and Motivation]]
+
+

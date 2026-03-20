@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,6 +77,14 @@ see-also:
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
   - "[[26-feedback-loops-pkm-framework]]"
   - "[[Academic-Anxiety|Academic Anxiety]]"
+  - "[[System-2-Thinking|System 2 Thinking]]"
+  - "[[Dual-Process-Theory|Dual Process Theory]]"
+  - "[[System-2|System 2]]"
+  - "[[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Flow-Theory|Flow Theory]]"
+  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
   - "[[System-2-Thinking|System 2 Thinking]]"
   - "[[Dual-Process-Theory|Dual Process Theory]]"
   - "[[System-2|System 2]]"
@@ -136,6 +144,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > **The Competence Paradox in Early PKB Practice**: There is a motivational paradox in the early stages of PKB development that SDT's competence need helps diagnose. For competence need to be satisfied, feedback must be *informational* — confirming effectiveness and skill — rather than *controlling* or merely *negative*. In early PKB practice, the most prominent informational feedback is about gaps: what one doesn't know, what one hasn't captured, what one has forgotten, what connections one…
 
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> Teacher motivation. *Annual Review of Psychology*, 72, 73–95. DOI: 10.1146/annurev-psych-080920-042911. [Meta-analysis of 344 samples, N=223,209; foundational empirical support for SDT predictions about autonomous vs. controlled motivation outcomes.]
+
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> Effects of self-determination theory-based educational interventions: A meta-analysis. *Educational Psychology Review*, 36. [36 studies, N=11,792; large effect of autonomy-supportive practices (g=1.14) on experienced autonomy; moderate effects on competence and intrinsic motivation.]
+
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> *Flow: The Psychology of Optimal Experience*. Harper & Row. [Foundational text establishing flow theory, the challenge-skill balance model, and the concept of autotelic experience.]
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -143,6 +163,12 @@ importance: high
 
 > [!example] **Application**
 > **The PKB Resilience Protocol**: (1) **Minimum Viable Practice**: Define in advance the minimum PKB practice that constitutes "not abandoning the system" — something so simple that it can be completed even during the most demanding weeks. For most practitioners, this is: capturing one observation per day (even in an unprocessed inbox), and reviewing a maximum of five notes. The minimum viable practice prevents the accumulation of overwhelming backlog and maintains the thread of engagement. (2)…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from report-03-the-motivated-mind.md)*
+> Consider your own intellectual engagement over the past week. When did thinking feel most alive and rewarding — not despite its difficulty but *through* its difficulty? When did it feel draining and aversive? Map these experiences against the framework offered here: Were the energizing moments characterized by genuine challenge at the edge of your competence, felt autonomy over the engagement, and interpretation of difficulty as information? Were the draining moments characterized by excessive or inadequate challenge, felt pressure or obligation, or anxiety about what difficulty revealed about your capacity? This mapping is not merely analytical — it is itself a practical application of the motivational architecture this report describes.
 
 ## Connections & Context
 
@@ -160,4 +186,8 @@ importance: high
 
 **Related concepts** *(from report-03-the-motivated-mind.md)*:
 [[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Cognitive-Vitality|Cognitive Vitality]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]]
+
+**Related concepts** *(from report-03-the-motivated-mind.md)*:
+[[System-2-Thinking|System 2 Thinking]] * [[Dual-Process-Theory|Dual Process Theory]] * [[System-2|System 2]] * [[Fallibilist-Epistemological-Posture|Fallibilist Epistemological Posture]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Flow-Theory|Flow Theory]] * [[Stoic-Prohairesis|Stoic Prohairesis]] * [[Growth-Mindset|Growth Mindset]] * [[Cognitive-Vitality|Cognitive Vitality]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Howard-et-al.|Howard et al.]] * [[Basic-Psychological-Needs|Basic Psychological Needs]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Wang-et-al.|Wang et al.]]
+
 

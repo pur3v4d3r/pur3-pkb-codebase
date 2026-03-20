@@ -33,7 +33,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -41,6 +41,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "growth-mindset-first-principles-report-2026-03-11"
+  - "growth-mindset-first-principles-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -66,6 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Carol-Dweck|Carol Dweck]]"
+  - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
+  - "[[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]"
+  - "[[Stereotype-Threat|Stereotype Threat]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
+  - "[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]"
   - "[[Growth-Mindset|Growth Mindset]]"
   - "[[Carol-Dweck|Carol Dweck]]"
   - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
@@ -125,6 +134,18 @@ importance: high
 > [!analytical-insight] Key Insight
 > The conventional view enables something practically valuable: it provides a simple, actionable vocabulary for discussing effort, persistence, and response to failure with students and employees. "You have a growth mindset" functions as praise that attributes success to modifiable behavior rather than fixed ability. "What would a growth mindset look like here?" is a useful coaching prompt. Whatever its epistemic status, the framework has genuine utility as a conversational technology for…
 
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -135,6 +156,18 @@ importance: high
 
 > [!warning] **Key Distinction**
 > Praising effort indiscriminately can actively harm students who are already working at capacity, who genuinely lack prerequisite knowledge (where more effort at the same approach is futile), or who perceive effort praise as a signal of low expectations. Effort praise should be reserved for situations where effort is genuinely the limiting factor and where the student has actionable strategy choices.
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the difference between belief that arrived through reasoning and belief that arrived through cultural absorption.
+
+> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> 1. Which assumption's dissolution surprised you most? Many practitioners feel the shock most strongly with Assumption 6 (intervention transfer) because the entire applied enterprise rests on it. Its dissolution does not mean the theoretical claims are false — only that brief, generic delivery of them does not reliably change outcomes.
+> 2. Did any assumption you expected to dissolve actually survive? Assumptions 1 and 8 partially survived in revised form, suggesting that ability beliefs are real psychological constructs worth attending to — just not in the domain-general, stability-assuming, instruction-responsive form the framework treats them as.
+> 3. Is the conventional understanding more or less stable than you expected? Significantly less stable — and the instability clusters specifically around the causal mechanism and the intervention architecture, which are exactly the parts that matter most for practice.
+
 
 ## Connections & Context
 
@@ -148,3 +181,63 @@ importance: high
 
 **Related concepts:**
 [[Growth-Mindset|Growth Mindset]] · [[Carol-Dweck|Carol Dweck]] · [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] · [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] · [[Stereotype-Threat|Stereotype Threat]] · [[Attribution-Theory|Attribution Theory]] · [[Self-Efficacy-Theory|Self-Efficacy Theory]] · [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] · [[Self-Efficacy-Theory|Self-Efficacy Theory]] · [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Attribution-Theory|Attribution Theory]] · [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] · [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] · [[Attribution-Theory|Attribution Theory]] · [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+[[Growth-Mindset|Growth Mindset]] * [[Carol-Dweck|Carol Dweck]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] * [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] * [[Stereotype-Threat|Stereotype Threat]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Efficacy-Theory|Self-Efficacy Theory]] * [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] * [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] * [[Deliberate-Practice|Deliberate Practice]] * [[Mindset-Interventions-in-Education|Mindset Interventions in Education]] * [[Wise-Interventions-(Walton-&-Wilson)|Wise Interventions (Walton & Wilson)]] * [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+
+
+
+
+
+
+

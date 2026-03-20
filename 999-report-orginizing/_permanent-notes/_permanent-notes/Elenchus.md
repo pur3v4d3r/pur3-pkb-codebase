@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,6 +77,14 @@ see-also:
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
   - "[[Anomalous-Data|Anomalous Data]]"
+  - "[[understanding|understanding]]"
+  - "[[Richard-Feynman|Richard Feynman]]"
+  - "[[pedagogy|pedagogy]]"
+  - "[[Rote-memorization|Rote memorization]]"
+  - "[[classical-mechanics|classical mechanics]]"
+  - "[[tacit-knowledge|tacit knowledge]]"
+  - "[[Michael-Polanyi|Michael Polanyi]]"
+  - "[[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]]"
   - "[[understanding|understanding]]"
   - "[[Richard-Feynman|Richard Feynman]]"
   - "[[pedagogy|pedagogy]]"
@@ -145,6 +153,18 @@ importance: high
 > [!analytical-insight] Key Insight *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
 > Understanding is not a state but a capacity — specifically, the capacity for *functional integration*: the organisation of knowledge in a way that enables (1) productive inference across new cases; (2) accurate prediction of a domain's behaviour; (3) detection of anomaly or error — the knowledge reveals when things don't fit; (4) analogical extension — the ability to map the structure of the domain onto structurally similar domains; and (5) self-correction — the ability to recognise the limits and failures of one's own understanding. This is a *functional* rather than *propositional* conception of understanding.
 
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.
+
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.
+
+> [!evidence] Supporting Evidence *(from report-01-the-inquiry-engine.md)*
+> The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.
+
+
+
+
 
 
 ## Practical Implications
@@ -184,6 +204,24 @@ importance: high
 > [!warning] **Key Distinction**
 > The inquiry-based approach described here is frequently misread as "a more elaborate way of taking notes" — adding question prompts and revision logs to what is essentially the same capture workflow. This misreads the architecture entirely. Inquiry-first PKB design is not a more elaborate capture workflow; it is a different cognitive activity. The note is not the destination; the inquiry is. The note is the record of an inquiry process that should occur primarily in the learner's mind — with…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> The Questioner is about to pose what seems like a simple question: *What does it mean to truly understand something?* Before reading the Respondent's answer, formulate your own. You might reach for phrases like "being able to explain it," or "knowing why, not just what," or "being able to use it." Write something down — even a sentence. As the dialogue unfolds, you will encounter the same scrutiny applied to your answer. Let the Respondent speak for you.
+
+> [!reflection] **Reflect** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*
+> At this point, the Respondent's position is fully articulated: understanding is the capacity for structural, mechanistic explanation that survives probing. Do you agree? Think about a subject you feel you genuinely understand. Could you pass the explanation-test? And now think about a subject where you feel uncertain — would the test accurately capture your degree of understanding, or does something feel off about using explanation as the measure? Hold that intuition. It will matter.
+
+> [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
+> When did you last hold a belief with genuine confidence, then encounter evidence or argument that revealed it to be more fragile than you thought? What was your first response — genuine curiosity, discomfort, or defensiveness? That response pattern reveals a great deal about your current level of aporic receptivity.
+
+> [!reflection] **Reflect** *(from report-01-the-inquiry-engine.md)*
+> Think of a belief you currently hold with high confidence — about your profession, your relationships, your values, or the world. Have you recently subjected it to the kind of examination that could produce genuine aporia? What would it take for you to arrive at aporia about this belief? Is the answer "nothing could produce aporia" — and if so, does that tell you something about the belief's epistemic status?
+
+
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -211,6 +249,26 @@ importance: high
 - [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
 - [[fluency-effects|fluency effects]]
 - [[Metacognition|Metacognition]]
+
+**Related concepts** *(from report-01-the-inquiry-engine.md, what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+[[Richard-Feynman|Richard Feynman]] * [[Rote-memorization|Rote memorization]] * [[classical-mechanics|classical mechanics]] * [[tacit-knowledge|tacit knowledge]] * [[Michael-Polanyi|Michael Polanyi]] * [[Polanyian-Tacit-Knowing|Polanyian Tacit Knowing]] * [[Gilbert-Ryle|Gilbert Ryle]] * [[cognitive-psychology|cognitive psychology]] * [[illusion-of-explanatory-depth|illusion of explanatory depth]] * [[Leonid-Rozenblit|Leonid Rozenblit]] * [[Frank-Keil|Frank Keil]] * [[Aha!-moment|Aha! moment]] * [[sense-of-coherence|sense of coherence]] * [[metacognitive-calibration|metacognitive calibration]] * [[Transfer-of-Learning|Transfer of Learning]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+**Cross-report connections** *(from what-does-it-mean-to-truley-understand-something-2026-03-10.md)*:
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Tacit-Knowledge-(Polanyi)|Tacit Knowledge (Polanyi)]]
+- [[Illusion-of-Explanatory-Depth|Illusion of Explanatory Depth]]
+- [[fluency-effects|fluency effects]]
+- [[Metacognition|Metacognition]]
+
+
+
 
 
 

@@ -27,7 +27,7 @@ subdomains:
   - learning-experience-design
   - cognitive-psychology
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 05-motivation-architecture-pkm-framework-2026-03-13
@@ -55,6 +55,14 @@ see-also:
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Competence-Need|Competence Need]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Carol-Dweck|Carol Dweck]]"
+  - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
+  - "[[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]]"
+  - "[[Stereotype-Threat|Stereotype Threat]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Self-Efficacy-Theory|Self-Efficacy Theory]]"
+  - "[[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]]"
   - "[[Growth-Mindset|Growth Mindset]]"
   - "[[Carol-Dweck|Carol Dweck]]"
   - "[[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]]"
@@ -116,6 +124,42 @@ importance: high
 > [!analytical-insight] Key Insight *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
 > A growth mindset belief may be necessary but not sufficient for sustained motivated learning. SDT suggests that even learners who believe in malleability will disengage if environments undermine their autonomy (through excessive control), competence (through overwhelming difficulty without scaffolding), or relatedness (through social isolation or threat). Mindset beliefs operate most powerfully in environments that also meet basic psychological needs.
 
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The popular synthesis of Dweck's research program, reaching the broad audience and generating the cultural penetration of the growth mindset concept. Primary source for the conventional account in Phase I.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The academic synthesis of Dweck's theoretical framework, providing the most rigorous statement of the implicit theories approach. Essential for understanding the technical distinctions between entity and incremental theories and their proposed effects.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> The foundational paper establishing attribution theory's three-dimensional model (locus, stability, controllability) and its predictions for persistence and emotion. The empirical foundation for Axiom 1 of this report.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
+> The accessible synthesis of Dweck's three decades of laboratory research, written for a general audience. Introduces the growth/fixed mindset framework to a broad readership and provides extensive case examples across educational, athletic, business, and interpersonal domains. Essential reading for understanding the cultural deployment of mindset theory, though the primary research articles offer more methodological depth.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
+> Six controlled experiments demonstrating that praising children for intelligence (versus effort) after initial success induces more entity-theoretic beliefs, undermines persistence on subsequent difficult tasks, reduces enjoyment, leads to performance-oriented goals, and decreases performance following failure. The methodological centerpiece of the praise research literature and essential reading for anyone interested in the specific feedback implications of mindset theory.
+
+> [!evidence] Supporting Evidence *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
+> A two-year longitudinal study of adolescents' math achievement showing that incremental theories predict upward trajectories in grades over the middle school transition — a period notorious for motivational decline. Also reports a mindset intervention study showing that teaching the neuroscience of brain plasticity improved math grades for intervention students. Foundational field evidence linking mindset to real academic outcomes over extended time.
+
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> Teacher motivation. *Annual Review of Psychology*, 72, 73–95. DOI: 10.1146/annurev-psych-080920-042911. [Meta-analysis of 344 samples, N=223,209; foundational empirical support for SDT predictions about autonomous vs. controlled motivation outcomes.]
+
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> Effects of self-determination theory-based educational interventions: A meta-analysis. *Educational Psychology Review*, 36. [36 studies, N=11,792; large effect of autonomy-supportive practices (g=1.14) on experienced autonomy; moderate effects on competence and intrinsic motivation.]
+
+> [!evidence] Supporting Evidence *(from report-03-the-motivated-mind.md)*
+> *Flow: The Psychology of Optimal Experience*. Harper & Row. [Foundational text establishing flow theory, the challenge-skill balance model, and the concept of autotelic experience.]
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,6 +187,32 @@ importance: high
 > [!warning] **Key Distinction** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
 > The single most damaging misapplication of growth mindset theory in educational practice is reducing it to a simple "effort is always good" message. Dweck and her colleagues have repeatedly clarified: growth mindset is not a celebration of effort per se. It is the belief that effective effort, combined with good strategy and willingness to learn from feedback, develops ability. Praising a student who is struggling and using poor strategies by saying "you're trying so hard, that's what matters!" may feel kind but communicates a fixed-mindset-adjacent message: the outcome (poor performance) is somehow separate from the process (effort), and effort itself is intrinsically virtuous regardless of its effectiveness.
 
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> Before proceeding to the assumption audit, write down — or hold clearly in mind — what you currently believe about growth mindset. Do you believe that your own mindset has shaped your achievement? Do you believe intelligence is malleable? Where did this belief come from — personal experience, a book, a workshop, a teacher? Can you articulate what evidence convinced you, or did you adopt the view because it is culturally dominant? There is no wrong answer here. The point is to notice the difference between belief that arrived through reasoning and belief that arrived through cultural absorption.
+
+> [!reflection] **Reflect** *(from growth-mindset-first-principles-report-2026-03-11.md)*
+> 1. Which assumption's dissolution surprised you most? Many practitioners feel the shock most strongly with Assumption 6 (intervention transfer) because the entire applied enterprise rests on it. Its dissolution does not mean the theoretical claims are false — only that brief, generic delivery of them does not reliably change outcomes.
+> 2. Did any assumption you expected to dissolve actually survive? Assumptions 1 and 8 partially survived in revised form, suggesting that ability beliefs are real psychological constructs worth attending to — just not in the domain-general, stability-assuming, instruction-responsive form the framework treats them as.
+> 3. Is the conventional understanding more or less stable than you expected? Significantly less stable — and the instability clusters specifically around the causal mechanism and the intervention architecture, which are exactly the parts that matter most for practice.
+
+> [!reflection] **Reflect** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to surface your own assumptions. When you encounter a subject that feels genuinely difficult — something that doesn't "click" right away — what does that difficulty feel like? Do you treat it as evidence of a ceiling, or as evidence of where your learning edge currently sits? Noticing your own implicit theory of your intelligence, skill, and potential is itself a form of metacognitive growth.
+
+> [!reflection] **Reflect** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*
+> 1. Which of these definitions surprised you or differed from how you'd previously understood "growth mindset"? In popular culture, growth mindset is often reduced to "believe in yourself" — how does the technical definition differ from that reduction?
+> 2. The historical trajectory moved from observable behavior (helpless vs. mastery-oriented patterns) to attribution style to implicit theory. Why does this progression matter? What would be lost by intervening only at the behavioral level?
+> 3. Which foundational distinction — growth vs. fixed, mastery vs. performance, process vs. person praise — strikes you as most important for understanding what follows?
+
+> [!reflection] **Reflect** *(from report-03-the-motivated-mind.md)*
+> Consider your own intellectual engagement over the past week. When did thinking feel most alive and rewarding — not despite its difficulty but *through* its difficulty? When did it feel draining and aversive? Map these experiences against the framework offered here: Were the energizing moments characterized by genuine challenge at the edge of your competence, felt autonomy over the engagement, and interpretation of difficulty as information? Were the draining moments characterized by excessive or inadequate challenge, felt pressure or obligation, or anxiety about what difficulty revealed about your capacity? This mapping is not merely analytical — it is itself a practical application of the motivational architecture this report describes.
 
 
 
@@ -237,6 +307,94 @@ importance: high
 - [[Self-Efficacy-Theory|Self-Efficacy Theory]]
 - [[Deliberate-Practice|Deliberate Practice]]
 - [[Stereotype-Threat|Stereotype Threat]]
+
+**Related concepts** *(from growth-mindset-first-principles-report-2026-03-11.md, growth-mindset-learning-foundational-report-2026-03-05.md, report-03-the-motivated-mind.md)*:
+[[Growth-Mindset|Growth Mindset]] * [[Carol-Dweck|Carol Dweck]] * [[Entity-Theory-of-Intelligence|Entity Theory of Intelligence]] * [[Incremental-Theory-of-Intelligence|Incremental Theory of Intelligence]] * [[Stereotype-Threat|Stereotype Threat]] * [[Attribution-Theory|Attribution Theory]] * [[Self-Efficacy-Theory|Self-Efficacy Theory]] * [[Replication-Crisis-in-Psychology|Replication Crisis in Psychology]] * [[Achievement-Goal-Theory|Achievement Goal Theory]] * [[Foundational-Report-Generator-v1.0|Foundational Report Generator v1.0]] * [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue Report Prompt]] * [[Deliberate-Practice|Deliberate Practice]] * [[Mindset-Interventions-in-Education|Mindset Interventions in Education]] * [[Wise-Interventions-(Walton-&-Wilson)|Wise Interventions (Walton & Wilson)]] * [[Social-Psychological-Interventions-in-Education|Social-Psychological Interventions in Education]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from growth-mindset-learning-foundational-report-2026-03-05.md)*:
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Neuroplasticity|Neuroplasticity]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+**Cross-report connections** *(from growth-mindset-first-principles-report-2026-03-11.md)*:
+- [[Attribution-Theory|Attribution Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+- [[Self-Efficacy-Theory|Self-Efficacy Theory]]
+- [[Deliberate-Practice|Deliberate Practice]]
+- [[Stereotype-Threat|Stereotype Threat]]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

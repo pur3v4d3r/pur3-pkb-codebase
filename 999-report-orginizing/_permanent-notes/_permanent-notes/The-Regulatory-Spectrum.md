@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "sdt-focused-analysis-2026-03-06"
+  - "sdt-focused-analysis-2026-03-06.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -69,6 +70,14 @@ see-also:
   - "[[autonomy]]"
   - "[[competence]]"
   - "[[relatedness]]"
+  - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
+  - "[[Intrinsic-motivation|Intrinsic motivation]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
+  - "[[relatedness|relatedness]]"
   - "[[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]]"
   - "[[Intrinsic-motivation|Intrinsic motivation]]"
 
@@ -145,6 +154,16 @@ importance: high
 > [!warning] **Key Distinction**
 > The popular appropriation of SDT's evidence on rewards frequently overgeneralizes to "rewards are bad." The actual claim is more nuanced: rewards undermine intrinsic motivation when they shift PLOC toward external, communicate control, and signal that the task is instrumental rather than valuable in itself. Unexpected rewards, verbal praise delivered informationally, and task-noncontingent rewards (given for participation rather than performance) do not carry these properties and do not show…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> Before reading further, take a moment to articulate your current intuition: Which of the three basic needs — autonomy, competence, or relatedness — do you believe is the *most* important driver of learning outcomes? Why? Is one need primary, or are they genuinely co-equal? Commit to a position. The evidence on this question is more complex and surprising than most practitioners expect, and your starting position will sharpen what you notice as you read.
+
+> [!reflection] **Reflect** *(from sdt-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends entirely on the distinction between *controlled* and *autonomous* regulation — and, critically, on the distinction between *autonomous* and *intrinsic* regulation. Before proceeding: Can you explain, in your own words, why a student who studies because they genuinely value learning (identified regulation) is motivationally more similar to a student who loves the subject (intrinsic motivation) than to a student who studies to avoid parental disapproval (introjected regulation), even though the first two cases both involve external content? If you find yourself uncertain, re-read the regulatory spectrum definition — the entire Phase IV analysis depends on this distinction.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -157,3 +176,23 @@ importance: high
 
 **Related concepts:**
 [[Self-Determination-Theory|Self-Determination Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] · [[Intrinsic-motivation|Intrinsic motivation]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Need-deprivation|Need deprivation]] · [[Need-thwarting|Need thwarting]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Csikszentmihalyi]] · [[flow]] · [[Conditional-regard|Conditional regard]]
+
+**Related concepts** *(from sdt-focused-analysis-2026-03-06.md)*:
+[[Self-Determination-Theory|Self-Determination Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory-—-Foundational-Overview|Self-Determination Theory — Foundational Overview]] * [[Intrinsic-motivation|Intrinsic motivation]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Need-deprivation|Need deprivation]] * [[Need-thwarting|Need thwarting]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Conditional-regard|Conditional regard]] * [[Avi-Assor|Avi Assor]] * [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]] * [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]] * [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]] * [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+**Cross-report connections** *(from sdt-focused-analysis-2026-03-06.md)*:
+- [[Growth-Mindset-and-Incremental-Intelligence-Theory|Growth Mindset and Incremental Intelligence Theory]]
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Psychological-Safety-in-Learning-Environments|Psychological Safety in Learning Environments]]
+- [[Expectancy-Value-Theory|Expectancy-Value Theory]]
+- [[Gamification-in-Learning|Gamification in Learning]]
+
+
+

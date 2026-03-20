@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -76,6 +76,14 @@ see-also:
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]"
   - "[[Complex-Adaptive-Systems|Complex Adaptive Systems]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
+  - "[[Formative-Feedback|Formative Feedback]]"
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -159,6 +167,14 @@ importance: high
 > 
 > **Level 4 — Self Level (FS)**: Feedback directed at the *person* — personal evaluations and affect about the learner. ("You're so clever," "I'm proud of you," "What a disappointment.") While such feedback is common, it contains minimal actionable information and, crucially, can be actively harmful to motivation and learning orientation when it triggers ego-evaluation processes.
 
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+
+
 
 
 
@@ -194,6 +210,18 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> Before reading further, recall a piece of feedback you received that genuinely changed how you approached a task or domain — and one that did not. What distinguished them? Was the difference in the content of the feedback, or in something about how it was framed, when it arrived, or how it positioned you in relation to the work? Hold these examples in mind as anchor points throughout the report.
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> 1. How does the SDT definition of autonomy — as self-endorsed action rather than independence — challenge common assumptions about what "student choice" accomplishes in instructional design? Can you imagine contexts where giving students more choice might actually undermine autonomy in the technical sense?
+> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on context? What determines the switch?
+> 3. Which of the foundational distinctions — summative/formative, feedback/feed-forward, person/work — seems most consequential for your own practice or the learning contexts you care about? Why?
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -222,6 +250,26 @@ importance: high
 - [[Metacognition-&-Motivation|Metacognition & Motivation]]
 - [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
 - [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[John-Hattie|John Hattie]] * [[Helen-Timperley|Helen Timperley]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+
+
 
 
 

@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -77,6 +77,14 @@ see-also:
   - "[[12-the-reflective-pkb-pkm-framework]]"
   - "[[16-desirable-difficulties-by-design-pkm-framework]]"
   - "[[20-retrieval-enhanced-knowledge-networks-pkm-framework]]"
+  - "[[metacognition|metacognition]]"
+  - "[[Critical-thinking|Critical thinking]]"
+  - "[[John-Hattie|John Hattie]]"
+  - "[[John-H.-Flavell|John H. Flavell]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Ann-Brown|Ann Brown]]"
+  - "[[Socrates|Socrates]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
   - "[[metacognition|metacognition]]"
   - "[[Critical-thinking|Critical thinking]]"
   - "[[John-Hattie|John Hattie]]"
@@ -150,6 +158,26 @@ importance: high
 > [!analytical-insight] Key Insight *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
 > Self-regulated learning is not a linear process but a recursive feedback loop. Each learning episode generates information — about strategy effectiveness, about personal strengths and limitations, about the characteristics of the task — that modifies the learner's metacognitive knowledge base and motivational beliefs for subsequent episodes. This means that the value of metacognitive practice compounds over time: each cycle of deliberate self-regulation produces not only direct learning outcomes but also refinements in the metacognitive apparatus itself.
 
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
+
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
+
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
+
+
+
+
+
+
 
 
 
@@ -213,6 +241,28 @@ importance: high
 
 
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to reflect: what do you currently believe the relationship between metacognition and critical thinking to be? Are they the same thing? Complementary? Distinct? Where does your understanding of each come from — coursework, practice, reading, intuition? Noticing your starting assumptions makes the conceptual journey ahead more visible and the refinements more meaningful.
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> 1. The distinction between metacognitive *knowledge* and metacognitive *regulation* — knowing about your cognitive tendencies versus actively managing them — is one of the field's most important dividing lines. Which do you find more developed in yourself? Can you think of a recent learning situation in which you had knowledge about your cognitive tendencies but failed to regulate them accordingly?
+> 2. The Delphi definition of the ideal critical thinker is notably dispositional — it describes character traits as much as cognitive skills. What does this suggest about how critical thinking should be cultivated? Is it a matter of teaching skills, or of forming character?
+> 3. How does tracing these ideas back to Dewey and Socrates change your sense of what is genuinely novel about contemporary metacognitive research, versus what is a reformulation of much older insights?
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to surface your current beliefs about your own learning. Do you consider yourself a good learner? What strategies do you rely on most? When was the last time you deliberately changed how you study or practice because your current approach wasn't working? Your answers will reveal the baseline metacognitive awareness you bring to this report — and will give you concrete anchors for the material that follows.
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> 1. Which of Flavell's three components — metacognitive knowledge, metacognitive experiences, or metacognitive regulation — do you think you are strongest in? Which seems most underdeveloped? What evidence from your own learning history supports this self-assessment?
+> 2. How does the Vygotskian insight — that self-regulation originates in social interaction — change how you think about the role of teachers, mentors, and peers in developing metacognitive skill?
+> 3. Consider the distinction between declarative, procedural, and conditional metacognitive knowledge. Can you identify a learning strategy you know *about* but rarely use well? Is the gap declarative, procedural, or conditional?
+
+
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -249,6 +299,36 @@ importance: high
 - [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
 - [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
 - [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Related concepts** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+[[Critical-thinking|Critical thinking]] * [[John-H.-Flavell|John H. Flavell]] * [[John-Dewey|John Dewey]] * [[Ann-Brown|Ann Brown]] * [[Robert-Ennis|Robert Ennis]] * [[Delphi-Report|Delphi Report]] * [[Peter-Facione|Peter Facione]] * [[Immanuel-Kant|Immanuel Kant]] * [[William-James|William James]] * [[Edmund-Husserl|Edmund Husserl]] * [[Flavell's-Metacognitive-Model|Flavell's Metacognitive Model]] * [[Paul-Elder-Critical-Thinking-Framework|Paul-Elder Critical Thinking Framework]] * [[Richard-Paul|Richard Paul]] * [[Linda-Elder|Linda Elder]] * [[Donald-Schön|Donald Schön]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+
+
+
+
 
 
 

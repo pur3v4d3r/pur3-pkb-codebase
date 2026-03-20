@@ -34,7 +34,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,6 +78,14 @@ see-also:
   - "[[Cognitive-Miser|Cognitive Miser]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
+  - "[[Robert-Ennis|Robert Ennis]]"
+  - "[[misinformation|misinformation]]"
+  - "[[Socratic-Method|Socratic Method]]"
+  - "[[John-Dewey|John Dewey]]"
+  - "[[Benjamin-Bloom|Benjamin Bloom]]"
+  - "[[Working-memory|Working memory]]"
+  - "[[John-Sweller|John Sweller]]"
+  - "[[cognitive-load-theory|cognitive load theory]]"
   - "[[Robert-Ennis|Robert Ennis]]"
   - "[[misinformation|misinformation]]"
   - "[[Socratic-Method|Socratic Method]]"
@@ -156,6 +164,38 @@ importance: high
 > [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
 
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The foundational text establishing the hierarchical taxonomy of cognitive objectives that has shaped curriculum design globally for seven decades. Essential for understanding how CT has been operationalised in educational practice and why the higher-order objectives (analysis, evaluation, synthesis/creation) map onto CT skill categories.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The authoritative revision of Bloom's original taxonomy, shifting from noun-based to verb-based categories and adding important nuance to the relationship between knowledge types and cognitive processes. Essential companion to the 1956 original.
+
+> [!evidence] Supporting Evidence *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> The landmark consensus document produced by forty-six CT experts across disciplines, establishing the definitional and dispositional framework that has shaped CT assessment and instruction for three decades. The source of the most widely cited CT definition and the framework for the CCTST.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The foundational paper introducing metacognition as a formal construct to the psychological literature. Establishes the distinction between metacognitive knowledge and metacognitive monitoring, and outlines the tripartite structure of metacognitive knowledge. Essential primary source for any serious engagement with the field.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Brown's foundational contribution distinguishing knowledge-about-cognition from regulation-of-cognition, and extending metacognitive theory to learning disabilities research. The regulation framework presented here became the practical operationalization of metacognition in most instructional applications. Supports Phase II and IV.
+
+> [!evidence] Supporting Evidence *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> The consensus document establishing the APA's formal definition of critical thinking, based on a two-year Delphi study with forty-six expert scholars. Establishes both the cognitive skills and the dispositions central to the critical thinking construct. Foundational for Phase II.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -201,6 +241,38 @@ importance: high
 
 
 
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to articulate what you currently believe about critical thinking in education. What do you think it means? Where did your assumptions come from — your own schooling, professional experience, popular discourse? What questions are you hoping this report will answer? Noting your starting point makes the learning journey visible and gives you something concrete to compare against when you reach Phase VI.
+
+> [!reflection] **Reflect** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*
+> 1. Which of these definitions surprised you or challenged your prior understanding of critical thinking? What did you previously assume the term meant?
+> 2. How does the historical progression — from Socrates to Dewey to Bloom to the standards movement — illuminate current debates about what schools should prioritise?
+> 3. Why might the distinction between CT *skills* and CT *dispositions* be particularly consequential for how we design educational environments?
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to reflect: what do you currently believe the relationship between metacognition and critical thinking to be? Are they the same thing? Complementary? Distinct? Where does your understanding of each come from — coursework, practice, reading, intuition? Noticing your starting assumptions makes the conceptual journey ahead more visible and the refinements more meaningful.
+
+> [!reflection] **Reflect** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*
+> 1. The distinction between metacognitive *knowledge* and metacognitive *regulation* — knowing about your cognitive tendencies versus actively managing them — is one of the field's most important dividing lines. Which do you find more developed in yourself? Can you think of a recent learning situation in which you had knowledge about your cognitive tendencies but failed to regulate them accordingly?
+> 2. The Delphi definition of the ideal critical thinker is notably dispositional — it describes character traits as much as cognitive skills. What does this suggest about how critical thinking should be cultivated? Is it a matter of teaching skills, or of forming character?
+> 3. How does tracing these ideas back to Dewey and Socrates change your sense of what is genuinely novel about contemporary metacognitive research, versus what is a reformulation of much older insights?
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
+> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
+> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
 
 
 
@@ -298,6 +370,96 @@ importance: high
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Scientific-Method|Scientific Method]]
+
+**Related concepts** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md, metacognition-and-critical-thinking-foundational-report-2026-03-05.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[Robert-Ennis|Robert Ennis]] * [[Socratic-Method|Socratic Method]] * [[John-Dewey|John Dewey]] * [[Benjamin-Bloom|Benjamin Bloom]] * [[Working-memory|Working memory]] * [[John-Sweller|John Sweller]] * [[Daniel-Willingham|Daniel Willingham]] * [[Daniel-Kahneman|Daniel Kahneman]] * [[Ann-Brown|Ann Brown]] * [[John-Flavell|John Flavell]] * [[Tim-van-Gelder|Tim van Gelder]] * [[Watson-Glaser-Critical-Thinking-Appraisal|Watson-Glaser Critical Thinking Appraisal]] * [[California-Critical-Thinking-Skills-Test|California Critical Thinking Skills Test]] * [[California-Critical-Thinking-Dispositions-Inventory|California Critical Thinking Dispositions Inventory]] * [[Metacognition-in-Learning|Metacognition in Learning]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from critical-thinking-educational-settings-foundational-report-2026-03-05.md)*:
+- [[Metacognition-in-Learning|Metacognition in Learning]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Socratic-Method|Socratic Method]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from metacognition-and-critical-thinking-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture|Extended Thinking Architecture]]
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Reflective-Practice|Reflective Practice]]
+- [[Bloom's-Taxonomy|Bloom's Taxonomy]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

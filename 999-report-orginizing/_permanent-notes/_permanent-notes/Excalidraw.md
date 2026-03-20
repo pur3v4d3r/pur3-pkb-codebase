@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "reference-comprehensive-excalidraw-and-markmind-2025121812"
+  - "reference-comprehensive-excalidraw-and-markmind-2025121812.md"
 evidence-quality: medium
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -68,6 +69,14 @@ see-also:
   - "[[Knowledge-Visualization|Knowledge Visualization]]"
   - "[[Mind-Mapping|Mind Mapping]]"
   - "[[PKM]]"
+  - "[[Obsidian-Basics|Obsidian Basics]]"
+  - "[[Community-Plugins|Community Plugins]]"
+  - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
+  - "[[Obsidian|Obsidian]]"
+  - "[[Visual-Thinking|Visual Thinking]]"
+  - "[[Knowledge-Visualization|Knowledge Visualization]]"
+  - "[[Mind-Mapping|Mind Mapping]]"
+  - "[[PKM|PKM]]"
   - "[[Obsidian-Basics|Obsidian Basics]]"
   - "[[Community-Plugins|Community Plugins]]"
   - "[[Markdown-Fundamentals|Markdown Fundamentals]]"
@@ -119,3 +128,7 @@ importance: medium
 
 **Related concepts:**
 [[Obsidian]] · [[Visual-Thinking|Visual Thinking]] · [[Knowledge-Visualization|Knowledge Visualization]] · [[Mind-Mapping|Mind Mapping]] · [[PKM]] · [[Obsidian-Basics|Obsidian Basics]] · [[Community-Plugins|Community Plugins]] · [[Markdown-Fundamentals|Markdown Fundamentals]] · [[Obsidian]] · [[MarkMind]] · [[Visual-Thinking|Visual Thinking]] · [[PKM]] · [[Obsidian]] · [[Zsolt-Viczian|Zsolt Viczian]]
+
+**Related concepts** *(from reference-comprehensive-excalidraw-and-markmind-2025121812.md)*:
+[[Visual-Thinking|Visual Thinking]] * [[Knowledge-Visualization|Knowledge Visualization]] * [[Mind-Mapping|Mind Mapping]] * [[Obsidian-Basics|Obsidian Basics]] * [[Community-Plugins|Community Plugins]] * [[Markdown-Fundamentals|Markdown Fundamentals]] * [[Zsolt-Viczian|Zsolt Viczian]] * [[ExcaliBrain|ExcaliBrain]] * [[Markdown|Markdown]] * [[LaTeX|LaTeX]] * [[Note-Name|Note Name]] * [[wiki-links|wiki-links]] * [[Templater|Templater]] * [[QuickAdd|QuickAdd]] * [[JavaScript-Basics|JavaScript Basics]]
+

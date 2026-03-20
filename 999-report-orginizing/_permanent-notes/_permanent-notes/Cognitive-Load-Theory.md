@@ -35,7 +35,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -78,6 +78,14 @@ see-also:
   - "[[Constructivism]]"
   - "[[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]]"
   - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[germane-cognitive-load|germane cognitive load]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[worked-example-effect|worked example effect]]"
+  - "[[expertise-reversal-effect|expertise reversal effect]]"
+  - "[[working-memory|working memory]]"
+  - "[[schema-theory|schema theory]]"
+  - "[[cognitive-psychology|cognitive psychology]]"
   - "[[germane-cognitive-load|germane cognitive load]]"
   - "[[Educational-Psychology|Educational Psychology]]"
   - "[[Cognitive-Science|Cognitive Science]]"
@@ -164,6 +172,22 @@ importance: high
 > [!analytical-insight] Key Insight *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A consistent finding in cognitive psychology is that human reasoners default to System 1 heuristics even in situations that call for System 2 deliberation. This means that without deliberate instruction and practice, learners will produce pseudo-deductive and pseudo-inductive conclusions — conclusions that feel reasoned but actually reflect intuitive shortcuts. This has profound implications for education.
 
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> The foundational text in which Peirce distinguishes the three modes of inference and articulates the logic of abduction for the first time. Essential primary reading for anyone seeking to understand the philosophical origins of the reasoning typology. Supports Phase II (Conceptual Foundations) and Phase III (Theoretical Landscape) throughout.
+
+> [!evidence] Supporting Evidence *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Kahneman's synthesis of decades of research with Amos Tversky on cognitive heuristics and biases, organized around the Dual Process framework. Accessible and comprehensive treatment of how System 1 and System 2 shape everyday reasoning. Supports Phase III's discussion of dual process theory and Phase V's treatment of confirmation bias.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The expertise reversal effect, taken seriously, requires that instructional design be calibrated to current learner knowledge state. But the studies that established the effect typically used well-controlled laboratory conditions where expertise was manipulated or measured with high precision. In real classrooms with heterogeneous learners, "expertise" is variable across students, domains, and even time of day. The tension here is between the theoretical clarity of the effect (under controlled conditions, it is robust) and the practical ambiguity of its application (in real instructional environments, when is a given learner "expert enough" that scaffolding becomes harmful?). This gap between laboratory robustness and field applicability is one of the most important unresolved issues in CLT's applied literature.
+
+> [!analytical-insight] Key Insight *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The theoretical tension is severe: germane load is defined as the load that produces schemas, and schema production is identified by better learning outcomes. This means the construct is identified by its consequences rather than by any independent characteristic that could be measured prior to observing the outcome. A researcher cannot designate an instructional condition as "high germane load" before running the study; they can only apply that label after seeing that learning improved. This renders the germane load construct unfalsifiable in the strong sense — any instructional manipulation that increases effort without improving learning can be explained by labeling the extra effort "extraneous," and any increase in effort that does improve learning gets labeled "germane." The framework can accommodate any finding without being challenged by any finding.
+
+
+
+
+
 
 
 
@@ -198,8 +222,32 @@ importance: high
 > [!warning] **Key Distinction** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
 > A well-documented hazard of inductive learning is that students tend to seek and attend to confirming instances of their emerging generalizations while unconsciously ignoring disconfirming ones — a manifestation of [[Confirmation Bias]]. Without deliberate instructional attention to counterexample generation, students may exit inquiry activities with more confidently held but more poorly calibrated generalizations than they had before.
 
+> [!example] **Application** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The [[split-attention effect]] — one of CLT's most practically actionable and robustly replicated effects — prescribes that spatially or temporally separated information that must be mentally integrated should be physically integrated in the instructional material. Diagrams with lengthy accompanying text should be replaced with diagrams with labels embedded within them. Audio explanations of static visual material should be synchronized and spatially related to what they describe. This is extraneous load reduction at its most actionable, with unusually strong and consistent empirical support.
 
 
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> Before reading this analysis, take a moment to articulate your current position: Do you believe that instructional strategies that work well for novices will work equally well — or perhaps better — for experts who have mastered the foundational content? Commit to your answer and your reasoning. The expertise reversal effect will test this intuition directly, and whether your prediction holds or breaks, the comparison will sharpen your understanding of what CLT's most counterintuitive finding actually demonstrates.
+
+> [!reflection] **Reflect** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends critically on understanding the distinction between intrinsic and extraneous load. Before proceeding, test yourself: If a physics instructor presents the same conceptual content (Newton's laws interacting with friction, momentum, and gravity) in a cluttered, split-attention format versus a clean, integrated diagram, which load type has changed between these two presentations, and which has remained constant? If you find yourself reaching for the exact definitions above rather than reasoning from understanding, revisit them with this scenario in mind — the ability to apply the distinction to a novel case signals genuine comprehension.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> Before reading further, pause and consider: when you face a problem you have never encountered before, what do you do? Do you look for a rule to apply? Do you look for patterns from past experience? Do you make a guess and test it? Notice that you likely do all three, often in rapid succession. This report will give you precise language for each of those movements.
+
+> [!reflection] **Reflect** *(from types-of-reasoning-foundational-report-2026-03-05.md)*
+> 1. Which of the three reasoning types maps most naturally to how you approach problems in your professional or personal life? Which do you use least, and why might that be?
+> 2. The distinction between validity and truth is subtle but consequential. Can you construct your own example of a valid-but-unsound argument from everyday life?
+> 3. Why do you think Western educational tradition has historically privileged deductive reasoning? What might have been lost as a result?
 
 
 
@@ -236,6 +284,36 @@ importance: high
 - [[Inquiry-Based-Learning|Inquiry-Based Learning]]
 - [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
 - [[Scientific-Method|Scientific Method]]
+
+**Related concepts** *(from cognitive-load-theory-focused-analysis-2026-03-06.md, types-of-reasoning-foundational-report-2026-03-05.md)*:
+[[germane-cognitive-load|germane cognitive load]] * [[Educational-Psychology|Educational Psychology]] * [[Cognitive-Science|Cognitive Science]] * [[worked-example-effect|worked example effect]] * [[expertise-reversal-effect|expertise reversal effect]] * [[working-memory|working memory]] * [[schema-theory|schema theory]] * [[cognitive-psychology|cognitive psychology]] * [[Instructional-design|Instructional design]] * [[knowledge-schemas|knowledge schemas]] * [[long-term-memory|long-term memory]] * [[Baddeley-&-Hitch's-multicomponent-model|Baddeley & Hitch's multicomponent model]] * [[Element-interactivity|Element interactivity]] * [[cognitive-load|cognitive load]] * [[automation|automation]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+**Cross-report connections** *(from cognitive-load-theory-focused-analysis-2026-03-06.md)*:
+- [[motor-learning|motor learning]]
+- [[skill-acquisition-research|skill acquisition research]]
+
+**Cross-report connections** *(from types-of-reasoning-foundational-report-2026-03-05.md)*:
+- [[Metacognition-and-Self-Regulated-Learning|Metacognition and Self-Regulated Learning]]
+- [[Dual-Process-Theory|Dual Process Theory]]
+- [[Inquiry-Based-Learning|Inquiry-Based Learning]]
+- [[Critical-Thinking-Frameworks|Critical Thinking Frameworks]]
+- [[Scientific-Method|Scientific Method]]
+
+
+
+
+
 
 
 

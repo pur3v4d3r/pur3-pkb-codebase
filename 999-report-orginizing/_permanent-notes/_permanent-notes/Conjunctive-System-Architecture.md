@@ -30,7 +30,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -38,6 +38,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "basic-psychological-needs-theory-focused-analysis-2026-03-13"
+  - "basic-psychological-needs-theory-focused-analysis-2026-03-13.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -71,6 +72,14 @@ see-also:
   - "[[autonomy]]"
   - "[[competence]]"
   - "[[relatedness]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]]"
+  - "[[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]]"
+  - "[[Edward-Deci|Edward Deci]]"
+  - "[[Richard-Ryan|Richard Ryan]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[autonomy|autonomy]]"
+  - "[[competence|competence]]"
+  - "[[relatedness|relatedness]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -126,6 +135,10 @@ importance: high
 > [!analytical-insight] Key Insight
 > The cross-cultural challenge to BPNT's autonomy universality thesis typically takes the form of a reductio: if collectivist cultures value interdependence and subordination of individual will to group norms, how can the autonomy need be universal? The Chirkov et al. (2003) evidence reveals that this challenge rests on a conflation of *autonomy content* (what one chooses) with *autonomy function* (the experience of choosing volitionally). A collectivist student who genuinely endorses collective…
 
+> [!analytical-insight] Key Insight *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The conjunctive thesis faces a genuine evidential challenge from studies of substitution. Sheldon and Gunz (2009) found that people whose relatedness need was thwarted showed increased preference for activities that satisfied their competence or autonomy needs — a pattern consistent with compensatory substitution. Importantly, this behavioral substitution produced some reduction in negative affect, suggesting partial compensation is psychologically real. The tension is not fully resolved: on one reading, this evidence shows that compensation fails to restore full well-being (partial compensation is not full compensation); on another reading, it shows that the three needs are more independent than the conjunctive thesis requires. This is one of the genuinely open questions in BPNT.
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -134,6 +147,16 @@ importance: high
 > [!example] **Application**
 > The most common misapplication of BPNT in learning environments conflates autonomy support with the absence of structure or teacher direction. Reeve and colleagues (2009) have developed the Autonomy-Supportive Orientation Scale (ASOS) and documented that high-structure, directive pedagogy can be autonomy-supportive when it includes: (a) genuine rationales for requirements that connect to learners' values, (b) acknowledgment of learners' perspectives and feelings, (c) clear information about…
 
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> Before engaging with the evidence, commit to a position: Do you believe the three psychological needs operate *conjunctively* (all necessary, no compensation) or *compensatorily* (tradeoffs and substitutions possible)? What evidence or intuition anchors your prediction? Record your position — whether the analysis confirms or surprises you, the comparison will deepen your engagement with the material.
+
+> [!reflection] **Reflect** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*
+> The argument this report makes depends on understanding the distinction between *autonomy* and *independence*. Before proceeding, articulate this distinction in your own words. A useful test: Can you describe a situation in which a person is highly independent but experiences low autonomy? And conversely, a situation in which a person operates under significant external structure but experiences high autonomy? If you find yourself struggling to construct these scenarios, revisit the definition above — the distinction is foundational.
+
+
 ## Connections & Context
 
 **Cross-report connections:**
@@ -141,3 +164,11 @@ importance: high
 
 **Related concepts:**
 [[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] · [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] · [[Edward-Deci|Edward Deci]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[autonomy]] · [[competence]] · [[relatedness]] · [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] · [[Richard-Ryan|Richard Ryan]] · [[Self-Determination-Theory|Self-Determination Theory]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Organismic-Integration-Theory|Organismic Integration Theory]] · [[Causality-Orientations-Theory|Causality Orientations Theory]] · [[Self-Determination-Theory|Self-Determination Theory]]
+
+**Related concepts** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+[[Focused-Analysis-Report-Generator-v1.0|Focused Analysis Report Generator v1.0]] * [[Basic-Psychological-Needs-Theory|Basic Psychological Needs Theory]] * [[Edward-Deci|Edward Deci]] * [[Richard-Ryan|Richard Ryan]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Maarten-Vansteenkiste|Maarten Vansteenkiste]] * [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] * [[Organismic-Integration-Theory|Organismic Integration Theory]] * [[Causality-Orientations-Theory|Causality Orientations Theory]] * [[self-efficacy|self-efficacy]] * [[Flow-Theory|Flow Theory]] * [[Attachment-Theory|Attachment Theory]] * [[Motivation-Continuum|Motivation Continuum]] * [[Self-Regulated-Learning|Self-Regulated Learning]] * [[Cognitive-Load-Theory|Cognitive Load Theory]]
+
+**Cross-report connections** *(from basic-psychological-needs-theory-focused-analysis-2026-03-13.md)*:
+- [[Attachment-Theory|Attachment Theory]]
+
+

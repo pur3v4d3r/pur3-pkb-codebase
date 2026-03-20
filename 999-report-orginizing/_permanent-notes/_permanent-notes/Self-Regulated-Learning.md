@@ -25,7 +25,7 @@ subdomains:
   - instructional-design
   - metacognition
 created: 2026-03-18
-updated: 2026-03-19
+updated: 2026-03-20
 source-type: report-extraction
 source-reports:
   - 04-metacognitive-self-regulation-pkm-framework-2026-03-13
@@ -34,6 +34,7 @@ source-reports:
   - metacognition-motivation-foundational-report-2026-03-05.md
   - self-regulated-learning-focused-analysis-2026-03-06.md
   - report-07-the-self-directed-learner.md
+  - "sdt-srl-comparative-synthesis-2026-03-19.md"
 evidence-quality: high
 extraction-method: pkb-extractor-v1 → permanent-notes-generator-v1
 complexity-level: advanced-practitioner
@@ -55,6 +56,14 @@ see-also:
   - "[[Black-and-Wiliam|Black and Wiliam]]"
   - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Feedback-Design|Feedback Design]]"
+  - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Growth-Mindset|Growth Mindset]]"
+  - "[[Formative-Assessment|Formative Assessment]]"
+  - "[[Black-&-Wiliam|Black & Wiliam]]"
+  - "[[Attribution-Theory|Attribution Theory]]"
+  - "[[Summative-Assessment|Summative Assessment]]"
   - "[[Feedback-Design|Feedback Design]]"
   - "[[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]]"
   - "[[Self-Determination-Theory|Self-Determination Theory]]"
@@ -162,6 +171,56 @@ importance: high
 > [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The SRL literature sometimes treats goal setting as a cognitive tool that can be trained without attending to the motivational context in which it is deployed. But goal setting is deeply motivationally situated. The same learner who spontaneously sets specific, challenging proximal goals in a domain they care about and feel moderately confident in will set vague, self-protective goals in a domain where their self-efficacy is low or their goal orientation is avoidance-based. Training learners to set SMART goals (specific, measurable, achievable, relevant, time-bound) without addressing the motivational substrate often produces learners who can articulate good goals but do not act on them — a surface compliance that leaves the forethought mechanism intact in form but broken in function.
 
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The foundational synthesis that introduced the four-level feedback model (task, process, self-regulation, self). Draws on Hattie's broader meta-analytic database and provides the theoretical rationale for why feedback at different levels produces different motivational and learning outcomes. Essential starting point for any practitioner seeking to understand feedback architecture. Directly supports Phases III and IV of this report.
+
+> [!evidence] Supporting Evidence *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> The landmark review that established the evidence base for formative assessment, synthesising studies showing learning gains of 0.4–0.7 SD from improved formative practice. Introduced the "gap model" of formative feedback and provided the intellectual foundation for the Assessment for Learning movement. Directly supports the formative assessment treatment in Phases III and V.
+
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced metacognition as a formal research construct. Flavell proposed the tripartite distinction between metacognitive knowledge, experiences, and regulation that has organized the field ever since. Essential reading for any serious engagement with metacognitive theory; remarkably accessible given its foundational status.
+
+> [!evidence] Supporting Evidence *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Zimmerman's comprehensive statement of the cyclical SRL model, synthesizing decades of empirical research. Covers the forethought-performance-reflection cycle in depth and connects metacognitive regulation to motivational and volitional processes. The most comprehensive single source for Zimmerman's framework.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The foundational paper that introduced "metacognition" into psychological discourse, distinguishing metacognitive knowledge from metacognitive experiences and proposing the first systematic theoretical framework. Essential for understanding why the concept is structured as it is and what Flavell intended vs. how subsequent researchers adapted the term.
+
+> [!evidence] Supporting Evidence *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> The most comprehensive summary statement of Self-Determination Theory's macro-theory, integrating the Basic Psychological Needs framework with the internalization continuum. Synthesizes evidence from over 100 studies. Central to Phase III's treatment of motivational architecture and to all practical applications in Phase V.
+
+> [!evidence] Supporting Evidence *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> The evidence suggests that SRL frameworks systematically underspecify the motivational architecture of self-regulation — not because motivation is irrelevant to SRL researchers, but because the motivational theories they import (expectancy-value, goal orientation, self-efficacy) are primarily *cognitive* theories of motivation that share the information-processing commitments of the frameworks themselves. SDT's qualitative distinctions — between types of regulation that produce different phenomenological and developmental outcomes despite similar effort levels — are systematically invisible to frameworks organised around cognitive constructs. This is not a matter of taste; it has empirical consequences. Studies consistently show that autonomous versus controlled motivation predicts learning depth, creative elaboration, and conceptual change beyond what self-efficacy and goal orientation alone predict.
+
+> [!evidence] Supporting Evidence *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> The convergent evidence across all four theoretical traditions — each independently concluding that autonomy-supportive environments produce superior learning outcomes — is the strongest empirical signal in this entire comparison. Whether the mechanism is need satisfaction (SDT), regulatory capacity development (Zimmerman), goal adoption (Pintrich), or internal standard quality (Winne & Hadwin), the practical upshot is identical: environments that provide structure while respecting learner agency, that offer genuine rationale rather than coercive pressure, and that acknowledge learners' feelings and perspectives produce better learning than controlling, pressuring environments.
+
+> [!evidence] Supporting Evidence *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> The most complete single statement of SDT's theoretical architecture, including the internalization continuum, the basic needs theory, and the goal content framework. Essential reading for Phase II material on SDT. Directly relevant to the autonomy-need dimension and the motivational quality distinctions throughout.
+
+> [!analytical-insight] Key Insight *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> A foundational tension in the SRL evidence base is that most of what we know about self-regulatory strategy use comes from self-report instruments (chiefly the MSLQ), while performance evidence suggests that self-reports of strategy use are only modestly correlated with observed behavior. Winne and Hadwin (1998) and subsequent trace methodology studies (using think-aloud protocols, log files, and process measures) have consistently found that learners substantially misrepresent their regulatory behavior in questionnaires — overestimating monitoring frequency and strategy diversity. This creates criterion contamination: if the MSLQ measures something other than actual self-regulation behavior, then correlations between MSLQ scores and achievement may reflect a third variable (general academic conscientiousness, self-concept) rather than regulatory activity per se. The interventional evidence is more trustworthy, but the correlational base on which SRL's theoretical claims rest is softer than typically acknowledged.
+
+> [!analytical-insight] Key Insight *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> SDT and SRL frameworks are neither simply complementary (covering different terrain without interface) nor competitors (making incompatible claims about the same phenomenon). They stand in a more interesting relationship: they provide accounts of *different levels* of the same complex system. SDT describes the motivational quality of the energy that powers self-regulation; SRL frameworks describe the cognitive and metacognitive architecture through which that energy is converted into skilled performance. Their integration produces something neither can yield alone: a complete theory of the conditions under which high-quality learning occurs.
+
+> [!analytical-insight] Key Insight *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> **Type**: Complementarity
+> 
+> The four frameworks are not competing in their accounts of autonomy — they are describing it at different levels of analysis. SDT's autonomy need describes the *motivational substrate* that makes willing self-direction possible. Zimmerman's self-direction describes the *process architecture* through which that willingness is expressed. Winne & Hadwin's cognitive autonomy describes the *information-processing signature* of self-direction. These three levels (motivational, processual, cognitive-informational) are compatible; understanding learning failure requires diagnosing at which level the deficit lies. A learner may have autonomy-supportive conditions (SDT level satisfied) but lack the process architecture to enact self-direction (Zimmerman level deficient). Or they may have the process repertoire but not the metacognitive accuracy to deploy it effectively (Winne level deficient). The frameworks are not rivals here — they are complementary diagnostic lenses.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -231,6 +290,68 @@ importance: high
 > [!warning] **Key Distinction** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
 > The most common institutional response to SRL research is to create a standalone study skills course where general self-regulatory strategies are taught in isolation from specific content domains. The evidence suggests this approach has minimal sustained effects on academic performance, for the precise mechanistic reason analyzed in Phase IV: effective monitoring requires sufficient domain knowledge to recognize quality differences in one's own performance. A student taught to self-monitor their reading comprehension in a generic study skills context cannot transfer that monitoring skill to advanced organic chemistry if they lack the domain knowledge to know what good understanding of organic chemistry looks like. General self-regulatory training that is not embedded in domain learning is, to use the mechanical analogy, like calibrating a thermostat without knowing what temperature the room should be.
 
+> [!example] **Application** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> SDT is the strongest diagnostic lens for identifying how environmental features are affecting motivational quality. Before designing any learning environment change, run an SDT audit: Which features of the current environment are autonomy-thwarting (controlling language, external pressure, reward contingencies that undermine interest)? Which undermine competence (unclear expectations, insufficiently challenging tasks, negative or ego-involving feedback)? Which undermine relatedness (social comparison climates, lack of genuine teacher involvement, competitive rather than cooperative structures)? Addressing these deficits is motivational first aid — necessary before any SRL intervention can take hold.
+
+> [!warning] **Key Distinction** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> **Error 1 — Treating motivational and regulatory failures as the same**: A student who lacks autonomous motivation requires fundamentally different intervention than a student with autonomous motivation but poor regulatory strategies. Applying strategy instruction to a motivationally controlled student adds cognitive burden without addressing the root condition. Applying motivational support to a learner with poor regulatory architecture addresses the energy quality without providing the engine. Diagnosis must precede intervention.
+> 
+> **Error 2 — Using SDT to explain *all* learning failure**: SDT is powerful but is not a complete theory of learning failure. A learner with high autonomous motivation can still fail to learn if their metacognitive monitoring is poorly calibrated (Winne & Hadwin's domain) or if their regulatory phase architecture is underdeveloped (Zimmerman's domain). SDT explains why motivated people sometimes fail to sustain effort; it does not explain why they sometimes fail to deploy effective strategies even when motivated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> Before reading further, recall a piece of feedback you received that genuinely changed how you approached a task or domain — and one that did not. What distinguished them? Was the difference in the content of the feedback, or in something about how it was framed, when it arrived, or how it positioned you in relation to the work? Hold these examples in mind as anchor points throughout the report.
+
+> [!reflection] **Reflect** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*
+> 1. How does the SDT definition of autonomy — as self-endorsed action rather than independence — challenge common assumptions about what "student choice" accomplishes in instructional design? Can you imagine contexts where giving students more choice might actually undermine autonomy in the technical sense?
+> 2. The distinction between formative and summative assessment rests on function rather than format. Can you identify three assessment formats that could serve either function depending on context? What determines the switch?
+> 3. Which of the foundational distinctions — summative/formative, feedback/feed-forward, person/work — seems most consequential for your own practice or the learning contexts you care about? Why?
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> Before reading further, take a moment to surface your current beliefs about your own learning. Do you consider yourself a good learner? What strategies do you rely on most? When was the last time you deliberately changed how you study or practice because your current approach wasn't working? Your answers will reveal the baseline metacognitive awareness you bring to this report — and will give you concrete anchors for the material that follows.
+
+> [!reflection] **Reflect** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*
+> 1. Which of Flavell's three components — metacognitive knowledge, metacognitive experiences, or metacognitive regulation — do you think you are strongest in? Which seems most underdeveloped? What evidence from your own learning history supports this self-assessment?
+> 2. How does the Vygotskian insight — that self-regulation originates in social interaction — change how you think about the role of teachers, mentors, and peers in developing metacognitive skill?
+> 3. Consider the distinction between declarative, procedural, and conditional metacognitive knowledge. Can you identify a learning strategy you know *about* but rarely use well? Is the gap declarative, procedural, or conditional?
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> Take a moment to reflect: when did you last deliberately monitor your own understanding of something challenging — pausing to ask yourself, "Do I actually understand this, or do I just feel like I do?" What prompted you to do so (or prevented you)? Was it a situation you chose freely, or one that felt externally required? Your answers likely reveal something about the conditions under which your own metacognitive engagement becomes activated.
+
+> [!reflection] **Reflect** *(from metacognition-motivation-foundational-report-2026-03-05.md)*
+> 1. How does the distinction between metacognitive *knowledge* and metacognitive *regulation* change your view of what it means to "be metacognitive"? Have you ever known what good strategy looks like but failed to deploy it — and if so, what does that suggest about the role of motivation in the gap?
+> 2. The SDT continuum of internalization suggests that not all extrinsic motivation is equal. Think of a behavior you engage in for "external" reasons: where on the internalization continuum does it fall, and does that location affect how you engage with it?
+> 3. Which of the definitional distinctions introduced here feels most important for understanding your own learning experiences?
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> Before reading on, commit to a position: When students are explicitly taught self-regulatory strategies (goal-setting, self-monitoring, strategy selection), what happens to their academic performance? Does explicit instruction in SRL reliably improve outcomes, sometimes improve outcomes, or have negligible average effects? Write down your prediction and your reasoning — we will return to it in Phase III, where the evidence may complicate your expectation in an instructive direction.
+
+> [!reflection] **Reflect** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*
+> The analysis ahead depends on the distinction between metacognitive knowledge and metacognitive experiences (Flavell). Before proceeding, articulate in your own words: why can a learner have excellent metacognitive knowledge but still fail to self-regulate effectively? What would have to be true about their metacognitive experiences for self-regulation to fail even when knowledge is present? If you find yourself paraphrasing the definitions above rather than reasoning from them, the distinction may not yet be fully integrated.
+
+> [!reflection] **Reflect** *(from report-07-the-self-directed-learner.md)*
+> Consider your own current relationship with your learning architecture. When you encounter difficulty in a domain you care about, what is your characteristic response — retreat, or constructive engagement with the disequilibrium? Can you identify a recent learning episode and articulate your forethought strategy, your performance monitoring approach, and your self-reflection practice? Are these deployed deliberately or automatically? And here is the recursive question: Do you have a theory of how *you* learn best that is based on evidence from your own learning history — or is it based on what you have been told, what seems intuitively appealing, or what protects your sense of yourself as a capable learner?
+
+> [!reflection] **Reflect** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> Before reading, identify which tradition you currently inhabit more naturally. When you encounter a learner who is struggling, do you ask first *why* they are struggling — questioning their motivation, engagement quality, or sense of purpose? Or do you ask *how* they are regulating — examining their planning strategies, monitoring accuracy, or self-reflection practices? Most practitioners have an implicit allegiance to one tradition. Making it explicit creates the cognitive anchor that makes comparative reading productive: you will be able to register where this analysis confirms your existing intuitions and where it genuinely challenges them.
+
+> [!reflection] **Reflect** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*
+> Choose a specific learning episode from your recent experience — a time you were studying something important to you. Describe that episode first through SDT's lens: What was the quality of your motivation? Were your needs for autonomy, competence, and relatedness being satisfied or frustrated? Now switch to Zimmerman's lens: How did your forethought phase look? How actively were you monitoring during performance? What self-reflection did you engage in afterward? Notice how different features of the *same experience* become salient under each lens. This is the foundation of genuine comparative understanding — not knowing *about* the frameworks but thinking *through* them.
 
 
 
@@ -315,6 +436,94 @@ importance: high
 - [[Growth-Mindset-Theory|Growth Mindset Theory]]
 - [[Cognitive-Load-Theory|Cognitive Load Theory]]
 - [[Attribution-Theory|Attribution Theory]]
+
+**Related concepts** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md, metacognition-lifelong-learning-foundational-report-2026-03-05.md, metacognition-motivation-foundational-report-2026-03-05.md, report-07-the-self-directed-learner.md, sdt-srl-comparative-synthesis-2026-03-19.md, self-regulated-learning-focused-analysis-2026-03-06.md)*:
+[[Feedback-Design|Feedback Design]] * [[Hattie-&-Timperley-Feedback-Model|Hattie & Timperley Feedback Model]] * [[Self-Determination-Theory|Self-Determination Theory]] * [[Growth-Mindset|Growth Mindset]] * [[Formative-Assessment|Formative Assessment]] * [[Black-&-Wiliam|Black & Wiliam]] * [[Attribution-Theory|Attribution Theory]] * [[Summative-Assessment|Summative Assessment]] * [[Formative-Feedback|Formative Feedback]] * [[Intrinsic-Motivation|Intrinsic Motivation]] * [[Learned-Helplessness|Learned Helplessness]] * [[Performance-Goals|Performance Goals]] * [[Carole-Ames|Carole Ames]] * [[Carol-Dweck|Carol Dweck]] * [[Feed-Forward|Feed-Forward]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Negative-Feedback-Control-System|Negative Feedback Control System]]
+
+**Cross-report connections** *(from self-regulated-learning-focused-analysis-2026-03-06.md)*:
+- [[Adaptive-Immunity|Adaptive Immunity]]
+- [[Innate-Immunity|Innate Immunity]]
+
+**Cross-report connections** *(from feedback-design-autonomy-mastery-foundational-report-2026-03-10.md)*:
+- [[Feedback-Design-for-Autonomy-and-Mastery|Feedback Design for Autonomy and Mastery]]
+- [[Growth-Mindset|Growth Mindset]]
+- [[Metacognition-&-Motivation|Metacognition & Motivation]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+- [[Critical-Thinking-in-Education|Critical Thinking in Education]]
+
+**Cross-report connections** *(from metacognition-lifelong-learning-foundational-report-2026-03-05.md)*:
+- [[Extended-Thinking-Architecture-Implementation-Guide|Extended Thinking Architecture Implementation Guide]]
+- [[Metacognitive-Monitoring-in-MetaICL|Metacognitive Monitoring in MetaICL]]
+- [[Prompt-Engineering-Specialist-Agent-v4.0|Prompt Engineering Specialist Agent v4.0]]
+
+**Cross-report connections** *(from metacognition-motivation-foundational-report-2026-03-05.md)*:
+- [[Self-Regulated-Learning|Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Growth-Mindset-Theory|Growth Mindset Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Attribution-Theory|Attribution Theory]]
+
+**Cross-report connections** *(from sdt-srl-comparative-synthesis-2026-03-19.md)*:
+- [[Motivational-Interviewing|Motivational-Interviewing]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

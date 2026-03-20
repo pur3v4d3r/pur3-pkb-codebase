@@ -29,7 +29,7 @@ subdomains:
 # TEMPORAL
 # ═══════════════════════════════════════════════════════════════════════════
 created: 2026-03-19
-updated: 2026-03-19
+updated: 2026-03-20
 
 # ═══════════════════════════════════════════════════════════════════════════
 # SOURCE TRACKING
@@ -37,6 +37,7 @@ updated: 2026-03-19
 source-type: report-extraction
 source-reports:
   - "advance-organizers-prior-knowledge-foundational-report-2026-03-11"
+  - "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md"
 evidence-quality: high
 extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
 
@@ -70,6 +71,14 @@ see-also:
   - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
   - "[[KWL-Strategy|KWL Strategy]]"
   - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Advance-Organizers|Advance Organizers]]"
+  - "[[Prior-Knowledge-Activation|Prior Knowledge Activation]]"
+  - "[[David-Ausubel|David Ausubel]]"
+  - "[[Schema|Schema]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[KWL-Strategy|KWL Strategy]]"
+  - "[[Bridging-Analogies|Bridging Analogies]]"
+  - "[[Pre-questioning|Pre-questioning]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -114,6 +123,10 @@ importance: high
 > [!analytical-insight] Key Insight
 > According to Ausubel's assimilation theory, meaningful learning requires that (1) the material to be learned is potentially meaningful — that is, it could in principle be related to the learner's existing knowledge — and (2) relevant anchoring ideas actually exist in the learner's cognitive structure. If either condition fails, rote learning is the result. The advance organizer's job is to satisfy condition (2) when it would otherwise not be met: either by activating existing anchoring ideas…
 
+> [!evidence] Supporting Evidence *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> The founding paper of the advance organizer tradition. Ausubel introduces the concept, provides the first experimental test, and articulates the assimilation theory that motivates it. Essential primary source; the abstract/general vs. specific level distinction is clearest here. Note that subsequent research substantially qualifies the magnitude of effects.
+
+
 ## Practical Implications
 
 > [!example] **Application**
@@ -124,6 +137,18 @@ importance: high
 
 > [!warning] **Key Distinction**
 > When prior knowledge is inaccurate, activation strategies do not solve the learning problem — they amplify it. The appropriate response to inaccurate prior knowledge is not more activation but rather *refutation* and *conceptual change*: explicitly identifying the misconception, demonstrating its inadequacy through carefully designed examples, and providing a more satisfying alternative explanation. This is the domain of [[Conceptual-Change-Theory]], which should be treated as a necessary…
+
+
+## Reflection Prompts
+
+> [!reflection] **Reflect** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> Before reading further, take two minutes to articulate what you currently believe about how new information gets learned. Do you think of learning as filling in gaps? As constructing connections? As strengthening pathways? What role, if any, do you think what someone already knows plays in how well they learn something new? There are no wrong answers here — the goal is to surface your existing mental model so you can notice where this report confirms, enriches, or complicates it.
+
+> [!reflection] **Reflect** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*
+> 1. Ausubel's distinction between meaningful and rote learning implies that a student could correctly answer exam questions based on rote-memorized material while having acquired essentially no understanding in the deeper sense. Can you recall examples from your own educational history that fit this description? What does that suggest about what assessments typically measure?
+> 2. The definition of expository vs. comparative organizers rests on an accurate diagnosis of what prior knowledge a learner has. What are the practical challenges of making that diagnosis accurately in real instructional contexts?
+> 3. Where does the boundary lie between a *comparative advance organizer* and a good *analogy*? Is that a meaningful distinction or a terminological one?
+
 
 ## Connections & Context
 
@@ -141,3 +166,23 @@ importance: high
 
 **Related concepts:**
 [[Advance-Organizers|Advance Organizers]] · [[Prior-Knowledge-Activation|Prior Knowledge Activation]] · [[David-Ausubel|David Ausubel]] · [[Schema]] · [[Advance-Organizers|Advance Organizers]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[KWL-Strategy|KWL Strategy]] · [[Bridging-Analogies|Bridging Analogies]] · [[Pre-questioning]] · [[Schema-Theory|Schema Theory]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Transfer-of-Learning|Transfer of Learning]] · [[Schema-Theory|Schema Theory]] · [[Schema]] · [[Procedural-Knowledge|Procedural Knowledge]]
+
+**Related concepts** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+[[Advance-Organizers|Advance Organizers]] * [[Prior-Knowledge-Activation|Prior Knowledge Activation]] * [[David-Ausubel|David Ausubel]] * [[Elaborative-Interrogation|Elaborative Interrogation]] * [[KWL-Strategy|KWL Strategy]] * [[Bridging-Analogies|Bridging Analogies]] * [[Schema-Theory|Schema Theory]] * [[Cognitive-Load-Theory|Cognitive Load Theory]] * [[Transfer-of-Learning|Transfer of Learning]] * [[Procedural-Knowledge|Procedural Knowledge]] * [[Episodic-Memory|Episodic Memory]] * [[Mental-Model|Mental Model]] * [[Long-Term-Memory|Long-Term Memory]] * [[Dochy,-Segers-&-Buehl-(1999)|Dochy, Segers & Buehl (1999)]] * [[Patricia-Alexander|Patricia Alexander]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+**Cross-report connections** *(from advance-organizers-prior-knowledge-foundational-report-2026-03-11.md)*:
+- [[Advance-Organizers|Advance Organizers]]
+- [[Prior-Knowledge-Activation|Prior Knowledge Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Metacognition-&-Lifelong-Learning|Metacognition & Lifelong Learning]]
+
+
+
