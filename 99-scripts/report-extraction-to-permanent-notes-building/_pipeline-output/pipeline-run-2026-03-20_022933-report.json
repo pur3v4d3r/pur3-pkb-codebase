@@ -1,0 +1,93 @@
+{
+  "run_id": "pipeline-run-2026-03-20_022933",
+  "timestamp": "2026-03-20T02:29:33.822144",
+  "dry_run": true,
+  "summary": {
+    "notes_before": 1094,
+    "notes_after": 1094,
+    "notes_created": 0,
+    "notes_updated": 509,
+    "stubs_created": 0,
+    "links_rewritten": 11,
+    "audit_resolution_rate": 0,
+    "audit_orphans": 319
+  },
+  "stages": [
+    {
+      "num": 0,
+      "name": "Pre-Flight",
+      "success": true,
+      "skipped": false,
+      "duration": 0.05,
+      "summary": "Pre-flight PASSED \u2014 1094 existing notes, 457 JSON files",
+      "errors": []
+    },
+    {
+      "num": 1,
+      "name": "Extraction",
+      "success": true,
+      "skipped": true,
+      "duration": 0.0,
+      "summary": "Skipped \u2014 using existing extractions",
+      "errors": []
+    },
+    {
+      "num": 2,
+      "name": "Build Notes",
+      "success": true,
+      "skipped": false,
+      "duration": 3.92,
+      "summary": "Created 0 new, updated 509 existing notes",
+      "errors": []
+    },
+    {
+      "num": 3,
+      "name": "Generate Stubs",
+      "success": true,
+      "skipped": false,
+      "duration": 0.22,
+      "summary": "Created 0 stub notes (min-refs=3)",
+      "errors": []
+    },
+    {
+      "num": 4,
+      "name": "Resolve Report Links",
+      "success": true,
+      "skipped": false,
+      "duration": 0.39,
+      "summary": "Processed report wiki-links (11 rewrites)",
+      "errors": []
+    },
+    {
+      "num": 5,
+      "name": "Normalise Links",
+      "success": false,
+      "skipped": false,
+      "duration": 0.03,
+      "summary": "Wiki-link normalisation complete",
+      "errors": [
+        "normalise_wikilinks.py failed (code 1)",
+        "Missing dependencies. Run:\n  pip install rich click\n"
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Audit",
+      "success": true,
+      "skipped": false,
+      "duration": 0.21,
+      "summary": "Resolution rate: N/A%, Orphans: 319",
+      "errors": []
+    },
+    {
+      "num": 7,
+      "name": "Index",
+      "success": true,
+      "skipped": true,
+      "duration": 0.0,
+      "summary": "Would update index (dry run)",
+      "errors": []
+    }
+  ],
+  "errors": []
+}
