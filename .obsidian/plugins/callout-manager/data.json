@@ -269,7 +269,11 @@
       "cross-domain-connection",
       "original-synthesis",
       "what-the-evidence-suggests",
-      "tension-identified"
+      "tension-identified",
+      "framework-profile",
+      "comparative-finding",
+      "steel-man",
+      "assumption-challenge"
     ],
     "settings": {
       "in-note-metadata": [
@@ -796,7 +800,7 @@
       "definition": [
         {
           "changes": {
-            "color": "128, 128, 128"
+            "color": "0, 0, 0"
           }
         }
       ],
@@ -2155,6 +2159,34 @@
         {
           "changes": {
             "color": "255, 0, 0"
+          }
+        }
+      ],
+      "framework-profile": [
+        {
+          "changes": {
+            "color": "51, 0, 0"
+          }
+        }
+      ],
+      "comparative-finding": [
+        {
+          "changes": {
+            "color": "0, 0, 0"
+          }
+        }
+      ],
+      "steel-man": [
+        {
+          "changes": {
+            "color": "20, 0, 0"
+          }
+        }
+      ],
+      "assumption-challenge": [
+        {
+          "changes": {
+            "color": "51, 30, 30"
           }
         }
       ]
