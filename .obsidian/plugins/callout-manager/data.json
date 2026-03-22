@@ -273,7 +273,8 @@
       "framework-profile",
       "comparative-finding",
       "steel-man",
-      "assumption-challenge"
+      "assumption-challenge",
+      "calibration-exercise"
     ],
     "settings": {
       "in-note-metadata": [
@@ -2187,6 +2188,13 @@
         {
           "changes": {
             "color": "51, 30, 30"
+          }
+        }
+      ],
+      "calibration-exercise": [
+        {
+          "changes": {
+            "color": "254, 154, 154"
           }
         }
       ]
