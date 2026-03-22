@@ -67,6 +67,17 @@ Run the full pipeline with execution enabled:
 python 99-scripts/report-extraction-to-permanent-notes-building/pipeline_v2.py --execute --auto-commit --verbose
 ```
 
+This includes **Stage 2b: Dedicated Notes** which automatically builds 4 aggregate index notes:
+- `_Master-Definition-Index.md` — all definitions, alphabetical + TOC
+- `_Master-Reference-Index.md` — all citations, by topic + TOC
+- `_Master-PKB-Connections-Index.md` — all PKB connections, by topic + TOC
+- `_Master-Expansion-Topics-Index.md` — all expansion topics, by topic + TOC
+
+Stage 2b also creates permanent notes for any definitions that don't have one yet.
+
+To skip dedicated notes build: add `--skip-dedicated`
+To run dedicated notes standalone: `python 99-scripts/report-extraction-to-permanent-notes-building/dedicated_notes_builder.py --execute`
+
 If the user wants more control, run stage by stage:
 
 ```bash
@@ -162,6 +173,7 @@ For manual or targeted runs, these are the available scripts:
 |--------|---------|-------|
 | `pkb_extractor.py` | Extract from .md → JSON | `python 99-scripts/pkb_extractor.py --input DIR --output DIR -r` |
 | `pipeline.py` | Scan/match/update/create notes | `python 99-scripts/.../pipeline.py --execute --verbose` |
+| `dedicated_notes_builder.py` | Build 4 aggregate index notes | `python 99-scripts/.../dedicated_notes_builder.py --execute` |
 | `audit_notes.py` | Audit link resolution | `python 99-scripts/.../audit_notes.py --markdown` |
 | `generate_stubs.py` | Create stub notes | `python 99-scripts/.../generate_stubs.py --execute --min-refs 3` |
 | `rewrite_report_wikilinks.py` | Fix report links | `python 99-scripts/.../rewrite_report_wikilinks.py --execute` |

@@ -7,16 +7,17 @@ updating existing notes, resolving wiki-links, auditing quality, and
 generating a change report.
 
 STAGES:
-  0. PRE-FLIGHT     — Validate environment, paths, dependencies
-  1. EXTRACT        — Run pkb_extractor.py on new report files → JSON + MD
-  2. BUILD NOTES    — Scan extractions → match → update existing → create new
-  3. GENERATE STUBS — Create stub notes for frequently-referenced missing concepts
-  4. RESOLVE LINKS  — Rewrite wiki-links in reports to point to permanent note filenames
-  5. NORMALISE      — Normalise wiki-links in permanent notes (space→kebab)
-  6. AUDIT          — Full audit of permanent notes (resolution rate, orphans, etc.)
-  7. INDEX          — Update the permanent notes index
-  8. REPORT         — Generate a comprehensive change report
-  9. COMMIT         — Git commit all changes with a descriptive message
+  0.  PRE-FLIGHT          — Validate environment, paths, dependencies
+  1.  EXTRACT             — Run pkb_extractor.py on new report files → JSON + MD
+  2.  BUILD NOTES         — Scan extractions → match → update existing → create new
+  2b. DEDICATED NOTES     — Build 4 aggregate index notes from all callout types
+  3.  GENERATE STUBS      — Create stub notes for frequently-referenced missing concepts
+  4.  RESOLVE LINKS       — Rewrite wiki-links in reports to point to permanent note filenames
+  5.  NORMALISE           — Normalise wiki-links in permanent notes (space→kebab)
+  6.  AUDIT               — Full audit of permanent notes (resolution rate, orphans, etc.)
+  7.  INDEX               — Update the permanent notes index
+  8.  REPORT              — Generate a comprehensive change report
+  9.  COMMIT              — Git commit all changes with a descriptive message
 
 USAGE:
   python pipeline_v2.py                          # Full dry run
@@ -27,16 +28,18 @@ USAGE:
   python pipeline_v2.py --skip-extract           # Skip extraction (use existing JSON)
   python pipeline_v2.py --execute --auto-commit  # Apply + git commit
   python pipeline_v2.py --report-dir DIR         # Custom report input directory
+  python pipeline_v2.py --skip-dedicated         # Skip dedicated notes build
   python pipeline_v2.py --help
 
 REQUIREMENTS:
   Python 3.10+
   Packages: rich, click (optional: PyYAML for enhanced parsing)
   Scripts:  pkb_extractor.py, pipeline.py, audit_notes.py, generate_stubs.py,
-            rewrite_report_wikilinks.py, normalise_wikilinks.py, vault_indexer.py
+            rewrite_report_wikilinks.py, normalise_wikilinks.py, vault_indexer.py,
+            dedicated_notes_builder.py
 
 @author   PKB Scripting Architect
-@version  2.0.0
+@version  2.1.0
 """
 
 from __future__ import annotations
@@ -91,6 +94,7 @@ REPORT_FOLDERS = [
     VAULT_ROOT / "999-report-orginizing" / "llm-and-prompt-engineering",
     VAULT_ROOT / "999-report-orginizing" / "reports-to-file",
     VAULT_ROOT / "999-report-orginizing" / "999-stoicism",
+    VAULT_ROOT / "999-report-orginizing" / "999-focused-analysis-report-generator-v1.1.0",
 ]
 
 # Pipeline output directory for logs and reports
@@ -468,6 +472,82 @@ def stage_build_notes(execute: bool = False, include_original: bool = False) -> 
 
     return StageResult(
         stage_num=2, stage_name="Build Notes", success=success,
+        duration_secs=duration, summary=summary, details=details, errors=errors,
+    )
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# STAGE 2b: BUILD DEDICATED AGGREGATE NOTES
+# ══════════════════════════════════════════════════════════════════════════════
+
+
+def stage_build_dedicated_notes(execute: bool = False) -> StageResult:
+    """Build the 4 dedicated aggregate index notes from all extraction data."""
+    start = time.time()
+    errors = []
+    details = {}
+
+    print_header("STAGE 2b: BUILD DEDICATED AGGREGATE NOTES")
+
+    args = []
+    if execute:
+        args.append("--execute")
+
+    print(f"  Running: dedicated_notes_builder.py {' '.join(args) or '(dry run)'}")
+
+    result = run_python_script(
+        PIPELINE_DIR / "dedicated_notes_builder.py", args, cwd=VAULT_ROOT, timeout=600,
+    )
+
+    if result.stdout:
+        for line in result.stdout.strip().split("\n"):
+            print(f"    {line}")
+
+    if result.returncode != 0:
+        errors.append(f"dedicated_notes_builder.py failed (code {result.returncode})")
+        if result.stderr:
+            errors.append(result.stderr[:500])
+
+    # Parse key numbers from output
+    for line in (result.stdout or "").split("\n"):
+        lower = line.lower().strip()
+        if "definitions:" in lower:
+            try:
+                details["definitions"] = int(lower.split(":")[-1].strip())
+            except ValueError:
+                pass
+        if "references:" in lower:
+            try:
+                details["references"] = int(lower.split(":")[-1].strip())
+            except ValueError:
+                pass
+        if "connections:" in lower:
+            try:
+                details["connections"] = int(lower.split(":")[-1].strip())
+            except ValueError:
+                pass
+        if "expansions:" in lower:
+            try:
+                details["expansions"] = int(lower.split(":")[-1].strip())
+            except ValueError:
+                pass
+        if "new permanent notes" in lower or "would create" in lower:
+            try:
+                for word in lower.split():
+                    if word.isdigit():
+                        details["def_notes_created"] = int(word)
+                        break
+            except (ValueError, IndexError):
+                pass
+
+    duration = time.time() - start
+    success = len(errors) == 0
+    defs = details.get("definitions", "?")
+    refs = details.get("references", "?")
+    summary = f"Dedicated notes: {defs} defs, {refs} refs collected"
+
+    return StageResult(
+        stage_num=2, stage_name="Dedicated Notes (2b)", success=success,
         duration_secs=duration, summary=summary, details=details, errors=errors,
     )
 
@@ -993,6 +1073,8 @@ def build_cli() -> argparse.ArgumentParser:
                              help="Run through stage N (default: 9)")
     stage_group.add_argument("--skip-extract", action="store_true", default=False,
                              help="Skip extraction stage (use existing JSON)")
+    stage_group.add_argument("--skip-dedicated", action="store_true", default=False,
+                             help="Skip dedicated aggregate notes build (stage 2b)")
 
     # Input configuration
     input_group = p.add_argument_group("Input Configuration")
@@ -1086,6 +1168,11 @@ def main() -> None:
         pipeline_report.stages.append(result)
         pipeline_report.notes_created = result.details.get("created", result.details.get("notes_created", 0))
         pipeline_report.notes_updated = result.details.get("updated", 0)
+
+    # ── Stage 2b: Dedicated Notes ───────────────────────────────────────
+    if start_stage <= 2 <= end_stage and not args.skip_dedicated:
+        result = stage_build_dedicated_notes(execute)
+        pipeline_report.stages.append(result)
 
     # ── Stage 3: Generate Stubs ─────────────────────────────────────────
     if start_stage <= 3 <= end_stage:

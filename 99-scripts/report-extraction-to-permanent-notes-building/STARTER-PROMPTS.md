@@ -121,16 +121,64 @@ where N is the stage number (0-9).
 Start with stage 0 (pre-flight) and work through to stage 9 (git commit).
 
 Stages:
-0. Pre-flight checks
-1. Extraction (skip if no new reports)
-2. Build notes (scan/match/update/create)
-3. Generate stubs
-4. Resolve report wiki-links
-5. Normalise wiki-links
-6. Audit
-7. Update index
-8. Generate change report
-9. Git commit
+0.  Pre-flight checks
+1.  Extraction (skip if no new reports)
+2.  Build notes (scan/match/update/create)
+2b. Dedicated aggregate notes (definitions/references/connections/expansions indexes)
+3.  Generate stubs
+4.  Resolve report wiki-links
+5.  Normalise wiki-links
+6.  Audit
+7.  Update index
+8.  Generate change report
+9.  Git commit
 
 Read: 99-scripts/report-extraction-to-permanent-notes-building/AGENT-PROMPT.md
+```
+
+---
+
+## 7. Build Dedicated Aggregate Notes Only
+
+Use this to build/rebuild the 4 master index notes without running the full pipeline:
+
+```
+Build the dedicated aggregate index notes for my PKB.
+
+1. Activate venv: source ".venv/Scripts/activate"
+2. cd "D:/10_pur3v4d3r's-vault"
+3. First, dry run:
+   python 99-scripts/report-extraction-to-permanent-notes-building/dedicated_notes_builder.py
+4. Show me the results — how many definitions/references/connections/expansion topics were found, and how many new permanent notes would be created.
+5. When I confirm, execute:
+   python 99-scripts/report-extraction-to-permanent-notes-building/dedicated_notes_builder.py --execute
+6. Show final summary.
+
+This builds 4 aggregate notes:
+- _Master-Definition-Index.md (alphabetical definition index + TOC)
+- _Master-Reference-Index.md (citations by topic + TOC)
+- _Master-PKB-Connections-Index.md (PKB connections by topic + TOC)
+- _Master-Expansion-Topics-Index.md (research topics by topic + TOC)
+
+And creates permanent notes for any definitions that don't have one yet.
+```
+
+---
+
+## 8. Build Only Definitions or Only References
+
+Use this to build just one dedicated note type:
+
+```
+Build only the Master Definition Index and its permanent notes.
+
+1. Activate venv: source ".venv/Scripts/activate"
+2. cd "D:/10_pur3v4d3r's-vault"
+3. Dry run:
+   python 99-scripts/report-extraction-to-permanent-notes-building/dedicated_notes_builder.py --only=defs
+4. Show results and confirm.
+5. Execute:
+   python 99-scripts/report-extraction-to-permanent-notes-building/dedicated_notes_builder.py --execute --only=defs
+
+Options for --only: defs, refs, conns, expns
 ```

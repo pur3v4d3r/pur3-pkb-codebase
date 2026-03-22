@@ -29,9 +29,9 @@
 When auto-generating Obsidian markdown notes from structured report data, wiki-links were written using the human-readable display name:
 
 ```markdown
-[[Expertise Reversal Effect]]
-[[Cognitive Load Theory]]
-[[Zone of Proximal Development]]
+[[Expertise-Reversal-Effect]]
+[[Cognitive-Load-Theory]]
+[[Zone-of-Proximal-Development]]
 ```
 
 **Symptom in Obsidian:** These links appeared in **light red** (unresolved) in reading/preview mode, while single-word links like `[[Pedagogy]]` and `[[Andragogy]]` appeared in **blue** (resolved) and worked correctly.
@@ -54,8 +54,8 @@ Obsidian does **NOT** automatically resolve spaces to hyphens in filenames.
 |---|---|---|---|
 | `[[Pedagogy]]` | `Pedagogy.md` | `Pedagogy.md` | ✅ Works |
 | `[[Andragogy]]` | `Andragogy.md` | `Andragogy.md` | ✅ Works |
-| `[[Expertise Reversal Effect]]` | `Expertise Reversal Effect.md` | `Expertise-Reversal-Effect-...-Kalyuga,...md` | ❌ Broken |
-| `[[Cognitive Load Theory]]` | `Cognitive Load Theory.md` | `Cognitive-Load-Theory.md` | ❌ Broken |
+| `[[Expertise-Reversal-Effect]]` | `Expertise Reversal Effect.md` | `Expertise-Reversal-Effect-...-Kalyuga,...md` | ❌ Broken |
+| `[[Cognitive-Load-Theory]]` | `Cognitive Load Theory.md` | `Cognitive-Load-Theory.md` | ❌ Broken |
 
 **Why single-word links worked:** No spaces = no mismatch. `Pedagogy` matches `Pedagogy.md` exactly.
 
@@ -70,7 +70,7 @@ aliases:
   - "Expertise Reversal Effect"
 ```
 
-Obsidian's alias resolution is supposed to match `[[Expertise Reversal Effect]]` to a note with that alias. However, in practice this was unreliable — possibly due to:
+Obsidian's alias resolution is supposed to match `[[Expertise-Reversal-Effect]]` to a note with that alias. However, in practice this was unreliable — possibly due to:
 - The vault being inside a nested project folder (`999-report-orginizing/_pkm-and-pkb-framework-1.0.0/`)
 - The `_permanent-notes/` directory name starting with underscore
 - Obsidian's indexing not triggering on externally-modified files
@@ -86,7 +86,7 @@ Obsidian's pipe syntax directly targets the file by its exact filename stem:
 
 ```markdown
 <!-- BEFORE (broken): Obsidian tries to find a file named "Cognitive Load Theory.md" -->
-[[Cognitive Load Theory]]
+[[Cognitive-Load-Theory]]
 
 <!-- AFTER (working): Obsidian goes directly to "Cognitive-Load-Theory.md", displays "Cognitive Load Theory" -->
 [[Cognitive-Load-Theory|Cognitive Load Theory]]
@@ -324,7 +324,7 @@ The wiki-link regex `\[\[([^\[\]]+?)\]\]` can potentially match across YAML line
 
 ```yaml
 expansion_topics:
-  - topic: "[[Dual Coding Theory]]"
+  - topic: "[[Dual-Coding-Theory]]"
     priority: medium
   - topic: "[[Collaborative Learning]]"
 ```
@@ -427,7 +427,7 @@ Copy the block below into a new Claude session. Fill in the `[PLACEHOLDER]` valu
 ### Context
 
 I have an auto-generated set of Obsidian permanent notes and reports. The wiki-links
-use human-readable display names with spaces (e.g., `[[Cognitive Load Theory]]`) but
+use human-readable display names with spaces (e.g., `[[Cognitive-Load-Theory]]`) but
 the actual filenames use hyphens (e.g., `Cognitive-Load-Theory.md`). Obsidian does NOT
 auto-resolve spaces to hyphens, so all multi-word links are broken (appear light-red).
 

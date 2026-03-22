@@ -327,7 +327,7 @@ wiki-links:
   - "[[Link 1]]"
   - "[[Link 2]]"
 related:
-  - "[[Related Note]]"
+  - "[[Related-Note]]"
 see-also:
   - "[[See Also Note]]"
 expansion-topics:

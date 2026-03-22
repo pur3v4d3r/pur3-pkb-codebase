@@ -38,6 +38,7 @@ EXTRACTOR_OUTPUT_ROOT = VAULT_ROOT / "999-report-orginizing" / "_extractor-outpu
 EXTRACTION_BATCHES = [
     # Existing batches (2026-03-13)
     EXTRACTOR_OUTPUT_ROOT / "2026-03-13-inbox-reports",
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-13-library",
     EXTRACTOR_OUTPUT_ROOT / "2026-03-13-report-orginizing-folder",
     # New batches (2026-03-19)
     EXTRACTOR_OUTPUT_ROOT / "2026-03-19-first-principles-reports",
@@ -51,6 +52,9 @@ EXTRACTION_BATCHES = [
     # New batches (2026-03-20) — dialectical & comparative synthesis reports
     EXTRACTOR_OUTPUT_ROOT / "2026-03-20-dialectical-reports",
     EXTRACTOR_OUTPUT_ROOT / "2026-03-20-comparative-synthesis-reports",
+    # New batches (2026-03-22) — focused analysis v1.1 & stoicism reports
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-22-focused-analysis-v1.1",
+    EXTRACTOR_OUTPUT_ROOT / "2026-03-22-stoicism-reports",
 ]
 
 # Original 30-report batch (already processed by v1 pipeline)
@@ -161,6 +165,25 @@ KNOWLEDGE_LEVEL_TO_COMPLEXITY = {
     "developing": "intermediate",
     "established": "advanced-practitioner",
 }
+
+# ══════════════════════════════════════════════════════════════════════════════
+# DEDICATED AGGREGATE NOTE CONFIGURATION
+# ══════════════════════════════════════════════════════════════════════════════
+# The dedicated notes builder (dedicated_notes_builder.py) aggregates specific
+# callout types from ALL extraction batches into four master index notes.
+
+DEDICATED_NOTE_FILES = {
+    "definitions": "_Master-Definition-Index.md",
+    "references":  "_Master-Reference-Index.md",
+    "connections":  "_Master-PKB-Connections-Index.md",
+    "expansions":  "_Master-Expansion-Topics-Index.md",
+}
+
+# Callout types feeding each dedicated note
+DEDICATED_DEFINITION_CALLOUTS = ["definition"]
+DEDICATED_REFERENCE_CALLOUTS = ["cite", "citation", "references", "bibliography"]
+DEDICATED_CONNECTION_CALLOUTS = ["connections-and-links", "connection-ideas", "connections"]
+DEDICATED_EXPANSION_CALLOUTS = ["topic-idea", "further-exploration"]
 
 # ══════════════════════════════════════════════════════════════════════════════
 # FILE NAMING
