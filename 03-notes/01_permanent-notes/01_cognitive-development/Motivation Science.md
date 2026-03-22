@@ -41,7 +41,7 @@ review-priority: medium
 # Motivation Science
 
 > [!definition]
-> - **Key-Term**:[[Motivation Science]]
+> - **Key-Term**:[[motivation-science]]
 > - [**Definition**:<% tp.file.cursor() %>
 
 ## Foundational Understanding
@@ -52,8 +52,8 @@ review-priority: medium
 
 ## Related Concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## Practical Applications
 

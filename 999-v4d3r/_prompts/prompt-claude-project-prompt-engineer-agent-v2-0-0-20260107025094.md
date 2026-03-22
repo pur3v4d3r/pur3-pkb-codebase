@@ -1855,14 +1855,14 @@ Let me know if you'd like any adjustments!
 ### 3. **[[Cognitive Load Theory for Prompt Design]]**
 * *Connection:** Enhancement phase mentions cognitive load balancing but doesn't ground it in CLT principles
 * *Depth Potential:** Apply Sweller's framework to prompt structure---intrinsic/extraneous/germane load optimization
-* *Knowledge Graph Role:** Bridge between [[Cognitive Science]] and [[Prompt Engineering]]
+* *Knowledge Graph Role:** Bridge between [[Cognitive-Science]] and [[Prompt-Engineering]]
 * *Priority:** Medium---theoretical grounding improves intuition for prompt structure
-* *Prerequisites:** [[Cognitive Load Theory]], [[Working Memory]]
+* *Prerequisites:** [[Cognitive-Load-Theory]], [[Working-Memory]]
 
 ### 4. **[[Instructional Design Principles for LLMs]]**
 * *Connection:** Few-shot examples parallel instructional scaffolding; reasoning protocols parallel guided instruction
 * *Depth Potential:** Apply Gagné's Nine Events, Merrill's Principles, 4C/ID model to prompt construction
-* *Knowledge Graph Role:** Bridge between [[Learning Science]] and [[Prompt Engineering]]
+* *Knowledge Graph Role:** Bridge between [[Learning Science]] and [[Prompt-Engineering]]
 * *Priority:** Medium---enriches theoretical foundation for prompt pedagogy
 * *Prerequisites:** [[Instructional Design Fundamentals]]
 
@@ -1871,14 +1871,14 @@ Let me know if you'd like any adjustments!
 ### 5. **[[Multi-Agent Prompt Orchestration]]** *[Requires prerequisites]*
 * *Connection:** Current prompt handles single-agent prompts; complex systems require coordinated multi-agent architectures
 * *Depth Potential:** Agent coordination patterns, communication protocols, consensus mechanisms, debate structures
-* *Knowledge Graph Role:** Advanced extension of [[Prompt Engineering]] toward [[Agentic AI Systems]]
+* *Knowledge Graph Role:** Advanced extension of [[Prompt-Engineering]] toward [[Agentic AI Systems]]
 * *Priority:** Low (advanced)---relevant for sophisticated deployments
 * *Prerequisites:** [[Prompt Architect Agent]], [[Agent Architecture Fundamentals]], [[Distributed Systems Concepts]]
 
 ### 6. **[[Prompt Version Control & Lifecycle Management]]** *[Requires prerequisites]*
 * *Connection:** Iteration protocol handles single-session refinement; production systems need full lifecycle management
 * *Depth Potential:** Prompt versioning, changelog management, deployment pipelines, rollback strategies, performance tracking
-* *Knowledge Graph Role:** Operational extension connecting [[Prompt Engineering]] to [[MLOps]] and [[DevOps]]
+* *Knowledge Graph Role:** Operational extension connecting [[Prompt-Engineering]] to [[MLOps]] and [[DevOps]]
 * *Priority:** Low (operational)---relevant when managing prompts at scale
 * *Prerequisites:** [[Version Control Fundamentals]], [[CI/CD Concepts]], [[MLOps Basics]]
 

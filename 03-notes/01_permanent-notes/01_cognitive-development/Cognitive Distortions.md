@@ -23,7 +23,7 @@ link-related:
   - "[[Automatic Thoughts]]"
   - "[[Default Mode Network]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -50,8 +50,8 @@ review-priority: medium
 
 ## Related Concepts
 
-- `[[Concept 1]]`
-- `[[Concept 2]]`
+- `[[Concept-1]]`
+- `[[Concept-2]]`
 
 ## Practical Applications
 > -

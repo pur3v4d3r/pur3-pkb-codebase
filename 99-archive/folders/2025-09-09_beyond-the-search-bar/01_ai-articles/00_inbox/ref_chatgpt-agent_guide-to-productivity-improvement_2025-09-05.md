@@ -255,7 +255,7 @@ Obsidian is a powerful, locally stored note‑taking tool that excels at creatin
     
 -   **Markdown:** Obsidian uses Markdown syntax for headings, lists, bold/italic text and tasks[geeky-gadgets.com](https://www.geeky-gadgets.com/obsidian-note-taking-app-guide-2025/#:~:text=Markdown%20is%20the%20backbone%20of,features%20to%20get%20you%20started). Learn basic Markdown to structure your notes effectively.
     
--   **Backlinks and graph view:** Using `[[Note Name]]` links one note to another, creating a web of connected ideas. The graph view displays these connections visually, allowing you to identify clusters, discover patterns and find “orphan” notes[geeky-gadgets.com](https://www.geeky-gadgets.com/obsidian-note-taking-app-guide-2025/#:~:text=One%20of%20Obsidian%E2%80%99s%20most%20powerful,to%20discover%20relationships%20between%20concepts).
+-   **Backlinks and graph view:** Using `[[Note-Name]]` links one note to another, creating a web of connected ideas. The graph view displays these connections visually, allowing you to identify clusters, discover patterns and find “orphan” notes[geeky-gadgets.com](https://www.geeky-gadgets.com/obsidian-note-taking-app-guide-2025/#:~:text=One%20of%20Obsidian%E2%80%99s%20most%20powerful,to%20discover%20relationships%20between%20concepts).
     
 -   **Organization tools:** Use folders for broad categories, tags (`#tag`) for flexible classification, search to find notes quickly and bookmarks to pin frequently accessed notes[geeky-gadgets.com](https://www.geeky-gadgets.com/obsidian-note-taking-app-guide-2025/#:~:text=Obsidian%20provides%20several%20tools%20to,to%20navigate%20as%20it%20expands).
     

@@ -464,7 +464,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction to Critical Thinking]]"
+  - "[[Introduction-to-Critical-Thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
@@ -474,21 +474,21 @@ related:
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
   - "[[Epistemic-Vigilance]]"
-  - "[[Dual Process Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Argument Analysis]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Argument-Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific Reasoning]]"
+  - "[[Scientific-Reasoning]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Confirmation Bias]]"
+  - "[[Self-Regulated-Learning]]"
+  - "[[Confirmation-Bias]]"
   - "[[Availability-Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -508,7 +508,7 @@ see-also:
   - "[[Intellectual-Humility]]"
   - "[[Bayesian Reasoning]]"
   - "[[Argument-Mapping]]"
-  - "[[Socratic Questioning]]"
+  - "[[Socratic-Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
   - "[[Cognitive Forcing Functions]]"
@@ -529,14 +529,14 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational Logic]]"
-  - "[[Cognitive Development Theory]]"
-  - "[[Information Processing Models]]"
+  - "[[Foundational-Logic]]"
+  - "[[Cognitive-Development-Theory]]"
+  - "[[Information-Processing-Models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"
   - "[[Domain-Specific Critical Thinking]]"
-  - "[[Debiasing Interventions]]"
+  - "[[Debiasing-Interventions]]"
   - "[[Metacognitive Instruction Design]]"
   - "[[Epistemic Virtue Development]]"
 

@@ -41,11 +41,11 @@ aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 
 > [!abstract]
 > **Executive Overview**
-> [[Templater]] is the most powerful community plugin for [[obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[Personal Knowledge Base]].
+> [[Templater]] is the most powerful community plugin for [[Obsidian]], enabling dynamic template creation through a custom [[Templating Language]], [[JavaScript]] execution, and [[System Command]] integration. This plugin transforms static [[Markdown]] files into intelligent, context-aware document generators that can manipulate [[Frontmatter]], create files programmatically, interact with the [[Obsidian API]], and automate complex [[workflow]] patterns within your [[Personal-Knowledge-Base]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering every aspect of Templater from novice installation through expert-level [[JavaScript]] scripting. Use the table of contents below for quick navigation, or search for specific functions using [[Wiki-Links]]. Each section includes detailed syntax specifications, practical examples with accurate code, and progressive skill-building from basic to advanced usage.
+> This reference note is organized into 10 major sections covering every aspect of Templater from novice installation through expert-level [[JavaScript]] scripting. Use the table of contents below for quick navigation, or search for specific functions using [[wiki-links]]. Each section includes detailed syntax specifications, practical examples with accurate code, and progressive skill-building from basic to advanced usage.
 
 ## 📑 Table of Contents
 
@@ -66,7 +66,7 @@ aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 
 ### What is Templater?
 
-[[Templater]] is a community plugin for [[obsidian]] that extends the native [[templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
+[[Templater]] is a community plugin for [[Obsidian]] that extends the native [[templates]] functionality by introducing a powerful [[Templating Engine]] based on a custom implementation called [[rusty_engine]]. Unlike Obsidian's core templates plugin (which simply inserts static text), Templater provides dynamic content generation through:
 
 - **Variable Interpolation**: Insert computed values based on file metadata, dates, or custom logic
 - **JavaScript Execution**: Run arbitrary [[JavaScript]] code within templates
@@ -216,7 +216,7 @@ When enabled, automatically triggers [[#tp.file.cursor|tp.file.cursor()]] after 
 Templates that execute automatically when Obsidian launches. Useful for:
 - Initializing daily [[Dashboard]] notes
 - Updating [[MOC]] indices
-- Triggering background [[Automation]] tasks
+- Triggering background [[automation]] tasks
 
 > [!warning]
 > **Startup Performance**
@@ -1609,7 +1609,7 @@ Removes all whitespace before AND after the command.
 
 > [!warning]
 > **Dynamic Commands Are Deprecated**
-> As of Templater v2.0+, dynamic commands (`<%+`) are no longer actively maintained. Use [[dataview]] plugin for live-updating content instead.
+> As of Templater v2.0+, dynamic commands (`<%+`) are no longer actively maintained. Use [[Dataview]] plugin for live-updating content instead.
 
 **Original Purpose**: Commands that re-execute in preview mode
 
@@ -1623,7 +1623,7 @@ Last modified: <%+ tp.file.last_modified_date() %>
 **Why Deprecated**:
 - Caching issues prevent reliable updates
 - Performance problems with large vaults
-- Better alternatives exist ([[dataview]], [[Tracker]])
+- Better alternatives exist ([[Dataview]], [[Tracker]])
 
 **Modern Alternative**:
 Use Dataview inline queries for live-updating metadata:
@@ -2127,7 +2127,7 @@ status: draft
 
 ### Templater + Dataview
 
-Combine Templater's creation power with [[dataview]]'s querying capability.
+Combine Templater's creation power with [[Dataview]]'s querying capability.
 
 **Template Creates Structure, Dataview Fills Content**:
 ```markdown
@@ -2797,7 +2797,7 @@ Aliases: [Templater Plugin, Templater Reference, Obsidian Templater Guide, Templ
 - Obsidian core concepts: [[Frontmatter]], [[Templates]], [[Folders]], [[Daily Notes]], [[Metadata]]
 - Related plugins: [[Dataview]], [[QuickAdd]], [[Custom JS]], [[Natural Language Dates]]
 - Programming concepts: [[JavaScript]], [[Regular Expressions]], [[Async/Await]], [[Promises]], [[Date Objects]]
-- PKM concepts: [[Zettelkasten]], [[MOC]], [[Atomic Notes]], [[Template Systems]], [[Automation Workflows]]
+- PKM concepts: [[Zettelkasten]], [[MOC]], [[Atomic-Notes]], [[Template Systems]], [[Automation Workflows]]
 - File system concepts: [[File Paths]], [[Working Directory]], [[Relative Paths]], [[Absolute Paths]]
 
 Now I'll execute the web searches to gather comprehensive, accurate information.

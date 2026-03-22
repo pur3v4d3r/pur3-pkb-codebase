@@ -31,19 +31,19 @@ production_ready: true
 source: claude-sonnet-4.5
 model_version: claude-sonnet-4-20250514
 related_concepts:
-  - "[[Chain of Thought]]"
+  - "[[Chain-of-Thought]]"
   - "[[Self-Consistency]]"
   - "[[Graph of Thoughts]]"
   - "[[Beam Search]]"
   - "[[Monte Carlo Tree Search]]"
   - "[[Counterfactual Reasoning]]"
   - "[[Prospective Memory]]"
-  - "[[Working Memory]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Working-Memory]]"
+  - "[[Cognitive-Load-Theory]]"
   - "[[Search Algorithms]]"
 prerequisites:
   - "[[Chain of Thought Reasoning]]"
-  - "[[Prompt Engineering Fundamentals]]"
+  - "[[Prompt-Engineering-Fundamentals]]"
   - "[[LLM Architecture Basics]]"
 builds_on:
   - "[[Reasoning Architectures Theory]]"
@@ -65,7 +65,7 @@ builds_on:
 
 [**Tree-of-Thoughts**:: A deliberate problem-solving framework enabling Large Language Models to explore multiple reasoning branches systematically through explicit state space search - mimicking human deliberate thought processes by generating candidate reasoning steps, evaluating their promise toward solutions, and backtracking from unpromising paths via algorithms like Breadth-First Search (BFS) or Depth-First Search (DFS).]**
 
-Tree of Thoughts represents a fundamental advancement in [[LLM Reasoning Architectures]], transforming how language models approach complex problem-solving. Where traditional [[Chain of Thought]] (CoT) reasoning proceeds linearly - committing to each reasoning step as it's generated with no mechanism for reconsidering earlier decisions - ToT introduces **systematic exploration** with **intelligent backtracking**. This architectural shift enables LLMs to tackle problems previously beyond their reach: puzzles requiring strategic planning, creative tasks demanding exploration of diverse approaches, and complex reasoning where initial intuitions frequently lead to dead ends.
+Tree of Thoughts represents a fundamental advancement in [[LLM Reasoning Architectures]], transforming how language models approach complex problem-solving. Where traditional [[Chain-of-Thought]] (CoT) reasoning proceeds linearly - committing to each reasoning step as it's generated with no mechanism for reconsidering earlier decisions - ToT introduces **systematic exploration** with **intelligent backtracking**. This architectural shift enables LLMs to tackle problems previously beyond their reach: puzzles requiring strategic planning, creative tasks demanding exploration of diverse approaches, and complex reasoning where initial intuitions frequently lead to dead ends.
 
 The innovation emerged from research by [[Yao et al. (2023)]] at Princeton and Google DeepMind, who recognized that human problem-solving involves maintaining multiple hypotheses simultaneously, evaluating their promise, and strategically exploring the solution space rather than pursuing a single path to conclusion. Their key insight: by making the LLM's reasoning process explicit as a searchable state space, we can apply classical [[AI Search Algorithms]] like BFS and DFS to systematically explore reasoning possibilities.
 
@@ -74,7 +74,7 @@ The innovation emerged from research by [[Yao et al. (2023)]] at Princeton and G
 >
 > This paradigm shift enables LLMs to exhibit **deliberate problem-solving** characteristics: lookahead, strategic exploration, course correction, and systematic evaluation of alternatives - capabilities absent from reactive, single-path reasoning approaches.
 
-The framework finds its theoretical foundation in [[Cognitive Science]], specifically research on **counterfactual reasoning** and **prospective memory** - the human capacity to simulate future states ("If I take this action, what outcomes result?") and maintain multiple possibilities in [[Working Memory]] for comparison. Where humans naturally engage in this deliberate thought process for complex problems, standard LLM architectures lack explicit support for multi-hypothesis reasoning. ToT provides this missing capability through architectural design.
+The framework finds its theoretical foundation in [[Cognitive-Science]], specifically research on **counterfactual reasoning** and **prospective memory** - the human capacity to simulate future states ("If I take this action, what outcomes result?") and maintain multiple possibilities in [[Working-Memory]] for comparison. Where humans naturally engage in this deliberate thought process for complex problems, standard LLM architectures lack explicit support for multi-hypothesis reasoning. ToT provides this missing capability through architectural design.
 
 <!-- ═══════════════════════════════════════════════════════════════════
      SECTION 1: THEORETICAL FOUNDATIONS
@@ -95,7 +95,7 @@ This capacity manifests in everyday problem-solving: a chess player considers mu
 Tree of Thoughts operationalizes this cognitive process for LLMs. Where standard prompting generates a single reasoning path reactively (each token following from previous tokens without lookahead), ToT explicitly generates multiple candidate next steps (alternative "thoughts"), evaluates each candidate's promise toward the goal through a separate evaluation process, and continues exploration along the most promising paths. This mirrors human deliberate thought more faithfully than reactive generation.
 
 > [!evidence] Empirical Support for Deliberate Thought Processes
-> **[Dual-Process-Theory-Connection**:: Research by [[Daniel Kahneman]] (Thinking, Fast and Slow) distinguishes System 1 (fast, automatic, reactive) from System 2 (slow, deliberate, controlled) cognition. Standard LLM generation resembles System 1 - fast token prediction without explicit planning. ToT implements System 2 characteristics: deliberate exploration, explicit evaluation, strategic planning.]**
+> **[Dual-Process-Theory-Connection**:: Research by [[Daniel-Kahneman]] (Thinking, Fast and Slow) distinguishes System 1 (fast, automatic, reactive) from System 2 (slow, deliberate, controlled) cognition. Standard LLM generation resembles System 1 - fast token prediction without explicit planning. ToT implements System 2 characteristics: deliberate exploration, explicit evaluation, strategic planning.]**
 >
 > Neuroimaging studies by [[Buckner and Carroll (2007)]] demonstrate that prospective planning and mental simulation activate the brain's [[Default Mode Network]], particularly the medial prefrontal cortex and posterior cingulate cortex - regions supporting scenario construction and outcome evaluation. ToT's architecture parallels this neural separation: thought generation (scenario construction) and thought evaluation (outcome assessment) as distinct processes.
 
@@ -592,7 +592,7 @@ IF solution speed more important than optimality:
 
 ## Tree of Thoughts vs. Chain of Thought: Paradigm Comparison
 
-Understanding when to use Tree of Thoughts versus [[Chain of Thought]] requires analyzing their fundamental architectural differences and performance characteristics across problem types.
+Understanding when to use Tree of Thoughts versus [[Chain-of-Thought]] requires analyzing their fundamental architectural differences and performance characteristics across problem types.
 
 ### Architectural Paradigm Differences
 
@@ -637,7 +637,7 @@ Multiple thoughts generated at each state, evaluated for promise, promising bran
 **3. Cognitive Analogy**:
 
 - **CoT**: [[System 1 Thinking]] - fast, automatic, reactive
-- **ToT**: [[System 2 Thinking]] - slow, deliberate, controlled
+- **ToT**: [[System-2-Thinking]] - slow, deliberate, controlled
 
 **4. Computational Cost**:
 
@@ -1411,7 +1411,7 @@ Low ROI (<0.1): Avoid ToT
 **Conditional Use Cases** (evaluate cost-benefit):
 
 âš ï¸ **Complex math problems**: May benefit but check if [[Program of Thoughts]] more cost-effective
-âš ï¸ **Multi-step reasoning**: If steps are truly independent, [[Chain of Thought]] + validation may suffice
+âš ï¸ **Multi-step reasoning**: If steps are truly independent, [[Chain-of-Thought]] + validation may suffice
 âš ï¸ **Content generation**: Only if constraints genuinely tight
 
 **Not Recommended** (avoid ToT):
@@ -1755,7 +1755,7 @@ def tot_self_consistency_hybrid(problem, k_candidates=3, sc_samples=5):
 
 **Depth Potential**: Deep 3000-4000 word treatment covering: (1) Classic cognitive architectures (SOAR, ACT-R, Sigma), (2) Working memory models and capacity constraints, (3) Problem space theory, (4) Goal hierarchies and subgoaling, (5) Chunking and schema formation, (6) Mapping ToT components to cognitive functions, (7) Implications for AGI design, (8) Cognitive limitations still unaddressed by current LLM architectures.
 
-**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[Cognitive Science]], [[Working Memory]], [[Problem Solving]], [[Schema Theory]], [[Dual Process Theory]], and [[Human-AI Cognition Alignment]].
+**Knowledge Graph Role**: Provides theoretical cognitive science foundation for ToT, connecting to [[Cognitive-Science]], [[Working-Memory]], [[Problem Solving]], [[Schema-Theory]], [[Dual-Process-Theory]], and [[Human-AI Cognition Alignment]].
 
 **Priority**: **Medium** - Valuable theoretical grounding but less immediately practical than implementation-focused topics. Important for researchers seeking deeper understanding of *why* ToT works.
 
@@ -1779,7 +1779,7 @@ def tot_self_consistency_hybrid(problem, k_candidates=3, sc_samples=5):
 
 **Depth Potential**: Deep 2500-3000 word exploration including: (1) Prompt engineering for evaluation, (2) Classification vs. scoring approaches, (3) Multi-criteria evaluation (feasibility, goal distance, constraint satisfaction), (4) Training learned evaluators, (5) Calibration and confidence estimation, (6) Evaluation caching strategies, (7) Domain-specific evaluation patterns (puzzles, code, creative), (8) Evaluation failure modes and mitigations, (9) Benchmarking evaluator quality.
 
-**Knowledge Graph Role**: Focuses on ToT's most critical component, connecting to [[Prompt Engineering]], [[Heuristic Functions]], [[Neural Architecture Search]], [[Calibration]], [[Quality Assessment]], and [[Domain-Specific Optimization]].
+**Knowledge Graph Role**: Focuses on ToT's most critical component, connecting to [[Prompt-Engineering]], [[Heuristic Functions]], [[Neural Architecture Search]], [[Calibration]], [[Quality Assessment]], and [[Domain-Specific Optimization]].
 
 **Priority**: **High** - Evaluator design is ToT's bottleneck and least understood component. Comprehensive treatment would significantly improve practical ToT implementations.
 

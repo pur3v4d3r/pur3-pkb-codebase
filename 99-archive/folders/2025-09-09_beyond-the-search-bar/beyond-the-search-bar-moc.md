@@ -44,7 +44,7 @@ This-Project's-MOC
 - [[The SIFT Method of Lateral Reading]]
 - [[Ultimate SEO Cheat Sheet Across Categories]]
 - [[Beyond the Search Bar MOC]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization]]
 - [[The Toulmin Model]]
 - [[The Main Goal of My Notes]]
 - 

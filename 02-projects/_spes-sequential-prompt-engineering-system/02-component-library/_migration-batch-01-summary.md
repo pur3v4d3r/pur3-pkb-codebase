@@ -96,7 +96,7 @@ created: 2025-12-17
 **Source**: `prompt-component-instruction-generate-dataview-inline-queries-reference-v2.0.0-2025121220.md`
 **Target**: `atomic/instructions/dataview-inline-queries-generation-v2.0.0.md`
 **Priority**: High (critical for intelligence layer)
-**Concepts**: [[Dataview]], [[DataviewJS]], [[Query Generation]], [[Automation]]
+**Concepts**: [[Dataview]], [[DataviewJS]], [[Query Generation]], [[automation]]
 **Synergies**: [[format-inline-field-definitions-v1.0.0]]
 
 #### 4. PKB Research Methodology v1.0.0
@@ -128,7 +128,7 @@ created: 2025-12-17
 **Source**: `format_mandatory-exspansion-section_v1.0.0_20251112031258.md`
 **Target**: `atomic/output-formats/mandatory-expansion-section-v1.0.0.md`
 **Priority**: High (knowledge graph seeding)
-**Concepts**: [[Expansion Section]], [[Knowledge Graph]], [[Topic Discovery]]
+**Concepts**: [[Expansion Section]], [[Knowledge-Graph]], [[Topic Discovery]]
 **Synergies**: [[claude-system-instructions-v2.0.0]]
 
 #### 9. Generate Reference: Stoic Terms v1.0.0
@@ -152,7 +152,7 @@ created: 2025-12-17
 **Target**: `composite/prompt-assemblies/claude-code-pkb-system-v1.0.0.md`
 **Priority**: Critical (master system for Claude Code workspace)
 **Type**: Sequential-chain
-**Concepts**: [[Claude Code]], [[Multi-Mode Operation]], [[Vault Integration]]
+**Concepts**: [[Claude-Code]], [[Multi-Mode Operation]], [[Vault Integration]]
 **Prerequisites**: [[claude-system-instructions-v2.0.0]]
 
 #### 12. Gemini API System v1.0.0
@@ -181,7 +181,7 @@ created: 2025-12-17
 **Target**: `composite/prompt-assemblies/advanced-task-capture-quickadd-v1.0.0.md`
 **Priority**: Low (plugin-specific workflow)
 **Type**: Sequential-chain
-**Concepts**: [[QuickAdd]], [[Task Management]], [[Capture Workflow]]
+**Concepts**: [[QuickAdd]], [[Task-Management]], [[Capture Workflow]]
 
 ---
 

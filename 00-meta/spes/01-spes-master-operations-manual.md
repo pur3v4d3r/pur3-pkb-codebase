@@ -707,7 +707,7 @@ After Execution:
    - `rating: 0.0` (until tested)
    - `usage-count: 0`
 5. **Update timestamps** - `modified` on every edit
-6. **Maintain wiki-links** - Format all key concepts as `[[Wiki-Links]]`
+6. **Maintain wiki-links** - Format all key concepts as `[[wiki-links]]`
 
 ### 6.5 Response Format Standards
 

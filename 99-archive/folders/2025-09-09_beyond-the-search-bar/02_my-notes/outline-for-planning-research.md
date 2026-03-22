@@ -35,7 +35,7 @@ The following annotated table provides a structured template for developing a co
 [[Cheat Sheet for Academic Databases]]
 [[De-Duplication of Search Results]]
 [[The Main Goal of My Notes]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 [[Function of Notes is Important]]
 [[Integrated Review System's for Note Taking]]
 [[Linear and Structured Methods for Note Taking]]

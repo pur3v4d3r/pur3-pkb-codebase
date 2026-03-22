@@ -1660,7 +1660,7 @@ related-mocs: [[Maps of Content/Prompt Engineering MOC]]
 ## Variations and Alternatives
 [Variations:: ]<% await tp.system.prompt("List any variations or alternatives:", "") %>
 ## Related Prompts
-[Related-Prompts:: ]<% await tp.system.prompt("Link to related prompts (use [[Note Name]] format):", "") %>
+[Related-Prompts:: ]<% await tp.system.prompt("Link to related prompts (use [[Note-Name]] format):", "") %>
 ## Performance Notes
 [Performance-Notes:: ]<% await tp.system.prompt("Any notes on performance or limitations?", "") %>
 ## Revision History
@@ -1749,7 +1749,7 @@ related-mocs: [[Maps of Content/Claude Projects MOC]]
 ## Risks and Mitigations
 [Risks:: ]<% await tp.system.prompt("Identify potential risks and mitigations:", "") %>
 ## Related Projects
-[Related-Projects:: ]<% await tp.system.prompt("Link to related projects (use [[Note Name]] format):", "") %>
+[Related-Projects:: ]<% await tp.system.prompt("Link to related projects (use [[Note-Name]] format):", "") %>
 ## Progress Tracking
 ### Milestones
 [Milestones:: ]<% await tp.system.prompt("List key milestones:", "") %>

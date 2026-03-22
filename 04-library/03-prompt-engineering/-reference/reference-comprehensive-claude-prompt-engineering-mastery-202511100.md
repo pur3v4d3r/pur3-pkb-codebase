@@ -18,7 +18,7 @@ link-related:
 
 # 🤖 Claude AI: Comprehensive Reference & Prompt Engineering Mastery
 
-Aliases: [[Claude LLM]], [[Anthropic Claude]], [[Claude Prompt Engineering]], [[Claude AI Reference]]
+Aliases: [[Claude LLM]], [[Anthropic-Claude]], [[Claude Prompt Engineering]], [[Claude AI Reference]]
 
 > [!comprehensive-reference] 📚 Comprehensive-Reference
 > - **Generated**:: 2025-11-10
@@ -105,7 +105,7 @@ Claude's architecture incorporates several design elements that directly influen
 ## 🎯 Prompt Engineering Theory for Claude
 
 > [!definition]
-> - **Key-Term**:: [[Prompt Engineering]]
+> - **Key-Term**:: [[Prompt-Engineering]]
 > - **Definition**:: The systematic practice of designing inputs (prompts) to language models to elicit desired outputs with maximum reliability, specificity, and quality. For Claude specifically, prompt engineering leverages the model's architectural preferences for structure, explicit reasoning, and constitutional alignment to achieve expert-level performance on complex tasks.
 
 ### Foundational Principles
@@ -118,7 +118,7 @@ Prompt engineering for Claude operates on fundamentally different principles tha
 
 **Principle 3: Constitutional Alignment is a Feature**. Claude's [[Constitutional AI]] training means it actively seeks to understand the *values* and *goals* behind requests. Prompts that explicitly state desired outcomes, constraints, and success criteria align with this training, producing more reliable results. This is why prompts that begin with "Your goal is to…" or "The user needs…" often work better than purely imperative instructions.
 
-**Principle 4: Show, Don't Just Tell**. Claude's training incorporates extensive [[few-shot learning]] capabilities. Providing examples of desired output, even a single high-quality example, dramatically improves Claude's ability to match style, format, and quality. This is particularly important for specialized formats or domain-specific conventions.
+**Principle 4: Show, Don't Just Tell**. Claude's training incorporates extensive [[Few-Shot-Learning]] capabilities. Providing examples of desired output, even a single high-quality example, dramatically improves Claude's ability to match style, format, and quality. This is particularly important for specialized formats or domain-specific conventions.
 
 **Principle 5: Think Step-by-Step is Native**. Claude is specifically trained to excel at [[Chain-of-Thought]]. Prompts that explicitly request intermediate reasoning steps (`"Think through this step-by-step"` or `"Show your reasoning"`) don't just make the thinking visible—they actively improve the quality of the final answer by preventing reasoning shortcuts.
 
@@ -550,7 +550,7 @@ Your response must:
 
 **Purpose**: Shows Claude concrete instances of desired input-output patterns, dramatically improving quality and consistency.
 
-**Why It Works**: Claude's [[few-shot learning]] capabilities are exceptional. Examples create pattern templates that Claude matches with high fidelity.
+**Why It Works**: Claude's [[Few-Shot-Learning]] capabilities are exceptional. Examples create pattern templates that Claude matches with high fidelity.
 
 **Optimal Phrasing Patterns**:
 
@@ -1392,7 +1392,7 @@ Systematically improve the prompt based on test results.
 
 ### The Chain-of-Thought Prompting Pattern
 
-[[Chain-of-Thought prompting]] is particularly effective for Claude and should be incorporated whenever tasks involve reasoning, analysis, or multi-step problem-solving.
+[[Chain-of-Thought-Prompting]] is particularly effective for Claude and should be incorporated whenever tasks involve reasoning, analysis, or multi-step problem-solving.
 
 **Basic CoT Pattern**:
 
@@ -3172,7 +3172,7 @@ When best practices evolve, update components once rather than every prompt.
 > **Synthesis Approach**:
 > - Systematic analysis of successful prompting patterns
 > - Comparative evaluation of different prompting methodologies
-> - Integration of general [[Prompt Engineering]] principles with Claude-specific optimizations
+> - Integration of general [[Prompt-Engineering]] principles with Claude-specific optimizations
 > - Practical testing and validation of recommended techniques
 > 
 > **Confidence Levels**:
@@ -3358,7 +3358,7 @@ The document should follow this hierarchy:
 │
 └── Cross-referencing Strategy
     ├── Internal links between prompting components and examples
-    ├── Links to related concepts: [[Chain-of-Thought]], [[Few-Shot Learning]], [[Retrieval-Augmented Generation]]
+    ├── Links to related concepts: [[Chain-of-Thought]], [[Few-Shot-Learning]], [[Retrieval-Augmented-Generation]]
     └── Connect methodologies to specific use cases
 
 Key organizational decisions:

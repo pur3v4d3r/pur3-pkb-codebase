@@ -64,13 +64,13 @@ Quick Referenc for Reference Type:
 [{Term/Theory/Person}].md
 	- Example: [[Constructivist Epistemology]]
 	- Example: [[Curve Of Forgetting]]
-	- Example: [[Metacognitive Awareness]]
+	- Example: [[metacognitive-awareness]]
 	- Example: [[Strategic Planning]]
-	- Example: [[Socratic Method]]
+	- Example: [[Socratic-Method]]
 	- Example: [[The Law Of Cognitive Miserliness]]
 	- Example: [[Self Regulation Theory]]
 	- Example: [[Getting Things Done (GTD)]]
-	- Example: [[Knowledge Management]]
+	- Example: [[Knowledge-Management]]
 	- Example: [[Stock Of Abstract Conceptualizations]]
 	  
 - Atmoic/Evergreen Notes

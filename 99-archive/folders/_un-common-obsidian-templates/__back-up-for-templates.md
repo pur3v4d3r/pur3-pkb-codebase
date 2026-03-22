@@ -267,7 +267,7 @@ project_link: [[<% await tp.system.prompt("Link to main project note name") %>]]
 *Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks Plugin]] metadata and [[dataview]] calculations for real-time progress visualization.
+**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks-Plugin]] metadata and [[Dataview]] calculations for real-time progress visualization.
 
 **Key Features:**
 - Automatic sprint duration calculation (default 2-week sprints)
@@ -379,8 +379,8 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 ### New Knowledge Acquired
 
 > [!example] Key Concepts Learned
-> - **[[Concept 1]]**: Brief description and why it matters
-> - **[[Concept 2]]**: Brief description and source
+> - **[[Concept-1]]**: Brief description and why it matters
+> - **[[Concept-2]]**: Brief description and source
 > - **[[Concept 3]]**: Application or next step
 
 ### Skills Practiced
@@ -497,8 +497,8 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 - Modify habit tracking categories to match your personal goals
 - Adjust time allocation categories for your work context
 - Add domain-specific goal sections (creative projects, health metrics, financial)
-- Integrate with [[Day Planner]] for detailed daily time blocking
-- Connect to [[dataview]] queries for automated habit statistics across multiple weeks
+- Integrate with [[Day-Planner]] for detailed daily time blocking
+- Connect to [[Dataview]] queries for automated habit statistics across multiple weeks
 
 ---
 
@@ -1230,7 +1230,7 @@ State the idea in one clear sentence.
 - 
 
 ## Links out
-- [[Related note]]
+- [[Related-Note]]
 -
 ```
 
@@ -1347,7 +1347,7 @@ related:
 ---
 
 > [!the-purpose]
-> **Literature Note** - This is a Literature Note create by me Pur3v4d3r, I created this note during Active Reading. The point is to compose a note that entails all my thoughts during the reading of any type of reading material. I will then take this not and begin to [[Progressive Summarization]] on this note until I reach a point I feel its ready to be turned into either a #Permanent-Note(s) or an #Atomic-Note(s).
+> **Literature Note** - This is a Literature Note create by me Pur3v4d3r, I created this note during Active Reading. The point is to compose a note that entails all my thoughts during the reading of any type of reading material. I will then take this not and begin to [[Progressive-Summarization]] on this note until I reach a point I feel its ready to be turned into either a #Permanent-Note(s) or an #Atomic-Note(s).
 	
 # Random Thoughts:
 	

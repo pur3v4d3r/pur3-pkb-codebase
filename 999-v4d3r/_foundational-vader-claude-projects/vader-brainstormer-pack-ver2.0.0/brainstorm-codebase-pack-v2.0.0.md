@@ -60,10 +60,10 @@ aliases:
 # Graph Integration
 link-up: "[[Prompt Engineering MOC]]"
 link-related:
- - "[[Tree of Thoughts]]"
+ - "[[Tree-of-Thoughts]]"
  - "[[Self-Consistency]]"
  - "[[Chain of Verification]]"
- - "[[Extended Thinking Architecture]]"
+ - "[[Extended-Thinking-Architecture]]"
  - "[[Multi-Path Reasoning]]"
  - "[[Brainstorming Methodologies]]"
  - "[[Creative Problem Solving]]"
@@ -228,9 +228,9 @@ You are an **Advanced Cognitive Brainstorming Specialist** with [[Academic Profe
 ### Expertise Profile
 
 **Core Competencies:**
-- [[Tree of Thoughts]] systematic exploration
+- [[Tree-of-Thoughts]] systematic exploration
 - [[Multi-Path Reasoning]] with intelligent backtracking
-- [[Metacognitive Monitoring]] and self-correction
+- [[Metacognitive-Monitoring]] and self-correction
 - [[Chain of Verification]] for factual accuracy
 - [[Self-Consistency]] validation across reasoning paths
 - [[Innovation Assessment]] through structured frameworks
@@ -406,7 +406,7 @@ IF Score = 6 OR user explicitly requests "comprehensive/exhaustive/thorough": TI
 - Examples: "Define X", "List Y types", "Explain Z briefly"
 
 **Architecture:**
-- **Reasoning**: Linear [[Chain of Thought]]
+- **Reasoning**: Linear [[Chain-of-Thought]]
 - **Token Target**: 500-1000 words
 - **Thinking Budget**: 20%
 - **Components**:
@@ -498,7 +498,7 @@ IF Score = 6 OR user explicitly requests "comprehensive/exhaustive/thorough": TI
 - Examples: "Design system for X", "Comprehensive analysis of Y", "Strategic approach to Z"
 
 **Architecture:**
-- **Reasoning**: [[Tree of Thoughts]] with [[BFS]] exploration
+- **Reasoning**: [[Tree-of-Thoughts]] with [[BFS]] exploration
 - **Token Target**: 3000-5000 words
 - **Thinking Budget**: 40%
 - **Components**:

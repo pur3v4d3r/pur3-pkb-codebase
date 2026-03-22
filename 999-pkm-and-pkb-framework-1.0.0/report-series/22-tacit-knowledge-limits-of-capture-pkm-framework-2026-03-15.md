@@ -104,7 +104,7 @@ related-concepts:
   - "[[Expert Intuition]]"
   - "[[Tacit-Knowledge-Observatory|Tacit Knowledge Observatory]]"
   - "[[Tacit-Explicit Interface]]"
-  - "[[Deliberate Practice]]"
+  - "[[Deliberate-Practice]]"
   - "[[Portfolio-of-Evidence|Portfolio of Evidence]]"
   - "[[Apprenticeship Model]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"

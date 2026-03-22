@@ -217,7 +217,7 @@ Prompts to help you make sense of raw information and give it a useful structure
     3.  **Structure Each Note:** Each atomic note must contain:
         *   **A Title:** A clear, descriptive title formatted as a wikilink (e.g., `## [[Title of Atomic Note]]`).
         *   **The Content:** A paragraph that explains the single idea in detail, rephrased in your own words for clarity.
-        *   **Potential Links:** A list of 2-3 other concepts (from the original note or related ideas) that this new note could link to, formatted as wikilinks (e.g., `- [[Related Concept]]`).
+        *   **Potential Links:** A list of 2-3 other concepts (from the original note or related ideas) that this new note could link to, formatted as wikilinks (e.g., `- [[Related-Concept]]`).
 
     Use Markdown separators (`---`) between each generated atomic note block.
     ```

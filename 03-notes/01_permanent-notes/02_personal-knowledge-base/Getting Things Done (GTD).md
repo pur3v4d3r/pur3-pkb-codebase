@@ -26,7 +26,7 @@ link-related:
   - "[[Strategic Planning]]"
   - "[[Motivational Beliefs]]"
   - "[[Planning]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory]]"
   - "[[Getting Things Done (GTD)]]"
 maturity: seedling
 confidence: speculative
@@ -48,7 +48,7 @@ review-priority: medium
 
 > [!key-claim]
 >  **GTD's Cognitive Liberation**
-> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed Cognition]] or [[Extended Mind]] theory.
+> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed-Cognition]] or [[Extended Mind]] theory.
 
 > [!use-cases-and-examples]
 > # **PKB Application of GTD**

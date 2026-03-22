@@ -83,7 +83,7 @@ If Luhmann gave us the "how," investor Charlie Munger, Vice Chairman of Berkshir
 > [!quote]
 > "You can't really know anything if you just remember isolated facts. If the facts don't hang together on a latticework of theory, you don't have them in a usable form... You've got to have models in your head. And you've got to array your experience—both vicarious and direct—on this latticework of models." [^1]
 
-Munger's genius was in advocating for a *multi-disciplinary* approach. To understand a complex problem, one must be able to draw on models from physics (e.g., [[Critical Mass]]), biology (e.g., [[Natural Selection]]), economics (e.g., [[Opportunity Cost]]), and psychology (e.g., [[Confirmation Bias]]).
+Munger's genius was in advocating for a *multi-disciplinary* approach. To understand a complex problem, one must be able to draw on models from physics (e.g., [[Critical Mass]]), biology (e.g., [[Natural Selection]]), economics (e.g., [[Opportunity Cost]]), and psychology (e.g., [[Confirmation-Bias]]).
 
 The traditional, siloed PKM (a "folder for Psychology," a "folder for Economics") makes this *impossible*. It organizes knowledge by its *source* (the academic discipline) rather than its *utility* (the problem it solves). Our foundry must be, by design, *anti-disciplinary*, allowing a model from physics to live right next to one from philosophy.
 
@@ -164,7 +164,7 @@ To build a foundry, we must first understand the physics that governs it. The st
 >
 > **Why this is critical:**
 >
->   - **For Integration:** A top-down folder system (e.g., `Models > Psychology > Biases > ...`) is rigid and *prevents* cross-disciplinary links. An emergent MOC, however, is just another note. A note for `[[Confirmation Bias]]` can simultaneously live in the `[[MOC - Cognitive Biases]]` *and* the `[[MOC - Investing Checklist]]`. It's fluid.
+>   - **For Integration:** A top-down folder system (e.g., `Models > Psychology > Biases > ...`) is rigid and *prevents* cross-disciplinary links. An emergent MOC, however, is just another note. A note for `[[Confirmation-Bias]]` can simultaneously live in the `[[MOC - Cognitive Biases]]` *and* the `[[MOC - Investing Checklist]]`. It's fluid.
 >   - **For Refinement:** This approach allows your system's structure to *evolve* with your understanding. You can't predict what connections you'll find. An emergent structure *adapts* to your insights; a rigid one *resists* them.
 
 > [!definition]
@@ -245,11 +245,11 @@ This is where the foundry *does its job*. We have two key structures for this:
 
 As discussed, this is a note that curates other notes.
 
-  - **How it works:** After you have 5-10 "atomic" notes on a similar topic (e.g., you've created `[[Confirmation Bias]]`, `[[Availability Heuristic]]`, `[[Sunk Cost Fallacy]]`), you *discover* a theme. You then create a *new note* called `[[MOC - Cognitive Biases]]`.
+  - **How it works:** After you have 5-10 "atomic" notes on a similar topic (e.g., you've created `[[Confirmation-Bias]]`, `[[Availability-Heuristic]]`, `[[Sunk Cost Fallacy]]`), you *discover* a theme. You then create a *new note* called `[[MOC - Cognitive Biases]]`.
   - **What it looks like:** This new note is just a structured list of links:
       - `## Biases of Belief`
-          - `[[Confirmation Bias]]`
-          - `[[Availability Heuristic]]`
+          - `[[Confirmation-Bias]]`
+          - `[[Availability-Heuristic]]`
       - `## Biases of Action`
           - `[[Sunk Cost Fallacy]]`
   - **Goal Achieved:** This *is* **integration**. You are "arraying your models on a latticework." You are building the "curriculum" of your own mind.

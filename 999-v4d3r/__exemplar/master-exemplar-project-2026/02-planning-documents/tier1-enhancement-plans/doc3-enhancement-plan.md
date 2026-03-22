@@ -259,7 +259,7 @@ class ProductionCostAnalyzer:
 - [[Production ML Systems]] - broader deployment context
 - [[Cost Optimization Strategies]] - recurring theme
 - [[Infrastructure as Code]] - for deployment patterns
-- [[API Design Patterns]] - for architecture interfaces
+- [[API-Design-Patterns]] - for architecture interfaces
 - [[System Reliability Engineering]] - for production operations
 
 ---

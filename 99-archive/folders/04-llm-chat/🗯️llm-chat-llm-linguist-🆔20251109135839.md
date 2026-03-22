@@ -67,7 +67,7 @@ A high-fidelity prompt is a composite structure built upon four essential sectio
 3.  **[[Goal and Task]] (The Cognitive Load):** The core instruction defining the action the model must execute. This should be a single, clear, and unambiguous mandate that specifies the desired cognitive outcome (e.g., *Analyze*, *Synthesize*, *Generate a report*).
 
     > [\!example] High-Fidelity Task
-    > *Instead of:* "Tell me about Chain-of-Thought." *Use:* "Analyze the operational mechanics and theoretical underpinnings of [[Chain-of-Thought Prompting]] and synthesize its optimal use cases for PKB automation, providing a [[Mermaid Diagram]] of the workflow."
+    > *Instead of:* "Tell me about Chain-of-Thought." *Use:* "Analyze the operational mechanics and theoretical underpinnings of [[Chain-of-Thought-Prompting]] and synthesize its optimal use cases for PKB automation, providing a [[Mermaid Diagram]] of the workflow."
 
 4.  **[[Input Data and Examples]] (The Grounding):** The final section, providing the raw data, source material, or few-shot examples that the model must process. This **grounds** the model's response in specific, provided information, preventing hallucination and ensuring relevance.
 
@@ -84,7 +84,7 @@ The Gemini architecture is highly capable of sophisticated **instruction followi
   * **Preference for Structure:** Gemini excels when output structure is defined using clear formatting rules like explicit Markdown headers, numbered steps, or specific delimiters.
 
     > [\!tip] Gemini Architectural Preference
-    > Use **nested, specific instructions** (e.g., "First, perform A. Then, in the second section labeled 'Analysis,' discuss B.") Gemini will adhere rigorously to this defined structure, making it ideal for [[Report Generation]] and [[PKB Automation]].
+    > Use **nested, specific instructions** (e.g., "First, perform A. Then, in the second section labeled 'Analysis,' discuss B.") Gemini will adhere rigorously to this defined structure, making it ideal for [[Report Generation]] and [[PKB-Automation]].
 
   * **Role and Constraints:** Gemini treats the system prompt (if accessible) and the initial **[[Role Definition]]** as its most authoritative source. It is highly obedient to constraints, even complex ones, provided they are clearly enumerated.
 

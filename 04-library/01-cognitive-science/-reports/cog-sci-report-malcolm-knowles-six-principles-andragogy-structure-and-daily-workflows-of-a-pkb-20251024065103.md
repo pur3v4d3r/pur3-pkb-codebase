@@ -181,7 +181,7 @@ We now arrive at the core methodology. Having established the "why"—the six pr
         - `tags: #lit_note`
         - `why_this_matters: [This concept is crucial for my Q1 Marketing Strategy project because...]`
         - `---`
-    - **Contextual Linking:** When you link, explain *why*. Don't just write `[[Cognitive Bias]]`. Write: `This marketing plan fails to account for [[Cognitive Bias|the user's confirmation bias]]...`
+    - **Contextual Linking:** When you link, explain *why*. Don't just write `[[Cognitive-Bias]]`. Write: `This marketing plan fails to account for [[Cognitive-Bias|the user's confirmation bias]]...`
 - **Workflow (The Habit):**
     - **The "Relevance Triage":** When capturing a "fleeting note," your first step is triage. Ask: "Is this interesting, or is it *useful*?" If it's only interesting, put it in a "Curiosities" inbox. If it's *useful*, immediately link it to the project or problem it serves (e.g., `[[Project: Q1 Marketing Strategy]]`). This workflow stops the "hoarding" of irrelevant facts.
 
@@ -410,7 +410,7 @@ This synthesis of andragogy and Personal Knowledge Base technology is nascent, a
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 > 1. `[[Andragogy]]`
 > 1. `[[Problem-Centered Learning]]`
-> 1. `[[Cognitive Scaffolding]]`
+> 1. `[[Cognitive-Scaffolding]]`
 
 > [!question]
 >

@@ -29,8 +29,8 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**: [[Automation]]
-> - [**Definition**: As [[schemas become established through practice and are repeatedly retrieved and applied, they undergo [[Automation]]—a process whereby their activation requires progressively less working memory capacity and conscious attention.]
+> - **Key-Term**: [[automation]]
+> - [**Definition**: As [[schemas become established through practice and are repeatedly retrieved and applied, they undergo [[automation]]—a process whereby their activation requires progressively less working memory capacity and conscious attention.]
 
 
 

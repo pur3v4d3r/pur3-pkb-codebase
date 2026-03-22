@@ -218,7 +218,7 @@ extraction_summary:
 #### 14. [DEFINITION] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988) *(Line 216)*
 
 > [!definition] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988)
-> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit Theory of Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
+> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit-Theory-of-Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
 
 #### 15. [DEFINITION] Cognitive Reappraisal (Gross, 1998; Process Model of Emotion Regulation) *(Line 219)*
 
@@ -257,7 +257,7 @@ extraction_summary:
 #### 21. [EVIDENCE] The Competence Need Paradox: Challenge vs. Incompetence (Baumeister & Tice, 1985; Deci, Koestner & Ryan, 1999) *(Line 268)*
 
 > [!evidence] The Competence Need Paradox: Challenge vs. Incompetence (Baumeister & Tice, 1985; Deci, Koestner & Ryan, 1999)
-> Research on need satisfaction and challenge calibration finds a non-linear relationship between difficulty and competence need satisfaction. Too easy (boredom quadrant in CVT: low challenge → low perceived competence need activation → deactivating positive or negative emotion). Too hard with uncontrollability (incompetence quadrant: high challenge + low perceived control → need frustration → anxiety/shame). The optimal zone — high challenge with perceived controllability — produces what [[Mihaly Csikszentmihalyi]]'s [[Flow Theory]] would recognize as the preconditions for flow: a state of optimal engagement where skill and challenge are matched and the organism is operating at its full capability. PKB design implications follow directly: notes and review systems should be calibrated to maintain the challenge–competence balance, not simply to maximize retrieval accuracy.
+> Research on need satisfaction and challenge calibration finds a non-linear relationship between difficulty and competence need satisfaction. Too easy (boredom quadrant in CVT: low challenge → low perceived competence need activation → deactivating positive or negative emotion). Too hard with uncontrollability (incompetence quadrant: high challenge + low perceived control → need frustration → anxiety/shame). The optimal zone — high challenge with perceived controllability — produces what [[Mihaly-Csikszentmihalyi]]'s [[Flow-Theory]] would recognize as the preconditions for flow: a state of optimal engagement where skill and challenge are matched and the organism is operating at its full capability. PKB design implications follow directly: notes and review systems should be calibrated to maintain the challenge–competence balance, not simply to maximize retrieval accuracy.
 
 #### 22. [TENSION-IDENTIFIED] SDT's Competence Need vs. Stoic Voluntary Hardship *(Line 271)*
 
@@ -561,12 +561,12 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Emotional Regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
-- [[Flow Theory]]
+- [[Flow-Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Implicit Theory of Intelligence]]
+- [[Implicit-Theory-of-Intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
 - [[Learned-Helplessness|Learned Helplessness]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
@@ -598,13 +598,13 @@ extraction_summary:
 | 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
 | 16 | [[Reinhard Pekrun]] | — | — | Pekrun's Control-Value Theory of Acad... | 195 |
 | 17 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
-| 18 | [[Implicit Theory of Intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
+| 18 | [[Implicit-Theory-of-Intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
 | 19 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
 | 20 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | The Evidence for Control-Value Theory | 239 |
 | 21 | [[Epistemic-Emotions|Epistemic Emotions]] | — | — | The Evidence for Control-Value Theory | 246 |
 | 22 | [[Information Architecture Meets Cognitive Architecture]] | — | — | The Evidence for Control-Value Theory | 249 |
-| 23 | [[Mihaly Csikszentmihalyi]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
-| 24 | [[Flow Theory]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
+| 23 | [[Mihaly-Csikszentmihalyi]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
+| 24 | [[Flow-Theory]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
 | 25 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | How Academic Emotions Are Actually Ge... | 291 |
 | 26 | [[Autonomy-Need|Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
 | 27 | [[Competence-Need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
@@ -653,12 +653,12 @@ extraction_summary:
 - [[Educational-Psychology|Educational Psychology]]
 - [[Emotional Regulation]]
 - [[Epistemic-Emotions|Epistemic Emotions]]
-- [[Flow Theory]]
+- [[Flow-Theory]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
-- [[Implicit Theory of Intelligence]]
+- [[Implicit-Theory-of-Intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
 - [[Learned-Helplessness|Learned Helplessness]]
-- [[Mihaly Csikszentmihalyi]]
+- [[Mihaly-Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
@@ -715,11 +715,11 @@ extraction_summary:
 - [[Post-Traumatic Growth]]
 - [[Adversity-Activated Development]]
 - [[Eudaimonia]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Amor Fati]]
 - [[Stoic Sage]]
 - [[Helplessness Attribution]]
-- [[Locus of Control]]
+- [[Locus-of-Control]]
 - [[Self-Efficacy]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[PKM Design Principles]]

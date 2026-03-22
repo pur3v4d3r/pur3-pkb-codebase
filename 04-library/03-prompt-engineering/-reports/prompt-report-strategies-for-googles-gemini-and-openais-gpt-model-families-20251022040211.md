@@ -483,7 +483,7 @@ We know that prompt engineering is a "new 21st-century skill", but we have no id
 >
 > Identify three key terms or concepts from this article. Write your own definition for each and create a new note to link them back to this one.
 >
-> 1.  `[[Prompt Engineering]]`
+> 1.  `[[Prompt-Engineering]]`
 > 1.  `[[In-Context Learning (Few-Shot Prompting)]]`
 > 1.  `[[Chain-of-Thought (CoT) Reasoning]]`
 

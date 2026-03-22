@@ -20,15 +20,15 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
   - "[[Transfer-of-Learning]]"
   - "[[Far-Transfer]]"
-  - "[[Schema Theory]]"
+  - "[[Schema-Theory]]"
 knowledge_level: advanced
 tags:
   - prompt-engineering
@@ -95,16 +95,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 extends:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -116,14 +116,14 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Comparative Synthesis Report Prompt]]"
   - "[[Dialectical Re-Examination Report Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Dialectical Re-Examination Report Generator v1.0]]"
   - "[[Comparative Synthesis Report Generator v1.0]]"
@@ -430,7 +430,7 @@ Execute in `<thinking>` blocks during report planning:
 
 ### Schema Activation Protocol (NEW in v1.1)
 
-[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[Advance-Organizer]] theory (Ausubel, 1960) and [[Schema Theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
+[**Schema-Activation-Protocol**:: Prior-learning activation at the opening of every report, grounded in [[Advance-Organizer]] theory (Ausubel, 1960) and [[Schema-Theory]] (Bartlett, 1932; Piaget). By prompting the reader to explicitly articulate their current understanding before encountering new material, the protocol creates a cognitive anchor that (1) activates relevant prior knowledge structures, (2) provides a baseline for tracking learning, and (3) makes the reader's assumptions visible so they can be examined rather than invisibly shaping interpretation.]
 
 Place the following at the opening of Phase I, before any analytical content:
 
@@ -477,7 +477,7 @@ Place the following at the opening of Phase I, before any analytical content:
 
 ### Modality 3: Calibration Exercises
 
-**Purpose**: Help the reader assess and recalibrate their confidence. Research on [[Metacognitive Awareness|metacognition]] consistently shows overestimation of comprehension.
+**Purpose**: Help the reader assess and recalibrate their confidence. Research on [[metacognitive-awareness|metacognition]] consistently shows overestimation of comprehension.
 
 **Placement**: After particularly complex or dense sections. 1-2 per report.
 

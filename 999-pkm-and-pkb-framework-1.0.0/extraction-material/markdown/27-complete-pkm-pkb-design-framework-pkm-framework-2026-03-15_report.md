@@ -544,12 +544,12 @@ extraction_summary:
 - [[SECI-Model|SECI Model]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Explanation]]
+- [[self-explanation]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning]]
 - [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
 - [[Spreading-Activation|Spreading Activation]]
 - [[Stoic]]
@@ -581,7 +581,7 @@ extraction_summary:
 | 11 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
 | 12 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
 | 13 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Moment of Integration | 134 |
-| 14 | [[Socratic Questioning]] | — | — | The Moment of Integration | 134 |
+| 14 | [[Socratic-Questioning]] | — | — | The Moment of Integration | 134 |
 | 15 | [[Knowledge-Management|Knowledge Management]] | — | — | The Moment of Integration | 134 |
 | 16 | [[Information-Science|Information Science]] | — | — | The Moment of Integration | 134 |
 | 17 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | The Moment of Integration | 134 |
@@ -606,7 +606,7 @@ extraction_summary:
 | 36 | [[Constructivism]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 37 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 38 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 39 | [[Self-Explanation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 39 | [[self-explanation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 40 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 41 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 42 | [[Zimmerman's Self-Regulated Learning]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
@@ -635,8 +635,8 @@ extraction_summary:
 | 65 | [[Constructivism]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 66 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 67 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 68 | [[Self-Explanation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 69 | [[Socratic Questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 68 | [[self-explanation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 69 | [[Socratic-Questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 70 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Foundational Principle 3: Regulatory ... | 286 |
 | 71 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
 | 72 | [[Heutagogy]] | — | — | Foundational Principle 4: Motivationa... | 296 |
@@ -644,7 +644,7 @@ extraction_summary:
 | 74 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
 | 75 | [[Dunning-Kruger]] | — | — | Derived Principle 5: Calibration Syst... | 330 |
 | 76 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Refinement Principle 1: Evolutionary ... | 338 |
-| 77 | [[Socratic Questioning]] | — | — | Refinement Principle 2: Dialectical D... | 342 |
+| 77 | [[Socratic-Questioning]] | — | — | Refinement Principle 2: Dialectical D... | 342 |
 | 78 | [[Socratic Elenchus]] | — | — | Refinement Principle 2: Dialectical D... | 344 |
 | 79 | [[Integration Problem]] | — | — | Refinement Principle 3: Integration M... | 350 |
 | 80 | [[Obsidian]] | — | — | The Complete PKM/PKB Design Specifica... | 370 |
@@ -875,12 +875,12 @@ extraction_summary:
 - [[SECI-Model|SECI Model]]
 - [[Schema-Theory|Schema Theory]]
 - [[Self-Determination-Theory|Self-Determination Theory]]
-- [[Self-Explanation]]
+- [[self-explanation]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning]]
 - [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
 - [[Spreading-Activation|Spreading Activation]]
 - [[Stoic]]

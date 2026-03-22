@@ -368,7 +368,7 @@ extraction_summary:
 > [Connection to the motivating problem — what changes now that I know this]
 > 
 > ## Connections
-> [[Related concept]] — [[How it relates]]
+> [[Related-Concept]] — [[How it relates]]
 > [[Project or problem context]] — [[How this applies]]
 > ```
 > The "motivating problem" section operationalizes encoding specificity: it preserves the retrieval cues that real future problem contexts will reinstate.
@@ -620,11 +620,11 @@ extraction_summary:
 - [[Interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]
 - [[Psychology of Learning]]
-- [[Related concept]]
+- [[Related-Concept]]
 - [[Report 05: Motivation Architecture]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
@@ -654,7 +654,7 @@ extraction_summary:
 | 6 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Great PKB Paradox | 115 |
 | 7 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Disciplinary Intersection | 123 |
 | 8 | [[Forgetting-Curve|Forgetting Curve]] | — | — | The Disciplinary Intersection | 123 |
-| 9 | [[Memory Consolidation]] | — | — | The Disciplinary Intersection | 123 |
+| 9 | [[Memory-Consolidation]] | — | — | The Disciplinary Intersection | 123 |
 | 10 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Disciplinary Intersection | 123 |
 | 11 | [[Psychology of Learning]] | — | — | The Disciplinary Intersection | 123 |
 | 12 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Disciplinary Intersection | 123 |
@@ -703,7 +703,7 @@ extraction_summary:
 | 55 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
 | 56 | [[Accommodation]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
 | 57 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Encoding Specificity and Transfer-App... | 325 |
-| 58 | [[Related concept]] | — | — | Design Principle 4: Context-Preservin... | 432 |
+| 58 | [[Related-Concept]] | — | — | Design Principle 4: Context-Preservin... | 432 |
 | 59 | [[How it relates]] | — | — | Design Principle 4: Context-Preservin... | 432 |
 | 60 | [[Project or problem context]] | — | — | Design Principle 4: Context-Preservin... | 433 |
 | 61 | [[How this applies]] | — | — | Design Principle 4: Context-Preservin... | 433 |
@@ -812,7 +812,7 @@ extraction_summary:
 > [Connection to the motivating problem — what changes now that I know this]
 >
 > ## Connections
-> [[Related concept]] — [[How it relates]]
+> [[Related-Concept]] — [[How it relates]]
 > [[Project or problem context]] — [[How this applies]]
 >
 ```
@@ -855,11 +855,11 @@ extraction_summary:
 - [[Interleaving]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 - [[Knowledge-Management|Knowledge Management]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]
 - [[Psychology of Learning]]
-- [[Related concept]]
+- [[Related-Concept]]
 - [[Report 05: Motivation Architecture]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
@@ -889,7 +889,7 @@ extraction_summary:
 - [[Encoding-Specificity|Encoding Specificity]]
 - [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
 - [[Forgetting-Curve|Forgetting Curve]]
-- [[Memory Consolidation]]
+- [[Memory-Consolidation]]
 - [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 - [[Generation-Effect|Generation Effect]]
 - [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
@@ -910,7 +910,7 @@ extraction_summary:
 
 #### Link Up
 
-- [[Report Generation Prompt Suite]]
+- [[Report-Generation-Prompt-Suite]]
 
 ---
 

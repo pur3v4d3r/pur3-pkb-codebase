@@ -21,20 +21,20 @@ link-related:
   - "[[permeant-note_moc]]"
   - "[[Cognitive Load Management]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Science]]"
-  - "[[Distributed Cognition]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Cognitive-Science]]"
+  - "[[Distributed-Cognition]]"
+  - "[[Educational-Psychology]]"
   - "[[Extended Mind]]"
   - "[[Goal Setting]]"
   - "[[Heutagogy]]"
   - "[[Information Theory]]"
-  - "[[Instructional Design]]"
+  - "[[Instructional-Design]]"
   - "[[Long-Term-Memory]]"
   - "[[Long-Term Working Memory]]"
   - "[[Metacognition]]"
-  - "[[Metacognitive Knowledge]]"
-  - "[[Metacognitive Regulation]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Regulation]]"
   - "[[Motivational Beliefs]]"
   - "[[Motivational Fortitude]]"
   - "[[Planning]]"
@@ -43,23 +43,23 @@ link-related:
   - "[[Planning Fallacy]]"
   - "[[Prospective Hindsight]]"
   - "[[Scaffolding]]"
-  - "[[Schemas]]"
+  - "[[schemas]]"
   - "[[Self Behavioral Management]]"
-  - "[[Self Determination Theory]]"
-  - "[[Self Directed Learning]]"
+  - "[[Self-Determination-Theory]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Regulated-Learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Strategic Planning]]"
   - "[[System Building]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]"
   - "[[Weekly Review]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory]]"
   - "[[Getting Things Done (GTD)]]"
-  - "[[Information Architecture]]"
+  - "[[Information-Architecture]]"
   - "[[Methodological Frameworks]]"
-  - "[[Knowledge Management]]"
+  - "[[Knowledge-Management]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -75,7 +75,7 @@ review-priority: medium
 # Habit Formation
 
 > [!definition]
-> - **Key-Term**:[[Habit Formation]]
+> - **Key-Term**:[[Habit-Formation]]
 > - [**Definition**:The process by which a behavior, through consistent repetition and often associated with a specific context or cue, becomes automatic and requires little conscious thought.]
 
 > [!evidence]

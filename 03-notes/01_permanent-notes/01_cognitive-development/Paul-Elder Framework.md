@@ -35,9 +35,9 @@ link-up:
 link-related:
   - "[[2025-11-29|Daily-Note]]"
   - "[[ACER Framework]]"
-  - "[[Bloom's Taxonomy]]"
-  - "[[Critical Thinking Frameworks]]"
-  - "[[Critical Thinking]]"
+  - "[[Bloom's-Taxonomy]]"
+  - "[[Critical-Thinking-Frameworks]]"
+  - "[[Critical-Thinking]]"
 status: active
 
 
@@ -52,7 +52,7 @@ review-priority: medium
 # Paul-Elder Framework
 
 > [!definition]
-> - **Key-Term**:[[Paul-Elder Framework]]
+> - **Key-Term**:[[Paul-Elder-Framework]]
 > - [**Definition**:The Paul-Elder Framework is a comprehensive and integrated approach to developing critical thinking skills, devised by Dr. Richard Paul and Dr. Linda Elder of the Foundation for Critical Thinking. It provides a set of interrelated concepts and principles for analyzing, evaluating, and improving thinking. The framework aims to empower individuals to think more clearly, accurately, precisely, relevantly, deeply, broadly, logically, and fairly.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -176,8 +176,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

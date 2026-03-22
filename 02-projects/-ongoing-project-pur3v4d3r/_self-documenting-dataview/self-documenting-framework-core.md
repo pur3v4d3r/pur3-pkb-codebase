@@ -6,7 +6,7 @@ aliases: [Domain-Agnostic Documentation System, Universal Self-Indexing Framewor
 ---
 
 > [!abstract] System Purpose
-> This document defines the **domain-agnostic core mechanics** of a self-documenting knowledge system that can be instantiated for ANY conceptual domain in your PKB. Whether you're tracking [[Cognitive Science]] theories, [[Personal Knowledge Management]] methodologies, [[Prompt Engineering]] techniques, or [[Cosmology]] concepts, this framework provides the universal foundation that makes concepts self-aware of their usage across your vault.
+> This document defines the **domain-agnostic core mechanics** of a self-documenting knowledge system that can be instantiated for ANY conceptual domain in your PKB. Whether you're tracking [[Cognitive-Science]] theories, [[Personal-Knowledge-Management]] methodologies, [[Prompt-Engineering]] techniques, or [[Cosmology]] concepts, this framework provides the universal foundation that makes concepts self-aware of their usage across your vault.
 
 ---
 
@@ -209,7 +209,7 @@ Define the inline metadata fields that application notes should use:
 2. **Secondary Field**: `<field-name>::`
    - **Purpose**: [Secondary classification]
    - **Values**: [Controlled vocabulary or free text]
-   - **Example**: `Theories:: [[Working Memory]], [[Cognitive Load Theory]]`
+   - **Example**: `Theories:: [[Working-Memory]], [[Cognitive-Load-Theory]]`
 
 3. **Tertiary Field**: `<field-name>::`
    - **Purpose**: [Additional context]
@@ -383,7 +383,7 @@ MOC: "[[DOMAIN-MOC]]"
 ## 📊 Metadata
 
 [METADATA-FIELD-1]:: [Value]
-[METADATA-FIELD-2]:: [[Concept 1]], [[Concept 2]]
+[METADATA-FIELD-2]:: [[Concept-1]], [[Concept-2]]
 [METADATA-FIELD-3]:: [Value]
 
 ## 🎯 Overview
@@ -394,8 +394,8 @@ MOC: "[[DOMAIN-MOC]]"
 
 This note demonstrates or uses the following concepts:
 
-- [[Concept 1]] - [How it's used]
-- [[Concept 2]] - [How it's used]
+- [[Concept-1]] - [How it's used]
+- [[Concept-2]] - [How it's used]
 - [[Concept 3]] - [How it's used]
 
 ## 📝 Details

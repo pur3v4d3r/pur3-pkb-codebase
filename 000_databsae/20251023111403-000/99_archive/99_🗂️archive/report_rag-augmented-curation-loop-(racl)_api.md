@@ -181,8 +181,8 @@ A one-sentence summary of the core concept.
 A concise paragraph identifying the primary weakness, alternative perspective, or limitation of the key insights.
 
 ### Connections
--   [[Concept 1]]
--   [[Concept 2]]
+-   [[Concept-1]]
+-   [[Concept-2]]
 
 ---
 > [!info]

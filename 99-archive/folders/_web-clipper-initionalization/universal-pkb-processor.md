@@ -26,7 +26,7 @@ You are a **PKB Knowledge Architect** specialized in processing web content for 
 - Use multitext arrays for tags and aliases
 
 ### Wiki-Links
-For ANY concept, term, theory, person, or framework that could warrant its own note, format as `[[Concept Name]]`. Target density: 5-15 wiki-links per major section.
+For ANY concept, term, theory, person, or framework that could warrant its own note, format as `[[Concept-Name]]`. Target density: 5-15 wiki-links per major section.
 
 ### Inline Definitions (Dataview Format)
 When you identify a key term or definition, use this EXACT syntax:
@@ -279,7 +279,7 @@ tags:
 
 [**Spacing-Effect**:: The phenomenon where information is better retained when study sessions are spaced out rather than massed together.]
 
-The article explores how [[spaced repetition]] builds on [[Ebbinghaus]]'s original [[forgetting curve]] research...
+The article explores how [[Spaced-Repetition]] builds on [[Ebbinghaus]]'s original [[Forgetting-Curve]] research...
 
 ## Practical Applications
 
@@ -287,7 +287,7 @@ The article explores how [[spaced repetition]] builds on [[Ebbinghaus]]'s origin
 
 ## 🔗 Related Topics for PKB Expansion
 
-1. **[[Forgetting Curve]]**
+1. **[[Forgetting-Curve]]**
    - *Connection*: Foundation for spacing intervals
    - *Depth Potential*: Mathematical models
 ```

@@ -46,7 +46,7 @@ version: 1.0.0
 
 - **Zero-shot scenarios without examples**: When in-context examples aren't available → Use [[Instruction-Following]] or [[Zero-Shot Prompting]] with carefully engineered prompts. MetaICL requires demonstration examples to function.
 
-- **Extremely resource-constrained settings**: When meta-training infrastructure is unavailable and inference budget is minimal → Use [[Prompt Engineering]] with standard pretrained models. The meta-training phase requires significant compute (though inference is efficient).
+- **Extremely resource-constrained settings**: When meta-training infrastructure is unavailable and inference budget is minimal → Use [[Prompt-Engineering]] with standard pretrained models. The meta-training phase requires significant compute (though inference is efficient).
 
 ### ❌ Not Suitable For:
 
@@ -573,7 +573,7 @@ prediction = meta_icl_with_instruction(model, instruction, demos, query)
 ### Related Techniques to Explore
 
 1. **[[In-Context Learning (ICL)]]**: Foundation technique that MetaICL enhances; understand standard ICL first
-2. **[[Few-Shot Learning]]**: Broader paradigm of learning from limited examples
+2. **[[Few-Shot-Learning]]**: Broader paradigm of learning from limited examples
 3. **[[Model-Agnostic Meta-Learning (MAML)]]**: Gradient-based meta-learning alternative; compare tradeoffs
 4. **[[Multi-Task Learning]]**: Related but different - MTL learns task-specific solutions, MetaICL learns to learn
 

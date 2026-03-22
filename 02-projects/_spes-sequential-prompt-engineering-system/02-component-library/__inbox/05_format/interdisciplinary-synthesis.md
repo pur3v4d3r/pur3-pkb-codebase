@@ -24,7 +24,7 @@ link-related:
 
 # 🗺️The Interdisciplinary Synthesis Framework
 
-  * **[RATIONALE]:** This model is grounded in the principles of [[Consilience]] (the unity of knowledge) and [[Connectivism]]. Its pedagogical purpose is to build a robust, networked understanding of a central topic by forcing the learner to examine it through the lenses of multiple, seemingly disparate disciplines. This fills the gap of *horizontal integration*, moving from a single atomic note to a true "nexus" of knowledge, which is ideal for building a powerful [[Personal Knowledge Base]].
+  * **[RATIONALE]:** This model is grounded in the principles of [[Consilience]] (the unity of knowledge) and [[Connectivism]]. Its pedagogical purpose is to build a robust, networked understanding of a central topic by forcing the learner to examine it through the lenses of multiple, seemingly disparate disciplines. This fills the gap of *horizontal integration*, moving from a single atomic note to a true "nexus" of knowledge, which is ideal for building a powerful [[Personal-Knowledge-Base]].
 
 # 🗺️Scaffold: The Interdisciplinary Synthesis Framework
 

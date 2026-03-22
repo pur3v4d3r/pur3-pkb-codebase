@@ -77,13 +77,13 @@ related_concepts:
   - "[[Cross-Domain Synthesis Engine]]"
   - "[[Analytical Commentary System]]"
   - "[[Cognitive Partnership Model]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Schema-Theory]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Self-Regulated-Learning]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Desirable-Difficulties]]"
   - "[[Constructivism]]"
-  - "[[Extended Mind Theory]]"
+  - "[[Extended-Mind-Theory]]"
 builds_on:
   - "[[pkm-pkb-framework-synthesis]]"
   - "[[pkm-pkb-framework-taxonomy]]"
@@ -102,7 +102,7 @@ companion_report: "[[pkm-pkb-framework-project-report-findings-future-2026-03-18
 
 ### 1.1 Background and Context
 
-The [[Personal Knowledge Management]] movement has flourished over the past decade, driven by the widespread adoption of networked note-taking tools — [[Obsidian]], Roam Research, Logseq, and others — that enable individuals to build interconnected [[Personal Knowledge Base]] systems. Yet for all the energy surrounding PKM practice, a persistent gap has separated the community's enthusiasm from the scientific foundations that ought to inform it. PKM practitioners routinely make architectural decisions — how to structure notes, when to link them, how to review, what to capture — with minimal reference to the cognitive science, educational psychology, and epistemological traditions that have studied these questions for over a century.
+The [[Personal-Knowledge-Management]] movement has flourished over the past decade, driven by the widespread adoption of networked note-taking tools — [[Obsidian]], Roam Research, Logseq, and others — that enable individuals to build interconnected [[Personal-Knowledge-Base]] systems. Yet for all the energy surrounding PKM practice, a persistent gap has separated the community's enthusiasm from the scientific foundations that ought to inform it. PKM practitioners routinely make architectural decisions — how to structure notes, when to link them, how to review, what to capture — with minimal reference to the cognitive science, educational psychology, and epistemological traditions that have studied these questions for over a century.
 
 The **PKM/PKB Lifelong Learning Framework v1.0** was conceived as an attempt to close this gap. Rather than producing another set of PKM "tips" or opinionated workflows, the project aimed to synthesize findings from across cognitive science, educational psychology, educational philosophy, instructional design, learning experience design, knowledge management, memory science, metacognition, and philosophical traditions (Stoic, Socratic, Pragmatist, Constructivist) into a unified, scientifically grounded framework for designing PKBs as genuine learning instruments. The result is a 30-report series comprising approximately 280,000–330,000 words, generated between March 13–15, 2026, and accompanied by four analytical companion documents (synthesis, taxonomy, expansion topics, working notes) produced on March 16, 2026.
 
@@ -140,11 +140,11 @@ The framework's significance operates at three levels. At the **theoretical leve
 
 The PKM/PKB Framework draws on research traditions that have, until this project, largely operated in isolation from one another. This section maps the major traditions and their relevance to PKB design.
 
-**Cognitive Psychology and Memory Science.** The empirical study of how the human mind encodes, stores, and retrieves information provides the most direct scientific constraints on PKB design. [[Schema Theory]] (Bartlett 1932; Rumelhart 1980; Anderson 1977) establishes that knowledge is organized in relational, hierarchical structures — not as isolated propositions — and that these structures actively shape both encoding and retrieval. [[Cognitive Load Theory]] (Sweller 1988) identifies the bottleneck of [[Working Memory]] (approximately 4 chunks per Cowan's 2001 estimate) and distinguishes [[Intrinsic Load]] (inherent complexity), [[Extraneous Load]] (poor design), and [[Germane Load]] (productive schema construction). The [[Testing-Effect]] (Rowland 2014, meta-analysis of 159 experiments, d = 0.50) and [[Spacing-Effect]] together form the evidentiary backbone for retrieval-based PKB review systems. [[Semantic-Networks]] (Collins & Loftus 1975) and [[Spreading-Activation]] provide the cognitive architecture analog for wiki-link-based PKB structures.
+**Cognitive Psychology and Memory Science.** The empirical study of how the human mind encodes, stores, and retrieves information provides the most direct scientific constraints on PKB design. [[Schema-Theory]] (Bartlett 1932; Rumelhart 1980; Anderson 1977) establishes that knowledge is organized in relational, hierarchical structures — not as isolated propositions — and that these structures actively shape both encoding and retrieval. [[Cognitive-Load-Theory]] (Sweller 1988) identifies the bottleneck of [[Working-Memory]] (approximately 4 chunks per Cowan's 2001 estimate) and distinguishes [[Intrinsic-Load]] (inherent complexity), [[Extraneous-Load]] (poor design), and [[Germane-Load]] (productive schema construction). The [[Testing-Effect]] (Rowland 2014, meta-analysis of 159 experiments, d = 0.50) and [[Spacing-Effect]] together form the evidentiary backbone for retrieval-based PKB review systems. [[Semantic-Networks]] (Collins & Loftus 1975) and [[Spreading-Activation]] provide the cognitive architecture analog for wiki-link-based PKB structures.
 
-**Educational Psychology and Self-Regulated Learning.** [[Self-Regulated Learning]] theory (Zimmerman 2002) provides the process architecture for how effective learners monitor, control, and adapt their learning — a process that the framework maps onto PKB review and reflection workflows. [[Self-Determination Theory]] (Deci & Ryan 1985, 2000) identifies the three basic psychological needs — autonomy, competence, and relatedness — whose satisfaction sustains intrinsic motivation. [[Achievement-Goal-Theory]] (Dweck & Leggett 1988; Elliot & McGregor 2001) distinguishes mastery vs. performance orientations with direct implications for how PKB progress should be tracked.
+**Educational Psychology and Self-Regulated Learning.** [[Self-Regulated-Learning]] theory (Zimmerman 2002) provides the process architecture for how effective learners monitor, control, and adapt their learning — a process that the framework maps onto PKB review and reflection workflows. [[Self-Determination-Theory]] (Deci & Ryan 1985, 2000) identifies the three basic psychological needs — autonomy, competence, and relatedness — whose satisfaction sustains intrinsic motivation. [[Achievement-Goal-Theory]] (Dweck & Leggett 1988; Elliot & McGregor 2001) distinguishes mastery vs. performance orientations with direct implications for how PKB progress should be tracked.
 
-**Educational Philosophy.** Three philosophical traditions provide the framework's normative and epistemological foundations. [[Pragmatism]] (Dewey 1933, 1938) frames learning as inquiry arising from genuine problems — not the passive absorption of pre-formed knowledge — and provides the philosophical basis for the framework's emphasis on experiential processing and reflective practice. [[Constructivism]] (Piaget 1952; Vygotsky 1978) establishes that knowledge must be actively constructed through the learner's own cognitive engagement — the theoretical foundation for the series' central claim that a PKB designed for efficient capture is designed for poor learning. [[Stoic Philosophy]] (Epictetus, Marcus Aurelius, Seneca) contributes a resilience and emotional regulation framework that the series integrates with modern motivation science to address the sustainability challenge of lifelong PKM practice.
+**Educational Philosophy.** Three philosophical traditions provide the framework's normative and epistemological foundations. [[Pragmatism]] (Dewey 1933, 1938) frames learning as inquiry arising from genuine problems — not the passive absorption of pre-formed knowledge — and provides the philosophical basis for the framework's emphasis on experiential processing and reflective practice. [[Constructivism]] (Piaget 1952; Vygotsky 1978) establishes that knowledge must be actively constructed through the learner's own cognitive engagement — the theoretical foundation for the series' central claim that a PKB designed for efficient capture is designed for poor learning. [[Stoic-Philosophy]] (Epictetus, Marcus Aurelius, Seneca) contributes a resilience and emotional regulation framework that the series integrates with modern motivation science to address the sustainability challenge of lifelong PKM practice.
 
 **Knowledge Management and Information Science.** [[Nonaka and Takeuchi's SECI Model]] (1995) — Socialization, Externalization, Combination, Internalization — provides the organizational knowledge creation framework that the series adapts for personal knowledge management. [[Faceted-Classification]] (Ranganathan) offers the classification science foundation for multi-dimensional tagging systems. The [[Vocabulary-Mismatch-Problem]] (Furnas et al., finding less than 20% naming agreement for the same concept) provides the empirical basis for why any single classification system will fail.
 
@@ -186,7 +186,7 @@ The synthesis methodology operated through five formal operations, codified as t
 
 **Operation 1 — Structural Parallel Detection.** Identifying when two different disciplines describe the same underlying phenomenon using different vocabularies. For example, Dewey's "reflective inquiry" and Zimmerman's "self-regulated learning cycle" are structurally isomorphic — both describe a planning → execution → monitoring → reflection loop.
 
-**Operation 2 — Productive Tension Identification.** Identifying when two credible disciplinary perspectives pull in genuinely different directions. For example, [[Cognitive Load Theory]] prescribes minimizing extraneous processing, while [[Constructivism]] insists that productive struggle is necessary for learning — creating a design tension that the framework resolves contextually.
+**Operation 2 — Productive Tension Identification.** Identifying when two credible disciplinary perspectives pull in genuinely different directions. For example, [[Cognitive-Load-Theory]] prescribes minimizing extraneous processing, while [[Constructivism]] insists that productive struggle is necessary for learning — creating a design tension that the framework resolves contextually.
 
 **Operation 3 — Convergence Zone Mapping.** Identifying points where multiple independent traditions arrive at the same conclusion via different routes. The framework identifies five such convergence zones where this triangulation provides the strongest available evidence base.
 
@@ -224,7 +224,7 @@ The 30-report series was produced using a purpose-built **Report Generation Arch
 
 The 30 reports are organized in a four-tier hierarchical dependency structure:
 
-**Tier 1 — Cognitive & Architectural Foundations (Reports 01–08).** These reports establish the scientific and philosophical foundations. Report 01 ([[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Foundations of Knowledge Architecture]]) introduces [[Schema Theory]], [[Semantic-Networks]], and the [[Cognitive-Alignment-Principle]]. Report 02 ([[02-architecture-of-learning-pkm-framework-2026-03-13|The Architecture of Learning]]) addresses [[Cognitive Load Theory]] and [[Working Memory]]. Reports 03–08 cover constructivism, metacognition, motivation, memory science, critical thinking, and reflective practice.
+**Tier 1 — Cognitive & Architectural Foundations (Reports 01–08).** These reports establish the scientific and philosophical foundations. Report 01 ([[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13|Foundations of Knowledge Architecture]]) introduces [[Schema-Theory]], [[Semantic-Networks]], and the [[Cognitive-Alignment-Principle]]. Report 02 ([[02-architecture-of-learning-pkm-framework-2026-03-13|The Architecture of Learning]]) addresses [[Cognitive-Load-Theory]] and [[Working-Memory]]. Reports 03–08 cover constructivism, metacognition, motivation, memory science, critical thinking, and reflective practice.
 
 **Tier 2 — Advanced Integration & Design (Reports 09–18).** These reports translate Tier 1 foundations into sophisticated design guidance. Report 09 ([[09-designing-the-learning-pkb-pkm-framework-2026-03-14|Designing the Learning PKB]]) serves as the primary design translator, introducing the [[Cognitive-Architecture-Isomorphism-Principle]]. Reports 10–18 address scaffolding, transfer, metacognitive monitoring, emotional regulation, inquiry-based learning, knowledge organization, desirable difficulties, note-making, and calibration.
 
@@ -392,13 +392,13 @@ The companion report — [[pkm-pkb-framework-project-report-findings-future-2026
 ## References
 
 > [!cite] **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**
-> Foundation of [[Schema Theory]]. Demonstrated that memory is reconstructive, not reproductive.
+> Foundation of [[Schema-Theory]]. Demonstrated that memory is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
 > Coined [[Desirable-Difficulties]]. Foundation of Reports 06, 16, 20.
 
 > [!cite] **Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**
-> Foundation of [[Extended Mind Theory]]. Theoretical grounding for the PKB as cognitive extension theme.
+> Foundation of [[Extended-Mind-Theory]]. Theoretical grounding for the PKB as cognitive extension theme.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
 > Foundation of [[Semantic-Networks]] and [[Spreading-Activation]].
@@ -407,7 +407,7 @@ The companion report — [[pkm-pkb-framework-project-report-findings-future-2026
 > Revised working memory capacity estimate (~4 chunks). Key constraint for PKB note design.
 
 > [!cite] **Deci, E.L. & Ryan, R.M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry*, 11(4), 227–268.**
-> Foundation of [[Self-Determination Theory]]. Autonomy, competence, relatedness as basic needs.
+> Foundation of [[Self-Determination-Theory]]. Autonomy, competence, relatedness as basic needs.
 
 > [!cite] **Dewey, J. (1933). *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*. D.C. Heath.**
 > Foundation of reflective inquiry and pragmatist learning theory.
@@ -428,10 +428,10 @@ The companion report — [[pkm-pkb-framework-project-report-findings-future-2026
 > Meta-analysis of 159 experiments finding [[Testing-Effect]] d = 0.50.
 
 > [!cite] **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.**
-> Foundation of [[Cognitive Load Theory]].
+> Foundation of [[Cognitive-Load-Theory]].
 
 > [!cite] **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64–70.**
-> Foundation of the [[Self-Regulated Learning]] cycle.
+> Foundation of the [[Self-Regulated-Learning]] cycle.
 
 ---
 

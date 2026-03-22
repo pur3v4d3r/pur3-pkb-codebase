@@ -73,12 +73,12 @@ source: research-synthesis
 
 [**Linear-Sequential-Problems**:: Problems with clear step-by-step progression without thought interdependencies.]
 - **Reason**: GoT overhead is unnecessary
-- **Use Instead**: [[Chain of Thought]] - simpler, faster, cheaper
+- **Use Instead**: [[Chain-of-Thought]] - simpler, faster, cheaper
 - **Example**: Simple arithmetic word problems, straightforward data extraction
 
 [**Hierarchical-Decomposition**:: Problems that decompose cleanly into tree structure without cross-branch dependencies.]
-- **Reason**: [[Tree of Thoughts]] provides sufficient structure with less complexity
-- **Use Instead**: [[Tree of Thoughts]] - systematic search without graph overhead
+- **Reason**: [[Tree-of-Thoughts]] provides sufficient structure with less complexity
+- **Use Instead**: [[Tree-of-Thoughts]] - systematic search without graph overhead
 - **Example**: Game of 24, planning problems with clear subgoal hierarchy
 
 [**Single-Path-Optimization**:: Problems where multiple attempts at the same approach suffice for reliability.]
@@ -2049,7 +2049,7 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
 
 ### Related Techniques to Explore
 
-1. **[[Tree of Thoughts]]**: Hierarchical predecessor to GoT
+1. **[[Tree-of-Thoughts]]**: Hierarchical predecessor to GoT
    - **Relationship**: GoT extends ToT by allowing non-tree connections
    - **When to use instead**: Problems with clear hierarchical structure, stricter budget constraints
    - **Key difference**: ToT cannot model bidirectional dependencies or thought aggregation
@@ -2102,15 +2102,15 @@ def got_with_self_consistency(problem: str, perspectives: List[str],
 
 **Must understand first:**
 
-- **[[Chain of Thought]]**: Foundation for step-by-step reasoning
+- **[[Chain-of-Thought]]**: Foundation for step-by-step reasoning
   - **Why needed**: GoT builds on CoT's intermediate reasoning steps concept; thoughts in GoT are essentially CoT-style reasoning fragments
   - **What to learn**: How to decompose problems into reasoning steps, prompt templates for thought generation
 
-- **[[Tree of Thoughts]]**: Hierarchical reasoning with search
+- **[[Tree-of-Thoughts]]**: Hierarchical reasoning with search
   - **Why needed**: GoT extends ToT's architecture; understanding ToT's BFS/DFS search, state evaluation, and backtracking is essential
   - **What to learn**: Tree structure operations, thought scoring, search algorithms for reasoning spaces
 
-- **[[Prompt Engineering Fundamentals]]**: Core prompting techniques
+- **[[Prompt-Engineering-Fundamentals]]**: Core prompting techniques
   - **Why needed**: GoT requires sophisticated prompt design for each of four operations (Generate, Aggregate, Refine, Validate)
   - **What to learn**: Instruction clarity, few-shot examples, output formatting, error handling in prompts
 

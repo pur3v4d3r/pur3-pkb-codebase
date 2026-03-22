@@ -43,7 +43,7 @@ concepts::
   - "[[Query Generation]]"
   - "[[Index Notes]]"
   - "[[Dashboard Design]]"
-  - "[[Obsidian Automation]]"
+  - "[[Obsidian-Automation]]"
   - "[[Reference Generation]]"
   - "[[Code Snippet Collections]]"
   - "[[PKB Intelligence Layer]]"

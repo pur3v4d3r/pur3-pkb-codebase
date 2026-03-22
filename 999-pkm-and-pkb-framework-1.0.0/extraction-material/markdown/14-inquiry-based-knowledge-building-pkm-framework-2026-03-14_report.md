@@ -718,7 +718,7 @@ extraction_summary:
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
@@ -733,7 +733,7 @@ extraction_summary:
 | 2 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | The Library and the Intellect | 116 |
 | 3 | [[Dewey-Inquiry-Model|Dewey Inquiry Model]] | — | — | The Library and the Intellect | 116 |
 | 4 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Library and the Intellect | 116 |
-| 5 | [[Socratic Questioning]] | — | — | The Synthesis Question | 123 |
+| 5 | [[Socratic-Questioning]] | — | — | The Synthesis Question | 123 |
 | 6 | [[Socratic-Method-Elenchus|Elenchus]] | — | — | The Synthesis Question | 123 |
 | 7 | [[Dewey's Inquiry Model]] | — | — | The Synthesis Question | 123 |
 | 8 | [[Felt-Difficulty|Felt Difficulty]] | — | — | The Synthesis Question | 123 |
@@ -1034,7 +1034,7 @@ extraction_summary:
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]
 - [[Socratic-Method-Elenchus|Socratic Method]]
-- [[Socratic Questioning]]
+- [[Socratic-Questioning]]
 - [[Socratic Seminar Adaptation for Solo PKM Practice]]
 - [[Socratic Seminars]]
 - [[Steel-Manning]]
@@ -1076,7 +1076,7 @@ extraction_summary:
 - [[Inquiry-Node|Inquiry Node]]
 - [[Productive-Failure|Productive Failure]]
 - [[Desirable-Difficulties|Desirable Difficulties]]
-- [[Generative Processing]]
+- [[Generative-Processing]]
 - [[Epistemic Curiosity]]
 - [[Schema Disequilibrium]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]

@@ -37,7 +37,7 @@ link-related:
 
 > [!abstract]
 > **Executive Overview**
-> [[Prompt Engineering]] frameworks represent systematic methodologies for structuring interactions with [[Large Language Models]] ([[LLM]]s) to elicit optimal, consistent, and predictable responses. These frameworks evolved from craft-based experimentation to structured, production-grade systems that bridge [[human intent]] with [[machine interpretation]], encompassing everything from simple template-based approaches to sophisticated multi-step reasoning architectures.
+> [[Prompt-Engineering]] frameworks represent systematic methodologies for structuring interactions with [[Large-Language-Models]] ([[LLM]]s) to elicit optimal, consistent, and predictable responses. These frameworks evolved from craft-based experimentation to structured, production-grade systems that bridge [[human intent]] with [[machine interpretation]], encompassing everything from simple template-based approaches to sophisticated multi-step reasoning architectures.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -61,14 +61,14 @@ link-related:
 ## 1️⃣ ⚙️ Foundational Concepts & Theoretical Underpinnings
 
 > [!definition]
-> - **Key-Term**:: [[Prompt Engineering]]
-> - **Definition**:: The systematic practice of designing, structuring, and optimizing input queries (prompts) to [[Large Language Models]] to achieve specific, desired outputs with maximum accuracy, relevance, and consistency.
+> - **Key-Term**:: [[Prompt-Engineering]]
+> - **Definition**:: The systematic practice of designing, structuring, and optimizing input queries (prompts) to [[Large-Language-Models]] to achieve specific, desired outputs with maximum accuracy, relevance, and consistency.
 
 ### The Genesis of Structured Prompting
 
-[[Prompt Engineering]] emerged as a discipline in response to the fundamental challenge of [[Human-Machine Communication]] in the era of [[Generative Ai]]. Early interactions with [[language models]] revealed a critical insight: the quality, structure, and specificity of input directly influenced the utility of output in ways that were both predictable and systematic. What began as ad-hoc experimentation evolved into a structured discipline as practitioners recognized patterns in what constituted effective communication with [[AI systems]].
+[[Prompt-Engineering]] emerged as a discipline in response to the fundamental challenge of [[Human-Machine Communication]] in the era of [[Generative Ai]]. Early interactions with [[language models]] revealed a critical insight: the quality, structure, and specificity of input directly influenced the utility of output in ways that were both predictable and systematic. What began as ad-hoc experimentation evolved into a structured discipline as practitioners recognized patterns in what constituted effective communication with [[AI systems]].
 
-The theoretical foundation of prompt engineering rests on several key principles from [[Cognitive Science]], [[Linguistics]], and [[Information Theory]]. First, the principle of **[[Semantic Precision]]**: LLMs operate on statistical patterns in language, requiring unambiguous communication to activate the correct probability distributions. Second, the concept of **[[Context Windowing]]**: models maintain working memory that must be efficiently utilized. Third, **[[Instruction Following]]** as an emergent capability that manifests at sufficient scale but requires proper activation through structural cues.
+The theoretical foundation of prompt engineering rests on several key principles from [[Cognitive-Science]], [[Linguistics]], and [[Information Theory]]. First, the principle of **[[Semantic Precision]]**: LLMs operate on statistical patterns in language, requiring unambiguous communication to activate the correct probability distributions. Second, the concept of **[[Context Windowing]]**: models maintain working memory that must be efficiently utilized. Third, **[[Instruction Following]]** as an emergent capability that manifests at sufficient scale but requires proper activation through structural cues.
 
 Modern prompt engineering frameworks evolved from the recognition that LLMs benefit from clear roles, constraints, tone specifications, and expected structure, transforming prompting from craft into a structured discipline. This evolution parallels developments in [[user interface design]] and [[human-computer interaction]], where structured approaches replaced intuition-based design.
 
@@ -94,9 +94,9 @@ The development of prompt engineering frameworks draws on several theoretical mo
 
 **[[Dual-Process-Theory]]**: Tree of Thoughts prompting builds on Daniel Kahneman's concept from "Thinking, Fast and Slow" of [[]] (fast, automatic, unconscious) versus System 2 (slow, deliberate, conscious) thinking. Different frameworks engage different cognitive processes in the model's response generation.
 
-**[[Information Architecture]]**: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.
+**[[Information-Architecture]]**: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge-Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.
 
-**[[Instructional Design]]**: Frameworks treat prompt writing as a full-stack design challenge, considering what the model should know, say, and sound like, with space for business goals, tone guidelines, and context variation. This parallels pedagogical frameworks for teaching complex concepts.
+**[[Instructional-Design]]**: Frameworks treat prompt writing as a full-stack design challenge, considering what the model should know, say, and sound like, with space for business goals, tone guidelines, and context variation. This parallels pedagogical frameworks for teaching complex concepts.
 
 > [!core-principle]
 > **Fundamental Axiom**
@@ -212,7 +212,7 @@ These will be explored in depth in the [[#🧠 Cognitive Reasoning Frameworks|Co
 
 > [!definition]
 > - **Key-Term**:: [[Cognitive Reasoning Frameworks]]
-> - **Definition**:: Advanced prompt engineering methodologies that explicitly guide [[Large Language Models]] through multi-step reasoning processes, mimicking human problem-solving strategies through structured thought progression.
+> - **Definition**:: Advanced prompt engineering methodologies that explicitly guide [[Large-Language-Models]] through multi-step reasoning processes, mimicking human problem-solving strategies through structured thought progression.
 
 ### Chain-of-Thought (CoT) Prompting
 
@@ -620,7 +620,7 @@ The structured approach developed by Lance Cummings, an AI content specialist an
 
 > [!definition]
 > - **Key-Term**:: [[Prompt Evaluation Metrics]]
-> - **Definition**:: Quantitative and qualitative measures used to assess the effectiveness, efficiency, and quality of prompts in eliciting desired responses from [[Large Language Models]].
+> - **Definition**:: Quantitative and qualitative measures used to assess the effectiveness, efficiency, and quality of prompts in eliciting desired responses from [[Large-Language-Models]].
 
 ### Core Evaluation Metrics
 
@@ -1235,7 +1235,7 @@ Strategies:
 
 > [!the-philosophy]
 > **Underlying Philosophy**
-> [[Prompt Engineering]] frameworks represent the codification of effective [[human-AI communication]] patterns discovered through systematic experimentation. At their core, these frameworks embody a fundamental insight: [[Large Language Models]] are neither wholly intelligent agents nor simple pattern matchers, but rather sophisticated statistical systems that benefit from structured, intentional communication. The evolution from simple templates to complex reasoning frameworks mirrors humanity's growing understanding of how to collaborate with AI systems—not by anthropomorphizing them, but by understanding their actual mechanisms and designing communication protocols that work with their architecture rather than against it.
+> [[Prompt-Engineering]] frameworks represent the codification of effective [[human-AI communication]] patterns discovered through systematic experimentation. At their core, these frameworks embody a fundamental insight: [[Large-Language-Models]] are neither wholly intelligent agents nor simple pattern matchers, but rather sophisticated statistical systems that benefit from structured, intentional communication. The evolution from simple templates to complex reasoning frameworks mirrors humanity's growing understanding of how to collaborate with AI systems—not by anthropomorphizing them, but by understanding their actual mechanisms and designing communication protocols that work with their architecture rather than against it.
 
 ### Cognitive Models for Framework Selection
 

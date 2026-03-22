@@ -182,12 +182,12 @@ Aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 6. Application Layer: Dashboard templates and workflows
 
 **Wiki-Link Opportunities:**
-- [[Dataview Plugin]]
-- [[Task Management]]
+- [[Dataview-Plugin]]
+- [[Task-Management]]
 - [[DQL]] (Dataview Query Language)
 - [[DataviewJS]]
-- [[Tasks Plugin]]
-- [[YAML Frontmatter]]
+- [[Tasks-Plugin]]
+- [[YAML-Frontmatter]]
 - [[Inline Fields]]
 - [[Daily Notes]]
 - [[WHERE Clause]]
@@ -221,7 +221,7 @@ aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 ---
 
 > [!abstract] Executive Overview
-> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
+> This comprehensive reference documents the most powerful and commonly-used [[Dataview-Plugin]] queries for [[Task-Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks-Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.
 
 ---
 
@@ -230,7 +230,7 @@ aliases: [Dataview Task Queries, Task Query Library, DQL Task Patterns, Dataview
 ## 🎯Core Concepts
 
 > [!definition] TASK Query Type Fundamentals
-> The `TASK` query type is unique in [[Dataview Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.
+> The `TASK` query type is unique in [[Dataview-Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.
 
 ### Task Query Execution Model
 
@@ -255,7 +255,7 @@ LIMIT <number>
 ### Task-Specific Implicit Fields
 
 > [!methodology-and-sources] Task Metadata Architecture
-> Every task in your vault automatically inherits these implicit fields from [[Dataview Plugin]]:
+> Every task in your vault automatically inherits these implicit fields from [[Dataview-Plugin]]:
 
 | Field | Type | Description | Example Value |
 |-------|------|-------------|---------------|
@@ -348,7 +348,7 @@ LIMIT <number>
 >   AND (contains(text, "⏫") OR contains(text, "🔼"))
 > ```
 > 
-> **What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks Plugin]] emoji: ⏫ = highest, 🔼 = high)
+> **What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks-Plugin]] emoji: ⏫ = highest, 🔼 = high)
 > 
 > **Use case:** Emergency attention queue—what needs immediate action
 > 
@@ -580,7 +580,7 @@ LIMIT <number>
 > SORT scheduled ASC
 > ```
 > 
-> **What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
+> **What it does:** Finds [[Tasks-Plugin]] recurring tasks (marked with 🔁) that are due today or earlier
 > 
 > **Use case:** Daily habit tracking / recurring maintenance tasks
 > 
@@ -781,7 +781,7 @@ dv.taskList(tasks);
 ### Tasks Plugin Compatibility
 
 > [!connections-and-links] Tasks Plugin + Dataview Synergy
-> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.
+> The [[Tasks-Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview-Plugin]] can query. Combining both plugins creates a powerful task management system.
 
 **Tasks Plugin Syntax Quick Reference:**
 
@@ -804,8 +804,8 @@ dv.taskList(tasks);
 ```
 
 **What this enables:**
-- [[Tasks Plugin]] provides UI and recurrence handling
-- [[Dataview Plugin]] provides querying and dashboard capabilities
+- [[Tasks-Plugin]] provides UI and recurrence handling
+- [[Dataview-Plugin]] provides querying and dashboard capabilities
 - [[Inline Fields]] add custom metadata dimensions
 - All three systems work together seamlessly
 
@@ -1038,7 +1038,7 @@ dv.taskList(tasks);
 2. **[[Tasks Plugin Advanced Workflows]]**
    - *Connection*: This guide covers Dataview integration; separate guide needed for pure Tasks plugin capabilities
    - *Depth Potential*: Comprehensive coverage of recurrence rules, custom statuses, natural language parsing, and Tasks-specific filtering syntax
-   - *Knowledge Graph Role*: Complementary system documentation linking [[Task Management]], [[GTD Workflow]], [[Productivity Systems]]
+   - *Knowledge Graph Role*: Complementary system documentation linking [[Task-Management]], [[GTD Workflow]], [[Productivity Systems]]
 
 3. **[[DataviewJS Custom Functions Library]]**
    - *Connection*: Advanced task manipulation patterns require reusable JavaScript functions
@@ -1048,7 +1048,7 @@ dv.taskList(tasks);
 4. **[[Dashboard Design Principles for PKM]]**
    - *Connection*: Query patterns are components; dashboards are the architecture
    - *Depth Potential*: Explore information architecture, visual hierarchy, cognitive load management, and dashboard composition strategies
-   - *Knowledge Graph Role*: [[Information Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]
+   - *Knowledge Graph Role*: [[Information-Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]
 
 ---
 

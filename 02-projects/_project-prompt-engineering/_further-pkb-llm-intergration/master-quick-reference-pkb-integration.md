@@ -280,12 +280,12 @@ Has term been linked in this section already?
 ## Link Pattern Examples
 
 > [!example] Good Linking
-> [[Cognitive Load Theory]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[Working Memory]].
+> [[Cognitive-Load-Theory]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[Working-Memory]].
 > 
 > *Links key concepts once per section*
 
 > [!warning] Over-Linking (Avoid)
-> [[Cognitive Load]] theory explains how [[cognitive load]] affects learning. When [[cognitive load]] is too high, [[cognitive load]] overwhelms [[working memory]].
+> [[Cognitive-Load]] theory explains how [[Cognitive-Load]] affects learning. When [[Cognitive-Load]] is too high, [[Cognitive-Load]] overwhelms [[Working-Memory]].
 > 
 > *Same term linked repeatedly = visual clutter*
 
@@ -298,7 +298,7 @@ Has term been linked in this section already?
 
 **Theoretical Frameworks:**
 ```markdown
-[[Cognitive Load Theory]], [[Self-Determination Theory]], [[Dual Coding Theory]]
+[[Cognitive-Load-Theory]], [[Self-Determination-Theory]], [[Dual-Coding-Theory]]
 ```
 
 **Technical Terms:**
@@ -308,7 +308,7 @@ Has term been linked in this section already?
 
 **Methodologies:**
 ```markdown
-[[Zettelkasten]], [[Progressive Summarization]], [[Spaced Repetition]]
+[[Zettelkasten]], [[Progressive-Summarization]], [[Spaced-Repetition]]
 ```
 
 **Processes:**
@@ -329,17 +329,17 @@ When creating links, consider:
 
 **Example:**
 ```markdown
-In [[Cognitive Load Theory]]:
+In [[Cognitive-Load-Theory]]:
 
 Forward links to:
-- [[Working Memory]]
-- [[Schema Theory]]
-- [[Instructional Design]]
+- [[Working-Memory]]
+- [[Schema-Theory]]
+- [[Instructional-Design]]
 
 Should be linked from:
 - [[Learning Theory Overview]]
-- [[Educational Psychology]]
-- [[Multimedia Learning]]
+- [[Educational-Psychology]]
+- [[Multimedia-Learning]]
 ```
 
 ## Link Density Self-Check
@@ -364,17 +364,17 @@ Every sentence has links?
 
 1. **Grammatical flow:**
    ```markdown
-   theories of [[Cognitive Load Theory|cognitive load]]
+   theories of [[Cognitive-Load-Theory|cognitive load]]
    ```
 
 2. **Abbreviation expansion:**
    ```markdown
-   [[Self-Determination Theory|SDT]]
+   [[Self-Determination-Theory|SDT]]
    ```
 
 3. **Section-specific reference:**
    ```markdown
-   [[Cognitive Load Theory#Intrinsic Load|intrinsic cognitive load]]
+   [[Cognitive-Load-Theory#Intrinsic Load|intrinsic cognitive load]]
    `````
 
 
@@ -686,7 +686,7 @@ aliases: [Inline Field QRC, Dataview Fields Guide, Field Syntax Reference]
 
 **With wiki-links:**
 ```markdown
-**Related-Concepts**:: [[Concept 1]], [[Concept 2]]
+**Related-Concepts**:: [[Concept-1]], [[Concept-2]]
 ```
 
 ## Field Type Quick Matrix
@@ -1287,8 +1287,8 @@ type: moc
 **Maturity:** [Distribution]
 
 ## Core Concepts (🌳 Evergreen)
-- [[Concept 1]] - Brief description
-- [[Concept 2]] - Brief description
+- [[Concept-1]] - Brief description
+- [[Concept-2]] - Brief description
 
 ## Developing Notes (🌿 Budding)
 - [[Topic 1]] - Status and needs
@@ -1551,7 +1551,7 @@ aliases: [Quality Gates QRC, Validation Checklist, Quality Control]
     • MOC: 30-100+ links
     • Synthesis: 15-30 links
 
-[ ] All key concepts formatted as [[Wiki-Links]]
+[ ] All key concepts formatted as [[wiki-links]]
 [ ] Links point to concepts worthy of dedicated notes
 [ ] Links create meaningful graph connections
 [ ] First mention linking followed (not every repetition)
@@ -1702,7 +1702,7 @@ Fix: Add metadata header with 3-5 tags and 2-5 aliases
 ### Issue: Under-Linked
 ```
 Symptom: <5 wiki-links in 1000-word reference note
-Fix: Scan for key concepts and create [[Wiki-Links]]
+Fix: Scan for key concepts and create [[wiki-links]]
 ```
 
 ### Issue: Callout Overuse

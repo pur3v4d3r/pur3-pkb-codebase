@@ -1033,7 +1033,7 @@ SORT date DESC
 
 ```dataview
 LIST
-FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]
+FROM [[Stoicism]] OR [[Marcus-Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue-Ethics]]
 WHERE file.name != this.file.name
 SORT file.mtime DESC
 LIMIT 10

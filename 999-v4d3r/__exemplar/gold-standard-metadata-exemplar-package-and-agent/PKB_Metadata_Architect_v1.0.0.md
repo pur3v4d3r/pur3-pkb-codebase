@@ -54,7 +54,7 @@ aliases:
 related_to:
   - "[[VADER Academic Report Generator]]"
   - "[[Obsidian Vault System]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base]]"
   - "[[YAML Metadata Framework]]"
   - "[[Semantic Tagging System]]"
 
@@ -382,8 +382,8 @@ domain:
 ```yaml
 related:
   - "[[Chain of Thought Reasoning]]"
-  - "[[Tree of Thoughts]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[Tree-of-Thoughts]]"
+  - "[[Metacognitive-Monitoring]]"
   - "[[Prompt Engineering Frameworks]]"
 ```
 
@@ -904,7 +904,7 @@ related:
 
 see-also:
   - "[[Transfer Learning]]"
-  - "[[Ensemble Methods]]"
+  - "[[Ensemble-Methods]]"
 ```
 
 ### 4. Contrasting Relationships

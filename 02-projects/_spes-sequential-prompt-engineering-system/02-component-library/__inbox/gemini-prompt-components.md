@@ -664,7 +664,7 @@ This component instructs the AI to actively embed links and tags *within the bod
 > **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard Feynman]]`."
+>    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**
@@ -2357,7 +2357,7 @@ This structure is not designed to *tell* you everything about a topic. Instead, 
 {{This section is *not* a comprehensive overview of the entire field. It is a targeted deep dive into *only* the foundational principles and key terms identified as necessary in the `[!plan]` section. (1500 Words)}}
 
 > [!principle-point]
-> - **Required Concept 1:** {{[[Concept Name]]}}
+> - **Required Concept 1:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the first major principle required to solve the problem. Explain *what* it is and *why* it is essential for this specific challenge.}}
 
 > [!definition]
@@ -2368,7 +2368,7 @@ This structure is not designed to *tell* you everything about a topic. Instead, 
 > - **To understand** {{[[Complex Concept]]}}, **imagine**… {{Insert a powerful analogy here to speed up comprehension.}}
 
 > [!principle-point]
-> - **Required Concept 2:** {{[[Concept Name]]}}
+> - **Required Concept 2:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the second major principle. Continue this pattern for all concepts identified in the plan.}}
 
 # 3.0 🔬 THE WORKSHOP: Building the Solution
@@ -2622,7 +2622,7 @@ This structure is designed to build critical thinking and analytical reasoning s
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
 
 ---
 

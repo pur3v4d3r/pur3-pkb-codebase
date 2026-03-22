@@ -167,7 +167,7 @@ related: [[Docker]], [[Node.js]], [[React]], [[Flask]], [[DevOps]], [[Full-Stack
 
 * *Strategic Use Cases:**
 
-- [[Prompt Engineering]] tool experimentation (many require local servers)
+- [[Prompt-Engineering]] tool experimentation (many require local servers)
 - [[AI Model]] integration testing with local LLM instances
 - [[Full-Stack Development]] with integrated frontend/backend workflows
 - [[API Development]] with mock data and rapid endpoint testing

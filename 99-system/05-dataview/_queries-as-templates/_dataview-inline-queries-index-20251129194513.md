@@ -29,7 +29,7 @@ tags:
 # Comprehensive Dataview Inline Query Cheat Sheet
 
 > [!abstract] Reference Overview
-> **Purpose:** Production-ready library of Dataview inline query patterns organized by use case category for rapid implementation in daily [[Personal Knowledge Management]] workflows.
+> **Purpose:** Production-ready library of Dataview inline query patterns organized by use case category for rapid implementation in daily [[Personal-Knowledge-Management]] workflows.
 > 
 > **Scope:** Covers all major inline query syntaxes including simple field access, cross-note references, vault-wide aggregations, date calculations, conditional logic, and DataviewJS hybrid patterns.
 > 

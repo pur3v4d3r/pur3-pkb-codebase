@@ -26,7 +26,7 @@ link-related:
   - "[[Strategic Planning]]"
   - "[[Motivational Beliefs]]"
   - "[[Planning]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory]]"
   - "[[Getting Things Done (GTD)]]"
 maturity: seedling
 confidence: speculative
@@ -84,7 +84,7 @@ review-priority: medium
 > **Time Block Categories for Knowledge Work**
 > 
 > **Deep Work Blocks** (90-120 minutes)
-> - [[Deliberate Practice]] on challenging concepts
+> - [[Deliberate-Practice]] on challenging concepts
 > - [[Creative Synthesis]] writing  
 > - Complex problem-solving
 > - Original research and analysis
@@ -104,7 +104,7 @@ review-priority: medium
 > **Integration Blocks** (30-60 minutes)
 > - [[Weekly Review]] processes
 > - Cross-linking notes
-> - [[Progressive Summarization]]
+> - [[Progressive-Summarization]]
 > - Knowledge consolidation
 > [!connections-and-links]
 > - 

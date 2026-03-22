@@ -98,13 +98,13 @@ tags:
 
 > [!key-claim] Major Contributions to Field
 
-**Concept/Framework 1**: [[Concept Name]]
+**Concept/Framework 1**: [[Concept-Name]]
 - **Description**: 
 - **Origin**: [Which work introduced this]
 - **Impact**: 
 - **Critiques**: 
 
-**Concept/Framework 2**: [[Concept Name]]
+**Concept/Framework 2**: [[Concept-Name]]
 - **Description**: 
 - **Origin**: 
 - **Impact**: 

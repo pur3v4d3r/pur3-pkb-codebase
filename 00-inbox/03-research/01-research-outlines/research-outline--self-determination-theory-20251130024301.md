@@ -197,9 +197,9 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. How does SDT's meta-theory differ from other motivation theories of its era?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Organismic Theory]], [[Behaviorism]], [[Cognitive Revolution]], [[Edward Deci]], [[Richard Ryan]], [[Undermining-Effect]]
+- Core concepts to wiki-link: [[Intrinsic-Motivation]], [[Extrinsic-Motivation]], [[Organismic Theory]], [[Behaviorism]], [[Cognitive Revolution]], [[Edward-Deci]], [[Richard-Ryan]], [[Undermining-Effect]]
 - Recommended tags: #historical-context #theory-origins #paradigm-shift
-- Connection points: Links to [[History of Psychology]], [[Motivational Psychology]], [[Human Development Theory]]
+- Connection points: Links to [[History of Psychology]], [[Motivational-Psychology]], [[Human Development Theory]]
 
 **Prerequisites**: Basic familiarity with psychological research methods and 20th-century psychology schools of thought
 
@@ -225,7 +225,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Autonomy]], [[Competence]], [[Relatedness]], [[Basic-Psychological-Needs]], [[Need-Satisfaction]], [[Need-Thwarting]], [[Need-Frustration]], [[Eudaimonic Well-being]]
 - Recommended tags: #basic-needs #theoretical-foundations #psychological-nutrients
-- Connection points: Links to [[Well-being]], [[Human Flourishing]], [[Psychological Development]], [[Cross-Cultural Psychology]]
+- Connection points: Links to [[Well-being]], [[Human Flourishing]], [[Psychological Development]], [[Cross-Cultural-Psychology]]
 
 **Prerequisites**: Topic 1 (Historical Foundations)
 
@@ -249,9 +249,9 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What role does perceived locus of causality play in the intrinsic/extrinsic distinction?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Undermining-Effect]], [[Overjustification-Effect]], [[Perceived-Locus-of-Causality]], [[Autonomous-Motivation]], [[Controlled-Motivation]]
+- Core concepts to wiki-link: [[Intrinsic-Motivation]], [[Extrinsic-Motivation]], [[Undermining-Effect]], [[Overjustification-Effect]], [[Perceived-Locus-of-Causality]], [[Autonomous-Motivation]], [[Controlled-Motivation]]
 - Recommended tags: #motivation-types #core-concepts #autonomy-support
-- Connection points: Links to [[Reward Systems]], [[Performance Psychology]], [[Educational Psychology]], [[Incentive Design]]
+- Connection points: Links to [[Reward Systems]], [[Performance Psychology]], [[Educational-Psychology]], [[Incentive Design]]
 
 **Prerequisites**: Topics 1-2
 
@@ -277,9 +277,9 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 6. How does RMT apply SDT to close relationships and attachment?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Evaluation-Theory]], [[Organismic-Integration-Theory]], [[Causality-Orientations-Theory]], [[Basic Psychological Needs Theory]], [[Goal Contents Theory]], [[Relationships Motivation Theory]], [[Internalization]], [[External-Regulation]], [[Introjected-Regulation]], [[Identified-Regulation]], [[Integrated-Regulation]], [[Intrinsic Goals]], [[Extrinsic Goals]], [[Autonomy-Orientation]], [[Control-Orientation]], [[Impersonal-Orientation]]
+- Core concepts to wiki-link: [[Cognitive-Evaluation-Theory]], [[Organismic-Integration-Theory]], [[Causality-Orientations-Theory]], [[Basic-Psychological-Needs-Theory]], [[Goal-Contents-Theory]], [[Relationships Motivation Theory]], [[Internalization]], [[External-Regulation]], [[Introjected-Regulation]], [[Identified-Regulation]], [[Integrated-Regulation]], [[Intrinsic Goals]], [[Extrinsic Goals]], [[Autonomy-Orientation]], [[Control-Orientation]], [[Impersonal-Orientation]]
 - Recommended tags: #mini-theories #theoretical-integration #sdt-ecosystem
-- Connection points: Links to [[Individual Differences]], [[Goal Setting Theory]], [[Attachment Theory]], [[Personality Psychology]]
+- Connection points: Links to [[Individual Differences]], [[Goal-Setting-Theory]], [[Attachment-Theory]], [[Personality Psychology]]
 
 **Prerequisites**: Topics 1-3
 
@@ -332,7 +332,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[Autonomy-Supportive Teaching]], [[Controlling Teaching Style]], [[Job Characteristics Model]], [[Intrinsic Work Motivation]], [[Health Behavior Change]], [[Behavior Change Technologies]], [[Human-Computer Interaction]], [[Gamification]], [[Persuasive Technology]]
 - Recommended tags: #applied-sdt #education #organizational-psychology #health-psychology #hci
-- Connection points: Links to [[Educational Design]], [[Leadership]], [[Instructional Design]], [[Public Health]], [[UX Design]]
+- Connection points: Links to [[Educational Design]], [[Leadership]], [[Instructional-Design]], [[Public Health]], [[UX Design]]
 
 **Prerequisites**: Topics 1-5
 
@@ -356,9 +356,9 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 4. What critiques have been leveled against SDT, and how have Deci and Ryan responded?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Goal-Setting Theory]], [[Achievement-Goal-Theory]], [[Expectancy-Value Theory]], [[Flow Theory]], [[Behaviorism]], [[Social Cognitive Theory]], [[Humanistic Psychology]], [[Maslow's Hierarchy of Needs]], [[Drive Theory]]
+- Core concepts to wiki-link: [[Goal-Setting-Theory]], [[Achievement-Goal-Theory]], [[Expectancy-Value-Theory]], [[Flow-Theory]], [[Behaviorism]], [[Social Cognitive Theory]], [[Humanistic-Psychology]], [[Maslow's Hierarchy of Needs]], [[Drive Theory]]
 - Recommended tags: #theoretical-comparison #dialectical-analysis #motivation-theories
-- Connection points: Links to [[Comparative Psychology]], [[Theoretical Integration]], [[Philosophy of Science]]
+- Connection points: Links to [[Comparative Psychology]], [[Theoretical Integration]], [[philosophy-of-science]]
 
 **Prerequisites**: Topics 1-6
 
@@ -379,7 +379,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 - Bridge with [[Organizational Behavior]] knowledge (SDT explains workplace motivation)
 - Synthesize with [[Behavior Change]] frameworks (SDT guides intervention design)
 - Connect to [[Well-being]] and [[Human Flourishing]] concepts (eudaimonic perspective)
-- Integrate with [[Cognitive Science]] (understanding autonomy, competence, relatedness as cognitive-affective systems)
+- Integrate with [[Cognitive-Science]] (understanding autonomy, competence, relatedness as cognitive-affective systems)
 
 **Metadata Architecture**:
 - Tag hierarchy: 
@@ -396,7 +396,7 @@ aliases: [SDT Research Plan, Self-Determination Theory Study Guide, SDT Mastery 
 ## 📅 Suggested Timeline & Milestones
 
 > [!helpful-tip] Cognitive Load Management
-> This timeline respects [[Spaced Repetition]] principles and allows for consolidation between topics. Each topic builds on previous ones, so resist the temptation to skip ahead. Allow time for reflection and note-making after each topic.
+> This timeline respects [[Spaced-Repetition]] principles and allows for consolidation between topics. Each topic builds on previous ones, so resist the temptation to skip ahead. Allow time for reflection and note-making after each topic.
 
 | Phase | Duration | Topics Covered | Milestone |
 |-------|----------|----------------|-----------|
@@ -425,7 +425,7 @@ Learning Objectives:
 
 Prerequisites: Basic familiarity with psychological research methods and major schools of thought in psychology (behaviorism, cognitivism, humanism)
 
-PKB Integration: This topic establishes the foundation for your entire SDT knowledge cluster and connects to broader notes on [[History of Psychology]], [[Motivational Psychology]], and [[Cognitive Revolution]]. It will anchor your understanding of why SDT emerged when and how it did.
+PKB Integration: This topic establishes the foundation for your entire SDT knowledge cluster and connects to broader notes on [[History of Psychology]], [[Motivational-Psychology]], and [[Cognitive Revolution]]. It will anchor your understanding of why SDT emerged when and how it did.
 </topic_context>
 
 <pedagogical_approach>
@@ -444,7 +444,7 @@ Generate a comprehensive academic report on the historical foundations and theor
 
 4. **Establishes Foundational Concepts**: Define core SDT concepts as they emerged historically (intrinsic motivation, organismic integration, basic psychological needs) with attention to how these concepts evolved
 
-5. **Includes PKB Capture Guidance**: Identify key concepts for wiki-linking ([[Intrinsic Motivation]], [[Behaviorism]], [[Undermining-Effect]], etc.), suggest metadata tags (#historical-context, #theory-origins), and connection points to broader psychology notes
+5. **Includes PKB Capture Guidance**: Identify key concepts for wiki-linking ([[Intrinsic-Motivation]], [[Behaviorism]], [[Undermining-Effect]], etc.), suggest metadata tags (#historical-context, #theory-origins), and connection points to broader psychology notes
 
 6. **Provides Concrete Examples**: Include specific experiments (e.g., Deci's puzzle studies, Lepper et al.'s "overjustification" research) with enough detail to understand their methodology and implications
 
@@ -480,7 +480,7 @@ Learning Objectives:
 
 Prerequisites: Topic 1 (Historical Foundations and Theoretical Origins of SDT)
 
-PKB Integration: The basic needs are the axiomatic foundation of SDT - everything else builds from here. This note will become a central hub with connections to [[Well-being]], [[Human Development]], [[Eudaimonia]], [[Cross-Cultural Psychology]], and all six SDT mini-theories.
+PKB Integration: The basic needs are the axiomatic foundation of SDT - everything else builds from here. This note will become a central hub with connections to [[Well-being]], [[Human Development]], [[Eudaimonia]], [[Cross-Cultural-Psychology]], and all six SDT mini-theories.
 </topic_context>
 
 <pedagogical_approach>
@@ -544,7 +544,7 @@ Learning Objectives:
 
 Prerequisites: Topics 1-2 (Historical Foundations, Basic Psychological Needs)
 
-PKB Integration: This topic refines your understanding of SDT's most central distinction and connects to notes on [[Reward Systems]], [[Incentive Design]], [[Educational Psychology]], [[Performance Management]], and [[Behavior Change]]. It prepares you for understanding the internalization continuum in Organismic Integration Theory.
+PKB Integration: This topic refines your understanding of SDT's most central distinction and connects to notes on [[Reward Systems]], [[Incentive Design]], [[Educational-Psychology]], [[Performance Management]], and [[Behavior Change]]. It prepares you for understanding the internalization continuum in Organismic Integration Theory.
 </topic_context>
 
 <pedagogical_approach>
@@ -579,7 +579,7 @@ Generate a comprehensive academic report on Intrinsic vs. Extrinsic Motivation t
    - Parenting: Child's behavior motivated by autonomy-support vs. controlling rewards
    - For each case: analyze the motivation type, predict outcomes, suggest interventions
 
-5. **Includes PKB Capture Guidance**: Wiki-links for [[Intrinsic Motivation]], [[Extrinsic Motivation]], [[Undermining-Effect]], [[Overjustification-Effect]], [[Perceived-Locus-of-Causality]], [[Autonomous-Motivation]], [[Controlled-Motivation]]; tags like #core-concepts, #motivation-types; connections to reward and incentive design notes
+5. **Includes PKB Capture Guidance**: Wiki-links for [[Intrinsic-Motivation]], [[Extrinsic-Motivation]], [[Undermining-Effect]], [[Overjustification-Effect]], [[Perceived-Locus-of-Causality]], [[Autonomous-Motivation]], [[Controlled-Motivation]]; tags like #core-concepts, #motivation-types; connections to reward and incentive design notes
 
 6. **Addresses Common Questions**:
    - Can extrinsic motivation ever be beneficial?
@@ -619,7 +619,7 @@ Learning Objectives:
 
 Prerequisites: Topics 1-3 (Historical Foundations, Basic Needs, Intrinsic/Extrinsic Motivation)
 
-PKB Integration: This is the most complex and comprehensive SDT topic. It will create numerous atomic notes for each mini-theory and regulation type, all connecting to the central [[Self-Determination Theory MOC]]. Links will extend to [[Individual Differences]], [[Goal Setting]], [[Attachment Theory]], [[Personality Psychology]], and domain-specific applications.
+PKB Integration: This is the most complex and comprehensive SDT topic. It will create numerous atomic notes for each mini-theory and regulation type, all connecting to the central [[Self-Determination Theory MOC]]. Links will extend to [[Individual Differences]], [[Goal Setting]], [[Attachment-Theory]], [[Personality Psychology]], and domain-specific applications.
 </topic_context>
 
 <pedagogical_approach>
@@ -714,14 +714,14 @@ The report should:
 2. **[[Autonomy Support in Educational Design - Practical Applications]]**
    - *Connection*: Translates SDT's autonomy concept into concrete instructional design principles
    - *Depth Potential*: Examining specific teaching practices, classroom structures, and assessment designs that support vs. thwart autonomy
-   - *Knowledge Graph Role*: Connects SDT to [[Instructional Design]], [[Pedagogy]], and [[Educational Technology]] domains
+   - *Knowledge Graph Role*: Connects SDT to [[Instructional-Design]], [[Pedagogy]], and [[Educational Technology]] domains
 
 3. **[[Cultural Variations in Basic Psychological Needs - The Universality Debate]]**
    - *Connection*: Addresses one of the most significant theoretical debates in SDT regarding cross-cultural applicability
    - *Depth Potential*: Deep dive into empirical evidence from collectivist cultures, indigenous perspectives, and emic vs. etic approaches
-   - *Knowledge Graph Role*: Links SDT to [[Cross-Cultural Psychology]], [[Cultural Psychology]], and [[Anthropological Perspectives]]
+   - *Knowledge Graph Role*: Links SDT to [[Cross-Cultural-Psychology]], [[Cultural Psychology]], and [[Anthropological Perspectives]]
 
 4. **[[The Neuroscience of Self-Determination - Brain Mechanisms of Autonomous Motivation]]**
    - *Connection*: Emerging frontier connecting SDT to neuroscience (Di Domenico & Ryan's work on neural correlates)
    - *Depth Potential*: Exploring brain regions, neurotransmitter systems, and neural networks associated with need satisfaction and autonomous motivation
-   - *Knowledge Graph Role*: Bridges SDT with [[Cognitive Neuroscience]], [[Affective Neuroscience]], and [[Neuropsychology]] domains
+   - *Knowledge Graph Role*: Bridges SDT with [[cognitive-neuroscience]], [[Affective Neuroscience]], and [[Neuropsychology]] domains

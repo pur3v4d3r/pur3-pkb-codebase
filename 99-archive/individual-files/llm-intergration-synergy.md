@@ -57,18 +57,18 @@ WHERE contains(file.content, "^speculative")
 
 ```markdown
 <!-- Current -->
-[[Cognitive Load Theory]] is related to [[Working Memory]].
+[[Cognitive-Load-Theory]] is related to [[Working-Memory]].
 
 <!-- Enhanced -->
-[[Cognitive Load Theory]] ←builds-on→ [[Working Memory]]
+[[Cognitive-Load-Theory]] ←builds-on→ [[Working-Memory]]
 [[Filter Model]] ←superseded-by→ [[Capacity Model]]
 [[Kahneman]] ←developed→ [[Allocation Policy]]
 [[Arousal]] ←modulates→ [[Available Capacity]]
 
 <!-- Machine-readable syntax -->
-[[Cognitive Load Theory|builds-on::Working Memory]]
+[[Cognitive-Load-Theory|builds-on::Working Memory]]
 <!-- Or using HTML data attributes -->
-<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[Cognitive Load Theory]]</span>
+<span data-link="Cognitive Load Theory" data-relation="builds-on" data-target="Working Memory">[[Cognitive-Load-Theory]]</span>
 ```
 
 **Simpler Implementation** (Obsidian-compatible):
@@ -79,7 +79,7 @@ WHERE contains(file.content, "^speculative")
 <!-- Examples -->
 [**Theoretical-Succession**:: [[Filter Model]] →(superseded-by)→ [[Capacity Model]]]
 [**Causal-Mechanism**:: [[Arousal]] →(modulates)→ [[Available Capacity]]]
-[**Developed-By**:: [[Allocation Policy]] →(created-by)→ [[Daniel Kahneman]]]
+[**Developed-By**:: [[Allocation Policy]] →(created-by)→ [[Daniel-Kahneman]]]
 ```
 
 **Prompt Component Addition**:
@@ -136,7 +136,7 @@ This connects to [[Yerkes-Dodson Law]]
 > **Proposed Note Type**: atomic-concept
 > **Priority**: high
 > **Key Content**: Early selection theory positing structural bottleneck…
-> **Connections**: [[Dichotic Listening]], [[Early Selection]], [[Attention]]
+> **Connections**: [[Dichotic Listening]], [[Early-Selection]], [[Attention]]
 ```
 
 **Prompt Component Addition**:
@@ -270,11 +270,11 @@ According to Kahneman (1973), arousal modulates capacity.
 <!-- Frontmatter addition -->
 ---
 prerequisites:
-  - "[[information-processing-theory]]"
-  - "[[sensory-memory]]"
+  - "[[Information-Processing-Theory]]"
+  - "[[Sensory-Memory]]"
   - "[[selective-attention-basics]]"
 enables:
-  - "[[cognitive-load-theory]]"
+  - "[[Cognitive-Load-Theory]]"
   - "[[working-memory-model]]"
   - "[[dual-task-interference]]"
 difficulty: intermediate
@@ -284,13 +284,13 @@ estimated-study-time: 45min
 <!-- Or inline markers -->
 > [!prerequisite]
 > Before this note, understand:
-> - [[Information Processing Theory]] — foundational framework
-> - [[Sensory Memory]] — input stage understanding
-> - [[Selective Attention]] — basic concept
+> - [[Information-Processing-Theory]] — foundational framework
+> - [[Sensory-Memory]] — input stage understanding
+> - [[Selective-Attention]] — basic concept
 
 > [!enables]
 > This note unlocks:
-> - [[Cognitive Load Theory]] — direct application
+> - [[Cognitive-Load-Theory]] — direct application
 > - [[Working Memory Model]] — theoretical extension
 ```
 

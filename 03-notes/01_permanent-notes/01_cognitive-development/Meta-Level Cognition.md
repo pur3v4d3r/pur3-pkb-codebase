@@ -33,8 +33,8 @@ next-review: 2025-12-20
 link-up: "[[🧠Report_A-Comprehensive-Analysis-of-Metacognition-as-the-Central-Integrating-Mechanism-for-Personal-Development_🆔20251028024951]]"
 link-related:
   - "[[2025-12-13|Daily-Note]]"
-  - "[[Metacognitive Experiences]]"
-  - "[[Metacognitive Knowledge]]"
+  - "[[Metacognitive-Experiences]]"
+  - "[[Metacognitive-Knowledge]]"
   - "[[Constructivist Learning]]"
 title: Meta-Level Cognition
 status: active

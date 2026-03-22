@@ -24,19 +24,19 @@ link-up:
 link-related:
   - "[[2025-11-22|Daily-Note]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Cognitive-Science]]"
   - "[[Cognitive Theory]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemic-Cognition]]"
   - "[[Extended Mind]]"
-  - "[[Long-Term Memory]]"
+  - "[[Long-Term-Memory]]"
   - "[[Metacognition]]"
   - "[[Neuroplasticity]]"
-  - "[[Schemas]]"
-  - "[[Self Directed Learning]]"
+  - "[[schemas]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Socratic Method]]"
+  - "[[Self-Determination-Theory]]"
+  - "[[Socratic-Method]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -63,8 +63,8 @@ review-priority: medium
 
 ## Related Concepts
 
-- `[[Concept 1]]`
-- `[[Concept 2]]`
+- `[[Concept-1]]`
+- `[[Concept-2]]`
 
 ## Practical Applications
 > -

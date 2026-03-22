@@ -163,7 +163,7 @@ Interpretation and Inference 🔍
 > - Callouts: definitions, examples, key questions, warnings about common failures
 > - Visual: Mermaid diagram of element relationships
 > **WIKI-LINK OPPORTUNITIES:**
-> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point-of-View]], [[Intellectual-Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]
+> [[Critical-Thinking]], [[Paul-Elder-Framework]], [[Purpose-in-Reasoning]], [[Question-at-Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point-of-View]], [[Intellectual-Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical-Thinking]], [[Metacognition]], [[Socratic-Questioning]]
 > Let me search for authoritative information on the Paul-Elder Elements of Thought.
 > Now I have excellent foundational information. Let me search for more specific details about how the Elements interrelate and practical application examples.Excellent. Now I have comprehensive information about the Elements of Thought. Let me compile this into a detailed, encyclopedic report following all the specified formatting and content requirements. I have sufficient information about:
 > 1. The 8 Elements of Thought
@@ -181,7 +181,7 @@ aliases: [Elements of Reasoning, Paul-Elder Elements, Eight Elements Framework, 
 # 🧠 The Elements of Thought: Fundamental Structures of Reasoning
 
 > [!abstract] Executive Summary
-> The **Elements of Thought**, developed by Richard Paul and Linda Elder as part of the [[Paul-Elder Framework]], represent the fundamental building blocks present in all human reasoning. These eight universal structures—Purpose, Question at Issue, Information, Interpretation and Inference, Concepts, Assumptions, Implications and Consequences, and Point of View—provide a systematic methodology for analyzing, deconstructing, and improving thinking across any domain. Mastering these elements transforms critical thinking from an abstract aspiration into a concrete analytical practice, enabling practitioners to identify weaknesses in reasoning, uncover hidden assumptions, trace logical consequences, and construct well-reasoned arguments grounded in intellectual rigor.
+> The **Elements of Thought**, developed by Richard Paul and Linda Elder as part of the [[Paul-Elder-Framework]], represent the fundamental building blocks present in all human reasoning. These eight universal structures—Purpose, Question at Issue, Information, Interpretation and Inference, Concepts, Assumptions, Implications and Consequences, and Point of View—provide a systematic methodology for analyzing, deconstructing, and improving thinking across any domain. Mastering these elements transforms critical thinking from an abstract aspiration into a concrete analytical practice, enabling practitioners to identify weaknesses in reasoning, uncover hidden assumptions, trace logical consequences, and construct well-reasoned arguments grounded in intellectual rigor.
 
 ## 📖 Extracted Definitions
 ```dataviewjs
@@ -242,7 +242,7 @@ The elements function as an **interconnected system**, not isolated components. 
 
 ### Integration Within the Paul-Elder Framework
 
-The Elements of Thought constitute one of three essential components in the complete [[Paul-Elder Framework]] for [[Critical Thinking]]. Understanding their relationship to the other components is crucial for grasping how the framework functions as an integrated whole.
+The Elements of Thought constitute one of three essential components in the complete [[Paul-Elder-Framework]] for [[Critical-Thinking]]. Understanding their relationship to the other components is crucial for grasping how the framework functions as an integrated whole.
 
 > [!methodology-and-sources] The Three-Component Paul-Elder System
 > The complete framework consists of:
@@ -251,7 +251,7 @@ The Elements of Thought constitute one of three essential components in the comp
 > 
 > **2. [[Intellectual-Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.
 > 
-> **3. [[Intellectual Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.
+> **3. [[Intellectual-Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.
 
 The relationship between these components follows a developmental progression. First, you learn to *identify* the elements present in any instance of reasoning—recognizing purposes, detecting assumptions, tracing inferences. Second, you learn to *evaluate* the quality of each element by applying intellectual standards—asking whether the purpose is clear, whether the assumptions are justified, whether the inferences are logical. Third, through consistent practice applying standards to elements, you internalize certain character dispositions—developing habits of questioning your assumptions, considering alternative perspectives, and following reasoning wherever it leads. The elements thus represent the starting point, the foundation upon which the entire critical thinking edifice is constructed.
 
@@ -918,7 +918,7 @@ This systematic application of Standards to Elements transforms vague assessment
 
 ### How Elements Develop Intellectual Traits
 
-The [[Intellectual Traits]]—humility, autonomy, integrity, courage, perseverance, empathy, confidence in reason, and fair-mindedness—emerge through **consistent practice** applying Standards to Elements. This developmental relationship explains how technical analytical skills transform into character virtues.
+The [[Intellectual-Traits]]—humility, autonomy, integrity, courage, perseverance, empathy, confidence in reason, and fair-mindedness—emerge through **consistent practice** applying Standards to Elements. This developmental relationship explains how technical analytical skills transform into character virtues.
 
 **Intellectual Humility** develops when you repeatedly uncover your own hidden Assumptions and recognize your Point of View's limitations. Each time you discover you were wrong about something you felt certain of, humility deepens. Regularly examining assumptions and perspectives builds the trait of recognizing your knowledge limits.
 
@@ -946,25 +946,25 @@ This developmental progression—from technical skill to character virtue—expl
 > 
 > The Elements of Thought connect to numerous other areas within a comprehensive personal knowledge base:
 > 
-> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual-Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
+> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder-Framework]], working in conjunction with [[Intellectual-Standards]] and [[Intellectual-Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.
 > 
-> **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
+> **Logic and Argumentation**: Element analysis directly supports [[Argument-Analysis]], [[Premise-Conclusion-Structure]], [[Validity-and-Soundness]], and [[Informal-Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.
 > 
-> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified-True-Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
+> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified-True-Belief]], [[Sources-of-Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.
 > 
-> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective-Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
+> **Metacognition**: The Elements provide a framework for [[Metacognitive-Monitoring]], [[Self-Regulated-Learning]], and [[Reflective-Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.
 > 
-> **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
+> **Scientific Reasoning**: Element analysis illuminates [[Scientific-Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.
 > 
 > **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).
 > 
 > **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.
 > 
-> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
+> **Cognitive Psychology**: The Elements align with findings in [[Cognitive-Psychology]], [[Heuristics and Biases]], [[Decision-Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.
 > 
 > **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).
 > 
-> **Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—"What is your purpose?" "What evidence supports that?" "What assumptions does that presuppose?" "What implications follow?"
+> **Socratic Questioning**: The Elements provide the structure for [[Socratic-Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—"What is your purpose?" "What evidence supports that?" "What assumptions does that presuppose?" "What implications follow?"
 
 ---
 

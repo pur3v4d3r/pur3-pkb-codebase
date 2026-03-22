@@ -334,7 +334,7 @@ extraction_summary:
 #### 32. [ORIGINAL-SYNTHESIS] Untitled *(Line 444)*
 
 > [!original-synthesis] Untitled
-> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[Schema-Theory|Schema Theory]] of Report 01, the [[Cognitive-Load-Theory|Cognitive Load Theory]] of Report 02, the [[Constructivism]] of Report 03, the [[Metacognitive Self-Regulation]] of Report 04, the [[Desirable-Difficulties|Desirable Difficulties]] of Report 16, the [[Calibration]] of Report 18, the [[Epistemic-Virtue|Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
+> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[Schema-Theory|Schema Theory]] of Report 01, the [[Cognitive-Load-Theory|Cognitive Load Theory]] of Report 02, the [[Constructivism]] of Report 03, the [[Metacognitive-Self-Regulation]] of Report 04, the [[Desirable-Difficulties|Desirable Difficulties]] of Report 16, the [[Calibration]] of Report 18, the [[Epistemic-Virtue|Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
 
 #### 33. [REFLECTION] Integrating the Synthesis *(Line 447)*
 
@@ -565,7 +565,7 @@ extraction_summary:
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Knowledge Component Models]]
 - [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation]]
 - [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]]
@@ -672,7 +672,7 @@ extraction_summary:
 | 66 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 445 |
 | 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 445 |
 | 68 | [[Constructivism]] | — | — | Unresolved Questions | 445 |
-| 69 | [[Metacognitive Self-Regulation]] | — | — | Unresolved Questions | 445 |
+| 69 | [[Metacognitive-Self-Regulation]] | — | — | Unresolved Questions | 445 |
 | 70 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Unresolved Questions | 445 |
 | 71 | [[Calibration]] | — | — | Unresolved Questions | 445 |
 | 72 | [[Epistemic-Virtue|Epistemic Virtue]] | — | — | Unresolved Questions | 445 |
@@ -755,7 +755,7 @@ extraction_summary:
 - [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Knowledge Component Models]]
 - [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
-- [[Metacognitive Self-Regulation]]
+- [[Metacognitive-Self-Regulation]]
 - [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]]
 - [[Personal-Knowledge-Management|Personal Knowledge Management]]
 - [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]]

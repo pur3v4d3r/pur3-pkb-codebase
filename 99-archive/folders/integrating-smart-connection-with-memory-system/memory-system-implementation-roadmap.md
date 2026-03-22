@@ -251,7 +251,7 @@ Current state: [planning | in-progress | completed | blocked]
 
 ### Subtask 1.1: Obsidian Vault Creation
 
-**Reasoning Technique**: [[Chain of Thought]]
+**Reasoning Technique**: [[Chain-of-Thought]]
 
 **Steps**:
 1. Create dedicated directory: `~/memory-vault/` or `~/Documents/AgentMemory/`
@@ -1365,7 +1365,7 @@ Weekly (or after major changes), run consistency validation:
 
 ### Subtask 3.1: Semantic Query Optimization
 
-**Reasoning Technique**: [[Tree of Thoughts]] (explore multiple query strategies)
+**Reasoning Technique**: [[Tree-of-Thoughts]] (explore multiple query strategies)
 
 **Goal**: Improve memory retrieval precision and recall
 
@@ -3080,7 +3080,7 @@ Never fail silently - always inform user of degraded mode.
 
 ### Subtask 5.2: Performance Monitoring
 
-**Reasoning Technique**: [[Chain of Thought]] (step-by-step metrics collection)
+**Reasoning Technique**: [[Chain-of-Thought]] (step-by-step metrics collection)
 
 **Goal**: Track system health and performance over time
 

@@ -71,8 +71,8 @@ link-related:
 
 ## Related Concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## Practical Applications
 

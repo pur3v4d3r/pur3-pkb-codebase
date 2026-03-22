@@ -81,7 +81,7 @@ Application notes (research papers, study analyses, experimental designs) should
 2. **Theories**::`[[Theory 1]], [[Theory 2]]`
    - **Purpose**: Which theoretical frameworks the research engages with
    - **Format**: Array of wiki-links to theory concept notes
-   - **Example**: `Theories:: [[Working Memory]], [[Cognitive Load Theory]]`
+   - **Example**: `Theories:: [[Working-Memory]], [[Cognitive-Load-Theory]]`
 
 3. **Paradigm**::`<value>`
    - **Purpose**: Broader research paradigm or school of thought
@@ -448,7 +448,7 @@ SORT StudyType ASC
 
 ### Common Applications
 
-- **[[Cognitive Load Theory]]** directly builds on WM capacity limitations
+- **[[Cognitive-Load-Theory]]** directly builds on WM capacity limitations
 - Educational interventions designed to reduce WM load
 - Clinical assessments of cognitive impairment
 - Human-computer interaction research
@@ -456,9 +456,9 @@ SORT StudyType ASC
 ## 🔗 Related Concepts
 
 ### Theoretical Connections
-- [[Cognitive Load Theory]] - Explains learning difficulty based on WM limits
+- [[Cognitive-Load-Theory]] - Explains learning difficulty based on WM limits
 - [[Attention]] - Central executive function overlaps with attentional control
-- [[Long-Term Memory]] - Information transfer mechanisms
+- [[Long-Term-Memory]] - Information transfer mechanisms
 
 ### Related Phenomena
 - [[Chunking]] - Strategy to overcome capacity limits
@@ -536,7 +536,7 @@ MOC: "[[Cognitive Science Overview MOC]]"
 ## 📊 Research Metadata
 
 StudyType:: Meta-Analysis
-Theories:: [[Working Memory]], [[Fluid Intelligence]], [[Transfer of Training]]
+Theories:: [[Working-Memory]], [[Fluid Intelligence]], [[Transfer of Training]]
 Paradigm:: Cognitivist
 Population:: Meta-analysis of 87 studies, total N=4,536
 KeyFindings:: Small near-transfer effects (d=0.24), negligible far-transfer to fluid intelligence (d=0.09)
@@ -549,7 +549,7 @@ Does cognitive training targeting working memory capacity produce transfer effec
 
 This meta-analysis tests predictions from:
 
-- **[[Working Memory]]** - If WM is a domain-general capacity, training should show broad transfer
+- **[[Working-Memory]]** - If WM is a domain-general capacity, training should show broad transfer
 - **[[Fluid Intelligence]]** - Hypothesized relationship with WM capacity (individual differences research)
 - **[[Transfer of Training]]** - Conditions under which learning transfers to new domains
 
@@ -599,7 +599,7 @@ Results challenge the theoretical assumption that WM training can enhance domain
 ### Connections to Other Work
 
 - **[[Cognitive Training Debate]]** - Adds to skeptical literature on "brain training" efficacy
-- **[[Dual Process Theory]]** - Suggests System 2 processing limitations may not be malleable through training
+- **[[Dual-Process-Theory]]** - Suggests System 2 processing limitations may not be malleable through training
 - **[[Learning Transfer]]** - Consistent with specificity of learning principle
 
 ### Questions Raised
@@ -621,7 +621,7 @@ This has major implications for my [[Learning System Design]] notes:
 - Focus on domain-specific practice with meaningful contexts
 - Consider if PKB development itself is a form of "cognitive training" - does it transfer?
 
-Relevant to [[Cognitive Load Theory]] application in my vault design:
+Relevant to [[Cognitive-Load-Theory]] application in my vault design:
 - If WM capacity is relatively fixed, offloading to external systems (PKB) becomes even more critical
 - This justifies investment in automation and smart note-taking systems
 
@@ -1260,7 +1260,7 @@ Define 3-5 inline metadata fields for application notes:
 2. **[FieldName2]**::`<value>`
    - **Purpose**: [What this field tracks/classifies]
    - **Format**: [Controlled vocabulary | Free text | Links array]
-   - **Example**: `FieldName2:: [[Concept 1]], [[Concept 2]]`
+   - **Example**: `FieldName2:: [[Concept-1]], [[Concept-2]]`
 
 3. **[FieldName3]**::`<value>`
    - **Purpose**: [What this field tracks/classifies]

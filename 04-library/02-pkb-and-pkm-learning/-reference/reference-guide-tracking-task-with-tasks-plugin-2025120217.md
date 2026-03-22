@@ -209,12 +209,12 @@ LIMIT 15
 >    - Debugging queries
 >    - Best practices
 > **Wiki-Link Opportunities:**
-> - [[Tasks Plugin]]
-> - [[Dataview Plugin]]
+> - [[Tasks-Plugin]]
+> - [[Dataview-Plugin]]
 > - [[Obsidian]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
-> - [[Task Management]]
-> - [[YAML Frontmatter]]
+> - [[Task-Management]]
+> - [[YAML-Frontmatter]]
 > - [[Metadata-Driven Workflows]]
 > - [[Query Languages]]
 > - [[Templater Plugin]]
@@ -250,14 +250,14 @@ aliases: [Task Tracking with Dataview, Tasks + Dataview Guide, Task Query Refere
 # 📋 Tracking Tasks with Tasks Plugin and Dataview
 
 > [!the-purpose]
-> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
+> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks-Plugin]] and [[Dataview-Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task-Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.
 
 ---
 
 ## 🎯 Why Combine Tasks Plugin with Dataview?
 
 > [!core-principle]
-> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
+> The [[Tasks-Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview-Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].
 
 **The Synergy:**
 - **Tasks Plugin**: Specialized task syntax, date handling, recurrence patterns, priority systems, and interactive task completion
@@ -314,7 +314,7 @@ Dataview generates data from your vault by pulling information from Markdown fro
 
 ### Basic Task Syntax
 
-The [[Tasks Plugin]] extends standard Markdown checkboxes with rich metadata signifiers:
+The [[Tasks-Plugin]] extends standard Markdown checkboxes with rich metadata signifiers:
 
 ```markdown
 - [ ] Basic task
@@ -965,7 +965,7 @@ Visiting the library becomes a new note with a task section, creating a visit lo
 
 ### Day Planner for Time Blocking
 
-The [[Day Planner]] plugin can integrate with Tasks plugin for visual time management:
+The [[Day-Planner]] plugin can integrate with Tasks plugin for visual time management:
 
 > [!example]
 > **Time-Blocked Task Schedule:**

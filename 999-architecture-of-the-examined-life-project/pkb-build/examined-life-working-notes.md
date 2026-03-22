@@ -193,7 +193,7 @@ the-architecture-of-the-examined-life/
 - Reports use `[[Concept-Name|Display Text]]` format with hyphenated slugs
 - Reports use `[[report-XX-title|Report XX]]` for cross-report references
 - Reference library uses same conventions but with incorrect target filenames
-- Expansion topics use `[[Concept Name]]` without display text overrides (different convention)
+- Expansion topics use `[[Concept-Name]]` without display text overrides (different convention)
 - Glossary uses `[[report-XX-title|Report XX]]` format correctly
 
 ### YAML Metadata Patterns

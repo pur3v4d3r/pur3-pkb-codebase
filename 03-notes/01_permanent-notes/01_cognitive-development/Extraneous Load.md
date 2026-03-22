@@ -16,9 +16,9 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Germane Load]]"
-  - "[[Intrinsic Load]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Germane-Load]]"
+  - "[[Intrinsic-Load]]"
+  - "[[Cognitive-Load-Theory]]"
 maturity: seedling
 confidence: speculative
 
@@ -32,7 +32,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Extraneous Load]]
+> - **Key-Term**:[[Extraneous-Load]]
 > - [**Definition**:Load imposed by poor instructional design, Minimize through clear presentation, eliminating distractions.]
 
 

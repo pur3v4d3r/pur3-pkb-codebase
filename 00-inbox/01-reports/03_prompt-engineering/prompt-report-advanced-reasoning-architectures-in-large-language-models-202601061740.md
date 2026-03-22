@@ -138,7 +138,7 @@ This architectural separation mirrors cognitive science research on human expert
 
 [**Cognitive-Scaffolding-Theory**:: The principle that complex cognitive tasks require structured support systems (scaffolds) that organize thinking processes, reduce cognitive load, and enable systematic problem-solving—directly applicable to LLM reasoning where explicit thinking tags and frameworks provide the architectural scaffolding for coherent multi-step reasoning.]
 
-The theoretical foundation for extended thinking draws heavily from [[Cognitive Load Theory]] (Sweller, 1988) and its implications for information processing architecture. Human working memory, constrained to approximately 4±1 elements simultaneously (per [[Cowan's Capacity Estimates]]), requires strategic management of cognitive demands. When solving complex problems, experts employ various strategies to work within these constraints:
+The theoretical foundation for extended thinking draws heavily from [[Cognitive-Load-Theory]] (Sweller, 1988) and its implications for information processing architecture. Human working memory, constrained to approximately 4±1 elements simultaneously (per [[Cowan's Capacity Estimates]]), requires strategic management of cognitive demands. When solving complex problems, experts employ various strategies to work within these constraints:
 
 **Chunking**: Grouping related information into unified cognitive units that occupy single working memory slots. A chess grandmaster processes board positions as strategic patterns rather than individual piece locations, dramatically expanding effective working memory capacity.
 
@@ -170,7 +170,7 @@ These tags don't merely organize output; they fundamentally shape the computatio
 
 Recent empirical research demonstrates substantial performance improvements from extended thinking architectures. [**Wei et al. (2022)]]'s seminal work on [[Chain-of-Thought-Prompting]] established baseline evidence: prompting models to "think step by step" before answering improved accuracy on [[GSM8K]] mathematical reasoning tasks from 17.7% to 40.7%—a 130% relative improvement. Subsequent research has refined and extended these findings:
 
-- **[[Tree of Thoughts]]** (Yao et al., 2023): Systematic exploration with backtracking increased [[Game of 24]] success rates from 7.3% to 74%—a **10-fold improvement** through structured reasoning.
+- **[[Tree-of-Thoughts]]** (Yao et al., 2023): Systematic exploration with backtracking increased [[Game of 24]] success rates from 7.3% to 74%—a **10-fold improvement** through structured reasoning.
 
 - **[[Self-Consistency]]** (Wang et al., 2022): Sampling multiple reasoning paths and voting on answers boosted GSM8K performance from 40.7% to 74.4%—an **82% relative improvement** over single-path chain-of-thought.
 
@@ -228,7 +228,7 @@ The practical implication: **self-consistency converts model capacity into relia
 
 [**Tree-of-Thoughts-Architecture**:: A systematic reasoning framework that structures problem-solving as explicit tree search through a state space, where nodes represent intermediate reasoning states, edges represent reasoning steps (thoughts), and search algorithms (BFS/DFS) with state evaluation enable exploration of multiple solution paths with backtracking from dead ends.]
 
-[[Chain-of-Thought]] operates linearly—once committed to a reasoning direction, the model proceeds forward without reconsidering earlier choices. This limitation becomes critical for problems requiring exploration: creative tasks with multiple valid approaches, puzzles where initial strategies may lead to dead ends, or planning scenarios with complex constraint satisfaction. [[Tree of Thoughts]] (ToT) addresses this limitation by transforming reasoning into explicit tree search.
+[[Chain-of-Thought]] operates linearly—once committed to a reasoning direction, the model proceeds forward without reconsidering earlier choices. This limitation becomes critical for problems requiring exploration: creative tasks with multiple valid approaches, puzzles where initial strategies may lead to dead ends, or planning scenarios with complex constraint satisfaction. [[Tree-of-Thoughts]] (ToT) addresses this limitation by transforming reasoning into explicit tree search.
 
 **The Tree of Thoughts framework consists of four essential components**:
 
@@ -306,7 +306,7 @@ This example demonstrates ToT's power: **systematic exploration with evaluation-
 
 [**Graph-of-Thoughts-Framework**:: An advanced reasoning architecture that extends Tree of Thoughts by permitting arbitrary connections between reasoning steps (not just tree hierarchy), enabling bidirectional influence, thought aggregation from multiple predecessors, and emergent insights from non-linear conceptual integration.]
 
-While [[Tree of Thoughts]] structures reasoning as hierarchical parent-child relationships, many complex cognitive tasks involve non-hierarchical conceptual networks. [[Graph of Thoughts]] (GoT) recognizes that reasoning often requires:
+While [[Tree-of-Thoughts]] structures reasoning as hierarchical parent-child relationships, many complex cognitive tasks involve non-hierarchical conceptual networks. [[Graph of Thoughts]] (GoT) recognizes that reasoning often requires:
 
 **Bidirectional Influence**: Later insights informing earlier reasoning (not just forward progression)
 **Multi-Source Integration**: Thoughts building on multiple predecessors simultaneously
@@ -839,7 +839,7 @@ Not all reasoning frameworks suit all problems equally. **Effective prompt engin
 
 **Sequential Deterministic Problems**: Tasks with clear step-by-step solution paths (mathematical calculations, algorithmic procedures, logical deductions) → [[Chain-of-Thought]] provides sufficient structure
 
-**Exploration-Required Problems**: Tasks where initial approaches may lead to dead ends, requiring backtracking (puzzles, creative tasks with constraints, complex planning) → [[Tree of Thoughts]] or [[Graph of Thoughts]] enable systematic exploration
+**Exploration-Required Problems**: Tasks where initial approaches may lead to dead ends, requiring backtracking (puzzles, creative tasks with constraints, complex planning) → [[Tree-of-Thoughts]] or [[Graph of Thoughts]] enable systematic exploration
 
 **Reliability-Critical Problems**: Tasks where answer correctness is paramount and single-pass errors unacceptable (medical diagnosis, legal analysis, financial decisions) → [[Self-Consistency]] provides ensemble error correction
 
@@ -857,7 +857,7 @@ Query: "Plan a 3-day conference schedule with 8 speakers, considering their avai
 - Not particularly knowledge-intensive: Constraints provided in query
 - Moderate reliability needs: Some schedule errors acceptable if caught
 
-**Selected Framework**: [[Tree of Thoughts]] with constraint checking as state evaluation
+**Selected Framework**: [[Tree-of-Thoughts]] with constraint checking as state evaluation
 
 Rationale: Planning problems with constraints benefit from systematic exploration with backtracking. ToT's state evaluation can check constraint violations, pruning invalid partial schedules. The moderate reliability needs don't justify expensive self-consistency ensemble.
 
@@ -875,7 +875,7 @@ Query: "What are the latest treatment approaches for drug-resistant tuberculosis
 
 1. **[[RAG]] (Knowledge Foundation)**: Retrieve recent medical literature on drug-resistant TB treatments from PubMed and clinical trial databases → Grounds response in current research
 
-2. **[[Tree of Thoughts]] (Systematic Analysis)**: Structure exploration of multiple treatment approaches, evaluating each against efficacy evidence → Ensures comprehensive coverage of options
+2. **[[Tree-of-Thoughts]] (Systematic Analysis)**: Structure exploration of multiple treatment approaches, evaluating each against efficacy evidence → Ensures comprehensive coverage of options
 
 3. **[[Chain of Verification]] (Accuracy Assurance)**: Generate verification questions for factual claims, validate against retrieved documents → Catches hallucinations or misinterpretations
 

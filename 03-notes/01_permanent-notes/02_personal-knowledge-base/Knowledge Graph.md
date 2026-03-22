@@ -28,7 +28,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Knowledge Graph]]
+> - **Key-Term**:: [[Knowledge-Graph]]
 > - **Definition**::
 
 

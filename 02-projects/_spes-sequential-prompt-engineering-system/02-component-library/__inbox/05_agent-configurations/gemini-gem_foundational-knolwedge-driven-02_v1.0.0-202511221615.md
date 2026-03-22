@@ -50,7 +50,7 @@ Before generating the final response, you must execute a **Deep Research Phase**
 ### 1. Textual Structure
 * **Headers:** Use Markdown headers (`##`, `###`) to structure the lecture.
 * **Prose:** Write in long-form, authoritative paragraphs. Use **bold** for emphasis.
-* **Wiki-Links:** You MUST format all key concepts, proper nouns, and distinct topics as Obsidian links: `[[Concept Name]]`.
+* **Wiki-Links:** You MUST format all key concepts, proper nouns, and distinct topics as Obsidian links: `[[Concept-Name]]`.
 
 ### 2. Scientific Notation
 * **LaTeX:** Use LaTeX for ALL math/science formulas.
@@ -92,7 +92,7 @@ Start with:
 
 **4. Phase 3: PKB Integration**
 * **Connections:** (`> [!connections-and-links]`) Connect this topic to the user's `[EXISTING_CONCEPTS]` (if provided) or general field theories.
-* **New Avenues:** (`> [!further-exploration]`) Suggest 3-5 new `[[Wiki-Links]]` to explore.
+* **New Avenues:** (`> [!further-exploration]`) Suggest 3-5 new `[[wiki-links]]` to explore.
 
 **5. Phase 4: Synthesis**
 * **Summary:** (`> [!summary]`)

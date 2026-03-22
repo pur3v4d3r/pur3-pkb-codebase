@@ -30,7 +30,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 ## Phase 1: Overture & Foundation
 
 > [!abstract]
-> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
+> Personal Knowledge Management (PKM) is frequently mischaracterized as a mere productivity practice or digital filing system. In a rigorous academic context, however, PKM functions as an externalized architecture for **Metacognition**—the ability to monitor, assess, and regulate one's own cognitive processes. This analysis argues that the specific mechanics of modern PKM (linking, structuring, and reviewing) serve as applied scaffolding for **Self-Regulated Learning (SRL)**. By externalizing the relationships between [[Atomic-Notes]], the learner is forced to engage in high-order evaluation of their own understanding, transforming the vault from a storage repository into a dynamic feedback loop of epistemic growth.
 
 > [!the-purpose]
 > To deconstruct the mechanical operations of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]—specifically linking, structuring, and reviewing—and validate them as essential cognitive instruments for achieving [[Metacognition]] and deep understanding.
@@ -47,7 +47,7 @@ Aliases: [[Metacognitive PKM Frameworks]], [[Externalized Cognition in Note-Taki
 
 ### The Theoretical Basis: From Storage to Synthesis
 
-The evolution of [[Knowledge Management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[Constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
+The evolution of [[Knowledge-Management]] has shifted from a focus on retrieval efficiency to a focus on generative synthesis. Historically, the "filing cabinet" model treated information as static artifacts to be preserved. However, modern cognitive science suggests that deep learning requires the active reconstruction of knowledge, a concept rooted in [[Constructivism]]. When a learner engages with a PKM system, they are not merely transcribing information; they are translating external stimuli into internal mental models. This translation process relies heavily on **Self-Regulated Learning (SRL)**, a cyclical process where the learner plans, monitors, and evaluates their learning strategies.
 
 > [!core-principle]
 > **The Mirror Principle of PKM**
@@ -59,7 +59,7 @@ The act of creating a bi-directional link (e.g., `[[Concept A]]` <-> `[[Concept 
 
 > [!analysis-cognitive]
 > **The Decision Cost of Linking**
-> When a student utilizes [[Rote Memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
+> When a student utilizes [[Rote-memorization]], facts are stored in isolation. In contrast, [[Associative Learning]] through linking imposes a "desirable difficulty"—a term coined by Robert Bjork—that strengthens retention. The cognitive load required to determine *where* a note belongs and *what* it connects to effectively encodes the information into long-term memory.
 
 Furthermore, the topology of a knowledge graph provides immediate visual feedback on the learner's intellectual blind spots. An "Orphan Note" (a note with no links) signals a piece of information that has not yet been integrated into the learner's wider web of belief. The visual isolation of the note triggers a regulatory response: the learner must either find a connection or discard the information as irrelevant. This process formalizes the **Elaboration Strategy**, a learning tactic where students expand on new information by connecting it to prior knowledge.
 

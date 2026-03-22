@@ -31,7 +31,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Stoic Philosophy]]
+> - **Key-Term**:[[Stoic-Philosophy]]
 > - **Definition**:
 
 

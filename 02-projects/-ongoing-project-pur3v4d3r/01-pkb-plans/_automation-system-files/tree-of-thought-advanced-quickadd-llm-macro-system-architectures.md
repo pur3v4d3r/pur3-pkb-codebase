@@ -139,7 +139,7 @@ And this new paper: "${metadata.title}"
 Suggest 5-10 existing notes that should be linked to this paper, with a one-sentence explanation of the connection for each.
 
 Format as:
-[[Note Name]]: Connection explanation
+[[Note-Name]]: Connection explanation
 `;
 
   const linkSuggestions = await api.ai(llmPrompt2);
@@ -297,7 +297,7 @@ For each connection you suggest, explain:
 3. Potential synthesis question this connection raises
 
 Format:
-[[Note Name]]
+[[Note-Name]]
 - New → Existing: [explanation]
 - Existing → New: [explanation]
 - Synthesis: [question or insight]
@@ -561,7 +561,7 @@ ${searchResults.map(r => `- [[${r.basename}]]: ${r.excerpt}`).join('\n')}
 TASK: Suggest 3-5 connections with justifications.
 
 Format:
-### [[Note Name]]
+### [[Note-Name]]
 **Connection Type:** [builds-on / contrasts-with / example-of / applies-to]
 **Justification:** [One sentence explaining the relationship]
 **Suggested Link Location:** [Which section of the current note?]

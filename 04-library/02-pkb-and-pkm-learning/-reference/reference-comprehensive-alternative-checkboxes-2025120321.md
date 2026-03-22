@@ -189,7 +189,7 @@ LIMIT 15
 > Wiki-Link Opportunities:
 > - [[Markdown]]
 > - [[Obsidian]]
-> - [[Task Management]]
+> - [[Task-Management]]
 > - [[GTD (Getting Things Done)]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[CSS Snippets]]
@@ -198,7 +198,7 @@ LIMIT 15
 > - [[Metadata]]
 > - [[Workflow Design]]
 > - [[Visual Semantics]]
-> - [[Information Architecture]]
+> - [[Information-Architecture]]
 > Callout Strategy:
 > - [!definition] for checkbox type definitions
 > - [!example] for syntax demonstrations
@@ -230,7 +230,7 @@ aliases: [Checkbox Types, Task Checkboxes, Alternative Checkboxes, Obsidian Chec
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 7 major sections covering foundational concepts, complete syntax taxonomies, theme-specific implementations, plugin integrations, CSS customization, practical workflows, and synthesis frameworks. Use the table of contents for quick navigation, or search for specific checkbox characters using [[Wiki-Links]].
+> This reference note is organized into 7 major sections covering foundational concepts, complete syntax taxonomies, theme-specific implementations, plugin integrations, CSS customization, practical workflows, and synthesis frameworks. Use the table of contents for quick navigation, or search for specific checkbox characters using [[wiki-links]].
 
 ## 📑 Table of Contents
 
@@ -252,7 +252,7 @@ aliases: [Checkbox Types, Task Checkboxes, Alternative Checkboxes, Obsidian Chec
 
 ### The Evolution from Standard Markdown
 
-Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge Work]] and [[Project Management]] within a [[Personal Knowledge Base]]. The [[Obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
+Standard [[Markdown]] provides only two checkbox states: unchecked (`- [ ]`) and checked (`- [x]`). This binary system, while sufficient for basic task tracking, proves inadequate for sophisticated [[Knowledge Work]] and [[Project Management]] within a [[Personal-Knowledge-Base]]. The [[Obsidian]] community recognized this limitation and developed a de facto standard for alternative checkbox syntax that maintains [[Markdown]] compatibility while enabling rich semantic distinctions.
 
 The alternative checkbox system originated from community themes, particularly @kepano's [[Minimal Theme]], and was subsequently adopted by numerous other themes including [[ITS Theme]] by SlRvb, [[Things Theme]], [[Primary Theme]], and others. The implementation relies on [[HTML]] `data-task` attributes that [[Obsidian]] automatically generates when rendering task lists, which can then be targeted with [[CSS]] selectors for custom styling.
 
@@ -274,9 +274,9 @@ The alternative checkbox system comprises three interdependent components:
 
 ### Integration with Obsidian's Task Architecture
 
-Alternative checkboxes integrate seamlessly with [[Obsidian]]'s native task management features and extend functionality when combined with plugins like [[Tasks Plugin]], [[Dataview]], and [[Kanban Plugin]]. The [[Tasks Plugin]] in particular has evolved to recognize and support custom statuses, allowing for sophisticated filtering, sorting, and querying based on checkbox types.
+Alternative checkboxes integrate seamlessly with [[Obsidian]]'s native task management features and extend functionality when combined with plugins like [[Tasks-Plugin]], [[Dataview]], and [[Kanban Plugin]]. The [[Tasks-Plugin]] in particular has evolved to recognize and support custom statuses, allowing for sophisticated filtering, sorting, and querying based on checkbox types.
 
-When you toggle a checkbox by clicking it in [[Reading View]] or using the keyboard shortcut in [[Edit Mode]], [[Obsidian]] cycles through defined states. By default, the [[Tasks Plugin]] provides three states: unchecked (`[ ]`), in progress (`[/]`), and completed (`[x]`). However, users can configure custom status cycles and import predefined status collections from popular themes.
+When you toggle a checkbox by clicking it in [[Reading View]] or using the keyboard shortcut in [[Edit Mode]], [[Obsidian]] cycles through defined states. By default, the [[Tasks-Plugin]] provides three states: unchecked (`[ ]`), in progress (`[/]`), and completed (`[x]`). However, users can configure custom status cycles and import predefined status collections from popular themes.
 
 > [!warning]
 > **Critical Constraints**
@@ -544,19 +544,19 @@ The [[Primary Theme]] follows the community standard established by [[Minimal Th
 
 ### Tasks Plugin
 
-The [[Tasks Plugin]] is the most sophisticated task management solution for [[Obsidian]], providing advanced querying, filtering, recurring tasks, and full custom status support.
+The [[Tasks-Plugin]] is the most sophisticated task management solution for [[Obsidian]], providing advanced querying, filtering, recurring tasks, and full custom status support.
 
 > [!definition]
 > - **Key-Term**:: [[Custom Statuses]]
-> - **Definition**:: User-definable task state configurations in [[Tasks Plugin]] that map checkbox characters to semantic meanings, enable status-aware querying, and control task cycling behavior.
+> - **Definition**:: User-definable task state configurations in [[Tasks-Plugin]] that map checkbox characters to semantic meanings, enable status-aware querying, and control task cycling behavior.
 
 **Core Status Functionality:**
 
-By default, [[Tasks Plugin]] recognizes three statuses: TODO (`[ ]`), IN_PROGRESS (`[/]`), and DONE (`[x]`), and provides the ability to cycle through these states via the "Toggle Done" command.
+By default, [[Tasks-Plugin]] recognizes three statuses: TODO (`[ ]`), IN_PROGRESS (`[/]`), and DONE (`[x]`), and provides the ability to cycle through these states via the "Toggle Done" command.
 
 **Custom Status Configuration:**
 
-As of [[Tasks Plugin]] version 1.23.0, users can define custom statuses with the following properties:
+As of [[Tasks-Plugin]] version 1.23.0, users can define custom statuses with the following properties:
 
 - **Status Symbol**: The character that appears in brackets (e.g., `?`, `!`, `-`)
 - **Status Name**: Human-readable name (e.g., "Question", "Important", "Cancelled")
@@ -566,7 +566,7 @@ As of [[Tasks Plugin]] version 1.23.0, users can define custom statuses with the
 
 **Status Collections:**
 
-[[Tasks Plugin]] provides pre-configured status collections that can be imported via Settings → Tasks → Statuses:
+[[Tasks-Plugin]] provides pre-configured status collections that can be imported via Settings → Tasks → Statuses:
 
 1. **Minimal Theme Collection** - Matches [[Minimal Theme]] checkbox semantics
 2. **SlRvb's Alternative Checkboxes** - Full [[ITS Theme]] compatibility
@@ -596,11 +596,11 @@ done before 2024-12-01
 
 > [!helpful-tip]
 > **Workflow Optimization**
-> Replace [[Obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
+> Replace [[Obsidian]]'s default "Toggle checkbox status" hotkey with [[Tasks-Plugin]]'s "Tasks: Toggle Done" command for status-aware cycling that respects your custom status definitions.
 
 ### Dataview Integration
 
-[[Dataview Plugin]] can query tasks with alternative checkboxes through its task extraction features, though it doesn't natively distinguish between different checkbox types without additional configuration.
+[[Dataview-Plugin]] can query tasks with alternative checkboxes through its task extraction features, though it doesn't natively distinguish between different checkbox types without additional configuration.
 
 **Basic Task Queries:**
 
@@ -621,7 +621,7 @@ WHERE contains(file.content, "[?]")
 
 **Integration with Tasks Plugin:**
 
-[[Dataview]] includes a setting "Automatic Task Completion Tracking" that helps synchronize task completion data, useful when combining [[Dataview]] queries with [[Tasks Plugin]] functionality.
+[[Dataview]] includes a setting "Automatic Task Completion Tracking" that helps synchronize task completion data, useful when combining [[Dataview]] queries with [[Tasks-Plugin]] functionality.
 
 ### Complementary Plugins
 
@@ -656,7 +656,7 @@ The [[Completed Tasks Plugin]] automatically moves checked checkboxes to the bot
 > **Plugin Synergy Matrix**
 > 
 > Optimal workflow combinations:
-> - **[[Tasks Plugin]] + [[Minimal Theme]]**: Full-featured task management with visual semantics
+> - **[[Tasks-Plugin]] + [[Minimal Theme]]**: Full-featured task management with visual semantics
 > - **[[Task Status Plugin]] + [[ITS Theme]]**: Rapid status changes for creative writing workflows
 > - **[[Dataview]] + [[Checkbox Time Tracker]]**: Temporal analysis of task completion patterns
 > - **[[Checkbox Sync]] + hierarchical outlines**: Automated progress tracking for complex projects
@@ -1143,7 +1143,7 @@ The [[ITS Theme]]'s extensive checkbox set was specifically designed for fiction
 > - Managing complex multi-state workflows
 > - Requiring visual semantic indicators
 > - Building sophisticated [[Knowledge Work]] systems
-> - Integrating with [[Tasks Plugin]] or [[Dataview]]
+> - Integrating with [[Tasks-Plugin]] or [[Dataview]]
 > - Tracking diverse information types beyond tasks
 
 ### Integration with Obsidian Features
@@ -1316,7 +1316,7 @@ Create [[Templater]] or [[QuickAdd]] templates that insert pre-structured checkb
 
 **Strategy 3: Query-Driven Dashboards**
 
-Combine [[Tasks Plugin]] queries with alternative checkboxes to create dynamic dashboard views:
+Combine [[Tasks-Plugin]] queries with alternative checkboxes to create dynamic dashboard views:
 
 ```markdown
 ## Command Center
@@ -1366,7 +1366,7 @@ status.symbol is ?
 
 *Problem*: Using `[?]` sometimes for "question" and sometimes for "maybe," diluting semantic meaning.
 
-*Solution*: Create a [[Reference Note]] (this document!) defining your checkbox vocabulary. Link to it from your daily note template.
+*Solution*: Create a [[Reference-Note]] (this document!) defining your checkbox vocabulary. Link to it from your daily note template.
 
 **Pitfall 3: Theme Lock-In**
 

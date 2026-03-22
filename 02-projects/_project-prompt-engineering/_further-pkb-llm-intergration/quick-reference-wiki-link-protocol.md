@@ -85,12 +85,12 @@ Has term been linked in this section already?
 ## Link Pattern Examples
 
 > [!example] Good Linking
-> [[Cognitive Load Theory]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[Working Memory]].
+> [[Cognitive-Load-Theory]] explains how cognitive load affects learning. When load exceeds capacity, it overwhelms [[Working-Memory]].
 > 
 > *Links key concepts once per section*
 
 > [!warning] Over-Linking (Avoid)
-> [[Cognitive-Load]] theory explains how [[Cognitive-Load]] affects learning. When [[Cognitive-Load]] is too high, [[Cognitive-Load]] overwhelms [[working memory]].
+> [[Cognitive-Load]] theory explains how [[Cognitive-Load]] affects learning. When [[Cognitive-Load]] is too high, [[Cognitive-Load]] overwhelms [[Working-Memory]].
 > 
 > *Same term linked repeatedly = visual clutter*
 
@@ -103,7 +103,7 @@ Has term been linked in this section already?
 
 **Theoretical Frameworks:**
 ````markdown
-[[Cognitive Load Theory]], [[Self-Determination Theory]], [[Dual Coding Theory]]
+[[Cognitive-Load-Theory]], [[Self-Determination-Theory]], [[Dual-Coding-Theory]]
 ````
 
 **Technical Terms:**
@@ -113,7 +113,7 @@ Has term been linked in this section already?
 
 **Methodologies:**
 ````markdown
-[[Zettelkasten]], [[Progressive Summarization]], [[Spaced Repetition]]
+[[Zettelkasten]], [[Progressive-Summarization]], [[Spaced-Repetition]]
 ````
 
 **Processes:**
@@ -134,17 +134,17 @@ When creating links, consider:
 
 **Example:**
 ````markdown
-In [[Cognitive Load Theory]]:
+In [[Cognitive-Load-Theory]]:
 
 Forward links to:
-- [[Working Memory]]
-- [[Schema Theory]]
-- [[Instructional Design]]
+- [[Working-Memory]]
+- [[Schema-Theory]]
+- [[Instructional-Design]]
 
 Should be linked from:
 - [[Learning Theory Overview]]
-- [[Educational Psychology]]
-- [[Multimedia Learning]]
+- [[Educational-Psychology]]
+- [[Multimedia-Learning]]
 ````
 
 ## Link Density Self-Check
@@ -168,20 +168,20 @@ Every sentence has links?
 
 1. **Grammatical flow:**
 ````markdown
-   theories of [[Cognitive Load Theory|cognitive load]]
+   theories of [[Cognitive-Load-Theory|cognitive load]]
 ````
 
 2. **Abbreviation expansion:**
 ````markdown
-   [[Self-Determination Theory|SDT]]
+   [[Self-Determination-Theory|SDT]]
 ````
 
 3. **Section-specific reference:**
 ````markdown
-   [[Cognitive Load Theory#Intrinsic Load|intrinsic cognitive load]]
+   [[Cognitive-Load-Theory#Intrinsic Load|intrinsic cognitive load]]
 ````
 
 4. **Alternative phrasing:**
 ````markdown
-   [[Progressive Summarization|layer-based distillation]]
+   [[Progressive-Summarization|layer-based distillation]]
 ````

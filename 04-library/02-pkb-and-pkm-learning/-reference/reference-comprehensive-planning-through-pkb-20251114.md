@@ -29,7 +29,7 @@ aliases: [Planning in PKB, Knowledge Work Planning, Self-Education Planning, PKB
 
 > [!abstract]
 > **Executive Overview**
-> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Self Directed Learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
+> Planning in the context of [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Self-Directed-Learning|Self-Directed Learning]] is the metacognitive process of systematically organizing cognitive resources, time allocation, and learning objectives to maximize knowledge acquisition and application within a [[PKB]] environment. This reference note synthesizes cognitive science research, planning methodologies, and Obsidian-specific implementation strategies to provide a comprehensive framework for planning knowledge work and self-education activities.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -93,7 +93,7 @@ Zimmerman's model breaks self-regulated learning into three cyclical phases:
 
 > [!connection-ideas]
 > **The Cognitive Load Relationship**
-> Planning reduces [[Working Memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
+> Planning reduces [[Working-Memory]] burden by creating external cognitive scaffolds. David Allen's [[GTD]] methodology explicitly addresses this: "There is an inverse relationship between things on your mind and those things getting done." When planning systems externalize commitments, they free working memory for higher-order cognitive tasks rather than mere recall.
 
 Metacognition at early ages directly predicts later academic performance, suggesting that planning capabilities compound over time. The act of planning itself strengthens metacognitive abilities, creating a positive feedback loop where better planning leads to better learning outcomes, which reinforces planning behaviors.
 
@@ -104,7 +104,7 @@ Planning operates on two complementary levels:
 | Planning Level | Function | Example in PKB Context |
 |----------------|----------|------------------------|
 | **Strategic (Macro)** | Long-term goal architecture, system design | Designing a [[Zettelkasten]] structure for comprehensive topic coverage over years |
-| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[Deliberate Practice]] session on a specific concept |
+| **Tactical (Micro)** | Daily task selection, session organization | Planning today's [[Deliberate-Practice]] session on a specific concept |
 | **Operational** | Real-time resource allocation | Deciding to switch from reading to note-making based on cognitive fatigue |
 
 > [!methodology-and-sources]
@@ -159,7 +159,7 @@ Select next action based on four criteria:
 
 > [!key-claim]
 > **GTD's Cognitive Liberation**
-> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed Cognition]] or [[Extended Mind]] theory.
+> The fundamental promise of GTD is stress reduction through complete externalization. When your "reminder system" is external and trusted, your mind stops repeatedly surfacing incomplete commitments, allowing genuine focus on current tasks. GTD can be understood as an application of [[Distributed-Cognition]] or [[Extended Mind]] theory.
 
 ### GTD for Knowledge Work: Adaptations
 
@@ -257,7 +257,7 @@ Effective time blocking follows this systematic approach:
 > **Time Block Categories for Knowledge Work**
 > 
 > **Deep Work Blocks** (90-120 minutes)
-> - [[Deliberate Practice]] on challenging concepts
+> - [[Deliberate-Practice]] on challenging concepts
 > - [[Creative Synthesis]] writing  
 > - Complex problem-solving
 > - Original research and analysis
@@ -277,7 +277,7 @@ Effective time blocking follows this systematic approach:
 > **Integration Blocks** (30-60 minutes)
 > - [[Weekly Review]] processes
 > - Cross-linking notes
-> - [[Progressive Summarization]]
+> - [[Progressive-Summarization]]
 > - Knowledge consolidation
 
 ## Eisenhower Matrix: Priority Quadrants
@@ -308,7 +308,7 @@ Effective time blocking follows this systematic approach:
 
 > [!key-claim]
 > **The Quadrant II Revolution**
-> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
+> For self-directed learners, Quadrant II (Important but Not Urgent) contains the highest-leverage activities: [[Deliberate-Practice]], [[System Building]], [[Relationship Cultivation]], and [[Strategic Planning]]. Most people spend excessive time in Quadrants I and III (urgent tasks), neglecting Quadrant II until items become urgent, creating chronic crisis management.
 
 ### Eisenhower Matrix in PKB Planning
 
@@ -440,7 +440,7 @@ graph TD
 > **Theme**: "Year of Systematic Learning"
 > 
 > **Strategic Domains**:
-> 1. [[Cognitive Psychology]]: Build research-level understanding
+> 1. [[Cognitive-Psychology]]: Build research-level understanding
 > 2. [[Statistical Analysis]]: Progress from novice to intermediate practitioner  
 > 3. [[Technical Writing]]: Develop publication-quality skills
 > 
@@ -554,7 +554,7 @@ Weekly planning is where strategic vision meets tactical execution. The weekly r
 
 **Weekly Planning in Obsidian**:
 
-Obsidian's [[Periodic Notes]] plugin combined with [[Templater]] and [[dataview]] enables automated weekly note generation that pulls in data from daily notes and displays progress toward goals.
+Obsidian's [[Periodic Notes]] plugin combined with [[Templater]] and [[Dataview]] enables automated weekly note generation that pulls in data from daily notes and displays progress toward goals.
 
 ### Daily Planning: Execution Roadmap
 
@@ -693,10 +693,10 @@ Obsidian's planning capabilities emerge from strategic plugin combinations. The 
 |--------|----------|---------------|
 | **[[Periodic Notes]]** | Creates daily, weekly, monthly, quarterly, yearly notes with customizable templates | Temporal structure foundation |
 | **[[Templater]]** | Dynamic template engine with JavaScript capabilities for date manipulation, variable insertion, and automation | Template automation and note generation |
-| **[[dataview]]** | Query language and JavaScript API for filtering, sorting, and extracting data from markdown pages | Progress tracking, task aggregation, metrics visualization |
-| **[[Tasks Plugin]]** | Advanced task management with due dates, priorities, recurrence, filtering | Task lifecycle management |
+| **[[Dataview]]** | Query language and JavaScript API for filtering, sorting, and extracting data from markdown pages | Progress tracking, task aggregation, metrics visualization |
+| **[[Tasks-Plugin]]** | Advanced task management with due dates, priorities, recurrence, filtering | Task lifecycle management |
 | **[[Calendar Plugin]]** | Monthly calendar view enabling visual navigation and note creation by clicking dates | Visual temporal navigation |
-| **[[Day Planner]]** | Timeline view of daily tasks with time-blocking interface, integrates with Google Calendar | Time-block visualization and execution |
+| **[[Day-Planner]]** | Timeline view of daily tasks with time-blocking interface, integrates with Google Calendar | Time-block visualization and execution |
 
 ### Advanced Planning Plugins
 
@@ -1661,7 +1661,7 @@ Match task types to energy levels:
 
 | Energy Level | Optimal Tasks | Time Blocking |
 |--------------|---------------|---------------|
-| **Peak (⚡⚡⚡)** | [[Deliberate Practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
+| **Peak (⚡⚡⚡)** | [[Deliberate-Practice]], creative synthesis, complex problem-solving | 9:00-11:00 AM, 4:00-6:00 PM |
 | **Moderate (⚡⚡)** | Learning, reading, note-making, routine practice | 2:00-4:00 PM |
 | **Low (⚡)** | Admin, email, organization, review, shallow work | 12:00-2:00 PM |
 
@@ -1993,26 +1993,26 @@ This structure flows from abstract understanding → concrete methodology → sp
 - Level 3 Headers (###): Implementation details and examples
 
 **Wiki-Link Opportunities Identified**:
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning]]
 - [[Metacognition]]
-- [[Working Memory]]
+- [[Working-Memory]]
 - [[Goal Setting]]
 - [[Zettelkasten]]
 - [[Daily Notes]]
 - [[Weekly Reviews]]
 - [[Project Management]]
-- [[Task Management]]
-- [[Cognitive Load]]
-- [[Deliberate Practice]]
+- [[Task-Management]]
+- [[Cognitive-Load]]
+- [[Deliberate-Practice]]
 - [[Time Blocking]]
 - [[GTD]] (Getting Things Done)
 - [[PARA Method]]
-- [[Progressive Summarization]]
-- [[Spaced Repetition]]
+- [[Progressive-Summarization]]
+- [[Spaced-Repetition]]
 - [[Retrieval-Practice]]
 - [[Obsidian Templates]]
-- [[Dataview Plugin]]
-- [[Tasks Plugin]]
+- [[Dataview-Plugin]]
+- [[Tasks-Plugin]]
 - [[Calendar Plugin]]
 - [[Periodic Notes]]
 

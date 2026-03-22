@@ -34,7 +34,7 @@ review-priority: medium
 # Long-Term Memory
 
 > [!definition]
-> - **Key-Term**:[[Long-Term Memory]]
+> - **Key-Term**:[[Long-Term-Memory]]
 > - [**Definition**:Your general store of remembered information.]
 
 ## Foundational Understanding
@@ -45,7 +45,7 @@ review-priority: medium
 - Possesses effectively unlimited storage capacity and can retain information for a lifetime once properly encoded.
 ## Related Concepts
 
-- [[Working Memory]]
+- [[Working-Memory]]
 - [[Prospective Memory]]
 - [[Retrospective Memory]]
 

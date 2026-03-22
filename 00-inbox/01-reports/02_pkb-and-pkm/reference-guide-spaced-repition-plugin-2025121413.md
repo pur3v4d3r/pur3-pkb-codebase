@@ -385,7 +385,7 @@ aliases: [Obsidian SR, SR Plugin, Spaced Repetition Plugin Guide, Flashcard Revi
 
 ## 📖 Introduction to Spaced Repetition in Obsidian
 
-[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal Knowledge Base]], allowing you to transform passive notes into active learning materials without leaving your vault.
+[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal-Knowledge-Base]], allowing you to transform passive notes into active learning materials without leaving your vault.
 
 Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA Method]] organizational systems.
 
@@ -667,7 +667,7 @@ Molecular formula of water::H₂O
 ```
 
 > [!helpful-tip]
-> Use [[YAML Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
+> Use [[YAML-Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.
 
 ### Folder-Based Decks (Alternative Method)
 
@@ -1118,7 +1118,7 @@ The first president was ==George Washington==.
 
 ### PKM System Integration
 
-The SR Plugin complements various [[Personal Knowledge Management]] methodologies:
+The SR Plugin complements various [[Personal-Knowledge-Management]] methodologies:
 
 **With [[Zettelkasten]]:**
 - Create atomic notes with embedded flashcards
@@ -1158,10 +1158,10 @@ tags: [#flashcards/<% tp.file.folder() %>]
 <% tp.file.cursor(1) %>
 ```
 
-**[[Tasks Plugin]]:**
+**[[Tasks-Plugin]]:**
 Track "Create flashcards for X" tasks:
 ```markdown
-- [ ] Convert [[Cognitive Load Theory]] notes to flashcards #task/learning
+- [ ] Convert [[Cognitive-Load-Theory]] notes to flashcards #task/learning
 ```
 
 ---
@@ -1173,7 +1173,7 @@ Track "Create flashcards for X" tasks:
 1. **[[Spaced Repetition Theory]]**
    - *Connection*: Theoretical foundation underlying the SR Plugin's scheduling algorithms
    - *Depth Potential*: Understanding forgetting curves, retention functions, and optimal spacing
-   - *Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive Psychology]], and [[Educational Technology]]
+   - *Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive-Psychology]], and [[Educational Technology]]
 
 2. **[[SuperMemo Algorithm (SM-2)]]**
    - *Connection*: The scheduling algorithm implemented by the SR Plugin
@@ -1183,7 +1183,7 @@ Track "Create flashcards for X" tasks:
 3. **[[Effective Flashcard Design]]**
    - *Connection*: Principles for creating high-quality flashcards that maximize retention
    - *Depth Potential*: Atomic card principle, context preservation, mnemonic techniques, multi-modal learning
-   - *Knowledge Graph Role*: Practical application of [[Cognitive Load Theory]], [[Dual-Coding-Theory]], and [[Desirable-Difficulties]]
+   - *Knowledge Graph Role*: Practical application of [[Cognitive-Load-Theory]], [[Dual-Coding-Theory]], and [[Desirable-Difficulties]]
 
 4. **[[Active Recall vs. Passive Review]]**
    - *Connection*: The cognitive mechanism that makes spaced repetition effective

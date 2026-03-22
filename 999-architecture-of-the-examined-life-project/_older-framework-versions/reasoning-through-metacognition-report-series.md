@@ -112,7 +112,7 @@ narrower:
 see-also:
   - "[[Mental-Models]]"
   - "[[Epistemic-Humility]]"
-  - "[[Lifelong-Learning]]"
+  - "[[Lifelong-learning]]"
   - "[[PKB-Integration]]"
 
 expansion-topics:
@@ -540,7 +540,7 @@ related:
 
 broader:
   - "[[Philosophy of Mind]]"
-  - "[[Cognitive Science]]"
+  - "[[Cognitive-Science]]"
   - "[[Epistemology]]"
 
 narrower:
@@ -629,7 +629,7 @@ document-features:
 
 When we say we want to *structure* our thought, we are making a deeply optimistic assumption: that thought is the kind of thing that *can* be structured. We assume there is a process called thinking, that it can be organised better or worse, and that we have some capacity to intervene in it deliberately. These assumptions are so natural, so immediately intuitive, that they almost never get examined. And that is precisely why a first-principles investigation must start here — not with the techniques, but with the assumptions the techniques quietly presuppose.
 
-Consider what you implicitly believe when you decide to "think more carefully" about something. You believe that you have thoughts. You believe those thoughts are about things — that when you think about an argument, your mental state is, in some real sense, *of* that argument. You believe you can move from one thought to another in ways that feel like progress — that you are *reasoning toward* something. And you believe you can step back and observe your own thinking, that you are not simply carried along by your mental processes but can, to some degree, direct them. None of these beliefs is trivial. Each one conceals a philosophical problem that generations of thinkers have struggled with. [[Immanuel Kant]] called the investigation of the conditions of possible experience "transcendental philosophy." What we are doing here is a narrower version of that project: a transcendental inquiry into the conditions of possible *thought*.
+Consider what you implicitly believe when you decide to "think more carefully" about something. You believe that you have thoughts. You believe those thoughts are about things — that when you think about an argument, your mental state is, in some real sense, *of* that argument. You believe you can move from one thought to another in ways that feel like progress — that you are *reasoning toward* something. And you believe you can step back and observe your own thinking, that you are not simply carried along by your mental processes but can, to some degree, direct them. None of these beliefs is trivial. Each one conceals a philosophical problem that generations of thinkers have struggled with. [[Immanuel-Kant]] called the investigation of the conditions of possible experience "transcendental philosophy." What we are doing here is a narrower version of that project: a transcendental inquiry into the conditions of possible *thought*.
 
 > [!the-philosophy]
 > **The Fundamental Problem This Analysis Addresses:** Not "how should I think better?" but "what must already be true about minds and the world in order for there to be such a thing as thinking at all?" The answer to the second question is the silent architecture on which every answer to the first question stands. Unless we see that architecture clearly, we are building practice on invisible foundations.
@@ -662,7 +662,7 @@ What follows is not a list of what thinking *does*, but a statement of what thin
 
 ### Axiom 1: Representation — Thoughts Are About Things
 
-The most fundamental feature of thinking is that it is *about* something. When you think about an argument, your mental state is not the argument itself — it is a state that *represents* the argument, that stands in for it, that refers to it. This property — the aboutness of mental states — is what philosophers call *intentionality*, a term introduced in its modern form by [[Franz Brentano]] and developed by [[Edmund Husserl]]. Brentano's claim was radical: intentionality is the mark of the mental. Everything physical simply is what it is; minds alone have states that are *of* or *about* something beyond themselves.
+The most fundamental feature of thinking is that it is *about* something. When you think about an argument, your mental state is not the argument itself — it is a state that *represents* the argument, that stands in for it, that refers to it. This property — the aboutness of mental states — is what philosophers call *intentionality*, a term introduced in its modern form by [[Franz Brentano]] and developed by [[Edmund-Husserl]]. Brentano's claim was radical: intentionality is the mark of the mental. Everything physical simply is what it is; minds alone have states that are *of* or *about* something beyond themselves.
 
 This axiom is irreducible because without it, there is no thinking — only processing. A thermostat processes temperature information, but it is deeply implausible to say it *thinks about* temperature. The difference between a thermostat's state changes and a thinker's mental states is that the thinker's states *mean* something, they refer to a world beyond themselves. This is not merely a metaphorical difference. [[Representation Theory|Representational content]] is what makes it possible for thought to be correct or incorrect, accurate or distorted, well-aimed or confused. Without representational content, there is no truth or falsity, and therefore no reasoning in any meaningful sense — only causal chains of state transitions.
 
@@ -682,7 +682,7 @@ The implications for your practice as a knowledge-seeker are deeper than they fi
 
 Representation alone is not sufficient for structured thought. A system could, in principle, have a single undifferentiated representational state — a vast, global sense of "something" — without being capable of reasoning. What makes structured thought possible is the capacity to *distinguish*: to hold multiple representations and recognise that they are not the same, that A ≠ B, that one thing is *not* another.
 
-This axiom traces to the deepest foundations of [[Logic]] and [[Ontology]]. [[Gottlob Frege]] — who more than any other thinker forged the tools of modern logic — began with the concept of *identity* and immediately confronted its philosophical difficulty. To say that A = A is trivially true but informationally empty. To say that A = B, where A and B are different names, is potentially informative — but only if we can distinguish A from B in the first place. The capacity to hold differences, to track that this is not that, is presupposed by every logical operation: conjunction, disjunction, negation, quantification. All of them require the ability to differentiate.
+This axiom traces to the deepest foundations of [[Logic]] and [[Ontology]]. [[Gottlob-Frege]] — who more than any other thinker forged the tools of modern logic — began with the concept of *identity* and immediately confronted its philosophical difficulty. To say that A = A is trivially true but informationally empty. To say that A = B, where A and B are different names, is potentially informative — but only if we can distinguish A from B in the first place. The capacity to hold differences, to track that this is not that, is presupposed by every logical operation: conjunction, disjunction, negation, quantification. All of them require the ability to differentiate.
 
 > [!key-claim]
 > **Axiom 2, Stated Precisely:** For structured thought to be possible, a system must be capable of holding multiple representations and recognising that they are distinct — that different representations represent different things and that these differences are real and trackable. Without the capacity for differentiation, all representations collapse into undifferentiated unity, and logical operations — including the simplest possible inference — become impossible. Distinction is the formal skeleton of thought.
@@ -726,7 +726,7 @@ This is not identical to consciousness, though it may presuppose it. Reflexivity
 The boundary condition is illuminating. The axiom does not require *accurate* self-representation — we can be badly wrong about our own reasoning. It does not require *complete* self-transparency — much of our reasoning remains opaque to us, as cognitive science abundantly demonstrates. What it requires is that self-representation be *possible in principle*, that the thinker is not categorically barred from examining its own thought. This is why [[Confirmation-Bias]] is such a deep problem: not because it makes us wrong, but because it operates precisely at the level of reflexivity — it distorts the self-monitoring process, causing us to evaluate our own inferences in systematically misleading ways.
 
 > [!evidence]
-> **Why We Accept This Axiom:** The clearest evidence is practical: every technique for improving reasoning — from [[Socratic Method|Socratic questioning]] to [[Reflective-Thinking|Dewey's reflective inquiry]] to [[Metacognitive-Monitoring]] — presupposes that the thinker can make their own thinking an object of scrutiny. If reflexivity were impossible, all of these practices would be incoherent. The developmental evidence is also strong: the emergence of explicit metacognitive capacities in children (roughly age seven to eleven, tracking the development of what is called "theory of mind" in its full form) is correlated with dramatic improvements in deliberate problem-solving, planning, and learning. Reflexivity is not ornamental to cognition — it is transformative.
+> **Why We Accept This Axiom:** The clearest evidence is practical: every technique for improving reasoning — from [[Socratic-Method|Socratic questioning]] to [[Reflective-Thinking|Dewey's reflective inquiry]] to [[Metacognitive-Monitoring]] — presupposes that the thinker can make their own thinking an object of scrutiny. If reflexivity were impossible, all of these practices would be incoherent. The developmental evidence is also strong: the emergence of explicit metacognitive capacities in children (roughly age seven to eleven, tracking the development of what is called "theory of mind" in its full form) is correlated with dramatic improvements in deliberate problem-solving, planning, and learning. Reflexivity is not ornamental to cognition — it is transformative.
 
 ---
 
@@ -807,7 +807,7 @@ When you notice yourself *resisting* an unwelcome conclusion — sensing that yo
 > **New Avenues Emerging from This Report:**
 
 > [!topic-idea]
-> **[[The Representation Problem]]** — This report treated representation as an axiom and moved on. But the philosophical problem of *how* mental states come to be *about* anything — the problem of intentionality, mental content, and the relationship between mind and world — is one of the deepest and most contested in all of philosophy. A dedicated report on [[Intentionality|the intentionality debate]] — covering [[Franz Brentano]], [[Edmund Husserl]], [[Jerry Fodor]], [[Hilary Putnam]], and the externalist challenge — would deepen the first axiom far beyond what this report was able to do and connect your cognitive science interests to their philosophical foundations.
+> **[[The Representation Problem]]** — This report treated representation as an axiom and moved on. But the philosophical problem of *how* mental states come to be *about* anything — the problem of intentionality, mental content, and the relationship between mind and world — is one of the deepest and most contested in all of philosophy. A dedicated report on [[Intentionality|the intentionality debate]] — covering [[Franz Brentano]], [[Edmund-Husserl]], [[Jerry Fodor]], [[Hilary-Putnam]], and the externalist challenge — would deepen the first axiom far beyond what this report was able to do and connect your cognitive science interests to their philosophical foundations.
 
 > [!topic-idea]
 > **[[Axiomatic Systems and Their Limits — Gödel]]** — This report uses "axiom" in a philosophical rather than formal-mathematical sense. But [[Kurt Gödel]]'s incompleteness theorems raise a genuinely alarming possibility: that any sufficiently powerful axiomatic system cannot be both consistent and complete — it will always contain truths it cannot prove. A report on Gödel would ask whether this limit applies to thought itself: are there truths a mind cannot reach from its own first principles, no matter how carefully it reasons?
@@ -1373,7 +1373,7 @@ related:
 
 broader:
   - "[[Philosophy-of-Mind]]"
-  - "[[Lifelong-Learning]]"
+  - "[[Lifelong-learning]]"
   - "[[Knowledge-Management-Philosophy]]"
 
 narrower:

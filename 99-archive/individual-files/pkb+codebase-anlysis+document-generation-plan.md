@@ -607,7 +607,7 @@ Final Composed Instruction
 **Format Application Example**:
 ```markdown
 In this section, we discuss %%extract-atomic: Germane Cognitive Load%% 
-which %%confidence: verified%% refers to [[Schema Construction]]^prerequisite-for-this
+which %%confidence: verified%% refers to [[Schema-Construction]]^prerequisite-for-this
 ```
 
 ##### **Level 7: atomic/personas/** (2+ files)
@@ -1191,12 +1191,12 @@ graph TB
 
 | Relationship | Syntax | Purpose | Example |
 |--------------|--------|---------|---------|
-| Prerequisite (Hard) | `[[Note]]^hard-prerequisite` | Must understand before | `[[Working Memory]]^hard-prerequisite` |
+| Prerequisite (Hard) | `[[Note]]^hard-prerequisite` | Must understand before | `[[Working-Memory]]^hard-prerequisite` |
 | Prerequisite (Soft) | `[[Note]]^soft-prerequisite` | Helpful background | `[[Learning Theory]]^soft-prerequisite` |
 | Extends | `[[Note]]^extends` | Builds upon | `[[Advanced Tagging]]^extends` |
-| Complements | `[[Note]]^complements` | Works synergistically | `[[Spaced Repetition]]^complements` |
+| Complements | `[[Note]]^complements` | Works synergistically | `[[Spaced-Repetition]]^complements` |
 | Contradicts | `[[Note]]^contradicts` | Opposes or conflicts | `[[Massed Practice]]^contradicts` |
-| Part-Of | `[[Note]]^part-of` | Component of larger | `[[Phonological Loop]]^part-of` |
+| Part-Of | `[[Note]]^part-of` | Component of larger | `[[Phonological-Loop]]^part-of` |
 | Example-Of | `[[Note]]^example-of` | Concrete instance | `[[Anki]]^example-of` |
 | Alternative-To | `[[Note]]^alternative-to` | Different approach | `[[PARA]]^alternative-to` |
 
@@ -9104,16 +9104,16 @@ reviewed_date: YYYY-MM-DD
 ```markdown
 # Working Memory
 
-Working memory is [[Cognitive Load Theory|CLT]]^foundation-for-this
+Working memory is [[Cognitive-Load-Theory|CLT]]^foundation-for-this
 - Foundation relationship: CLT builds upon working memory research
 
-Related to [[Schema Theory]]^complements
+Related to [[Schema-Theory]]^complements
 - Complementary relationship: Both explain knowledge organization
 
-See also [[Long-Term Memory]]^contrasts
+See also [[Long-Term-Memory]]^contrasts
 - Contrast relationship: Different storage systems
 
-Component: [[Phonological Loop]]^part-of
+Component: [[Phonological-Loop]]^part-of
 - Compositional relationship: Phonological loop is part of working memory
 
 Example: [[Remembering Phone Numbers]]^example-of
@@ -9142,7 +9142,7 @@ which %%confidence: verified%% refers to the mental effort dedicated to
 schema construction. This %%evidence: meta-analysis%% shows consistent
 benefits across domains.
 
-Related to [[Intrinsic Load]]^contrasts where %%counterexample: complexity-always-bad%%
+Related to [[Intrinsic-Load]]^contrasts where %%counterexample: complexity-always-bad%%
 some tasks inherently require high cognitive demand.
 
 %%QA:cognitive-load:reduction-strategies%%

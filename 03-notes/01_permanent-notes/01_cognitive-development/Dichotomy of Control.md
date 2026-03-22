@@ -48,7 +48,7 @@ review-priority: medium
 # Dichotomy of Control
 
 > [!definition]
-> - **Key-Term**:[[Dichotomy of Control]]
+> - **Key-Term**:[[Dichotomy-of-Control]]
 > - **Definition**:<% tp.file.cursor(1) %>
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -131,8 +131,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications
@@ -161,7 +161,7 @@ LIMIT 10
 
 
 > [!overview]
-> The [[Dichotomy of Control]] is not an invitation to passivity but a powerful framework for strategic living. It empowers individuals to reclaim their inner peace, direct their efforts wisely, and cultivate enduring resilience by consciously choosing where to invest their mental and emotional energy. By mastering this fundamental Stoic principle, one can navigate life's inevitable challenges with greater equanimity and purpose.
+> The [[Dichotomy-of-Control]] is not an invitation to passivity but a powerful framework for strategic living. It empowers individuals to reclaim their inner peace, direct their efforts wisely, and cultivate enduring resilience by consciously choosing where to invest their mental and emotional energy. By mastering this fundamental Stoic principle, one can navigate life's inevitable challenges with greater equanimity and purpose.
 
 
 ## Evolution Log

@@ -481,7 +481,7 @@ extraction_summary:
 #### 56. [TOPIC-IDEA] [[Transfer-Appropriate Processing and PKB Retrieval Design]] *(Line 509)*
 
 > [!topic-idea] [[Transfer-Appropriate Processing and PKB Retrieval Design]]
-> [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] (Morris, Bransford & Franks 1977) proposes that memory retrieval is most effective when retrieval conditions match encoding conditions — when the cognitive operations used to access a memory are the same as those used to encode it. In PKB terms, this suggests that how you retrieve a note matters as much as how you create it: retrieval that requires the same constructive cognitive engagement as initial creation (active recall, elaborative questioning, schema reconstruction) will produce better schema reinforcement than retrieval that is purely associative (search-and-find). This connects the Schema-Progressive Architecture to the retrieval practice literature explored in [[Report 06]].
+> [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] (Morris, Bransford & Franks 1977) proposes that memory retrieval is most effective when retrieval conditions match encoding conditions — when the cognitive operations used to access a memory are the same as those used to encode it. In PKB terms, this suggests that how you retrieve a note matters as much as how you create it: retrieval that requires the same constructive cognitive engagement as initial creation (active recall, elaborative questioning, schema reconstruction) will produce better schema reinforcement than retrieval that is purely associative (search-and-find). This connects the Schema-Progressive Architecture to the retrieval practice literature explored in [[Report-06]].
 
 #### 57. [TOPIC-IDEA] [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]] *(Line 512)*
 
@@ -519,7 +519,7 @@ extraction_summary:
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
 - [[Evergreen Notes]]
-- [[Frederic Bartlett]]
+- [[Frederic-Bartlett]]
 - [[Generation-Effect|Generation Effect]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Gertzog]]
@@ -528,12 +528,12 @@ extraction_summary:
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[Interleaving]]
-- [[Jean Piaget]]
+- [[Jean-Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[John Sweller]]
+- [[John-Sweller]]
 - [[Knowledge Commons]]
 - [[Leslie Leslie]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky]]
 - [[Marcy Recht]]
 - [[Mark McDaniel]]
 - [[Michelene Chi]]
@@ -556,7 +556,7 @@ extraction_summary:
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 05]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08]]
 - [[Report 11]]
@@ -566,7 +566,7 @@ extraction_summary:
 - [[Report 22]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Anderson]]
-- [[Robert Bjork]]
+- [[Robert-Bjork]]
 - [[Robert Slamecka]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]
@@ -603,13 +603,13 @@ extraction_summary:
 | 16 | [[Report 11]] | — | — | Scope and Roadmap | 93 |
 | 17 | [[Report 17]] | — | — | Scope and Roadmap | 93 |
 | 18 | [[Schema-Theory|Schema Theory]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
-| 19 | [[Frederic Bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
+| 19 | [[Frederic-Bartlett]] | — | — | Schema Theory: The Cognitive Architec... | 104 |
 | 20 | [[David-Rumelhart|David Rumelhart]] | — | — | Schema Theory: The Cognitive Architec... | 109 |
 | 21 | [[Richard Anderson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
 | 22 | [[Peter Pearson]] | — | — | Schema Theory: The Cognitive Architec... | 111 |
 | 23 | [[Constructivism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 24 | [[Jean Piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
-| 25 | [[Lev Vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 24 | [[Jean-Piaget]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
+| 25 | [[Lev-Vygotsky]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 26 | [[John-Dewey|John Dewey]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 27 | [[Pragmatism]] | — | — | Constructivism: The Philosophy of Kno... | 118 |
 | 28 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Constructivism: The Philosophy of Kno... | 128 |
@@ -623,7 +623,7 @@ extraction_summary:
 | 36 | [[Prior-Knowledge-Activation|Prior Knowledge Activation]] | — | — | The Evidence Landscape | 175 |
 | 37 | [[Marcy Recht]] | — | — | The Evidence Landscape | 175 |
 | 38 | [[Leslie Leslie]] | — | — | The Evidence Landscape | 175 |
-| 39 | [[John Sweller]] | — | — | The Evidence Landscape | 181 |
+| 39 | [[John-Sweller]] | — | — | The Evidence Landscape | 181 |
 | 40 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Evidence Landscape | 181 |
 | 41 | [[Report 02]] | — | — | The Evidence Landscape | 181 |
 | 42 | [[Germane-Cognitive-Load|Germane Cognitive Load]] | — | — | The Evidence Landscape | 181 |
@@ -640,7 +640,7 @@ extraction_summary:
 | 53 | [[Spaced Practice]] | — | — | The Evidence Landscape | 191 |
 | 54 | [[Interleaving]] | — | — | The Evidence Landscape | 191 |
 | 55 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Evidence Landscape | 191 |
-| 56 | [[Robert Bjork]] | — | — | The Evidence Landscape | 191 |
+| 56 | [[Robert-Bjork]] | — | — | The Evidence Landscape | 191 |
 | 57 | [[Henry Roediger]] | — | — | The Evidence Landscape | 191 |
 | 58 | [[Mark McDaniel]] | — | — | The Evidence Landscape | 191 |
 | 59 | [[Accommodation]] | — | — | The Core Mechanism: Schema-Directed C... | 225 |
@@ -656,7 +656,7 @@ extraction_summary:
 | 69 | [[Evergreen Notes]] | — | — | Design Principles Derived from the Sy... | 288 |
 | 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Design Principles Derived from the Sy... | 294 |
 | 71 | [[Vygotsky's ZPD]] | — | — | Design Principles Derived from the Sy... | 294 |
-| 72 | [[Report 06]] | — | — | Design Principles Derived from the Sy... | 298 |
+| 72 | [[Report-06]] | — | — | Design Principles Derived from the Sy... | 298 |
 | 73 | [[Dataview]] | — | — | Practical Implementation in Obsidian | 308 |
 | 74 | [[Periodic Review]] | — | — | Practical Implementation in Obsidian | 312 |
 | 75 | [[Personal Learning Networks]] | — | — | Limitations and Honest Boundaries | 320 |
@@ -689,7 +689,7 @@ extraction_summary:
 | 102 | [[Vygotsky]] | — | — | D. Expansion Topics | 507 |
 | 103 | [[Transfer-Appropriate Processing and PKB Retrieval Design]] | — | — | D. Expansion Topics | 509 |
 | 104 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | D. Expansion Topics | 510 |
-| 105 | [[Report 06]] | — | — | D. Expansion Topics | 510 |
+| 105 | [[Report-06]] | — | — | D. Expansion Topics | 510 |
 | 106 | [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]] | — | — | D. Expansion Topics | 512 |
 | 107 | [[Embodied-Cognition|Embodied Cognition]] | — | — | D. Expansion Topics | 513 |
 | 108 | [[Report 22]] | — | — | D. Expansion Topics | 513 |
@@ -760,7 +760,7 @@ extraction_summary:
 - [[Embodied Cognition and the Limits of Text-Based Knowledge Construction]]
 - [[Epitome]]
 - [[Evergreen Notes]]
-- [[Frederic Bartlett]]
+- [[Frederic-Bartlett]]
 - [[Generation-Effect|Generation Effect]]
 - [[Germane-Cognitive-Load|Germane Cognitive Load]]
 - [[Gertzog]]
@@ -769,12 +769,12 @@ extraction_summary:
 - [[Hewson]]
 - [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
 - [[Interleaving]]
-- [[Jean Piaget]]
+- [[Jean-Piaget]]
 - [[John-Dewey|John Dewey]]
-- [[John Sweller]]
+- [[John-Sweller]]
 - [[Knowledge Commons]]
 - [[Leslie Leslie]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky]]
 - [[Marcy Recht]]
 - [[Mark McDaniel]]
 - [[Michelene Chi]]
@@ -797,7 +797,7 @@ extraction_summary:
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 05]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08]]
 - [[Report 11]]
@@ -807,7 +807,7 @@ extraction_summary:
 - [[Report 22]]
 - [[Retrieval-Practice|Retrieval Practice]]
 - [[Richard Anderson]]
-- [[Robert Bjork]]
+- [[Robert-Bjork]]
 - [[Robert Slamecka]]
 - [[Schema-Theory|Schema Theory]]
 - [[Schema-Progressive-Architecture|Schema-Progressive Architecture]]

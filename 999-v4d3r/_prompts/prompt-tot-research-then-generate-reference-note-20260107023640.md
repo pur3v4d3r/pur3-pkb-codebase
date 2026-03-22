@@ -212,7 +212,7 @@ Follow the universal output scaffold below.
 > - [[Systems Thinking]] → maps interdependencies  
 > - [[Second-Order Effects]] → anticipates ripple effects  
 > - [[Constraint Theory]] → identifies bottlenecks  
-> - [[Mental Models]] → supports cross-domain transfer  
+> - [[Mental-Models]] → supports cross-domain transfer  
 
 ### Section 2: Synthesis & Reflection  
 > [!summary]  
@@ -442,7 +442,7 @@ Draft the final H2/H3 header structure based on the Hybrid Root.
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 > *Analyze how this connects to parent concepts. Format as:*
-> *   **[[Concept Name]]**: Explanation of relationship.
+> *   **[[Concept-Name]]**: Explanation of relationship.
 
 > [!summary]
 > **Summary Synthesis**

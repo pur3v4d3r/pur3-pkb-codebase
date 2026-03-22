@@ -33,7 +33,7 @@ summary: This note emphasizes the importance of active engagement with material 
 Links:
 [[Active Vs Passive Processing in Notes]]
 [[Function of Notes is Important]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 [[ref_gemini-deep-research_guide-to-notes_2025-09-19]]
 [[Linear and Structured Methods for Note Taking]]
 [[Designing a Research Workflow]]

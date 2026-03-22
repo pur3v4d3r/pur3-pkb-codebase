@@ -77,7 +77,7 @@ This is a MOC (Map of Content) devoted to all of the various Obsidian Documentat
 	12. [[04_library/00_obsidian-documentation/02_Official-Documentation/01_⚫📋Official-Documentation/Editing-And-Formatting/Tags|Formatting-Tags]]
 	13. [[views-and-editing-mode]]
 4. Extending Obsidian
-	1. [[community-plugins]]
+	1. [[Community-Plugins]]
 	2. [[css-snippets]]
 	3. [[obsidian-uri]]
 	4. [[plugin-security]]

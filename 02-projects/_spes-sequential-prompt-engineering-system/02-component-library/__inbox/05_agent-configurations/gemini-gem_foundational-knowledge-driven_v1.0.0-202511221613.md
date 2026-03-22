@@ -50,7 +50,7 @@ Before generating the final report, you must perform a deep research sweep.
 *Output this phase inside a `<thinking>` block at the very start of your response.*
 
 ### B. The Formatting Standard (Obsidian PKB style)
-* **Wiki-Links:** Connect concepts using `[[Concept Name]]` syntax. Link key proper nouns, theories, and granular ideas.
+* **Wiki-Links:** Connect concepts using `[[Concept-Name]]` syntax. Link key proper nouns, theories, and granular ideas.
 * **Headers:** Use standard Markdown (`##`, `###`) for structure.
 * **Callouts:** Use the specific callout syntax provided in the template below (e.g., `> [!insight]`).
 * **Citations:** Reference sources using the `> [!cite]` callout at the end.
@@ -67,7 +67,7 @@ Aliases: [[{{Add relevant aliases}}]]
 ### 1. Define Core Parameters
 * **[TOPIC]:** {{The central concept}}
 * **[DEPTH]:** {{e.g., Encyclopedic Analysis}}
-* **[LINKS]:** {{List relevant [[Wiki-Links]] here}}
+* **[LINKS]:** {{List relevant [[wiki-links]] here}}
 
 ### 2. Phase 1: Overture (The "Why & What")
 > [!abstract]

@@ -398,7 +398,7 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema-Theory|Schema Theory]] and [[Assimilation-and-Accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report 01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
+> - **[[Schema-Theory|Schema Theory]] and [[Assimilation-and-Accommodation|Assimilation and Accommodation]]** — The integration mechanisms in this report — particularly the distinction between enrichment, revision, and framework theory change — are the full elaboration of the assimilation/accommodation distinction introduced in [[Report-01]]. This report reveals that accommodation is a spectrum, not a binary, and that most PKB practice produces only weak accommodation. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] from Report 01 now has a topological specification: a PKB cognitively aligned with the mind's semantic architecture is one with small-world topology.
 > 
 > - **[[Inert-Knowledge|Inert Knowledge]] and [[Transfer-of-Learning|Transfer of Learning]]** — [[Report 11]] established that transfer failure is the characteristic problem of knowledge learned in isolation from application contexts. This report reveals the deeper mechanism: inert knowledge is a topological failure — a node with correct content but incorrect conceptual edges. Transfer requires traversal of the network from learning context to application context; if the path doesn't exist (no bridge notes connecting them), transfer fails. The bridge-note creation practice developed here is, at a deeper level, a transfer-engineering practice.
 > 
@@ -617,7 +617,7 @@ extraction_summary:
 - [[PKB design]]
 - [[Productive Failure and Desirable Difficulties as Integration Catalysts]]
 - [[Ray Land]]
-- [[Report 01]]
+- [[Report-01]]
 - [[Report 03]]
 - [[Report 07]]
 - [[Report 11]]
@@ -668,7 +668,7 @@ extraction_summary:
 | 21 | [[Boundary-Objects|Boundary Objects]] | — | — | The Synthesis Question | 134 |
 | 22 | [[SECI-Model|SECI Model]] | — | — | The Synthesis Question | 134 |
 | 23 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope, Dependencies, and Roadmap | 140 |
-| 24 | [[Report 01]] | — | — | Scope, Dependencies, and Roadmap | 140 |
+| 24 | [[Report-01]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 25 | [[Schema-Theory|Schema Theory]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 26 | [[Report 03]] | — | — | Scope, Dependencies, and Roadmap | 140 |
 | 27 | [[Report 11]] | — | — | Scope, Dependencies, and Roadmap | 140 |
@@ -706,26 +706,26 @@ extraction_summary:
 | 59 | [[Jan Meyer]] | — | — | The Conceptual Change Evidence Base | 237 |
 | 60 | [[Ray Land]] | — | — | The Conceptual Change Evidence Base | 237 |
 | 61 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Network Science Evidence for Small-Wo... | 249 |
-| 62 | [[Report 01]] | — | — | Network Science Evidence for Small-Wo... | 249 |
+| 62 | [[Report-01]] | — | — | Network Science Evidence for Small-Wo... | 249 |
 | 63 | [[Collins-and-Loftus|Collins and Loftus]] | — | — | The Three Integration Mechanisms | 281 |
 | 64 | [[Spreading-Activation|Spreading Activation]] | — | — | The Three Integration Mechanisms | 281 |
 | 65 | [[Report 20]] | — | — | The Three Integration Mechanisms | 281 |
 | 66 | [[Schema-Theory|Schema Theory]] | — | — | The Three Integration Mechanisms | 290 |
-| 67 | [[Report 01]] | — | — | The Three Integration Mechanisms | 290 |
+| 67 | [[Report-01]] | — | — | The Three Integration Mechanisms | 290 |
 | 68 | [[Knowledge-Management|Knowledge Management]] | — | — | The Three Integration Mechanisms | 303 |
 | 69 | [[Science and Technology Studies]] | — | — | The Three Integration Mechanisms | 303 |
 | 70 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 303 |
 | 71 | [[Boundary-Objects|Boundary Objects]] | — | — | The Three Integration Mechanisms | 306 |
 | 72 | [[David-Ausubel|David Ausubel]] | — | — | The Integration Failure Cascade | 333 |
 | 73 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Integration Failure Cascade | 333 |
-| 74 | [[Report 01]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
+| 74 | [[Report-01]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 75 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 76 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | — | — | Return-and-Deepen: Schema Theory Revi... | 337 |
 | 77 | [[Report 17]] | — | — | Design Principle 5: Use Note-Making a... | 392 |
 | 78 | [[Inert-Knowledge|Inert Knowledge]] | — | — | Return-and-Deepen: Inert Knowledge, T... | 456 |
 | 79 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 80 | [[Assimilation-and-Accommodation|Assimilation and Accommodation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
-| 81 | [[Report 01]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
+| 81 | [[Report-01]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 82 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 83 | [[Inert-Knowledge|Inert Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
 | 84 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
@@ -807,7 +807,7 @@ extraction_summary:
 - [[PKB design]]
 - [[Productive Failure and Desirable Difficulties as Integration Catalysts]]
 - [[Ray Land]]
-- [[Report 01]]
+- [[Report-01]]
 - [[Report 03]]
 - [[Report 07]]
 - [[Report 11]]

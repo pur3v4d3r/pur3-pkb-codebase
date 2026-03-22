@@ -66,10 +66,10 @@ The [[Self-Regulation Theory]] is based on…
 ## 🎯 Strengths of Your Current System
 
 > [!principle-point] **Semantic Clarity Through Type Prefixes**
-> Your use of bracketed prefixes like `[reference]`, `[moc]`, `[composite-prompt]` creates immediate visual categorization. This is excellent for both human scanning and [[dataview]] queries. The hierarchical information architecture (type → topic → title → ID) provides strong navigational scaffolding.
+> Your use of bracketed prefixes like `[reference]`, `[moc]`, `[composite-prompt]` creates immediate visual categorization. This is excellent for both human scanning and [[Dataview]] queries. The hierarchical information architecture (type → topic → title → ID) provides strong navigational scaffolding.
 
 > [!key-claim] **Version Control for Prompts**
-> Including `[{version}]` for composite prompts and agents is brilliant for iterative development. This suggests you understand that [[Prompt Engineering]] artifacts evolve and require historical tracking—a practice many PKM systems neglect.
+> Including `[{version}]` for composite prompts and agents is brilliant for iterative development. This suggests you understand that [[Prompt-Engineering]] artifacts evolve and require historical tracking—a practice many PKM systems neglect.
 
 ---
 
@@ -235,7 +235,7 @@ You explicitly requested help with archiving. Here's a comprehensive approach:
 **Advantages:**
 - Clear archival date
 - Preserves original type for potential restoration
-- Searchable with [[dataview]]: `WHERE file.name contains "[archive]"`
+- Searchable with [[Dataview]]: `WHERE file.name contains "[archive]"`
 
 **Implementation:**
 ```dataview
@@ -456,10 +456,10 @@ Your revision shows excellent responsiveness to systematic thinking! Let me anal
 Your system combines:
 
 1. **[[Living Documents]]** - Notes that evolve over time rather than remaining static
-2. **[[Progressive Summarization]]** (Tiago Forte's method) - Layering new understanding onto existing notes
+2. **[[Progressive-Summarization]]** (Tiago Forte's method) - Layering new understanding onto existing notes
 3. **[[Incremental Note Development]]** - Building knowledge gradually through repeated encounters
 4. **[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] for concepts** - Returning to notes during different study contexts reinforces learning
-5. **[[Zone Of Proximal Development]]** tracking - Your varying note maturity levels map your actual learning journey
+5. **[[Zone-of-Proximal-Development]]** tracking - Your varying note maturity levels map your actual learning journey
 
 > [!example] **Why This Works Cognitively**
 > 
@@ -525,7 +525,7 @@ The [[Self-Regulation Theory]] is based on…
 
 > [!methodology-and-sources] **Programmatic Link Resolution**
 > 
-> Use [[dataview]] to create a "Permanent Notes Index" that displays clean names while maintaining ID-based filenames:
+> Use [[Dataview]] to create a "Permanent Notes Index" that displays clean names while maintaining ID-based filenames:
 
 **In your MOC or Dashboard:**
 ```dataview
@@ -777,8 +777,8 @@ modified: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Related Concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## Practical Applications
 

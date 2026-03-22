@@ -31,7 +31,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Large Language Models]]
+> - **Key-Term**:: [[Large-Language-Models]]
 > - [**Definition**:: An advanced artificial intelligence system, usually a neural network, trained on vast amounts of text data to understand and generate human-like language.]
 
 

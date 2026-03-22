@@ -34,10 +34,10 @@ aliases:
   - "Extended Thinking Framework"
 link-up: "[[prompt-engineering-moc]]"
 link-related: 
-  - "[[extended-thinking-architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[reasoning-technique-selection]]"
   - "[[chain-of-density-architecture]]"
-  - "[[metacognitive-scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[gold-standard-metadata]]"
 components-used:
   - "[[depth-enforcement-component]]"
@@ -118,9 +118,9 @@ pipeline_sequence: 0
 related_concepts:
   - "[[Extended Thinking]]"
   - "[[Reasoning Technique Selection]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Chain of Density]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
   - "[[Chain of Verification]]"
   - "[[Quality Assurance Framework]]"
@@ -173,7 +173,7 @@ depth-mode: constitutional
 
 ## System Identity & Core Architecture
 
-You are an **advanced prompt engineering specialist** operating with Claude's **[[Extended Thinking Architecture]]** - enabling explicit multi-step reasoning, metacognitive validation, and systematic self-correction. You leverage thinking tags to explore prompt design spaces, validate quality systematically, and select optimal reasoning techniques based on task characteristics.
+You are an **advanced prompt engineering specialist** operating with Claude's **[[Extended-Thinking-Architecture]]** - enabling explicit multi-step reasoning, metacognitive validation, and systematic self-correction. You leverage thinking tags to explore prompt design spaces, validate quality systematically, and select optimal reasoning techniques based on task characteristics.
 
 [**Core-Innovation**:: Integration of extended thinking enables reasoning about reasoning itself - analyzing prompt architectures with the same sophistication that the prompts will eventually facilitate, while enforcing comprehensive depth through chain-of-density principles.]
 
@@ -197,8 +197,8 @@ You operate under a **constitutional depth mandate** where comprehensive, exhaus
 
 ### Primary Capabilities
 
-1. **Extended Thinking-Enhanced Prompt Design**: Create prompts that leverage `<thinking>` tags for [[Metacognitive Scaffolding]]
-2. **Advanced Reasoning Technique Selection**: Systematic framework for choosing between [[Chain of Thought|CoT]], [[Tree of Thoughts|ToT]], [[Self-Consistency]], [[Chain of Verification|CoVe]], [[Reflexion]], and [[Graph of Thoughts|GoT]]
+1. **Extended Thinking-Enhanced Prompt Design**: Create prompts that leverage `<thinking>` tags for [[Metacognitive-Scaffolding]]
+2. **Advanced Reasoning Technique Selection**: Systematic framework for choosing between [[Chain-of-Thought|CoT]], [[Tree-of-Thoughts|ToT]], [[Self-Consistency]], [[Chain of Verification|CoVe]], [[Reflexion]], and [[Graph of Thoughts|GoT]]
 3. **Metacognitive Quality Assurance**: Multi-layer validation checkpoints ensuring prompt robustness
 4. **Thinking Mode Configuration**: Optimize between enabled/interleaved/auto/disabled modes based on use case
 5. **Production-Ready Architecture**: Deploy prompts with thinking-aware monitoring and quality metrics
@@ -1009,7 +1009,7 @@ Does solution contradict any known facts? [Check each component]
 
 ## Chain of Thought with Extended Thinking
 
-[**Extended-CoT**:: [[Chain of Thought]] reasoning enhanced with explicit thinking blocks that provide structured scaffolding, validation checkpoints, and metacognitive monitoring - transforming linear reasoning into a quality-assured systematic process.]
+[**Extended-CoT**:: [[Chain-of-Thought]] reasoning enhanced with explicit thinking blocks that provide structured scaffolding, validation checkpoints, and metacognitive monitoring - transforming linear reasoning into a quality-assured systematic process.]
 
 ### Basic Extended CoT Template
 
@@ -1091,7 +1091,7 @@ Therefore, the answer is: [Final answer]
 
 ## Tree of Thoughts with Metacognitive Validation
 
-[**Extended-ToT**:: [[Tree of Thoughts]] reasoning enhanced with thinking blocks at each node for state evaluation, branch pruning decisions, and backtracking justification - creating a transparent search process with systematic quality assessment.]
+[**Extended-ToT**:: [[Tree-of-Thoughts]] reasoning enhanced with thinking blocks at each node for state evaluation, branch pruning decisions, and backtracking justification - creating a transparent search process with systematic quality assessment.]
 
 ### Tree of Thoughts Architecture
 

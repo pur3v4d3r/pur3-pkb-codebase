@@ -58,7 +58,7 @@ modified: 2025-12-18
 status: evergreen
 certainty: confident
 type: reference
-related: [[Obsidian]], [[Visual Thinking]], [[Knowledge Visualization]], [[Mind Mapping]], [[PKM]]
+related: [[Obsidian]], [[Visual-Thinking]], [[Knowledge-Visualization]], [[Mind-Mapping]], [[PKM]]
 freshness:
   domain-volatility: moderate
   last-verified: 2025-12-18
@@ -66,16 +66,16 @@ freshness:
   staleness-risk: low
 prerequisites:
   hard:
-    - "[[Obsidian Basics]]"
+    - "[[Obsidian-Basics]]"
   soft:
-    - "[[Community Plugins]]"
-    - "[[Markdown Fundamentals]]"
+    - "[[Community-Plugins]]"
+    - "[[Markdown-Fundamentals]]"
 difficulty: intermediate
 estimated-study-time: 120min
 ---
 # 🎨 Comprehensive Guide: Excalidraw & MarkMind Plugins for Obsidian
 > [!abstract] Executive Overview
-> This comprehensive reference covers two powerful [[Obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
+> This comprehensive reference covers two powerful [[Obsidian]] plugins that transform how you work with visual information: **[[Excalidraw]]** (sketching, diagramming, and visual note-taking) and **[[MarkMind]]** (mind mapping, outlining, and PDF annotation). Both plugins enable [[Visual-Thinking]] workflows that complement text-based note-taking, creating a complete visual [[PKM]] system within Obsidian.
 %%cognitive-load: high | element-interactivity: 7 | time: 120min | passes: 2%%
 %%applies-to: visual-note-taking | pkm-workflow | knowledge-visualization%%
 
@@ -108,8 +108,8 @@ estimated-study-time: 120min
 ## 🎯 Overview & Philosophy
 > [!definition] Excalidraw
 > [**Excalidraw**:: A powerful yet intuitive sketching tool seamlessly integrated into [[Obsidian]], enabling creation of hand-drawn style diagrams, sketches, UI wireframes, concept maps, and visual annotations directly within your vault.]^established-stable
-[**Creator**:: [[Zsolt Viczian]], who also developed [[ExcaliBrain]] and authored "Sketch Your Mind"]^verified
-[**Core Philosophy**:: Visual thinking as a complementary modality to text-based note-taking, enabling [[Visual PKM]] (Personal Knowledge Management) through integrated sketching and linking capabilities.]^established-consensus
+[**Creator**:: [[Zsolt-Viczian]], who also developed [[ExcaliBrain]] and authored "Sketch Your Mind"]^verified
+[**Core Philosophy**:: Visual thinking as a complementary modality to text-based note-taking, enabling [[Visual-PKM]] (Personal Knowledge Management) through integrated sketching and linking capabilities.]^established-consensus
 ### What Makes Excalidraw Unique
 <span style='color: #FFC700;'>**Integration Depth**</span>: Unlike standalone drawing tools, Excalidraw embeds completely within [[Obsidian]], allowing:
 - <span style='color: #27FF00;'>**Bi-directional linking**</span> between drawings and notes
@@ -212,21 +212,21 @@ estimated-study-time: 120min
 ---
 ### Linking & Embedding System
 > [!key-claim] Integration as Core Feature
-> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual PKM]] rather than isolated sketches.]^verified-stable
+> [**Excalidraw-Integration-Philosophy**:: The plugin's power comes not from drawing capabilities alone, but from deep integration with [[Obsidian]]'s linking and embedding system—enabling true [[Visual-PKM]] rather than isolated sketches.]^verified-stable
 #### Six Strategies for Linking Visual Thoughts
 <span style='color: #FFC700;'>**Strategy 1: Wiki-Link References**</span>
 ```markdown
-[[Note Name]]
+[[Note-Name]]
 ```
 Place wiki-links directly in text elements to reference other notes. Clicking opens the linked note.
 <span style='color: #FFC700;'>**Strategy 2: Markdown Embeds**</span>
 ```markdown
-![[Note Name]]
+![[Note-Name]]
 ```
 Embed entire notes within the drawing canvas. Updates live as source note changes.
 <span style='color: #FFC700;'>**Strategy 3: Block References**</span>
 ```markdown
-[[Note Name#^block-id]]
+[[Note-Name#^block-id]]
 ```
 Reference specific blocks from other notes, creating granular connections.
 <span style='color: #FFC700;'>**Strategy 4: Transclusion in Reverse**</span>
@@ -356,7 +356,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 > [!warning] Script Complexity
 > ExcalidrawAutomate is powerful but has a learning curve. Start with Script Library's pre-built scripts before writing custom automation. Reserve for genuinely repetitive tasks—manual drawing is often faster for one-offs.
 %%confidence: established%%
-%%prerequisite: [[JavaScript Basics]] for custom scripts%%
+%%prerequisite: [[JavaScript-Basics]] for custom scripts%%
 
 ---
 ## 🚀 Advanced Techniques & Workflows
@@ -387,7 +387,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 - Focus on representation, not artistic quality
 - Example: "My friend likes the color red" NOT "Every shade of red and feelings"
 **Step 5: Make It Reusable**
-- Link sketches to notes: `[[Related Note]]`
+- Link sketches to notes: `[[Related-Note]]`
 - Embed context: `![[Source Note]]`
 - Create frame-based sections for transclusion
 - Build up personal visual library over time
@@ -403,7 +403,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 ```markdown
 1. Create Excalidraw drawing titled "[[Domain]] Visual MOC"
 2. Central node: Main domain concept
-3. Branches: [[Subtopic A]], [[Subtopic B]], etc. as text elements
+3. Branches: [[Subtopic-A]], [[Subtopic-B]], etc. as text elements
 4. Connect with arrows showing relationships
 5. Embed sub-drawings for deep dives: ![[Subtopic A Detail.excalidraw]]
 6. Link frames to atomic notes for definitions
@@ -421,7 +421,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 <span style='color: #FFC700;'>**Use Case**</span>: Deep dive into complex concept with visual elaboration
 > [!methodology-and-sources] Concept Sketching Process
 > **Phase 1: Capture** (5-10 min)
-> - Create blank Excalidraw: "[[Concept Name]] Sketch"
+> - Create blank Excalidraw: "[[Concept-Name]] Sketch"
 > - Central shape: Write concept name
 > - Free-form brainstorm: Add surrounding ideas rapidly
 > - No organization yet—pure ideation
@@ -430,7 +430,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 > - Group related ideas into frames
 > - Draw relationship arrows with labels
 > - Add color coding for categories
-> - Link to existing notes: `[[Related Concept]]`
+> - Link to existing notes: `[[Related-Concept]]`
 > 
 > **Phase 3: Elaborate** (15-20 min)
 > - Add explanatory text elements
@@ -571,7 +571,7 @@ Access pre-built scripts: Settings → Script Library → Install community scri
 > ❌ "Draw complete sketch, then add links"
 > 
 > Do:
-> ✅ "As you add each concept box, immediately type `[[Concept Name]]` inside it"
+> ✅ "As you add each concept box, immediately type `[[Concept-Name]]` inside it"
 > 
 > Result: Drawing is natively integrated into knowledge graph from creation, not as afterthought.
 
@@ -685,7 +685,7 @@ Use Templater scripts to:
 # Part II: MarkMind Plugin
 ## 🧠 Overview & Capabilities
 > [!definition] MarkMind
-> [**MarkMind**:: A comprehensive [[mind mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
+> [**MarkMind**:: A comprehensive [[Mind-Mapping]], [[outlining]], and [[PDF annotation]] plugin for [[Obsidian]] that enables visual knowledge structuring, hierarchical note organization, and integrated reading-annotation workflows.]^established-stable
 [**Creator**:: MarkMind Team (MarkMindCkm on GitHub)]^verified
 [**Core Functionality**:: Three integrated modes—Mind Map creation, Outline structuring, and PDF annotation—all working with markdown-native files stored in your vault.]^established
 ### What MarkMind Provides
@@ -1428,8 +1428,8 @@ Meeting: [Topic] - [Date]
 # 🔗 Related Topics for PKB Expansion
 ## Core Extensions
 ### 1. **[[Visual PKM Philosophy]]**
-**Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[Personal Knowledge Management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
-**Depth Potential:** Deep dive into [[Dual-Coding-Theory]], [[Visual Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive-Load]] and support [[Working Memory]].
+**Connection:** Both Excalidraw and MarkMind exemplify visual thinking approaches to [[Personal-Knowledge-Management]]—this topic explores the theoretical foundations and cognitive science behind why visual tools enhance learning, memory, and synthesis.
+**Depth Potential:** Deep dive into [[Dual-Coding-Theory]], [[Visual-Thinking]], spatial memory research, and the neuroscience of visual processing versus verbal processing. Examine how visual representations reduce [[Cognitive-Load]] and support [[Working-Memory]].
 **Knowledge Graph Role:** Foundational theory node connecting to all visual tools (Canvas, Excalidraw, MarkMind, Graph View). Provides "why" behind the "how" of visual PKM.
 **Priority:** High—understanding theory improves tool selection and application.
 **Prerequisites:** [[Cognitive Science Basics]], [[Learning Theory Fundamentals]]
@@ -1438,7 +1438,7 @@ Meeting: [Topic] - [Date]
 ### 2. **[[Sketch-noting & Visual Note-Taking Techniques]]**
 **Connection:** Practical methodologies for visual note-taking that complement Excalidraw's capabilities—goes beyond tool mechanics into skilled practice of visual capture.
 **Depth Potential:** Explore Zsolt Viczian's 4D Notes methodology in depth, examine [[Sketch-noting]] techniques from Mike Rohde, visual vocabulary development, icon libraries, and rapid visual capture methods. Include cognitive research on diagram effectiveness.
-**Knowledge Graph Role:** Practical skills bridge connecting Excalidraw tool to actual visual thinking workflows. Links to [[Note-Taking Systems]], [[Visual Thinking]], [[Information Design]].
+**Knowledge Graph Role:** Practical skills bridge connecting Excalidraw tool to actual visual thinking workflows. Links to [[Note-Taking Systems]], [[Visual-Thinking]], [[Information Design]].
 **Priority:** High—skills determine tool effectiveness.
 **Prerequisites:** [[Excalidraw Basics]] (this note), [[Visual Thinking Principles]]
 
@@ -1447,7 +1447,7 @@ Meeting: [Topic] - [Date]
 ### 3. **[[Mind Mapping Theory & Research]]**
 **Connection:** Academic foundations of mind mapping as cognitive tool—MarkMind implements principles from this research domain.
 **Depth Potential:** Examine Tony Buzan's original mind mapping research, cognitive science studies on radial vs. linear organization, effectiveness research comparing mind maps to outlines, and memory palace connections. Explore when mind maps work (and when they don't).
-**Knowledge Graph Role:** Theoretical bridge between [[Cognitive Psychology]], [[Learning Theory]], and practical tools like MarkMind. Informs when to use hierarchical vs. freeform visual organization.
+**Knowledge Graph Role:** Theoretical bridge between [[Cognitive-Psychology]], [[Learning Theory]], and practical tools like MarkMind. Informs when to use hierarchical vs. freeform visual organization.
 **Priority:** Medium—enriches understanding but not essential for tool use.
 **Prerequisites:** [[Learning Theory Basics]], [[MarkMind Basics]] (this note)
 
@@ -1464,7 +1464,7 @@ Meeting: [Topic] - [Date]
 ### 5. **[[ExcalidrawAutomate API Reference]]** *[Requires JavaScript knowledge]*
 **Connection:** Programmatic control of Excalidraw enables automation, dynamic diagram generation, and integration with other plugins—technical deep dive into the API.
 **Depth Potential:** Complete API documentation with examples, integration patterns with [[Templater]], [[QuickAdd]], [[Dataview]], and [[MetaBind]]. Build script library for common automation tasks. Explore advanced use cases like automated mind map generation from markdown.
-**Knowledge Graph Role:** Advanced technical node connecting Excalidraw to [[Obsidian Automation]], [[JavaScript in Obsidian]], [[Plugin Development]]. Enables expert-level workflows.
+**Knowledge Graph Role:** Advanced technical node connecting Excalidraw to [[Obsidian-Automation]], [[JavaScript in Obsidian]], [[Plugin Development]]. Enables expert-level workflows.
 **Priority:** Low-Medium (high for developers/automation enthusiasts)
 **Prerequisites:** [[JavaScript Fundamentals]], [[Excalidraw Advanced Features]], [[Templater Basics]]
 

@@ -315,7 +315,7 @@ When a user provides existing notes or scripts, I analyse them before generating
 - H3+ usage: [subsection pattern]
 
 **Linking Conventions:**
-- Wiki-link format: [[Note Name]] vs [[Note Name|Alias]]
+- Wiki-link format: [[Note-Name]] vs [[Note-Name|Alias]]
 - Dataview inline fields: [field:: value] patterns found
 - MOC structure: [if present]
 

@@ -65,9 +65,9 @@ document_core_objective: "Transform ad-hoc system prompt additions into architec
 
 # RELATED CONCEPTS
 related_concepts:
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Reasoning Technique Selection]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[PKB Integration Standards]]"
 ```

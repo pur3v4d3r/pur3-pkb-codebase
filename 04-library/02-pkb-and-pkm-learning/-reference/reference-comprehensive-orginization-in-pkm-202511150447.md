@@ -28,11 +28,11 @@ aliases: [PKB Organization, Knowledge Base Structure, Information Organization, 
 
 > [!abstract]
 > **Executive Overview**
-> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[obsidian]] and evidence-based cognitive principles.
+> Organization within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] represents the systematic structuring of information to optimize retrieval, facilitate connections, and support knowledge work. This reference note explores the theoretical foundations, practical frameworks, and implementation strategies for organizing personal knowledge bases, with particular emphasis on [[Obsidian]] and evidence-based cognitive principles.
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering all aspects of organization in PKM contexts. Use the table of contents below for quick navigation, or search for specific terms using [[Wiki-Links]]. Sections progress from theoretical foundations through practical implementation to advanced optimization strategies.
+> This reference note is organized into 10 major sections covering all aspects of organization in PKM contexts. Use the table of contents below for quick navigation, or search for specific terms using [[wiki-links]]. Sections progress from theoretical foundations through practical implementation to advanced optimization strategies.
 
 ## 📑 Table of Contents
 
@@ -75,7 +75,7 @@ PKM organization manifests across multiple interrelated dimensions:
 
 **Categorical Dimension**: The classification of information according to types, topics, or domains. This dimension relies on [[Taxonomy]] systems, [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], and category assignments that group related information regardless of spatial location. Taxonomies represent controlled vocabularies that increase in complexity from basic synonym rings to authority files to hierarchical classifications to thesauri.
 
-**Relational Dimension**: The connections and associations between discrete pieces of information. This dimension emphasizes the network structure of knowledge, acknowledging that ideas gain meaning through their relationships. [[Wiki-Links]], backlinks, and explicit cross-references constitute the primary mechanisms for encoding relational organization.
+**Relational Dimension**: The connections and associations between discrete pieces of information. This dimension emphasizes the network structure of knowledge, acknowledging that ideas gain meaning through their relationships. [[wiki-links]], backlinks, and explicit cross-references constitute the primary mechanisms for encoding relational organization.
 
 **Temporal Dimension**: The time-based sequencing and evolution of knowledge. This includes chronological organization (daily notes, project timelines), versioning (tracking how ideas develop), and temporal context (when information was created or relevant). The temporal dimension recognizes that knowledge is not static but evolves through repeated engagement.
 
@@ -92,7 +92,7 @@ PKM organization manifests across multiple interrelated dimensions:
 | **Storage Layer** | Physical/logical file storage | File system, database | Markdown files in vault folder |
 | **Structure Layer** | Hierarchical organization | Folders, subfolders | Numbered prefix folders |
 | **Classification Layer** | Categorical grouping | Tags, metadata | YAML frontmatter, inline tags |
-| **Connection Layer** | Associative linking | Internal links, backlinks | [[Wiki-Links]], graph view |
+| **Connection Layer** | Associative linking | Internal links, backlinks | [[wiki-links]], graph view |
 | **Discovery Layer** | Search and retrieval | Full-text search, filters | Omnisearch, tag explorer |
 | **Interface Layer** | User interaction | Visual presentation | File browser, graph, canvas |
 
@@ -319,7 +319,7 @@ The primary way to create relations between notes in Obsidian is through interna
 
 **Linking Strategies**:
 
-1. **Explicit Links**: Direct [[Wiki-Links]] embedded in note text
+1. **Explicit Links**: Direct [[wiki-links]] embedded in note text
 2. **Backlinks**: Automatically generated reverse connections
 3. **Unlinked Mentions**: Obsidian detects mentions of note titles even without explicit link syntax
 4. **Alias Links**: Using `[[Note Title|Display Text]]` for natural prose flow
@@ -1203,7 +1203,7 @@ There's no one right way to organize notes. These aren't all-or-nothing systems.
 > Imagine you need to find a specific note you created six months ago. You remember the general topic but not the exact title. A well-organized system should provide multiple pathways:
 > 1. **Memory path**: "I was working on Project X then" → Navigate to project folder
 > 2. **Categorical path**: "It was about cognitive science" → Search `#cognitive-science `tag
-> 3. **Associative path**: "It connected to my note on schemas" → Follow links from [[Schemas]]
+> 3. **Associative path**: "It connected to my note on schemas" → Follow links from [[schemas]]
 > 4. **Temporal path**: "It was around when I read that book" → Check notes from that timeframe
 > 5. **Semantic path**: Full-text search for key terms
 > 

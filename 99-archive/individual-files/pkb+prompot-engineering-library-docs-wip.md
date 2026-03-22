@@ -240,7 +240,7 @@ python _scripts/orphan_check.py
 ## linkcheck (Link Integrity)
 
 ### Purpose
-Detect broken [[Wiki-Links]]
+Detect broken [[wiki-links]]
 
 ### Usage
 ```bash

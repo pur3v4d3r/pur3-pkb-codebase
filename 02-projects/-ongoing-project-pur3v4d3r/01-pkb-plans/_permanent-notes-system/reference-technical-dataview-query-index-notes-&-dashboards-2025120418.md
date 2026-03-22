@@ -363,7 +363,7 @@ LIMIT 20
 ## 🔗 Category 2: Link Analysis & Graph Intelligence
 
 > [!methodology-and-sources] Use Case
-> These queries analyze the [[knowledge graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[Personal Knowledge Base]].
+> These queries analyze the [[Knowledge-Graph]] structure within a folder: identifying hubs, orphans, bridges, and link density patterns. Critical for maintaining a well-connected [[Personal-Knowledge-Base]].
 
 ### **2.1 Orphan Note Detection**
 
@@ -774,7 +774,7 @@ dv.paragraph(`\n**Folder Summary**: ${files.length} notes | ~${totalWords.toLoca
 ## ⏰ Category 4: Temporal & Review Management
 
 > [!methodology-and-sources] Use Case
-> Time-based queries for [[spaced repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[evergreen notes]] and implementing review systems.
+> Time-based queries for [[Spaced-Repetition]], review scheduling, and temporal pattern analysis. Essential for maintaining [[evergreen notes]] and implementing review systems.
 
 ### **4.1 Notes Due for Review (Spaced Repetition)**
 
@@ -971,7 +971,7 @@ WHERE file.folder = this.file.folder AND file.name != this.file.name
 **Enhancement Options:**
 - Add `WHERE !completed` to show only open tasks
 - Add `SORT file.name` to group by file
-- Use [[Tasks plugin]] for advanced task management
+- Use [[Tasks-Plugin]] for advanced task management
 
 ---
 
@@ -1055,7 +1055,7 @@ SORT due ASC
 
 **Workflow Integration:**
 - Include in daily note for deadline awareness
-- Color-code overdue tasks (requires [[Tasks plugin]])
+- Color-code overdue tasks (requires [[Tasks-Plugin]])
 - Link to project MOCs for context
 
 ---
@@ -1148,7 +1148,7 @@ SORT status DESC, due ASC
 ## 🔍 Category 6: Content Discovery & Serendipity
 
 > [!methodology-and-sources] Use Case
-> Queries designed to surface forgotten knowledge, encourage [[serendipity]], and facilitate unexpected connections. Essential for [[knowledge graph]] exploration and creative insight.
+> Queries designed to surface forgotten knowledge, encourage [[serendipity]], and facilitate unexpected connections. Essential for [[Knowledge-Graph]] exploration and creative insight.
 
 ### **6.1 Random Note Resurfacing**
 
@@ -1176,7 +1176,7 @@ dv.list(randomNotes);
 
 **Use Cases:**
 - Daily review ritual (refresh daily)
-- [[Spaced repetition]] variation
+- [[Spaced-Repetition]] variation
 - Idea generation prompts
 
 **Customization**: Change `numberToShow` to control count
@@ -1334,7 +1334,7 @@ SORT file.ctime DESC
 ## 🧬 Category 7: Advanced Pattern Analysis
 
 > [!methodology-and-sources] Use Case
-> Sophisticated queries revealing emergent patterns, structural insights, and vault health metrics. For advanced users seeking deep [[knowledge graph]] intelligence.
+> Sophisticated queries revealing emergent patterns, structural insights, and vault health metrics. For advanced users seeking deep [[Knowledge-Graph]] intelligence.
 
 ### **7.1 Note Clustering by Shared Links**
 

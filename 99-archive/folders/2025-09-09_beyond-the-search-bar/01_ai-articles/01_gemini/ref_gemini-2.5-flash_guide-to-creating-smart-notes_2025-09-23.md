@@ -116,7 +116,7 @@ This step-by-step workflow ensures consistency and efficiency in creating "smart
     *   Ensure ample white space between sections and paragraphs.
 5.  **Synthesize the Summary:** Return to the top and craft the **One-Sentence Summary Block**. Condense the essence of your now-structured note into 1-2 clear, concise sentences. This forces you to articulate the core idea.
 6.  **Connect & Contextualize:**
-    *   Scan your note for opportunities to create **Contextual Links**. As you identify related concepts, embed links within sentences that explain their relevance (e.g., "This idea builds upon [[Previous Concept]]").
+    *   Scan your note for opportunities to create **Contextual Links**. As you identify related concepts, embed links within sentences that explain their relevance (e.g., "This idea builds upon [[Previous-Concept]]").
     *   Populate the **"Related Notes" Section** at the bottom. Think broadly about other notes in your system that are conceptually linked, even if not directly referenced in the text. This is a curated list for future discovery.
 7.  **Finalize Metadata:**
     *   Add relevant `tags` to the frontmatter. Think about categories, topics, and disciplines.

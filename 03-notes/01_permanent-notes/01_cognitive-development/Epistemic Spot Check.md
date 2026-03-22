@@ -20,11 +20,11 @@ link-up:
 link-related:
   - "[[Decision Journal]]"
   - "[[Pre-Mortem Analysis]]"
-  - "[[Cognitive Biases]]"
+  - "[[Cognitive-Biases]]"
   - "[[Calibration Theory]]"
-  - "[[Confirmation Bias]]"
-  - "[[Metacognitive Calibration]]"
-  - "[[Metacognitive Knowledge]]"
+  - "[[Confirmation-Bias]]"
+  - "[[Metacognitive-Calibration]]"
+  - "[[Metacognitive-Knowledge]]"
 maturity: seedling
 confidence: speculative
 

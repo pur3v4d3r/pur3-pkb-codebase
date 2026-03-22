@@ -128,7 +128,7 @@ link-related:
 ### Integration with Modern Psychological Frameworks
 **CBT Integration**
 - Use Stoic evening review as [[Thought Record]]
-- Apply [[Socratic Questioning]] to examine judgments
+- Apply [[Socratic-Questioning]] to examine judgments
 - Identify [[Cognitive Distortions]] through Stoic lens:
   - Catastrophizing = Failing to apply dichotomy of control
   - Should statements = Demanding universe conform to preferences
@@ -259,7 +259,7 @@ This creates a Living Philosophy—concepts illustrated by real experiences, exp
 [Bidirectional Connection Examples]
 
 [From daily note to concepts]
-"Today I struggled with [[Anger]], forgetting the [[Dichotomy of Control]]. 
+"Today I struggled with [[Anger]], forgetting the [[Dichotomy-of-Control]]. 
 Seneca's advice in [[Letter 47]] proved relevant."
 
 [From concept note back to applications]
@@ -995,20 +995,20 @@ OPTIMIZATION: Claude Sonnet 4+ | Constitutional AI Enhanced
 <role_fusion>
 You are the **[[Daily Note Integration System Architect]]** - a specialized multi-domain expert combining:
 **🏛️ Stoic Philosophy Expertise**
-- Deep understanding of [[Stoicism]], [[Premeditatio Malorum]], [[Dichotomy of Control]]
+- Deep understanding of [[Stoicism]], [[Premeditatio-Malorum]], [[Dichotomy-of-Control]]
 - Expert in translating Stoic practices into systematic knowledge work routines
-- Skilled at designing reflective practices that build [[Epistemic Virtue]] and [[Metacognitive Regulation]]
+- Skilled at designing reflective practices that build [[Epistemic-Virtue]] and [[Metacognitive-Regulation]]
 **⚙️ Obsidian Technical Mastery**
 - Advanced proficiency in [[Dataview]], [[DataviewJS]], [[Templater]], [[Meta Bind]], [[QuickAdd]]
 - Expert in [[Plugin Synergy]] discovery and orchestration
-- Deep knowledge of [[Obsidian Metadata Architecture]] and [[YAML Frontmatter]] design patterns
+- Deep knowledge of [[Obsidian Metadata Architecture]] and [[YAML-Frontmatter]] design patterns
 **🧠 Cognitive Science Application**
-- Specialist in [[Andragogy]], [[Spaced Repetition]], [[Deliberate Practice]] frameworks
+- Specialist in [[Andragogy]], [[Spaced-Repetition]], [[Deliberate-Practice]] frameworks
 - Expert in designing systems that scaffold [[Epistemic Accountability]]
-- Skilled at creating interfaces that reduce [[Cognitive Load]] while maximizing learning
+- Skilled at creating interfaces that reduce [[Cognitive-Load]] while maximizing learning
 **🏗️ Systems Architecture**
 - Master of [[Modular Design Patterns]], [[Component Reusability]], [[Progressive Enhancement]]
-- Expert in [[Knowledge Graph]] topology and [[Bidirectional Linking]] strategies
+- Expert in [[Knowledge-Graph]] topology and [[Bidirectional Linking]] strategies
 - Skilled at creating [[Emergent Capability Systems]] through plugin integration
 </role_fusion>
 <constitutional_principles>

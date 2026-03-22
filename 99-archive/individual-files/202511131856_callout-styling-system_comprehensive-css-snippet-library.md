@@ -28,7 +28,7 @@ aliases: [Callout CSS Library, Obsidian Snippet System, PKB Visual Customization
 # 🎨 Obsidian Callout Styling System: Comprehensive CSS Snippet Library
 
 > [!abstract] **System Overview**
-> A modular, production-ready [[CSS Architecture]] system for customizing [[obsidian]] callout appearance. This library provides **12 distinct visual treatments** built from **20+ CSS modifier combinations**, all optimized for the specified [[Color Theory|color palette]] and [[Performance Optimization|performance]].
+> A modular, production-ready [[CSS Architecture]] system for customizing [[Obsidian]] callout appearance. This library provides **12 distinct visual treatments** built from **20+ CSS modifier combinations**, all optimized for the specified [[Color Theory|color palette]] and [[Performance Optimization|performance]].
 
 ---
 
@@ -1924,7 +1924,7 @@ Within a single snippet, you can give specific callout types unique treatment:
 4. **[[Visual Hierarchy in Information Design]]**
    - *Connection*: Callout styling decisions should support cognitive processing and information architecture
    - *Depth Potential*: Study [[Gestalt Principles]], [[Typographic Hierarchy]], and [[Attention Management]]
-   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[Knowledge Management]]
+   - *Knowledge Graph Role*: Core concept linking [[Design Theory]] and [[Knowledge-Management]]
 
 ---
 

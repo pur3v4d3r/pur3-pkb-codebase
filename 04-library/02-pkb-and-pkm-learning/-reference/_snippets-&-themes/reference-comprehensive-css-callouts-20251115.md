@@ -44,7 +44,7 @@ Aliases: Obsidian Callout CSS, Callout Customization, Style Settings for Callout
 
 > [!abstract]
 > **Executive Overview**
-> This document is the complete and authoritative reference for customizing [[obsidian]] callouts using [[CSS]]. It provides a full taxonomy of all targetable elements, properties, and CSS variables, with a special focus on creating snippets compatible with the [[Style Settings]] plugin.
+> This document is the complete and authoritative reference for customizing [[Obsidian]] callouts using [[CSS]]. It provides a full taxonomy of all targetable elements, properties, and CSS variables, with a special focus on creating snippets compatible with the [[Style Settings]] plugin.
 
 > [!how-to-use-this]
 > **Navigation Guide**

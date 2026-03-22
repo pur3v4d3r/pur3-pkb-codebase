@@ -177,7 +177,7 @@ extraction_summary:
 #### 5. [DEFINITION] Dual-Process Theory (Kahneman, Evans, Cognitive Psychology) *(Line 154)*
 
 > [!definition] Dual-Process Theory (Kahneman, Evans, Cognitive Psychology)
-> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
+> The theoretical framework distinguishing two systems of cognitive processing: [[System-1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System-2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
 
 #### 6. [DEFINITION] Argument Mapping (Toulmin, van Gelder, Informal Logic) *(Line 157)*
 
@@ -562,8 +562,8 @@ extraction_summary:
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
 - [[Straw Man]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1]]
+- [[System-2]]
 - [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]]
 
 ### All Occurrences
@@ -583,8 +583,8 @@ extraction_summary:
 | 11 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Disciplinary Contributions and Their ... | 121 |
 | 12 | [[Aporia]] | — | — | The Socratic Method as Cognitive Inte... | 152 |
 | 13 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | The Socratic Method as Cognitive Inte... | 152 |
-| 14 | [[System 1]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
-| 15 | [[System 2]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
+| 14 | [[System-1]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
+| 15 | [[System-2]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
 | 16 | [[Cognitive-Miser|Cognitive Miser]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
 | 17 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | The Socratic Method as Cognitive Inte... | 161 |
 | 18 | [[Aporia]] | — | — | The Socratic Method as Cognitive Inte... | 164 |
@@ -710,8 +710,8 @@ extraction_summary:
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
 - [[Straw Man]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1]]
+- [[System-2]]
 - [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]]
 
 ### Frontmatter Relationships
@@ -729,8 +729,8 @@ extraction_summary:
 - [[Socratic-Method-Elenchus|Elenchus]]
 - [[Aporia]]
 - [[Dual-Process-Theory|Dual-Process Theory]]
-- [[System 1]]
-- [[System 2]]
+- [[System-1]]
+- [[System-2]]
 - [[Cognitive-Bias|Cognitive Bias]]
 - [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]

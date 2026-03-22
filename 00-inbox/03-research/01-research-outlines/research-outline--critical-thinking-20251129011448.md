@@ -154,7 +154,7 @@ Source: `= this.source`
 > 23. CT in Academic Acquisition → **Case Studies** (practical application)
 > 24. CT in PKB Systems → **Problem-Solving** (implementation)
 > **PKB INTEGRATION STRATEGY:**
-> - Create MOCs for: [[Critical Thinking Frameworks]], [[Intellectual-Standards]], [[Cognitive Biases]]
+> - Create MOCs for: [[Critical-Thinking-Frameworks]], [[Intellectual-Standards]], [[Cognitive-Biases]]
 > - Heavy wiki-linking to concepts like [[Metacognition]], [[Epistemology]], [[Logic]], [[Argumentation]]
 > - Tag architecture: #critical-thinking/paul-elder, #critical-thinking/cognitive-biases, #critical-thinking/metacognition
 > - Each topic should generate atomic notes for key concepts
@@ -222,9 +222,9 @@ Applying CT skills to research, synthesis, and PKB integration
 4. How do different disciplines conceptualize and operationalize CT?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Critical Thinking]], [[Metacognition]], [[Executive Function]], [[Working Memory]], [[Paul-Elder Framework]], [[Bloom's Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[Epistemology]], [[Cognitive Architecture]]
+- Core concepts to wiki-link: [[Critical-Thinking]], [[Metacognition]], [[Executive-Function]], [[Working-Memory]], [[Paul-Elder-Framework]], [[Bloom's-Taxonomy]], [[Facione's CT Model]], [[ACER Framework]], [[Epistemology]], [[Cognitive-Architecture]]
 - Recommended tags: #critical-thinking/foundations #cognitive-science #educational-theory
-- Connection points: Links to existing [[Cognitive Science]], [[Learning Theory]], [[Philosophy]] notes; creates foundation for all subsequent CT topics
+- Connection points: Links to existing [[Cognitive-Science]], [[Learning Theory]], [[Philosophy]] notes; creates foundation for all subsequent CT topics
 
 **Prerequisites**: Basic familiarity with cognitive psychology concepts helpful but not required
 
@@ -252,9 +252,9 @@ Applying CT skills to research, synthesis, and PKB integration
 8. What is my Point of View, and how might alternative perspectives see this differently?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Elements of Thought]], [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point-of-View]], [[Perspective-Taking]], [[Reasoning Structure]]
+- Core concepts to wiki-link: [[Elements of Thought]], [[Purpose-in-Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Assumptions]], [[Inferences]], [[Concepts and Theories]], [[Implications]], [[Point-of-View]], [[Perspective-Taking]], [[Reasoning Structure]]
 - Recommended tags: #critical-thinking/paul-elder #reasoning-framework #elements-of-thought
-- Connection points: Create [[MOC - Paul-Elder Framework]]; links to [[Argumentation]], [[Logic]], [[Analytical Thinking]]
+- Connection points: Create [[MOC - Paul-Elder Framework]]; links to [[Argumentation]], [[Logic]], [[Analytical-Thinking]]
 
 **Prerequisites**: Topic 1 (understanding of CT frameworks)
 
@@ -310,9 +310,9 @@ Applying CT skills to research, synthesis, and PKB integration
 5. What is the relationship between egocentric/sociocentric thinking and bias?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[Heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
+- Core concepts to wiki-link: [[Cognitive-Bias]], [[Confirmation-Bias]], [[Availability-Heuristic]], [[Anchoring Bias]], [[Dunning-Kruger-Effect]], [[Logical Fallacies]], [[Ad Hominem]], [[Straw Man]], [[False Dichotomy]], [[Appeal to Authority]], [[System 1 and System 2 Thinking]], [[heuristics]], [[Egocentric Thinking]], [[Sociocentric Thinking]]
 - Recommended tags: #cognitive-bias #logical-fallacies #critical-thinking/error-detection
-- Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision Making]], [[Epistemology]], [[Psychology]]
+- Connection points: Create [[MOC - Cognitive Biases]]; links to [[Behavioral Economics]], [[Decision-Making]], [[Epistemology]], [[Psychology]]
 
 **Prerequisites**: Topics 1-3 (foundation, elements, and standards provide framework for identifying violations)
 
@@ -366,9 +366,9 @@ Applying CT skills to research, synthesis, and PKB integration
 6. How does Confidence in Reasoning develop through practice?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Intellectual Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Fairmindedness]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Stages of CT Development]], [[Virtue-Epistemology]], [[Character Development]]
+- Core concepts to wiki-link: [[Intellectual-Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Fairmindedness]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Stages of CT Development]], [[Virtue-Epistemology]], [[Character Development]]
 - Recommended tags: #critical-thinking/intellectual-traits #virtue-epistemology #self-development
-- Connection points: Complete [[MOC - Paul-Elder Framework]]; links to [[Ethics]], [[Virtue Ethics]], [[Epistemology]], [[Self-Improvement]]
+- Connection points: Complete [[MOC - Paul-Elder Framework]]; links to [[Ethics]], [[Virtue-Ethics]], [[Epistemology]], [[Self-Improvement]]
 
 **Prerequisites**: Topics 1-5 (need full understanding of Elements and Standards framework)
 
@@ -394,9 +394,9 @@ Applying CT skills to research, synthesis, and PKB integration
 5. How can I build metacognitive reflection directly into my PKB note-taking process?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Metacognition]], [[Self-Regulated Learning]], [[Metastrategic Knowledge]], [[Metacognitive Monitoring]], [[Metacognitive Control]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Reflection]], [[Learning Strategies]], [[Cognitive Regulation]]
+- Core concepts to wiki-link: [[Metacognition]], [[Self-Regulated-Learning]], [[Metastrategic Knowledge]], [[Metacognitive-Monitoring]], [[Metacognitive-Control]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Reflection]], [[Learning Strategies]], [[Cognitive Regulation]]
 - Recommended tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
-- Connection points: Links to [[Learning Theory]], [[Cognitive Science]], [[Andragogy]], [[Personal Knowledge Management]]; bridge to PKB application topics
+- Connection points: Links to [[Learning Theory]], [[Cognitive-Science]], [[Andragogy]], [[Personal-Knowledge-Management]]; bridge to PKB application topics
 
 **Prerequisites**: Topics 1-6 (need full CT framework to apply metacognitive monitoring)
 
@@ -452,7 +452,7 @@ Applying CT skills to research, synthesis, and PKB integration
 **PKB Capture Strategy**:
 - Core concepts to wiki-link: [[PKB Design]], [[Note Templates]], [[Evidence-Based Notes]], [[Critical Note-Taking]], [[Knowledge Synthesis]], [[Thinking Tools]], [[Obsidian Workflows]], [[Metacognitive Reflection]], [[Reasoning Transparency]], [[Knowledge Evaluation]]
 - Recommended tags: #pkb-integration #critical-thinking/implementation #knowledge-management
-- Connection points: Integration hub connecting ALL previous CT topics to [[Personal Knowledge Management]], [[Zettelkasten]], [[Obsidian]], [[Second Brain]]
+- Connection points: Integration hub connecting ALL previous CT topics to [[Personal-Knowledge-Management]], [[Zettelkasten]], [[Obsidian]], [[Second Brain]]
 
 **Prerequisites**: Topics 1-8 (requires complete CT framework and academic application experience)
 
@@ -470,11 +470,11 @@ Applying CT skills to research, synthesis, and PKB integration
 5. [[MOC - Metacognition and Learning]] - Self-regulated learning and metacognitive strategies
 
 **Cross-Domain Connections**:
-- Link to existing [[Cognitive Science]] → CT's cognitive architecture and processes
+- Link to existing [[Cognitive-Science]] → CT's cognitive architecture and processes
 - Bridge with [[Philosophy]] → Epistemology, logic, virtue epistemology
 - Synthesize with [[Learning Theory]] → Bloom's Taxonomy, educational psychology
 - Connect to [[Research Methodology]] → Academic evaluation and synthesis
-- Integrate with [[Personal Knowledge Management]] → PKB design and workflows
+- Integrate with [[Personal-Knowledge-Management]] → PKB design and workflows
 
 **Metadata Architecture**:
 - Tag hierarchy: 
@@ -495,7 +495,7 @@ Applying CT skills to research, synthesis, and PKB integration
 ## 📅 Suggested Timeline & Milestones
 
 > [!helpful-tip] Cognitive Load Management
-> This timeline respects [[Spaced Repetition]] principles and allows for consolidation between topics. Each topic builds on previous ones, so don't rush through foundations. The spacing allows for practice and reflection.
+> This timeline respects [[Spaced-Repetition]] principles and allows for consolidation between topics. Each topic builds on previous ones, so don't rush through foundations. The spacing allows for practice and reflection.
 
 | Phase | Duration | Topics Covered | Milestone |
 |-------|----------|----------------|-----------|
@@ -529,7 +529,7 @@ Learning Objectives:
 4. Recognize CT as the bridge between information access and knowledge acquisition
 
 Prerequisites: Basic familiarity with cognitive psychology concepts helpful but not required
-PKB Integration: This creates the foundational node for all subsequent CT topics. Establish [[Critical Thinking]] as a central hub concept with connections to [[Cognitive Science]], [[Philosophy]], and [[Learning Theory]].
+PKB Integration: This creates the foundational node for all subsequent CT topics. Establish [[Critical-Thinking]] as a central hub concept with connections to [[Cognitive-Science]], [[Philosophy]], and [[Learning Theory]].
 </topic_context>
 
 <pedagogical_approach>
@@ -565,9 +565,9 @@ Generate a comprehensive academic report on the Foundations of Critical Thinking
    - Why CT matters for academic success and lifelong learning
 
 5. **Provides PKB Capture Guidance**:
-   - Key concepts to create atomic notes for: [[Critical Thinking]], [[Paul-Elder Framework]], [[Facione's CT Model]], [[Bloom's Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive Function]]
+   - Key concepts to create atomic notes for: [[Critical-Thinking]], [[Paul-Elder-Framework]], [[Facione's CT Model]], [[Bloom's-Taxonomy]], [[ACER Framework]], [[Metacognition]], [[Executive-Function]]
    - Recommended metadata tags: #critical-thinking/foundations #cognitive-science #educational-theory
-   - Connection points to [[Cognitive Science]], [[Learning Theory]], [[Philosophy]], [[Epistemology]]
+   - Connection points to [[Cognitive-Science]], [[Learning Theory]], [[Philosophy]], [[Epistemology]]
    - Suggest structure for [[MOC - Critical Thinking]]
 
 6. **Includes Practical Examples**:
@@ -655,10 +655,10 @@ Generate a comprehensive academic report on the Elements of Thought that:
    - Demonstrate how Element analysis uncovers hidden assumptions and implications
 
 6. **PKB Capture Guidance**:
-   - Create atomic note for each Element: [[Purpose in Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Inferences]], [[Concepts and Theories]], [[Assumptions]], [[Implications]], [[Point-of-View]]
+   - Create atomic note for each Element: [[Purpose-in-Reasoning]], [[Question-at-Issue]], [[Information vs Evidence]], [[Inferences]], [[Concepts and Theories]], [[Assumptions]], [[Implications]], [[Point-of-View]]
    - Recommended tags: #critical-thinking/paul-elder #reasoning-framework #elements-of-thought
    - Start building [[MOC - Paul-Elder Framework]]
-   - Link to [[Logic]], [[Argumentation]], [[Analytical Thinking]]
+   - Link to [[Logic]], [[Argumentation]], [[Analytical-Thinking]]
 
 Target Depth: Comprehensive - this is core analytical toolkit
 Expected Length: 4000-5000 words
@@ -1016,7 +1016,7 @@ Learning Objectives:
 4. Recognize the relationship between consistent application of Standards and development of Traits
 
 Prerequisites: Topics 1-5 (need full understanding of Elements and Standards framework before focusing on trait development)
-PKB Integration: Complete [[MOC - Paul-Elder Framework]]. Create self-assessment tools and developmental tracking. Link to [[Virtue Ethics]], [[Character Development]], [[Self-Improvement]].
+PKB Integration: Complete [[MOC - Paul-Elder Framework]]. Create self-assessment tools and developmental tracking. Link to [[Virtue-Ethics]], [[Character Development]], [[Self-Improvement]].
 </topic_context>
 
 <pedagogical_approach>
@@ -1151,11 +1151,11 @@ Generate a comprehensive academic report on Intellectual Traits and CT Developme
 
 8. **PKB Capture Guidance**:
    - Complete [[MOC - Paul-Elder Framework]]
-   - Atomic notes: [[Intellectual Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Fairmindedness]], [[Stages of CT Development]]
+   - Atomic notes: [[Intellectual-Traits]], [[Intellectual-Humility]], [[Intellectual-Courage]], [[Intellectual-Empathy]], [[Intellectual-Integrity]], [[Intellectual-Perseverance]], [[Confidence in Reasoning]], [[Intellectual Autonomy]], [[Fairmindedness]], [[Stages of CT Development]]
    - Tags: #critical-thinking/intellectual-traits #virtue-epistemology #self-development
    - Create self-assessment template
    - Developmental tracking system in PKB
-   - Links to [[Virtue Ethics]], [[Character Development]], [[Ethics]], [[Self-Improvement]]
+   - Links to [[Virtue-Ethics]], [[Character Development]], [[Ethics]], [[Self-Improvement]]
 
 Target Depth: Comprehensive with strong emphasis on self-assessment and development
 Expected Length: 4000-5000 words
@@ -1189,7 +1189,7 @@ Learning Objectives:
 5. Use self-questioning to regulate your thinking processes
 
 Prerequisites: Topics 1-6 (need full CT framework to apply metacognitive monitoring to)
-PKB Integration: Bridge CT theory to practical learning regulation. Create metacognitive reflection templates. Link to [[Learning Theory]], [[Andragogy]], [[Self-Regulated Learning]].
+PKB Integration: Bridge CT theory to practical learning regulation. Create metacognitive reflection templates. Link to [[Learning Theory]], [[Andragogy]], [[Self-Regulated-Learning]].
 </topic_context>
 
 <pedagogical_approach>
@@ -1317,11 +1317,11 @@ Generate a comprehensive academic report on Metacognition and Self-Regulated Lea
     - Reflection notes that analyze your own thinking
 
 11. **PKB Capture Guidance**:
-    - Atomic notes: [[Metacognition]], [[Metacognitive Knowledge]], [[Metacognitive Regulation]], [[Self-Regulated Learning]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Planning]], [[Monitoring]], [[Evaluation]], [[Learning Strategies]]
+    - Atomic notes: [[Metacognition]], [[Metacognitive-Knowledge]], [[Metacognitive-Regulation]], [[Self-Regulated-Learning]], [[Comprehension-Monitoring]], [[Self-Questioning]], [[Planning]], [[Monitoring]], [[Evaluation]], [[Learning Strategies]]
     - Tags: #metacognition #self-regulated-learning #critical-thinking/meta-awareness
     - Create metacognitive reflection template
     - Create learning log template
-    - Links to [[Learning Theory]], [[Cognitive Science]], [[Andragogy]], [[Self-Improvement]]
+    - Links to [[Learning Theory]], [[Cognitive-Science]], [[Andragogy]], [[Self-Improvement]]
 
 Target Depth: Comprehensive with emphasis on practical strategy implementation
 Expected Length: 4000-5000 words
@@ -1894,42 +1894,42 @@ This plan is a **living document**. Adapt based on:
 1. **[[Logic and Formal Reasoning]]**
    - *Connection*: Provides mathematical/symbolic foundation for argument analysis covered in Topic 5
    - *Depth Potential*: Formal logic systems (propositional, predicate, modal logic) offer rigorous tools for validity assessment beyond informal logic
-   - *Knowledge Graph Role*: Creates bridge between [[Critical Thinking]], [[Mathematics]], [[Philosophy of Logic]], and [[Formal Systems]]
+   - *Knowledge Graph Role*: Creates bridge between [[Critical-Thinking]], [[Mathematics]], [[Philosophy of Logic]], and [[Formal Systems]]
 
 2. **[[Epistemology and Theory of Knowledge]]**
    - *Connection*: Philosophical foundation underlying all CT work - what is knowledge? How is belief justified?
    - *Depth Potential*: Explores foundationalism, coherentism, reliabilism, virtue epistemology - frameworks for understanding knowledge claims
-   - *Knowledge Graph Role*: Deepens [[Critical Thinking]] through examination of knowledge itself; connects to [[Philosophy]], [[Science]], [[Truth]]
+   - *Knowledge Graph Role*: Deepens [[Critical-Thinking]] through examination of knowledge itself; connects to [[Philosophy]], [[Science]], [[Truth]]
 
 3. **[[Cognitive Science of Reasoning]]**
    - *Connection*: Scientific understanding of reasoning mechanisms underlying CT (dual-process theory, mental models, etc.)
    - *Depth Potential*: Empirical research on how humans actually reason vs how we ought to reason; neuroscience of executive function
-   - *Knowledge Graph Role*: Bridges [[Critical Thinking]] with [[Cognitive Psychology]], [[Neuroscience]], [[Behavioral Economics]]
+   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[Cognitive-Psychology]], [[Neuroscience]], [[Behavioral Economics]]
 
 4. **[[Rhetoric and Persuasion]]**
    - *Connection*: Complements CT's analytical focus with understanding of how arguments are constructed to persuade
    - *Depth Potential*: Classical rhetoric (ethos, pathos, logos), modern persuasion psychology, propaganda analysis, rhetorical devices
-   - *Knowledge Graph Role*: Connects [[Critical Thinking]] to [[Communication]], [[Public Speaking]], [[Writing]], [[Media Literacy]]
+   - *Knowledge Graph Role*: Connects [[Critical-Thinking]] to [[Communication]], [[Public Speaking]], [[Writing]], [[Media Literacy]]
 
 5. **[[Scientific Reasoning and Research Methods]]**
    - *Connection*: Applies CT specifically to scientific contexts; extends Topic 8's academic focus
    - *Depth Potential*: Philosophy of science, experimental design, statistical reasoning, replication crisis, science communication
-   - *Knowledge Graph Role*: Deepens [[Critical Thinking]] through [[Scientific Method]], [[Statistics]], [[Research Design]], [[Evidence-Based Practice]]
+   - *Knowledge Graph Role*: Deepens [[Critical-Thinking]] through [[Scientific-Method]], [[Statistics]], [[Research Design]], [[Evidence-Based Practice]]
 
 6. **[[Information Literacy and Digital Literacy]]**
    - *Connection*: CT applied to navigating information landscape, especially crucial in digital age
    - *Depth Potential*: Source credibility online, misinformation detection, algorithmic awareness, digital research skills
-   - *Knowledge Graph Role*: Applies [[Critical Thinking]] to [[Media Studies]], [[Technology]], [[Digital Culture]], [[Online Research]]
+   - *Knowledge Graph Role*: Applies [[Critical-Thinking]] to [[Media Studies]], [[Technology]], [[Digital Culture]], [[Online Research]]
 
 7. **[[Decision Making and Judgment Under Uncertainty]]**
    - *Connection*: CT applied to practical decision contexts; extends bias awareness from Topic 4
    - *Depth Potential*: Probability judgment, risk assessment, decision heuristics, medical/legal/business decision-making
-   - *Knowledge Graph Role*: Bridges [[Critical Thinking]] with [[Behavioral Economics]], [[Risk Management]], [[Applied Ethics]], [[Professional Practice]]
+   - *Knowledge Graph Role*: Bridges [[Critical-Thinking]] with [[Behavioral Economics]], [[Risk Management]], [[Applied Ethics]], [[Professional Practice]]
 
 8. **[[Creative Thinking and Innovation]]**
    - *Connection*: Complements CT's evaluative focus with generative thinking; shows how they work together
    - *Depth Potential*: Creativity frameworks, divergent thinking, design thinking, innovation processes, lateral thinking
-   - *Knowledge Graph Role*: Integrates [[Critical Thinking]] with [[Creativity]], [[Problem Solving]], [[Design]], [[Innovation Studies]]
+   - *Knowledge Graph Role*: Integrates [[Critical-Thinking]] with [[Creativity]], [[Problem Solving]], [[Design]], [[Innovation Studies]]
 
 ---
 

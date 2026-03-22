@@ -21,7 +21,7 @@ related_concepts:
   - "[[Encoding-Specificity|Encoding Specificity]]"
   - "[[Spaced-Repetition-Systems|Spaced Repetition Systems]]"
   - "[[Forgetting-Curve|Forgetting Curve]]"
-  - "[[Memory Consolidation]]"
+  - "[[Memory-Consolidation]]"
   - "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
   - "[[Generation-Effect|Generation Effect]]"
   - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
@@ -84,7 +84,7 @@ aliases:
   - Memory Science PKB Design
   - PKM Report 06
   - RONA — Retrieval-Oriented Note Architecture
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_related:
   - "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]"
   - "[[02-architecture-of-learning-pkm-framework-2026-03-13]]"
@@ -113,7 +113,7 @@ The answer is not simply "add spaced repetition to your PKB." It is more structu
 
 This report draws from four primary disciplinary traditions, each contributing something the others cannot provide alone.
 
-**[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** contributes the mechanistic account of memory — the [[Forgetting-Curve|Forgetting Curve]], [[Memory Consolidation]], [[Encoding-Specificity|Encoding Specificity]], and the cognitive neuroscience of retrieval. It tells us *how* memory works at the level of process and mechanism. **[[Psychology of Learning]]** contributes the empirical research base on [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[Interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] — the "big four" of evidence-based learning science. It tells us *what practices* most reliably strengthen memory. **[[Educational-Psychology|Educational Psychology]]** contributes the self-regulatory and metacognitive dimension — how learners monitor their own memory states, make review decisions, and systematically miscalibrate those decisions. It tells us *how learners go wrong* in managing their own learning and retention. **[[Knowledge-Management|Knowledge Management]]** contributes the organizational and systemic perspective — how retrieval should be designed into information architectures as a structural feature, not appended as an afterthought. It tells us how systems can embody intended behaviors.
+**[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** contributes the mechanistic account of memory — the [[Forgetting-Curve|Forgetting Curve]], [[Memory-Consolidation]], [[Encoding-Specificity|Encoding Specificity]], and the cognitive neuroscience of retrieval. It tells us *how* memory works at the level of process and mechanism. **[[Psychology of Learning]]** contributes the empirical research base on [[Spaced-Repetition-Spacing-Effect|Spacing Effect]], [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]], [[Interleaving]], and [[Desirable-Difficulties|Desirable Difficulties]] — the "big four" of evidence-based learning science. It tells us *what practices* most reliably strengthen memory. **[[Educational-Psychology|Educational Psychology]]** contributes the self-regulatory and metacognitive dimension — how learners monitor their own memory states, make review decisions, and systematically miscalibrate those decisions. It tells us *how learners go wrong* in managing their own learning and retention. **[[Knowledge-Management|Knowledge Management]]** contributes the organizational and systemic perspective — how retrieval should be designed into information architectures as a structural feature, not appended as an afterthought. It tells us how systems can embody intended behaviors.
 
 The productive intersection of these traditions yields insights that none of them articulates independently. Cognitive psychology explains the mechanisms; psychology of learning identifies what practices exploit those mechanisms; educational psychology explains why learners resist the right practices; knowledge management explains how to embed the right practices into system design. Together, they point toward a comprehensive redesign of PKB review architecture grounded in genuine understanding rather than folk intuition.
 
@@ -422,7 +422,7 @@ The encoding specificity principle argues for preserving the *context of encodin
 > [Connection to the motivating problem — what changes now that I know this]
 >
 > ## Connections
-> [[Related concept]] — [[How it relates]]
+> [[Related-Concept]] — [[How it relates]]
 > [[Project or problem context]] — [[How this applies]]
 > ```
 > The "motivating problem" section operationalizes encoding specificity: it preserves the retrieval cues that real future problem contexts will reinstate.

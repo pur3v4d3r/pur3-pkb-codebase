@@ -91,7 +91,7 @@ companion_report: "[[pkm-pkb-framework-project-report-architecture-methodology-2
 
 The framework's capstone deliverable, developed in Report 27 ([[27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15|The Complete PKM/PKB Design Framework]]), is the [[Integrated-Learning-System-Model]] (ILSM). This model asserts that a PKB at full function is not merely a storage system with organizational features — it is a system with three synergistic properties that together constitute a distributed cognitive architecture:
 
-**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[Schema Theory]], [[Semantic-Networks]], [[Cognitive Load Theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
+**Property 1 — Isomorphic External Memory.** The PKB's structural organization mirrors the five organizational properties of human long-term memory: (1) hierarchically associative structure, (2) multiple abstraction levels, (3) contextually embedded encoding, (4) time-sensitive consolidation, (5) affordance-sensitive activation. This property is grounded in convergent evidence from [[Schema-Theory]], [[Semantic-Networks]], [[Cognitive-Load-Theory]], [[Expert-Knowledge-Organization]], [[Information Foraging Theory]], and the [[SECI-Model]].
 
 **Property 2 — Constructive Processing Engine.** The PKB's workflows and interaction patterns demand active cognitive construction during every encounter — not passive retrieval. Notes are designed as retrieval training instruments, review sessions require generation before re-exposure, and organizational structures create productive difficulty through cross-domain juxtaposition and elaborative interrogation.
 
@@ -187,7 +187,7 @@ The identification of the [[Convenience-Learning Tension]] is perhaps the framew
 
 **Limitation 3 — The Thoroughness-Sustainability Tension.** The framework's own Active Construction Imperative (FP2) demands effortful processing for every note interaction. The motivational sustainability requirements demand that PKM practice be maintainable over decades. These imperatives compete for the same resource: the practitioner's cognitive energy. The framework offers no "minimum viable practice" specification — no guidance on how to implement the Twelve Master Principles at a level comprehensive enough to be effective but lightweight enough to be sustainable. The synthesis document correctly identifies this as the framework's most significant unresolved tension.
 
-**Limitation 4 — Solo Practice Scope.** The framework addresses only individual PKM practice. [[Collaborative Knowledge Building]], shared PKBs, team knowledge graphs, and social SECI processes are absent. Report 27 explicitly acknowledges this limitation, and [[Self-Determination Theory]]'s identification of relatedness as a basic psychological need suggests that the framework's motivational architecture is incomplete without a social dimension.
+**Limitation 4 — Solo Practice Scope.** The framework addresses only individual PKM practice. [[Collaborative Knowledge Building]], shared PKBs, team knowledge graphs, and social SECI processes are absent. Report 27 explicitly acknowledges this limitation, and [[Self-Determination-Theory]]'s identification of relatedness as a basic psychological need suggests that the framework's motivational architecture is incomplete without a social dimension.
 
 **Limitation 5 — Metadata Confidence Overstatement.** All 30 reports carry `confidence: high` in their YAML frontmatter, but reports operating in different epistemic territories warrant different confidence levels. Reports grounded in meta-analytic evidence (06, 16, 20) operate at genuinely higher epistemic confidence than reports addressing philosophical questions (28) or emerging AI territory (30, with `epistemic_status: emerging synthesis`). This uniform confidence rating constitutes the calibration failure the framework warns against — an irony the working notes (Pass 4: Critical Analysis) explicitly document.
 
@@ -300,10 +300,10 @@ The most appropriate way to engage with this framework is the way the framework 
 ## 6. References
 
 > [!cite] **Anderson, J.R. (1977). Memory for information about individuals. *Memory & Cognition*, 5(4), 430–442.**
-> Key researcher in [[Schema Theory]] development. Foundation for principle-organized knowledge organization.
+> Key researcher in [[Schema-Theory]] development. Foundation for principle-organized knowledge organization.
 
 > [!cite] **Bartlett, F.C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.**
-> Foundation of [[Schema Theory]]. Knowledge is reconstructive, not reproductive.
+> Foundation of [[Schema-Theory]]. Knowledge is reconstructive, not reproductive.
 
 > [!cite] **Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*. MIT Press.**
 > Coined [[Desirable-Difficulties]]. Central evidence base for FP2 (Active Construction Imperative).
@@ -312,7 +312,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > Foundation for expert vs. novice knowledge organization. Supports principle-based PKB organization (DP1).
 
 > [!cite] **Clark, A. & Chalmers, D.J. (1998). The extended mind. *Analysis*, 58(1), 7–19.**
-> [[Extended Mind Theory]]. Theoretical grounding for PKB as cognitive extension.
+> [[Extended-Mind-Theory]]. Theoretical grounding for PKB as cognitive extension.
 
 > [!cite] **Collins, A.M. & Loftus, E.F. (1975). A spreading-activation theory of semantic processing. *Psychological Review*, 82(6), 407–428.**
 > [[Semantic-Networks]] and [[Spreading-Activation]]. Architectural analog for wiki-link PKB structures.
@@ -321,7 +321,7 @@ The most appropriate way to engage with this framework is the way the framework 
 > Working memory capacity revised to ~4 chunks. Key constraint for note design.
 
 > [!cite] **Deci, E.L. & Ryan, R.M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry*, 11(4), 227–268.**
-> [[Self-Determination Theory]]. Autonomy, competence, relatedness as motivational foundations.
+> [[Self-Determination-Theory]]. Autonomy, competence, relatedness as motivational foundations.
 
 > [!cite] **Dewey, J. (1933). *How We Think*. D.C. Heath.**
 > Reflective inquiry and pragmatist learning theory. Foundation of experience processing architecture.
@@ -366,13 +366,13 @@ The most appropriate way to engage with this framework is the way the framework 
 > Schema Theory development. Knowledge as organized mental structures.
 
 > [!cite] **Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.**
-> [[Cognitive Load Theory]]. Intrinsic, extraneous, and germane load distinction.
+> [[Cognitive-Load-Theory]]. Intrinsic, extraneous, and germane load distinction.
 
 > [!cite] **Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.**
-> [[Zone of Proximal Development]]. Social constructivism.
+> [[Zone-of-Proximal-Development]]. Social constructivism.
 
 > [!cite] **Zimmerman, B.J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64–70.**
-> [[Self-Regulated Learning]] cycle. Foundation of FP3 (Regulatory Embedding).
+> [[Self-Regulated-Learning]] cycle. Foundation of FP3 (Regulatory Embedding).
 
 ---
 

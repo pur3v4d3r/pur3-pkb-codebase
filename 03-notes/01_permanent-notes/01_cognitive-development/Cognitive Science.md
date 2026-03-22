@@ -40,16 +40,16 @@ link-related:
   - "[[2025-12-13|Daily-Note]]"
   - "[[Chain-of-Thought]]"
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
+  - "[[Large-Language-Models]]"
   - "[[Cognitive Load Management]]"
-  - "[[Critical Thinking]]"
-  - "[[Dichotomy Of Control]]"
-  - "[[Educational Psychology]]"
-  - "[[Locus Of Control]]"
+  - "[[Critical-Thinking]]"
+  - "[[Dichotomy-of-Control]]"
+  - "[[Educational-Psychology]]"
+  - "[[Locus-of-Control]]"
   - "[[Metacognition]]"
   - "[[Self-Behavioral Management]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Regulated-Learning]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Self-Regulation Theory]]"
 title: cognitive science
 summary: Cognitive science is an interdisciplinary field dedicated to the scientific study of the mind and its processes, integrating insights from various academic disciplines. It explores the nature of thought, perception, memory, language, and intelligence across humans, animals, and machines.
@@ -65,7 +65,7 @@ review-priority: medium
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Cognitive Science]]
+> - **Title**: [[Cognitive-Science]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

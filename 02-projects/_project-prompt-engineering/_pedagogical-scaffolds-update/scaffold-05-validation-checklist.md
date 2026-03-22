@@ -45,7 +45,7 @@
 | Synthesis Note | 10-25 links | ___ | ⬜ |
 
 **Quality Checks:**
-- [ ] All KEY concepts formatted as `[[Wiki-Links]]` (not plain text)
+- [ ] All KEY concepts formatted as `[[wiki-links]]` (not plain text)
 - [ ] Links are MEANINGFUL (not superficial or forced)
 - [ ] First mention of terms linked (not every repetition)
 - [ ] Correct syntax: `[[Note Title]]` (no broken brackets)

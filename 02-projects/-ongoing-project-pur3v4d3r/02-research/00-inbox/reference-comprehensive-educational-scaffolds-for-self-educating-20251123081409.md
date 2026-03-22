@@ -443,7 +443,7 @@ Based on the analysis of the `[EXEMPLAR-BASE]` (focused on deep, academic exposi
 
 > [!definition]
 > - **Term 1 (e.g., [[Entropy]]):** {{A clear, concise, single-sentence definition.}}
-> - **Term 2 (e.g., [[Heuristics]]):** {{A clear, concise, single-sentence definition.}}
+> - **Term 2 (e.g., [[heuristics]]):** {{A clear, concise, single-sentence definition.}}
 > - **Term 3 (e.g., [[Agency]]):** {{A clear, concise, single-sentence definition.}}
 
 ### 2.2 Core Principles

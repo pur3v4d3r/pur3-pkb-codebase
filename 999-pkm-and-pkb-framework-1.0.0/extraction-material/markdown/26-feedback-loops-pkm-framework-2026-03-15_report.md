@@ -560,7 +560,7 @@ extraction_summary:
 - [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]
 - [[Norbert Wiener]]
 - [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich]]
 - [[Phil Long]]
 - [[Plan-Do-Check-Adapt (PDCA) cycle]]
 - [[Positive Feedback]]
@@ -611,7 +611,7 @@ extraction_summary:
 | 17 | [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]] | — | — | The Cybernetic Foundation: Feedback a... | 159 |
 | 18 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
 | 19 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
-| 20 | [[Paul Pintrich]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
+| 20 | [[Paul-Pintrich]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
 | 21 | [[Single-Loop-Learning|Single-Loop Learning]] | — | — | Self-Regulated Learning: The Learner ... | 169 |
 | 22 | [[Learning-Analytics|Learning Analytics]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
 | 23 | [[George Siemens]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
@@ -705,7 +705,7 @@ extraction_summary:
 - [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]
 - [[Norbert Wiener]]
 - [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]
-- [[Paul Pintrich]]
+- [[Paul-Pintrich]]
 - [[Phil Long]]
 - [[Plan-Do-Check-Adapt (PDCA) cycle]]
 - [[Positive Feedback]]

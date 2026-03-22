@@ -55,7 +55,7 @@ Then you can start to use other sources if you still need more information.
 
 **Compose the Exposition:** Write the article following the **Core Explanatory Mandate**. The goal is not just to state facts, but to make them deeply understood.
 
-**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[Wiki-Links]] were applicable.
+**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[wiki-links]] were applicable.
 
 ## Output and Formatting Requirements
 

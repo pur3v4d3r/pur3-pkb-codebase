@@ -86,7 +86,7 @@ D:\10_pur3v4d3r's-vault/
 ### **000_database** 📊
 **Purpose**: Data sources, structured information, external references
 - Likely contains: CSV files, JSON sources, curated data collections
-- Function: [[Knowledge Graph]] sourcing
+- Function: [[Knowledge-Graph]] sourcing
 - Connection Point: Referenced by notes across vault
 
 > [!principle-point]
@@ -121,7 +121,7 @@ D:\10_pur3v4d3r's-vault/
 
 **Key Observations**:
 - Heavy focus on **Obsidian plugin mastery** (Templater, Dataview, Day Planner, QuickAdd)
-- Active engagement with [[Getting Things Done]] and [[Task Management]] frameworks
+- Active engagement with [[Getting Things Done]] and [[Task-Management]] frameworks
 - Recent emphasis on [[Metacognition]] and [[Self-Directed-Learning]]
 - Systematic documentation of custom callout systems
 
@@ -176,7 +176,7 @@ D:\10_pur3v4d3r's-vault/
 **Architectural Significance**:
 - Clean separation between capture (inbox) → processing (daily-notes) → permanence (03_notes)
 - Enables [[Emergence]] of ideas through systematic connection-building
-- Foundation for [[Knowledge Graph]] visualization and discovery
+- Foundation for [[Knowledge-Graph]] visualization and discovery
 
 ---
 
@@ -196,7 +196,7 @@ D:\10_pur3v4d3r's-vault/
 
 **Strategic Value**:
 - Centralized documentation repository for Obsidian ecosystem mastery
-- Generated materials suggest use of AI-assisted note creation (likely from your [[Prompt Engineering]] workflows)
+- Generated materials suggest use of AI-assisted note creation (likely from your [[Prompt-Engineering]] workflows)
 - Writing checklists indicate systematic [[Writing Process]] optimization
 
 ---
@@ -256,11 +256,11 @@ D:\10_pur3v4d3r's-vault/
 ```
 
 > [!what-this-does]
-> Your dashboard serves as a **system health monitor**, likely containing [[dataview]] queries showing vault statistics, update frequencies, link densities, and knowledge graph completeness metrics.
+> Your dashboard serves as a **system health monitor**, likely containing [[Dataview]] queries showing vault statistics, update frequencies, link densities, and knowledge graph completeness metrics.
 
 **Implications**:
 - Systematic approach to [[PKB Maintenance]] and quality assurance
-- Use of [[dataview]] for quantitative knowledge metrics
+- Use of [[Dataview]] for quantitative knowledge metrics
 - Proactive monitoring of vault health and growth
 
 ---
@@ -291,12 +291,12 @@ D:\10_pur3v4d3r's-vault/
 ```
 
 > [!methodology-and-sources]
-> This directory houses your **automation infrastructure**: [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for rapid capture, [[Templater]] for boilerplate generation, and AI integration points for assisted knowledge creation. This aligns directly with your [[Prompt Engineering]] expertise.
+> This directory houses your **automation infrastructure**: [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for rapid capture, [[Templater]] for boilerplate generation, and AI integration points for assisted knowledge creation. This aligns directly with your [[Prompt-Engineering]] expertise.
 
 **Technical Sophistication**:
 - Multiple capture pathways (QuickAdd, Text-Generator, Templater)
 - AI integration layer (Copilot) for assisted workflows
-- Suggests active use of [[Automation]] to reduce cognitive friction
+- Suggests active use of [[automation]] to reduce cognitive friction
 
 ---
 
@@ -319,7 +319,7 @@ D:\10_pur3v4d3r's-vault/
 | Document | Purpose |
 |----------|---------|
 | `managing-my-cognitive-load.md` | Strategic overview of cognitive management approach |
-| `my-goals.md` | Master goals document; likely integrated with [[Goal Setting]] and [[Self-Determination Theory]] |
+| `my-goals.md` | Master goals document; likely integrated with [[Goal Setting]] and [[Self-Determination-Theory]] |
 
 ---
 
@@ -332,7 +332,7 @@ Your vault uses **hierarchical numerical prefixes** (000-99) creating implicit p
 - **99**: Archive and system infrastructure
 
 > [!principle-point]
-> This creates a natural **reading order** for someone exploring the vault, while enabling [[dataview]] queries that respect numeric hierarchy.
+> This creates a natural **reading order** for someone exploring the vault, while enabling [[Dataview]] queries that respect numeric hierarchy.
 
 ### **2. Emoji Semantic Tagging**
 Visual emoji integration throughout (🔩, ⚫, ♾️, 🦖, 📚, 🪐) creates:
@@ -459,7 +459,7 @@ Two parallel tracks visible in your structure:
 
 **🎉 Vault Architecture Analysis Complete!**
 
-Your vault represents a **professionally-architected Personal Knowledge Management system** that thoughtfully balances sophisticated organization with practical usability. The structure clearly reflects your [[Prompt Engineering]] expertise, [[Humanistic Learning Theory]] engagement, and commitment to [[lifelong learning]].
+Your vault represents a **professionally-architected Personal Knowledge Management system** that thoughtfully balances sophisticated organization with practical usability. The structure clearly reflects your [[Prompt-Engineering]] expertise, [[Humanistic Learning Theory]] engagement, and commitment to [[Lifelong-learning]].
 
 ```
 <thinking>

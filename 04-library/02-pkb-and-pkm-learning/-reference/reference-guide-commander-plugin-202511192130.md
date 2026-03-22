@@ -34,7 +34,7 @@ aliases: [Commander Plugin, Obsidian Commander, UI Customization Tool, Command I
 # ⚙️ Commander Plugin for Obsidian
 
 > [!abstract]
-> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
+> **Commander** is a powerful [[Obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.
 
 ---
 
@@ -59,7 +59,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 ## 🗺️ Interface Elements & Use Cases
 
 > [!core-principle]
-> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive-Load]], and creates spatial memory anchors for frequently-used workflows.
+> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal-Knowledge-Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive-Load]], and creates spatial memory anchors for frequently-used workflows.
 
 ### 1️⃣ Left Ribbon (Primary Navigation Hub)
 
@@ -77,7 +77,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 >   - `Create New Note`
 >   - `Toggle Reading View/Edit Mode`
 > - **Plugin Integration**:
->   - [[dataview]]: `Open Dataview Query Sandbox`
+>   - [[Dataview]]: `Open Dataview Query Sandbox`
 >   - [[Templater]]: `Insert Template`
 >   - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]: Quick capture macros
 > - **PKB Maintenance**:
@@ -101,7 +101,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 >   - `Open Backlinks Pane`
 >   - `Open Outgoing Links`
 > - **Advanced Views**:
->   - [[canvas]] workspace toggles
+>   - [[Canvas]] workspace toggles
 >   - Database views (if using Dataview or similar)
 > - **Specialized Workflows**:
 >   - `Execute Code Block` (for technical notes)
@@ -183,7 +183,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 >   - `Toggle Spellcheck`
 > - **Plugin Controls**:
 >   - [[Tasks]]: `Show Due Tasks`
->   - [[Day Planner]]: `Open Today's Schedule`
+>   - [[Day-Planner]]: `Open Today's Schedule`
 >   - Calendar integration toggles
 
 > [!warning]
@@ -360,7 +360,7 @@ The plugin provides **granular control** over the Obsidian interface through the
 > 20. 🔄 `Convert to Permanent Note`
 
 > [!helpful-tip]
-> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.
+> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[Dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.
 
 **Device Strategy**: **Mobile-first design**. Left Ribbon and Title Bar optimized for one-handed capture. Desktop adds review and processing tools in Page Header.
 
@@ -473,7 +473,7 @@ This creates a natural [[Cognitive-Load]] management system where common operati
 ## 🔧 Installation & Configuration Workflow
 
 > [!how-to-use-this]
-> Follow this step-by-step process to implement Commander in your [[Personal Knowledge Base]].
+> Follow this step-by-step process to implement Commander in your [[Personal-Knowledge-Base]].
 
 ### Step 1: Install Commander
 
@@ -558,7 +558,7 @@ This creates a natural [[Cognitive-Load]] management system where common operati
 |--------|----------------------|
 | [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | Add QuickAdd capture macros to Left Ribbon for one-click note creation |
 | [[Templater]] | Place template insertion commands in Page Header for context-aware note scaffolding |
-| [[dataview]] | Add custom Dataview query execution commands to Right Ribbon for instant data analysis |
+| [[Dataview]] | Add custom Dataview query execution commands to Right Ribbon for instant data analysis |
 | [[Tasks]] | Populate Status Bar with task count indicators and quick task creation commands |
 | [[workspace]] | Use Title Bar for workspace switchers, creating mode-based command profiles |
 | [[Hotkey Helper]] | Combine visual Commander buttons with keyboard shortcuts for multi-modal access |
@@ -653,7 +653,7 @@ This pattern transforms Commander from a command *organizer* into a workflow *or
 3. **[[QuickAdd Macro Development]]**
    - *Connection*: QuickAdd creates custom commands that Commander can surface in UI
    - *Depth Potential*: Build compound workflows that chain multiple actions into single-click operations
-   - *Knowledge Graph Role*: Links [[Automation]], [[Template Systems]], and [[Capture Workflows]]
+   - *Knowledge Graph Role*: Links [[automation]], [[Template Systems]], and [[Capture Workflows]]
 
 4. **[[Mobile PKB Workflows]]**
    - *Connection*: Commander's device-specific settings enable optimized mobile experiences
@@ -696,7 +696,7 @@ Information Architecture:
 8. Further Exploration
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
+[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal-Knowledge-Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]
 
 **CALLOUT STRATEGY:**
 - [!definition] for plugin overview

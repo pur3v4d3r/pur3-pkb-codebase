@@ -176,7 +176,7 @@ When generating topics, suggest appropriate:
 - **MOC Placement**: [Which Map of Content this belongs to]
 
 Example:
-**Topic**: [[Bayesian Epistemology]]
+**Topic**: [[Bayesian-Epistemology]]
 **Suggested Tags**: #philosophy #epistemology #probability-theory #cognitive-science
 **Aliases**: [Bayesian Reasoning, Probabilistic Epistemology, Bayesian Inference in Philosophy]
 **MOC Placement**: [[Philosophy of Science MOC]], [[Probability & Statistics MOC]]

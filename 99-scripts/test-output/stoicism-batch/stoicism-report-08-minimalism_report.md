@@ -130,7 +130,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 248)*
 
 > [!abstract] Untitled
-> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
+> This report examines [[Stoicism]] as the ancient world's most rigorous philosophical foundation for what we today call minimalism — arguing that the Stoic commitment to voluntary simplicity is not an optional lifestyle preference but a direct expression of the core philosophical claim that genuine flourishing cannot be purchased, accumulated, or acquired. Drawing on primary sources in [[Marcus-Aurelius]], [[Epictetus]], and [[Seneca]], and connecting the Stoic framework to contemporary psychological research on materialism, hedonic adaptation, and wellbeing, this report maps the philosophical architecture of Stoic simplicity, explains why it works psychologically, offers worked examples from historical and contemporary cases, and provides a systematic toolkit of practices for cultivating sufficiency in a culture designed to manufacture insatiability. The central argument is this: Stoic minimalism is not about owning fewer things. It is about correcting a fundamental error in how we understand what makes a life go well — and then living, concretely and practically, from that corrected understanding.
 
 #### 2. [INDEX] Untitled *(Line 253)*
 
@@ -143,7 +143,7 @@ extraction_summary:
 > → Next: [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]]
 > 
 > **Series Arc Position**: Application
-> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy of Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
+> **Recommended Prerequisites**: Reports 01–03 establish the foundational vocabulary — particularly [[Dichotomy-of-Control]], [[Preferred Indifferents]], [[Prohairesis]], and the [[Discipline of Desire]] — that this report presupposes. Readers new to the series are recommended to begin with Reports 01 and 02.
 
 #### 3. [RESEARCH] Untitled *(Line 272)*
 
@@ -203,7 +203,7 @@ extraction_summary:
 #### 12. [CONNECTION-IDEAS] Untitled *(Line 377)*
 
 > [!connection-ideas] Untitled
-> **Stoicism and [[Self-Determination Theory]]**
+> **Stoicism and [[Self-Determination-Theory]]**
 > 
 > The deepest bridge between Stoic philosophy and contemporary motivational psychology is the shared claim that genuine wellbeing flows from the quality of one's engagement with chosen activity — what the Stoics called living according to virtue and reason, and what SDT researchers call autonomous intrinsic motivation — rather than from the accumulation of external goods. Both frameworks predict that a person whose motivational architecture is oriented primarily around extrinsic goods (wealth, status, approval) will be chronically less satisfied than their circumstances seem to warrant, because they are on the hedonic treadmill; while a person whose motivational architecture is oriented around intrinsic goods (meaningful activity, competence development, authentic relationships) will be chronically more satisfied than their circumstances seem to warrant, because intrinsic motivations are not subject to the same adaptation dynamics.
 
@@ -245,7 +245,7 @@ extraction_summary:
 > 
 > **The Stoic Reading**: What Potts describes as a practical lifestyle discovery, the Stoics articulated as philosophical argument backed by psychological reasoning: the confusion between the instruments of a good life and its substance is the primary generator of both unnecessary suffering and the compulsive accumulation that crowds out genuine wellbeing. The [[Discipline of Desire]] directed toward what self-determination theorists call intrinsic goods — meaningful experience, competence, authentic connection — rather than toward the material goods that generate hedonic adaptation, is the practical expression of the Stoic preferred indifferents doctrine.
 > 
-> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
+> **The Lesson**: The Stoic framework gives contemporary minimalism its deepest philosophical grounding. The minimalist practices most people find most valuable — owning fewer but better-considered possessions, creating space for meaningful activity rather than maintenance of complexity, evaluating purchases by contribution to genuine wellbeing rather than by hedonic anticipation — are implementations of the Stoic philosophical position that only [[Virtue-Ethics|virtue and reason-aligned activity]] constitute genuine goods, and that material goods beyond sufficiency should be evaluated by whether they serve or undermine those genuine goods.
 
 #### 17. [PRACTICE] Untitled *(Line 440)*
 
@@ -288,7 +288,7 @@ extraction_summary:
 > 
 > **Frequency**: Biannual (twice yearly); briefer weekly variants involve a single object each week, examined in the same spirit
 > 
-> **Stoic Grounding**: The Stoic practice of philosophical examination extended to material life; the [[Dichotomy of Control]] applied to possessions (one's relationship to objects is within one's power; the continued existence of the objects is not).
+> **Stoic Grounding**: The Stoic practice of philosophical examination extended to material life; the [[Dichotomy-of-Control]] applied to possessions (one's relationship to objects is within one's power; the continued existence of the objects is not).
 > 
 > **Psychological Mechanism**: Material possessions tend to accumulate not primarily because of deliberate choices but because of the path of least resistance — it is easier to keep than to release, easier to add than to evaluate. The biannual inventory reverses this inertia by creating a structured moment of conscious evaluation. The psychological benefit is not primarily the reduction of clutter (though this is real) but the clarification of relationship: after the inventory, the practitioner knows which objects they actively choose and use, and which have accumulated through inertia and now silently impose maintenance burden and quiet background anxiety.
 > 
@@ -329,7 +329,7 @@ extraction_summary:
 > [!warning] Untitled
 > **Obstacle 1: The Fear of Missing Out and Social Comparison**
 > 
-> The most powerful force sustaining consumption beyond genuine sufficiency is not need but social comparison — the tendency, documented extensively by social psychologists, to evaluate one's own material circumstances not against an internal standard of sufficiency but against the visible circumstances of one's peer group. This mechanism is evolutionarily ancient and psychologically powerful. The Stoic response is the [[Dichotomy of Control]] applied to social standing: other people's opinions of your lifestyle, and the social signals your possessions send, are not within your control. The only thing within your control is whether your relationship to your material life reflects correct philosophical valuation or inherited social convention. The practitioner who reduces consumption to genuine sufficiency will, almost certainly, experience social friction — comparisons, questions, occasional judgment. The Stoic preparation for this friction is to have asked, in advance, *whose opinion of my life is it rational for me to care about?* The answer should be: only the opinion of those whose judgment is wise and well-grounded, which does not include the ambient pressure of peer-group material status signaling.
+> The most powerful force sustaining consumption beyond genuine sufficiency is not need but social comparison — the tendency, documented extensively by social psychologists, to evaluate one's own material circumstances not against an internal standard of sufficiency but against the visible circumstances of one's peer group. This mechanism is evolutionarily ancient and psychologically powerful. The Stoic response is the [[Dichotomy-of-Control]] applied to social standing: other people's opinions of your lifestyle, and the social signals your possessions send, are not within your control. The only thing within your control is whether your relationship to your material life reflects correct philosophical valuation or inherited social convention. The practitioner who reduces consumption to genuine sufficiency will, almost certainly, experience social friction — comparisons, questions, occasional judgment. The Stoic preparation for this friction is to have asked, in advance, *whose opinion of my life is it rational for me to care about?* The answer should be: only the opinion of those whose judgment is wise and well-grounded, which does not include the ambient pressure of peer-group material status signaling.
 
 #### 23. [WARNING] Untitled *(Line 518)*
 
@@ -431,19 +431,19 @@ extraction_summary:
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Crates of Thebes]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
 - [[Discipline of Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
 - [[Seneca]]
 - [[Stoicism]]
@@ -454,7 +454,7 @@ extraction_summary:
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Zeno of Citium]]
 
 ### All Occurrences
@@ -462,13 +462,13 @@ extraction_summary:
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Stoicism]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
-| 2 | [[Marcus Aurelius]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
+| 2 | [[Marcus-Aurelius]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 3 | [[Epictetus]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 4 | [[Seneca]] | — | — | Stoicism and Minimalism: Living a Sim... | 249 |
 | 5 | [[Stoicism Series Overview]] | — | — | Stoicism and Minimalism: Living a Sim... | 256 |
 | 6 | [[Stoicism in Relationships - Building Stronger Connections]] | — | — | Stoicism and Minimalism: Living a Sim... | 258 |
 | 7 | [[Stoicism and Mindfulness - Cultivating Present Moment Awareness]] | — | — | Stoicism and Minimalism: Living a Sim... | 259 |
-| 8 | [[Dichotomy of Control]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
+| 8 | [[Dichotomy-of-Control]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 9 | [[Preferred Indifferents]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 10 | [[Prohairesis]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
 | 11 | [[Discipline of Desire]] | — | — | Stoicism and Minimalism: Living a Sim... | 262 |
@@ -476,28 +476,28 @@ extraction_summary:
 | 13 | [[Preferred Indifferents]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 14 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 288 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
-| 16 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
+| 16 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 17 | [[Diogenes of Sinope]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 18 | [[Crates of Thebes]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 19 | [[Zeno of Citium]] | — | — | Part 2: What the Stoics Said — The Ph... | 299 |
 | 20 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
 | 21 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 303 |
-| 22 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
+| 22 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 310 |
 | 23 | [[Preferred Indifferents]] | — | — | Part 3: The Stoic Framework for Simpl... | 330 |
 | 24 | [[Epictetus]] | — | — | Part 3: The Stoic Framework for Simpl... | 336 |
 | 25 | [[Hedonic-Adaptation]] | — | — | Part 4: The Psychology Behind the Phi... | 366 |
-| 26 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
-| 27 | [[Self-Determination Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
+| 26 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 375 |
+| 27 | [[Self-Determination-Theory]] | — | — | Part 4: The Psychology Behind the Phi... | 378 |
 | 28 | [[Seneca]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 397 |
 | 29 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 404 |
-| 30 | [[Marcus Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
+| 30 | [[Marcus-Aurelius]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 410 |
 | 31 | [[Discipline of Desire]] | — | — | Part 5: Worked Examples — Stoic Simpl... | 430 |
-| 32 | [[Virtue Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
+| 32 | [[Virtue-Ethics]] | virtue and reason-aligned activity | — | Part 5: Worked Examples — Stoic Simpl... | 432 |
 | 33 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 449 |
 | 34 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 462 |
-| 35 | [[Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 475 |
+| 35 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 475 |
 | 36 | [[Negative Visualization]] | — | — | Part 6: The Practice Architecture — A... | 488 |
-| 37 | [[Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 516 |
+| 37 | [[Dichotomy-of-Control]] | — | — | Part 7: Common Obstacles and How the ... | 516 |
 | 38 | [[Prohairesis]] | — | — | Part 7: Common Obstacles and How the ... | 526 |
 | 39 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 541 |
 | 40 | [[Preferred Indifferents]] | — | — | Part 8: Integration — Building a Cohe... | 541 |
@@ -541,19 +541,19 @@ extraction_summary:
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Crates of Thebes]]
 - [[Cynicism and Stoicism — The Ascetic Inheritance]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Diogenes of Sinope]]
 - [[Discipline of Desire]]
 - [[Epictetus]]
 - [[Eudaimonia]]
 - [[Hedonic-Adaptation]]
 - [[Hedonic Adaptation — The Treadmill of Acquisition]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Meditatio Paupertatis — Seneca's Voluntary Poverty Practice]]
 - [[Negative Visualization]]
 - [[Preferred Indifferents]]
 - [[Prohairesis]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory]]
 - [[Self-Determination Theory and Intrinsic Motivation]]
 - [[Seneca]]
 - [[Stoicism]]
@@ -564,7 +564,7 @@ extraction_summary:
 - [[Stoicism in Practice - Daily Exercises and Mindset Shifts]]
 - [[Stoicism in Relationships - Building Stronger Connections]]
 - [[Thoreau's Walden Experiment — Voluntary Simplicity in Practice]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Zeno of Citium]]
 
 ### Frontmatter Relationships
@@ -579,13 +579,13 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
 - [[Preferred Indifferents]]
@@ -596,12 +596,12 @@ extraction_summary:
 - [[Epicureanism]]
 - [[Minimalism]]
 - [[Positive Psychology]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Ethics of Consumption]]
 - [[Ancient Philosophy]]
 

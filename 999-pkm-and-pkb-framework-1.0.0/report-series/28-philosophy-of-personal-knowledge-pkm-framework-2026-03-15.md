@@ -105,7 +105,7 @@ related-concepts:
   - "[[Knowledge as Relationship]]"
   - "[[Epistemic States]]"
   - "[[Propositional Knowledge]]"
-  - "[[Procedural Knowledge]]"
+  - "[[Procedural-Knowledge]]"
   - "[[Dispositional Knowledge]]"
   - "[[Epistemic Ecosystem]]"
   - "[[PKB Epistemic Architecture]]"

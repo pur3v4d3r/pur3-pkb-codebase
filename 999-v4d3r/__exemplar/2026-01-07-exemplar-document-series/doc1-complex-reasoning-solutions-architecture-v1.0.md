@@ -280,7 +280,7 @@ Voting/Selection → Final Answer
 - May explore unpromising branches
 
 **Representative Techniques**:
-- [[Tree of Thoughts]] - Systematic tree search with evaluation
+- [[Tree-of-Thoughts]] - Systematic tree search with evaluation
 - [[Least-to-Most Prompting]] - Sequential subproblem solving
 - [[Plan-and-Solve]] - Planning phase + execution phase
 
@@ -524,21 +524,21 @@ START: What is primary problem characteristic?
 
 **Mathematical Word Problems**:
 - **First Choice**: [[Program of Thoughts]] (precision via code)
-- **Second Choice**: [[Tree of Thoughts]] (if code generation unreliable)
+- **Second Choice**: [[Tree-of-Thoughts]] (if code generation unreliable)
 - **Reliability Boost**: Add [[Self-Consistency]] to either
 
 **Strategic Planning**:
-- **First Choice**: [[Tree of Thoughts]] (systematic plan exploration)
+- **First Choice**: [[Tree-of-Thoughts]] (systematic plan exploration)
 - **Second Choice**: [[Plan-and-Solve]] (explicit planning phase)
 - **For Simple Plans**: [[Least-to-Most]] (decomposition sufficient)
 
 **Logical Deduction**:
 - **First Choice**: [[Faithful Chain of Thought]] (grounded steps)
 - **Reliability Boost**: [[Self-Consistency]] (validate reasoning)
-- **Complex Proofs**: [[Tree of Thoughts]] (explore proof strategies)
+- **Complex Proofs**: [[Tree-of-Thoughts]] (explore proof strategies)
 
 **Creative Problem-Solving**:
-- **First Choice**: [[Tree of Thoughts]] (explore diverse approaches)
+- **First Choice**: [[Tree-of-Thoughts]] (explore diverse approaches)
 - **Alternative**: [[Thread of Thoughts]] (elaborate perspectives)
 - **Structured Creativity**: [[Analogical Prompting]] (systematic analogy)
 
@@ -1527,7 +1527,7 @@ def boost_with_self_consistency(base_technique, problem, n=10):
 
 ### Pattern 2: Decomposition + Advanced Reasoning
 
-**Strategy**: Use [[Least-to-Most Prompting]] to break complex problem into subproblems, then apply [[Tree of Thoughts]] to complex subproblems.
+**Strategy**: Use [[Least-to-Most Prompting]] to break complex problem into subproblems, then apply [[Tree-of-Thoughts]] to complex subproblems.
 
 ```python
 def decomposition_then_reasoning(complex_problem):

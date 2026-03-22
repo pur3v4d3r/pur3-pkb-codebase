@@ -34,7 +34,7 @@ link-up:
   - "[[cognitive-science-moc]]"
   - "[[Andragogy]]"
   - "[[Constructivism]]"
-  - "[[Educational Psychology]]"
+  - "[[Educational-Psychology]]"
   - "[[Heutagogy]]"
 link-related:
   - "[[2025-11-28|Daily-Note]]"

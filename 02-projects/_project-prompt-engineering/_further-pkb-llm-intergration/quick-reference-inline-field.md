@@ -19,7 +19,7 @@ aliases: [Inline Field QRC, Dataview Fields Guide, Field Syntax Reference]
 
 **With wiki-links:**
 ````markdown
-**Related-Concepts**:: [[Concept 1]], [[Concept 2]]
+**Related-Concepts**:: [[Concept-1]], [[Concept-2]]
 ````
 
 ## Field Type Quick Matrix

@@ -33,7 +33,7 @@ review-priority: medium
 
 > [!definition]
 > - **Key-Term**:: [[The Communication Model]]
-> - [**Definition**:: [[Prompt Engineering]] represents a specialized form of communication where the audience (the [[Large Language Models|LLM]]) has specific characteristics:
+> - [**Definition**:: [[Prompt-Engineering]] represents a specialized form of communication where the audience (the [[Large-Language-Models|LLM]]) has specific characteristics:
 > 	1. Vast knowledge but limited reasoning ability.
 > 	2. Sensitivity to phrasing but no true understanding.
 > 	3. Capacity for pattern matching but no genuine comprehension of meaning.]

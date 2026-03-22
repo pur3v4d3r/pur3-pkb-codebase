@@ -223,5 +223,5 @@ Sample 5: "2 + 3 = 5 cans? No, 2 cans... 11 total" → 11
 
 ---
 
-**Related Techniques**: [[Chain of Thought]], [[Tree of Thoughts]], [[Program of Thoughts]]
+**Related Techniques**: [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Program of Thoughts]]
 **Full Guide**: [[01-reasoning-techniques-guide#Self-Consistency]]

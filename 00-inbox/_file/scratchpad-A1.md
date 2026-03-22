@@ -6341,7 +6341,7 @@ After completing the main content exposition, you MUST include:
 > - Practical applications connecting theory to implemented systems (e.g., PKM workflows, cognitive tools)
 > - Emergent insights that arise from juxtaposing this concept with existing knowledge
 >
-> Format each connection as: **[[Concept Name]]** followed by explanation of the relationship.
+> Format each connection as: **[[Concept-Name]]** followed by explanation of the relationship.
 > Aim for 4-8 substantive connections that genuinely enrich understanding.
 
 ### Section 2: Synthesis & Reflection (Required)
@@ -6917,7 +6917,7 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 
 [**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
@@ -6944,11 +6944,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[Cognitive Load Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 
@@ -7081,7 +7081,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information Processing Theory]] — foundational framework
+> - [[Information-Processing-Theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -7090,12 +7090,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive Load Theory]] — primary extension
+> - [[Cognitive-Load-Theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
 > - [[Expertise Development]] — schema automation
-> - [[Multimedia Learning]] — CLT application
+> - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
 
@@ -7155,7 +7155,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[working-memory]]")
+WHERE contains(prerequisites.hard, "[[Working-Memory]]")
 ```
 </query_compatibility>
 </prerequisite_dependency_mapping>

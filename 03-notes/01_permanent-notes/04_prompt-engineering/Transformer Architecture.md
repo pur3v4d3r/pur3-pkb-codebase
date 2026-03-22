@@ -16,11 +16,11 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
+  - "[[Large-Language-Models]]"
   - "[[Chain-of-Thought]]"
   - "[[03-notes/01_permanent-notes/04_prompt-engineering/Claude]]"
   - "[[Gemini]]"
-  - "[[Prompt Engineering]]"
+  - "[[Prompt-Engineering]]"
 maturity: seedling
 confidence: speculative
 

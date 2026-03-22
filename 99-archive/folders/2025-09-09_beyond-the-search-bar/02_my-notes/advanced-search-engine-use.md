@@ -54,7 +54,7 @@ Finally, a powerful complementary technique is **citation searching**. This invo
 [[Types of Notes]]
 [[Function of Notes is Important]]
 [[Note-Taking for Different Subjects and Contexts]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 [[The Main Goal of My Notes]]
 
 

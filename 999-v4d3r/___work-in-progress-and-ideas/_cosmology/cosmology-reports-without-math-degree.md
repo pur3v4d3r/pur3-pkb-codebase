@@ -87,7 +87,7 @@ After generating and evaluating candidates across multiple dimensions, I've iden
 
 **[Educational-Content-Framework**:: A curated collection of cosmological topics specifically designed to bridge rigorous scientific understanding with accessible narrative structures, enabling long-form educational content that transforms complex astrophysical concepts into compelling knowledge journeys for intelligent laypeople.]**
 
-**Selection Methodology**: [[Tree of Thoughts]] systematic exploration across five dimensional axes—scale domains, temporal perspectives, fundamental questions, observational-theoretical balance, and engagement vectors—with [[Innovation Scoring Framework]] applied to evaluate candidates on engagement potential, educational value, expandability depth, and accessibility barriers.
+**Selection Methodology**: [[Tree-of-Thoughts]] systematic exploration across five dimensional axes—scale domains, temporal perspectives, fundamental questions, observational-theoretical balance, and engagement vectors—with [[Innovation Scoring Framework]] applied to evaluate candidates on engagement potential, educational value, expandability depth, and accessibility barriers.
 
 **Core Design Principles**:
 - Each topic supports 10,000+ token expansion through layered conceptual architecture

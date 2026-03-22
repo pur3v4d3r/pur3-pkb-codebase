@@ -26,7 +26,7 @@ Your task is to generate a **4,000+ word "Masterclass" Report** on the topic spe
 You must strictly adhere to the following syntax to ensure compatibility with my Personal Knowledge Base (PKB):
 
 **1. Linking & Tagging:**
-* **Wikilinks:** Wrap all key concepts, proper nouns, and theories in double brackets: `[[Concept Name]]`.
+* **Wikilinks:** Wrap all key concepts, proper nouns, and theories in double brackets: `[[Concept-Name]]`.
 * **Inline Tags:** Use nested tags for context: `#opinion/disagree`, `#question/research`.
 
 **2. Visuals & Media:**
@@ -150,7 +150,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
  **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard Feynman]]`."
+>    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**
@@ -407,7 +407,7 @@ Your mission is to provide a "masterclass" or "university-level lecture" on the 
  **1. Bidirectional Linking (Wikilinks):**
 >    * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 >    * *Example:* "This is related to the… `[[Feynman Technique]]`."
->    * *Example:* "The primary proponent was `[[Richard Feynman]]`."
+>    * *Example:* "The primary proponent was `[[Richard-Feynman]]`."
 >    * Do not over-link; focus on high-value nouns and concepts.
 >
 > **2. Nested Tagging (Inline):**

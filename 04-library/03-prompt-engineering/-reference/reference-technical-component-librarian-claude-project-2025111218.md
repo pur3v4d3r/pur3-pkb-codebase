@@ -1280,7 +1280,7 @@ Shifts focus from component creation to component *usage*.
 ## **Phase 3: Systematization
 Introduces more sophisticated organizational elements.
 
-1. Continue to implementing the entire Metadata [[Schemas]], consistently across all components.
+1. Continue to implementing the entire Metadata [[schemas]], consistently across all components.
 - Create [[Dataview]] dashboards for component discovery:
 	- Most-used components
 	- Recently modified components
@@ -2281,7 +2281,7 @@ deprecated_by: [[newer-version-id]]
 > **Author**:: [[_dashboard-design-moc]]
 > **Status**:: 🌱seedling | 🌿growing | 🌳mature | 🍂deprecated
 > **Complexity**:: ⚪Basic | 🔵Intermediate | 🟣Advanced | ⚫Expert
-> **Domain**:: [[technical]] [[writing]] [[analysis]]
+> **Domain**:: [[technical]] [[writing]] [[Analysis]]
 > **Testing Coverage**:: ████████░░ 80%
 
 ## 📋 COMPONENT OVERVIEW

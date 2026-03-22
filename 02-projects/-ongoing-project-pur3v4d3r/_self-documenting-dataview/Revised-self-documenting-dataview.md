@@ -220,8 +220,8 @@ Add to your daily note template:
 ````markdown
 ## 📚 Concepts Explored Today
 
-- concepts:: [[Concept 1]]
-- concepts:: [[Concept 2]]
+- concepts:: [[Concept-1]]
+- concepts:: [[Concept-2]]
 
 ---
 
@@ -446,7 +446,7 @@ value: "'active'"
 Add to **3-5 existing notes** in your vault:
 
 ```yaml
-concepts: [[Personal Knowledge Management]]
+concepts: [[Personal-Knowledge-Management]]
 ```
 
 ### Phase 4: Verify System (1 minute)
@@ -474,7 +474,7 @@ status: active
 
 ### For 04-literature-notes:
 ```yaml
-concepts: [[Cognitive Load Theory]], [[Spaced Repetition]]
+concepts: [[Cognitive-Load-Theory]], [[Spaced-Repetition]]
 field: cognitive-science
 source: [[Book Title]]
 ```
@@ -487,7 +487,7 @@ concepts: [[Today's Learning Focus]]
 ### For 02-pkb-and-pkm-learning:
 ```yaml
 concepts: [[Zettelkasten]], [[Evergreen Notes]]
-methodology: [[Progressive Summarization]]
+methodology: [[Progressive-Summarization]]
 ```
 
 ---
@@ -607,18 +607,18 @@ Dataview is picky about link formats. Try **both** of these formats:
 
 **Format A (with brackets):**
 ```yaml
-concepts: ["[[Personal Knowledge Management]]"]
+concepts: ["[[Personal-Knowledge-Management]]"]
 ```
 
 **Format B (without quotes):**
 ```yaml
-concepts: [[Personal Knowledge Management]]
+concepts: [[Personal-Knowledge-Management]]
 ```
 
 **Format C (as array):**
 ```yaml
 concepts:
-  - "[[Personal Knowledge Management]]"
+  - "[[Personal-Knowledge-Management]]"
 ```
 
 ---
@@ -641,7 +641,7 @@ status: active
 ```dataview
 TABLE file.folder as "Location", status as "Status"
 WHERE concepts
-WHERE contains(concepts, [[Personal Knowledge Management]])
+WHERE contains(concepts, [[Personal-Knowledge-Management]])
 SORT file.mtime DESC
 LIMIT 50
 ```
@@ -653,7 +653,7 @@ LIMIT 50
 ---
 tags: #project
 status: active
-concepts: [[Personal Knowledge Management]]
+concepts: [[Personal-Knowledge-Management]]
 ---
 
 # My Project Note
@@ -741,7 +741,7 @@ GitHub Copilot:
 ## Related Notes
 - [[My Research Project]]  ← You manually add this
 - [[Daily Note 2025-12-01]]  ← You manually add this
-- [[Literature Review]]  ← You manually add this
+- [[Literature-Review]]  ← You manually add this
 ```
 
 **Problems:**
@@ -894,7 +894,7 @@ array_field: [item1, item2, item3]
 array_field_alt:
   - item1
   - item2
-link_field: [[Note Name]]
+link_field: [[Note-Name]]
 link_array: [[[Note 1]], [[Note 2]]]
 ```
 
@@ -958,12 +958,12 @@ concept-type: methodology
 **In Note B (The Referencing Note):**
 ```yaml
 ---
-concepts: [[Personal Knowledge Management]]
+concepts: [[Personal-Knowledge-Management]]
 ---
 ```
 
 **What Happens:**
-1. Dataview indexes Note B and sees `concepts: [[Personal Knowledge Management]]`
+1. Dataview indexes Note B and sees `concepts: [[Personal-Knowledge-Management]]`
 2. Query in Note A searches for: `WHERE concepts AND contains(concepts, this.file.link)`
 3. Translation: "Find all notes that have a `concepts` field AND that field contains a link to THIS note"
 4. Note B appears in Note A's query results
@@ -1015,12 +1015,12 @@ notes.filter(note => note.concepts !== undefined)
 
 - **`contains(field, value)`** = Dataview function checking if value exists in field
 - **`concepts`** = The field to search in
-- **`this.file.link`** = Special variable = the current note's link (e.g., `[[Personal Knowledge Management]]`)
+- **`this.file.link`** = Special variable = the current note's link (e.g., `[[Personal-Knowledge-Management]]`)
 
 **Think of it as:**
 ```javascript
 notes.filter(note => 
-  note.concepts.includes("[[Personal Knowledge Management]]")
+  note.concepts.includes("[[Personal-Knowledge-Management]]")
 )
 ```
 
@@ -1145,7 +1145,7 @@ dv.table(
 
 When you write:
 ```markdown
-I'm learning [[Personal Knowledge Management]] today.
+I'm learning [[Personal-Knowledge-Management]] today.
 ```
 
 **What happens:**
@@ -1164,7 +1164,7 @@ I'm learning [[Personal Knowledge Management]] today.
 
 When you write:
 ```yaml
-concepts: [[Personal Knowledge Management]]
+concepts: [[Personal-Knowledge-Management]]
 ```
 
 **What happens:**
@@ -1205,7 +1205,7 @@ tools: [[Obsidian]], [[Dataview]]
 Using [[PKM]] principles and [[Zettelkasten]] method,
 I'm building this in [[Obsidian]] with [[Dataview]] queries.
 
-The core insight about [[spaced repetition]] is…
+The core insight about [[Spaced-Repetition]] is…
 ```
 
 - YAML = formal relationships
@@ -1392,8 +1392,8 @@ FROM "folder" AND "another-folder"     // Multiple folders
 FROM "folder" OR "another"             // Either folder
 FROM -"folder"                         // Exclude folder
 FROM #tag                              // Notes with tag
-FROM [[Note Name]]                     // Notes linking to this note
-FROM outgoing([[Note Name]])           // Notes this note links to
+FROM [[Note-Name]]                     // Notes linking to this note
+FROM outgoing([[Note-Name]])           // Notes this note links to
 FROM "folder" AND #tag                 // Combination
 ```
 
@@ -1487,7 +1487,7 @@ When you open "Personal Knowledge Management.md":
 1. Query executes: `WHERE concepts AND contains(concepts, this.file.link)`
 2. Dataview searches index for notes where:
    - `concepts` field exists
-   - `concepts` field contains `[[Personal Knowledge Management]]`
+   - `concepts` field contains `[[Personal-Knowledge-Management]]`
 3. Returns matches: `["My Project.md", …]`
 4. Renders table in note
 

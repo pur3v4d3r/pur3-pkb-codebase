@@ -337,7 +337,7 @@ This model is not just theoretical. It is directly supported by decades of obser
 > 
 >       - **This showed:** CBT is one of the most effective treatments for depression, anxiety, and PTSD. [^9] The *entire* basis of CBT is metacognitive. It trains patients to *monitor* their automatic negative thoughts (e.g., "I am worthless"), *evaluate* them for logical fallacies (a critical thinking skill), and *replace* them with more adaptive thoughts (a regulatory act). CBT is, in essence, applied metacognitive training for emotional management.
 > 
->   - [[Deliberate Practice]],
+>   - [[Deliberate-Practice]],
 > 
 >       - **This showed:** The work of Anders Ericsson on "expert performance" (the "10,000-hour rule") revealed that it's not just "practice" that makes perfect; it's "**deliberate practice**." Deliberate practice is *intensely* metacognitive. It involves a "highly structured activity the explicit goal of which is to improve performance." [^11] This involves *planning* (setting a specific, narrow goal), *monitoring* (constant, real-time feedback on "am I doing it right?"), and *evaluating* (relentless post-practice reflection).
 
@@ -420,7 +420,7 @@ While the foundations of metacognition are well-established, the field is explod
 > Our central thesis, now substantiated, is that this regulatory cycle is the **central integrating mechanism** for all intentional personal development. It is the single, domain-general skill that operationalizes the three pillars of self-improvement:
 >
 > 1.  It is the **engine** of **[[Constructivist Learning]]**, allowing us to *monitor* our understanding and *evaluate* our mental models to actively build new knowledge.
-> 1.  It is the **governor** of **[[Critical Thinking]]**, allowing us to *monitor* our own biases and *evaluate* the logic of our reasoning to make better judgments.
+> 1.  It is the **governor** of **[[Critical-Thinking]]**, allowing us to *monitor* our own biases and *evaluate* the logic of our reasoning to make better judgments.
 > 1.  It is the **control panel** for **[[Self-Behavioral-Management]]**, allowing us to *monitor* our internal impulses and *plan* strategic responses to align our actions with our goals.
 > 
 > The evidence from education, therapy, and high-performance shows that this skill is not an innate gift but a *trainable* one. The implications are profound. They suggest that the key to a better life lies not in changing our stars, but in changing the way we *think*—and more specifically, in becoming *conscious, systematic managers of our own thinking*. Metacognition is the mechanism for turning "the unexamined life" into "the intentional life." It is the practical, step-by-step process of becoming the "CEO of your Self."
@@ -450,11 +450,11 @@ While the foundations of metacognition are well-established, the field is explod
 >   - *Write your* **own definition** *for each and create a new note to link them back to this one*.
 > 
 > <!-- end list -->
-> 1.  [[Metacognitive Regulation]]
+> 1.  [[Metacognitive-Regulation]]
 >       - **Definition:** The active, "in-the-moment" executive process of steering one's own mind. It is a continuous, three-part cycle: **Planning** (selecting goals and strategies before a task), **Monitoring** (real-time awareness of one's performance and comprehension *during* a task), and **Evaluating** (reflecting on the process and outcome *after* a task to update future behavior).
 > 2.  [[Constructivist Learning]]
 >       - **Definition:** A theory of learning stating that individuals do not passively absorb knowledge but actively *build* (or "construct") it. This process involves integrating new information and experiences into pre-existing mental models ("schemas") and, most importantly, *rebuilding* those models when new information conflicts with them.
-> 3.  [[Metacognitive Knowledge]]
+> 3.  [[Metacognitive-Knowledge]]
 >       - **Definition:** The "database" of what an individual *knows* about their own cognitive system. It is composed of three categories: **Person Knowledge** (one's own strengths, weaknesses, and biases), **Task Knowledge** (the demands and nature of different mental tasks), and **Strategy Knowledge** (a "toolbox" of cognitive strategies and when to use them).
 
 > [!thoughts]

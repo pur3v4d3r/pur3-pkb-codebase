@@ -30,7 +30,7 @@ aliases: [Daily Planning Templates, Daily Note Automation, Day Planning Template
 # Daily Planning & Daily Notes Templates
 
 > [!abstract] Purpose
-> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[obsidian]] ecosystem.
+> Comprehensive Templater templates for daily planning, execution tracking, and reflection. Integrates task management, time blocking, habit tracking, and learning capture into cohesive daily workflow systems optimized for the [[Obsidian]] ecosystem.
 
 ---
 
@@ -224,7 +224,7 @@ tR = output;
 - Integration with chronotype research for performance optimization
 
 **Integration Notes:**
-- Combine with [[Day Planner]] plugin for visual timeline view
+- Combine with [[Day-Planner]] plugin for visual timeline view
 - Sync with calendar API to auto-populate meeting blocks
 - Use energy indicators for task priority decisions
 - Extend with automatic task suggestions based on block type
@@ -396,7 +396,7 @@ tR = output;
 - Energy-aware task scheduling for optimal performance
 
 **Integration Notes:**
-- Combine with [[Tasks Plugin]] for checkbox functionality and queries
+- Combine with [[Tasks-Plugin]] for checkbox functionality and queries
 - Link to project management notes for strategic context
 - Track quadrant patterns over time to identify planning issues
 - Use with time block generator to assign tasks to energy-appropriate slots
@@ -552,9 +552,9 @@ tR = output;
 - Integration with long-term behavior change goals
 
 **Integration Notes:**
-- Use [[dataview]] queries to calculate actual streaks across daily notes
-- Combine with [[Tracker Plugin]] for visual habit charts
-- Link to [[Goals MOC]] for alignment with long-term objectives
+- Use [[Dataview]] queries to calculate actual streaks across daily notes
+- Combine with [[Tracker-Plugin]] for visual habit charts
+- Link to [[Goals-MOC]] for alignment with long-term objectives
 - Export data for statistical analysis of habit success factors
 
 ---
@@ -614,8 +614,8 @@ output += "## 💡 Today's Learning\n\n";
 output += "> [!example] Knowledge Capture\n";
 output += "> Document insights, concepts, or skills from today.\n\n";
 output += "**New concepts encountered:**\n";
-output += "- [[Concept 1]]: \n";
-output += "- [[Concept 2]]: \n\n";
+output += "- [[Concept-1]]: \n";
+output += "- [[Concept-2]]: \n\n";
 output += "**Skills practiced:**\n";
 output += "- \n\n";
 output += "**Insights or \"aha!\" moments:**\n";
@@ -692,7 +692,7 @@ tR = output;
 
 **Integration Notes:**
 - Link completed tasks to project tracking notes
-- Connect learning captures to [[Learning Log]] or concept notes
+- Connect learning captures to [[Learning-Log]] or concept notes
 - Use day ratings for longitudinal mood/productivity tracking
 - Integrate tomorrow preview with morning planning routine
 
@@ -772,8 +772,8 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ## 📚 Learning Log
 
 **Concepts explored today:**
-- [[Concept 1]]: 
-- [[Concept 2]]: 
+- [[Concept-1]]: 
+- [[Concept-2]]: 
 
 **Resources consumed:**
 - 📖 Reading: 
@@ -784,7 +784,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 - 
 
 **Connections made:**
-- This relates to [[Previous Concept]] because…
+- This relates to [[Previous-Concept]] because…
 
 ---
 
@@ -1682,7 +1682,7 @@ if (selectedType === "Literature Note") {
 } else if (selectedType === "Technical Documentation") {
     scaffold += "- [[Architecture Patterns]]\n- [[Technology Stack]]\n- [[Dependencies]]\n\n";
 } else {
-    scaffold += "- [[Concept 1]]\n- [[Concept 2]]\n- [[Concept 3]]\n\n";
+    scaffold += "- [[Concept-1]]\n- [[Concept-2]]\n- [[Concept 3]]\n\n";
 }
 tR = scaffold;
 -%>
@@ -1697,7 +1697,7 @@ tR = scaffold;
 - Expand scaffoldConfigs object with custom note types for your domain
 - Combine with [[QuickAdd]] for template selection shortcuts
 - Callout types reference your active Obsidian callout CSS customizations
-- Section headers can trigger [[Day Planner]] or [[Tasks]] plugin integrations
+- Section headers can trigger [[Day-Planner]] or [[Tasks]] plugin integrations
 
 ---
 ### Advanced Date Range Calculator with Business Logic
@@ -1905,7 +1905,7 @@ related_domains: [<% (await tp.system.prompt("Related domains (comma-separated, 
 *Last Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Structured learning documentation following [[Spaced Repetition]] and [[Elaborative Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
+**Template Purpose:** Structured learning documentation following [[Spaced-Repetition]] and [[Elaborative-Interrogation]] principles. Designed for deep concept mastery in academic or professional development contexts.
 
 **Key Features:** 
 - Confidence tracking for metacognitive awareness
@@ -2058,7 +2058,7 @@ project_link: [[<% await tp.system.prompt("Link to main project note name") %>]]
 *Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
 ```
 
-**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks Plugin]] metadata and [[Dataview]] calculations for real-time progress visualization.
+**Template Purpose:** Comprehensive agile sprint tracking combining planning, daily execution, and retrospective analysis. Integrates [[Tasks-Plugin]] metadata and [[Dataview]] calculations for real-time progress visualization.
 
 **Key Features:**
 - Automatic sprint duration calculation (default 2-week sprints)
@@ -2169,8 +2169,8 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 ### New Knowledge Acquired
 
 > [!example] Key Concepts Learned
-> - **[[Concept 1]]**: Brief description and why it matters
-> - **[[Concept 2]]**: Brief description and source
+> - **[[Concept-1]]**: Brief description and why it matters
+> - **[[Concept-2]]**: Brief description and source
 > - **[[Concept 3]]**: Application or next step
 
 ### Skills Practiced
@@ -2288,7 +2288,7 @@ satisfaction_rating: <% await tp.system.suggester(["⭐⭐⭐⭐⭐ Excellent", 
 - Modify habit tracking categories to match your personal goals
 - Adjust time allocation categories for your work context
 - Add domain-specific goal sections (creative projects, health metrics, financial)
-- Integrate with [[Day Planner]] for detailed daily time blocking
+- Integrate with [[Day-Planner]] for detailed daily time blocking
 - Connect to [[Dataview]] queries for automated habit statistics across multiple weeks
 
 ---
@@ -3319,7 +3319,7 @@ modified: <% tp.date.now("YYYY-MM-DD") %>
 ## ✅ Integration Checklist
 
 ### Content Processing
-- [ ] Key concepts extracted and linked: [[Concept 1]], [[Concept 2]], [[Concept 3]]
+- [ ] Key concepts extracted and linked: [[Concept-1]], [[Concept-2]], [[Concept 3]]
 - [ ] Examples documented in separate notes if substantial
 - [ ] Code snippets saved to technical library
 - [ ] Diagrams/visualizations recreated or saved
@@ -4058,13 +4058,13 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 > [!key-claim] Primary Takeaways
 
-1. **[[Concept 1]]**: 
+1. **[[Concept-1]]**: 
    - **Definition**: 
    - **Why it matters**: 
    - **How LLM explained it**: 
    - **My mental model**: 
 
-2. **[[Concept 2]]**: 
+2. **[[Concept-2]]**: 
    - **Definition**: 
    - **Why it matters**: 
    - **How LLM explained it**: 
@@ -4082,7 +4082,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 
 **Helpful analogies from conversation:**
 1. **Analogy**: 
-   - **Maps concept**: [[Concept Name]]
+   - **Maps concept**: [[Concept-Name]]
    - **Why it works**: 
 
 **Mental models developed:**

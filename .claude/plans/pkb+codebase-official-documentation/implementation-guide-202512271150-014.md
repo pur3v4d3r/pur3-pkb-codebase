@@ -315,7 +315,7 @@ calibration_status: well_calibrated
 
 ## Connections
 - [[Prompt Engineering Agent v4.0]] - Generation methodology
-- [[Few-Shot Learning]] - Primary technique used
+- [[Few-Shot-Learning]] - Primary technique used
 - [[Customer Support Automation]] - Application domain
 ```
 

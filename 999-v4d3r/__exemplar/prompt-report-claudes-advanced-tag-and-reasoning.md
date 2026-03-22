@@ -57,12 +57,12 @@ generated_via_workflow: "[[Extended-Thinking-Tree-of-Thoughts-Workflow]]"
 
 # Knowledge Graph Integration
 related_concepts:
-  - "[[Extended Thinking Architecture]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency]]"
   - "[[Chain of Verification]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Prompt Engineering]]"
+  - "[[Metacognitive-Monitoring]]"
+  - "[[Prompt-Engineering]]"
   - "[[LLM Reasoning]]"
   - "[[Cognitive-Scaffolding]]"
   - "[[Quality Assurance Systems]]"
@@ -120,7 +120,7 @@ link_related:
 > [!abstract] Executive Summary
 > **[Advanced-Thinking-Tags-System**:: Claude's architectural innovation enabling explicit, visible reasoning through structured XML tags that create distinct cognitive contexts - separating internal deliberation (optimized for correctness) from external communication (optimized for clarity), thereby enabling sophisticated reasoning patterns like Tree of Thoughts, Self-Consistency, and Chain of Verification through systematic metacognitive scaffolding.]**
 >
-> This comprehensive reference explores the complete architecture of Claude's advanced thinking and reasoning tag system, providing prompt engineering practitioners with deep understanding of how these tags function, when to apply different patterns, and how to leverage them for production-grade reasoning tasks. Drawing from extensive documentation of [[LLM Reasoning Techniques]], [[Extended Thinking Architecture]], and [[Advanced Reasoning Architectures]], this guide synthesizes theoretical foundations with practical implementation patterns.
+> This comprehensive reference explores the complete architecture of Claude's advanced thinking and reasoning tag system, providing prompt engineering practitioners with deep understanding of how these tags function, when to apply different patterns, and how to leverage them for production-grade reasoning tasks. Drawing from extensive documentation of [[LLM Reasoning Techniques]], [[Extended-Thinking-Architecture]], and [[Advanced Reasoning Architectures]], this guide synthesizes theoretical foundations with practical implementation patterns.
 >
 > **Key Innovation**: Thinking tags transform opaque token generation into transparent cognitive processes by creating architectural asymmetry where reasoning depth is incentivized through separate optimization objectives, token budgets, and evaluation criteria - analogous to how human System 2 deliberation enables complex problem-solving through conscious, step-by-step reasoning.
 
@@ -169,7 +169,7 @@ link_related:
 > [!definition] Extended Thinking System
 > **[Extended-Thinking-System**:: Claude's architectural capability to perform explicit, visible reasoning through structured XML `<thinking>` tags that enable multi-step deliberation, self-correction, and metacognitive reflection before generating final responses - transforming opaque token generation into transparent cognitive processes.]**
 
-The advanced thinking and reasoning tag system represents a fundamental architectural innovation in large language models, drawing inspiration from cognitive science theories of human reasoning while adapting them to the unique constraints and capabilities of transformer-based architectures. At its core, this system creates a **dual-process architecture** analogous to the distinction between System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking in [[Dual Process Theory]].
+The advanced thinking and reasoning tag system represents a fundamental architectural innovation in large language models, drawing inspiration from cognitive science theories of human reasoning while adapting them to the unique constraints and capabilities of transformer-based architectures. At its core, this system creates a **dual-process architecture** analogous to the distinction between System 1 (fast, intuitive) and System 2 (slow, deliberate) thinking in [[Dual-Process-Theory]].
 
 ### The Problem: Opaque Reasoning in Standard LLMs
 
@@ -206,7 +206,7 @@ This asymmetry creates what cognitive scientists call **cognitive scaffolding** 
 
 The thinking tag architecture draws from several established frameworks in cognitive science and psychology:
 
-**[[Dual Process Theory]]** ([[Kahneman, 2011]]) - Distinguishes between:
+**[[Dual-Process-Theory]]** ([[Kahneman, 2011]]) - Distinguishes between:
 - **System 1**: Fast, automatic, intuitive processing (standard LLM generation)
 - **System 2**: Slow, deliberate, systematic reasoning (thinking tag deliberation)
 
@@ -1022,7 +1022,7 @@ This section provides comprehensive classification of thinking tag patterns, org
 > [!definition] Tree of Thoughts Tags
 > **[ToT-Thinking-Tags**:: Structured thinking patterns supporting systematic exploration of solution spaces through explicit decomposition into reasoning states (nodes), generation of multiple candidate next-thoughts (edges), evaluation of state promise (heuristics), and backtracking when paths prove unfruitful - implementing search algorithms like BFS or DFS within thinking blocks.]**
 
-[[Tree of Thoughts]] represents the most sophisticated exploration pattern, transforming reasoning from linear progression into deliberate search. Thinking tags enable ToT by providing structured space for each component:
+[[Tree-of-Thoughts]] represents the most sophisticated exploration pattern, transforming reasoning from linear progression into deliberate search. Thinking tags enable ToT by providing structured space for each component:
 
 ### Tag Pattern 1: Problem Decomposition Tags
 
@@ -1848,13 +1848,13 @@ This part explores how thinking tags enable implementation of cutting-edge reaso
 > [!definition] Tree of Thoughts Framework
 > **[Tree-of-Thoughts-Framework**:: Deliberate problem-solving methodology transforming reasoning from linear progression (Chain of Thought) into systematic exploration of solution space via tree search - where nodes represent intermediate reasoning states, edges represent reasoning steps, state evaluation functions guide exploration, and backtracking enables recovery from dead ends - analogous to game-playing algorithms like Monte Carlo Tree Search but applied to open-ended reasoning tasks.]**
 
-[[Tree of Thoughts]] (ToT) represents perhaps the most sophisticated reasoning pattern enabled by extended thinking. This section provides comprehensive implementation guidance.
+[[Tree-of-Thoughts]] (ToT) represents perhaps the most sophisticated reasoning pattern enabled by extended thinking. This section provides comprehensive implementation guidance.
 
 ### Theoretical Foundation
 
 **The Linear Reasoning Limitation**
 
-Standard [[Chain of Thought]] operates as a linear sequence:
+Standard [[Chain-of-Thought]] operates as a linear sequence:
 
 ```
 Problem → Reasoning Step 1 → Step 2 → Step 3 → Solution
@@ -2504,7 +2504,7 @@ FINAL RESPONSE VALIDATION:
 > [!definition] Graph of Thoughts Framework
 > **[Graph-of-Thoughts-Framework**:: Advanced reasoning architecture extending Tree of Thoughts by allowing arbitrary network connections between reasoning states rather than strict hierarchical structure - enabling information aggregation from multiple paths, synthesis across diverse approaches, and combination of complementary insights that tree structures cannot capture.]**
 
-While [[Tree of Thoughts]] explores hierarchically, [[Graph of Thoughts]] (GoT) enables more flexible network synthesis.
+While [[Tree-of-Thoughts]] explores hierarchically, [[Graph of Thoughts]] (GoT) enables more flexible network synthesis.
 
 ### Beyond Tree Structure
 
@@ -3358,11 +3358,11 @@ Solution: Accept that quality reasoning requires tokens
 
 ### 1. **[[Metacognitive Architectures in Human Cognition]]**
 
-**Connection**: This report covers extended thinking as implemented in Claude LLM, while metacognitive architectures in humans would explore the cognitive science foundations - examining how humans monitor and regulate their own thinking, [[Flavell's Metacognitive Model]], [[Self-Regulated Learning Theory]], and empirical research on expert vs. novice metacognitive strategies.
+**Connection**: This report covers extended thinking as implemented in Claude LLM, while metacognitive architectures in humans would explore the cognitive science foundations - examining how humans monitor and regulate their own thinking, [[Flavell's-Metacognitive-Model]], [[Self-Regulated Learning Theory]], and empirical research on expert vs. novice metacognitive strategies.
 
 **Depth Potential**: A comprehensive exploration (2000-3000 words) would cover:
 - [[Flavell's Three-Component Model]] (metacognitive knowledge, monitoring, control)
-- [[Executive Function]] and its relationship to metacognition
+- [[Executive-Function]] and its relationship to metacognition
 - [[Working-Memory-Capacity]] constraints and metacognitive load
 - Developmental trajectory of metacognitive skills
 - Domain-specific vs. domain-general metacognition
@@ -3432,7 +3432,7 @@ Solution: Accept that quality reasoning requires tokens
 - A/B testing prompt variations
 - Prompt versioning and management
 
-**Knowledge Graph Role**: Connects architecture understanding to practical application, bridging [[Prompt Engineering]], [[Production Systems]], and [[Best Practices]].
+**Knowledge Graph Role**: Connects architecture understanding to practical application, bridging [[Prompt-Engineering]], [[Production Systems]], and [[Best Practices]].
 
 **Priority**: **High** - Immediately actionable for practitioners using extended thinking.
 
@@ -3444,7 +3444,7 @@ Solution: Accept that quality reasoning requires tokens
 
 **Depth Potential**: Historical analysis (1200-2000 words) covering:
 - Pre-CoT era: Zero-shot and few-shot learning
-- 2022: [[Chain of Thought]] breakthrough (Wei et al.)
+- 2022: [[Chain-of-Thought]] breakthrough (Wei et al.)
 - 2022-2023: First-wave innovations (Self-Consistency, ReAct)
 - 2023: Exploration techniques (Tree of Thoughts, Graph of Thoughts)
 - 2023-2024: Verification techniques (Chain of Verification, Self-Refine)

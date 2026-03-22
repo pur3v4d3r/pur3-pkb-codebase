@@ -18,7 +18,7 @@ audience: [llm-systems, advanced-practitioners, ai-engineers]
 > [!abstract] Purpose & Scope
 > **[LLM-Operational-Exemplar**:: A comprehensive reference document enabling AI models to autonomously understand, select, and execute advanced reasoning techniques through structured protocols, decision trees, and validation checkpoints - functioning as both educational material and runtime operational guide.]**
 > 
-> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
+> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
 >
 > **Primary Innovation**: Designed specifically for LLM interpretation and autonomous execution - enabling AI systems to reason about reasoning itself.
 
@@ -720,7 +720,7 @@ def select_reasoning_technique(task_description, constraints=None):
 
 [**Exploratory-Reasoning-Tasks**:: Tasks requiring systematic exploration of solution space, with potential for dead ends necessitating backtracking.]**
 
-**Optimal Techniques**: [[Tree of Thoughts]], [[Graph of Thoughts]]
+**Optimal Techniques**: [[Tree-of-Thoughts]], [[Graph of Thoughts]]
 
 **Example Tasks**:
 - Game of 24
@@ -1064,7 +1064,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 
 ### 3. **[[Cognitive Load Theory Applied to LLM Reasoning]]**
 
-**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[Cognitive Load Theory]], and [[Dual Process Theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
+**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[Cognitive-Load-Theory]], and [[Dual-Process-Theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
 
 **Depth Potential**: Theoretical exploration would include:
 - Working memory analogs in transformer attention mechanisms

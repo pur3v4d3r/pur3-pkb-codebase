@@ -23,8 +23,8 @@ related_concepts:
   - "[[Cartesian Doubt]]"
   - "[[Axiomatic Reasoning]]"
   - "[[Assumption Stripping]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -93,13 +93,13 @@ prerequisites:
   - "[[First Principles Thinking]]"
 
 builds_on:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
 
 extends:
   - "[[Academic Report Generator]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # ALIASES & LINKING
@@ -109,11 +109,11 @@ aliases:
   - "[[FPRP v1.0]]"
   - "[[Report Generator - First Principles]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down: []
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -251,7 +251,7 @@ The same depth-first principles from the Foundational Report apply here, with an
 
 ## Section 2: Metadata Generation Protocol
 
-Every First Principles Report MUST begin with a complete YAML frontmatter block. The template is identical in structure to the Foundational Report metadata (see [[Foundational Report Generator v1.0]], Section 2) with the following field modifications:
+Every First Principles Report MUST begin with a complete YAML frontmatter block. The template is identical in structure to the Foundational Report metadata (see [[Foundational-Report-Generator-v1.0]], Section 2) with the following field modifications:
 
 ### Modified Metadata Fields
 
@@ -287,10 +287,10 @@ sections:
   - "Phase VII: Appendix"
 
 # Source & Generation:
-generation-prompt: "[[First Principles Report Generator v1.0]]"  # CHANGED
+generation-prompt: "[[First-Principles-Report-Generator-v1.0]]"  # CHANGED
 ```
 
-All other metadata fields follow the same template as the [[Foundational Report Generator v1.0]], Section 2. Generate the full YAML block with all fields populated.
+All other metadata fields follow the same template as the [[Foundational-Report-Generator-v1.0]], Section 2. Generate the full YAML block with all fields populated.
 
 ---
 
@@ -500,10 +500,10 @@ Every First Principles Report follows a seven-phase architecture with a distinct
   - Decomposition is influenced by the decomposer's framework and blind spots
   - "Fundamental" is relative to a domain and level of analysis — someone else might decompose differently
   - Some domains resist clean axiomatization; the method is more powerful in some contexts than others
-- **Relationship to Other Report Types**: Explicitly connect to the [[Foundational Report Generator v1.0|Foundational Report]] perspective on this topic:
+- **Relationship to Other Report Types**: Explicitly connect to the [[Foundational-Report-Generator-v1.0|Foundational Report]] perspective on this topic:
   - What does the Foundational view provide that First Principles does not? (Comprehensive landscape mapping, historical context, framework surveys)
   - What does First Principles provide that Foundational does not? (Epistemic audit, assumption transparency, reconstructive insight)
-  - How would a [[Socratic Dialogue Report Prompt|Socratic Dialogue]] approach this same topic differently? (Through dialectical exchange and aporia rather than systematic decomposition)
+  - How would a [[Socratic-Dialogue-Report-Prompt|Socratic Dialogue]] approach this same topic differently? (Through dialectical exchange and aporia rather than systematic decomposition)
 - **PKB Connections Block**:
 
 > [!connections-and-links]
@@ -534,7 +534,7 @@ Every First Principles Report follows a seven-phase architecture with a distinct
 
 ### Phase VII: Appendix — Lexicon, References, and Expansion Topics
 
-The appendix structure is identical to the [[Foundational Report Generator v1.0]], Phase VII, with the following additions:
+The appendix structure is identical to the [[Foundational-Report-Generator-v1.0]], Phase VII, with the following additions:
 
 #### A. Lexicon of Key Terms
 
@@ -572,7 +572,7 @@ Same format as Foundational Report (`> [!further-exploration]` with nested `> [!
 
 ### All Standards from the Foundational Report Apply
 
-The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, active reading prompts, and progressive structure requirements from [[Foundational Report Generator v1.0]], Section 4 apply in full to First Principles Reports.
+The prose-first mandate, callout usage guidelines, wiki-link strategy, reflective question requirements, active reading prompts, and progressive structure requirements from [[Foundational-Report-Generator-v1.0]], Section 4 apply in full to First Principles Reports.
 
 ### Additional First Principles-Specific Standards
 
@@ -628,7 +628,7 @@ In Phase IV, explicitly mark where the reconstructed understanding converges wit
 
 ### All Protocols from the Foundational Report Apply
 
-The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational Report Generator v1.0]], Section 5 apply in full.
+The PKB Connections block format, knowledge graph contribution strategy, and cross-report references from [[Foundational-Report-Generator-v1.0]], Section 5 apply in full.
 
 ### Additional First Principles-Specific Integration
 

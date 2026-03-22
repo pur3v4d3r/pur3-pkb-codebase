@@ -232,19 +232,19 @@ link-up:
 link-related:
   - "[[<% dateNow %>|Daily-Note]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Cognitive-Science]]"
   - "[[Cognitive Theory]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemic-Cognition]]"
   - "[[Extended Mind]]"
-  - "[[Long-Term Memory]]"
+  - "[[Long-Term-Memory]]"
   - "[[Metacognition]]"
   - "[[Neuroplasticity]]"
-  - "[[Schemas]]"
-  - "[[Self Directed Learning]]"
+  - "[[schemas]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Socratic Method]]"
+  - "[[Self-Determination-Theory]]"
+  - "[[Socratic-Method]]"
 
 ---
 
@@ -261,8 +261,8 @@ link-related:
 
 ## Related Concepts
 
-- `[[Concept 1]]`
-- `[[Concept 2]]`
+- `[[Concept-1]]`
+- `[[Concept-2]]`
 
 ## Practical Applications
 > -

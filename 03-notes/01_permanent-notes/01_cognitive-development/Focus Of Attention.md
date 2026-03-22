@@ -19,7 +19,7 @@ aliases:
   - "[[Focus Of Attention]]"
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory]]"
 link-related: []
 maturity: seedling
 confidence: speculative
@@ -37,7 +37,7 @@ review-priority: medium
 > - **Key-Term**:[[Focus Of Attention]]
 > - [**Definition**:The innermost component of working memory that holds information in its most activated, immediately accessible state.]
 
-Working Memory consists of [[Long-Term Memory]] activated portions, which are nested within the [[Focus Of Attention]].
+Working Memory consists of [[Long-Term-Memory]] activated portions, which are nested within the [[Focus Of Attention]].
 
 > [!connections-and-links]
 > - [[atomic-notes_moc]]: This is a link to the *Main Hub* for all **Atomic Notes**, from there you will find sections of each of the various *Subjects* I have been **working on**.

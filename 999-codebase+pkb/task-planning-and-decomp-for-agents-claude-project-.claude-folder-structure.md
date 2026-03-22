@@ -1030,8 +1030,8 @@ template_application:
     > [Scope and purpose of this knowledge domain]
     
     ## Core Concepts
-    - [[Concept 1]] - Description
-    - [[Concept 2]] - Description
+    - [[Concept-1]] - Description
+    - [[Concept-2]] - Description
     
     ## Commands & Tools
     - [[Command 1]] - Use case

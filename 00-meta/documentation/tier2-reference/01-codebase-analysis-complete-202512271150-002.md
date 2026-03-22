@@ -191,7 +191,7 @@ Final Composed Instruction
 **Format Application Example**:
 ```markdown
 In this section, we discuss %%extract-atomic: Germane Cognitive Load%% 
-which %%confidence: verified%% refers to [[Schema Construction]]^prerequisite-for-this
+which %%confidence: verified%% refers to [[Schema-Construction]]^prerequisite-for-this
 ```
 
 ##### **Level 7: atomic/personas/** (2+ files)
@@ -775,12 +775,12 @@ graph TB
 
 | Relationship | Syntax | Purpose | Example |
 |--------------|--------|---------|---------|
-| Prerequisite (Hard) | `[[Note]]^hard-prerequisite` | Must understand before | `[[Working Memory]]^hard-prerequisite` |
+| Prerequisite (Hard) | `[[Note]]^hard-prerequisite` | Must understand before | `[[Working-Memory]]^hard-prerequisite` |
 | Prerequisite (Soft) | `[[Note]]^soft-prerequisite` | Helpful background | `[[Learning Theory]]^soft-prerequisite` |
 | Extends | `[[Note]]^extends` | Builds upon | `[[Advanced Tagging]]^extends` |
-| Complements | `[[Note]]^complements` | Works synergistically | `[[Spaced Repetition]]^complements` |
+| Complements | `[[Note]]^complements` | Works synergistically | `[[Spaced-Repetition]]^complements` |
 | Contradicts | `[[Note]]^contradicts` | Opposes or conflicts | `[[Massed Practice]]^contradicts` |
-| Part-Of | `[[Note]]^part-of` | Component of larger | `[[Phonological Loop]]^part-of` |
+| Part-Of | `[[Note]]^part-of` | Component of larger | `[[Phonological-Loop]]^part-of` |
 | Example-Of | `[[Note]]^example-of` | Concrete instance | `[[Anki]]^example-of` |
 | Alternative-To | `[[Note]]^alternative-to` | Different approach | `[[PARA]]^alternative-to` |
 

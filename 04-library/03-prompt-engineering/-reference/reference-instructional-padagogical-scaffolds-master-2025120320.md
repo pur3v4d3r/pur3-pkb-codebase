@@ -359,7 +359,7 @@ LIMIT 15
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
 
 ---
 ```
@@ -419,7 +419,7 @@ LIMIT 15
 {{This section is *not* a comprehensive overview of the entire field. It is a targeted deep dive into *only* the foundational principles and key terms identified as necessary in the `[!plan]` section. (1500 Words)}}
 
 > [!principle-point]
-> - **Required Concept 1:** {{[[Concept Name]]}}
+> - **Required Concept 1:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the first major principle required to solve the problem. Explain *what* it is and *why* it is essential for this specific challenge.}}
 
 > [!definition]
@@ -430,7 +430,7 @@ LIMIT 15
 > - **To understand** {{[[Complex Concept]]}}, **imagine**… {{Insert a powerful analogy here to speed up comprehension.}}
 
 > [!principle-point]
-> - **Required Concept 2:** {{[[Concept Name]]}}
+> - **Required Concept 2:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the second major principle. Continue this pattern for all concepts identified in the plan.}}
 
 # 3.0 🔬 THE WORKSHOP: Building the Solution
@@ -683,7 +683,7 @@ Please let me know your thoughts on this "Problem-Based" scaffolding. When you a
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
 
 ---
 

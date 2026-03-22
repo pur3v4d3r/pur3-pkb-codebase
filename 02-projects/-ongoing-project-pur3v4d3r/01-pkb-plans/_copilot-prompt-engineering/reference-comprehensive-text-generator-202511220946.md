@@ -46,7 +46,7 @@ aliases: [Text Generator Plugin, Obsidian Text Generator, TG Plugin, Local LLM I
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering all aspects of the Text Generator plugin. Use the table of contents below for quick navigation. Sections 1-5 cover core functionality for cloud-based APIs, while Sections 6-8 focus extensively on local LLM integration—the pathway to unlimited, private AI-augmented knowledge work. Search for specific terms using [[Wiki-Links]] or jump to practical implementation guides in the methodology callouts.
+> This reference note is organized into 10 major sections covering all aspects of the Text Generator plugin. Use the table of contents below for quick navigation. Sections 1-5 cover core functionality for cloud-based APIs, while Sections 6-8 focus extensively on local LLM integration—the pathway to unlimited, private AI-augmented knowledge work. Search for specific terms using [[wiki-links]] or jump to practical implementation guides in the methodology callouts.
 
 ---
 
@@ -68,7 +68,7 @@ aliases: [Text Generator Plugin, Obsidian Text Generator, TG Plugin, Local LLM I
 ## 🎯 Plugin Overview & Core Capabilities
 
 > [!definition]
-> - **Text Generator Plugin**:: An open-source AI Assistant Tool for Obsidian that enables text generation using various AI providers, including OpenAI, Anthropic, Google, and local models. The plugin serves as a bridge between your [[Obsidian Vault]] and [[Large Language Models]], enabling AI-augmented knowledge work directly within your PKB environment.
+> - **Text Generator Plugin**:: An open-source AI Assistant Tool for Obsidian that enables text generation using various AI providers, including OpenAI, Anthropic, Google, and local models. The plugin serves as a bridge between your [[Obsidian Vault]] and [[Large-Language-Models]], enabling AI-augmented knowledge work directly within your PKB environment.
 > - **Primary Purpose**:: Generate ideas, titles, summaries, outlines, and complete paragraphs based on your knowledge database, with support for both cloud-based and local inference.
 
 ### Foundational Concepts
@@ -273,7 +273,7 @@ Recent plugin versions support Gemini integration with model retrieval:
 
 ## ✍️ Prompt Engineering Within Text Generator
 
-Text Generator implements a sophisticated [[Template System]] using [[YAML Frontmatter]] to define reusable prompts. This enables component-based [[Prompt Engineering]] directly within your vault.
+Text Generator implements a sophisticated [[Template-System]] using [[YAML-Frontmatter]] to define reusable prompts. This enables component-based [[Prompt-Engineering]] directly within your vault.
 
 ### Template Architecture
 
@@ -389,7 +389,7 @@ This template generates concise summaries of selected text.
 > *Example*: "Structure using my standard sections: Definition, Examples, Applications, Related"
 > 
 > **5. Leverage Existing Context**: Reference other notes  
-> *Example*: "Expand on this concept, assuming reader has read [[Self-Regulated Learning]]"
+> *Example*: "Expand on this concept, assuming reader has read [[Self-Regulated-Learning]]"
 
 ### Template Organization Strategy
 
@@ -466,7 +466,7 @@ For local LLM integration, batch processing becomes practical:
 > **Scenario 1: Bulk Tag Generation**
 > - **Problem**: 200 notes missing appropriate tags
 > - **Solution**: Script iterates through notes, sends each to local LLM with prompt: "Suggest 3-5 tags from my taxonomy for this note"
-> - **Implementation**: Use [[Templater]] or [[quickadd]] to batch-call Text Generator API
+> - **Implementation**: Use [[Templater]] or [[QuickAdd]] to batch-call Text Generator API
 > - **Outcome**: Consistent tagging across vault in hours rather than days
 > 
 > **Scenario 2: Definition Extraction**
@@ -485,7 +485,7 @@ For local LLM integration, batch processing becomes practical:
 
 Text Generator works synergistically with other [[Obsidian Plugins]]:
 
-**[[dataview]] Integration**:
+**[[Dataview]] Integration**:
 - Query notes meeting criteria
 - Batch-process query results through Text Generator
 - Generate index notes or summaries of collections
@@ -495,7 +495,7 @@ Text Generator works synergistically with other [[Obsidian Plugins]]:
 - Create sophisticated note creation workflows
 - Example: New literature note template that auto-generates summary
 
-**[[quickadd]] Integration**:
+**[[QuickAdd]] Integration**:
 - Add Text Generator calls to QuickAdd macros
 - Create capture workflows with immediate AI enhancement
 - Example: Quick capture → AI generates tags and related notes
@@ -1749,7 +1749,7 @@ Structural Planning:
   6. Troubleshooting and optimization
   
 - Wiki-Link Opportunities:
-  [[Obsidian]], [[Local LLM]], [[Prompt Engineering]], [[API Integration]], [[Templater]], [[Dataview]], [[LM Studio]], [[Ollama]], [[Context Window]], [[Temperature]], [[Token]], [[Markdown]], [[YAML Frontmatter]], [[Zettelkasten]], [[PKB]]
+  [[Obsidian]], [[Local LLM]], [[Prompt-Engineering]], [[API Integration]], [[Templater]], [[Dataview]], [[LM Studio]], [[Ollama]], [[Context-Window]], [[Temperature]], [[Token]], [[Markdown]], [[YAML-Frontmatter]], [[Zettelkasten]], [[PKB]]
 
 - Callout Strategy:
   - [!definition] for core concepts

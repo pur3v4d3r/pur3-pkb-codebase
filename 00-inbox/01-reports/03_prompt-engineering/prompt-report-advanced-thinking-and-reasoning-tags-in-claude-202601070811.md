@@ -2992,7 +2992,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Anti-patterns that inhibit quality thinking
 - A/B testing prompt variations for thinking quality
 
-**Knowledge Graph Role**: Bridges architectural capability (this document) with user-side prompt design, connecting [[Prompt Engineering]], [[Extended Thinking]], [[Metacognition]], and [[Quality Optimization]].
+**Knowledge Graph Role**: Bridges architectural capability (this document) with user-side prompt design, connecting [[Prompt-Engineering]], [[Extended Thinking]], [[Metacognition]], and [[Quality Optimization]].
 
 **Priority**: **High** - Immediately actionable for practitioners wanting to maximize extended thinking value through better prompting.
 
@@ -3010,7 +3010,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Meta-learning and self-improvement capabilities
 - Future directions in metacognitive AI
 
-**Knowledge Graph Role**: Provides broader context for thinking tags within metacognitive AI landscape, connecting [[Cognitive Science]], [[AI Consciousness]], [[Self-Aware Systems]], [[Meta-Learning]].
+**Knowledge Graph Role**: Provides broader context for thinking tags within metacognitive AI landscape, connecting [[Cognitive-Science]], [[AI Consciousness]], [[Self-Aware Systems]], [[Meta-Learning]].
 
 **Priority**: **Medium** - Valuable theoretical depth but less immediately practical than prompt engineering focus.
 
@@ -3049,7 +3049,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Cost-benefit tradeoff analysis
 - Integration anti-patterns to avoid
 
-**Knowledge Graph Role**: Practical application layer connecting reasoning theory to sophisticated implementations, linking [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Production Patterns]].
+**Knowledge Graph Role**: Practical application layer connecting reasoning theory to sophisticated implementations, linking [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Production Patterns]].
 
 **Priority**: **High** - Bridges theory and practice, enabling sophisticated reasoning implementations beyond single-framework approaches.
 
@@ -3088,7 +3088,7 @@ This extensive example demonstrates how metacognitive monitoring through structu
 - Consciousness and self-awareness questions
 - Cognitive biases and mitigation strategies
 
-**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive Science]], [[Neuroscience]], [[AI Architecture]], [[Human Cognition]].
+**Knowledge Graph Role**: Provides deep theoretical foundation connecting AI capabilities to established cognitive science, linking [[Cognitive-Science]], [[Neuroscience]], [[AI Architecture]], [[Human Cognition]].
 
 **Priority**: **Medium** - Intellectually valuable but primarily for researchers rather than practitioners focused on implementation.
 

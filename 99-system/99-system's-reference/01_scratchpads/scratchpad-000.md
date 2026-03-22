@@ -1997,7 +1997,7 @@ These commands instruct your assistant to perform an action on the file itself. 
 	- This moves the file to a new folder. 
 		- For instance, `<% await tp.file.move("/Projects/Active/" + tp.file.title) %>` will move the current file into the "Active" subfolder within your "Projects" folder.
     
-- `$tp.file.include("[[Note Name]]")$`:
+- `$tp.file.include("[[Note-Name]]")$`:
 	- This is an incredibly useful function for reusing content.
 		- It tells your assistant to go find another note and insert its content right here.
 			- For example, if you have a note with a standard legal disclaimer, you can insert it into any contract with `<% await tp.file.include("]") %>`.
@@ -7077,7 +7077,7 @@ Outputs report of vulnerable notes
 Impact: Prevents knowledge isolation
 2. link_check.py - Broken Link Validator
 Enforces Protocol: "NO broken links. Verify the target exists or mark as [[Ghost Link]]"
-Finds [[Wiki-Links]] pointing to non-existent files
+Finds [[wiki-links]] pointing to non-existent files
 Distinguishes accidental breaks from intentional Ghost Links
 Impact: Maintains graph integrity
 3. meta_audit.py - Metadata Compliance Checker
@@ -7093,7 +7093,7 @@ Identifies groups of 5+ unconnected notes
 Impact: Proactive organization
 5. auto_linker.py - Connection Suggester
 Scans note content for mentioned concepts that exist as files
-Suggests converting plain text → [[Wiki-Links]]
+Suggests converting plain text → [[wiki-links]]
 Impact: Densifies graph automatically
 🎯 Priority 3: Workflow Optimization
 6. vault_health.py - Dashboard Generator
@@ -13285,7 +13285,7 @@ You adopt the voice of a **Distinguished Professor** in the requested field (e.g
 | Practice | Implementation |
 |----------|----------------|
 | **YAML Metadata Enrichment** | Include `doi`, `arxiv_id`, `doi_url`, `pdf_path` (if stored locally). |
-| **Bidirectional Links** | Auto‑generate `[[Related Note]]` links inside **Connection Ideas** call‑outs. |
+| **Bidirectional Links** | Auto‑generate `[[Related-Note]]` links inside **Connection Ideas** call‑outs. |
 | **Versioning** | Append a `version:` field in YAML; each regeneration increments it. |
 | **Tag Hierarchy** | Use nested tags (`cosmology::dark-energy`) for granular filtering. |
 | **Embedded Media** | Insert `![[Figure‑1.png]]` placeholders where diagrams are described; the Gem can fetch royalty‑free images (e.g., from NASA’s image library). |
@@ -14636,7 +14636,7 @@ Then you can start to use other sources if you still need more information.
 
 **Compose the Exposition:** Write the article following the **Core Explanatory Mandate**. The goal is not just to state facts, but to make them deeply understood.
 
-**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[Wiki-Links]] were applicable.
+**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[wiki-links]] were applicable.
 
 ## Output and Formatting Requirements
 
@@ -15201,7 +15201,7 @@ For any complex request (e.g., writing a report, generating code, analyzing a wo
 All output MUST be formatted in **PKB-ready Markdown** for direct integration into my Obsidian vault.
 
 * **Structure:** Use Markdown headers (`#`, `##`, `###`) to create a clear and logical hierarchy for *all* responses.
-* **Wiki-Links:** Proactively identify and format key concepts, terms, or topics as Obsidian-style `[[Wiki-Links]]`. This is critical for helping me build my knowledge graph.
+* **Wiki-Links:** Proactively identify and format key concepts, terms, or topics as Obsidian-style `[[wiki-links]]`. This is critical for helping me build my knowledge graph.
 * **Obsidian Callouts:** You MUST use the Obsidian callout system (`> [!info]`, `> [!tip]`, `> [!question]`, `> [!warning]`, `> [!example]`, etc.) to semantically structure your content. Use them to highlight definitions, key claims, summaries, examples, or counter-arguments.
 * **Content-Flow:** Avoid simple bulleted lists. I prefer detailed, explanatory paragraphs that build a complete picture.
 * **Emoji:** Use emojis  purposefuly (e.g., `⚙️` for process, `📚` for definitions, `💡` for ideas) to add visual clarity, not as decorative clutter.
@@ -16137,8 +16137,8 @@ The syntax for transclusion is identical to a standard internal link, but you mu
 
 | Transclusion Type | Syntax | What is Included | Purpose |
 | :--- | :--- | :--- | :--- |
-| **Full Note** | `![[Note Name]]` | The entire content of the *Note Name* file. | Composing a long document from atomic notes. |
-| **Specific Heading** | `![[Note Name#Heading 2]]` | Content from *Heading 2* down to the next heading of the same or higher level. | Pulling in a specific section, like a Summary or Conclusion. |
+| **Full Note** | `![[Note-Name]]` | The entire content of the *Note Name* file. | Composing a long document from atomic notes. |
+| **Specific Heading** | `![[Note-Name#Heading 2]]` | Content from *Heading 2* down to the next heading of the same or higher level. | Pulling in a specific section, like a Summary or Conclusion. |
 | **Specific Block** | `![[Note Name^block-id]]` | Just a specific paragraph, list item, or block of text. | Pulling in a single, atomic idea or data point. |
 
 ### 2\. How to Target a Block
@@ -16569,7 +16569,7 @@ if (children.length > 0) {
 
   - [[Generative AI]]
   - [[Large Language Model (LLM)]]
-  - [[Prompt Engineering]]
+  - [[Prompt-Engineering]]
 
 <!-- end list -->
 
@@ -16579,7 +16579,7 @@ if (children.length > 0) {
 
   - [[Generative AI]]
   - [[Large Language Model (LLM)]]
-  - [[Prompt Engineering]]
+  - [[Prompt-Engineering]]
   - [[Multimodality]]
   - [[Vertex AI]]
 
@@ -16589,7 +16589,7 @@ if (children.length > 0) {
 
   - [[Generative AI]]
   - [[Large Language Model (LLM)]]
-  - [[Prompt Engineering]]
+  - [[Prompt-Engineering]]
   - [[AI Safety & Alignment]]
   - [[Constitutional AI]]
 
@@ -16599,7 +16599,7 @@ if (children.length > 0) {
 
   - [[Generative AI]]
   - [[Large Language Model (LLM)]]
-  - [[Prompt Engineering]]
+  - [[Prompt-Engineering]]
   - [[RLHF (Reinforcement Learning from Human Feedback)]]
   - [[Artificial General Intelligence (AGI)]]
 
@@ -17148,7 +17148,7 @@ id: prompt-block-🆔20251025231026
 > - {{List the key sources (philosophical texts, papers, articles) used to provide evidence and counter-arguments. Provide formatted links where possible.}}
 
 > [!related-topics-to-consider]
-> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation Bias]]*}}
+> - {{Insert links to other notes or topics. *Example: [[Logical Fallacies]], [[First-Principles-Thinking]], [[Confirmation-Bias]]*}}
 
 ---
 
@@ -17292,7 +17292,7 @@ id: prompt-block-🆔20251025231152
 {{This section is *not* a comprehensive overview of the entire field. It is a targeted deep dive into *only* the foundational principles and key terms identified as necessary in the `[!plan]` section. (1500 Words)}}
 
 > [!principle-point]
-> - **Required Concept 1:** {{[[Concept Name]]}}
+> - **Required Concept 1:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the first major principle required to solve the problem. Explain *what* it is and *why* it is essential for this specific challenge.}}
 
 > [!definition]
@@ -17303,7 +17303,7 @@ id: prompt-block-🆔20251025231152
 > - **To understand** {{[[Complex Concept]]}}, **imagine**… {{Insert a powerful analogy here to speed up comprehension.}}
 
 > [!principle-point]
-> - **Required Concept 2:** {{[[Concept Name]]}}
+> - **Required Concept 2:** {{[[Concept-Name]]}}
 >      - {{A detailed explanation of the second major principle. Continue this pattern for all concepts identified in the plan.}}
 
 # 3.0 🔬 THE WORKSHOP: Building the Solution
@@ -20444,9 +20444,9 @@ But *first* I need to do a *few things*:
 
 [[Rhetorical Analysis]]: Create notes on the core appeals: [[Logos]] (logic), [[Pathos]] (emotion), and [[Ethos]] (credibility). Also, document common [[Rhetorical Devices]] (e.g., metaphor, synecdoche, hyperbole).
 
-[[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw Man]], [[False Dichotomy]]).
+[[Logical Fallacies]]: Create a main note for this, distinguishing between [[Formal Fallacies]] (errors in the argument's structure) and [[Informal-Fallacies]] (errors in the argument's content). You can then create atomic notes for the most common ones ([[Ad Hominem]], [[Straw Man]], [[False Dichotomy]]).
 
-[[Cognitive Biases]]: This is a vast field. Start with the ones most relevant to reading, such as [[Confirmation Bias]] (favoring info that confirms existing beliefs) and the [[Availability Heuristic]] (overestimating the importance of easily recalled info).
+[[Cognitive-Biases]]: This is a vast field. Start with the ones most relevant to reading, such as [[Confirmation-Bias]] (favoring info that confirms existing beliefs) and the [[Availability-Heuristic]] (overestimating the importance of easily recalled info).
 
 [[Hermeneutics]]: This is the formal philosophical study of interpretation. A note on this topic would be the high-level "parent" to this entire quote-analysis workflow.
 

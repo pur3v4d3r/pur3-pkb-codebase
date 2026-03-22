@@ -162,8 +162,8 @@ Instead of inline callouts, compile a "Refactoring Queue" at the bottom of the r
 
 Format:
 ## 📥 Extraction Queue
-- [ ] [[Concept Name]] (Priority: High) - *Trigger*: {Reason}
-- [ ] [[Concept Name]] (Priority: Low) - *Trigger*: {Reason}
+- [ ] [[Concept-Name]] (Priority: High) - *Trigger*: {Reason}
+- [ ] [[Concept-Name]] (Priority: Low) - *Trigger*: {Reason}
 </atomic_checklist_protocol>
 ```
 

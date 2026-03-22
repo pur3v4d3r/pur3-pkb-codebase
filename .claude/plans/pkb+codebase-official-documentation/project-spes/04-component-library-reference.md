@@ -539,7 +539,7 @@ ENVIRONMENT DETAILS:
 - Structure: Hierarchical folders with MOC (Map of Content) navigation hubs
 
 FORMATTING EXPECTATIONS:
-- All key concepts formatted as [[Wiki-Links]]
+- All key concepts formatted as [[wiki-links]]
 - Frontmatter metadata in YAML format
 - Callouts using > [!type] syntax
 - Prose-dominant content (minimal bullet lists)

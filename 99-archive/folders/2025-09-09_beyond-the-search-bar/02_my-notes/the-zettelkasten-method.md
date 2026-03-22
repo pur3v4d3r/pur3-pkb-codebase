@@ -88,5 +88,5 @@ Principles of Networked Note-Making (Zettelkasten/Evergreen).** This table outli
 [[Cornell Note Method]]
 [[Mind Mapping for Notes]]
 [[Outline Note Method]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 

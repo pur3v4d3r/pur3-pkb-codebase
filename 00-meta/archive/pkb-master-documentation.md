@@ -810,7 +810,7 @@ python _scripts/orphan_check.py
 ## linkcheck (Link Integrity)
 
 ### Purpose
-Detect broken [[Wiki-Links]]
+Detect broken [[wiki-links]]
 
 ### Usage
 ```bash
@@ -1024,7 +1024,7 @@ The script outputs a report grouping files by their isolation severity:
 
 ### Purpose
 
-Detects `[[Wiki-Links]]` that point to non-existent files. This prevents "Link Rot" within the knowledge base.
+Detects `[[wiki-links]]` that point to non-existent files. This prevents "Link Rot" within the knowledge base.
 
 ### Usage
 
@@ -1047,7 +1047,7 @@ The script is configured to ignore certain patterns common in template languages
 
 ### Remediation
 
-1. **Typos**: The most common cause. `[[Promt Engineering]]` vs `[[Prompt Engineering]]`. Fix the spelling.
+1. **Typos**: The most common cause. `[[Promt Engineering]]` vs `[[Prompt-Engineering]]`. Fix the spelling.
 2. **Renames**: If a file was renamed outside of Obsidian (e.g., via OS file explorer), links won't update. Use `grep` to find and replace the old filename.
 3. **Missing Files**: If the destination file was deleted, remove the link or recreate the stub.
 

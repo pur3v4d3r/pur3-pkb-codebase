@@ -34,8 +34,8 @@ link-related:
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
-  - "[[Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[Intrinsic-Motivation]]"
+  - "[[Extrinsic-Motivation]]"
 status: active
 
 
@@ -49,7 +49,7 @@ review-priority: medium
 
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Self-Determination Theory]]
+> - **Title**: [[Self-Determination-Theory]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

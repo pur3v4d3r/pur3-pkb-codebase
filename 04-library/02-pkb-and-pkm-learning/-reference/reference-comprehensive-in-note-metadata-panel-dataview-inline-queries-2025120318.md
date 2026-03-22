@@ -173,7 +173,7 @@ I need to explore Dataview's inline query capabilities systematically across mul
 - Expansion section linking to advanced topics
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]
+[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge-Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]
 
 
 ---
@@ -242,7 +242,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 ### B. Link & Relationship Analysis
 
 > [!key-claim] Network Metrics
-> Link analysis queries are fundamental to [[Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.
+> Link analysis queries are fundamental to [[Knowledge-Graph]] health monitoring and [[Zettelkasten]] maintenance.
 
 #### 4. **Link Counts**
 
@@ -752,7 +752,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
 **First Outlink**: `= this.file.outlinks[0]`
 ```
 
-**Use Case:** [[Knowledge Graph]] health monitoring, link analysis, connection tracking
+**Use Case:** [[Knowledge-Graph]] health monitoring, link analysis, connection tracking
 
 ---
 
@@ -1137,7 +1137,7 @@ aliases: [DV Inline Reference, Dataview Inline Compendium, Inline Query Patterns
    - *Knowledge Graph Role*: Interactive dashboard components in [[Obsidian]] automation
 
 4. **[[Knowledge Graph Analytics Formulas]]**
-   - *Connection*: Advanced metrics for measuring [[Knowledge Graph]] health and structure
+   - *Connection*: Advanced metrics for measuring [[Knowledge-Graph]] health and structure
    - *Depth Potential*: PageRank-inspired algorithms, clustering coefficients, betweenness centrality
    - *Knowledge Graph Role*: Quantitative analysis of [[Zettelkasten]] network properties
 

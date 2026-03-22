@@ -32,16 +32,16 @@ link-up:
   - "[[cognitive-science-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
-  - "[[stoicism]]"
+  - "[[Stoicism]]"
   - "[[epistemology]]"
-  - "[[pragmatism]]"
+  - "[[Pragmatism]]"
 philosophy-filter: all
 ---
 
 # 🏛️ Practical Philosophy MOC
 
 > [!abstract] Hub Overview
-> This [[Map of Content]] serves as the central navigation hub for **practical philosophy**—philosophical traditions and frameworks designed for **application in daily life**. Unlike purely theoretical philosophy, practical philosophy emphasizes [[actionable wisdom]], [[self-regulation]], and [[epistemic accountability]].
+> This [[Map of Content]] serves as the central navigation hub for **practical philosophy**—philosophical traditions and frameworks designed for **application in daily life**. Unlike purely theoretical philosophy, practical philosophy emphasizes [[actionable wisdom]], [[Self-Regulation]], and [[epistemic accountability]].
 > 
 > [**MOC-Purpose**:: To organize, connect, and surface philosophical concepts that directly inform decision-making, emotional regulation, and knowledge validation in personal knowledge management practice.]
 
@@ -114,7 +114,7 @@ for (let [domain, count] of Object.entries(domains)) {
 > [!principle-point] Core Doctrine
 > [**Stoicism-Core-Principle**:: The distinction between what is "up to us" (ἐφ' ἡμῖν) and what is not—our judgments, impulses, desires, and aversions versus external circumstances, others' actions, and outcomes beyond our control.]
 
-[[Stoicism]] represents the philosophical backbone of this practical philosophy collection. The [[Stoic Philosophy]] tradition offers systematic techniques for [[emotional regulation]], [[cognitive reframing]], and [[virtue cultivation]].
+[[Stoicism]] represents the philosophical backbone of this practical philosophy collection. The [[Stoic-Philosophy]] tradition offers systematic techniques for [[emotional regulation]], [[cognitive reframing]], and [[virtue cultivation]].
 
 ### 🔗 Stoic Concept Network
 
@@ -159,17 +159,17 @@ if (stoicPages.length > 0) {
 > [!definition] Dichotomy of Control
 > [**Dichotomy-of-Control**:: The foundational Stoic distinction (τὰ ἐφ' ἡμῖν / τὰ οὐκ ἐφ' ἡμῖν) between what depends on us—our judgments, intentions, and responses—and what does not—external events, others' actions, bodily conditions, and outcomes.]
 > 
-> - [[Dichotomy of Control]] — *The master key to Stoic practice*
-> - Related: [[Locus of Control]] (psychological parallel)
+> - [[Dichotomy-of-Control]] — *The master key to Stoic practice*
+> - Related: [[Locus-of-Control]] (psychological parallel)
 
 > [!definition] Prosoche (Attention)
 > [**Prosoche**:: The Stoic practice of continuous self-attention and vigilance over one's impressions, judgments, and impulses—the foundational discipline enabling all other Stoic practices.]
 
 **Primary Notes:**
 - [[Stoicism]] — *Foundational overview*
-- [[Stoic Philosophy]] — *Theoretical framework*
-- [[Dichotomy of Control]] — *Core practical technique*
-- [[Locus of Control]] — *Psychological bridge concept*
+- [[Stoic-Philosophy]] — *Theoretical framework*
+- [[Dichotomy-of-Control]] — *Core practical technique*
+- [[Locus-of-Control]] — *Psychological bridge concept*
 
 **Stoic Techniques:**
 - [[Negative Visualization]] — *Premeditatio malorum*
@@ -191,7 +191,7 @@ if (stoicPages.length > 0) {
 > [!principle-point] Domain Focus
 > [**Philosophy-of-Mind-Scope**:: The examination of mental phenomena—consciousness, intentionality, perception, and cognition—particularly as they relate to practical wisdom and self-understanding.]
 
-This branch explores the intersection of [[Philosophy of Mind]] with practical application, emphasizing how understanding mental processes enables better [[self-regulation]] and [[metacognition]].
+This branch explores the intersection of [[Philosophy of Mind]] with practical application, emphasizing how understanding mental processes enables better [[Self-Regulation]] and [[Metacognition]].
 
 ### 🔗 Mind Philosophy Network
 
@@ -218,15 +218,15 @@ if (mindPages.length > 0) {
 
 **Foundational:**
 - [[Philosophy of Mind]] — *Domain overview*
-- [[Stoic Philosophy]] — *Ancient mind theory*
-- [[Socratic Method]] — *Dialectical inquiry*
+- [[Stoic-Philosophy]] — *Ancient mind theory*
+- [[Socratic-Method]] — *Dialectical inquiry*
 - [[Socratic Thinking]] — *Applied questioning*
 
 **Thinking Methods:**
 > [!methodology-and-sources] Socratic Inquiry
 > [**Socratic-Method**:: A form of cooperative argumentative dialogue using questioning to stimulate critical thinking, expose contradictions in one's beliefs, and arrive at well-examined conclusions.]
 > 
-> - [[Socratic Method]] — *The art of philosophical questioning*
+> - [[Socratic-Method]] — *The art of philosophical questioning*
 > - [[Socratic Thinking]] — *Applying dialectic to daily reasoning*
 
 ---
@@ -274,7 +274,7 @@ if (epistemicPages.length > 0) {
 **Primary Notes:**
 - [[Epistemology]] — *Domain foundation*
 - [[Epistemic Accountability]] — *Intellectual responsibility*
-- [[Epistemic Cognition]] — *Knowledge processing*
+- [[Epistemic-Cognition]] — *Knowledge processing*
 - [[Evolutionary Epistemology]] — *Naturalized knowledge theory*
 
 **Applied Epistemology:**
@@ -378,14 +378,14 @@ if (bridges.length > 0) {
 
 | Stoicism Concept | Connects To | Integration Insight |
 |------------------|-------------|---------------------|
-| [[Dichotomy of Control]] | [[Locus of Control]] | Psychological research validates Stoic distinction |
+| [[Dichotomy-of-Control]] | [[Locus-of-Control]] | Psychological research validates Stoic distinction |
 | [[Prosoche]] (Attention) | [[Metacognition]] | Both emphasize awareness of mental processes |
 | [[Stoic Journaling]] | [[Daily Note Reflection]] | Same practice, different frameworks |
 | [[Epistemic Assent]] | [[Epistemic Accountability]] | Stoic cognitive theory meets modern epistemology |
 
 | Epistemology Concept | Connects To | Integration Insight |
 |----------------------|-------------|---------------------|
-| [[Epistemic Cognition]] | [[Metacognition]] | Cognitive science operationalizes epistemology |
+| [[Epistemic-Cognition]] | [[Metacognition]] | Cognitive science operationalizes epistemology |
 | [[Evolutionary Epistemology]] | [[Pragmatism]] | Both naturalize knowledge processes |
 | [[Confidence Calibration]] | [[Stoic Reservation]] | Ancient and modern uncertainty management |
 
@@ -518,14 +518,14 @@ action:
 > For newcomers to practical philosophy, this sequence builds understanding systematically:
 
 **Foundation Layer:**
-1. [[Stoicism]] → [[Dichotomy of Control]] → [[Locus of Control]]
+1. [[Stoicism]] → [[Dichotomy-of-Control]] → [[Locus-of-Control]]
 2. [[Epistemology]] → [[Epistemic Accountability]]
 3. [[Pragmatism]] → Evaluate philosophy by practical results
 
 **Application Layer:**
-1. [[Stoic Philosophy]] → Daily practice techniques
-2. [[Socratic Method]] → [[Socratic Thinking]]
-3. [[Epistemic Cognition]] → PKB quality validation
+1. [[Stoic-Philosophy]] → Daily practice techniques
+2. [[Socratic-Method]] → [[Socratic Thinking]]
+3. [[Epistemic-Cognition]] → PKB quality validation
 
 **Integration Layer:**
 1. Connect Stoic practices to [[daily notes|Daily Note]] routines
@@ -545,7 +545,7 @@ action:
   - [[pkb-&-pkm-moc]] — *System design philosophy*
   - [[learning-theory-moc]] — *Education philosophy*
 - **Down:** 
-  - [[stoicism|Stoicism Index]]
+  - [[Stoicism|Stoicism Index]]
   - [[epistemology|Epistemology Index]]
 
 ```dataviewjs
@@ -600,12 +600,12 @@ if (orphans.length > 0) {
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Virtue Ethics]]**
+1. **[[Virtue-Ethics]]**
    - *Connection*: The ethical framework underlying Stoic practice—arete as the goal of philosophical life
    - *Depth Potential*: Explore Aristotelian vs. Stoic virtue concepts
    - *Knowledge Graph Role*: Bridge between Stoicism and broader ethical theory
 
-2. **[[Cognitive Behavioral Therapy]]**
+2. **[[Cognitive-Behavioral-Therapy]]**
    - *Connection*: Modern therapeutic approach heavily influenced by Stoic cognitive techniques
    - *Depth Potential*: Document specific Stoic-CBT technique parallels
    - *Knowledge Graph Role*: Connect ancient philosophy to contemporary psychology
@@ -615,7 +615,7 @@ if (orphans.length > 0) {
    - *Depth Potential*: Husserl, Heidegger, and their relevance to self-knowledge
    - *Knowledge Graph Role*: Expand Philosophy of Mind branch
 
-4. **[[Critical Thinking Frameworks]]**
+4. **[[Critical-Thinking-Frameworks]]**
    - *Connection*: Operationalized epistemology—practical methods for evaluating arguments and evidence
    - *Depth Potential*: Paul-Elder framework, argument mapping, fallacy identification
    - *Knowledge Graph Role*: Bridge epistemology to PKM practice

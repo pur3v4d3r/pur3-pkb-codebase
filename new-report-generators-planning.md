@@ -465,7 +465,7 @@ key-distinctions:
 # RELATIONSHIPS
 # ═══════════════════════════════════════════════════════════════════════════
 prerequisites:
-  - "[[Introduction to Critical Thinking]]"
+  - "[[Introduction-to-Critical-Thinking]]"
   - "[[Metacognition Fundamentals]]"
   - "[[Basic Argument Analysis]]"
   - "[[Logical Reasoning Foundations]]"
@@ -475,21 +475,21 @@ related:
   - "[[PENCRISAL Assessment Framework]]"
   - "[[Metacognitive Awareness Inventory]]"
   - "[[Epistemic-Vigilance]]"
-  - "[[Dual Process Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Argument Analysis]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Argument-Analysis]]"
   - "[[Decision Making Under Uncertainty]]"
   - "[[Cognitive Biases and Debiasing]]"
-  - "[[Scientific Reasoning]]"
+  - "[[Scientific-Reasoning]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Confirmation Bias]]"
+  - "[[Self-Regulated-Learning]]"
+  - "[[Confirmation-Bias]]"
   - "[[Availability-Heuristic]]"
   - "[[Anchoring Bias]]"
 
 broader:
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Psychology]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Educational-Psychology]]"
   - "[[Applied Epistemology]]"
   - "[[Rationality Studies]]"
 
@@ -509,7 +509,7 @@ see-also:
   - "[[Intellectual-Humility]]"
   - "[[Bayesian Reasoning]]"
   - "[[Argument-Mapping]]"
-  - "[[Socratic Questioning]]"
+  - "[[Socratic-Questioning]]"
   - "[[Pre-Mortem Analysis]]"
   - "[[Red Team Thinking]]"
   - "[[Cognitive Forcing Functions]]"
@@ -530,14 +530,14 @@ applied-in:
 # LEARNING PATHWAYS
 # ═══════════════════════════════════════════════════════════════════════════
 builds-on:
-  - "[[Foundational Logic]]"
-  - "[[Cognitive Development Theory]]"
-  - "[[Information Processing Models]]"
+  - "[[Foundational-Logic]]"
+  - "[[Cognitive-Development-Theory]]"
+  - "[[Information-Processing-Models]]"
 
 enables:
   - "[[Advanced Reasoning Techniques]]"
   - "[[Domain-Specific Critical Thinking]]"
-  - "[[Debiasing Interventions]]"
+  - "[[Debiasing-Interventions]]"
   - "[[Metacognitive Instruction Design]]"
   - "[[Epistemic Virtue Development]]"
 
@@ -727,21 +727,21 @@ secondary_domains:
   - prompt-engineering
   - report-generation
 related_concepts:
-  - "[[Personal Knowledge Management]]"
-  - "[[Personal Knowledge Base]]"
-  - "[[Lifelong Learning]]"
+  - "[[Personal-Knowledge-Management]]"
+  - "[[Personal-Knowledge-Base]]"
+  - "[[Lifelong-learning]]"
   - "[[Metacognition]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning]]"
   - "[[Constructivism]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Schema Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Schema-Theory]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Pragmatism]]"
-  - "[[Stoic Philosophy]]"
-  - "[[Critical Thinking]]"
+  - "[[Stoic-Philosophy]]"
+  - "[[Critical-Thinking]]"
   - "[[Knowledge Organization]]"
-  - "[[Instructional Design]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Instructional-Design]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
   - "[[Analytical Commentary System]]"
   - "[[Progressive Depth Architecture]]"
@@ -816,14 +816,14 @@ prerequisites:
   - "[[Obsidian Callout Taxonomy]]"
 
 builds_on:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
 
 extends:
-  - "[[Report Generation Prompt Suite]]"
+  - "[[Report-Generation-Prompt-Suite]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # ALIASES & LINKING
@@ -833,12 +833,12 @@ aliases:
   - "[[PKB Lifelong Learning Prompt]]"
   - "[[PKM-LLL v1.0]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[PKM Report Topic Registry]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -967,17 +967,17 @@ Every report draws from a core set of disciplines, using them as complementary l
 
 | Discipline | What It Contributes | Key Frameworks |
 |-----------|-------------------|----------------|
-| **[[Cognitive Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process Theory]], [[Working Memory]], [[Cognitive Architecture]] |
-| **[[Cognitive Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema Theory]], [[Cognitive Load Theory]], [[Encoding Specificity]] |
-| **[[Educational Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated Learning]], [[Achievement Goal Theory]], [[Transfer]] |
-| **[[Educational Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
-| **[[Instructional Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration Theory]] |
-| **[[Learning Experience Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
-| **[[Knowledge Management]]** | Organizational and personal knowledge creation/sharing | [[SECI Model]], [[PKM Frameworks]], [[Knowledge Organization Systems]] |
-| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spacing Effect]], [[Testing Effect]], [[Interleaving]], [[Desirable Difficulties]] |
-| **[[Stoic Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy of Control]], [[Premeditatio Malorum]], [[Virtue Ethics]] |
-| **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic Method]], [[Elenchus]], [[Aporia]] |
-| **[[Metacognition]]** | Thinking about thinking, self-monitoring, calibration | [[Metacognitive Regulation]], [[Calibration]], [[Judgment of Learning]] |
+| **[[Cognitive-Science]]** | How the mind processes, stores, and retrieves information | [[Dual-Process-Theory]], [[Working-Memory]], [[Cognitive-Architecture]] |
+| **[[Cognitive-Psychology]]** | Memory, attention, learning mechanisms, cognitive biases | [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Encoding-Specificity]] |
+| **[[Educational-Psychology]]** | Learning processes, motivation, assessment, development | [[Self-Regulated-Learning]], [[Achievement-Goal-Theory]], [[Transfer]] |
+| **[[Educational-Philosophy]]** | Purposes of education, nature of knowledge, ethics of learning | [[Pragmatism]], [[Constructivism]], [[Critical Pedagogy]] |
+| **[[Instructional-Design]]** | Systematic design of learning experiences and materials | [[ADDIE]], [[Merrill's Principles]], [[Elaboration-Theory]] |
+| **[[Learning-Experience-Design]]** | Human-centered design of learning journeys | [[UX for Learning]], [[Learner Journey Mapping]], [[Engagement Design]] |
+| **[[Knowledge-Management]]** | Organizational and personal knowledge creation/sharing | [[SECI-Model]], [[PKM Frameworks]], [[Knowledge-Organization-Systems]] |
+| **[[Psychology of Learning]]** | Behavioral and cognitive mechanisms of learning | [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], [[Desirable-Difficulties]] |
+| **[[Stoic-Philosophy]]** | Resilience, emotional regulation, virtue-based growth | [[Dichotomy-of-Control]], [[Premeditatio-Malorum]], [[Virtue-Ethics]] |
+| **[[Socratic Philosophy]]** | Inquiry, self-examination, dialogue-based learning | [[Socratic-Method]], [[Elenchus]], [[Aporia]] |
+| **[[Metacognition]]** | Thinking about thinking, self-monitoring, calibration | [[Metacognitive-Regulation]], [[Calibration]], [[Judgment-of-Learning]] |
 
 ### Reader Model
 
@@ -1734,49 +1734,49 @@ The following registry defines 30 reports designed to build cumulatively toward 
 These reports establish the scientific and philosophical foundations that every subsequent report builds upon.
 
 **Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows**
-- **Synthesis Focus**: How do [[Schema Theory]], [[Knowledge Organization Systems]], and [[Constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
+- **Synthesis Focus**: How do [[Schema-Theory]], [[Knowledge-Organization-Systems]], and [[Constructivism]] converge to inform the structural design of a PKB? What does cognitive science tell us about how knowledge should be stored to match how the mind retrieves it?
 - **Disciplines**: Cognitive Psychology (schemas, memory), Knowledge Management (taxonomies, ontologies), Constructivism (knowledge construction), Information Science (retrieval)
 - **PKM/PKB Design Target**: Folder structure, note architecture, linking strategy, metadata design
 - **Feeds into**: Reports 02, 03, 06, 09, 15
 
 **Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design**
-- **Synthesis Focus**: How do [[Cognitive Load Theory]], [[Working Memory]] constraints, and [[Instructional Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
+- **Synthesis Focus**: How do [[Cognitive-Load-Theory]], [[Working-Memory]] constraints, and [[Instructional-Design]] principles intersect to determine what makes a PKB note learnable vs. overwhelming?
 - **Disciplines**: Cognitive Psychology (CLT, working memory), Instructional Design (Merrill, Sweller), Learning Experience Design (information architecture)
 - **PKM/PKB Design Target**: Note complexity management, progressive disclosure, chunking strategies, review interface design
 - **Builds on**: Report 01 | **Feeds into**: Reports 04, 07, 10, 16
 
 **Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB**
-- **Synthesis Focus**: How do [[Constructivism]], [[Elaboration Theory]], and [[Schema Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
+- **Synthesis Focus**: How do [[Constructivism]], [[Elaboration-Theory]], and [[Schema-Theory]] together explain the process of knowledge construction, and what does this mean for how notes should link, layer, and reference each other?
 - **Disciplines**: Educational Philosophy (constructivism), Cognitive Psychology (schema development), Instructional Design (elaboration theory, sequencing)
 - **PKM/PKB Design Target**: Note linking philosophy, progressive note development, knowledge scaffolding sequences
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 05, 08, 11, 17
 
 **Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM**
-- **Synthesis Focus**: How do [[Metacognition]], [[Self-Regulated Learning]], and [[Reflective Thinking]] combine to form the cognitive control system that makes PKM effective rather than merely mechanical?
+- **Synthesis Focus**: How do [[Metacognition]], [[Self-Regulated-Learning]], and [[Reflective-Thinking]] combine to form the cognitive control system that makes PKM effective rather than merely mechanical?
 - **Disciplines**: Cognitive Psychology (metacognition), Educational Psychology (SRL, Zimmerman), Educational Philosophy (Dewey's reflective inquiry), Instructional Design (scaffolding)
 - **PKM/PKB Design Target**: Reflection templates, review protocols, self-assessment systems, learning journals
 - **Builds on**: Reports 01, 02 | **Feeds into**: Reports 06, 09, 12, 18
 
 **Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn**
-- **Synthesis Focus**: How do [[Self-Determination Theory]], [[Achievement Goal Theory]], and [[Mindset Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
+- **Synthesis Focus**: How do [[Self-Determination-Theory]], [[Achievement-Goal-Theory]], and [[Mindset Theory]] explain sustained engagement with a PKB, and how should PKM systems be designed to support intrinsic motivation?
 - **Disciplines**: Educational Psychology (SDT, AGT, mindset), Psychology of Learning (motivation), Stoic Philosophy (discipline, virtue), Learning Experience Design (engagement)
 - **PKM/PKB Design Target**: Gamification vs. genuine engagement, progress visibility, autonomy-supporting design, mastery orientation
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 08, 10, 13, 19
 
 **Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design**
-- **Synthesis Focus**: How do [[Spacing Effect]], [[Testing Effect]], [[Interleaving]], and [[Desirable Difficulties]] research combine with [[Encoding Specificity]] to inform PKB review and retrieval systems?
+- **Synthesis Focus**: How do [[Spacing-Effect]], [[Testing-Effect]], [[Interleaving]], and [[Desirable-Difficulties]] research combine with [[Encoding-Specificity]] to inform PKB review and retrieval systems?
 - **Disciplines**: Cognitive Psychology (memory research), Psychology of Learning (spacing, testing), Educational Psychology (transfer), Knowledge Management (retrieval systems)
 - **PKM/PKB Design Target**: Spaced repetition integration, active recall workflows, interleaved review, retrieval practice embedded in PKB
 - **Builds on**: Reports 01, 02, 04 | **Feeds into**: Reports 09, 12, 16, 20
 
 **Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance**
-- **Synthesis Focus**: How do [[Critical Thinking]] frameworks, [[Socratic Questioning]], [[Epistemic-Vigilance]], and [[Causal Reasoning]] combine to inform how a PKB user should evaluate, challenge, and refine the knowledge they store?
+- **Synthesis Focus**: How do [[Critical-Thinking]] frameworks, [[Socratic-Questioning]], [[Epistemic-Vigilance]], and [[Causal Reasoning]] combine to inform how a PKB user should evaluate, challenge, and refine the knowledge they store?
 - **Disciplines**: Cognitive Psychology (reasoning, biases), Educational Philosophy (Socratic method), Critical Thinking (PENCRISAL, Halpern), Metacognition (calibration)
 - **PKM/PKB Design Target**: Source evaluation workflows, argument mapping templates, questioning protocols, bias-checking systems
 - **Builds on**: Reports 03, 04 | **Feeds into**: Reports 11, 14, 18, 21
 
 **Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM**
-- **Synthesis Focus**: How do [[Dewey's Reflective Inquiry]], [[Kolb's Experiential Learning Cycle]], and [[Pragmatist Epistemology]] converge to inform how experience should be captured, processed, and transformed into knowledge within a PKB?
+- **Synthesis Focus**: How do [[Dewey's-Reflective-Inquiry]], [[Kolb's-Experiential-Learning-Cycle]], and [[Pragmatist-Epistemology]] converge to inform how experience should be captured, processed, and transformed into knowledge within a PKB?
 - **Disciplines**: Educational Philosophy (pragmatism, Dewey), Educational Psychology (experiential learning, Kolb), Metacognition (reflective practice), Knowledge Management (tacit-explicit conversion)
 - **PKM/PKB Design Target**: Experience capture templates, reflection workflows, learning journals, experiential processing protocols
 - **Builds on**: Reports 03, 04, 05 | **Feeds into**: Reports 12, 15, 19, 22
@@ -1793,47 +1793,47 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 - **PKM/PKB Design Target**: Complete PKB structural design framework
 
 **Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise**
-- **Synthesis Focus**: How do [[Pedagogy]], [[Andragogy]], and [[Heutagogy]] — combined with [[Cognitive Load Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
+- **Synthesis Focus**: How do [[Pedagogy]], [[Andragogy]], and [[Heutagogy]] — combined with [[Cognitive-Load-Theory]]'s expertise reversal effect — inform how PKB scaffolding should evolve as the user's expertise grows?
 - **Disciplines**: Educational Science (pedagogy/andragogy/heutagogy), Cognitive Psychology (expertise reversal), Instructional Design (scaffolding/fading), Self-Regulated Learning
 - **PKM/PKB Design Target**: Adaptive note structures, progressive complexity, expertise-sensitive review
 
 **Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts**
-- **Synthesis Focus**: Why does knowledge often fail to transfer from where it's learned to where it's needed, and how should PKB design specifically address [[Transfer-of-Learning]], [[Situated Cognition]], and [[Encoding Variability]]?
+- **Synthesis Focus**: Why does knowledge often fail to transfer from where it's learned to where it's needed, and how should PKB design specifically address [[Transfer-of-Learning]], [[Situated-Cognition]], and [[Encoding-Variability]]?
 - **Disciplines**: Educational Psychology (transfer), Cognitive Psychology (encoding variability), Instructional Design (contextualization), Educational Philosophy (pragmatism)
 - **PKM/PKB Design Target**: Cross-linking strategies, multiple representation, context-varied examples, application prompts
 
 **Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice**
-- **Synthesis Focus**: How can Zimmerman's [[Self-Regulated Learning]], Flavell's [[Metacognitive Monitoring]], and Dewey's [[Reflective Inquiry]] be embedded as structural features of a PKB rather than optional practices?
+- **Synthesis Focus**: How can Zimmerman's [[Self-Regulated-Learning]], Flavell's [[Metacognitive-Monitoring]], and Dewey's [[Reflective-Inquiry]] be embedded as structural features of a PKB rather than optional practices?
 - **Disciplines**: Metacognition, Educational Psychology, Educational Philosophy, Instructional Design
 - **PKM/PKB Design Target**: Automated reflection prompts, metacognitive dashboards, calibration tracking, learning process logs
 
 **Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science**
-- **Synthesis Focus**: How do [[Stoic Philosophy]]'s practices for emotional regulation and resilience intersect with [[Self-Determination Theory]]'s account of motivation maintenance and educational psychology's research on [[Academic Emotions]] and [[Learned Helplessness]]?
+- **Synthesis Focus**: How do [[Stoic-Philosophy]]'s practices for emotional regulation and resilience intersect with [[Self-Determination-Theory]]'s account of motivation maintenance and educational psychology's research on [[Academic-Emotions]] and [[Learned-Helplessness]]?
 - **Disciplines**: Stoic Philosophy, Educational Psychology (emotions, motivation), Cognitive Psychology (emotional regulation), Self-Determination Theory
 - **PKM/PKB Design Target**: Frustration management protocols, growth-oriented review systems, resilience-building practices embedded in PKB workflow
 
 **Report 14: Inquiry-Based Knowledge Building — Socratic and Pragmatist Methods in PKM**
-- **Synthesis Focus**: How do [[Socratic Questioning]], [[Dewey's Inquiry Model]], and [[Constructivist Learning Environments]] inform the design of inquiry-based workflows within a PKB — where learning emerges from questioning rather than passive storage?
+- **Synthesis Focus**: How do [[Socratic-Questioning]], [[Dewey's Inquiry Model]], and [[Constructivist Learning Environments]] inform the design of inquiry-based workflows within a PKB — where learning emerges from questioning rather than passive storage?
 - **Disciplines**: Educational Philosophy (Socratic method, pragmatism), Critical Thinking, Constructivism, Instructional Design (inquiry-based learning)
 - **PKM/PKB Design Target**: Question-driven note-taking, dialectical linking, assumption-surfacing templates, inquiry tracking
 
 **Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure**
-- **Synthesis Focus**: How do formal [[Knowledge Organization Systems]] (taxonomies, ontologies, folksonomies) interact with the emergent organizational patterns that cognitive science predicts will develop as a PKB grows — and what balance should the user strike?
+- **Synthesis Focus**: How do formal [[Knowledge-Organization-Systems]] (taxonomies, ontologies, folksonomies) interact with the emergent organizational patterns that cognitive science predicts will develop as a PKB grows — and what balance should the user strike?
 - **Disciplines**: Information Science, Knowledge Management (SECI, Nonaka), Cognitive Psychology (categorization), Library Science
 - **PKM/PKB Design Target**: Tag system architecture, emergent vs. imposed structure, scalable organization patterns
 
 **Report 16: Desirable Difficulties by Design — Making PKM Productively Hard**
-- **Synthesis Focus**: How do [[Desirable Difficulties]], [[Generation Effect]], [[Interleaving]], and [[Constructivist Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
+- **Synthesis Focus**: How do [[Desirable-Difficulties]], [[Generation-Effect]], [[Interleaving]], and [[Constructivist-Struggle]] combine to inform the design of PKB processes that are deliberately effortful in ways that strengthen learning?
 - **Disciplines**: Psychology of Learning, Cognitive Psychology, Constructivism, Instructional Design
 - **PKM/PKB Design Target**: Effortful processing workflows, generation-based review, interleaved study paths
 
 **Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn**
-- **Synthesis Focus**: How do research on [[Writing to Learn]], [[Elaborative Interrogation]], [[Self-Explanation]], and [[Schema Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
+- **Synthesis Focus**: How do research on [[Writing-to-Learn]], [[Elaborative-Interrogation]], [[self-explanation]], and [[Schema-Construction]] inform the actual process of creating notes — moving from passive capture to active knowledge construction?
 - **Disciplines**: Cognitive Psychology (elaboration, self-explanation), Educational Psychology (writing to learn), Constructivism, Knowledge Management
 - **PKM/PKB Design Target**: Note-making workflows, elaboration prompts, progressive summarization, knowledge construction templates
 
 **Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know**
-- **Synthesis Focus**: How do [[Metacognitive Calibration]], [[Dunning-Kruger research]], [[Socratic Ignorance]], and [[Epistemic Humility]] combine to inform PKB systems for tracking understanding quality — not just what you've stored, but how well you actually know it?
+- **Synthesis Focus**: How do [[Metacognitive-Calibration]], [[Dunning-Kruger research]], [[Socratic-Ignorance]], and [[Epistemic-Humility]] combine to inform PKB systems for tracking understanding quality — not just what you've stored, but how well you actually know it?
 - **Disciplines**: Metacognition, Cognitive Psychology (calibration, overconfidence), Socratic Philosophy, Educational Psychology (self-assessment)
 - **PKM/PKB Design Target**: Confidence tracking, mastery indicators, self-assessment protocols, calibration exercises
 
@@ -1844,23 +1844,23 @@ These reports synthesize Tier 1 foundations into sophisticated PKM/PKB design gu
 These reports tackle the most sophisticated integration challenges and edge cases.
 
 **Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years**
-- **Synthesis Focus**: How do [[SDT]]'s long-term motivation mechanisms, [[Stoic Discipline]], [[Habit Formation]] research, and [[Interest Development Theory]] combine to address the challenge of maintaining PKM practice over years and decades?
+- **Synthesis Focus**: How do [[SDT]]'s long-term motivation mechanisms, [[Stoic Discipline]], [[Habit-Formation]] research, and [[Interest-Development-Theory]] combine to address the challenge of maintaining PKM practice over years and decades?
 - **Disciplines**: Educational Psychology, Stoic Philosophy, Behavioral Science, SDT, Heutagogy
 
 **Report 20: Retrieval-Enhanced Knowledge Networks — Designing PKB for Active Recall**
-- **Synthesis Focus**: Integrating [[Testing Effect]], [[Spaced Repetition]], [[Elaborative Retrieval]], and [[Network Models of Memory]] into a unified retrieval architecture for PKBs.
+- **Synthesis Focus**: Integrating [[Testing-Effect]], [[Spaced-Repetition]], [[Elaborative-Retrieval]], and [[Network Models of Memory]] into a unified retrieval architecture for PKBs.
 - **Disciplines**: Cognitive Psychology, Educational Psychology, Knowledge Management, Instructional Design
 
 **Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement**
-- **Synthesis Focus**: How do [[Socratic Dialectic]], [[Argumentation Theory]], [[Thesis-Antithesis-Synthesis]], and [[Cognitive Conflict]] inform PKB practices for deepening understanding through structured intellectual disagreement with one's own notes?
+- **Synthesis Focus**: How do [[Socratic-Dialectic]], [[Argumentation-Theory]], [[Thesis-Antithesis-Synthesis]], and [[Cognitive Conflict]] inform PKB practices for deepening understanding through structured intellectual disagreement with one's own notes?
 - **Disciplines**: Philosophy (Socratic, dialectical), Critical Thinking, Educational Psychology (cognitive conflict), Knowledge Management
 
 **Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store**
-- **Synthesis Focus**: How do [[Polanyi's Tacit Knowledge]], [[Nonaka's SECI Model]], [[Embodied Cognition]], and [[Dreyfus's Skill Model]] inform the limits of a text-based PKB and suggest complementary practices for what cannot be captured in notes?
+- **Synthesis Focus**: How do [[Polanyi's Tacit Knowledge]], [[Nonaka's SECI Model]], [[Embodied-Cognition]], and [[Dreyfus's Skill Model]] inform the limits of a text-based PKB and suggest complementary practices for what cannot be captured in notes?
 - **Disciplines**: Knowledge Management, Philosophy of Mind, Cognitive Science, Educational Philosophy
 
 **Report 23: Learning Environments Design — The PKB as a Constructed Learning Space**
-- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[Zone of Proximal Development]], [[Learning Experience Design]], and [[Educational Technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
+- **Synthesis Focus**: How do [[Constructivist Learning Environments]], [[Zone-of-Proximal-Development]], [[Learning-Experience-Design]], and [[Educational Technology]] principles combine to frame the PKB as a designed learning environment rather than a mere storage system?
 - **Disciplines**: Educational Science, Constructivism, Learning Experience Design, Educational Technology
 
 **Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy**
@@ -1868,11 +1868,11 @@ These reports tackle the most sophisticated integration challenges and edge case
 - **Disciplines**: Educational Science, Heutagogy (Hase & Kenyon), SDT, Self-Regulated Learning
 
 **Report 25: The Integration Problem — How Separate Notes Become Connected Understanding**
-- **Synthesis Focus**: How do [[Knowledge Integration]], [[Conceptual Change]], [[Interconnected Knowledge]] research, and [[Graph Theory]] inform the challenge of transforming a collection of notes into genuinely connected understanding?
+- **Synthesis Focus**: How do [[Knowledge-Integration]], [[Conceptual-Change]], [[Interconnected Knowledge]] research, and [[Graph Theory]] inform the challenge of transforming a collection of notes into genuinely connected understanding?
 - **Disciplines**: Cognitive Psychology, Educational Psychology (conceptual change), Information Science (graph theory), Knowledge Management
 
 **Report 26: Feedback Loops in PKM — How the System Learns From Itself**
-- **Synthesis Focus**: How do [[Feedback in Learning]], [[Self-Regulation Cycles]], [[Learning Analytics]], and [[Iterative Design]] principles inform the design of feedback mechanisms within a PKB that help the user and the system continuously improve?
+- **Synthesis Focus**: How do [[Feedback in Learning]], [[Self-Regulation Cycles]], [[Learning-Analytics]], and [[Iterative Design]] principles inform the design of feedback mechanisms within a PKB that help the user and the system continuously improve?
 - **Disciplines**: Educational Psychology, Systems Theory, Learning Analytics, Instructional Design, Self-Regulated Learning
 
 ---
@@ -1887,15 +1887,15 @@ These reports operate at the meta-level, integrating the entire framework.
 - **PKM/PKB Design Target**: Comprehensive design specification document
 
 **Report 28: The Philosophy of Personal Knowledge — What It Means to "Know" in a PKB**
-- **Synthesis Focus**: How do [[Epistemology]], [[Pragmatist Truth]], [[Constructivist Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
+- **Synthesis Focus**: How do [[Epistemology]], [[Pragmatist-Truth]], [[Constructivist-Knowledge]], [[Stoic Wisdom]], and [[Socratic Knowing]] inform a coherent philosophy of what "knowledge" means in the context of a personal knowledge base?
 - **Disciplines**: Philosophy (epistemology, pragmatism, Stoicism, Socratic), Cognitive Science, Knowledge Management
 
 **Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work**
-- **Synthesis Focus**: How do [[Epistemic Virtues]], [[Intellectual-Humility]], [[Stoic Ethics]], and [[Critical Thinking Ethics]] inform responsible practices for knowledge curation, claim-making, and intellectual development within a PKB?
+- **Synthesis Focus**: How do [[Epistemic Virtues]], [[Intellectual-Humility]], [[Stoic-Ethics]], and [[Critical-Thinking-Ethics]] inform responsible practices for knowledge curation, claim-making, and intellectual development within a PKB?
 - **Disciplines**: Philosophy (virtue ethics, epistemology), Critical Thinking, Stoic Philosophy, Educational Philosophy
 
 **Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions**
-- **Synthesis Focus**: How are [[AI-Assisted Learning]], [[Retrieval-Augmented Generation]], [[Adaptive Learning Systems]], and emerging research in cognitive science and educational technology shaping the future of personal knowledge management?
+- **Synthesis Focus**: How are [[AI-Assisted Learning]], [[Retrieval-Augmented-Generation]], [[Adaptive Learning Systems]], and emerging research in cognitive science and educational technology shaping the future of personal knowledge management?
 - **Disciplines**: Educational Technology, AI/ML, Cognitive Science (emerging), Knowledge Management (future), Learning Experience Design
 
 ---
@@ -2005,8 +2005,8 @@ secondary_domains:
 related_concepts:
   - "[[Foundational Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -2073,7 +2073,7 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
 
 extends:
@@ -2087,10 +2087,10 @@ aliases:
   - "[[FRP v1.0]]"
   - "[[Report Generator - Foundational]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
 link_related:
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
@@ -2397,7 +2397,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Foundational Report Generator v1.0]]"
+generation-prompt: "[[Foundational-Report-Generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```
@@ -2995,8 +2995,8 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -3073,16 +3073,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 extends:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -3094,13 +3094,13 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Comparative Analysis Report Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
@@ -3449,7 +3449,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Test the reader's understanding of a critical concept BEFORE the report builds on it. This prevents the common failure mode where a reader loses the thread early but continues reading without real comprehension.
 
-**Cognitive Science Basis**: [[Elaborative Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
+**Cognitive Science Basis**: [[Elaborative-Interrogation]] — asking "why?" and "how?" questions about material forces deeper processing and better integration with existing knowledge.
 
 **Placement**: After introducing a critical concept that subsequent sections depend on. Placed within the text flow, not at section boundaries.
 
@@ -3462,7 +3462,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Help the reader assess and recalibrate their confidence in their understanding. Research on metacognition consistently shows that people overestimate their comprehension — calibration exercises correct this.
 
-**Cognitive Science Basis**: [[Calibration Training]] from [[Metacognitive Awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
+**Cognitive Science Basis**: [[Calibration Training]] from [[metacognitive-awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
 
 **Placement**: After particularly complex or dense sections. Used sparingly — 1-3 per report.
 
@@ -3834,7 +3834,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```

@@ -77,7 +77,7 @@ related-concepts:
   - "[[Cue-Routine-Reward Loop]]"
   - "[[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]"
   - "[[Reflective-Practice|Reflective Practice]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Automated Reflection Prompts]]"
   - "[[Calibration-Tracking|Calibration Tracking]]"
   - "[[Metacognitive Dashboard]]"

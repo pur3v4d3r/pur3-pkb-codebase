@@ -23,14 +23,14 @@ related_concepts:
   - "[[Comparative Analysis]]"
   - "[[Theoretical Integration]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking]]"
   - "[[Framework Comparison]]"
   - "[[Convergence Mapping]]"
   - "[[Complementarity Analysis]]"
@@ -113,14 +113,14 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
 
 extends:
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -131,13 +131,13 @@ aliases:
   - "[[CSRG v1.0]]"
   - "[[Report Generator - Comparative Synthesis]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Dialectical Re-Examination Report Generator v1.0]]"
   - "[[Academic Report Generator]]"

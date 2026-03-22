@@ -572,8 +572,8 @@ Enable automated extraction with inline fields:
 > High-level summary…
 
 ## Core Concepts
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## 🔗 Related Topics for PKB Expansion
 1. **[[Topic 1]]** - *Reasoning*
@@ -968,7 +968,7 @@ Use consistent formatting for seamless transitions.
 4. **NO** creating notes without running anti-duplication check first.
 5. **NO** orphan notes. Every note needs 2+ incoming and 2+ outgoing links.
 6. **NO** skipping the 5-tag metadata system.
-7. **NO** markdown links `[text](file.md)` for internal files — ALWAYS use `[[Wiki-Links]]`.
+7. **NO** markdown links `[text](file.md)` for internal files — ALWAYS use `[[wiki-links]]`.
 8. **NO** repeating failed approaches. After 2 failures, stop and consult user.
 9. **NO** hiding failures. Surface errors immediately.
 10. **NO** skipping memory file reads at session start.

@@ -192,16 +192,16 @@ link-related:
 >     ├── Complementary frameworks
 >     └── Advanced mastery pathways
 > Wiki-Link Opportunities (anticipated):
-> - [[Critical Thinking]]
+> - [[Critical-Thinking]]
 > - [[Metacognition]]
-> - [[Cognitive Biases]]
-> - [[Socratic Questioning]]
+> - [[Cognitive-Biases]]
+> - [[Socratic-Questioning]]
 > - [[Intellectual-Humility]]
-> - [[Bloom's Taxonomy]]
-> - [[Argumentation Theory]]
+> - [[Bloom's-Taxonomy]]
+> - [[Argumentation-Theory]]
 > - [[Logic]]
 > - [[Epistemology]]
-> - [[Self-Regulated Learning]]
+> - [[Self-Regulated-Learning]]
 > - [[Reasoning]]
 > - [[Inference]]
 > - [[Assumptions]]
@@ -326,13 +326,13 @@ The Foundation for Critical Thinking offers formal certification programs, estab
 
 ### Philosophical Underpinnings
 
-The framework rests on several foundational premises about [[human cognition]] and [[reasoning]]:
+The framework rests on several foundational premises about [[human cognition]] and [[Reasoning]]:
 
 **Universal Structure of Thought**: All reasoning, regardless of domain or context, contains identifiable structural elements. There are essential dimensions of thinking that humans need to master to learn how to deconstruct and upgrade their thinking, requiring the ability to identify the "parts" of thinking and assess their use. This universality enables cross-domain transfer of critical thinking skills.
 
 **Improvability Through Standards**: Good critical thinking requires having a command of intellectual standards, with the ultimate goal being for standards of reasoning to become infused in all thinking to guide better and better reasoning. The framework rejects the notion that thinking quality is fixed or intuitive, instead positioning it as developable through deliberate practice.
 
-**Integration of Cognition and Affect**: Elder's work has focused primarily on barriers to critical thinking development, particularly egocentric and sociocentric thought, with special interest in the relation of thought and emotion and the cognitive and affective dimensions. The framework recognizes that [[emotions]], [[cognitive biases]], and social pressures profoundly influence reasoning quality.
+**Integration of Cognition and Affect**: Elder's work has focused primarily on barriers to critical thinking development, particularly egocentric and sociocentric thought, with special interest in the relation of thought and emotion and the cognitive and affective dimensions. The framework recognizes that [[emotions]], [[Cognitive-Biases]], and social pressures profoundly influence reasoning quality.
 
 > [!principle-point]
 > **Central Principle: Fair-Minded Critical Thinking**
@@ -608,7 +608,7 @@ The elements do not function in isolation or strict sequence. Rather, they form 
 - Assumptions underlie our inferences
 - Implications feed back to refine purpose
 
-Skilled critical thinking requires holding all elements in awareness simultaneously while examining any specific element—a challenging feat of [[distributed cognition]] and [[working memory]] management.
+Skilled critical thinking requires holding all elements in awareness simultaneously while examining any specific element—a challenging feat of [[Distributed-Cognition]] and [[Working-Memory]] management.
 
 ---
 
@@ -740,7 +740,7 @@ Depth makes the argument thorough, forcing exploration of complexities, with an 
 > - **Core Question**: Do we need to look at this from another perspective? Do we need to consider another point of view? Is there another way to look at this question?
 > - **Definition**: The reasoning considers multiple perspectives, alternative frameworks, and diverse viewpoints.
 
-Breadth demands that additional viewpoints are taken into account, asking if all perspectives are considered, finding Breadth when all sides of an argument are discussed. Breadth combats narrow-mindedness and [[confirmation bias]], requiring genuine consideration of alternative frameworks.
+Breadth demands that additional viewpoints are taken into account, asking if all perspectives are considered, finding Breadth when all sides of an argument are discussed. Breadth combats narrow-mindedness and [[Confirmation-Bias]], requiring genuine consideration of alternative frameworks.
 
 **Breadth Requirements:**
 - Consider perspectives from different stakeholders
@@ -1144,9 +1144,9 @@ graph TD
 #### Phase 1: Analysis (Elements)
 The critical thinker begins by deconstructing reasoning into its fundamental components using the [[Elements of Thought]]. This analytical phase involves:
 - Identifying the [[purpose]] and [[Question-at-Issue]]
-- Surfacing [[assumptions]] and [[Point-of-View]]
-- Examining [[information]] and [[concepts]]
-- Tracing [[inferences]] and [[implications]]
+- Surfacing [[Assumptions]] and [[Point-of-View]]
+- Examining [[Information]] and [[Concepts]]
+- Tracing [[inferences]] and [[Implications]]
 
 #### Phase 2: Evaluation (Standards)
 With the elements identified, the thinker applies [[Universal Intellectual Standards]] to assess quality:
@@ -1343,7 +1343,7 @@ The framework provides a systematic template for analyzing existing arguments, t
 
 ### Self-Directed Learning Protocol
 
-The framework provides a structured approach to [[self-regulated learning]]:
+The framework provides a structured approach to [[Self-Regulated-Learning]]:
 
 #### Before Learning
 1. **Purpose**: Why am I learning this? What am I trying to accomplish?
@@ -1409,7 +1409,7 @@ For complex problems, apply the elements systematically:
 
 ### Daily Intellectual Routine
 
-For developing [[intellectual traits]] through consistent practice:
+For developing [[Intellectual-Traits]] through consistent practice:
 
 > [!helpful-tip]
 > **Daily Critical Thinking Practice**
@@ -1564,7 +1564,7 @@ The framework's discipline-neutral nature enables integration across fields:
 ### Strengths of the Framework
 
 #### Comprehensive Coverage
-The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[Epistemology]], [[logic]], and [[virtue ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
+The framework addresses cognitive (elements, standards) and affective (traits) dimensions, combining [[Epistemology]], [[Logic]], and [[Virtue-Ethics]] into an integrated system. Its discipline-neutral terminology makes it applicable across all subjects, professions, and domains of life, allowing for shared understanding and discussion of critical thinking skills.
 
 #### Systematic Structure
 The framework provides clear operational definitions and explicit criteria, moving critical thinking from vague aspiration to assessable skill set. It offers a common vocabulary for discussing, evaluating, and teaching critical thinking.

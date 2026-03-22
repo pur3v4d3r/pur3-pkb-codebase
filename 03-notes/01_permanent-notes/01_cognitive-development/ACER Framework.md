@@ -34,10 +34,10 @@ link-up:
   - "[[pkb-&-pkm-moc]]"
 link-related:
   - "[[2025-11-29|Daily-Note]]"
-  - "[[Bloom's Taxonomy]]"
-  - "[[Cognitive Architecture]]"
-  - "[[Critical Thinking Frameworks]]"
-  - "[[Paul-Elder Framework]]"
+  - "[[Bloom's-Taxonomy]]"
+  - "[[Cognitive-Architecture]]"
+  - "[[Critical-Thinking-Frameworks]]"
+  - "[[Paul-Elder-Framework]]"
 status: active
 
 
@@ -178,8 +178,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

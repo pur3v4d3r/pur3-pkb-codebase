@@ -14,8 +14,8 @@ link-related:
   - "[[Claude Project]]"
   - "[[Constitutional Ai]]"
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
-  - "[[Prompt Engineering]]"
+  - "[[Large-Language-Models]]"
+  - "[[Prompt-Engineering]]"
   - "[[Reinforcement Learning From Human Feedback]]"
   - "[[Gemini]]"
 maturity: seedling

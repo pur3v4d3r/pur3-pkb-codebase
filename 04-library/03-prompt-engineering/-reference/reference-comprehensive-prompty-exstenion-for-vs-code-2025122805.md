@@ -109,7 +109,7 @@ try {
 > <span style='color: #FFC700;'>**Prompty**</span> is a Microsoft-developed VS Code extension that standardizes LLM prompt development through a unified <span style='color: #72FFF1;'>`.prompty`</span> file format—combining prompt content, model configuration, and sample data in a single version-controlled asset. While designed primarily for [[OpenAI]] and [[Azure OpenAI]] workflows, it accelerates the "developer inner loop" of prompt engineering through rapid testing, preview capabilities, and code generation for production frameworks.
 
 > [!important] Critical Context for Your Setup
-> <span style='color: #FF00DC;'>**Key Limitation:**</span> Prompty does NOT natively integrate with [[Anthropic]] (Claude) or Google (Gemini) models. Your current setup uses [[Claude Code]] and [[Gemini Code Assist]], which are **separate tools** from Prompty. This reference note explains what Prompty does, its limitations, and strategic integration approaches for your multi-LLM prompt engineering library.
+> <span style='color: #FF00DC;'>**Key Limitation:**</span> Prompty does NOT natively integrate with [[Anthropic]] (Claude) or Google (Gemini) models. Your current setup uses [[Claude-Code]] and [[Gemini-Code-Assist]], which are **separate tools** from Prompty. This reference note explains what Prompty does, its limitations, and strategic integration approaches for your multi-LLM prompt engineering library.
 
 ## 📑 Table of Contents
 
@@ -424,9 +424,9 @@ model:
 > [!warning] Complexity Trade-Off
 > This approach adds <span style='color: #FF00DC;'>infrastructure complexity</span> and may not support all Prompty features (preview, tracing). Consider whether simpler approaches (direct API calls, alternative tools) better serve your workflow.
 
-### Comparison with [[Claude Code]]
+### Comparison with [[Claude-Code]]
 
-| Feature | Prompty | [[Claude Code]] |
+| Feature | Prompty | [[Claude-Code]] |
 |---------|---------|-----------------|
 | **Primary Use** | Prompt asset management | Agentic coding assistant |
 | **Provider** | Microsoft (OpenAI focus) | Anthropic (Claude only) |
@@ -446,8 +446,8 @@ model:
 
 Your setup involves:
 
-1. **[[Claude Code]]** — Anthropic's agentic coding assistant (VS Code + terminal)
-2. **[[Gemini Code Assist]]** — Google's coding assistant
+1. **[[Claude-Code]]** — Anthropic's agentic coding assistant (VS Code + terminal)
+2. **[[Gemini-Code-Assist]]** — Google's coding assistant
 3. **[[Obsidian]] PKB** — Markdown-based knowledge base run through VS Code
 4. **Prompt Engineering Library** — Cognitive science-backed prompt collection
 
@@ -669,7 +669,7 @@ This allows:
 > - Observable, traceable prompt iterations
 > 
 > <span style='color: #FF00DC;'>**Not ideal for:**</span>
-> - [[Anthropic]] (Claude) exclusive workflows (use [[Claude Code]] instead)
+> - [[Anthropic]] (Claude) exclusive workflows (use [[Claude-Code]] instead)
 > - [[Google]] (Gemini) exclusive workflows (no native support)
 > - Non-technical prompt iteration (web UIs may be simpler)
 > - Already-established workflows with other prompt management tools
@@ -679,11 +679,11 @@ This allows:
 ## 🔗 PKB Integration
 
 > [!connections-and-links] Related Concepts
-> - [[Prompt Engineering]] — Broader discipline of LLM interaction design
+> - [[Prompt-Engineering]] — Broader discipline of LLM interaction design
 > - [[Version Control]] — Git workflows for prompt asset management
 > - [[Markdown]] — Format foundation enabling PKB integration
 > - [[Jinja2]] — Templating engine for dynamic prompt content
-> - [[Claude Code]] — Complementary tool for agentic coding
+> - [[Claude-Code]] — Complementary tool for agentic coding
 > - [[Obsidian]] — PKB platform for prompt library storage
 > - [[LLM Development Tools]] — Ecosystem of prompt engineering platforms
 > - [[YAML]] — Metadata format for structured configuration
@@ -742,7 +742,7 @@ This allows:
 
 **Connection:** Best practices for treating prompts as code with proper version control
 **Depth Potential:** Comprehensive strategies for branching, commit conventions, PR reviews, and semantic versioning of prompts
-**Knowledge Graph Role:** Connects [[Version Control]] principles to [[Prompt Engineering]] practices
+**Knowledge Graph Role:** Connects [[Version Control]] principles to [[Prompt-Engineering]] practices
 **Priority:** High — essential for maintaining your prompt engineering library
 
 ### 3. **[[Jinja2 Templating for Dynamic Prompts]]**
@@ -756,7 +756,7 @@ This allows:
 
 **Connection:** Optimizing PKB management when using both Obsidian and VS Code simultaneously
 **Depth Potential:** Setup guide, plugin recommendations, sync strategies, and workflow patterns
-**Knowledge Graph Role:** Bridges [[Obsidian]] PKB practices with [[VS Code]] development workflows
+**Knowledge Graph Role:** Bridges [[Obsidian]] PKB practices with [[VS-Code]] development workflows
 **Priority:** Medium — enhances your specific setup efficiency
 
 ### 5. **[[Prompt Engineering Framework Comparison]]** *(Optional)*
@@ -770,7 +770,7 @@ This allows:
 
 **Connection:** Comparative analysis of AI coding assistants to inform tool selection
 **Depth Potential:** Feature comparison, workflow differences, and strategic use cases
-**Knowledge Graph Role:** Positions [[Claude Code]] within broader AI coding assistant landscape
+**Knowledge Graph Role:** Positions [[Claude-Code]] within broader AI coding assistant landscape
 **Priority:** Low — more about tool awareness than immediate actionability
 
 ---

@@ -35,10 +35,10 @@ link-up:
 link-related:
   - "[[2025-11-29|Daily-Note]]"
   - "[[ACER Framework]]"
-  - "[[Paul-Elder Framework]]"
-  - "[[Critical Thinking Frameworks]]"
-  - "[[Cognitive Architecture]]"
-  - "[[Critical Thinking]]"
+  - "[[Paul-Elder-Framework]]"
+  - "[[Critical-Thinking-Frameworks]]"
+  - "[[Cognitive-Architecture]]"
+  - "[[Critical-Thinking]]"
 status: active
 
 
@@ -53,7 +53,7 @@ review-priority: medium
 # Bloom's Taxonomy
 
 > [!definition]
-> - **Key-Term**: [[Bloom's Taxonomy]]
+> - **Key-Term**: [[Bloom's-Taxonomy]]
 > - **Definition**: 
 > - **Status**: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -88,8 +88,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

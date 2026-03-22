@@ -270,7 +270,7 @@ extraction_summary:
 > - **This report establishes**: The historical and conceptual foundation for all subsequent reports in the series — the origins of the school, the key figures, the core principles, the practical orientation
 > - **Builds directly into**: [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02), which develops the Stoic ethical framework in greater technical depth, moving beyond introduction into systematic analysis
 > - **Provides the biographical foundation for**: [[Stoicism and Emotional Resilience - Coping with Adversity]] (Report 06), which examines in detail how Marcus Aurelius and Epictetus applied Stoic principles in conditions of extreme adversity
-> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy of Control]], [[Virtue Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
+> - **Introduces the key concepts that**: All subsequent reports will presuppose and build upon — particularly the [[Dichotomy-of-Control]], [[Virtue-Ethics]], and the distinction between [[Preferred Indifferents]] and genuine goods
 > - **Connects outward to**: [[Stoicism and CBT - Similarities Differences and Integration]] (Report 10), which develops the psychological parallel introduced briefly in Part 4 of this report into a full comparative analysis
 
 #### 18. [KEY-TAKEAWAY] Untitled *(Line 494)*
@@ -362,24 +362,24 @@ extraction_summary:
 ### Unique Targets
 
 - [[Aaron Beck]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Aristotle]]
 - [[Chrysippus]]
 - [[Chrysippus — Systematic Stoic Doctrine]]
 - [[Cicero]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Cynicism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Eudaimonia]]
 - [[James Stockdale and Stoicism Under Fire]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Musonius Rufus — Roman Stoic Teacher]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot]]
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
@@ -399,11 +399,11 @@ extraction_summary:
 - [[The Stoa Poikile — Philosophy in the Agora]]
 - [[Thomas Aquinas]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Zeno of Citium]]
 - [[Zeus]]
 - [[fate]]
-- [[logic]]
+- [[Logic]]
 - [[mindfulness]]
 - [[negative visualization]]
 
@@ -422,27 +422,27 @@ extraction_summary:
 | 9 | [[Chrysippus]] | — | — | The Three Phases of Stoic History | 281 |
 | 10 | [[Seneca]] | — | — | The Three Phases of Stoic History | 287 |
 | 11 | [[Epictetus]] | — | — | The Three Phases of Stoic History | 287 |
-| 12 | [[Marcus Aurelius]] | — | — | The Three Phases of Stoic History | 287 |
+| 12 | [[Marcus-Aurelius]] | — | — | The Three Phases of Stoic History | 287 |
 | 13 | [[Epicureanism]] | — | — | The Three Phases of Stoic History | 290 |
 | 14 | [[Cynicism]] | — | — | The Three Phases of Stoic History | 290 |
-| 15 | [[logic]] | — | — | Philosophy as a Unified System | 298 |
+| 15 | [[Logic]] | — | — | Philosophy as a Unified System | 298 |
 | 16 | [[Stoic physics]] | physics | — | Philosophy as a Unified System | 298 |
 | 17 | [[Logos]] | — | — | Philosophy as a Unified System | 302 |
 | 18 | [[Zeus]] | — | — | Philosophy as a Unified System | 302 |
 | 19 | [[fate]] | — | — | Philosophy as a Unified System | 302 |
 | 20 | [[Virtue]] | — | — | Philosophy as a Unified System | 306 |
 | 21 | [[Preferred Indifferents]] | — | — | The Dichotomy of Control | 324 |
-| 22 | [[Dichotomy of Control]] | — | — | The Dichotomy of Control | 328 |
+| 22 | [[Dichotomy-of-Control]] | — | — | The Dichotomy of Control | 328 |
 | 23 | [[Prohairesis]] | — | — | The Dichotomy of Control | 337 |
 | 24 | [[Cicero]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 25 | [[Plutarch]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 26 | [[Stobaeus]] | — | — | Zeno of Citium (c. 334–262 BCE) | 354 |
 | 27 | [[Aaron Beck]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
 | 28 | [[Albert Ellis]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
-| 29 | [[Cognitive Behavioral Therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
-| 30 | [[Pierre Hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 417 |
-| 31 | [[Cognitive Behavioral Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
-| 32 | [[Acceptance and Commitment Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
+| 29 | [[Cognitive-Behavioral-Therapy]] | — | — | Chrysippus of Soli (c. 279–206 BCE) | 360 |
+| 30 | [[Pierre-Hadot]] | — | — | Part 4: The Stoic Toolkit — Practical... | 417 |
+| 31 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
+| 32 | [[Acceptance-and-Commitment-Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
 | 33 | [[Rational Emotive Behavior Therapy]] | — | — | Part 5: Stoicism and the Science of M... | 456 |
 | 34 | [[Albert Ellis]] | — | — | Part 5: Stoicism and the Science of M... | 458 |
 | 35 | [[mindfulness]] | — | — | Part 5: Stoicism and the Science of M... | 464 |
@@ -450,8 +450,8 @@ extraction_summary:
 | 37 | [[Thomas Aquinas]] | — | — | Part 5: Stoicism and the Science of M... | 466 |
 | 38 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 6: Integration — How This Connec... | 475 |
 | 39 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 6: Integration — How This Connec... | 476 |
-| 40 | [[Dichotomy of Control]] | — | — | Part 6: Integration — How This Connec... | 477 |
-| 41 | [[Virtue Ethics]] | — | — | Part 6: Integration — How This Connec... | 477 |
+| 40 | [[Dichotomy-of-Control]] | — | — | Part 6: Integration — How This Connec... | 477 |
+| 41 | [[Virtue-Ethics]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 42 | [[Preferred Indifferents]] | — | — | Part 6: Integration — How This Connec... | 477 |
 | 43 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 6: Integration — How This Connec... | 478 |
 | 44 | [[Eudaimonia]] | — | — | Conclusion: The Living Practice | 495 |
@@ -501,24 +501,24 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Aaron Beck]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Aristotle]]
 - [[Chrysippus]]
 - [[Chrysippus — Systematic Stoic Doctrine]]
 - [[Cicero]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Cynicism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epicureanism]]
 - [[Eudaimonia]]
 - [[James Stockdale and Stoicism Under Fire]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Musonius Rufus — Roman Stoic Teacher]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot]]
 - [[Plato]]
 - [[Platonism]]
 - [[Plutarch]]
@@ -538,11 +538,11 @@ extraction_summary:
 - [[The Stoa Poikile — Philosophy in the Agora]]
 - [[Thomas Aquinas]]
 - [[Virtue]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Zeno of Citium]]
 - [[Zeus]]
 - [[fate]]
-- [[logic]]
+- [[Logic]]
 - [[mindfulness]]
 - [[negative visualization]]
 
@@ -556,7 +556,7 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
 - [[Chrysippus]]
@@ -569,7 +569,7 @@ extraction_summary:
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Ancient Philosophy]]
 - [[Hellenistic Period]]
 
@@ -587,7 +587,7 @@ extraction_summary:
 - [[Cynicism]]
 - [[Platonism]]
 - [[Peripatetics]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Mindfulness]]
 
 ---

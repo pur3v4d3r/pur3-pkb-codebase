@@ -17,9 +17,9 @@ aliases:
   - Metacognitive Monitoring
 link-up: "[[🧠Report_A-Comprehensive-Analysis-of-Metacognition-as-the-Central-Integrating-Mechanism-for-Personal-Development_🆔20251028024951]]"
 link-related:
-  - "[[Metacognitive Regulation]]"
-  - "[[Metacognitive Knowledge]]"
-  - "[[Metacognitive Experiences]]"
+  - "[[Metacognitive-Regulation]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Experiences]]"
   - "[[Constructivist Learning]]"
   - "[[cog-psy-report-metacognitive-checkpoint-systems-for-real-time-cognitive-bias-detection-20251105183243]]"
 date created: 2025-11-04T03:45:54
@@ -37,11 +37,11 @@ review-priority: medium
 ---
 
 > [!definition]
-> [[Metacognitive Monitoring]]
+> [[Metacognitive-Monitoring]]
 > - **Definition**: The *assessment* of one's current **cognitive state**.
 
 > [!principle-point]
-> **The [[Metacognitive Monitoring]] Calibration Problem**
+> **The [[Metacognitive-Monitoring]] Calibration Problem**
 >
 > Metacognitive monitoring refers to the ability to assess the accuracy and reliability of one's own cognitive processes—to know what you know, recognize what you don't know, and estimate the likelihood that your judgments are correct. Effective decision-making requires well-calibrated metacognition: confidence judgments should track actual accuracy across contexts.
 >

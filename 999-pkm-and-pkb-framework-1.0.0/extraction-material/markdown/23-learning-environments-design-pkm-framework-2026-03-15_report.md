@@ -550,17 +550,17 @@ extraction_summary:
 - [[Educational-Technology-Affordances|Educational Technology Affordances]]
 - [[Encoding-Variability|Encoding Variability]]
 - [[Epistemic-Affordances|Epistemic Affordances]]
-- [[Frederic Bartlett]]
+- [[Frederic-Bartlett]]
 - [[Game Design Principles and Learning Environment Architecture]]
 - [[George Lakoff]]
 - [[Inquiry Notes]]
 - [[James Gibson]]
 - [[James Wertsch]]
-- [[John Sweller]]
+- [[John-Sweller]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]]
 - [[Leontiev]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky]]
 - [[Loris Malaguzzi]]
 - [[Mark Johnson]]
 - [[Mindtools]]
@@ -628,7 +628,7 @@ extraction_summary:
 | 19 | [[Mark Johnson]] | — | — | The Storage Metaphor and Its Costs | 161 |
 | 20 | [[David-Jonassen|David Jonassen]] | — | — | Constructivist Learning Environments:... | 170 |
 | 21 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | Constructivist Learning Environments:... | 170 |
-| 22 | [[Lev Vygotsky]] | — | — | Zone of Proximal Development and Scaf... | 182 |
+| 22 | [[Lev-Vygotsky]] | — | — | Zone of Proximal Development and Scaf... | 182 |
 | 23 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Zone of Proximal Development and Scaf... | 182 |
 | 24 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | Learning Experience Design: From UX t... | 194 |
 | 25 | [[James Gibson]] | — | — | Ecological Psychology and Affordances... | 203 |
@@ -646,9 +646,9 @@ extraction_summary:
 | 37 | [[Universal Design for Learning]] | — | — | Evidence on Digital Learning Environm... | 255 |
 | 38 | [[Schema-Construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
-| 40 | [[Frederic Bartlett]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 40 | [[Frederic-Bartlett]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 41 | [[Richard Anderson]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
-| 42 | [[John Sweller]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 42 | [[John-Sweller]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 43 | [[Inquiry Notes]] | — | — | Mechanism 1: Problem Centrality and t... | 282 |
 | 44 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 286 |
 | 45 | [[James Wertsch]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 288 |
@@ -730,17 +730,17 @@ extraction_summary:
 - [[Educational-Technology-Affordances|Educational Technology Affordances]]
 - [[Encoding-Variability|Encoding Variability]]
 - [[Epistemic-Affordances|Epistemic Affordances]]
-- [[Frederic Bartlett]]
+- [[Frederic-Bartlett]]
 - [[Game Design Principles and Learning Environment Architecture]]
 - [[George Lakoff]]
 - [[Inquiry Notes]]
 - [[James Gibson]]
 - [[James Wertsch]]
-- [[John Sweller]]
+- [[John-Sweller]]
 - [[Learning-Experience-Design|Learning Experience Design]]
 - [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]]
 - [[Leontiev]]
-- [[Lev Vygotsky]]
+- [[Lev-Vygotsky]]
 - [[Loris Malaguzzi]]
 - [[Mark Johnson]]
 - [[Mindtools]]

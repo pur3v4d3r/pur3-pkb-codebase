@@ -535,7 +535,7 @@ Output: Targeted linking opportunities
 ### Overview
 
 **Full Name**: Wiki-Link Integrity Validator
-**Primary Purpose**: Identify broken `[[Wiki-Links]]` pointing to non-existent notes
+**Primary Purpose**: Identify broken `[[wiki-links]]` pointing to non-existent notes
 **Criticality**: Important for publication readiness and user navigation
 **Integration**: Evaluation Protocol, Pre-Publication Checklist
 
@@ -589,10 +589,10 @@ def validate_wikilinks(vault_notes):
 **Wiki-Link Parsing**:
 ```yaml
 Patterns Recognized:
-  - Basic: [[Note Name]]
-  - Aliased: [[Note Name|Display Text]]
-  - Subheading: [[Note Name#Section]]
-  - Block: [[Note Name#^block-id]]
+  - Basic: [[Note-Name]]
+  - Aliased: [[Note-Name|Display Text]]
+  - Subheading: [[Note-Name#Section]]
+  - Block: [[Note-Name#^block-id]]
   - Folder: [[folder/Note Name]]
 
 Edge Cases Handled:
@@ -661,8 +661,8 @@ BROKEN LINKS DETECTED:
      - Remove link if no longer relevant
 
 2. Source: prompt-engineering-guide.md:45
-   Link: [[few-shot-learning]]
-   Context: "...using [[few-shot-learning]] techniques..."
+   Link: [[Few-Shot-Learning]]
+   Context: "...using [[Few-Shot-Learning]] techniques..."
    Issue: Target note does not exist
    Suggestions:
      - Create note: few-shot-learning.md
@@ -677,7 +677,7 @@ Typos (likely existing note with different spelling): 2
   - [[retrival-strategies]] → [[retrieval-strategies]]?
 
 Missing Notes (intentional ghost links): 3
-  - [[few-shot-learning]]
+  - [[Few-Shot-Learning]]
   - [[meta-prompting-techniques]]
   - [[constitutional-ai-principles]]
 

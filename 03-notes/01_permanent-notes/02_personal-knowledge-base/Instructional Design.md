@@ -17,8 +17,8 @@ link-related:
   - "[[Generative Ai]]"
   - "[[Andragogy]]"
   - "[[Constructivist Learning]]"
-  - "[[Educational Psychology]]"
-  - "[[Knowledge Management]]"
+  - "[[Educational-Psychology]]"
+  - "[[Knowledge-Management]]"
   - "[[Library Science]]"
   - "[[Pedagogy]]"
 maturity: seedling
@@ -34,7 +34,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Instructional Design]]
+> - **Key-Term**:: [[Instructional-Design]]
 > - [**Definition**:: Instructional design is the systematic process of designing, developing, and delivering learning experiences and materials to ensure the acquisition of knowledge and skills.]
 
 

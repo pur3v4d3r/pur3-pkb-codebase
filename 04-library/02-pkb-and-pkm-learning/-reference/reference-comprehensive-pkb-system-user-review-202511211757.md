@@ -43,7 +43,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 
 > [!abstract]
 > **Executive Overview**
-> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[obsidian]], integrating [[Periodic Notes]], [[Templater]], [[dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
+> This reference comprehensively documents the theory, practice, and technical implementation of systematic [[Personal Review Systems]] within [[Obsidian]], integrating [[Periodic Notes]], [[Templater]], [[Dataview]], and [[Calendar Plugin]] to create automated, sustainable [[Reflective-Practice]] workflows across daily, weekly, monthly, quarterly, and annual timeframes.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -73,7 +73,7 @@ aliases: [Personal Review System, PKB Review Framework, Periodic Review Methodol
 > [!the-philosophy]
 > **The Examined Life Principle**
 > 
-> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated Learning]] and [[Metacognitive-Development]].
+> Personal reviews transform scattered experiences into systematic learning. Without [[Reflective-Practice]], we repeat mistakes, forget insights, and lose track of progress. Reviews create the feedback loops essential for [[Self-Regulated-Learning]] and [[Metacognitive-Development]].
 
 ### The Purpose of Systematic Reviews
 
@@ -92,8 +92,8 @@ Different review frequencies serve distinct cognitive and practical purposes:
 
 | Review Type | Primary Function | Cognitive Focus | Time Investment |
 |-------------|------------------|-----------------|-----------------|
-| **Daily** | Capture & immediate reflection | [[Working Memory]] management | 5-15 minutes |
-| **Weekly** | Processing & planning | [[Executive Function]] optimization | 30-90 minutes |
+| **Daily** | Capture & immediate reflection | [[Working-Memory]] management | 5-15 minutes |
+| **Weekly** | Processing & planning | [[Executive-Function]] optimization | 30-90 minutes |
 | **Monthly** | Pattern analysis & goal alignment | [[Metacognition]] & strategic thinking | 45-120 minutes |
 | **Quarterly** | Direction assessment | Strategic evaluation & pivoting | 2-4 hours |
 | **Annual** | Identity & values alignment | Life trajectory & meaning-making | 4-8 hours |
@@ -182,7 +182,7 @@ Understanding why review systems break down is as important as understanding why
 ## 🏗️ Plugin Ecosystem Overview
 
 > [!what-this-does]
-> This section maps the complete plugin architecture required for a comprehensive review system in [[obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
+> This section maps the complete plugin architecture required for a comprehensive review system in [[Obsidian]]. Each plugin serves specific functions that, when integrated, create a seamless review workflow.
 
 ### Core Plugin Stack (Essential)
 
@@ -280,7 +280,7 @@ Yearly Notes:
 #### 3. Dataview Plugin
 
 > [!definition]
-> - **Dataview**:: [[dataview]]
+> - **Dataview**:: [[Dataview]]
 > - **Definition**:: Query language plugin that treats your vault as a database, enabling dynamic aggregation, filtering, and display of note data based on frontmatter, inline fields, tags, and content. Supports both declarative queries (DQL) and JavaScript (DataviewJS) for advanced operations.
 
 **Core Capabilities for Reviews**:
@@ -352,7 +352,7 @@ Yearly Notes:
 #### Tasks Plugin
 
 > [!definition]
-> - **Tasks Plugin**:: [[Tasks Plugin]]
+> - **Tasks Plugin**:: [[Tasks-Plugin]]
 > - **Definition**:: Advanced task management system with support for due dates, scheduled dates, recurring tasks, priorities, and powerful query syntax for task aggregation and filtering.
 
 **Why Essential for Reviews**:
@@ -385,7 +385,7 @@ Yearly Notes:
 #### Tracker Plugin
 
 > [!definition]
-> - **Tracker Plugin**:: [[Tracker Plugin]]
+> - **Tracker Plugin**:: [[Tracker-Plugin]]
 > - **Definition**:: Visualization plugin that renders charts and graphs from inline field data across multiple notes, enabling visual habit tracking and metric analysis.
 
 **Application in Reviews**:
@@ -759,7 +759,7 @@ Templates should reveal complexity gradually:
 
 > [!definition]
 > - **Daily Review**:: [[Daily Review]]
-> - **Definition**:: Brief end-of-day reflection (5-15 minutes) focused on capturing the day's events, processing immediate insights, and preparing for the next day. Primary function is [[Working Memory]] management and maintaining [[Open Loop]] hygiene.
+> - **Definition**:: Brief end-of-day reflection (5-15 minutes) focused on capturing the day's events, processing immediate insights, and preparing for the next day. Primary function is [[Working-Memory]] management and maintaining [[Open Loop]] hygiene.
 
 ### Purpose & Cognitive Function
 
@@ -2757,14 +2757,14 @@ Structural Planning:
 - Wiki-Link Opportunities:
   * [[Periodic Notes]]
   * [[Templater]]
-  * [[Personal Knowledge Management]]
+  * [[Personal-Knowledge-Management]]
   * [[Reflective-Practice]]
   * [[GTD (Getting Things Done)]]
-  * [[Spaced Repetition]]
+  * [[Spaced-Repetition]]
   * [[Zettelkasten]]
-  * [[Progressive Summarization]]
+  * [[Progressive-Summarization]]
   * [[Metacognition]]
-  * [[Self-Regulated Learning]]
+  * [[Self-Regulated-Learning]]
   * [[Calendar Plugin]]
   * [[Dataview]]
   * [[QuickAdd]]

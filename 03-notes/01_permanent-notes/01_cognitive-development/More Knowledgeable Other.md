@@ -16,7 +16,7 @@ link-up:
 link-related:
   - "[[Scaffolding-(Constructivist-Learning)]]"
   - "[[Constructivist Learning]]"
-  - "[[Zone Of Proximal Development]]"
+  - "[[Zone-of-Proximal-Development]]"
   - "[[Metacognition]]"
 date created: 2025-11-04T20:52:43
 date modified: 2025-11-05T21:48:00
@@ -32,4 +32,4 @@ review-interval: 3
 review-priority: medium
 ---
 
-The [[More Knowledgeable Other|MKO]] or [[More Knowledgeable Other]] uses [[Scaffolding-(Constructivist-Learning)|scaffolding]] to help support the student in accomplishing a task, that would otherwise (without the [[Scaffolding-(Constructivist-Learning)|Scaffolding]]) would have been impossible.
+The [[More-Knowledgeable-Other|MKO]] or [[More-Knowledgeable-Other]] uses [[Scaffolding-(Constructivist-Learning)|scaffolding]] to help support the student in accomplishing a task, that would otherwise (without the [[Scaffolding-(Constructivist-Learning)|Scaffolding]]) would have been impossible.

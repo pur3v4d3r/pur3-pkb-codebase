@@ -169,6 +169,6 @@ link-related:
 > - 🔑 **Evolution Tags**: Version, Modified, Evolution (for lifecycle tracking)
 > - 🔑 **Integration Tags**: Compatible, Platform, Tool (for technical requirements)
 
-This comprehensive tagging taxonomy provides the semantic infrastructure needed for intelligent component discovery, relationship mapping, and lifecycle management within your [[Prompt Component Library]]. Each tag dimension serves a specific organizational purpose while contributing to the overall [[Knowledge Graph]] that powers the [[Claude Librarian]] system.
+This comprehensive tagging taxonomy provides the semantic infrastructure needed for intelligent component discovery, relationship mapping, and lifecycle management within your [[Prompt Component Library]]. Each tag dimension serves a specific organizational purpose while contributing to the overall [[Knowledge-Graph]] that powers the [[Claude Librarian]] system.
 
 

@@ -26,10 +26,10 @@ link-related:
   - "[[Strategic Planning]]"
   - "[[Motivational Beliefs]]"
   - "[[Planning]]"
-  - "[[Working Memory]]"
+  - "[[Working-Memory]]"
   - "[[Getting Things Done (GTD)]]"
   - "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]"
-  - "[[Progressive Summarization]]"
+  - "[[Progressive-Summarization]]"
   - "[[Weekly Review]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Pomodoro Technique]]"
 maturity: seedling

@@ -42,13 +42,13 @@ link-up:
   - "[[educational-psychology-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
-  - "[[cognitive-architecture]]"
-  - "[[working-memory]]"
-  - "[[cognitive-load-theory]]"
-  - "[[executive-function]]"
+  - "[[Cognitive-Architecture]]"
+  - "[[Working-Memory]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Executive-Function]]"
   - "[[999-report-orginizing/in-pkm/2026-03-13/self-regulated-learning]]"
-  - "[[dual-process-theory]]"
-  - "[[distributed-cognition]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Distributed-Cognition]]"
   - "[[extended-mind]]"
 pillars:
   - Foundational Architecture
@@ -146,14 +146,14 @@ dv.paragraph(`**Total Cognitive Science Notes**: ${total}`);
 > [**Cognitive-Architecture**:: the theoretical framework describing the fundamental structures and processes underlying human cognition, including memory systems, attention mechanisms, and computational models of mind.]
 
 ### Core Concepts
-- [[Cognitive Science]] - Master overview of the field
-- [[Cognitive Architecture]] - Structural frameworks of mind
-- [[Cognitive Psychology]] - Experimental study of mental processes
-- [[Distributed Cognition]] - Cognition as system-level phenomenon
+- [[Cognitive-Science]] - Master overview of the field
+- [[Cognitive-Architecture]] - Structural frameworks of mind
+- [[Cognitive-Psychology]] - Experimental study of mental processes
+- [[Distributed-Cognition]] - Cognition as system-level phenomenon
 - [[Extended Mind]] - Mind beyond brain boundaries
 
 ### Theoretical Models
-- [[Dual Process Theory]] - System 1 (automatic) vs System 2 (deliberate)
+- [[Dual-Process-Theory]] - System 1 (automatic) vs System 2 (deliberate)
 - [[Signal Detection Theory]] - Decision-making under uncertainty
 - [[Information Theory]] - Quantifying information and communication
 
@@ -177,22 +177,22 @@ LIMIT 10
 > [**Memory-Systems**:: the cognitive architecture dividing memory into multiple interacting subsystems—working memory, long-term memory, episodic memory, semantic memory, and procedural memory—each with distinct properties, capacities, and neural substrates.]
 
 ### Primary Memory Systems
-- [[Working Memory]] - Active information maintenance
+- [[Working-Memory]] - Active information maintenance
   - [[Long-Term Working Memory]] - Expertise-driven capacity
-  - [[Cognitive Load Theory]] - Capacity limitations and optimization
-    - [[Intrinsic Load]] - Task complexity
-    - [[Extraneous Load]] - Design-imposed burden
-    - [[Germane Load]] - Schema construction effort
+  - [[Cognitive-Load-Theory]] - Capacity limitations and optimization
+    - [[Intrinsic-Load]] - Task complexity
+    - [[Extraneous-Load]] - Design-imposed burden
+    - [[Germane-Load]] - Schema construction effort
 
 ### Long-Term Storage
-- [[Long-Term Memory]] - Permanent knowledge storage
+- [[Long-Term-Memory]] - Permanent knowledge storage
 - [[Retrospective Memory]] - Past event recall
 - [[Curve Of Forgetting]] - Forgetting dynamics
 
 ### Applied Memory Techniques
-- [[Spaced Repetition]] - Optimal review scheduling
-- [[Progressive Summarization]] - Layered compression
-- [[Deliberate Practice]] - Skill acquisition through focused rehearsal
+- [[Spaced-Repetition]] - Optimal review scheduling
+- [[Progressive-Summarization]] - Layered compression
+- [[Deliberate-Practice]] - Skill acquisition through focused rehearsal
 
 ```dataview
 TABLE maturity, confidence, next-review
@@ -203,7 +203,7 @@ LIMIT 8
 ```
 
 > [!helpful-tip] Study Integration
-> Memory systems research directly informs [[Instructional Design]] and [[Learning Theory]]. See Pillar V for pedagogical applications.
+> Memory systems research directly informs [[Instructional-Design]] and [[Learning Theory]]. See Pillar V for pedagogical applications.
 
 ---
 
@@ -218,14 +218,14 @@ LIMIT 8
 - [[Higher-Order Cognition]] - Complex reasoning processes
 
 ### Executive Functions
-- [[Executive Function]] - Cognitive control overview
+- [[Executive-Function]] - Cognitive control overview
 - [[Cognitive Flexibility]] - Mental set-shifting
 - [[Inhibitory Control]] - Response suppression
-- [[Automation]] - Proceduralization of skills
+- [[automation]] - Proceduralization of skills
 
 ### Monitoring & Regulation
 - [[Cognitive Restructuring]] - Thought pattern modification
-- [[Cognitive Reappraisal]] - Emotion regulation via reinterpretation
+- [[Cognitive-Reappraisal]] - Emotion regulation via reinterpretation
 - [[Emotional Regulation]] - Affect management strategies
 
 ### Neural Substrates
@@ -244,7 +244,7 @@ LIMIT 4
 
 
 > [!example] Clinical Application
-> Executive dysfunction features prominently in [[Cognitive-Behavioral Therapy]] for [[Anxiety disorders]] and [[Major Depressive Disorder]], where [[Cognitive Distortions]] and [[Automatic Thoughts]] reflect impaired cognitive control.
+> Executive dysfunction features prominently in [[Cognitive-Behavioral-Therapy]] for [[Anxiety disorders]] and [[Major Depressive Disorder]], where [[Cognitive Distortions]] and [[Automatic Thoughts]] reflect impaired cognitive control.
 
 ---
 
@@ -255,24 +255,24 @@ LIMIT 4
 
 ### Developmental Foundations
 - [[Cognitive Development]] - Lifespan cognitive change
-- [[Educational Psychology]] - Learning in formal contexts
+- [[Educational-Psychology]] - Learning in formal contexts
 - [[Learning Theory]] - Principles of knowledge acquisition
 
 ### Self-Directed Learning
-- [[Self Directed Learning]] - Autonomous learning processes
-- [[Self-Regulated Learning]] - Metacognitive learning control
+- [[Self-Directed-Learning]] - Autonomous learning processes
+- [[Self-Regulated-Learning]] - Metacognitive learning control
 - [[Self-Regulation-Theory]] - Theoretical foundations
 - [[Self Behavioral Management]] - Behavioral self-control
 
 ### Instructional Applications
-- [[Instructional Design]] - Systematic learning design
+- [[Instructional-Design]] - Systematic learning design
 - [[Library Science]] - Information organization and access
 
 ### Psychological Foundations
-- [[Motivation Science]] - Drive and goal pursuit
-  - [[Motivational Psychology]] - Applied motivation research
-  - [[Self Determination Theory]] - Intrinsic motivation framework
-    - [[Intrinsic Motivation]] - Internal drive
+- [[motivation-science]] - Drive and goal pursuit
+  - [[Motivational-Psychology]] - Applied motivation research
+  - [[Self-Determination-Theory]] - Intrinsic motivation framework
+    - [[Intrinsic-Motivation]] - Internal drive
     - [[Competence]] - Mastery perception
     - [[Relatedness]] - Social connection need
   - [[Cognitive Theory]] - Mental representations of goals
@@ -286,7 +286,7 @@ LIMIT 10
 ```
 
 > [!analogy] Scaffolding Metaphor
-> Just as [[Deliberate Practice]] requires structured challenge incrementally above current skill level, cognitive development proceeds through [[Neuroplastic]] reorganization driven by optimally difficult tasks—neither too easy (no adaptation stimulus) nor too hard (cognitive overload).
+> Just as [[Deliberate-Practice]] requires structured challenge incrementally above current skill level, cognitive development proceeds through [[Neuroplastic]] reorganization driven by optimally difficult tasks—neither too easy (no adaptation stimulus) nor too hard (cognitive overload).
 
 ---
 
@@ -296,7 +296,7 @@ LIMIT 10
 > [**Metacognition**:: cognition about cognition—the awareness, monitoring, and regulation of one's own cognitive processes, including knowledge about strategies, task demands, and personal capabilities, coupled with executive control over learning and problem-solving.]
 
 ### Metacognitive Components
-- [[Epistemic Cognition]] - Thinking about knowledge itself
+- [[Epistemic-Cognition]] - Thinking about knowledge itself
 - [[Epistemic Accountability]] - Justification standards
 - [[Self-Compassion]] - Self-kindness during failure
 - [[Self-control strategies]] - Impulse regulation techniques
@@ -306,20 +306,20 @@ LIMIT 10
 - [[Pre Mortem Analysis]] - Prospective failure analysis
 - [[Prospective Hindsight]] - Imagined retrospection
 - [[Planning]] - Goal-directed action sequencing
-  - [[Habit Formation]] - Automaticity development
+  - [[Habit-Formation]] - Automaticity development
   - [[Pomodoro Technique]] - Time-boxed focus method
 
 ### Psychological Resilience
 - [[Psychological Resilience]] - Adversity adaptation
 - [[Mindfulness Meditation]] - Present-moment awareness
-- [[Flow Theory]] - Optimal experience states
+- [[Flow-Theory]] - Optimal experience states
 
 ### Cognitive Distortions & Corrections
 - [[Cognitive Distortions]] - Systematic thinking errors
   - [[Automatic Thoughts]] - Rapid, uncritical cognitions
   - [[Rumination]] - Perseverative negative thought
-- [[Cognitive Biases]] - Systematic judgment deviations
-  - [[Confirmation Bias]] - Belief-confirming evidence preference
+- [[Cognitive-Biases]] - Systematic judgment deviations
+  - [[Confirmation-Bias]] - Belief-confirming evidence preference
   - [[Anchoring Effect]] - Initial value over-influence
   - [[Availability-Heuristic]] - Ease-of-recall bias
   - [[Representativeness Heuristic]] - Stereotype-based judgment
@@ -334,7 +334,7 @@ LIMIT 12
 ```
 
 > [!warning] Metacognitive Trap
-> [**Illusions-Of-Comprehension**:: the metacognitive failure where learners overestimate their understanding due to fluency cues (ease of processing) that correlate weakly with actual comprehension—a core challenge in [[Self-Regulated Learning]].]
+> [**Illusions-Of-Comprehension**:: the metacognitive failure where learners overestimate their understanding due to fluency cues (ease of processing) that correlate weakly with actual comprehension—a core challenge in [[Self-Regulated-Learning]].]
 
 ---
 
@@ -344,22 +344,22 @@ LIMIT 12
 > This pillar bridges basic cognitive science with real-world applications in clinical psychology, education, philosophy, and performance optimization.
 
 ### Clinical Applications
-- [[Cognitive-Behavioral Therapy]] - Thought-behavior intervention
+- [[Cognitive-Behavioral-Therapy]] - Thought-behavior intervention
   - [[Anxiety disorders]] - Pathological worry and fear
   - [[Major Depressive Disorder]] - Depressive cognition patterns
 
 ### Philosophical Foundations
 - [[Stoicism]] - Ancient cognitive therapy
-  - [[Stoic Philosophy]] - Rational emotion management
-  - [[Dichotomy of Control]] - Internal/external locus distinction
-- [[Locus Of Control]] - Agency attribution
-- [[Socratic Method]] - Question-based inquiry
+  - [[Stoic-Philosophy]] - Rational emotion management
+  - [[Dichotomy-of-Control]] - Internal/external locus distinction
+- [[Locus-of-Control]] - Agency attribution
+- [[Socratic-Method]] - Question-based inquiry
 - [[Socratic Thinking]] - Critical reasoning approach
 - [[Pragmatism]] - Action-oriented epistemology
 
 ### Performance & Motivation
-- [[System 1]] - Fast, automatic processing
-- [[System 2]] - Slow, deliberate reasoning
+- [[System-1]] - Fast, automatic processing
+- [[System-2]] - Slow, deliberate reasoning
 
 ```dataview
 TABLE maturity, confidence, link-up
@@ -426,18 +426,18 @@ if (bridges.length > 0) {
 - [[Philosophy of Mind]] ↔ [[Extended Mind]] (consciousness theories)
 
 **Cognitive Science ↔ Neuroscience**
-- [[Working Memory]] ↔ [[Default Mode Network]] (neural correlates)
-- [[Neuroplasticity]] ↔ [[Habit Formation]] (synaptic change)
-- [[Executive Function]] ↔ [[Neural Networks]] (prefrontal systems)
+- [[Working-Memory]] ↔ [[Default Mode Network]] (neural correlates)
+- [[Neuroplasticity]] ↔ [[Habit-Formation]] (synaptic change)
+- [[Executive-Function]] ↔ [[Neural Networks]] (prefrontal systems)
 
 **Cognitive Science ↔ Education**
-- [[Cognitive Load Theory]] ↔ [[Instructional Design]] (design implications)
-- [[Spaced Repetition]] ↔ [[Curve Of Forgetting]] (optimal scheduling)
-- [[Self-Regulated Learning]] ↔ [[Deliberate Practice]] (skill mastery)
+- [[Cognitive-Load-Theory]] ↔ [[Instructional-Design]] (design implications)
+- [[Spaced-Repetition]] ↔ [[Curve Of Forgetting]] (optimal scheduling)
+- [[Self-Regulated-Learning]] ↔ [[Deliberate-Practice]] (skill mastery)
 
 **Cognitive Science ↔ Clinical Psychology**
-- [[Cognitive Biases]] ↔ [[Cognitive Distortions]] (systematic errors)
-- [[Cognitive Reappraisal]] ↔ [[Emotional Regulation]] (affect management)
+- [[Cognitive-Biases]] ↔ [[Cognitive Distortions]] (systematic errors)
+- [[Cognitive-Reappraisal]] ↔ [[Emotional Regulation]] (affect management)
 - [[Anxiety disorders]] ↔ [[Automatic Thoughts]] (pathological cognition)
 
 ---
@@ -568,7 +568,7 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
    - *Knowledge Graph Role*: Links Pillar I (architecture) with sensorimotor foundations
 
 2. **[[Situated-Cognition]]**
-   - *Connection*: Complements [[Distributed Cognition]] and [[Extended Mind]]
+   - *Connection*: Complements [[Distributed-Cognition]] and [[Extended Mind]]
    - *Depth Potential*: Environmental context effects on reasoning, learning, memory
    - *Knowledge Graph Role*: Cross-domain hub connecting cognition, ecology, education
 

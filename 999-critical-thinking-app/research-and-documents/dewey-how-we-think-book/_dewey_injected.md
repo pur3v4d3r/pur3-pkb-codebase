@@ -41,7 +41,7 @@ and why they are better can, if he will, change his own personal ways until they
 say, they do better the work that thinking can do and that 
 other mental operations cannot do so well. The better way 
 of thinking that is to be considered in this book is called 
-[[Reflective Thinking|reflective thinking]]: the kind of thinking that consists in 
+[[Reflective-Thinking|reflective thinking]]: the kind of thinking that consists in 
 turning a subject over in the mind and giving it serious 
 and consecutive consideration. Before we take up this main 
 theme, we shall, however, first take note briefly of some 
@@ -556,7 +556,7 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 >
 > **💡 Analyst's Insight:** This example crystallizes Dewey's theory of inference: the difference between mere association and genuine thinking lies in whether an objective connection — a causal or structural link in reality — underwrites the move from evidence to conclusion. The same logical point is now central to Bayesian epistemology and to evidence-based medicine's hierarchy of evidence types.
 
-> [!info] Concept — [[Reflective Thinking]]
+> [!info] Concept — [[Reflective-Thinking]]
 > **Definition:** A disciplined mental process in which a sequence of ideas is held together not by free association but by logical entailment, each step growing out of the last and the whole directed toward resolving a specific perplexity through evidence.
 >
 > **Why It Matters:** By distinguishing reflective thinking from daydreaming, storytelling, and passive belief, Dewey gives educators a precise target: they are not cultivating thought in general but this specific disposition to suspend judgment and pursue evidence. The distinction also explains why rote drill and passive reception of facts do not develop thinking — they bypass the initiating condition of genuine perplexity.
@@ -616,7 +616,7 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 
 ### 🧠 Core Concepts Introduced
 
-- **[[Reflective Thinking]]**: A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds.
+- **[[Reflective-Thinking]]**: A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds.
 - **[[Stream-of-Consciousness]]**: The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding.
 - **[[Signification]]**: The objective relationship between an observed fact and an unobserved conclusion, where the observed fact functions as genuine evidence because a real causal or structural connection links it to what is inferred.
 - **[[Perplexity]]**: A state of felt confusion or doubt arising when habitual activity is interrupted by an unexpected situation — the necessary and sufficient initiating condition for reflective thought.
@@ -1500,7 +1500,7 @@ and it needs some object in order to act. The sum total
 of these outgoing tendencies constitutes curiosity. It is the 
 basic factor in enlargement of experience and therefore a 
 prime ingredient in the germs that are to be developed inta 
-[[Reflective Thinking|reflective thinking]]. 
+[[Reflective-Thinking|reflective thinking]]. 
 
 
 Three Stages, or Levels, of Curiosity 
@@ -3096,7 +3096,7 @@ its own form, and so on. The logical person inspects to make
 sure of his **data**. Finally, the thoughtful person ‘ puts two 
 and two together.’ He reckons, calculates, casts up an account. The word ‘ reason’ is connected etymologically with
 the word ‘ratio.’ The underlying idea here is exactness of 
-relationship. All [[Reflective Thinking|reflective thinking]] is a process of detecting 
+relationship. All [[Reflective-Thinking|reflective thinking]] is a process of detecting 
 relations; the terms just used indicate that good thinking is 
 not contented with finding ‘ any old kind’ of relation but 
 searches until a relation is found that is as accurately defined as conditions permit.
@@ -3681,7 +3681,7 @@ Chapter Five draws a fundamental contrast between formal logic as an abstract, t
 
 
 We have in previous chapters given an outline account of 
-the nature of [[Reflective Thinking|reflective thinking]]. We have stated some reasons why it is necessary to use educational means to secure
+the nature of [[Reflective-Thinking|reflective thinking]]. We have stated some reasons why it is necessary to use educational means to secure
 its development and have considered the intrinsic resources, 
 the difficulties, and ulterior purpose of its educational training — the formation of disciplined **logical** ability to think.
 We come now to some descriptions of simple genuine cases 
@@ -4477,7 +4477,7 @@ found; and he looks particularly to see if just these conditions are present. Th
 are brought under control; the sense of the problem becomes more adequate and refined and the suggestion ceases
 
 
-ANALYSIS OF [[Reflective Thinking|REFLECTIVE THINKING]] 1} 
+ANALYSIS OF [[Reflective-Thinking|REFLECTIVE THINKING]] 1} 
 
 
 to be a mere possibility, becoming a tested and, if possible, 
@@ -6109,7 +6109,7 @@ Chapter Nine opens by distinguishing three cognitive states: brute-thing confusi
 ### 🧠 Core Concepts Introduced
 
 - **[[Idea]]**: A provisionally accepted meaning held in suspense as a possibility rather than asserted as fact; logically defined by its function of directing inquiry, not by its psychological structure or imagery.
-- **[[Understanding]]**: The grasp of meaning — the integration of a thing or event into a relational web of causes, consequences, and uses such that it is no longer a mere brute particular but a known object.
+- **[[understanding]]**: The grasp of meaning — the integration of a thing or event into a relational web of causes, consequences, and uses such that it is no longer a mere brute particular but a known object.
 - **[[Means-Consequence Relation]]**: The structural core of all meaning: a thing is understood when grasped either as a means to a consequence or as a consequence requiring discovery of means.
 - **[[Apprehension vs. Comprehension]]**: Apprehension is the direct, immediate recognition of meaning through established familiarity; comprehension is the indirect, mediated achievement of meaning through reflective inquiry.
 - **[[Brute Thing]]**: An object or event whose relations to other things are not yet grasped — it exists in experience as a mere stimulus or obstacle rather than as an understood, meaningful entity.
@@ -6921,7 +6921,7 @@ adequate evidence of the visit of a burglar; if the conditions
 were very unusual, there would be nothing but to continue. 
 thinking of further possibilities and looking for further facts 
 as data by which to test them. The instance is taken from 
-ordinary life. [[Scientific Method|Scientific method]] represents the same sort of 
+ordinary life. [[Scientific-Method|Scientific method]] represents the same sort of 
 thing carried on with greater elaborateness, by means especially of instruments and apparatus devised for the purpose
 and of mathematical calculations. 
 
@@ -7704,7 +7704,7 @@ every complete act of reflective inquiry makes provision for
 experimentation — for testing suggested and accepted principles by employing them for the active construction of new
 cases, in which new qualities emerge. Only slowly do our 
 schools accommodate themselves to the general advance of 
-[[Scientific Method|scientific method]]. From the scientific side, it is demonstrated 
+[[Scientific-Method|scientific method]]. From the scientific side, it is demonstrated 
 that effective and integral thinking is possible only where 
 the experimental method in some form is used. Some recognition of this principle is evinced in higher institutions of
 learning, colleges, and high schools. But in elementary education, it is still assumed, for the most part, that the pupil’s
@@ -7848,7 +7848,7 @@ Chapter Twelve complements the preceding treatment of evidential control by addr
 
 
 Many of our ordinary inferences, in fact all of them that 
-have not been regulated by [[Scientific Method|scientific method]], are **empirical** 
+have not been regulated by [[Scientific-Method|scientific method]], are **empirical** 
 in character; that is to say, they are in effect habits of expectation based upon some regular conjunction or coinci-
 dence in the **experience** of the past. Whenever two things are 
 associated together, like, say, thunder and lightning, there 
@@ -11577,7 +11577,7 @@ and turning back in scrutiny, should alternate. Unconscious-
 ness gives spontaneity and freshness; consciousness, command and control.
 
 
-An Illustration from Control of [[Reflective Thinking|Reflective Thinking]] 
+An Illustration from Control of [[Reflective-Thinking|Reflective Thinking]] 
 
 
 The point may be illustrated by the analysis in this volume of the phases of reflective activity. Some readers may

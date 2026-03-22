@@ -509,7 +509,7 @@ Now you'll create a note that USES the concept, which will automatically appear 
 ## 📊 Metadata
 
 [FieldName1]:: [Value]
-[FieldName2]:: [[Concept 1]], [[Concept 2]]
+[FieldName2]:: [[Concept-1]], [[Concept-2]]
 [FieldName3]:: [Value]
 ```
 
@@ -518,7 +518,7 @@ Now you'll create a note that USES the concept, which will automatically appear 
 ## 📊 Research Metadata
 
 StudyType:: Experimental
-Theories:: [[Working Memory]], [[Cognitive Load Theory]]
+Theories:: [[Working-Memory]], [[Cognitive-Load-Theory]]
 Paradigm:: Cognitivist
 Population:: University students, N=85
 KeyFindings:: WM training showed no far transfer to fluid intelligence
@@ -718,7 +718,7 @@ You should see your application note appear in the self-discovery query table!
 **Diagnosis Checklist**:
 1. **Did you link to the concept?**
    - Open application note
-   - Search for `[[Concept Name]]`
+   - Search for `[[Concept-Name]]`
    - If missing → Add the link and save
 
 2. **Is the folder path correct in query?**
@@ -741,7 +741,7 @@ You should see your application note appear in the self-discovery query table!
 **Solution Steps**:
 ```markdown
 1. Open application note
-2. Ensure: [FieldName]:: [[Concept Name]]
+2. Ensure: [FieldName]:: [[Concept-Name]]
 3. Save application note
 4. Open concept note
 5. Verify FROM path matches actual folder
@@ -823,7 +823,7 @@ Not:
 
 2. **Verify links**
    - Open an application note
-   - Does it contain `[[Concept Name]]`?
+   - Does it contain `[[Concept-Name]]`?
    - Is concept name spelled exactly right?
 
 3. **Check query path**
@@ -858,11 +858,11 @@ If this shows files, but main query doesn't, problem is in WHERE clause.
 ```markdown
 ❌ Wrong:
 studytype:: Experimental
-Theories:: [[Working Memory]]
+Theories:: [[Working-Memory]]
 
 ✅ Correct (for Cognitive Science):
 StudyType:: Experimental
-Theories:: [[Working Memory]]
+Theories:: [[Working-Memory]]
 ```
 
 ---

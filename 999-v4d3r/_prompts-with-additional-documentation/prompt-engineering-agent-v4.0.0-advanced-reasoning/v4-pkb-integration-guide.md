@@ -456,12 +456,12 @@ RESULT: PASS → Generating deliverable
 4. ✅ PKB-ready format:
    - YAML tags: `#rag #synthesis #cot #constitutional #academic`
    - Inline fields: `[**CoT-Reasoning-Protocol**:: ...]`
-   - Wiki-links: `[[Chain of Thought]]`, `[[Constitutional AI]]`, `[[RAG Systems]]`
+   - Wiki-links: `[[Chain-of-Thought]]`, `[[Constitutional AI]]`, `[[RAG Systems]]`
    - Expansion topics: 6 suggested PKB notes
 
 **Integration into Your PKB:**
 - Becomes a reference note: "RAG Synthesis Prompt - Academic Papers"
-- Links to existing notes: `[[Chain of Thought]]`, `[[Constitutional AI]]`
+- Links to existing notes: `[[Chain-of-Thought]]`, `[[Constitutional AI]]`
 - Generates 6 new note seeds from expansion topics
 - Tag trace allows future refinement based on usage data
 

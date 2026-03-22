@@ -22,7 +22,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 ### 1. Cognitive Architecture & Memory Science
 
 #### 1.1 Schema Theory
-- **[[Schema Theory]]** — Mental framework structuring knowledge; determines encoding and retrieval [Reports 01, 02, 03]
+- **[[Schema-Theory]]** — Mental framework structuring knowledge; determines encoding and retrieval [Reports 01, 02, 03]
   - [[Schema Assimilation]] — Incorporating new information into existing schema without restructuring
   - [[Schema-Accommodation]] — Restructuring existing schema to incorporate incompatible new information
   - [[Schema Activation]] — Triggering of relevant schemas during knowledge encoding
@@ -34,18 +34,18 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
   - [[Associative Network]] — The underlying architecture of semantic memory
 - **[[Forgetting-Curve]]** — Exponential decay of memory trace over time (Ebbinghaus) [Report 06]
 - **[[Encoding-Specificity-Principle]]** — Retrieval maximized when retrieval cues match encoding cues (Tulving) [Reports 06, 11]
-- **[[Memory Consolidation]]** — Process by which memories become stable; sleep-dependent component [Report 06]
-- **[[Testing-Effect]]** / **[[Retrieval Practice Effect]]** — Active retrieval produces dramatically better retention than passive re-study (Roediger & Karpicke) [Reports 06, 16, 20]
+- **[[Memory-Consolidation]]** — Process by which memories become stable; sleep-dependent component [Report 06]
+- **[[Testing-Effect]]** / **[[Retrieval-Practice-Effect]]** — Active retrieval produces dramatically better retention than passive re-study (Roediger & Karpicke) [Reports 06, 16, 20]
 - **[[Generation-Effect]]** — Self-generated content is better remembered than externally provided content [Reports 17, 16]
 - **[[Fluency-Illusion]]** — Overestimation of learning produced by re-reading familiar material (Bjork) [Reports 06, 12, 18]
 - **[[Retrieval-Induced-Forgetting]]** — Retrieving some items from memory can impair retrieval of related items [Report 06]
 
 #### 1.3 Working Memory & Cognitive Load
-- **[[Working Memory]]** — Limited-capacity conscious processing system (~4 novel elements) (Baddeley) [Report 02]
-- **[[Cognitive Load Theory]]** (CLT) — Framework for managing working memory load in learning (Sweller) [Reports 02, 10]
-  - [[Intrinsic Load]] — Load inherent to the complexity of the material
-  - [[Extraneous Load]] — Load caused by poor design; reduces learning
-  - [[Germane Load]] — Load that contributes to schema formation; productive
+- **[[Working-Memory]]** — Limited-capacity conscious processing system (~4 novel elements) (Baddeley) [Report 02]
+- **[[Cognitive-Load-Theory]]** (CLT) — Framework for managing working memory load in learning (Sweller) [Reports 02, 10]
+  - [[Intrinsic-Load]] — Load inherent to the complexity of the material
+  - [[Extraneous-Load]] — Load caused by poor design; reduces learning
+  - [[Germane-Load]] — Load that contributes to schema formation; productive
   - [[Expertise-Reversal-Effect]] — Scaffolding that helps novices becomes load-inducing for experts [Reports 02, 10]
 
 ---
@@ -78,7 +78,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 - **[[Pedagogy]]** — Teacher-directed learning for novices [Report 10]
 - **[[Andragogy]]** — Self-directed adult learning (Knowles) [Report 10]
 - **[[Heutagogy]]** — Self-determined learning; learner designs the learning process itself (Hase & Kenyon) [Reports 10, 24]
-- **[[Zone of Proximal Development]]** (ZPD) — Distance between independent and supported performance (Vygotsky) [Reports 10, 23, 30]
+- **[[Zone-of-Proximal-Development]]** (ZPD) — Distance between independent and supported performance (Vygotsky) [Reports 10, 23, 30]
 - **[[Scaffolding and Fading]]** — Providing then gradually removing learning supports as competence develops [Report 10]
 - **[[Dreyfus-Skill-Acquisition-Model]]** — Five-stage novice-to-expert trajectory (Dreyfus & Dreyfus) [Reports 10, 22]
 
@@ -88,16 +88,16 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 #### 3.1 Metacognitive Architecture
 - **[[Metacognition]]** — Thinking about one's own thinking; knowledge and regulation of cognitive processes (Flavell) [Reports 04, 12]
-  - [[Metacognitive Knowledge]] — Knowledge about cognition, tasks, and strategies
-  - [[Metacognitive Monitoring]] — Ongoing assessment of one's cognitive state
-  - [[Metacognitive Control]] — Adjusting strategies in response to monitoring
+  - [[Metacognitive-Knowledge]] — Knowledge about cognition, tasks, and strategies
+  - [[Metacognitive-Monitoring]] — Ongoing assessment of one's cognitive state
+  - [[Metacognitive-Control]] — Adjusting strategies in response to monitoring
 - **[[Judgment-of-Learning]]** (JOL) — Prospective assessment of future memory performance; typically miscalibrated [Reports 06, 12, 18]
-- **[[Feeling of Knowing]]** — Sense that one will be able to retrieve information; often unreliable [Report 12]
+- **[[Feeling-of-Knowing]]** — Sense that one will be able to retrieve information; often unreliable [Report 12]
 - **[[Calibration]]** — Accuracy of correspondence between confidence and actual knowledge [Reports 12, 18]
 - **[[Dunning-Kruger-Effect]]** — Incompetent individuals overestimate their competence [Reports 18, 07]
 
 #### 3.2 Self-Regulated Learning
-- **[[Self-Regulated Learning]]** (SRL) — Metacognitively guided, motivationally active, behaviorally engaged learning (Zimmerman) [Reports 04, 12]
+- **[[Self-Regulated-Learning]]** (SRL) — Metacognitively guided, motivationally active, behaviorally engaged learning (Zimmerman) [Reports 04, 12]
   - [[Zimmerman-SRL-Model]] — Three-phase cycle: Forethought → Performance → Self-Reflection [Reports 04, 12]
   - [[Monitoring-Control Loop]] — Core mechanism of self-regulation [Report 04]
 - **[[Implementation-Intentions]]** — If-then plans that automate intention-to-behavior conversion (Gollwitzer) [Report 12]
@@ -156,11 +156,11 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 ### 6. Motivational Psychology
 
-- **[[Self-Determination Theory]]** (SDT) — Autonomous motivation requires satisfaction of Autonomy, Competence, and Relatedness needs (Deci & Ryan) [Reports 05, 24]
+- **[[Self-Determination-Theory]]** (SDT) — Autonomous motivation requires satisfaction of Autonomy, Competence, and Relatedness needs (Deci & Ryan) [Reports 05, 24]
 - **[[Achievement-Goal-Theory]]** — Mastery-approach vs. performance-approach vs. performance-avoidance goals (Elliot, Dweck) [Reports 05, 13]
 - **[[Mindset Theory]]** — Growth mindset (intelligence is developable) vs. fixed mindset (Dweck) [Reports 05, 13]
-- **[[Intrinsic Motivation]]** — Motivation arising from inherent interest or enjoyment; most durable [Reports 05, 13, 19]
-- **[[Habit Formation]]** — Neural pathway formation through cue-routine-reward repetition [Reports 12, 19, 29]
+- **[[Intrinsic-Motivation]]** — Motivation arising from inherent interest or enjoyment; most durable [Reports 05, 13, 19]
+- **[[Habit-Formation]]** — Neural pathway formation through cue-routine-reward repetition [Reports 12, 19, 29]
 
 ---
 
@@ -173,7 +173,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
   - [[Epistemic-Humility]] — Calibrated modesty about the limits of one's knowledge [Reports 18, 29]
 - **[[Stoic-Ethics]]** — Epictetus, Marcus Aurelius; Dichotomy of Control; Prosoche; Synkatathesis [Reports 07, 13, 29]
   - [[Stoic-Assent]] (Synkatathesis) — Act of accepting or rejecting an impression as accurately representing reality [Report 29]
-  - [[Dichotomy of Control]] — Focus only on what is genuinely within one's control [Reports 07, 13]
+  - [[Dichotomy-of-Control]] — Focus only on what is genuinely within one's control [Reports 07, 13]
 - **[[Epistemic-Justice]]** — Whose testimony and experience is recognized as credible knowledge (Fricker) [Report 29]
 - **[[Pragmatism]]** — Dewey, Peirce; truth as what works; Fallibilism; inquiry as problem-solving [Reports 07, 08, 14]
 
@@ -181,8 +181,8 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 ### 8. AI-Enhanced PKM
 
-- **[[Extended Mind Theory]]** — Cognitive tools can become genuine components of a distributed cognitive system (Clark & Chalmers) [Report 30]
-- **[[Cognitive Offloading]]** — Using external resources to reduce working memory demand [Report 30]
+- **[[Extended-Mind-Theory]]** — Cognitive tools can become genuine components of a distributed cognitive system (Clark & Chalmers) [Report 30]
+- **[[Cognitive-Offloading]]** — Using external resources to reduce working memory demand [Report 30]
   - [[Storage Offloading]] — Offloading memory storage (generally beneficial) [Report 30]
   - [[Synthesis Offloading]] — Offloading reasoning and construction (generally harmful for learning) [Report 30]
   - [[Offloading Quality Distinction]] — The critical difference between beneficial and harmful AI assistance [Report 30] ***ORIGINAL SYNTHESIS***
@@ -196,7 +196,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 | Concept A | Relationship Type | Concept B | Strength |
 |-----------|------------------|-----------|----------|
-| [[Cognitive-Alignment-Principle]] | derives from | [[Schema Theory]] + [[KOS]] | Strong |
+| [[Cognitive-Alignment-Principle]] | derives from | [[Schema-Theory]] + [[KOS]] | Strong |
 | [[Cognitive-Alignment-Principle]] | mandates | [[Three-Tier-Note-Architecture]] | Strong |
 | [[Testing-Effect]] | contradicts | [[Fluency-Illusion]] | Strong |
 | [[Desirable-Difficulties]] | conflicts with | AI convenience | Strong |
@@ -205,7 +205,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 | [[Structural-Metacognition-Principle]] | operationalizes | [[Zimmerman-SRL-Model]] | Moderate |
 | [[Tacit-Knowledge-Observatory]] | reframes | PKB comprehensiveness aspiration | Strong |
 | [[Integration-Metabolism]] | implements | [[Knowledge-Integration]] | Moderate |
-| [[Virtue-Epistemology]] | bridges with | [[Habit Formation]] | Moderate |
+| [[Virtue-Epistemology]] | bridges with | [[Habit-Formation]] | Moderate |
 | [[Inert-Knowledge]] | is produced by | enrichment without restructuring | Strong |
 | [[Weak Ties]] | are analogous to | variable encoding contexts | Moderate |
 | [[Betweenness-Centrality]] | identifies | integration bridge notes | Strong |
@@ -215,11 +215,11 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 
 ## Hub Concepts (Most Connected — Appearing in 5+ Reports)
 
-1. **[[Schema Theory]]** — Reports 01, 02, 03, 04, 06, 09, 10, 11 (8+ reports)
-2. **[[Metacognition]]** / **[[Metacognitive Monitoring]]** — Reports 04, 06, 07, 08, 12, 17, 18, 26 (8+ reports)
+1. **[[Schema-Theory]]** — Reports 01, 02, 03, 04, 06, 09, 10, 11 (8+ reports)
+2. **[[Metacognition]]** / **[[Metacognitive-Monitoring]]** — Reports 04, 06, 07, 08, 12, 17, 18, 26 (8+ reports)
 3. **[[Desirable-Difficulties]]** — Reports 06, 11, 16, 20, 30 (5 reports)
-4. **[[Self-Regulated Learning]]** — Reports 04, 06, 08, 12, 18, 19, 24, 26 (8+ reports)
-5. **[[Cognitive Load Theory]]** — Reports 02, 03, 09, 10, 11, 16 (6 reports)
+4. **[[Self-Regulated-Learning]]** — Reports 04, 06, 08, 12, 18, 19, 24, 26 (8+ reports)
+5. **[[Cognitive-Load-Theory]]** — Reports 02, 03, 09, 10, 11, 16 (6 reports)
 6. **[[Constructivism]]** — Reports 01, 03, 08, 09, 14, 17 (6 reports)
 7. **[[Fluency-Illusion]]** — Reports 06, 12, 18, 30 (4 reports, but central to the diagnosis)
 8. **[[Testing-Effect]]** / **[[Retrieval-Practice]]** — Reports 06, 12, 16, 20, 27 (5+ reports)
@@ -234,7 +234,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 | [[Encoding-Specificity]] | Memory Science | Transfer of Learning | Same mechanism, different applications |
 | [[Expertise-Reversal-Effect]] | CLT | Dreyfus Model | Cognitive architecture ↔ phenomenology |
 | [[Weak Ties]] | Network Science | Transfer of Learning | Bridge notes ↔ variable encoding |
-| [[Habit Formation]] | Behavioral Science | Virtue Epistemology | Character as neural pathway |
+| [[Habit-Formation]] | Behavioral Science | Virtue Epistemology | Character as neural pathway |
 | [[Implementation-Intentions]] | Behavioral Science | Metacognition | Bridging knowing to doing |
 
 ---
@@ -242,7 +242,7 @@ source_synthesis: "[[pkm-pkb-framework-synthesis]]"
 ## Orphan Concepts (Weakly Connected — Needing Integration)
 
 - **[[Epistemic-Justice]]** — Introduced in Report 29 with insufficient connections to the rest of the series
-- **[[Extended Mind Theory]]** — Report 30's most philosophically interesting concept; could be connected back to Reports 01 and 09
+- **[[Extended-Mind-Theory]]** — Report 30's most philosophically interesting concept; could be connected back to Reports 01 and 09
 - **[[Nonaka SECI Model]]** — Introduced in Reports 08 and 22 but its Socialization dimension is underconnected to the rest of the framework
 - **[[Pragmatist-Epistemology]]** — Report 08 and 14 treat this; connections to virtue epistemology (Report 29) are underdeveloped
 

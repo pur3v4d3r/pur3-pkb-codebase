@@ -383,8 +383,8 @@ List specific problems and concrete corrections
 List areas for improvement with specific enhancements
 
 **MISSED WIKI-LINKS:**
-- [[Concept 1]] — Why this matters for knowledge graph
-- [[Concept 2]] — Why this matters for knowledge graph
+- [[Concept-1]] — Why this matters for knowledge graph
+- [[Concept-2]] — Why this matters for knowledge graph
 
 **ADDITIONAL CONTEXT:**
 Topics/details that would add value

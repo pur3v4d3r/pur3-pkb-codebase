@@ -32,7 +32,7 @@ aliases: [Day Planner Plugin, Obsidian Timeboxing, Day Planner Guide, Time Block
 
 ## 📘 What is Day Planner?
 
-**Day Planner** is a [[Community Plugin]] for [[obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.
+**Day Planner** is a [[Community Plugin]] for [[Obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.
 
 > [!core-principle]
 > **The Philosophy of Timeboxing**
@@ -65,7 +65,7 @@ Before installing Day Planner, you **must** have these plugins enabled:
 > [!definition]
 > **Critical Dependencies**
 > 
-> 1. **[[Dataview Plugin]]** (community plugin) - REQUIRED
+> 1. **[[Dataview-Plugin]]** (community plugin) - REQUIRED
 >    - Day Planner uses Dataview's query engine to discover tasks across your vault
 >    - Without Dataview, the plugin will not function
 > 
@@ -241,7 +241,7 @@ The **primary format** for Day Planner—simple, human-readable time blocks with
 ## Work Block  
 - [ ] 09:00 - 11:00 [[Project Apollo]] - Phase 2 implementation
   - Link to project note for context
-  - Integration with other notes via [[Wiki-Links]]
+  - Integration with other notes via [[wiki-links]]
 
 ## Afternoon
 - [ ] 13:00 - 14:30 Client meeting: Q4 strategy #meetings
@@ -261,7 +261,7 @@ The **primary format** for Day Planner—simple, human-readable time blocks with
 
 ### Format 2: Tasks Plugin Integration (Vault-Wide Discovery)
 
-Day Planner integrates with the [[Tasks Plugin]], allowing tasks anywhere in your vault to appear in timelines if they have scheduled dates.
+Day Planner integrates with the [[Tasks-Plugin]], allowing tasks anywhere in your vault to appear in timelines if they have scheduled dates.
 
 > [!connection-ideas]
 > **Tasks Plugin Synergy**
@@ -653,7 +653,7 @@ While a clock is running, the **Timeline sidebar** shows:
 
 ### Analyzing Tracked Time (Dataview Integration)
 
-The real power of clock data emerges when you query it with [[dataview]]:
+The real power of clock data emerges when you query it with [[Dataview]]:
 
 **Example Dataview Queries:**
 
@@ -1432,8 +1432,8 @@ Day Planner interacts with several popular plugins—some synergistically, other
 
 | Plugin | Integration Point | Benefit |
 |--------|-------------------|---------|
-| **[[Tasks Plugin]]** | Scheduled task discovery | Vault-wide task scheduling |
-| **[[dataview]]** | Task queries, clock analysis | Advanced task filtering, time analytics |
+| **[[Tasks-Plugin]]** | Scheduled task discovery | Vault-wide task scheduling |
+| **[[Dataview]]** | Task queries, clock analysis | Advanced task filtering, time analytics |
 | **[[Templater]]** | Daily note automation | Auto-insert Day Planner sections |
 | **[[Calendar Plugin]]** | Date navigation | Quick jump to specific daily notes |
 | **[[Periodic Notes]]** | Weekly/monthly notes | Extended planning beyond daily |
@@ -1576,7 +1576,7 @@ When Day Planner doesn't meet a need, these plugins fill gaps:
 
 | Need | Plugin | How It Helps |
 |------|--------|--------------|
-| **Recurring Tasks** | [[Tasks Plugin]] | Define recurrence patterns (daily, weekly, etc.) |
+| **Recurring Tasks** | [[Tasks-Plugin]] | Define recurrence patterns (daily, weekly, etc.) |
 | **Pomodoro Timing** | [[PomoBar]] | 25/5 work/break timers |
 | **Calendar Export** | [[iCal Plugin]] | Export Obsidian tasks to external calendars |
 | **Weekly/Monthly Planning** | [[Periodic Notes]] | Extend time-boxing beyond daily notes |

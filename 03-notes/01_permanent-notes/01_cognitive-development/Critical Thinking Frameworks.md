@@ -48,7 +48,7 @@ review-priority: medium
 # Critical Thinking Frameworks
 
 > [!definition]
-> - **Key-Term**:[[Critical Thinking Frameworks]]
+> - **Key-Term**:[[Critical-Thinking-Frameworks]]
 > - **Definition**:
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -84,8 +84,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

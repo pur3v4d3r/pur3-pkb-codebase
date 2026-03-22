@@ -149,20 +149,20 @@ aliases:
 
 # Relationships
 related_to:
-  - "[[Extended Thinking Architecture]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Self-Consistency Ensemble]]"
   - "[[Chain of Verification]]"
   - "[[Graph of Thoughts]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base]]"
   - "[[Obsidian Vault System]]"
   - "[[Semantic Callout System]]"
   - "[[Wiki-Link Architecture]]"
-  - "[[Prompt Engineering Specialist Agent v4.0]]"
+  - "[[Prompt-Engineering-Specialist-Agent-v4.0]]"
 
 extends:
   - "[[Chain of Thought Reasoning]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Quality Assurance Frameworks]]"
 
 implements:
@@ -415,7 +415,7 @@ Voting/Selection → Final Answer
 - May explore unpromising branches
 
 **Representative Techniques**:
-- [[Tree of Thoughts]] - Systematic tree search with evaluation
+- [[Tree-of-Thoughts]] - Systematic tree search with evaluation
 - [[Least-to-Most Prompting]] - Sequential subproblem solving
 - [[Plan-and-Solve]] - Planning phase + execution phase
 
@@ -645,17 +645,17 @@ START: What is primary problem characteristic?
 ### Problem Type → Technique Mapping
 
 **Strategic Planning**:
-- **First Choice**: [[Tree of Thoughts]] (systematic plan exploration)
+- **First Choice**: [[Tree-of-Thoughts]] (systematic plan exploration)
 - **Second Choice**: [[Plan-and-Solve]] (explicit planning phase)
 - **For Simple Plans**: [[Least-to-Most]] (decomposition sufficient)
 
 **Logical Deduction**:
 - **First Choice**: [[Faithful Chain of Thought]] (grounded steps)
 - **Reliability Boost**: [[Self-Consistency]] (validate reasoning)
-- **Complex Proofs**: [[Tree of Thoughts]] (explore proof strategies)
+- **Complex Proofs**: [[Tree-of-Thoughts]] (explore proof strategies)
 
 **Creative Problem-Solving**:
-- **First Choice**: [[Tree of Thoughts]] (explore diverse approaches)
+- **First Choice**: [[Tree-of-Thoughts]] (explore diverse approaches)
 - **Alternative**: [[Thread of Thoughts]] (elaborate perspectives)
 - **Structured Creativity**: [[Analogical Prompting]] (systematic analogy)
 

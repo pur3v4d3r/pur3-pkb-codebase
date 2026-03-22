@@ -251,19 +251,19 @@ Each category should have:
 - Visual organization (possibly tables or structured callouts)
 
 **WIKI-LINK OPPORTUNITIES:**
-- [[Dataview Plugin]]
+- [[Dataview-Plugin]]
 - [[Obsidian]]
 - [[Inline Queries]]
 - [[Dataview Expressions]]
 - [[Metadata]]
 - [[Frontmatter]]
 - [[Zettelkasten]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base]]
 - [[Templater Plugin]]
 - [[File Properties]]
-- [[Wiki-Links]]
+- [[wiki-links]]
 - [[Backlinks]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph]]
 - [[Note Templates]]
 - [[MOC]]
 - [[Temporal Analysis]]
@@ -294,11 +294,11 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 
 > [!abstract]
 > **Executive Overview**
-> This note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
+> This note is an exhaustive taxonomy of [[Dataview-Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[Wiki-Links]]. All examples are production-ready and can be copied directly into your vault.
+> This reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[wiki-links]]. All examples are production-ready and can be copied directly into your vault.
 
 ## 📑 Table of Contents
 
@@ -454,7 +454,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ## 3. 🔗 Link & Relationship Queries
 
 > [!definition]
-> **Link Queries** analyze the [[Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.
+> **Link Queries** analyze the [[Knowledge-Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.
 
 ### 🔗 Link Counting
 
@@ -517,7 +517,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ```
 
 > [!what-this-does]
-> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
+> The `contains(this, "field-name")` pattern checks if a field exists in the current note's [[YAML-Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.
 
 ### 🎚️ Multi-Level Conditionals
 
@@ -705,7 +705,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ## 8. 🌐 Cross-Page Data Access
 
 > [!definition]
-> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.
+> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[wiki-links]], enabling relational data displays and inter-note dependencies.
 
 ### 📎 Basic Link Field Access
 
@@ -713,11 +713,11 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 **Project Status**: `= [[Project Alpha]].status`
 **Author Name**: `= [[Book Note]].author`
 **Creation Date**: `= [[Reference]].file.ctime`
-**Tag List**: `= [[Related Note]].file.tags`
+**Tag List**: `= [[Related-Note]].file.tags`
 ```
 
 > [!what-this-does]
-> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
+> Syntax: `[[Note-Name]].field-name`. Works with both [[YAML-Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.
 
 ### 🔗 Multi-Note Data Aggregation
 
@@ -952,7 +952,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 > [!the-philosophy]
 > **The Philosophy of Inline Queries**
 > 
-> Inline queries transform your [[Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
+> Inline queries transform your [[Personal-Knowledge-Base]] from a static archive into a living, reactive system. They embody the principle of "**write once, compute infinitely**"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed-Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.
 
 ### 🧠 Cognitive Models
 
@@ -992,7 +992,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 ### 🛠️ Common Patterns & Anti-Patterns
 
 **✅ DO:**
-- Cache complex queries in [[YAML Frontmatter]] for reuse
+- Cache complex queries in [[YAML-Frontmatter]] for reuse
 - Use inline queries for dynamic calculations, not static data
 - Combine with [[MOC]] patterns for vault-wide dashboards
 - Test queries in single notes before template-izing
@@ -1047,7 +1047,7 @@ aliases: [Dataview Inline Query Taxonomy, DQL Inline Reference, Inline Query Col
 
 4. **[[Metadata Schema Design for PKBs]]**
    - *Connection*: Effective queries require well-designed metadata fields and naming conventions
-   - *Depth Potential*: [[YAML Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies
+   - *Depth Potential*: [[YAML-Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies
    - *Knowledge Graph Role*: Data architecture prerequisite for query effectiveness
 
 ---

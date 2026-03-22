@@ -30,7 +30,7 @@ Learning to conduct reliable and informative research.
 - [[Ultimate SEO Cheat Sheet Across Categories]]
 - [[To Read as a Researcher..]]
 - [[The Toulmin Model]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization]]
 - 
 ## ❓ Questions
 - [[Beyond the Search Bar MOC]]
@@ -52,7 +52,7 @@ Identifying these components is the first step in reconstruction and analysis. W
 * **Premise Indicators** include words like *because*, *since*, *for*, *as*, and phrases like *for the reason that* or *as indicated by*.83  
 * **Conclusion Indicators** include words like *therefore*, *thus*, *so*, *hence*, *consequently*, and phrases like *it follows that* or *we may conclude*.83
 While these words are helpful clues, they are not always present. The most reliable method is to read a passage and ask: "What is the main point the author is trying to convince me of?" That is the conclusion. Then ask: "What reasons or evidence does the author provide to support that point?" Those are the premises.84
-[[[Progressive Summarization]]] Re-Summarize
+[[[Progressive-Summarization]]] Re-Summarize
 
 
 [[Beyond the Search Bar MOC]]

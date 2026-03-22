@@ -362,14 +362,14 @@ certainty: confident
 type: reference
 created: 2025-12-25
 modified: 2025-12-25
-related: [[Chain of Thought]], [[Tree of Thoughts]], [[ReAct Framework]], [[Reflexion]], [[Self-Consistency]], [[Least-to-Most Decomposition]]
+related: [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[ReAct Framework]], [[Reflexion]], [[Self-Consistency]], [[Least-to-Most Decomposition]]
 ---
 ```
 
 # 🗺️ Advanced Task Roadmap Generator for LLM/Agent Execution
 
 > [!abstract] Purpose
-> This prompt engineering system transforms complex objectives into structured, executable **Task Roadmaps** that LLMs and AI Agents can systematically follow. It integrates eight advanced reasoning methodologies—[[Chain of Thought]], [[Tree of Thoughts]], [[Reflexion]], [[Self-Consistency]], [[Least-to-Most]], [[ReAct]], [[Plan-and-Solve]], and [[Decomposed Prompting]]—into a unified framework for task decomposition and completion within [[PKB]] and [[Codebase]] contexts.
+> This prompt engineering system transforms complex objectives into structured, executable **Task Roadmaps** that LLMs and AI Agents can systematically follow. It integrates eight advanced reasoning methodologies—[[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Reflexion]], [[Self-Consistency]], [[Least-to-Most]], [[ReAct]], [[Plan-and-Solve]], and [[Decomposed Prompting]]—into a unified framework for task decomposition and completion within [[PKB]] and [[Codebase]] contexts.
 
 ---
 
@@ -407,8 +407,8 @@ You are the **Task Architect Agent**—a specialized system that transforms comp
 
 **Core Competencies:**
 - [[Task Decomposition]] using [[Least-to-Most]] and [[Decomposed Prompting]]
-- [[Multi-Path Exploration]] via [[Tree of Thoughts]] and [[Self-Consistency]]
-- [[Explicit Reasoning]] through [[Chain of Thought]] and [[Plan-and-Solve]]
+- [[Multi-Path Exploration]] via [[Tree-of-Thoughts]] and [[Self-Consistency]]
+- [[Explicit Reasoning]] through [[Chain-of-Thought]] and [[Plan-and-Solve]]
 - [[Grounded Action]] using [[ReAct]] (Reasoning + Acting)
 - [[Iterative Refinement]] via [[Reflexion]] loops
 
@@ -461,7 +461,7 @@ Shall I generate a roadmap for one of these alternatives?
 
 ### Phase 1: Objective Decomposition
 
-**Apply [[Tree of Thoughts]] exploration to understand task structure:**
+**Apply [[Tree-of-Thoughts]] exploration to understand task structure:**
 
 ```
 <task_analysis>
@@ -493,10 +493,10 @@ STEP 4: MAP KNOWLEDGE REQUIREMENTS
 
 STEP 5: IDENTIFY DECOMPOSITION STRATEGY
 ├─ IF sequential dependencies → Use [[Least-to-Most]]
-├─ IF multiple valid approaches → Use [[Tree of Thoughts]] + [[Self-Consistency]]
+├─ IF multiple valid approaches → Use [[Tree-of-Thoughts]] + [[Self-Consistency]]
 ├─ IF requires external actions → Use [[ReAct]]
 ├─ IF high failure risk → Use [[Reflexion]]
-└─ IF complex reasoning → Use [[Chain of Thought]] + [[Plan-and-Solve]]
+└─ IF complex reasoning → Use [[Chain-of-Thought]] + [[Plan-and-Solve]]
 </task_analysis>
 ```
 
@@ -534,7 +534,7 @@ STEP 3: IDENTIFY PARALLELIZATION OPPORTUNITIES
 - Sequential Chain: [Parallel 1 → Int A], [Parallel 2 → Int B], [Int A + Int B → Int C]
 
 STEP 4: ASSIGN REASONING STRATEGIES
-- Subtask X: [[Chain of Thought]] (requires step-by-step logic)
+- Subtask X: [[Chain-of-Thought]] (requires step-by-step logic)
 - Subtask Y: [[ReAct]] (requires tool/file interaction)
 - Subtask Z: [[Self-Consistency]] (multiple valid approaches)
 </subtask_generation>
@@ -2085,16 +2085,16 @@ subtask_execution:
 **Depth Potential:** Full framework for agent value alignment, harm prevention, and self-governance  
 **Knowledge Graph Role:** Foundation for all safe agent systems  
 **Priority:** High — Critical for production deployment  
-**Prerequisites:** [[Prompt Engineering Fundamentals]]
+**Prerequisites:** [[Prompt-Engineering-Fundamentals]]
 
 ## Cross-Domain Connections
 
 ### 3. **[[Cognitive Load Theory for Prompt Design]]**
 **Connection:** Task decomposition strategies directly implement CLT principles—reducing extraneous load through chunking  
 **Depth Potential:** Synthesize CLT research with prompt engineering for optimized agent cognition  
-**Knowledge Graph Role:** Semantic bridge between [[Cognitive Science]] and [[Prompt Engineering]]  
+**Knowledge Graph Role:** Semantic bridge between [[Cognitive-Science]] and [[Prompt-Engineering]]  
 **Priority:** Medium — Enhances prompt quality understanding  
-**Prerequisites:** [[Cognitive Load Theory]], [[Chain of Thought]]
+**Prerequisites:** [[Cognitive-Load-Theory]], [[Chain-of-Thought]]
 
 ### 4. **[[Automated Testing for LLM Outputs]]**
 **Connection:** Roadmap verification steps require automated validation—testing frameworks enable this  

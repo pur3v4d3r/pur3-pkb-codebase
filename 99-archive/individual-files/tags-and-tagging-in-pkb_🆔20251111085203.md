@@ -39,7 +39,7 @@ aliases:
   - Tag Taxonomy
 related:
   - "[[Metadata Management]]"
-  - "[[Information Architecture]]"
+  - "[[Information-Architecture]]"
   - "[[Obsidian Core Features]]"
   - "[[Zettelkasten Method]]"
   - "[[Knowledge Graph Theory]]"
@@ -61,11 +61,11 @@ The power of tags lies in their **non-hierarchical nature**. Traditional folder 
 
 ### The PKM Triad: Tags vs. Folders vs. Links
 
-Understanding tags requires understanding their relationship to the other two primary organizational tools in PKBs: **folders** and **[[Wiki-Links]]**.
+Understanding tags requires understanding their relationship to the other two primary organizational tools in PKBs: **folders** and **[[wiki-links]]**.
 
 **Folders** represent *physical location* in a hierarchical structure. They answer the question: "Where does this note live?" Folders are useful for broad, stable categories that reflect workflow organization (e.g., `Projects/`, `Archive/`, `Resources/`). However, folders are inflexible—a note can only exist in one folder at a time.
 
-**Links** represent *semantic relationships* between ideas. They answer the question: "What is this note connected to?" Links are the lifeblood of networked thought and the foundation of the [[Knowledge Graph]]. They create explicit, directed relationships between notes (e.g., "This concept is related to that concept").
+**Links** represent *semantic relationships* between ideas. They answer the question: "What is this note connected to?" Links are the lifeblood of networked thought and the foundation of the [[Knowledge-Graph]]. They create explicit, directed relationships between notes (e.g., "This concept is related to that concept").
 
 **Tags** represent *categorical membership* and *attributes*. They answer the question: "What kind of thing is this note?" or "What is this note about?" Tags enable multi-dimensional classification and rapid filtering. They are particularly powerful for describing *properties* of notes (status, type, source) and for enabling *queries* across the knowledge base.
 
@@ -812,9 +812,9 @@ The key principle: *links carry the semantic load; tags provide access and organ
 > - `[[Maps of Content (MOCs)]]` — Curated navigation hubs that complement tag-based retrieval
 > - `[[Knowledge Graph Theory]]` — Understanding how networks of knowledge form and function
 > - `[[Zettelkasten Method]]` — The foundational note-taking method that informed modern PKM
-> - `[[Information Architecture]]` — Principles of organizing information systems for findability and usability
+> - `[[Information-Architecture]]` — Principles of organizing information systems for findability and usability
 > - `[[Metadata Management]]` — Broader strategies for managing metadata beyond tags
-> - `[[Dataview Plugin]]` — Advanced querying and dynamic views using your tag system
+> - `[[Dataview-Plugin]]` — Advanced querying and dynamic views using your tag system
 > - `[[PARA Method]]` — Tiago Forte's organizational framework and its relationship to tagging
 > - `[[Controlled Vocabulary Design]]` — Library science principles for creating consistent taxonomies
 
@@ -822,7 +822,7 @@ The key principle: *links carry the semantic load; tags provide access and organ
 > **Prerequisites for Deep Understanding:**
 > - `[[Obsidian Core Functionality]]` — Understanding the platform's native features
 > - `[[Markdown Formatting]]` — The foundation of all Obsidian content
-> - `[[YAML Frontmatter]]` — Structured metadata in Obsidian
+> - `[[YAML-Frontmatter]]` — Structured metadata in Obsidian
 > - `[[Boolean Logic]]` — For understanding complex tag queries
 > - `[[Personal Knowledge Management Principles]]` — Foundational PKM concepts
 

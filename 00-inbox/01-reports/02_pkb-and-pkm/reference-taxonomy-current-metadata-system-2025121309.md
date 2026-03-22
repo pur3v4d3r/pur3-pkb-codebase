@@ -719,11 +719,11 @@ dv.table(["Metric", "Value"], [
 
 Based on the sophisticated logic within your `_permanent-note-cognitive-science-template-v1.0.0.md`, I have constructed a set of **Quick Reference Metadata Tables**.
 
-These tables are designed to be placed in a separate [[Reference Note]] or on your [[Dashboard]] to assist with writing **Dataview queries**, ensuring tag consistency, and debugging your vault taxonomy.
+These tables are designed to be placed in a separate [[Reference-Note]] or on your [[Dashboard]] to assist with writing **Dataview queries**, ensuring tag consistency, and debugging your vault taxonomy.
 
 > [\!methodology-and-sources]
 > **Source Material Extraction**
-> This reference guide extracts data directly from the `const` arrays defined in your Templater script. It maps the **Input Variable** (e.g., `groupB1_Tags`) to its **Semantic Function** within your [[Knowledge Graph]].
+> This reference guide extracts data directly from the `const` arrays defined in your Templater script. It maps the **Input Variable** (e.g., `groupB1_Tags`) to its **Semantic Function** within your [[Knowledge-Graph]].
 >
 >   * **Extraction Source**: `_permanent-note-cognitive-science-template-v1.0.0.md`
 >   * **Taxonomy Logic**: Hierarchical structure (Meta $\to$ Domain $\to$ Path $\to$ Granular Leaf)
@@ -840,15 +840,15 @@ Your script automatically assigns icons based on domain keywords. This helps you
 2.  [[Taxonomy Design Principles]]
       * **Connection:** Explains *why* the groups (A-J) are split this way (Generic vs. Specific).
       * **Depth Potential:** Explore [[Facetted Classification]] vs. [[Hierarchical Taxonomy]].
-      * **Knowledge Graph Role:** A theoretical "Concept" note in the [[Information Architecture]] domain.
+      * **Knowledge Graph Role:** A theoretical "Concept" note in the [[Information-Architecture]] domain.
 3.  [[Prompt Component Library]]
       * **Connection:** Group I (`groupI_Tags`) contains the atomic components (CoT, Few-Shot) needed for your prompt library.
       * **Depth Potential:** Each tag in Group I warrants an atomic note defining that specific prompting technique.
-      * **Knowledge Graph Role:** A "Collection" or "MOC" within the [[Prompt Engineering]] domain.
-4.  [[Cognitive Load Theory]]
+      * **Knowledge Graph Role:** A "Collection" or "MOC" within the [[Prompt-Engineering]] domain.
+4.  [[Cognitive-Load-Theory]]
       * **Connection:** Referenced in Group F (`cognitive-load-theory`), this is central to your learning domain.
       * **Depth Potential:** Deep dive into *intrinsic*, *extraneous*, and *germane* load (all present in your tag list).
-      * **Knowledge Graph Role:** A foundational "Framework" note in the [[Cognitive Science]] domain.
+      * **Knowledge Graph Role:** A foundational "Framework" note in the [[Cognitive-Science]] domain.
 
 # 🔗 Related Topics for PKB Expansion
 

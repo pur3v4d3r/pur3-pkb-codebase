@@ -112,7 +112,7 @@ status: Review
 created: 2025-10-09
 updated: 2025-10-09
 source: [Gemini-Advanced, Smith-AI-Book]
-related: [[Knowledge Atomization]], [[Socratic Method]]
+related: [[Knowledge Atomization]], [[Socratic-Method]]
 
 prompt_id: [[P-20251009-001]]
 llm_model: Gemini-Advanced

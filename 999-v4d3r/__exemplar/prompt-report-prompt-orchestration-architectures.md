@@ -47,23 +47,23 @@ confidence_markers_used: true
 source: "claude-sonnet-4.5"
 model_version: "claude-sonnet-4-20250514"
 based_on_prompts: 
-  - "[[VADER Academic Report Generator v4.0]]"
+  - "[[VADER-Academic-Report-Generator-v4.0]]"
   - "[[Claude Depth Enforcement System v3.0]]"
 generated_via_workflow: "[[Extended Thinking Research Protocol]]"
 
 # Knowledge Graph Integration
 related_concepts:
-  - "[[Prompt Engineering]]"
+  - "[[Prompt-Engineering]]"
   - "[[Multi-Agent Systems]]"
   - "[[LangChain]]"
   - "[[LangGraph]]"
   - "[[Agentic Workflows]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Control Flow Patterns]]"
   - "[[State Management]]"
   - "[[Production AI Systems]]"
 prerequisites:
-  - "[[Prompt Engineering Fundamentals]]"
+  - "[[Prompt-Engineering-Fundamentals]]"
   - "[[Agent Architecture Basics]]"
   - "[[Reasoning Techniques]]"
 builds_on:

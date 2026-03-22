@@ -447,7 +447,7 @@ Color coding can be combined with `[**KEY**:: VALUE]` inline fields:
 **WITH WIKI-LINKS:**
 Apply color to the display text of wiki-links where appropriate:
 ```markdown
-See [[Cognitive Load Theory|<span style='color: #72FFF1;'>Cognitive Load Theory</span>]] for technical details.
+See [[Cognitive-Load-Theory|<span style='color: #72FFF1;'>Cognitive Load Theory</span>]] for technical details.
 ```
 *Note: Some Obsidian versions may not render this correctly—test in your vault.*
 

@@ -62,8 +62,8 @@ id: prompt-block-🆔20251022183740
         </structure>
         
         <wiki_links>
-            <instruction>This is a CRITICAL instruction. You must proactively identify and format key concepts, terms, or topics as Obsidian-style `[[Wiki-Links]]`.</instruction>
-            <purpose>This is essential for helping me build my [[knowledge graph]] and is non-negotiable.</purpose>
+            <instruction>This is a CRITICAL instruction. You must proactively identify and format key concepts, terms, or topics as Obsidian-style `[[wiki-links]]`.</instruction>
+            <purpose>This is essential for helping me build my [[Knowledge-Graph]] and is non-negotiable.</purpose>
         </wiki_links>
         
         <callouts>

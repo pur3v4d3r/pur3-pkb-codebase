@@ -356,14 +356,14 @@ certainty: verified
 
 type: reference
 
-related: [[Working Memory]], [[Attention]], [[Executive Function]], [[Schema Theory]], [[Self-Determination Theory]]
+related: [[Working-Memory]], [[Attention]], [[Executive-Function]], [[Schema-Theory]], [[Self-Determination-Theory]]
 
 ---
 
 # ⚙️ Cognitive Load Theory and the Attentional Bottleneck: A Quantitative Analysis of Context Switching Costs and Monotasking Protocols
 
 > [!abstract] Executive Overview
-> This comprehensive reference note examines the intersection of [[Cognitive Load Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Instructional Design]], [[Productivity Systems]], and [[Knowledge Work]] optimization.
+> This comprehensive reference note examines the intersection of [[Cognitive-Load-Theory]] and [[Attentional Bottleneck]] models to explain the quantifiable performance decrements associated with [[Context Switching]]. Through synthesis of empirical research spanning cognitive psychology, neuroscience, and organizational behavior, this analysis demonstrates that context switching imposes a **<span style='color: #FF00DC;'>20% reduction in cognitive capacity</span>**, requires **<span style='color: #FF00DC;'>over 20 minutes for complete task reorientation</span>**, and results in **<span style='color: #FF00DC;'>95% longer completion times with 120% more errors</span>** compared to monotask execution. The evidence overwhelmingly supports [[Monotasking]] as the superior cognitive strategy for complex, goal-oriented work, with implications for [[Instructional-Design]], [[Productivity Systems]], and [[Knowledge Work]] optimization.
 
 ## 🧠 Theoretical Foundations: Cognitive Architecture and Capacity Limits
 
@@ -372,7 +372,7 @@ related: [[Working Memory]], [[Attention]], [[Executive Function]], [[Schema The
 > [!definition] <span style='color: #FFC700;'>Cognitive Load</span>
 > [**Cognitive-Load**:: <span style='color: #27FF00;'>the total mental effort being deployed in working memory during information processing, measured across three distinct dimensions: intrinsic load (inherent task complexity), extraneous load (imposed by poor design), and germane load (productive effort dedicated to schema construction and automation)</span>.]
 
-The theoretical architecture of CLT rests on the distinction between [[Working Memory]] and [[Long-Term Memory]], where working memory serves as the active processing unit with limited capacity while long-term memory functions as essentially unlimited storage requiring appropriate schema organization for efficient retrieval. This dual-system architecture creates a fundamental tension: <span style='color: #72FFF1;'>complex cognitive tasks demand intensive working memory engagement, yet working memory's capacity constraints necessitate strategic allocation mechanisms to prevent system overload</span>. When multiple tasks compete for these limited resources simultaneously—as occurs during context switching—the cognitive system must engage in what researchers term <span style='color: #FF00DC;'>**task-set reconfiguration**</span>, a metabolically expensive process that depletes glucose reserves, increases mental fatigue, and systematically degrades performance across multiple dimensions.
+The theoretical architecture of CLT rests on the distinction between [[Working-Memory]] and [[Long-Term-Memory]], where working memory serves as the active processing unit with limited capacity while long-term memory functions as essentially unlimited storage requiring appropriate schema organization for efficient retrieval. This dual-system architecture creates a fundamental tension: <span style='color: #72FFF1;'>complex cognitive tasks demand intensive working memory engagement, yet working memory's capacity constraints necessitate strategic allocation mechanisms to prevent system overload</span>. When multiple tasks compete for these limited resources simultaneously—as occurs during context switching—the cognitive system must engage in what researchers term <span style='color: #FF00DC;'>**task-set reconfiguration**</span>, a metabolically expensive process that depletes glucose reserves, increases mental fatigue, and systematically degrades performance across multiple dimensions.
 
 [**Intrinsic-Load**:: <span style='color: #72FFF1;'>cognitive demands inherent to the material itself, determined by element interactivity—the degree to which understanding one element requires simultaneous processing of other elements—and cannot be reduced without fundamental changes to task structure</span>.]
 
@@ -486,7 +486,7 @@ The most revealing finding regarding individual differences in switching perform
 
 ## 🌐 Integration with Self-Determination Theory: Motivational Dimensions of Task Management
 
-The intersection of context switching costs with [[Self-Determination Theory]] (SDT) reveals important motivational dynamics affecting productivity system design. SDT identifies three fundamental psychological needs—<span style='color: #FFC700;'>**autonomy**</span> (experiencing choice and volition), <span style='color: #FFC700;'>**competence**</span> (experiencing mastery and effectiveness), and <span style='color: #FFC700;'>**relatedness**</span> (experiencing meaningful connection)—as central drivers of intrinsic motivation and psychological well-being (Deci & Ryan, 1985).
+The intersection of context switching costs with [[Self-Determination-Theory]] (SDT) reveals important motivational dynamics affecting productivity system design. SDT identifies three fundamental psychological needs—<span style='color: #FFC700;'>**autonomy**</span> (experiencing choice and volition), <span style='color: #FFC700;'>**competence**</span> (experiencing mastery and effectiveness), and <span style='color: #FFC700;'>**relatedness**</span> (experiencing meaningful connection)—as central drivers of intrinsic motivation and psychological well-being (Deci & Ryan, 1985).
 
 Context switching systematically undermines **<span style='color: #FF00DC;'>competence need satisfaction</span>**. When performance quality degrades due to switching costs—producing more errors, requiring longer completion times, and yielding lower-quality outputs—individuals experience reduced self-efficacy and diminished sense of mastery. This competence frustration creates a vicious cycle: declining performance generates stress and anxiety, which further impair executive function, exacerbating switching costs and producing additional performance decrements. Breaking this cycle requires explicit recognition of switching costs and deliberate adoption of monotasking protocols that enable competence experience through successful task completion.
 
@@ -504,7 +504,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Detailed examination of PRP experimental paradigms, computational models explaining bottleneck locus, and implications for understanding multitasking limitations at the response selection stage would extend the current analysis of attentional bottlenecks.
 **Knowledge Graph Role:** Bridges cognitive architecture research (information processing models) with applied human factors (interface design, interruption management, workflow optimization).
 **Priority:** High—PRP represents a critical constraint on parallel processing capability with direct relevance to productivity optimization and interface design.
-**Prerequisites:** Understanding of [[Reaction Time Measurement]], [[Response Selection]], and basic [[Information Processing Models]].
+**Prerequisites:** Understanding of [[Reaction Time Measurement]], [[Response Selection]], and basic [[Information-Processing-Models]].
 
 ### 2. **[[Flow State and Optimal Cognitive Engagement]]**
 
@@ -512,7 +512,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Mihaly Csikszentmihalyi's flow theory, neurobiological correlates of flow states, conditions facilitating flow entry, and practical protocols for engineering flow-conducive environments would provide crucial complement to productivity optimization frameworks.
 **Knowledge Graph Role:** Connects cognitive performance (attention, executive function) with positive psychology (optimal experience, intrinsic motivation) and practical productivity systems.
 **Priority:** High—Flow optimization represents a positive framing for monotasking adoption, emphasizing experiential benefits beyond mere performance metrics.
-**Prerequisites:** [[Intrinsic Motivation]], [[Optimal-Challenge]], [[Autotelic Personality]].
+**Prerequisites:** [[Intrinsic-Motivation]], [[Optimal-Challenge]], [[Autotelic Personality]].
 
 ## Cross-Domain Connections
 
@@ -530,7 +530,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Neurochemical mechanisms of mental fatigue, glucose metabolism in executive function, sleep's role in cognitive restoration, nutrition strategies supporting sustained focus, and individual differences in fatigue resistance would provide physiological grounding for productivity recommendations.
 **Knowledge Graph Role:** Bridges cognitive neuroscience (metabolic constraints, neural fatigue) with practical health optimization (sleep hygiene, nutritional support, energy management strategies).
 **Priority:** Medium—Fatigue mechanisms explain longer-term productivity patterns beyond immediate switching costs, with important implications for sustainable knowledge work practices.
-**Prerequisites:** [[Executive Function]], [[Prefrontal Cortex]], [[Metabolic Constraints on Cognition]].
+**Prerequisites:** [[Executive-Function]], [[Prefrontal Cortex]], [[Metabolic Constraints on Cognition]].
 
 ## Advanced Deep Dives
 
@@ -540,7 +540,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Kalyuga's expertise reversal research, automation's role in reducing cognitive load, schema compilation processes enabling expert performance, deliberate practice strategies for skill automation, and domain-specific expertise development would provide advanced treatment of individual differences in switching vulnerability.
 **Knowledge Graph Role:** Connects expertise research (skill acquisition, deliberate practice) with cognitive architecture (automaticity, chunking) and practical training design.
 **Priority:** Medium—Expertise effects represent important boundary condition on switching cost generalizability but require substantial prerequisite knowledge for meaningful engagement.
-**Prerequisites:** [[Schema Theory]], [[Automaticity]], [[Deliberate Practice]], [[Cognitive Load Theory]] (comprehensive understanding), [[Chunking]].
+**Prerequisites:** [[Schema-Theory]], [[Automaticity]], [[Deliberate-Practice]], [[Cognitive-Load-Theory]] (comprehensive understanding), [[Chunking]].
 
 ### 6. **[[Computational Models of Cognitive Control: From Conflict Monitoring to Model-Based Reinforcement Learning]]** *[Requires Prerequisites]*
 
@@ -548,7 +548,7 @@ The relationship between switching patterns and **<span style='color: #FFC700;'>
 **Depth Potential:** Hierarchical reinforcement learning models of cognitive control, conflict monitoring theory and the ACC's computational role, model-based versus model-free control strategies, Bayesian models of cognitive flexibility, and neural network implementations of task-set representations would provide cutting-edge theoretical integration.
 **Knowledge Graph Role:** Bridges computational neuroscience (neural network models, reinforcement learning) with cognitive psychology (executive function, attention) and machine learning (artificial intelligence architectures).
 **Priority:** Low—Highly advanced treatment requiring extensive mathematical and computational sophistication, suitable for readers with strong quantitative backgrounds seeking mechanistic-level understanding.
-**Prerequisites:** [[Reinforcement Learning Fundamentals]], [[Bayesian-Inference]], [[Neural Network Architectures]], [[Cognitive Control]], [[Computational Modeling in Neuroscience]].
+**Prerequisites:** [[Reinforcement Learning Fundamentals]], [[Bayesian-Inference]], [[Neural Network Architectures]], [[Cognitive-Control]], [[Computational Modeling in Neuroscience]].
 
 ---
 

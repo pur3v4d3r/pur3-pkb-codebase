@@ -143,7 +143,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 236)*
 
 > [!abstract] Untitled
-> This report is the practical heart of the series — the translation of Stoic philosophy from doctrine into daily discipline. Reports 01 and 02 established *what* Stoicism teaches; this report shows *how* to live it. Drawing on the systematic frameworks of [[Epictetus]], the personal testimony of [[Marcus Aurelius]] and [[Seneca]], and the modern scholarly recovery of Stoic practice by [[Pierre Hadot]], we examine seven core Stoic practices in depth: the Three Disciplines, *premeditatio malorum*, the evening review, *memento mori*, the View from Above, voluntary discomfort, and Stoic journaling. Each practice receives its historical grounding, psychological rationale, procedural specifics, and a worked example. The report concludes with an integrated practice architecture that gives the reader a concrete path from philosophical understanding to embodied wisdom.
+> This report is the practical heart of the series — the translation of Stoic philosophy from doctrine into daily discipline. Reports 01 and 02 established *what* Stoicism teaches; this report shows *how* to live it. Drawing on the systematic frameworks of [[Epictetus]], the personal testimony of [[Marcus-Aurelius]] and [[Seneca]], and the modern scholarly recovery of Stoic practice by [[Pierre-Hadot]], we examine seven core Stoic practices in depth: the Three Disciplines, *premeditatio malorum*, the evening review, *memento mori*, the View from Above, voluntary discomfort, and Stoic journaling. Each practice receives its historical grounding, psychological rationale, procedural specifics, and a worked example. The report concludes with an integrated practice architecture that gives the reader a concrete path from philosophical understanding to embodied wisdom.
 
 #### 2. [INDEX] Untitled *(Line 239)*
 
@@ -156,7 +156,7 @@ extraction_summary:
 > → Next: [[Stoicism and Modern Psychology - Parallels and Insights]]
 > 
 > **Series Arc Position**: Foundation
-> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy of Control]] and the role of [[Virtue Ethics]] in Stoic life.
+> **Recommended Prerequisites**: [[Introduction to Stoicism - Origins and Key Figures]] (Report 01) and [[Core Principles - Virtue Wisdom and Self-Control]] (Report 02) are strongly recommended before this report, as the practices described here presuppose familiarity with the [[Dichotomy-of-Control]] and the role of [[Virtue-Ethics]] in Stoic life.
 
 #### 3. [RESEARCH] Untitled *(Line 262)*
 
@@ -203,7 +203,7 @@ extraction_summary:
 #### 11. [CONNECTION-IDEAS] Untitled *(Line 382)*
 
 > [!connection-ideas] Untitled
-> **Stoic Practice and [[Cognitive Behavioral Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
+> **Stoic Practice and [[Cognitive-Behavioral-Therapy]]**: The deep structural connection between Stoic practice and CBT goes well beyond general similarity. [[Aaron Beck]], who developed CBT in the 1960s, explicitly drew on the cognitive tradition in philosophy. [[Albert Ellis]], who developed Rational Emotive Behavior Therapy (REBT) — a precursor to contemporary CBT — explicitly cited Epictetus as his primary inspiration, opening his foundational papers with the Stoic dictum that "men are disturbed not by things but by their opinions about things." The Stoic practice of examining and correcting cognitive distortions is, structurally and often literally, the same activity as CBT's core intervention of identifying and challenging automatic negative thoughts. This is not convergent discovery — it is direct intellectual inheritance.
 
 #### 12. [EXAMPLE] Untitled *(Line 405)*
 
@@ -347,13 +347,13 @@ extraction_summary:
 > [!practice] Untitled
 > **Practice 7: Stoic Journaling**
 > 
-> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy of Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
+> **The Practice**: Keep a regular philosophical journal in the spirit of Marcus Aurelius's *Meditations* — not a diary of events but a working document of philosophical self-examination. Write about the places where Stoic principles meet the specific texture of your daily life. Where did the [[Dichotomy-of-Control]] help me today? Where did I fail to apply it? What [[Preferred Indifferent]] am I currently over-attached to? What would a person of genuine virtue do in this situation I am facing? The journal is not for others and does not need to be eloquent — it is a cognitive tool.
 > 
 > **Frequency**: Daily is ideal. Even ten minutes produces cumulative benefits that far exceed the time investment.
 > 
 > **Duration**: 10–20 minutes for full effectiveness.
 > 
-> **Stoic Grounding**: Marcus Aurelius's *Meditations* (the supreme example of the practice); Seneca's *Letters* (an epistolary form of philosophical self-examination); [[Pierre Hadot]]'s scholarship on written spiritual exercises.
+> **Stoic Grounding**: Marcus Aurelius's *Meditations* (the supreme example of the practice); Seneca's *Letters* (an epistolary form of philosophical self-examination); [[Pierre-Hadot]]'s scholarship on written spiritual exercises.
 > 
 > **Psychological Mechanism**: Pennebaker's expressive writing research; forces translation of diffuse emotional experience into structured linguistic propositions subject to rational examination; creates a longitudinal record that reveals patterns invisible in single sessions; trains the Discipline of Assent through systematic retrospective analysis.
 > 
@@ -387,7 +387,7 @@ extraction_summary:
 
 > [!warning] Untitled
 > **Obstacle 4: The Practice-Without-Philosophy Problem**
-> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy of Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
+> A final and subtler obstacle arises when the individual practices become separated from the philosophical framework that gives them meaning. The *premeditatio malorum* without the [[Dichotomy-of-Control]] is merely worry; the evening review without *prosoche* is merely self-criticism; the pause practice without the Discipline of Assent is merely hesitation. The practices are powerful precisely because they are implementations of a coherent philosophical understanding. Practitioners who adopt the techniques without engaging with the underlying theory typically find them effective for a time and then hollow.
 > 
 > **The Stoic Response**: Regular reading in the primary texts — not just motivational excerpts but sustained engagement with Epictetus's *Discourses*, Seneca's *Letters*, and Marcus Aurelius's *Meditations* — keeps the philosophical framework alive and prevents the practices from devolving into mere behavioral techniques. Hadot's point is crucial: the practices are "spiritual exercises" precisely because they are embedded in a coherent philosophical understanding of what constitutes the good life. Strip out the philosophy and you have techniques; keep the philosophy and you have a way of life.
 
@@ -461,7 +461,7 @@ extraction_summary:
 > 
 > **Prokopōn** (*προκόπων*): "One who is making progress." The Stoic term for the serious student of philosophy who is advancing toward virtue but has not yet achieved the near-impossible standard of the *sophos* (sage). The honest self-description of every serious Stoic practitioner, including Marcus Aurelius.
 > 
-> **Prosoche** (*προσοχή*): Self-attention; self-watchfulness. The continuous, alert monitoring of one's own mental activity that [[Pierre Hadot]] identifies as the fundamental cognitive attitude of Stoic practice — catching distortions and irrational judgments before they harden into emotional reactions.
+> **Prosoche** (*προσοχή*): Self-attention; self-watchfulness. The continuous, alert monitoring of one's own mental activity that [[Pierre-Hadot]] identifies as the fundamental cognitive attitude of Stoic practice — catching distortions and irrational judgments before they harden into emotional reactions.
 > 
 > **Reserve Clause**: The mental qualification appended to intentions and plans — the inner acknowledgment that external outcomes involve factors beyond one's control, expressed as "if nothing prevents me" or "fate permitting." Prevents attachment to outcomes from generating distress when plans encounter reality.
 > 
@@ -481,10 +481,10 @@ extraction_summary:
 
 - [[Aaron Beck]]
 - [[Albert Ellis]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Daniel Gilbert]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Eudaimonia]]
@@ -492,12 +492,12 @@ extraction_summary:
 - [[James Gross]]
 - [[James Pennebaker]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Massimo Pigliucci]]
 - [[Matthew Killingsworth]]
 - [[Memento Mori — Ancient and Modern Perspectives]]
 - [[Negative Visualization — Hedonic Adaptation Research]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot]]
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
 - [[Preferred Indifferent]]
 - [[Preferred Indifferents]]
@@ -509,55 +509,55 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Premeditatio-Malorum]]
-- [[self-efficacy]]
+- [[Self-Efficacy]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Epictetus]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
-| 2 | [[Marcus Aurelius]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
+| 2 | [[Marcus-Aurelius]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
 | 3 | [[Seneca]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
-| 4 | [[Pierre Hadot]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
+| 4 | [[Pierre-Hadot]] | — | — | Stoicism in Practice: Daily Exercises... | 237 |
 | 5 | [[Stoicism Series Overview]] | — | — | Stoicism in Practice: Daily Exercises... | 242 |
 | 6 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism in Practice: Daily Exercises... | 244 |
 | 7 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Stoicism in Practice: Daily Exercises... | 245 |
 | 8 | [[Introduction to Stoicism - Origins and Key Figures]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
 | 9 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
-| 10 | [[Dichotomy of Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
-| 11 | [[Virtue Ethics]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
+| 10 | [[Dichotomy-of-Control]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
+| 11 | [[Virtue-Ethics]] | — | — | Stoicism in Practice: Daily Exercises... | 248 |
 | 12 | [[Matthew Killingsworth]] | — | — | Part 1: The Problem This Domain Prese... | 263 |
 | 13 | [[Daniel Gilbert]] | — | — | Part 1: The Problem This Domain Prese... | 263 |
 | 14 | [[James Gross]] | — | — | Part 1: The Problem This Domain Prese... | 266 |
-| 15 | [[Pierre Hadot]] | — | — | Part 1: The Problem This Domain Prese... | 268 |
-| 16 | [[Dichotomy of Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
+| 15 | [[Pierre-Hadot]] | — | — | Part 1: The Problem This Domain Prese... | 268 |
+| 16 | [[Dichotomy-of-Control]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
 | 17 | [[Eudaimonia]] | — | — | Part 2: What the Stoics Said — The Ph... | 280 |
 | 18 | [[Logos]] | — | — | Part 2: What the Stoics Said — The Ph... | 290 |
 | 19 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 292 |
 | 20 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 302 |
-| 21 | [[Pierre Hadot]] | — | — | Part 2: What the Stoics Said — The Ph... | 307 |
+| 21 | [[Pierre-Hadot]] | — | — | Part 2: What the Stoics Said — The Ph... | 307 |
 | 22 | [[Prohairesis]] | — | — | Part 2: What the Stoics Said — The Ph... | 309 |
 | 23 | [[Preferred Indifferents]] | — | — | Framework Principle 1: Training the D... | 321 |
 | 24 | [[James Gross]] | — | — | The Neuroscience of Cognitive Reappra... | 360 |
 | 25 | [[James Pennebaker]] | — | — | The Cognitive Science of Journaling | 378 |
-| 26 | [[Cognitive Behavioral Therapy]] | — | — | The Cognitive Science of Journaling | 383 |
+| 26 | [[Cognitive-Behavioral-Therapy]] | — | — | The Cognitive Science of Journaling | 383 |
 | 27 | [[Aaron Beck]] | — | — | The Cognitive Science of Journaling | 383 |
 | 28 | [[Albert Ellis]] | — | — | The Cognitive Science of Journaling | 383 |
 | 29 | [[Preferred Indifferents]] | — | — | The Research on Voluntary Discomfort | 389 |
-| 30 | [[self-efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
+| 30 | [[Self-Efficacy]] | — | — | The Research on Voluntary Discomfort | 389 |
 | 31 | [[Premeditatio-Malorum]] | — | — | Example 1: Marcus Aurelius and the Pr... | 399 |
 | 32 | [[Tim Ferriss]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 33 | [[Massimo Pigliucci]] | — | — | Example 3: A Modern Practitioner and ... | 433 |
 | 34 | [[Preferred Indifferents]] | — | — | Example 3: A Modern Practitioner and ... | 440 |
 | 35 | [[Prosoche]] | — | — | Part 6: The Practice Architecture — A... | 476 |
 | 36 | [[Preferred Indifferents]] | — | — | Part 6: The Practice Architecture — A... | 491 |
-| 37 | [[Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 543 |
+| 37 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 543 |
 | 38 | [[Preferred Indifferent]] | — | — | Part 6: The Practice Architecture — A... | 543 |
-| 39 | [[Pierre Hadot]] | — | — | Part 6: The Practice Architecture — A... | 549 |
+| 39 | [[Pierre-Hadot]] | — | — | Part 6: The Practice Architecture — A... | 549 |
 | 40 | [[Preferred Indifferent]] | — | — | Part 7: Common Obstacles and How the ... | 571 |
-| 41 | [[Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 581 |
+| 41 | [[Dichotomy-of-Control]] | — | — | Part 7: Common Obstacles and How the ... | 581 |
 | 42 | [[Prohairesis]] | — | — | Conclusion: Philosophy Becomes Posture | 621 |
 | 43 | [[Prosoche — Stoic Self-Attention]] | — | — | Expansion Topics for PKB | 689 |
 | 44 | [[Memento Mori — Ancient and Modern Perspectives]] | — | — | Expansion Topics for PKB | 691 |
@@ -565,7 +565,7 @@ extraction_summary:
 | 46 | [[Epictetus Three Disciplines — Systematic Analysis]] | — | — | Expansion Topics for PKB | 695 |
 | 47 | [[Pierre Hadot and the Recovery of Spiritual Exercises]] | — | — | Expansion Topics for PKB | 697 |
 | 48 | [[Stoic Journaling — Practical Guide and Templates]] | — | — | Expansion Topics for PKB | 699 |
-| 49 | [[Pierre Hadot]] | — | — | Glossary | 728 |
+| 49 | [[Pierre-Hadot]] | — | — | Glossary | 728 |
 | 50 | [[Logos]] | — | — | Glossary | 734 |
 | 51 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Glossary | 739 |
 
@@ -605,10 +605,10 @@ extraction_summary:
 
 - [[Aaron Beck]]
 - [[Albert Ellis]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
 - [[Daniel Gilbert]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Epictetus Three Disciplines — Systematic Analysis]]
 - [[Eudaimonia]]
@@ -616,12 +616,12 @@ extraction_summary:
 - [[James Gross]]
 - [[James Pennebaker]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Massimo Pigliucci]]
 - [[Matthew Killingsworth]]
 - [[Memento Mori — Ancient and Modern Perspectives]]
 - [[Negative Visualization — Hedonic Adaptation Research]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot]]
 - [[Pierre Hadot and the Recovery of Spiritual Exercises]]
 - [[Preferred Indifferent]]
 - [[Preferred Indifferents]]
@@ -633,9 +633,9 @@ extraction_summary:
 - [[Stoicism Series Overview]]
 - [[Stoicism and Modern Psychology - Parallels and Insights]]
 - [[Tim Ferriss]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Premeditatio-Malorum]]
-- [[self-efficacy]]
+- [[Self-Efficacy]]
 
 ### Frontmatter Relationships
 
@@ -648,22 +648,22 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Prohairesis]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Eudaimonia]]
 - [[Apatheia]]
-- [[Pierre Hadot]]
+- [[Pierre-Hadot]]
 - [[Mindfulness]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Contemplative Practice]]
 - [[Applied Philosophy]]
 
@@ -679,8 +679,8 @@ extraction_summary:
 #### See Also
 
 - [[Mindfulness-Based Stress Reduction]]
-- [[Cognitive Behavioral Therapy]]
-- [[Acceptance and Commitment Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Journaling as Psychological Practice]]
 - [[Buddhist Meditation]]
 

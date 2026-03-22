@@ -13,7 +13,7 @@
 `vault_indexer.py` indexes an Obsidian vault folder (or any directory of Markdown files) and produces a **comprehensive Markdown index document** containing:
 
 - **YAML frontmatter** for the index itself (Dataview-compatible)
-- **Wikilinks** (`[[Note Name]]`) to every discovered document
+- **Wikilinks** (`[[Note-Name]]`) to every discovered document
 - **Per-document metadata cards** with filesystem info, frontmatter fields, content analysis, and derived metrics
 - **Aggregate statistics** — word counts, file sizes, tag distributions, status breakdowns
 - **Health indicators** — missing frontmatter, empty docs, untagged notes, stale files
@@ -239,7 +239,7 @@ tags:
 | **Status** | `evergreen` |
 
 **Tags:** `#philosophy` `#epistemology` `#reference-note`
-**Links to:** [[Knowledge]] · [[Justified True Belief]] · [[Empiricism]]
+**Links to:** [[Knowledge]] · [[Justified-True-Belief]] · [[Empiricism]]
 **Content Features:** 12 headings · 8 callouts · 2 code blocks (dataviewjs)
 ```
 

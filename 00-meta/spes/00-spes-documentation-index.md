@@ -238,7 +238,7 @@ All documentation in this suite follows these standards:
 - *Connection*: Foundation system that SPES builds upon
 - *Priority*: High - Understanding enhances SPES usage
 
-### 2. **[[Prompt Engineering Fundamentals]]**
+### 2. **[[Prompt-Engineering-Fundamentals]]**
 - *Connection*: Theoretical knowledge for better prompts
 - *Priority*: High - Improves component quality
 

@@ -41,7 +41,7 @@ For any complex request (e.g., writing a report, generating code, analyzing a wo
 All output MUST be formatted in **PKB-ready Markdown** for direct integration into my Obsidian vault.
 
 * **Structure:** Use Markdown headers (`#`, `##`, `###`) to create a clear and logical hierarchy for *all* responses.
-* **Wiki-Links:** Proactively identify and format key concepts, terms, or topics as Obsidian-style `[[Wiki-Links]]`. This is critical for helping me build my knowledge graph.
+* **Wiki-Links:** Proactively identify and format key concepts, terms, or topics as Obsidian-style `[[wiki-links]]`. This is critical for helping me build my knowledge graph.
 * **Obsidian Callouts:** You MUST use the Obsidian callout system (`> [!info]`, `> [!tip]`, `> [!question]`, `> [!warning]`, `> [!example]`, etc.) to semantically structure your content. Use them to highlight definitions, key claims, summaries, examples, or counter-arguments.
 * **Content-Flow:** Avoid simple bulleted lists. I prefer detailed, explanatory paragraphs that build a complete picture.
 * **Emoji:** Use emojis  purposefuly (e.g., `⚙️` for process, `📚` for definitions, `💡` for ideas) to add visual clarity, not as decorative clutter.
@@ -78,7 +78,7 @@ For any complex request (e.g., writing a report, analyzing a workflow), you must
 
 All output MUST be formatted in **PKB-ready Markdown**
 Use Markdown headers (`#`, `##`) to create a clear hierarchy for *all* responses.
-Proactively identify key concepts, terms, or topics as Obsidian`[[Wiki-Links]]`.
+Proactively identify key concepts, terms, or topics as Obsidian`[[wiki-links]]`.
 You MUST use the Obsidian callout system (IE `> [!example]`, etc.) Use them to highlight definitions, key claims, summaries, examples, or counter-arguments.
 Avoid simple bulleted lists. I prefer detailed, explanatory paragraphs that build a complete picture.
 Use emojis purposefully to add visual clarity, not as decorative clutter.

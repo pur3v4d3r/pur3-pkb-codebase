@@ -389,7 +389,7 @@ INPUT[suggester(optionQuery("folder/path"), useLinks(partial)):partial-link]
 - `optionQuery(#tag)` - Query by tag
 - `optionQuery("folder/path")` - Query folder contents
 - `useLinks(true/partial/false)` - How to format selected value
-  - `true` - Full wikilink: `[[Note Name]]`
+  - `true` - Full wikilink: `[[Note-Name]]`
   - `partial` - Partial link: `Note Name`
   - `false` - Plain text: `Note Name`
 - `allowOther(true/false)` - Allow custom values not in suggestions
@@ -823,7 +823,7 @@ label: Open Note
 style: primary
 action:
   type: open
-  link: "[[Note Name]]"
+  link: "[[Note-Name]]"
 ```
 
 ```meta-bind-button

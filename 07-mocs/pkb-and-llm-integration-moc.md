@@ -85,7 +85,7 @@ updated: 2024-12-16
 #### 2. Semantic Relationship Typing
 **Structured wiki-link annotations**
 - Types: `→causes`, `↔️bidirectional`, `⊃contains`, `⊂partof`, `≈analogous`, `⚡️contrasts`, `📐prerequisite`
-- Example: `[[working-memory]]→causes→[[cognitive-load]]`
+- Example: `[[Working-Memory]]→causes→[[Cognitive-Load]]`
 - Builds typed knowledge graph
 
 #### 3. Evidence Weight Indicators

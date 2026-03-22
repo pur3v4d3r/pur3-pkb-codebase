@@ -124,7 +124,7 @@ Most sophisticated knowledge workers maintain **multiple log types simultaneousl
 
 ### Cognitive Benefits: The Psychology of Logging
 
-Work logging yields measurable cognitive benefits grounded in [[Educational Psychology]] research:
+Work logging yields measurable cognitive benefits grounded in [[Educational-Psychology]] research:
 
 **1. Progress Perception Enhancement**
 The [[Progress Principle]] (Teresa Amabile) demonstrates that perceived progress is the strongest predictor of motivation and productivity. Work logs make progress *visible* even when outputs are intangible. Writing "Today: resolved 12 edge cases" creates concrete evidence of forward movement in software development where the final product looks identical whether 12 or 0 edge cases were addressed.
@@ -202,7 +202,7 @@ Most knowledge workers suffer from the [[Planning Fallacy]]—systematic underes
 - High-accountability contexts (grant-funded research)
 
 > [!helpful-tip]
-> **Reducing Friction**: Use [[Templater]] or [[quickadd]] hotkeys to auto-insert timestamps. Example: `Ctrl+T` expands to `### HH:MM - [Cursor Here]`
+> **Reducing Friction**: Use [[Templater]] or [[QuickAdd]] hotkeys to auto-insert timestamps. Example: `Ctrl+T` expands to `### HH:MM - [Cursor Here]`
 
 ### Methodology 2: Task-Based Logging (Outcome-Focused)
 
@@ -431,7 +431,7 @@ Token refresh needs mutex—concurrent requests were causing race condition
 ## ⚙️ III. Practical Implementation Systems
 
 > [!key-claim]
-> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
+> **Methodology means nothing without sustainable execution.** This section translates theoretical logging approaches into concrete, maintainable systems within [[Obsidian]] and other [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] platforms.
 
 ### Implementation Pattern 1: Obsidian Daily Notes System
 
@@ -501,7 +501,7 @@ tags: [#daily-note, #work-log]
 ## 💡 Insights & Learning
 > [!insight]
 > **Key Realization**: 
-> **Applied To**: [[Related Concept]]
+> **Applied To**: [[Related-Concept]]
 > **Action**: 
 
 ## 🔗 Created/Updated Today
@@ -529,7 +529,7 @@ tags: [#daily-note, #work-log]
 ```
 
 **Key Features**:
-- **Temporal Metadata**: Date, day, week number (enables [[dataview]] queries)
+- **Temporal Metadata**: Date, day, week number (enables [[Dataview]] queries)
 - **Intention Setting**: Proactive rather than reactive logging
 - **Session-Based Structure**: Natural work rhythm (morning/afternoon)
 - **Project Linking**: Explicit connection to [[Project Notes]]
@@ -581,7 +581,7 @@ SORT task.completion DESC
 **Advantages**:
 - Integrates directly with existing task management workflow
 - Completion logging is natural extension of checking boxes
-- [[dataview]] enables powerful aggregation queries
+- [[Dataview]] enables powerful aggregation queries
 - Time tracking optional but encouraged with ⏱️ duration tag
 - Works with mobile (Obsidian mobile supports Tasks plugin)
 
@@ -700,7 +700,7 @@ log_entries: 12
 
 **Pattern 1: Hotkey-Driven Quick Capture**
 
-Use [[quickadd]] or custom hotkeys for zero-friction capture:
+Use [[QuickAdd]] or custom hotkeys for zero-friction capture:
 
 ```
 Hotkey: Ctrl+Shift+L (Log Entry)
@@ -748,7 +748,7 @@ This creates dual temporal and project-based indexing.
 
 ### Tool Ecosystem: Beyond Obsidian
 
-While this guide emphasizes [[obsidian]] (given the PKB context), work logging principles apply across platforms:
+While this guide emphasizes [[Obsidian]] (given the PKB context), work logging principles apply across platforms:
 
 | Tool | Strengths | Work Log Application |
 |------|-----------|----------------------|
@@ -1326,7 +1326,7 @@ This is the **security version**—specifically addresses client's primary conce
 
 ### Integration Pattern 4: Dataview Queries Across Logs + Versions
 
-**Concept**: Use [[dataview]] to query relationships between logs and versions
+**Concept**: Use [[Dataview]] to query relationships between logs and versions
 
 **Query 1: All versions created this month**
 
@@ -1901,7 +1901,7 @@ Work Logging & Version Management Reference
 ```
 
 Wiki-Link Opportunities Identified:
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management]]
 - [[Time Management]]
 - [[Project Management]]
 - [[Git]]

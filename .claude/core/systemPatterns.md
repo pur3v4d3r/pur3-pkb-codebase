@@ -298,7 +298,7 @@ Wiki-link density target is 2+ links in and out for every note, with reference n
 
 **Role Distribution**:
 
-**[[Claude Code]]**:
+**[[Claude-Code]]**:
 - **Strengths**: Extended thinking, nuanced language, system prompts
 - **Responsibilities**:
   - Complex reasoning and planning
@@ -307,7 +307,7 @@ Wiki-link density target is 2+ links in and out for every note, with reference n
   - Prompt engineering
   - Architecture design
 
-**[[Gemini Code Assist]]**:
+**[[Gemini-Code-Assist]]**:
 - **Strengths**: Structured reasoning, code execution, quick iterations
 - **Responsibilities**:
   - Technical documentation

@@ -362,14 +362,14 @@ Mastering this methodology does more than just get you better-written articles. 
 
 > [!connection-ideas]
 >
-> The principles discussed here strongly connect to the field of **[[Personal Knowledge Management]] (PKM)** and systems like [[Zettelkasten]].
+> The principles discussed here strongly connect to the field of **[[Personal-Knowledge-Management]] (PKM)** and systems like [[Zettelkasten]].
 >
 >   - A common failure in PKM is creating "blob" notes—large, undifferentiated walls of text on a topic.
 >   - A "Zettelkasten" note, by contrast, is "atomic"—it's about *one idea, one concept.*
 >   - Task decomposition is the *perfect* method for using an LLM to build an atomic PKM. Instead of "Tell me about 'Stoicism'" (which creates a "blob" note), you would decompose:
 >     1.  "Define the 'Logos' in Stoic philosophy." (`[[Stoic Logos]]`)
->     1.  "Define 'Dichotomy of Control.'" (`[[Dichotomy of Control]]`)
->     1.  "How are `[[Stoic Logos]]` and `[[Dichotomy of Control]]` related? Write a brief synthesis." (`[[Logos and Control Link]]`)
+>     1.  "Define 'Dichotomy of Control.'" (`[[Dichotomy-of-Control]]`)
+>     1.  "How are `[[Stoic Logos]]` and `[[Dichotomy-of-Control]]` related? Write a brief synthesis." (`[[Logos and Control Link]]`)
 > 
 > You are using the LLM to generate a *network* of atomic, linked notes, which is the entire goal of a robust PKM system.
 

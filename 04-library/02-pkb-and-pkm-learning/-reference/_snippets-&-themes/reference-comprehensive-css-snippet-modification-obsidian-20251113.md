@@ -34,7 +34,7 @@ aliases: [CSS Snippets, Obsidian Styling, Custom CSS, Snippet Customization]
 
 > [!abstract]
 > **Executive Overview**
-> [[CSS Snippets]] are custom [[Cascading Style Sheets]] files that enable granular modification of [[obsidian]]'s user interface, editor styling, and visual presentation without altering the core application or requiring full theme development. This reference provides comprehensive coverage of CSS snippet architecture, implementation methodology, selector strategies, debugging workflows, and best practices for creating maintainable, effective customizations within the Obsidian ecosystem.
+> [[CSS Snippets]] are custom [[Cascading Style Sheets]] files that enable granular modification of [[Obsidian]]'s user interface, editor styling, and visual presentation without altering the core application or requiring full theme development. This reference provides comprehensive coverage of CSS snippet architecture, implementation methodology, selector strategies, debugging workflows, and best practices for creating maintainable, effective customizations within the Obsidian ecosystem.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -58,12 +58,12 @@ aliases: [CSS Snippets, Obsidian Styling, Custom CSS, Snippet Customization]
 ## 🎯 Foundational Concepts
 
 > [!definition]
-> - **CSS Snippets**:: Self-contained [[CSS]] files stored in `.obsidian/snippets/` that override or extend [[obsidian]]'s default styling and active theme styles through cascading style rules
+> - **CSS Snippets**:: Self-contained [[CSS]] files stored in `.obsidian/snippets/` that override or extend [[Obsidian]]'s default styling and active theme styles through cascading style rules
 > - **Cascade Priority**:: Snippets load after themes and can override theme variables, following standard CSS specificity rules
 
 ### What Are CSS Snippets?
 
-[[CSS Snippets]] represent a middle-ground customization approach between accepting default [[obsidian]] appearance and building complete custom themes. While [[Obsidian Themes]] provide comprehensive visual overhauls, snippets offer surgical precision for targeted modifications. They function as modular style injections that complement rather than replace your active theme.
+[[CSS Snippets]] represent a middle-ground customization approach between accepting default [[Obsidian]] appearance and building complete custom themes. While [[Obsidian Themes]] provide comprehensive visual overhauls, snippets offer surgical precision for targeted modifications. They function as modular style injections that complement rather than replace your active theme.
 
 CSS snippets enable customization of virtually all characteristics of Obsidian's interface, including color, position, and size of UI elements, allowing users to create personalized workspaces aligned with their work style and personality. This modularity means multiple snippets can coexist, each addressing specific styling concerns without interfering with others when properly scoped.
 
@@ -90,9 +90,9 @@ Several strategic advantages make CSS snippets the preferred approach for many c
 > - **Typography Refinement**: Adjusting line height, font size, or letter spacing in the editor without changing the entire font stack
 > - **UI Component Tweaks**: Hiding interface elements, adjusting sidebar widths, or modifying tab bar appearance
 > - **Plugin Harmonization**: Styling third-party plugin interfaces to match your theme aesthetic
-> - **Dataview Table Formatting**: Creating custom table styles for [[dataview]] query results
+> - **Dataview Table Formatting**: Creating custom table styles for [[Dataview]] query results
 > - **Callout Customization**: Adding custom callout types or modifying existing callout appearance
-> - **Per-Note Styling**: Using `cssclasses` [[YAML Frontmatter]] to apply snippet styles to specific notes
+> - **Per-Note Styling**: Using `cssclasses` [[YAML-Frontmatter]] to apply snippet styles to specific notes
 
 ### Relationship to Themes and Core Styling
 
@@ -309,7 +309,7 @@ snippets/
 
 **Desktop (Windows/Mac/Linux)**:
 - Direct file system access makes editing straightforward
-- Use professional code editors ([[VS Code]], [[Sublime Text]]) for syntax highlighting
+- Use professional code editors ([[VS-Code]], [[Sublime Text]]) for syntax highlighting
 - Ctrl+Shift+I (Cmd+Opt+I on macOS) opens Developer Tools for inspection and live testing.
 
 **Mobile (iOS/Android)**:
@@ -1069,7 +1069,7 @@ CSS snippets can add eye-pleasing colors to folders in Obsidian's file explorer,
 
 ### Per-Note Custom Styling
 
-Using `cssclasses` in [[YAML Frontmatter]] enables note-specific styling:
+Using `cssclasses` in [[YAML-Frontmatter]] enables note-specific styling:
 
 **Frontmatter Setup**:
 
@@ -2097,7 +2097,7 @@ STRUCTURAL REASONING:
     │   - [[CSS Selectors]], [[CSS Custom Properties]], [[CSS Variables]]
     │   - [[Obsidian Themes]], [[Obsidian Plugins]], [[Developer Tools]]
     │   - [[Responsive Design]], [[CSS Specificity]], [[CSS Inheritance]]
-    │   - [[File System]], [[YAML Frontmatter]], [[Markdown Rendering]]
+    │   - [[File System]], [[YAML-Frontmatter]], [[Markdown Rendering]]
     │
     └── Expansion topics for knowledge graph:
         - [[Advanced Obsidian Theming Techniques]]

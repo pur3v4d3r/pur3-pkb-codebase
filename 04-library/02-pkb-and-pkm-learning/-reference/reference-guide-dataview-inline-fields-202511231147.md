@@ -40,7 +40,7 @@ aliases: [Dataview Inline Fields, Inline Metadata, Dataview Inline Syntax]
 # 🏷️ Dataview Inline Fields: Complete Reference Guide
 
 > [!the-purpose]
-> **Inline fields** are a core [[Dataview Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
+> **Inline fields** are a core [[Dataview-Plugin]] feature that allows you to embed queryable metadata directly within your note content using the `Key:: Value` syntax. Unlike [[YAML-Frontmatter]] which sits at the top of a note, inline fields let you annotate specific paragraphs, sentences, list items, or tasks with structured data that can be queried, aggregated, and displayed through [[Dataview Query Language]] (DQL) queries.
 
 ## 📐 What Are Inline Fields?
 
@@ -62,7 +62,7 @@ Inline fields offer several advantages over traditional frontmatter:
 
 ## 🔧 Syntax Variations
 
-[[Dataview Plugin]] supports three distinct syntax formats for inline fields, each designed for different use cases.
+[[Dataview-Plugin]] supports three distinct syntax formats for inline fields, each designed for different use cases.
 
 ### Standard Line-Based Syntax
 
@@ -148,7 +148,7 @@ The research methodology employed (methodology:: mixed-methods) across (sample-s
 
 ## 📊 Supported Data Types
 
-[[Dataview Plugin]] automatically interprets inline field values into appropriate data types for querying and manipulation.
+[[Dataview-Plugin]] automatically interprets inline field values into appropriate data types for querying and manipulation.
 
 > [!quick-reference]
 > **Dataview Data Type Auto-Detection:**
@@ -494,7 +494,7 @@ WHERE !task.completed
 > - **Use lowercase with hyphens** for consistency: `project-status`, `due-date`, `team-lead`
 > - **Avoid spaces** unless you're comfortable with sanitized names
 > - **Be descriptive but concise**: `est-hours` rather than `estimated-hours-to-complete`
-> - **Establish naming patterns** across your [[Personal Knowledge Base]]
+> - **Establish naming patterns** across your [[Personal-Knowledge-Base]]
 
 **Handling spaces and capitals:**
 ```markdown
@@ -760,7 +760,7 @@ dv.list(Array.from(fields).sort());
 > 3. Create simple LIST queries accessing single fields
 > 
 > **Level 2: Integration**
-> 4. Mix inline fields with [[YAML Frontmatter]]
+> 4. Mix inline fields with [[YAML-Frontmatter]]
 > 5. Add fields to tasks and query with TASK command
 > 6. Build TABLE queries with multiple field columns
 > 
@@ -787,7 +787,7 @@ dv.list(Array.from(fields).sort());
 1. **[[YAML Frontmatter in Obsidian]]**
    - *Connection*: Complementary metadata system to inline fields; understanding both enables optimal metadata architecture
    - *Depth Potential*: Covers frontmatter syntax, advanced YAML features, nesting, and when to choose frontmatter vs inline fields
-   - *Knowledge Graph Role*: Foundation for [[Metadata Management]] strategy; prerequisite for comprehensive [[Dataview Plugin]] mastery
+   - *Knowledge Graph Role*: Foundation for [[Metadata Management]] strategy; prerequisite for comprehensive [[Dataview-Plugin]] mastery
 
 2. **[[Dataview Query Language (DQL)]]**
    - *Connection*: The query system that makes inline fields useful; without DQL knowledge, inline fields remain dormant data
@@ -797,7 +797,7 @@ dv.list(Array.from(fields).sort());
 3. **[[DataviewJS for Advanced Queries]]**
    - *Connection*: Unlocks programmatic access to inline field data for complex operations beyond DQL capabilities
    - *Depth Potential*: JavaScript API reference, custom rendering, advanced filtering algorithms, bulk operations, and integration with other plugins
-   - *Knowledge Graph Role*: Advanced tier in [[Obsidian Automation]]; enables custom PKB features and sophisticated data transformations
+   - *Knowledge Graph Role*: Advanced tier in [[Obsidian-Automation]]; enables custom PKB features and sophisticated data transformations
 
 4. **[[Metadata Architecture for Personal Knowledge Bases]]**
    - *Connection*: Strategic framework for designing consistent, scalable metadata systems using inline fields and frontmatter

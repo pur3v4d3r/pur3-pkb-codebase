@@ -71,9 +71,9 @@ related-concepts:
   - "[[Elaboration-Theory|Elaboration Theory]]"
   - "[[Retrieval-Practice|Retrieval Practice]]"
   - "[[Encoding-Specificity|Encoding Specificity]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Note Types]]"
-  - "[[Knowledge Graph]]"
+  - "[[Knowledge-Graph]]"
 aliases:
   - Report 09
   - "Report 09: Designing the Learning PKB"

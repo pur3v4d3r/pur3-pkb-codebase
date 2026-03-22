@@ -36,9 +36,9 @@ For the examined life, Epictetus provides the most practical ancient framework: 
 
 ### In Report 02: The Fallible Knower
 
-[[report-02-the-fallible-knower|Report 02]] uses Epictetus's teaching on the **dichotomy of control** to explain how [[fallibilism]] (accepting that all beliefs are potentially mistaken) becomes psychologically sustainable. If you falsely believe your self-worth depends on being right (something partly outside your control), then admitting error becomes threatening. But if you follow Epictetus and invest only in responding well to evidence (fully in your control), fallibilism becomes liberating.
+[[report-02-the-fallible-knower|Report 02]] uses Epictetus's teaching on the **dichotomy of control** to explain how [[Fallibilism]] (accepting that all beliefs are potentially mistaken) becomes psychologically sustainable. If you falsely believe your self-worth depends on being right (something partly outside your control), then admitting error becomes threatening. But if you follow Epictetus and invest only in responding well to evidence (fully in your control), fallibilism becomes liberating.
 
-The report synthesizes Epictetus's prosoche with [[constructivism]]—both require continuous self-monitoring, but Epictetus adds the discipline of *catching yourself* when you make judgments about things outside your control.
+The report synthesizes Epictetus's prosoche with [[Constructivism]]—both require continuous self-monitoring, but Epictetus adds the discipline of *catching yourself* when you make judgments about things outside your control.
 
 **Key concept from R02:** Prosoche enables sustainable fallibilism by training you to notice when ego-defense is interfering with truth-seeking and redirect to what's controllable (your epistemic virtue).
 
@@ -48,7 +48,7 @@ The report synthesizes Epictetus's prosoche with [[constructivism]]—both requi
 
 The report shows how each intellectual virtue can be framed as a Stoic discipline:
 - [[Intellectual-Humility]] = catching overconfidence, redirecting to acknowledgment of fallibility
-- [[Open-mindedness]] = catching dismissiveness, redirecting to genuine consideration
+- [[Open-Mindedness]] = catching dismissiveness, redirecting to genuine consideration
 - [[Intellectual-Courage]] = catching conformity pressure, redirecting to independent judgment
 
 **Key concept from R05:** Epictetus provides the *how* for virtue cultivation—prosoche is the practice that transforms epistemology from theory ("I should be humble") to lived reality ("I habitually catch and correct arrogance").
@@ -63,7 +63,7 @@ The report synthesizes Stoic prosoche with dual-process theory: System 1 generat
 
 ## 🎯 Key Concepts
 
-- **[[Dichotomy of Control]]**: Fundamental Stoic distinction between what's up to you (judgments, values, responses) and what's not (external events, others' actions, outcomes)
+- **[[Dichotomy-of-Control]]**: Fundamental Stoic distinction between what's up to you (judgments, values, responses) and what's not (external events, others' actions, outcomes)
 - **[[Prosoche]]**: Continuous attention/vigilance to one's own judgments and reactions; moment-to-moment self-monitoring
 - **[[Prohairesis]]**: The capacity for choice and moral purpose; Epictetus's term for the authentic self that remains free even in slavery
 - **[[Impressions vs Assent]]**: Distinction between initial appearances (huphar phantasiai—not in your control) and whether you assent to them (in your control)

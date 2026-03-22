@@ -16,7 +16,7 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
+  - "[[Large-Language-Models]]"
 maturity: seedling
 confidence: speculative
 

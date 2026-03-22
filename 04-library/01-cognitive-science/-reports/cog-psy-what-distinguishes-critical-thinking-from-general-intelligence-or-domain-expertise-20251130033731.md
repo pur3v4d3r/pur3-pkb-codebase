@@ -185,7 +185,7 @@ I'll organize this around:
 - Synthesis showing why the distinction matters
 
 **Wiki-Link Opportunities:**
-[[Critical Thinking]], [[General Intelligence]], [[Domain Expertise]], [[Metacognition]], [[Cognitive Biases]], [[Dual Process Theory]], [[Fluid Intelligence]], [[Crystallized Intelligence]], [[Epistemic Cognition]], [[Reflective Thinking]], [[Executive Function]], [[Transfer-of-Learning]], [[Cognitive Flexibility]]
+[[Critical-Thinking]], [[General-Intelligence]], [[Domain Expertise]], [[Metacognition]], [[Cognitive-Biases]], [[Dual-Process-Theory]], [[Fluid Intelligence]], [[Crystallized Intelligence]], [[Epistemic-Cognition]], [[Reflective-Thinking]], [[Executive-Function]], [[Transfer-of-Learning]], [[Cognitive Flexibility]]
 
 **Callout Strategy:**
 - [!abstract] for overview
@@ -205,17 +205,17 @@ aliases: [CT vs IQ, Rationality and Intelligence, Critical Thinking Distinctions
 ---
 
 > [!abstract]
-> The relationship between [[Critical Thinking]], [[General Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
+> The relationship between [[Critical-Thinking]], [[General-Intelligence]], and [[Domain Expertise]] represents one of the most consequential yet misunderstood distinctions in cognitive science and educational psychology. While these constructs are often conflated in everyday discourse and even professional contexts, contemporary research reveals they constitute fundamentally different cognitive phenomena with distinct neurological substrates, developmental trajectories, and practical implications. Understanding these distinctions is essential not merely for theoretical precision but for addressing urgent practical questions about how we educate, select talent, and structure environments for optimal human performance. This exploration synthesizes findings from psychometrics, cognitive neuroscience, rationality research, and educational psychology to illuminate what makes critical thinking unique and why possessing high intelligence or deep expertise does not guarantee rational, effective thinking in real-world contexts.
 
 ## 🧠 The Fundamental Architecture: Three Distinct Cognitive Constructs
 
 The confusion surrounding these three constructs stems partly from their overlapping manifestations in intelligent behavior, but research conducted over the past three decades—particularly the groundbreaking work of cognitive psychologist Keith Stanovich and his colleagues at the University of Toronto—has established that they represent separable cognitive competencies with only modest correlations. The distinction is not merely academic; it has profound implications for how we understand human decision-making failures, educational outcomes, and professional performance.
 
 > [!definition]
-> **[[Critical Thinking]]** is the use of cognitive skills and intellectual dispositions that increase the probability of desirable outcomes through reflective, evidence-based judgment. It encompasses both the *ability* to employ specific reasoning strategies (skills) and the *inclination* to do so when appropriate (dispositions), along with the knowledge structures necessary for rational evaluation.
+> **[[Critical-Thinking]]** is the use of cognitive skills and intellectual dispositions that increase the probability of desirable outcomes through reflective, evidence-based judgment. It encompasses both the *ability* to employ specific reasoning strategies (skills) and the *inclination* to do so when appropriate (dispositions), along with the knowledge structures necessary for rational evaluation.
 
 > [!definition]
-> **[[General Intelligence]]** (often symbolized as $g$ in psychometric literature) refers to the computational power and processing efficiency of cognitive systems, typically operationalized as performance on standardized tests measuring abilities such as [[Fluid Intelligence]] (abstract reasoning and novel problem-solving), [[Crystallized Intelligence]] (accumulated knowledge), working memory capacity, and processing speed. Intelligence represents the *algorithmic mind*—the raw computational machinery available for cognitive operations.
+> **[[General-Intelligence]]** (often symbolized as $g$ in psychometric literature) refers to the computational power and processing efficiency of cognitive systems, typically operationalized as performance on standardized tests measuring abilities such as [[Fluid Intelligence]] (abstract reasoning and novel problem-solving), [[Crystallized Intelligence]] (accumulated knowledge), working memory capacity, and processing speed. Intelligence represents the *algorithmic mind*—the raw computational machinery available for cognitive operations.
 
 > [!definition]
 > **[[Domain Expertise]]** constitutes specialized knowledge, pattern recognition abilities, and procedural fluency acquired through extensive deliberate practice within a specific field of inquiry. Expertise is characterized by vast repositories of domain-specific schemas, heuristics, and mental models that enable superior performance on tasks within that domain but show limited transfer to other domains.
@@ -227,7 +227,7 @@ The critical insight from contemporary cognitive science is that these three con
 
 ## ⚙️ The Cognitive Mechanisms: How They Differ Functionally
 
-Understanding the functional differences between these constructs requires examining how they operate within the cognitive architecture. The most influential framework for understanding these distinctions comes from [[Dual Process Theory]], which posits two fundamentally different types of cognitive processing.
+Understanding the functional differences between these constructs requires examining how they operate within the cognitive architecture. The most influential framework for understanding these distinctions comes from [[Dual-Process-Theory]], which posits two fundamentally different types of cognitive processing.
 
 **Type 1 processing** (also called System 1 or the autonomous set of systems) operates rapidly, automatically, and with minimal conscious awareness or working memory demand. This processing includes both evolutionarily ancient responses and well-practiced, automatized procedures. Type 1 processing is responsible for our immediate intuitions, snap judgments, pattern recognition, and emotional reactions. Intelligence has relatively little influence over Type 1 processing—these responses arise largely from either innate mechanisms or extensive practice that has rendered certain operations automatic.
 
@@ -381,7 +381,7 @@ The practical implications are profound. In education, we must move beyond the f
 
 # 🔗 Related Topics for PKB Expansion
 
-1. **[[Dual Process Theory]]**
+1. **[[Dual-Process-Theory]]**
    - *Connection*: Provides the foundational cognitive architecture explaining how critical thinking operates through the interaction between automatic (Type 1) and controlled (Type 2) processing systems
    - *Depth Potential*: Exploration of the neural substrates, evolutionary origins, and conditions triggering each processing mode would illuminate the mechanistic basis for rational thought
    - *Knowledge Graph Role*: Serves as the cognitive-architectural foundation linking critical thinking to broader research on consciousness, automaticity, and cognitive control

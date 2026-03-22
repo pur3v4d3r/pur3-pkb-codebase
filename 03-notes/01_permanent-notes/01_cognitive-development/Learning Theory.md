@@ -38,45 +38,45 @@ link-related:
   - "[[Biologically Secondary Knowledge]]"
   - "[[Chunking]]"
   - "[[Cognitive Distortions]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Cognitive-Science]]"
   - "[[Cognitive Theory]]"
   - "[[Cognitive Training]]"
   - "[[Cognitivism]]"
   - "[[Constructivism]]"
-  - "[[Critical Thinking]]"
-  - "[[Deliberate Practice]]"
-  - "[[Dual Process Theory]]"
-  - "[[Educational Psychology]]"
+  - "[[Critical-Thinking]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Educational-Psychology]]"
   - "[[Heutagogy]]"
   - "[[Illusions Of Comprehension]]"
   - "[[Information Theory]]"
-  - "[[Instructional Design]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[Instructional-Design]]"
+  - "[[Intrinsic-Motivation]]"
   - "[[Kolb's-Experiential-Learning-Cycle]]"
   - "[[Learner Autonomy Spectrum]]"
   - "[[Library Science]]"
-  - "[[Locus Of Control]]"
+  - "[[Locus-of-Control]]"
   - "[[Long-Term Working Memory]]"
-  - "[[Long-Term Memory]]"
+  - "[[Long-Term-Memory]]"
   - "[[Metacognition]]"
-  - "[[More Knowledgeable Other]]"
+  - "[[More-Knowledgeable-Other]]"
   - "[[Neuroplastic]]"
   - "[[Pedagogy]]"
   - "[[Retrieval Structures]]"
   - "[[Scaffolding]]"
-  - "[[Self Determination Theory]]"
-  - "[[Self Directed Learning]]"
+  - "[[Self-Determination-Theory]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Self-Regulated-Learning]]"
   - "[[Signal Detection Theory]]"
   - "[[Self-Regulation-Theory]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]"
   - "[[System Building]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Working Memory]]"
-  - "[[Zone Of Proximal Development]]"
+  - "[[Working-Memory]]"
+  - "[[Zone-of-Proximal-Development]]"
 status: active
 
 
@@ -205,8 +205,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

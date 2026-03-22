@@ -83,7 +83,7 @@ Please structure this into a proper note by:
 2. Generating 3-5 relevant tags in the format #topic/subtopic
 3. Writing a one-paragraph summary (50-75 words)
 4. Extracting the 3 most important key points as bullet points
-5. Suggesting 2-3 existing notes this might connect to (use [[note name]] format)
+5. Suggesting 2-3 existing notes this might connect to (use [[Note-Name]] format)
 6. Creating a "Questions to Explore" section with 2 thought-provoking questions
 7. Adding a metadata section with source, date captured, and relevance score (1-5)
 
@@ -888,8 +888,8 @@ Analyze all notes from this month and create:
     ```
     CENTER: [Month] Learning Journey
     ├── Branch 1: [Main Topic]
-    │   ├── Sub-topic 1.1: [[related note]]
-    │   ├── Sub-topic 1.2: [[related note]]
+    │   ├── Sub-topic 1.1: [[Related-Note]]
+    │   ├── Sub-topic 1.2: [[Related-Note]]
     │   └── Key Insight: "..."
     ├── Branch 2: [Secondary Topic]
     │   ├── Sub-topic 2.1

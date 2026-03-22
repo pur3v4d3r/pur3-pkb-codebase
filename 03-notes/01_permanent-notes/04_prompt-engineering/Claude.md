@@ -17,15 +17,15 @@ link-up:
 link-related:
   - "[[Gemini]]"
   - "[[Claude Sonnet 4.5]]"
-  - "[[Claude Opus 4]]"
+  - "[[Claude-Opus-4]]"
   - "[[Claude Project]]"
   - "[[Anthropic]]"
   - "[[Transformer Architecture]]"
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
+  - "[[Large-Language-Models]]"
   - "[[Meta-Prompt]]"
   - "[[Prompt Architect]]"
-  - "[[Prompt Engineering]]"
+  - "[[Prompt-Engineering]]"
   - "[[Reinforcement Learning From Human Feedback]]"
 maturity: seedling
 confidence: speculative

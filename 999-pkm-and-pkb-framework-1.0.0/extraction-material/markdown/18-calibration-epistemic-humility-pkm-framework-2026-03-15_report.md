@@ -559,7 +559,7 @@ extraction_summary:
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Obsidian]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
 - [[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]
@@ -597,7 +597,7 @@ extraction_summary:
 | 8 | [[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]] | Socratic philosophy | — | The Problem That Hides Behind Every O... | 139 |
 | 9 | [[Virtue-Epistemology|Virtue Epistemology]] | virtue epistemology | — | The Problem That Hides Behind Every O... | 139 |
 | 10 | [[Epistemic-Humility|Epistemic Humility]] | epistemic humility | — | The Problem That Hides Behind Every O... | 139 |
-| 11 | [[Report 04]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
+| 11 | [[Report-04]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 12 | [[Report 07: Critical Thinking as PKM Practice]] | Report 07 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 13 | [[Report 12]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 14 | [[Report 16]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
@@ -649,7 +649,7 @@ extraction_summary:
 - [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Obsidian]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
 - [[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]

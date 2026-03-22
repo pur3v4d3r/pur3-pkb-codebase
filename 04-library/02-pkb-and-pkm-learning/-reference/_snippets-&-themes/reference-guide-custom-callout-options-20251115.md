@@ -44,7 +44,7 @@ link-related:
 # 🎨 Complete Obsidian Callout Customization Reference
 
 > [!abstract]
-> This reference note provides an exhaustive taxonomy of all [[CSS]] customization options, syntax patterns, and modification techniques for [[obsidian]] callouts. It covers native callout features, [[CSS Variables]], [[CSS Selectors]], pseudo-elements, [[Style Settings Plugin]] integration, and advanced styling techniques. This serves as a complete foundational resource for custom callout visualization development.
+> This reference note provides an exhaustive taxonomy of all [[CSS]] customization options, syntax patterns, and modification techniques for [[Obsidian]] callouts. It covers native callout features, [[CSS Variables]], [[CSS Selectors]], pseudo-elements, [[Style Settings Plugin]] integration, and advanced styling techniques. This serves as a complete foundational resource for custom callout visualization development.
 
 ---
 

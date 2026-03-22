@@ -37,7 +37,7 @@ related_concepts:
   - "[[Inquiry-Node|Inquiry Node]]"
   - "[[Productive-Failure|Productive Failure]]"
   - "[[Desirable-Difficulties|Desirable Difficulties]]"
-  - "[[Generative Processing]]"
+  - "[[Generative-Processing]]"
   - "[[Epistemic Curiosity]]"
   - "[[Schema Disequilibrium]]"
   - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
@@ -125,7 +125,7 @@ This report addresses that gap at its conceptual root. Three intellectual tradit
 
 ### The Synthesis Question
 
-This report addresses a specific question where four intellectual traditions intersect: **How do [[Socratic Questioning]] and the practice of [[Socratic-Method-Elenchus|Elenchus]] (Plato, ~380 BCE), [[Dewey's Inquiry Model]] with its concept of [[Felt-Difficulty|Felt Difficulty]] (Dewey, 1910/1933), [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] and the principle of [[Generative-Learning|Generative Learning]] (Jonassen, 1999; Wittrock, 1990), and the cognitive science of [[Elaborative-Interrogation|Elaborative Interrogation]] (King, 1992; Woloshyn et al., 1994) combine to inform the design of inquiry-based workflows in a PKB — and what concrete architectural decisions does this synthesis require?**
+This report addresses a specific question where four intellectual traditions intersect: **How do [[Socratic-Questioning]] and the practice of [[Socratic-Method-Elenchus|Elenchus]] (Plato, ~380 BCE), [[Dewey's Inquiry Model]] with its concept of [[Felt-Difficulty|Felt Difficulty]] (Dewey, 1910/1933), [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] and the principle of [[Generative-Learning|Generative Learning]] (Jonassen, 1999; Wittrock, 1990), and the cognitive science of [[Elaborative-Interrogation|Elaborative Interrogation]] (King, 1992; Woloshyn et al., 1994) combine to inform the design of inquiry-based workflows in a PKB — and what concrete architectural decisions does this synthesis require?**
 
 The answer is not "ask more questions before you take notes." It is, again, architectural. These four traditions, taken together, prescribe a specific redesign of the fundamental unit of a PKB: from the assertion (a claim recorded as settled) to the inquiry node (a living question surrounded by exploration, provisional answers, evidence, and a visible revision trail). This is not a superficial stylistic shift. It changes what the system is *for*, how links between notes function, how review should be structured, and what counts as success in PKM practice.
 

@@ -67,7 +67,7 @@ I need to search for:
 - Future directions
 
 **Wiki-Link Opportunities:**
-[[Neuroplasticity]], [[Anterior Cingulate Cortex]], [[Mindfulness Meditation]], [[Cognitive Training]], [[03-notes/01_permanent-notes/01_cognitive-development/Attention]], [[Executive Function]], [[Default Mode Network]], [[Synaptic Plasticity]], [[Long-Term Potentiation]], [[Gray Matter Density]], [[Functional Connectivity]], [[Neuroimaging]]
+[[Neuroplasticity]], [[Anterior Cingulate Cortex]], [[Mindfulness Meditation]], [[Cognitive Training]], [[03-notes/01_permanent-notes/01_cognitive-development/Attention]], [[Executive-Function]], [[Default Mode Network]], [[Synaptic Plasticity]], [[Long-Term Potentiation]], [[Gray Matter Density]], [[Functional Connectivity]], [[Neuroimaging]]
 
 **Callout Strategy:**
 - [!abstract] for overview
@@ -200,7 +200,7 @@ The theoretical justification for cognitive training draws heavily on neuroplast
 
 ### Executive Function Training and Prefrontal Plasticity
 
-Among cognitive training domains, **[[Executive Function]]** training—targeting capacities including working memory, cognitive flexibility, response inhibition, and task switching—has received particular attention due to executive functions' roles in numerous higher-order cognitive processes and their documented decline with aging and in various neuropsychiatric conditions. Training programs focusing on executive functions show consistent improvements on trained tasks, with behavioral performance gains accompanied by structural changes evidenced through increases in gray matter volume and cortical thickness, particularly in prefrontal regions.
+Among cognitive training domains, **[[Executive-Function]]** training—targeting capacities including working memory, cognitive flexibility, response inhibition, and task switching—has received particular attention due to executive functions' roles in numerous higher-order cognitive processes and their documented decline with aging and in various neuropsychiatric conditions. Training programs focusing on executive functions show consistent improvements on trained tasks, with behavioral performance gains accompanied by structural changes evidenced through increases in gray matter volume and cortical thickness, particularly in prefrontal regions.
 
 The prefrontal cortex and anterior cingulate cortex—regions most vulnerable to age-related decline—represent primary targets for executive function training. Numerous neuroimaging studies have demonstrated activation differences between physically and cognitively fit individuals and their less-fit peers in key control-related cortical areas including the dorsolateral prefrontal cortex and anterior cingulate, with the latter implicated in attention allocation and conflict detection. Training interventions aiming to strengthen these regions capitalize on the brain's preserved capacity for plasticity even in older age, though the magnitude of training effects and extent of transfer appear more limited in elderly populations compared to younger adults.
 

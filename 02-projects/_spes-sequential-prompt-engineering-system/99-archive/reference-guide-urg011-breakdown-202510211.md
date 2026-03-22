@@ -108,7 +108,7 @@ The process is essentially a form of **Structured Reasoning and Output Specifica
 3.  **Internal Coherence (Internal Synthesis):** By requiring an "internal summary" or pre-writing outline, this step acts as a self-correction mechanism, akin to a **Chain-of-Thought (CoT)** or **Tree-of-Thought (ToT)** process. It forces the model to synthesize the complex research before writing, guaranteeing a coherent, well-structured final output.
 4.  **Structural Mandate (Synthesize & Structure for Understanding):** This step explicitly ties the content to a pre-defined format, the "Deep Exposition Structure," which is key to layering knowledge from "foundational laws to broad implications," a highly effective pattern for learning and PKB note creation.
 5.  **Compositional Goal (Compose the Exposition):** The "Core Explanatory Mandate" emphasizes that the purpose is not just to present facts, but to actively facilitate the user's **deep understanding** of the subject, aligning with your overall learning goal.
-6.  **Obsidian PKB Compliance (Format for PKB Integration):** The final instruction ensures the output is a **single, ready-to-use block of Markdown** that includes **[[Wiki-Links]]**, making the generated text instantly actionable for creating new notes and establishing connections within your existing Obsidian PKB structure.
+6.  **Obsidian PKB Compliance (Format for PKB Integration):** The final instruction ensures the output is a **single, ready-to-use block of Markdown** that includes **[[wiki-links]]**, making the generated text instantly actionable for creating new notes and establishing connections within your existing Obsidian PKB structure.
 
 `In essence, this is a custom-designed, multi-stage instruction set that elevates a simple query into a` **knowledge-generation pipeline** `optimized for academic rigor, structured learning, and seamless integration into your specific Obsidian workflow.`
 
@@ -128,7 +128,7 @@ Then you can start to use other sources if you still need more information.
 
 **Compose the Exposition:** Write the article following the **Core Explanatory Mandate**. The goal is not just to state facts, but to make them deeply understood.
 
-**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[Wiki-Links]] where applicable.
+**Format for PKB Integration:** The entire output must be a single block of text formatted in Markdown, ready for seamless integration into a knowledge base like Obsidian. Use [[wiki-links]] where applicable.
 ```
 
 ## **Type:** PKB Output Specification and Formatting Protocol 📐

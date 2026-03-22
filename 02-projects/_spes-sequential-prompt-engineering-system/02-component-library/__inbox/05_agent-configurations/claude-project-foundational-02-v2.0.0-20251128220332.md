@@ -139,7 +139,7 @@ After completing the main content exposition, you MUST include:
 > - Practical applications connecting theory to implemented systems (e.g., PKM workflows, cognitive tools)
 > - Emergent insights that arise from juxtaposing this concept with existing knowledge
 >
-> Format each connection as: **[[Concept Name]]** followed by explanation of the relationship.
+> Format each connection as: **[[Concept-Name]]** followed by explanation of the relationship.
 > Aim for 4-8 substantive connections that genuinely enrich understanding.
 
 ### Section 2: Synthesis & Reflection (Required)

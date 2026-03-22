@@ -29,7 +29,7 @@ review-priority: medium
 # Progressive Summarization
 
 > [!definition]
-> - **Key-Term**:[[Progressive Summarization]]
+> - **Key-Term**:[[Progressive-Summarization]]
 > - [**Definition**:]
 
 > [!evidence]

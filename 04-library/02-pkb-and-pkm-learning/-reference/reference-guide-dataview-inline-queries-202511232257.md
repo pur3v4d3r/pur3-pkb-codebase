@@ -46,14 +46,14 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 # ⚡ Dataview Inline Queries — Implementation Guide
 
 > [!the-purpose]
-> **Inline queries bring dynamic, computed information directly into your prose.** Unlike traditional [[Dataview Plugin]] code blocks that create separate query results sections, inline queries embed live data seamlessly within sentences and paragraphs, making your notes reactive to your vault's changing state.
+> **Inline queries bring dynamic, computed information directly into your prose.** Unlike traditional [[Dataview-Plugin]] code blocks that create separate query results sections, inline queries embed live data seamlessly within sentences and paragraphs, making your notes reactive to your vault's changing state.
 
 ---
 
 ## 🎯 Core Concept
 
 > [!definition]
-> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[Personal Knowledge Base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
+> **Dataview Inline Queries** are compact, single-line expressions that execute [[Dataview Query Language]] (DQL) computations and render results directly within text. They transform static notes into dynamic views of your [[Personal-Knowledge-Base]], displaying metadata, calculations, and aggregations that update automatically as your vault evolves.
 
 > [!analogy]
 > Think of inline queries as **embedded spreadsheet cells** in your text. Just as Excel formulas calculate values based on other cells, inline queries compute values based on your vault's metadata. The difference? They read naturally within prose rather than living in a separate calculation layer.
@@ -92,17 +92,17 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 ```
 
 > [!what-this-does]
-> Accesses [[YAML Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[YAML-Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 
 #### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
-`= [[Note Name]].field-name`
+`= [[Note-Name]].field-name`
 `= [[Project Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
 
 > [!what-this-does]
-> Retrieves metadata from **other notes** via [[Wiki-Links]]. Essential for creating relational connections between notes.
+> Retrieves metadata from **other notes** via [[wiki-links]]. Essential for creating relational connections between notes.
 
 #### 3️⃣ **Query Results** (Vault-Wide Aggregation)
 ```markdown
@@ -216,7 +216,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!what-this-does]
-> The `this.file.tasks` property accesses **all tasks in the current note**, enabling progress calculations without manual counting. Combine with [[Task Management]] plugins like Tasks for even more powerful workflows.
+> The `this.file.tasks` property accesses **all tasks in the current note**, enabling progress calculations without manual counting. Combine with [[Task-Management]] plugins like Tasks for even more powerful workflows.
 
 ---
 
@@ -338,7 +338,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!what-this-does]
-> This dashboard becomes a **living nerve center** for your [[Personal Knowledge Base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
+> This dashboard becomes a **living nerve center** for your [[Personal-Knowledge-Base]]. Every time you open it, the numbers reflect your vault's current state with zero manual updates.
 
 ---
 
@@ -370,7 +370,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > ```
 
 > [!helpful-tip]
-> Combine with a [[quickadd]] macro that updates `word-count` frontmatter field on save for fully automated progress tracking.
+> Combine with a [[QuickAdd]] macro that updates `word-count` frontmatter field on save for fully automated progress tracking.
 
 ---
 
@@ -481,7 +481,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 > 
 > 2. **Strategic Scoping** — Narrow queries to specific folders or tags rather than querying entire vault when possible. This maintains performance at scale.
 > 
-> 3. **Metadata First** — Establish robust [[YAML Frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
+> 3. **Metadata First** — Establish robust [[YAML-Frontmatter]] conventions before implementing complex queries. Consistent metadata architecture is foundational to reliable inline query results.
 
 > [!helpful-tip]
 > **Implementation Strategy for New Users:**
@@ -498,7 +498,7 @@ aliases: [Dataview Inline DQL, Inline Dataview Syntax, DQL Inline Queries, Embed
 1. **[[Dataview Query Language (DQL)]]**
    - *Connection*: Inline queries are a subset of DQL; full query blocks offer expanded capabilities including table and list views
    - *Depth Potential*: Comprehensive DQL mastery enables building complex knowledge management automation and dynamic MOCs
-   - *Knowledge Graph Role*: Foundational skill for creating reactive [[Personal Knowledge Base]] architectures
+   - *Knowledge Graph Role*: Foundational skill for creating reactive [[Personal-Knowledge-Base]] architectures
 
 2. **[[DataviewJS — JavaScript API]]**
    - *Connection*: When inline DQL hits limitations, DataviewJS provides full programmatic control over query rendering and computation
@@ -567,20 +567,20 @@ This request is for a reference note about Dataview inline queries - a specific 
 ```
 
 **Wiki-Link Opportunities Identified:**
-- [[Dataview Plugin]]
+- [[Dataview-Plugin]]
 - [[Dataview Query Language]] (DQL)
 - [[Obsidian Metadata]]
-- [[YAML Frontmatter]]
+- [[YAML-Frontmatter]]
 - [[Inline Fields]]
 - [[Dataview Functions]]
 - [[JavaScript Dataview]] (DataviewJS)
 - [[Template Integration]]
 - [[MOC]] (Maps of Content)
 - [[Dashboard Design]]
-- [[Task Management]]
+- [[Task-Management]]
 - [[Daily Notes]]
 - [[Zettelkasten]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization]]
 - [[Regular Expressions]]
 
 **Callout Strategy:**

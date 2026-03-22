@@ -31,7 +31,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Locus Of Control]]
+> - **Key-Term**:[[Locus-of-Control]]
 > - **Definition**::
 
 

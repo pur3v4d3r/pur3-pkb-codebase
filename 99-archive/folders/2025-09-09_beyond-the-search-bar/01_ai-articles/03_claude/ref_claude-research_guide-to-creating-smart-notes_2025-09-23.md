@@ -40,7 +40,7 @@ Essential metadata fields include **core identifiers** (title, created date, mod
 
 **Tags function as flexible organizational layers** that transcend rigid hierarchical structures. Effective tag taxonomies use consistent patterns: `#status/` for note development stages, `#type/` for content categories, `#priority/` for importance levels, and `#pkb/` for maintenance schedules. Research supports semantic organization (by meaning) over syntactic organization (by format).
 
-**Contextual linking transforms isolated information into knowledge networks**. The critical innovation lies not in creating links, but in explicitly stating why each connection matters. Rather than generic "see also" references, effective links explain relationships: "This concept challenges the assumption underlying [[Previous Concept]]" or "This evidence supports the framework developed in [[Related Theory]]".
+**Contextual linking transforms isolated information into knowledge networks**. The critical innovation lies not in creating links, but in explicitly stating why each connection matters. Rather than generic "see also" references, effective links explain relationships: "This concept challenges the assumption underlying [[Previous-Concept]]" or "This evidence supports the framework developed in [[Related Theory]]".
 
 Link context creates **semantic relationships** that improve knowledge retention versus simple hyperlinking. Studies show that meaningful connection explanations help users build mental models of information relationships and enable more effective knowledge retrieval.
 

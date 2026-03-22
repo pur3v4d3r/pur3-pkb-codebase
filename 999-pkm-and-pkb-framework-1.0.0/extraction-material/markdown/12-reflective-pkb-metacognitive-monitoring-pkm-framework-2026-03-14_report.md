@@ -564,7 +564,7 @@ extraction_summary:
 - [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
 - [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]
@@ -595,12 +595,12 @@ extraction_summary:
 | 14 | [[Educational-Psychology|Educational Psychology]] | — | — | The Synthesis Question and Its Relati... | 145 |
 | 15 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Synthesis Question and Its Relati... | 145 |
 | 16 | [[Behavioral-Science|Behavioral Science]] | — | — | The Synthesis Question and Its Relati... | 145 |
-| 17 | [[Report 04]] | — | — | The Monitoring Processes and What The... | 161 |
+| 17 | [[Report-04]] | — | — | The Monitoring Processes and What The... | 161 |
 | 18 | [[Zimmerman-SRL-Model|Zimmerman SRL Model]] | Zimmerman's | — | Zimmerman's SRL Cycle as a PKB Struct... | 182 |
 | 19 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Gollwitzer's Implementation Intention... | 194 |
 | 20 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Fluency Illusion Evidence Base | 225 |
 | 21 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Why PKB Designs Accidentally Undermin... | 282 |
-| 22 | [[Report 04]] | — | — | Return-and-Deepen: The Monitoring-Con... | 316 |
+| 22 | [[Report-04]] | — | — | Return-and-Deepen: The Monitoring-Con... | 316 |
 | 23 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
 | 24 | [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 449 |
 | 25 | [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 451 |
@@ -644,7 +644,7 @@ extraction_summary:
 - [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
 - [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
 - [[Personal-Knowledge-Base|Personal Knowledge Base]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]

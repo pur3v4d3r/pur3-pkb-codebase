@@ -18,7 +18,7 @@ date modified: Saturday, September 27th 2025, 2:59:42 am
 
 
 > [!the-purpose]
-> **Literature Note** - This is a Literature Note create by me Pur3v4d3r, I created this note during Active Reading. The point is to compose a note that entails all my thoughts during the reading of any type of reading material. I will then take this not and begin to [[Progressive Summarization]] on this note until I reach a point I feel its ready to be turned into either a `#Permanent-Note(s) or an #Atomic-Note(s).`
+> **Literature Note** - This is a Literature Note create by me Pur3v4d3r, I created this note during Active Reading. The point is to compose a note that entails all my thoughts during the reading of any type of reading material. I will then take this not and begin to [[Progressive-Summarization]] on this note until I reach a point I feel its ready to be turned into either a `#Permanent-Note(s) or an #Atomic-Note(s).`
 	
 # Random Thoughts:
 

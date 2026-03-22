@@ -102,7 +102,7 @@ created: 2025-12-17
 
 **Suggested Concepts**:
 - [[Expansion Section]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph]]
 - [[Topic Discovery]]
 - [[PKB Growth]]
 
@@ -157,7 +157,7 @@ created: 2025-12-17
 **Type**: Sequential-chain
 
 **Suggested Concepts**:
-- [[Claude Code]]
+- [[Claude-Code]]
 - [[Multi-Mode Operation]]
 - [[Vault Integration]]
 - [[System Prompt]]
@@ -228,7 +228,7 @@ created: 2025-12-17
 
 **Suggested Concepts**:
 - [[QuickAdd]]
-- [[Task Management]]
+- [[Task-Management]]
 - [[Capture Workflow]]
 
 ---

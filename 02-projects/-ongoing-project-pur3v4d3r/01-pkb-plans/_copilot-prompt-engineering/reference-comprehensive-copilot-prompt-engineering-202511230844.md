@@ -48,11 +48,11 @@ aliases: [Copilot Prompting, Obsidian Copilot Prompts, Copilot PE, Copilot Promp
 
 > [!abstract]
 > **Executive Overview**
-> Copilot for Obsidian is an in-vault AI assistant that provides chat-based interfaces, vault search capabilities, and powerful context processing within Obsidian's workspace. This reference note comprehensively documents [[Prompt Engineering]] techniques specific to the [[Copilot Plugin]], covering system prompt architecture, custom prompt design, placeholder templating, [[RAG]] (Retrieval-Augmented Generation) optimization, and advanced prompt patterns for knowledge work within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems.
+> Copilot for Obsidian is an in-vault AI assistant that provides chat-based interfaces, vault search capabilities, and powerful context processing within Obsidian's workspace. This reference note comprehensively documents [[Prompt-Engineering]] techniques specific to the [[Copilot Plugin]], covering system prompt architecture, custom prompt design, placeholder templating, [[RAG]] (Retrieval-Augmented Generation) optimization, and advanced prompt patterns for knowledge work within [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems.
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 9 major sections covering all aspects of prompt engineering with Obsidian Copilot. Use the table of contents below for quick navigation to specific techniques, or search for specific placeholders and patterns using [[Wiki-Links]]. Each section includes practical examples, implementation code, and best practices derived from community documentation and development insights.
+> This reference note is organized into 9 major sections covering all aspects of prompt engineering with Obsidian Copilot. Use the table of contents below for quick navigation to specific techniques, or search for specific placeholders and patterns using [[wiki-links]]. Each section includes practical examples, implementation code, and best practices derived from community documentation and development insights.
 
 ## 📑 Table of Contents
 
@@ -76,7 +76,7 @@ aliases: [Copilot Prompting, Obsidian Copilot Prompts, Copilot PE, Copilot Promp
 
 ### Foundational Architecture
 
-Copilot for Obsidian operates as an in-vault AI assistant with chat-based vault search, web and YouTube support, powerful context processing, and expanding agentic capabilities while keeping user data under local control. The plugin's architecture centers around **model-agnostic prompting**, meaning prompt engineering techniques must account for differences between [[OpenAI]], [[Anthropic]], [[Google Gemini]], [[Cohere]], and local models via [[Ollama]] or [[LM Studio]].
+Copilot for Obsidian operates as an in-vault AI assistant with chat-based vault search, web and YouTube support, powerful context processing, and expanding agentic capabilities while keeping user data under local control. The plugin's architecture centers around **model-agnostic prompting**, meaning prompt engineering techniques must account for differences between [[OpenAI]], [[Anthropic]], [[Google-Gemini]], [[Cohere]], and local models via [[Ollama]] or [[LM Studio]].
 
 The core architectural components that influence prompt design include:
 
@@ -139,7 +139,7 @@ Users can use their own system prompt and choose between different embedding pro
 1. **Role Definition**: Clearly establish the AI's identity and expertise domain
 2. **Output Format Specification**: Define structure, tone, and formatting expectations
 3. **Constraint Declaration**: Set boundaries on behavior, content types, and scope
-4. **Context Awareness**: Acknowledge the [[obsidian]] environment and [[Zettelkasten]] methodology
+4. **Context Awareness**: Acknowledge the [[Obsidian]] environment and [[Zettelkasten]] methodology
 
 > [!methodology-and-sources]
 > **System Prompt Template Structure**
@@ -273,7 +273,7 @@ Key best practices include being specific in instructions to get the best result
 > [2-3 paragraphs explaining the concept]
 > 
 > ## Connections
-> - Related to: [[Concept 1]], [[Concept 2]]
+> - Related to: [[Concept-1]], [[Concept-2]]
 > - Contrasts with: [[Concept 3]]
 > 
 > ## Sources
@@ -418,7 +418,7 @@ Placeholders can be used to do anything normally done inside ChatGPT, but direct
 > Analyze {activeNote}
 > 
 > ## Comparative Context
-> Compare insights with {[[Related Concept]]} and {[[Alternative Framework]]}
+> Compare insights with {[[Related-Concept]]} and {[[Alternative Framework]]}
 > 
 > ## Domain Context
 > Consider broader themes from {#domain-tag}
@@ -1444,7 +1444,7 @@ Default chat model is "copilot-plus-flash" (Gemini Flash with one context window
 > [!the-philosophy]
 > **The Philosophy of Copilot Prompt Engineering**
 > 
-> Prompt engineering in Copilot is fundamentally about **augmenting human thinking within a networked knowledge environment**. Unlike standalone LLM interfaces, Copilot prompts exist within the context of an evolving [[Personal Knowledge Base]], where each interaction should:
+> Prompt engineering in Copilot is fundamentally about **augmenting human thinking within a networked knowledge environment**. Unlike standalone LLM interfaces, Copilot prompts exist within the context of an evolving [[Personal-Knowledge-Base]], where each interaction should:
 > 
 > 1. **Strengthen the knowledge graph** through thoughtful linking
 > 2. **Respect the vault's existing structure** (Zettelkasten, PARA, etc.)
@@ -1652,7 +1652,7 @@ Archives:
 4. **[[Agentic AI Workflows in Personal Knowledge Management]]**
    - *Connection*: Copilot Plus section introduces agentic patterns; broader exploration would cover autonomous workflows beyond Copilot, including GPT Actions, LangChain integration, and multi-agent systems
    - *Depth Potential*: Tool-use patterns, chain-of-thought orchestration, error handling in autonomous systems, safety constraints, integration with Obsidian Dataview/Templater/QuickAdd for full automation
-   - *Knowledge Graph Role*: Positions Copilot's agentic features within larger landscape of [[AI Agents]], [[Workflow Automation]], and [[Cognitive Augmentation]] systems
+   - *Knowledge Graph Role*: Positions Copilot's agentic features within larger landscape of [[AI-Agents]], [[Workflow Automation]], and [[Cognitive Augmentation]] systems
 
 
 ```
@@ -1681,10 +1681,10 @@ Structural Planning:
   - Best practices and workflows
   
 - Wiki-Link Opportunities:
-  - [[Obsidian]], [[Copilot Plugin]], [[Prompt Engineering]]
-  - [[LLM]], [[Context Window]], [[System Prompts]]
-  - [[RAG]], [[Semantic Search]], [[Embeddings]]
-  - [[Chain-of-Thought]], [[Few-Shot Learning]]
+  - [[Obsidian]], [[Copilot Plugin]], [[Prompt-Engineering]]
+  - [[LLM]], [[Context-Window]], [[System Prompts]]
+  - [[RAG]], [[Semantic-Search]], [[Embeddings]]
+  - [[Chain-of-Thought]], [[Few-Shot-Learning]]
   
 - Callout Strategy:
   - [!definition] for key concepts

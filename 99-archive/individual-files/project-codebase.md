@@ -1398,7 +1398,7 @@ Root/
 #### Broken Link Detection System
 
 - **Event**: Created `_scripts/link_check.py` for link integrity monitoring
-- **Purpose**: Identifies broken [[Wiki-Links]] (Protocol: "NO broken links")
+- **Purpose**: Identifies broken [[wiki-links]] (Protocol: "NO broken links")
 - **Usage**: `linkcheck` (wrapper: `linkcheck.bat`)
 - **Initial Scan Results**:
   - Total wiki-links: 41,688

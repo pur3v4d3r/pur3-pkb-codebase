@@ -26,7 +26,7 @@ link-up:
 link-related:
   - "[[Engineered Meta-Cognitive Workflow Architecture Analysis]]"
   - "[[context-window-management]]"
-  - "[[retrieval-augmented-generation]]"
+  - "[[Retrieval-Augmented-Generation]]"
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
@@ -39,7 +39,7 @@ link-related:
 # 🔗 Smart Connections + LLM Memory Integration
 
 > [!abstract] Executive Summary
-> This guide demonstrates how to integrate **[[Smart Connections]]** with [[Claude]], [[Gemini]], and **Local LLMs** to create an **auto-embedding memory system**. When memory files are added to your Obsidian vault, Smart Connections automatically generates embeddings. These embeddings are then accessible to LLMs via the **Model Context Protocol (MCP)**, enabling semantic search across your entire memory bank without manual retrieval.
+> This guide demonstrates how to integrate **[[Smart-Connections]]** with [[Claude]], [[Gemini]], and **Local LLMs** to create an **auto-embedding memory system**. When memory files are added to your Obsidian vault, Smart Connections automatically generates embeddings. These embeddings are then accessible to LLMs via the **Model Context Protocol (MCP)**, enabling semantic search across your entire memory bank without manual retrieval.
 
 ---
 

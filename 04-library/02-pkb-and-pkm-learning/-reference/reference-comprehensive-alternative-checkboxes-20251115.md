@@ -374,5 +374,5 @@ You have now created a fully custom, theme-independent task status.
   * [[CSS Snippets]]
   * [[Obsidian Minimal Theme]]
   * [[Obsidian AnuPpuccin Theme]]
-  * [[Dataview Plugin]] (for querying these custom task statuses)
+  * [[Dataview-Plugin]] (for querying these custom task statuses)
   * [[How to create a CSS Snippet in Obsidian]]

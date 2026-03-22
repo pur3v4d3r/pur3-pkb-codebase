@@ -84,7 +84,7 @@ The Gemini architecture is highly capable of sophisticated **instruction followi
   * **Preference for Structure:** Gemini excels when output structure is defined using clear formatting rules like explicit Markdown headers, numbered steps, or specific delimiters.
 
     > [\!tip] Gemini Architectural Preference
-    > Use **nested, specific instructions** (e.g., "First, perform A. Then, in the second section labeled 'Analysis,' discuss B.") Gemini will adhere rigorously to this defined structure, making it ideal for [[Report Generation]] and [[PKB Automation]].
+    > Use **nested, specific instructions** (e.g., "First, perform A. Then, in the second section labeled 'Analysis,' discuss B.") Gemini will adhere rigorously to this defined structure, making it ideal for [[Report Generation]] and [[PKB-Automation]].
 
   * **Role and Constraints:** Gemini treats the system prompt (if accessible) and the initial **[[Role Definition]]** as its most authoritative source. It is highly obedient to constraints, even complex ones, provided they are clearly enumerated.
 

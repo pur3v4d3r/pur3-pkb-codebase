@@ -137,9 +137,9 @@ I'll organize around loop categories:
 - [!warning] for potential negative loops
 
 **Wiki-Link Opportunities:**
-Primary concepts: [[Feedback Loop]], [[Self-Regulated Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge Graph]], [[Habit Formation]], [[Neural Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic Motivation]], [[Cognitive Load Theory]], [[Working Memory]], [[Long-Term Memory]], [[Zettelkasten]], [[Progressive Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
+Primary concepts: [[Feedback Loop]], [[Self-Regulated-Learning]], [[Retrieval-Practice]], [[Spacing-Effect]], [[Schema-Theory]], [[Self-Efficacy]], [[Metacognition]], [[Knowledge-Graph]], [[Habit-Formation]], [[Neural-Plasticity]], [[Desirable-Difficulties]], [[Transfer-of-Learning]], [[Intrinsic-Motivation]], [[Cognitive-Load-Theory]], [[Working-Memory]], [[Long-Term-Memory]], [[Zettelkasten]], [[Progressive-Summarization]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Active Recall]]
 
-Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow State]], [[Deliberate Practice]], [[Distributed Practice]], [[Interleaving]], [[Generation-Effect]]
+Secondary concepts: [[Ebbinghaus Forgetting Curve]], [[Testing-Effect]], [[Elaborative-Rehearsal]], [[Chunking]], [[Mental-Models]], [[Flow State]], [[Deliberate-Practice]], [[Distributed Practice]], [[Interleaving]], [[Generation-Effect]]
 
 **Metadata Planning:**
 `Tags: #cognitive-science #educational-psychology #pkm #feedback-loops #reference-note #self-reinforcing-systems`
@@ -160,7 +160,7 @@ aliases: [Functional Loops in PKM, Self-Reinforcing Learning Cycles, PKB Feedbac
 
 > [!abstract]
 > **Executive Overview**
-> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[Self-Regulated Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive Science]], [[Educational Psychology]], and [[Knowledge Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive Architecture]].
+> Functional loops are cyclical feedback processes where outcomes feed back to reinforce and amplify the initiating behavior, creating self-perpetuating systems that strengthen over time. In [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] contexts, these loops transform knowledge work from effortful to automatic, create compound learning returns, and establish [[Self-Regulated-Learning]] patterns that enable expertise development. This reference documents all major functional loop types across [[Cognitive-Science]], [[Educational-Psychology]], and [[Knowledge-Management]] domains, providing the theoretical foundation for designing [[PKB]] systems that work *with* rather than against human [[Cognitive-Architecture]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -184,7 +184,7 @@ aliases: [Functional Loops in PKM, Self-Reinforcing Learning Cycles, PKB Feedbac
 ## 🧠 Cognitive Memory & Retrieval Loops
 
 > [!definition]
-> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory Consolidation]], [[Retrieval-Practice]], and [[Neural Plasticity]] that strengthen knowledge retention through repeated access patterns
+> - **Cognitive Loops**:: Self-reinforcing feedback cycles involving [[Memory-Consolidation]], [[Retrieval-Practice]], and [[Neural-Plasticity]] that strengthen knowledge retention through repeated access patterns
 > - **Core Mechanism**:: Spacing effects occur when information is repeatedly learned over spaced intervals, resulting in stronger encoding into long-term memory through enhanced consolidation processes
 
 ### Foundational Concepts: The Retrieval-Strengthening Cycle
@@ -221,13 +221,13 @@ In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a
 >
 > 2. **Initial Processing** (24-48 hours post-capture)
 >    - First retrieval attempt strengthens initial encoding
->    - Convert raw captures into [[Atomic Notes]]
+>    - Convert raw captures into [[Atomic-Notes]]
 >    - Establishes foundational [[Schema]]
 >
 > 3. **First Review** (3-7 days post-processing)
 >    - Second retrieval at desirable difficulty level
 >    - Add connections to related notes (link formation)
->    - Consolidation into [[Long-Term Memory]] begins
+>    - Consolidation into [[Long-Term-Memory]] begins
 >
 > 4. **Progressive Intervals** (2 weeks, 1 month, 3 months, 6 months)
 >    - Each retrieval further consolidates
@@ -258,12 +258,12 @@ In [[PKB]] contexts, this manifests as the **Note Retrieval Loop**: retrieving a
 ## 🎯 Metacognitive Self-Regulation Loops
 
 > [!definition]
-> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[Self-Regulated Learning]] patterns
+> - **Metacognitive Loops**:: Cyclical processes involving [[Monitoring]], [[Control]], and [[Evaluation]] of one's own learning and thinking, creating [[Self-Regulated-Learning]] patterns
 > - **Core Mechanism**:: Zimmerman's cyclical model describes self-regulation as occurring through three interrelated phases—forethought, performance, and self-reflection—that operate recursively with feedback from prior efforts affecting subsequent planning
 
 ### Foundational Concepts: The SRL Feedback Cycle
 
-[[Self-Regulated Learning]] operates through continuous feedback loops between [[Planning]], [[Execution]], and [[Reflection]]. The student's feedback loop includes forethought phase before study, performance phase during study, and self-reflection phase after study, with each phase expected to feed the next phase. This creates a recursive system where learning *about* your learning improves future learning capacity.
+[[Self-Regulated-Learning]] operates through continuous feedback loops between [[Planning]], [[Execution]], and [[Reflection]]. The student's feedback loop includes forethought phase before study, performance phase during study, and self-reflection phase after study, with each phase expected to feed the next phase. This creates a recursive system where learning *about* your learning improves future learning capacity.
 
 The three phases create nested loops:
 
@@ -305,7 +305,7 @@ The power emerges from *iteration*: each completed cycle informs the next. These
 
 > [!key-claim]
 > **The Meta-Learning Compound Effect**
-> Using your [[PKB]] creates data about your own learning patterns. Reviewing this data (via dashboards, progress tracking, learning logs) develops [[Metacognitive Awareness]], which improves how you use the system, which generates better data, which deepens awareness—a self-improving feedback loop.
+> Using your [[PKB]] creates data about your own learning patterns. Reviewing this data (via dashboards, progress tracking, learning logs) develops [[metacognitive-awareness]], which improves how you use the system, which generates better data, which deepens awareness—a self-improving feedback loop.
 
 **Example Implementation**:
 ```markdown
@@ -330,21 +330,21 @@ The power emerges from *iteration*: each completed cycle informs the next. These
 - [ ] What did I learn about how I learn?
 ```
 
-Each weekly reflection strengthens your understanding of your own [[Cognitive Architecture]], making subsequent weeks more effective. Over months, this develops sophisticated [[Self-Knowledge]] about optimal learning conditions, productive rhythms, and system requirements.
+Each weekly reflection strengthens your understanding of your own [[Cognitive-Architecture]], making subsequent weeks more effective. Over months, this develops sophisticated [[Self-Knowledge]] about optimal learning conditions, productive rhythms, and system requirements.
 
 ---
 
 ## ⚡ Motivational & Engagement Loops
 
 > [!definition]
-> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic Motivation]], and [[Flow State]] that increase engagement through positive feedback
+> - **Motivational Loops**:: Self-reinforcing cycles involving [[Self-Efficacy]], [[Intrinsic-Motivation]], and [[Flow State]] that increase engagement through positive feedback
 > - **Core Mechanism**:: Positive feedback loops involve setting learning goals that provide satisfaction, which drives higher goal-setting, termed as "rage to master" in gifted learners
 
 ### Foundational Concepts: The Success-Motivation Spiral
 
 Motivation isn't static—it's dynamic and self-reinforcing. Feedback loops play a critical role in shaping behavior and decision-making by providing immediate information on consequences of actions, enabling better understanding of impact and leading to improved engagement, learning, and adaptation.
 
-In PKB contexts, this creates the **Competence-Confidence Loop**: Successfully using your system builds confidence, which increases willingness to tackle harder challenges, which develops greater competence, which further builds confidence. The mechanism operates through [[Self-Efficacy Theory]].
+In PKB contexts, this creates the **Competence-Confidence Loop**: Successfully using your system builds confidence, which increases willingness to tackle harder challenges, which develops greater competence, which further builds confidence. The mechanism operates through [[Self-Efficacy-Theory]].
 
 **Three Nested Motivational Loops**:
 
@@ -363,7 +363,7 @@ In PKB contexts, this creates the **Competence-Confidence Loop**: Successfully u
 3. **Long-Term Feedback Loop** (weeks to months)
    - Action: Sustained PKB practice
    - Feedback: Accumulating knowledge base, easier retrieval, visible growth
-   - Response: [[Intrinsic Motivation]] development, identity shift ("I am a knowledge worker")
+   - Response: [[Intrinsic-Motivation]] development, identity shift ("I am a knowledge worker")
    - Reinforcement: System becomes non-negotiable part of workflow
 
 > [!analogy]
@@ -490,7 +490,7 @@ Each review cycle improves system quality, which makes next review more producti
 
 ### Foundational Concepts: The Neurological Automaticity Cycle
 
-[[Habit Formation]] represents one of the most powerful functional loops because it operates at the neurological level. When we first learn something new, it requires active focus and attention from the prefrontal cortex, but as we repeat the task, the basal ganglia takes over, allowing us to perform the action almost automatically. This shift from conscious effort to subconscious behavior explains why established PKB practices feel effortless.
+[[Habit-Formation]] represents one of the most powerful functional loops because it operates at the neurological level. When we first learn something new, it requires active focus and attention from the prefrontal cortex, but as we repeat the task, the basal ganglia takes over, allowing us to perform the action almost automatically. This shift from conscious effort to subconscious behavior explains why established PKB practices feel effortless.
 
 **The Neural Transition Process**:
 
@@ -684,7 +684,7 @@ This loop explains why expert knowledge workers often say their PKB "surprises" 
 > 
 > The true power of functional loops emerges not from any single loop, but from their interaction. Each loop category influences others:
 > 
-> - [[Habit Formation]] loops reduce friction → Enables more [[Retrieval-Practice]] loops
+> - [[Habit-Formation]] loops reduce friction → Enables more [[Retrieval-Practice]] loops
 > - [[Metacognitive]] loops improve strategy → Strengthens [[Motivational]] loops
 > - [[System Quality]] loops enhance usability → Activates [[Network Effect]] loops
 > - [[Cognitive Memory]] loops consolidate knowledge → Deepens [[Self-Efficacy]] loops
@@ -713,7 +713,7 @@ This loop explains why expert knowledge workers often say their PKB "surprises" 
 
 | Loop Category | Timescale | Mechanism | Primary Benefit | Failure Mode |
 |---------------|-----------|-----------|-----------------|--------------|
-| **Cognitive/Memory** | Days to months | [[Neural Plasticity]] | Knowledge consolidation | Forgetting from insufficient spacing |
+| **Cognitive/Memory** | Days to months | [[Neural-Plasticity]] | Knowledge consolidation | Forgetting from insufficient spacing |
 | **Metacognitive** | Weeks to years | [[Self-Monitoring]] | Learning efficiency | Lack of reflection prevents improvement |
 | **Motivational** | Minutes to months | [[Dopamine]] reward | Sustained engagement | Initial failures create avoidance |
 | **System Quality** | Weeks to months | Iterative refinement | Usability improvement | Premature optimization wastes effort |
@@ -812,7 +812,7 @@ This loop explains why expert knowledge workers often say their PKB "surprises" 
 # 🔗 Related Topics for PKB Expansion
 
 1. **[[Cognitive Load Theory Applied to PKB Design]]**
-   - *Connection*: Functional loops reduce [[Extraneous Cognitive Load]] by automating processes, freeing [[Working Memory]] for germane processing
+   - *Connection*: Functional loops reduce [[Extraneous-Cognitive-Load]] by automating processes, freeing [[Working-Memory]] for germane processing
    - *Depth Potential*: Analyze how each loop type specifically reduces different load sources; design PKB architectures that minimize load through loop activation
    - *Knowledge Graph Role*: Theoretical foundation explaining *why* functional loops are essential for sustainable knowledge work
 

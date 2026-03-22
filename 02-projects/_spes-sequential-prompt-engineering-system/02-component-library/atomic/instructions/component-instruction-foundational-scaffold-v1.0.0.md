@@ -123,7 +123,7 @@ used-in-prompts: []
 
 **6. Phase 5: Metadata & Constraints**
    * Generate appropriate YAML frontmatter with tags and aliases
-   * Ensure all key concepts are formatted as `[[Wiki-Links]]`
+   * Ensure all key concepts are formatted as `[[wiki-links]]`
    * Apply semantic callouts throughout
    * CRITICAL: Demand depth - no summaries, only comprehensive exposition
 ```
@@ -363,7 +363,7 @@ Use the Foundational Report Scaffold (Comparative Analysis Variation) to analyze
 [COMPARISON_DIMENSIONS]: Theoretical foundations, View of learner, Instructional methods, Evidence base, Limitations, Modern applications
 [SYNTHESIS_GOAL]: Develop selection criteria for when to apply each approach
 
-[EXISTING_CONCEPTS]: [[Cognitive Load Theory]], [[Metacognition]], [[Self-Determination Theory]]
+[EXISTING_CONCEPTS]: [[Cognitive-Load-Theory]], [[Metacognition]], [[Self-Determination-Theory]]
 
 Ensure Phase 2 includes:
 - Fair representation of each theory's strengths
@@ -426,7 +426,7 @@ LIMIT 10
 ## 📚 REFERENCES
 
 - [[Zettelkasten Methodology]] - Atomic note spawning principle informs Phase 3 discovery pathways
-- [[Progressive Summarization]] - Anti-pattern reference (this scaffold explicitly rejects summarization approach)
+- [[Progressive-Summarization]] - Anti-pattern reference (this scaffold explicitly rejects summarization approach)
 - [[Evergreen Note Principles]] - Foundational reports serve as "hub" evergreen notes
 - [[Chain-of-Density Prompting]] - Layered exposition approach in Phase 2
 - Anthropic's Constitutional AI - Multi-phase structure inspired by constitutional prompting patterns

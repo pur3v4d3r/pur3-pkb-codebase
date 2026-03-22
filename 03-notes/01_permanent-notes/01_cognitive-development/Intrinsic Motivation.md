@@ -34,29 +34,29 @@ link-up:
   - "[[Andragogy]]"
   - "[[Autonomy]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology]]"
   - "[[Cognitive Restructuring]]"
-  - "[[Cognitive Science]]"
-  - "[[Critical Thinking]]"
+  - "[[Cognitive-Science]]"
+  - "[[Critical-Thinking]]"
   - "[[Default Mode Network]]"
-  - "[[Deliberate Practice]]"
-  - "[[Educational Psychology]]"
+  - "[[Deliberate-Practice]]"
+  - "[[Educational-Psychology]]"
   - "[[Executive Functions]]"
-  - "[[Habit Formation]]"
+  - "[[Habit-Formation]]"
   - "[[Goal Setting]]"
   - "[[Heutagogy]]"
-  - "[[Instructional Design]]"
+  - "[[Instructional-Design]]"
   - "[[Metacognition]]"
-  - "[[Motivation Science]]"
-  - "[[Motivational Psychology]]"
+  - "[[motivation-science]]"
+  - "[[Motivational-Psychology]]"
   - "[[Relatedness]]"
   - "[[Rumination]]"
   - "[[Self Behavioral Management]]"
-  - "[[Self Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Self-Regulated-Learning]]"
-  - "[[Self Directed Learning]]"
+  - "[[Self-Directed-Learning]]"
   - "[[Self-Regulation-Theory]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
 link-related:
   - "[[2025-11-27 1|Daily-Note]]"
 status: active
@@ -70,7 +70,7 @@ review-priority: medium
 # Intrinsic Motivation
 
 > [!definition]
-> - **Key-Term**:[[Intrinsic Motivation]]
+> - **Key-Term**:[[Intrinsic-Motivation]]
 > - [**Definition**:refers to the act of doing something without any obvious external rewards. You perform an activity because you find it inherently enjoyable, satisfying, or meaningful, not because you're looking for an external incentive or trying to avoid punishment. The reward is the activity itself.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -114,8 +114,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Extrinsic Motivation]]
-- [[Self-Determination Theory]]
+- [[Extrinsic-Motivation]]
+- [[Self-Determination-Theory]]
 - [[Self-Regulation-Theory]]
 
 ## Practical Applications

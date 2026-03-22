@@ -302,7 +302,7 @@ The theory is sound. The mechanism is clear. But what is the *observable result*
 
 ### Manifestation 1: Unprecedented Structural Reliability
 
-The most immediate "what" is the *reliability* of the output format. By mandating the `Deep Exposition Structure` and the `Callout` system, the constitution ensures that every piece of content is *born structured*. The output is not a "wall of text" that the user must then manually format for their PKM system. It is a pre-formatted, pre-structured, "shelf-ready" knowledge product, complete with `[[Wiki-Links]]` (`[[Term 1 goes here]]`). This dramatically lowers the "cognitive overhead" of integrating AI-generated content into a "second brain" like Obsidian.
+The most immediate "what" is the *reliability* of the output format. By mandating the `Deep Exposition Structure` and the `Callout` system, the constitution ensures that every piece of content is *born structured*. The output is not a "wall of text" that the user must then manually format for their PKM system. It is a pre-formatted, pre-structured, "shelf-ready" knowledge product, complete with `[[wiki-links]]` (`[[Term 1 goes here]]`). This dramatically lowers the "cognitive overhead" of integrating AI-generated content into a "second brain" like Obsidian.
 
 ### Manifestation 2: Enforced Factuality and (Partial) Mitigation of Hallucination
 

@@ -31,7 +31,7 @@ aliases: [PKB Refactoring Dashboard, Naming Convention Update Center, Tag Migrat
 # 🏗️ PKB Refactoring Dashboard: Naming & Tag Migration Center
 
 > [!the-purpose]
-> **Mission**: This dashboard serves as your command center for systematically updating your [[Personal Knowledge Base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[Cognitive Load Theory|cognitive load]] and maintaining [[Working Memory]] efficiency throughout the refactoring process.
+> **Mission**: This dashboard serves as your command center for systematically updating your [[Personal-Knowledge-Base]] [[Naming Conventions]] and [[Tag Taxonomy]] while managing [[Cognitive-Load-Theory|cognitive load]] and maintaining [[Working-Memory]] efficiency throughout the refactoring process.
 > 
 > **Why This Matters**: Refactoring a PKB's foundational structure is cognitively demanding work that requires sustained [[Decision-Making]], pattern recognition, and quality assurance. This dashboard externalizes that cognitive burden into a structured workflow that prevents [[decision fatigue]] and ensures consistency.
 
@@ -82,7 +82,7 @@ SORT file.name ASC
 > [!core-principle]
 > **Refactoring Principles for PKB Architecture**
 > 
-> 1. **Backwards Compatibility**: Design transitions that preserve existing [[Wiki-Links]] and [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_plugins/backlinks]]
+> 1. **Backwards Compatibility**: Design transitions that preserve existing [[wiki-links]] and [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_obsidian/_plugins/backlinks]]
 > 2. **Incremental Migration**: Never attempt wholesale changes; work in batches
 > 3. **Documentation First**: Record the "why" before implementing the "how"
 > 4. **Test Before Scale**: Validate changes on sample notes before full deployment
@@ -97,17 +97,17 @@ SORT file.name ASC
 > **Objective**: Understand current state and identify pain points
 > 
 > ### Tasks
-> - [ ] Audit existing naming patterns (use [[dataview]] queries)  
+> - [ ] Audit existing naming patterns (use [[Dataview]] queries)  
 > - [ ] Identify inconsistencies and problem areas
 > - [ ] Catalog all [[Metadata Architecture]] fields in use
-> - [ ] Survey note types (count of [[Atomic Notes]], [[Reference Notes]], [[MOC]] notes)
+> - [ ] Survey note types (count of [[Atomic-Notes]], [[Reference Notes]], [[MOC]] notes)
 > - [ ] List pain points and desired improvements
 > 
 > ### Discovery Questions
 > - What naming patterns currently exist?
 > - Which tags are overloaded or underutilized?
 > - Where do [[Folder Structure]] and tags conflict?
-> - What [[obsidian]] plugins depend on current structure?
+> - What [[Obsidian]] plugins depend on current structure?
 > - Which notes are hardest to find or navigate to?
 
 ---
@@ -154,8 +154,8 @@ SORT file.name ASC
 > - [ ] Migrate Batch 2: [Category/Type]
 > - [ ] Migrate Batch 3: [Category/Type]
 > - [ ] Continue… (add batches as needed)
-> - [ ] Update [[Wiki-Links]] and references
-> - [ ] Rebuild [[Knowledge Graph]] connections
+> - [ ] Update [[wiki-links]] and references
+> - [ ] Rebuild [[Knowledge-Graph]] connections
 > 
 > ### Batch Completion Template
 > ```
@@ -176,9 +176,9 @@ SORT file.name ASC
 > 
 > ### Tasks
 > - [ ] Run comprehensive validation queries
-> - [ ] Check for broken [[Wiki-Links]]
+> - [ ] Check for broken [[wiki-links]]
 > - [ ] Verify [[Tag Taxonomy]] consistency
-> - [ ] Test [[dataview]] queries and MOC functionality
+> - [ ] Test [[Dataview]] queries and MOC functionality
 > - [ ] Update all [[Templater]] templates
 > - [ ] Rebuild affected MOCs and dashboards
 > - [ ] Document final system in PKB guidelines
@@ -214,7 +214,7 @@ SORT file.name ASC
 > - **Set Daily Limits**: Cap decision-making at sustainable levels
 
 > [!analogy]
-> **Mental Model**: Think of this refactoring like [[Refactoring|code refactoring]]. You're not rewriting from scratch—you're systematically improving the architecture while maintaining functionality. Each "commit" (batch migration) should leave the system in a working state. The [[Knowledge Graph]] is your test suite; broken links are failing tests.
+> **Mental Model**: Think of this refactoring like [[Refactoring|code refactoring]]. You're not rewriting from scratch—you're systematically improving the architecture while maintaining functionality. Each "commit" (batch migration) should leave the system in a working state. The [[Knowledge-Graph]] is your test suite; broken links are failing tests.
 
 ---
 
@@ -360,7 +360,7 @@ SORT file.name ASC
 > 
 > ### Problem: Broken Wiki-Links After Rename
 > **Symptom**: [[Old Note Name]] links don't resolve
-> **Solution**: Use [[obsidian]]'s "Update internal links" option when renaming, or use [[aliases]] to maintain old names temporarily
+> **Solution**: Use [[Obsidian]]'s "Update internal links" option when renaming, or use [[aliases]] to maintain old names temporarily
 > 
 > ### Problem: Tag Explosion (Too Many Tags)
 > **Symptom**: Tags become noise rather than signal
@@ -375,7 +375,7 @@ SORT file.name ASC
 > **Solution**: Maintain running changelog, plan "consistency pass" in Phase 4
 > 
 > ### Problem: Plugin Conflicts with New Structure
-> **Symptom**: [[dataview]] queries or [[Templater]] scripts break
+> **Symptom**: [[Dataview]] queries or [[Templater]] scripts break
 > **Solution**: Test plugins on sample notes before full migration, update query patterns
 
 > [!helpful-tip]
@@ -398,13 +398,13 @@ SORT file.name ASC
 > - [ ] Tag taxonomy diagram created and reviewed
 > - [ ] Migration plan includes rollback strategy
 > - [ ] Test batch of 5-10 notes prepared
-> - [ ] [[dataview]] queries updated for new structure
+> - [ ] [[Dataview]] queries updated for new structure
 > - [ ] [[Templater]] templates aligned with new conventions
 > 
 > ### Post-Batch Validation
 > - [ ] All notes in batch follow naming convention exactly
 > - [ ] Tags applied consistently per specification
-> - [ ] [[Wiki-Links]] resolve correctly
+> - [ ] [[wiki-links]] resolve correctly
 > - [ ] [[Metadata Architecture]] complete (no missing fields)
 > - [ ] No typos in tags or filenames
 > - [ ] Visual review: Scan for obvious errors
@@ -412,9 +412,9 @@ SORT file.name ASC
 > ### Final System Validation
 > - [ ] Vault-wide search for old naming patterns (none found)
 > - [ ] Tag hierarchy verification (no orphaned or duplicate tags)
-> - [ ] [[Knowledge Graph]] visual inspection (no isolated clusters)
+> - [ ] [[Knowledge-Graph]] visual inspection (no isolated clusters)
 > - [ ] All MOCs and dashboards functional
-> - [ ] [[dataview]] queries return expected results
+> - [ ] [[Dataview]] queries return expected results
 > - [ ] [[Templater]] templates create properly formatted notes
 > - [ ] Plugin functionality verified
 > - [ ] Documentation updated in PKB guidelines
@@ -440,10 +440,10 @@ SORT file.name ASC
 > - Review and clean up "Uncategorized" or "To-Review" collections
 > 
 > ### Monthly Audits
-> - Run [[dataview]] reports on tag usage and distribution
+> - Run [[Dataview]] reports on tag usage and distribution
 > - Identify under-utilized or over-loaded tags
 > - Assess if new note types require taxonomy updates
-> - Check [[Knowledge Graph]] for structural improvements
+> - Check [[Knowledge-Graph]] for structural improvements
 > 
 > ### Quarterly Refinements
 > - Review Decision Log for patterns
@@ -458,7 +458,7 @@ SORT file.name ASC
 > [!what-this-does]
 > **Automated Reporting for Validation**
 > 
-> Use these [[dataview]] queries to monitor refactoring progress and identify issues:
+> Use these [[Dataview]] queries to monitor refactoring progress and identify issues:
 
 ### Query 1: Notes Without Proper Tags
 ```dataview
@@ -539,21 +539,21 @@ LIMIT 20
 > [!connections-and-links]
 > **Related PKB Resources**
 > 
-> - [[Personal Knowledge Base]] - Core PKB philosophy and architecture
+> - [[Personal-Knowledge-Base]] - Core PKB philosophy and architecture
 > - [[Zettelkasten]] - Note-taking methodology informing structure
-> - [[obsidian]] - Platform-specific features and capabilities
+> - [[Obsidian]] - Platform-specific features and capabilities
 > - [[Naming Conventions]] - Detailed specification document
 > - [[Tag Taxonomy]] - Comprehensive tag hierarchy reference
 > - [[Metadata Architecture]] - Field definitions and usage guide
-> - [[dataview]] - Query language for validation and reporting
+> - [[Dataview]] - Query language for validation and reporting
 > - [[Templater]] - Template system for enforcing conventions
-> - [[Knowledge Graph]] - Visual representation of note connections
+> - [[Knowledge-Graph]] - Visual representation of note connections
 > - [[MOC]] - Map of Content creation and management
 > 
 > **Workflow Support Notes**:
-> - [[Cognitive Load Theory]] - Understanding mental bandwidth
+> - [[Cognitive-Load-Theory]] - Understanding mental bandwidth
 > - [[decision fatigue]] - Managing choice exhaustion
-> - [[Working Memory]] - Optimizing cognitive capacity
+> - [[Working-Memory]] - Optimizing cognitive capacity
 > - [[Batch Processing]] - Efficient task grouping strategies
 > - [[Refactoring]] - Software engineering principles applied to knowledge work
 
@@ -569,7 +569,7 @@ LIMIT 20
 2. **[[Semantic Consistency in Note Networks]]**
    - *Connection*: Naming conventions and tags are surface-level manifestations of deeper semantic relationships
    - *Depth Potential*: Investigate how to maintain conceptual coherence as PKB grows, preventing semantic drift
-   - *Knowledge Graph Role*: Central to [[Knowledge Organization]], [[Ontology Design]], and [[Information Architecture]]
+   - *Knowledge Graph Role*: Central to [[Knowledge Organization]], [[Ontology Design]], and [[Information-Architecture]]
 
 3. **[[Automated PKB Maintenance Tools]]**
    - *Connection*: Manual refactoring is cognitively expensive; automation can handle mechanical aspects
@@ -646,7 +646,7 @@ I'll create a comprehensive reference note with:
 - Examples and templates
 
 **Wiki-links to identify:**
-[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[obsidian]], [[Zettelkasten]], [[para method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[dataview]], [[YAML Frontmatter]], [[Knowledge Graph]], [[Information Retrieval]], [[Cognitive-Load]], [[Mental-Models]], [[MOC]], [[Atomic Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building a Second Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
+[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Obsidian]], [[Zettelkasten]], [[para method]], [[Controlled-Vocabulary]], [[Metadata]], [[Information-Architecture]], [[Library Science]], [[Folksonomy]], [[Ontology]], [[Hierarchical Classification]], [[Faceted Navigation]], [[Tag Wrangler]], [[Dataview]], [[YAML-Frontmatter]], [[Knowledge-Graph]], [[Information Retrieval]], [[Cognitive-Load]], [[Mental-Models]], [[MOC]], [[Atomic-Notes]], [[linking your thinking]], [[second brain]], [[CODE Method]], [[Building a Second Brain]], [[Semantic Tags]], [[Note Types]], [[Status Tags]], [[Domain Tags]], [[Context Tags]], [[Mode Tags]], [[Source Tags]], [[Functional Tags]], [[Personomies]], [[Tag Maintenance]], [[Tag Refactoring]], [[Tag Consolidation]], [[Search Operators]], [[Boolean Search]], [[Tag Nesting]]
 
 **Callouts to use (selecting 10-15 from the pool):**
 - [!definition] - for key terms
@@ -694,7 +694,7 @@ The history of organizing information centers on "taxonomies"—hierarchical sys
 Hierarchies are inherently "top-down," designed for centralized control, while networks are "bottom-up," emerging organically without central authority. Your tag taxonomy should blend both approaches:
 
 - **Hierarchical structure** for major domains and primary navigation
-- **Network-like connections** through cross-referencing tags and [[Wiki-Links]]
+- **Network-like connections** through cross-referencing tags and [[wiki-links]]
 - **Controlled vocabulary** to prevent tag proliferation
 - **Evolutionary capacity** to accommodate emerging knowledge areas
 
@@ -733,7 +733,7 @@ Hierarchies are inherently "top-down," designed for centralized control, while n
 > 
 > 7. **Build Evolution Protocols** — Establish processes for adding new tags, merging redundant tags, and refactoring as your knowledge evolves.
 
-In [[obsidian]], tags can be nested using the forward slash (`/`), creating parent-child relationships where both the parent and child tags are automatically applied. For example, `#cognitive-abilities/metacognition/self-monitoring` applies three tags: `#cognitive-abilities`, `#cognitive-abilities/metacognition`, and the full path.
+In [[Obsidian]], tags can be nested using the forward slash (`/`), creating parent-child relationships where both the parent and child tags are automatically applied. For example, `#cognitive-abilities/metacognition/self-monitoring` applies three tags: `#cognitive-abilities`, `#cognitive-abilities/metacognition`, and the full path.
 
 > [!warning]
 > ### The Tag Proliferation Problem
@@ -806,7 +806,7 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 > [!use-cases-and-examples]
 > **Note Type Taxonomy** — Identifies the structural and functional nature of the note:
 > 
-> - `#type/atomic` — Single-concept [[Atomic Notes]] following [[Zettelkasten]] principles
+> - `#type/atomic` — Single-concept [[Atomic-Notes]] following [[Zettelkasten]] principles
 > - `#type/reference` — Comprehensive resource notes with exhaustive coverage
 > - `#type/literature` — Notes from external sources (books, papers, articles)
 > - `#type/synthesis` — Integration notes connecting multiple concepts
@@ -866,9 +866,9 @@ Personal tag vocabularies can be highly specific to your field or profession, cr
 ## ⚙️ Obsidian-Specific Implementation
 
 > [!helpful-tip]
-> ### Note-Level vs. Inline Tags in [[obsidian]]
+> ### Note-Level vs. Inline Tags in [[Obsidian]]
 > 
-> There are two ways to apply tags in Obsidian: note-level tags in the [[YAML Frontmatter]] properties section, and inline tags appearing anywhere in the note body.
+> There are two ways to apply tags in Obsidian: note-level tags in the [[YAML-Frontmatter]] properties section, and inline tags appearing anywhere in the note body.
 > 
 > **Best Practice:** Use note-level tags for classification (domain, type, status, source) and inline tags for content-specific markers that apply only to particular sections.
 
@@ -885,7 +885,7 @@ aliases: [Metacognitive Awareness, Thinking About Thinking]
 ---
 ```
 
-### Tag Naming Conventions for [[obsidian]]
+### Tag Naming Conventions for [[Obsidian]]
 
 > [!constraints-and-pitfalls]
 > **Obsidian Tag Syntax Rules:**
@@ -907,7 +907,7 @@ The [[Tag Wrangler]] plugin enables bulk tag operations:
 
 Tag Wrangler updates all instances of a tag throughout your vault when you make changes, maintaining consistency effortlessly.
 
-### Leveraging [[dataview]] for Tag-Based Queries
+### Leveraging [[Dataview]] for Tag-Based Queries
 
 > [!example]
 > **Dynamic Tag-Based Content Aggregation:**
@@ -1078,13 +1078,13 @@ This note is simultaneously:
 > [!the-philosophy]
 > Hybrid taxonomy provides both structured browsing for exploratory users and precision filtering for goal-oriented searches through hierarchical structure for main navigation, faceted filtering for advanced search, and intelligent tagging to bridge formal categories and natural language.
 
-**Implementation in [[obsidian]]:**
+**Implementation in [[Obsidian]]:**
 
 - **Folders** — Represent major projects or temporal organization (PARA method, journals)
 - **Tags** — Provide content-based, cross-cutting classification
 - **[[MOC]]s** — Offer curated, contextual navigation paths
-- **[[dataview]]** — Enable dynamic, query-based aggregation
-- **[[Wiki-Links]]** — Create semantic, bidirectional relationships
+- **[[Dataview]]** — Enable dynamic, query-based aggregation
+- **[[wiki-links]]** — Create semantic, bidirectional relationships
 
 ### Tag-Based Workflows
 
@@ -1100,7 +1100,7 @@ This note is simultaneously:
 ### Search Operators with Tags
 
 > [!helpful-tip]
-> **Advanced [[obsidian]] Search Patterns:**
+> **Advanced [[Obsidian]] Search Patterns:**
 > 
 > ```
 > tag:#cognitive-abilities/metacognition -tag:#status/archived
@@ -1129,7 +1129,7 @@ This note is simultaneously:
 > - [ ] Create tag naming conventions document
 > - [ ] Set up Tag Registry note documenting all tags with definitions
 > - [ ] Configure [[Tag Wrangler]] plugin for maintenance operations
-> - [ ] Build starter [[dataview]] queries for each major domain
+> - [ ] Build starter [[Dataview]] queries for each major domain
 > - [ ] Schedule monthly tag maintenance routine (calendar reminder)
 > - [ ] Create tag refactoring protocol for when taxonomy needs evolution
 > - [ ] Set review point at 3 months and 6 months to assess taxonomy effectiveness
@@ -1187,20 +1187,20 @@ Controlled Taxonomy ←→ Organic Folksonomy
 
 1. **[[Metadata Standards for PKM]]**
    - *Connection*: Metadata extends beyond tags to include dates, authors, sources, relationships, and custom properties that enhance note classification and retrieval
-   - *Depth Potential*: Comprehensive metadata schemas, [[YAML Frontmatter]] templating, [[dataview]] property queries, and integration with external citation management systems merit dedicated exploration
+   - *Depth Potential*: Comprehensive metadata schemas, [[YAML-Frontmatter]] templating, [[Dataview]] property queries, and integration with external citation management systems merit dedicated exploration
    - *Knowledge Graph Role*: Understanding metadata architecture connects tag taxonomy to broader information architecture concerns, linking to [[Information Retrieval]], [[Semantic Web]], and [[Linked Data]] concepts
 
 2. **[[Faceted Classification Systems]]**
    - *Connection*: Faceted classification allows items to be classified in multiple, orthogonal ways simultaneously—the theoretical foundation for multi-dimensional tag frameworks
    - *Depth Potential*: Ranganathan's [[Colon Classification]], faceted search implementation, combining facets with hierarchies, and applying facet analysis to personal knowledge domains deserves full treatment
-   - *Knowledge Graph Role*: Bridges [[Library Science]] principles with modern [[Information Architecture]], connecting to [[User Experience Design]] and [[Search Interface Design]]
+   - *Knowledge Graph Role*: Bridges [[Library Science]] principles with modern [[Information-Architecture]], connecting to [[User Experience Design]] and [[Search Interface Design]]
 
 3. **[[Controlled Vocabularies and Thesauri]]**
    - *Connection*: Tags represent controlled vocabulary terms; understanding thesaurus construction (preferred terms, synonyms, related terms, broader/narrower relationships) enhances taxonomy design
    - *Depth Potential*: SKOS (Simple Knowledge Organization System), authority control, synonym management, term mapping, and building personal thesauri for domain-specific knowledge
-   - *Knowledge Graph Role*: Connects to [[Natural Language Processing]], [[Semantic Web Technologies]], [[Ontology Engineering]], and professional [[Knowledge Management]] practices
+   - *Knowledge Graph Role*: Connects to [[Natural Language Processing]], [[Semantic Web Technologies]], [[Ontology Engineering]], and professional [[Knowledge-Management]] practices
 
 4. **[[Progressive Summarization and Tag Evolution]]**
-   - *Connection*: As notes evolve through [[Progressive Summarization]] stages, their tag requirements change—initial broad tags refine into specific classifications as understanding deepens
+   - *Connection*: As notes evolve through [[Progressive-Summarization]] stages, their tag requirements change—initial broad tags refine into specific classifications as understanding deepens
    - *Depth Potential*: Lifecycle models for note maturity, tag promotion/demotion protocols, status-based workflows, and integrating [[Building a Second Brain]] principles with dynamic taxonomy
    - *Knowledge Graph Role*: Synthesizes [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] methodologies with practical taxonomy application, connecting to [[Information Lifecycle Management]] and [[Content Strategy]]

@@ -26,7 +26,7 @@ link-up:
 link-related:
   - "[[Engineered Meta-Cognitive Workflow Architecture Analysis]]"
   - "[[context-window-management]]"
-  - "[[retrieval-augmented-generation]]"
+  - "[[Retrieval-Augmented-Generation]]"
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>

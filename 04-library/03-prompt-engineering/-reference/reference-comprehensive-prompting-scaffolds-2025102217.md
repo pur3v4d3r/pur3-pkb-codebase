@@ -29,7 +29,7 @@ created: 2025-10-22T17:12:24
 > **Deconstruct.** I mapped the space into families: Reasoning & Search; Planning & Decomposition; Acting with Tools; Retrieval & Grounding; Critique & Verification; Structured Output & Guardrails; Community prompt patterns.
 > **Research.** I pulled primary papers and official docs for each family (arXiv/NeurIPS/ICLR, Anthropic/OpenAI docs), favoring methods with reproducible gains or broad adoption. ([arXiv][1])
 > **Synthesize.** I normalized each method into a **Technique Card** (what/why/how + best practices), plus drop-in scaffolds and persona frames.
-> **Compose.** Everything here is **PKB-ready Markdown** with `[[Wiki-Links]]`, callouts, and a small `mermaid` map to keep it navigable.
+> **Compose.** Everything here is **PKB-ready Markdown** with `[[wiki-links]]`, callouts, and a small `mermaid` map to keep it navigable.
 
 ---
 

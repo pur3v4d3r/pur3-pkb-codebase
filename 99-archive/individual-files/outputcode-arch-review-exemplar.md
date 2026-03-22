@@ -198,7 +198,7 @@ The content is organized as follows:
  74: - **[Expert**:: ART with custom tools, Multi-technique orchestration, RPO optimization]
  75: 
  76: ### By Use Case
- 77: - **Complex Reasoning** → [[Tree of Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
+ 77: - **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
  78: - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
  79: - **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
  80: - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
@@ -396,7 +396,7 @@ The content is organized as follows:
 272: 
 273: **Recommended Stack**:
 274: 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
-275: 2. **[[Chain of Thought]]** - Break down complex ideas
+275: 2. **[[Chain-of-Thought]]** - Break down complex ideas
 276: 3. **[[Chain of Verification]]** - Ensure accuracy
 277: 4. **[[Self-Refine]]** - Iterative improvement
 278: 
@@ -408,7 +408,7 @@ The content is organized as follows:
 284: 
 285: **Recommended Stack**:
 286: 1. **[[RAG Integration]]** - Retrieve relevant passages
-287: 2. **[[Tree of Thoughts]]** - Explore multiple synthesis angles
+287: 2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 288: 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
 289: 4. **[[Chain of Verification]]** - Fact-check claims
 290: 
@@ -493,7 +493,7 @@ The content is organized as follows:
 369: 
 370: **Build up to**:
 371: 4. [[ReAct Framework]] - Learn tool integration
-372: 5. [[Tree of Thoughts]] - Master search-based reasoning
+372: 5. [[Tree-of-Thoughts]] - Master search-based reasoning
 373: 6. [[Reflexion]] - Create learning agents
 374: 
 375: ### **Already Experienced?**
@@ -21421,7 +21421,7 @@ The content is organized as follows:
 223: 
 224: ---
 225: 
-226: **Related Techniques**: [[Chain of Thought]], [[Tree of Thoughts]], [[Program of Thoughts]]
+226: **Related Techniques**: [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Program of Thoughts]]
 227: **Full Guide**: [[01-reasoning-techniques-guide#Self-Consistency]]
 ``````
 
@@ -32117,7 +32117,7 @@ The content is organized as follows:
  101:         related_concepts:
  102:           - "[[Context Engineering]]"
  103:           - "[[Information Density]]"
- 104:           - "[[Retrieval Augmented Generation]]"
+ 104:           - "[[Retrieval-Augmented-Generation]]"
  105:       
  106:       - id: "AX-003"
  107:         name: "Decomposition Axiom"
@@ -32707,7 +32707,7 @@ The content is organized as follows:
  691:         
  692:         related_concepts:
  693:           - "[[Zero-Shot Prompting]]"
- 694:           - "[[Chain-of-Thought Prompting]]"
+ 694:           - "[[Chain-of-Thought-Prompting]]"
  695:           - "[[In-Context Learning]]"
  696:           - "[[Dynamic Example Selection]]"
  697:       
@@ -33047,7 +33047,7 @@ The content is organized as follows:
 1031:             mitigation: "Structure reasoning with specific steps"
 1032:         
 1033:         related_concepts:
-1034:           - "[[Tree of Thoughts]]"
+1034:           - "[[Tree-of-Thoughts]]"
 1035:           - "[[Self-Consistency]]"
 1036:           - "[[Program-Aided Language Models]]"
 1037:       
@@ -33198,10 +33198,10 @@ The content is organized as follows:
 1182:               - "Allow backtracking when top paths fail"
 1183:         
 1184:         related_concepts:
-1185:           - "[[Chain-of-Thought Prompting]]"
+1185:           - "[[Chain-of-Thought-Prompting]]"
 1186:           - "[[Self-Consistency]]"
 1187:           - "[[Monte Carlo Tree Search]]"
-1188:           - "[[Deliberate Practice]]"
+1188:           - "[[Deliberate-Practice]]"
 1189:       
 1190:       # ─────────────────────────────────────────────────────────────────────────
 1191:       # SELF-CONSISTENCY
@@ -33292,8 +33292,8 @@ The content is organized as follows:
 1276:               - "<50% agreement: flag for review"
 1277:         
 1278:         related_concepts:
-1279:           - "[[Chain-of-Thought Prompting]]"
-1280:           - "[[Ensemble Methods]]"
+1279:           - "[[Chain-of-Thought-Prompting]]"
+1280:           - "[[Ensemble-Methods]]"
 1281:           - "[[Uncertainty Quantification]]"
 1282: 
 1283:   # ═══════════════════════════════════════════════════════════════════════════
@@ -33675,7 +33675,7 @@ The content is organized as follows:
 1659:         
 1660:         related_concepts:
 1661:           - "[[Vector Databases]]"
-1662:           - "[[Semantic Search]]"
+1662:           - "[[Semantic-Search]]"
 1663:           - "[[Knowledge Graphs]]"
 1664:           - "[[Context Engineering]]"
 1665:       

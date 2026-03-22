@@ -64,7 +64,7 @@ The report emphasizes Hadot's argument that ancient philosophy was **therapeutic
 
 [[report-14-the-meaningful-life|Report 14]] connects Hadot's spiritual exercises to existential meaning-making. Hadot shows that ancient exercises like *the view from above* don't just cultivate virtue—they provide **perspective transformation** that makes life meaningful by connecting individual existence to cosmic whole.
 
-The report synthesizes Hadot with [[narrative identity]] theory: spiritual exercises are practices for authoring your life story. Marcus Aurelius's journal (*[[ref-marcus-aurelius-meditations|Meditations]]*) is simultaneously spiritual exercise and narrative construction—he's practicing who he wants to become.
+The report synthesizes Hadot with [[Narrative-Identity]] theory: spiritual exercises are practices for authoring your life story. Marcus Aurelius's journal (*[[ref-marcus-aurelius-meditations|Meditations]]*) is simultaneously spiritual exercise and narrative construction—he's practicing who he wants to become.
 
 **Key concept from R14:** Spiritual exercises address the meaning crisis not through abstract philosophy but through **transformative practices** that reshape how you experience yourself and world. Meaning emerges from regular practice, not from finding the right theory.
 

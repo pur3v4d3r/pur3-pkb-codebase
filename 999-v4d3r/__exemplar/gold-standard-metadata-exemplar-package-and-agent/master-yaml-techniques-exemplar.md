@@ -108,7 +108,7 @@ foundational_principles:
         related_concepts:
           - "[[Context Engineering]]"
           - "[[Information Density]]"
-          - "[[Retrieval Augmented Generation]]"
+          - "[[Retrieval-Augmented-Generation]]"
       
       - id: "AX-003"
         name: "Decomposition Axiom"
@@ -698,7 +698,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Zero-Shot Prompting]]"
-          - "[[Chain-of-Thought Prompting]]"
+          - "[[Chain-of-Thought-Prompting]]"
           - "[[In-Context Learning]]"
           - "[[Dynamic Example Selection]]"
       
@@ -1038,7 +1038,7 @@ prompting_techniques:
             mitigation: "Structure reasoning with specific steps"
         
         related_concepts:
-          - "[[Tree of Thoughts]]"
+          - "[[Tree-of-Thoughts]]"
           - "[[Self-Consistency]]"
           - "[[Program-Aided Language Models]]"
       
@@ -1189,10 +1189,10 @@ prompting_techniques:
               - "Allow backtracking when top paths fail"
         
         related_concepts:
-          - "[[Chain-of-Thought Prompting]]"
+          - "[[Chain-of-Thought-Prompting]]"
           - "[[Self-Consistency]]"
           - "[[Monte Carlo Tree Search]]"
-          - "[[Deliberate Practice]]"
+          - "[[Deliberate-Practice]]"
       
       # ─────────────────────────────────────────────────────────────────────────
       # SELF-CONSISTENCY
@@ -1283,8 +1283,8 @@ prompting_techniques:
               - "<50% agreement: flag for review"
         
         related_concepts:
-          - "[[Chain-of-Thought Prompting]]"
-          - "[[Ensemble Methods]]"
+          - "[[Chain-of-Thought-Prompting]]"
+          - "[[Ensemble-Methods]]"
           - "[[Uncertainty Quantification]]"
 
   # ═══════════════════════════════════════════════════════════════════════════
@@ -1666,7 +1666,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Vector Databases]]"
-          - "[[Semantic Search]]"
+          - "[[Semantic-Search]]"
           - "[[Knowledge Graphs]]"
           - "[[Context Engineering]]"
       

@@ -27,8 +27,8 @@ related_concepts:
   - "[[The Silmarillion]]"
   - "[[The Lord of the Rings]]"
   - "[[The History of Middle-earth]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Chain of Density]]"
   - "[[Progressive Depth Architecture]]"
   - "[[Analytical Commentary System]]"
@@ -110,12 +110,12 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
 
 extends:
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # ALIASES & LINKING
@@ -126,9 +126,9 @@ aliases:
   - "[[Middle-earth Scholar System Prompt]]"
   - "[[Legendarium Report Generator]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_related:
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
 # ═══════════════════════════════════════════════════════════════════════════

@@ -27,11 +27,11 @@ link-related: []
 ```
 
 
-# [[YAML Frontmatter]]: A Reference for PKB
+# [[YAML-Frontmatter]]: A Reference for PKB
 [[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.
 
 > [!definition] What is Frontmatter?
-> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge Management]] workflows.
+> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's "specification sheet," providing context, status, and relational data that is separate from the note's main content (the "prose"). This separation is fundamental for automating [[Knowledge-Management]] workflows.
 
 Below are tables of common and functionally-useful frontmatter keys, categorized by their primary purpose.
 
@@ -54,7 +54,7 @@ These keys are foundational, establishing the note's identity and basic properti
 ---
 
 ## ⚙️ Workflow & Status Keys
-These keys are vital for [[Project Management]] and [[Task Management]]. They track the lifecycle of a note, idea, or project.
+These keys are vital for [[Project Management]] and [[Task-Management]]. They track the lifecycle of a note, idea, or project.
 
 | Key | Description |
 | :--- | :--- |
@@ -69,7 +69,7 @@ These keys are vital for [[Project Management]] and [[Task Management]]. They tr
 ---
 
 ## 🔗 Structural & Relational Keys
-These keys explicitly define the note's position within your [[Knowledge Graph]]. They are heavily used by plugins like [[Breadcrumbs]] to build hierarchies.
+These keys explicitly define the note's position within your [[Knowledge-Graph]]. They are heavily used by plugins like [[Breadcrumbs]] to build hierarchies.
 
 | Key                | Description                                                                   |
 | :----------------- | :---------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ This category includes keys for specific, user-defined use cases, such as the pr
 ---
 
 ## 🤖 Prompt Engineering Keys
-As requested, these keys are grouped for managing a [[Prompt Engineering]] library. They store the parameters for AI model execution.
+As requested, these keys are grouped for managing a [[Prompt-Engineering]] library. They store the parameters for AI model execution.
 
 | Key | Description |
 | :--- | :--- |

@@ -48,7 +48,7 @@ review-priority: medium
 # Schema Theory
 
 > [!definition]
-> - **Key-Term**:[[Schema Theory]]
+> - **Key-Term**:[[Schema-Theory]]
 > - [**Definition**:]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -83,8 +83,8 @@ LIMIT 15
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

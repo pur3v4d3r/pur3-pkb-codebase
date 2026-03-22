@@ -144,8 +144,8 @@ type: moc
 **Maturity:** [Distribution]
 
 ## Core Concepts (🌳 Evergreen)
-- [[Concept 1]] - Brief description
-- [[Concept 2]] - Brief description
+- [[Concept-1]] - Brief description
+- [[Concept-2]] - Brief description
 
 ## Developing Notes (🌿 Budding)
 - [[Topic 1]] - Status and needs

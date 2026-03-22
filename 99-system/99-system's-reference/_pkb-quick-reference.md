@@ -427,15 +427,15 @@ Strikethrough-Orange
 `= this.due-date`
 ```
 > [!what-this-does]
-> Accesses [[YAML Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
+> Accesses [[YAML-Frontmatter]] or [[Inline Fields]] from the **current page**. The `this` keyword references the active note's metadata.
 ##### 2️⃣ **Link Field Access** (Other Pages)
 ```markdown
-`= [[Note Name]].field-name`
+`= [[Note-Name]].field-name`
 `= [[Project Alpha]].progress`
 `= [[2024-11-20]].mood`
 ```
 > [!what-this-does]
-> Retrieves metadata from **other notes** via [[Wiki-Links]]. Essential for creating relational connections between notes.
+> Retrieves metadata from **other notes** via [[wiki-links]]. Essential for creating relational connections between notes.
 ##### 3️⃣ **Query Results** (Vault-Wide Aggregation)
 ```markdown
 `= length(filter(pages(), (p) => p.status = "active"))`

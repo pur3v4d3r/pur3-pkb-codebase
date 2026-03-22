@@ -533,7 +533,7 @@ accessibility-level: string [REQUIRED]
 
 prerequisite-notes: array [OPTIONAL]
   # Notes that should ideally be read before this one
-  # Format: ["[[note-name]]"]
+  # Format: ["[[Note-Name]]"]
 ---
 ```
 </universal_fields>

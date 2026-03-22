@@ -374,7 +374,7 @@ aliases: [Research in PKB, PKB Research Workflow, Conducting Research in Obsidia
 # 🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base
 
 > [!abstract]
-> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.
+> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive-Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.
 
 ---
 
@@ -384,7 +384,7 @@ aliases: [Research in PKB, PKB Research Workflow, Conducting Research in Obsidia
 
 Before diving into methodology, we must understand *why* a Personal Knowledge Base fundamentally transforms the research enterprise. Traditional research workflows treat information as something to be gathered, stored, and eventually deployed in a final product. This model—what we might call the **extraction paradigm**—positions the researcher as a miner excavating discrete nuggets of knowledge from sources, stockpiling them until enough material exists to construct an artifact like a paper, report, or thesis.
 
-The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[distributed cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.
+The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[Distributed-Cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.
 
 > [!core-principle]
 > **The Fundamental Shift**
@@ -393,7 +393,7 @@ The PKB paradigm inverts this relationship entirely. Rather than extracting info
 
 This insight carries profound implications for how we design research workflows. If the PKB *is* understanding made visible, then every choice about note structure, linking strategy, and organizational architecture directly shapes the quality of your comprehension. A poorly designed research workflow doesn't merely slow you down—it actively constrains the depth and richness of insight you can achieve.
 
-The [[metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.
+The [[Metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.
 
 Here is where the PKB truly shines. When your knowledge exists as an explicit, navigable graph rather than implicit memory traces, metacognitive monitoring becomes dramatically more tractable. You can literally *see* what you know and don't know. Gaps appear as missing connections. Weak understanding manifests as thin, poorly-linked notes. The PKB transforms metacognition from introspective guesswork into observable system behavior.
 
@@ -484,13 +484,13 @@ The literature note functions as a processing waystation. Raw annotations and hi
 
 Template design matters considerably. Your literature note template should prompt the cognitive operations that produce deep understanding. Consider including: a field for one-sentence synthesis of the source's main contribution; prompts for identifying strengths and limitations; explicit space for connecting to previous reading; and fields for tracking whether processing is complete.
 
-The relationship between literature notes and [[atomic notes]] (or [[permanent notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
+The relationship between literature notes and [[Atomic-Notes]] (or [[permanent notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.
 
 ### Atomic Notes: The Knowledge Graph Foundation
 
-[[Atomic notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term "atomic" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.
+[[Atomic-Notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term "atomic" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.
 
-The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.
+The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[Chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George-Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.
 
 Atomic notes serve as cognitive chunks. By packaging an idea into a self-contained note with a descriptive title, you create a manipulable unit that can be thought about as a single thing despite internal complexity. A web of atomic notes becomes a web of chunks, enabling cognition at scales impossible with unstructured information.
 
@@ -552,14 +552,14 @@ Research projects extend over time, requiring systems for tracking progress, ide
 
 **Note-level status** tracks where individual notes stand in the processing pipeline. Common status categories include: Inbox (captured but unprocessed), Processing (undergoing active development), Draft (substantially complete but not finalized), Evergreen (stable, integrated knowledge), and Archive (superseded or deprecated). Status can be tracked via tags (#status/inbox), frontmatter properties (status: processing), or dedicated metadata systems.
 
-**Task-level status** tracks specific actions required to advance the project. The [[Tasks plugin]] for Obsidian enables embedding actionable tasks within notes while aggregating them through queries for project-wide visibility. Tasks might include: read specific sources, create notes on key concepts, connect gaps in the graph, review and refine existing notes, or synthesize understanding into output artifacts.
+**Task-level status** tracks specific actions required to advance the project. The [[Tasks-Plugin]] for Obsidian enables embedding actionable tasks within notes while aggregating them through queries for project-wide visibility. Tasks might include: read specific sources, create notes on key concepts, connect gaps in the graph, review and refine existing notes, or synthesize understanding into output artifacts.
 
 **Project-level status** tracks overall progress toward research goals. This might include percentage completion estimates, phase indicators (orientation, immersion, synthesis, etc.), or milestone tracking. The Project Hub should make project-level status immediately visible, allowing quick assessment without deep navigation.
 
 > [!methodology-and-sources]
 > **Dataview for Research Tracking**
 > 
-> The [[Dataview plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.
+> The [[Dataview-Plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.
 
 ### Quality Metrics and Self-Assessment
 
@@ -656,21 +656,21 @@ Research projects eventually conclude, but their value should persist. Good PKB 
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 > 
-> **[[Self-Determination Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
+> **[[Self-Determination-Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.
 > 
 > **[[Metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.
 > 
-> **[[Cognitive Load Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
+> **[[Cognitive-Load-Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.
 > 
 > **[[Zettelkasten methodology]]**: This framework extends classical Zettelkasten principles with explicit project management structures and Obsidian-specific implementation strategies.
 > 
-> **[[Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.
+> **[[Progressive-Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.
 > 
-> **[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
+> **[[Critical-Thinking-Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.
 > 
 > **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.
 > 
-> **[[Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
+> **[[Distributed-Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.
 
 ---
 

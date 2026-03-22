@@ -21,7 +21,7 @@ aliases: [Tag System Design, Hierarchical Tagging Framework, PKB Tag Architectur
 
 > [!abstract]
 > **Executive Overview**
-> This reference note provides a comprehensive, hierarchical [[Tag Taxonomy]] for organizing knowledge in [[Cognitive Science]] and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] domains within an [[obsidian]] vault. The taxonomy follows multi-level abstraction principles, enabling both broad categorization and granular specificity while maintaining semantic clarity and discoverability.
+> This reference note provides a comprehensive, hierarchical [[Tag Taxonomy]] for organizing knowledge in [[Cognitive-Science]] and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] domains within an [[Obsidian]] vault. The taxonomy follows multi-level abstraction principles, enabling both broad categorization and granular specificity while maintaining semantic clarity and discoverability.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -884,21 +884,21 @@ Information Architecture:
 Wiki-Link Opportunities:
 - [[Tag Taxonomy]]
 - [[Hierarchical Classification]]
-- [[Cognitive Science]]
-- [[Personal Knowledge Management]]
+- [[Cognitive-Science]]
+- [[Personal-Knowledge-Management]]
 - [[Obsidian Tag System]]
-- [[Information Architecture]]
+- [[Information-Architecture]]
 - [[Metacognition]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph]]
 - [[Zettelkasten]]
 - [[PARA Method]]
 - [[GTD]]
-- [[Spaced Repetition]]
+- [[Spaced-Repetition]]
 - [[Active Recall]]
-- [[Working Memory]]
-- [[Executive Function]]
-- [[Cognitive Load Theory]]
-- [[Self-Regulated Learning]]
+- [[Working-Memory]]
+- [[Executive-Function]]
+- [[Cognitive-Load-Theory]]
+- [[Self-Regulated-Learning]]
 - Multiple more based on specific cognitive and PKM concepts
 
 Callout Strategy:
@@ -930,7 +930,7 @@ aliases: [Tag Taxonomy, PKB Ontology, Cognitive Science Tags, Knowledge Organiza
 # 🗂️ High-Level Tag Taxonomy: Cognitive Science & PKM
 
 > [!abstract] System Philosophy
-> This taxonomy utilizes a **Nested Tagging Strategy** (e.g., `#parent/child/grandchild`). This aligns with [[obsidian]]'s native search and graph grouping capabilities.
+> This taxonomy utilizes a **Nested Tagging Strategy** (e.g., `#parent/child/grandchild`). This aligns with [[Obsidian]]'s native search and graph grouping capabilities.
 >
 >   * **Top-Level Tags (L1):** Broad Domains (The "Containers")
 >   * **Mid-Level Tags (L2):** Specific Disciplines or Processes (The "Category")
@@ -951,15 +951,15 @@ These tags categorize notes based on *what function* the brain/mind is performin
   * **`#cog-sci/perception`**: For sensory processing, signal detection theory, and phenomenology.
       * *Use for:* [[Visual Cortex]], [[Auditory Processing]], [[Proprioception]].
   * **`#cog-sci/memory`**: The storage and retrieval mechanisms.
-      * *Use for:* [[Long-Term Potentiation]], [[Working Memory]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]].
+      * *Use for:* [[Long-Term Potentiation]], [[Working-Memory]], [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]].
   * **`#cog-sci/attention`**: The allocation of cognitive resources.
-      * *Use for:* [[Selective Attention]], [[Flow State]], [[Attentional Blink]].
+      * *Use for:* [[Selective-Attention]], [[Flow State]], [[Attentional Blink]].
   * **`#cog-sci/learning`**: The acquisition of knowledge and skills.
       * *Use for:* [[Hebbian Learning]], [[Operant Conditioning]], [[Constructivism]].
   * **`#cog-sci/decision-making`**: Evaluation, judgment, and choice.
-      * *Use for:* [[Heuristics]], [[Bias]], [[Game Theory]].
+      * *Use for:* [[heuristics]], [[Bias]], [[Game Theory]].
   * **`#cog-sci/emotion`**: Affective neuroscience and psychological states.
-      * *Use for:* [[Emotional Intelligence]], [[Amygdala Hijack]], [[Valence]].
+      * *Use for:* [[Emotional-Intelligence]], [[Amygdala Hijack]], [[Valence]].
 
 #### 2\. The Disciplinary Lens (Field-Based)
 
@@ -995,7 +995,7 @@ These tags track the state of information as it moves through your system.
   * **`#pkm/capture`**: Ingesting information (Inbox phase).
       * *Use for:* Quick capture ideas, raw highlights.
   * **`#pkm/process`**: Refining and atomizing information.
-      * *Use for:* Turning highlights into [[Atomic Notes]], progressive summarization.
+      * *Use for:* Turning highlights into [[Atomic-Notes]], progressive summarization.
   * **`#pkm/connect`**: Linking and gardening.
       * *Use for:* Building MOCs, reviewing orphans.
   * **`#pkm/synthesis`**: Creating new outputs.
@@ -1072,7 +1072,7 @@ graph TD
       * *Depth Potential:* Very High. Connects Philosophy, AI, and PKM.
       * *Knowledge Graph Role:* A bridge note connecting `#cog-sci/philosophy` and `#pkm`.
 
-3.  **[[Cognitive Load Theory]]**
+3.  **[[Cognitive-Load-Theory]]**
 
       * *Connection:* Explains why "Collector's Fallacy" happens and how to design atomic notes.
       * *Depth Potential:* Moderate. Practical application of neuroscience.
@@ -1089,7 +1089,7 @@ Would you like me to dive deeper into the **Intersection Concepts** (like [[The 
 
 Here is a comprehensive, hierarchically structured tag taxonomy designed for **Cognitive Science** and **Personal Knowledge Management (PKM)**.
 
-I have designed this using **Nested Tags** (e.g., `#parent/child`). This is the most robust way to handle taxonomies in Obsidian, as it allows you to filter by the broad category (Parent) or the specific niche (Child) using the tag pane or [[dataview]] queries.
+I have designed this using **Nested Tags** (e.g., `#parent/child`). This is the most robust way to handle taxonomies in Obsidian, as it allows you to filter by the broad category (Parent) or the specific niche (Child) using the tag pane or [[Dataview]] queries.
 
 -----
 

@@ -6,7 +6,7 @@ aliases: [Self-Documenting Dataview System, Recursive Query Architecture, Knowle
 # 🔄 Self-Documenting Dataview Knowledge System: Architecture & Implementation
 
 > [!abstract] Executive Summary
-> This reference document analyzes and provides implementation guidance for an advanced **self-documenting knowledge architecture** where each concept note automatically discovers and displays all other notes that reference it. This creates a **recursive intelligence system** that becomes exponentially more valuable as the knowledge base grows, implementing genuine network effects within your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] vault. The system combines sophisticated [[dataview]] queries, [[DataviewJS]] progress tracking, and metadata architecture to create a living, self-organizing documentation ecosystem.
+> This reference document analyzes and provides implementation guidance for an advanced **self-documenting knowledge architecture** where each concept note automatically discovers and displays all other notes that reference it. This creates a **recursive intelligence system** that becomes exponentially more valuable as the knowledge base grows, implementing genuine network effects within your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] vault. The system combines sophisticated [[Dataview]] queries, [[DataviewJS]] progress tracking, and metadata architecture to create a living, self-organizing documentation ecosystem.
 
 ---
 
@@ -301,7 +301,7 @@ For the self-discovery query to work, other notes must follow this list structur
 
 ```markdown
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[Table]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: #data-processing #automation
@@ -423,7 +423,7 @@ WHERE contains(rows.L.children.dataCommands, this.file.link)
 >```
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: 
   - functions:: 
   - tags:: 
@@ -472,7 +472,7 @@ WHERE rating > 7
 ```
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[table]], [[from]], [[flatten]], [[where]]
   - functions:: 
   - tags:: #library #data-organization
@@ -516,7 +516,7 @@ Add complexity tracking to Query meta:
 
 ```markdown
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - complexity:: intermediate
   - dataCommands:: [[FLATTEN]], [[GROUP BY]]
 ```
@@ -535,7 +535,7 @@ Extend the system for domain-specific documentation:
 ```markdown
 - Query meta
   - QueryType:: [[dataviewjs]]
-  - domain:: [[Task Management]]
+  - domain:: [[Task-Management]]
   - useCase:: [[Habit Tracking]]
   - dataCommands:: 
   - functions:: [[dv.pages]], [[groupBy]], [[map]]
@@ -796,7 +796,7 @@ You've mastered the system when you can:
 
 **1. AI-Assisted Query Generation**
 
-Integrate with [[Claude API]] or [[GPT-4]] to:
+Integrate with [[Claude-API]] or [[GPT-4]] to:
 - Auto-generate Query meta from query analysis
 - Suggest optimal dataCommands based on query structure
 - Identify missing documentation opportunities
@@ -860,4 +860,4 @@ Use [[Templater]] + external scripts to auto-capture query screenshots:
 - **Maintainer**: PKB Architect
 - **Status**: Production-Ready Reference
 - **Complexity Level**: Advanced
-- **Prerequisites**: [[Dataview Plugin]], [[DataviewJS]], [[Metadata Architecture]], [[Markdown Fundamentals]]
+- **Prerequisites**: [[Dataview-Plugin]], [[DataviewJS]], [[Metadata Architecture]], [[Markdown-Fundamentals]]

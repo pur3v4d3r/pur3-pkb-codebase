@@ -16,9 +16,9 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Germane Load]]"
-  - "[[Extraneous Load]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Germane-Load]]"
+  - "[[Extraneous-Load]]"
+  - "[[Cognitive-Load-Theory]]"
 maturity: seedling
 confidence: speculative
 
@@ -32,7 +32,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Intrinsic Load]]
+> - **Key-Term**:[[Intrinsic-Load]]
 > - [**Definition**:Complexity inherent to the material being learned, Cannot be reduced; requires building prerequisite knowledge]
 
 

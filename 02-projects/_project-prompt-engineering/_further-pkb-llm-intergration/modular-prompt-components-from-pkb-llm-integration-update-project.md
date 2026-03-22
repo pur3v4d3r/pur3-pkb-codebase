@@ -166,7 +166,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **Narrative Integration:**
 ```markdown
-[[Cognitive Load Theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[Information Processing Theory]].
+[[Cognitive-Load-Theory]] →(builds-on)→ [[Working Memory Model]] and →(extends)→ [[Information-Processing-Theory]].
 ```
 
 **Complex Multi-Relation:**
@@ -176,7 +176,7 @@ When establishing connections between concepts, encode the semantic relationship
 
 **With Annotations:**
 ```markdown
-[**Relationship**:: [[CLT]] →(applied-in)→ [[Instructional Design]] | annotation:"primary application domain since 1980s"]
+[**Relationship**:: [[CLT]] →(applied-in)→ [[Instructional-Design]] | annotation:"primary application domain since 1980s"]
 ```
 </syntax_specification>
 
@@ -633,7 +633,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information Processing Theory]] — foundational framework
+> - [[Information-Processing-Theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -642,12 +642,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive Load Theory]] — primary extension
+> - [[Cognitive-Load-Theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
 > - [[Expertise Development]] — schema automation
-> - [[Multimedia Learning]] — CLT application
+> - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
 
@@ -707,7 +707,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[working-memory]]")
+WHERE contains(prerequisites.hard, "[[Working-Memory]]")
 ```
 </query_compatibility>
 </prerequisite_dependency_mapping>
@@ -1473,7 +1473,7 @@ Explicitly connect concepts to foundational mental models.
 ### Inline Model Anchors
 
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 
 [**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
@@ -1500,11 +1500,11 @@ Explicitly connect concepts to foundational mental models.
 ### Two-Way Model Use
 
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 
 **Concept → Lens** (Projection):
-"How can [[Cognitive Load Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 
@@ -1641,7 +1641,7 @@ cognitive-load:
   intrinsic: high
   element-interactivity: 7
 prerequisites:
-  hard: ["[[information-processing-theory]]", "[[arousal-theory]]"]
+  hard: ["[[Information-Processing-Theory]]", "[[arousal-theory]]"]
 freshness:
   domain-volatility: stable
   last-verified: 2025-05
@@ -1661,13 +1661,13 @@ The model comprises several interacting elements:
 ^source:: [[ref-kahneman-1973]] p.47
 ^evidence-type:: theoretical-claim
 
-[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information Processing Theory]]]
+[**Theoretical-Foundation**:: [[Capacity Model]] →(builds-on)→ [[Yerkes-Dodson Law]] + [[Information-Processing-Theory]]]
 
 %%QUERY-ANCHOR: attention:capacity-model-components%%
 
 > [!application-context] Capacity Model Application
 > **Domains**: 
->   - [[Instructional Design]] — predict when learners will be overwhelmed
+>   - [[Instructional-Design]] — predict when learners will be overwhelmed
 >   - [[UX Design]] — interface complexity management
 > **Trigger Conditions**:
 >   - "Learner performance degrades under stress" → check arousal level

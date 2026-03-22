@@ -17,7 +17,7 @@ summary: The CRAAP Test is a structured checklist for performing a detailed anal
 - [[Source Evaluation]]
 - [[Information Literacy]]
 - [[SIFT Method]]
-- [[Critical Thinking]]
+- [[Critical-Thinking]]
 - [[Research Skills]]
 
 # The CRAAP Test

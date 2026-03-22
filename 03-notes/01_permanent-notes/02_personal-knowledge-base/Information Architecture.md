@@ -15,7 +15,7 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Generative Ai]]"
-  - "[[Large Language Models]]"
+  - "[[Large-Language-Models]]"
 maturity: seedling
 confidence: speculative
 
@@ -29,8 +29,8 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Information Architecture]]
-> - [**Definition**:: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.]
+> - **Key-Term**:: [[Information-Architecture]]
+> - [**Definition**:: The organization of information within a prompt follows principles from [[Library Science]] and [[Knowledge-Management]], where hierarchical organization, cross-referencing, and metadata enhance retrievability and utility.]
 
 
 

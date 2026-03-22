@@ -479,7 +479,7 @@ extraction_summary:
 > > Kapur's productive failure research has direct workflow implications: engaging with hard questions before reading, generating hypotheses before looking up answers, and attempting problems before studying solutions all improve transfer compared to reading-first approaches. This expansion would develop specific PKM workflows that embed productive failure at the capture and note-development stages — including the "pre-read question practice," the "hypothesis note," and the "attempted solution before reference" protocol.
 > 
 > > [!topic-idea] [[The Encoding Variability Calendar — Spacing Multi-Context Encoding Across Time]]
-> > Encoding variability is most powerful when varied contexts are spaced over time (not just generated simultaneously in a single note). This expansion would develop a practical system for revisiting key notes in varied contexts — different problems, different domains, different life situations — using the spaced repetition infrastructure established in [[Report 06]] but reoriented around contextual variation rather than simple recall. Would integrate directly with the spaced repetition design recommendations from Report 06 and the expertise-fading framework from Report 10.
+> > Encoding variability is most powerful when varied contexts are spaced over time (not just generated simultaneously in a single note). This expansion would develop a practical system for revisiting key notes in varied contexts — different problems, different domains, different life situations — using the spaced repetition infrastructure established in [[Report-06]] but reoriented around contextual variation rather than simple recall. Would integrate directly with the spaced repetition design recommendations from Report 06 and the expertise-fading framework from Report 10.
 > 
 > > [!topic-idea] [[Far Transfer in Expert Knowledge Domains — When Deep Expertise Helps and Hinders Cross-Domain Application]]
 > > Expert knowledge is powerful within a domain but creates specific transfer hazards: deep context-specific schemas can generate negative transfer (the expert's mental models actively block recognition of structural analogies in unfamiliar domains). This expansion would examine the transfer literature on expert knowledge, drawing on the expertise reversal effect from [[Report 10]] and the knowledge fixedness research from creativity studies, to understand when deep expertise facilitates and when it impedes cross-domain transfer — and how PKB design should adapt for learners at different expertise levels.
@@ -524,7 +524,7 @@ extraction_summary:
 - [[Kapur]]
 - [[Keith Holyoak]]
 - [[Lave and Wenger]]
-- [[Manu Kapur]]
+- [[Manu-Kapur]]
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
@@ -536,7 +536,7 @@ extraction_summary:
 - [[Reigeluth]]
 - [[Report 03]]
 - [[Report 03: Constructing Understanding]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 07]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -552,7 +552,7 @@ extraction_summary:
 - [[Report 25]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
-- [[Robert Bjork]]
+- [[Robert-Bjork]]
 - [[Schema-Theory|Schema Theory]]
 - [[Sequestered Problem Solving]]
 - [[Situated-Cognition|Situated Cognition]]
@@ -613,7 +613,7 @@ extraction_summary:
 | 43 | [[John Bransford]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 44 | [[Daniel-Schwartz|Daniel Schwartz]] | — | — | What Facilitates Transfer: The Positi... | 212 |
 | 45 | [[Preparation-for-Future-Learning|Preparation for Future Learning]] | — | — | What Facilitates Transfer: The Positi... | 212 |
-| 46 | [[Manu Kapur]] | — | — | What Facilitates Transfer: The Positi... | 214 |
+| 46 | [[Manu-Kapur]] | — | — | What Facilitates Transfer: The Positi... | 214 |
 | 47 | [[Productive-Failure|Productive Failure]] | — | — | What Facilitates Transfer: The Positi... | 214 |
 | 48 | [[Analogical-Transfer|Analogical Transfer]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
 | 49 | [[Structure-Mapping-Theory|Structure-Mapping Theory]] | — | — | Analogical Transfer: The Gateway to F... | 224 |
@@ -634,7 +634,7 @@ extraction_summary:
 | 64 | [[Nash-Equilibria|Nash Equilibria]] | — | — | Design Principle 2: Structural Linkin... | 309 |
 | 65 | [[Encoding-Variability|Encoding Variability]] | — | — | Design Principle 3: Multiple Context ... | 313 |
 | 66 | [[Report 18]] | — | — | Design Principle 5: Embedding Transfe... | 330 |
-| 67 | [[Robert Bjork]] | — | — | Limitations and Honest Boundaries | 338 |
+| 67 | [[Robert-Bjork]] | — | — | Limitations and Honest Boundaries | 338 |
 | 68 | [[Tulving]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 69 | [[Lave and Wenger]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
 | 70 | [[Gentner]] | — | — | What the Three Traditions Tell Us Tog... | 353 |
@@ -654,7 +654,7 @@ extraction_summary:
 | 84 | [[Transfer-Appropriate Processing in Note Writing — How to Write Notes That Match How You Will Use Them]] | — | — | D. Expansion Topics | 502 |
 | 85 | [[Productive Failure as a PKM Workflow — Designing Deliberate Struggle into the Learning Cycle]] | — | — | D. Expansion Topics | 505 |
 | 86 | [[The Encoding Variability Calendar — Spacing Multi-Context Encoding Across Time]] | — | — | D. Expansion Topics | 508 |
-| 87 | [[Report 06]] | — | — | D. Expansion Topics | 509 |
+| 87 | [[Report-06]] | — | — | D. Expansion Topics | 509 |
 | 88 | [[Far Transfer in Expert Knowledge Domains — When Deep Expertise Helps and Hinders Cross-Domain Application]] | — | — | D. Expansion Topics | 511 |
 | 89 | [[Report 10]] | — | — | D. Expansion Topics | 512 |
 | 90 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | — | — | D. Expansion Topics | 516 |
@@ -724,7 +724,7 @@ extraction_summary:
 - [[Kapur]]
 - [[Keith Holyoak]]
 - [[Lave and Wenger]]
-- [[Manu Kapur]]
+- [[Manu-Kapur]]
 - [[Mimetic Desire]]
 - [[Nash-Equilibria|Nash Equilibria]]
 - [[Paul Duguid]]
@@ -736,7 +736,7 @@ extraction_summary:
 - [[Reigeluth]]
 - [[Report 03]]
 - [[Report 03: Constructing Understanding]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 07]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -752,7 +752,7 @@ extraction_summary:
 - [[Report 25]]
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Richard Gick]]
-- [[Robert Bjork]]
+- [[Robert-Bjork]]
 - [[Schema-Theory|Schema Theory]]
 - [[Sequestered Problem Solving]]
 - [[Situated-Cognition|Situated Cognition]]

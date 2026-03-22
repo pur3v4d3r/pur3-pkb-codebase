@@ -196,7 +196,7 @@ Systematically improve the prompt based on test results.
 
 ### The Chain-of-Thought Prompting Pattern
 
-[[Chain-of-Thought prompting]] is particularly effective for Claude and should be incorporated whenever tasks involve reasoning, analysis, or multi-step problem-solving.
+[[Chain-of-Thought-Prompting]] is particularly effective for Claude and should be incorporated whenever tasks involve reasoning, analysis, or multi-step problem-solving.
 
 **Basic CoT Pattern**:
 

@@ -26,7 +26,7 @@ aliases: [Open Items Audit, PKB Task Prioritization, Knowledge Work Roadmap]
 ---
 
 > [!the-purpose]
-> I've notice (through [[Metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[Cognitive Load Theory]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
+> I've notice (through [[Metacognition]]) that I seem to be having some difficulty in A) concentrating/Focusing, and B) Having a difficult time thinking actively. My hypothesis is this: I believe that this has something to do with [[Cognitive-Load-Theory]] So this is the Plan I'm stopping everything and reducing the cognitive load by first planning out a strategy for fixing the many projects that open at the moment and cause this cognitive burden that I'm experiencing.
 
 # Plan
 
@@ -144,7 +144,7 @@ These items **block effective knowledge work** and should be addressed immediate
 
 **Why Critical**: 
 - Affects every future note you create
-- Inconsistent naming breaks [[Wiki-Links]] and search
+- Inconsistent naming breaks [[wiki-links]] and search
 - Creates decision fatigue in daily workflow
 - Must be done before large-scale automation
 
@@ -299,7 +299,7 @@ Important for efficiency, but system functions without them:
 - Affects every other item on this list
 
 > [!key-claim]
-> **Central Thesis**: The ability to plan and execute is not innate—it's a trainable skill combining [[Goal Decomposition]], [[Metacognitive Monitoring]], and [[Self-Regulation Strategies]].
+> **Central Thesis**: The ability to plan and execute is not innate—it's a trainable skill combining [[Goal Decomposition]], [[Metacognitive-Monitoring]], and [[Self-Regulation Strategies]].
 
 **Actionable Framework**:
 
@@ -323,7 +323,7 @@ Important for efficiency, but system functions without them:
 > - Extract principles for next cycle
 
 > [!helpful-tip]
-> **Start Small**: Practice this framework on one item from this list (suggest: QuickAdd System). Document your process in a [[Learning Log]]. This creates both skill development and reference material.
+> **Start Small**: Practice this framework on one item from this list (suggest: QuickAdd System). Document your process in a [[Learning-Log]]. This creates both skill development and reference material.
 
 ---
 
@@ -338,9 +338,9 @@ Important for efficiency, but system functions without them:
 - Informs how you design your own learning systems
 
 **Suggested Focus Areas**:
-1. [[Cognitive Load Theory]] (directly applicable to PKB design)
+1. [[Cognitive-Load-Theory]] (directly applicable to PKB design)
 2. [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] and [[Active Recall]] (learning efficiency)
-3. [[Metacognitive Regulation]] (learning to learn)
+3. [[Metacognitive-Regulation]] (learning to learn)
 4. [[Transfer-of-Learning]] (applying knowledge across domains)
 
 > [!connection-ideas]
@@ -352,7 +352,7 @@ Important for efficiency, but system functions without them:
 **Priority**: 🟡 **HIGH** | **Impact**: Mental performance & resilience | **Estimated Time**: 15-30 min/day
 
 **Why High**:
-- [[Cognitive-Behavioral Therapy]] techniques improve meta-awareness
+- [[Cognitive-Behavioral-Therapy]] techniques improve meta-awareness
 - Working memory and attention are trainable
 - Direct impact on knowledge work effectiveness
 
@@ -449,7 +449,7 @@ Important for efficiency, but system functions without them:
 **Priority**: 🟡 **HIGH** | **Impact**: Knowledge retrieval & synthesis | **Estimated Time**: 8-10 hours learning + ongoing practice
 
 **Why High**:
-- [[Dataview Plugin]] is force multiplier for PKB
+- [[Dataview-Plugin]] is force multiplier for PKB
 - Enables dynamic indexes, task tracking, knowledge dashboards
 - Critical for automation features you want
 
@@ -538,7 +538,7 @@ SORT file.mtime DESC
 - Better after you've established workflow patterns
 
 **Recommended Approach**:
-1. Generate comprehensive reference note on [[Tasks Plugin]]
+1. Generate comprehensive reference note on [[Tasks-Plugin]]
 2. Design task taxonomy (types, priorities, workflows)
 3. Create task templates
 4. Build dashboard queries
@@ -898,7 +898,7 @@ This note needs to cover:
    - Self-check activation triggers
 
 **Wiki-Link Opportunities:**
-- [[Personal Knowledge Management]]
+- [[Personal-Knowledge-Management]]
 - [[Zettelkasten Methodology]]
 - [[Obsidian Ecosystem]]
 - [[Metadata Conventions]]
@@ -909,12 +909,12 @@ This note needs to cover:
 - [[Chain-of-Thought-Prompting]]
 - [[ReAct Framework]]
 - [[Context Window Management]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning]]
 - [[Andragogy]]
 - [[Heutagogy]]
-- [[Cognitive Load Theory]]
-- [[Information Architecture]]
-- [[Prompt Engineering]]
+- [[Cognitive-Load-Theory]]
+- [[Information-Architecture]]
+- [[Prompt-Engineering]]
 - [[LLM Collaboration Patterns]]
 
 **Callout Strategy:**
@@ -945,7 +945,7 @@ aliases: [Claude-User Partnership Guide, PKB Collaboration Protocol, AI-Assisted
 > [!the-purpose]
 > **Optimizing the Claude-User-PKB Triad**
 > 
-> This reference note establishes a comprehensive framework for maximizing the effectiveness of our collaborative partnership in building and maintaining your [[Personal Knowledge Base]]. It documents what contextual information enables me to generate outputs perfectly aligned with your PKB architecture, what I need to know about your existing systems to avoid friction, and how you can optimize your requests to receive the highest-quality, most immediately useful responses.
+> This reference note establishes a comprehensive framework for maximizing the effectiveness of our collaborative partnership in building and maintaining your [[Personal-Knowledge-Base]]. It documents what contextual information enables me to generate outputs perfectly aligned with your PKB architecture, what I need to know about your existing systems to avoid friction, and how you can optimize your requests to receive the highest-quality, most immediately useful responses.
 >
 > This is a *living protocol* - as our collaboration evolves and your PKB grows, this framework should be updated to reflect new patterns, preferences, and optimizations we discover together.
 
@@ -1235,7 +1235,7 @@ Based on the context you provide, here's how I can enhance the quality and fit o
 > **Building on Your Existing Knowledge Graph**
 > 
 > If you share snapshots of your existing notes, I can:
-> - **Link to existing notes**: "This connects to your note [[Metacognitive Monitoring]]"
+> - **Link to existing notes**: "This connects to your note [[Metacognitive-Monitoring]]"
 > - **Avoid duplicate note creation**: Recognize when a concept already exists in your vault
 > - **Suggest bidirectional linking**: Identify where existing notes should link back to new content
 > - **Fill graph gaps**: Identify missing bridge concepts between existing notes
@@ -1293,7 +1293,7 @@ This protocol treats note generation as a collaborative drafting process rather 
 > **Try:** "Create a reference note on self-regulated learning. This will be a core note in my `/Reference/Learning-Theory/` folder. I want:
 > - Depth: Expert-level, 2500-3000 words
 > - Focus: Balance theory (Zimmerman's model, Pintrich's framework) with practical metacognitive strategies
-> - Connect to: My existing notes on [[Metacognition]], [[Goal-Setting Theory]], [[Cognitive Load Management]]
+> - Connect to: My existing notes on [[Metacognition]], [[Goal-Setting-Theory]], [[Cognitive Load Management]]
 > - Callouts: Heavy use of [!principle-point], [!methodology-and-sources], [!example]
 > - Special requirements: Include a comparison table of major SRL models, a Mermaid diagram of the SRL cycle
 > - Tags should follow my convention: `#learning-theory #self-regulation #metacognition #reference-note`"

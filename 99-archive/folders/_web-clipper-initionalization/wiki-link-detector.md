@@ -15,7 +15,7 @@ You are a **Knowledge Graph Architect** specializing in identifying concepts, te
 
 ### Standard Format
 ```
-[[Concept Name]]
+[[Concept-Name]]
 ```
 
 ### Display Text Format (Alias)
@@ -25,9 +25,9 @@ You are a **Knowledge Graph Architect** specializing in identifying concepts, te
 
 ### Examples
 ```
-The [[spacing effect]] improves retention.
-[[Hermann Ebbinghaus|Ebbinghaus]] discovered the [[forgetting curve]].
-This relates to [[Cognitive Load Theory|CLT]].
+The [[Spacing-Effect]] improves retention.
+[[Hermann-Ebbinghaus|Ebbinghaus]] discovered the [[Forgetting-Curve]].
+This relates to [[Cognitive-Load-Theory|CLT]].
 ```
 
 ---
@@ -39,11 +39,11 @@ These deserve wiki-links whenever mentioned:
 
 | Category | Examples |
 |----------|----------|
-| Named Theories | [[Cognitive Load Theory]], [[Dual Process Theory]], [[Schema Theory]] |
+| Named Theories | [[Cognitive-Load-Theory]], [[Dual-Process-Theory]], [[Schema-Theory]] |
 | Named Frameworks | [[Zettelkasten]], [[PARA Method]], [[GTD]] |
 | Named Effects/Phenomena | [[Spacing-Effect]], [[Testing-Effect]], [[Dunning-Kruger-Effect]] |
-| Researchers/Thinkers | [[Hermann Ebbinghaus]], [[Niklas Luhmann]], [[Daniel Kahneman]] |
-| Key Methodologies | [[Spaced Repetition]], [[Active Recall]], [[Retrieval-Practice]] |
+| Researchers/Thinkers | [[Hermann-Ebbinghaus]], [[Niklas Luhmann]], [[Daniel-Kahneman]] |
+| Key Methodologies | [[Spaced-Repetition]], [[Active Recall]], [[Retrieval-Practice]] |
 | Tools/Software | [[Obsidian]], [[Anki]], [[Dataview]] |
 
 ### Tier 2: USUALLY Link (Medium Priority)
@@ -51,9 +51,9 @@ Link when the concept is substantive to the content:
 
 | Category | Examples |
 |----------|----------|
-| Technical Terms | [[working memory]], [[metacognition]], [[executive function]] |
-| Domain Concepts | [[Cognitive-Load]], [[schema]], [[attention]] |
-| Processes | [[encoding]], [[retrieval]], [[consolidation]] |
+| Technical Terms | [[Working-Memory]], [[Metacognition]], [[Executive-Function]] |
+| Domain Concepts | [[Cognitive-Load]], [[Schema]], [[Attention]] |
+| Processes | [[encoding]], [[retrieval]], [[Consolidation]] |
 | Practices | [[note-taking]], [[annotation]], [[summarization]] |
 
 ### Tier 3: SOMETIMES Link (Low Priority)
@@ -93,21 +93,21 @@ Link only if central to the discussion:
 ### Strategy 1: Concept Extraction
 Identify standalone concepts that could be their own atomic notes:
 ```
-The article discusses how [[working memory]] capacity limits [[Cognitive-Load]],
-which has implications for [[instructional design]].
+The article discusses how [[Working-Memory]] capacity limits [[Cognitive-Load]],
+which has implications for [[Instructional-Design]].
 ```
 
 ### Strategy 2: Cross-Domain Bridging
 Link concepts that connect different knowledge domains:
 ```
-[[Spaced repetition]] in [[PKM]] applies [[cognitive science]] principles
-from [[Ebbinghaus]]'s research on [[memory consolidation]].
+[[Spaced-Repetition]] in [[PKM]] applies [[Cognitive-Science]] principles
+from [[Ebbinghaus]]'s research on [[Memory-Consolidation]].
 ```
 
 ### Strategy 3: Hierarchy Linking
 Connect concepts to their parent categories and siblings:
 ```
-[[Working memory]] is a core component of [[executive function]],
+[[Working-Memory]] is a core component of [[Executive-Function]],
 alongside [[cognitive flexibility]] and [[inhibitory control]].
 ```
 
@@ -115,7 +115,7 @@ alongside [[cognitive flexibility]] and [[inhibitory control]].
 Connect abstract concepts to their practical implementations:
 ```
 [[Active recall]] can be implemented using [[Anki]] or [[Obsidian]]'s
-[[spaced repetition]] plugins like [[Obsidian SR]].
+[[Spaced-Repetition]] plugins like [[Obsidian SR]].
 ```
 
 ---
@@ -138,8 +138,8 @@ For advanced usage, see [[Related Feature]] and [[Plugin Name]].
 
 ### Concept Explanation Pattern
 ```
-[[Concept Name]] refers to the [[Category]] of [[Domain]].
-It differs from [[Related Concept]] in that [[Distinction]].
+[[Concept-Name]] refers to the [[Category]] of [[Domain]].
+It differs from [[Related-Concept]] in that [[Distinction]].
 Applications include [[Application 1]], [[Application 2]], and [[Use Case]].
 ```
 
@@ -166,16 +166,16 @@ Applications include [[Application 1]], [[Application 2]], and [[Use Case]].
 ## Naming Conventions
 
 ### Standard Rules
-1. **Title Case for Proper Nouns**: `[[Hermann Ebbinghaus]]`, `[[Cognitive Load Theory]]`
-2. **Lowercase for Common Terms**: `[[working memory]]`, `[[spaced repetition]]`
-3. **Hyphenated Compounds**: `[[self-regulated learning]]`, `[[meta-cognition]]`
-4. **Full Names First**: `[[Daniel Kahneman]]` not `[[Kahneman]]`
+1. **Title Case for Proper Nouns**: `[[Hermann-Ebbinghaus]]`, `[[Cognitive-Load-Theory]]`
+2. **Lowercase for Common Terms**: `[[Working-Memory]]`, `[[Spaced-Repetition]]`
+3. **Hyphenated Compounds**: `[[Self-Regulated-Learning]]`, `[[meta-cognition]]`
+4. **Full Names First**: `[[Daniel-Kahneman]]` not `[[Kahneman]]`
 
 ### Aliases for Flexibility
 ```
-[[Cognitive Load Theory|CLT]]
-[[Personal Knowledge Management|PKM]]
-[[Hermann Ebbinghaus|Ebbinghaus]]
+[[Cognitive-Load-Theory|CLT]]
+[[Personal-Knowledge-Management|PKM]]
+[[Hermann-Ebbinghaus|Ebbinghaus]]
 [[Spaced Repetition System|SRS]]
 ```
 
@@ -185,7 +185,7 @@ Applications include [[Application 1]], [[Application 2]], and [[Use Case]].
 
 ### Basic Wiki-Link Extraction
 ```
-{{"Identify 8-12 concepts from this content that should become wiki-links for a knowledge graph. Format each as [[Concept Name]] on its own line.
+{{"Identify 8-12 concepts from this content that should become wiki-links for a knowledge graph. Format each as [[Concept-Name]] on its own line.
 
 Focus on:
 - Named theories and frameworks
@@ -199,7 +199,7 @@ Focus on:
 ```
 {{"Identify ALL concepts that merit wiki-links in this content. Aim for 15-25 links.
 
-Format as [[Concept Name]] on separate lines.
+Format as [[Concept-Name]] on separate lines.
 
 MUST include:
 - Every named theory, model, or framework

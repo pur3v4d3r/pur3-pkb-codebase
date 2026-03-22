@@ -2404,7 +2404,7 @@ class ThinkingQualityAssessor:
 
 **Depth Potential**: Would include cognitive science foundations, metacognition in humans vs. AI, architectural patterns for self-monitoring, comparative analysis of metacognitive systems across different LLMs, and research directions in AI metacognition.
 
-**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[Cognitive Science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
+**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[Cognitive-Science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
 
 **Priority**: **Medium** - Valuable theoretical depth but less immediately actionable than production guidance.
 
@@ -2438,7 +2438,7 @@ class ThinkingQualityAssessor:
 
 ### 4. **[[Advanced Reasoning Technique Integration]]**
 
-**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
+**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
 
 **Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation [13], CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
 
@@ -2454,7 +2454,7 @@ class ThinkingQualityAssessor:
 
 **Depth Potential**: Prompt patterns for structured thinking [3], templates for validation checkpoints, meta-prompts for self-correction, few-shot examples demonstrating thinking quality [1], anti-patterns to avoid, domain-specific thinking templates.
 
-**Knowledge Graph Role**: Practical application layer connecting architecture to user-facing prompting, bridging [[Prompt Engineering]], [[Extended Thinking]], and [[Quality Assurance]].
+**Knowledge Graph Role**: Practical application layer connecting architecture to user-facing prompting, bridging [[Prompt-Engineering]], [[Extended Thinking]], and [[Quality Assurance]].
 
 **Priority**: **High** - Immediately actionable for practitioners optimizing reasoning quality.
 

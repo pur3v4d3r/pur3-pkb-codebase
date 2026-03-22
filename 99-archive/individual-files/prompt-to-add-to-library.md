@@ -17,7 +17,7 @@ Prompts to Add to the Library
 !2,prompt-component,"For modular parts (e.g., personas, output rules) intended for your Prompt Component Library."
 !3,gemini-gem-instruction,"System instructions specifically for Google [[Gemini]] ""Gems""."
 !4,gemini-prompt,The user-side prompt for Gemini interactions.
-!5,claude-prompt,The user-side prompt for [[Anthropic Claude]].
+!5,claude-prompt,The user-side prompt for [[Anthropic-Claude]].
 !6,claude-project,"Context or artifacts specifically for Claude ""Projects""."
 
 

@@ -138,7 +138,7 @@ extraction_summary:
 #### 1. [ABSTRACT] Untitled *(Line 227)*
 
 > [!abstract] Untitled
-> This report applies Stoic philosophy systematically to the domain of leadership and organizational decision-making. It argues that the Stoic framework — built on virtue as the foundation of genuine authority, the [[Dichotomy of Control]] as a structural tool for navigating uncertainty, [[Kathêkon]] as a theory of role-specific duty, and emotional self-governance as a precondition of clear judgment — constitutes one of the most sophisticated and empirically defensible philosophies of leadership available to the modern practitioner. Drawing on primary sources (particularly the *Meditations* of [[Marcus Aurelius]], the *Letters* and *On Clemency* of [[Seneca]], and the *Discourses* of [[Epictetus]]), psychological research on decision-making and leadership effectiveness, and historical case studies ranging from antiquity to the twentieth century, the report builds a practical architecture that leaders at every level can deploy in their daily conduct.
+> This report applies Stoic philosophy systematically to the domain of leadership and organizational decision-making. It argues that the Stoic framework — built on virtue as the foundation of genuine authority, the [[Dichotomy-of-Control]] as a structural tool for navigating uncertainty, [[Kathêkon]] as a theory of role-specific duty, and emotional self-governance as a precondition of clear judgment — constitutes one of the most sophisticated and empirically defensible philosophies of leadership available to the modern practitioner. Drawing on primary sources (particularly the *Meditations* of [[Marcus-Aurelius]], the *Letters* and *On Clemency* of [[Seneca]], and the *Discourses* of [[Epictetus]]), psychological research on decision-making and leadership effectiveness, and historical case studies ranging from antiquity to the twentieth century, the report builds a practical architecture that leaders at every level can deploy in their daily conduct.
 
 #### 2. [INDEX] Untitled *(Line 230)*
 
@@ -166,7 +166,7 @@ extraction_summary:
 #### 5. [QUOTE] Untitled *(Line 273)*
 
 > [!quote] Untitled
-> "You have power over your mind, not outside events. Realize this, and you will find strength." — [[Marcus Aurelius]], *Meditations* (attributed paraphrase; cf. V.19: "If it is not right, do not do it; if it is not true, do not say it.")
+> "You have power over your mind, not outside events. Realize this, and you will find strength." — [[Marcus-Aurelius]], *Meditations* (attributed paraphrase; cf. V.19: "If it is not right, do not do it; if it is not true, do not say it.")
 
 #### 6. [QUOTE] Untitled *(Line 278)*
 
@@ -201,7 +201,7 @@ extraction_summary:
 #### 12. [KEY-INSIGHT] Untitled *(Line 366)*
 
 > [!key-insight] Untitled
-> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy of Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
+> **The Stoic Counter-Technology to Cognitive Bias**: The [[Dichotomy-of-Control]], practiced consistently, is an intervention against loss aversion — it disrupts the catastrophizing appraisal of loss that produces risk-avoidant decisions in the wrong contexts. The [[Reserve Clause]] is an intervention against outcome-attachment that prevents over-commitment to an initial decision. The Evening Review is an intervention against overconfidence and blind spots — it requires the leader to actively search for where their conduct fell short rather than defaulting to self-serving interpretation. These are not merely nice philosophical ideas; they are structural counter-technologies to documented cognitive failure modes.
 
 #### 13. [CONNECTION-IDEAS] Untitled *(Line 371)*
 
@@ -231,7 +231,7 @@ extraction_summary:
 > [!example] Untitled
 > **Case: Stoicism in the Hanoi Hilton**
 > 
-> Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy of Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
+> Stockdale had read Epictetus at Stanford before his deployment, and he later wrote that Epictetus's philosophy was the single most important resource he had in captivity. What he understood from Epictetus — and what his captors could not comprehend — was the [[Dichotomy-of-Control]] applied to the most extreme circumstances. His captors had complete control over his body, his environment, his food, his physical treatment. They had no access whatsoever to what Epictetus called *prohairesis* — his will, his values, his judgments, his sense of himself as a leader responsible for his people. Stockdale organized resistance among the prisoners using a covert communication system, maintained a code of conduct that preserved the prisoners' dignity and prevented the kind of cooperative behavior that would have given the enemy propaganda value, and accepted torture rather than betray his fellow prisoners — all because he had a clear account, derived from Stoic philosophy, of what was genuinely his to protect and what was not.
 > 
 > Critically, Stockdale did not maintain optimism in the conventional sense. He famously noted — in what Jim Collins called "the Stockdale Paradox" — that the prisoners who expected early release tended to break down psychologically when their optimistic predictions proved wrong. Stockdale's own survival depended on something different: the clear-eyed acknowledgment of the reality of his situation combined with the unshakeable commitment to endure and act well within it. This is the [[Reserve Clause]] at maximum intensity: "I will act with full commitment, Fate permitting."
 > 
@@ -248,7 +248,7 @@ extraction_summary:
 > 
 > **Duration**: 5–10 minutes.
 > 
-> **Stoic Grounding**: [[Epictetus]], *Enchiridion*, Chapter 1: "Some things are in our control and others not." The Discipline of Desire. The [[Dichotomy of Control]] as the foundational Stoic operating principle.
+> **Stoic Grounding**: [[Epictetus]], *Enchiridion*, Chapter 1: "Some things are in our control and others not." The Discipline of Desire. The [[Dichotomy-of-Control]] as the foundational Stoic operating principle.
 > 
 > **Psychological Mechanism**: Redirects attentional resources from uncontrollable outcome-monitoring (which generates anxiety and distorted decision-making) to process-focused conduct (which generates both better decisions and greater equanimity). Directly counters loss aversion and catastrophizing by removing the framing of outcomes as the primary measure of success.
 > 
@@ -299,7 +299,7 @@ extraction_summary:
 > 
 > **Duration**: 5–15 minutes; can be done as a brief mental exercise or as a more extended written reflection.
 > 
-> **Stoic Grounding**: The "View from Above" practice is described explicitly in the *Meditations* of [[Marcus Aurelius]] (e.g., VII.48, IX.30) and draws on the Stoic cosmological framework of [[Logos]] — the rational principle that encompasses the whole. Seeing oneself as a small part of a vast rational order naturally corrects for the ego-inflation and catastrophizing that proximity to problems tends to produce.
+> **Stoic Grounding**: The "View from Above" practice is described explicitly in the *Meditations* of [[Marcus-Aurelius]] (e.g., VII.48, IX.30) and draws on the Stoic cosmological framework of [[Logos]] — the rational principle that encompasses the whole. Seeing oneself as a small part of a vast rational order naturally corrects for the ego-inflation and catastrophizing that proximity to problems tends to produce.
 > 
 > **Psychological Mechanism**: Activates what psychologists call "self-distancing" — the cognitively healthy capacity to view one's own situation with the kind of perspective one can more easily apply to others' situations. Research by Ethan Kross and Ozlem Ayduk demonstrates that self-distancing (including temporal self-distancing — "how will this look in ten years?") produces better-regulated emotional responses and more adaptive decision-making than immersed, self-focused processing.
 > 
@@ -334,14 +334,14 @@ extraction_summary:
 > [!warning] Untitled
 > **Obstacle 2: Emotional Suppression Masquerading as Stoic Equanimity**
 > 
-> A persistent misreading of Stoicism — particularly dangerous in leadership contexts — is the equation of Stoic equanimity with emotional suppression or the performance of not caring. This produces leaders who are unresponsive to their people, who present false fronts of invulnerability, and who mistake rigidity for strength. The Stoic framework explicitly rejects this. [[Epictetus]] and [[Marcus Aurelius]] both write about the existence of genuine emotional responses — they are not robots. What the Stoics argue is that one's judgment should not be *controlled by* emotion — that the assent-giving faculty should not defer to reactive emotional states in determining what is true or what is right. A Stoic leader can feel anger, fear, and grief; the Stoic practice is ensuring that those feelings do not distort judgment and conduct.
+> A persistent misreading of Stoicism — particularly dangerous in leadership contexts — is the equation of Stoic equanimity with emotional suppression or the performance of not caring. This produces leaders who are unresponsive to their people, who present false fronts of invulnerability, and who mistake rigidity for strength. The Stoic framework explicitly rejects this. [[Epictetus]] and [[Marcus-Aurelius]] both write about the existence of genuine emotional responses — they are not robots. What the Stoics argue is that one's judgment should not be *controlled by* emotion — that the assent-giving faculty should not defer to reactive emotional states in determining what is true or what is right. A Stoic leader can feel anger, fear, and grief; the Stoic practice is ensuring that those feelings do not distort judgment and conduct.
 
 #### 24. [WARNING] Untitled *(Line 510)*
 
 > [!warning] Untitled
 > **Obstacle 3: Confusing the Acceptance of Difficulty with Passivity**
 > 
-> The [[Dichotomy of Control]] is sometimes misread as a counsel of passive acceptance — if something is outside my control, why act at all? This misses the structure of the framework entirely. The Dichotomy of Control is not a counsel of inaction; it is a counsel of *focused* action. The Stoic who has clearly identified what is within their power will act on that domain with full energy and commitment, precisely because they are not dissipating their energy in futile attempts to control what they cannot. The leader who understands the Dichotomy will be more decisive, not less — because their decision-making is not paralyzed by anxiety about uncontrollable outcomes.
+> The [[Dichotomy-of-Control]] is sometimes misread as a counsel of passive acceptance — if something is outside my control, why act at all? This misses the structure of the framework entirely. The Dichotomy of Control is not a counsel of inaction; it is a counsel of *focused* action. The Stoic who has clearly identified what is within their power will act on that domain with full energy and commitment, precisely because they are not dissipating their energy in futile attempts to control what they cannot. The leader who understands the Dichotomy will be more decisive, not less — because their decision-making is not paralyzed by anxiety about uncontrollable outcomes.
 
 #### 25. [CONNECTION-IDEAS] Untitled *(Line 527)*
 
@@ -362,7 +362,7 @@ extraction_summary:
 > [!reflection] Untitled
 > **Questions to Sit With**:
 > 1. When you review your most significant leadership failure (or the most significant failure you have witnessed), what character deficit was at its root — inadequate wisdom, courage, justice, or temperance? How does that analysis change what you would focus on developing?
-> 2. Apply the [[Dichotomy of Control]] to your current most significant leadership challenge: What is genuinely within your power? What is not? Are you spending your energy in proportion to these categories?
+> 2. Apply the [[Dichotomy-of-Control]] to your current most significant leadership challenge: What is genuinely within your power? What is not? Are you spending your energy in proportion to these categories?
 > 3. If a leader you deeply respect were to review your conduct over the past month — not your outcomes, but your conduct — what would they commend and what would they gently challenge?
 
 #### 28. [FURTHER-READING] Untitled *(Line 589)*
@@ -428,8 +428,8 @@ extraction_summary:
 - [[Authentic Leadership]]
 - [[Cognitive Bias and the Discipline of Assent]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Daniel Kahneman]]
-- [[Dichotomy of Control]]
+- [[Daniel-Kahneman]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Four Cardinal Virtues]]
 - [[James Stockdale]]
@@ -437,7 +437,7 @@ extraction_summary:
 - [[Kathêkon]]
 - [[Kathêkon — The Ethics of Role Obligations]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Marcus Aurelius — Leadership in the Antonine Plague]]
 - [[Prohairesis]]
 - [[Reserve Clause]]
@@ -454,9 +454,9 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Dichotomy of Control]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
+| 1 | [[Dichotomy-of-Control]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
 | 2 | [[Kathêkon]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
-| 3 | [[Marcus Aurelius]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
+| 3 | [[Marcus-Aurelius]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
 | 4 | [[Seneca]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
 | 5 | [[Epictetus]] | — | — | Stoicism in Leadership and Decision-M... | 228 |
 | 6 | [[Stoicism Series Overview]] | — | — | Stoicism in Leadership and Decision-M... | 233 |
@@ -464,36 +464,36 @@ extraction_summary:
 | 8 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Stoicism in Leadership and Decision-M... | 236 |
 | 9 | [[Stoicism]] | — | — | Part 1: The Problem Leadership Presen... | 261 |
 | 10 | [[Seneca]] | — | — | Part 1: The Problem Leadership Presen... | 261 |
-| 11 | [[Marcus Aurelius]] | — | — | Part 1: The Problem Leadership Presen... | 261 |
-| 12 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 271 |
-| 13 | [[Marcus Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 274 |
+| 11 | [[Marcus-Aurelius]] | — | — | Part 1: The Problem Leadership Presen... | 261 |
+| 12 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 271 |
+| 13 | [[Marcus-Aurelius]] | — | — | Part 2: What the Stoics Said — The Ph... | 274 |
 | 14 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 276 |
 | 15 | [[Seneca]] | — | — | Part 2: What the Stoics Said — The Ph... | 279 |
 | 16 | [[Epictetus]] | — | — | Part 2: What the Stoics Said — The Ph... | 283 |
 | 17 | [[Kathêkon]] | — | — | Part 2: What the Stoics Said — The Ph... | 283 |
 | 18 | [[Four Cardinal Virtues]] | — | — | Principle 1: Virtue Is the Foundation... | 296 |
-| 19 | [[Dichotomy of Control]] | — | — | Principle 2: The Dichotomy of Control... | 315 |
+| 19 | [[Dichotomy-of-Control]] | — | — | Principle 2: The Dichotomy of Control... | 315 |
 | 20 | [[Seneca]] | — | — | Principle 3: The Reserve Clause — Act... | 330 |
 | 21 | [[Kathêkon]] | — | — | Principle 4: Role Ethics and the Obli... | 336 |
 | 22 | [[Epictetus]] | — | — | Principle 5: Emotional Governance as ... | 349 |
-| 23 | [[Daniel Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 361 |
-| 24 | [[Dichotomy of Control]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
+| 23 | [[Daniel-Kahneman]] | — | — | Part 4: The Psychology Behind the Phi... | 361 |
+| 24 | [[Dichotomy-of-Control]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
 | 25 | [[Reserve Clause]] | — | — | Part 4: The Psychology Behind the Phi... | 367 |
 | 26 | [[Authentic Leadership]] | — | — | Part 4: The Psychology Behind the Phi... | 372 |
-| 27 | [[Marcus Aurelius]] | — | — | Example 1: Marcus Aurelius and the We... | 380 |
+| 27 | [[Marcus-Aurelius]] | — | — | Example 1: Marcus Aurelius and the We... | 380 |
 | 28 | [[Seneca]] | — | — | Example 2: Seneca on Clemency and the... | 391 |
 | 29 | [[James Stockdale]] | — | — | Example 3: James Stockdale and the Te... | 402 |
-| 30 | [[Dichotomy of Control]] | — | — | Example 3: James Stockdale and the Te... | 407 |
+| 30 | [[Dichotomy-of-Control]] | — | — | Example 3: James Stockdale and the Te... | 407 |
 | 31 | [[Reserve Clause]] | — | — | Example 3: James Stockdale and the Te... | 409 |
 | 32 | [[Epictetus]] | — | — | Part 6: The Practice Architecture — A... | 428 |
-| 33 | [[Dichotomy of Control]] | — | — | Part 6: The Practice Architecture — A... | 428 |
-| 34 | [[Marcus Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 473 |
+| 33 | [[Dichotomy-of-Control]] | — | — | Part 6: The Practice Architecture — A... | 428 |
+| 34 | [[Marcus-Aurelius]] | — | — | Part 6: The Practice Architecture — A... | 473 |
 | 35 | [[Logos]] | — | — | Part 6: The Practice Architecture — A... | 473 |
 | 36 | [[Seneca]] | — | — | Part 6: The Practice Architecture — A... | 482 |
 | 37 | [[Epictetus]] | — | — | Part 7: Common Obstacles and How the ... | 508 |
-| 38 | [[Marcus Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 508 |
-| 39 | [[Dichotomy of Control]] | — | — | Part 7: Common Obstacles and How the ... | 513 |
-| 40 | [[Dichotomy of Control]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
+| 38 | [[Marcus-Aurelius]] | — | — | Part 7: Common Obstacles and How the ... | 508 |
+| 39 | [[Dichotomy-of-Control]] | — | — | Part 7: Common Obstacles and How the ... | 513 |
+| 40 | [[Dichotomy-of-Control]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 41 | [[Core Principles - Virtue Wisdom and Self-Control]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 42 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
 | 43 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 525 |
@@ -504,8 +504,8 @@ extraction_summary:
 | 48 | [[Stoicism and Modern Psychology - Parallels and Insights]] | — | — | Part 8: Integration — Building a Cohe... | 530 |
 | 49 | [[Stoicism and Emotional Resilience - Coping with Adversity]] | — | — | Part 8: Integration — Building a Cohe... | 531 |
 | 50 | [[Stoicism and CBT - Similarities Differences and Integration]] | — | — | Part 8: Integration — Building a Cohe... | 532 |
-| 51 | [[Marcus Aurelius]] | — | — | Conclusion: Leadership Reframed | 544 |
-| 52 | [[Dichotomy of Control]] | — | — | Conclusion: Leadership Reframed | 552 |
+| 51 | [[Marcus-Aurelius]] | — | — | Conclusion: Leadership Reframed | 544 |
+| 52 | [[Dichotomy-of-Control]] | — | — | Conclusion: Leadership Reframed | 552 |
 | 53 | [[James Stockdale — Stoicism Under Extreme Conditions]] | — | — | Expansion Topics for PKB | 606 |
 | 54 | [[Kathêkon — The Ethics of Role Obligations]] | — | — | Expansion Topics for PKB | 608 |
 | 55 | [[Stoic Decision Heuristics — A Reference Toolkit]] | — | — | Expansion Topics for PKB | 610 |
@@ -542,8 +542,8 @@ extraction_summary:
 - [[Authentic Leadership]]
 - [[Cognitive Bias and the Discipline of Assent]]
 - [[Core Principles - Virtue Wisdom and Self-Control]]
-- [[Daniel Kahneman]]
-- [[Dichotomy of Control]]
+- [[Daniel-Kahneman]]
+- [[Dichotomy-of-Control]]
 - [[Epictetus]]
 - [[Four Cardinal Virtues]]
 - [[James Stockdale]]
@@ -551,7 +551,7 @@ extraction_summary:
 - [[Kathêkon]]
 - [[Kathêkon — The Ethics of Role Obligations]]
 - [[Logos]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Marcus Aurelius — Leadership in the Antonine Plague]]
 - [[Prohairesis]]
 - [[Reserve Clause]]
@@ -577,11 +577,11 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Dichotomy of Control]]
-- [[Virtue Ethics]]
+- [[Dichotomy-of-Control]]
+- [[Virtue-Ethics]]
 - [[Prohairesis]]
 - [[Eudaimonia]]
 - [[Kathêkon]]
@@ -589,13 +589,13 @@ extraction_summary:
 - [[Logos]]
 - [[James Stockdale]]
 - [[Emotional Regulation]]
-- [[Cognitive Reappraisal]]
-- [[Decision Theory]]
+- [[Cognitive-Reappraisal]]
+- [[Decision-Theory]]
 
 #### Broader
 
 - [[Philosophy MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[Ancient Philosophy]]
 - [[Leadership Philosophy]]
 

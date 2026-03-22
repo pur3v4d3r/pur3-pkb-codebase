@@ -59,15 +59,15 @@ The significance of metacognition extends far beyond academic psychology. In edu
 
 # 2.0 🧭HISTORICAL CONTEXT & FOUNDATIONAL THEORIES
 
-The intellectual genealogy of metacognition traces back through multiple philosophical and psychological traditions, each contributing essential insights that would eventually coalesce into our modern understanding. The term "metacognition" itself was coined by [[John Flavell]] in the 1970s, but the phenomena it describes have been objects of inquiry since antiquity.
+The intellectual genealogy of metacognition traces back through multiple philosophical and psychological traditions, each contributing essential insights that would eventually coalesce into our modern understanding. The term "metacognition" itself was coined by [[John-Flavell]] in the 1970s, but the phenomena it describes have been objects of inquiry since antiquity.
 
-The ancient Greek injunction to "know thyself" (γνῶθι σεαυτόν) inscribed at Delphi represents perhaps the earliest formal recognition of metacognitive awareness as essential to human flourishing. Aristotle's concept of [[phronesis]]—practical wisdom involving the ability to deliberate well about human affairs—implicitly requires metacognitive monitoring of one's own reasoning processes. Medieval scholastics, particularly Thomas Aquinas, explored the notion of "reflexive awareness," the mind's capacity to turn back upon itself and examine its own operations.
+The ancient Greek injunction to "know thyself" (γνῶθι σεαυτόν) inscribed at Delphi represents perhaps the earliest formal recognition of metacognitive awareness as essential to human flourishing. Aristotle's concept of [[Phronesis]]—practical wisdom involving the ability to deliberate well about human affairs—implicitly requires metacognitive monitoring of one's own reasoning processes. Medieval scholastics, particularly Thomas Aquinas, explored the notion of "reflexive awareness," the mind's capacity to turn back upon itself and examine its own operations.
 
 The modern era brought systematic investigation of consciousness and self-awareness. William James's work in the 1890s on the stream of consciousness provided early insights into metacognitive processes, particularly his distinction between the "I" (the observer) and the "me" (the observed self). James recognized that consciousness involves not just awareness of external objects, but awareness of our awareness—a fundamentally metacognitive insight that would profoundly influence later theorists.
 
 The emergence of developmental psychology in the 20th century provided crucial frameworks for understanding how metacognitive abilities emerge and mature. Jean Piaget's theory of cognitive development, though not explicitly focused on metacognition, established that children actively construct their understanding through experiences, interactions, and reflections—processes that inherently require metacognitive monitoring. Piaget's concept of "reflective abstraction" describes how children come to understand their own cognitive operations, a process central to metacognitive development.
 
-Lev Vygotsky's sociocultural theory provided a complementary perspective, emphasizing how metacognitive processes develop through social interaction and the internalization of cultural tools, particularly language. His concept of the [[Zone of Proximal Development]] implicitly requires metacognitive awareness—learners must monitor their current understanding to recognize when they need scaffolding and when they can proceed independently. Vygotsky believed everything is learned on two levels: first through interaction with others, then integrated into the individual's mental structure.
+Lev Vygotsky's sociocultural theory provided a complementary perspective, emphasizing how metacognitive processes develop through social interaction and the internalization of cultural tools, particularly language. His concept of the [[Zone-of-Proximal-Development]] implicitly requires metacognitive awareness—learners must monitor their current understanding to recognize when they need scaffolding and when they can proceed independently. Vygotsky believed everything is learned on two levels: first through interaction with others, then integrated into the individual's mental structure.
 
 The formal study of metacognition as a distinct psychological construct began with John Flavell's groundbreaking work in the 1970s. Flavell defined metacognition as "knowledge and cognition about cognitive phenomena" and identified two primary components: metacognitive knowledge (what we know about our own cognitive processes) and metacognitive experiences (the subjective feelings and judgments that accompany cognitive activity). This framework established metacognition as a legitimate domain of scientific inquiry.
 
@@ -132,7 +132,7 @@ The **insular cortex** integrates interoceptive signals with cognitive processin
 Metacognitive monitoring operates through multiple channels that provide information about ongoing cognitive processes:
 
 > [!analogy]
-> - **To understand** [[Metacognitive Monitoring]], **imagine** a master conductor observing an orchestra during rehearsal. The conductor doesn't play any instrument directly but constantly monitors each section's performance, detecting when the strings are slightly behind the beat, when the brass overpowers the woodwinds, or when a passage lacks emotional depth. Just as the conductor uses this monitoring to guide the orchestra through gestures and instructions, metacognitive monitoring provides the information needed to guide cognitive control, adjusting mental effort, switching strategies, or redirecting attention to optimize cognitive performance.
+> - **To understand** [[Metacognitive-Monitoring]], **imagine** a master conductor observing an orchestra during rehearsal. The conductor doesn't play any instrument directly but constantly monitors each section's performance, detecting when the strings are slightly behind the beat, when the brass overpowers the woodwinds, or when a passage lacks emotional depth. Just as the conductor uses this monitoring to guide the orchestra through gestures and instructions, metacognitive monitoring provides the information needed to guide cognitive control, adjusting mental effort, switching strategies, or redirecting attention to optimize cognitive performance.
 
 **Fluency-based monitoring** uses the subjective ease or difficulty of cognitive processing as a cue for metacognitive judgments. When information is processed fluently (quickly, smoothly), we tend to judge that we understand it well or will remember it later. This mechanism explains why we might overestimate our comprehension of clearly written but conceptually difficult material—the processing fluency creates an illusion of understanding.
 
@@ -192,7 +192,7 @@ The implications of metacognition as a central integrating mechanism extend far 
 
 > [!connection-ideas]
 > - *The principles discussed here* **strongly connect to the field of:**
->     - [[Constructivist Learning Theory]]
+>     - [[Constructivist-Learning-Theory]]
 >     - **The reason:**
 >         - Constructivist learning theory emphasizes that learners actively construct their understanding and knowledge through experiencing things and reflecting on those experiences—a process that inherently requires metacognitive monitoring and control. Without metacognition, learners cannot evaluate their current understanding, recognize knowledge gaps, or select appropriate strategies for knowledge construction. Metacognition provides the cognitive infrastructure that makes constructivist learning possible.
 
@@ -324,7 +324,7 @@ Research on metacognitive training for specific populations—older adults exper
 >
 > - Identify **three key terms** or **concepts** from this article.
 > - *Write your* **own definition** *for each and create a new note to link them back to this one*.
-> 1. [[Metacognitive Calibration]]
+> 1. [[Metacognitive-Calibration]]
 >     - The accuracy with which individuals' subjective confidence judgments align with their objective performance. Well-calibrated individuals accurately predict when they will succeed or fail, while poor calibration leads to overconfidence or underconfidence. Calibration develops through experience and feedback, requiring both accurate self-monitoring and realistic self-knowledge about one's capabilities in different domains.
 > 2. [[Cognitive-Scaffolding]]
 >     - The temporary support structures—whether provided by teachers, peers, or mental strategies—that enable learners to accomplish tasks beyond their current independent capability. As metacognitive abilities develop, external scaffolding is gradually internalized, transforming into self-scaffolding strategies that learners can deploy autonomously to support their own learning.

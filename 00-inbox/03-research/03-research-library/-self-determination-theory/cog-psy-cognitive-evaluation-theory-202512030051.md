@@ -177,7 +177,7 @@ aliases: [CET, Cognitive Evaluation Theory, Reward Undermining Theory, Intrinsic
 > [!abstract]
 > **Executive Summary**
 > 
-> Cognitive Evaluation Theory represents one of psychology's most consequential—and controversial—contributions to understanding human motivation. Developed by Edward Deci and Richard Ryan in the 1970s-1980s as the first mini-theory within [[Self-Determination Theory]], CET fundamentally challenged behaviorist orthodoxy by demonstrating that external rewards can systematically *undermine* rather than enhance intrinsic motivation. The theory introduces a sophisticated framework for understanding how social-contextual events influence motivation through their effects on two fundamental [[Basic-Psychological-Needs]]: [[Perceived Autonomy]] and [[Perceived-Competence]]. At its core, CET articulates that the *functional significance* of an event—whether it is experienced as informational, controlling, or amotivating—determines whether it will support or diminish the inherent human propensity toward intrinsic engagement.
+> Cognitive Evaluation Theory represents one of psychology's most consequential—and controversial—contributions to understanding human motivation. Developed by Edward Deci and Richard Ryan in the 1970s-1980s as the first mini-theory within [[Self-Determination-Theory]], CET fundamentally challenged behaviorist orthodoxy by demonstrating that external rewards can systematically *undermine* rather than enhance intrinsic motivation. The theory introduces a sophisticated framework for understanding how social-contextual events influence motivation through their effects on two fundamental [[Basic-Psychological-Needs]]: [[Perceived Autonomy]] and [[Perceived-Competence]]. At its core, CET articulates that the *functional significance* of an event—whether it is experienced as informational, controlling, or amotivating—determines whether it will support or diminish the inherent human propensity toward intrinsic engagement.
 
 ## 🌊 The Intellectual Watershed: Why CET Mattered
 
@@ -200,7 +200,7 @@ Cognitive Evaluation Theory rests on three foundational propositions that togeth
 
 The first proposition addresses how events influence [[Perceived-Competence]]. CET posits that external events will impact intrinsic motivation for optimally challenging activities to the extent that they influence perceived competence, within the context of some degree of self-determination. Events that promote greater perceived competence will enhance intrinsic motivation, whereas those that diminish perceived competence will decrease intrinsic motivation. This proposition explains why [[Positive Feedback]]—particularly when it conveys genuine information about effectiveness—tends to enhance motivation, while [[Negative Feedback]] or experiences of repeated failure tend to diminish it.
 
-The emphasis on "optimally challenging activities" is critical. CET specifically concerns tasks that are neither trivially easy nor impossibly difficult, but rather exist in what developmental psychologist Lev Vygotsky termed the [[Zone of Proximal Development]]—activities challenging enough to engage one's capacities but not so difficult as to overwhelm them. For such activities, competence-relevant information becomes motivationally significant because it informs whether one's efforts are effective in mastering meaningful challenges.
+The emphasis on "optimally challenging activities" is critical. CET specifically concerns tasks that are neither trivially easy nor impossibly difficult, but rather exist in what developmental psychologist Lev Vygotsky termed the [[Zone-of-Proximal-Development]]—activities challenging enough to engage one's capacities but not so difficult as to overwhelm them. For such activities, competence-relevant information becomes motivationally significant because it informs whether one's efforts are effective in mastering meaningful challenges.
 
 **Proposition Two: The Functional Significance Framework**
 
@@ -336,22 +336,22 @@ Some researchers have questioned whether CET's emphasis on autonomy reflects Wes
 
 ## 🔗 Integration with Self-Determination Theory
 
-Cognitive Evaluation Theory functions as the first mini-theory within the broader [[Self-Determination Theory]] framework. Understanding how CET connects to SDT's other mini-theories reveals its role in a comprehensive theory of human motivation.
+Cognitive Evaluation Theory functions as the first mini-theory within the broader [[Self-Determination-Theory]] framework. Understanding how CET connects to SDT's other mini-theories reveals its role in a comprehensive theory of human motivation.
 
 CET specifically addresses social-contextual influences on intrinsic motivation and focuses on the needs for [[Autonomy]] and [[Competence]]. The theory does not extensively address the third basic psychological need—[[Relatedness]]—which is more central to other SDT mini-theories. CET also concerns primarily activities that are initially intrinsically interesting. For understanding how initially uninteresting activities can become self-determined through internalization processes, [[Organismic-Integration-Theory]] (OIT) extends the framework. For understanding individual differences in motivational orientations, [[Causality-Orientations-Theory]] provides complementary insights.
 
-The integration means that CET should not be interpreted in isolation. A complete SDT analysis of any motivational context considers not only whether events have informational, controlling, or amotivating functional significance (CET), but also whether extrinsic motivations are being internalized (OIT), whether the social context supports all three basic needs including relatedness ([[Basic Psychological Needs Theory]]), and whether individuals' life goals are intrinsic or extrinsic in orientation ([[Goal Contents Theory]]).
+The integration means that CET should not be interpreted in isolation. A complete SDT analysis of any motivational context considers not only whether events have informational, controlling, or amotivating functional significance (CET), but also whether extrinsic motivations are being internalized (OIT), whether the social context supports all three basic needs including relatedness ([[Basic-Psychological-Needs-Theory]]), and whether individuals' life goals are intrinsic or extrinsic in orientation ([[Goal-Contents-Theory]]).
 
 ---
 
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 > 
-> **[[Self-Determination Theory]]**: CET serves as the foundational mini-theory within SDT, providing the theoretical basis for understanding how social contexts either support or undermine intrinsic motivation. While CET focuses specifically on the autonomy and competence needs, it forms the conceptual scaffold upon which other SDT mini-theories build.
+> **[[Self-Determination-Theory]]**: CET serves as the foundational mini-theory within SDT, providing the theoretical basis for understanding how social contexts either support or undermine intrinsic motivation. While CET focuses specifically on the autonomy and competence needs, it forms the conceptual scaffold upon which other SDT mini-theories build.
 > 
 > **[[Organismic-Integration-Theory]]**: While CET explains variability in intrinsic motivation, OIT extends the framework to explain how extrinsic motivations can be internalized and integrated into the self. The two theories are complementary—CET addresses "How do we maintain intrinsic interest?" while OIT addresses "How do we foster self-determination for initially uninteresting but necessary activities?"
 > 
-> **[[Intrinsic Motivation]]**: CET provides the most comprehensive psychological account of what facilitates versus undermines intrinsic motivation. Understanding intrinsic motivation requires understanding CET's functional significance framework, as the same objective event (a reward, feedback, deadline) can enhance or undermine motivation depending on its psychological meaning to the recipient.
+> **[[Intrinsic-Motivation]]**: CET provides the most comprehensive psychological account of what facilitates versus undermines intrinsic motivation. Understanding intrinsic motivation requires understanding CET's functional significance framework, as the same objective event (a reward, feedback, deadline) can enhance or undermine motivation depending on its psychological meaning to the recipient.
 > 
 > **[[Autonomy-Support]]**: This construct emerged directly from CET's theoretical work and has become central to educational and organizational psychology. Research on autonomy-supportive teaching, parenting, and management represents one of CET's most consequential practical applications, demonstrating how interpersonal contexts can be structured to preserve and enhance self-determination.
 > 
@@ -359,9 +359,9 @@ The integration means that CET should not be interpreted in isolation. A complet
 > 
 > **[[Reinforcement Theory]]** and **[[Behaviorism]]**: CET represents a critical theoretical alternative to behaviorist accounts of motivation. While not rejecting that consequences affect behavior, CET demonstrates that simple reinforcement principles are insufficient—the *meaning* of consequences matters as much as their presence.
 > 
-> **[[Metacognition]]** and **[[Self-Regulated Learning]]**: CET's emphasis on autonomy support connects directly to metacognitive development. When learners experience autonomy in educational contexts, they develop stronger metacognitive monitoring and control processes, as they must take ownership of their learning strategies rather than simply complying with external directives.
+> **[[Metacognition]]** and **[[Self-Regulated-Learning]]**: CET's emphasis on autonomy support connects directly to metacognitive development. When learners experience autonomy in educational contexts, they develop stronger metacognitive monitoring and control processes, as they must take ownership of their learning strategies rather than simply complying with external directives.
 > 
-> **[[Goal-Setting Theory]]**: While goal-setting research emphasizes the motivational power of specific, challenging goals, CET adds crucial nuance—goals enhance motivation when they are autonomously endorsed rather than externally imposed. The integration of these frameworks suggests that how goals are introduced matters as much as what goals are set.
+> **[[Goal-Setting-Theory]]**: While goal-setting research emphasizes the motivational power of specific, challenging goals, CET adds crucial nuance—goals enhance motivation when they are autonomously endorsed rather than externally imposed. The integration of these frameworks suggests that how goals are introduced matters as much as what goals are set.
 
 ---
 
@@ -401,7 +401,7 @@ The integration means that CET should not be interpreted in isolation. A complet
    - *Depth Potential*: Understanding the internalization process—from external regulation through introjection, identification, and integration—is essential for comprehending how people develop autonomous motivation for the many life activities that are necessary but not inherently interesting.
    - *Knowledge Graph Role*: OIT forms the second mini-theory within SDT and provides crucial bridges between CET's focus on intrinsic motivation and broader questions about self-determined extrinsic motivation. A comprehensive OIT note would connect to concepts like identified regulation, introjection, and integrated regulation.
 
-2. **[[Basic Psychological Needs Theory]]**
+2. **[[Basic-Psychological-Needs-Theory]]**
    - *Connection*: BPNT articulates the three universal psychological needs—autonomy, competence, and relatedness—that CET's functional significance framework implicitly relies upon. While CET focuses primarily on autonomy and competence, BPNT provides the comprehensive needs framework.
    - *Depth Potential*: Examining BPNT would explore the empirical evidence for need universality across cultures, the differential effects of need satisfaction versus frustration, and how the three needs interact synergistically. The theory has generated extensive cross-cultural research and measurement tools.
    - *Knowledge Graph Role*: BPNT serves as the meta-theoretical foundation for all SDT mini-theories. Understanding it provides the "why" behind CET's predictions—events undermine motivation when they thwart basic needs, and support motivation when they satisfy them.

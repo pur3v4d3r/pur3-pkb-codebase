@@ -360,7 +360,7 @@ De Neys's conflict monitoring research illuminates something important about why
 **Section**: Document Start
 **Title**: **Forward Connection to Report 13**
 
-The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free-Energy-Principle]]. In predict...
+The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl-Friston]]'s [[Free-Energy-Principle]]. In predict...
 
 ---
 
@@ -388,7 +388,7 @@ The motivational architecture described here directly enables three subsequent r
 **Section**: Document Start
 **Title**: 🔗 Grounding in the Series
 
-This report presupposes the inquiry activation mechanism described in [[Report 01]] and the fallibilist epistemological posture established in [[Report 02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. I...
+This report presupposes the inquiry activation mechanism described in [[Report-01]] and the fallibilist epistemological posture established in [[Report 02]]. The activated, fallibilist inquirer now needs to know *how* to build understanding once inquiry is engaged. Report 04 answers that question. I...
 
 ---
 
@@ -607,7 +607,7 @@ This report synthesizes sources across four distinct intellectual traditions: pr
 **Section**: Document Start
 **Title**: 📊 Research Grounding: Growth Mindset Evidence
 
-It is important to note, as intellectual honesty requires, that the growth mindset research literature is more complex than popular accounts suggest. A critical 2023 meta-analysis by [[Macnamara & Burgoyne]] found that growth mindset interventions often produce small or inconsistent effects in real-...
+It is important to note, as intellectual honesty requires, that the growth mindset research literature is more complex than popular accounts suggest. A critical 2023 meta-analysis by [[Macnamara-&-Burgoyne]] found that growth mindset interventions often produce small or inconsistent effects in real-...
 
 ---
 
@@ -2587,7 +2587,7 @@ sections:
    alternative views, sensitivity to evidence contrary to current beliefs, practice of postponing closure, and epistemic self-regulation.
 
 30. **Phase I: The Premise — The Problem of the Knowing Subject 🔑**
-   ation, or will it trigger the well-documented cognitive defenses — [[confirmation bias]], motivated reasoning, [[belief perseverance]] — that protect the existing belief structure?
+   ation, or will it trigger the well-documented cognitive defenses — [[Confirmation-Bias]], motivated reasoning, [[belief-perseverance]] — that protect the existing belief structure?
 
 **Total Examples**: 98
 
@@ -2696,7 +2696,7 @@ sections:
 12. research shows that chronic physiological dysregulation — from sustained sleep deficiency, acute and chronic stress, sedentary behavior, and metabolic disruption — specifically degrades the cognitive operations most central to Tier 1's framework.
    *⚙️ Phase I — The Premise: The Disembodied Ghost in the Epistemic Machine*
 
-13. research reveals *how* expert practical judgment operates, [[Gerd Gigerenzer]]'s program in *[[Ecological-Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
+13. research reveals *how* expert practical judgment operates, [[Gerd-Gigerenzer]]'s program in *[[Ecological-Rationality|ecological rationality]]* reveals *why* it often works better than exhaustive deliberation.
    *Gigerenzer's Ecological Rationality: Why Less Is Sometimes More*
 
 14. research demonstrates that expert practitioners exercise this capacity through recognition-based judgment, not comparative evaluation.
@@ -2750,7 +2750,7 @@ sections:
 7. to develop what might be called *motivational expertise* — the ability to recognize when their engagement is constrained by external motivation or poorly calibrated challenge, and to adjust accordingly.
    *Developmental Implications: The Five Stages of Cognitive Vitality*
 
-8. to develop [[Debiasing Interventions]] — procedural techniques, environmental modifications, and feedback protocols designed to interrupt systematic errors at the point of occurrence.
+8. to develop [[Debiasing-Interventions]] — procedural techniques, environmental modifications, and feedback protocols designed to interrupt systematic errors at the point of occurrence.
    *📋 Phase I — The Premise: What Cognitive Failures Reveal About What Reasoners Need 🎯*
 
 9. to develop the claim that biases are not random errors but systematic failures organized around five structural dimensions.
@@ -2827,7 +2827,7 @@ The]]** *(from Gap 4: Social Cognition and Distributed Thinking)*
 - **[[Epistemic Humility Under Radical Uncertainty
 
 The]]** *(from Addition 2: Epistemic Humility Under Radical Uncertainty)*
-- **[[Examined Life]]** *(from 📖 Key Definitions)*
+- **[[Examined-Life]]** *(from 📖 Key Definitions)*
 - **[[Examined Life
 
 The Dreyfus]]** *(from The Developmental Staging Model: From Conscious Incompetence to the Examined Life)*
@@ -3102,8 +3102,8 @@ related-concepts: []
 [Personal response]
 
 ## Related Concepts
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 ```
 
 

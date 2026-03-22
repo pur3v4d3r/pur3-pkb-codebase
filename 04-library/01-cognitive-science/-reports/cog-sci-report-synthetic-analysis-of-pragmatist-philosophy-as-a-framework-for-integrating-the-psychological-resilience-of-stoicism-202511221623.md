@@ -68,7 +68,7 @@ Aliases: [[Pragmatic-Stoic Synthesis]], [[Constructivist Resilience Model]], [[T
 
   * **[TOPIC]:** A Synthetic Analysis of Pragmatist Philosophy as a Framework for Integration.
   * **[DEPTH]:** Encyclopedic Analysis / Theoretical Synthesis.
-  * **[LINKS]:** [[William James]], [[Jean Piaget]], [[Epictetus]], [[Instrumentalism]], [[Cognitive-Behavioral Therapy]], [[Epistemology of Action]].
+  * **[LINKS]:** [[William-James]], [[Jean-Piaget]], [[Epictetus]], [[Instrumentalism]], [[Cognitive-Behavioral-Therapy]], [[Epistemology of Action]].
 
 ### 2. Phase 1: Overture (The "Why & What")
 
@@ -85,7 +85,7 @@ Aliases: [[Pragmatic-Stoic Synthesis]], [[Constructivist Resilience Model]], [[T
 
 #### The Pragmatic Meta-Container: Truth as Viability
 
-To understand how resilience and learning integrate, one must first establish the ground rules of the game via [[Pragmatism]]. Unlike Rationalism, which seeks absolute, a priori truths, or Empiricism, which relies solely on sensory data, Pragmatism—specifically the variety championed by [[William James]] and [[Charles Sanders Peirce]]—evaluates ideas based on their "cash value" in experiential terms. An idea is true only insofar as it allows the holder to satisfactorily unite old experiences with new ones. Within the context of self-development, this means that the "Self" is not a fixed entity to be discovered, but a project to be enacted. The Pragmatist asserts that the validity of any self-improvement technique is inextricably bound to its capacity to produce a desired outcome in the physical world. This perspective transforms the rigid dogmas of Stoicism and the abstract theories of Constructivism into malleable technologies of the self. We do not adopt Stoicism because it is "noble" in an abstract sense; we adopt it because, pragmatically, emotional volatility is an inefficiency that impedes the organism's ability to adapt.
+To understand how resilience and learning integrate, one must first establish the ground rules of the game via [[Pragmatism]]. Unlike Rationalism, which seeks absolute, a priori truths, or Empiricism, which relies solely on sensory data, Pragmatism—specifically the variety championed by [[William-James]] and [[Charles-Sanders-Peirce]]—evaluates ideas based on their "cash value" in experiential terms. An idea is true only insofar as it allows the holder to satisfactorily unite old experiences with new ones. Within the context of self-development, this means that the "Self" is not a fixed entity to be discovered, but a project to be enacted. The Pragmatist asserts that the validity of any self-improvement technique is inextricably bound to its capacity to produce a desired outcome in the physical world. This perspective transforms the rigid dogmas of Stoicism and the abstract theories of Constructivism into malleable technologies of the self. We do not adopt Stoicism because it is "noble" in an abstract sense; we adopt it because, pragmatically, emotional volatility is an inefficiency that impedes the organism's ability to adapt.
 
 > [!atomic-concept]
 > **The Pragmatic Maxim**: Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.
@@ -98,14 +98,14 @@ To understand how resilience and learning integrate, one must first establish th
 Once the Pragmatic goal is established (effective action), we encounter the immediate barrier to all human endeavor: the emotional reaction to friction. Here, [[Stoicism]] functions as the regulation engine. The core Stoic innovation, particularly found in [[Epictetus]], is the *Dichotomy of Control*. This is often misinterpreted as passive resignation, but through a Pragmatic lens, it acts as an attentional filter. It preserves metabolic and cognitive energy by directing focus strictly toward the "Internal Empire"—our reasoned choices and volitions. When an individual engages with the world, they receive "impressions" (phantasia). The untrained mind grants immediate "assent" to these impressions, often adding value judgments (e.g., "this failure is a catastrophe"). The Stoic practice of *Prohairesis* (moral character/volition) intercepts this process. It acts as a buffer, stripping the impression of its emotional charge before it can corrupt the internal processing system. This creates a state of *Apatheia* (freedom from suffering), which is not the absence of feeling, but the absence of *pathological* interference with reason.
 
 > [!evidence]
-> Modern clinical psychology validates this ancient mechanism through [[Cognitive-Behavioral Therapy]] (CBT) and [[Rational Emotive Behavior Therapy]] (REBT). Studies consistently demonstrate that the cognitive reframing of negative stimuli (a Stoic practice) reduces cortisol responses and preserves executive function in the prefrontal cortex, which is biologically necessary for the complex learning required by Constructivism.
+> Modern clinical psychology validates this ancient mechanism through [[Cognitive-Behavioral-Therapy]] (CBT) and [[Rational Emotive Behavior Therapy]] (REBT). Studies consistently demonstrate that the cognitive reframing of negative stimuli (a Stoic practice) reduces cortisol responses and preserves executive function in the prefrontal cortex, which is biologically necessary for the complex learning required by Constructivism.
 
 > [!equation]
 > Let $S$ be the state of the self, $E$ be an environmental event, and $R$ be the reaction. The non-Stoic function is $f(E) \to R$. The Stoic function introduces a filter $\Phi$ (rational assent): $f(E, \Phi) \to \Delta S$.
 
 #### The Constructivist Mechanic: The Architecture of Adaptation
 
-With the emotional volatility neutralized by Stoic discipline, the mind is free to engage in the actual work of self-development, which is best described by [[Constructivism]]. Jean Piaget and [[Lev Vygotsky]] argued that knowledge is not passively absorbed but actively constructed. The learner possesses an internal model of the world (a schema). When the learner acts (Pragmatism) and encounters resistance, two things can happen. If the new data fits the existing schema, it is **Assimilated**. However, if the data contradicts the schema (a "prediction error"), the schema itself must change; this is **Accommodation**. Constructivism posits that the Self is a dynamic hierarchy of these schemas. The "Adaptive Self" is constantly equilibrating—balancing between assimilation and accommodation. Without the Pragmatic drive to act, there is no data to assimilate. Without the Stoic shield to manage the pain of "being wrong," the ego defends itself against Accommodation, resulting in stagnation or denial. Therefore, Constructivism provides the *mechanism* of growth (schema update), but it relies on the other two philosophies to provide the *impetus* and the *stability* to execute that growth.
+With the emotional volatility neutralized by Stoic discipline, the mind is free to engage in the actual work of self-development, which is best described by [[Constructivism]]. Jean Piaget and [[Lev-Vygotsky]] argued that knowledge is not passively absorbed but actively constructed. The learner possesses an internal model of the world (a schema). When the learner acts (Pragmatism) and encounters resistance, two things can happen. If the new data fits the existing schema, it is **Assimilated**. However, if the data contradicts the schema (a "prediction error"), the schema itself must change; this is **Accommodation**. Constructivism posits that the Self is a dynamic hierarchy of these schemas. The "Adaptive Self" is constantly equilibrating—balancing between assimilation and accommodation. Without the Pragmatic drive to act, there is no data to assimilate. Without the Stoic shield to manage the pain of "being wrong," the ego defends itself against Accommodation, resulting in stagnation or denial. Therefore, Constructivism provides the *mechanism* of growth (schema update), but it relies on the other two philosophies to provide the *impetus* and the *stability* to execute that growth.
 
 > [!analogy]
 > **The Cartographer's Dilemma**: Imagine a navigator (the Self) traversing a chaotic terrain.
@@ -127,7 +127,7 @@ With the emotional volatility neutralized by Stoic discipline, the mind is free 
 
 > [!further-exploration]
 >
-> > [\!topic-idea] [[Bayesian Epistemology]]
+> > [\!topic-idea] [[Bayesian-Epistemology]]
 > > [\!topic-idea] [[The OODA Loop (Observe-Orient-Decide-Act)]]
 > > [\!topic-idea] [[Radical Empiricism]]
 > > [\!topic-idea] [[Developmental Psychology]]

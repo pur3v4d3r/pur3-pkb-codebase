@@ -85,8 +85,8 @@ year: 2026
 ### New Knowledge Acquired
 
 > [!example] Key Concepts Learned
-> - **[[Concept 1]]**: Brief description and why it matters
-> - **[[Concept 2]]**: Brief description and source
+> - **[[Concept-1]]**: Brief description and why it matters
+> - **[[Concept-2]]**: Brief description and source
 > - **[[Concept 3]]**: Application or next step
 
 ### Skills Practiced

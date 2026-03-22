@@ -12,7 +12,7 @@ summary: This note lists key organizations verified as signatories of the Intern
 - [[International Fact-Checking Network (IFCN)]]
 - [[Fact-Checking]]
 - [[Code of Principles]]
-- [[Misinformation]]
+- [[misinformation]]
 - [[Journalism]]
 
 > [!TLDR] Verified Signatories of the International Fact-Checking Network's (IFCN) Code of Principles

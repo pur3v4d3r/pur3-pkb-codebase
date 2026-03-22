@@ -94,7 +94,7 @@ The self-documenting system will:
 ---
 link-related:
   - [[Generative Ai]]
-  - [[Large Language Models]]
+  - [[Large-Language-Models]]
 ---
 ```
 
@@ -145,10 +145,10 @@ link-up: [[parent-moc]]
 link-related: [[manual-link]]  # Keep for explicit curation
 
 # NEW SELF-DOCUMENTING FIELDS
-concepts: [[Concept 1]], [[Concept 2]]       # Theoretical frameworks
+concepts: [[Concept-1]], [[Concept-2]]       # Theoretical frameworks
 methodologies: [[Method 1]]                  # Research/work methods
 tools: [[Obsidian]], [[Dataview]]           # Technologies
-fields: [[Cognitive Science]]                # Academic domains
+fields: [[Cognitive-Science]]                # Academic domains
 people: [[Author Name]]                      # Collaborators/sources
 ---
 ```
@@ -350,11 +350,11 @@ review-priority: medium
 
 > [!tip] How to Use
 > Add concept links to frontmatter `concepts:` field to auto-register in concept notes.
-> Use inline fields for visible tracking: `concepts:: [[Concept Name]]`
+> Use inline fields for visible tracking: `concepts:: [[Concept-Name]]`
 
 **Primary Concepts:**
-- concepts:: [[Concept 1]]
-- concepts:: [[Concept 2]]
+- concepts:: [[Concept-1]]
+- concepts:: [[Concept-2]]
 
 **Methodologies:**
 - methodologies:: [[Method]]
@@ -437,7 +437,7 @@ url: ""
 ## 🧠 Key Concepts & Theories
 
 - theories:: [[Theory 1]]
-- concepts:: [[Concept 1]]
+- concepts:: [[Concept-1]]
 - methodologies:: [[Method 1]]
 
 ## 📝 Notes & Highlights
@@ -604,7 +604,7 @@ TABLE
   concepts as "Concepts",
   methodologies as "Methods",
   status
-WHERE fields AND contains(fields, [[Cognitive Science]])
+WHERE fields AND contains(fields, [[Cognitive-Science]])
 SORT file.mtime DESC
 LIMIT 20
 ```
@@ -617,7 +617,7 @@ TABLE
   concepts,
   maturity,
   file.mtime as "Updated"
-WHERE fields AND contains(fields, [[Personal Knowledge Management]])
+WHERE fields AND contains(fields, [[Personal-Knowledge-Management]])
    OR contains(tags, "pkb") OR contains(tags, "pkm")
 SORT file.mtime DESC
 LIMIT 20
@@ -631,7 +631,7 @@ TABLE
   concepts,
   tools,
   status
-WHERE fields AND contains(fields, [[Prompt Engineering]])
+WHERE fields AND contains(fields, [[Prompt-Engineering]])
    OR file.folder = "03-notes/01_permanent-notes/04_prompt-engineering"
 SORT file.mtime DESC
 LIMIT 20
@@ -703,7 +703,7 @@ dv.table(
 
 **Convert 3-5 Existing Concept Notes:**
 
-1. **[[Atomic Notes]]** (already exists)
+1. **[[Atomic-Notes]]** (already exists)
    - Add self-discovery query
    - Add concept health metrics
 
@@ -711,7 +711,7 @@ dv.table(
    - Add self-discovery query
    - Set `concept-category: methodology`
 
-3. **[[Dataview Plugin]]** (reference note)
+3. **[[Dataview-Plugin]]** (reference note)
    - Add tool-tracking fields
    - Add related references query
 
@@ -719,8 +719,8 @@ dv.table(
 
 Select notes from different domains and add:
 ```yaml
-concepts: [[Atomic Notes]], [[Advanced Prompting]]
-tools: [[Dataview Plugin]]
+concepts: [[Atomic-Notes]], [[Advanced Prompting]]
+tools: [[Dataview-Plugin]]
 ```
 
 ### Phase 4: Verify System (5 minutes)
@@ -892,7 +892,7 @@ WHERE file.lists and contains(file.lists.text, "something")
 
 - [[Revised-self-documenting-dataview]] - Original system documentation
 - [[self-documenting-dataview-implementation-guide]] - Technical guide
-- [[Dataview Plugin]] - Core technology
+- [[Dataview-Plugin]] - Core technology
 - [[atomic-notes_moc]] - Current MOC system
 
 ---

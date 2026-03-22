@@ -24,9 +24,9 @@ link-up:
 link-related:
   - "[[2025-11-21|Daily-Note]]"
   - "[[Behaviorism]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Cognitive-Psychology]]"
   - "[[Cognitive Processes]]"
-  - "[[Cognitive Science]]"
+  - "[[Cognitive-Science]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -54,8 +54,8 @@ review-priority: medium
 
 ## Related Concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## Practical Applications
 

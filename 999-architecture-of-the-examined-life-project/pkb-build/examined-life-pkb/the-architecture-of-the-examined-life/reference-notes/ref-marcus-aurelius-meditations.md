@@ -54,7 +54,7 @@ The report highlights Marcus's technique of **preemptive rehearsal**: "When you 
 
 The report identifies Marcus's core technique: **impression → space → evaluation → response**. Don't immediately act on or assent to the first impression. Create a gap (prosoche) where you can examine whether the impression is accurate and whether your response will be virtuous.
 
-**Key concept from R06:** Marcus shows that [[prosoche]] (vigilant attention) isn't just for crisis moments—it becomes a way of life. He's examining his reactions to minor annoyances as carefully as major setbacks.
+**Key concept from R06:** Marcus shows that [[Prosoche]] (vigilant attention) isn't just for crisis moments—it becomes a way of life. He's examining his reactions to minor annoyances as carefully as major setbacks.
 
 ### In Report 08: Examined Life in Practice
 

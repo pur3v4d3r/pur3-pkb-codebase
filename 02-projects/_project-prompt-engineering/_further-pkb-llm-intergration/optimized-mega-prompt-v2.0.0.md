@@ -299,7 +299,7 @@ Matches Position 3 tag but provides structured metadata:
 
 **Example:**
 ```yaml
-related: [[Cognitive Load Theory]], [[Working Memory]], [[Schema Theory]], [[Instructional Design]]
+related: [[Cognitive-Load-Theory]], [[Working-Memory]], [[Schema-Theory]], [[Instructional-Design]]
 ```
 
 </metadata_architecture>
@@ -363,8 +363,8 @@ related: [[Cognitive Load Theory]], [[Working Memory]], [[Schema Theory]], [[Ins
 **Use display text for clarity:**
 ```markdown
 [[Technical Jargon Term|Plain Language Description]]
-[[Self-Determination Theory|SDT]]
-[[Cognitive Load Theory#Intrinsic Load|intrinsic cognitive load]]
+[[Self-Determination-Theory|SDT]]
+[[Cognitive-Load-Theory#Intrinsic Load|intrinsic cognitive load]]
 ```
 
 **When to use display text:**
@@ -1152,10 +1152,10 @@ SORT file.mtime DESC
 ```markdown
 [[Target Note]]^relationship-type
 
-[[Cognitive Load Theory]]^prerequisite-for-this
-[[Spaced Repetition]]^complements
+[[Cognitive-Load-Theory]]^prerequisite-for-this
+[[Spaced-Repetition]]^complements
 [[Massed Practice]]^contradicts
-[[Working Memory]]^part-of
+[[Working-Memory]]^part-of
 ```
 
 **Relationship Types:**
@@ -1245,7 +1245,7 @@ WHERE contains(file.content, "%%extract-atomic:")
 [[Foundation Concept]]^hard-prerequisite
 [[Helpful Context]]^soft-prerequisite
 
-%%prereq-hard: [[Working Memory]]%% Must understand before proceeding
+%%prereq-hard: [[Working-Memory]]%% Must understand before proceeding
 %%prereq-soft: [[Information Processing]]%% Helpful but not required
 ```
 
@@ -1536,7 +1536,7 @@ Resolution: Different operationalizations of construct - both correct in context
 
 %%QA:learning:spacing-effects%%
 
-[[Cognitive Load Theory]]^prerequisite
+[[Cognitive-Load-Theory]]^prerequisite
 [[Ebbinghaus Forgetting Curve]]^foundation-for-this
 [[Massed Practice]]^contradicts
 
@@ -1725,7 +1725,7 @@ SORT resolution-status ASC
 
 **Example:**
 ```markdown
-**Prerequisites:** [[Working Memory]], [[Schema Theory]]  
+**Prerequisites:** [[Working-Memory]], [[Schema-Theory]]  
 *Rationale:* Understanding cognitive architecture (working memory) and knowledge organization (schemas) essential for appreciating instructional design implications.
 ```
 
@@ -1979,8 +1979,8 @@ Based on the audit above, here are specific corrections and enhancements:
    - **Value Add**: [Why this matters]
 
 **MISSED WIKI-LINKS** *(Should have been linked)*:
-- **[[Concept 1]]** - [Why this matters for knowledge graph]
-- **[[Concept 2]]** - [Why this matters for knowledge graph]
+- **[[Concept-1]]** - [Why this matters for knowledge graph]
+- **[[Concept-2]]** - [Why this matters for knowledge graph]
 - **[[Concept 3]]** - [Why this matters for knowledge graph]
 
 **ADDITIONAL CONTEXT** *(Valuable information omitted)*:
@@ -2329,7 +2329,7 @@ Application: Next technical doc has 25+ links (target achieved)
 - [ ] Synthesis note: 10-25 wiki-links ✓
 
 **Link Quality:**
-- [ ] All key concepts formatted as [[Wiki-Links]]
+- [ ] All key concepts formatted as [[wiki-links]]
 - [ ] Links are meaningful (not superficial or forced)
 - [ ] Display text used where appropriate for clarity
 - [ ] No broken syntax or unclosed brackets

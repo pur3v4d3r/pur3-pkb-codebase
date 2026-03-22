@@ -45,7 +45,7 @@ review-priority: medium
 # Dataview Plugin
 
 > [!definition]
-> - **Key-Term**:: [[Dataview Plugin]]
+> - **Key-Term**:: [[Dataview-Plugin]]
 > - [**Definition**:: The Dataview plugin is a powerful tool for Obsidian that allows users to query and display data from their Markdown notes. It transforms Obsidian from a simple note-taking app into a dynamic personal knowledge management system by enabling users to extract and organize information programmatically.]
 > - **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -85,8 +85,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

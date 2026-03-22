@@ -105,7 +105,7 @@ Structural Planning:
   - [[Spatial Thinking]]
   - [[Zettelkasten]]
   - [[MOC]] (Map of Content)
-  - [[Mind Mapping]]
+  - [[Mind-Mapping]]
   - [[Concept Mapping]]
   - [[Graph View]]
   - [[Markdown]]
@@ -115,7 +115,7 @@ Structural Planning:
   - [[Dataview]]
   - [[Templater]]
   - [[Visual Hierarchy]]
-  - [[Information Architecture]]
+  - [[Information-Architecture]]
 
 - Callout Strategy:
   - [!definition] for core concept
@@ -201,13 +201,13 @@ The philosophical foundation rests on three principles:
 
 > [!analogy]
 > **Illuminating Comparison**
-> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[Wiki-Links]] are roads (connections), [[MOC|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
+> Think of your [[Obsidian]] vault as a city: Individual notes are buildings (atomic knowledge units), [[wiki-links]] are roads (connections), [[MOC|MOCs]] are neighborhoods (thematic groupings), and **Canvas is the city map**—a bird's-eye view showing how everything relates spatially and structurally.
 
 ### Use Case Philosophy
 
 Canvas excels in scenarios where **spatial relationships matter**:
 - **Project Planning**: Visualizing phases, dependencies, and workflows
-- **[[Mind Mapping]]**: Brainstorming with hierarchical branching structures  
+- **[[Mind-Mapping]]**: Brainstorming with hierarchical branching structures  
 - **[[Concept Mapping]]**: Showing semantic relationships between ideas
 - **Dashboards**: Creating interactive command centers for information monitoring
 - **Research Synthesis**: Arranging literature, quotes, and insights spatially
@@ -345,8 +345,8 @@ Canvas supports five fundamental node types, each with distinct use cases:
 
 **Embedding Specific Sections**:
 Canvas allows **pinpoint precision** when embedding notes:
-- `[[Note Name]]` → Embeds entire note
-- `[[Note Name#Section]]` → Embeds specific header section
+- `[[Note-Name]]` → Embeds entire note
+- `[[Note-Name#Section]]` → Embeds specific header section
 - `[[Note Name^block-id]]` → Embeds specific block
 
 > [!example]
@@ -417,7 +417,7 @@ Canvas allows **pinpoint precision** when embedding notes:
 - Video: MP4 video files can be dragged and dropped, and played within canvas
 
 **Strategic Media Integration**:
-For [[Visual Thinking]], embed:
+For [[Visual-Thinking]], embed:
 - Concept diagrams alongside explanatory notes
 - Screenshots of workflows with annotation cards
 - Infographics as anchor points for clusters of related notes
@@ -1131,7 +1131,7 @@ Based on your vault structure (from Strategic Roadmap), here are **specific canv
 
 #### Pattern 2: **Weekly Review Canvas**
 
-**Purpose**: Structured weekly reflection per your [[Self-Regulated Learning]] framework
+**Purpose**: Structured weekly reflection per your [[Self-Regulated-Learning]] framework
 
 **Structure**:
 ```

@@ -43,7 +43,7 @@ evidence_base: "repository-synthesis"
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[Chain-of-Thought-Prompting]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Retrieval-Augmented-Generation]]"
   - "[[Self-Consistency]]"
   - "[[Constitutional AI]]"
@@ -95,7 +95,7 @@ This document integrates with:
 
 **Required Understanding:**
 - Basic [[Chain-of-Thought-Prompting]] (covered in [[doc1-complex-reasoning-solutions-architecture]])
-- [[Prompt Engineering]] fundamentals
+- [[Prompt-Engineering]] fundamentals
 - [[LLM Limitations]] and common failure modes
 
 **Helpful Context:**

@@ -22,14 +22,14 @@ secondary_domains:
 related_concepts:
   - "[[Dialectical Reasoning]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
   - "[[Transfer-of-Learning]]"
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking]]"
   - "[[Perspectivism]]"
   - "[[Steel-Man Argumentation]]"
   - "[[Assumption Excavation]]"
@@ -111,13 +111,13 @@ prerequisites:
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 extends:
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -129,14 +129,14 @@ aliases:
   - "[[Report Generator - Dialectical Re-Examination]]"
   - "[[Second Analysis Report Prompt]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Comparative Synthesis Report Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
-  - "[[Focused Analysis Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
+  - "[[Focused-Analysis-Report-Generator-v1.0]]"
   - "[[PKM/PKB Lifelong Learning Report Generator v1.0]]"
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
@@ -292,7 +292,7 @@ A Dialectical Re-Examination Report occupies a unique position in the report gen
 
 The operative metaphor is neither the satellite image (Foundational) nor the core sample (Focused Analysis). It is the **load-bearing test** — the systematic application of pressure from multiple directions to discover what holds, what cracks, and what reveals hidden structural weaknesses. The goal is not destruction but *reconstruction*: understanding that has survived dialectical scrutiny is qualitatively different from understanding that has merely been received. It is genuinely *held* knowledge rather than passively *acquired* information.
 
-The dialectical structure has ancient roots in the [[Socratic Method]] and Hegelian dialectics, but this report operationalizes it as a practical intellectual methodology:
+The dialectical structure has ancient roots in the [[Socratic-Method]] and Hegelian dialectics, but this report operationalizes it as a practical intellectual methodology:
 
 1. **Thesis Articulation**: The report begins by articulating the "received view" — the dominant understanding, standard account, or consensus position on a topic. This is not a straw man but the strongest, most generous version of the prevailing understanding. The reader should recognize their own beliefs in this articulation.
 
@@ -564,11 +564,11 @@ Execute in `<thinking>` blocks:
 
 ## Section 4: Cognitive Engagement Architecture (Dialectical)
 
-[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[Schema Theory]], [[Cognitive Load Theory]], [[Self-Regulated Learning]], and [[Transfer-of-Learning]].]
+[**Dialectical-Cognitive-Engagement**:: Advanced metacognitive scaffolding adapted for the distinctive demands of dialectical reading — including belief-tracking pairs that make shifts in understanding visible, perspective-switching exercises that develop intellectual flexibility, and transfer-application prompts that bridge from insight to action. Grounded in research on [[Schema-Theory]], [[Cognitive-Load-Theory]], [[Self-Regulated-Learning]], and [[Transfer-of-Learning]].]
 
 ### Schema Activation Protocol
 
-Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[Advance-Organizer]] theory (Ausubel) and [[Schema Theory]] (Bartlett, Piaget):
+Every report begins with deliberate schema activation — connecting the new material to the reader's existing knowledge structures. This is not a mere "warm-up" but a scientifically grounded strategy drawn from [[Advance-Organizer]] theory (Ausubel) and [[Schema-Theory]] (Bartlett, Piaget):
 
 > [!ask-yourself-this] **Schema Activation — Before You Begin**
 > Before reading this re-examination, take a moment to articulate your current understanding of {topic}. What do you believe to be true about it? What are the core claims you'd defend? What evidence supports those beliefs? Writing this down — not just thinking it — creates the cognitive anchor that makes the dialectical process most productive. The comparison between your starting position and your position after the dialectical process is where the deepest learning lies.
@@ -692,7 +692,7 @@ This return-and-deepen pattern is the structural mechanism by which the dialecti
 
 ### Why a Dedicated Phase
 
-Most reports treat transfer as an afterthought — a paragraph at the end noting that "these insights may apply elsewhere." Research on [[Transfer-of-Learning]] demonstrates why this fails: transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed. [[Diane Halpern]]'s four-component model identifies the requirements: (1) a dispositional component (motivation to transfer), (2) instruction in the skills of transfer, (3) training in specific transfer mechanisms (structural encoding, analogical reasoning), and (4) practice applying skills across contexts.
+Most reports treat transfer as an afterthought — a paragraph at the end noting that "these insights may apply elsewhere." Research on [[Transfer-of-Learning]] demonstrates why this fails: transfer is cognitively expensive, rarely spontaneous, and requires explicit structural encoding to succeed. [[Diane-Halpern]]'s four-component model identifies the requirements: (1) a dispositional component (motivation to transfer), (2) instruction in the skills of transfer, (3) training in specific transfer mechanisms (structural encoding, analogical reasoning), and (4) practice applying skills across contexts.
 
 This dedicated phase addresses components 2-4 systematically.
 
@@ -712,7 +712,7 @@ Identify other domains where the same abstract structural principle operates —
 
 #### Operation 3: Transfer Encoding
 
-Encode the insight in a form optimized for retrieval in new contexts. Research on [[Encoding-Specificity]] and [[Schema Theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
+Encode the insight in a form optimized for retrieval in new contexts. Research on [[Encoding-Specificity]] and [[Schema-Theory]] shows that how information is encoded determines where it can be retrieved. Encode with multiple retrieval cues: the abstract principle, the structural pattern, the conditions for applicability, and the surface-level trigger patterns that signal when the principle might be relevant.
 
 **Template**: *"When you encounter {trigger pattern — recognizable surface features}, consider whether {abstract principle} might be operating. The diagnostic question is: {question that tests whether the structural analogy holds}. If it does, the dialectical insight from this report predicts that {transferable prediction}."*
 

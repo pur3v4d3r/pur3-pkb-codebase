@@ -23,13 +23,13 @@ link-related:
   - "[[Cognitive Load Management]]"
   - "[[Constructivist Epistemology]]"
   - "[[Constructivist Learning]]"
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking]]"
   - "[[Stoic Dichotomy Of Control]]"
   - "[[Epistemic Accountability]]"
-  - "[[Metacognitive Experiences]]"
-  - "[[Metacognitive Knowledge]]"
-  - "[[Metacognitive Regulation]]"
-  - "[[Self-Determination Theory]]"
+  - "[[Metacognitive-Experiences]]"
+  - "[[Metacognitive-Knowledge]]"
+  - "[[Metacognitive-Regulation]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Self-Regulation-Theory]]"
 maturity: seedling
 confidence: speculative

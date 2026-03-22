@@ -190,7 +190,7 @@ extraction_summary:
 #### 7. [DEFINITION] Schema Construction (Cognitive Psychology — Bartlett, Rumelhart, Anderson, Norman) *(Line 178)*
 
 > [!definition] Schema Construction (Cognitive Psychology — Bartlett, Rumelhart, Anderson, Norman)
-> The process by which new information is integrated into existing cognitive structures ([[Schemas]]) through two complementary operations: assimilation (fitting new information into existing schemas) and accommodation (revising existing schemas to incorporate information that does not fit). Schema construction is not merely additive — it reorganizes existing knowledge as it integrates new knowledge. This is why understanding is qualitatively different from information possession: genuine understanding means that the new knowledge has been structurally integrated into existing schemas, enabling inference, application, and transfer. Established in [[Report 03: Constructing Understanding]], schema construction is the cognitive architecture that Writing to Learn, Self-Explanation, and Elaborative Interrogation all, in different ways, facilitate.
+> The process by which new information is integrated into existing cognitive structures ([[schemas]]) through two complementary operations: assimilation (fitting new information into existing schemas) and accommodation (revising existing schemas to incorporate information that does not fit). Schema construction is not merely additive — it reorganizes existing knowledge as it integrates new knowledge. This is why understanding is qualitatively different from information possession: genuine understanding means that the new knowledge has been structurally integrated into existing schemas, enabling inference, application, and transfer. Established in [[Report 03: Constructing Understanding]], schema construction is the cognitive architecture that Writing to Learn, Self-Explanation, and Elaborative Interrogation all, in different ways, facilitate.
 
 #### 8. [DEFINITION] Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey) *(Line 181)*
 
@@ -567,8 +567,8 @@ extraction_summary:
 - [[SECI-Model|SECI Model]]
 - [[Schema-Construction|Schema Construction]]
 - [[Schema-Theory|Schema Theory]]
-- [[Schemas]]
-- [[Self-Explanation]]
+- [[schemas]]
+- [[self-explanation]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Social-Constructivism|Social Constructivism]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
@@ -600,14 +600,14 @@ extraction_summary:
 | 17 | [[Report 09: Designing the Learning PKB]] | — | — | Scope and Roadmap | 151 |
 | 18 | [[Report 16]] | — | — | Scope and Roadmap | 151 |
 | 19 | [[Generation-Effect|Generation Effect]] | — | — | Scope and Roadmap | 151 |
-| 20 | [[Schemas]] | — | — | The Disciplinary Lens Array | 179 |
+| 20 | [[schemas]] | — | — | The Disciplinary Lens Array | 179 |
 | 21 | [[Report 03: Constructing Understanding]] | — | — | The Disciplinary Lens Array | 179 |
 | 22 | [[Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
 | 23 | [[Social-Constructivism|Social Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
 | 24 | [[Pragmatism]] | — | — | The Disciplinary Lens Array | 182 |
 | 25 | [[Writing-to-Learn|Writing to Learn]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 26 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 27 | [[Self-Explanation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 27 | [[self-explanation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 28 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 29 | [[ICAP-Framework|ICAP Framework]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 30 | [[Schema-Construction|Schema Construction]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
@@ -615,7 +615,7 @@ extraction_summary:
 | 32 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
 | 33 | [[Social-Constructivism|Social Constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
 | 34 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Cluster 1: The Mueller and Oppenheime... | 223 |
-| 35 | [[Self-Explanation]] | — | — | Cluster 2: The Self-Explanation Resea... | 227 |
+| 35 | [[self-explanation]] | — | — | Cluster 2: The Self-Explanation Resea... | 227 |
 | 36 | [[Schema-Construction|Schema Construction]] | — | — | Cluster 2: The Self-Explanation Resea... | 229 |
 | 37 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Cluster 3: Elaborative Interrogation | 239 |
 | 38 | [[Generation-Effect|Generation Effect]] | — | — | Cluster 4: The Generation Effect | 247 |
@@ -627,7 +627,7 @@ extraction_summary:
 | 44 | [[Schema-Construction|Schema Construction]] | — | — | Mechanism 1: The Articulatory Constru... | 303 |
 | 45 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
 | 46 | [[Report 10: Scaffolding and Fading]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
-| 47 | [[Self-Explanation]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
+| 47 | [[self-explanation]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
 | 48 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
 | 49 | [[SECI-Model|SECI Model]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
 | 50 | [[Knowledge-Management|Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
@@ -716,8 +716,8 @@ extraction_summary:
 - [[SECI-Model|SECI Model]]
 - [[Schema-Construction|Schema Construction]]
 - [[Schema-Theory|Schema Theory]]
-- [[Schemas]]
-- [[Self-Explanation]]
+- [[schemas]]
+- [[self-explanation]]
 - [[Self-Explanation-Effect|Self-Explanation Effect]]
 - [[Social-Constructivism|Social Constructivism]]
 - [[Tacit-Knowledge|Tacit Knowledge]]
@@ -765,7 +765,7 @@ extraction_summary:
 
 #### Link Up
 
-- [[Report Generation Prompt Suite]]
+- [[Report-Generation-Prompt-Suite]]
 
 ---
 

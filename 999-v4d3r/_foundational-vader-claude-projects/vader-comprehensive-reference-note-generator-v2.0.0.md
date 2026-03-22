@@ -374,8 +374,8 @@ aliases:
 link-up: "[[prompt-engineering-moc]]"
 link-related:
   - "[[YYYY-MM-DD|Daily Note]]"
-  - "[[tree-of-thoughts]]"
-  - "[[chain-of-thought]]"
+  - "[[Tree-of-Thoughts]]"
+  - "[[Chain-of-Thought]]"
   - "[[research-methodology]]"
 
 # REVIEW SYSTEM

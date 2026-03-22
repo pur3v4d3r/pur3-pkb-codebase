@@ -734,13 +734,13 @@ The exploration tree drives content structure. Each explored branch becomes a se
 ### 1. **[[Tree of Thoughts Prompting]]**
 **Connection:** This prompt operationalizes ToT for research tasks; deeper exploration of ToT mechanics, branching factor optimization, and evaluation heuristics would enhance prompt engineering knowledge
 **Depth Potential:** Original ToT papers (Yao et al., 2023) contain mathematical frameworks for node evaluation not fully utilized here
-**Knowledge Graph Role:** Bridges [[Prompt Engineering]] to [[Search Algorithms]] and [[Decision Trees]]
+**Knowledge Graph Role:** Bridges [[Prompt-Engineering]] to [[Search Algorithms]] and [[Decision Trees]]
 **Priority:** High — foundational technique for future prompt designs
 
 ### 2. **[[Chain of Thought Exemplar Design]]**
 **Connection:** The 3 exemplars provided are templates; systematic methodology for designing CoT exemplars across domains would enable rapid prompt development
 **Depth Potential:** Exemplar selection criteria, exemplar diversity requirements, domain-specific adaptation patterns
-**Knowledge Graph Role:** Core node in [[Few-Shot Learning]] cluster, connects to [[Cognitive Task Analysis]]
+**Knowledge Graph Role:** Core node in [[Few-Shot-Learning]] cluster, connects to [[Cognitive Task Analysis]]
 **Priority:** High — reusable skill for all future prompt engineering
 
 ### 3. **[[Backtracking in LLM Reasoning]]**

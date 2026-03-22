@@ -203,7 +203,7 @@ extraction_summary:
 #### 10. [CROSS-DOMAIN-CONNECTION] Schemas and KOS Are the Same Phenomenon at Different Levels of Analysis *(Line 164)*
 
 > [!cross-domain-connection] Schemas and KOS Are the Same Phenomenon at Different Levels of Analysis
-> The [[Schema Theory|schema]] of cognitive psychology and the [[Knowledge-Organization-System|Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
+> The [[Schema-Theory|schema]] of cognitive psychology and the [[Knowledge-Organization-System|Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
 
 #### 11. [KEY-CLAIM] Foundational Claim 1: Knowledge is Relational, Not Propositional *(Line 167)*
 
@@ -402,7 +402,7 @@ extraction_summary:
 > 
 > - **[[Schema-Theory|Schema Theory]]** — The foundational cognitive structure around which this report's entire analysis orbits. Schema Theory not only explains how knowledge is mentally organized — it explains why organizational decisions that ignore its findings systematically underperform. Every subsequent report in this series builds on the schema concept established here, from the role of schemas in spaced repetition retrieval ([[Report 06: The Science of Remembering]]) to their restructuring through reflective practice ([[Report 08: Reflective Practice and Experiential Learning]]) to their development through deliberate difficulty ([[Report 16: Desirable Difficulties by Design]]).
 > 
-> - **[[Semantic-Networks|Semantic Networks]] and [[Spreading-Activation|Spreading Activation]]** — The specific model of mental knowledge representation that makes the direct cognitive science case for linked, associative PKB architecture. The spreading activation mechanism described here becomes the explanatory foundation for retrieval practice design in [[Report 06]] and for the value of cross-domain connection-making in [[Report 21: Dialectical Knowledge Building]].
+> - **[[Semantic-Networks|Semantic Networks]] and [[Spreading-Activation|Spreading Activation]]** — The specific model of mental knowledge representation that makes the direct cognitive science case for linked, associative PKB architecture. The spreading activation mechanism described here becomes the explanatory foundation for retrieval practice design in [[Report-06]] and for the value of cross-domain connection-making in [[Report 21: Dialectical Knowledge Building]].
 > 
 > - **[[Constructivism]]** — The philosophical commitment that meaning requires active construction, not passive reception, established here as a first-class design constraint for PKB architecture. This commitment directly informs [[Report 03: Constructing Understanding]], [[Report 08: Reflective Practice and Experiential Learning]], [[Report 14: Inquiry-Based Knowledge Building]], and [[Report 17: Note-Making as Knowledge Construction]].
 > 
@@ -626,7 +626,7 @@ extraction_summary:
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 09: Designing the Learning PKB]]
@@ -708,7 +708,7 @@ extraction_summary:
 | 52 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 53 | [[Semantic-Networks|Semantic Networks]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 54 | [[Spreading-Activation|Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
-| 55 | [[Report 06]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
+| 55 | [[Report-06]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 56 | [[Report 21: Dialectical Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 57 | [[Constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
 | 58 | [[Report 03: Constructing Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
@@ -805,7 +805,7 @@ extraction_summary:
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]
-- [[Report 06]]
+- [[Report-06]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 09: Designing the Learning PKB]]

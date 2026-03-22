@@ -522,7 +522,7 @@ All notes created by LLM must include:
 
 [Prose-dominant content - avoid bullet-only sections]
 
-[[Wiki-Links]] for all key concepts, frameworks, and references.
+[[wiki-links]] for all key concepts, frameworks, and references.
 
 > [!appropriate-callout] Callout Title
 > [Callout content for definitions, examples, warnings, etc.]
@@ -585,7 +585,7 @@ For responses that are informational (not permanent notes):
 - ❌ Create orphan notes (no links in or out)
 - ❌ Use bullet-list-only sections for substantive content
 - ❌ Skip the expansion topics section
-- ❌ Forget to format key concepts as [[Wiki-Links]]
+- ❌ Forget to format key concepts as [[wiki-links]]
 - ❌ Use callout types not in the approved taxonomy
 - ❌ Generate invalid IDs (must be 14-digit timestamps)
 - ❌ Mix up date formats (always YYYY-MM-DD)

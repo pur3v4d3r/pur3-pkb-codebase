@@ -1343,7 +1343,7 @@ Fuzzy matches: None
 ```
 
 **Response to User:**
-"PKM (Personal Knowledge Management) is already documented in [[personal-knowledge-management.md]], which includes this as an alias. The note covers PKM principles, methodologies, tools, and workflows. The alias ensures you can reference it as either [[PKM]] or [[personal-knowledge-management]]."
+"PKM (Personal Knowledge Management) is already documented in [[personal-knowledge-management.md]], which includes this as an alias. The note covers PKM principles, methodologies, tools, and workflows. The alias ensures you can reference it as either [[PKM]] or [[Personal-Knowledge-Management]]."
 
 #### Use Case 3: High Fuzzy Match—Read and Assess
 
@@ -1399,7 +1399,7 @@ aliases: [Spaced Repetition, Spacing Effect]
 > Spaced repetition is a learning technique where review intervals increase over time, leveraging the psychological spacing effect to enhance long-term retention. This note focuses on the theoretical foundations and cognitive mechanisms.
 
 > [!attention] Related
-> For practical implementation using software tools (Anki, SuperMemo, etc.), see [[spaced-repetition-systems]].
+> For practical implementation using software tools (Anki, SuperMemo, etc.), see [[Spaced-Repetition-Systems]].
 
 [Rest of content...]
 ```
@@ -1578,7 +1578,7 @@ modified: 2026-01-06
 
 **Example:**
 ```markdown
-[[Cognitive Load Theory]] explores how [[Working Memory]] limitations affect learning. [[Intrinsic Load]] depends on [[Element Interactivity]], while [[Extraneous Load]] stems from [[Instructional Design]] choices. [[Germane Load]] promotes [[Schema Construction]].
+[[Cognitive-Load-Theory]] explores how [[Working-Memory]] limitations affect learning. [[Intrinsic-Load]] depends on [[Element-Interactivity]], while [[Extraneous-Load]] stems from [[Instructional-Design]] choices. [[Germane-Load]] promotes [[Schema-Construction]].
 ```
 
 (8 wiki-links in 2 sentences—appropriate for reference note)
@@ -1721,7 +1721,7 @@ modified: 2026-01-06
 # Cognitive Load Theory
 
 > [!abstract] Overview
-> <span style='color: #FFC700;'>Cognitive Load Theory (CLT)</span> is a framework for understanding how the cognitive architecture of [[Working Memory]] impacts learning effectiveness. Developed by [[John Sweller]] in the 1980s, it explains how instructional design should account for working memory limitations.
+> <span style='color: #FFC700;'>Cognitive Load Theory (CLT)</span> is a framework for understanding how the cognitive architecture of [[Working-Memory]] impacts learning effectiveness. Developed by [[John-Sweller]] in the 1980s, it explains how instructional design should account for working memory limitations.
 
 [**Cognitive-Load-Theory-Definition**:: Theory describing how working memory limitations affect learning, identifying three types of cognitive load: intrinsic, extraneous, and germane.]
 
@@ -1730,7 +1730,7 @@ modified: 2026-01-06
 ### Working Memory Limitations
 
 > [!principle-point] Fundamental Constraint
-> [[Working Memory]] can process only <span style='color: #FF00DC;'>5-9 information elements simultaneously</span>, creating a bottleneck for learning.
+> [[Working-Memory]] can process only <span style='color: #FF00DC;'>5-9 information elements simultaneously</span>, creating a bottleneck for learning.
 
 [**Working-Memory-Capacity**:: Humans can process approximately 5-9 information elements simultaneously, creating fundamental constraints on learning and problem-solving.]
 
@@ -1739,24 +1739,24 @@ This limitation, established through [[Miller's Law]], forms the foundation for 
 ### Three Types of Cognitive Load
 
 > [!definition] Intrinsic Load
-> <span style='color: #27FF00;'>Intrinsic load</span> is the inherent complexity of the learning material, determined by [[Element Interactivity]].
+> <span style='color: #27FF00;'>Intrinsic load</span> is the inherent complexity of the learning material, determined by [[Element-Interactivity]].
 
 [**Intrinsic-Load**:: Cognitive load inherent to the material's complexity, determined by element interactivity, cannot be reduced without changing content.]
 
 > [!definition] Extraneous Load
-> <span style='color: #E50000;'>Extraneous load</span> is unnecessary cognitive burden imposed by poor [[Instructional Design]].
+> <span style='color: #E50000;'>Extraneous load</span> is unnecessary cognitive burden imposed by poor [[Instructional-Design]].
 
 [**Extraneous-Load**:: Unnecessary cognitive load from ineffective instructional presentation, can and should be minimized through better design.]
 
 > [!definition] Germane Load
-> <span style='color: #9E6CD3;'>Germane load</span> is productive cognitive effort dedicated to [[Schema Construction]].
+> <span style='color: #9E6CD3;'>Germane load</span> is productive cognitive effort dedicated to [[Schema-Construction]].
 
 [**Germane-Load**:: Productive cognitive effort directed toward learning processes like schema construction and automation.]
 
 ## Practical Applications
 
 > [!example] Worked Examples Effect
-> Providing fully [[Worked Examples]] reduces extraneous load, allowing learners to focus germane load on understanding solution patterns rather than problem-solving mechanics.
+> Providing fully [[Worked-Examples]] reduces extraneous load, allowing learners to focus germane load on understanding solution patterns rather than problem-solving mechanics.
 
 > [!helpful-tip] Split-Attention Reduction
 > Integrate related information sources (e.g., diagrams with labels directly on them) rather than requiring learners to split attention between separate text and graphics.

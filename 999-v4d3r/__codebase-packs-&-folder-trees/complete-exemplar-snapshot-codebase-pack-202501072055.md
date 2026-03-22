@@ -414,7 +414,7 @@ Voting/Selection → Final Answer
 - May explore unpromising branches
 
 **Representative Techniques**:
-- [[Tree of Thoughts]] - Systematic tree search with evaluation
+- [[Tree-of-Thoughts]] - Systematic tree search with evaluation
 - [[Least-to-Most Prompting]] - Sequential subproblem solving
 - [[Plan-and-Solve]] - Planning phase + execution phase
 
@@ -658,21 +658,21 @@ START: What is primary problem characteristic?
 
 **Mathematical Word Problems**:
 - **First Choice**: [[Program of Thoughts]] (precision via code)
-- **Second Choice**: [[Tree of Thoughts]] (if code generation unreliable)
+- **Second Choice**: [[Tree-of-Thoughts]] (if code generation unreliable)
 - **Reliability Boost**: Add [[Self-Consistency]] to either
 
 **Strategic Planning**:
-- **First Choice**: [[Tree of Thoughts]] (systematic plan exploration)
+- **First Choice**: [[Tree-of-Thoughts]] (systematic plan exploration)
 - **Second Choice**: [[Plan-and-Solve]] (explicit planning phase)
 - **For Simple Plans**: [[Least-to-Most]] (decomposition sufficient)
 
 **Logical Deduction**:
 - **First Choice**: [[Faithful Chain of Thought]] (grounded steps)
 - **Reliability Boost**: [[Self-Consistency]] (validate reasoning)
-- **Complex Proofs**: [[Tree of Thoughts]] (explore proof strategies)
+- **Complex Proofs**: [[Tree-of-Thoughts]] (explore proof strategies)
 
 **Creative Problem-Solving**:
-- **First Choice**: [[Tree of Thoughts]] (explore diverse approaches)
+- **First Choice**: [[Tree-of-Thoughts]] (explore diverse approaches)
 - **Alternative**: [[Thread of Thoughts]] (elaborate perspectives)
 - **Structured Creativity**: [[Analogical Prompting]] (systematic analogy)
 
@@ -1661,7 +1661,7 @@ def boost_with_self_consistency(base_technique, problem, n=10):
 
 ### Pattern 2: Decomposition + Advanced Reasoning
 
-**Strategy**: Use [[Least-to-Most Prompting]] to break complex problem into subproblems, then apply [[Tree of Thoughts]] to complex subproblems.
+**Strategy**: Use [[Least-to-Most Prompting]] to break complex problem into subproblems, then apply [[Tree-of-Thoughts]] to complex subproblems.
 
 ```python
 def decomposition_then_reasoning(complex_problem):
@@ -2244,7 +2244,7 @@ evidence_base: "repository-synthesis"
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[Chain-of-Thought-Prompting]]"
-  - "[[Tree of Thoughts]]"
+  - "[[Tree-of-Thoughts]]"
   - "[[Retrieval-Augmented-Generation]]"
   - "[[Self-Consistency]]"
   - "[[Constitutional AI]]"
@@ -2296,7 +2296,7 @@ This document integrates with:
 
 **Required Understanding:**
 - Basic [[Chain-of-Thought-Prompting]] (covered in [[doc1-complex-reasoning-solutions-architecture]])
-- [[Prompt Engineering]] fundamentals
+- [[Prompt-Engineering]] fundamentals
 - [[LLM Limitations]] and common failure modes
 
 **Helpful Context:**
@@ -10750,7 +10750,7 @@ graph TD
 - **[Expert**:: ART with custom tools, Multi-technique orchestration, RPO optimization]
 
 ### By Use Case
-- **Complex Reasoning** → [[Tree of Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
+- **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
 - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
 - **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
 - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
@@ -10948,7 +10948,7 @@ graph TD
 
 **Recommended Stack**:
 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
-2. **[[Chain of Thought]]** - Break down complex ideas
+2. **[[Chain-of-Thought]]** - Break down complex ideas
 3. **[[Chain of Verification]]** - Ensure accuracy
 4. **[[Self-Refine]]** - Iterative improvement
 
@@ -10960,7 +10960,7 @@ graph TD
 
 **Recommended Stack**:
 1. **[[RAG Integration]]** - Retrieve relevant passages
-2. **[[Tree of Thoughts]]** - Explore multiple synthesis angles
+2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
 4. **[[Chain of Verification]]** - Fact-check claims
 
@@ -11045,7 +11045,7 @@ graph TD
 
 **Build up to**:
 4. [[ReAct Framework]] - Learn tool integration
-5. [[Tree of Thoughts]] - Master search-based reasoning
+5. [[Tree-of-Thoughts]] - Master search-based reasoning
 6. [[Reflexion]] - Create learning agents
 
 ### **Already Experienced?**
@@ -27163,7 +27163,7 @@ Sample 5: "2 + 3 = 5 cans? No, 2 cans... 11 total" → 11
 
 ---
 
-**Related Techniques**: [[Chain of Thought]], [[Tree of Thoughts]], [[Program of Thoughts]]
+**Related Techniques**: [[Chain-of-Thought]], [[Tree-of-Thoughts]], [[Program of Thoughts]]
 **Full Guide**: [[01-reasoning-techniques-guide#Self-Consistency]]
 
 ```
@@ -29839,7 +29839,7 @@ audience: [llm-systems, advanced-practitioners, ai-engineers]
 > [!abstract] Purpose & Scope
 > **[LLM-Operational-Exemplar**:: A comprehensive reference document enabling AI models to autonomously understand, select, and execute advanced reasoning techniques through structured protocols, decision trees, and validation checkpoints - functioning as both educational material and runtime operational guide.]**
 > 
-> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
+> This manual synthesizes cutting-edge research from 2022-2025 on advanced reasoning architectures, extended thinking systems, and agentic frameworks. It provides complete execution protocols for [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]], [[Graph of Thoughts]], [[Reflexion]], and other sophisticated reasoning patterns.
 >
 > **Primary Innovation**: Designed specifically for LLM interpretation and autonomous execution - enabling AI systems to reason about reasoning itself.
 
@@ -30541,7 +30541,7 @@ def select_reasoning_technique(task_description, constraints=None):
 
 [**Exploratory-Reasoning-Tasks**:: Tasks requiring systematic exploration of solution space, with potential for dead ends necessitating backtracking.]**
 
-**Optimal Techniques**: [[Tree of Thoughts]], [[Graph of Thoughts]]
+**Optimal Techniques**: [[Tree-of-Thoughts]], [[Graph of Thoughts]]
 
 **Example Tasks**:
 - Game of 24
@@ -30885,7 +30885,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 
 ### 3. **[[Cognitive Load Theory Applied to LLM Reasoning]]**
 
-**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[Cognitive Load Theory]], and [[Dual Process Theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
+**Connection**: This manual provides reasoning techniques without deep theoretical grounding in cognitive science. Exploring how [[Working Memory Constraints]], [[Cognitive-Load-Theory]], and [[Dual-Process-Theory]] map to LLM architecture would illuminate *why* techniques like Tree of Thoughts and Self-Consistency work.
 
 **Depth Potential**: Theoretical exploration would include:
 - Working memory analogs in transformer attention mechanisms
@@ -33399,7 +33399,7 @@ class ThinkingQualityAssessor:
 
 **Depth Potential**: Would include cognitive science foundations, metacognition in humans vs. AI, architectural patterns for self-monitoring, comparative analysis of metacognitive systems across different LLMs, and research directions in AI metacognition.
 
-**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[Cognitive Science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
+**Knowledge Graph Role**: Provides theoretical grounding and broader context for extended thinking, connecting to [[Cognitive-Science]], [[Self-Aware Systems]], [[AI Consciousness]], and [[Reasoning Architectures]].
 
 **Priority**: **Medium** - Valuable theoretical depth but less immediately actionable than production guidance.
 
@@ -33433,7 +33433,7 @@ class ThinkingQualityAssessor:
 
 ### 4. **[[Advanced Reasoning Technique Integration]]**
 
-**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
+**Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree-of-Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
 
 **Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation, CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
 
@@ -33449,7 +33449,7 @@ class ThinkingQualityAssessor:
 
 **Depth Potential**: Prompt patterns for structured thinking, templates for validation checkpoints, meta-prompts for self-correction, few-shot examples demonstrating thinking quality, anti-patterns to avoid, domain-specific thinking templates.
 
-**Knowledge Graph Role**: Practical application layer connecting architecture to user-facing prompting, bridging [[Prompt Engineering]], [[Extended Thinking]], and [[Quality Assurance]].
+**Knowledge Graph Role**: Practical application layer connecting architecture to user-facing prompting, bridging [[Prompt-Engineering]], [[Extended Thinking]], and [[Quality Assurance]].
 
 **Priority**: **High** - Immediately actionable for practitioners optimizing reasoning quality.
 
@@ -39620,7 +39620,7 @@ prompting_techniques:
             mitigation: "Structure reasoning with specific steps"
         
         related_concepts:
-          - "[[Tree of Thoughts]]"
+          - "[[Tree-of-Thoughts]]"
           - "[[Self-Consistency]]"
           - "[[Program-Aided Language Models]]"
       
@@ -39774,7 +39774,7 @@ prompting_techniques:
           - "[[Chain-of-Thought-Prompting]]"
           - "[[Self-Consistency]]"
           - "[[Monte Carlo Tree Search]]"
-          - "[[Deliberate Practice]]"
+          - "[[Deliberate-Practice]]"
       
       # ─────────────────────────────────────────────────────────────────────────
       # SELF-CONSISTENCY
@@ -39866,7 +39866,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Chain-of-Thought-Prompting]]"
-          - "[[Ensemble Methods]]"
+          - "[[Ensemble-Methods]]"
           - "[[Uncertainty Quantification]]"
 
   # ═══════════════════════════════════════════════════════════════════════════
@@ -40248,7 +40248,7 @@ prompting_techniques:
         
         related_concepts:
           - "[[Vector Databases]]"
-          - "[[Semantic Search]]"
+          - "[[Semantic-Search]]"
           - "[[Knowledge Graphs]]"
           - "[[Context Engineering]]"
       

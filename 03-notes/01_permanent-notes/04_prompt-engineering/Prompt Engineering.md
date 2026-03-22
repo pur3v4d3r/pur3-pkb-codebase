@@ -31,8 +31,8 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Prompt Engineering]]
-> - [**Definition**:: The systematic practice of designing, structuring, and optimizing input queries (prompts) to [[Large Language Models]] to achieve specific, desired outputs with maximum accuracy, relevance, and consistency.]
+> - **Key-Term**:: [[Prompt-Engineering]]
+> - [**Definition**:: The systematic practice of designing, structuring, and optimizing input queries (prompts) to [[Large-Language-Models]] to achieve specific, desired outputs with maximum accuracy, relevance, and consistency.]
 
 > [!quick-reference]
 > **Basic Prompting Best Practices**

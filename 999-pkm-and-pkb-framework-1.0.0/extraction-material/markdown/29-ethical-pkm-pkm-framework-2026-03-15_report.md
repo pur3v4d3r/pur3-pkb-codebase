@@ -273,7 +273,7 @@ extraction_summary:
 #### 24. [CROSS-DOMAIN-CONNECTION] Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring *(Line 274)*
 
 > [!cross-domain-connection] Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring
-> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process-Theory|Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic-Vigilance|Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
+> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process-Theory|Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] from [[Report-04]]'s treatment of self-regulated learning; and [[Epistemic-Vigilance|Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
 
 #### 25. [WHAT-THE-EVIDENCE-SUGGESTS] On Source Curation and Epistemic Justice *(Line 281)*
 
@@ -567,7 +567,7 @@ extraction_summary:
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]
 - [[Report 07]]
@@ -621,7 +621,7 @@ extraction_summary:
 | 24 | [[Report 07]] | — | — | The Stoic Evidence: Philosophical Val... | 272 |
 | 25 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 26 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
-| 27 | [[Report 04]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
+| 27 | [[Report-04]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 28 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 29 | [[Report 07]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 30 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | The Mechanism of Epistemic Cowardice | 319 |
@@ -671,7 +671,7 @@ extraction_summary:
 - [[Motivated-Reasoning|Motivated Reasoning]]
 - [[Confirmation-Bias-Myside-Bias|Myside Bias]]
 - [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]
 - [[Report 07]]

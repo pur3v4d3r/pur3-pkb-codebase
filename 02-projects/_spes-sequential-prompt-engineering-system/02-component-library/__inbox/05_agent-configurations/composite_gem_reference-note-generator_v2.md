@@ -606,7 +606,7 @@ aliases: [Spaced Practice, Distributed Practice, SR]
 > [!definition]
 > **Spaced Repetition**: [[Learning]] technique that…
 ## The Science Behind It
-[Explanation with links to [[Forgetting Curve]], [[Memory Consolidation]]]
+[Explanation with links to [[Forgetting-Curve]], [[Memory-Consolidation]]]
 ## Implementation
 > [!methodology-and-sources]
 > [Practical framework]

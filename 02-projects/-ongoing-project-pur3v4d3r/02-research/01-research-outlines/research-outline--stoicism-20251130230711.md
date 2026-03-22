@@ -100,11 +100,11 @@ aliases: [Stoicism Research Plan, Applied Stoic Philosophy Study, Stoic Epistemo
 # 🎯 Research Plan: Stoicism as Epistemic & Metacognitive Operating System
 
 > [!abstract] Research Plan Overview
-> **Domain**: [[Stoic Philosophy]], [[Practical Ethics]], [[Metacognition]], [[Epistemology]], [[Behavior Change]]
+> **Domain**: [[Stoic-Philosophy]], [[Practical Ethics]], [[Metacognition]], [[Epistemology]], [[Behavior Change]]
 > **Scope**: Comprehensive study of Stoic philosophy from historical foundations through contemporary applications, with explicit integration into metacognitive frameworks, epistemic accountability practices, and lifelong learning identity development
 > **Duration**: 10-14 weeks (adaptable based on depth preferences)
 > **Learning Objective**: Develop operational mastery of Stoic principles sufficient to systematically modify behavior, strengthen epistemic practices, and cultivate metacognitive regulation—culminating in a coherent philosophical foundation for professional-level knowledge seeking
-> **PKB Integration Strategy**: Build a densely-connected Stoicism knowledge cluster that links to existing [[Self-Determination Theory]] work, creates bridges to [[Cognitive Science]] frameworks, and establishes a new [[Practical Philosophy]] MOC
+> **PKB Integration Strategy**: Build a densely-connected Stoicism knowledge cluster that links to existing [[Self-Determination-Theory]] work, creates bridges to [[Cognitive-Science]] frameworks, and establishes a new [[Practical Philosophy]] MOC
 
 ---
 
@@ -160,9 +160,9 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. Why did Stoicism appeal to both enslaved persons (Epictetus) and emperors (Marcus Aurelius)?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Zeno of Citium]], [[Cleanthes]], [[Chrysippus]], [[Seneca]], [[Epictetus]], [[Marcus Aurelius]], [[Hellenistic Philosophy]], [[The Stoa]], [[Cynicism]], [[Socratic Philosophy]]
+- Core concepts to wiki-link: [[Zeno of Citium]], [[Cleanthes]], [[Chrysippus]], [[Seneca]], [[Epictetus]], [[Marcus-Aurelius]], [[Hellenistic Philosophy]], [[The Stoa]], [[Cynicism]], [[Socratic Philosophy]]
 - Recommended tags: #stoicism #philosophy-history #hellenistic-period #roman-philosophy
-- Connection points: Link to existing [[Epistemology]] notes; create foundation for later [[Virtue Ethics]] exploration
+- Connection points: Link to existing [[Epistemology]] notes; create foundation for later [[Virtue-Ethics]] exploration
 
 **Prerequisites**: General familiarity with ancient Greek philosophy (Socrates, Plato, Aristotle) is helpful but not required
 
@@ -187,7 +187,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. How does "living according to nature" connect physics to ethics?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Logos]], [[Stoic Physics]], [[Stoic Logic]], [[Stoic Ethics]], [[Pneuma]], [[Living According to Nature]], [[Cosmic Determinism]], [[Providence (Stoic)]]
+- Core concepts to wiki-link: [[Logos]], [[Stoic Physics]], [[Stoic Logic]], [[Stoic-Ethics]], [[Pneuma]], [[Living According to Nature]], [[Cosmic Determinism]], [[Providence (Stoic)]]
 - Recommended tags: #stoicism #metaphysics #systematic-philosophy #logos #first-principles
 - Connection points: Strong bridge to [[Epistemology]] through Stoic logic; connect to [[Systems Thinking]] principles
 
@@ -214,9 +214,9 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. What practical decision-making heuristics emerge from internalizing this framework?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Dichotomy of Control]], [[Prohairesis]], [[Epictetus]], [[Enchiridion]], [[Assent]], [[Locus of Control]], [[Attribution Theory]]
+- Core concepts to wiki-link: [[Dichotomy-of-Control]], [[Prohairesis]], [[Epictetus]], [[Enchiridion]], [[Assent]], [[Locus-of-Control]], [[Attribution-Theory]]
 - Recommended tags: #stoicism #practical-philosophy #decision-making #emotional-regulation #behavior-change
-- Connection points: Direct bridge to [[Self-Determination Theory]] concepts of autonomy; connect to [[Metacognition]] (monitoring what is/isn't within cognitive control)
+- Connection points: Direct bridge to [[Self-Determination-Theory]] concepts of autonomy; connect to [[Metacognition]] (monitoring what is/isn't within cognitive control)
 
 **Prerequisites**: Topics 1-2 (especially understanding of Stoic logic and the role of judgment)
 
@@ -241,7 +241,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. How does Stoic virtue ethics compare to Aristotelian virtue ethics?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Virtue Ethics]], [[Cardinal Virtues]], [[Wisdom (Sophia/Phronesis)]], [[Courage (Andreia)]], [[Justice (Dikaiosyne)]], [[Temperance (Sophrosyne)]], [[Preferred Indifferents]], [[Dispreferred Indifferents]], [[Arete]], [[Eudaimonia]]
+- Core concepts to wiki-link: [[Virtue-Ethics]], [[Cardinal Virtues]], [[Wisdom (Sophia/Phronesis)]], [[Courage (Andreia)]], [[Justice (Dikaiosyne)]], [[Temperance (Sophrosyne)]], [[Preferred Indifferents]], [[Dispreferred Indifferents]], [[Arete]], [[Eudaimonia]]
 - Recommended tags: #stoicism #virtue-ethics #moral-philosophy #ethical-framework
 - Connection points: Connect to [[Epistemology]] through wisdom as intellectual virtue; bridge to [[Moral Development]] literature
 
@@ -254,7 +254,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 > [!definition] Learning Objectives
 > - Learn the concrete techniques Stoics used for psychological and behavioral transformation
 > - Develop a personal practice regimen incorporating multiple Stoic exercises
-> - Understand [[Pierre Hadot]]'s concept of philosophy as "spiritual exercises"
+> - Understand [[Pierre-Hadot]]'s concept of philosophy as "spiritual exercises"
 > - Connect ancient practices to contemporary habit formation and behavior change science
 
 **Pedagogical Approach**: Case Studies + Problem-Solving
@@ -262,15 +262,15 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 **Rationale**: This topic is maximally practical. Case studies show how historical Stoics applied these techniques; problem-solving framework helps you design your own practice. This directly addresses your goal of "initiating successful changes in behavior." The techniques here become the *implementation layer* for the philosophy.
 
 **Key Questions to Explore**:
-1. What is [[Premeditatio Malorum]] (negative visualization) and how does it build resilience?
+1. What is [[Premeditatio-Malorum]] (negative visualization) and how does it build resilience?
 2. How did Marcus Aurelius use [[Philosophical Journaling]] for self-examination?
 3. What is the [[View from Above]] and how does it shift perspective?
 4. How can morning preparation and evening review become systematic practices?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Premeditatio Malorum]], [[Memento Mori]], [[View from Above]], [[Philosophical Journaling]], [[Morning Meditation (Stoic)]], [[Evening Review (Stoic)]], [[Pierre Hadot]], [[Spiritual Exercises]], [[Askēsis]]
+- Core concepts to wiki-link: [[Premeditatio-Malorum]], [[Memento Mori]], [[View from Above]], [[Philosophical Journaling]], [[Morning Meditation (Stoic)]], [[Evening Review (Stoic)]], [[Pierre-Hadot]], [[Spiritual Exercises]], [[Askēsis]]
 - Recommended tags: #stoicism #practice #spiritual-exercises #habit-formation #self-improvement
-- Connection points: Connect to [[Behavior Change]] literature; bridge to [[Habit Formation]] science; link to your PKB daily practice routines
+- Connection points: Connect to [[Behavior Change]] literature; bridge to [[Habit-Formation]] science; link to your PKB daily practice routines
 
 **Prerequisites**: Topics 1-4 (practices are meaningful only with theoretical grounding)
 
@@ -279,7 +279,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 ### Topic 6: Stoicism & Cognitive-Behavioral Connections
 
 > [!definition] Learning Objectives
-> - Understand the historical connection between Stoicism and [[Cognitive-Behavioral Therapy]]
+> - Understand the historical connection between Stoicism and [[Cognitive-Behavioral-Therapy]]
 > - Identify specific Stoic techniques that map onto CBT interventions
 > - Evaluate the empirical evidence for Stoic-derived practices
 > - Recognize the modern Stoicism movement and its contributions
@@ -295,9 +295,9 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. Where do Stoicism and CBT diverge in their goals and methods?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Cognitive-Behavioral Therapy]], [[Albert Ellis]], [[Aaron Beck]], [[REBT]], [[Cognitive Restructuring]], [[ABC Model (CBT)]], [[Modern Stoicism]], [[Stoic Week]], [[Donald Robertson]]
+- Core concepts to wiki-link: [[Cognitive-Behavioral-Therapy]], [[Albert Ellis]], [[Aaron Beck]], [[REBT]], [[Cognitive Restructuring]], [[ABC Model (CBT)]], [[Modern Stoicism]], [[Stoic Week]], [[Donald Robertson]]
 - Recommended tags: #stoicism #cbt #psychology #evidence-based #emotional-regulation
-- Connection points: Strong bridge to [[Cognitive Science]]; connect to [[Emotional Regulation]] research; potential link to [[Self-Determination Theory]] autonomy support
+- Connection points: Strong bridge to [[Cognitive-Science]]; connect to [[Emotional Regulation]] research; potential link to [[Self-Determination-Theory]] autonomy support
 
 **Prerequisites**: Topics 1-5 (understanding of Stoic practices to compare with CBT techniques)
 
@@ -307,7 +307,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 
 > [!definition] Learning Objectives
 > - Understand the Stoic theory of knowledge: [[Impressions (Phantasiai)]], [[Assent (Synkatathesis)]], and [[Katalepsis]]
-> - Articulate the Stoic concept of [[Epistemic Virtue]] and intellectual character
+> - Articulate the Stoic concept of [[Epistemic-Virtue]] and intellectual character
 > - Apply Stoic epistemology to contemporary questions of belief formation and revision
 > - Connect Stoic epistemic practices to your goal of "epistemic accountability"
 
@@ -322,7 +322,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. How can Stoic epistemology inform contemporary practices of intellectual humility and belief revision?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Phantasia (Impression)]], [[Synkatathesis (Assent)]], [[Katalepsis (Comprehension)]], [[Epistemic Virtue]], [[Intellectual Humility]], [[Epoche]], [[Dogmatism vs Skepticism]], [[Belief Revision]]
+- Core concepts to wiki-link: [[Phantasia (Impression)]], [[Synkatathesis (Assent)]], [[Katalepsis (Comprehension)]], [[Epistemic-Virtue]], [[Intellectual-Humility]], [[Epoche]], [[Dogmatism vs Skepticism]], [[Belief-Revision]]
 - Recommended tags: #stoicism #epistemology #epistemic-virtue #belief-formation #intellectual-humility
 - Connection points: Direct bridge to your [[Epistemology]] MOC; connect to [[Metacognition]] through monitoring of belief states
 
@@ -333,7 +333,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 ### Topic 8: Synthesizing Stoicism with Metacognition & Lifelong Learning
 
 > [!definition] Learning Objectives
-> - Integrate Stoic philosophy with [[Metacognitive Knowledge]] and [[Metacognitive Regulation]]
+> - Integrate Stoic philosophy with [[Metacognitive-Knowledge]] and [[Metacognitive-Regulation]]
 > - Develop a coherent framework for Stoic-informed professional identity as knowledge seeker
 > - Create practical systems for ongoing Stoic-metacognitive practice
 > - Articulate your personal philosophical stance on lifelong learning
@@ -349,9 +349,9 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 4. What systematic practices can sustain Stoic-metacognitive development over a lifetime?
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Metacognition]], [[Metacognitive Knowledge]], [[Metacognitive Regulation]], [[Epistemic Accountability]], [[Lifelong Learning]], [[Self-Directed Learning]], [[Reflective Practice]], [[Professional Identity Development]]
+- Core concepts to wiki-link: [[Metacognition]], [[Metacognitive-Knowledge]], [[Metacognitive-Regulation]], [[Epistemic Accountability]], [[Lifelong-learning]], [[Self-Directed-Learning]], [[Reflective-Practice]], [[Professional Identity Development]]
 - Recommended tags: #stoicism #metacognition #lifelong-learning #synthesis #professional-development #integration
-- Connection points: Integrate with [[Self-Determination Theory]] autonomy and competence; connect to [[Personal Knowledge Management]] philosophy; bridge to your larger [[PKB Architecture]]
+- Connection points: Integrate with [[Self-Determination-Theory]] autonomy and competence; connect to [[Personal-Knowledge-Management]] philosophy; bridge to your larger [[PKB Architecture]]
 
 **Prerequisites**: Topics 1-7 (this is the synthesis topic requiring all prior knowledge)
 
@@ -367,10 +367,10 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 3. [[MOC - Epistemic Accountability]] - Framework linking Stoic epistemology to metacognition and intellectual virtue
 
 **Cross-Domain Connections**:
-- Link extensively to existing [[Self-Determination Theory]] notes—the Stoic concept of autonomy ([[Prohairesis]]) parallels SDT autonomy satisfaction
-- Bridge with [[Cognitive Science]] through Stoic psychology and CBT connections
+- Link extensively to existing [[Self-Determination-Theory]] notes—the Stoic concept of autonomy ([[Prohairesis]]) parallels SDT autonomy satisfaction
+- Bridge with [[Cognitive-Science]] through Stoic psychology and CBT connections
 - Connect to [[Metacognition]] literature through epistemic monitoring practices
-- Synthesize with any existing [[Behavior Change]] or [[Habit Formation]] notes
+- Synthesize with any existing [[Behavior Change]] or [[Habit-Formation]] notes
 
 **Metadata Architecture**:
 - Tag hierarchy: #stoicism/history, #stoicism/doctrine, #stoicism/practice, #stoicism/epistemology, #stoicism/modern
@@ -382,7 +382,7 @@ Connect Stoicism to your specific goals around epistemology, metacognition, and 
 ## 📅 Suggested Timeline & Milestones
 
 > [!helpful-tip] Cognitive Load Management
-> This timeline incorporates [[Spaced Repetition]] principles and allows consolidation time between phases. Each phase ends with a synthesis activity (journaling, practice implementation, or integration exercise) before proceeding.
+> This timeline incorporates [[Spaced-Repetition]] principles and allows consolidation time between phases. Each phase ends with a synthesis activity (journaling, practice implementation, or integration exercise) before proceeding.
 
 | Phase | Duration | Topics Covered | Milestone |
 |-------|----------|----------------|-----------|
@@ -1186,7 +1186,7 @@ After completing Topics 7-8, ask yourself: *Can I articulate my personal philoso
    - *Depth Potential*: Significant—Pragmatism offers different answers to similar questions about belief, action, and growth
    - *Knowledge Graph Role*: Creates second node in [[Practical Philosophy]] cluster; enables comparative analysis
 
-2. **[[Virtue Epistemology]]**
+2. **[[Virtue-Epistemology]]**
    - *Connection*: Contemporary philosophical movement explicitly developing the idea of intellectual virtues that Stoics pioneered
    - *Depth Potential*: High—connects Stoic epistemology to current academic discourse
    - *Knowledge Graph Role*: Bridges ancient and contemporary epistemology; strengthens [[Epistemic Accountability]] framework

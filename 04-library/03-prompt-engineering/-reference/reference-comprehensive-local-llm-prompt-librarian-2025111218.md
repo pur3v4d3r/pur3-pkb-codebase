@@ -45,11 +45,11 @@ aliases: [Local LLM Component Librarian, Obsidian LLM Integration, Self-Hosted P
 
 > [!abstract]
 > **Executive Overview**
-> This comprehensive reference document establishes a complete framework for implementing a Local LLM-based [[Prompt Component Librarian]] system within an [[obsidian]] [[PKB]] environment. Unlike cloud-dependent solutions, this architecture prioritizes data sovereignty, [[Privacy]], and unlimited processing capacity through local inference on high-performance hardware. The system leverages [[Ollama]], [[RAG]] (Retrieval-Augmented Generation), and specialized [[Obsidian Community Plugins]] to create an intelligent, context-aware component management system that rivals cloud-based solutions while maintaining complete user control.
+> This comprehensive reference document establishes a complete framework for implementing a Local LLM-based [[Prompt Component Librarian]] system within an [[Obsidian]] [[PKB]] environment. Unlike cloud-dependent solutions, this architecture prioritizes data sovereignty, [[Privacy]], and unlimited processing capacity through local inference on high-performance hardware. The system leverages [[Ollama]], [[RAG]] (Retrieval-Augmented Generation), and specialized [[Obsidian Community Plugins]] to create an intelligent, context-aware component management system that rivals cloud-based solutions while maintaining complete user control.
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 10 major sections covering conceptual foundations, technical feasibility, implementation architecture, and operational best practices. Use the table of contents below for quick navigation, or search for specific terms using [[Wiki-Links]]. Sections 1-3 establish the conceptual framework and hardware assessment, Sections 4-7 detail implementation specifics, and Sections 8-10 provide optimization strategies and comparative analysis.
+> This reference note is organized into 10 major sections covering conceptual foundations, technical feasibility, implementation architecture, and operational best practices. Use the table of contents below for quick navigation, or search for specific terms using [[wiki-links]]. Sections 1-3 establish the conceptual framework and hardware assessment, Sections 4-7 detail implementation specifics, and Sections 8-10 provide optimization strategies and comparative analysis.
 
 ## 📑 Table of Contents
 
@@ -69,7 +69,7 @@ aliases: [Local LLM Component Librarian, Obsidian LLM Integration, Self-Hosted P
 ## 1️⃣ Conceptual Foundation: Local LLM as Component Librarian
 
 > [!definition]
-> - **Local LLM Component Librarian**: A self-hosted [[Artificial Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal Knowledge Base]], operating entirely on local hardware without external API dependencies.
+> - **Local LLM Component Librarian**: A self-hosted [[Artificial Intelligence]] system that manages, retrieves, analyzes, and synthesizes [[Prompt Components]] within a [[Personal-Knowledge-Base]], operating entirely on local hardware without external API dependencies.
 > - **Core Function**: Semantic search, component recommendation, composition assistance, and metadata enrichment for prompt engineering artifacts.
 
 ### The Paradigm Shift: From Cloud to Edge
@@ -155,7 +155,7 @@ The RTX 4090 features 24GB of GDDR6X VRAM with 1010 GB/s memory bandwidth, makin
 Your processor provides critical support for:
 - **System Memory Management**: Handling OS overhead while LLM runs on GPU
 - **[[Embedding]] Generation**: CPU-based embedding models for [[RAG]] preprocessing
-- **Parallel Operations**: Managing [[obsidian]] plugin operations, file indexing, and vector database queries simultaneously
+- **Parallel Operations**: Managing [[Obsidian]] plugin operations, file indexing, and vector database queries simultaneously
 - **Fallback Computation**: If models exceed VRAM, CPU can handle partial offloading (though this significantly reduces performance)
 
 #### RAM: 32GB DDR5
@@ -173,7 +173,7 @@ For 7B models, 8GB RAM is minimum with 16GB recommended; 30B+ models benefit fro
 - **Model Storage**: 70B models can exceed 40GB, while 7B models typically occupy 4-8GB depending on quantization
 - **Vector Database**: Embedding indices can grow to several GB for large vaults
 - **Fast Model Loading**: NVMe speeds (3000-7000 MB/s) enable rapid model swapping
-- **Vault Synchronization**: Quick file system operations for [[obsidian]] vault updates
+- **Vault Synchronization**: Quick file system operations for [[Obsidian]] vault updates
 
 > [!quick-reference]
 > **Hardware Capability Matrix**
@@ -266,7 +266,7 @@ High-performance embedding models are essential for RAG systems. Mainstream mult
 **Nomic-Embed-Text v1.5**
 - **Quantization**: `nomic-embed-text:latest`
 - **VRAM**: ~0.5 GB
-- **Strengths**: Fast, accurate, optimized for [[Semantic Search]]
+- **Strengths**: Fast, accurate, optimized for [[Semantic-Search]]
 - **Use Cases**: Component indexing, query embedding, similarity calculation
 - **Performance**: Millisecond-scale embedding generation
 
@@ -2671,7 +2671,7 @@ I need to search for:
 5. Performance benchmarks for LLMs on RTX 4090
 
 **WIKI-LINK OPPORTUNITIES:**
-[[Local LLM]], [[Ollama]], [[Obsidian]], [[Smart Connections]], [[Text Generator Plugin]], [[Copilot Plugin]], [[Prompt Engineering]], [[Component Library]], [[RAG]] (Retrieval Augmented Generation), [[Vector Database]], [[Embedding Models]], [[Context Window]], [[Quantization]], [[GGUF Format]], [[Model Architecture]], [[Inference Speed]], [[Token Throughput]], [[System Architecture]], [[Plugin Ecosystem]], [[PKB]], [[Zettelkasten]], [[Knowledge Graph]]
+[[Local LLM]], [[Ollama]], [[Obsidian]], [[Smart-Connections]], [[Text-Generator-Plugin]], [[Copilot Plugin]], [[Prompt-Engineering]], [[Component Library]], [[RAG]] (Retrieval Augmented Generation), [[Vector Database]], [[Embedding Models]], [[Context-Window]], [[Quantization]], [[GGUF Format]], [[Model Architecture]], [[Inference Speed]], [[Token Throughput]], [[System Architecture]], [[Plugin Ecosystem]], [[PKB]], [[Zettelkasten]], [[Knowledge-Graph]]
 
 **CALLOUT STRATEGY:**
 - [!abstract] - Executive overview

@@ -331,12 +331,12 @@ Successfully developed **Advanced Cognitive Brainstorming System v2.0.0** - a pr
 #### Wiki-Link Integration
 
 **Implemented Throughout:**
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts]]
 - [[Self-Consistency]]
 - [[Chain of Verification]]
-- [[Extended Thinking Architecture]]
+- [[Extended-Thinking-Architecture]]
 - [[BFS]] and [[DFS]]
-- [[Chain of Thought]]
+- [[Chain-of-Thought]]
 - [[Metacognition]]
 - And 50+ more...
 

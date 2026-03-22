@@ -308,7 +308,7 @@ WHERE contains(rows.L.children.dataCommands, this.file.link)
 >```
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: 
@@ -512,7 +512,7 @@ WHERE contains(rows.L.children.dataCommands, this.file.link)
 >```
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[TABLE]], [[WHERE]], [[FLATTEN]], [[GROUP BY]]
   - functions:: [[filter]], [[flat]], [[contains]], [[embed]]
   - tags:: #dataview #query-patterns #self-referential
@@ -678,7 +678,7 @@ SORT "Count" DESC
 ### Query Metadata
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP BY]], [[SORT]]
   - functions:: [[length]]
   - tags:: #books #library-management #genre-analysis
@@ -735,7 +735,7 @@ SORT progress DESC
 ### Query Metadata
 
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[WHERE]], [[SORT]]
   - functions:: [[round]]
   - tags:: #reading-tracker #productivity #progress-monitoring
@@ -793,8 +793,8 @@ The query should now display something like:
 
 | Sections | Metadata | Image |
 |----------|----------|-------|
-| Query 1: Books by Genre with Counts | QueryType:: [[dql]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[GROUP BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
-| Query 2: Reading Progress Dashboard | QueryType:: [[dql]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[where]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[round]] | |
+| Query 1: Books by Genre with Counts | QueryType:: [[DQL]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[GROUP BY]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[length]] | |
+| Query 2: Reading Progress Dashboard | QueryType:: [[DQL]]<br>dataCommands:: [[table]], [[from]], [[flatten]], [[where]], [[04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-pkb-examples/knowledge/001-dataview/dql/data-commands/sort]]<br>functions:: [[round]] | |
 
 > [!attention]
 > If you see "No results", troubleshoot:
@@ -884,7 +884,7 @@ Now update `Book Library Queries.md` to reference GROUP BY:
 
 ```markdown
 - Query meta
-  - QueryType:: [[dql]]
+  - QueryType:: [[DQL]]
   - dataCommands:: [[TABLE]], [[FROM]], [[FLATTEN]], [[GROUP BY]], [[SORT]]
   - functions:: [[length]]
 ```
@@ -1071,7 +1071,7 @@ By completing this implementation guide, you have:
 **Long-term (Next Quarter):**
 1. Integrate [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] for concept review
 2. Develop [[AI-Assisted]] query generation workflows
-3. Create visual [[Knowledge Graph]] dashboards using Dataview + Charts plugin
+3. Create visual [[Knowledge-Graph]] dashboards using Dataview + Charts plugin
 
 ---
 
@@ -1083,7 +1083,7 @@ By completing this implementation guide, you have:
 1. Check if target notes exist
 2. Verify "Query meta" list structure is exact
 3. Ensure inline field syntax: `field:: value` (two colons)
-4. Confirm links are formatted correctly: `[[Note Name]]`
+4. Confirm links are formatted correctly: `[[Note-Name]]`
 5. Test query in isolation on a simple note
 
 **Solution Template:**
@@ -1143,7 +1143,7 @@ This simplified query shows ALL notes with Query meta sections.
 ### Related PKB Concepts
 - [[Zettelkasten Methodology]]
 - [[MOC (Maps of Content) Design]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization]]
 - [[Building a Second Brain]]
 
 ---

@@ -15,8 +15,8 @@ aliases:
   - Metacognitive Control
 link-up: "[[🧠Report_A-Comprehensive-Analysis-of-Metacognition-as-the-Central-Integrating-Mechanism-for-Personal-Development_🆔20251028024951]]"
 link-related:
-  - "[[Metacognitive Regulation]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[Metacognitive-Regulation]]"
+  - "[[Metacognitive-Monitoring]]"
   - "[[Constructivist Learning]]"
 date created: 2025-11-04T03:49:24
 date modified: 2025-11-05T21:48:00
@@ -33,5 +33,5 @@ review-priority: medium
 ---
 
 > [!definition]
-> [[Metacognitive Control]]
-> - **Definition**: The [[Metacognitive Regulation |regulation]] of *cognitive processes* based on [[Metacognitive Monitoring]].
+> [[Metacognitive-Control]]
+> - **Definition**: The [[Metacognitive Regulation |regulation]] of *cognitive processes* based on [[Metacognitive-Monitoring]].

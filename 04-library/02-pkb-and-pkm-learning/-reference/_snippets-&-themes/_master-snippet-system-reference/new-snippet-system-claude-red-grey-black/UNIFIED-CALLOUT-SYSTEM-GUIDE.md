@@ -940,8 +940,8 @@ body.callout-variant-terminal .callout::before {
 # 📝 Research Note Structure
 
 > [!overview] Document Overview
-> This note analyzes [[Cognitive Load Theory]] applications in
-> [[Personal Knowledge Management]] systems.
+> This note analyzes [[Cognitive-Load-Theory]] applications in
+> [[Personal-Knowledge-Management]] systems.
 
 > [!key-claim] Primary Argument
 > Effective PKM design requires deliberate [[Cognitive-Load]] management

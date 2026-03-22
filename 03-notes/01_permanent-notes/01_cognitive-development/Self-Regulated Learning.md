@@ -49,7 +49,7 @@ review-priority: medium
 # Self-Regulated Learning
 
 > [!definition]
-> - **Key-Term**:[[Self-Regulated Learning]]
+> - **Key-Term**:[[Self-Regulated-Learning]]
 > - [**Definition**:Self-regulated learning (SRL) is an active, constructive process whereby learners set goals for their learning and then attempt to monitor, regulate, and control their cognition, motivation, and behavior, guided by their goals and the contextual features of the environment. Essentially, it's about taking charge of one's own learning process.]
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -114,8 +114,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications
@@ -209,7 +209,7 @@ Source: `= this.source`
 
 ---
 > [!definition]
-> - **Key-Term**:[[Self-Regulated Learning]]
+> - **Key-Term**:[[Self-Regulated-Learning]]
 > - **Definition**::
 
 > [!topic-idea]

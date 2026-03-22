@@ -141,9 +141,9 @@ OPTIMIZATION: Claude Sonnet 4.5 (Claude Projects)
 
 <identity>
 You are the **Research Curriculum Architect** - a specialized system combining expertise in:
-- [[Cognitive Science]] and evidence-based learning theory
-- [[Instructional Design]] and curriculum development
-- [[Personal Knowledge Management]] (PKM) and [[Personal Knowledge Base]] (PKB) architecture
+- [[Cognitive-Science]] and evidence-based learning theory
+- [[Instructional-Design]] and curriculum development
+- [[Personal-Knowledge-Management]] (PKM) and [[Personal-Knowledge-Base]] (PKB) architecture
 - Academic research methodology and literature navigation
 - [[Andragogy]] (adult learning principles) and self-directed learning design
 
@@ -326,7 +326,7 @@ aliases: [Descriptive Alias, Topic Focus Area]
 3. [Question 3]
 
 **PKB Capture Strategy**:
-- Core concepts to wiki-link: [[Concept 1]], [[Concept 2]], [[Concept 3]]
+- Core concepts to wiki-link: [[Concept-1]], [[Concept-2]], [[Concept 3]]
 - Recommended tags: #tag1 #tag2
 - Connection points: [How this links to existing knowledge]
 
@@ -361,7 +361,7 @@ aliases: [Descriptive Alias, Topic Focus Area]
 ## 📅 Suggested Timeline & Milestones
 
 > [!helpful-tip] Cognitive Load Management
-> This timeline respects [[Spaced Repetition]] principles and allows for consolidation between topics.
+> This timeline respects [[Spaced-Repetition]] principles and allows for consolidation between topics.
 
 | Phase | Duration | Topics Covered | Milestone |
 |-------|----------|----------------|-----------|

@@ -70,7 +70,7 @@ builds_on:
 
 #### 1.1 Knowledge Representation
 
-- **[[Schema Theory]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Schema-Theory]]** — Knowledge is organized in structured mental templates (schemas) that filter, organize, and reconstruct incoming information. Schemas are hierarchically nested, contextually activated, and resistant to disconfirming evidence. [Source: Report 01] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Assimilation]] — Integrating new information into existing schemas without structural change [Report 03]
   - [[Accommodation]] — Restructuring existing schemas to incorporate fundamentally new information [Report 03]
   - [[Conceptual-Change]] — Deep restructuring of domain-level schemas, requiring sustained cognitive conflict [Report 03]
@@ -84,10 +84,10 @@ builds_on:
 
 #### 1.2 Memory Systems
 
-- **[[Cognitive Load Theory]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Intrinsic Load]] — Cognitive demand inherent in the material's element interactivity [Report 02]
-  - [[Extraneous Load]] — Cognitive demand caused by poor design, not content complexity [Report 02]
-  - [[Germane Load]] — Cognitive resources devoted to schema construction and automation [Report 02]
+- **[[Cognitive-Load-Theory]]** — Working memory is limited (~4 chunks); instructional design must manage intrinsic load (inherent complexity), minimize extraneous load (poor design), and optimize germane load (schema construction effort). [Source: Report 02, Sweller 1988] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[Intrinsic-Load]] — Cognitive demand inherent in the material's element interactivity [Report 02]
+  - [[Extraneous-Load]] — Cognitive demand caused by poor design, not content complexity [Report 02]
+  - [[Germane-Load]] — Cognitive resources devoted to schema construction and automation [Report 02]
 
 - **[[Testing-Effect]]** — Retrieving information from memory strengthens that memory more than restudying the same information. Meta-analytic effect size d = 0.50 (Rowland 2014). [Source: Report 06, 20] [Status: <span style='color: #27FF00;'>Established</span>]
 
@@ -116,15 +116,15 @@ builds_on:
 - **[[Constructivism]]** — Knowledge is actively constructed by the learner through interaction with the environment, not passively received or transmitted. [Source: Report 03] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Cognitive Constructivism]] — Individual construction through schema development (Piaget) [Report 03]
   - [[Social-Constructivism]] — Knowledge co-constructed through social interaction (Vygotsky) [Report 03]
-  - [[Zone of Proximal Development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
+  - [[Zone-of-Proximal-Development]] — The gap between independent capability and guided capability; learning optimally targets this zone [Vygotsky, Report 10]
 
 - **[[Scaffolding and Fading]]** — Providing structured support that is systematically withdrawn as competence develops. [Source: Report 10] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Expertise-Reversal-Effect]] — Instructional support beneficial for novices becomes counterproductive for experts [Report 10]
 
 #### 2.2 Self-Regulation & Metacognition
 
-- **[[Self-Regulated Learning]]** — Three-phase cyclical process: forethought → performance → self-reflection, operating across cognitive, metacognitive, motivational, and behavioral dimensions. [Source: Report 04, Zimmerman 2002] [Status: <span style='color: #27FF00;'>Established</span>]
-  - [[Metacognitive Monitoring]] — Ongoing assessment of one's own comprehension, learning progress, and cognitive processes [Report 12]
+- **[[Self-Regulated-Learning]]** — Three-phase cyclical process: forethought → performance → self-reflection, operating across cognitive, metacognitive, motivational, and behavioral dimensions. [Source: Report 04, Zimmerman 2002] [Status: <span style='color: #27FF00;'>Established</span>]
+  - [[Metacognitive-Monitoring]] — Ongoing assessment of one's own comprehension, learning progress, and cognitive processes [Report 12]
   - [[Calibration]] — Alignment between confidence in one's knowledge and actual knowledge accuracy [Report 18]
   - [[Dunning-Kruger-Effect]] — Systematic miscalibration where low competence produces overconfidence and high competence produces underconfidence [Report 18]
 
@@ -134,7 +134,7 @@ builds_on:
 
 #### 2.3 Motivation & Self-Determination
 
-- **[[Self-Determination Theory]]** — Intrinsic motivation requires satisfaction of three basic psychological needs: autonomy, competence, and relatedness. [Source: Report 05, Deci & Ryan] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Self-Determination-Theory]]** — Intrinsic motivation requires satisfaction of three basic psychological needs: autonomy, competence, and relatedness. [Source: Report 05, Deci & Ryan] [Status: <span style='color: #27FF00;'>Established</span>]
   - [[Autonomy]] — Need for volitional control over one's actions and choices [Report 05, 24]
   - [[Competence]] — Need for efficacy and mastery [Report 05]
   - [[Relatedness]] — Need for social connection and belonging [Report 05]
@@ -216,7 +216,7 @@ builds_on:
 
 #### 5.1 Epistemology
 
-- **[[Extended Mind Theory]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
+- **[[Extended-Mind-Theory]]** — Cognitive processes extend beyond the brain when external structures (like a PKB) meet coupling conditions: reliability, accessibility, automatic endorsement, prior endorsement. [Source: Report 28, Clark & Chalmers 1998] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
 - **[[Virtue-Epistemology]]** — Knowledge production as exercise of intellectual virtues: curiosity, humility, thoroughness, fairness, courage. [Source: Report 28, 29] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
@@ -224,7 +224,7 @@ builds_on:
 
 #### 5.2 Educational Philosophy
 
-- **[[Socratic Method]]** — Knowledge emerges through structured questioning that surfaces contradictions and builds understanding through dialogue. [[Aporia]] (productive confusion) precedes insight. [Source: Report 14, 21] [Status: <span style='color: #27FF00;'>Established</span>]
+- **[[Socratic-Method]]** — Knowledge emerges through structured questioning that surfaces contradictions and builds understanding through dialogue. [[Aporia]] (productive confusion) precedes insight. [Source: Report 14, 21] [Status: <span style='color: #27FF00;'>Established</span>]
 
 - **[[Pragmatist-Epistemology]]** — Knowledge is warranted assertion tested through consequences in practice, not correspondence to abstract truth. [Source: Report 28, Dewey/James/Peirce] [Status: <span style='color: #27FF00;'>Established (philosophical)</span>]
 
@@ -236,15 +236,15 @@ builds_on:
 
 | Concept A | Relationship | Concept B | Strength | Source |
 |-----------|-------------|-----------|----------|--------|
-| [[Schema Theory]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
+| [[Schema-Theory]] | *provides architecture for* | [[Cognitive Architecture Isomorphism]] | Strong | R01→R09 |
 | [[Desirable-Difficulties]] | *provides mechanism for* | [[Active-Construction-Imperative]] | Strong | R16→R27 |
-| [[Self-Regulated Learning]] | *operationalized as* | [[Regulatory Embedding]] | Strong | R04→R27 |
+| [[Self-Regulated-Learning]] | *operationalized as* | [[Regulatory Embedding]] | Strong | R04→R27 |
 | [[Testing-Effect]] | *implements* | [[Retrieval-Practice]] | Strong | R06→R20 |
 | [[Fluency-Illusion]] | *amplified by* | [[Epistemic Counterfeiting]] | Strong | R18→R30 |
 | [[Fluency-Illusion]] | *countered by* | [[Calibration]] | Strong | R18 |
 | [[Small-World-Networks]] | *diagnoses* | [[Accumulation Problem]] | Strong | R25 |
 | [[Faceted-Classification]] | *converges with* | [[Basic-Level-Categories]] | Moderate | R15 |
-| [[Heutagogy]] | *extends* | [[Self-Determination Theory]] | Moderate | R24→R05 |
+| [[Heutagogy]] | *extends* | [[Self-Determination-Theory]] | Moderate | R24→R05 |
 | [[Scaffolding and Fading]] | *resolves* | Structure vs. Autonomy Tension | Moderate | R10 |
 | [[Cognitive Partnership Model]] | *operationalizes* | [[Offloading Quality Distinction]] | Moderate | R30 |
 | [[SECI-Model]] | *maps onto* | Capture-Process-Integrate pipeline | Moderate | R22→R09 |
@@ -253,7 +253,7 @@ builds_on:
 | [[Integration-Metabolism]] | *addresses* | [[Accumulation Problem]] | Strong | R27→R25 |
 | [[Spreading-Activation]] | *maps to* | Wiki-link navigation patterns | Strong | R01→R09 |
 | [[Stoic Discipline]] | *supports persistence through* | [[Desirable-Difficulties]] | Suggestive | R13→R16 |
-| [[Extended Mind Theory]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
+| [[Extended-Mind-Theory]] | *grounds* | PKB as cognitive extension | Moderate | R28 |
 | [[Interest-Development-Theory]] | *resolves* | Motivational sustainability | Moderate | R19 |
 | [[Expertise-Reversal-Effect]] | *motivates* | [[RP1: Evolutionary Architecture]] | Strong | R10→R27 |
 
@@ -263,7 +263,7 @@ builds_on:
 
 1. **[[Desirable-Difficulties]]** — Connects to: Testing Effect, Spacing Effect, Generation Effect, Interleaving, Fluency Illusion, Active Construction, Constructivism, Cognitive Partnership Model, Stoic Discipline, Note-Making
 2. **[[Fluency-Illusion]]** — Connects to: Calibration, Dunning-Kruger, Epistemic Counterfeiting, Desirable Difficulties, Metacognitive Monitoring, Retrieval Practice, AI Integration
-3. **[[Self-Regulated Learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice, Zimmerman's SRL Cycle
+3. **[[Self-Regulated-Learning]]** — Connects to: Metacognitive Monitoring, Calibration, Regulatory Embedding, Feedback Loops, Reflective Practice, Zimmerman's SRL Cycle
 4. **[[Cognitive Architecture Isomorphism]]** — Connects to: Schema Theory, Semantic Networks, CLT, Expert Knowledge Organization, Information Foraging, SECI Model, Note Architecture, Linking Philosophy
 5. **[[Constructivism]]** — Connects to: Accommodation, Conceptual Change, ZPD, Active Construction, Desirable Difficulties, Note-Making, Elaborative Interrogation
 6. **[[Integrated-Learning-System-Model]]** — Connects to: All Five Convergence Zones, all Twelve Master Principles, Isomorphic External Memory, Constructive Processing Engine, Self-Regulating Adaptive System
@@ -273,7 +273,7 @@ builds_on:
 1. **[[Cognitive Partnership Model]]** — Bridges: AI/Technology ↔ Learning Science ↔ Socratic Philosophy
 2. **[[SECI-Model]]** — Bridges: Knowledge Management ↔ Cognitive Science ↔ PKB Design
 3. **[[Stoic Discipline]]** — Bridges: Philosophy ↔ Emotional Regulation ↔ Learning Resilience
-4. **[[Extended Mind Theory]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
+4. **[[Extended-Mind-Theory]]** — Bridges: Philosophy of Mind ↔ PKB Design ↔ AI Integration
 5. **[[Basic-Level-Categories]]** — Bridges: Cognitive Psychology (Rosch) ↔ Library Science (Ranganathan)
 
 ## Orphan Concepts (Weakly Connected — Needs Integration)

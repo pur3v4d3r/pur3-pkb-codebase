@@ -53,14 +53,14 @@ pipeline_sequence: 1
 # KNOWLEDGE GRAPH POSITIONING
 related_concepts:
   - "[[Markdown Parsing]]"
-  - "[[PKB Automation]]"
+  - "[[PKB-Automation]]"
   - "[[Obsidian Integration]]"
   - "[[Python Scripting]]"
   - "[[JSON Output]]"
   - "[[Dataview Compatibility]]"
-  - "[[YAML Frontmatter]]"
+  - "[[YAML-Frontmatter]]"
   - "[[Extraction Pipeline]]"
-  - "[[Wiki-links]]"
+  - "[[wiki-links]]"
   - "[[Callout Extraction]]"
   - "[[Inline Fields]]"
 

@@ -52,7 +52,7 @@ review-priority: medium
 ---
 
 > [!overview] ### <span style='color: #7200ff;'>Overview</span>
-> - **Title**: [[Cognitive Psychology]]
+> - **Title**: [[Cognitive-Psychology]]
 > - **MOC**: `=this.link-up`
 
 ```dataviewjs

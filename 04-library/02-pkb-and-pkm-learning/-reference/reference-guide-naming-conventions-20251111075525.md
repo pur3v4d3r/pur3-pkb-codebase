@@ -281,7 +281,7 @@ Many PKB practitioners use **visual prefixes** (emojis or symbols) to create sem
 
 ### 🔗 Wiki-Link Best Practices
 
-Obsidian's `[[Wiki-Links]]` are case-sensitive and match on filename (excluding the `.md` extension). This has several implications:
+Obsidian's `[[wiki-links]]` are case-sensitive and match on filename (excluding the `.md` extension). This has several implications:
 
 1. **Unique Filenames Are Critical:** If you have both `Stoicism.md` and `Stoicism_Philosophy.md`, linking to `[[Stoicism]]` might create ambiguity. Obsidian will link to one, but which one depends on factors like folder depth and alphabetical order.
 
@@ -292,7 +292,7 @@ Obsidian's `[[Wiki-Links]]` are case-sensitive and match on filename (excluding 
      - Stoicism Overview
      - Ancient Stoicism
    ```
-   Now `[[Stoic Philosophy]]`, `[[Stoicism Overview]]`, and `[[Ancient Stoicism]]` all resolve to the same note.
+   Now `[[Stoic-Philosophy]]`, `[[Stoicism Overview]]`, and `[[Ancient Stoicism]]` all resolve to the same note.
 
 3. **Folder Paths in Links (Optional):** You can include the folder path in a link: `[[Philosophy/Stoicism]]`. This makes links unambiguous but reduces portability if you reorganize your vault.
 
@@ -303,7 +303,7 @@ Obsidian's `[[Wiki-Links]]` are case-sensitive and match on filename (excluding 
 
 ### ⚡ Dataview Query Optimization
 
-If you use the [[dataview]] plugin for advanced queries, your naming conventions can significantly impact query performance and flexibility.
+If you use the [[Dataview]] plugin for advanced queries, your naming conventions can significantly impact query performance and flexibility.
 
 **Leverage Metadata Over Filenames:**
 Instead of encoding everything in the filename (`Project_Active_2025_ClientX_Strategy.md`), use frontmatter:
@@ -739,9 +739,9 @@ for root, dirs, files in os.walk(vault_path):
 
 > [!related-topics-to-consider]
 > **Prerequisite Knowledge**
-> - `[[Personal Knowledge Management]]` — The broader practice in which naming conventions exist
+> - `[[Personal-Knowledge-Management]]` — The broader practice in which naming conventions exist
 > - `[[Zettelkasten Method]]` — Understanding this methodology clarifies *why* certain naming conventions emerged
-> - `[[Information Architecture]]` — The discipline of organizing information for findability and usability
+> - `[[Information-Architecture]]` — The discipline of organizing information for findability and usability
 > 
 > **Directly Related Topics**
 > - `[[Folder Structure Strategies]]` — How folder organization interacts with naming conventions
@@ -779,9 +779,9 @@ for root, dirs, files in os.walk(vault_path):
 
 ### 🔗 Related Topics for PKB Expansion
 
-* `[[Personal Knowledge Management]]`
+* `[[Personal-Knowledge-Management]]`
 * `[[Zettelkasten Method]]`
-* `[[Information Architecture]]`
+* `[[Information-Architecture]]`
 * `[[PARA Method]]`
 * `[[Linking Your Thinking]]`
 * `[[Obsidian Workflow Optimization]]`

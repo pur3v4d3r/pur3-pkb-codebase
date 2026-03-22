@@ -39,11 +39,11 @@ link-up:
   - "[[psychology-moc]]"
   - "[[pkb-&-pkm-moc]]"
 link-related:
-  - "[[cognitive-load-theory]]"
-  - "[[working-memory]]"
-  - "[[long-term-memory]]"
-  - "[[spaced-repetition]]"
-  - "[[instructional-design]]"
+  - "[[Cognitive-Load-Theory]]"
+  - "[[Working-Memory]]"
+  - "[[Long-Term-Memory]]"
+  - "[[Spaced-Repetition]]"
+  - "[[Instructional-Design]]"
   - "[[learning-theory]]"
 pillars:
   - Memory Architecture & Systems
@@ -141,13 +141,13 @@ dv.paragraph(`**Total Learning & Memory Notes**: ${total}`);
 ### Core Memory Systems
 
 **Working Memory**
-- [[Working Memory]] - Active information maintenance and manipulation
+- [[Working-Memory]] - Active information maintenance and manipulation
   - [**Working-Memory-Capacity**:: the limited amount of information that can be held in conscious awareness and actively processed simultaneously—typically 4±1 chunks in healthy adults, constrained by both storage and processing demands.]
   - [[Long-Term Working Memory]] - Expertise-based capacity expansion
   - [**LTWM-Mechanism**:: skilled individuals develop retrieval structures in long-term memory that function as extensions of working memory, enabling domain experts to effectively bypass capacity limits through rapid access to stored patterns.]
 
 **Long-Term Memory Systems**
-- [[Long-Term Memory]] - Permanent knowledge storage
+- [[Long-Term-Memory]] - Permanent knowledge storage
   - [**LTM-Consolidation**:: the time-dependent process by which newly encoded memories are stabilized and integrated into existing knowledge structures through synaptic changes and systems-level reorganization.]
   - [[Retrospective Memory]] - Past event recall
   - [**Episodic-vs-Semantic**:: episodic memory stores personally experienced events with spatiotemporal context, while semantic memory contains decontextualized factual knowledge—both forms of declarative long-term memory but with distinct phenomenology and neural substrates.]
@@ -183,17 +183,17 @@ LIMIT 10
 ### The Three-Load Model
 
 **Intrinsic Load**
-- [[Intrinsic Load]] - Task-inherent complexity
+- [[Intrinsic-Load]] - Task-inherent complexity
   - [**Element-Interactivity**:: the degree to which components of learning material must be processed simultaneously to be understood—high element interactivity creates high intrinsic load that cannot be reduced, only managed through sequencing and prerequisite mastery.]
   - [**Intrinsic-Load-Management**:: strategies include: chunking information, teaching prerequisites first, using worked examples for complex tasks, and breaking problems into subgoals to reduce simultaneous processing demands.]
 
 **Extraneous Load**
-- [[Extraneous Load]] - Design-imposed cognitive burden
+- [[Extraneous-Load]] - Design-imposed cognitive burden
   - [**Extraneous-Load-Sources**:: unnecessary cognitive processing caused by poor instructional design, including: split-attention effects (separated text and diagrams), redundancy (duplicate information), unclear organization, excessive search demands, and confusing presentation formats.]
   - [**Extraneous-Load-Reduction**:: eliminate redundant information, integrate text with visuals, use signaling to highlight organization, provide clear hierarchies, remove decorative elements, and optimize modality (spoken text with visuals to leverage dual channels).]
 
 **Germane Load**
-- [[Germane Load]] - Schema construction effort
+- [[Germane-Load]] - Schema construction effort
   - [**Germane-Load-Definition**:: the productive cognitive processing devoted to building, organizing, and automating knowledge structures (schemas)—this is the "good" load that directly contributes to learning and should be maximized within working memory limits.]
   - [**Schema-Building-Strategies**:: self-explanation, elaborative interrogation, concept mapping, analogy generation, interleaving different problem types, and retrieval practice—all activities that promote deep processing and knowledge organization.]
 
@@ -236,11 +236,11 @@ LIMIT 8
   - [**Constructivist-Principles**:: learners actively build knowledge rather than passively receiving it, with learning optimized when connecting new information to existing schemas through elaboration, organization, and metacognitive reflection.]
 
 **Educational Psychology Integration**
-- [[Educational Psychology]] - Applied learning science
+- [[Educational-Psychology]] - Applied learning science
   - [**Educational-Psychology-Scope**:: the scientific study of learning in educational contexts, integrating cognitive psychology, developmental psychology, and social psychology to understand individual differences, motivation, classroom dynamics, and effective pedagogy.]
 
 **Instructional Design**
-- [[Instructional Design]] - Systematic learning design
+- [[Instructional-Design]] - Systematic learning design
   - [**ADDIE-Model**:: the foundational instructional design framework: Analysis (needs assessment), Design (learning objectives), Development (materials creation), Implementation (delivery), Evaluation (effectiveness assessment).]
   - [**Backward-Design-Principle**:: start with desired learning outcomes, then design assessments that measure those outcomes, finally create instruction that prepares learners for the assessments—ensuring alignment between goals, assessment, and instruction.]
 
@@ -269,7 +269,7 @@ LIMIT 10
 ### Retrieval-Based Learning
 
 **Spaced Repetition**
-- [[Spaced Repetition]] - Optimal review scheduling
+- [[Spaced-Repetition]] - Optimal review scheduling
   - [**Spacing-Effect-Mechanism**:: distributed practice produces superior long-term retention compared to massed practice because: (1) retrieval becomes more effortful with spacing, strengthening memory, (2) varied contextual encoding occurs, and (3) consolidation processes have time to stabilize memories.]
   - [**Optimal-Spacing-Algorithm**:: intervals should expand (1 day, 3 days, 7 days, 14 days, etc.) based on retrieval success—Leitner system and SM-2 algorithm formalize this principle in spaced repetition software.]
 
@@ -280,7 +280,7 @@ LIMIT 10
 ### Organization & Encoding Strategies
 
 **Progressive Summarization**
-- [[Progressive Summarization]] - Layered compression technique
+- [[Progressive-Summarization]] - Layered compression technique
   - [**Progressive-Summarization-Method**:: a multi-pass note-taking approach where each review adds a layer of highlighting/bolding to emphasize key points—leverages levels of processing and reduces extraneous load in future reviews.]
   - [**PS-Application-Context**:: most effective for reference material, literature notes, and technical documentation where future retrieval is prioritized over initial deep processing—complements rather than replaces elaborative encoding.]
 
@@ -291,9 +291,9 @@ LIMIT 10
 ### Deliberate Practice Framework
 
 **Habit Formation**
-- [[Habit Formation]] - Behavioral automaticity development
+- [[Habit-Formation]] - Behavioral automaticity development
   - [**Habit-Loop-Model**:: habits form through repetition of cue → routine → reward cycles, with neural efficiency increasing through basal ganglia involvement—typically requiring 60-90 days for complex behavioral patterns.]
-  - [[Deliberate Practice]] - Skill acquisition through focused rehearsal
+  - [[Deliberate-Practice]] - Skill acquisition through focused rehearsal
     - [**Deliberate-Practice-Components**:: (1) clear performance goals, (2) focused attention on technique, (3) immediate feedback, (4) practice at the edge of current ability, (5) sufficient repetition for automaticity—Ericsson's framework for expertise development.]
   - [[Pomodoro Technique]] - Time-boxed focus method
     - [**Pomodoro-Cognitive-Rationale**:: 25-minute work intervals prevent mental fatigue, maintain high germane load, and leverage the psychological benefits of deadlines—with breaks supporting memory consolidation.]
@@ -440,32 +440,32 @@ if (bridges.length > 0) {
 ### Known Integration Points
 
 **Learning & Memory ↔ Cognitive Science**
-- [[Working Memory]] ↔ [[Cognitive Architecture]] (structural foundations)
-- [[Cognitive Load Theory]] ↔ [[Attention]] (capacity constraints)
-- [[Long-Term Memory]] ↔ [[Distributed Cognition]] (extended memory systems)
+- [[Working-Memory]] ↔ [[Cognitive-Architecture]] (structural foundations)
+- [[Cognitive-Load-Theory]] ↔ [[Attention]] (capacity constraints)
+- [[Long-Term-Memory]] ↔ [[Distributed-Cognition]] (extended memory systems)
 - [[Retrieval-Practice]] ↔ [[Metacognition]] (monitoring accuracy)
 
 **Learning & Memory ↔ Neuroscience**
-- [[Long-Term Memory]] ↔ [[Neuroplasticity]] (synaptic consolidation)
-- [[Working Memory]] ↔ [[Default Mode Network]] (neural substrates)
-- [[Habit Formation]] ↔ [[Neural Networks]] (basal ganglia automation)
+- [[Long-Term-Memory]] ↔ [[Neuroplasticity]] (synaptic consolidation)
+- [[Working-Memory]] ↔ [[Default Mode Network]] (neural substrates)
+- [[Habit-Formation]] ↔ [[Neural Networks]] (basal ganglia automation)
 - [[Curve Of Forgetting]] ↔ [[Neuroplastic]] (memory trace decay)
 
 **Learning & Memory ↔ Psychology**
-- [[Self-Regulated Learning]] ↔ [[Self Determination Theory]] (autonomous motivation)
-- [[Deliberate Practice]] ↔ [[Flow Theory]] (optimal challenge)
-- [[Spaced Repetition]] ↔ [[Focus Of Attention]] (sustained engagement)
-- [[Cognitive Load Theory]] ↔ [[Cognitive-Behavioral Therapy]] (working memory in rumination)
+- [[Self-Regulated-Learning]] ↔ [[Self-Determination-Theory]] (autonomous motivation)
+- [[Deliberate-Practice]] ↔ [[Flow-Theory]] (optimal challenge)
+- [[Spaced-Repetition]] ↔ [[Focus Of Attention]] (sustained engagement)
+- [[Cognitive-Load-Theory]] ↔ [[Cognitive-Behavioral-Therapy]] (working memory in rumination)
 
 **Learning & Memory ↔ Philosophy**
 - [[Learning Theory]] ↔ [[Epistemology]] (nature of knowledge)
 - [[Transfer-of-Learning]] ↔ [[Pragmatism]] (application to novel contexts)
-- [[Schema Theory]] ↔ [[Epistemic Cognition]] (knowledge organization)
+- [[Schema-Theory]] ↔ [[Epistemic-Cognition]] (knowledge organization)
 
 **Learning & Memory ↔ Applied Techniques**
-- [[Spaced Repetition]] ↔ [[Progressive Summarization]] (PKM integration)
-- [[Instructional Design]] ↔ [[Planning]] (learning system architecture)
-- [[Deliberate Practice]] ↔ [[Habit Formation]] (expertise development)
+- [[Spaced-Repetition]] ↔ [[Progressive-Summarization]] (PKM integration)
+- [[Instructional-Design]] ↔ [[Planning]] (learning system architecture)
+- [[Deliberate-Practice]] ↔ [[Habit-Formation]] (expertise development)
 
 ---
 
@@ -650,17 +650,17 @@ dv.list(sortedSources.map(([source, count]) => `**${source}**: ${count} notes`))
 ## 🔗 Related Topics for PKB Expansion
 
 1. **[[Retrieval-Induced-Forgetting]]**
-   - *Connection*: Complement to [[Spaced Repetition]]—explains competitive dynamics
+   - *Connection*: Complement to [[Spaced-Repetition]]—explains competitive dynamics
    - *Depth Potential*: Paradoxical effect where retrieving some memories impairs related memories
    - *Knowledge Graph Role*: Links memory mechanisms to strategic study techniques
 
 2. **[[Schema-Automation]]**
-   - *Connection*: Bridges [[Cognitive Load Theory]] and [[Deliberate Practice]]
+   - *Connection*: Bridges [[Cognitive-Load-Theory]] and [[Deliberate-Practice]]
    - *Depth Potential*: How schemas move from controlled to automatic processing through practice
    - *Knowledge Graph Role*: Explains expertise development and working memory capacity expansion
 
 3. **[[Generation-Effect]]**
-   - *Connection*: Core mechanism underlying [[Self-Explanation]] and active learning
+   - *Connection*: Core mechanism underlying [[self-explanation]] and active learning
    - *Depth Potential*: Self-generated information remembered better than passively received
    - *Knowledge Graph Role*: Foundational principle for instructional design choices
 

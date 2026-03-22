@@ -225,8 +225,8 @@ INFORMATION ARCHITECTURE:
 - [[Obsidian]]
 - [[Markdown]]
 - [[Callout Syntax]]
-- [[Dataview Plugin]]
-- [[Tasks Plugin]]
+- [[Dataview-Plugin]]
+- [[Tasks-Plugin]]
 - [[Templater Plugin]]
 - [[CSS Customization]]
 - [[Nested Structures]]
@@ -234,9 +234,9 @@ INFORMATION ARCHITECTURE:
 - [[wiki-links]]
 - [[Frontmatter]]
 - [[YAML]]
-- [[Knowledge Graph]]
+- [[Knowledge-Graph]]
 - [[Note-Taking Best Practices]]
-- [[Information Architecture]]
+- [[Information-Architecture]]
 **CALLOUT STRATEGY:**
 - [!definition] for syntax definitions
 - [!example] for code demonstrations
@@ -720,7 +720,7 @@ Callouts support Markdown formatting, wiki-links, and file embeds:
 **Wiki-Links:**
 ```markdown
 > [!note] Cross-References
-> See [[Related Note]] for more details.
+> See [[Related-Note]] for more details.
 > Also check [[Another Note#Specific Section]].
 ```
 
@@ -778,7 +778,7 @@ Standard blockquotes can nest within callouts but require additional `>` prefixi
 
 ### Dataview Plugin Integration
 
-[[Dataview Plugin]] queries work within callouts but with specific syntax requirements and limitations:
+[[Dataview-Plugin]] queries work within callouts but with specific syntax requirements and limitations:
 
 #### Standard Dataview Queries in Callouts
 
@@ -866,7 +866,7 @@ const calloutRegex = />\s\[\!(\w+)\]\s(.+?)((\n>\s.*?)*)\n/;
 
 ### Tasks Plugin Integration
 
-[[Tasks Plugin]] task syntax integrates seamlessly within callouts:
+[[Tasks-Plugin]] task syntax integrates seamlessly within callouts:
 
 ```markdown
 > [!todo] Project Tasks

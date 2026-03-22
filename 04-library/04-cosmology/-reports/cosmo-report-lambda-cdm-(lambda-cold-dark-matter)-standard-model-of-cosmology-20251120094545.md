@@ -41,7 +41,7 @@ link-related:
 # 1.0 🗣️ THE DIALOGUE: Defining the Terms
 
 > [!the-purpose]
-> Before we can assess whether six numbers specify the universe, we must achieve clarity on what each term means. The [[Socratic Method]] demands precision in our definitions, for ambiguity in terms leads inevitably to confusion in thought. Let us probe each concept systematically.
+> Before we can assess whether six numbers specify the universe, we must achieve clarity on what each term means. The [[Socratic-Method]] demands precision in our definitions, for ambiguity in terms leads inevitably to confusion in thought. Let us probe each concept systematically.
 
 > [!ask-yourself-this]
 > - *You claim that the [[Lambda-CDM Model]] uses six parameters to "specify" the universe.* **What, precisely, do you mean by "specify"?**

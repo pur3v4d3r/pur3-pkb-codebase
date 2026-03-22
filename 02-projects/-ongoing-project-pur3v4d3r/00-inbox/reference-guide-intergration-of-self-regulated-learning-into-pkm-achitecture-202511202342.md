@@ -44,7 +44,7 @@ status: #stable
 # 🔄 Integration of Self-Regulated Learning (SRL) into PKM Architecture
 
 > [!abstract] Executive Summary
-> This note explores the architectural integration of **Self-Regulated Learning (SRL)** principles—specifically **Zimmerman’s Cyclical Phases**—into [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems. By embedding metacognitive feedback loops directly into the structure of tools like [[obsidian]], a static repository is transformed into a dynamic, adaptive learning environment. This shift moves the user from passive information collection to active, goal-directed knowledge construction.
+> This note explores the architectural integration of **Self-Regulated Learning (SRL)** principles—specifically **Zimmerman’s Cyclical Phases**—into [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] systems. By embedding metacognitive feedback loops directly into the structure of tools like [[Obsidian]], a static repository is transformed into a dynamic, adaptive learning environment. This shift moves the user from passive information collection to active, goal-directed knowledge construction.
 
 ## 1\. Theoretical Foundation: The Cyclical Nature of SRL
 
@@ -86,7 +86,7 @@ The goal here is to reduce [[Cognitive-Load]] during work by pre-loading intent.
 **Mechanism:** *The Daily Note Prelude & Project Templates*
 
   * **Goal Setting:** Use frontmatter to explicitly state learning objectives.
-  * **Strategic Planning:** Using [[dataview]] to surface relevant past notes *before* writing begins.
+  * **Strategic Planning:** Using [[Dataview]] to surface relevant past notes *before* writing begins.
 
 **Obsidian Implementation Example:**
 A "Study Session" template that triggers Forethought:
@@ -94,7 +94,7 @@ A "Study Session" template that triggers Forethought:
 ````markdown
 ## 🎯 Session Intent
 - **Learning Goal:** [What specifically am I trying to solve/understand?]
-- **Strategy:** [[Feynman Technique]] | [[Progressive Summarization]]
+- **Strategy:** [[Feynman Technique]] | [[Progressive-Summarization]]
 - **Related Open Loops:**
   ```dataview
   TASK FROM "Daily Notes" WHERE !completed AND text allows "research"
@@ -104,7 +104,7 @@ A "Study Session" template that triggers Forethought:
 
 ### Phase II: Architecting Performance (Volitional Control)
 
-During the work, the system should minimize distraction and facilitate [[Metacognitive Monitoring]] (tracking "Am I understanding this?").
+During the work, the system should minimize distraction and facilitate [[Metacognitive-Monitoring]] (tracking "Am I understanding this?").
 
 **Mechanism:** *Status Tags & Scaffolding*
 
@@ -207,7 +207,7 @@ To implement SRL in your Obsidian vault immediately:
 
 ## 🔗 Related Topics for PKB Expansion
 
-1.  **[[Metacognitive Scaffolding]]**
+1.  **[[Metacognitive-Scaffolding]]**
 
       * *Connection:* How specific templates can act as "training wheels" for higher-order thinking.
       * *Depth Potential:* Explore how to fade scaffolds over time as skills improve.

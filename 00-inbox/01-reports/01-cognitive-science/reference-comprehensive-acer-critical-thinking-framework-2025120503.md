@@ -203,22 +203,22 @@ link-related:
 > └── Cross-referencing Strategy
 >     └── Internal link opportunities: Zettelkasten, Metacognition, Problem-Solving, Decision Theory, Educational Psychology, Bloom's Taxonomy, Information Literacy
 > **KEY WIKI-LINK OPPORTUNITIES:**
-> - [[Critical Thinking]]
-> - [[Decision Making]]
+> - [[Critical-Thinking]]
+> - [[Decision-Making]]
 > - [[Problem Solving]]
 > - [[Metacognition]]
 > - [[Information Literacy]]
 > - [[Constructivism]]
-> - [[Bloom's Taxonomy]]
-> - [[Socratic Questioning]]
-> - [[Argument Analysis]]
+> - [[Bloom's-Taxonomy]]
+> - [[Socratic-Questioning]]
+> - [[Argument-Analysis]]
 > - [[Evidence Evaluation]]
-> - [[Cognitive Biases]]
+> - [[Cognitive-Biases]]
 > - [[Reflective-Practice]]
 > - [[Educational Assessment]]
 > - [[Skill Development Frameworks]]
 > - [[Transfer-of-Learning]]
-> - [[Epistemic Cognition]]
+> - [[Epistemic-Cognition]]
 > **CALLOUT STRATEGY:**
 > - [!definition] for framework terms and aspects
 > - [!principle-point] for core framework principles
@@ -245,7 +245,7 @@ aliases: [ACER Critical Thinking Framework, Australian Council for Educational R
 
 > [!abstract]
 > **Executive Overview**
-> The [[ACER Framework]] represents a comprehensive, evidence-based approach to [[Critical Thinking]] developed by the Australian Council for Educational Research (ACER). This framework synthesizes multiple philosophical, psychological, and educational traditions into an operational model comprising three interconnected strands: [[Constructing Knowledge]], [[Evaluating Ideas]], and [[Making Decisions]]. Unlike purely theoretical models, the ACER Framework explicitly bridges abstract reasoning with practical decision-making contexts, making it particularly valuable for [[Personal Knowledge Management]] systems and real-world application.
+> The [[ACER Framework]] represents a comprehensive, evidence-based approach to [[Critical-Thinking]] developed by the Australian Council for Educational Research (ACER). This framework synthesizes multiple philosophical, psychological, and educational traditions into an operational model comprising three interconnected strands: [[Constructing Knowledge]], [[Evaluating Ideas]], and [[Making Decisions]]. Unlike purely theoretical models, the ACER Framework explicitly bridges abstract reasoning with practical decision-making contexts, making it particularly valuable for [[Personal-Knowledge-Management]] systems and real-world application.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -272,7 +272,7 @@ aliases: [ACER Critical Thinking Framework, Australian Council for Educational R
 
 ### The Development Challenge
 
-The ACER Critical Thinking Framework emerged from a fundamental problem in [[Educational Psychology]] and [[Cognitive Science]]: while critical thinking is universally recognized as essential for 21st-century success, few existing frameworks provided a means to *operationalize* critical thinking in practical contexts. The research team led by Heard, Scoular, Duckworth, Ramalingam, and Teo (2020, updated 2025) identified that existing definitions were often either too philosophical (focused on abstract logic) or too narrow (domain-specific without transferability).
+The ACER Critical Thinking Framework emerged from a fundamental problem in [[Educational-Psychology]] and [[Cognitive-Science]]: while critical thinking is universally recognized as essential for 21st-century success, few existing frameworks provided a means to *operationalize* critical thinking in practical contexts. The research team led by Heard, Scoular, Duckworth, Ramalingam, and Teo (2020, updated 2025) identified that existing definitions were often either too philosophical (focused on abstract logic) or too narrow (domain-specific without transferability).
 
 The framework addresses three critical needs: (1) **Understanding development** - how critical thinking skills progress from novice to expert; (2) **Monitoring growth** - measurable indicators of skill advancement; and (3) **Ensuring alignment** - consistency between curriculum, assessment, and pedagogy. This evidence-based approach distinguishes ACER from purely theoretical models by grounding every component in validated research across multiple disciplines.
 
@@ -286,11 +286,11 @@ The ACER Framework synthesizes four major traditions in critical thinking resear
 
 **Philosophical Tradition**: Drawing from Dewey's (1910) "reflective thinking," McPeck's (1981) "reflective skepticism," and Siegel's (1980) emphasis on rationality and principled reasoning. This tradition emphasizes [[Logical Analysis]], [[Argument Evaluation]], and adherence to objective standards.
 
-**Psychological Tradition**: Incorporating [[Cognitive Psychology]] research on [[Information Processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
+**Psychological Tradition**: Incorporating [[Cognitive-Psychology]] research on [[Information Processing]], [[Metacognition]] (Kuhn, 1999), and [[Problem Solving]] strategies. Sternberg's (1986) component skills (metacomponents, knowledge-acquisition components, performance components) inform the framework's developmental levels.
 
 **Information Literacy Tradition**: Recognizing overlap with [[Information Literacy]] frameworks (American Library Association, 1989), the ACER model includes skills for recognizing knowledge gaps, evaluating source reliability, and organizing information effectively—essential for [[Knowledge Construction]].
 
-**Educational Tradition**: Grounded in [[Bloom's Taxonomy]] and contemporary [[Instructional Design]] principles, emphasizing observable behaviors, teachable components, and measurable outcomes suitable for classroom implementation.
+**Educational Tradition**: Grounded in [[Bloom's-Taxonomy]] and contemporary [[Instructional-Design]] principles, emphasizing observable behaviors, teachable components, and measurable outcomes suitable for classroom implementation.
 
 > [!principle-point]
 > **Domain-General with Domain-Specific Application**
@@ -330,7 +330,7 @@ This structure acknowledges that critical thinking serves multiple functions sim
 
 > [!connections-and-links]
 > **Relationship to Other Frameworks**
-> - **[[Bloom's Taxonomy]]**: ACER aligns with Bloom's higher-order thinking (Analyze, Evaluate, Create) but provides more granular operational detail
+> - **[[Bloom's-Taxonomy]]**: ACER aligns with Bloom's higher-order thinking (Analyze, Evaluate, Create) but provides more granular operational detail
 > - **[[Creative Thinking]]**: While ACER focuses on critical/analytical processes, ACER also developed parallel frameworks for creative thinking, collaboration, and self-regulation
 > - **[[Information Literacy]] Models**: Significant overlap with Big6, SCONUL Seven Pillars, and ACRL Framework, particularly in Strand 1
 > - **[[Problem-Solving Models]]**: Decision-making strand connects to problem-solving but focuses specifically on analytical/evaluative aspects rather than creative generation
@@ -346,14 +346,14 @@ This structure acknowledges that critical thinking serves multiple functions sim
 
 The first strand addresses the *generative* dimension of critical thinking—how thinkers actively build knowledge rather than passively receive it. This reflects [[Constructivism|Constructivist]] epistemology: knowledge is constructed through interaction with information, not simply transmitted. The strand encompasses skills traditionally associated with [[Information Literacy]], [[Research Methods]], and [[Inquiry-Based-Learning]].
 
-Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[Lifelong Learning]] and [[Personal Knowledge Management]].
+Knowledge construction in the ACER Framework requires critical thinking at every stage: identifying what is unknown, determining what information is needed, assessing source quality, interpreting meaning, and synthesizing findings into coherent understanding. This moves beyond simple information retrieval to active knowledge building—essential for [[Lifelong-learning]] and [[Personal-Knowledge-Management]].
 
 ### Aspect 1.1: Questioning
 
 > [!definition]
 > **Questioning**:: The ability to recognize knowledge gaps and pose questions that prompt investigation and inquiry
 
-Questioning represents the initiating aspect of knowledge construction. It involves [[Metacognition]]—awareness of what one knows and doesn't know—and the ability to formulate productive questions that drive learning forward. This encompasses [[Socratic Questioning]], hypothesis generation, and problem framing.
+Questioning represents the initiating aspect of knowledge construction. It involves [[Metacognition]]—awareness of what one knows and doesn't know—and the ability to formulate productive questions that drive learning forward. This encompasses [[Socratic-Questioning]], hypothesis generation, and problem framing.
 
 **Observable Behaviors:**
 - Recognizes when current knowledge is insufficient for the task
@@ -369,7 +369,7 @@ Questioning represents the initiating aspect of knowledge construction. It invol
 > - Strong questioning: "What distinguishes emergent properties from aggregate properties? Under what conditions does emergence occur? How can we identify emergence in real systems? What are the implications of emergence for reductionist explanations?"
 
 **Cognitive Skills Involved:**
-- [[Metacognitive Awareness]] (knowing what you don't know)
+- [[metacognitive-awareness]] (knowing what you don't know)
 - [[Problem Identification]]
 - [[Hypothesis Generation]]
 - [[Curiosity]] and epistemic motivation
@@ -410,7 +410,7 @@ Interpretation moves beyond surface-level comprehension to deep understanding of
 > [!definition]
 > **Organizing Information**:: The ability to structure, categorize, and synthesize information effectively to produce sound new knowledge products
 
-Organization transforms interpreted information into usable knowledge structures. It involves determining optimal categorization schemes, creating meaningful hierarchies, identifying relationships, and synthesizing disparate elements into coherent wholes. This aspect is foundational for [[Note-Taking]], [[Knowledge Management]], and [[Synthesis]].
+Organization transforms interpreted information into usable knowledge structures. It involves determining optimal categorization schemes, creating meaningful hierarchies, identifying relationships, and synthesizing disparate elements into coherent wholes. This aspect is foundational for [[Note-Taking]], [[Knowledge-Management]], and [[Synthesis]].
 
 **Observable Behaviors:**
 - Selects appropriate organizational structures for the task
@@ -427,7 +427,7 @@ Organization transforms interpreted information into usable knowledge structures
 > - **Hierarchy**: Theories → Principles → Applications → Evidence
 > - **Relationships**: How theories critique/build upon each other
 > - **Synthesis**: Creating a [[MOC]] (Map of Content) that integrates perspectives
-> - **Tagging/Linking**: Using [[Metadata]] and [[Wiki-Links]] for [[Networked Thought]]
+> - **Tagging/Linking**: Using [[Metadata]] and [[wiki-links]] for [[Networked Thought]]
 
 **Cognitive Skills Involved:**
 - [[Categorical Thinking]]
@@ -449,9 +449,9 @@ Organization transforms interpreted information into usable knowledge structures
 
 ### Foundational Concepts
 
-The second strand addresses the *critical* dimension of critical thinking—systematic evaluation of existing ideas, arguments, and reasoning. This reflects the philosophical tradition of critical thinking, emphasizing [[Logical Reasoning]], [[Argument Analysis]], and [[Evidence-Based Reasoning]]. Where Strand 1 focuses on building knowledge, Strand 2 focuses on assessing the quality and validity of knowledge claims.
+The second strand addresses the *critical* dimension of critical thinking—systematic evaluation of existing ideas, arguments, and reasoning. This reflects the philosophical tradition of critical thinking, emphasizing [[Logical Reasoning]], [[Argument-Analysis]], and [[Evidence-Based Reasoning]]. Where Strand 1 focuses on building knowledge, Strand 2 focuses on assessing the quality and validity of knowledge claims.
 
-Evaluation in the ACER Framework requires understanding of logical principles, standards of evidence, and rational analysis. It encompasses skills associated with [[Informal Logic]], [[Argumentation Theory]], and [[Scientific Reasoning]]. This strand is particularly crucial for identifying [[Cognitive Biases]], [[Logical Fallacies]], and [[Misinformation]].
+Evaluation in the ACER Framework requires understanding of logical principles, standards of evidence, and rational analysis. It encompasses skills associated with [[Informal Logic]], [[Argumentation-Theory]], and [[Scientific-Reasoning]]. This strand is particularly crucial for identifying [[Cognitive-Biases]], [[Logical Fallacies]], and [[misinformation]].
 
 ### Aspect 2.1: Identifying Reasoning
 
@@ -532,7 +532,7 @@ Applying logic involves assessing whether conclusions follow from premises (vali
 > [!definition]
 > **Evaluating Claims**:: The ability to assess the credibility, reliability, and validity of information sources and knowledge claims using appropriate standards
 
-Evaluating claims extends beyond logical structure to assess the quality and trustworthiness of information itself. This involves [[Source Criticism]], [[Evidence Assessment]], and understanding standards of [[Epistemic Justification]]. It's essential for navigating contemporary information environments characterized by [[Misinformation]] and conflicting claims.
+Evaluating claims extends beyond logical structure to assess the quality and trustworthiness of information itself. This involves [[Source Criticism]], [[Evidence Assessment]], and understanding standards of [[Epistemic Justification]]. It's essential for navigating contemporary information environments characterized by [[misinformation]] and conflicting claims.
 
 **Observable Behaviors:**
 - Assesses source credibility (authority, expertise, bias, reliability)
@@ -564,7 +564,7 @@ Evaluating claims extends beyond logical structure to assess the quality and tru
 
 > [!key-claim]
 > **Strand 2 as Protection Against Cognitive Errors**
-> Evaluating Ideas serves as the primary defense against [[Misinformation]], [[Cognitive Biases]], and poor reasoning. In knowledge work and decision-making contexts, these skills prevent incorporation of low-quality information into knowledge bases and protect against systematic errors in [[Judgment and Decision-Making]].
+> Evaluating Ideas serves as the primary defense against [[misinformation]], [[Cognitive-Biases]], and poor reasoning. In knowledge work and decision-making contexts, these skills prevent incorporation of low-quality information into knowledge bases and protect against systematic errors in [[Judgment and Decision-Making]].
 
 ---
 
@@ -577,7 +577,7 @@ Evaluating claims extends beyond logical structure to assess the quality and tru
 
 Strand 3 represents the ACER Framework's distinctive contribution to critical thinking pedagogy: the explicit integration of critical thinking with practical decision-making. While philosophical traditions emphasize analysis and evaluation of existing arguments, the Making Decisions strand acknowledges that critical thinking ultimately serves pragmatic purposes—informing actions, solving problems, and achieving goals.
 
-This strand draws from [[Decision Theory]], [[Judgment and Decision-Making]] research, and [[Applied Problem-Solving]] methodologies. It addresses a critical gap in many critical thinking frameworks: the translation from abstract reasoning to real-world application. In professional, academic, and personal contexts, thinking must culminate in defensible decisions and actions.
+This strand draws from [[Decision-Theory]], [[Judgment and Decision-Making]] research, and [[Applied Problem-Solving]] methodologies. It addresses a critical gap in many critical thinking frameworks: the translation from abstract reasoning to real-world application. In professional, academic, and personal contexts, thinking must culminate in defensible decisions and actions.
 
 > [!principle-point]
 > **Critical Thinking as Applied Rationality**
@@ -603,7 +603,7 @@ The decision-making process then adds three specific competencies (the three asp
 The first aspect of decision-making addresses a foundational question: *By what standards should we evaluate our options?* This requires analyzing the decision context, understanding constraints, recognizing values at stake, and deriving explicit criteria that will guide choice. Without clear criteria, decisions become arbitrary or driven by unstated biases.
 
 **Theoretical Foundation:**  
-This aspect draws from [[Multi-Criteria Decision Analysis]] (MCDA), [[Value Theory]], and [[Goal-Setting Theory]]. It acknowledges that decisions involve trade-offs between competing values and that making these explicit improves decision quality.
+This aspect draws from [[Multi-Criteria Decision Analysis]] (MCDA), [[Value Theory]], and [[Goal-Setting-Theory]]. It acknowledges that decisions involve trade-offs between competing values and that making these explicit improves decision quality.
 
 **Observable Behaviors:**
 - Analyzes the decision situation to understand constraints, demands, and context
@@ -693,7 +693,7 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 > [!example]
 > **Alternative Comparison: Research Method Selection**
 > 
-> **Decision**: How to deepen understanding of [[Spaced Repetition]]
+> **Decision**: How to deepen understanding of [[Spaced-Repetition]]
 > 
 > **Alternatives:**
 > 
@@ -746,7 +746,7 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 > **Cognitive Biases in Alternative Evaluation**
 > 
 > Critical thinking in this aspect requires awareness of systematic biases:
-> - **[[Confirmation Bias]]**: Favoring information supporting preferred option
+> - **[[Confirmation-Bias]]**: Favoring information supporting preferred option
 > - **[[Anchoring Bias]]**: Over-weighting first alternative considered
 > - **[[Status Quo Bias]]**: Preferring current state over change
 > - **[[Sunk Cost Fallacy]]**: Continuing investment due to past commitment
@@ -765,7 +765,7 @@ This aspect draws from [[Decision Analysis]], [[Scenario Planning]], [[Prospect 
 The third aspect completes the decision-making cycle: implementation, monitoring, and learning. This reflects the pragmatic, action-oriented nature of critical thinking—decisions must be evaluated based on their actual effects, not just predicted outcomes. This aspect embodies [[Reflective-Practice]] and [[Evidence-Based Adjustment]].
 
 **Theoretical Foundation:**  
-This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-Act]] cycles, [[Metacognitive Monitoring]], and [[Adaptive Decision-Making]] models. It recognizes that real-world decisions occur under uncertainty and require iterative refinement.
+This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-Act]] cycles, [[Metacognitive-Monitoring]], and [[Adaptive Decision-Making]] models. It recognizes that real-world decisions occur under uncertainty and require iterative refinement.
 
 **Observable Behaviors:**
 - Establishes clear success criteria and metrics before implementation
@@ -823,7 +823,7 @@ This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-
 >    - What have we learned for future decisions?
 
 **Cognitive Skills Involved:**
-- [[Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring]]
 - [[Evidence Evaluation]]
 - [[Causal Analysis]]
 - [[Pattern Recognition]]
@@ -832,7 +832,7 @@ This aspect draws from [[Feedback Loops]], [[Action Research]], [[Plan-Do-Study-
 
 > [!key-claim]
 > **Closing the Learning Loop**
-> Monitoring outcomes transforms decision-making from a one-time event into a learning cycle. This aspect is essential for [[Deliberate Practice]] in decision-making—without systematic outcome monitoring, individuals cannot learn what decision strategies work and fail to develop decision-making expertise over time. It embodies the scientific attitude applied to practical action.
+> Monitoring outcomes transforms decision-making from a one-time event into a learning cycle. This aspect is essential for [[Deliberate-Practice]] in decision-making—without systematic outcome monitoring, individuals cannot learn what decision strategies work and fail to develop decision-making expertise over time. It embodies the scientific attitude applied to practical action.
 
 ---
 
@@ -930,7 +930,7 @@ Understanding developmental levels enables strategic skill building in PKM conte
 
 - **Assess current state**: Where am I in each aspect? (Self-awareness)
 - **Set specific targets**: What behaviors should I develop next? (Proximal development)
-- **Design practice**: What exercises will develop target behaviors? ([[Deliberate Practice]])
+- **Design practice**: What exercises will develop target behaviors? ([[Deliberate-Practice]])
 - **Track progress**: Am I demonstrating target behaviors more consistently? (Evidence-based growth)
 
 This transforms "get better at critical thinking" from vague aspiration to concrete development pathway.
@@ -1064,7 +1064,7 @@ Across contexts, effective ACER implementation follows these principles:
 
 > [!important]
 > **Critical Thinking as Deliberate, Not Automatic**
-> Quality critical thinking requires *effortful, systematic application* of these processes. Intuition and fast thinking ([[System 1]]) have their place, but for consequential decisions, the ACER Framework provides structure for slow, analytical thinking ([[System 2]]). The framework doesn't eliminate all uncertainty or guarantee outcomes, but it dramatically improves decision process quality.
+> Quality critical thinking requires *effortful, systematic application* of these processes. Intuition and fast thinking ([[System-1]]) have their place, but for consequential decisions, the ACER Framework provides structure for slow, analytical thinking ([[System-2]]). The framework doesn't eliminate all uncertainty or guarantee outcomes, but it dramatically improves decision process quality.
 
 ---
 
@@ -1215,7 +1215,7 @@ WHERE status = "Completed"
 SORT file.cday DESC
 ```
 
-This enables [[Metacognitive Monitoring]] of one's own critical thinking: Am I consistently identifying multiple criteria? Do I generate enough alternatives? How accurate are my predictions?
+This enables [[Metacognitive-Monitoring]] of one's own critical thinking: Am I consistently identifying multiple criteria? Do I generate enough alternatives? How accurate are my predictions?
 
 ### Strategy 5: Integration with Spaced Repetition
 
@@ -1276,8 +1276,8 @@ Understanding ACER's position within the broader landscape of critical thinking 
 
 | **Framework** | **Primary Focus** | **Key Strength** | **Relationship to ACER** |
 |---------------|------------------|-----------------|-------------------------|
-| **[[Bloom's Taxonomy]]** | Cognitive complexity hierarchy | Broad educational scope | ACER operationalizes higher levels (Analyze, Evaluate, Create) |
-| **[[Paul-Elder Framework]]** | Elements and standards of reasoning | Depth of logical analysis | ACER's Strand 2 aligns closely; ACER adds knowledge construction and decision-making |
+| **[[Bloom's-Taxonomy]]** | Cognitive complexity hierarchy | Broad educational scope | ACER operationalizes higher levels (Analyze, Evaluate, Create) |
+| **[[Paul-Elder-Framework]]** | Elements and standards of reasoning | Depth of logical analysis | ACER's Strand 2 aligns closely; ACER adds knowledge construction and decision-making |
 | **[[Facione's Core Skills]]** | Six core cognitive skills | Comprehensive skill catalog | ACER organizes similar skills into strand-based applications |
 | **[[RED Model]]** (Recognize, Evaluate, Decide) | Decision-focused critical thinking | Explicitly pragmatic | Very similar to ACER Strand 3; ACER adds knowledge construction and evaluation strands |
 | **[[Information Literacy]] Standards** | Research and information evaluation | Academic research focus | ACER Strand 1 incorporates and extends information literacy principles |
@@ -1312,7 +1312,7 @@ Developing expertise with the ACER Framework follows a predictable progression:
 - Innovating within framework
 - Contributing to framework development
 
-This progression requires [[Deliberate Practice]]: intentional application, feedback, and reflection on framework use. The decision log template and periodic reviews provide this structure.
+This progression requires [[Deliberate-Practice]]: intentional application, feedback, and reflection on framework use. The decision log template and periodic reviews provide this structure.
 
 ---
 
@@ -1363,11 +1363,11 @@ This progression requires [[Deliberate Practice]]: intentional application, feed
 2. **[[Developmental Progressions in Complex Cognition]]**
    - *Connection*: ACER includes skill development levels showing progression from novice to expert; this broader topic examines how complex thinking abilities develop across the lifespan
    - *Depth Potential*: Integration of developmental psychology, expertise research, and educational progressions; understanding how to design learning experiences that promote development
-   - *Knowledge Graph Role*: Connects ACER to [[Bloom's Taxonomy]], [[Vygotsky's Zone of Proximal Development]], [[Deliberate Practice]], and educational scaffolding strategies
+   - *Knowledge Graph Role*: Connects ACER to [[Bloom's-Taxonomy]], [[Vygotsky's-Zone-of-Proximal-Development]], [[Deliberate-Practice]], and educational scaffolding strategies
 
 3. **[[Decision-Making Under Uncertainty: Integrating Critical Thinking with Probabilistic Reasoning]]**
    - *Connection*: ACER Strand 3 (Making Decisions) provides structured process; real-world decisions involve uncertainty, risk, and probabilistic thinking not fully addressed in the framework
-   - *Depth Potential*: Deep dive into [[Bayesian Reasoning]], [[Decision Theory]], [[Prospect Theory]], [[Risk Assessment]], and calibration of confidence; essential for high-stakes decisions
+   - *Depth Potential*: Deep dive into [[Bayesian Reasoning]], [[Decision-Theory]], [[Prospect Theory]], [[Risk Assessment]], and calibration of confidence; essential for high-stakes decisions
    - *Knowledge Graph Role*: Extends ACER's decision-making strand with quantitative tools; connects to statistics, forecasting, and data science
 
 4. **[[Information Literacy and Digital Epistemology in the Age of AI]]**

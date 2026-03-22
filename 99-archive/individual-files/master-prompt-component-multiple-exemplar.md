@@ -359,7 +359,7 @@ graph TD
 - **[Expert**:: ART with custom tools, Multi-technique orchestration, RPO optimization]
 
 ### By Use Case
-- **Complex Reasoning** → [[Tree of Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
+- **Complex Reasoning** → [[Tree-of-Thoughts]], [[Graph of Thoughts]], [[Self-Consistency]]
 - **Tool Integration** → [[ReAct Framework]], [[ART Tool Use]], [[ReWOO]]
 - **Quality Critical** → [[Chain of Verification]], [[Self-Refine]], [[Self-Consistency]]
 - **Autonomous Agents** → [[Reflexion]], [[ReAct Framework]], [[ART Tool Use]]
@@ -557,7 +557,7 @@ graph TD
 
 **Recommended Stack**:
 1. **[[Generated Knowledge]]** - Generate prerequisite concepts
-2. **[[Chain of Thought]]** - Break down complex ideas
+2. **[[Chain-of-Thought]]** - Break down complex ideas
 3. **[[Chain of Verification]]** - Ensure accuracy
 4. **[[Self-Refine]]** - Iterative improvement
 
@@ -569,7 +569,7 @@ graph TD
 
 **Recommended Stack**:
 1. **[[RAG Integration]]** - Retrieve relevant passages
-2. **[[Tree of Thoughts]]** - Explore multiple synthesis angles
+2. **[[Tree-of-Thoughts]]** - Explore multiple synthesis angles
 3. **[[Self-Consistency]]** - Validate conclusions across reasoning paths
 4. **[[Chain of Verification]]** - Fact-check claims
 
@@ -654,7 +654,7 @@ graph TD
 
 **Build up to**:
 4. [[ReAct Framework]] - Learn tool integration
-5. [[Tree of Thoughts]] - Master search-based reasoning
+5. [[Tree-of-Thoughts]] - Master search-based reasoning
 6. [[Reflexion]] - Create learning agents
 
 ### **Already Experienced?**

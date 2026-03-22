@@ -4598,7 +4598,7 @@ function generateSyntheticHistory(file, content, cache) {
     date3.setDate(date3.getDate() + 7);
     history.push({
         date: date3.toISOString().split('T')[0],
-        content: "# Budding Concept\n\nWell-developed idea with multiple aspects\n\n## Key Points\n- Point 1 with details\n- Point 2 with examples\n- Point 3\n\n[[Related Concept]] [[Another Link]]",
+        content: "# Budding Concept\n\nWell-developed idea with multiple aspects\n\n## Key Points\n- Point 1 with details\n- Point 2 with examples\n- Point 3\n\n[[Related-Concept]] [[Another Link]]",
         metadata: {
             maturity: "budding",
             type: "concept",

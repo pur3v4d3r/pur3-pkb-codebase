@@ -147,7 +147,7 @@ LIMIT 10
 ### Direct Connections
 - [[Metacognition]]
 - [[Pragmatism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 
 ## Practical Applications
 > Stoicism is a practical philosophy, offering daily exercises to cultivate resilience and inner peace.

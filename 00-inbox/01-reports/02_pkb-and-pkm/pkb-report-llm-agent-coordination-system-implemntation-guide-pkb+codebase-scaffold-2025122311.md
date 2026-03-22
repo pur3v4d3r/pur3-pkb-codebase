@@ -111,13 +111,13 @@ modified: 2025-12-23
 status: evergreen
 certainty: confident
 type: reference
-related: [[Sequential Prompt Engineering System]], [[Claude Code]], [[Obsidian PKB Architecture]], [[Agent Coordination Patterns]]
+related: [[Sequential Prompt Engineering System]], [[Claude-Code]], [[Obsidian PKB Architecture]], [[Agent Coordination Patterns]]
 ---
 
 # 🤖 AI Agent Coordination System: Implementation Guide
 
 > [!abstract] System Overview
-> This guide provides comprehensive scaffolding for implementing an AI Agent Coordination System where [[Claude Code]] and [[Gemini Code Assist]] function as intelligent coding partners and PKB librarians. The system leverages a structured vault architecture to enable agents to self-coordinate, access domain knowledge, maintain session context, and execute complex multi-step workflows. This document reduces cognitive load by breaking implementation into digestible phases with clear operational procedures.
+> This guide provides comprehensive scaffolding for implementing an AI Agent Coordination System where [[Claude-Code]] and [[Gemini-Code-Assist]] function as intelligent coding partners and PKB librarians. The system leverages a structured vault architecture to enable agents to self-coordinate, access domain knowledge, maintain session context, and execute complex multi-step workflows. This document reduces cognitive load by breaking implementation into digestible phases with clear operational procedures.
 
 ## 🎯 Core Mental Model
 
@@ -236,7 +236,7 @@ You are <span style='color: #FFC700;'>**Claude Code**</span>, functioning as bot
 
 ## Integration with Gemini
 
-When working alongside [[Gemini Code Assist]]:
+When working alongside [[Gemini-Code-Assist]]:
 - Check `session-memory.md` for Gemini's recent contributions
 - Document your work clearly for Gemini's future reference
 - Flag any conflicts or questions in session memory
@@ -333,7 +333,7 @@ You are <span style='color: #FFC700;'>**Gemini Code Assist**</span>, functioning
 
 ## Integration with Claude
 
-When working alongside [[Claude Code]]:
+When working alongside [[Claude-Code]]:
 - Check `session-memory.md` for Claude's recent contributions  
 - Document your work clearly for Claude's future reference
 - Flag any conflicts or questions in session memory
@@ -1305,7 +1305,7 @@ Agent uses knowledge graph + semantic similarity
 **Depth Potential:** Maps working memory constraints to system architecture decisions  
 **Knowledge Graph Role:** Semantic bridge between learning science and AI UX design  
 **Priority:** Medium - Theoretical foundation for system  
-**Prerequisites:** [[Cognitive Load Theory]], understanding of agent workflows
+**Prerequisites:** [[Cognitive-Load-Theory]], understanding of agent workflows
 
 ### 4. **[[Knowledge Graph Dynamics in Multi-Agent Systems]]**
 **Connection:** How multiple agents collaboratively building a knowledge graph affects graph structure  

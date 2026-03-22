@@ -283,7 +283,7 @@ After completing the main content exposition, you MUST include:
 > - Practical applications connecting theory to implemented systems (e.g., PKM workflows, cognitive tools)
 > - Emergent insights that arise from juxtaposing this concept with existing knowledge
 >
-> Format each connection as: **[[Concept Name]]** followed by explanation of the relationship.
+> Format each connection as: **[[Concept-Name]]** followed by explanation of the relationship.
 > Aim for 4-8 substantive connections that genuinely enrich understanding.
 ### Section 2: Synthesis & Reflection (Required)
 Conclude every report with:
@@ -769,7 +769,7 @@ Explicitly connect concepts to foundational mental models.
 <inline_syntax>
 ### Inline Model Anchors
 ```markdown
-[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental Model]] | insight:"what the connection reveals"]
+[**Model-Anchor**:: [[Concept]] ←anchors-to→ [[Mental-Model]] | insight:"what the connection reveals"]
 [**Model-Application**:: [[Concept]] ←as-lens-for→ [[Target Domain]] | insight:"how concept illuminates domain"]
 ```
 </inline_syntax>
@@ -792,10 +792,10 @@ Explicitly connect concepts to foundational mental models.
 <bidirectional_application>
 ### Two-Way Model Use
 **Concept → Model** (Anchoring):
-"How does [[First Principles Thinking]] illuminate [[Cognitive Load Theory]]?"
+"How does [[First Principles Thinking]] illuminate [[Cognitive-Load-Theory]]?"
 → CLT decomposes to: capacity limits + element interactivity + load types
 **Concept → Lens** (Projection):
-"How can [[Cognitive Load Theory]] serve as a lens for [[Software Architecture]]?"
+"How can [[Cognitive-Load-Theory]] serve as a lens for [[Software Architecture]]?"
 → Code complexity creates cognitive load; modular design reduces it
 </bidirectional_application>
 <generation_guidelines>
@@ -909,7 +909,7 @@ optimal-sequence-position: [early | middle | late | capstone]
 ```markdown
 > [!prerequisite] Required Background
 > **Hard Prerequisites** (must understand first):
-> - [[Information Processing Theory]] — foundational framework
+> - [[Information-Processing-Theory]] — foundational framework
 > - [[Working Memory Basics]] — capacity constraints
 > 
 > **Soft Prerequisites** (helpful context):
@@ -917,12 +917,12 @@ optimal-sequence-position: [early | middle | late | capstone]
 > - [[Research Methods in Cogsci]] — study interpretation
 > [!enables] This Unlocks
 > **Direct Applications**:
-> - [[Cognitive Load Theory]] — primary extension
+> - [[Cognitive-Load-Theory]] — primary extension
 > - [[Instructional Design Principles]] — practical application
 > 
 > **Related Topics**:
 > - [[Expertise Development]] — schema automation
-> - [[Multimedia Learning]] — CLT application
+> - [[Multimedia-Learning]] — CLT application
 ```
 </callout_format>
 <dependency_types>
@@ -974,7 +974,7 @@ SORT file.name ASC
 ```dataview
 TABLE enables.direct as "Unlocks"
 FROM "permanent-notes"
-WHERE contains(prerequisites.hard, "[[working-memory]]")
+WHERE contains(prerequisites.hard, "[[Working-Memory]]")
 ```
 </query_compatibility>
 </prerequisite_dependency_mapping>
@@ -1419,7 +1419,7 @@ Remember: This is a REFERENCE NOTE, not a guide or article. Exhaustiveness and o
 
 1. **Topic Focus**: What specific topic would you like to generate a reference note on? (This will allow me to simulate or refine the Tree-of-Thoughts search branches.)
 
-2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[Cognitive Load Theory]]) that this should integrate with?
+2. **PKB Context**: Do you have an existing knowledge base structure or set of core concepts (e.g., [[Second-Order Thinking]], [[Cognitive-Load-Theory]]) that this should integrate with?
 
 3. **Depth vs. Breadth Priority**: Should the Tree-of-Thoughts prioritize *depth* (deep dives into sub-branches) or *breadth* (wide coverage with lighter treatment)?
 
@@ -1693,13 +1693,13 @@ Follow the full output scaffold below.
 >  
 > Explicitly analyze how this topic connects to broader PKM and cognitive science concepts:  
 > - [[Second-Order Thinking]] → enhances prompt design by anticipating model behavior  
-> - [[Cognitive Load Theory]] → informs clarity and structure of prompts  
+> - [[Cognitive-Load-Theory]] → informs clarity and structure of prompts  
 > - [[Systems Thinking]] → models LLMs as components in knowledge workflows  
 > - [[First Principles]] → enables deconstruction of prompt failures  
 > - [[Spaced Practice]] → suggests iterative refinement cycles  
 > - [[Mental-Models]] → frames prompting as model-based reasoning  
 >  
-> Format: **[[Concept Name]]** followed by explanation of the relationship.  
+> Format: **[[Concept-Name]]** followed by explanation of the relationship.  
 
 ### Section 2: Synthesis & Reflection  
 **A. Summary Synthesis**  
@@ -1763,7 +1763,7 @@ Flag 3–8 atomic candidates using callouts or inline syntax:
 > **Note Type**: [framework | principle | method]  
 > **Priority**: [critical | high]  
 > **Estimated Scope**: 400–800 words  
-> **Key Relationships**: →(informs)→ [[Related Concept]]  
+> **Key Relationships**: →(informs)→ [[Related-Concept]]  
 > **Source Status**: [needs-primary-review]  
 > **Extraction Trigger**: [rationale]  
 
@@ -1773,7 +1773,7 @@ Use `%%ATOMIC: slug | type | priority | reason%%` for lower-priority items.
 <synthesis_potential_markers>  
 ## 🔮 Cross-Domain Opportunity Protocol  
 > [!synthesis-opportunity] Prompting as Cognitive Scaffolding  
-> **Source Domain**: [[Prompt Engineering]] — structured reasoning  
+> **Source Domain**: [[Prompt-Engineering]] — structured reasoning  
 > **Target Domains**:  
 >  - [[Education]] — designing learning interactions  
 >  - [[Therapy]] — reflective questioning techniques  
@@ -1825,7 +1825,7 @@ review-history:
 >  - Inversion reveals hidden assumptions in role definitions  
 >   
 > **Inverse Application**:  
->  - Can be applied to: [[Instructional Design]], [[Conversation Design]], [[API Design]]  
+>  - Can be applied to: [[Instructional-Design]], [[Conversation Design]], [[API Design]]  
 </mental_model_anchors>  
 
 <counterexample_collection>  
@@ -1852,14 +1852,14 @@ prerequisites:
     - "[[Language Models Overview]]"
     - "[[Basic Prompting Patterns]]"
   soft:
-    - "[[Cognitive Load Theory]]"
-    - "[[Information Architecture]]"
+    - "[[Cognitive-Load-Theory]]"
+    - "[[Information-Architecture]]"
 enables:
   direct:
     - "[[Advanced Prompt Chaining]]"
     - "[[AI-Augmented Research Workflows]]"
   related:
-    - "[[Knowledge Externalization]]"
+    - "[[Knowledge-Externalization]]"
     - "[[Second-Order Prompting]]"
 difficulty: intermediate
 estimated-study-time: 25min

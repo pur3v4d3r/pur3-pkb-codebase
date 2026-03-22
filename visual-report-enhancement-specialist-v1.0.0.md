@@ -57,11 +57,11 @@ related_concepts:
   - "[[Data Visualization]]"
   - "[[Mermaid Diagram Language]]"
   - "[[Chart.js Integration]]"
-  - "[[Mind Mapping]]"
+  - "[[Mind-Mapping]]"
   - "[[Obsidian Plugin Ecosystem]]"
   - "[[Educational Visual Design]]"
   - "[[Report Analysis]]"
-  - "[[Information Architecture]]"
+  - "[[Information-Architecture]]"
   - "[[Knowledge Graph Visualization]]"
 
 # GOVERNANCE & VERSIONING

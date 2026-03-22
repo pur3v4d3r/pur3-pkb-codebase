@@ -230,7 +230,7 @@ builds_on:
 > > - Implement as Dataview dashboard with health indicators
 >
 > > [!topic-idea] [[Dialectical Knowledge Building Patterns for Obsidian]]
-> > **Gap Identified:** Report 21's [[Dialectics]] (thesis-antithesis-synthesis) and Report 14's [[Socratic Method]] are rich theoretical traditions but lack concrete Obsidian implementation patterns.
+> > **Gap Identified:** Report 21's [[Dialectics]] (thesis-antithesis-synthesis) and Report 14's [[Socratic-Method]] are rich theoretical traditions but lack concrete Obsidian implementation patterns.
 > > **Where It Would Connect:** [[Report 14 — Inquiry-Based Knowledge Building]], [[Report 21 — Dialectical Knowledge Building]], [[RP2: Dialectical Deepening]]
 > > **Estimated Effort:** <span style='color: #FFC700;'>Moderate</span>
 > > **Value Proposition:** Operationalizes critical thinking within the PKB workflow

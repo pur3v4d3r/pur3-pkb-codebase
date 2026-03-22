@@ -1017,7 +1017,7 @@ Your metadata system exists within your broader [[Personal Knowledge Base Archit
 
 - **14-directory vault structure** with numbered semantic organization
 - **[[Obsidian Integration Methodologies]]** (Dataview, Templater, Meta Bind)
-- **[[Cognitive Load Theory]] scaffolding** across your knowledge systems
+- **[[Cognitive-Load-Theory]] scaffolding** across your knowledge systems
 - **[[Wiki-Link Density Protocols]]** for knowledge graph construction
 
 [!key-claim]
@@ -1149,7 +1149,7 @@ deprecation_timeline: null
 - Build dependency visualization system
 - Establish quarterly governance audit process
 - Create prompt templating system for new artifact creation
-- Integrate with your [[Claude Code]] workflow for prompt testing
+- Integrate with your [[Claude-Code]] workflow for prompt testing
 
 ---
 

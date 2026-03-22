@@ -419,7 +419,7 @@ task_roadmap:
               Apply depth enforcement formatting requirements:
               
               - YAML frontmatter with comprehensive metadata
-              - [[Wiki-links]] for all key concepts (target: 25+)
+              - [[wiki-links]] for all key concepts (target: 25+)
               - Semantic callouts using [!type] syntax (target: 12+)
               - Inline fields [**Concept**:: definition] (target: 15+)
               - Expansion topics section (6 topics with full analysis)
@@ -979,7 +979,7 @@ class GeminiDepthValidator:
         return author_year + wiki_citations
     
     def _count_wiki_links(self, content: str) -> int:
-        """Count [[Wiki Links]]"""
+        """Count [[wiki-links]]"""
         return len(re.findall(r'\[\[[^\]]+\]\]', content))
     
     def _generate_expansion_prompts(self, 
@@ -1412,7 +1412,7 @@ exceeds_minimum_by: 128
 |-----------|---------|--------|-----------|
 | **Total Word Count** | 2500 | 3500 | 5000+ |
 | **Inline Field Definitions** | 15 | 25 | 40+ |
-| **[[Wiki Links]]** | 20 | 35 | 50+ |
+| **[[wiki-links]]** | 20 | 35 | 50+ |
 | **Semantic Callouts** | 12 | 18 | 25+ |
 | **Worked Examples** | 8 | 12 | 20+ |
 | **Citations to Literature** | 10 | 18 | 30+ |
@@ -1465,7 +1465,7 @@ exceeds_minimum_by: 128
 - Domain-specific calibration challenges
 - Calibration-aware decision thresholds
 
-**Knowledge Graph Role**: Bridges MP to [[Uncertainty Quantification]], [[Ensemble Methods]], and [[Decision Theory]]. Creates pathway from prompt engineering to ML evaluation metrics.
+**Knowledge Graph Role**: Bridges MP to [[Uncertainty Quantification]], [[Ensemble-Methods]], and [[Decision-Theory]]. Creates pathway from prompt engineering to ML evaluation metrics.
 
 **Priority**: **HIGH** - Calibration is the difference between useful and misleading confidence scores. Critical for production MP deployment.
 
@@ -1499,7 +1499,7 @@ exceeds_minimum_by: 128
 - Citation grounding and hallucination prevention
 - Multi-hop reasoning with metacognitive checkpoints
 
-**Knowledge Graph Role**: Bridges MP to [[Retrieval-Augmented Generation]], [[Knowledge Grounding]], [[Hallucination Detection]], and [[Citation Networks]]. Essential for production RAG systems.
+**Knowledge Graph Role**: Bridges MP to [[Retrieval-Augmented-Generation]], [[Knowledge Grounding]], [[Hallucination Detection]], and [[Citation Networks]]. Essential for production RAG systems.
 
 **Priority**: **HIGH** - RAG is ubiquitous in production LLM applications. MP is critical for RAG reliability.
 
@@ -1516,7 +1516,7 @@ exceeds_minimum_by: 128
 - Load management strategies for complex multi-step MP
 - Balancing MP benefits vs computational costs
 
-**Knowledge Graph Role**: Links MP to [[Cognitive Load Theory]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
+**Knowledge Graph Role**: Links MP to [[Cognitive-Load-Theory]], [[Attention Mechanisms]], [[Context Window Management]], and [[Prompt Optimization]]. Provides cognitive science lens on MP efficiency.
 
 **Priority**: **MEDIUM** - More theoretical than immediately practical, but valuable for principled MP design.
 

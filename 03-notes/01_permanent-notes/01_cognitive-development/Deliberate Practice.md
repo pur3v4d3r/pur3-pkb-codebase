@@ -28,16 +28,16 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Deliberate Practice]]
+> - **Key-Term**:[[Deliberate-Practice]]
 > - [**Definition**:A highly structured and focused method of skill improvement that involves setting specific goals, receiving immediate feedback, and engaging in repeated, challenging exercises just beyond one's current ability.]
 
 > [!evidence]
 > 
 > > [!core-principle]
 > > **The Principle of Use-Dependent Plasticity**
-> > The brain's structure literally reflects your behavior patterns. Whatever you practice—whether productive or counterproductive—becomes neurologically reinforced. This is why [[Deliberate Practice]] and intentional habit formation are foundational to self-improvement.
+> > The brain's structure literally reflects your behavior patterns. Whatever you practice—whether productive or counterproductive—becomes neurologically reinforced. This is why [[Deliberate-Practice]] and intentional habit formation are foundational to self-improvement.
 > 
-> - Psychologist [[K. Anders Ericsson]], a professor of [[Psychology]] at Florida State University, was a pioneer in researching [[Deliberate Practice]] and what it means.
+> - Psychologist [[K. Anders Ericsson]], a professor of [[Psychology]] at Florida State University, was a pioneer in researching [[Deliberate-Practice]] and what it means.
 
 
 

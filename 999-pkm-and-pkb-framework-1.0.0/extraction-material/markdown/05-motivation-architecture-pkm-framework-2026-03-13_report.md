@@ -328,7 +328,7 @@ extraction_summary:
 > 
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — The replication complexity discussed in Phase III is an important epistemic note: existing mindset notes in your PKB should be flagged with appropriate confidence levels. This report's AGT-based alternative (behavioral architecture over belief change) should be linked as a complementary or alternative perspective.
 > 
-> - **[[Intrinsic-Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], [[Relatedness-Need]], [[Internalization]], and [[Flow Theory]]. This should become a central node in your learning psychology sub-network.
+> - **[[Intrinsic-Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], [[Relatedness-Need]], [[Internalization]], and [[Flow-Theory]]. This should become a central node in your learning psychology sub-network.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -500,7 +500,7 @@ extraction_summary:
 - [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]]
 - [[Feedback-Design|Feedback Design]]
 - [[Fixed-Mindset]]
-- [[Flow Theory]]
+- [[Flow-Theory]]
 - [[Gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -586,7 +586,7 @@ extraction_summary:
 | 56 | [[Competence-Need|Competence Need]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 57 | [[Relatedness-Need]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 58 | [[Internalization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
-| 59 | [[Flow Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
+| 59 | [[Flow-Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 395 |
 | 60 | [[Report 04 — Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 399 |
 | 61 | [[Report 13 — Emotional Regulation and Resilient Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 401 |
 | 62 | [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]] | — | — | D. Expansion Topics | 488 |
@@ -621,7 +621,7 @@ extraction_summary:
 - [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]]
 - [[Feedback-Design|Feedback Design]]
 - [[Fixed-Mindset]]
-- [[Flow Theory]]
+- [[Flow-Theory]]
 - [[Gamification]]
 - [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
@@ -660,7 +660,7 @@ extraction_summary:
 - [[Competence-Need|Competence Need]]
 - [[Relatedness-Need]]
 - [[Intrinsic-Motivation|Intrinsic Motivation]]
-- [[Extrinsic Motivation]]
+- [[Extrinsic-Motivation]]
 - [[Controlled-Motivation|Controlled Motivation]]
 - [[Autonomous-Motivation|Autonomous Motivation]]
 - [[Achievement-Goal-Theory|Achievement Goal Theory]]
@@ -668,17 +668,17 @@ extraction_summary:
 - [[Performance-Goals|Performance Goals]]
 - [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Fixed-Mindset]]
-- [[Implicit Theory of Intelligence]]
+- [[Implicit-Theory-of-Intelligence]]
 - [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]
 - [[Organismic-Integration-Theory]]
 - [[Internalization]]
 - [[Identified-Regulation]]
 - [[Optimal-Challenge|Optimal Challenge]]
-- [[Flow Theory]]
+- [[Flow-Theory]]
 - [[Stoic Discipline]]
 - [[Dichotomy-of-Control|Dichotomy of Control]]
 - [[Premeditatio-Malorum|Premeditatio Malorum]]
-- [[Stoic Virtue Ethics]]
+- [[Stoic-Virtue-Ethics]]
 - [[Arete]]
 - [[Gamification]]
 - [[Engagement Design]]

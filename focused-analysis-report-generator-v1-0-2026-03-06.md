@@ -22,8 +22,8 @@ secondary_domains:
 related_concepts:
   - "[[Focused Analysis Report Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Metacognitive Scaffolding]]"
+  - "[[Extended-Thinking-Architecture]]"
+  - "[[Metacognitive-Scaffolding]]"
   - "[[Active Reading Pedagogy]]"
   - "[[Knowledge Graph Integration]]"
   - "[[PKB Metadata Standards]]"
@@ -100,16 +100,16 @@ based_on_prompts:
 prerequisites:
   - "[[PKB Metadata Standards]]"
   - "[[Obsidian Callout Taxonomy]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 builds_on:
   - "[[Prompt Engineering Specialist Agent v5.1]]"
-  - "[[Extended Thinking Architecture]]"
+  - "[[Extended-Thinking-Architecture]]"
   - "[[Chain of Density]]"
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
 
 extends:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -121,13 +121,13 @@ aliases:
   - "[[Report Generator - Focused Analysis]]"
   - "[[Deep Dive Report Prompt]]"
 
-link_up: "[[Report Generation Prompt Suite]]"
+link_up: "[[Report-Generation-Prompt-Suite]]"
 link_down:
   - "[[First Principles Report Prompt]]"
-  - "[[Socratic Dialogue Report Prompt]]"
+  - "[[Socratic-Dialogue-Report-Prompt]]"
   - "[[Comparative Analysis Report Prompt]]"
 link_related:
-  - "[[Foundational Report Generator v1.0]]"
+  - "[[Foundational-Report-Generator-v1.0]]"
   - "[[Academic Report Generator]]"
   - "[[Prompt Engineering Specialist Agent v5.1]]"
 
@@ -489,7 +489,7 @@ The Cognitive Engagement Architecture addresses all three weaknesses by deployin
 
 **Purpose**: Help the reader assess and recalibrate their confidence in their understanding. Research on metacognition consistently shows that people overestimate their comprehension — calibration exercises correct this.
 
-**Cognitive Science Basis**: [[Calibration Training]] from [[Metacognitive Awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
+**Cognitive Science Basis**: [[Calibration Training]] from [[metacognitive-awareness]] research (Schraw & Dennison, 1994) — explicit calibration practice improves both monitoring accuracy and learning outcomes.
 
 **Placement**: After particularly complex or dense sections. Used sparingly — 1-3 per report.
 
@@ -861,7 +861,7 @@ foundational-for-future-learning: true
 # SOURCE & GENERATION
 # ═══════════════════════════════════════════════════════════════════════════
 source: claude-opus-4.6
-generation-prompt: "[[Focused Analysis Report Generator v1.0]]"
+generation-prompt: "[[Focused-Analysis-Report-Generator-v1.0]]"
 generation-date: "{YYYY-MM-DD}"
 ---
 ```

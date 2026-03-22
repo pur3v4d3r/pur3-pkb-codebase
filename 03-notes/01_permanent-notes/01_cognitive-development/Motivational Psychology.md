@@ -45,7 +45,7 @@ review-priority: medium
 # Motivational Psychology
 
 > [!definition]
-> - **Key-Term**:[[Motivational Psychology]]
+> - **Key-Term**:[[Motivational-Psychology]]
 > - **Definition**:<% tp.file.cursor(1) %>
 > - **Status**:🌱 `= this.maturity` | Confidence: `= this.confidence`
 
@@ -81,8 +81,8 @@ LIMIT 10
 ```
 
 ### Direct Connections
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 - [[Concept 3]]
 
 ## Practical Applications

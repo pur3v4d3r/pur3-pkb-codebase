@@ -116,29 +116,29 @@ This needs to be an exhaustive academic treatment that:
 
 **Wiki-Link Opportunities (Preliminary Identification):**
 - [[Stoicism]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Metacognition]]
-- [[Cognitive Load Theory]]
-- [[Working Memory]]
-- [[Locus of Control]]
+- [[Cognitive-Load-Theory]]
+- [[Working-Memory]]
+- [[Locus-of-Control]]
 - [[Self-Regulation-Theory]]
 - [[Rumination]]
 - [[Attention Allocation]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory]]
 - [[Autonomy]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base]]
 - [[Obsidian]]
 - [[Zettelkasten]]
 - [[Implementation-Intentions]]
 - [[Prospective Memory]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal]]
 - [[Emotional Regulation]]
 - [[Epictetus]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Julian Rotter]]
-- [[Albert Bandura]]
+- [[Albert-Bandura]]
 - [[Self-Efficacy]]
-- [[Intrinsic Motivation]]
+- [[Intrinsic-Motivation]]
 - [[Forcing Functions]]
 - [[Decision Frameworks]]
 - [[Rational Assessment]]
@@ -223,18 +223,18 @@ aliases: [Stoic Dichotomy in PKB Systems, Control Dichotomy Filter, Metacognitiv
 ---
 
 > [!abstract]
-> The **[[Stoic]] [[Dichotomy of Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive Load Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal Knowledge Base|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus of Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal Knowledge Base]] abandonment.
+> The **[[Stoic]] [[Dichotomy-of-Control]]** represents one of the most psychologically sophisticated frameworks from ancient philosophy, offering a systematic method for allocating [[Attention Allocation|attentional resources]] and reducing [[Cognitive-Load-Theory|cognitive burden]] through radical acceptance of what lies outside personal agency. When systematically encoded into [[Personal-Knowledge-Base|Personal Knowledge Management]] architecture, this ancient practice functions as a powerful [[Metacognition|metacognitive filter]] that prevents [[Rumination|ruminative cycles]], creates [[Forcing Functions|forcing functions]] for rational assessment, and aligns remarkably with contemporary research on [[Locus-of-Control]], [[Self-Regulation-Theory|self-regulatory systems]], and [[Attention Allocation|attention allocation]]. This comprehensive analysis examines how a two-thousand-year-old philosophical technology can be translated into concrete [[Obsidian]] workflows that honor both ancient wisdom and modern cognitive science, creating systems that actively prevent the psychological misalignments that cause [[Personal-Knowledge-Base]] abandonment.
 
 ---
 
 ## 📜 Historical Foundations: The Stoic Origins of Cognitive Control
 
-The **[[Dichotomy of Control]]** emerged from [[Stoicism]], a Hellenistic philosophy founded by [[Zeno of Citium]] around 300 BCE in Athens, reaching its most systematic articulation in Roman Imperial Stoicism through the works of [[Epictetus]], [[Marcus Aurelius]], and [[Seneca]]. The foundational principle appears most explicitly in Epictetus' *Enchiridion*, where he establishes a radical epistemic and practical division: "Some things are within our power, while others are not" (τὰ ἐφ'ἡμῖν vs. τὰ ούκ ἐφ'ἡμῖν). This deceptively simple bifurcation represents not mere philosophical categorization but a comprehensive psychological architecture for managing [[Cognitive-Load|cognitive resources]], regulating [[Emotional Regulation|emotional responses]], and maintaining [[Agency|psychological agency]] in conditions of uncertainty and adversity.
+The **[[Dichotomy-of-Control]]** emerged from [[Stoicism]], a Hellenistic philosophy founded by [[Zeno of Citium]] around 300 BCE in Athens, reaching its most systematic articulation in Roman Imperial Stoicism through the works of [[Epictetus]], [[Marcus-Aurelius]], and [[Seneca]]. The foundational principle appears most explicitly in Epictetus' *Enchiridion*, where he establishes a radical epistemic and practical division: "Some things are within our power, while others are not" (τὰ ἐφ'ἡμῖν vs. τὰ ούκ ἐφ'ἡμῖν). This deceptively simple bifurcation represents not mere philosophical categorization but a comprehensive psychological architecture for managing [[Cognitive-Load|cognitive resources]], regulating [[Emotional Regulation|emotional responses]], and maintaining [[Agency|psychological agency]] in conditions of uncertainty and adversity.
 
 > [!the-philosophy]
 > **Core Stoic Epistemic Framework**
 > 
-> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working Memory]] resources on variables immune to volitional influence.
+> The Stoics recognized that human suffering arises not from external events themselves, but from the *judgments* (*dogmata*) we form about those events. Epictetus formulated this as: "Men are disturbed not by things, but by the views which they take of things." This principle establishes cognition as the mediating mechanism between stimulus and response—a recognition that would not appear in modern psychology until [[Albert Ellis]] and [[Aaron Beck]] founded [[Cognitive-Behavioral-Therapy]] in the mid-20th century. The Dichotomy of Control operationalizes this insight by creating a systematic method for distinguishing controllable cognitions from uncontrollable externalities, thereby preventing the expenditure of [[Working-Memory]] resources on variables immune to volitional influence.
 
 What lies within our control, according to Epictetus, includes only our *prohairesis*—our capacity for reasoned choice, including our judgments (*dogmata*), values (*axiōmata*), desires (*orexeis*), and aversions (*ekkliseis*). Everything else—our body, reputation, property, outcomes of actions, and all external events—falls definitively outside our control. This distinction enables what modern psychology would call "cognitive distancing" or "cognitive defusion," a technique central to third-wave therapies like Acceptance and Commitment Therapy. The Stoic practitioner learns to apostrophize intrusive thoughts with the formula Epictetus taught: "You are just an impression and not at all the thing you claim to be"—a [[Metacognitive]] move that creates psychological distance from automatic cognitions.
 
@@ -244,40 +244,40 @@ What lies within our control, according to Epictetus, includes only our *prohair
 
 ### Locus of Control: Rotter's Empirical Framework
 
-The most direct psychological analog to the Stoic Dichotomy appears in [[Julian Rotter]]'s concept of **[[Locus of Control]]** (LoC), introduced in 1954 within [[Social Learning Theory]]. Locus of control describes the degree to which individuals perceive control over their lives and environment, with those having high internal LoC attributing life outcomes to their own effort and ability, while those with external LoC believe external forces like fate or powerful others predominantly dictate outcomes. While Rotter's work emerged independently from Stoic philosophy, the structural parallels are remarkable: both frameworks distinguish between what lies within personal agency and what does not, both emphasize that this distinction profoundly affects psychological outcomes, and both recognize that maladaptive beliefs about control generate psychological distress.
+The most direct psychological analog to the Stoic Dichotomy appears in [[Julian Rotter]]'s concept of **[[Locus-of-Control]]** (LoC), introduced in 1954 within [[Social Learning Theory]]. Locus of control describes the degree to which individuals perceive control over their lives and environment, with those having high internal LoC attributing life outcomes to their own effort and ability, while those with external LoC believe external forces like fate or powerful others predominantly dictate outcomes. While Rotter's work emerged independently from Stoic philosophy, the structural parallels are remarkable: both frameworks distinguish between what lies within personal agency and what does not, both emphasize that this distinction profoundly affects psychological outcomes, and both recognize that maladaptive beliefs about control generate psychological distress.
 
 > [!evidence]
 > **Contemporary Locus of Control Research Findings**
 > 
 > Recent research demonstrates that internal locus of control is associated with higher self-control, and that self-control mediates at least part of the relationship between LoC and health outcomes. This finding is particularly relevant for PKB architecture: systems that cultivate accurate perceptions of control (distinguishing what can versus cannot be controlled) may simultaneously enhance self-regulatory capacity. Studies with college students show that internality is associated with lower prevalence of depression, while chance externality (believing outcomes are random) is associated with higher risk of both anxiety and depression. The mechanism appears straightforward: focusing attention on uncontrollable variables creates a sense of helplessness and prevents action on controllable domains.
 > 
-> Longitudinal research reveals that locus of control is not entirely stable—certain life events produce large, persistent changes in LoC lasting over four years. This malleability suggests that systematic practice with control-discernment (as in Stoic exercises) could genuinely shift one's [[Locus of Control]] profile. Cross-cultural research across 37 countries confirms a strong positive relationship between internal LoC and subjective well-being, though this relationship is moderated by cultural factors like individualism-collectivism.
+> Longitudinal research reveals that locus of control is not entirely stable—certain life events produce large, persistent changes in LoC lasting over four years. This malleability suggests that systematic practice with control-discernment (as in Stoic exercises) could genuinely shift one's [[Locus-of-Control]] profile. Cross-cultural research across 37 countries confirms a strong positive relationship between internal LoC and subjective well-being, though this relationship is moderated by cultural factors like individualism-collectivism.
 
 The relationship between LoC and [[Self-Regulation-Theory]] is particularly significant for PKB design. While LoC and self-control are distinct constructs, greater internal locus of control is associated with higher self-control, suggesting these capacities reinforce each other. A PKB system that systematically trains control-discernment may therefore enhance both accurate perception of agency and actual self-regulatory capacity—creating a virtuous cycle rather than the vicious cycles that characterize failing PKB implementations.
 
 ### Cognitive Control and Attention Allocation: The Executive Function Connection
 
-The Dichotomy of Control functions fundamentally as an **[[Attention Allocation]]** heuristic—a decision rule for where to invest limited [[Working Memory|working memory]] capacity and [[Executive Function|executive resources]]. Modern research on [[Cognitive Load Theory]] reveals why this matters so profoundly: working memory has severe capacity limitations, and rumination about uncontrollable variables consumes these scarce cognitive resources, impairing performance on tasks requiring executive control. The Stoic framework provides a systematic method for preventing this resource depletion.
+The Dichotomy of Control functions fundamentally as an **[[Attention Allocation]]** heuristic—a decision rule for where to invest limited [[Working-Memory|working memory]] capacity and [[Executive-Function|executive resources]]. Modern research on [[Cognitive-Load-Theory]] reveals why this matters so profoundly: working memory has severe capacity limitations, and rumination about uncontrollable variables consumes these scarce cognitive resources, impairing performance on tasks requiring executive control. The Stoic framework provides a systematic method for preventing this resource depletion.
 
 > [!key-claim]
 > **The Attentional Scope Model of Control-Focused Cognition**
 > 
 > Research on rumination reveals that trait ruminators show difficulties updating working memory and disengaging from no-longer-relevant information, yet paradoxically also demonstrate enhanced ability to ignore distracting information and maintain task-relevant information. This seemingly contradictory pattern can be explained through an attentional scope model: ruminators exhibit a constricted array of thoughts, percepts, and actions activated in working memory. When this constricted focus is directed toward uncontrollable variables (past events, others' opinions, inevitable outcomes), it becomes pathological rumination. However, when systematically redirected toward controllable variables through Stoic practice, the same capacity for sustained attention becomes adaptive focus.
 
-From a self-regulatory perspective, rumination represents an effortful, controlled, and conscious process that allocates attentional resources toward an internal discrepancy with the aim to resolve it—but when self-regulation fails because the problem cannot be solved (as with uncontrollable variables), the ongoing unresolved discrepancy continues to trigger and maintain ruminative processes. The Dichotomy of Control prevents this failure mode by establishing a clear decision rule: if a variable is uncontrollable, it is categorically excluded from effortful analysis. This preserves [[Executive Function]] resources for domains where effort can actually produce results.
+From a self-regulatory perspective, rumination represents an effortful, controlled, and conscious process that allocates attentional resources toward an internal discrepancy with the aim to resolve it—but when self-regulation fails because the problem cannot be solved (as with uncontrollable variables), the ongoing unresolved discrepancy continues to trigger and maintain ruminative processes. The Dichotomy of Control prevents this failure mode by establishing a clear decision rule: if a variable is uncontrollable, it is categorically excluded from effortful analysis. This preserves [[Executive-Function]] resources for domains where effort can actually produce results.
 
 Empirical research demonstrates that rumination does not impair attention, executive control, or response selection in general, but rather selectively impairs the control of stimulus-induced retrieval of irrelevant information. This specificity is crucial: the problem is not global cognitive impairment but rather *inappropriate allocation of control resources to uncontrollable stimuli*. The Stoic framework directly addresses this by training practitioners to immediately classify stimuli as controllable or uncontrollable, preventing the activation of control resources for the latter category.
 
 ### Self-Regulation: Executive Function as Implementation Mechanism
 
-The relationship between [[Executive Function]] and [[Self-Regulation-Theory]] illuminates how the Dichotomy of Control operates mechanistically. Executive function comprises a set of cognitive capacities that, when implemented, enable self-regulation to occur—crucially, EF is available for purposes other than self-regulation, such as solving mental math problems. This distinction matters for PKB architecture: the Dichotomy of Control doesn't directly improve executive function capacity, but it *optimizes the deployment* of existing executive resources by preventing their allocation to uncontrollable domains.
+The relationship between [[Executive-Function]] and [[Self-Regulation-Theory]] illuminates how the Dichotomy of Control operates mechanistically. Executive function comprises a set of cognitive capacities that, when implemented, enable self-regulation to occur—crucially, EF is available for purposes other than self-regulation, such as solving mental math problems. This distinction matters for PKB architecture: the Dichotomy of Control doesn't directly improve executive function capacity, but it *optimizes the deployment* of existing executive resources by preventing their allocation to uncontrollable domains.
 
 > [!analogy]
 > **The Resource Allocation Analogy**
 > 
-> Consider [[Working Memory]] as analogous to a limited energy budget in a household. A family might have precisely enough energy to power essential systems (heating, refrigeration, lighting) but not enough for non-essential luxuries (hot tub, decorative lighting, etc.). In this scenario, there are two ways to ensure essential systems remain functional: (1) increase total energy capacity (difficult, expensive, slow), or (2) systematically prevent energy allocation to non-essential systems (straightforward, immediate, sustainable). The Dichotomy of Control takes the second approach with cognitive resources. It doesn't expand [[Working Memory]] capacity (which is largely fixed in adults), but it prevents the *waste* of that capacity on uncontrollable variables, ensuring sufficient resources remain available for controllable domains that actually benefit from cognitive effort.
+> Consider [[Working-Memory]] as analogous to a limited energy budget in a household. A family might have precisely enough energy to power essential systems (heating, refrigeration, lighting) but not enough for non-essential luxuries (hot tub, decorative lighting, etc.). In this scenario, there are two ways to ensure essential systems remain functional: (1) increase total energy capacity (difficult, expensive, slow), or (2) systematically prevent energy allocation to non-essential systems (straightforward, immediate, sustainable). The Dichotomy of Control takes the second approach with cognitive resources. It doesn't expand [[Working-Memory]] capacity (which is largely fixed in adults), but it prevents the *waste* of that capacity on uncontrollable variables, ensuring sufficient resources remain available for controllable domains that actually benefit from cognitive effort.
 
-Basic facets of executive functioning—working memory operations, behavioral inhibition, and task-switching—subserve successful self-regulation, and temporary reductions in executive functions underlie many situational risk factors for self-regulation failure. The Dichotomy of Control prevents these temporary reductions by establishing clear boundaries: when facing an uncontrollable situation, the practitioner doesn't attempt to inhibit, switch, or hold multiple plans in working memory regarding that situation. Instead, they execute a single, well-practiced response: acceptance and redirection of attention to controllable variables. This conserves [[Executive Function]] capacity rather than depleting it through futile control attempts.
+Basic facets of executive functioning—working memory operations, behavioral inhibition, and task-switching—subserve successful self-regulation, and temporary reductions in executive functions underlie many situational risk factors for self-regulation failure. The Dichotomy of Control prevents these temporary reductions by establishing clear boundaries: when facing an uncontrollable situation, the practitioner doesn't attempt to inhibit, switch, or hold multiple plans in working memory regarding that situation. Instead, they execute a single, well-practiced response: acceptance and redirection of attention to controllable variables. This conserves [[Executive-Function]] capacity rather than depleting it through futile control attempts.
 
 Research on the relationship between self-regulated learning and executive function reveals primarily low-to-moderate correlational relationships, with measurement methods influencing correlation size—indirect measures (questionnaires) correlate more highly than direct measures (performance tasks). This pattern suggests that self-regulation involves not just raw executive capacity but also *beliefs and strategies about when and how to deploy that capacity*. The Dichotomy of Control provides exactly such a strategy: a decision heuristic for executive resource deployment.
 
@@ -287,14 +287,14 @@ Research on the relationship between self-regulated learning and executive funct
 
 ### Cognitive Load Reduction Through Categorical Exclusion
 
-The primary mechanism by which the Dichotomy reduces [[Cognitive-Load]] operates through *categorical exclusion* of uncontrollable variables from [[Working Memory]] processing. This is not mere "positive thinking" or denial—it's a systematic application of [[Information Theory]] principles to cognitive resource management. Every stimulus that enters awareness triggers an automatic evaluation: "Is this controllable or uncontrollable?" If uncontrollable, no further processing occurs—no elaboration, no scenario planning, no emotional amplification, no problem-solving attempts. This immediate categorization prevents the cascade of resource-intensive processes that would otherwise ensue.
+The primary mechanism by which the Dichotomy reduces [[Cognitive-Load]] operates through *categorical exclusion* of uncontrollable variables from [[Working-Memory]] processing. This is not mere "positive thinking" or denial—it's a systematic application of [[Information Theory]] principles to cognitive resource management. Every stimulus that enters awareness triggers an automatic evaluation: "Is this controllable or uncontrollable?" If uncontrollable, no further processing occurs—no elaboration, no scenario planning, no emotional amplification, no problem-solving attempts. This immediate categorization prevents the cascade of resource-intensive processes that would otherwise ensue.
 
 > [!core-principle]
 > **The Principle of Metacognitive Gating**
 > 
-> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John Sweller]] in [[Cognitive Load Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
+> The Dichotomy functions as a **[[Metacognitive]] gate** that regulates what information receives sustained processing. In computational terms, it's a boolean filter applied at the threshold of working memory: `if (controllable) {process} else {accept_and_redirect}`. This prevents what [[John-Sweller]] in [[Cognitive-Load-Theory]] terms "extraneous cognitive load"—processing that does not contribute to schema construction or [[Automaticity]] development. Uncontrollable variables, by definition, cannot inform better action; therefore, any cognitive load devoted to processing them is extraneous. The Dichotomy eliminates this load systematically.
 
-The contrast with common cognitive patterns is stark. Without systematic control-discernment training, individuals typically engage in what might be called "undifferentiated processing"—applying similar cognitive effort to both controllable and uncontrollable domains. This creates several pathologies: (1) [[Rumination]] on past uncontrollable events, consuming resources that could address present controllable situations; (2) anxiety about future uncontrollable outcomes, likewise wasting [[Working Memory]] capacity; (3) frustration with uncontrollable aspects of controllable situations, preventing effective action on the controllable components; and (4) learned helplessness from repeated failure to control the uncontrollable, generalizing inappropriately to controllable domains.
+The contrast with common cognitive patterns is stark. Without systematic control-discernment training, individuals typically engage in what might be called "undifferentiated processing"—applying similar cognitive effort to both controllable and uncontrollable domains. This creates several pathologies: (1) [[Rumination]] on past uncontrollable events, consuming resources that could address present controllable situations; (2) anxiety about future uncontrollable outcomes, likewise wasting [[Working-Memory]] capacity; (3) frustration with uncontrollable aspects of controllable situations, preventing effective action on the controllable components; and (4) learned helplessness from repeated failure to control the uncontrollable, generalizing inappropriately to controllable domains.
 
 ### Rumination Prevention Through Temporal and Causal Boundaries
 
@@ -307,7 +307,7 @@ Neuroimaging research reveals that ruminative depression relates to attention bi
 
 Studies comparing high-ruminators to low-ruminators demonstrate that ruminators have more difficulty switching between internal representations in working memory, particularly when negative stimuli reflect personally relevant worry themes. The Dichotomy prevents this switching difficulty by establishing a simple rule: uncontrollable content doesn't enter working memory's active processing space in the first place. There's no need to "switch away from" ruminative thoughts if those thoughts are categorically excluded at the point of initial classification.
 
-The temporal dimension is particularly important for [[Personal Knowledge Base]] architecture. Many PKB abandonment patterns involve rumination about past system failures ("I should have tagged this differently"), anxiety about future system inadequacy ("What if I can't find this information when I need it?"), or frustration with current limitations ("This system isn't as good as it should be"). All of these represent allocation of cognitive resources to variables that are either uncontrollable (the past) or not currently actionable (hypothetical future failures). A PKB system architecturally encoded with the Dichotomy would systematically redirect attention from these ruminations to controllable present actions: "What can I do *right now* to make this note more useful?"
+The temporal dimension is particularly important for [[Personal-Knowledge-Base]] architecture. Many PKB abandonment patterns involve rumination about past system failures ("I should have tagged this differently"), anxiety about future system inadequacy ("What if I can't find this information when I need it?"), or frustration with current limitations ("This system isn't as good as it should be"). All of these represent allocation of cognitive resources to variables that are either uncontrollable (the past) or not currently actionable (hypothetical future failures). A PKB system architecturally encoded with the Dichotomy would systematically redirect attention from these ruminations to controllable present actions: "What can I do *right now* to make this note more useful?"
 
 ### Forcing Functions for Rational Assessment
 
@@ -324,7 +324,7 @@ The Dichotomy creates **[[Forcing Functions]]**—architectural constraints that
 > 
 > In PKB architecture, this translates to systematic evaluation of what aspects of knowledge management lie within control (note structure, linking strategy, review practices) versus what lies outside control (whether specific information will be needed, how much time will be available for review, whether the system will prevent all possible future failures).
 
-The forcing function mechanism operates through *automatization of decision architecture*. Initially, applying the Dichotomy requires explicit, effortful classification of each situation. However, with sustained practice, the classification process becomes increasingly automatic—a well-established [[Schema]] that can be activated with minimal [[Working Memory]] demand. This follows the standard progression described in [[Cognitive Load Theory]]: effortful processing gradually becomes automated, freeing resources for higher-level thinking.
+The forcing function mechanism operates through *automatization of decision architecture*. Initially, applying the Dichotomy requires explicit, effortful classification of each situation. However, with sustained practice, the classification process becomes increasingly automatic—a well-established [[Schema]] that can be activated with minimal [[Working-Memory]] demand. This follows the standard progression described in [[Cognitive-Load-Theory]]: effortful processing gradually becomes automated, freeing resources for higher-level thinking.
 
 ---
 
@@ -436,7 +436,7 @@ The [[Zettelkasten]]-inspired linking structure in [[Obsidian]] can encode contr
 
 ### Spaced Repetition for Habit Formation
 
-The Dichotomy's effectiveness depends on automatizing control-discernment—transforming it from effortful analysis to immediate recognition. [[Spaced Repetition]] systems can accelerate this automatization by systematically practicing control classification until it becomes a reflexive [[Metacognitive]] skill.
+The Dichotomy's effectiveness depends on automatizing control-discernment—transforming it from effortful analysis to immediate recognition. [[Spaced-Repetition]] systems can accelerate this automatization by systematically practicing control classification until it becomes a reflexive [[Metacognitive]] skill.
 
 > [!methodology-and-sources]
 > **Flashcard Design for Control Automatization**
@@ -454,7 +454,7 @@ The Dichotomy's effectiveness depends on automatizing control-discernment—tran
 
 ### Progressive Summarization with Control Filtering
 
-[[Tiago Forte]]'s [[Progressive Summarization]] technique can be adapted to systematically filter for controllability at each summarization layer, ensuring that the most prominent, easily accessible information focuses on actionable, controllable domains.
+[[Tiago Forte]]'s [[Progressive-Summarization]] technique can be adapted to systematically filter for controllability at each summarization layer, ensuring that the most prominent, easily accessible information focuses on actionable, controllable domains.
 
 > [!example]
 > **Control-Filtered Progressive Summarization**
@@ -475,7 +475,7 @@ The Dichotomy's effectiveness depends on automatizing control-discernment—tran
 
 ### Self-Determination Theory Alignment
 
-The Dichotomy of Control shows remarkable alignment with [[Self-Determination Theory]]'s (SDT) three basic psychological needs: [[Autonomy]], [[Competence]], and [[Relatedness]]. Research demonstrates that adult learning motivation depends on satisfying these three needs, and that effective PKB systems must function as "psychological architectures" that support rather than undermine intrinsic motivation.
+The Dichotomy of Control shows remarkable alignment with [[Self-Determination-Theory]]'s (SDT) three basic psychological needs: [[Autonomy]], [[Competence]], and [[Relatedness]]. Research demonstrates that adult learning motivation depends on satisfying these three needs, and that effective PKB systems must function as "psychological architectures" that support rather than undermine intrinsic motivation.
 
 > [!insight]
 > **The Control-Autonomy Connection**
@@ -488,7 +488,7 @@ The Dichotomy of Control shows remarkable alignment with [[Self-Determination Th
 
 ### Cognitive Load Theory Implementation
 
-The relationship to [[Cognitive Load Theory]] is direct and profound. Working memory's severe limitations function as the primary constraint in knowledge work, requiring systems that reduce rather than add cognitive burden. The Dichotomy reduces three types of cognitive load simultaneously:
+The relationship to [[Cognitive-Load-Theory]] is direct and profound. Working memory's severe limitations function as the primary constraint in knowledge work, requiring systems that reduce rather than add cognitive burden. The Dichotomy reduces three types of cognitive load simultaneously:
 
 > [!core-principle]
 > **Triple Load Reduction Mechanism**
@@ -497,7 +497,7 @@ The relationship to [[Cognitive Load Theory]] is direct and profound. Working me
 > 
 > **Extraneous Load** (poor instructional design): Dramatically reduced by preventing processing of uncontrollable variables. Every moment spent ruminating about past note-taking decisions or worrying about future system inadequacy is extraneous load—processing that doesn't build schemas or develop skills. The Dichotomy systematically eliminates this entire category.
 > 
-> **Germane Load** (schema construction and automation): Actually *enhanced* because freed resources can be allocated to productive schema building. With rumination and anxiety eliminated, more [[Working Memory]] capacity becomes available for the effortful processing required to build robust knowledge structures.
+> **Germane Load** (schema construction and automation): Actually *enhanced* because freed resources can be allocated to productive schema building. With rumination and anxiety eliminated, more [[Working-Memory]] capacity becomes available for the effortful processing required to build robust knowledge structures.
 
 The net effect aligns with Sweller's principle that effective instruction maximizes germane load while minimizing extraneous load, keeping total load within working memory capacity. A PKB system encoded with the Dichotomy does exactly this: maximizes resources available for actual learning (germane) while eliminating worry and rumination (extraneous).
 
@@ -611,7 +611,7 @@ Review processes should architecturally integrate acceptance of uncontrollable e
 
 ### Neural Correlates of Stoic Practice
 
-While behavioral research on [[Locus of Control]] and [[Rumination]] is extensive, the specific neural mechanisms underlying Stoic control-discernment practice remain understudied. Research shows that rumination relates to attention biases via altered frontoinsular and default network functioning, but we lack neuroimaging studies specifically examining how systematic Stoic practice might alter these networks. Future research using fMRI or EEG during control-discernment tasks could reveal whether consistent practice produces measurable changes in default mode network activity, prefrontal control network engagement, or connectivity between these systems.
+While behavioral research on [[Locus-of-Control]] and [[Rumination]] is extensive, the specific neural mechanisms underlying Stoic control-discernment practice remain understudied. Research shows that rumination relates to attention biases via altered frontoinsular and default network functioning, but we lack neuroimaging studies specifically examining how systematic Stoic practice might alter these networks. Future research using fMRI or EEG during control-discernment tasks could reveal whether consistent practice produces measurable changes in default mode network activity, prefrontal control network engagement, or connectivity between these systems.
 
 > [!question]
 > **Critical Research Questions**

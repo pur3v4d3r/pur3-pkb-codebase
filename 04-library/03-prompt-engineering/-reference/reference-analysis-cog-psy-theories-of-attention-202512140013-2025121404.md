@@ -416,7 +416,7 @@ improvement-potential: "Medium"
 | [[Chain-of-Density]] | <span style='color: #27FF00;'>**Strong (9/10)**</span> | Progressive layering from foundational concepts → mechanisms → empirical evidence → implications |
 | [[Skeleton-of-Thought]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Clear outline-first structure evident in section organization |
 | [[Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |
-| [[Few-Shot Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
+| [[Few-Shot-Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |
 
 > [!helpful-tip] Technique Recommendations
 > 
@@ -439,9 +439,9 @@ improvement-potential: "Medium"
 > **Link Quality**: Generally high—meaningful conceptual connections
 > 
 > <span style='color: #27FF00;'>**Well-Executed Links:**</span>
-> - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
-> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)
-> - Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`
+> - Core constructs: `[[Selective-Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`
+> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel-Kahneman]]` (implied)
+> - Related frameworks: `[[Working-Memory]]`, `[[Cognitive-Load-Theory]]`, `[[Self-Determination-Theory]]`
 > - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`
 
 > [!warning] Missed Wiki-Link Opportunities
@@ -575,7 +575,7 @@ improvement-potential: "Medium"
 > 4. **Add missed wiki-links**:
 >    - `[[Yerkes-Dodson Law]]` at line 488
 >    - `[[Anne Treisman]]` at line 421
->    - `[[Iconic Memory]]` and `[[Echoic Memory]]` at line 396
+>    - `[[Iconic-Memory]]` and `[[Echoic-Memory]]` at line 396
 >    - `[[Information Theory]]` at line 372
 > 
 > 5. **Fix callout type** at line 337: Change `> [! ]` to valid callout type or remove
@@ -597,7 +597,7 @@ improvement-potential: "Medium"
 >    ```markdown
 >    ## 🔗 Integration with Cognitive Frameworks
 >    
->    ### [[Working Memory]]
+>    ### [[Working-Memory]]
 >    Kahneman's capacity model provided theoretical foundation…
 >    ```
 > 
@@ -699,10 +699,10 @@ Verify:
 
 For cognitive science content, ALWAYS wiki-link:
 - Named theories (e.g., [[Filter Model]], [[Capacity Model]])
-- Named researchers (e.g., [[Donald Broadbent]], [[Daniel Kahneman]])
+- Named researchers (e.g., [[Donald Broadbent]], [[Daniel-Kahneman]])
 - Named laws/principles (e.g., [[Yerkes-Dodson Law]])
 - Named experimental paradigms (e.g., [[Dichotic Listening Task]])
-- Memory systems (e.g., [[Iconic Memory]], [[Echoic Memory]])
+- Memory systems (e.g., [[Iconic-Memory]], [[Echoic-Memory]])
 - Related frameworks mentioned in connections section
 </wiki_link_requirements>
 ```
@@ -717,7 +717,7 @@ For cognitive science content, ALWAYS wiki-link:
 |-----------|--------|-----------------|
 | `[[cognitive-science-moc]]` | High | Add this note as key reference |
 | `[[learning-theory-moc]]` | Medium | Cross-reference via Cognitive Load Theory |
-| `[[attention]]` tag family | High | Verify tag hierarchy consistency |
+| `[[Attention]]` tag family | High | Verify tag hierarchy consistency |
 | Permanent note template | Low | No template changes needed |
 | DataviewJS extraction | None | Inline fields already compatible |
 

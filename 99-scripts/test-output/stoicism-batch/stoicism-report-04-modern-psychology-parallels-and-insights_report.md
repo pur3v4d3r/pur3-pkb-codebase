@@ -186,7 +186,7 @@ extraction_summary:
 #### 8. [KEY-INSIGHT] Untitled *(Line 381)*
 
 > [!key-insight] Untitled
-> **Convergence Point 3 — Internal Locus of Control**: The Stoic [[Dichotomy of Control]] — the distinction between what is *eph' hēmin* (up to us) and what is *ouk eph' hēmin* (not up to us) — finds a direct empirical parallel in the psychological research on *locus of control*, first systematized by Julian Rotter in the 1950s and subsequently developed by an enormous body of research. The consistent finding of this literature is that an *internal* locus of control (the belief that one's outcomes are primarily determined by one's own actions and choices) is associated with lower anxiety, greater resilience, better health behaviors, and higher wellbeing — while an *external* locus of control (the belief that outcomes are determined by luck, fate, or powerful others) is associated with depression, anxiety, and learned helplessness. The Stoic practical prescription to focus attention and effort on what is genuinely one's own (judgment, intention, response) rather than on what is not (external outcomes, others' opinions, chance) is, in psychological terms, a systematic training in internal locus of control.
+> **Convergence Point 3 — Internal Locus of Control**: The Stoic [[Dichotomy-of-Control]] — the distinction between what is *eph' hēmin* (up to us) and what is *ouk eph' hēmin* (not up to us) — finds a direct empirical parallel in the psychological research on *locus of control*, first systematized by Julian Rotter in the 1950s and subsequently developed by an enormous body of research. The consistent finding of this literature is that an *internal* locus of control (the belief that one's outcomes are primarily determined by one's own actions and choices) is associated with lower anxiety, greater resilience, better health behaviors, and higher wellbeing — while an *external* locus of control (the belief that outcomes are determined by luck, fate, or powerful others) is associated with depression, anxiety, and learned helplessness. The Stoic practical prescription to focus attention and effort on what is genuinely one's own (judgment, intention, response) rather than on what is not (external outcomes, others' opinions, chance) is, in psychological terms, a systematic training in internal locus of control.
 
 #### 9. [KEY-INSIGHT] Untitled *(Line 390)*
 
@@ -367,12 +367,12 @@ extraction_summary:
 ### Unique Targets
 
 - [[Aaron Beck]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
-- [[Dichotomy of Control]]
+- [[Cognitive-Behavioral-Therapy]]
+- [[Dichotomy-of-Control]]
 - [[Donald Robertson and Stoic CBT]]
 - [[Epictetus]]
 - [[James Gross]]
@@ -397,19 +397,19 @@ extraction_summary:
 | 2 | [[Stoicism in Practice - Daily Exercises and Mindset Shifts]] | — | — | Stoicism and Modern Psychology: Paral... | 264 |
 | 3 | [[Stoicism in Leadership and Decision-Making]] | — | — | Stoicism and Modern Psychology: Paral... | 265 |
 | 4 | [[Epictetus]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
-| 5 | [[Cognitive Behavioral Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
+| 5 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 1: Introducing the Comparison — ... | 274 |
 | 6 | [[Prohairesis]] | — | — | The Stoic Account of Impressions and ... | 296 |
 | 7 | [[Chrysippus]] | — | — | The Stoic Theory of Cognitive Distortion | 319 |
-| 8 | [[Cognitive Behavioral Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
+| 8 | [[Cognitive-Behavioral-Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 9 | [[Rational Emotive Behavior Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
-| 10 | [[Acceptance and Commitment Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
+| 10 | [[Acceptance-and-Commitment-Therapy]] | — | — | Part 3: Portrait of Framework B — Mod... | 329 |
 | 11 | [[Aaron Beck]] | — | — | Cognitive Behavioral Therapy and REBT | 333 |
 | 12 | [[Albert Ellis]] | — | — | Cognitive Behavioral Therapy and REBT | 337 |
 | 13 | [[Steven Hayes]] | — | — | Cognitive Behavioral Therapy and REBT | 345 |
 | 14 | [[Martin Seligman]] | — | — | Cognitive Behavioral Therapy and REBT | 349 |
 | 15 | [[Richard Lazarus]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
 | 16 | [[James Gross]] | — | — | Convergence 1: The Cognitive Constitu... | 362 |
-| 17 | [[Dichotomy of Control]] | — | — | Convergence 3: The Locus of Control a... | 382 |
+| 17 | [[Dichotomy-of-Control]] | — | — | Convergence 3: The Locus of Control a... | 382 |
 | 18 | [[Thomas Aquinas]] | — | — | Part 7: Historical Connections — The ... | 488 |
 | 19 | [[Stoic Emotional Theory - Pathē and Eupatheia]] | — | — | Expansion Topics for PKB | 591 |
 | 20 | [[Donald Robertson and Stoic CBT]] | — | — | Expansion Topics for PKB | 592 |
@@ -448,12 +448,12 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Aaron Beck]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Albert Ellis]]
 - [[Albert Ellis and the Stoic Heritage of REBT]]
 - [[Chrysippus]]
-- [[Cognitive Behavioral Therapy]]
-- [[Dichotomy of Control]]
+- [[Cognitive-Behavioral-Therapy]]
+- [[Dichotomy-of-Control]]
 - [[Donald Robertson and Stoic CBT]]
 - [[Epictetus]]
 - [[James Gross]]
@@ -482,29 +482,29 @@ extraction_summary:
 #### Related
 
 - [[Stoicism]]
-- [[Marcus Aurelius]]
+- [[Marcus-Aurelius]]
 - [[Epictetus]]
 - [[Seneca]]
-- [[Cognitive Behavioral Therapy]]
+- [[Cognitive-Behavioral-Therapy]]
 - [[Rational Emotive Behavior Therapy]]
-- [[Acceptance and Commitment Therapy]]
+- [[Acceptance-and-Commitment-Therapy]]
 - [[Positive Psychology]]
 - [[Mindfulness]]
 - [[Emotion Regulation]]
-- [[Dichotomy of Control]]
+- [[Dichotomy-of-Control]]
 - [[Prohairesis]]
 - [[Eudaimonia]]
 - [[Albert Ellis]]
 - [[Aaron Beck]]
 - [[James Gross]]
 - [[Martin Seligman]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal]]
 
 #### Broader
 
 - [[Philosophy MOC]]
 - [[Psychology MOC]]
-- [[Virtue Ethics]]
+- [[Virtue-Ethics]]
 - [[History of Psychology]]
 
 #### Narrower

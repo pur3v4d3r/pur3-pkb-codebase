@@ -34,7 +34,7 @@ link-related:
 > **Note:**
 >
 >   * **Learning Model:** [[Hegelian-Dialectic]] (Thesis-Antithesis-Synthesis).
->   * **Pedagogical Purpose:** To cultivate deep [[Critical Thinking]] by forcing a confrontation between opposing ideas, leading to a more nuanced, integrated, and sophisticated understanding (Synthesis) rather than a simple "winner-takes-all" conclusion.
+>   * **Pedagogical Purpose:** To cultivate deep [[Critical-Thinking]] by forcing a confrontation between opposing ideas, leading to a more nuanced, integrated, and sophisticated understanding (Synthesis) rather than a simple "winner-takes-all" conclusion.
 >   * **Best Use Cases:**
 >     1.  Analyzing complex, controversial, or "grey" topics (e.g., [[The Ethics of AI]], [[Economic Policy Debates]], [[Philosophical Arguments]]).
 >     2.  Evaluating competing scientific theories or historical interpretations.

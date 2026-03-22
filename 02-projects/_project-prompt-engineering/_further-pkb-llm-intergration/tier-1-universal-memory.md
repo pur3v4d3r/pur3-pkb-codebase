@@ -72,7 +72,7 @@ All note-type outputs follow these conventions (detailed implementation in opera
 - Strategic alias generation for discoverability
 
 **Content Formatting:**
-- Wiki-links for all key concepts: `[[Concept Name]]`
+- Wiki-links for all key concepts: `[[Concept-Name]]`
 - Semantic callouts from approved taxonomy (30+ types)
 - Signature color palette: Purple #7800F4, Gold #FFC700, Teal #72FFF1
 - Prose-dominant structure (detailed paragraphs over bullet lists)

@@ -104,7 +104,7 @@ tags:
 > REMINDER:
 > - Tone: Academic, rigorous.
 > - Format: Strict Markdown.
-> - Meta-Data: Include [[Wiki-Links]] for all technical terms.
+> - Meta-Data: Include [[wiki-links]] for all technical terms.
 > - Forbidden: Do not summarize.
 > ---
 > ```

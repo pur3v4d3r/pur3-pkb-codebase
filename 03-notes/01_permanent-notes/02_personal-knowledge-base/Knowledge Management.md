@@ -27,7 +27,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Knowledge Management]]
+> - **Key-Term**:: [[Knowledge-Management]]
 > - [**Definition**:: The process of capturing, developing, sharing, and effectively using organizational information and expertise.]
 
 

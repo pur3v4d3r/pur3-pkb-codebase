@@ -156,10 +156,10 @@ Add YAML frontmatter if missing
 [INJECT SCAFFOLD 03: Wiki-Link Density Guide]
 ↓
 Scan content for linkable concepts:
-- Core concepts → [[Wiki-Links]]
-- Technical terms → [[Wiki-Links]]
-- Frameworks → [[Wiki-Links]]
-- Prerequisites → [[Wiki-Links]]
+- Core concepts → [[wiki-links]]
+- Technical terms → [[wiki-links]]
+- Frameworks → [[wiki-links]]
+- Prerequisites → [[wiki-links]]
 ↓
 [INJECT SCAFFOLD 04: Callout Semantic Selector]
 ↓

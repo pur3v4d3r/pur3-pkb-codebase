@@ -962,8 +962,8 @@ aliases:
 
 ### Fundamental Techniques
 - [[Zero-Shot Prompting]]
-- [[Few-Shot Learning]]
-- [[Chain-of-Thought Prompting]]
+- [[Few-Shot-Learning]]
+- [[Chain-of-Thought-Prompting]]
 - [[Role-Based Prompting]]
 
 ### Advanced Techniques
@@ -976,7 +976,7 @@ SORT maturity DESC, file.name
 
 ### Reasoning & Agent Systems
 - [[ReAct Framework]]
-- [[Tree of Thoughts]]
+- [[Tree-of-Thoughts]]
 - [[Autonomous Agents]]
 - [[Tool-Using Agents]]
 
@@ -1194,7 +1194,7 @@ dv.table(["Validation Status", "Count"],
 ## 📚 Learning Paths
 
 ### Beginner Path
-1. [[Prompt Engineering Fundamentals]]
+1. [[Prompt-Engineering-Fundamentals]]
 2. [[Basic Prompt Anatomy]]
 3. [[Zero-Shot vs Few-Shot]]
 4. [[Simple Persona Patterns]]

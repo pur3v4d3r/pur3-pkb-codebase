@@ -26,7 +26,7 @@ cp meta-in-context-learning-exemplar.md /path/to/vault/In-Context-Learning/
 Add references from these existing notes:
 - `[[Prompt Engineering Index]]` - Main hub
 - `[[In-Context Learning]]` - Parent concept
-- `[[Few-Shot Learning]]` - Related technique
+- `[[Few-Shot-Learning]]` - Related technique
 - `[[Chain-of-Thought]]` - Integration partner
 
 Example link syntax:
@@ -63,7 +63,7 @@ Add to `00-prompt-engineering-index.md`:
 ```markdown
 ### In-Context Learning Techniques
 
-- [[Few-Shot Learning]] - Basic ICL with k demonstrations
+- [[Few-Shot-Learning]] - Basic ICL with k demonstrations
 - [[Meta-In-Context Learning]] ⭐ - Meta-trained ICL for domain shift
 - [[Implicit In-Context Learning]] - Activation space efficiency
 ```
@@ -195,7 +195,7 @@ result = inference.predict(
 
 From exemplar Section: PKB Integration > Upstream Connections:
 
-1. **[[Few-Shot Learning]]** - Understanding basic ICL
+1. **[[Few-Shot-Learning]]** - Understanding basic ICL
    - Why: MetaICL builds on standard ICL
    - Focus: Demonstration formatting, k-shot setup
 

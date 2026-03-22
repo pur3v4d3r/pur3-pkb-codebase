@@ -20,7 +20,7 @@ related_concepts:
   - "[[Competence-Need|Competence Need]]"
   - "[[Relatedness-Need]]"
   - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
-  - "[[Extrinsic Motivation]]"
+  - "[[Extrinsic-Motivation]]"
   - "[[Controlled-Motivation|Controlled Motivation]]"
   - "[[Autonomous-Motivation|Autonomous Motivation]]"
   - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
@@ -28,17 +28,17 @@ related_concepts:
   - "[[Performance-Goals|Performance Goals]]"
   - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Fixed-Mindset]]"
-  - "[[Implicit Theory of Intelligence]]"
+  - "[[Implicit-Theory-of-Intelligence]]"
   - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic-Integration-Theory]]"
   - "[[Internalization]]"
   - "[[Identified-Regulation]]"
   - "[[Optimal-Challenge|Optimal Challenge]]"
-  - "[[Flow Theory]]"
+  - "[[Flow-Theory]]"
   - "[[Stoic Discipline]]"
   - "[[Dichotomy-of-Control|Dichotomy of Control]]"
   - "[[Premeditatio-Malorum|Premeditatio Malorum]]"
-  - "[[Stoic Virtue Ethics]]"
+  - "[[Stoic-Virtue-Ethics]]"
   - "[[Arete]]"
   - "[[Gamification]]"
   - "[[Engagement Design]]"
@@ -396,7 +396,7 @@ Several important questions remain open. The relationship between individual lea
 >
 > - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — The replication complexity discussed in Phase III is an important epistemic note: existing mindset notes in your PKB should be flagged with appropriate confidence levels. This report's AGT-based alternative (behavioral architecture over belief change) should be linked as a complementary or alternative perspective.
 >
-> - **[[Intrinsic-Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], [[Relatedness-Need]], [[Internalization]], and [[Flow Theory]]. This should become a central node in your learning psychology sub-network.
+> - **[[Intrinsic-Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], [[Relatedness-Need]], [[Internalization]], and [[Flow-Theory]]. This should become a central node in your learning psychology sub-network.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >

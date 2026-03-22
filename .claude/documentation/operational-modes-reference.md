@@ -433,7 +433,7 @@ Apply formatting protocols **only where deficient**:
 
 **Wiki-Link Addition:**
 - Scan content for linkable concepts
-- Add `[[Wiki-Links]]` to terms matching discovery heuristic
+- Add `[[wiki-links]]` to terms matching discovery heuristic
 - Bring link density up to target for note type
 - **Don't over-link**: If existing links are adequate, don't force more
 
@@ -533,7 +533,7 @@ aliases: [CLT, Working Memory Theory]
    - Related concepts (deep learning, machine learning, supervised learning)
    - Specific algorithms (convolutional neural networks, recurrent neural networks)
    - Tools/frameworks (TensorFlow, PyTorch)
-3. Use Edit tool to convert plain text to `[[Wiki-Links]]`
+3. Use Edit tool to convert plain text to `[[wiki-links]]`
 4. Achieve target density: ~25 wiki-links for 2000-word reference note
 
 **Example Edit:**
@@ -803,8 +803,8 @@ This follows your existing project structure pattern (see `02-projects/`).
 **Link Integration Plan:**
 
 For `cognitive-load-types.md` (currently 1 in, 0 out):
-- Add outgoing links to: [[working-memory]], [[instructional-design]], [[learning-theory]]
-- Create incoming links from: [[cognitive-science-MOC]], [[educational-psychology]]
+- Add outgoing links to: [[Working-Memory]], [[Instructional-Design]], [[learning-theory]]
+- Create incoming links from: [[cognitive-science-MOC]], [[Educational-Psychology]]
 - This will bring it to 4 connections (meets 2+ in/out threshold)
 ```
 
@@ -884,7 +884,7 @@ Found 23 notes tagged #prompt-engineering:
 - Valid links: 2,674 (94%)
 - Broken links: 173 (6%)
   - Most common: Links to unwritten "ghost notes"
-  - Top missing: [[self-regulated-learning]] (referenced 12 times)
+  - Top missing: [[Self-Regulated-Learning]] (referenced 12 times)
 
 **Metadata Compliance:** 78% (Fair)
 - Complete YAML: 267 notes (78%)
@@ -1370,7 +1370,7 @@ Structured outline with formatting plan
 <instructions>
 1. Write comprehensive content:
    - 1500-4000+ words targeting depth mandate
-   - Integrate [[Wiki-Links]] during writing (not after)
+   - Integrate [[wiki-links]] during writing (not after)
    - Add semantic callouts for key sections
    - Embed inline fields for extractable content
    - Apply semantic color coding to key terms

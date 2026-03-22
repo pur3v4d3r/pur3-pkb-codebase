@@ -1435,7 +1435,7 @@ link-related:
 > [!what-this-does]
 > **Automated Reporting for Validation**
 > 
-> Use these [[dataview]] queries to monitor refactoring progress and identify issues:
+> Use these [[Dataview]] queries to monitor refactoring progress and identify issues:
 
 ### Query 1: Notes Without Proper Tags
 ```dataview

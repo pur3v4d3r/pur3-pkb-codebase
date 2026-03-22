@@ -561,12 +561,12 @@ extraction_summary:
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]
 - [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]]
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
-- [[Report 01]]
+- [[Report-01]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]
@@ -622,10 +622,10 @@ extraction_summary:
 | 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
 | 33 | [[Working-Memory|Working Memory]] | — | — | The Working Memory Evidence: Navigati... | 211 |
 | 34 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Self-Regulated Learning Evidence:... | 228 |
-| 35 | [[Report 01]] | — | — | Mechanism 1: The Schema-Structure Cou... | 265 |
+| 35 | [[Report-01]] | — | — | Mechanism 1: The Schema-Structure Cou... | 265 |
 | 36 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Mechanism 1: The Schema-Structure Cou... | 272 |
 | 37 | [[Report 02]] | — | — | Mechanism 2: The Three-Layer Cognitiv... | 276 |
-| 38 | [[Report 04]] | — | — | Mechanism 3: The SRL-Structure Feedba... | 292 |
+| 38 | [[Report-04]] | — | — | Mechanism 3: The SRL-Structure Feedba... | 292 |
 | 39 | [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]] | — | — | Mechanism 4: The SECI Structural Requ... | 303 |
 | 40 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | The Central Question Revisited | 420 |
 | 41 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 435 |
@@ -679,12 +679,12 @@ extraction_summary:
 - [[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]
 - [[Nonaka-&-Takeuchi's-SECI-model|Nonaka & Takeuchi's SECI model]]
 - [[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]
-- [[Report 01]]
+- [[Report-01]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02]]
 - [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]
 - [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]
-- [[Report 04]]
+- [[Report-04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]

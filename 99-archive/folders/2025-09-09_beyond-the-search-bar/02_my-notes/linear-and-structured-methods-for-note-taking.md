@@ -31,7 +31,7 @@ Linear and Structured Methods (The "Architect's" Toolkit)
 
 [[Active Vs Passive Processing in Notes]]
 [[Function of Notes is Important]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 [[The Main Goal of My Notes]]
 [[Types of Notes]]
 [[Beyond the Search Bar MOC]]

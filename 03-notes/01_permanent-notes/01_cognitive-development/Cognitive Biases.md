@@ -25,12 +25,12 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Metacognition]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Metacognitive Regulation]]"
+  - "[[Metacognitive-Monitoring]]"
+  - "[[Metacognitive-Regulation]]"
   - "[[Calibration Theory]]"
   - "[[Cognitive Distortions]]"
   - "[[Constructivist Epistemology]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Epistemic-Cognition]]"
   - "[[Metacognitive Bias]]"
   - "[[Logical Fallacy]]"
 date created: 2025-11-05T20:23:14
@@ -59,7 +59,7 @@ review-priority: medium
 
 > [!how-to-use-this]
 > **Navigation Guide**
-> This reference note is organized into 8 major sections covering all aspects of [[Cognitive Biases]]. It moves from foundational theory (definitions, mechanisms, origins) to practical categorization, key examples, and actionable mitigation strategies. Use the table of contents for navigation.
+> This reference note is organized into 8 major sections covering all aspects of [[Cognitive-Biases]]. It moves from foundational theory (definitions, mechanisms, origins) to practical categorization, key examples, and actionable mitigation strategies. Use the table of contents for navigation.
 
 # 📑 TABLE OF CONTENTS
 
@@ -78,7 +78,7 @@ review-priority: medium
 4.  [Key Examples: A-Rapid-Reference-Catalog](https://www.google.com/search?q=%234---key-examples-a-rapid-reference-catalog)
       - [[Anchoring Bias]]
       - [[Availability-Heuristic]]
-      - [[Confirmation Bias]]
+      - [[Confirmation-Bias]]
       - [[Dunning-Kruger-Effect]]
       - [[Fundamental Attribution Error]]
       - [[Hindsight-Bias]]
@@ -119,28 +119,28 @@ This section outlines the three pillars of understanding cognitive bias: its pre
 > 
 > -----
 >
->   - **Key-Term**:[[Cognitive Biases]]
+>   - **Key-Term**:[[Cognitive-Biases]]
 >   - **Definition**:The systematic, predictable, and non-random *error* in judgment that results from the application of a heuristic. Biases are the *outcome*.
 
 It is impossible to understand biases without understanding heuristics. The human brain has limited processing power and time. To compensate, it develops heuristics (shortcuts) that are "good enough" most of the time.
 
-A [[Cognitive Biases]] is what happens when one of these shortcuts is applied in the wrong context, leading to a predictable error. For example, the [[Availability-Heuristic]] (judging the likelihood of an event by how easily it comes to mind) is a fast shortcut. However, it reliably produces the [[Availability Bias]], where we overestimate the frequency of shark attacks because they are vivid and heavily reported, not because they are statistically common.
+A [[Cognitive-Biases]] is what happens when one of these shortcuts is applied in the wrong context, leading to a predictable error. For example, the [[Availability-Heuristic]] (judging the likelihood of an event by how easily it comes to mind) is a fast shortcut. However, it reliably produces the [[Availability Bias]], where we overestimate the frequency of shark attacks because they are vivid and heavily reported, not because they are statistically common.
 [[Availability-Heuristic]]
 
 ## CORE MECHANISM: SYSTEM 1 & SYSTEM 2 THINKING
 
-The most robust model for *how* biases occur comes from psychologists [[Daniel Kahneman]] and [[Keith Stanovich]], popularized in the book *Thinking, Fast and Slow*. It posits two distinct modes of thought operating in the brain.
+The most robust model for *how* biases occur comes from psychologists [[Daniel-Kahneman]] and [[Keith-Stanovich]], popularized in the book *Thinking, Fast and Slow*. It posits two distinct modes of thought operating in the brain.
 
 > [!key-claim]
 > **Central Principle**
-> Cognitive biases are the domain of [[System 1]] thinking. They occur when the fast, intuitive System 1 provides a flawed answer and the slow, lazy [[System 2]] fails to engage and correct it.
-[[System 2]]
-[[System 1]]
+> Cognitive biases are the domain of [[System-1]] thinking. They occur when the fast, intuitive System 1 provides a flawed answer and the slow, lazy [[System-2]] fails to engage and correct it.
+[[System-2]]
+[[System-1]]
 
 | System | Characteristics | Function | Role in Bias |
 |---|---|---|---|
-| **[[System 1]]** | **Fast**, automatic, intuitive, emotional, unconscious, high-capacity, low-effort | Manages 98% of daily tasks: driving a car, understanding language, recognizing faces, reacting to danger | **The source of biases**. It uses heuristics to generate "good enough" answers instantly. |
-| **[[System 2]]** | **Slow**, deliberate, analytical, logical, conscious, limited-capacity, high-effort | Manages complex tasks: solving a math problem, evaluating a complex argument, parallel parking | **The intended corrector of bias**. Its job is to audit, question, and override the flawed impulses of System 1, but it is "lazy" and easily fatigued. |
+| **[[System-1]]** | **Fast**, automatic, intuitive, emotional, unconscious, high-capacity, low-effort | Manages 98% of daily tasks: driving a car, understanding language, recognizing faces, reacting to danger | **The source of biases**. It uses heuristics to generate "good enough" answers instantly. |
+| **[[System-2]]** | **Slow**, deliberate, analytical, logical, conscious, limited-capacity, high-effort | Manages complex tasks: solving a math problem, evaluating a complex argument, parallel parking | **The intended corrector of bias**. Its job is to audit, question, and override the flawed impulses of System 1, but it is "lazy" and easily fatigued. |
 
 ## EVOLUTIONARY ORIGINS: WHY BIASES EXIST
 
@@ -152,7 +152,7 @@ Cognitive biases are not arbitrary flaws; they are features of an evolved mind. 
 
 Reasons for their existence include:
 
-  - **Cognitive Efficiency**: [[System 2]] thinking is metabolically expensive (it burns glucose). Heuristics (System 1) are cheap and fast, saving precious cognitive energy for when it's truly needed.
+  - **Cognitive Efficiency**: [[System-2]] thinking is metabolically expensive (it burns glucose). Heuristics (System 1) are cheap and fast, saving precious cognitive energy for when it's truly needed.
   - **Error Management Theory**: In an uncertain world, not all errors are equal. A bias may persist if it leads to the *less costly* error.
       - **Example**: Believing a stick is a snake (a "false positive") costs little. Believing a snake is a stick (a "false negative") can be fatal. The brain is biased toward the "better safe than sorry" error.
 
@@ -164,7 +164,7 @@ The formal study of cognitive bias was pioneered by two psychologists who would 
 
 ## KAHNEMAN & TVERSKY
 
-In the 1970s, **[[Daniel Kahneman]]** and **[[Amos Tversky]]** launched the "Heuristics and Biases" program. Their research (Source 2.1, 2.2) overturned the prevailing "rational agent" model of economics, which assumed humans made logical, utility-maximizing decisions. They demonstrated, through simple and elegant experiments, that human decision-making is predictably *irrational* due to its reliance on a small set of mental shortcuts.
+In the 1970s, **[[Daniel-Kahneman]]** and **[[Amos-Tversky]]** launched the "Heuristics and Biases" program. Their research (Source 2.1, 2.2) overturned the prevailing "rational agent" model of economics, which assumed humans made logical, utility-maximizing decisions. They demonstrated, through simple and elegant experiments, that human decision-making is predictably *irrational* due to its reliance on a small set of mental shortcuts.
 
 ## THE THREE ORIGINAL HEURISTICS
 
@@ -177,7 +177,7 @@ Their initial work identified three foundational heuristics that explain a wide 
 >       - *Bias*: Believing a quiet, poetry-reading person is more likely to be an Ivy League Classics professor than a truck driver (ignoring the fact that there are thousands of times more truck drivers than Classics professors).
 > 2.  **[[Availability-Heuristic]]**: Judging the frequency of an event by the *ease* with which instances come to mind.
 >       - *Bias*: Overestimating the risk of plane crashes after seeing one on the news.
-> 3.  **[[Anchoring and Adjustment]]**: Making an estimate by starting from an initial value (the "anchor") and making insufficient *adjustments* away from it, even if the anchor is arbitrary.
+> 3.  **[[Anchoring-and-Adjustment]]**: Making an estimate by starting from an initial value (the "anchor") and making insufficient *adjustments* away from it, even if the anchor is arbitrary.
 >       - *Bias*: A negotiator's first offer, no matter how high, sets the "anchor" that all subsequent numbers are judged against.
 
 -----
@@ -195,7 +195,7 @@ The world is an overwhelming flood of data. Our brains must filter almost all of
 > "We notice things that are primed, repeated, or confirm our existing beliefs. We ignore the rest."
 
   - **Key Biases Include**:
-      - **[[Confirmation Bias]]**: We see and value evidence that supports what we already believe.
+      - **[[Confirmation-Bias]]**: We see and value evidence that supports what we already believe.
       - **[[Availability-Heuristic]]**: We value information that is recent, vivid, or easy to recall.
       - **[[Anchoring Bias]]**: We over-value the first piece of information we receive.
       - **[[Frequency Illusion (Baader-Meinhof Phenomenon)]]**: We notice things more often *after* we first learn about them (e.g., you buy a red car and suddenly see red cars everywhere).
@@ -262,7 +262,7 @@ This section provides brief, technical definitions for the most commonly-cited b
 
 > [!definition]
 >
->   - **Key-Term**:**[[Confirmation Bias]]**
+>   - **Key-Term**:**[[Confirmation-Bias]]**
 >   - **Definition**:The tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's preexisting beliefs or hypotheses, while actively avoiding or devaluing contradictory evidence.
 >   - **Category**:[[\#Quadrant 1: Too Much Information]]
 
@@ -351,7 +351,7 @@ Cognitive biases are not just academic curiosities. They have massive, measurabl
 
   - **[[Anchoring Bias]]**: A physician's diagnosis "anchors" on the initial symptoms or a premature hypothesis, causing them to ignore or misinterpret subsequent contradictory data.
   - **[[Availability Bias]]**: A doctor who just treated a rare disease may overestimate its prevalence and misdiagnose a patient with common symptoms.
-  - **[[Confirmation Bias]]**: A doctor orders tests not to find the *right* answer, but to *confirm* their initial diagnosis, while ignoring tests that might disprove it.
+  - **[[Confirmation-Bias]]**: A doctor orders tests not to find the *right* answer, but to *confirm* their initial diagnosis, while ignoring tests that might disprove it.
 
 ## MANAGEMENT & LAW
 
@@ -367,15 +367,15 @@ Cognitive biases are not just academic curiosities. They have massive, measurabl
 
 Overcoming biases is exceptionally difficult because they are automatic and unconscious. Simple *awareness* of a bias is often insufficient to prevent it (Source 7.3). This is known as the **Bias Blind Spot**: the tendency to see biases in *others* but not in *ourselves*.
 
-Effective mitigation (or "debiasing") focuses on building systems and processes that engage [[System 2]] thinking.
+Effective mitigation (or "debiasing") focuses on building systems and processes that engage [[System-2]] thinking.
 
 ## A FRAMEWORK FOR DEBIASING
 
 | Strategy | Description | Target Biases |
 |---|---|---|
 | 🧠 **Metacognition** | **"Thinking about your thinking."** Actively pausing to ask: "What am I assuming?", "What info might I be missing?", "How might I be wrong?" | All Biases, esp. Overconfidence |
-| 🐢 **Slow Down** | Force the use of **[[System 2]]**. Resist the immediate, intuitive answer from [[System 1]]. Use checklists, algorithms, or formal decision-making frameworks. | Anchoring, Availability, Framing |
-| 😈 **Seek Disconfirmation** | Actively search for evidence that *contradicts* your hypothesis. Appoint a "devil's advocate" in a group meeting. | **[[Confirmation Bias]]** (Primary counter) |
+| 🐢 **Slow Down** | Force the use of **[[System-2]]**. Resist the immediate, intuitive answer from [[System-1]]. Use checklists, algorithms, or formal decision-making frameworks. | Anchoring, Availability, Framing |
+| 😈 **Seek Disconfirmation** | Actively search for evidence that *contradicts* your hypothesis. Appoint a "devil's advocate" in a group meeting. | **[[Confirmation-Bias]]** (Primary counter) |
 | 🔭 **Take the "Outside View"** | Instead of analyzing your specific situation, ask "What happens to *most* people in this situation?" Use base rates and statistical data. | Planning Fallacy, Optimism Bias |
 | 🔄 **Re-frame the Problem** | Consciously re-state the problem in different ways. If framed as a "loss," re-frame it as a "gain" and see if your decision changes. | [[Framing Effect]], [[Loss Aversion]] |
 | 📝 **Conduct a Pre-Mortem** | Before starting a project, imagine it has failed spectacularly. Have the team write down *why* it failed. This surfaces risks normally hidden by optimism. | Optimism Bias, Planning Fallacy |
@@ -386,8 +386,8 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 
 ## COGNITIVE MODELS
 
-  - **The Brain as a "Cognitive Miser"**: This model views the brain as having a limited budget of cognitive resources. It seeks to spend as little energy as possible, so it defaults to "low-cost" [[System 1]] heuristics, accepting the "cost" of occasional biases.
-  - **The "Flawed Lens"**: Biases are not a "bug" in our software but a permanent *feature* of our hardware. They are the fixed lens through which we perceive reality. We cannot *remove* the lens, but we can learn *how* it distorts and use tools (like [[System 2]] processes) to correct for the distortion.
+  - **The Brain as a "Cognitive Miser"**: This model views the brain as having a limited budget of cognitive resources. It seeks to spend as little energy as possible, so it defaults to "low-cost" [[System-1]] heuristics, accepting the "cost" of occasional biases.
+  - **The "Flawed Lens"**: Biases are not a "bug" in our software but a permanent *feature* of our hardware. They are the fixed lens through which we perceive reality. We cannot *remove* the lens, but we can learn *how* it distorts and use tools (like [[System-2]] processes) to correct for the distortion.
 
 ## ILLUMINATING ANALOGY
 
@@ -401,7 +401,7 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 > 2.  **System 2** can *know* the truth. It can get a ruler and measure the lines, confirming they are identical.
 > 3.  **The illusion does not go away.** Even after *knowing* the truth (System 2), your brain (System 1) *still perceives* the lines as different lengths.
 > 
-> This is exactly how cognitive biases work. You can "know" about [[Confirmation Bias]], but your System 1 will *still* automatically highlight confirming evidence. You must actively "get the ruler" (engage a System 2 process, like seeking disconfirmation) to find the truth.
+> This is exactly how cognitive biases work. You can "know" about [[Confirmation-Bias]], but your System 1 will *still* automatically highlight confirming evidence. You must actively "get the ruler" (engage a System 2 process, like seeking disconfirmation) to find the truth.
 
 ## COMPARATIVE ANALYSIS
 
@@ -430,9 +430,9 @@ Effective mitigation (or "debiasing") focuses on building systems and processes 
 > [!hub-moc]
 > **Connection to Broader Knowledge**
 >
->   - **Parent Topic**: [[Cognitive Science]], [[Psychology]], [[Behavioral Economics]]
->   - **Sibling Topics**: [[Logical Fallacies]], [[Mental-Models]], [[Heuristics]]
->   - **Child Topics**: [[Confirmation Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk Cost Fallacy]]
+>   - **Parent Topic**: [[Cognitive-Science]], [[Psychology]], [[Behavioral Economics]]
+>   - **Sibling Topics**: [[Logical Fallacies]], [[Mental-Models]], [[heuristics]]
+>   - **Child Topics**: [[Confirmation-Bias]], [[Anchoring]], [[Loss Aversion]], [[Prospect Theory]], [[System 1 and System 2 Thinking]], [[Availability-Heuristic]], [[Sunk Cost Fallacy]]
 
 -----
 

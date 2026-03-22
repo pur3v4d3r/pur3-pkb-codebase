@@ -55,7 +55,7 @@ A professional template should include the following fields:
 ```
 
 #/------------------------------------------------------\
-#|  ID: PLG-9901          |  TYPE: [[Automation]]       |
+#|  ID: PLG-9901          |  TYPE: [[automation]]       |
 #|  VER: 2.4.0            |  DEPT: [[Knowledge-Mgmt]]   |
 #\------------------------------------------------------/
 ```

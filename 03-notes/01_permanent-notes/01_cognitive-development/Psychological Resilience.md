@@ -15,13 +15,13 @@ link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
   - "[[Metacognition]]"
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking]]"
   - "[[Stoic Dichotomy Of Control]]"
   - "[[Epistemic Accountability]]"
-  - "[[Metacognitive Control]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[Metacognitive-Control]]"
+  - "[[Metacognitive-Monitoring]]"
   - "[[Metacognitive Reflection]]"
-  - "[[Metacognitive Regulation]]"
+  - "[[Metacognitive-Regulation]]"
 maturity: seedling
 confidence: speculative
 

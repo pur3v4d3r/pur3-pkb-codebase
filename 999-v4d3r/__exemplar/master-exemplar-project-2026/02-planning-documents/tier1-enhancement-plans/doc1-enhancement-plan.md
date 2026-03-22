@@ -283,7 +283,7 @@ def tot_bfs(problem, max_depth=4, branching=3, max_states=100):
 - [[Prompt Engineering Best Practices]] - referenced in context but not linked
 - [[Benchmark Methodology]] - discussed but not linked
 - [[Production Deployment Patterns]] - mentioned in expansion topics but could link earlier
-- [[Cognitive Load Theory]] - mentioned but not linked within main text
+- [[Cognitive-Load-Theory]] - mentioned but not linked within main text
 - [[Attention Mechanisms]] - relevant to understanding reasoning bottlenecks
 - [[Token Budget Optimization]] - implicit throughout, could be explicit link
 

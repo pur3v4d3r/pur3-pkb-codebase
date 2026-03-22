@@ -97,7 +97,7 @@ The Self-Determination Theory (SDT) offers a biological, rather than industrial,
 
 Consider the analogy of **The Metabolic Ecosystem**. An industrial factory (the traditional view of productivity) requires external fuel to run; when the fuel stops, the machinery halts. A metabolic ecosystem, however, is autopoietic—it generates its own energy through its processes. A forest does not need to be forced to grow; it grows because the conditions (sun, soil, rain) support its intrinsic nature.
 
-In the context of [[Personal Knowledge Management]], SDT argues that if we design our systems to satisfy our basic psychological needs, the motivation to learn becomes regenerative. We move from **Controlled Motivation** (acting out of pressure, guilt, or "shoulds") to **Autonomous Motivation** (acting out of interest and volition). This shift is the single most critical factor in whether a knowledge management practice survives the initial burst of enthusiasm to become a lifelong habit.
+In the context of [[Personal-Knowledge-Management]], SDT argues that if we design our systems to satisfy our basic psychological needs, the motivation to learn becomes regenerative. We move from **Controlled Motivation** (acting out of pressure, guilt, or "shoulds") to **Autonomous Motivation** (acting out of interest and volition). This shift is the single most critical factor in whether a knowledge management practice survives the initial burst of enthusiasm to become a lifelong habit.
 
 ---
 
@@ -128,14 +128,14 @@ True autonomy in a knowledge system is supported by what Nassim Taleb calls the 
 
 #### 2. Competence: The Architecture of Mastery
 
-Competence is not merely the possession of skill; it is the felt sense of effectiveness in interacting with one's environment. It is the deep psychological need to seek out optimal challenges and master them. In [[Flow Theory]], famously articulated by **Mihaly Csikszentmihalyi**, this is represented as the channel where skill level matches challenge level.
+Competence is not merely the possession of skill; it is the felt sense of effectiveness in interacting with one's environment. It is the deep psychological need to seek out optimal challenges and master them. In [[Flow-Theory]], famously articulated by **Mihaly Csikszentmihalyi**, this is represented as the channel where skill level matches challenge level.
 
 > [!concept] The Flow Channel Equation
 > We can conceptualize the zone of optimal competence as:
 > $$Flow \approx \frac{\text{Perceived Challenge}}{\text{Perceived Skill}} \approx 1$$
 > If the challenge of the KM system exceeds skill (e.g., a novice trying to implement a complex metadata schema), the result is **Anxiety**. If skill exceeds challenge (e.g., passively highlighting text without synthesis), the result is **Boredom**.
 
-Most standard note-taking habits fail the competence test because they are too passive. Simply highlighting text or clipping articles requires near-zero skill and offers near-zero feedback. There is no sense of mastery because there is no struggle. To satisfy the need for competence, a knowledge system must incorporate **Desirable Difficulties**, a concept from [[Robert Bjork]].
+Most standard note-taking habits fail the competence test because they are too passive. Simply highlighting text or clipping articles requires near-zero skill and offers near-zero feedback. There is no sense of mastery because there is no struggle. To satisfy the need for competence, a knowledge system must incorporate **Desirable Difficulties**, a concept from [[Robert-Bjork]].
 
 This is where the **Zettelkasten** method excels. The requirement to rewrite an idea in one's own words, to atomize it, and to explicitly link it to existing thoughts provides immediate feedback on one's understanding. If you cannot write the note, you do not understand the concept. This friction is not a bug; it is a feature. It signals the gap in competence that the mind is driven to close. When the user successfully articulates a complex thought and connects it to the network, they experience a burst of **Effectance Motivation**—the joy of being effective.
 
@@ -178,7 +178,7 @@ Therefore, we must rigorously eliminate "Controlling" UI elements from our perso
 ## Phase 3: Connective Tissue
 
 > [!connections] Internal Network
-> * [[Cognitive Load Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
+> * [[Cognitive-Load-Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.
 > * [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).
 > * [[Metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.
 > * [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.

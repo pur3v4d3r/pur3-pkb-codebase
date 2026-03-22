@@ -75,7 +75,7 @@ related-concepts:
   - "[[Transformative Learning]]"
   - "[[Jack Mezirow]]"
   - "[[Hase & Kenyon]]"
-  - "[[Malcolm Knowles]]"
+  - "[[Malcolm-Knowles]]"
   - "[[Socratic Self-Examination]]"
   - "[[PAH-Continuum|PAH Continuum]]"
   - "[[999-report-orginizing/_permanent-notes/_permanent-notes/Self-Regulated-Learning|Self-Regulated Learning]]"
@@ -223,7 +223,7 @@ Hase and Kenyon's (2000) original paper drew on their experience in vocational a
 
 **The Andragogy Evidence: A More Complicated Picture**
 
-The andragogy evidence base is vastly larger but more contested. [[Malcolm Knowles]]'s original six assumptions generated decades of empirical testing, and the verdict is instructive: andragogical characteristics are not universal among adults but are developmental — they emerge in proportion to domain expertise and, critically, in proportion to prior experience with self-directed learning. Adults encountering a new domain regularly exhibit pedagogical preferences regardless of their sophistication in other domains, confirming what [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] established through the expertise reversal lens. But the andragogy literature adds something Report 10 did not fully develop: the *motivational* dimension of andragogical readiness.
+The andragogy evidence base is vastly larger but more contested. [[Malcolm-Knowles]]'s original six assumptions generated decades of empirical testing, and the verdict is instructive: andragogical characteristics are not universal among adults but are developmental — they emerge in proportion to domain expertise and, critically, in proportion to prior experience with self-directed learning. Adults encountering a new domain regularly exhibit pedagogical preferences regardless of their sophistication in other domains, confirming what [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] established through the expertise reversal lens. But the andragogy literature adds something Report 10 did not fully develop: the *motivational* dimension of andragogical readiness.
 
 > [!evidence] **Knowles (1980); Merriam (2001) — The Andragogy Evidence**
 > Knowles's assumption that adults are "ready to learn" what their developmental tasks require them to learn was among the most empirically supported of his six. Research consistently showed that adult learners engage most deeply with content that is directly relevant to their current life situation — a finding that aligns with SDT's concept of identified regulation and with the pragmatist theory of knowledge embedded in andragogy. What Merriam's comprehensive review clarified, however, was that "relevance" is itself a developmental achievement: novice adult learners often cannot identify what is relevant to them because they lack the domain understanding to see connections between content and application. The andragogical stance — problem-centered, experience-grounded, self-directed — presupposes a background of domain competence sufficient to make self-direction possible. Below that threshold, andragogical design can produce frustration and disorientation rather than autonomous engagement.

@@ -33,7 +33,7 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:: [[Personal Knowledge Base]]
+> - **Key-Term**:: [[Personal-Knowledge-Base]]
 > - [**Definition**:: ]
 
 

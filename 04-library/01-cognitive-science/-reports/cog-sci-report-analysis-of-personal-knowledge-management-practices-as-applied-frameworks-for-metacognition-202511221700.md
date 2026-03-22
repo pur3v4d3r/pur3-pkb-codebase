@@ -34,7 +34,7 @@ link-related:
 # 🗺️ Interdisciplinary Synthesis Report: [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] as Applied [[Metacognition]]
 
 > [!abstract]
-> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive Psychology]]**, **[[Information-Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
+> This report conducts a "consilience-based" inquiry into the central topic of **Personal Knowledge Management (PKM)**. The objective is to construct a multi-dimensional and networked understanding by deliberately examining this topic through the distinct methodologies and perspectives of three disparate fields: **[[Cognitive-Psychology]]**, **[[Information-Science]]**, and **[[Educational Theory]]**. By synthesizing these domains, this paper argues that PKM practices—specifically note-linking, structuring, and reviewing—serve as externalized scaffolds for **Self-Regulated Learning (SRL)**.
 
 -----
 
@@ -62,18 +62,18 @@ This section defines the topic in its "native" or most common domain to establis
 
 -----
 
-## 2\. 🌉 The First Bridge: Analysis via [[Cognitive Psychology]]
+## 2\. 🌉 The First Bridge: Analysis via [[Cognitive-Psychology]]
 
 This section performs the first "conceptual jump," analyzing the central topic from an entirely new perspective.
 
 > [!the-purpose]
-> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive Psychology]]**, specifically through the lens of **[[Metacognition]]**.
+> To analyze **[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]** using the tools, metaphors, and frameworks of **[[Cognitive-Psychology]]**, specifically through the lens of **[[Metacognition]]**.
 
 ### 2.1. A New Lens: Cognitive Psychology's Perspective
 
 > [!question]
 > **How does Cognitive Psychology conceptualize or interact with PKM?**
-> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[Self-Regulated Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
+> Cognitive Psychology views the tools of PKM not as storage containers, but as distinct forms of **[[Extended Cognition]]**. Within this field, the central problem is **[[Self-Regulated-Learning]]**: the ability of a learner to monitor their current state of knowledge and control their cognitive strategies to bridge the gap to a goal state. Here, the PKM system becomes an external workspace for **Metacognitive Monitoring**.
 
 The psychological framework of Nelson and Narens (1990) divides metacognition into two flow processes: *monitoring* (evaluating one's own cognitive processes) and *control* (regulating those processes). In a traditional learning environment, these processes occur internally and are prone to the [[Illusion of Competence]], where a learner mistakenly believes they understand a topic because they recognize it. When applied to PKM, the specific act of **linking notes** functions as a rigorous "monitoring" mechanism. If a learner attempts to create a [[Bidirectional Link]] between two concepts but cannot articulate the semantic relationship between them, the software provides immediate, external feedback of a knowledge gap. This forces the learner to engage in *control* processes—re-reading, re-summarizing, or elaborating—to resolve the dissonance.
 
@@ -146,7 +146,7 @@ In this context, the PKM system is a **Constructivist Environment**. The "Review
 > [!connection-ideas]
 > **Insights from the Information Science-Educational Theory Link**
 >
->   * **The Vault as ZPD.** The Knowledge Vault functions as a permanent **[[Zone of Proximal Development]]**. It holds concepts that are slightly too complex for the user to hold in unaided working memory, allowing them to manipulate these complex ideas until they are internalized.
+>   * **The Vault as ZPD.** The Knowledge Vault functions as a permanent **[[Zone-of-Proximal-Development]]**. It holds concepts that are slightly too complex for the user to hold in unaided working memory, allowing them to manipulate these complex ideas until they are internalized.
 >   * > [\!key-claim]
 >   * **Knowledge is Networked.** We move away from the idea of knowledge as "acquiring items" to knowledge as "traversing networks." The value of a PKM is defined by the density of its connections, not the volume of its contents.
 
@@ -163,7 +163,7 @@ This section weaves all threads into a new, cohesive, and robust tapestry.
 
 > [!insight]
 > **Synthesized Definition of PKM as Metacognition**
-> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[Self-Regulated Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
+> Personal Knowledge Management is an **externalized metacognitive environment** that utilizes the principles of **[[Network Science]]** to facilitate **[[Self-Regulated-Learning]]**. It functions by transforming the internal, invisible processes of semantic association and schema construction into explicit, tangible digital objects (links and nodes), thereby allowing the learner to objectively monitor, critique, and restructure their own understanding of reality.
 
 ### 5.2. The Cognitive Impact
 
@@ -186,8 +186,8 @@ This section weaves all threads into a new, cohesive, and robust tapestry.
 > [!connections-and-links]
 > **New Connections for PKB Expansion**
 >
->   * [[The Generation Effect]]
->   * [[Distributed Cognition]]
+>   * [[The-Generation-Effect]]
+>   * [[Distributed-Cognition]]
 >   * [[Graph Theory in Learning]]
 >   * [[Epistemic Scaffolding]]
 >   * [[Algorithm of Thought]]

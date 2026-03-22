@@ -11,7 +11,7 @@ status: active
 # Project Brief: Personal Knowledge Base & Multi-LLM Collaboration Vault
 
 > [!abstract] Strategic Context
-> This vault serves as a Personal Knowledge Base (PKB) optimized for multi-LLM collaboration, combining human knowledge management with AI agent memory persistence. The vault integrates [[Obsidian]], [[Claude Code]], [[Gemini Code Assist]], and semantic retrieval systems to create a living, queryable knowledge graph.
+> This vault serves as a Personal Knowledge Base (PKB) optimized for multi-LLM collaboration, combining human knowledge management with AI agent memory persistence. The vault integrates [[Obsidian]], [[Claude-Code]], [[Gemini-Code-Assist]], and semantic retrieval systems to create a living, queryable knowledge graph.
 
 ## Context
 
@@ -43,7 +43,7 @@ The vault solves the context persistence problem for AI agents while maintaining
    - Task logging enables learning from past work
 
 3. **Multi-LLM Coordination**
-   - [[Claude Code]] and [[Gemini Code Assist]] share memory
+   - [[Claude-Code]] and [[Gemini-Code-Assist]] share memory
    - Hand-off protocols preserve context
    - Complementary strengths utilized (Claude: reasoning, Gemini: execution)
 
@@ -68,7 +68,7 @@ Agent memory persistence enables agents to recover project context after session
 - [[Dataview]], [[Templater]], and [[QuickAdd]] automation
 
 **Agent Integration**:
-- [[Smart Connections]] auto-embedding system
+- [[Smart-Connections]] auto-embedding system
 - [[MCP|Model Context Protocol]] semantic retrieval
 - Memory hierarchy (Core → Task-logs → Plans → Errors)
 - [[Query Anchor Protocol]] for precise search
@@ -154,12 +154,12 @@ Success is measured by agent context recovery speed (<30s), semantic search rele
 - Defines strategic direction
 - Reviews and approves implementations
 
-**[[Claude Code]]**:
+**[[Claude-Code]]**:
 - Role: PKB Architect, Prompt Component Librarian
 - Strengths: Extended thinking, nuanced language, system prompts
 - Responsibilities: Complex reasoning, long-form content, cross-domain synthesis
 
-**[[Gemini Code Assist]]**:
+**[[Gemini-Code-Assist]]**:
 - Role: Execution Specialist, Code Generator
 - Strengths: Structured reasoning, code execution, quick iterations
 - Responsibilities: Technical documentation, code generation, task decomposition

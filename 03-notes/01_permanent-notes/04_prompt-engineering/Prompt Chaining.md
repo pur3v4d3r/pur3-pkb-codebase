@@ -29,7 +29,7 @@ review-priority: medium
 
 > [!definition]
 > - **Key-Term**:: [[Prompt Chaining]]
-> - [**Definition**:: A technique in [[Large Language Models]] (LLM) interaction where the output of one prompt is used as part of the input for a subsequent prompt, allowing for complex, multi-step reasoning or task completion.]
+> - [**Definition**:: A technique in [[Large-Language-Models]] (LLM) interaction where the output of one prompt is used as part of the input for a subsequent prompt, allowing for complex, multi-step reasoning or task completion.]
 
 
 

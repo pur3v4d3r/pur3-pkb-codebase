@@ -42,7 +42,7 @@ Ryle's broader argument that intelligence is **exhibited in performance**, not h
 
 ### In Report 11: The Practical Reasoner
 
-[[report-11-the-practical-reasoner|Report 11]] makes Ryle's knowing-how central to understanding [[phronesis]] (practical wisdom). Aristotle's phronesis is fundamentally know-how: the ability to discern what to do in particular situations. You can't reduce it to rules (knowing-that) because practical wisdom includes knowing *when* to apply which rule, *how* to balance competing considerations, and *what* to attend to.
+[[report-11-the-practical-reasoner|Report 11]] makes Ryle's knowing-how central to understanding [[Phronesis]] (practical wisdom). Aristotle's phronesis is fundamentally know-how: the ability to discern what to do in particular situations. You can't reduce it to rules (knowing-that) because practical wisdom includes knowing *when* to apply which rule, *how* to balance competing considerations, and *what* to attend to.
 
 Ryle's analysis of **"knowing how to go on"** in novel situations explains how phronesis operates under uncertainty: it's not algorithmic rule-following but skilled improvisation guided by cultivated perception. The practically wise person has developed the *ability* to respond well, not memorized the *theory* of good response.
 

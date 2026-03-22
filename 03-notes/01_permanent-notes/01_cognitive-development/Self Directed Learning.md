@@ -18,19 +18,19 @@ link-related:
   - "[[permeant-note_moc]]"
   - "[[Metacognition]]"
   - "[[Pedagogy]]"
-  - "[[Schemas]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[schemas]]"
+  - "[[Self-Regulated-Learning]]"
   - "[[Self-Regulation-Theory]]"
   - "[[Self-Regulation Theory]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]"
   - "[[Structured Reflection]]"
-  - "[[Zone Of Proximal Development]]"
-  - "[[Working Memory]]"
+  - "[[Zone-of-Proximal-Development]]"
+  - "[[Working-Memory]]"
   - "[[Focus Of Attention]]"
   - "[[Illusions Of Comprehension]]"
-  - "[[Knowledge Management]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Biases]]"
+  - "[[Knowledge-Management]]"
+  - "[[Cognitive-Psychology]]"
+  - "[[Cognitive-Biases]]"
 maturity: seedling
 confidence: speculative
 status: active
@@ -56,7 +56,7 @@ review-priority: medium
 
 [[Self-Directed-Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:
 
-**Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[Metacognitive Awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.
+**Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[metacognitive-awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.
 
 **Planning Phase**: Rather than following prescribed curricula, the learner designs a personalized learning plan with self-determined objectives, resources, and timelines. This activates the [[Planning Fallacy]] mitigation strategy of building in flexibility and iteration.
 

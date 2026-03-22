@@ -22,10 +22,10 @@ link-up:
   - 
 link-related:
   - "[[2025-11-21|Daily-Note]]"
-  - "[[Critical Thinking]]"
+  - "[[Critical-Thinking]]"
   - "[[03-notes/01_permanent-notes/01_cognitive-development/Attention]]"
-  - "[[Dual Process Theory]]"
-  - "[[Epistemic Cognition]]"
+  - "[[Dual-Process-Theory]]"
+  - "[[Epistemic-Cognition]]"
   - "[[Executive Functions]]"
 maturity: seedling
 confidence: speculative
@@ -54,8 +54,8 @@ review-priority: medium
 
 ## Related Concepts
 
-- [[Concept 1]]
-- [[Concept 2]]
+- [[Concept-1]]
+- [[Concept-2]]
 
 ## Practical Applications
 

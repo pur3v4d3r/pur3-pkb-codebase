@@ -123,7 +123,7 @@ To systematically optimize a workflow, one must first understand the physics of 
 >
 > **Core Principle 1: The Tyranny of the Context Window**
 >
-> The single most important concept to understand about [[Large Language Models]] is the **Context Window**.
+> The single most important concept to understand about [[Large-Language-Models]] is the **Context Window**.
 >
 > > [!definition]
 >
@@ -355,7 +355,7 @@ Our investigation has shown that we are at the very beginning of this new discip
 
 > [!summary]
 >
-> Our investigation has charted a clear and decisive shift in our relationship with artificial intelligence. We have moved from the "folk art" of **prompt engineering**—crafting a single, perfect question—to the new, systematic discipline of **context engineering**. This shift is a direct response to the fundamental "amnesia" of [[Large Language Models]], which are bound by the computational and economic "tyranny" of their finite context windows.
+> Our investigation has charted a clear and decisive shift in our relationship with artificial intelligence. We have moved from the "folk art" of **prompt engineering**—crafting a single, perfect question—to the new, systematic discipline of **context engineering**. This shift is a direct response to the fundamental "amnesia" of [[Large-Language-Models]], which are bound by the computational and economic "tyranny" of their finite context windows.
 >
 > The tools of this new discipline are **Custom Instructions** and **Contextual Memory**. They are not mere "features" but two distinct and essential mechanisms for creating a "stateful" AI collaborator.
 >

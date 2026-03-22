@@ -221,7 +221,7 @@ Core plugins include Dataview for queries, Templater for templates, QuickAdd for
 
 ### Knowledge Management Plugins
 
-**[[Smart Connections]]** (covered above)
+**[[Smart-Connections]]** (covered above)
 
 **[[Excalidraw]]** (Diagramming)
 - **Purpose**: Hand-drawn diagrams and visual notes
@@ -305,7 +305,7 @@ Git provides version control with main branch, Claude can create commits when ex
 - **Command**: `orphan`
 
 **linkcheck (link_check.py)**
-- **Purpose**: Identify broken [[Wiki-Links]]
+- **Purpose**: Identify broken [[wiki-links]]
 - **Protocol**: Zero broken links allowed
 - **Command**: `linkcheck`
 

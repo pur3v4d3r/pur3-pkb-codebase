@@ -37,7 +37,7 @@ Based on what you know about me and what I've been learning I need a few daily q
 
 # **LLM Response**
 
-An excellent and foundational pursuit. Your focus on the "dichotomy" aligns perfectly with the core tenet of [[Stoicism]], a philosophy built for practical application in daily life. Integrating reminders from its key proponents—[[Epictetus]], [[Marcus Aurelius]], and [[Seneca]]—into your [[Daily Note]] is a powerful way to bridge theory and practice.
+An excellent and foundational pursuit. Your focus on the "dichotomy" aligns perfectly with the core tenet of [[Stoicism]], a philosophy built for practical application in daily life. Integrating reminders from its key proponents—[[Epictetus]], [[Marcus-Aurelius]], and [[Seneca]]—into your [[Daily Note]] is a powerful way to bridge theory and practice.
 
 These figures, while all adhering to the central Stoic framework, each had a unique perspective shaped by their lives: Epictetus, the enslaved teacher; Marcus Aurelius, the philosopher-emperor; and Seneca, the wealthy statesman and advisor. Their collective wisdom provides a robust toolkit for navigating reality.
 
@@ -47,9 +47,9 @@ Here are several quotes, formatted for your [[Obsidian]] vault, that expand upon
 
 ### 🏛️ Epictetus: The Architect of Control
 
-[[Epictetus]] is the philosopher most directly associated with what we now call the [[Dichotomy Of Control]]. His teachings, transcribed by his student Arrian in the *Discourses* and the *Enchiridion* (The Handbook), are the very foundation of this idea.
+[[Epictetus]] is the philosopher most directly associated with what we now call the [[Dichotomy-of-Control]]. His teachings, transcribed by his student Arrian in the *Discourses* and the *Enchiridion* (The Handbook), are the very foundation of this idea.
 
-> [!definition] The [[Dichotomy Of Control]]
+> [!definition] The [[Dichotomy-of-Control]]
 > "Some things are within our control, and some are not. Within our control are opinion, pursuit, desire, aversion, and, in a word, whatever is our own action. Not within our control are body, property, reputation, command, and, in a word, whatever is not our own action."
 > — Epictetus, *Enchiridion, 1*
 
@@ -74,7 +74,7 @@ This is the central thesis. The following quotes explore its practical applicati
 
 ### 👑 Marcus Aurelius: The Practitioner of Virtue
 
-[[Marcus Aurelius]], as the most powerful man in the known world, wrote his *Meditations* as a personal journal. He was not writing for an audience, but for himself—reminding himself how to apply Stoic principles (especially those from Epictetus) while facing war, plague, and political betrayal. His quotes are about maintaining an "inner citadel."
+[[Marcus-Aurelius]], as the most powerful man in the known world, wrote his *Meditations* as a personal journal. He was not writing for an audience, but for himself—reminding himself how to apply Stoic principles (especially those from Epictetus) while facing war, plague, and political betrayal. His quotes are about maintaining an "inner citadel."
 
 > [!quote] On Perception and Reality
 > "You have power over your mind—not outside events. Realize this, and you will find strength."
@@ -107,7 +107,7 @@ This is the central thesis. The following quotes explore its practical applicati
 > — Seneca, *Letters to Lucilius, 85.28* (Adapted)
 
 > [!tip] A Note on Implementation
-> You can place one of these in your [[Daily Note Template]] as a static quote, or you could use a plugin like [[Templater]] or [[dataview]] to randomly pull one quote from a dedicated "Quotes" folder or note each day. This can ensure the wisdom feels fresh and applicable to the day's unique challenges.
+> You can place one of these in your [[Daily Note Template]] as a static quote, or you could use a plugin like [[Templater]] or [[Dataview]] to randomly pull one quote from a dedicated "Quotes" folder or note each day. This can ensure the wisdom feels fresh and applicable to the day's unique challenges.
 
 ---
 
@@ -128,8 +128,8 @@ This is the central thesis. The following quotes explore its practical applicati
 
 1.  **Deconstruct:**
     * **User Goal:** The user needs 3-5 daily quotes for their Obsidian [[Daily Note]].
-    * **Specific Constraint/Context:** The quotes must come from the three most famous Roman Stoic philosophers: [[Epictetus]], [[Marcus Aurelius]], and [[Seneca]].
-    * **Implied Context:** The user is actively building their [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management|PKB]] focused on concepts like [[Prompt Engineering]] and [[LLM Optimization]], and they specifically mentioned a *dichotomy* they are already implementing (likely the [[Stoic Dichotomy Of Control]]). The quotes should ideally resonate with themes of **action, control, discipline, and knowledge application**, which align well with both Stoicism and a knowledge worker's focus.
+    * **Specific Constraint/Context:** The quotes must come from the three most famous Roman Stoic philosophers: [[Epictetus]], [[Marcus-Aurelius]], and [[Seneca]].
+    * **Implied Context:** The user is actively building their [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management|PKB]] focused on concepts like [[Prompt-Engineering]] and [[LLM Optimization]], and they specifically mentioned a *dichotomy* they are already implementing (likely the [[Stoic Dichotomy Of Control]]). The quotes should ideally resonate with themes of **action, control, discipline, and knowledge application**, which align well with both Stoicism and a knowledge worker's focus.
     * **Output Format Constraint:** Must follow all standard PKB-ready Markdown and constraint rules (headers, wiki-links, callouts, DRSC completion, and final PKB expansion section).
 
 2.  **Research:**
@@ -139,7 +139,7 @@ This is the central thesis. The following quotes explore its practical applicati
 3.  **Synthesize:**
     * **Core Theme:** [[Applied Stoicism]] for the [[Knowledge Worker]]. The quotes should serve as daily reminders for [[Mental Resilience]] and [[Productive Focus]].
     * **Selection:** Choose one quote from each philosopher for immediate variety, plus two extras for a total of five, ensuring they cover slightly different aspects of the philosophy.
-        * Epictetus: Focus on the [[Dichotomy Of Control]].
+        * Epictetus: Focus on the [[Dichotomy-of-Control]].
         * Marcus Aurelius: Focus on [[Action]] and [[Internal State]].
         * Seneca: Focus on [[Time]] and [[Preparation]].
     * **Structure:** Present the quotes clearly with context using Obsidian callouts for easy identification in the daily note template. Use a clear header structure.
@@ -150,7 +150,7 @@ This is the central thesis. The following quotes explore its practical applicati
 
 # 🔱 Five Quotes for Applied Stoicism in Your [[Daily Note]]
 
-It is a mark of true mastery in any field—whether [[Prompt Engineering]] or philosophy—to integrate core principles into one's daily routine. Given your focus on the **Dichotomy of Control** and your ongoing work building a powerful [[Knowledge Graph]], these five selections from the key players of the Stoa will serve as potent, actionable anchors for your [[Daily Note]]. They shift the focus from what you *cannot* control (external events, user input beyond the prompt) to what you *can* control (your internal response, your attention, and your effort).
+It is a mark of true mastery in any field—whether [[Prompt-Engineering]] or philosophy—to integrate core principles into one's daily routine. Given your focus on the **Dichotomy of Control** and your ongoing work building a powerful [[Knowledge-Graph]], these five selections from the key players of the Stoa will serve as potent, actionable anchors for your [[Daily Note]]. They shift the focus from what you *cannot* control (external events, user input beyond the prompt) to what you *can* control (your internal response, your attention, and your effort).
 
 ---
 
@@ -165,7 +165,7 @@ This quote is the ultimate distillation of the Stoic premise. It grounds your at
 > [!definition] Focus on the Internal
 > "It is not events that disturb people, but their view of the events. Nothing is mine except my will, and no one can overcome that."
 
-### 2. From [[Marcus Aurelius]] (The Call to Action)
+### 2. From [[Marcus-Aurelius]] (The Call to Action)
 
 The philosopher-emperor provides the call to duty. This quote is essential for overcoming [[procrastination]] and prioritizing **doing** over **analyzing**—a critical habit for high-output knowledge work.
 
@@ -179,7 +179,7 @@ Seneca, a master of literary output, understood the value of time, structure, an
 > [!example] Proactive Resilience
 > "A man who suffers before it is necessary, suffers more than is necessary. Let your mind meet the difficulty with its full force; always anticipate the blows."
 
-### 4. From [[Marcus Aurelius]] (Internal Judgment and Clarity)
+### 4. From [[Marcus-Aurelius]] (Internal Judgment and Clarity)
 
 A powerful reminder for a knowledge worker to constantly check their internal state and perceptions, preventing external frustrations from polluting the *quality* of their thought and effort.
 
@@ -198,7 +198,7 @@ This reinforces that the goal of reading and learning—the very act of building
 ### 🔗 Related Topics for PKB Expansion
 
 * [[Stoic Dichotomy Of Control]]
-    - A deeper dive into what is "up to us" versus what is not, and its application in [[Prompt Engineering]] workflows.
+    - A deeper dive into what is "up to us" versus what is not, and its application in [[Prompt-Engineering]] workflows.
 * [[Virtue Ethics and Productivity]]
     - Exploring how the cardinal virtues (Justice, Temperance, Courage, Wisdom) translate into better work habits and ethical [[AI interaction]].
 * [[Amor Fati and Knowledge Synthesis]]

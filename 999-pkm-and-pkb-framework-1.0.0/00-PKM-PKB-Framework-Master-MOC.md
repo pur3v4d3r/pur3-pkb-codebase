@@ -45,9 +45,9 @@ knowledge_level: "advanced"
 # KNOWLEDGE GRAPH
 # ═══════════════════════════════════════════════════════════════════════════
 related_concepts:
-  - "[[Personal Knowledge Management]]"
-  - "[[Personal Knowledge Base]]"
-  - "[[Lifelong Learning]]"
+  - "[[Personal-Knowledge-Management]]"
+  - "[[Personal-Knowledge-Base]]"
+  - "[[Lifelong-learning]]"
   - "[[Integrated-Learning-System-Model]]"
   - "[[Twelve-Master-Principles]]"
   - "[[Cognitive Partnership Model]]"
@@ -62,7 +62,7 @@ children:
 # PKM/PKB Lifelong Learning Framework — Master Map of Content
 
 > [!abstract] What This Framework Is
-> A **30-report, ~280,000-word cross-domain synthesis** grounding [[Personal Knowledge Management]] in rigorous scientific evidence drawn from [[Cognitive Science]], [[Educational Psychology]], [[Educational-Philosophy]], [[Knowledge Management]], [[Instructional Design]], [[Learning-Experience-Design]], [[Metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
+> A **30-report, ~280,000-word cross-domain synthesis** grounding [[Personal-Knowledge-Management]] in rigorous scientific evidence drawn from [[Cognitive-Science]], [[Educational-Psychology]], [[Educational-Philosophy]], [[Knowledge-Management]], [[Instructional-Design]], [[Learning-Experience-Design]], [[Metacognition]], [[Memory Science]], [[Systems Theory]], [[Stoic-Philosophy]], and [[Socratic Philosophy]]. Generated March 13–15, 2026, the series produces a unified framework for designing PKBs as genuine **learning instruments** — not passive archives.
 
 ---
 
@@ -189,8 +189,8 @@ Every discipline in the series independently converges on three structural patte
 - Knowledge is relational, not propositional — PKBs should be semantic networks, not filing systems (Reports 01, 09, 15)
 - [[Testing-Effect]] (d = 0.50) and [[Spacing-Effect]] are the two highest-utility learning strategies; PKB review must be retrieval-based, not re-reading-based (Reports 06, 16, 20)
 - The [[Fluency-Illusion]] is the universal PKM failure mode — ease of processing ≠ understanding (Reports 18, 30)
-- [[Cognitive Load Theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
-- [[Self-Regulated Learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
+- [[Cognitive-Load-Theory]]'s working memory limits (~4 chunks) constrain note design (Report 02)
+- [[Self-Regulated-Learning]] requires embedded structural support, not willpower (Reports 04, 12, 26)
 - [[Faceted-Classification]] outperforms single hierarchies for knowledge organization (Reports 01, 15)
 
 ### Established with Moderate Confidence (theoretical synthesis with convergent support)
@@ -289,15 +289,15 @@ See [[00-PKM-PKB-Framework-Series-MOC]] for the complete annotated registry.
 
 | Discipline | Primary Contributions | Key Researchers |
 |-----------|----------------------|-----------------|
-| [[Cognitive Psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
-| [[Educational Psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
+| [[Cognitive-Psychology]] | Schema Theory, CLT, Memory Systems | Bartlett, Sweller, Baddeley |
+| [[Educational-Psychology]] | SRL, Transfer, Motivation | Zimmerman, Deci & Ryan, Dweck |
 | [[Educational-Philosophy]] | Constructivism, Pragmatism, Inquiry | Piaget, Dewey, Vygotsky |
 | [[Memory Science]] | Testing Effect, Spacing, Desirable Difficulties | Bjork, Roediger, Dunlosky |
-| [[Knowledge Management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
-| [[Instructional Design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |
+| [[Knowledge-Management]] | SECI Model, KOS, Tacit Knowledge | Nonaka, Polanyi, Ranganathan |
+| [[Instructional-Design]] | Elaboration Theory, Scaffolding | Reigeluth, Merrill |
 | [[Metacognition]] | Monitoring, Calibration, SRL | Flavell, Nelson & Narens |
-| [[Critical Thinking]] | Reasoning, Epistemic Vigilance | Halpern, Paul & Elder |
-| [[Stoic Philosophy]] | Resilience, Emotional Regulation | Marcus Aurelius, Epictetus |
+| [[Critical-Thinking]] | Reasoning, Epistemic Vigilance | Halpern, Paul & Elder |
+| [[Stoic-Philosophy]] | Resilience, Emotional Regulation | Marcus Aurelius, Epictetus |
 | [[Socratic Philosophy]] | Inquiry, Elenchus, Aporia | Plato's Dialogues |
 | [[Systems Theory]] | Feedback Loops, Emergence | Meadows, Senge |
 

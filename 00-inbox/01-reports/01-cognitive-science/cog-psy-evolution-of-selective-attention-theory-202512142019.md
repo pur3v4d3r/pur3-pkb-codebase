@@ -370,7 +370,7 @@ modified: 2025-12-14
 status: evergreen
 certainty: verified
 type: reference
-related: [[Cognitive Architecture]], [[Information Processing Theory]], [[Working Memory]], [[Perceptual Psychology]], [[Experimental Methodology]]
+related: [[Cognitive-Architecture]], [[Information-Processing-Theory]], [[Working-Memory]], [[Perceptual Psychology]], [[Experimental Methodology]]
 
 ---
 
@@ -379,14 +379,14 @@ related: [[Cognitive Architecture]], [[Information Processing Theory]], [[Workin
 > [!abstract] Executive Overview
 > This comprehensive analysis traces the intellectual progression of selective attention theory from 1953 through the 1970s, examining three foundational models that fundamentally shaped our understanding of human cognitive architecture. Beginning with <span style='color: #FFC700;'>Donald Broadbent's Filter Theory</span> (1958), which conceptualized attention as an early bottleneck filtering sensory input based on physical characteristics, the narrative progresses through <span style='color: #FFC700;'>Anne Treisman's Attenuation Model</span> (1964), which introduced the concept of weakened rather than eliminated unattended signals, and culminates with <span style='color: #FFC700;'>Deutsch & Deutsch's Late Selection Model</span> (1963), which radically proposed that all information receives semantic processing before selection occurs. These competing frameworks emerged from systematic experimental work using [[dichotic listening tasks]], each attempting to resolve empirical paradoxes—particularly the [[Cocktail Party Effect]]—that challenged existing assumptions about where and how the human cognitive system imposes limits on information processing.
 
-[**Historical-Context**:: The post-WWII era saw the emergence of [[information processing theory]] as cognitive psychology sought machine-inspired metaphors for human cognition. Selective attention became the testing ground for competing views about architectural constraints in the mind.]
+[**Historical-Context**:: The post-WWII era saw the emergence of [[Information-Processing-Theory]] as cognitive psychology sought machine-inspired metaphors for human cognition. Selective attention became the testing ground for competing views about architectural constraints in the mind.]
 
 ---
 
 
 ## 📜 Historical and Theoretical Context: The Information Processing Revolution
 
-The story of selective attention models cannot be understood outside the broader intellectual transformation that defined mid-twentieth-century psychology. The shift from behaviorism's exclusive focus on observable behavior to cognitivism's embrace of mental processes created both opportunity and necessity for new theoretical frameworks. <span style='color: #FFC700;'>[[Information Processing Theory]]</span>, borrowing heavily from emerging computer science and communications engineering, provided the conceptual vocabulary—**channels**, **filters**, **buffers**, **capacity limits**—that would structure attention research for decades.
+The story of selective attention models cannot be understood outside the broader intellectual transformation that defined mid-twentieth-century psychology. The shift from behaviorism's exclusive focus on observable behavior to cognitivism's embrace of mental processes created both opportunity and necessity for new theoretical frameworks. <span style='color: #FFC700;'>[[Information-Processing-Theory]]</span>, borrowing heavily from emerging computer science and communications engineering, provided the conceptual vocabulary—**channels**, **filters**, **buffers**, **capacity limits**—that would structure attention research for decades.
 
 [**Paradigm-Shift**:: The cognitive revolution of the 1950s-60s legitimized the study of internal mental processes by drawing analogies to information transmission systems and computational mechanisms. Attention research became a flagship demonstration of cognitivism's explanatory power.]The foundational work of <span style='color: #FF5700;'>**E. Colin Cherry**</span> (1953) established the empirical phenomenon that would drive theoretical development. Cherry's investigations into what he termed the <span style='color: #FFC700;'>"cocktail party problem"</span>—the human capacity to attend selectively to one voice among many competing auditory streams—revealed both remarkable filtering capabilities and puzzling leakage of unattended information. Using [[dichotic listening]] paradigms where different messages were simultaneously presented to each ear, Cherry demonstrated that participants could successfully **shadow** (immediately repeat aloud) one message while the other remained largely unprocessed. Critically, participants retained almost no semantic content from the unattended ear, yet they could detect physical changes such as gender switches or language shifts.
 
@@ -418,7 +418,7 @@ The critical bottleneck mechanism. Broadbent argued that <span style='color: #FF
 [**Bottleneck-Hypothesis**:: The proposal that human information processing contains a structural limitation—a narrow passage through which only limited information can flow. The location of this bottleneck (early vs. late) became the central theoretical battleground.]
 
 **Stage 3: Limited-Capacity Channel (P-System)**  
-Information passing through the filter enters a limited-capacity **perceptual channel** where pattern recognition, semantic analysis, and conscious awareness occur. Broadbent estimated this channel could process approximately **one message stream at full rate**. After perceptual analysis, information transfers to [[Short-Term-Memory]] and potentially [[long-term memory]] for permanent storage.
+Information passing through the filter enters a limited-capacity **perceptual channel** where pattern recognition, semantic analysis, and conscious awareness occur. Broadbent estimated this channel could process approximately **one message stream at full rate**. After perceptual analysis, information transfers to [[Short-Term-Memory]] and potentially [[Long-Term-Memory]] for permanent storage.
 
 > [!definition] Early Selection
 > <span style='color: #27FF00;'>The theoretical position that attentional filtering occurs **before** semantic/meaning analysis. Unattended stimuli receive only rudimentary physical analysis and never reach consciousness or memory systems. Selection protects limited-capacity semantic processors from overload.</span>
@@ -633,13 +633,13 @@ The theoretical justification varied:
 
 - **Broadbent:** The perceptual system has inherent **channel capacity limits** (analogous to communication channel bandwidth). Processing all inputs fully would exceed capacity, causing system breakdown.
 
-- **Treisman:** [[Working memory]] and [[conscious awareness]] have severe capacity constraints. While early parallel processing is possible, deeper semantic analysis for multiple streams simultaneously exceeds working memory's 7±2 item limit.
+- **Treisman:** [[Working-Memory]] and [[conscious awareness]] have severe capacity constraints. While early parallel processing is possible, deeper semantic analysis for multiple streams simultaneously exceeds working memory's 7±2 item limit.
 
 - **Deutsch & Deutsch:** No perceptual bottleneck exists; semantic processing operates massively in parallel. The bottleneck emerges only at **response selection** and **conscious access**—we can think about/respond to only one thing at a time even if we've processed many things.
 
 ### Neural Correlates: Where in the Brain Does Selection Occur?
 
-Contemporary [[cognitive neuroscience]] has mapped attentional modulation across the processing hierarchy:
+Contemporary [[cognitive-neuroscience]] has mapped attentional modulation across the processing hierarchy:
 
 **Early Sensory Modulation (Supporting Early Selection)**  
 Attention enhances firing rates in **primary sensory cortices** (V1, A1) for attended locations/features. fMRI shows attended stimuli evoke 20-30% greater activation in early visual cortex than identical unattended stimuli. This suggests selection begins at the earliest cortical processing stages—consistent with Broadbent/Treisman's early-stage filtering.
@@ -659,7 +659,7 @@ Object-selective areas like the **fusiform face area** and **parahippocampal pla
 
 ### Connections to Working Memory and Executive Control
 
-The selective attention debates fundamentally concerned how the brain manages **limited cognitive resources**. This connects directly to models of [[working memory]] and [[executive function]]:
+The selective attention debates fundamentally concerned how the brain manages **limited cognitive resources**. This connects directly to models of [[Working-Memory]] and [[Executive-Function]]:
 
 - **Broadbent's filter** anticipated [[Baddeley's-Working-Memory-Model]] (1974) by proposing that a limited-capacity central processor requires protection from overload.
 
@@ -673,7 +673,7 @@ The selective attention debates fundamentally concerned how the brain manages **
 
 The locus of selection has profound consequences for **what gets learned**:
 
-If **early selection** predominates, unattended information never reaches [[long-term memory]] encoding—creating selective ignorance. If **late selection** operates, unattended information receives full semantic encoding and should produce **implicit memory** even without explicit awareness (as confirmed by [[repetition priming]] studies showing facilitation for unattended stimuli).
+If **early selection** predominates, unattended information never reaches [[Long-Term-Memory]] encoding—creating selective ignorance. If **late selection** operates, unattended information receives full semantic encoding and should produce **implicit memory** even without explicit awareness (as confirmed by [[repetition priming]] studies showing facilitation for unattended stimuli).
 
 This connects to debates about **learning without awareness** in [[implicit learning]], [[statistical learning]], and [[Procedural-Memory]] systems. The late selection framework predicts that environmental regularities should be learned even without attention—a prediction strongly supported by research showing infants and adults extract statistical patterns from unattended auditory streams.
 
@@ -746,12 +746,12 @@ Understanding selective attention has practical implications for:
 **Priority:** **Medium** — Represents cutting-edge theoretical developments but requires substantial mathematical/computational background for full understanding.  
 **Prerequisites:** [[Bayesian-Inference]], [[hierarchical models]], [[neural network basics]]; helpful to understand [[Predictive-Processing]] framework first.
 
-### 4. **[[Cognitive Load Theory]]** in Instructional Design
+### 4. **[[Cognitive-Load-Theory]]** in Instructional Design
 **Connection:** Both CLT and selective attention models address limited cognitive capacity. CLT's distinction between **intrinsic load** (inherent task complexity) and **extraneous load** (imposed by poor design) parallels attention theory's concern with managing capacity limits through strategic filtering.  
 **Depth Potential:** Examining how instructional design principles—worked examples, split-attention effect, modality effect—implicitly incorporate assumptions about selective attention, working memory capacity, and multimodal processing. Cross-domain synthesis revealing how educational practice operationalizes cognitive theory.  
 **Knowledge Graph Role:** Demonstrates practical application of attention theory in real-world skill acquisition contexts; bridges laboratory cognitive science and applied educational psychology.  
 **Priority:** **Medium** — High applied relevance for education/training contexts; shows theory-to-practice translation.  
-**Prerequisites:** [[Working Memory Model]] (Baddeley), [[Schema Theory]], basic understanding of instructional design principles.
+**Prerequisites:** [[Working Memory Model]] (Baddeley), [[Schema-Theory]], basic understanding of instructional design principles.
 
 ## Advanced Deep Dives
 

@@ -583,7 +583,7 @@ extraction_summary:
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
 - [[Maps-of-Content-—-MOCs|MOC]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic-Integration-Theory]]
 - [[Pedagogy]]
@@ -643,7 +643,7 @@ extraction_summary:
 | 28 | [[Capability-Development|Capability Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
 | 29 | [[Competency-Development|Competency Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
 | 30 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
-| 31 | [[Malcolm Knowles]] | — | — | The Heutagogy Research Base | 255 |
+| 31 | [[Malcolm-Knowles]] | — | — | The Heutagogy Research Base | 255 |
 | 32 | [[Report 10]] | — | — | The Heutagogy Research Base | 255 |
 | 33 | [[Transformative Learning Theory]] | — | — | The Heutagogy Research Base | 271 |
 | 34 | [[Internalization-Continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
@@ -708,7 +708,7 @@ extraction_summary:
 - [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
 - [[Maps-of-Content-—-MOCs|MOC]]
-- [[Malcolm Knowles]]
+- [[Malcolm-Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic-Integration-Theory]]
 - [[Pedagogy]]

@@ -16,7 +16,7 @@ aliases:
 link-up:
   - "[[self-learning-and-cognitive-development-moc]]"
 link-related:
-  - "[[Self-Determination Theory]]"
+  - "[[Self-Determination-Theory]]"
   - "[[Autonomy]]"
   - "[[Competence]]"
   - "[[Relatedness]]"
@@ -33,9 +33,9 @@ review-priority: medium
 ---
 
 > [!definition]
-> - **Key-Term**:[[Flow Theory]]
+> - **Key-Term**:[[Flow-Theory]]
 > - [**Definition**:Describes a distinctive state of consciousness in which individuals experience complete absorption in an activity, characterized by intense focus, loss of self-consciousness, distorted time perception, and the merging of action and awareness.]
-> - [Developed by:[[Mihaly Csikszentmihalyi]] late 1960's]
+> - [Developed by:[[Mihaly-Csikszentmihalyi]] late 1960's]
 
 > [!principle-point]
 > Clear goals and immediate feedback are essential preconditions for flow. In PKB work, this means that every interaction should have obvious intent and provide confirmation of results.

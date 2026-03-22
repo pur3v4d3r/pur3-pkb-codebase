@@ -651,7 +651,7 @@ PKB connection section planned: [YES]
 > [!definition]
 > **[TOPIC]:** [Rigorous, precise definition — 80-120 words. Include boundary conditions. State what this concept IS and what it is NOT.]
 
-[Prose paragraph: 200-250 words elaborating the definition, providing historical/intellectual context for why this definition matters, connecting to [[adjacent concept]] and [[foundational principle]]]
+[Prose paragraph: 200-250 words elaborating the definition, providing historical/intellectual context for why this definition matters, connecting to [[adjacent concept]] and [[Foundational-Principle]]]
 
 > [!core-principle]
 > [State the central animating principle, fundamental tension, or core problem that this topic addresses — 80-100 words. This is the "why this matters" distillation.]
@@ -900,7 +900,7 @@ Where does first-principles understanding change how we should think about [TOPI
 
 ### The Question Beneath the Question
 
-[Prose: 300-400 words. Before answering "What is [TOPIC]?", ask: what question is [TOPIC] actually an answer to? What problem does it address? What would be missing from the world if it did not exist? This section destabilizes comfortable familiarity with the topic — the reader should feel that they are being invited to see something familiar with fresh eyes, connected to [[Philosophical Method]] and [[Epistemic Humility]].]
+[Prose: 300-400 words. Before answering "What is [TOPIC]?", ask: what question is [TOPIC] actually an answer to? What problem does it address? What would be missing from the world if it did not exist? This section destabilizes comfortable familiarity with the topic — the reader should feel that they are being invited to see something familiar with fresh eyes, connected to [[Philosophical Method]] and [[Epistemic-Humility]].]
 
 > [!the-philosophy]
 > **The Fundamental Problem [TOPIC] Addresses:** [State the deepest problem — 80-100 words. Not the surface-level use case, but the irreducible gap in understanding or capability that [[TOPIC]] exists to fill.]
@@ -1215,7 +1215,7 @@ YAML METADATA BLOCK
 > **Opening Question:**
 > [A deceptively simple question about [TOPIC] that, when pursued, reveals unexpected complexity — 40-60 words. This should be something the reader thinks they can answer in one sentence, but cannot.]
 
-[Prose: 200-300 words pursuing the opening question — showing why the obvious answer is insufficient, what complications arise, what the question really requires us to examine. Connect to [[Socratic Method]] and [[Epistemic Humility]].]
+[Prose: 200-300 words pursuing the opening question — showing why the obvious answer is insufficient, what complications arise, what the question really requires us to examine. Connect to [[Socratic-Method]] and [[Epistemic-Humility]].]
 
 > [!atomic-concept]
 > **What the Opening Question Reveals:** [80-100 words synthesizing what the initial inquiry has surfaced — the naivety of the initial comfortable answer and the direction genuine inquiry must take]
@@ -1365,8 +1365,8 @@ SYNTHETIC CALLOUTS:
 
 ### Rules for Wikilinks
 
-1. **Concepts** — Always link concepts when first introduced: `[[Reflective Thinking]]`
-2. **Thinkers** — Link on first mention: `[[John Dewey]]`
+1. **Concepts** — Always link concepts when first introduced: `[[Reflective-Thinking]]`
+2. **Thinkers** — Link on first mention: `[[John-Dewey]]`
 3. **Frameworks** — Link frameworks and theories: `[[Pragmatist Philosophy]]`
 4. **New nodes** — Format new PKB candidates as `[[New Concept Name]]` — the link need not exist yet
 5. **Natural placement** — Links appear within prose where the concept is referenced, never as a list at section end

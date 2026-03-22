@@ -10,13 +10,13 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
+author: [[Marcus-Aurelius]]
 related: [[Epictetus]], [[Stoic Physics]], [[Hegemonikon]], [[Amor Fati]]
 ---
 
 > [!the-purpose]
 > **Primary Objective**
-> To analyze the private journals of [[Marcus Aurelius]] not as a collection of platitudes, but as a "spiritual exercise" (askesis) designed to align the internal [[Hegemonikon]] (Ruling Faculty) with the external [[Logos]] (Universal Nature).
+> To analyze the private journals of [[Marcus-Aurelius]] not as a collection of platitudes, but as a "spiritual exercise" (askesis) designed to align the internal [[Hegemonikon]] (Ruling Faculty) with the external [[Logos]] (Universal Nature).
 
 > [!pre-read-questions]
 > 1. How does Marcus define the specific duties of the "Rational Part" of the soul?
@@ -219,7 +219,7 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
+author: [[Marcus-Aurelius]]
 related: [[Hegemonikon]], [[Stoic Physics]], [[Cosmopolis]], [[Memento Mori]]
 ---
 
@@ -446,7 +446,7 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
+author: [[Marcus-Aurelius]]
 related: [[Oikeiosis]], [[Stoic Physics]], [[Amor Fati]], [[Murex]]
 ---
 
@@ -596,7 +596,7 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
+author: [[Marcus-Aurelius]]
 related: [[Stoic Logic]], [[Sympatheia]], [[Prohairesis]], [[Sunbeam Analogy]]
 ---
 
@@ -755,7 +755,7 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
+author: [[Marcus-Aurelius]]
 related: [[Pneuma]], [[Logos]], [[Social Duty]], [[Co-operation]]
 ---
 
@@ -905,8 +905,8 @@ tags:
   - philosophy/ancient
   - cognitive-science/reframing
   - source-material
-author: [[Marcus Aurelius]]
-related: [[Fronto]], [[Socrates]], [[Stoic Ethics]], [[Pancratium]]
+author: [[Marcus-Aurelius]]
+related: [[Fronto]], [[Socrates]], [[Stoic-Ethics]], [[Pancratium]]
 ---
 
 > [!the-purpose]
@@ -1082,7 +1082,7 @@ tags:
   - cognitive-science/protocol
   - system-architecture
   - synthesis
-related: [[Marcus Aurelius]], [[Epictetus]], [[Hegemonikon]], [[Prohairesis]]
+related: [[Marcus-Aurelius]], [[Epictetus]], [[Hegemonikon]], [[Prohairesis]]
 ---
 
 > [!the-purpose]
@@ -1128,7 +1128,7 @@ To navigate any event, apply these three filters in order.
 * **Key Text:** Book IV, XXIII; Book X, VI.
 
 #### 3. The Discipline of Action (Ethics)
-* **Domain:** [[Stoic Ethics]].
+* **Domain:** [[Stoic-Ethics]].
 * **Goal:** Justice / Philanthropy.
 * **The Method:** **Oikeiosis** (Affinity). Recognize that the offender is your kinsman. You were designed for cooperation like rows of teeth. Your only job is to act socially and rationally in the *present moment*.
 * **Command:** *"Men are made one for another: either teach them better, or bear with them."*

@@ -285,7 +285,7 @@ LIMIT 15
 
 # 🔬 PKB Review System: Complete Implementation Package
 
-I've analyzed your templates thoroughly—your tag taxonomy, maturity/confidence scales, and metadata architecture are well-designed. Below I'm delivering **five complete, production-ready notes** that form an integrated review system grounded in [[Stoic Philosophy]] and [[Cognitive Science]] protocols.
+I've analyzed your templates thoroughly—your tag taxonomy, maturity/confidence scales, and metadata architecture are well-designed. Below I'm delivering **five complete, production-ready notes** that form an integrated review system grounded in [[Stoic-Philosophy]] and [[Cognitive-Science]] protocols.
 
 ### Notes Contained in this Reference
 
@@ -360,18 +360,18 @@ Your PKB serves as an [[Extended Cognition]] system—an external structure that
 
 The system operates on three cognitive science foundations:
 
-1. **[[Testing Effect]]**: Actively retrieving information strengthens memory more than passive re-reading
-2. **[[Spacing Effect]]**: Distributed practice over time produces superior long-term retention
-3. **[[Metacognitive Monitoring]]**: Explicitly judging your own comprehension calibrates learning
+1. **[[Testing-Effect]]**: Actively retrieving information strengthens memory more than passive re-reading
+2. **[[Spacing-Effect]]**: Distributed practice over time produces superior long-term retention
+3. **[[Metacognitive-Monitoring]]**: Explicitly judging your own comprehension calibrates learning
 
 ### 1.2 Stoic Integration Framework
 
-This system filters knowledge through [[Stoic Philosophy]] to distinguish between:
+This system filters knowledge through [[Stoic-Philosophy]] to distinguish between:
 
 | Stoic Principle | Application to PKB Review |
 |-----------------|--------------------------|
-| **[[Dichotomy of Control]]** | Focus review energy on developing *your understanding*, not lamenting knowledge gaps |
-| **[[Premeditatio Malorum]]** | During review, ask: "Where might this knowledge fail me? What am I missing?" |
+| **[[Dichotomy-of-Control]]** | Focus review energy on developing *your understanding*, not lamenting knowledge gaps |
+| **[[Premeditatio-Malorum]]** | During review, ask: "Where might this knowledge fail me? What am I missing?" |
 | **[[View from Above]]** | Periodically zoom out to assess how individual notes connect to your broader knowledge architecture |
 | **[[Memento Mori]]** | Prioritize reviewing knowledge that genuinely matters for your goals—not everything deserves equal attention |
 | **[[Amor Fati]]** | Embrace confusion and gaps discovered during review as *opportunities* for growth |
@@ -701,7 +701,7 @@ link-related:
 # Templater Templates Library: PKB Review System
 
 > [!abstract] Template Collection Overview
-> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[Metacognitive Monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
+> This library contains five production-ready [[Templater]] templates for the PKB Review System. Each template is designed to scaffold [[Metacognitive-Monitoring]], enforce [[REACT Protocol]] discipline, and integrate with your existing metadata architecture.
 >
 > **Installation**: Copy each template to your `/Templates/Review/` folder.
 
@@ -2598,7 +2598,7 @@ INPUT[textArea:review-notes]
 4. **[[Obsidian Plugin Interoperability]]**
    - *Connection*: Meta Bind can trigger other plugin actions
    - *Depth Potential*: Plugin API patterns, cross-plugin workflows
-   - *Knowledge Graph Role*: Links to [[Obsidian/Advanced]], [[Automation]]
+   - *Knowledge Graph Role*: Links to [[Obsidian/Advanced]], [[automation]]
 
 ---
 `````

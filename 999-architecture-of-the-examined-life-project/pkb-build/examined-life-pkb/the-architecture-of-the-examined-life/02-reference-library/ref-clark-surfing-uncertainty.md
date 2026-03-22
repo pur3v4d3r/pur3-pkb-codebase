@@ -57,7 +57,7 @@ related-works:
 
 ## What This Work Contributes
 
-[[Andy Clark]]'s *Surfing Uncertainty* provides the most philosophically accessible treatment of **[[Predictive-Processing]]** (PP), the dominant paradigm in contemporary computational neuroscience. Clark synthesizes [[Karl Friston]]'s mathematically dense [[Free-Energy-Principle]] with [[Jakob Hohwy]]'s philosophical elaborations to present a unified account of the brain as a "prediction machine" — a system fundamentally organized around minimizing prediction error.
+[[Andy-Clark]]'s *Surfing Uncertainty* provides the most philosophically accessible treatment of **[[Predictive-Processing]]** (PP), the dominant paradigm in contemporary computational neuroscience. Clark synthesizes [[Karl-Friston]]'s mathematically dense [[Free-Energy-Principle]] with [[Jakob-Hohwy]]'s philosophical elaborations to present a unified account of the brain as a "prediction machine" — a system fundamentally organized around minimizing prediction error.
 
 The **core insight**: The brain doesn't passively react to sensory input but actively generates predictions about what it expects to encounter. Perception is not bottom-up data processing but "controlled hallucination" — your brain's best guess about the causes of sensory signals, constrained by prediction errors (the mismatches between predictions and actual input). Action, in turn, is not commanded output but **[[Active-Inference]]** — the brain generates predictions about desired states and then acts to make those predictions come true.
 
@@ -71,7 +71,7 @@ Clark's distinctive contribution is showing that PP is not just a neuroscientifi
 
 ### Report 09 — The Embodied Reasoner
 
-Clark's work provides the computational neuroscience foundation for embodied cognition. The PP framework explains *how* the body constitutes part of the cognitive system: interoceptive predictions (the brain's model of the body's internal state) are not separate from cognitive predictions but integrated within the same hierarchical generative model. [[Interoceptive-Inference]] — the brain's continuous prediction of visceral, autonomic, and metabolic states — is the mechanistic basis for [[Damasio]]'s [[Somatic Markers]] (from [[ref-damasio-descartes-error|*Descartes' Error*]]) and [[Barrett]]'s [[Core-Affect]] (from [[ref-barrett-how-emotions-are-made|*How Emotions Are Made*]]).
+Clark's work provides the computational neuroscience foundation for embodied cognition. The PP framework explains *how* the body constitutes part of the cognitive system: interoceptive predictions (the brain's model of the body's internal state) are not separate from cognitive predictions but integrated within the same hierarchical generative model. [[Interoceptive-Inference]] — the brain's continuous prediction of visceral, autonomic, and metabolic states — is the mechanistic basis for [[Damasio]]'s [[Somatic-Markers]] (from [[ref-damasio-descartes-error|*Descartes' Error*]]) and [[Barrett]]'s [[Core-Affect]] (from [[ref-barrett-how-emotions-are-made|*How Emotions Are Made*]]).
 
 The synthesis: Embodied cognition is not a metaphor but a computational necessity. The brain's generative models predict both external sensory input and internal bodily states simultaneously, and these predictions constrain each other. You cannot understand cognition without understanding how the body's predicted states shape the interpretation of environmental signals.
 
@@ -83,15 +83,15 @@ The synthesis: Embodied cognition is not a metaphor but a computational necessit
 - **[[Dewey]]'s "felt difficulty"** (Report 01) = **prediction error** — the signal when the brain's model fails to predict input
 - **[[Peirce]]'s fallibilism** (Report 02) = recognition that **predictive models are always approximate**, requiring continuous revision
 - **[[Flow]]** (Report 03) = **optimal precision weighting** at appropriate challenge levels — smooth prediction with tolerable error
-- **[[Schema Theory]]** (Report 04) = **hierarchical predictive models** — organized knowledge as multi-level generative models
-- **[[Cognitive Biases]]** (Reports 05-06) = **miscalibrated precision weighting** or overly rigid priors resistant to updating
-- **[[System 1]]** (Report 06) = **cached predictions** operating automatically; **[[System 2]]** = **prediction error response** requiring effortful updating
+- **[[Schema-Theory]]** (Report 04) = **hierarchical predictive models** — organized knowledge as multi-level generative models
+- **[[Cognitive-Biases]]** (Reports 05-06) = **miscalibrated precision weighting** or overly rigid priors resistant to updating
+- **[[System-1]]** (Report 06) = **cached predictions** operating automatically; **[[System-2]]** = **prediction error response** requiring effortful updating
 - **[[Interoception]]** (Report 09) = **predictive modeling of the body** — visceral, autonomic, metabolic state prediction
 - **[[Constructed Emotion]]** (Report 10) = **categorization of interoceptive prediction errors** using learned emotion concepts
-- **[[Metacognitive Monitoring]]** = **prediction error at a higher hierarchical level** — models monitoring other models
+- **[[Metacognitive-Monitoring]]** = **prediction error at a higher hierarchical level** — models monitoring other models
 - **[[Belief-Revision]]** = **updating deeply nested generative models** (explains why it's psychologically difficult)
 
-**[[Precision-Weighting]]** — Clark's central concept — provides the mechanistic account of what [[Stoic Prosoche]] (governance of attention) and metacognitive monitoring regulate. The brain modulates how much weight it gives to prediction errors versus prior beliefs. This is *what attention is* at the computational level — the allocation of precision estimates that determines which signals drive model updating.
+**[[Precision-Weighting]]** — Clark's central concept — provides the mechanistic account of what [[Stoic-Prosoche]] (governance of attention) and metacognitive monitoring regulate. The brain modulates how much weight it gives to prediction errors versus prior beliefs. This is *what attention is* at the computational level — the allocation of precision estimates that determines which signals drive model updating.
 
 **The Examined Life recontextualized**: The entire framework becomes the practice of **becoming a better predictor** by becoming more responsive to prediction error. The Socratic "know thyself," the Stoic governance of attention, the Deweyan inquiry process — all are practices for calibrating precision weighting, updating generative models, and maintaining appropriate epistemic permeability to error signals.
 

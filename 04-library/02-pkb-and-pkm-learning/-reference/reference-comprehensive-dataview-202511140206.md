@@ -44,7 +44,7 @@ aliases: [Dataview Plugin, DQL, Dataview Query Language, Obsidian Dataview, Data
 
 > [!abstract]
 > **Executive Overview**
-> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[dql]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
+> Dataview is a live index and query engine over your personal knowledge base that allows you to add metadata to notes and query them with the Dataview Query Language to list, filter, sort or group data. This comprehensive reference covers all three query methods ([[DQL]], [[Inline Queries]], and [[DataviewJS]]), metadata architecture design, systematic query construction processes, operator/function specifications, and an extensive pattern library for building sophisticated vault automation.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -67,7 +67,7 @@ aliases: [Dataview Plugin, DQL, Dataview Query Language, Obsidian Dataview, Data
 ## ⚙️ Dataview Plugin Overview & Core Architecture
 
 > [!definition]
-> - **Dataview**: A [[Community Plugin]] for [[obsidian]] that treats your vault as a queryable database
+> - **Dataview**: A [[Community Plugin]] for [[Obsidian]] that treats your vault as a queryable database
 > - **Core Function**: Live index and query engine that keeps queries always up to date and makes data aggregation a breeze
 > - **Primary Use Case**: Automated views, dashboards, and data aggregation without manual maintenance
 
@@ -77,11 +77,11 @@ Dataview operates on metadata in your Markdown files through data indexing and d
 
 The plugin's architecture centers on two building blocks: **Data Indexing** (what information Dataview can "see") and **Data Querying** (how you retrieve and manipulate that information). Understanding this distinction is critical—Dataview cannot query arbitrary text content within your notes, but only specifically indexed data types.
 
-Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[YAML Frontmatter]], [[Inline Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
+Dataview indexes certain information like tags and list items and the data you add via fields. This includes [[YAML-Frontmatter]], [[Inline Fields]], [[04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/_plugin-tasks/_getting started/Tags]], [[project-pur3v4d3r-20251121013128]], [[Bullet Lists]], and implicit [[File Metadata]]. The indexing happens automatically and continuously as you work, ensuring query results remain current without manual intervention.
 
 > [!key-claim]
 > **Central Principle**
-> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[dql]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
+> Dataview transforms your Obsidian vault from a collection of notes into a queryable knowledge database by indexing structured metadata and providing three progressively powerful query interfaces: [[DQL]] for SQL-like queries, [[Inline Queries]] for embedded values, and [[DataviewJS]] for full JavaScript control.
 
 ### Plugin Capabilities & Limitations
 
@@ -110,7 +110,7 @@ Dataview indexes certain information like tags and list items and the data you a
 | **Task Management** | Aggregate incomplete tasks across vault, filter by due date, create project-specific task views | [[TASK Query]] |
 | **Content Dashboards** | Book libraries with ratings, research paper collections, recipe databases | [[TABLE Query]] |
 | **Temporal Views** | Daily note creation trackers, [[Calendar Views]], deadline monitoring | [[CALENDAR Query]] |
-| **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge Graph]] exploration | [[from]] sources with [[Link Queries]] |
+| **Relationship Mapping** | Pages linking to/from specific notes, [[Backlink]] analysis, [[Knowledge-Graph]] exploration | [[from]] sources with [[Link Queries]] |
 | **Progress Tracking** | Reading lists, habit tracking, project completion percentages | [[TABLE Query]] with calculations |
 | **Dynamic MOCs** | Auto-generating [[Map of Content]] pages based on tags or folder structure | [[LIST Query]] with [[GROUP BY]] |
 
@@ -120,7 +120,7 @@ Dataview indexes certain information like tags and list items and the data you a
 
 > [!principle-point]
 > **Fundamental Design Philosophy**
->   provides three query methods with escalating power and complexity: [[dql]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
+>   provides three query methods with escalating power and complexity: [[DQL]] for declarative SQL-like queries, [[Inline Queries]] for embedded single values, and [[DataviewJS]] for programmatic JavaScript control. Choose based on your technical proficiency and query complexity requirements.
 
 ### 1. Dataview Query Language (DQL)
 
@@ -907,7 +907,7 @@ end - start - dur(8 hours)      # Calculate overtime
 parent: "[[Parent Page]]"
 
 # Inline field
-Related:: [[Related Note]]
+Related:: [[Related-Note]]
 
 # Query with link indexing
 WHERE [[Assignment Math]].due < date(today)
@@ -1999,7 +1999,7 @@ tags: [, dashboard]
 2. **[[Metadata Schema Design Patterns for PKM]]**
    - *Connection*: Expands metadata architecture section into systematic schema design
    - *Depth Potential*: Cross-note-type schemas, inheritance patterns, validation strategies
-   - *Knowledge Graph Role*: Bridges Dataview with broader [[Knowledge Management]] methodology
+   - *Knowledge Graph Role*: Bridges Dataview with broader [[Knowledge-Management]] methodology
 
 3. **[[DataviewJS Advanced Patterns & Custom Views]]**
    - *Connection*: Extends DataviewJS section with sophisticated JavaScript techniques
@@ -2086,14 +2086,14 @@ STRUCTURAL REASONING:
 └── Cross-referencing Strategy
     └── Internal link opportunities:
         - [[Obsidian]] ecosystem
-        - [[YAML Frontmatter]] conventions
+        - [[YAML-Frontmatter]] conventions
         - [[Metadata Schema Design]]
         - [[Regular Expressions]]
         - [[JavaScript]] for DataviewJS
         - [[SQL]] parallels for mental model
-        - [[Knowledge Graph]] building
+        - [[Knowledge-Graph]] building
         - [[MOC]] creation with Dataview
-        - [[Personal Knowledge Management]]
+        - [[Personal-Knowledge-Management]]
         - [[Zettelkasten]] integration
 
 **WIKI-LINK TARGETS:**

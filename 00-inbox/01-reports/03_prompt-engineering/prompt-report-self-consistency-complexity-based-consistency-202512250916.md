@@ -113,12 +113,12 @@ modified: 2024-12-25
 status: evergreen
 certainty: established
 type: reference
-related: [[Chain-of-Thought-Prompting]], [[Ensemble Methods]], [[Reasoning Verification]], [[Majority Voting]], [[Cognitive Diversity]]
+related: [[Chain-of-Thought-Prompting]], [[Ensemble-Methods]], [[Reasoning Verification]], [[Majority Voting]], [[Cognitive Diversity]]
 prerequisites:
   hard: [[Chain-of-Thought-Prompting]], [[Temperature Sampling]]
   soft: [[Ensemble Learning]], [[Bayesian Reasoning]]
 enables:
-  direct: [[Complex Reasoning Tasks]], [[Math Word Problems]], [[Commonsense Reasoning]], [[Multi-Step Inference]]
+  direct: [[Complex Reasoning Tasks]], [[Math Word Problems]], [[Commonsense-Reasoning]], [[Multi-Step Inference]]
   related: [[Prompt Reliability Engineering]], [[LLM Calibration]], [[Error Detection]]
 freshness:
   domain-volatility: high
@@ -135,7 +135,7 @@ freshness:
 
 ## 🧠 Theoretical Foundations: The Cognitive Science of Internal Consensus
 
-The theoretical architecture underlying [[Self-Consistency]] draws from multiple converging streams of cognitive science and statistical reasoning, creating a framework that mirrors human deliberative processes while exploiting the unique computational properties of modern [[Large Language Models]]. Understanding these foundations illuminates not merely how the technique operates mechanically, but why it succeeds in extracting more reliable reasoning from stochastic neural architectures.
+The theoretical architecture underlying [[Self-Consistency]] draws from multiple converging streams of cognitive science and statistical reasoning, creating a framework that mirrors human deliberative processes while exploiting the unique computational properties of modern [[Large-Language-Models]]. Understanding these foundations illuminates not merely how the technique operates mechanically, but why it succeeds in extracting more reliable reasoning from stochastic neural architectures.
 
 [**Wisdom-of-Crowds-Principle**:: The statistical phenomenon, formalized by [[Galton (1907)]] and elaborated by [[Surowiecki (2004)]], where aggregated judgments from diverse independent estimators often approximate truth more accurately than individual expert judgments, provided estimators exhibit uncorrelated error patterns and genuine diversity of approach.]^verified
 
@@ -389,7 +389,7 @@ The economic dimension of this reliability engineering tradeoff merits emphasis.
 > 
 > [[Self-Consistency]] requires [[Chain-of-Thought]] as its foundation—the technique aggregates reasoning paths, necessitating that reasoning be explicit rather than implicit. CoT quality directly determines Self-Consistency effectiveness: better-structured reasoning chains produce more reliable consensus. The combination represents a synergistic pairing where CoT enables interpretable multi-step reasoning and Self-Consistency filters its stochastic unreliability.
 > 
-> **[[Few-Shot Learning]] + Self-Consistency**
+> **[[Few-Shot-Learning]] + Self-Consistency**
 > 
 > Providing high-quality reasoning examples in few-shot prompts improves both individual chain accuracy (higher base $p$) and reasoning diversity (broader strategy exploration). The combination yields multiplicative improvements: few-shot guidance increases the probability each chain is correct, while Self-Consistency aggregates across these higher-quality chains. Research shows 3-5 diverse examples optimize this combination.
 > 
@@ -565,7 +565,7 @@ The technique's applicability boundaries also deserve emphasis. [[Self-Consisten
 
 **Knowledge Graph Role**: Connects Self-Consistency to [[Agentic AI]] and [[Function Calling]], showing how reliability techniques scale to more complex reasoning+action systems.
 
-**Priority**: **High** — Critical for production [[AI Agents]] where tool use reliability directly impacts system robustness.
+**Priority**: **High** — Critical for production [[AI-Agents]] where tool use reliability directly impacts system robustness.
 
 ---
 

@@ -1372,7 +1372,7 @@ link_related:
 
 **Minimum Density:** 15 wiki-links per 1000 words
 
-**Format:** `[[Concept Name]]` with natural capitalization
+**Format:** `[[Concept-Name]]` with natural capitalization
 
 **Linking Criteria** (link if ANY criterion met):
 - Core concept central to response
@@ -1386,8 +1386,8 @@ link_related:
 
 **Example:**
 ```markdown
-[[Tree of Thoughts]] leverages [[BFS]] or [[DFS]] algorithms to systematically 
-explore the solution space. This approach builds on [[Chain of Thought]] but 
+[[Tree-of-Thoughts]] leverages [[BFS]] or [[DFS]] algorithms to systematically 
+explore the solution space. This approach builds on [[Chain-of-Thought]] but 
 adds [[backtracking]] capabilities similar to [[AlphaGo]]'s [[Monte Carlo Tree 
 Search]]. The technique was developed by [[Yao et al. 2023]] and has shown 
 significant improvements on [[reasoning benchmarks]] compared to standard 

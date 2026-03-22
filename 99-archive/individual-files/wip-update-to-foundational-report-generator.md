@@ -211,12 +211,12 @@ certainty: verified
 > [!definition] Testing Effect
 > [**Testing-Effect**:: The finding that actively retrieving information from memory strengthens retention more than passively re-studying the same material.]^verified-stable
 
-The [[Testing Effect]] represents one of the most robust findings in [[Cognitive Psychology]], demonstrating that the act of retrieval itself—not merely re-exposure—constitutes a powerful learning event. First systematically documented by [[Abbott (1909)]], the phenomenon gained renewed attention through the landmark work of [[Roediger and Karpicke (2006)]], whose experiments revealed that students who practiced retrieval retained approximately 50% more information after one week compared to students who spent equivalent time re-studying.
+The [[Testing-Effect]] represents one of the most robust findings in [[Cognitive-Psychology]], demonstrating that the act of retrieval itself—not merely re-exposure—constitutes a powerful learning event. First systematically documented by [[Abbott (1909)]], the phenomenon gained renewed attention through the landmark work of [[Roediger and Karpicke (2006)]], whose experiments revealed that students who practiced retrieval retained approximately 50% more information after one week compared to students who spent equivalent time re-studying.
 
 > [!key-claim]
 > [**Mechanism-Claim**:: Retrieval practice strengthens memory traces through elaborative processing and the creation of multiple retrieval routes.]^established
 
-The effect operates through what [[Bjork]] termed [[Desirable Difficulties]]—conditions that introduce challenge during learning but enhance long-term retention...
+The effect operates through what [[Bjork]] termed [[Desirable-Difficulties]]—conditions that introduce challenge during learning but enhance long-term retention...
 
 [continues with proper formatting]
 </example>
@@ -872,7 +872,7 @@ Declare knowledge dependencies in frontmatter.
 **Syntax:**
 ```yaml
 prerequisites:
-  hard: ["[[concept-1]]", "[[concept-2]]"]  # Must understand first
+  hard: ["[[Concept-1]]", "[[Concept-2]]"]  # Must understand first
   soft: ["[[concept-3]]"]  # Helpful but not required
 enables:
   direct: ["[[concept-4]]", "[[concept-5]]"]  # This unlocks
@@ -1196,7 +1196,7 @@ aliases: [Testing Effect, Retrieval Practice Effect, Test-Enhanced Learning]
 status: evergreen
 certainty: verified
 type: atomic
-related: [[Desirable Difficulties]], [[Spacing Effect]], [[Cognitive Load Theory]]
+related: [[Desirable-Difficulties]], [[Spacing-Effect]], [[Cognitive-Load-Theory]]
 ---
 
 # 🧠 Testing Effect
@@ -1204,12 +1204,12 @@ related: [[Desirable Difficulties]], [[Spacing Effect]], [[Cognitive Load Theory
 > [!definition] Testing Effect
 > [**Testing-Effect**:: The robust finding that actively retrieving information from memory strengthens long-term retention more effectively than passive re-study of the same material, even when retrieval attempts are unsuccessful.]^verified
 
-The [[Testing Effect]] stands as one of the most replicated phenomena in [[Cognitive Psychology]], fundamentally challenging the intuitive assumption that learning occurs primarily through encoding rather than retrieval. First systematically documented by [[Abbott (1909)]] and later crystallized through the landmark studies of [[Roediger and Karpicke (2006)]], this effect demonstrates that the act of retrieval itself—independent of feedback or additional study—constitutes a powerful memory-modifying event.
+The [[Testing-Effect]] stands as one of the most replicated phenomena in [[Cognitive-Psychology]], fundamentally challenging the intuitive assumption that learning occurs primarily through encoding rather than retrieval. First systematically documented by [[Abbott (1909)]] and later crystallized through the landmark studies of [[Roediger and Karpicke (2006)]], this effect demonstrates that the act of retrieval itself—independent of feedback or additional study—constitutes a powerful memory-modifying event.
 
 > [!key-claim]
 > [**Retrieval-as-Learning**:: The process of retrieving information is not merely a neutral readout of memory but an active learning event that modifies and strengthens the retrieved memory trace.]^verified
 
-The mechanistic explanation most strongly supported by evidence involves [[Elaborative Retrieval]]—the idea that successful retrieval activates related concepts and creates multiple retrieval routes, thereby enriching the memory representation. When a student retrieves "mitochondria produce ATP" from memory, they simultaneously activate associated concepts (cellular respiration, energy metabolism, organelle structure), weaving the target memory more deeply into their existing [[Schema]] network.
+The mechanistic explanation most strongly supported by evidence involves [[Elaborative-Retrieval]]—the idea that successful retrieval activates related concepts and creates multiple retrieval routes, thereby enriching the memory representation. When a student retrieves "mitochondria produce ATP" from memory, they simultaneously activate associated concepts (cellular respiration, energy metabolism, organelle structure), weaving the target memory more deeply into their existing [[Schema]] network.
 
 > [!evidence]
 > [[Roediger and Karpicke (2006)]] demonstrated that students who practiced retrieval retained approximately 50% more information after one week compared to students who spent equivalent time re-studying. Crucially, the re-study group predicted they would remember more—revealing a [[Metacognitive Illusion]] where fluent processing during study creates false confidence.^verified
@@ -1224,11 +1224,11 @@ The mechanistic explanation most strongly supported by evidence involves [[Elabo
 > [!connections-and-links]
 > ## 🔗 Knowledge Graph Integration
 >
-> **Parent Framework:** [[Desirable Difficulties]] — Testing effect exemplifies the broader principle that conditions challenging during learning enhance long-term retention
+> **Parent Framework:** [[Desirable-Difficulties]] — Testing effect exemplifies the broader principle that conditions challenging during learning enhance long-term retention
 >
-> **Mechanistic Foundation:** [[Elaborative Retrieval]], [[Schema Theory]] — Explains *why* retrieval strengthens memory
+> **Mechanistic Foundation:** [[Elaborative-Retrieval]], [[Schema-Theory]] — Explains *why* retrieval strengthens memory
 >
-> **Practical Application:** [[Spaced Repetition Systems]], [[Active Recall Methods]] — Implementation vehicles for testing effect
+> **Practical Application:** [[Spaced-Repetition-Systems]], [[Active Recall Methods]] — Implementation vehicles for testing effect
 >
 > **Metacognitive Implications:** [[Illusions of Competence]], [[Fluency Heuristic]] — Explains why learners underutilize this powerful technique
 
@@ -1247,16 +1247,16 @@ The mechanistic explanation most strongly supported by evidence involves [[Elabo
 ```markdown
 ## 📜 Historical Development
 
-The intellectual lineage of [[Cognitive Load Theory]] traces through several converging streams of twentieth-century psychology, though its crystallization as a unified framework owes primarily to the work of Australian educational psychologist [[John Sweller]] beginning in the 1980s. Understanding this history illuminates not merely the theory's origins but its fundamental orientation toward the practical problem of instructional design.
+The intellectual lineage of [[Cognitive-Load-Theory]] traces through several converging streams of twentieth-century psychology, though its crystallization as a unified framework owes primarily to the work of Australian educational psychologist [[John-Sweller]] beginning in the 1980s. Understanding this history illuminates not merely the theory's origins but its fundamental orientation toward the practical problem of instructional design.
 
 [**Historical-Context**:: CLT emerged from the intersection of information processing psychology and instructional design, seeking to translate laboratory findings about memory limitations into actionable principles for educators.]^established
 
-The foundational insight—that [[Working Memory]] possesses severe capacity limitations—predates Sweller's work by decades. [[George Miller]]'s legendary 1956 paper "The Magical Number Seven, Plus or Minus Two" established that humans could hold approximately seven discrete items in immediate memory, a finding that reverberated through cognitive science and set the stage for capacity-based theories of cognition. However, Miller's work remained largely descriptive; it characterized the limitation without developing systematic implications for how information should be structured for learning.
+The foundational insight—that [[Working-Memory]] possesses severe capacity limitations—predates Sweller's work by decades. [[George-Miller]]'s legendary 1956 paper "The Magical Number Seven, Plus or Minus Two" established that humans could hold approximately seven discrete items in immediate memory, a finding that reverberated through cognitive science and set the stage for capacity-based theories of cognition. However, Miller's work remained largely descriptive; it characterized the limitation without developing systematic implications for how information should be structured for learning.
 
 > [!key-claim]
 > [**Sweller's-Innovation**:: Sweller's contribution was not discovering working memory limitations but systematically deriving instructional principles from those limitations—transforming a descriptive finding into a prescriptive framework.]^established
 
-The transition from description to prescription required a crucial theoretical addition: the concept of [[Element Interactivity]]. Sweller recognized that working memory load depends not merely on the number of items but on the number of items that must be processed *simultaneously* due to their interdependence. Learning to recognize individual letters imposes low element interactivity—each letter can be learned independently. Learning grammatical syntax imposes high element interactivity—understanding how subjects relate to verbs to objects requires holding multiple elements in mind simultaneously while processing their relationships.
+The transition from description to prescription required a crucial theoretical addition: the concept of [[Element-Interactivity]]. Sweller recognized that working memory load depends not merely on the number of items but on the number of items that must be processed *simultaneously* due to their interdependence. Learning to recognize individual letters imposes low element interactivity—each letter can be learned independently. Learning grammatical syntax imposes high element interactivity—understanding how subjects relate to verbs to objects requires holding multiple elements in mind simultaneously while processing their relationships.
 
 > [!analogy]
 > Element interactivity resembles juggling versus carrying. A person might easily carry seven tennis balls in their arms (low interactivity—each ball is independent). But juggling seven balls demands qualitatively different cognitive coordination, as each ball's trajectory must be tracked relative to all others. Educational materials high in element interactivity are cognitively "juggled" rather than "carried."
@@ -1272,12 +1272,12 @@ This insight enabled Sweller to explain previously puzzling findings in educatio
 > [!evidence]
 > [**Split-Attention-Evidence**:: Chandler and Sweller (1992) demonstrated that students learning from integrated diagrams (labels embedded within visual) outperformed those learning from separated formats (diagram plus separate text) by 30-50% on transfer tasks, despite studying identical information content.]^verified
 >
-> This finding illustrates how [[Extraneous Load]] emerges from format rather than content—the separated format forced learners to mentally integrate information, consuming working memory resources that could otherwise support learning.
+> This finding illustrates how [[Extraneous-Load]] emerges from format rather than content—the separated format forced learners to mentally integrate information, consuming working memory resources that could otherwise support learning.
 
-The practical implications extend beyond diagram design to any situation where learners must mentally integrate information from multiple sources. Consider the traditional textbook format presenting a paragraph of explanation followed by an equation followed by a worked example. Even when the content is excellent, this format imposes [[Split-Attention Effect]] costs as learners shuttle between text, notation, and example, attempting to build coherent understanding from fragmented presentation.
+The practical implications extend beyond diagram design to any situation where learners must mentally integrate information from multiple sources. Consider the traditional textbook format presenting a paragraph of explanation followed by an equation followed by a worked example. Even when the content is excellent, this format imposes [[Split-Attention-Effect]] costs as learners shuttle between text, notation, and example, attempting to build coherent understanding from fragmented presentation.
 
 > [!counter-argument]
-> [**Expertise-Reversal-Caveat**:: The integrated format advantage reverses for expert learners, who find embedded labels redundant and distracting. This [[Expertise Reversal Effect]] reveals that optimal instructional design is not absolute but relative to learner knowledge.]^established
+> [**Expertise-Reversal-Caveat**:: The integrated format advantage reverses for expert learners, who find embedded labels redundant and distracting. This [[Expertise-Reversal-Effect]] reveals that optimal instructional design is not absolute but relative to learner knowledge.]^established
 >
 > This finding has profound implications: instructional materials cannot be universally optimized. What helps novices may hinder experts. Adaptive instruction that responds to growing expertise—gradually removing scaffolding—represents the theoretical ideal, though practical implementation remains challenging.
 
@@ -1505,7 +1505,7 @@ modified: 2024-12-22
 status: evergreen
 certainty: verified
 type: reference
-related: [[Transformer Architecture]], [[Few-Shot Learning]], [[Emergent Abilities]], [[Self-Consistency]], [[Tree of Thoughts]], [[Logical Reasoning]], [[Working Memory]]
+related: [[Transformer Architecture]], [[Few-Shot-Learning]], [[Emergent Abilities]], [[Self-Consistency]], [[Tree-of-Thoughts]], [[Logical Reasoning]], [[Working-Memory]]
 freshness:
   domain-volatility: high
   last-verified: 2024-12-22
@@ -1515,11 +1515,11 @@ freshness:
 # <span style='color: #FFC700;'>Chain-of-Thought Prompting: Intermediate Token Generation as Cognitive Scaffolding in Transformer-Based Reasoning</span>
 
 > [!abstract] Executive Overview
-> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason Wei]] and colleagues at [[Google Research]] in 2022, fundamentally altered understanding of [[Transformer Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[Working Memory]] theory and [[Cognitive Load Theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
+> <span style='color: #27FF00;'>**Chain-of-Thought (CoT) prompting**</span> represents a watershed advance in eliciting <span style='color: #FFC700;'>multi-step reasoning</span> from large language models by inducing the generation of <span style='color: #72FFF1;'>intermediate reasoning steps</span> before final answer production. This technique, introduced by [[Jason Wei]] and colleagues at [[Google Research]] in 2022, fundamentally altered understanding of [[Transformer Architecture]] capabilities by demonstrating that <span style='color: #27FF00;'>reasoning emerges as a scale-dependent property</span> when models are prompted to externalize their computational process through <span style='color: #72FFF1;'>sequential token generation</span>. The relationship between intermediate token production and <span style='color: #FF00DC;'>logical fallacy mitigation</span> reveals deep connections to [[Working-Memory]] theory and [[Cognitive-Load-Theory]], where explicit reasoning traces serve as both computational scaffolding and error-detection mechanisms. This analysis synthesizes empirical evidence, theoretical frameworks, and architectural considerations to illuminate how <span style='color: #FFC700;'>CoT prompting</span> transforms autoregressive language models into capable <span style='color: #27FF00;'>sequential reasoners</span>.
 
 ## 📜 Theoretical Foundations & Historical Context
 
-<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit Reasoning Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer Architecture]]. Prior to CoT, [[Large Language Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic Logic]], and [[Commonsense Reasoning]] chains showed minimal improvement despite massive parameter scaling.
+<span style='color: #FFC700;'>**Chain-of-Thought prompting**</span> emerged from the convergence of three intellectual streams: the [[Few-Shot-Learning]] paradigm pioneered by [[GPT-3]], cognitive science research on [[Explicit Reasoning Protocols]], and computational complexity theory addressing the <span style='color: #FF00DC;'>serial computation bottleneck</span> in [[Transformer Architecture]]. Prior to CoT, [[Large-Language-Models]] demonstrated remarkable fluency and knowledge retrieval but struggled catastrophically with <span style='color: #72FFF1;'>multi-step reasoning tasks</span> requiring systematic decomposition—arithmetic word problems, [[Symbolic Logic]], and [[Commonsense-Reasoning]] chains showed minimal improvement despite massive parameter scaling.
 
 [**Historical-Context**:: CoT prompting originated from observing that transformers trained on internet-scale data had encountered reasoning traces in their training corpus (mathematics solutions, tutorial explanations, proof derivations) but lacked explicit mechanisms to surface these patterns during inference.]^established
 
@@ -1548,7 +1548,7 @@ Recent theoretical work by [[Feng et al. (2024)]] demonstrates that <span style=
 The practical manifestation appears in the [[Attention Mechanism]]'s operation across reasoning chains. As the model generates each intermediate token, <span style='color: #72FFF1;'>self-attention</span> allows subsequent tokens to <span style='color: #FFC700;'>attend to all previous reasoning steps</span>, creating an information propagation pathway that mimics serial computation. Each token's hidden state $h_t$ incorporates attention-weighted combinations of all prior states $h_1, ..., h_{t-1}$, enabling cumulative reasoning where conclusions build upon intermediate inferences.
 
 > [!analogy] Working Memory Externalization
-> Consider how humans solve complex arithmetic mentally versus on paper. Mental arithmetic requires holding all intermediate values in limited [[Working Memory]], causing frequent errors and capacity constraints. Writing steps externally offloads these memory demands to physical substrate, dramatically improving accuracy. <span style='color: #27FF00;'>CoT prompting performs analogous externalization</span>: intermediate tokens function as <span style='color: #FFC700;'>external memory</span> where partial computations persist across the reasoning chain, accessible via attention mechanisms. The model's "working memory" (fixed-size hidden states) no longer must simultaneously hold all intermediate values—instead, they're serialized across the token sequence.
+> Consider how humans solve complex arithmetic mentally versus on paper. Mental arithmetic requires holding all intermediate values in limited [[Working-Memory]], causing frequent errors and capacity constraints. Writing steps externally offloads these memory demands to physical substrate, dramatically improving accuracy. <span style='color: #27FF00;'>CoT prompting performs analogous externalization</span>: intermediate tokens function as <span style='color: #FFC700;'>external memory</span> where partial computations persist across the reasoning chain, accessible via attention mechanisms. The model's "working memory" (fixed-size hidden states) no longer must simultaneously hold all intermediate values—instead, they're serialized across the token sequence.
 
 The [[Self-Attention]] formulation makes this explicit. For token position $i$ attending to position $j$:
 
@@ -1709,7 +1709,7 @@ Examining <span style='color: #FFC700;'>per-problem analysis</span> reveals that
 
 ### <span style='color: #9E6CD3;'>Commonsense Reasoning & Multi-Hop Inference</span>
 
-[[Commonsense Reasoning]] benchmarks like [[StrategyQA]] (requiring implicit knowledge and multi-hop inference) showed similar patterns. On StrategyQA, PaLM-540B with CoT achieved 76.4% (versus 69.4% without CoT)—modest absolute gains but consistent with the hypothesis that <span style='color: #FFC700;'>explicit reasoning paths</span> help models navigate complex inference chains.
+[[Commonsense-Reasoning]] benchmarks like [[StrategyQA]] (requiring implicit knowledge and multi-hop inference) showed similar patterns. On StrategyQA, PaLM-540B with CoT achieved 76.4% (versus 69.4% without CoT)—modest absolute gains but consistent with the hypothesis that <span style='color: #FFC700;'>explicit reasoning paths</span> help models navigate complex inference chains.
 
 [**Commonsense-CoT-Pattern**:: Across commonsense benchmarks (StrategyQA, CommonsenseQA, ARC-Challenge), CoT provides 5-10% absolute accuracy improvements, smaller than arithmetic gains but consistent—suggesting commonsense reasoning involves different cognitive demands where explicit steps provide moderate rather than transformative benefit.]^established
 
@@ -1766,25 +1766,25 @@ The requirement for <span style='color: #FF00DC;'>100B+ parameters</span> create
 > ## 🔗 Integration with Existing Knowledge
 >
 > **Theoretical Frameworks:**  
-> [[Cognitive Load Theory]] — CoT externalization parallels working memory offloading in human cognition  
+> [[Cognitive-Load-Theory]] — CoT externalization parallels working memory offloading in human cognition  
 > [[Attention Mechanism]] — Self-attention over reasoning chains implements message-passing computation  
 > [[Circuit Complexity Theory]] — Formalizes how token generation converts depth-limited parallel processing into serial computation  
 > [[Mechanistic Interpretability]] — Provides tools for analyzing what neural circuits activate during reasoning steps
 >
 > **Adjacent Domains:**  
-> [[Prompt Engineering]] — CoT represents foundational technique underlying advanced prompting strategies  
-> [[Few-Shot Learning]] — CoT evolved from few-shot paradigm by adding reasoning trace exemplars  
-> [[Ensemble Methods]] — Self-Consistency applies ensemble principles through stochastic sampling  
+> [[Prompt-Engineering]] — CoT represents foundational technique underlying advanced prompting strategies  
+> [[Few-Shot-Learning]] — CoT evolved from few-shot paradigm by adding reasoning trace exemplars  
+> [[Ensemble-Methods]] — Self-Consistency applies ensemble principles through stochastic sampling  
 > [[AI Safety]] — Reasoning transparency via CoT relates to interpretability and alignment research
 >
 > **Foundational Prerequisites:**  
 > [[Transformer Architecture]] — Understanding self-attention and autoregressive generation essential for CoT mechanism  
 > [[Emergent Abilities in LLMs]] — Scale-dependent CoT emergence exemplifies broader emergence phenomena  
-> [[Working Memory]] — Human cognitive architecture provides analogy for understanding CoT benefits
+> [[Working-Memory]] — Human cognitive architecture provides analogy for understanding CoT benefits
 >
 > **Practical Applications:**  
 > [[Mathematical Problem Solving]] — Primary application domain showing 40-60% accuracy gains  
-> [[Scientific Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
+> [[Scientific-Reasoning]] — Medical diagnosis, causal inference benefit from explicit reasoning traces  
 > [[Code Generation]] — Programming tasks benefit from step-by-step algorithmic decomposition  
 > [[Educational Technology]] — CoT enables tutoring systems that demonstrate solution processes
 

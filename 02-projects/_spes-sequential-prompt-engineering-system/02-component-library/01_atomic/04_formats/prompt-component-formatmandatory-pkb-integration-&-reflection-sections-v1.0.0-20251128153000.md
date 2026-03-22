@@ -54,7 +54,7 @@ After completing the main content exposition, you MUST include:
 > - Practical applications connecting theory to implemented systems (e.g., PKM workflows, cognitive tools)
 > - Emergent insights that arise from juxtaposing this concept with existing knowledge
 >
-> Format each connection as: **[[Concept Name]]** followed by explanation of the relationship.
+> Format each connection as: **[[Concept-Name]]** followed by explanation of the relationship.
 > Aim for 4-8 substantive connections that genuinely enrich understanding.
 
 ### Section 2: Synthesis & Reflection (Required)
@@ -112,10 +112,10 @@ Generate a test report to confirm both sections appear with appropriate depth an
 > [!connections-and-links]
 > **Integration with Existing Cognitive Frameworks**
 >
-> This concept of [[Working Memory Constraints]] directly extends understanding of [[Cognitive Load Theory]], 
+> This concept of [[Working Memory Constraints]] directly extends understanding of [[Cognitive-Load-Theory]], 
 > revealing the mechanistic reason why extraneous load impairs learning—when working memory slots are consumed 
 > by irrelevant processing, insufficient capacity remains for schema construction. This relationship suggests 
-> that [[Germane Load]] isn't merely "good" cognitive load but specifically the allocation of working memory 
+> that [[Germane-Load]] isn't merely "good" cognitive load but specifically the allocation of working memory 
 > resources to schema-building processes.
 >
 > The connection to [[Chunking]] becomes particularly illuminating—chunking functions as a working memory 
@@ -152,7 +152,7 @@ Generate a test report to confirm both sections appear with appropriate depth an
 
 ### ❌ Bad: Superficial Connections
 ```markdown
-> This connects to [[Self-Determination Theory]].
+> This connects to [[Self-Determination-Theory]].
 > It also relates to [[Motivation]].
 > See also [[Learning]].
 ```

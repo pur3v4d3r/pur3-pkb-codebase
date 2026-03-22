@@ -26,7 +26,7 @@ Aliases: [[PE]], [[LLM Prompting]], [[AI Communication]], [[Prompt Design]], [[P
 
 > [!abstract]
 > **Executive Overview**
-> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal Knowledge Base]] (PKB) systems like [[Obsidian]].
+> Prompt engineering encompasses a wide range of skills and techniques for interacting with and developing applications using large language models, functioning as both a practical discipline for designing robust prompting techniques and a research field for improving LLM capabilities on complex tasks. This comprehensive reference synthesizes the theoretical foundations, tactical methodologies, strategic frameworks, and practical applications of prompt engineering, with specialized attention to integration within [[Personal-Knowledge-Base]] (PKB) systems like [[Obsidian]].
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -52,7 +52,7 @@ Aliases: [[PE]], [[LLM Prompting]], [[AI Communication]], [[Prompt Design]], [[P
 ## 1️⃣ ⚙️ Foundational Concepts
 
 > [!definition]
-> - **Key-Term**:: [[Prompt Engineering]]
+> - **Key-Term**:: [[Prompt-Engineering]]
 > - **Definition**:: A prompt engineering technique that enhances the output of large language models, particularly for complex tasks involving multistep reasoning, by refining inputs (prompts) to achieve the most accurate model outputs through systematic design and iteration.
 
 ### The Conceptual Foundation of Prompt Engineering
@@ -97,7 +97,7 @@ Understanding this probabilistic nature illuminates why prompt engineering can n
 
 ### Historical Evolution and Current Landscape
 
-The trajectory of prompt engineering mirrors the broader evolution of large language models themselves. Early language models required extensive fine-tuning for specific tasks, but the emergence of [[few-shot learning]] and [[zero-shot learning]] capabilities in models like [[GPT-3]] demonstrated that carefully structured prompts could elicit sophisticated behaviors without additional training. This changed with the proposal of advanced prompting techniques such as chain of thought prompting and self-consistency, which showed that LLMs are more than capable of reasoning and solving complex, multi-step problems when properly prompted to fully leverage these abilities.
+The trajectory of prompt engineering mirrors the broader evolution of large language models themselves. Early language models required extensive fine-tuning for specific tasks, but the emergence of [[Few-Shot-Learning]] and [[zero-shot learning]] capabilities in models like [[GPT-3]] demonstrated that carefully structured prompts could elicit sophisticated behaviors without additional training. This changed with the proposal of advanced prompting techniques such as chain of thought prompting and self-consistency, which showed that LLMs are more than capable of reasoning and solving complex, multi-step problems when properly prompted to fully leverage these abilities.
 
 The field continues to evolve rapidly, with new techniques emerging continuously. Recent industry research from July 2025 shows that we now have actual research studies on what makes for good prompts rather than relying on influencer advice, enabling evidence-based prompt engineering practices. This maturation from heuristic experimentation to empirically grounded methodology represents a significant evolution in the discipline, enabling practitioners to make informed decisions based on measured outcomes rather than anecdotal evidence.
 
@@ -341,7 +341,7 @@ Design considerations for multi-step workflows include: **Error propagation**: H
 ## 5️⃣ 📚 PKB Integration & Knowledge Management
 
 > [!definition]
-> - **Key-Term**:: [[Personal Knowledge Base]] (PKB)
+> - **Key-Term**:: [[Personal-Knowledge-Base]] (PKB)
 > - **Definition**:: A personalized system that captures, stores, and organizes data systematically according to individual needs, goals, and interests, designed as a personal assistant that keeps track of relevant data and knows exactly where each bit of information is stored.
 
 ### Prompt Engineering for Knowledge Work

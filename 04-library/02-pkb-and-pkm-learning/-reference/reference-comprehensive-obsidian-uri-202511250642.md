@@ -76,19 +76,19 @@ link-related:
 > 7. Advanced automation possibilities
 > 8. Cross-application integration
 > **Wiki-Link Opportunities:**
-> - [[obsidian]]
+> - [[Obsidian]]
 > - [[URI Scheme]]
 > - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]
 > - [[Zettelkasten]]
-> - [[quickadd]]
+> - [[QuickAdd]]
 > - [[Templater]]
-> - [[dataview]]
-> - [[Cognitive Load Theory]]
+> - [[Dataview]]
+> - [[Cognitive-Load-Theory]]
 > - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]
 > - [[Active Recall]]
 > - [[Metacognition]]
-> - [[Self-Regulated Learning]]
-> - [[Automation]]
+> - [[Self-Regulated-Learning]]
+> - [[automation]]
 > - [[Deep Linking]]
 > - [[Cross-Application Integration]]
 > - [[Workflow Optimization]]
@@ -131,7 +131,7 @@ aliases: [Obsidian URL Scheme, Obsidian Deep Links, obsidian:// Protocol, Obsidi
 
 > [!abstract]
 > **Executive Overview**
-> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.
+> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working-Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -187,9 +187,9 @@ obsidian://[action]?[param1]=[value1]&[param2]=[value2]
 
 ### Why URIs Matter for Knowledge Work
 
-The cognitive significance of URI-based automation lies in [[Cognitive Load Theory]]:
+The cognitive significance of URI-based automation lies in [[Cognitive-Load-Theory]]:
 
-1. **Reduced Extraneous Load**: Every manual step (open Obsidian → navigate folder → create note → format metadata) consumes [[Working Memory]] capacity that should be reserved for thinking
+1. **Reduced Extraneous Load**: Every manual step (open Obsidian → navigate folder → create note → format metadata) consumes [[Working-Memory]] capacity that should be reserved for thinking
 2. **Increased Automaticity**: Repeated URI triggers become habitual, moving from conscious effort to automatic behavior
 3. **Context Preservation**: Capture happens in-context without disrupting current mental state
 4. **Environmental Triggering**: External cues (scheduled tasks, location-based automation) can prompt knowledge management behaviors
@@ -338,7 +338,7 @@ obsidian://daily?vault=[vault]
 
 > [!insight]
 > **Cognitive Significance**
-> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.
+> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working-Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.
 
 ---
 
@@ -434,11 +434,11 @@ obsidian://adv-uri?vault=10_pur3v4d3r's-vault&filepath=my-note&commandid=workspa
 
 > [!helpful-tip]
 > **Plugin Command Integration**
-> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.
+> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[QuickAdd]] macros, [[Dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.
 
 ### Frontmatter Manipulation
 
-Advanced URI can read and edit [[YAML Frontmatter]] properties:
+Advanced URI can read and edit [[YAML-Frontmatter]] properties:
 
 ```
 obsidian://adv-uri?vault=vault&filepath=note&frontmatterkey=status&data=completed
@@ -560,14 +560,14 @@ For system-wide hotkeys that capture to Obsidian:
 > [!the-philosophy]
 > **Underlying Philosophy**
 > 
-> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous Cognitive Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
+> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous-Cognitive-Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.
 
 ## 6.1 Aligning with Working Memory Constraints
 
 > [!analogy]
 > **The Cognitive Friction Problem**
 >
-> Imagine your [[Working Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:
+> Imagine your [[Working-Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:
 > 
 > 1. Clear mental space to remember the capture intention
 > 2. Context-switch to Obsidian (losing current train of thought)
@@ -614,11 +614,11 @@ This removes the friction of remembering to review—the system prompts you.
 > 2. **Performance Phase** (during session): Hotkeys enable rapid atomic note capture
 > 3. **Reflection Phase** (session end): Scheduled URI opens reflection template
 >
-> This externalizes the [[Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
+> This externalizes the [[Self-Regulated-Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.
 
 ## 6.5 Reducing Decision Fatigue
 
-Every "where should I save this?" decision consumes [[Executive Function]] resources. URI automation with predefined destinations eliminates these micro-decisions:
+Every "where should I save this?" decision consumes [[Executive-Function]] resources. URI automation with predefined destinations eliminates these micro-decisions:
 
 | Content Type | Automated Destination |
 |--------------|----------------------|
@@ -633,7 +633,7 @@ Every "where should I save this?" decision consumes [[Executive Function]] resou
 
 ## 7.1 QuickAdd Integration
 
-[[quickadd]] choices can be launched from external scripts or apps through the use of the `obsidian://quickadd` URI. All parameter names and values must be properly URL encoded to work.
+[[QuickAdd]] choices can be launched from external scripts or apps through the use of the `obsidian://quickadd` URI. All parameter names and values must be properly URL encoded to work.
 
 **Syntax:**
 ```

@@ -14,7 +14,7 @@ summary: The Feynman Technique is a four-step process developed by Richard Feynm
 ---
 
 ## 🔗 Connections
-- [[Richard Feynman]]
+- [[Richard-Feynman]]
 - [[Active Recall]]
 - [[Learning Strategies]]
 - [[Deep Understanding]]
@@ -71,7 +71,7 @@ By following these steps, you move beyond rote memorization and achieve a profou
 [[Integrated Review System's for Note Taking]]
 [[Note-Taking for Different Subjects and Contexts]]
 [[Outline for Planning Research]]
-[[Progressive Summarization]]
+[[Progressive-Summarization]]
 [[Source Evaluation - A Three Tiered Approach]]
 [[Successful Educational Research Timeline]]
 [[The Main Goal of My Notes]]

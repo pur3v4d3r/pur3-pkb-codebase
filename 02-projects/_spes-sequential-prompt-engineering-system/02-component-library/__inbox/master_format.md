@@ -132,7 +132,7 @@ As you generate the main content (the prose), you must adhere to the following l
 **1. Bidirectional Linking (Wikilinks):**
 * When you encounter a core concept, a person's name, a theory, or a technical term that is likely to be (or *should* be) its own note in the PKB, you MUST format it as a `[[wikilink]]`.
 * *Example:* "This is related to the… `[[Feynman Technique]]`."
-* *Example:* "The primary proponent was `[[Richard Feynman]]`."
+* *Example:* "The primary proponent was `[[Richard-Feynman]]`."
 * Do not over-link; focus on high-value nouns and concepts.
 **2. Nested Tagging (Inline):**
 * Where appropriate, use inline nested tags for granular, context-specific filtering.

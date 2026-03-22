@@ -51,7 +51,7 @@ link-related:
 
 > [!abstract]
 > **Executive Overview**
-> This reference document defines a comprehensive system for leveraging [[CLAUDE|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal Knowledge Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
+> This reference document defines a comprehensive system for leveraging [[CLAUDE|Claude Desktop]] as an intelligent Prompt Component Librarian within an [[Obsidian]] [[Personal-Knowledge-Base]]. It establishes the theoretical framework, technical architecture, and operational workflows for creating, organizing, maintaining, and deploying reusable prompt components as structured knowledge artifacts. This system transforms prompt engineering from an ad-hoc practice into a sustainable, scalable knowledge management discipline that grows in value over time.
 
 > [!how-to-use-this]
 > **Navigation Guide**
@@ -75,15 +75,15 @@ link-related:
 
 > [!definition]
 > - **Key-Term**: [[Prompt Component Librarian]]
-> - **Definition**: A systematic role where an AI assistant (specifically [[CLAUDE]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal Knowledge Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
+> - **Definition**: A systematic role where an AI assistant (specifically [[CLAUDE]]) functions as an intelligent curator, indexer, and retrieval system for modular, reusable prompt engineering artifacts stored within a [[Personal-Knowledge-Base]]. The librarian doesn't just store components—it understands their semantic relationships, maintains their metadata, suggests appropriate components for specific tasks, and facilitates their composition into complete prompt systems.
 
 ### The Evolution from Ad-Hoc Prompting to Component-Based Systems
 
-The traditional approach to [[Prompt Engineering]] treats each interaction as an isolated event. Users craft prompts from scratch, often reinventing solutions to recurring problems, maintaining no systematic record of what works, and losing valuable prompt patterns when they close a conversation. This approach suffers from three critical limitations: knowledge loss (effective prompts disappear after use), inconsistency (similar tasks receive different prompt strategies), and scalability failure (complexity grows linearly with each new use case).
+The traditional approach to [[Prompt-Engineering]] treats each interaction as an isolated event. Users craft prompts from scratch, often reinventing solutions to recurring problems, maintaining no systematic record of what works, and losing valuable prompt patterns when they close a conversation. This approach suffers from three critical limitations: knowledge loss (effective prompts disappear after use), inconsistency (similar tasks receive different prompt strategies), and scalability failure (complexity grows linearly with each new use case).
 
-Component-based prompt engineering represents a paradigm shift toward treating prompts as reusable knowledge artifacts. Just as software engineers build applications from tested, modular components rather than writing monolithic code, prompt engineers can construct sophisticated AI interactions by composing well-defined, version-controlled prompt modules. Each component encapsulates a specific prompting pattern, technique, or instruction set that has proven effective. These components become permanent fixtures in your [[Knowledge Graph]], accumulating value through refinement, documentation, and cross-referencing.
+Component-based prompt engineering represents a paradigm shift toward treating prompts as reusable knowledge artifacts. Just as software engineers build applications from tested, modular components rather than writing monolithic code, prompt engineers can construct sophisticated AI interactions by composing well-defined, version-controlled prompt modules. Each component encapsulates a specific prompting pattern, technique, or instruction set that has proven effective. These components become permanent fixtures in your [[Knowledge-Graph]], accumulating value through refinement, documentation, and cross-referencing.
 
-The [[Personal Knowledge Base]] provides the ideal substrate for this transformation. Your [[Obsidian vault]] already serves as a second brain for capturing insights, building connections, and developing expertise. By extending this system to encompass prompt components, you create a living library where each prompt module participates in the same [[Zettelkasten]] principles that govern your other notes: atomicity (each component has one clear purpose), connectivity (components link to related concepts and other components), and permanence (components improve over time rather than being discarded).
+The [[Personal-Knowledge-Base]] provides the ideal substrate for this transformation. Your [[Obsidian vault]] already serves as a second brain for capturing insights, building connections, and developing expertise. By extending this system to encompass prompt components, you create a living library where each prompt module participates in the same [[Zettelkasten]] principles that govern your other notes: atomicity (each component has one clear purpose), connectivity (components link to related concepts and other components), and permanence (components improve over time rather than being discarded).
 
 > [!key-claim]
 > **Central Principle**
@@ -91,7 +91,7 @@ The [[Personal Knowledge Base]] provides the ideal substrate for this transforma
 
 ### Why Claude Desktop as Librarian?
 
-[[CLAUDE|Claude Desktop]] possesses unique characteristics that make it exceptionally well-suited for the librarian role. Unlike web-based Claude, the desktop application can integrate with your local file system through [[Model-Context-Protocol]] (MCP) servers, enabling it to directly read from and potentially write to your [[Obsidian vault]]. This creates a closed-loop system where Claude can browse your prompt component library, understand the relationships between components through your [[Knowledge Graph]] structure, and suggest compositions based on semantic understanding rather than keyword matching.
+[[CLAUDE|Claude Desktop]] possesses unique characteristics that make it exceptionally well-suited for the librarian role. Unlike web-based Claude, the desktop application can integrate with your local file system through [[Model-Context-Protocol]] (MCP) servers, enabling it to directly read from and potentially write to your [[Obsidian vault]]. This creates a closed-loop system where Claude can browse your prompt component library, understand the relationships between components through your [[Knowledge-Graph]] structure, and suggest compositions based on semantic understanding rather than keyword matching.
 
 Claude's [[extended context window]] (up to 200,000 tokens) allows it to maintain awareness of multiple prompt components simultaneously. When you're building a complex prompt system, Claude can hold the contents of dozens of component files in working memory, identifying potential conflicts, suggesting optimal orderings, and even detecting when you're about to reinvent a component that already exists in your library. This contextual awareness transforms prompt composition from manual assembly into intelligent orchestration.
 
@@ -139,7 +139,7 @@ The librarian system makes component-based prompting practical. Without intellig
 
 ### Claude Desktop Capabilities & Integration Points
 
-[[Claude Desktop]] operates as a native application on macOS and Windows, providing capabilities beyond the web interface. The most critical capability for the librarian role is local file system access through [[Model-Context-Protocol]] (MCP) servers. MCP is Anthropic's standardized protocol for extending Claude's capabilities through custom integrations. An MCP server acts as a bridge between Claude and external systems—in this case, your [[Obsidian vault]].
+[[Claude-Desktop]] operates as a native application on macOS and Windows, providing capabilities beyond the web interface. The most critical capability for the librarian role is local file system access through [[Model-Context-Protocol]] (MCP) servers. MCP is Anthropic's standardized protocol for extending Claude's capabilities through custom integrations. An MCP server acts as a bridge between Claude and external systems—in this case, your [[Obsidian vault]].
 
 The desktop application maintains a configuration file (`claude_desktop_config.json` on macOS at `~/Library/Application Support/Claude/`, on Windows at `%APPDATA%/Claude/`) where MCP servers are registered. When properly configured, Claude gains tool access to read files, list directory contents, and search within files. This transforms Claude from a conversational interface that relies on you copying and pasting content into an active agent that can directly explore your vault structure.
 
@@ -214,7 +214,7 @@ ObsidianVault/
 
 This structure implements [[separation of concerns]] at the directory level. Core components (stored in `Core/`) represent foundational building blocks that apply across domains—role definitions, task specifications, constraint patterns, and output format specifications. These components have high reuse potential and should be generic enough to apply in multiple contexts.
 
-Technique components (in `Techniques/`) encode specific [[Prompt Engineering Patterns]] like [[Chain-of-Thought]], [[self-consistency checking]], [[few-shot learning]], or [[tree-of-thoughts exploration]]. These components describe *how* Claude should approach a problem rather than *what* problem to solve. They're methodology-focused and can combine with various task components.
+Technique components (in `Techniques/`) encode specific [[Prompt Engineering Patterns]] like [[Chain-of-Thought]], [[self-consistency checking]], [[Few-Shot-Learning]], or [[tree-of-thoughts exploration]]. These components describe *how* Claude should approach a problem rather than *what* problem to solve. They're methodology-focused and can combine with various task components.
 
 Domain-specific components (in `Domain-Specific/`) contain specialized knowledge or instructions relevant to particular fields. A data analysis component might include specific statistical terminology, preferred visualization libraries, or domain conventions. A creative writing component might encode genre conventions, stylistic guidelines, or narrative structures. These components have lower general reuse but are invaluable within their domains.
 
@@ -235,7 +235,7 @@ Compositions (in `Compositions/`) represent complete, tested combinations of com
 
 ### Metadata Schema for Components
 
-Each component file should implement a consistent [[YAML Frontmatter]] metadata schema. Comprehensive metadata transforms components from isolated files into nodes in a queryable knowledge graph. The metadata enables [[Dataview]] queries, supports [[Templater]] automation, facilitates version tracking, and provides Claude with structured information for component selection.
+Each component file should implement a consistent [[YAML-Frontmatter]] metadata schema. Comprehensive metadata transforms components from isolated files into nodes in a queryable knowledge graph. The metadata enables [[Dataview]] queries, supports [[Templater]] automation, facilitates version tracking, and provides Claude with structured information for component selection.
 
 A robust metadata schema includes these fields:
 
@@ -268,7 +268,7 @@ deprecates: [[Core-Role-Technical-Writer-v1]]
 
 This metadata structure provides multiple access paths into your component library. Claude can search by `component_type` to find all role definitions, filter by `domain` to show only data analysis components, check `status` to avoid suggesting experimental components in production workflows, examine `dependencies` to ensure required components are available, consult `incompatible_with` to prevent problematic combinations, and review `usage_count` and `effectiveness_rating` to prioritize proven components.
 
-The `related_components` field creates explicit links in your [[Knowledge Graph]], allowing Claude to suggest logical next steps ("You've selected the Technical Writer role; users typically pair this with the API Documentation task and Markdown Documentation output format—would you like me to include those components?"). The `deprecates` field maintains historical continuity, ensuring that when Claude encounters references to older components, it can suggest upgraded alternatives.
+The `related_components` field creates explicit links in your [[Knowledge-Graph]], allowing Claude to suggest logical next steps ("You've selected the Technical Writer role; users typically pair this with the API Documentation task and Markdown Documentation output format—would you like me to include those components?"). The `deprecates` field maintains historical continuity, ensuring that when Claude encounters references to older components, it can suggest upgraded alternatives.
 
 > [!quick-reference]
 > **Essential Metadata Fields**
@@ -600,7 +600,7 @@ An alternative workflow uses [[Templater]] and [[component-exemplar-quickadd-plu
 
 For frequently-used combinations, create saved compositions that become one-click prompt starters. A "Standard Technical Documentation" composition might be a single file that includes all necessary components already assembled and ready for deployment. When you need technical documentation, you simply reference this composition rather than assembling from atomics every time.
 
-Integration also means connecting your component library to your broader [[Personal Knowledge Base]]. Components should link to domain notes (a [[Data Visualization]] component links to your [[Data Visualization MOC]]), components should reference example outputs (showing what they produce), and components should participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] system if you use one (for components you're trying to internalize).
+Integration also means connecting your component library to your broader [[Personal-Knowledge-Base]]. Components should link to domain notes (a [[Data Visualization]] component links to your [[Data Visualization MOC]]), components should reference example outputs (showing what they produce), and components should participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] system if you use one (for components you're trying to internalize).
 
 > [!tip]
 > **Friction Reduction Strategy**
@@ -808,11 +808,11 @@ Claude can maintain much of the original structure while adapting specific eleme
 
 ### Cross-Library Integration & Knowledge Graph Enhancement
 
-Your prompt component library doesn't exist in isolation—it's part of your larger [[Personal Knowledge Base]]. Advanced usage integrates components deeply into your knowledge graph, creating bidirectional relationships that enhance both the components and your broader knowledge system.
+Your prompt component library doesn't exist in isolation—it's part of your larger [[Personal-Knowledge-Base]]. Advanced usage integrates components deeply into your knowledge graph, creating bidirectional relationships that enhance both the components and your broader knowledge system.
 
 **Concept Linking** embeds [[wiki-links]] within component content that point to relevant concept notes in your PKB. A [[Machine Learning]] technique component might link to your [[Machine Learning MOC]], your notes on [[Supervised Learning]], [[Overfitting]], and [[Model Evaluation]]. These links serve multiple purposes: they provide context for understanding the component (someone unfamiliar with machine learning can follow links to learn), they surface the component when you're working on related concepts (your ML notes show backlinks to ML-related prompt components), and they integrate components into your broader learning and reference system.
 
-This integration means prompt components aren't just tools—they're knowledge artifacts that participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Progressive Summarization]], and [[Knowledge Synthesis]] practices. When you review your ML notes, you're reminded of your ML-related prompt components. When you create new ML content, you consider whether you should extract reusable patterns into prompt components.
+This integration means prompt components aren't just tools—they're knowledge artifacts that participate in your [[03_notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], [[Progressive-Summarization]], and [[Knowledge Synthesis]] practices. When you review your ML notes, you're reminded of your ML-related prompt components. When you create new ML content, you consider whether you should extract reusable patterns into prompt components.
 
 **Example Backlinks** connect components to actual examples of their usage. Each time you create a significant document, analysis, or output using a component, add a link from the output back to the components that generated it. Your component notes then show backlinks to all the work products they've contributed to. This creates a portfolio effect where components accumulate evidence of their utility.
 
